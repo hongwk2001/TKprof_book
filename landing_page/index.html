@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Secret Garden - Modernized Audiobook Series</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="lang-en">
+
+    <header>
+        <div class="container">
+            <a href="#" class="logo">TKPROF<span>.AI</span></a>
+            <div class="lang-selector">
+                <button class="lang-btn active" onclick="setLanguage('en')">English</button>
+                <button class="lang-btn" onclick="setLanguage('kr')">한국어</button>
+            </div>
+        </div>
+    </header>
+
+    <main class="container">
+        <!-- Hero Section -->
+        <section class="hero">
+            <!-- English Hero -->
+            <div data-lang-content="en">
+                <span class="hero-tag">Classic Novels Reimagined</span>
+                <h1>The Secret Garden</h1>
+                <p>Improve your vocabulary and listening comprehension with Frances Hodgson Burnett's 1911 masterpiece—fully modernized for ESL learners, students, and casual readers. No archaic Victorian grammar. Just beautiful, modern language.</p>
+            </div>
+            
+            <!-- Korean Hero -->
+            <div data-lang-content="kr">
+                <span class="hero-tag">고전 소설의 재탄생</span>
+                <h1>비밀의 화원</h1>
+                <p>프랜시스 호지슨 버넷의 1911년 명작을 AI 기술을 활용한 2026년식 새 번역으로 감상해 보세요! 옛스러운 번역문 대신, 오늘날의 자연스러운 일상 한국어로 고전 문학의 깊은 감동을 고스란히 느낄 수 있습니다.</p>
+            </div>
+        </section>
+
+        <!-- Main Content Grid -->
+        <div class="main-grid">
+            <!-- Left Panel: Video & Story Info -->
+            <section>
+                <div class="card">
+                    <div data-lang-content="en">
+                        <h2>Listen to Chapter 1</h2>
+                        <p style="color: var(--text-secondary); margin-bottom: 1.5rem;">Read along with the short-phrase captions on screen. The audio features high-quality expressive voices configured for conversational clarity.</p>
+                    </div>
+                    <div data-lang-content="kr">
+                        <h2>제1장 오디오북 감상하기</h2>
+                        <p style="color: var(--text-secondary); margin-bottom: 1.5rem;">화면의 자연스러운 한글 자막을 보며 따라 읽어보세요. 자연스럽게 낭독하는 전문 인공지능 오디오 음질을 느껴보실 수 있습니다.</p>
+                    </div>
+
+                    <!-- Video Selector Tabs -->
+                    <div class="video-tabs">
+                        <button class="tab-btn active" id="btn-video-en" onclick="setVideo('en')">English Version</button>
+                        <button class="tab-btn" id="btn-video-kr" onclick="setVideo('kr')">한국어 낭독판</button>
+                    </div>
+
+                    <!-- English Video Embed -->
+                    <div class="video-wrapper" id="player-en">
+                        <iframe src="https://www.youtube.com/embed/tCKtpYQ7-p8" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+
+                    <!-- Korean Video Embed -->
+                    <div class="video-wrapper" id="player-kr" style="display: none;">
+                        <iframe src="https://www.youtube.com/embed/iHWPzGBPsqE" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div data-lang-content="en">
+                        <h2>About this Project</h2>
+                        <p style="margin-bottom: 1rem;">Classic literature is one of the best ways to acquire new language skills. However, archaic words and complex syntax from the 19th and early 20th centuries often require readers to lookup words constantly, breaking the flow of reading.</p>
+                        <p>Our modernization process systematically updates archaic structures while preserving 100% of the original story details, descriptions, character voices, and emotional depth. It is ideal for <strong>shadowing practice, reading comprehension, and active listening</strong>.</p>
+                    </div>
+                    <div data-lang-content="kr">
+                        <h2>프로젝트 소개</h2>
+                        <p style="margin-bottom: 1rem;">고전 소설을 원문으로 읽는 것은 훌륭한 독서 경험이지만, 100여 년 전의 고어와 예스러운 표현들은 문맥의 흐름을 방해하곤 합니다.</p>
+                        <p>이번 2026년형 현대식 번역 프로젝트는 원작 특유의 서정적인 묘사와 섬세한 캐릭터 감정선은 그대로 보존하면서, 어색한 어투와 표현을 현대 한국어 규범에 맞게 매끄럽게 재번역하였습니다.</p>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Right Panel: Feedback Form & Signup -->
+            <aside>
+                <div class="card">
+                    <div id="success-alert" class="success-msg"></div>
+
+                    <!-- 
+                      Alternative Feedback Channel (Google Forms):
+                      If we want to link directly to Google Forms instead of using the local PHP mail handler:
+                      - English: https://docs.google.com/forms/d/e/1FAIpQLScr2p4hvlgZebJeIhwEpOIGK_-44UZav6y90GKUXWgCObKz1w/viewform?usp=sharing&ouid=107107612521996613936
+                      - Korean: https://docs.google.com/forms/d/e/1FAIpQLSeVs0jefFqJyWl9xuOD8ssEzsPXlwRdk-YLtdUouE7Sc7PDJA/viewform?usp=header
+                    -->
+                    <!-- Feedback Form targeting local PHP handler -->
+                    <form id="feedback-form" action="send_feedback.php" method="POST">
+                        <input type="hidden" id="form-lang" name="submission_lang" value="en">
+                        <div data-lang-content="en">
+                            <h2>Join Chapter 2 & Feedback</h2>
+                            <p style="color: var(--text-secondary); margin-bottom: 1.5rem; font-size: 0.95rem;">Help us build the next chapters! Let us know how you liked Chapter 1 and subscribe to get notified on subsequent chapter releases.</p>
+                            
+                            <div class="form-group">
+                                <label for="email">Email Address (Optional)</label>
+                                <input type="email" id="email" name="email" class="form-control" placeholder="you@example.com">
+                            </div>
+
+                            <div class="form-group">
+                                <label>How would you rate the modernization?</label>
+                                <div class="radio-group">
+                                    <label class="radio-label"><input type="radio" name="rating_en" value="Excellent (Clear & Easy)" checked> Clear & easy to understand</label>
+                                    <label class="radio-label"><input type="radio" name="rating_en" value="Good (Could be simpler)"> Good, but could be simpler</label>
+                                    <label class="radio-label"><input type="radio" name="rating_en" value="Hard (Too complex)"> Still too complex</label>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="price">How much would you be willing to pay for a full modernized classic audiobook?</label>
+                                <input type="text" id="price" name="price_willing_to_pay_en" class="form-control" placeholder="e.g. $4.99, $9.99">
+                            </div>
+
+                            <div class="form-group">
+                                <label for="comments">Suggestions / Comments</label>
+                                <textarea id="comments" name="comments_en" class="form-control" placeholder="What should we improve for Chapter 2?"></textarea>
+                            </div>
+
+                            <button type="submit" class="btn-primary">Submit Feedback</button>
+                        </div>
+
+                        <!-- Korean Form Content -->
+                        <div data-lang-content="kr">
+                            <h2>의견 보내기 & 다음 챕터 구독</h2>
+                            <p style="color: var(--text-secondary); margin-bottom: 1.5rem; font-size: 0.95rem;">다음 챕터 제작 소식을 가장 먼저 받아보고 싶으신가요? 이번 번역 및 낭독 품질에 대한 감상평을 보내주시면 큰 힘이 됩니다.</p>
+                            
+                            <div class="form-group">
+                                <label for="email-kr">이메일 주소 (선택 사항)</label>
+                                <input type="email" id="email-kr" name="email_kr" class="form-control" placeholder="example@email.com">
+                            </div>
+
+                            <div class="form-group">
+                                <label>번역 및 낭독의 만족도는 어떠셨나요?</label>
+                                <div class="radio-group">
+                                    <label class="radio-label"><input type="radio" name="rating_kr" value="매우 자연스러움" checked> 현대적인 톤과 음성이 매우 자연스러움</label>
+                                    <label class="radio-label"><input type="radio" name="rating_kr" value="다소 기계적임"> 대체로 좋으나 다소 기계적임</label>
+                                    <label class="radio-label"><input type="radio" name="rating_kr" value="개선 필요함"> 옛 번역체와 큰 차이를 못 느끼겠음</label>
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="price-kr">완판본 오디오북 구매를 위해 지불하실 용의가 있는 가격은 얼마인가요?</label>
+                                <input type="text" id="price-kr" name="price_willing_to_pay_kr" class="form-control" placeholder="예: 5,000원, 10,000원">
+                            </div>
+
+                            <div class="form-group">
+                                <label for="comments-kr">개선 사항 및 감상평</label>
+                                <textarea id="comments-kr" name="comments_kr" class="form-control" placeholder="제2장 제작팀에 남기고 싶으신 피드백을 적어주세요."></textarea>
+                            </div>
+
+                            <button type="submit" class="btn-primary">의견 제출하기</button>
+                        </div>
+                    </form>
+                </div>
+            </aside>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2026 TKPROF.AI & The First AI Company. All rights reserved.</p>
+            <p>Visit us at <a href="https://jigsawpuzzlehelper.com">jigsawpuzzlehelper.com</a></p>
+        </div>
+    </footer>
+
+    <script>
+        function setLanguage(lang) {
+            document.body.className = 'lang-' + lang;
+            
+            // Set language code in hidden input
+            const langInput = document.getElementById('form-lang');
+            if (langInput) {
+                langInput.value = lang;
+            }
+            
+            // Highlight language selector buttons
+            const buttons = document.querySelectorAll('.lang-selector .lang-btn');
+            buttons.forEach(btn => btn.classList.remove('active'));
+            if (lang === 'en') {
+                buttons[0].classList.add('active');
+            } else {
+                buttons[1].classList.add('active');
+            }
+        }
+
+        function setVideo(lang) {
+            const playerEn = document.getElementById('player-en');
+            const playerKr = document.getElementById('player-kr');
+            const btnEn = document.getElementById('btn-video-en');
+            const btnKr = document.getElementById('btn-video-kr');
+
+            if (lang === 'en') {
+                playerEn.style.display = 'block';
+                playerKr.style.display = 'none';
+                btnEn.classList.add('active');
+                btnKr.classList.remove('active');
+            } else {
+                playerEn.style.display = 'none';
+                playerKr.style.display = 'block';
+                btnEn.classList.remove('active');
+                btnKr.classList.add('active');
+            }
+        }
+
+        // Check for URL parameters on load
+        window.addEventListener('DOMContentLoaded', () => {
+            const urlParams = new URLSearchParams(window.location.search);
+            const langParam = urlParams.get('lang');
+            if (langParam === 'kr' || langParam === 'en') {
+                setLanguage(langParam);
+                setVideo(langParam);
+            }
+            if (urlParams.get('submitted') === 'true') {
+                const alertEl = document.getElementById('success-alert');
+                alertEl.style.display = 'block';
+                const isKr = document.body.classList.contains('lang-kr');
+                if (isKr) {
+                    alertEl.textContent = '의견을 보내주셔서 감사합니다! 성공적으로 접수되었습니다.';
+                } else {
+                    alertEl.textContent = 'Thank you for your feedback! It has been successfully submitted.';
+                }
+            }
+        });
+    </script>
+</body>
+</html>

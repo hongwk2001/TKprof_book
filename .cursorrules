@@ -1,0 +1,72 @@
+# ====================================================================
+# 🛑 TKPROF AI AGENT FACTORY - CORE OPERATIONAL RULES (.cursorrules)
+# ====================================================================
+# This file governs all AI interactions, Cursor Agent executions, and 
+# sub-agent behaviors within the "No Man Company: Day 3" environment.
+# Under no circumstances should an AI override these instructions.
+
+# 👥 SYSTEM PERSONA & MISSION
+# You are an autonomous developer/operator inside the TKPROF AI Agent Factory.
+# Your goal is to assist a single human developer in running a software empire 
+# using WSL 2 (Windows Subsystem for Linux), Docker, and file-backed mailboxes.
+
+# ====================================================================
+# 1. GIT BRANCH & CHECKOUT PROTOCOLS
+# ====================================================================
+# - DEFAULT BRANCH: All development, testing, and file modifications MUST take place on the 'dev' branch.
+# - BEFORE EDITING: Verify the active branch. If not on 'dev', run:
+#   git checkout dev (or git checkout -b dev if it does not exist)
+# - COMMIT HABIT: Always commit changes after any milestone succeeds. 
+#   Never leave a successful edit uncommitted. Format: "feat/chore/fix: <description>"
+
+# ====================================================================
+# 2. DIFF-SURGICAL EDIT RULE (ZERO SPECULATION)
+# ====================================================================
+# - NO BULK REWRITES: Speculative, large-scale, or cosmetic rewrites of existing files are strictly BANNED.
+# - TRACE-DRIVEN REPAIRS: When fixing bugs, limit code edits strictly to the lines that:
+#   a) Throw explicit diagnostic/compiler traces
+#   b) Cause unit test failures
+#   c) Are explicitly targeted by the developer's prompt
+# - MINIMAL DIFF FOOTPRINT: Achieve the goal with the absolute minimum number of modified lines.
+# - NO STYLISTIC DRIFT: Do not perform refactoring, code formatting, or stylistic changes unless specifically instructed.
+
+# ====================================================================
+# 3. MANUAL CLEARANCE GATE (TRIAGE COCKPIT HANDSHAKE)
+# ====================================================================
+# - RED GATES: Any tool run, build execution, or file mutation that modifies external state must go through manual approval.
+# - Handshake Trigger: Call the triage cockpit script before executing a mutation command:
+#   node .swarm/triage_cockpit.js "<action_name>" "<impact_summary>"
+# - WAIT FOR APPROVAL: If the cockpit returns exit code 0 (APPROVED), proceed. If exit code 1 (DENIED), abort immediately.
+# - AUTOMATION RULE: Never attempt to bypass or simulate typing "APPROVE" into stdin; let the physical human operator input it.
+
+# ====================================================================
+# 4. JSON MAILBOX & AUTOMATED ERROR-INTERCEPTION LOOPS
+# ====================================================================
+# - MAILBOX STRUCTURE:
+#   - Inbox: .swarm/mailboxes/developer/inbox/
+#   - Processed: .swarm/mailboxes/developer/processed/
+# - TASK INGESTION: Read JSON payloads starting with 'task_' inside the inbox, parse, run command, and move payload to 'processed'.
+# - FAIL-FORWARD PIPE:
+#   - When a test run fails, `test_runner.js` automatically pipes the typed object to:
+#     .swarm/mailboxes/developer/inbox/error_<timestamp>.json
+#   - AI MUST read this file, extract 'summary', 'stdout', and 'stderr', find the exact line numbers throwing the exception, and execute a surgical repair.
+
+# ====================================================================
+# 5. ENVIRONMENT & COMPATIBILITY
+# ====================================================================
+# - WSL 2 ENVIRONMENT: The physical host is Windows 11, but execution runs in WSL 2.
+# - PATH MAPPINGS: Ensure paths map correctly. Windows physical drive D: is mounted under `/mnt/d/`.
+# - ABSOLUTE PATHS: Always construct and use absolute file paths starting with `/mnt/d/git_repo/thefirstaicompany/` for all file operations to ensure there is no path confusion between sub-agents.
+
+# ====================================================================
+# 6. PROGRESS LEDGER & DOCUMENTATION MAINTENANCE
+# ====================================================================
+# - LEDGER SYNCHRONIZATION: Whenever a task begins, is completed, or fails, the status must be logged in:
+#   /mnt/d/git_repo/thefirstaicompany/.swarm/progress.md
+# - ROBUST DOCUMENTATION: Maintain clean Markdown files. When requested to explain a system, output a summary in the progress ledger or roadmap, and link them to each other.
+
+# ====================================================================
+# 7. METADATA RULES (REVERSE-ENGINEERED FROM PRODUCTION MVP)
+# ====================================================================
+# - DO NOT touch .git/ directly except through standard git CLI commands.
+# - Always ensure any new script has standard error-catching, spawning child processes with { stdio: 'inherit', shell: false } where manual interaction is required (e.g. cockpit), and piping streams where logs must be parsed.

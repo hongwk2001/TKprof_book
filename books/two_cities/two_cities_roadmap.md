@@ -27,8 +27,9 @@ flowchart LR
 ### Stage 3: Modernization chapter by chapter
 - tried automated script , just remove right away, wasted token. 
 - will just use chat, and if used up will take break. 
-- **Action**: Simplify the original challenging English narrative (Victorian, ancient, or formal prose) to a clear, engaging, middle-school level modern English style (ideal for ESL/EFL learners and casual readers).
-- **Output**: Save modernized chapters to `books/{book_dir}/chapters/ch_01_en.txt`.
+- book1 done, book2 done, book3 chapters 1-15 done.
+- **Action**: Simplify the original challenging English narrative (Victorian, ancient, or formal prose) to a clear, engaging, middle-school level modern English style (ideal for ESL/EFL learners and casual readers).  will keep _i_ _me_ ( italic ) for now.
+- **Output**: Save modernized chapters to `books/{book_dir}/chapters/ch_01_en.txt` (or `book2_ch_XX_en.txt`, etc.).
 - **Action**: here human review is must to make sure the quality is good.
 
 ### Stage 4 : Add opening and closing
@@ -48,4 +49,4 @@ Below is the master progress matrix for the target English-to-English books.
 
 | # | Book Title | 1. Ingest | 2. Segment | 3. Modernize | 4. Compile | 5. Publish |
 | :-: | :--- | :---: | :---: | :---: | :---: | :---: |
-| 5 | **A Tale of Two Cities** | `[x]` | `[x]` | `[]` | `[]` | `[ ]` |
+| 5 | **A Tale of Two Cities** | `[x]` | `[x]` | `[x]` | `[]` | `[ ]` |
