@@ -1,0 +1,38 @@
+{
+  "en": {
+    "Narrator": {
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "Male": {
+      "engine": "edge",
+      "voice": "en-GB-RyanNeural"
+    },
+    "Female": {
+      "engine": "kokoro",
+      "voice": "bf_emma"
+    },
+    "Child": {
+      "engine": "edge",
+      "voice": "en-GB-MaisieNeural"
+    }
+  },
+  "ko": {
+    "Narrator": {
+      "engine": "edge",
+      "voice": "ko-KR-InJoonNeural"
+    },
+    "Male": {
+      "engine": "edge",
+      "voice": "ko-KR-HyunsuMultilingualNeural"
+    },
+    "Female": {
+      "engine": "edge",
+      "voice": "ko-KR-SunHiNeural"
+    },
+    "Child": {
+      "engine": "edge",
+      "voice": "ko-KR-SunHiNeural"
+    }
+  }
+}
