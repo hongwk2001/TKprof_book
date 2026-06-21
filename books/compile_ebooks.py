@@ -209,19 +209,59 @@ def compile_book(book_id):
                 html_chapters_body.append(f'<p style="margin-bottom: 1.2em; text-indent: 1.5em; font-size: 1.05em; line-height: 1.7;">{p_clean}</p>')
             html_chapters_body.append('<hr />')
         
+        is_two_cities = (book_id == "two_cities")
+        
         for idx, en_file_path in enumerate(en_files):
             chapter_num = idx + 1
             
             en_paras = parse_paragraphs(en_file_path)
             
-            chapter_title_en = f"Chapter {chapter_num}"
-            if en_paras and en_paras[0].upper().startswith("CHAPTER"):
-                chapter_title_en = en_paras[0]
-                # If first paragraph was header, pop it so it's not repeated as standard paragraph
-                en_paras.pop(0)
+            book_header = None
+            chapter_header = None
+            chapter_title = ""
+            
+            if is_two_cities:
+                idx_para = 0
+                if idx_para < len(en_paras) and "book the" in en_paras[idx_para].lower():
+                    book_header = en_paras[idx_para]
+                    idx_para += 1
+                if idx_para < len(en_paras) and en_paras[idx_para].upper().startswith("CHAPTER"):
+                    chapter_header = en_paras[idx_para]
+                    idx_para += 1
+                    
+                    # Split combined chapter header and title (e.g. "CHAPTER I. Five Years Later")
+                    match = re.match(r"^(CHAPTER\s+[IVXLCDM]+)\.?(?:\s+(.+))?$", chapter_header, re.IGNORECASE)
+                    if match:
+                        ch_num_part = match.group(1)
+                        title_part = match.group(2)
+                        if title_part:
+                            chapter_header = ch_num_part
+                            chapter_title = title_part.strip()
+                            
+                if not chapter_title and idx_para < len(en_paras) and len(en_paras[idx_para]) < 100:
+                    chapter_title = en_paras[idx_para]
+                    idx_para += 1
                 
-            display_ch_title = chapter_title_en
-            print(f"  Formatting {chapter_title_en}...")
+                for _ in range(idx_para):
+                    en_paras.pop(0)
+                    
+                if chapter_header and chapter_title:
+                    clean_ch_head = chapter_header.strip().rstrip('.')
+                    display_ch_title = f"{clean_ch_head}: {chapter_title}"
+                elif chapter_header:
+                    display_ch_title = chapter_header.strip().rstrip('.')
+                elif chapter_title:
+                    display_ch_title = chapter_title
+                else:
+                    display_ch_title = f"Chapter {chapter_num}"
+            else:
+                chapter_title_en = f"Chapter {chapter_num}"
+                if en_paras and en_paras[0].upper().startswith("CHAPTER"):
+                    chapter_title_en = en_paras[0]
+                    en_paras.pop(0)
+                display_ch_title = chapter_title_en
+                
+            print(f"  Formatting {display_ch_title}...")
             
             # Create XHTML content
             ch_html_content = f"""<?xml version="1.0" encoding="utf-8"?>
@@ -232,9 +272,14 @@ def compile_book(book_id):
   <link rel="stylesheet" href="style.css" type="text/css"/>
 </head>
 <body>
-  <h1>{clean_xml_text(chapter_title_en)}</h1>
 """
-            html_chapters_body.append(f'<h1>{clean_xml_text(chapter_title_en)}</h1>')
+            if is_two_cities and book_header:
+                clean_book = book_header.replace("--", ": ")
+                ch_html_content += f'  <h2 style="text-align: center; color: #7f8c8d; font-size: 1.3em; text-transform: uppercase; margin-top: 1.5em; margin-bottom: 0.5em;">{clean_xml_text(clean_book)}</h2>\n'
+                html_chapters_body.append(f'<h2 style="text-align: center; color: #7f8c8d; font-size: 1.3em; text-transform: uppercase; margin-top: 2em; margin-bottom: 0.5em;">{clean_xml_text(clean_book)}</h2>')
+            
+            ch_html_content += f'  <h1>{clean_xml_text(display_ch_title)}</h1>\n'
+            html_chapters_body.append(f'<h1>{clean_xml_text(display_ch_title)}</h1>')
 
             # Render paragraphs
             for p in en_paras:
