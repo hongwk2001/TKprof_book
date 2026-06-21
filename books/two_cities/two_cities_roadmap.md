@@ -27,13 +27,13 @@ flowchart LR
 ### Stage 3: Modernization chapter by chapter
 - tried automated script , just remove right away, wasted token. 
 - will just use chat, and if used up will take break. 
-- book1 done, book2 done, book3 chapters 1-15 done.
+- book1 done, book2 done, book3 chapters 1-15 done. (Complete)
 - **Action**: Simplify the original challenging English narrative (Victorian, ancient, or formal prose) to a clear, engaging, middle-school level modern English style (ideal for ESL/EFL learners and casual readers).  will keep _i_ _me_ ( italic ) for now.
 - **Output**: Save modernized chapters to `books/{book_dir}/chapters/ch_01_en.txt` (or `book2_ch_XX_en.txt`, etc.).
 - **Action**: here human review is must to make sure the quality is good.
 
 ### Stage 4 : Add opening and closing
-- **Action**: add opening introduction to reader , closing copyright feedback. 
+- **Action**: add opening introduction to reader , closing copyright feedback. (Complete) 
 
 ### Stage 5: E-book Compilation
    A lot of issues in each chapters, only after manual full approval proceed. 

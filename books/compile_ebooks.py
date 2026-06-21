@@ -82,6 +82,8 @@ def parse_paragraphs(file_path):
 def compile_book(book_id):
     book_path = os.path.join(BASE_DIR, book_id)
     chapters_dir = os.path.join(book_path, "chapters")
+    intro_file = os.path.join(book_path, "introduction_en.txt")
+    copyright_file = os.path.join(book_path, "copyright_en.txt")
     
     if not os.path.exists(chapters_dir):
         print(f"Error: Chapters directory not found for {book_id}")
@@ -171,6 +173,42 @@ def compile_book(book_id):
         # 5. Compile Chapters
         toc_entries = []
         
+        # Compile Introduction if it exists
+        has_intro = os.path.exists(intro_file)
+        if has_intro:
+            intro_paras = parse_paragraphs(intro_file)
+            intro_title = "Introduction"
+            if intro_paras and not intro_paras[0].upper().startswith("CHAPTER") and len(intro_paras[0]) < 100:
+                intro_title = intro_paras[0]
+                intro_paras.pop(0)
+                
+            intro_html_content = f"""<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>{clean_xml_text(intro_title)}</title>
+  <link rel="stylesheet" href="style.css" type="text/css"/>
+</head>
+<body>
+  <h1>{clean_xml_text(intro_title)}</h1>
+"""
+            for p in intro_paras:
+                p_clean = clean_xml_text(p)
+                intro_html_content += f'  <p>{p_clean}</p>\n'
+                
+            intro_html_content += "</body>\n</html>"
+            epub.writestr("OEBPS/introduction.xhtml", intro_html_content)
+            manifest_items.append('<item id="introduction" href="introduction.xhtml" media-type="application/xhtml+xml"/>')
+            spine_items.append('<itemref idref="introduction"/>')
+            toc_entries.append(("introduction", "introduction.xhtml", intro_title))
+            
+            # Write to HTML preview
+            html_chapters_body.append(f'<h1>{clean_xml_text(intro_title)}</h1>')
+            for p in intro_paras:
+                p_clean = clean_xml_text(p)
+                html_chapters_body.append(f'<p style="margin-bottom: 1.2em; text-indent: 1.5em; font-size: 1.05em; line-height: 1.7;">{p_clean}</p>')
+            html_chapters_body.append('<hr />')
+        
         for idx, en_file_path in enumerate(en_files):
             chapter_num = idx + 1
             
@@ -213,6 +251,42 @@ def compile_book(book_id):
             manifest_items.append(f'<item id="ch_{chapter_num:02d}" href="{ch_filename}" media-type="application/xhtml+xml"/>')
             spine_items.append(f'<itemref idref="ch_{chapter_num:02d}"/>')
             toc_entries.append((f"ch_{chapter_num:02d}", ch_filename, display_ch_title))
+            
+        # Compile Copyright/Feedback if it exists
+        has_copyright = os.path.exists(copyright_file)
+        if has_copyright:
+            copy_paras = parse_paragraphs(copyright_file)
+            copy_title = "Copyright and Feedback"
+            if copy_paras and not copy_paras[0].upper().startswith("CHAPTER") and len(copy_paras[0]) < 100:
+                copy_title = copy_paras[0]
+                copy_paras.pop(0)
+                
+            copy_html_content = f"""<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>{clean_xml_text(copy_title)}</title>
+  <link rel="stylesheet" href="style.css" type="text/css"/>
+</head>
+<body>
+  <h1>{clean_xml_text(copy_title)}</h1>
+"""
+            for p in copy_paras:
+                p_clean = clean_xml_text(p)
+                copy_html_content += f'  <p>{p_clean}</p>\n'
+                
+            copy_html_content += "</body>\n</html>"
+            epub.writestr("OEBPS/copyright.xhtml", copy_html_content)
+            manifest_items.append('<item id="copyright" href="copyright.xhtml" media-type="application/xhtml+xml"/>')
+            spine_items.append('<itemref idref="copyright"/>')
+            toc_entries.append(("copyright", "copyright.xhtml", copy_title))
+            
+            # Write to HTML preview
+            html_chapters_body.append('<hr />')
+            html_chapters_body.append(f'<h1>{clean_xml_text(copy_title)}</h1>')
+            for p in copy_paras:
+                p_clean = clean_xml_text(p)
+                html_chapters_body.append(f'<p style="margin-bottom: 1.2em; text-indent: 1.5em; font-size: 1.05em; line-height: 1.7;">{p_clean}</p>')
             
         # 6. Generate toc.ncx
         ncx_content = f"""<?xml version="1.0" encoding="UTF-8"?>
