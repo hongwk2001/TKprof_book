@@ -19,6 +19,20 @@ Since these books are single-language modern English, design layouts should foll
 
 ---
 
+## 🎧 Audiobook-Friendly Modernization Guidelines
+
+When adapting classical texts into modern casual English for listeners and voiceovers:
+1. **Subject-First Word Order (No Inversions)**: Place the subject of the sentence first. Avoid poetic or literary inversions that are hard to process when listening.
+   * *Instead of*: "In front of the building was a patch of grass."
+   * *Use*: "There was a patch of grass in front of the building."
+2. **Clean Punctuation (No Dashes)**: Do not use em-dashes (`—`) or double hyphens (`--`) to offset clauses. They break the reading rhythm. Use commas or split the clause into a new sentence.
+3. **Listening-Friendly Rhythm**: Break up long, winding sentences into shorter, punchier phrases. Ensure the text flows naturally when read aloud.
+4. **Linear Idea Progression (No Metaphorical Detours)**: Keep ideas in a straightforward, logical sequence. Avoid dense, trailing metaphors or unexpected jumps at the end of sentences that force the listener to puzzle out the meaning. Introduce the concrete subject first, and then describe its characteristics or metaphors in separate, clear steps.
+   * *Instead of*: "...weeds, which seemed to find nourishment in the soil that had so quickly grown the black flower of civilized society, a prison." (Combines weeds, soil, black flower metaphor, and prison in one complex jump).
+   * *Use*: "...ugly weeds. These weeds seemed to thrive in the soil around the prison, which was like a dark flower in the middle of their new society." (Breaks concepts into clear, linear steps).
+
+---
+
 ## 🔍 SEO & Metadata Optimization (Google Play Books & Amazon KDP)
 
 When listing books, target search queries focusing on accessibility and learning:

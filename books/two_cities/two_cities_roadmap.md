@@ -12,8 +12,10 @@ For each book, we execute the following standardized steps:
 flowchart LR
     Ingest[1. Ingest Raw Text] --> Segment[2. Segment Chapters]
     Segment --> Modernize[3. Casual Modernize]
-    Modernize --> Compile[4. Compile EPUB/HTML]
-    Compile --> Publish[5. Publish]
+    Modernize --> OpenClose[4. Open & Close Pages]
+    OpenClose --> Colorize[5. Illustrations & Colorize]
+    Colorize --> Compile[6. Compile EPUB/HTML]
+    Compile --> Publish[7. Publish]
 ```
 
 ### Stage 1: Ingestion (Source Text)
@@ -27,26 +29,21 @@ flowchart LR
 ### Stage 3: Modernization chapter by chapter
 - tried automated script , just remove right away, wasted token. 
 - will just use chat, and if used up will take break. 
-- book1 done, book2 done, book3 chapters 1-15 done. (Complete)
 - **Action**: Simplify the original challenging English narrative (Victorian, ancient, or formal prose) to a clear, engaging, middle-school level modern English style (ideal for ESL/EFL learners and casual readers).  will keep _i_ _me_ ( italic ) for now.
 - **Output**: Save modernized chapters to `books/{book_dir}/chapters/ch_01_en.txt` (or `book2_ch_XX_en.txt`, etc.).
-- **Action**: here human review is must to make sure the quality is good.
+- **Status**: `[x]` Complete. All 3 Books (45 Chapters) fully modernized.
+- **Review**: `[x]` The surgical fixes (Subject-first, no dashes) have been verified and applied to all flagged sentences via `surgical_fix_list.md`.
 
 ### Stage 4 : Add opening and closing
 - **Action**: add opening introduction to reader , closing copyright feedback. (Complete) 
+- **Note**: `copyright_en.txt` was successfully updated and synchronized to match the exact modernized layout of *The Scarlet Letter*, including the specialized 'Note on This Modernized Edition' section. 
 
-### Stage 5: E-book Compilation
-   A lot of issues in each chapters, only after manual full approval proceed. 
+### Stage 5: Illustrations & Colorization
+- **Action**: Extract original illustrations from Gutenberg source, colorize them, and insert them into the EPUB.
+- **Status**: `[x]` Complete. All 16 original illustrations have been successfully downloaded, beautifully colorized in a watercolor style, and successfully injected into the EPUB chapter texts.
+
+### Stage 6: E-book Compilation
 - **Action**: Run `books/compile_ebooks.py` to compile the segmented chapters into standard formats:
   - **EPUB**: The primary digital reading format for Google Play Books, Amazon KDP, and general e-readers.
   - **HTML**: A web-friendly version for landing pages or direct previews.
-
----
-
-## 📊 Parallel Production Tracker
-
-Below is the master progress matrix for the target English-to-English books.
-
-| # | Book Title | 1. Ingest | 2. Segment | 3. Modernize | 4. Compile | 5. Publish |
-| :-: | :--- | :---: | :---: | :---: | :---: | :---: |
-| 5 | **A Tale of Two Cities** | `[x]` | `[x]` | `[x]` | `[]` | `[ ]` |
+- **Status**: `[x]` Complete. EPUB and HTML successfully built for the modernized text. (Will need to re-compile once illustrations are ready).

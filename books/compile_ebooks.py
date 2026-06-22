@@ -210,6 +210,7 @@ def compile_book(book_id):
             html_chapters_body.append('<hr />')
         
         is_two_cities = (book_id == "two_cities")
+        added_images = set()
         
         for idx, en_file_path in enumerate(en_files):
             chapter_num = idx + 1
@@ -283,9 +284,31 @@ def compile_book(book_id):
 
             # Render paragraphs
             for p in en_paras:
-                en_p = clean_xml_text(p)
-                ch_html_content += f'  <p>{en_p}</p>\n'
-                html_chapters_body.append(f'<p style="margin-bottom: 1.2em; text-indent: 1.5em; font-size: 1.05em; line-height: 1.7;">{en_p}</p>')
+                img_match = re.match(r'^!\[(.*?)\]\((.*?)\)$', p.strip())
+                if img_match:
+                    alt_text = img_match.group(1)
+                    img_path_rel = img_match.group(2)
+                    img_filename = os.path.basename(img_path_rel)
+                    
+                    if img_filename not in added_images:
+                        added_images.add(img_filename)
+                        full_img_path = os.path.join(book_path, img_path_rel)
+                        if os.path.exists(full_img_path):
+                            ext = os.path.splitext(img_filename)[1].lower()
+                            mime = "image/png" if ext == ".png" else "image/jpeg"
+                            with open(full_img_path, 'rb') as f_img:
+                                epub.writestr(f'OEBPS/{img_filename}', f_img.read())
+                            manifest_items.append(f'<item id="img_{img_filename.replace(".","_")}" href="{img_filename}" media-type="{mime}"/>')
+                        else:
+                            print(f"Warning: Image {full_img_path} not found.")
+                            
+                    img_html = f'<div style="text-align: center; margin-top: 1.5em; margin-bottom: 1.5em;"><img src="{img_filename}" alt="{clean_xml_text(alt_text)}" style="max-width: 100%; height: auto;" /></div>'
+                    ch_html_content += f'  {img_html}\n'
+                    html_chapters_body.append(f'<div style="text-align: center; margin-top: 1.5em; margin-bottom: 1.5em;"><img src="../{img_path_rel}" alt="{clean_xml_text(alt_text)}" style="max-width: 100%; height: auto;" /></div>')
+                else:
+                    en_p = clean_xml_text(p)
+                    ch_html_content += f'  <p>{en_p}</p>\n'
+                    html_chapters_body.append(f'<p style="margin-bottom: 1.2em; text-indent: 1.5em; font-size: 1.05em; line-height: 1.7;">{en_p}</p>')
 
             ch_html_content += "</body>\n</html>"
             
