@@ -36,7 +36,7 @@ flowchart LR
   * Emphasize the "Web Novel" tropes: Rebellion, Terminal Illness (Fake-out), Contract Romance, and Cozy Escapism.
   * Highlight the "Rebellious Protagonist" (사이다 여주) aspects where Valancy speaks her mind and breaks free from her toxic family.
   * Emphasize the "Cozy Romance" (힐링 로맨스) and "Forest House Living" atmosphere.
-- **Status**: `[ ]` Pending.
+- **Status**: `[x]` Complete.
 
 ---
 
@@ -48,7 +48,7 @@ flowchart LR
 - **Closing Page (`copyright_ko.txt`)**:
   - **TOC Title**: `저작권 및 편집자 노트` (Copyright & About This Edition)
   - **Structure**: (1) Thank You section at top, (2) Review request on platforms like Ridi Books, (3) Editorial notes about the Korean translation approach, (4) Copyright details.
-- **Status**: `[ ]` Pending.
+- **Status**: `[x]` Complete.
 
 ---
 
