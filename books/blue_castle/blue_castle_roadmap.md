@@ -56,7 +56,7 @@ flowchart LR
 - **Action**: Compile the segmented chapters and assets into standard e-reader formats (EPUB/HTML).
 - **Scripts**: 
   * `make_epub_native.py`: A native Python zip packager that compiles clean, spec-compliant EPUB3 books without dependencies.
-- **Status**: `[ ]` Pending.
+- **Status**: `[x]` Complete.
 
 ---
 
