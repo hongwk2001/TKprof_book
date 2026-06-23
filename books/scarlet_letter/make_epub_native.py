@@ -7,6 +7,8 @@ This avoids the bugs present in ebooklib and generates a clean EPUB3 structure.
 import os
 import zipfile
 import uuid
+from datetime import datetime, timezone
+import uuid
 
 # ── Paths ────────────────────────────────────────────────────────────────────
 BASE_DIR      = os.path.dirname(os.path.abspath(__file__))
@@ -164,7 +166,7 @@ def txt_to_html(text, title, subtitle=None, images=None):
             f"<!DOCTYPE html>",
             f"<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">",
             f"<head>",
-            f"  <title>{page_title}</title>",
+            f"  <title>{title[0]}</title>",
             f"  <link rel=\"stylesheet\" href=\"../Styles/main.css\" type=\"text/css\"/>",
             f"</head>",
             f"<body>",
@@ -199,6 +201,12 @@ def txt_to_html(text, title, subtitle=None, images=None):
             if not seen_paragraph:
                 continue  # Skip redundant chapter titles from the text file
             html_parts.append(f"<h2>{line}</h2>")
+        elif line in ["A Note to the Reader", "About This Edition", "About \"The Custom-House\"", "Thank You for Reading", "A Note on This Modernized Edition", "Copyright"]:
+            title_text = title[0] if isinstance(title, tuple) else title
+            if not seen_paragraph and line == title_text:
+                continue # Skip redundant top title
+            html_parts.append(f"<h2>{line}</h2>")
+            seen_paragraph = True
         else:
             html_parts.append(f"<p>{line}</p>")
             seen_paragraph = True
@@ -214,14 +222,18 @@ def txt_to_html(text, title, subtitle=None, images=None):
 
 def find_colorized(stem):
     for f in os.listdir(ARTIFACTS_DIR):
+        if f.startswith(stem + "_color") and f.endswith(".jpg"):
+            return os.path.join(ARTIFACTS_DIR, f), ".jpg"
+    for f in os.listdir(ARTIFACTS_DIR):
         if f.startswith(stem + "_color") and f.endswith(".png"):
-            return os.path.join(ARTIFACTS_DIR, f)
-    return None
+            return os.path.join(ARTIFACTS_DIR, f), ".png"
+    return None, None
 
 def get_image_info(stem):
-    color_path = find_colorized(stem)
+    color_path, ext = find_colorized(stem)
     if color_path:
-        return color_path, f"{stem}_color.png", "image/png"
+        mime = "image/jpeg" if ext == ".jpg" else "image/png"
+        return color_path, f"{stem}_color{ext}", mime
     
     bw_path = os.path.join(IMAGES_DIR, f"{stem}.jpg")
     if os.path.exists(bw_path):
@@ -261,16 +273,28 @@ def main():
         nav_title = f"{title[0]}: {title[1]}" if isinstance(title, tuple) else title
         chapters.append({'id': uid, 'href': fname, 'title': nav_title, 'content': ch_html})
 
-    # 3. Custom-House
-    ch00_text = read_txt(os.path.join(CHAPTERS_DIR, "ch_00_en.txt"))
+    # 3. Custom-House & Preface
+    ch00_full = read_txt(os.path.join(CHAPTERS_DIR, "ch_00_en.txt"))
+    parts = ch00_full.split("THE CUSTOM-HOUSE")
+    if len(parts) == 2:
+        preface_text = parts[0].strip()
+        custom_house_text = "THE CUSTOM-HOUSE" + parts[1]
+    else:
+        preface_text = ""
+        custom_house_text = ch00_full
+
+    if preface_text:
+        pref_html = txt_to_html(preface_text, "Preface to the Second Edition")
+        chapters.append({'id': 'preface', 'href': 'Text/preface.xhtml', 'title': 'Preface to the Second Edition', 'content': pref_html})
+
     img_names = []
     for stem in CHAPTER_IMAGES.get(0, []):
         src, name, mime = get_image_info(stem)
         if src:
             images_to_add.append((src, name, mime))
             img_names.append(name)
-    ch00_html = txt_to_html(ch00_text, CHAPTER_TITLES[0], subtitle="Introductory to The Scarlet Letter", images=img_names)
-    chapters.append({'id': 'ch00', 'href': 'Text/ch00.xhtml', 'title': CHAPTER_TITLES[0], 'content': ch00_html})
+    ch00_html = txt_to_html(custom_house_text, CHAPTER_TITLES[0], subtitle="Introductory to The Scarlet Letter", images=img_names)
+    chapters.append({'id': 'custom_house', 'href': 'Text/custom_house.xhtml', 'title': CHAPTER_TITLES[0], 'content': ch00_html})
 
     # 4. Copyright
     copy_text = read_txt(os.path.join(BASE_DIR, "copyright_en.txt"))
@@ -284,17 +308,21 @@ def main():
         images_to_add.append((cover_src, "cover.jpg", "image/jpeg"))
         has_cover = True
         
+    book_uuid = f"urn:uuid:{uuid.uuid4()}"
+    modified_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
     # Build OPF Manifest
     opf_parts = [
         "<?xml version='1.0' encoding='utf-8'?>",
         "<package xmlns=\"http://www.idpf.org/2007/opf\" unique-identifier=\"pub-id\" version=\"3.0\">",
         "  <metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\">",
-        "    <dc:identifier id=\"pub-id\">tkprof-scarlet-letter-2026</dc:identifier>",
+        f"    <dc:identifier id=\"pub-id\">{book_uuid}</dc:identifier>",
         "    <dc:title>The Scarlet Letter: Modern English Edition</dc:title>",
         "    <dc:language>en</dc:language>",
         "    <dc:creator>Nathaniel Hawthorne</dc:creator>",
         "    <dc:publisher>TKPROF LLC</dc:publisher>",
-        "    <dc:date>2026</dc:date>",
+        "    <dc:date>2026-06-22</dc:date>",
+        "    <dc:description>A modern English adaptation of Nathaniel Hawthorne's 1850 masterpiece. Set in Puritan Boston, The Scarlet Letter follows Hester Prynne, a woman condemned to wear a symbol of shame, as she finds courage, identity, and quiet redemption. This edition is adapted for language learners, students, and audiobook listeners, with digitally colorized historic illustrations from the 1878 edition.</dc:description>",
         "    <dc:rights>Modernized edition Copyright 2026 TKPROF LLC. Original text public domain.</dc:rights>",
         "    <dc:subject>Fiction</dc:subject>",
         "    <dc:subject>Classic Literature</dc:subject>",
@@ -305,7 +333,7 @@ def main():
         "    <dc:subject>Audiobook Friendly</dc:subject>",
         "    <dc:subject>Puritan New England</dc:subject>",
         "    <dc:subject>Nathaniel Hawthorne</dc:subject>",
-        "    <meta property=\"dcterms:modified\">2026-06-21T12:00:00Z</meta>",
+        f"    <meta property=\"dcterms:modified\">{modified_date}</meta>",
     ]
     if has_cover:
         opf_parts.append("    <meta name=\"cover\" content=\"cover-image\"/>")

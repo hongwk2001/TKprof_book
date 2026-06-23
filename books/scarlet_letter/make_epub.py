@@ -279,7 +279,7 @@ def main():
         full_html += "</body>\n</html>"
 
         ch = epub.EpubHtml(title=title, file_name=file_name, lang="en")
-        ch.content = full_html
+        ch.content = full_html.encode('utf-8')
         ch.add_item(style_item)
         book.add_item(ch)
         return ch
@@ -317,17 +317,31 @@ def main():
         toc.append(ch_item)
         print(f"Added: {title}")
 
-    # ── 3. The Custom-House (back of book) ────────────────────────────────────
-    ch00_text = read_txt(os.path.join(CHAPTERS_DIR, "ch_00_en.txt"))
-    ch00_title = "The Custom-House"
+    # ── 3. Preface to the Second Edition & The Custom-House (back of book) ────
+    ch00_full = read_txt(os.path.join(CHAPTERS_DIR, "ch_00_en.txt"))
+    parts = ch00_full.split("THE CUSTOM-HOUSE")
+    if len(parts) == 2:
+        preface_text = parts[0].strip()
+        custom_house_text = "THE CUSTOM-HOUSE" + parts[1]
+    else:
+        preface_text = ""
+        custom_house_text = ch00_full
 
+    if preface_text:
+        pref_html = txt_to_html(preface_text, "Preface to the Second Edition")
+        pref_item = make_chapter("preface", "preface.xhtml", "Preface to the Second Edition", pref_html)
+        spine.append(pref_item)
+        toc.append(pref_item)
+        print("Added: Preface to the Second Edition")
+
+    ch00_title = "The Custom-House"
     img_names = []
     for stem in CHAPTER_IMAGES.get(0, []):
         name = add_image_to_book(book, stem)
         if name:
             img_names.append(name)
 
-    ch00_html  = txt_to_html(ch00_text, ch00_title,
+    ch00_html  = txt_to_html(custom_house_text, ch00_title,
                              subtitle="Introductory to The Scarlet Letter")
     ch00_item  = make_chapter("ch00", "ch00.xhtml", ch00_title, ch00_html, img_names)
     spine.append(ch00_item)

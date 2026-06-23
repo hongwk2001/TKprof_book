@@ -1,4 +1,15 @@
-    95    185   1324 raw_source_book1.txt
- 20509  87683 529734 raw_source_book2.txt
- 11945  51066 308671 raw_source_book3.txt
- 32549 138934 839729 total
+wc raw*
+  16283  138934  823480 raw_source.txt
+   4127   17682  106297 raw_source_book1.txt
+  20509   87683  529734 raw_source_book2.txt
+  11945   51066  308671 raw_source_book3.txt
+  52864  295365 1768182 total
+
+ wc book1*txt
+   17   965  5513 book1_ch_01_en.txt
+  121  1941 10929 book1_ch_02_en.txt
+   69  1612  8923 book1_ch_03_en.txt
+  203  4061 22502 book1_ch_04_en.txt
+  153  3492 19638 book1_ch_05_en.txt
+  217  4075 21733 book1_ch_06_en.txt
+  780 16146 89238 total

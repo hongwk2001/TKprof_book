@@ -67,7 +67,7 @@ def parse_paragraphs(file_path):
     """Reads a text file and returns a list of paragraphs."""
     if not os.path.exists(file_path):
         return []
-    with open(file_path, "r", encoding="utf-8") as f:
+    with open(file_path, "r", encoding="utf-8", errors="replace") as f:
         content = f.read()
     
     # Split by double newlines or multiple empty lines
