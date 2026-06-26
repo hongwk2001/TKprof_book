@@ -4,7 +4,7 @@
 
 **The 30 best pages of the Muqaddimah, in Ibn Khaldun's own voice, in plain English.**
 
-Not a summary. Not a synthesis with modern examples. Not a full translation. The Muqaddimah is 700,000 words — nobody reads all of it, not even Zuckerberg. This edition finds the passages where Ibn Khaldun states his big ideas most clearly and vividly, renders them in fluent modern English, and gets out of the way.
+Not a summary. Not a synthesis with modern examples. Not a full translation. The Muqaddimah is 700,000 words — nobody reads all of it, not even Zuckerberg. This edition finds the passages where Ibn Khaldun states his big ideas most clearly and vividly, renders them in comfortable modern English, and gets out of the way.
 
 A curious lay reader finishes this in 90 minutes and understands exactly why the Muqaddimah has survived 650 years.
 
@@ -111,7 +111,7 @@ Books Two and Three are the heart of the Muqaddimah. Everything Zuckerberg was r
 - Add modern parallels or applications
 - Editorialize about whether he is right or wrong
 - Hedge his claims
-- Add footnotes
+- Add footnotes by editor, only footnotes by IK.
 
 ---
 
