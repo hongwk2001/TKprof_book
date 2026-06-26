@@ -6,6 +6,8 @@ This book applies Ibn Khaldun's framework from *The Muqaddimah* (written 1377 CE
 
 Ibn Khaldun's original Arabic text is in the public domain. This edition is not affiliated with, and has not been derived from, any existing English translation, including the Franz Rosenthal translation (Princeton University Press, 1958) or the N.J. Dawood abridgment (1969). Readers seeking a complete scholarly translation are referred to the Rosenthal edition.
 
+Biographical details about Ibn Khaldun's life are drawn from his autobiography, *Ta'rif bi-Ibn Khaldun* (Volume 7 of the *Kitab al-Ibar*), which has not been fully translated into English. The *Muqaddimah* is Volume 1 of the same work; the two texts are related but distinct.
+
 ### Leave a Review
 
 If this book changed how you see the world, please consider leaving a review on Amazon or Goodreads. Reviews help other readers discover Ibn Khaldun — and he has been waiting 650 years for the audience he deserves.
