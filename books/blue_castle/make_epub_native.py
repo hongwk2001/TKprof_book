@@ -135,6 +135,21 @@ def main():
     book_uuid = f"urn:uuid:{uuid.uuid4()}"
     modified_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
+    cover_html = """<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+<head>
+  <title>Cover</title>
+  <style type="text/css">
+    body { margin: 0; padding: 0; text-align: center; }
+    img { max-width: 100%; height: auto; }
+  </style>
+</head>
+<body>
+  <img src="../Images/cover.png" alt="Cover" />
+</body>
+</html>"""
+
     # Build OPF Manifest
     opf_parts = [
         "<?xml version='1.0' encoding='utf-8'?>",
@@ -154,8 +169,11 @@ def main():
         "    <dc:subject>계약 결혼</dc:subject>",
         "    <dc:subject>힐링 로맨스</dc:subject>",
         f"    <meta property=\"dcterms:modified\">{modified_date}</meta>",
+        "    <meta name=\"cover\" content=\"cover-image\"/>",
         "  </metadata>",
         "  <manifest>",
+        "    <item id=\"cover-image\" href=\"Images/cover.png\" media-type=\"image/png\" properties=\"cover-image\"/>",
+        "    <item id=\"cover\" href=\"Text/cover.xhtml\" media-type=\"application/xhtml+xml\"/>",
         "    <item id=\"ncx\" href=\"toc.ncx\" media-type=\"application/x-dtbncx+xml\"/>",
         "    <item id=\"nav\" href=\"nav.xhtml\" media-type=\"application/xhtml+xml\" properties=\"nav\"/>",
         "    <item id=\"css\" href=\"Styles/main.css\" media-type=\"text/css\"/>"
@@ -166,6 +184,7 @@ def main():
         
     opf_parts.append("  </manifest>")
     opf_parts.append("  <spine toc=\"ncx\">")
+    opf_parts.append("    <itemref idref=\"cover\"/>")
     for ch in chapters:
         opf_parts.append(f"    <itemref idref=\"{ch['id']}\"/>")
     opf_parts.append("  </spine>")
@@ -230,6 +249,10 @@ def main():
         zf.writestr('META-INF/container.xml', container_xml, compress_type=zipfile.ZIP_DEFLATED)
         
         # 3. OEBPS contents
+        cover_path = os.path.join(BASE_DIR, 'cover.png')
+        if os.path.exists(cover_path):
+            zf.write(cover_path, 'OEBPS/Images/cover.png')
+        zf.writestr('OEBPS/Text/cover.xhtml', cover_html.encode('utf-8'), compress_type=zipfile.ZIP_DEFLATED)
         zf.writestr('OEBPS/content.opf', opf_content.encode('utf-8'), compress_type=zipfile.ZIP_DEFLATED)
         zf.writestr('OEBPS/toc.ncx', ncx_content.encode('utf-8'), compress_type=zipfile.ZIP_DEFLATED)
         zf.writestr('OEBPS/nav.xhtml', nav_content.encode('utf-8'), compress_type=zipfile.ZIP_DEFLATED)
