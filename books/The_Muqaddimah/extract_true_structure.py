@@ -1,28 +1,29 @@
 import math
 
-# Keywords indicating the start of a chapter (searching after line 1000 to skip TOC)
 chapter_markers = [
-    ("Book One, Chapter One: Human civilization in general", "في العمران البشري"),
-    ("Book One, Chapter Two: Bedouin civilization", "في العمران البدوي"),
-    ("Book One, Chapter Three: Dynasties, royal authority, the caliphate", "في الدول والملك"),
-    ("Book One, Chapter Four: Countries and cities", "في البلدان والأمصار"),
-    ("Book One, Chapter Five: Making a living, crafts", "في المعاش"),
-    ("Book One, Chapter Six: Sciences and education", "في العلوم وأصنافها"),
+    ("Author's Introduction", "في فضل علم التاريخ وتحقيق مذاهبه والإلماع"),
+    ("Book One: Human civilization in general", "في العمران البشري"),
+    ("Book Two: Bedouin civilization", "في العمران البدوي"),
+    ("Book Three: Dynasties, royal authority, the caliphate", "في الدول والملك"),
+    ("Book Four: Countries and cities", "في البلدان والأمصار"),
+    ("Book Five: Making a living, crafts", "في المعاش"),
+    ("Book Six: Sciences and education", "في العلوم وأصنافها"),
     ("END", None) # End marker
 ]
 
 with open('The_Muqaddimah_Original.txt', 'r', encoding='utf-8') as f:
     lines = f.readlines()
 
-# Find the start lines of each chapter
+# Find the start lines of each chapter sequentially
 chapter_lines = []
+current_search_start = 1000 # skip TOC
+
 for title, marker in chapter_markers[:-1]:
-    for i, line in enumerate(lines):
-        if i < 1000: # skip TOC
-            continue
-        if marker in line:
+    for i in range(current_search_start, len(lines)):
+        if marker in lines[i]:
             chapter_lines.append((title, i))
-            break # found the first actual chapter occurrence
+            current_search_start = i + 1 # Start searching for the next chapter after this one
+            break
 
 chapter_lines.append(("End of Document", len(lines)))
 
