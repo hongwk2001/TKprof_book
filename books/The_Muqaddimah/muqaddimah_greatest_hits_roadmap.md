@@ -11,8 +11,8 @@
 | # | Passage Title | Source Book | Target Words | Status |
 |---|---|---|---|---|
 | 0 | Editor's Note | Original | ~500w | Not started |
-| 1 | Why I Wrote This Book | Author's Introduction | ~1,000w | Not started |
-| 2 | What Is Asabiyyah? | Book Two | ~1,500w | Not started |
+| 1 | Why I Wrote This Book | Author's Introduction | ~1,000w | **DONE** |
+| 2 | What Is Asabiyyah? | Book Two | ~1,500w | **DONE** |
 | 3 | Why Desert People Are Braver | Book Two | ~1,200w | Not started |
 | 4 | How Asabiyyah Creates Leadership | Book Two | ~1,200w | Not started |
 | 5 | The Desert Man Conquers the City | Book Two | ~1,500w | Not started |
@@ -84,13 +84,13 @@ For each passage:
 - [ ] Review
 
 ### Passage 1 — Why I Wrote This Book
-- [ ] Locate source in Original.txt
-- [ ] Render
+- [x] Locate source in Original.txt
+- [x] Render → `01_why_i_wrote_this.md`
 - [ ] Review
 
 ### Passage 2 — What Is Asabiyyah?
-- [ ] Locate in extracted_asabiyyah.txt
-- [ ] Render
+- [x] Locate in extracted_asabiyyah.txt
+- [x] Render → `02_what_is_asabiyyah.md`
 - [ ] Review
 
 ### Passage 3 — Why Desert People Are Braver
