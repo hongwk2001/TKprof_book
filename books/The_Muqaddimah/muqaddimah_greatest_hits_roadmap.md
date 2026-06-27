@@ -13,26 +13,26 @@
 | 0 | Editor's Note | Original | ~500w | Not started |
 | 1 | Why I Wrote This Book | Author's Introduction | ~1,000w | **DONE** |
 | 2 | What Is Asabiyyah? | Book Two | ~1,500w | **DONE** |
-| 3 | Why Desert People Are Braver | Book Two | ~1,200w | Not started |
-| 4 | How Asabiyyah Creates Leadership | Book Two | ~1,200w | Not started |
-| 5 | The Desert Man Conquers the City | Book Two | ~1,500w | Not started |
-| 6 | Why Religion Supercharges Asabiyyah | Book Two | ~1,200w | Not started |
-| 7 | How Dynasties Are Born | Book Three | ~1,500w | Not started |
-| 8 | The Ruler Who Hoards All the Glory | Book Three | ~1,200w | Not started |
-| 9 | Why City Life Destroys Fighting Spirit | Book Three | ~1,200w | Not started |
-| 10 | The Three Generations | Book Three | ~1,500w | Not started |
-| 11 | How Taxation Kills the Dynasty | Book Three | ~1,200w | Not started |
-| 12 | The Hired Soldiers Problem | Book Three | ~1,000w | Not started |
-| 13 | The Senility of Dynasties | Book Three | ~1,200w | Not started |
-| 14 | The Cycle Begins Again | Book Three | ~1,000w | Not started |
+| 3 | Why Desert People Are Braver | Book Two | ~1,200w | **DONE** |
+| 4 | How Asabiyyah Creates Leadership | Book Two | ~1,200w | **DONE** |
+| 5 | The Desert Man Conquers the City | Book Two | ~1,500w | **DONE** |
+| 6 | Why Religion Supercharges Asabiyyah | Book Two | ~1,200w | **DONE** |
+| 7 | How Dynasties Are Born | Book Three | ~1,500w | **DONE** |
+| 8 | The Ruler Who Hoards All the Glory | Book Three | ~1,200w | **DONE** |
+| 9 | Why City Life Destroys Fighting Spirit | Book Three | ~1,200w | **DONE** |
+| 10 | The Three Generations | Book Three | ~1,500w | **DONE** |
+| 11 | How Taxation Kills the Dynasty | Book Three | ~1,200w | **DONE** |
+| 12 | The Hired Soldiers Problem | Book Three | ~1,000w | **DONE** |
+| 13 | The Senility of Dynasties | Book Three | ~1,200w | **DONE** |
+| 14 | The Cycle Begins Again | Book Three | ~1,000w | **DONE** |
 | **Total** | | | **~17,000w** | |
 
 ---
 
 ## Stage Progress
 
-- [ ] **Stage 1:** Match each passage slot to source text in `extracted_*.txt` files
-- [ ] **Stage 2:** Render all 14 passages in plain English
+- [x] **Stage 1:** Match each passage slot to source text in `extracted_*.txt` files
+- [x] **Stage 2:** Render all 14 passages in plain English
 - [ ] **Stage 3:** Write Editor's Note + 14 one-line headers
 - [ ] **Stage 4:** Full read-through — voice consistency, accuracy check
 - [ ] **Stage 5:** EPUB build (`make_epub_native.py`)
@@ -94,63 +94,63 @@ For each passage:
 - [ ] Review
 
 ### Passage 3 — Why Desert People Are Braver
-- [ ] Locate in extracted_asabiyyah.txt
-- [ ] Render
+- [x] Locate in extracted_asabiyyah.txt
+- [x] Render → `03_desert_people_braver.md`
 - [ ] Review
 
 ### Passage 4 — How Asabiyyah Creates Leadership
-- [ ] Locate in extracted_asabiyyah.txt
-- [ ] Render
+- [x] Locate in extracted_asabiyyah.txt
+- [x] Render → `04_asabiyyah_creates_leadership.md`
 - [ ] Review
 
 ### Passage 5 — The Desert Man Conquers the City
-- [ ] Locate in extracted_asabiyyah.txt
-- [ ] Render
+- [x] Locate in extracted_asabiyyah.txt
+- [x] Render → `05_desert_conquers_city.md`
 - [ ] Review
 
 ### Passage 6 — Why Religion Supercharges Asabiyyah
-- [ ] Locate in extracted_asabiyyah.txt
-- [ ] Render
+- [x] Locate in extracted_asabiyyah.txt
+- [x] Render → `06_religion_supercharges.md`
 - [ ] Review
 
 ### Passage 7 — How Dynasties Are Born
-- [ ] Locate in extracted_generations.txt
-- [ ] Render
+- [x] Locate in extracted_generations.txt
+- [x] Render → `07_dynasties_born.md`
 - [ ] Review
 
 ### Passage 8 — The Ruler Who Hoards All the Glory
-- [ ] Locate in extracted_elite.txt
-- [ ] Render
+- [x] Locate in extracted_elite.txt
+- [x] Render → `08_ruler_hoards_glory.md`
 - [ ] Review
 
 ### Passage 9 — Why City Life Destroys Fighting Spirit
-- [ ] Locate in extracted_luxury.txt
-- [ ] Render
+- [x] Locate in extracted_luxury.txt
+- [x] Render → `09_city_life_destroys.md`
 - [ ] Review
 
 ### Passage 10 — The Three Generations
-- [ ] Locate in extracted_generations.txt
-- [ ] Render
+- [x] Locate in extracted_generations.txt
+- [x] Render → `10_three_generations.md`
 - [ ] Review
 
 ### Passage 11 — How Taxation Kills the Dynasty
-- [ ] Locate in extracted_elite.txt
-- [ ] Render
+- [x] Locate in extracted_elite.txt
+- [x] Render → `11_taxation_kills.md`
 - [ ] Review
 
 ### Passage 12 — The Hired Soldiers Problem
-- [ ] Locate in extracted_asabiyyah.txt
-- [ ] Render
+- [x] Locate in extracted_asabiyyah.txt
+- [x] Render → `12_hired_soldiers.md`
 - [ ] Review
 
 ### Passage 13 — The Senility of Dynasties
-- [ ] Locate in extracted_generations.txt
-- [ ] Render
+- [x] Locate in extracted_generations.txt
+- [x] Render → `13_senility_of_dynasties.md`
 - [ ] Review
 
 ### Passage 14 — The Cycle Begins Again
-- [ ] Locate in extracted_asabiyyah.txt
-- [ ] Render
+- [x] Locate in extracted_asabiyyah.txt
+- [x] Render → `14_cycle_begins_again.md`
 - [ ] Review
 
 ---
