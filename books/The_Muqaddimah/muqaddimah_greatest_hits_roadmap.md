@@ -10,7 +10,7 @@
 
 | # | Passage Title | Source Book | Target Words | Status |
 |---|---|---|---|---|
-| 0 | Editor's Note | Original | ~500w | Not started |
+| 0 | Editor's Note | Original | ~500w | **DONE** |
 | 1 | Why I Wrote This Book | Author's Introduction | ~1,000w | **DONE** |
 | 2 | What Is Asabiyyah? | Book Two | ~1,500w | **DONE** |
 | 3 | Why Desert People Are Braver | Book Two | ~1,200w | **DONE** |
@@ -33,8 +33,8 @@
 
 - [x] **Stage 1:** Match each passage slot to source text in `extracted_*.txt` files
 - [x] **Stage 2:** Render all 14 passages in plain English
-- [ ] **Stage 3:** Write Editor's Note + 14 one-line headers
-- [ ] **Stage 4:** Full read-through — voice consistency, accuracy check
+- [x] **Stage 3:** Write Editor's Note + 14 one-line headers
+- [x] **Stage 4:** Full read-through — voice consistency, accuracy check
 - [ ] **Stage 5:** EPUB build (`make_epub_native.py`)
 - [ ] **Stage 6:** Cover design
 - [ ] **Stage 7:** KDP upload — ebook + paperback
@@ -80,7 +80,7 @@ For each passage:
 ## Stage 2: Passage Checklist
 
 ### Passage 0 — Editor's Note
-- [ ] Draft (~500w)
+- [x] Draft (~500w) → `00_editors_note.md`
 - [ ] Review
 
 ### Passage 1 — Why I Wrote This Book
