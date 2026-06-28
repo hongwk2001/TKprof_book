@@ -20,6 +20,18 @@ If this book changed how you see the world, please consider leaving a review on 
 
 We read every message. Feedback, corrections, and questions are all welcome.
 
+---
+
+## Also by TKPROF
+
+*The Muqaddimah: Essential Passages in Plain English*
+
+14 key passages from the Author's Introduction, Book Two, and Book Three of *The Muqaddimah*, rendered in plain modern English. Ibn Khaldun speaks; the editor stays out of the way.
+
+Available as an ebook.
+
+---
+
 ### Copyright
 
 © 2026. All rights reserved.

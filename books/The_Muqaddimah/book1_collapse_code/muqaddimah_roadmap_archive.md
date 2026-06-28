@@ -27,7 +27,7 @@
 | `chapter_7_draft.md` | Ch 7: Who's Next? | The cycle starting again today | 5,000w | 2,754w | **Pass 2 DONE** |
 | `08_readers_guide.md` | Appendix: Reader's Guide | Further reading, key terms | 500w | ~300w | Draft done |
 | `09_copyright.md` | Copyright | Standard page | 200w | ~200w | Done |
-| **Total** | | | **~38,700w** | **~24,700w** | **Stage 4C DONE** |
+| **Total** | | | **~38,700w** | **~25,359w** | **Stage 4C DONE** |
 
 ---
 
@@ -38,7 +38,7 @@
 - [x] **Stage 3:** EPUB infrastructure (`make_epub.py`)
 - [x] **Stage 4A:** Stub drafts for all chapters
 - [x] **Stage 4B (Pass 1):** All chapters expanded to ~1,900–3,900w
-- [ ] **Stage 4C (Pass 2):** Deep pass — each chapter to ~5,000w — IN PROGRESS
+- [x] **Stage 4C (Pass 2):** Deep pass — each chapter to ~5,000w — DONE
 - [ ] **Stage 5:** EPUB rebuild (after Pass 2 complete)
 - [ ] **Stage 6:** KDP metadata, blurb, pricing, upload
 

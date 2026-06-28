@@ -72,24 +72,6 @@ They weren't fighting for the United States. They were fighting for each other. 
 
 Ibn Khaldun would have recognized them immediately. He would have pointed to them and said: *these are the desert men. These are the ones who win.*
 
-But the Band of Brothers were not the first American soldiers to discover this truth. The original lesson came more than 160 years earlier, in a Pennsylvania forest in the winter of 1777.
-
-Valley Forge is remembered as a story of suffering. What it actually was, in Ibn Khaldun's framework, was the birth of American military Asabiyyah.
-
-By December of 1777, George Washington's Continental Army was in catastrophic condition. The British had just captured Philadelphia, the capital. The army had lost a string of battles. Thousands of men were deserting. The soldiers who remained camped at Valley Forge that winter had no adequate shelter, no sufficient food, and no consistent pay. Roughly 2,500 men — one in four — died of disease, exposure, and starvation between December and February. The men were not fighting. They were simply trying to survive.
-
-What saved the army was not a supply convoy or a political solution. It was a Prussian drillmaster named Friedrich Wilhelm von Steuben, who arrived in February 1778 and did something that had never been done to the Continental Army: he forced them to suffer together, in an organized way, for a shared purpose.
-
-Von Steuben drilled the men relentlessly. He taught them to march in formation, load their muskets on command, and maneuver as a single body rather than a collection of frightened individuals. The drilling was grueling. But its real effect was not tactical — it was social. Men who had been strangers, drawn from twelve different colonies with different accents and different loyalties, began to move as one organism. They sweated together, froze together, cursed together, and laughed together. They watched each other perform, fail, and improve. By spring, the men who had survived Valley Forge were not the same soldiers who had arrived in December.
-
-They were a tribe.
-
-The British army that faced Washington's men at the Battle of Monmouth in June 1778 encountered something they had not seen before: American soldiers who did not break under fire. Who held their formations. Who fought not as a mob of colonists but as a disciplined, cohesive military unit.
-
-The same pattern repeats in every military history. Napoleon's *Grande Armée* was not the most disciplined force in Europe. It was the most bonded. The early Arab armies were not the largest forces in the Mediterranean world. They were the most unified. The Mongol cavalry was not the most technologically sophisticated. It moved as a single will across the steppe.
-
-In every case, the Asabiyyah was forged in hardship. You cannot inherit it. You cannot buy it. You can only build it the way every tribe throughout history has built it: by going through something terrible together and choosing to survive.
-
 ### Asabiyyah in Religion: The Most Powerful Amplifier
 
 Ibn Khaldun was not a romantic about Asabiyyah. He was a scientist of it. And his most important observation — the one that most modern readers miss — is this: of all the forces that generate Asabiyyah, religion is by far the most powerful.
@@ -97,20 +79,6 @@ Ibn Khaldun was not a romantic about Asabiyyah. He was a scientist of it. And hi
 He wrote it plainly. A tribe unified by blood loyalty is formidable. A tribe unified by blood loyalty *and* divine conviction is, in his words, nearly unstoppable. When people believe that God is behind their cause — that they are not merely fighting for their clan or their territory but for a cosmic purpose — the limits on their commitment essentially dissolve.
 
 History has not contradicted him once.
-
-Consider the century following the death of the Prophet Muhammad in 632 AD. What followed was the fastest and most complete military expansion in recorded history.
-
-The Arab armies that erupted out of the Arabian Peninsula were not large. The Persian Empire — the superpower of its age, with professional soldiers, sophisticated logistics, and centuries of military tradition — could field forces three or four times their size. The Byzantine Roman Empire, which had governed Egypt, Syria, and North Africa for three hundred years, had administrative infrastructure and fortified cities that nomadic Arab warriors had never encountered.
-
-Neither empire survived the encounter.
-
-Within thirty years of Muhammad's death, the Arab armies had destroyed the Persian Empire entirely — a civilization that had stood for a thousand years — and had stripped Byzantium of Egypt, Syria, Palestine, and all of North Africa. Within one hundred years, they had crossed the Mediterranean into Spain, pushed through the Pyrenees, and were advancing into France before being halted at the Battle of Tours in 732 AD.
-
-Seven hundred years after Caesar, Rome's former provinces were under new rule. It happened in a single lifetime.
-
-Ibn Khaldun's explanation was precise. The Arab armies were not more skilled than their opponents. They were more unified — and their unity was fused with a religious conviction that transformed every battle into an act of cosmic significance. A soldier who believes he is fighting for survival can be broken. A soldier who believes he is fighting for God's command and that death in service of that command is a direct route to paradise has removed the primary obstacle to total commitment.
-
-He was careful to note that this effect is not unique to Islam. It is structural. Any religious movement that fuses tribal Asabiyyah with transcendent purpose generates the same amplification. The Crusader armies. The Puritan settlers of New England. The Sikh warriors of the Khalsa.
 
 The most striking modern example is one that almost no one frames in these terms: the Mormon pioneer movement.
 
@@ -125,72 +93,6 @@ The founding generation endured conditions as brutal as Valley Forge and survive
 Today the LDS Church has 17 million members across 196 countries. The Asabiyyah ignited in the 1840s — tested in the desert, hardened by persecution, fused with religious identity — has sustained and replicated itself for nearly two centuries.
 
 Ibn Khaldun would not have found this surprising in the least.
-
-### Asabiyyah in Business: The Apple Uprising
-
-In 1981, Steve Jobs did something that most corporate managers would consider insane.
-
-He took his Macintosh product team—around thirty engineers and designers—and moved them into a separate building on Apple's Cupertino campus. Then he flew a pirate flag above the building. The message to the rest of Apple, and to the technology industry at large, could not have been clearer: *we are not the navy. We are the pirates.*
-
-Jobs had studied the IBM corporation and identified something that terrified him: IBM was winning not because it was more innovative than Apple, but because it was more organized, more disciplined, and better at executing at scale. Apple, with its freewheeling culture of individual genius, was losing the corporate war.
-
-His response was not to make Apple more like IBM. His response was to make the Mac team more like a tribe.
-
-He recruited obsessively for attitude over skill. He wanted people who believed, with a religious fervor, that they were building something that would change the world. He rejected anyone who seemed merely interested in a good salary and a comfortable career. He wanted hunger. He wanted people who would feel the mission of the Macintosh as a personal calling, not a job description.
-
-The result was electric. The original Mac team worked 90-hour weeks not because Jobs forced them to, but because they couldn't stop. They were consumed by the project in the same way that a tribe is consumed by the survival of its people. They signed their names on the inside of the Mac's casing—a gesture that no customer would ever see—because the machine was their creation, their monument, their declaration of identity.
-
-*We were here. We built this. This is ours.*
-
-That is Asabiyyah.
-
-Then, in 1985, Apple's board of directors fired Steve Jobs.
-
-What happened next is a masterclass in what Ibn Khaldun had described six centuries earlier: when the source of a group's Asabiyyah is removed, the group disintegrates. The Mac team scattered. The pirate flag came down. Professional managers with MBA degrees and five-year plans moved in and tried to run Apple like an ordinary corporation.
-
-Over the next twelve years, Apple's market share collapsed from 16 percent to under 4 percent. By 1997, the company was ninety days from bankruptcy. The stock price had fallen to $3.30 per share.
-
-Jobs returned in 1997. His first act was not a new product. It was a new campaign: *Think Different*. Images of Einstein, Gandhi, Picasso, Muhammad Ali. The message was not aimed at customers. It was aimed at Apple employees. It was a rallying cry to reassemble the tribe. *We are the rebels. We are the outsiders. We are going to change the world again.*
-
-The Asabiyyah reignited. The rest of the story is the most spectacular corporate comeback in modern history: the iMac, the iPod, the iPhone, the iPad, and Apple's ascent to become the most valuable company in human history.
-
-### Asabiyyah in Sports: The Dynasty
-
-Professional sports offer the cleanest laboratory in the world for studying Asabiyyah, because the results are unambiguous and the timelines are compressed. A team either wins or it doesn't. And the teams that win consistently—the dynasties—share a single characteristic that has nothing to do with talent.
-
-Consider the New England Patriots from 2001 to 2019.
-
-During that period, the Patriots won six Super Bowls—the most successful dynasty in the history of American professional sports. They did it without the most talented roster. In many of those championship years, other teams had higher-paid players, bigger stars, and more first-round draft picks.
-
-What the Patriots had was a culture so ruthlessly focused on collective identity that it bordered on cult-like. The team's slogan—*Do Your Job*—wasn't motivational. It was a description of a precise social contract: know your role, execute your role, subordinate your ego to the team's mission. Players who couldn't accept this were traded immediately, regardless of their individual talent. Veteran stars were released the moment their market value exceeded their contribution to the collective.
-
-From the outside, this looked cold. From the inside, it created a bond of absolute mutual trust. Every man knew that every other man was operating at maximum commitment to the same goal. No one was coasting. No one was protecting a personal brand. The team moved as one organism.
-
-Compare this to the New York Yankees of the same era—the team that outspent every competitor in baseball, assembling rosters of All-Stars and superstars—and repeatedly failed to win championships. The talent was there. The Asabiyyah wasn't. A locker room of highly paid individual stars, each protecting his statistics and his contract value, is the opposite of a tribe. It is a collection of separate interests wearing the same uniform.
-
-Ibn Khaldun described this dynamic precisely. A group of individually powerful men who have lost their Asabiyyah is weaker than a group of mediocre men who are perfectly united. The math of collective action always beats the math of individual talent.
-
-### Why Startups Always Beat Corporations (For a While)
-
-The most economically consequential version of this dynamic in the modern world is the battle between startups and established corporations.
-
-The pattern is so reliable that it has become a cliché of the technology industry: a tiny team of founders with no money, no infrastructure, and no brand recognition somehow defeats a massive corporation with billions in resources, thousands of employees, and decades of institutional knowledge.
-
-In 1995, Amazon was a team of three people operating out of Jeff Bezos's garage in Bellevue, Washington. Its competitor was Borders Books—a company with 1,249 retail stores, established distribution networks, supplier relationships, and $2 billion in annual revenue. On paper, there was no contest. Borders should have simply built a website, undercut Amazon on price, and crushed the upstart.
-
-Instead, Bezos's team of three—obsessed, sleep-deprived, driven by a vision that their colleagues thought was lunacy—built something that Borders couldn't replicate: the ferocious, unified energy of people with nothing to lose.
-
-By 2011, Borders was bankrupt. Amazon was worth $100 billion.
-
-The same story, with minor variations, played out at Netflix versus Blockbuster, at Google versus Yahoo, at Uber versus the taxi industry. In each case, the entrenched power had every structural advantage: money, political connections, existing customers, infrastructure. And in each case, it lost to a small, hungry, fanatically united group who acted like a tribe, not a corporation.
-
-Venture capitalists have built entire investment theses around this observation. The technical term they use is "founder-market fit" or "missionary versus mercenary." The missionary startup—the one where the founders believe with religious conviction that they are changing the world—almost always outperforms the mercenary startup, where talented professionals are simply executing for a return.
-
-The missionaries have Asabiyyah. The mercenaries don't.
-
-But here is the part that the startup world rarely acknowledges: Ibn Khaldun's framework predicts exactly what happens next. The scrappy startup wins. It grows. It becomes successful. It moves into a luxurious new campus with a cafeteria and a gym and a PR department. It starts issuing stock options and hiring professional managers and building org charts. And slowly, invisibly, the Asabiyyah dissolves.
-
-The pirates become the navy. And somewhere in a garage, a new tribe is already plotting to take them down.
 
 ### When Asabiyyah Turns Dark
 
