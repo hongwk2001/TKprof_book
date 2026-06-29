@@ -7,7 +7,17 @@ import re
 # ── Paths ────────────────────────────────────────────────────────────────────
 BASE_DIR      = os.path.dirname(os.path.abspath(__file__))
 CHAPTERS_DIR  = os.path.join(BASE_DIR, "chapters_kr_v2")
+IMAGES_DIR    = os.path.join(BASE_DIR, "images")
 OUTPUT_FILE   = os.path.join(BASE_DIR, "beowulf_ko_v2.epub")
+
+# ── Image Mapping ────────────────────────────────────────────────────────────
+IMAGE_MAPPING = {
+    'ch12': 'illu_grendel.jpg',
+    'ch26': 'illu_water_witch.jpg',
+    'ch29': 'illu_grendel_head.jpg',
+    'ch39': 'illu_dragon.jpg',
+    'ch43': 'illu_death.png'
+}
 
 # ── CSS Style ─────────────────────────────────────────────────────────────────
 STYLE = """
@@ -62,13 +72,25 @@ blockquote p {
     text-indent: 0;
     margin: 0;
 }
+
+.illustration {
+    text-align: center;
+    margin: 2em 0;
+}
+
+.illustration img {
+    max-width: 100%;
+    height: auto;
+    border: 2px solid #8b6040;
+    border-radius: 4px;
+}
 """
 
 def read_txt(path):
     with open(path, "r", encoding="utf-8") as f:
         return f.read().strip()
 
-def txt_to_html(text, title):
+def txt_to_html(text, title, image_file=None):
     lines = text.split("\n")
     html_parts = [
         "<?xml version='1.0' encoding='utf-8'?>",
@@ -82,6 +104,9 @@ def txt_to_html(text, title):
         f"<h1>{title}</h1>"
     ]
     
+    if image_file:
+        html_parts.append(f"<div class=\"illustration\"><img src=\"../Images/{image_file}\" alt=\"Illustration\"/></div>")
+    
     in_blockquote = False
     
     for line in lines:
@@ -91,7 +116,7 @@ def txt_to_html(text, title):
         
         # Skip the chapter title if it's already the first line
         if line == title or (line.startswith("제") and "장" in line and ":" in line):
-            if html_parts[-1] == f"<h1>{title}</h1>":
+            if html_parts[-1] == f"<h1>{title}</h1>" or html_parts[-2] == f"<h1>{title}</h1>": # In case of image
                 continue
 
         if line.startswith(">"):
@@ -117,11 +142,40 @@ def txt_to_html(text, title):
     html_parts.append("</html>")
     return "\n".join(html_parts)
 
+def get_media_type(filename):
+    ext = filename.lower().split('.')[-1]
+    if ext in ['jpg', 'jpeg']:
+        return 'image/jpeg'
+    elif ext == 'png':
+        return 'image/png'
+    elif ext == 'gif':
+        return 'image/gif'
+    return 'application/octet-stream'
+
 def main():
-    print("Building EPUB natively...")
+    print("Building EPUB natively with images...")
     
     chapters = []
     
+    # 0. Cover Page
+    cover_html = [
+        "<?xml version='1.0' encoding='utf-8'?>",
+        "<!DOCTYPE html>",
+        "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">",
+        "<head>",
+        "  <title>Cover</title>",
+        "  <style type=\"text/css\">",
+        "    body { margin: 0; padding: 0; text-align: center; background-color: #000; }",
+        "    img { max-width: 100%; height: 100vh; object-fit: contain; }",
+        "  </style>",
+        "</head>",
+        "<body>",
+        "  <div><img src=\"../Images/cover.jpg\" alt=\"Cover\"/></div>",
+        "</body>",
+        "</html>"
+    ]
+    chapters.append({'id': 'cover', 'href': 'Text/cover.xhtml', 'title': '표지', 'content': "\n".join(cover_html)})
+
     # 1. Introduction
     intro_txt_path = os.path.join(CHAPTERS_DIR, "introduction_ko_v2.txt")
     if os.path.exists(intro_txt_path):
@@ -139,9 +193,12 @@ def main():
         first_line = text.split("\n")[0].strip()
         title = first_line if first_line else f"제{i}장"
         
-        ch_html = txt_to_html(text, title)
         uid = f"ch{i:02d}"
         fname = f"Text/ch{i:02d}.xhtml"
+        
+        image_file = IMAGE_MAPPING.get(uid)
+        ch_html = txt_to_html(text, title, image_file)
+        
         chapters.append({'id': uid, 'href': fname, 'title': title, 'content': ch_html})
 
     # 3. Copyright
@@ -169,6 +226,7 @@ def main():
         "    <dc:subject>판타지</dc:subject>",
         "    <dc:subject>액션</dc:subject>",
         "    <dc:subject>웹소설</dc:subject>",
+        "    <meta name=\"cover\" content=\"cover-image\"/>",
         f"    <meta property=\"dcterms:modified\">{modified_date}</meta>",
         "  </metadata>",
         "  <manifest>",
@@ -177,6 +235,15 @@ def main():
         "    <item id=\"css\" href=\"Styles/main.css\" media-type=\"text/css\"/>"
     ]
     
+    # Images in manifest
+    image_files = ['cover.jpg', 'illu_death.png', 'illu_dragon.jpg', 'illu_grendel.jpg', 'illu_grendel_head.jpg', 'illu_water_witch.jpg']
+    for img in image_files:
+        img_id = "cover-image" if img == "cover.jpg" else f"img_{img.split('.')[0]}"
+        mtype = get_media_type(img)
+        props = " properties=\"cover-image\"" if img == "cover.jpg" else ""
+        opf_parts.append(f"    <item id=\"{img_id}\" href=\"Images/{img}\" media-type=\"{mtype}\"{props}/>")
+    
+    # Chapters in manifest
     for ch in chapters:
         opf_parts.append(f"    <item id=\"{ch['id']}\" href=\"{ch['href']}\" media-type=\"application/xhtml+xml\"/>")
         
@@ -247,9 +314,15 @@ def main():
         
         for ch in chapters:
             zf.writestr(f"OEBPS/{ch['href']}", ch['content'].encode('utf-8'), compress_type=zipfile.ZIP_DEFLATED)
+            
+        # Write images to zip
+        for img in image_files:
+            img_path = os.path.join(IMAGES_DIR, img)
+            if os.path.exists(img_path):
+                zf.write(img_path, f"OEBPS/Images/{img}", compress_type=zipfile.ZIP_STORED)
 
     size_kb = os.path.getsize(OUTPUT_FILE) / 1024
-    print(f"\nNative EPUB created: {OUTPUT_FILE}")
+    print(f"\\nNative EPUB created: {OUTPUT_FILE}")
     print(f"Size: {size_kb:.0f} KB")
 
 if __name__ == "__main__":
