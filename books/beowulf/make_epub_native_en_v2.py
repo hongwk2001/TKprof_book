@@ -6,7 +6,26 @@ from datetime import datetime, timezone
 # ── Paths ────────────────────────────────────────────────────────────────────
 BASE_DIR      = os.path.dirname(os.path.abspath(__file__))
 CHAPTERS_DIR  = os.path.join(BASE_DIR, "chapters_en_v2")
+IMAGES_DIR    = os.path.join(BASE_DIR, "images")
 OUTPUT_FILE   = os.path.join(BASE_DIR, "beowulf_en_v2.epub")
+
+# Mapping of chapter numbers to image filenames
+CHAPTER_IMAGES = {
+    11: ["illu_grendel.jpg"],
+    26: ["illu_water_witch.jpg"],
+    29: ["illu_grendel_head.jpg"],
+    39: ["illu_dragon.jpg"],
+    43: ["illu_death.png"]
+}
+
+# Alt text mapping for accessibility
+IMAGE_ALTS = {
+    "illu_grendel.jpg": "Illustration of the monstrous Grendel lurking in the dark outside the royal hall.",
+    "illu_water_witch.jpg": "Illustration of Grendel's mother, the fierce water-witch, emerging from the lake.",
+    "illu_grendel_head.jpg": "Illustration of Grendel's giant severed head being carried into the hall.",
+    "illu_dragon.jpg": "Illustration of the fearsome fire dragon defending its hoard in the cave.",
+    "illu_death.png": "Illustration of Beowulf's final moments and his tragic death."
+}
 
 # ── CSS Style ─────────────────────────────────────────────────────────────────
 STYLE = """
@@ -59,13 +78,28 @@ blockquote p {
     text-indent: 0;
     margin: 0;
 }
+
+img.illustration {
+    display: block;
+    max-width: 90%;
+    margin: 2em auto;
+    border: 1px solid #ccc;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.separator {
+    text-align: center;
+    margin: 2em 0;
+    color: #8b6040;
+    font-size: 1.2em;
+}
 """
 
 def read_txt(path):
     with open(path, "r", encoding="utf-8") as f:
         return f.read().strip()
 
-def txt_to_html(text, title):
+def txt_to_html(text, title, images=None):
     lines = text.split("\n")
     html_parts = [
         "<?xml version='1.0' encoding='utf-8'?>",
@@ -110,14 +144,21 @@ def txt_to_html(text, title):
     if in_blockquote:
         html_parts.append("</blockquote>")
 
+    if images:
+        for img_name in images:
+            alt_text = IMAGE_ALTS.get(img_name, "Illustration of the scene")
+            html_parts.append('<div class="separator">* * *</div>')
+            html_parts.append(f'<img class="illustration" src="../Images/{img_name}" alt="{alt_text}"/>')
+
     html_parts.append("</body>")
     html_parts.append("</html>")
     return "\n".join(html_parts)
 
 def main():
-    print("Building EPUB natively...")
+    print("Building EPUB natively with illustrations...")
     
     chapters = []
+    images_to_add = []
     
     # 1. Introduction
     intro_txt_path = os.path.join(CHAPTERS_DIR, "introduction_en_v2.txt")
@@ -136,7 +177,15 @@ def main():
         first_line = text.split("\n")[0].strip()
         title = first_line if first_line else f"Chapter {i}"
         
-        ch_html = txt_to_html(text, title)
+        img_names = []
+        for img_name in CHAPTER_IMAGES.get(i, []):
+            img_path = os.path.join(IMAGES_DIR, img_name)
+            if os.path.exists(img_path):
+                mime = "image/png" if img_name.endswith(".png") else "image/jpeg"
+                images_to_add.append((img_path, img_name, mime))
+                img_names.append(img_name)
+                
+        ch_html = txt_to_html(text, title, images=img_names)
         uid = f"ch{i:02d}"
         fname = f"Text/ch{i:02d}.xhtml"
         chapters.append({'id': uid, 'href': fname, 'title': title, 'content': ch_html})
@@ -147,6 +196,13 @@ def main():
         copy_text = read_txt(copy_txt_path)
         copy_html = txt_to_html(copy_text, "Copyright and Editor's Note")
         chapters.append({'id': 'copyright', 'href': 'Text/copyright.xhtml', 'title': "Copyright and Editor's Note", 'content': copy_html})
+
+    # Cover image
+    has_cover = False
+    cover_src = os.path.join(IMAGES_DIR, "cover.jpg")
+    if os.path.exists(cover_src):
+        images_to_add.append((cover_src, "cover.jpg", "image/jpeg"))
+        has_cover = True
 
     book_uuid = f"urn:uuid:{uuid.uuid4()}"
     modified_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -166,17 +222,26 @@ def main():
         "    <dc:subject>Fantasy</dc:subject>",
         "    <dc:subject>Action</dc:subject>",
         "    <dc:subject>Web Novel</dc:subject>",
-        f"    <meta property=\"dcterms:modified\">{modified_date}</meta>",
-        "  </metadata>",
-        "  <manifest>",
-        "    <item id=\"ncx\" href=\"toc.ncx\" media-type=\"application/x-dtbncx+xml\"/>",
-        "    <item id=\"nav\" href=\"nav.xhtml\" media-type=\"application/xhtml+xml\" properties=\"nav\"/>",
-        "    <item id=\"css\" href=\"Styles/main.css\" media-type=\"text/css\"/>"
+        f"    <meta property=\"dcterms:modified\">{modified_date}</meta>"
     ]
+    if has_cover:
+        opf_parts.append("    <meta name=\"cover\" content=\"cover-image\"/>")
+    opf_parts.append("  </metadata>")
+    opf_parts.append("  <manifest>")
+    opf_parts.append("    <item id=\"ncx\" href=\"toc.ncx\" media-type=\"application/x-dtbncx+xml\"/>")
+    opf_parts.append("    <item id=\"nav\" href=\"nav.xhtml\" media-type=\"application/xhtml+xml\" properties=\"nav\"/>")
+    opf_parts.append("    <item id=\"css\" href=\"Styles/main.css\" media-type=\"text/css\"/>")
     
     for ch in chapters:
         opf_parts.append(f"    <item id=\"{ch['id']}\" href=\"{ch['href']}\" media-type=\"application/xhtml+xml\"/>")
         
+    for img_path, img_name, mime in images_to_add:
+        img_id = img_name.replace(".", "-").replace("_", "-")
+        if img_name == "cover.jpg":
+            opf_parts.append(f"    <item id=\"cover-image\" href=\"Images/{img_name}\" media-type=\"{mime}\" properties=\"cover-image\"/>")
+        else:
+            opf_parts.append(f"    <item id=\"{img_id}\" href=\"Images/{img_name}\" media-type=\"{mime}\"/>")
+
     opf_parts.append("  </manifest>")
     opf_parts.append("  <spine toc=\"ncx\">")
     for ch in chapters:
@@ -244,9 +309,14 @@ def main():
         
         for ch in chapters:
             zf.writestr(f"OEBPS/{ch['href']}", ch['content'].encode('utf-8'), compress_type=zipfile.ZIP_DEFLATED)
+            
+        for img_path, img_name, mime in images_to_add:
+            with open(img_path, 'rb') as f:
+                img_data = f.read()
+            zf.writestr(f"OEBPS/Images/{img_name}", img_data, compress_type=zipfile.ZIP_DEFLATED)
 
     size_kb = os.path.getsize(OUTPUT_FILE) / 1024
-    print(f"Native EPUB created: {OUTPUT_FILE}")
+    print(f"Native EPUB with illustrations created: {OUTPUT_FILE}")
     print(f"Size: {size_kb:.0f} KB")
 
 if __name__ == "__main__":
