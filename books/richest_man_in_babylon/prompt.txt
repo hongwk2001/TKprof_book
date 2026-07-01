@@ -11,3 +11,7 @@ Guidelines:
 7. Emphasize and format any core financial rules or principles (like the "Five Laws of Gold") clearly.
 8. Re-arrange awkward dialogue tags so they don't interrupt sentences. For example, instead of `"I," replied the man, "am a scribe"`, change it to `The man replied, "I am a scribe."` to make it sound natural for TTS.
 9. Output ONLY the modernized version of the paragraphs. Maintain the exact paragraph separations. No explanations, no introductory notes.
+10. Replace archaic exclamations with natural modern equivalents that match the character's emotion and tone:
+    - "Bah!" → "Ugh!" or "Pfft!" (dismissive vs. disgusted — use your judgment)
+    - "Humbug!" → "Bullcrap!" or "B.S.!" (strong disbelief or dismissal)
+    - Pick whichever fits the character's voice and scene intensity best.
