@@ -40,6 +40,7 @@
 - [x] Dialogue tagging with `<arkad>` and `<rest>` XML tags via subagent swarm.
 - [x] Convert tagged chapters to structured JSON scripts (`scripts/script_ch_*.json`).
 - [x] Generate TTS clips and mix final audio per chapter (`final_audio/final_ch_*.mp3`).
+  - *Note: `final_ch_00.mp3` (Frontmatter/TOC) is excluded from the final audiobook.*
 - [x] Verify audio quality and pacing.
 
 ### 🎵 Audio Structure (per chapter)
@@ -57,6 +58,7 @@ Each chapter audio is assembled in this order:
 
 ## Stage 6: E-book Compilation (Reference: Blue Castle Project)
 - [ ] Compile the segmented chapters and assets into standard e-reader formats (EPUB/HTML).
+  - *Note: `ch_00` (Frontmatter/TOC) is excluded from the final text compilations.*
 - [ ] Use the `make_epub_native.py` script to compile clean, spec-compliant EPUB3 books without dependencies.
 
 ## Stage 7: Metadata & Publishing Prep
