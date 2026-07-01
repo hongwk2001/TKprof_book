@@ -63,8 +63,8 @@ def call_gemini_api(api_key, prompt):
     data = json.dumps(payload).encode("utf-8")
     req = urllib.request.Request(url, data=data, headers=headers, method="POST")
     
-    # Retry up to 3 times on temporary network errors
-    for attempt in range(3):
+    # Retry up to 7 times on temporary network errors
+    for attempt in range(7):
         try:
             with urllib.request.urlopen(req) as response:
                 res_body = response.read().decode("utf-8")
@@ -92,7 +92,12 @@ def call_gemini_api(api_key, prompt):
             else:
                 print(f"HTTP Error {e.code} on attempt {attempt+1}: {e.reason}")
                 print(f"Details: {err_body}")
-                time.sleep(2)
+                if e.code in [503, 500, 502, 504]:
+                    delay = min(60, 2 ** attempt * 5)
+                    print(f"Service error. Waiting {delay} seconds...")
+                    time.sleep(delay)
+                else:
+                    time.sleep(2)
         except Exception as e:
             print(f"Network error on attempt {attempt+1}: {e}")
             time.sleep(2)
@@ -114,6 +119,16 @@ def process_chapter(book_id, raw_filename, api_key):
     else:
         dest_filename = raw_filename.replace("raw_", "").replace(".txt", "_en.txt")
     dest_path = os.path.join(dest_dir, dest_filename)
+    
+    # Check for custom prompt.txt
+    prompt_file = os.path.join(book_path, "prompt.txt")
+    if os.path.exists(prompt_file):
+        with open(prompt_file, "r", encoding="utf-8") as pf:
+            current_prompt_template = pf.read()
+            if "{text}" not in current_prompt_template:
+                current_prompt_template += "\n\nText to modernize:\n{text}"
+    else:
+        current_prompt_template = PROMPT_TEMPLATE
     
     if not os.path.exists(raw_ch_path):
         print(f"Raw chapter file not found: {raw_ch_path}")
@@ -147,7 +162,7 @@ def process_chapter(book_id, raw_filename, api_key):
         batch_text = "\n\n".join(batch)
         
         print(f"  Processing batch {batch_idx}/{total_batches} ({len(batch)} paras)...")
-        prompt = PROMPT_TEMPLATE.format(text=batch_text)
+        prompt = current_prompt_template.format(text=batch_text)
         
         modernized_text = call_gemini_api(api_key, prompt)
         if modernized_text == "QUOTA_EXHAUSTED":

@@ -42,3 +42,8 @@ Desktop.ini
 .swarm/orchestrator.log
 .swarm/mailboxes/*/processed/*
 !.swarm/mailboxes/*/processed/.gitkeep
+
+# Virtual Environments
+venv/
+wsl_venv/
+.venv/
