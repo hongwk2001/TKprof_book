@@ -38,6 +38,8 @@ def parse_text_to_script(text):
             current_voice = "narrator"
         else:
             txt = token.strip()
+            # Strip problematic characters for TTS
+            txt = txt.replace('*', '').replace('#', '')
             if txt: # only append non-empty text
                 script.append({
                     "character": current_voice,
