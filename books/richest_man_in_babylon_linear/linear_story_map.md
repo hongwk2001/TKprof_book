@@ -1,4 +1,4 @@
-# Linear Story Map: The Richest Man in Babylon (Recreated)
+# Story Map: The Richest Man in Babylon: Recreated as a Novel
 
 This blueprint reorganizes the original scattered parables into a single, cohesive, and linear narrative. By focusing on a single protagonist (**Tarkad**) and centering the mentorship around a **younger, rising Arkad** (in his 30s/40s) and his associate **Mathon**, we turn a collection of essays into a unified novel of financial redemption.
 

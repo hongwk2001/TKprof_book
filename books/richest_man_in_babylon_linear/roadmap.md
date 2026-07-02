@@ -1,4 +1,4 @@
-# The Richest Man in Babylon: Linear Edition - Project Roadmap
+# The Richest Man in Babylon: Recreated as a Novel - Project Roadmap
 
 This project aims to rewrite George S. Clason’s classic *The Richest Man in Babylon* into a single, cohesive, chronological novel following the journey of Tarkad under the mentorship of Arkad and Mathon.
 

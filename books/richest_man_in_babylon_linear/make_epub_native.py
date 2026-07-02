@@ -1,6 +1,6 @@
 """
 make_epub_native.py
-Compiles the Recreated Linear Edition of The Richest Man in Babylon into an EPUB file directly using python's zipfile.
+Compiles the Recreated as a Novel edition of The Richest Man in Babylon into an EPUB file directly using python's zipfile.
 This generates a clean EPUB3 structure.
 """
 
@@ -174,7 +174,7 @@ def main():
         "<package xmlns=\"http://www.idpf.org/2007/opf\" unique-identifier=\"pub-id\" version=\"3.0\">",
         "  <metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\">",
         f"    <dc:identifier id=\"pub-id\">{book_uuid}</dc:identifier>",
-        "    <dc:title>The Richest Man in Babylon (Recreated Linear Edition)</dc:title>",
+        "    <dc:title>The Richest Man in Babylon: Recreated as a Novel</dc:title>",
         "    <dc:language>en</dc:language>",
         "    <dc:creator>George S. Clason</dc:creator>",
         "    <dc:publisher>TKPROF LLC</dc:publisher>",
@@ -217,7 +217,7 @@ def main():
         "    <meta name=\"dtb:totalPageCount\" content=\"0\"/>",
         "    <meta name=\"dtb:maxPageNumber\" content=\"0\"/>",
         "  </head>",
-        "  <docTitle><text>The Richest Man in Babylon (Linear Edition)</text></docTitle>",
+        "  <docTitle><text>The Richest Man in Babylon: Recreated as a Novel</text></docTitle>",
         "  <navMap>"
     ]
     for idx, ch in enumerate(chapters, 1):
