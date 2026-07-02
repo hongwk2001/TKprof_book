@@ -58,14 +58,13 @@ def generate_chapter(ch_num):
     for clip in audio_segments:
         combined += clip + short_silence
         
-    # 3. Add cinematic intro + chime (no Bach bumper)
-    print("Adding cinematic intro and chime...")
+    # 3. Add cinematic intro (no Bach bumper, no chime)
+    print("Adding cinematic intro...")
     cinematic = AudioSegment.from_mp3("freesound_community-cinematic-intro-6097.mp3")
-    chime = AudioSegment.from_mp3("chime.mp3")
     
     # Final assembly
-    # [Cinematic] -> [Chime] -> [Narration] -> [Chime]
-    final_audio = cinematic + AudioSegment.silent(duration=500) + chime + AudioSegment.silent(duration=500) + combined + AudioSegment.silent(duration=500) + chime
+    # [Cinematic] -> [Narration]
+    final_audio = cinematic + AudioSegment.silent(duration=500) + combined
     
     out_file = os.path.join(OUTPUT_DIR, f"final_ch_{ch_num}.mp3")
     final_audio.export(out_file, format="mp3")

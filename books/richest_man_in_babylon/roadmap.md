@@ -46,11 +46,9 @@
 ### 🎵 Audio Structure (per chapter)
 Each chapter audio is assembled in this order:
 1. **Cinematic Intro** — `freesound_community-cinematic-intro-6097.mp3` (dramatic opening)
-2. **Bach Bumper (Intro)** — `background.mp3` first 7s, fade-in → fade-out
-3. **Bell Chime** — `chime.mp3` (user-selected soft bell from freesound.org)
-4. **Narration** — Multi-voice TTS (Christopher/Narrator, Steffan/Arkad, Ryan/Rest)
-5. **Bell Chime** — `chime.mp3` (closing)
-6. **Bach Bumper (Outro)** — `background.mp3` 7–14s, fade-in → fade-out
+2. **Narration** — Multi-voice TTS (Christopher/Narrator, Steffan/Arkad, Ryan/Rest)
+
+*Note: Bell chimes (`chime.mp3`) and Bach bumpers (`background.mp3`) were originally tested but have been excluded. If audio is ever re-rendered, ensure all bell sounds are removed from the pipeline.*
 
 ### 🛠 Scripts
 - `generate_audio.py` — Full generation (TTS + mix), use for new chapters
