@@ -19,3 +19,4 @@ Guidelines:
     - Mild contempt or cringe: "That's pure cringe." or "What a con."
     - Pick whichever fits the character's voice, emotion, and scene intensity best.
 11. Do not use asterisks (`*`) or other special typographic symbols for emphasis or formatting, as they may be read out loud literally by the Text-to-Speech engine (e.g. saying the word "asterisk"). Use sentence structure or standard punctuation (like commas or exclamation marks) to convey emphasis instead.
+12. Do not use markdown header tags (`###`) or divider lines (`---`), as they can be read literally as "number sign" or "dash" by the Text-to-Speech engine. Use clean bracketed headers (e.g., `[Chapter Title]`) to denote section headings.
