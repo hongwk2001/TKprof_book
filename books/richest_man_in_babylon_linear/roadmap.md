@@ -12,16 +12,16 @@ This project aims to rewrite George S. Clason’s classic *The Richest Man in Ba
 - [x] Create this `roadmap.md` file.
 
 ### Stage 2: Drafting Chapters (Target: ~44,000 words total)
-- [ ] Draft **Chapter 1: The Golden City of Barefoot Men** (~3,000 words)
-- [ ] Draft **Chapter 2: The Scribe's Legacy** (~4,000 words)
-- [ ] Draft **Chapter 3: The Temple of Learning (The Seven Cures)** (~6,000 words)
-- [ ] Draft **Chapter 4: The Gold Lender's Scales** (~4,000 words)
-- [ ] Draft **Chapter 5: The Five Laws of Gold** (~4,000 words)
-- [ ] Draft **Chapter 6: The Syrian Trail (Dabasir's Escape)** (~6,500 words)
-- [ ] Draft **Chapter 7: The Debt Cleansing (The 70-20-10 Plan)** (~4,000 words)
-- [ ] Draft **Chapter 8: The Luckiest Man in Babylon** (~5,500 words)
-- [ ] Draft **Chapter 9: The Legacy of Babylon** (~2,000 words)
-- [ ] Draft **Epilogue: The Nottingham Letters** (~1,500 words)
+- [x] Draft **Chapter 1: The Golden City of Barefoot Men** (~3,000 words)
+- [x] Draft **Chapter 2: The Scribe's Legacy** (~4,000 words)
+- [x] Draft **Chapter 3: The Temple of Learning (The Seven Cures)** (~6,000 words)
+- [x] Draft **Chapter 4: The Gold Lender's Scales** (~4,000 words)
+- [x] Draft **Chapter 5: The Five Laws of Gold** (~4,000 words)
+- [x] Draft **Chapter 6: The Syrian Trail (Dabasir's Escape)** (~6,500 words)
+- [x] Draft **Chapter 7: The Debt Cleansing (The 70-20-10 Plan)** (~4,000 words)
+- [x] Draft **Chapter 8: The Luckiest Man in Babylon** (~5,500 words)
+- [x] Draft **Chapter 9: The Legacy of Babylon** (~2,000 words)
+- [x] Draft **Epilogue: The Nottingham Letters** (~1,500 words)
 
 ### Stage 3: Language Polish & Quality Audit
 - [ ] Review all chapters to ensure conversational flow, simple vocabulary (ideal for ESL/casual listeners), and consistent tone.
