@@ -42,19 +42,14 @@ def remix_chapter(ch_num):
     for clip in audio_segments:
         combined += clip + short_silence
 
-    # 3. Add cinematic intro + chime (no Bach bumper)
-    print("  Applying cinematic intro and chime...")
+    # 3. Add cinematic intro (no chime)
+    print("  Applying cinematic intro...")
     cinematic = AudioSegment.from_mp3("freesound_community-cinematic-intro-6097.mp3")
-    chime = AudioSegment.from_mp3("chime.mp3")
 
     final_audio = (
         cinematic                          # Cinematic intro at very beginning
         + AudioSegment.silent(duration=500)
-        + chime                            # Bell chime before narration
-        + AudioSegment.silent(duration=500)
         + combined                         # Main narration
-        + AudioSegment.silent(duration=500)
-        + chime                            # Bell chime after narration
     )
 
     out_file = os.path.join(OUTPUT_DIR, f"final_ch_{ch_num}.mp3")
