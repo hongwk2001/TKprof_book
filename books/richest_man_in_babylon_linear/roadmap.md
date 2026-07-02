@@ -10,6 +10,7 @@ This project aims to rewrite George S. Clason’s classic *The Richest Man in Ba
 - [x] Create linear story map (saved at `notes/linear_story_map.md`).
 - [x] Initialize new project directory `books/richest_man_in_babylon_linear/`.
 - [x] Create this `roadmap.md` file.
+- [x] Draft the introduction and copyright texts (`introduction_en.txt`, `copyright_en.txt`).
 
 ### Stage 2: Drafting Chapters (Target: ~44,000 words total)
 - [x] Draft **Chapter 1: The Golden City of Barefoot Men** (~3,000 words)
