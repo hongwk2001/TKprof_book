@@ -20,3 +20,4 @@ Guidelines:
     - Pick whichever fits the character's voice, emotion, and scene intensity best.
 11. Do not use asterisks (`*`) or other special typographic symbols for emphasis or formatting, as they may be read out loud literally by the Text-to-Speech engine (e.g. saying the word "asterisk"). Use sentence structure or standard punctuation (like commas or exclamation marks) to convey emphasis instead.
 12. Do not use markdown header tags (`###`) or divider lines (`---`), as they can be read literally as "number sign" or "dash" by the Text-to-Speech engine. Use clean bracketed headers (e.g., `[Chapter Title]`) to denote section headings.
+13. Convert all Roman numerals in chapter numbers and headings (e.g., "Chapter I", "Chapter II", "Chapter XVII") to standard Arabic numerals ("Chapter 1", "Chapter 2", "Chapter 17") so that the Text-to-Speech engine pronounces them correctly instead of saying "Chapter Eye" or "Chapter Eye-Eye".
