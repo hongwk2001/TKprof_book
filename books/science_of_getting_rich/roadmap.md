@@ -9,7 +9,7 @@
 - [x] Save as `science_of_getting_rich_raw.txt`.
 
 ## Stage 2: Chapter Segmentation
-- [ ] Split the full text into separate raw chapters stored under `chapters/` directory:
+- [x] Split the full text into separate raw chapters stored under `chapters/` directory:
   - `raw_ch_00.txt` (Frontmatter / Preface)
   - `raw_ch_01.txt` (Chapter I: The Right to Be Rich)
   - `raw_ch_02.txt` (Chapter II: There Is a Science of Getting Rich)
