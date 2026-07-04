@@ -1,0 +1,110 @@
+{
+  "en": {
+    "Narrator": {
+      "engine": "kokoro",
+      "voice": "am_michael"
+    },
+    "Gilgamesh": {
+      "engine": "kokoro",
+      "voice": "bm_george"
+    },
+    "Enkidu": {
+      "engine": "edge",
+      "voice": "en-GB-RyanNeural"
+    },
+    "Shamhat": {
+      "engine": "kokoro",
+      "voice": "af_bella"
+    },
+    "Ishtar": {
+      "engine": "edge",
+      "voice": "en-GB-SoniaNeural"
+    },
+    "Siduri": {
+      "engine": "kokoro",
+      "voice": "af_bella"
+    },
+    "Utnapishtim": {
+      "engine": "edge",
+      "voice": "en-US-BrianNeural"
+    },
+    "Utnapishtim_Wife": {
+      "engine": "edge",
+      "voice": "en-US-JennyNeural"
+    },
+    "Huwawa": {
+      "engine": "edge",
+      "voice": "en-GB-RyanNeural"
+    },
+    "ScorpionMan": {
+      "engine": "edge",
+      "voice": "en-GB-RyanNeural"
+    },
+    "Urshanabi": {
+      "engine": "edge",
+      "voice": "en-US-BrianNeural"
+    },
+    "Hunter": {
+      "engine": "edge",
+      "voice": "en-US-BrianNeural"
+    },
+    "Father": {
+      "engine": "edge",
+      "voice": "en-US-BrianNeural"
+    }
+  },
+  "ko": {
+    "Narrator": {
+      "engine": "edge",
+      "voice": "ko-KR-InJoonNeural"
+    },
+    "Gilgamesh": {
+      "engine": "edge",
+      "voice": "en-US-BrianMultilingualNeural"
+    },
+    "Enkidu": {
+      "engine": "edge",
+      "voice": "ko-KR-InJoonNeural"
+    },
+    "Shamhat": {
+      "engine": "edge",
+      "voice": "ko-KR-SunHiNeural"
+    },
+    "Ishtar": {
+      "engine": "edge",
+      "voice": "ko-KR-SunHiNeural"
+    },
+    "Siduri": {
+      "engine": "edge",
+      "voice": "ko-KR-SunHiNeural"
+    },
+    "Utnapishtim": {
+      "engine": "edge",
+      "voice": "ko-KR-InJoonNeural"
+    },
+    "Utnapishtim_Wife": {
+      "engine": "edge",
+      "voice": "ko-KR-SunHiNeural"
+    },
+    "Huwawa": {
+      "engine": "edge",
+      "voice": "ko-KR-HyunsuMultilingualNeural"
+    },
+    "ScorpionMan": {
+      "engine": "edge",
+      "voice": "ko-KR-InJoonNeural"
+    },
+    "Urshanabi": {
+      "engine": "edge",
+      "voice": "ko-KR-HyunsuMultilingualNeural"
+    },
+    "Hunter": {
+      "engine": "edge",
+      "voice": "ko-KR-InJoonNeural"
+    },
+    "Father": {
+      "engine": "edge",
+      "voice": "ko-KR-HyunsuMultilingualNeural"
+    }
+  }
+}

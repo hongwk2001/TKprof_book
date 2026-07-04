@@ -1,0 +1,278 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Chapter 6: The Great Flood and the Return",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "Utnapishtim looked at the exhausted King Gilgamesh and shook his head.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Utnapishtim",
+    "text": "Nothing lasts forever, Gilgamesh,",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Narrator",
+    "text": "the old man said.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Utnapishtim",
+    "text": "Do we build a house to stand forever? Does the river stay flooded? Since ancient times, there has been no permanence. The sleeper and the dead are the same; they are both pictures of death.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Gilgamesh",
+    "text": "But how did you obtain eternal life?",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Narrator",
+    "text": "Gilgamesh asked.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "Gilgamesh",
+    "text": "You look no different from me. How did you join the assembly of the gods?",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Narrator",
+    "text": "Utnapishtim replied,",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Utnapishtim",
+    "text": "I will reveal to you a secret of the gods. Long ago, in the ancient city of Shuruppak on the banks of the Euphrates, the gods grew angry at the noise of mankind. They decided to destroy the world with a great flood. But Ea, the god of wisdom, took pity on me. He whispered the secret to my house through a reed wall, saying, 'O man of Shuruppak, tear down your house and build a giant ark! Give up your possessions and save your life. Bring into the ark the seed of all living creatures.'",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Utnapishtim",
+    "text": "I built the ark as Ea commanded,",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Narrator",
+    "text": "Utnapishtim continued.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Utnapishtim",
+    "text": "I brought in my family, my gold, and two of every animal. Then, the sky turned black, and a terrible storm raged for six days and six nights. The waters rose so high that they covered the mountains, and all of mankind turned back into clay. Even the gods were terrified of the flood and wept. On the seventh day, the storm stopped, and the ark came to rest on the peaks of Mount Nimush. I opened a window and saw only water. I fell to my knees and wept.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "role": "Utnapishtim",
+    "text": "When the gods saw the destruction,",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "role": "Narrator",
+    "text": "Utnapishtim said,",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "role": "Utnapishtim",
+    "text": "they felt deep regret. The god Enlil came to the ark, touched our heads, and blessed my wife and me, saying, 'Before this, Utnapishtim was but a human. From now on, he and his wife shall live forever at the mouth of the rivers.' That is how we received eternal life. But who will gather the gods for you, Gilgamesh? Who will give you immortality?",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "role": "Utnapishtim",
+    "text": "If you think you can conquer death,",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "role": "Narrator",
+    "text": "Utnapishtim challenged,",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "role": "Utnapishtim",
+    "text": "first try to conquer sleep. Avoid sleeping for six days and seven nights.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "role": "Narrator",
+    "text": "Gilgamesh sat down on the shore, determined to stay awake. But the moment he sat, exhaustion overtook him like a heavy fog. He closed his eyes and fell into a deep sleep.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "role": "Narrator",
+    "text": "To prove how long Gilgamesh slept, Utnapishtim told his wife,",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "role": "Utnapishtim_Wife",
+    "text": "Bake a loaf of bread for each day he sleeps, and place it near his head.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "role": "Narrator",
+    "text": "She did as she was told. On the seventh day, Utnapishtim touched the king's shoulder. Gilgamesh woke up and said,",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "role": "Gilgamesh",
+    "text": "I only slept for a moment.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "role": "Narrator",
+    "text": "But Utnapishtim pointed to the loaves of bread at his feet. The first loaf was hard and dry, the second was decayed, the third was moldy, and only the seventh was fresh. Gilgamesh looked at the decayed bread and wept.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "role": "Gilgamesh",
+    "text": "What shall I do, Utnapishtim?",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "role": "Narrator",
+    "text": "he cried.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "role": "Gilgamesh",
+    "text": "Death is everywhere. Wherever I go, death is waiting for me.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "role": "Narrator",
+    "text": "Taking pity on the weeping king, Utnapishtim's wife said to her husband,",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "role": "Utnapishtim_Wife",
+    "text": "He has traveled so far and suffered so much. Give him a parting gift to take home.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "role": "Narrator",
+    "text": "Utnapishtim turned to Gilgamesh and said,",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "role": "Utnapishtim",
+    "text": "I will tell you a secret, Gilgamesh. At the bottom of the deep sea grows a thorny plant. Its thorns will prick your hands like a rose, but if you succeed in plucking it, you will regain the youth of your childhood.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "role": "Narrator",
+    "text": "Gilgamesh tied heavy stones to his feet and jumped into the deep ocean. He sank to the bottom, found the thorny plant, and plucked it, pricking his hands. He cut the stones from his feet, and the waves carried him back to the shore.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "role": "Gilgamesh",
+    "text": "Urshanabi!",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "role": "Narrator",
+    "text": "Gilgamesh rejoiced, showing the plant to the ferryman.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "role": "Gilgamesh",
+    "text": "This is the plant of youth! I will take it back to Uruk, and I will share it with the elders of my city. We will all become young again!",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "role": "Narrator",
+    "text": "Gilgamesh and Urshanabi set out on the journey back to Uruk. After walking for many days, they stopped by a cool, fresh spring of water. Tired and dusty, Gilgamesh stripped off his animal skins and stepped into the water to bathe.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "role": "Narrator",
+    "text": "While Gilgamesh was bathing, a water serpent smelled the sweet fragrance of the plant. The snake slithered out of the grass, snatched the plant, and ate it. As it slid away, it immediately shed its old, dry skin and emerged shiny and reborn.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "role": "Narrator",
+    "text": "When Gilgamesh returned and found the plant gone, he sat by the water's edge and wept bitterly.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "role": "Gilgamesh",
+    "text": "For whom have my hands suffered, Urshanabi?",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "role": "Narrator",
+    "text": "he cried.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "role": "Gilgamesh",
+    "text": "I have gained nothing for myself; I have only brought a benefit to the serpent of the earth! The waters have carried my prize away, and I am left with nothing.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "role": "Narrator",
+    "text": "With heavy hearts, Gilgamesh and Urshanabi walked the remaining leagues until they finally reached the gates of Uruk. Gilgamesh looked up at the massive stone walls he had built. He looked at the busy plazas, the beautiful gardens, the towering temples, and the strong foundation stones.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "role": "Narrator",
+    "text": "He turned to the ferryman and said,",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "role": "Gilgamesh",
+    "text": "Climb upon the walls of Uruk, Urshanabi! Look at the foundation terrace and examine the brickwork. See how strong the stone is! These walls will stand for generations to come.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "role": "Narrator",
+    "text": "In that moment, Gilgamesh's heart was quieted. He realized that while his body would eventually die, the great city he had built, the deeds he had performed, and the stories of his adventures would live forever in the hearts of his people. He had found his true immortality.",
+    "is_header": false
+  }
+]

@@ -1,0 +1,206 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Chapter 1: The Wild Man of the Forest",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "Long ago, in the ancient land of Mesopotamia, there stood the magnificent city of Uruk. It was a city of great beauty, with busy marketplaces, beautiful gardens, and towering temples. Surrounding the city were massive stone walls, so strong and high that they looked like they had been built by the gods.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Narrator",
+    "text": "Ruling over this great city was King Gilgamesh. Gilgamesh was no ordinary king. The gods had created him to be two-thirds god and one-third human. He was taller, stronger, and more handsome than any ordinary man. His eyes could see everything, and his arms possessed the strength of a wild bull. He built Uruk's mighty walls to keep his people safe, and he built the glorious temple of Eanna to honor the gods.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Narrator",
+    "text": "But Gilgamesh was also a very proud and harsh ruler. Because he was so strong and powerful, he believed he could do whatever he wanted. He ruled Uruk with an iron fist, leaving no peace for his people. He forced the young men of the city to work day and night, carrying heavy stones and building the city walls until their bodies were exhausted. He took daughters away from their families and brides away from their husbands, claiming that everything in Uruk belonged to him.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Narrator",
+    "text": "The people of Uruk suffered under his rule. In their distress, they cried out to the gods for help.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Narrator",
+    "text": "O gods,",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Narrator",
+    "text": "they prayed,",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "Narrator",
+    "text": "you created this mighty king, but he has become a tyrant. He is like a wild bull, and we have no rest. Please, hear our cries and help us!",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Narrator",
+    "text": "The gods in heaven heard the prayers of the people. They looked down on Uruk and saw the suffering of its citizens. They decided that Gilgamesh needed to learn humility. They summoned Aruru, the goddess of creation, who had shaped the first humans.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Narrator",
+    "text": "Aruru,",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Narrator",
+    "text": "the gods said,",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Narrator",
+    "text": "you created Gilgamesh. Now, create his equal. Create a rival who is strong enough to stand up to him. Let them clash, so that Gilgamesh may meet his match and learn peace, and the people of Uruk may finally rest.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Narrator",
+    "text": "Aruru listened to the gods. She took a piece of clay, moistened it with her sacred water, and threw it into the wild grasslands far away from the city. From that clay, she shaped a wild man. His name was Enkidu.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "role": "Narrator",
+    "text": "Enkidu was completely different from the people of Uruk. His body was covered in thick, shaggy hair, and he had long, wild hair on his head. He knew nothing of human language, clothing, or houses. He lived deep in the wild forest, running with the animals. He ate sweet grass with the gazelles, drank water from the rivers with the cattle, and bathed in the watering holes. He was a creature of the wild, and the beasts of the forest accepted him as their friend. Enkidu was so strong that he could run as fast as the wind, and he protected the wild animals from human traps.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "role": "Narrator",
+    "text": "One day, a local hunter went to the watering hole to set his traps. As he waited in the bushes, he saw Enkidu arriving with the animals. The hunter watched in amazement as the wild man easily pulled his metal traps out of the ground and filled in his pits, allowing the gazelles to escape safely.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "role": "Narrator",
+    "text": "The hunter was filled with terror. He had never seen a man so wild and powerful. He ran back to his home, trembling with fear. He told his father,",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "role": "Hunter",
+    "text": "Father, there is a giant wild man in the hills. He runs with the animals, eats grass, and destroys my traps. I am too afraid to hunt.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "role": "Narrator",
+    "text": "His father replied,",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "role": "Father",
+    "text": "My son, go to Uruk and tell King Gilgamesh about this wild man. The king is the strongest man in the land. Ask him for help.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "role": "Narrator",
+    "text": "The hunter traveled to the city of Uruk. He stood before King Gilgamesh and described the wild man of the forest.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "role": "Narrator",
+    "text": "Gilgamesh listened to the hunter's story. Instead of sending his soldiers, the king smiled and said,",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "role": "Gilgamesh",
+    "text": "Go to the temple of Ishtar and find Shamhat, the wise and beautiful priestess. Take her with you to the watering hole. When the wild man comes, let Shamhat speak to him. She will teach him the ways of humans, and the animals will no longer accept him.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "role": "Narrator",
+    "text": "The hunter did as the king commanded. He took Shamhat by the hand, and they traveled deep into the wilderness. For three days, they walked until they reached the watering hole. They sat down by the water and waited.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "role": "Narrator",
+    "text": "On the third day, the animals came to drink, and among them was Enkidu. When Enkidu saw Shamhat, he stopped. He had never seen a human woman before.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "role": "Narrator",
+    "text": "Shamhat spoke gently to Enkidu, showing no fear. She walked toward him and sat with him under the shade of the trees. For six days and seven nights, Shamhat remained with Enkidu in the wilderness. She spoke to him in the human tongue, teaching him the first words of language. She showed him kindness, and she shared her knowledge of the civilized world.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "role": "Narrator",
+    "text": "As the days passed, a great change came over Enkidu. His mind began to wake up. He learned to understand the words of Shamhat, and his heart grew warm with human feelings.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "role": "Narrator",
+    "text": "On the seventh day, Enkidu turned back toward the watering hole to see his animal friends. But when the gazelles saw him, they grew afraid and ran away. The wild cattle fled into the forest. Enkidu tried to run after them, but he found that his legs were heavy and he could no longer run like the wind. He had lost his wild speed, but he had gained something far greater—a human mind, a warm heart, and the power of speech.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "role": "Narrator",
+    "text": "He walked back to Shamhat and sat at her feet. He looked at her and said,",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "role": "Enkidu",
+    "text": "The animals have fled. I am alone.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "role": "Narrator",
+    "text": "Shamhat smiled and touched his hand.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "role": "Shamhat",
+    "text": "You are not alone, Enkidu,",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "role": "Narrator",
+    "text": "she said.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "role": "Shamhat",
+    "text": "Look at yourself. You are wise, and you are like a god. Why do you want to live in the dirt with the wild beasts? Come with me. Let me lead you to Uruk of the plazas, the great city of broad streets. Let me take you to the king, Gilgamesh. He is the strongest man in the world, but he rules with a harsh hand. You are strong enough to be his equal. You will teach him peace.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "role": "Narrator",
+    "text": "Enkidu listened to her words. He felt a deep desire for friendship, and he agreed to follow her to the city. Shamhat tore her garment in two, wrapping one half around Enkidu to cover his nakedness and keeping the other half for herself. Then, she led him toward the land of humans.",
+    "is_header": false
+  }
+]
