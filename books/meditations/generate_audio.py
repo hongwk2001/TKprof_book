@@ -2,8 +2,9 @@ import os
 import subprocess
 import glob
 
-BASE_DIR = r"/mnt/d/git_repo/TKprof_book/books/the_prince"
-BUMPER_FILE = os.path.join(BASE_DIR, "lordsonny-cinematic-hit-159487.mp3")
+BASE_DIR = r"/mnt/d/git_repo/TKprof_book/books/meditations"
+# The bumper file is shared, so we point to the prince folder for the mp3
+BUMPER_FILE = r"/mnt/d/git_repo/TKprof_book/books/the_prince/lordsonny-cinematic-hit-159487.mp3"
 TEMP_DIR = os.path.join(BASE_DIR, "temp_audio")
 FINAL_DIR = os.path.join(BASE_DIR, "final_audio")
 CHAPTERS_DIR = os.path.join(BASE_DIR, "chapters")
@@ -55,15 +56,15 @@ def main():
         mix_audio(BUMPER_FILE, intro_raw, intro_final, bumper_duration=4.5)
         print(f"Finished {intro_final}")
 
-    # 2. Generate Chapters 1 to 26
-    for i in range(1, 27):
+    # 2. Generate Chapters 1 to 12
+    for i in range(1, 13):
         ch_txt = os.path.join(CHAPTERS_DIR, f"ch_{i:02d}_en.txt")
         ch_raw = os.path.join(TEMP_DIR, f"raw_ch_{i:02d}.mp3")
         ch_final = os.path.join(FINAL_DIR, f"final_track_{i:02d}.mp3")
         
         print(f"Generating Chapter {i}...")
         if generate_tts(ch_txt, ch_raw):
-            add_outro = (i == 26)
+            add_outro = (i == 12)
             mix_audio(BUMPER_FILE, ch_raw, ch_final, bumper_duration=2.0, add_full_outro=add_outro)
             print(f"Finished {ch_final}")
 
