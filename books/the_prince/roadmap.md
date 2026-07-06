@@ -17,15 +17,20 @@
   - Process each segmented chapter using a `modernize_book.py` script.
   - Review modernized outputs for flow, tone, and ESL suitability, while retaining Machiavelli's calculated and pragmatic tone.
 
-## Stage 4: Intro and Copyright
-- [x] Draft the introduction and copyright texts (`introduction_en.txt`, `copyright_en.txt`).
+## Stage 4: Intro and Copyright / Closing
+- [x] Draft the introduction and copyright / closing texts:
+  - **Introduction**: `introduction_en.txt` (generates `intro.mp3` / `introduction.mp3`).
+  - **Copyright / Closing**: `copyright_en.txt` and `closing_en.txt` must contain identical content, providing credits and copyright info (generates `closing.mp3`).
   - Frame the context of the 1532 publication and its impact on modern political philosophy.
 
 ## Stage 5: Audio Production (TTS Generation)
 - [x] Set up edge-tts voices (`en-GB-RyanNeural`).
-- [x] Generate TTS clips and mix final audio per chapter (`final_audio/final_track_*.mp3`).
-  - *Note: `final_ch_00.mp3` (Frontmatter) is excluded from the final audiobook.*
-- [x] Verify audio quality and pacing.
+- [x] Generate TTS clips and mix final audio.
+  - **Intro Track**: Compiled as a separate `intro.mp3` (or `introduction.mp3`).
+  - **Chapters**: Compiled sequentially (e.g., `final_track_01.mp3` to `final_track_26.mp3`).
+  - **Closing Track**: Compiled as a separate `closing.mp3` using `closing_en.txt` (matching `copyright_en.txt`) and mixed with the full cinematic outro music.
+  - **Sample Track**: Generated separately as `sample.mp3` (1-5 minutes duration) from the introduction.
+- [x] Verify audio quality and pacing, ensuring all tracks are encoded at 44.1 kHz sample rate and 256 kbps bitrate.
 
 ### 🎵 Audio Structure (per chapter)
 Each chapter audio is assembled in this order:
@@ -37,9 +42,9 @@ Each chapter audio is assembled in this order:
 2. **Narration** — one voice Ryan
 
 ## Stage 6: E-book Compilation (EPUB)
-- [ ] Compile the segmented chapters and assets into standard e-reader formats (EPUB/HTML).
+- [x] Compile the segmented chapters and assets into standard e-reader formats (EPUB/HTML).
   - *Note: `ch_00` (Frontmatter/TOC) is excluded from the final text compilations.*
-- [ ] Use a `make_epub_native.py` script to compile clean, spec-compliant EPUB3 books without dependencies.
+- [x] Use a `make_epub_native.py` script to compile clean, spec-compliant EPUB3 books without dependencies.
 
 ## Stage 7: Metadata & Publishing Prep
 - [ ] Calculate the total runtime of all audio files to determine Audible/ACX pricing tiers.

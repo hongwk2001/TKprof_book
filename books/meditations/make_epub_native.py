@@ -1,10 +1,14 @@
 """
 make_epub_native.py
 Compiles Meditations into an EPUB file directly using python's zipfile.
+This generates a clean EPUB3 structure with cover image.
 """
 
 import os
 import zipfile
+import uuid
+from datetime import datetime, timezone
+from xml.sax.saxutils import escape as escape_xml
 
 # ── Paths ────────────────────────────────────────────────────────────────────
 BASE_DIR      = os.path.dirname(os.path.abspath(__file__))
@@ -81,11 +85,11 @@ def txt_to_html(text, title):
         f"<!DOCTYPE html>",
         f"<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">",
         f"<head>",
-        f"  <title>{title}</title>",
+        f"  <title>{escape_xml(title)}</title>",
         f"  <link rel=\"stylesheet\" href=\"../Styles/main.css\" type=\"text/css\"/>",
         f"</head>",
         f"<body>",
-        f"<h1>{title}</h1>"
+        f"<h1>{escape_xml(title)}</h1>"
     ]
     
     # Skip the first line if it's the title itself (e.g. "Book 1")
@@ -96,7 +100,7 @@ def txt_to_html(text, title):
         line = line.strip()
         if not line:
             continue
-        html_parts.append(f"<p>{line}</p>")
+        html_parts.append(f"<p>{escape_xml(line)}</p>")
 
     html_parts.append("</body>")
     html_parts.append("</html>")
@@ -129,28 +133,49 @@ def main():
 
     # 3. Copyright
     copy_text = read_txt(os.path.join(BASE_DIR, "copyright_en.txt"))
-    copy_html = txt_to_html(copy_text, "Copyright &amp; About This Edition")
-    chapters.append({'id': 'copyright', 'href': 'Text/copyright.xhtml', 'title': 'Copyright &amp; About This Edition', 'content': copy_html})
+    copy_html = txt_to_html(copy_text, "Copyright & About This Edition")
+    chapters.append({'id': 'copyright', 'href': 'Text/copyright.xhtml', 'title': 'Copyright & About This Edition', 'content': copy_html})
         
+    book_uuid = f"urn:uuid:{uuid.uuid4()}"
+    modified_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+    cover_html = """<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+<head>
+  <title>Cover</title>
+  <style type="text/css">
+    body { margin: 0; padding: 0; text-align: center; }
+    img { max-width: 100%; height: auto; }
+  </style>
+</head>
+<body>
+  <img src="../Images/cover.jpg" alt="Cover" />
+</body>
+</html>"""
+
     # Build OPF Manifest
     opf_parts = [
         "<?xml version='1.0' encoding='utf-8'?>",
         "<package xmlns=\"http://www.idpf.org/2007/opf\" unique-identifier=\"pub-id\" version=\"3.0\">",
         "  <metadata xmlns:dc=\"http://purl.org/dc/elements/1.1/\">",
-        "    <dc:identifier id=\"pub-id\">tkprof-meditations-2026</dc:identifier>",
+        f"    <dc:identifier id=\"pub-id\">{book_uuid}</dc:identifier>",
         "    <dc:title>Meditations</dc:title>",
         "    <dc:language>en</dc:language>",
         "    <dc:creator>Marcus Aurelius</dc:creator>",
         "    <dc:publisher>TKPROF LLC</dc:publisher>",
-        "    <dc:date>2026</dc:date>",
+        "    <dc:date>2026-07-06</dc:date>",
         "    <dc:rights>Modernized edition Copyright 2026 TKPROF LLC. Original text public domain.</dc:rights>",
         "    <dc:subject>Philosophy</dc:subject>",
         "    <dc:subject>Stoicism</dc:subject>",
         "    <dc:subject>Classic Literature</dc:subject>",
         "    <dc:subject>Audiobook Friendly</dc:subject>",
-        "    <meta property=\"dcterms:modified\">2026-07-04T12:00:00Z</meta>",
+        f"    <meta property=\"dcterms:modified\">{modified_date}</meta>",
+        "    <meta name=\"cover\" content=\"cover-image\"/>",
         "  </metadata>",
         "  <manifest>",
+        "    <item id=\"cover-image\" href=\"Images/cover.jpg\" media-type=\"image/jpeg\" properties=\"cover-image\"/>",
+        "    <item id=\"cover\" href=\"Text/cover.xhtml\" media-type=\"application/xhtml+xml\"/>",
         "    <item id=\"ncx\" href=\"toc.ncx\" media-type=\"application/x-dtbncx+xml\"/>",
         "    <item id=\"nav\" href=\"nav.xhtml\" media-type=\"application/xhtml+xml\" properties=\"nav\"/>",
         "    <item id=\"css\" href=\"Styles/main.css\" media-type=\"text/css\"/>"
@@ -161,6 +186,7 @@ def main():
         
     opf_parts.append("  </manifest>")
     opf_parts.append("  <spine toc=\"ncx\">")
+    opf_parts.append("    <itemref idref=\"cover\"/>")
     for ch in chapters:
         opf_parts.append(f"    <itemref idref=\"{ch['id']}\"/>")
     opf_parts.append("  </spine>")
@@ -172,7 +198,7 @@ def main():
         "<?xml version='1.0' encoding='utf-8'?>",
         "<ncx xmlns=\"http://www.daisy.org/z3986/2005/ncx/\" version=\"2005-1\">",
         "  <head>",
-        "    <meta name=\"dtb:uid\" content=\"tkprof-meditations-2026\"/>",
+        f"    <meta name=\"dtb:uid\" content=\"{book_uuid}\"/>",
         "    <meta name=\"dtb:depth\" content=\"1\"/>",
         "    <meta name=\"dtb:totalPageCount\" content=\"0\"/>",
         "    <meta name=\"dtb:maxPageNumber\" content=\"0\"/>",
@@ -182,7 +208,7 @@ def main():
     ]
     for idx, ch in enumerate(chapters, 1):
         ncx_parts.append(f"    <navPoint id=\"navpoint-{idx}\" playOrder=\"{idx}\">")
-        ncx_parts.append(f"      <navLabel><text>{ch['title']}</text></navLabel>")
+        ncx_parts.append(f"      <navLabel><text>{escape_xml(ch['title'])}</text></navLabel>")
         ncx_parts.append(f"      <content src=\"{ch['href']}\"/>")
         ncx_parts.append(f"    </navPoint>")
     ncx_parts.append("  </navMap>")
@@ -201,7 +227,7 @@ def main():
         "    <ol>"
     ]
     for ch in chapters:
-        nav_parts.append(f"      <li><a href=\"{ch['href']}\">{ch['title']}</a></li>")
+        nav_parts.append(f"      <li><a href=\"{ch['href']}\">{escape_xml(ch['title'])}</a></li>")
     nav_parts.append("    </ol>")
     nav_parts.append("  </nav>")
     nav_parts.append("</body>")
@@ -229,6 +255,15 @@ def main():
         zf.writestr('OEBPS/toc.ncx', ncx_content.encode('utf-8'), compress_type=zipfile.ZIP_DEFLATED)
         zf.writestr('OEBPS/nav.xhtml', nav_content.encode('utf-8'), compress_type=zipfile.ZIP_DEFLATED)
         zf.writestr('OEBPS/Styles/main.css', STYLE.encode('utf-8'), compress_type=zipfile.ZIP_DEFLATED)
+        zf.writestr('OEBPS/Text/cover.xhtml', cover_html.encode('utf-8'), compress_type=zipfile.ZIP_DEFLATED)
+
+        # 4. Cover image asset
+        cover_img_path = os.path.join(BASE_DIR, "meditationscover.jpg")
+        if os.path.exists(cover_img_path):
+            zf.write(cover_img_path, "OEBPS/Images/cover.jpg")
+            print("Cover image packaged.")
+        else:
+            print("Warning: meditationscover.jpg not found.")
         
         for ch in chapters:
             zf.writestr(f"OEBPS/{ch['href']}", ch['content'].encode('utf-8'), compress_type=zipfile.ZIP_DEFLATED)

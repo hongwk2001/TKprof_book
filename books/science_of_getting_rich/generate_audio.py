@@ -62,6 +62,8 @@ def main():
                 "-i", INTRO_PATH,
                 "-filter_complex", filter_complex,
                 "-map", "[a]",
+                "-ar", "44100",
+                "-b:a", "256k",
                 out_mp3
             ])
         else:
@@ -73,6 +75,8 @@ def main():
                 "-i", temp_raw,
                 "-filter_complex", filter_complex,
                 "-map", "[a]",
+                "-ar", "44100",
+                "-b:a", "256k",
                 out_mp3
             ])
         

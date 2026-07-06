@@ -35,17 +35,22 @@
   - Process each segmented chapter using a `modernize_book.py` script.
   - Review modernized outputs for flow, tone, and ESL suitability.
 
-## Stage 4: Intro and Copyright
-- [ ] Draft the introduction and copyright texts (`introduction_en.txt`, `copyright_en.txt`).
+## Stage 4: Intro and Copyright / Closing
+- [ ] Draft the introduction and copyright / closing texts:
+  - **Introduction**: `introduction_en.txt` (generates `intro.mp3` / `introduction.mp3`).
+  - **Copyright / Closing**: `copyright_en.txt` and `closing_en.txt` must contain identical content, providing credits and copyright info (generates `closing.mp3`).
   - Frame the context of the 1910 publication and its impact on the New Thought movement.
 
 ## Stage 5: Audio Production (TTS Generation)
 - [ ] Set up `edge_tts` voices (e.g., Steffan, Christopher).
 - [ ] Dialogue / paragraph tagging using XML voice tags.
 - [ ] Convert chapters to structured JSON scripts.
-- [ ] Generate TTS clips and mix final audio per chapter (`final_audio/final_ch_*.mp3`).
-  - *Note: `final_ch_00.mp3` (Frontmatter) is excluded from the final audiobook.*
-- [ ] Verify audio quality and pacing.
+- [ ] Generate TTS clips and mix final audio.
+  - **Intro Track**: Compiled as a separate `intro.mp3` (or `introduction.mp3`).
+  - **Chapters**: Compiled sequentially (e.g., `ch_01_en.mp3` to `ch_17_en.mp3`).
+  - **Closing Track**: Compiled as a separate `closing.mp3` using `closing_en.txt` (matching `copyright_en.txt`) and mixed with the full cinematic outro music.
+  - **Sample Track**: Generated separately as `sample.mp3` (1-5 minutes duration) from the introduction.
+- [ ] Verify audio quality and pacing, ensuring all tracks are encoded at 44.1 kHz sample rate and 256 kbps bitrate.
 
 ### 🎵 Audio Structure (per chapter)
 Each chapter audio is assembled in this order:
