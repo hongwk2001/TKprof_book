@@ -9,7 +9,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "\"아무도 이 문을 쓰지 못할 텐데요.\""
   },
@@ -23,8 +23,8 @@
   {
     "character": "Domenico",
     "sex": "male",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
     "text": "\"아무도 쓰고 싶어 하지 않을 거란다.\""
   },
   {
@@ -37,7 +37,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "\"오, 이 귀머거리 악마 녀석들아! 이 운 좋은 귀머거리 놈들! 너희 주인놈이 떠들어대는 헛소리가 하나도 안 들리겠지, 안 그래?\""
   },
@@ -51,7 +51,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "\"토머스는 불멸의 존재란다\""
   },
@@ -107,7 +107,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "\"모두가 알고 있지.\""
   },

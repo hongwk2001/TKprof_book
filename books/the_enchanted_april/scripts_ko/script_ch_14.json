@@ -37,7 +37,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "\"여보, 이 사람에게 팁을 줘야 하나?\""
   },
@@ -107,7 +107,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "\"처음 뵙겠습니다.\""
   },
@@ -149,8 +149,8 @@
   {
     "character": "Mellersh",
     "sex": "male",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
     "text": "\"상황에 아주 딱 들어맞는 적절한 외침이었는걸요.\""
   },
   {
@@ -163,7 +163,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "\"캐롤라인 데스터 레이디가 맞으시겠지요?\""
   },

@@ -37,7 +37,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "\"오래전부터 갖고 있던 옷이에요.\""
   },
@@ -79,7 +79,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "\"어머, 전혀요.\""
   },
@@ -674,7 +674,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "\"그럴 만한 가치도 없는 남자였다는 뜻이군요.\""
   },
@@ -758,7 +758,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "\"전 과학 같은 건 전혀 몰라요. 이름만 들어서는 무슨 새 종류 같네요.\""
   },

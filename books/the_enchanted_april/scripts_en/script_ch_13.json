@@ -8,7 +8,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "“Where is Mrs. Wilkins?”"
@@ -22,7 +22,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“Would you like more tea?”"
@@ -78,7 +78,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "“What letter?”"
@@ -148,7 +148,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“Who is your husband?”"
@@ -163,7 +163,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "“Who else would he be,”"
   },
@@ -183,7 +183,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“I mean, what does Mr. Arbuthnot do?”"

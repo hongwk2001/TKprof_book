@@ -37,7 +37,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "“Do I tip this fellow?”"
   },
@@ -79,7 +79,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "“That damn bath!”"
   },
@@ -106,7 +106,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "“How do you do.”"
@@ -148,7 +148,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "“I thought it was very appropriate,”"
@@ -163,7 +163,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "“I am speaking to Lady Caroline Dester, correct?”"
   },
@@ -176,7 +176,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "“Yes,”"
@@ -191,7 +191,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "“Allow me to introduce myself,”"
   },
@@ -218,7 +218,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "“I thought so,”"
@@ -232,7 +232,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "“Let me introduce Mr. Mellersh-Wilkins,”"
@@ -246,7 +246,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "“He just arrived. Mr. Wilkins, this is Mrs. Fisher.”"

@@ -120,7 +120,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"good\""
@@ -345,7 +345,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"She's going to get a headache sitting out in the sun like that,\""
   },
@@ -401,7 +401,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Good morning.\""
   },
@@ -449,7 +449,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Oh, I've already done that,\""
@@ -463,7 +463,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"At least, I think it's the nicest one. It has windows on two sides—I love rooms like that, don't you? It looks west over the sea and north over this Judas tree.\""
@@ -484,7 +484,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Oh, Domenico did that. I asked him to as soon as I arrived. He's the gardener, and he's wonderful.\""
@@ -512,7 +512,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Yes, it saves a lot of trouble,\""
@@ -617,7 +617,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Oh yes,\""
@@ -631,7 +631,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"I make the most of it. I've been doing that for as long as I can remember.\""
@@ -666,7 +666,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"I'm in your hands,\""
@@ -680,7 +680,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Please just think of me as an old woman with a walking stick.\""
@@ -694,7 +694,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"It's my stick,\""
@@ -708,7 +708,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Isn't his cricket playing great?\""
@@ -722,7 +722,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"The Tennyson,\""
@@ -736,7 +736,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Isn't he?\""
@@ -750,7 +750,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"I am talking,\""
@@ -764,14 +764,14 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"about Alfred.\""
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Oh,\""
@@ -785,7 +785,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"And it was a path very much like this one,\""
@@ -799,7 +799,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"No eucalyptus trees, of course, but otherwise very similar. At one of the turns, he stopped and said to me—I can still picture him saying it—\""
@@ -813,7 +813,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"I had breakfast in my room,\""
@@ -827,7 +827,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"I'll probably see you later.\""

@@ -29,7 +29,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“I would have thought,”"
@@ -43,7 +43,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“that you could see this is my room.”"
@@ -64,7 +64,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“And the writing paper,”"
@@ -78,7 +78,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“Stationery with my London address on it. And that pen—”"
@@ -127,7 +127,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“There is another living room,”"
@@ -141,7 +141,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“You and your friend can't sit in two rooms at once. Since I have no desire to disturb you in yours, I don't see why you should want to disturb me in mine.”"
@@ -149,7 +149,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "“But why—”"
   },
@@ -204,7 +204,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“I am an old woman,”"
@@ -218,7 +218,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“and I need a room to myself. I can't get around easily because of my cane. Since I can't move around, I have to sit. Why shouldn't I sit quietly and undisturbed, just as I told you in London I planned to? If people are going to come in and out all day, talking and leaving doors open, you will have broken our agreement, which was that I was to have peace and quiet.”"
@@ -226,7 +226,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "“But we have no desire to—”"
   },
@@ -289,7 +289,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "“She is a very rude old woman,”"
   },

@@ -51,7 +51,7 @@
   {
     "character": "Frederick",
     "sex": "male",
-    "voice": "af_nicole",
+    "voice": "am_michael",
     "speed": 1.0,
     "text": "\"Oh, the very moment you got my letter,\""
   },
@@ -149,7 +149,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Well, I'll be damned,\""
   },
@@ -233,7 +233,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Introduce me,\""
   },
@@ -260,7 +260,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"This must be the last of the husbands,\""
@@ -274,7 +274,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"unless Lady Caroline pulls one out of her sleeve.\""
@@ -288,7 +288,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"So,\""
@@ -302,7 +302,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"we will finally get our money's worth.\""
@@ -428,7 +428,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"We won't wait. Lady Caroline is always late.\""
@@ -443,7 +443,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Who's the man with the booming voice?\""
   },
@@ -520,7 +520,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"I certainly hope so,\""
   },
@@ -547,7 +547,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"And here I am, late on your very first evening.\""

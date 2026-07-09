@@ -9,7 +9,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“사랑이야.”"
   },
@@ -23,7 +23,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“그래.”"
   },
@@ -170,7 +170,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“그래요?”"
   },
@@ -184,7 +184,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“그렇다면 어서 새 구두로 갈아신고 와야겠네요. 지금 신은 건 너무 낡았으니까요.”"
   },
@@ -212,7 +212,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“정말인가요?”"
   },
@@ -275,7 +275,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“의리 깊은 남동생 같은 신의를 지닌 절세미인을 만난다는 것은,”"
   },
@@ -310,7 +310,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“그리고 저는 여전히 당신의 구두에 키스하고 싶습니다.”"
   },
@@ -387,7 +387,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“당신에게 너무나 큰 빚을 겼어요.”"
   },
@@ -513,7 +513,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“고마움을 표하는 것은 지극히 마땅한 일이지, 브릭스. 나 역시 내 아내와 캐롤라인 레이디를 대표하여 자네에게 깊은 사의를 표하겠네. 저녁 만찬 때 자네를 위한 축배를 들었어야 했는데 말이네. 그랬다면 아주...”"
   },
@@ -569,8 +569,8 @@
   {
     "character": "Briggs",
     "sex": "male",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
     "text": "“대체 무슨 이야기요?”"
   },
   {
@@ -639,8 +639,8 @@
   {
     "character": "Mellersh",
     "sex": "male",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
     "text": "“바보같이 굴지 말아요, 멜러시... 혼자가 아니래두요. 게다가 꼭 해줄 이야기가 있단 말이에요.”"
   },
   {
@@ -667,7 +667,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“저희 들어왔어요.”"
   },
@@ -786,14 +786,14 @@
   {
     "character": "Lotty",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“알았어요, 멜러시... 그럼 브릭스 부부라고 하죠.”"
   },
   {
     "character": "Lotty",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“브릭스 부부라니!”"
   },

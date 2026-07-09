@@ -8,7 +8,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "“Don't worry.”"
@@ -23,7 +23,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "“Does this lady want something?”"
   },
@@ -134,7 +134,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“Perfume,”"
@@ -149,7 +149,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "“Where are you going, my pret—”"
   },
@@ -163,7 +163,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "“You are going out,”"
   },
@@ -176,7 +176,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“I need to find Lady Caroline,”"
@@ -191,7 +191,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "“A pleasant task,”"
   },
@@ -218,7 +218,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“She usually sits in that corner behind the bushes,”"
@@ -232,7 +232,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "“And I don't know about it being pleasant. She has allowed the bills to get incredibly high, and she needs to be scolded.”"
@@ -240,7 +240,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "“Lady Caroline?”"
   },
@@ -260,7 +260,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "“She was supposed to manage the housekeeping, and since we share costs, she should have made sure things were fair—”"
@@ -274,7 +274,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“Oh, is that who she is,”"
@@ -288,7 +288,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“Well, that explains it. The mess her father made in the government during the war was a scandal. He practically stole public funds.”"
@@ -296,7 +296,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "“But surely you can't expect the daughter of the Droitwiches—”"
   },
@@ -309,7 +309,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“The Droitwiches don't matter,”"
@@ -323,7 +323,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“If you agree to a job, you should do it. I don't intend to waste my money for any Droitwiches.”"
@@ -337,7 +337,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "“Sit on this,”"
@@ -351,7 +351,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "“You'll be more comfortable.”"
@@ -365,7 +365,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“Oh, thank you,”"
@@ -379,14 +379,14 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“You should have told me you weren't doing the shopping.”"
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "“I didn't know you thought I was,”"
@@ -400,7 +400,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“I would like to know,”"
@@ -414,14 +414,14 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“what you plan to do for the rest of our time here.”"
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "“Nothing,”"
@@ -435,7 +435,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“Nothing? Do you mean to say—”"
@@ -463,7 +463,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“Exactly,”"
@@ -477,7 +477,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“That is what I want to avoid.”"
@@ -505,7 +505,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“And what about last week?”"
@@ -519,14 +519,14 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“The high bills from the first week?”"
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "“They will be my gift to the house,”"
@@ -540,7 +540,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“Of course, if you want to throw your money away—”"

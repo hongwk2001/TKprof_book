@@ -9,7 +9,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“걱정 마세요.”"
   },
@@ -135,7 +135,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“향수군.”"
   },
@@ -163,7 +163,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“외출하시나 봅니다.”"
   },
@@ -177,7 +177,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“캐롤라인 레이디를 찾아야겠어요.”"
   },
@@ -233,7 +233,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“즐거운 일일지는 모르겠네요. 식비를 엄청나게 불어나게 방치했으니 단단히 꾸중을 들어야 마땅해요.”"
   },
@@ -254,8 +254,8 @@
   {
     "character": "Mellersh",
     "sex": "male",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
     "text": "“캐롤라인 레이디가 이곳의 식비 청구서와 무슨 상관이 있단 말입니까?”"
   },
   {
@@ -268,8 +268,8 @@
   {
     "character": "Mellersh",
     "sex": "male",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
     "text": "“하지만 캐롤라인 레이디가 살림을 한다고요? 제 아내가 포함된 모임에서 말입니까? 부인, 참으로 놀랍군요. 그녀가 드로이트위치 가문의 영애라는 사실을 모르십니까?”"
   },
   {
@@ -289,7 +289,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“거참, 그래서 그렇군. 전쟁 중에 그녀의 아버지가 정부에서 저지른 난장판은 일대 추문이었죠. 거의 국고를 도둑질한 수준이었어요.”"
   },
@@ -450,8 +450,8 @@
   {
     "character": "Mellersh",
     "sex": "male",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
     "text": "“집안일 때문에 이토록 멋진 휴가를 망치지는 마셨으면 합니다.”"
   },
   {
@@ -471,7 +471,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“내가 피하고 싶은 게 바로 그거라오.”"
   },
@@ -513,7 +513,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“첫째 주에 청구된 그 막대한 지출은요?”"
   },
@@ -534,7 +534,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“돈을 그렇게 낭비하고 싶다면야 어쩔 수 없지만요...”"
   },

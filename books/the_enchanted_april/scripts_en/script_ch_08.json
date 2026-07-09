@@ -330,7 +330,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"She is not my mother,\""
@@ -351,7 +351,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"No,\""
@@ -372,7 +372,7 @@
   },
   {
     "character": "Costanza",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_lily",
     "speed": 1.0,
     "text": "\"Poor little one,\""
@@ -386,14 +386,14 @@
   },
   {
     "character": "Costanza",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_lily",
     "speed": 1.0,
     "text": "\"Don't worry, there's still time.\""
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"For lunch,\""
@@ -407,7 +407,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"we will have—\""
@@ -435,7 +435,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"And maybe no chickens either,\""
@@ -449,7 +449,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Also, don't order strawberries until I've talked to the other ladies,\""
@@ -463,14 +463,14 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"I'm not the one running things here.\""
   },
   {
     "character": "Costanza",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_lily",
     "speed": 1.0,
     "text": "\"Is it the old lady?\""
@@ -484,7 +484,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"No,\""
@@ -498,14 +498,14 @@
   },
   {
     "character": "Costanza",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_lily",
     "speed": 1.0,
     "text": "\"Which of the other two ladies is it?\""
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Neither,\""
@@ -526,7 +526,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"I never joke,\""
@@ -540,7 +540,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"You had better go, or lunch won't be ready by twelve-thirty.\""
@@ -554,7 +554,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"This will never work,\""
@@ -568,7 +568,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"I didn't come here to manage a house, and I'm not going to.\""
@@ -582,7 +582,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"I have ordered lunch and dinner for today,\""
@@ -596,7 +596,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"but from now on, you must go to one of the other ladies for orders. I won't be doing it anymore.\""
@@ -617,7 +617,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Oh, go away!\""
@@ -673,7 +673,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"I have a headache,\""
@@ -708,7 +708,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"I want to sleep.\""
@@ -730,7 +730,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Scrap\""
   },

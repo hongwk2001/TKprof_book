@@ -65,7 +65,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“우리가 열어봐야 할까요?”"
   },
@@ -79,7 +79,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“아뇨.”"
   },
@@ -373,7 +373,7 @@
   {
     "character": "Costanza",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“알았네, 알았어.”"
   },
@@ -464,7 +464,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“정말이지 기적 같군요.”"
   },
@@ -478,8 +478,8 @@
   {
     "character": "Briggs",
     "sex": "male",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
     "text": "“안녕하세요.”"
   },
   {
@@ -576,7 +576,7 @@
   {
     "character": "Costanza",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“피셔 사모님께서 주인님을 뵙고 싶어 하십니다.”"
   },
@@ -744,7 +744,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“그럼요. 주인님의 집이니까요.”"
   },
@@ -758,7 +758,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“다음 주 월요일까지만요.”"
   },

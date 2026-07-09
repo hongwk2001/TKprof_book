@@ -86,7 +86,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Should we open it?\""
   },
@@ -99,7 +99,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"No,\""
@@ -113,14 +113,14 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"It might need an answer.\""
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"I don't believe in meddling with other people's mail.\""
@@ -128,7 +128,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Meddling! My dear lady—\""
   },
@@ -163,7 +163,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Love?\""
   },
@@ -408,7 +408,7 @@
   {
     "character": "Costanza",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "\"Of course, of course,\""
   },
@@ -450,14 +450,14 @@
   {
     "character": "Costanza",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "\"Which mistress?\""
   },
   {
     "character": "Costanza",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "\"There are four of them,\""
   },
@@ -471,7 +471,7 @@
   {
     "character": "Costanza",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "\"Four?\""
   },
@@ -499,7 +499,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"It really is extraordinary,\""
   },
@@ -513,7 +513,7 @@
   {
     "character": "Briggs",
     "sex": "male",
-    "voice": "af_nicole",
+    "voice": "am_michael",
     "speed": 1.0,
     "text": "\"Hello,\""
   },
@@ -590,7 +590,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"I didn't realize I looked so serious.\""
   },
@@ -611,7 +611,7 @@
   {
     "character": "Costanza",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "\"Signora Fisher says she would be pleased to see you,\""
   },
@@ -772,7 +772,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Are you inviting me to tea?\""
   },
@@ -793,7 +793,7 @@
   {
     "character": "Costanza",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "\"It's not. It's yours.\""
   },

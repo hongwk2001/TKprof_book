@@ -9,7 +9,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Mr. Arundel,\""
   },
@@ -36,7 +36,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Mother said that?\""
@@ -50,7 +50,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Mother did that?\""
@@ -64,7 +64,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Oh, my goodness!\""
@@ -92,7 +92,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"I'll go ahead quickly and send the maid to show you in. I must run, or I'll never be ready in time—\""

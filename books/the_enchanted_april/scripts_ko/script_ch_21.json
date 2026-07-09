@@ -51,8 +51,8 @@
   {
     "character": "Frederick",
     "sex": "male",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
     "text": "“오, 제 편지를 받자마자 바로 출발하신 거군요.”"
   },
   {
@@ -149,7 +149,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“오, 죄송합니다... 실례했습니다.”"
   },
@@ -205,7 +205,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“소개해 주게.”"
   },
@@ -457,7 +457,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“이것 좀 봐, 캐롤라인. 로즈의 남편이 벌써 이렇게 도착했어!”"
   },

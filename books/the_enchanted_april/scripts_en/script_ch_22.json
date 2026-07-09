@@ -22,7 +22,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Yes,\""
@@ -149,7 +149,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"I wanted to find you before I went to Rose,\""
   },
@@ -169,7 +169,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Do you?\""
@@ -183,7 +183,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Then I must go change into my new ones. These aren't nice enough.\""
@@ -211,7 +211,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Will you?\""
@@ -225,7 +225,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"I admired you before for your beauty. Now I admire you because you're not just beautiful, but you're as loyal as a true friend.\""
@@ -239,7 +239,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Am I?\""
@@ -247,7 +247,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"When that impulsive woman—thank goodness she was impulsive—blurted out that I was Rose's husband, you acted just like a loyal friend would,\""
   },
@@ -260,7 +260,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Did I?\""
@@ -275,7 +275,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"It's the rarest combination,\""
   },
@@ -295,7 +295,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Is it?\""
@@ -310,13 +310,13 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"And I still want to kiss your shoes.\""
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Won't this do instead?\""
@@ -344,7 +344,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Where is your luggage?\""
@@ -359,7 +359,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Oh, right,\""
   },
@@ -393,7 +393,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"I owe you so much,\""
@@ -407,7 +407,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"I owe you so much,\""
@@ -422,7 +422,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"You owe me?\""
   },
@@ -449,7 +449,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Please,\""
@@ -463,7 +463,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"let's just be honest. You don't owe me anything. Why would you?\""
@@ -471,7 +471,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"I don't owe you anything?\""
   },
@@ -491,7 +491,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Oh, for goodness' sake,\""
@@ -505,7 +505,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"please just talk to me normally. Don't be so humble. Why should you be? It's silly. You're worth fifty of me.\""
@@ -513,7 +513,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Unwise,\""
   },
@@ -527,7 +527,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Very unwise,\""
   },
@@ -541,7 +541,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"It is very proper that you are thanked, Briggs. Let me add my thanks, and my wife's, to Lady Caroline's. We should have toasted you at dinner. There should have been some—\""
   },
@@ -569,7 +569,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Later,\""
   },
@@ -674,7 +674,7 @@
   {
     "character": "Lotty",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "af_bella",
     "speed": 1.0,
     "text": "\"Well, tell me then.\""
   },
@@ -750,7 +750,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Where are the others?\""
@@ -764,7 +764,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Thank you... dear,\""
@@ -828,7 +828,7 @@
   {
     "character": "Lotty",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "af_bella",
     "speed": 1.0,
     "text": "\"Why not just say the Arbuthnots, my dear?\""
   },
@@ -856,7 +856,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Really—\""
   },
@@ -877,7 +877,7 @@
   {
     "character": "Lotty",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "af_bella",
     "speed": 1.0,
     "text": "\"The Briggses!\""
   },
@@ -891,7 +891,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Really—\""
   },

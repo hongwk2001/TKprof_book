@@ -142,8 +142,8 @@
   {
     "character": "Frederick",
     "sex": "male",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
     "text": "“부인이 머무시는 곳이라면 어디든 부인과 똑 닮은 모습일 수밖에 없을 겁니다.”"
   },
   {
@@ -177,7 +177,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“착한 내 아들”"
   },
@@ -380,7 +380,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“프란체스카에게 새로 끓여오라고 시키겠습니다...”"
   },
@@ -576,7 +576,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“꼭 여기에 머물며 우리와 함께하세.”"
   },
@@ -611,7 +611,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
     "text": "“그렇게 해주세요.”"
   },

@@ -9,7 +9,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"No one will be able to use this door,\""
   },
@@ -22,7 +22,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"No one will want to,\""
@@ -37,7 +37,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Oh, you deaf devils! You lucky deaf devils! You can't hear any of the nonsense your master is talking, can you?\""
   },
@@ -50,7 +50,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Thomas is immortal.\""
@@ -64,7 +64,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Serve me,\""
@@ -78,7 +78,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Should I go find the young lady?\""
@@ -92,7 +92,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"She knows lunch is at twelve-thirty,\""
@@ -106,7 +106,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"They all do.\""
@@ -128,13 +128,13 @@
   {
     "character": "Costanza",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "\"The other ladies are far away, but she is nearby.\""
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Ring the gong again then,\""
@@ -148,7 +148,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"When I don't come to lunch, it's because I don't want to,\""
@@ -162,7 +162,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"and you must not disturb me in the future.\""
@@ -170,7 +170,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "am_michael",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Are you sick?\""
   },
@@ -183,7 +183,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Serve me,\""
@@ -197,7 +197,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Oh, why won't they leave me alone?\""
@@ -212,7 +212,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"I'm afraid you're not feeling well,\""
   },
@@ -225,7 +225,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"I have a headache,\""
@@ -240,7 +240,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"I'm so sorry,\""
   },
@@ -253,7 +253,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"And here I thought I would escape motherly fussing by coming to Italy,\""
@@ -268,7 +268,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Don't you think some tea would help?\""
   },
@@ -281,7 +281,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"No,\""
@@ -310,7 +310,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"But I hate to think of you having a headache and doing nothing for it,\""
   },
@@ -352,7 +352,7 @@
   {
     "character": "Lady Caroline",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"Lady Caroline has a headache,\""
   },
@@ -372,7 +372,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"The best cure for a headache,\""
@@ -386,7 +386,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"is castor oil.\""
@@ -407,7 +407,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Carlyle suffered terribly from headaches at one point,\""
@@ -421,7 +421,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"He took castor oil constantly. He actually called it \""
@@ -435,7 +435,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\" My father said it affected his entire philosophy on life because he took too much. Lady Caroline just needs one dose. It's a mistake to take it regularly.\""
@@ -456,7 +456,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"No, I don't. But she would know. You can ask her.\""
@@ -492,7 +492,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Then why would she lie about it?\""
   },
@@ -540,7 +540,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"I don't know why you would assume Lady Caroline is lying,\""
@@ -568,7 +568,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"And how do you know?\""
@@ -596,7 +596,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Serve the next course.\""

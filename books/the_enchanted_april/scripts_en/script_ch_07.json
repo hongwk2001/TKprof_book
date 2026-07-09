@@ -36,7 +36,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"How do you do,\""
@@ -50,7 +50,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"I can't get up because of my walking stick.\""
@@ -78,7 +78,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Yes,\""
@@ -92,7 +92,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Yes, I am here.\""
@@ -134,7 +134,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Yes. I arrived yesterday with Lady Caroline.\""
@@ -162,7 +162,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Where would you like to sit?\""
@@ -190,7 +190,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Tea or coffee?\""
@@ -204,7 +204,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"I suppose you realize that we've arrived in heaven, don't you?\""
@@ -218,7 +218,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"They are much younger than I expected,\""
@@ -232,7 +232,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"and not nearly as plain.\""
@@ -246,7 +246,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"No one wants to see an old woman hobbling around everywhere,\""
@@ -260,7 +260,7 @@
   },
   {
     "character": "Lady Caroline",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
     "text": "\"I'll be perfectly happy spending most of my time alone in here or sitting out on the terrace.\""
@@ -275,7 +275,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"I hope your room is comfortable,\""
   },
@@ -288,7 +288,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"It is,\""
@@ -302,7 +302,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Would you like more coffee?\""
@@ -310,13 +310,13 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"No, thank you. Would you?\""
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"No, thank you. There were two beds in my room, which crowded it, so I had one removed. It's much more convenient now.\""
@@ -337,7 +337,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"I didn't care where it went,\""
@@ -351,7 +351,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"I just asked Francesca to take it out.\""
@@ -372,7 +372,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Your second one must be Lady Caroline's. She had hers removed too,\""
@@ -386,7 +386,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"It seems silly to have extra beds in a room when only one person is sleeping there.\""
@@ -414,7 +414,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Beds,\""
@@ -428,7 +428,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"cannot just be moved from room to room. They have to stay somewhere.\""
@@ -456,7 +456,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"No, thank you. But won't you have some?\""
@@ -470,7 +470,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"No, thank you. Would you?\""
@@ -484,7 +484,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Yes, thank you. Have you?\""
@@ -597,7 +597,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"What time would you like lunch?\""
   },
@@ -610,7 +610,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Lunch is at twelve-thirty,\""
@@ -625,7 +625,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"We will have it at twelve-thirty then,\""
   },
@@ -645,7 +645,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"The cook already knows,\""
@@ -660,7 +660,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Oh?\""
   },
@@ -673,7 +673,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Lady Caroline has already told her,\""
@@ -688,7 +688,7 @@
   {
     "character": "Mrs. Fisher",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Oh?\""
   },
@@ -701,7 +701,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"Yes. Lady Caroline speaks the kind of Italian that cooks understand. My walking stick keeps me from going to the kitchen, and even if I could go, I doubt they would understand my Dante.\""
@@ -764,7 +764,7 @@
   },
   {
     "character": "Mrs. Fisher",
-    "sex": "male",
+    "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "\"She absolutely must be kept in line.\""
