@@ -1,0 +1,830 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "[Book 1 - Chapter 3: THE ELOQUENCE OF M. DE VILMORIN]",
+    "is_header": false
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "CHAPTER 3. THE ELOQUENCE OF M. DE VILMORIN",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Narrator",
+    "text": "As they walked down the hill, M. de Vilmorin was now silent and preoccupied, while André-Louis was talkative. He had chosen women as the topic for his current speech. He claimed, quite unfairly, to have discovered women that very morning. What he had to say about the female sex was unflattering, and sometimes almost crude. M. de Vilmorin, realizing the subject, stopped listening. It might seem unusual for a young French abbot of his time, but M. de Vilmorin wasn't interested in women. Poor Philippe was exceptional in several ways. They reached the Breton Arms, the inn and posting-house at the entrance of Gavrillac village. M. de Vilmorin interrupted his companion just as André-Louis was reaching the peak of his sharp insults. André-Louis was brought back to reality and noticed M. de La Tour d'Azyr's carriage parked in front of the inn.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Male",
+    "text": "I don't believe you've been listening to me,",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Narrator",
+    "text": "he said.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Male",
+    "text": "If you had been less interested in what you were saying, you might have noticed it sooner and saved your breath. The fact is, you disappoint me, André. You seem to have forgotten why we came. I have an appointment here with the Marquis. He wants to hear more from me about this matter. Up there at Gavrillac, I couldn't achieve anything. The timing was poorly chosen, as it turned out. But I have hopes for the Marquis.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Male",
+    "text": "Hopes for what?",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "Male",
+    "text": "That he will make whatever amends he can. Provide for the widow and the orphans. Why else would he want to hear more from me?",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Male",
+    "text": "Unusual condescension,",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Narrator",
+    "text": "André-Louis said, and then quoted,",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Male",
+    "text": "Timeo Danaos et dona ferentes.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Male",
+    "text": "Why?",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Narrator",
+    "text": "asked Philippe.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "role": "Male",
+    "text": "Let's go and find out, unless you think I'll be a hindrance.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "role": "Narrator",
+    "text": "The host ushered the young men into a room on the right, which had been reserved for the Marquis for as long as he chose to use it. A log fire burned brightly at the far end of the room. Sitting by it were M. de La Tour d'Azyr and his cousin, the Chevalier de Chabrillane. Both men rose as M. de Vilmorin entered. André-Louis followed him in, pausing to close the door.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "role": "Male",
+    "text": "You honor me with your prompt arrival, M. de Vilmorin,",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "role": "Narrator",
+    "text": "the Marquis said. His tone was so cold it contradicted the politeness of his words.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "role": "Male",
+    "text": "A chair, I beg. Ah, Moreau?",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "role": "Narrator",
+    "text": "His voice was coldly questioning.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "role": "Male",
+    "text": "He accompanies you, monsieur?",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "role": "Narrator",
+    "text": "he asked.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "role": "Male",
+    "text": "If you please, Marquis.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "role": "Male",
+    "text": "Why not? Find yourself a seat, Moreau.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "role": "Narrator",
+    "text": "He spoke over his shoulder, as if to a servant.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "role": "Male",
+    "text": "It is good of you, monsieur,",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "role": "Narrator",
+    "text": "Philippe said,",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "role": "Male",
+    "text": "to have offered me this opportunity to continue the subject that took me so unsuccessfully, as it turned out, to Gavrillac.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "role": "Narrator",
+    "text": "The Marquis crossed his legs and held one of his elegant hands to the fire. He replied without bothering to turn to the young man, who was slightly behind him.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "role": "Male",
+    "text": "We will not discuss the goodness of my request for the moment,",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "role": "Narrator",
+    "text": "he said ominously. M. de Chabrillane laughed. André-Louis thought him quick to laugh and almost envied his ability.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "role": "Male",
+    "text": "But I am grateful,",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "role": "Narrator",
+    "text": "Philippe insisted,",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "role": "Male",
+    "text": "that you would agree to hear me argue their case.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "role": "Narrator",
+    "text": "The Marquis stared at him over his shoulder.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "role": "Male",
+    "text": "Whose cause?",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "role": "Narrator",
+    "text": "he asked.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "role": "Male",
+    "text": "Why, the cause of the widow and orphans of this unfortunate Mabey.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "role": "Narrator",
+    "text": "The Marquis looked from Vilmorin to the Chevalier. Again, the Chevalier laughed, slapping his leg this time.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "role": "Male",
+    "text": "I think,",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "role": "Narrator",
+    "text": "M. de La Tour d'Azyr said slowly,",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "role": "Male",
+    "text": "that we are misunderstanding each other. I asked you to come here because the Chateau de Gavrillac was hardly a suitable place to continue our discussion. Also, I hesitated to inconvenience you by suggesting you come all the way to Azyr. But my objective is connected with certain things you said up there. It is on the subject of those expressions, monsieur, that I would like to hear more from you, if you would honor me.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "role": "Narrator",
+    "text": "André-Louis began to realize something sinister was happening. He was a man of quick intuitions, much quicker than M. de Vilmorin, who showed only mild surprise.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "role": "Male",
+    "text": "I am confused, monsieur,",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "role": "Narrator",
+    "text": "he said.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "role": "Male",
+    "text": "What statements are you referring to?",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "role": "Male",
+    "text": "It seems, monsieur, that I must remind you.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "role": "Narrator",
+    "text": "The Marquis crossed his legs and turned his chair sideways, so that he finally faced M. de Vilmorin directly.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "role": "Male",
+    "text": "You spoke, monsieur—and however mistaken you may have been, you spoke very eloquently, almost too eloquently, it seemed to me—of the disgrace of such an act of swift, unofficial punishment against this thief Mabey, or whatever his name may be. 'Infamy' was the precise word you used. You did not take back that word when I had the honor to inform you that my gamekeeper Benet acted by my orders.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "role": "Male",
+    "text": "If,",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "role": "Narrator",
+    "text": "M. de Vilmorin said,",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "role": "Male",
+    "text": "the deed was disgraceful, its disgrace is not lessened by the rank, however high, of the person responsible. Instead, it is made worse.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "role": "Male",
+    "text": "Ah!",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "role": "Narrator",
+    "text": "said the Marquis, and pulled a gold snuffbox from his pocket.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "role": "Male",
+    "text": "You say, 'if the deed was infamous,' monsieur. Am I to understand that you are no longer as convinced of its disgrace as you appeared to be?",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "role": "Narrator",
+    "text": "M. de Vilmorin's fine face wore a look of perplexity. He did not understand the point of this.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "role": "Male",
+    "text": "It occurs to me, Marquis, in view of your willingness to take responsibility, that you must believe there is a justification for the act that isn't clear to me.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "role": "Male",
+    "text": "That is better. That is much better.",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "role": "Narrator",
+    "text": "The Marquis delicately took snuff, brushing the fragments from the fine lace at his throat.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "role": "Male",
+    "text": "You realize that with an incomplete understanding of these matters, not being a landowner yourself, you may have jumped to conclusions you can't justify. That is indeed the case. Let it be a warning to you, monsieur. When I tell you that for months past I have been annoyed by similar thefts, you will perhaps understand that it had become necessary to employ a strong enough deterrent to stop them. Now that the risk is known, I don't think there will be any more sneaking around in my game preserves. And there is more to it than that, M. de Vilmorin. It is not the poaching that annoys me so much as the disregard for my absolute and untouchable rights. There is, monsieur, as you cannot fail to have observed, a bad spirit of defiance in the air. There is only one way to deal with it. To tolerate it, even slightly, or to show leniency, no matter how inclined to be lenient, would mean resorting to even harsher measures tomorrow. You understand me, I am sure. And you will also, I am sure, appreciate my condescension in offering what amounts to an explanation, even though I don't believe any explanation is owed. If anything I have said is still unclear to you, I refer you to the game laws, which your lawyer friend there will explain for you if needed.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "role": "Narrator",
+    "text": "With that, the gentleman turned back to face the fire. It seemed to signal that the conversation was over. But this was not the message it conveyed to the watchful, puzzled, and vaguely uneasy André-Louis. He thought it was a very strange, very suspicious speech. It pretended to explain things politely, with a deliberately insulting tone. In reality, it only served to provoke and anger a man with M. de Vilmorin's views. And that is precisely what it did. M. de Vilmorin rose.",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "role": "Narrator",
+    "text": "“Are there no laws in the world but game laws?” he demanded angrily. “Have you never, by any chance, heard of the laws of humanity?”",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "role": "Narrator",
+    "text": "The Marquis sighed wearily. He wondered, “What do I care about the laws of humanity?”",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "role": "Narrator",
+    "text": "M. de Vilmorin looked at him for a moment in speechless amazement.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "role": "Narrator",
+    "text": "“Nothing, M. le Marquis. That is, alas, too obvious. I hope you will remember it when the time comes that you might wish to appeal to those very laws you now mock.”",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "role": "Narrator",
+    "text": "M. de La Tour d’Azyr sharply threw back his head, his aristocratic face looking imperious.",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "role": "Narrator",
+    "text": "“Now, what exactly does that mean? It’s not the first time today you’ve used vague statements that I could almost believe were a veiled threat.”",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "role": "Narrator",
+    "text": "“Not a threat, M. le Marquis, but a warning. A warning that such deeds as these against God’s creatures… Oh, you may sneer, monsieur, but they are God’s creatures, just like you or I. Neither more nor less, deeply though that thought may wound your pride. In His eyes…”",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "role": "Narrator",
+    "text": "“For goodness sake, spare me a sermon, Father!”",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "role": "Narrator",
+    "text": "“You mock, monsieur. You laugh. But will you laugh, I wonder, when God presents His reckoning to you for the blood and plunder that fill your hands?”",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "role": "Narrator",
+    "text": "“Monsieur!” The word, sharp as the crack of a whip, came from M. de Chabrillane, who bounded to his feet. But the Marquis instantly stopped him.",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "role": "Narrator",
+    "text": "“Sit down, Chevalier. You are interrupting Father, and I would like to hear him further. He interests me profoundly.”",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "role": "Narrator",
+    "text": "In the background, André-Louis, too, had risen. He was brought to his feet by alarm, by the evil he saw etched on M. de La Tour d’Azyr’s handsome face. He approached and touched his friend’s arm.",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "role": "Narrator",
+    "text": "“Better be going, Philippe,” he said.",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "role": "Narrator",
+    "text": "But M. de Vilmorin, caught in the relentless grip of long-suppressed passions, was being swept away by them.",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "role": "Narrator",
+    "text": "“Oh, monsieur,” he said, “consider what you are and what you will become. Consider how you and your kind thrive on abuses, and consider the consequences such abuses will eventually bring.”",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "role": "Narrator",
+    "text": "“Revolutionist!” M. le Marquis said contemptuously. “You have the audacity to stand before me and offer this foul nonsense from your modern, so-called intellectuals!”",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "role": "Narrator",
+    "text": "“Is it nonsense, monsieur? Do you think—do you truly believe in your soul—that it is nonsense? Is it nonsense that the feudal system controls everything, crushing people like grapes in a wine press, all for its own profit? Does it not claim rights over the river’s waters, the fire that bakes the poor man’s bread of grass and barley, and the wind that turns the mill? The peasant cannot take a step on the road, cross a rickety bridge over a river, or buy an ell of cloth in the village market without encountering feudal greed, without being charged feudal dues. Is that not enough, M. le Marquis? Must you also demand his wretched life in payment for the slightest infringement of your sacred privileges, careless of what widows or orphans you condemn to misery? Will nothing satisfy you but to cast your shadow like a curse across the land? And do you think in your pride that France, this Job among the nations, will tolerate it forever?”",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "role": "Narrator",
+    "text": "He paused as if for a reply. But none came. The Marquis considered him, strangely silent, with a half-smile of disdain at the corners of his lips and an ominous hardness in his eyes.",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "role": "Narrator",
+    "text": "Again, André-Louis tugged at his friend’s sleeve.",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "role": "Narrator",
+    "text": "“Philippe.”",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "role": "Narrator",
+    "text": "Philippe shook him off and plunged on, fanatically.",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "role": "Narrator",
+    "text": "“Do you see nothing of the gathering storm clouds? You imagine, perhaps, that these States-General, called by M. Necker and promised for next year, will do nothing but invent new ways to extort money and pay off the State’s debts? You delude yourselves, as you shall find. The Third Estate, which you despise, will prove itself the dominant force. It will find a way to make an end of this cancer of privilege that is eating away at the heart of this unfortunate country.”",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "role": "Narrator",
+    "text": "M. le Marquis shifted in his chair and spoke at last.",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "role": "Narrator",
+    "text": "“You have, monsieur,” he said, “a very dangerous gift of eloquence. And it’s more about you than your subject. After all, what do you offer me? Reheated leftovers served to shabby enthusiasts in provincial literary clubs, made up of the ramblings of your Voltaires, Jean-Jacques, and other grubby scribblers. Among all your philosophers, you don’t have one with the sense to understand that we are an order established by ancient custom, that for our rights and privileges, we have the authority of centuries behind us.”",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "role": "Narrator",
+    "text": "“Humanity, monsieur,” Philippe replied, “is more ancient than nobility. Human rights are as old as humanity itself.”",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "role": "Narrator",
+    "text": "The Marquis laughed and shrugged.",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "role": "Narrator",
+    "text": "“That is the answer I might have expected. It has the exact kind of pretentious talk that defines these philosophers.”",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "role": "Narrator",
+    "text": "And then M. de Chabrillane spoke.",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "role": "Narrator",
+    "text": "“You’re taking the long way around,” he criticized his cousin, with a note of impatience.",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "role": "Male",
+    "text": "But I'm getting there,",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "role": "Narrator",
+    "text": "came the reply.",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "role": "Male",
+    "text": "I wanted to be absolutely sure first.",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "role": "Male",
+    "text": "Honestly, you shouldn't have any doubt by now.",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "role": "Male",
+    "text": "I have none.",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "role": "Narrator",
+    "text": "The Marquis stood up and turned back to Monsieur de Vilmorin, who hadn't understood any of that brief conversation. The Marquis said again,",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "role": "Male",
+    "text": "Monsieur l'abbé, you have a very dangerous gift for speaking. I can imagine men being swayed by it. If you had been born a gentleman, you wouldn't have so easily adopted these false views you're expressing.",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "role": "Narrator",
+    "text": "Monsieur de Vilmorin stared blankly, not understanding.",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "role": "Male",
+    "text": "Did you say, 'If I had been born a gentleman'?",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "role": "Narrator",
+    "text": "he asked in a slow, bewildered voice.",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "role": "Male",
+    "text": "But I *was* born a gentleman. My family is as old, my blood as noble as yours, monsieur.",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "role": "Narrator",
+    "text": "The Marquis's eyebrows twitched slightly, and a vague, indulgent smile touched his lips. His dark, liquid eyes looked directly into Monsieur de Vilmorin's face.",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "role": "Male",
+    "text": "I'm afraid you've been deceived about that.",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "role": "Male",
+    "text": "Deceived?",
+    "is_header": false
+  },
+  {
+    "id": 104,
+    "role": "Female",
+    "text": "Your sentiments betray the indiscretion your mother must have been guilty of.",
+    "is_header": false
+  },
+  {
+    "id": 105,
+    "role": "Narrator",
+    "text": "The brutally insulting words were spoken, impossible to take back. The lips that had uttered them, cold as if they were the most ordinary statement, remained calm and faintly sneering.",
+    "is_header": false
+  },
+  {
+    "id": 106,
+    "role": "Narrator",
+    "text": "A dead silence followed. André-Louis's mind went numb. He stood aghast, all thought suspended, while Monsieur de Vilmorin's eyes remained fixed on Monsieur de La Tour d'Azyr's, as if searching for a meaning that escaped him. Quite suddenly, he understood the vile insult. Blood rushed to his face, and fire blazed in his gentle eyes. A convulsive tremor shook him. Then, with an inarticulate cry, he leaned forward and struck the Marquis full and hard across his sneering face with his open hand.",
+    "is_header": false
+  },
+  {
+    "id": 107,
+    "role": "Narrator",
+    "text": "In a flash, Monsieur de Chabrillane was on his feet, standing between the two men.",
+    "is_header": false
+  },
+  {
+    "id": 108,
+    "role": "Narrator",
+    "text": "Too late, André-Louis saw the trap. La Tour d'Azyr's words were just a move in a game of chess, designed to provoke his opponent into exactly this kind of counter-move – a move that left him entirely at the other's mercy.",
+    "is_header": false
+  },
+  {
+    "id": 109,
+    "role": "Narrator",
+    "text": "The Marquis watched, very pale except where Monsieur de Vilmorin's fingerprints slowly began to redden his face. But he said nothing more. Instead, Monsieur de Chabrillane now spoke, taking up his pre-arranged role in this vile game.",
+    "is_header": false
+  },
+  {
+    "id": 110,
+    "role": "Male",
+    "text": "You realize, monsieur, what you have done,",
+    "is_header": false
+  },
+  {
+    "id": 111,
+    "role": "Narrator",
+    "text": "he said coldly to Philippe.",
+    "is_header": false
+  },
+  {
+    "id": 112,
+    "role": "Male",
+    "text": "And you realize, of course, what must inevitably follow.",
+    "is_header": false
+  },
+  {
+    "id": 113,
+    "role": "Narrator",
+    "text": "Monsieur de Vilmorin had realized nothing. The poor young man had acted on impulse, driven by an instinct for decency and honor, never considering the consequences. But he understood them now, thanks to Monsieur de Chabrillane's sinister invitation. If he wanted to avoid these consequences, it was out of respect for his priestly calling, which strictly forbade settling disputes in the way Monsieur de Chabrillane was clearly forcing upon him.",
+    "is_header": false
+  },
+  {
+    "id": 114,
+    "role": "Narrator",
+    "text": "He drew back.",
+    "is_header": false
+  },
+  {
+    "id": 115,
+    "role": "Male",
+    "text": "Let one insult cancel out the other,",
+    "is_header": false
+  },
+  {
+    "id": 116,
+    "role": "Narrator",
+    "text": "he said in a dull voice.",
+    "is_header": false
+  },
+  {
+    "id": 117,
+    "role": "Male",
+    "text": "The balance is still in the Marquis's favor. Let that satisfy him.",
+    "is_header": false
+  },
+  {
+    "id": 118,
+    "role": "Male",
+    "text": "Impossible.",
+    "is_header": false
+  },
+  {
+    "id": 119,
+    "role": "Narrator",
+    "text": "The Chevalier's lips pressed together tightly. After that, he was all smoothness, but very firm.",
+    "is_header": false
+  },
+  {
+    "id": 120,
+    "role": "Male",
+    "text": "A blow has been struck, monsieur. I believe I'm correct in saying that such a thing has never happened to the Marquis in his entire life. If you felt insulted, you only had to ask for the satisfaction due from one gentleman to another. Your action seems to confirm the assumption you found so offensive. But that doesn't make you immune to the consequences.",
+    "is_header": false
+  },
+  {
+    "id": 121,
+    "role": "Narrator",
+    "text": "You see, it was Monsieur de Chabrillane's role to heap coals on this fire, to make absolutely sure their victim wouldn't escape them.",
+    "is_header": false
+  },
+  {
+    "id": 122,
+    "role": "Child",
+    "text": "I desire no immunity,",
+    "is_header": false
+  },
+  {
+    "id": 123,
+    "role": "Narrator",
+    "text": "the young seminarist flashed back, stung by this new provocation. After all, he was nobly born, and the traditions of his class were strong within him – far stronger than his seminary schooling in humility. He owed it to himself, to his honor, to be killed rather than avoid the consequences of what he had done.",
+    "is_header": false
+  },
+  {
+    "id": 124,
+    "role": "Male",
+    "text": "But he doesn't wear a sword, messieurs!",
+    "is_header": false
+  },
+  {
+    "id": 125,
+    "role": "Narrator",
+    "text": "cried André-Louis, aghast.",
+    "is_header": false
+  },
+  {
+    "id": 126,
+    "role": "Male",
+    "text": "That's easily fixed. He can borrow mine.",
+    "is_header": false
+  },
+  {
+    "id": 127,
+    "role": "Male",
+    "text": "I mean, messieurs,",
+    "is_header": false
+  },
+  {
+    "id": 128,
+    "role": "Narrator",
+    "text": "André-Louis insisted, torn between fear for his friend and indignation,",
+    "is_header": false
+  },
+  {
+    "id": 129,
+    "role": "Male",
+    "text": "that he doesn't usually wear a sword, that he has never worn one, and that he's untrained in how to use it. He's a seminarist – a candidate for holy orders, already half a priest, and therefore forbidden from such an engagement as you're proposing.",
+    "is_header": false
+  },
+  {
+    "id": 130,
+    "role": "Male",
+    "text": "He should have remembered all that before he struck a blow,",
+    "is_header": false
+  },
+  {
+    "id": 131,
+    "role": "Narrator",
+    "text": "Monsieur de Chabrillane said politely.",
+    "is_header": false
+  },
+  {
+    "id": 132,
+    "role": "Male",
+    "text": "The blow was deliberately provoked,",
+    "is_header": false
+  },
+  {
+    "id": 133,
+    "role": "Narrator",
+    "text": "André-Louis raged. Then he regained his composure, though the other man's haughty stare had nothing to do with it.",
+    "is_header": false
+  },
+  {
+    "id": 134,
+    "role": "Male",
+    "text": "Oh my God, I'm talking for nothing! How can one argue against a fixed purpose? Come away, Philippe. Don't you see the trap...",
+    "is_header": false
+  },
+  {
+    "id": 135,
+    "role": "Narrator",
+    "text": "Monsieur de Vilmorin cut him short and pushed him away.",
+    "is_header": false
+  },
+  {
+    "id": 136,
+    "role": "Male",
+    "text": "Be quiet, André. The Marquis is entirely in the right.",
+    "is_header": false
+  },
+  {
+    "id": 137,
+    "role": "Male",
+    "text": "The Marquis is in the right?",
+    "is_header": false
+  },
+  {
+    "id": 138,
+    "role": "Narrator",
+    "text": "André-Louis let his arms fall helplessly. This man he loved more than anyone else alive was caught in the snare of the world's insanity. He was baring his chest to the knife for the sake of a vague, distorted sense of his own honor. It wasn't that he didn't see the trap. It was that his honor forced him to scorn even thinking about it. To André-Louis, in that moment, he seemed a singularly tragic figure. Noble, perhaps, but very pitiful.",
+    "is_header": false
+  }
+]
