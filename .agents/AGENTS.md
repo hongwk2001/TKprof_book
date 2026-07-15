@@ -12,3 +12,6 @@
   - **1–5 seconds of clean silence** at both the start AND end of every track
   - Sample rate exactly **44,100 Hz**, CBR at **192 kbps or higher**
   - After generating any audio file, run `check_audio_quality.py` on the output to confirm it passes before considering the task done.
+
+- **Literary Translation Workflow**: Before undertaking any translation, editing, or text refinement tasks, you MUST read [translation_workflow_guide.md](file:///d:/git_repo/TKprof_book/translation_workflow_guide.md) in the project root and ensure you use high-tier reasoning models, apply the multi-step critique loop, respect contextual kinship rules, and perform human-in-the-loop validation using proposal files.
+
