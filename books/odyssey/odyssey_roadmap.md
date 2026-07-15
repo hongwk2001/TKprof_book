@@ -63,4 +63,6 @@ flowchart LR
 Before publishing, the book must be audited:
 - **XHTML & Metadata Validation**: Ensure compliance with EPUB3 standards, including dynamic modification dates and UUIDs.
 - **TTS and Audio Check**: Check screen-reader friendliness and ensure formatting does not repeat chapter/book titles awkwardly.
-- **Status**: `[ ]` Pending.
+- **Status**: 
+  * **English Edition**: `[x]` Complete & Validated (Passes EPUB3 XML validation, dynamic date and UUID verified). Ready to Deploy!
+  * **Korean Edition**: `[x]` Complete (All translations complete, verified, and EPUB compiled).

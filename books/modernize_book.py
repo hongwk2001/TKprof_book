@@ -66,7 +66,7 @@ def call_gemini_api(api_key, prompt):
     # Retry up to 7 times on temporary network errors
     for attempt in range(7):
         try:
-            with urllib.request.urlopen(req) as response:
+            with urllib.request.urlopen(req, timeout=60) as response:
                 res_body = response.read().decode("utf-8")
                 res_json = json.loads(res_body)
                 

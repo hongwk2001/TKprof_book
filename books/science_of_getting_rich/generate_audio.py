@@ -85,9 +85,17 @@ def main():
             print(f"Successfully compiled: {os.path.basename(out_mp3)}")
         except subprocess.CalledProcessError as e:
             print(f"Error mixing audio for {filename}: {e}")
-        finally:
             if os.path.exists(temp_raw):
                 os.remove(temp_raw)
+
+    # Generate Sample Track (copy ch_01_en.mp3 to sample.mp3)
+    import shutil
+    sample_src = os.path.join(OUTPUT_DIR, "ch_01_en.mp3")
+    sample_dst = os.path.join(OUTPUT_DIR, "sample.mp3")
+    if os.path.exists(sample_src):
+        print("\nGenerating Sample Track...")
+        shutil.copy(sample_src, sample_dst)
+        print("Successfully generated sample.mp3")
 
 if __name__ == "__main__":
     main()

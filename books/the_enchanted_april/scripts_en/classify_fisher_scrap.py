@@ -60,13 +60,13 @@ def main():
             if label == "fisher":
                 seg["character"] = "Fisher"
                 seg["voice"] = "bf_alice"
-                seg["speed"] = 0.9
+                seg["speed"] = 1.0
                 file_changed = True
                 counts["fisher"] += 1
             elif label == "scrap":
                 seg["character"] = "Scrap"
                 seg["voice"] = "bf_isabella"
-                seg["speed"] = 0.95
+                seg["speed"] = 1.0
                 file_changed = True
                 counts["scrap"] += 1
             elif label == "male":

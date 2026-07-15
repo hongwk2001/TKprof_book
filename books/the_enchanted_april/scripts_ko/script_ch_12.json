@@ -1,19 +1,38 @@
 [
   {
+    "index": 0,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
     "speed": 1.0,
-    "text": "제12장\n\n\n네 사람이 처음으로 저녁 식탁에 둘러앉은 자리에서, 드디어 스크랩이 모습을 드러냈다.\n\n그녀는 시간 맞춰 정확하게 도착했는데, 흔히 '기막히게 멋지다'고 묘사되는 헐렁한 가운 드레스를 입고 있었다. 실제로 그 드레스는 정말이지 눈부셨다. 맞은편에 앉은 아름다운 여인에게서 눈을 떼지 못하는 윌킨스 부인의 마음을 완전히 사로잡았다. 드레스는 은은한 조갯빛 분홍색이었는데, 마치 드레스도 스크랩을 사랑하는 양 그녀의 몸에 부드럽게 감겨 있었다."
+    "text": "제12장"
   },
   {
+    "index": 1,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "네 사람이 처음으로 저녁 식탁에 둘러앉은 자리에서, 드디어 스크랩이 모습을 드러냈다."
+  },
+  {
+    "index": 2,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "그녀는 시간 맞춰 정확하게 도착했는데, 흔히 '기막히게 멋지다'고 묘사되는 헐렁한 가운 드레스를 입고 있었다. 실제로 그 드레스는 정말이지 눈부셨다. 맞은편에 앉은 아름다운 여인에게서 눈을 떼지 못하는 윌킨스 부인의 마음을 완전히 사로잡았다. 드레스는 은은한 조갯빛 분홍색이었는데, 마치 드레스도 스크랩을 사랑하는 양 그녀의 몸에 부드럽게 감겨 있었다."
+  },
+  {
+    "index": 3,
     "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"정말 아름다운 드레스네요!\""
+    "speed": 1.0,
+    "text": "정말 아름다운 드레스네요!"
   },
   {
+    "index": 4,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -21,13 +40,15 @@
     "text": "윌킨스 부인이 감탄하며 말했다."
   },
   {
-    "character": "Rose",
+    "index": 5,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"네? 이 낡은 옷 말씀이세요?\""
+    "speed": 1.0,
+    "text": "네? 이 낡은 옷 말씀이세요?"
   },
   {
+    "index": 6,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -35,13 +56,15 @@
     "text": "스크랩은 자신이 무엇을 입고 있는지 확인이라도 하듯 내려다보며 말했다."
   },
   {
-    "character": "Lady Caroline",
+    "index": 7,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "\"오래전부터 갖고 있던 옷이에요.\""
+    "text": "오래전부터 갖고 있던 옷이에요."
   },
   {
+    "index": 8,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -49,13 +72,15 @@
     "text": "그러고는 다시 수프를 먹기 시작했다."
   },
   {
-    "character": "Rose",
+    "index": 9,
+    "character": "Fisher",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"그 옷차림으론 몹시 춥겠구려.\""
+    "speed": 1.0,
+    "text": "그 옷차림으론 몹시 춥겠구려."
   },
   {
+    "index": 10,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -63,13 +88,15 @@
     "text": "피셔 부인이 어색한 미소를 띠며 말했다. 드레스는 노출이 꽤 심했다. 팔 전체가 고스란히 드러났고, 천이 덮인 부분조차 너무 얇아서 속이 훤히 들여다보일 정도였다."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"제가요?\""
+    "index": 11,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "제가요?"
   },
   {
+    "index": 12,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -77,13 +104,15 @@
     "text": "스크랩이 잠시 고개를 들며 대꾸했다."
   },
   {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
+    "index": 13,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
     "speed": 1.0,
-    "text": "\"어머, 전혀요.\""
+    "text": "어머, 전혀요."
   },
   {
+    "index": 14,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -91,13 +120,15 @@
     "text": "그러고는 묵묵히 수프를 계속 먹었다."
   },
   {
+    "index": 15,
     "character": "Rose",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"감기 걸리지 않게 조심하셔야겠어요.\""
+    "speed": 1.0,
+    "text": "감기 걸리지 않게 조심하셔야겠어요."
   },
   {
+    "index": 16,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -105,20 +136,23 @@
     "text": "그런 눈부신 미모는 어떻게 해서든 고이 보존해야 한다고 여긴 아버스넛 부인이 말했다."
   },
   {
+    "index": 17,
     "character": "Rose",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"해가 지고 나면 이곳은 한기가 많이 돌거든요.\""
+    "speed": 1.0,
+    "text": "해가 지고 나면 이곳은 한기가 많이 돌거든요."
   },
   {
-    "character": "Rose",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"전 정말 따뜻해요.\""
+    "index": 18,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "전 정말 따뜻해요."
   },
   {
+    "index": 19,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -126,13 +160,15 @@
     "text": "스크랩은 수프를 먹는 데 열중하며 말했다."
   },
   {
-    "character": "Lady Caroline",
+    "index": 20,
+    "character": "Fisher",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"속에 아무것도 입지 않은 것처럼 보이는구려.\""
+    "speed": 1.0,
+    "text": "속에 아무것도 입지 않은 것처럼 보이는구려."
   },
   {
+    "index": 21,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -140,13 +176,15 @@
     "text": "피셔 부인이 지적했다."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 22,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"안 입었어요. 아니, 거의 안 입었다고 해야겠네요.\""
+    "speed": 1.0,
+    "text": "안 입었어요. 아니, 거의 안 입었다고 해야겠네요."
   },
   {
+    "index": 23,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -154,13 +192,15 @@
     "text": "스크랩이 수프를 다 비우며 무덤덤하게 말했다."
   },
   {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"참으로 무모하고,\""
+    "index": 24,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "참으로 무모하고,"
   },
   {
+    "index": 25,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -168,27 +208,47 @@
     "text": "피셔 부인이 혀를 찼다."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"여간 불경한 짓이 아니구려.\""
-  },
-  {
+    "index": 26,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
     "speed": 1.0,
-    "text": "스크랩은 그저 그녀를 빤히 쳐다볼 뿐이었다.\n\n피셔 부인은 내심 캐롤라인 레이디를 좋게 봐줄 작정으로 저녁 자리에 나왔었다. 적어도 아가씨는 자신의 개인 거실을 침범하지도 않았고, 책상에 앉거나 펜을 마음대로 쓰지도 않았다. 예의를 아는 사람이라고 생각했던 것이다. 하지만 이제 보니 그런 생각은 오산이었다. 저녁 식사 자리에 저런 옷차림으로, 아니 차라리 벗은 상태나 다름없는 몰골로 나타나는 게 과연 예의에 부합한단 말인가. 무례할 뿐만 아니라 배려심도 전혀 없는 행동이었다. 저러다 분명 감기에 걸려 다른 사람들에게 옮길 것이 뻔했다. 피셔 부인은 남에게 감기를 옮는 것을 극도로 혐오했다. 남들의 감기는 늘 어리석은 짓을 해서 걸리는 것이었고, 아무 잘못도 없는 자신에게 옮겨와 고통을 주곤 했기 때문이다.\n\n'철딱서니 없는 것.' 피셔 부인은 캐롤라인 레이디를 엄하게 노려보며 생각했다. '머릿속에 허영심 말고는 든 생각이 하나도 없구나.'"
+    "text": "여간 불경한 짓이 아니구려."
   },
   {
+    "index": 27,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "스크랩은 그저 그녀를 빤히 쳐다볼 뿐이었다."
+  },
+  {
+    "index": 28,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "피셔 부인은 내심 캐롤라인 레이디를 좋게 봐줄 작정으로 저녁 자리에 나왔었다. 적어도 아가씨는 자신의 개인 거실을 침범하지도 않았고, 책상에 앉거나 펜을 마음대로 쓰지도 않았다. 예의를 아는 사람이라고 생각했던 것이다. 하지만 이제 보니 그런 생각은 오산이었다. 저녁 식사 자리에 저런 옷차림으로, 아니 차라리 벗은 상태나 다름없는 몰골로 나타나는 게 과연 예의에 부합한단 말인가. 무례할 뿐만 아니라 배려심도 전혀 없는 행동이었다. 저러다 분명 감기에 걸려 다른 사람들에게 옮길 것이 뻔했다. 피셔 부인은 남에게 감기를 옮는 것을 극도로 혐오했다. 남들의 감기는 늘 어리석은 짓을 해서 걸리는 것이었고, 아무 잘못도 없는 자신에게 옮겨와 고통을 주곤 했기 때문이다."
+  },
+  {
+    "index": 29,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "'철딱서니 없는 것.' 피셔 부인은 캐롤라인 레이디를 엄하게 노려보며 생각했다. '머릿속에 허영심 말고는 든 생각이 하나도 없구나.'"
+  },
+  {
+    "index": 30,
     "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"하지만 여기엔 남자들이 없잖아요.\""
+    "speed": 1.0,
+    "text": "하지만 여기엔 남자들이 없잖아요."
   },
   {
+    "index": 31,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -196,13 +256,15 @@
     "text": "윌킨스 부인이 불쑥 끼어들었다."
   },
   {
+    "index": 32,
     "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"그러니 불경할 일도 없죠. 혹시 눈치채셨나요?\""
+    "speed": 1.0,
+    "text": "그러니 불경할 일도 없죠. 혹시 눈치채셨나요?"
   },
   {
+    "index": 33,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -210,41 +272,87 @@
     "text": "그녀는 못 들은 척 시치미를 떼려는 피셔 부인에게 물었다."
   },
   {
+    "index": 34,
     "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"주변에 남자가 없을 때는 오히려 음전하지 않게 굴고 싶어도 그게 참 어렵다는 사실을요.\""
+    "speed": 1.0,
+    "text": "주변에 남자가 없을 때는 오히려 음전하지 않게 굴고 싶어도 그게 참 어렵다는 사실을요."
   },
   {
+    "index": 35,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
     "speed": 1.0,
-    "text": "피셔 부인은 대답은커녕 쳐다보지도 않았지만, 스크랩은 달랐다. 보통 사람 같으면 샐쭉 웃음이 터졌을 법한 묘한 실룩거림이 그녀의 입가에 맴돌았다. 식탁 맞은편 꽃병 너머로 비친 그 모습은 보조개가 살짝 팬 짧고 눈부신 미소 같았다.\n\n'저 여자, 참 표정이 풍부하네.' 스크랩은 약간의 흥미를 느끼며 윌킨스 부인을 관찰했다. 빛과 그림자에 따라 물결치는 밀밭 같았다. 그녀는 윌킨스 부인과 머리가 검은 부인이 나름대로 옷을 갈아입었지만, 그저 실크 스웨터를 걸쳤을 뿐이라는 사실을 눈치챘다. 스크랩이 보기에는 똑같은 노력으로 충분히 더 어울리게 차려입을 수 있을 텐데 아쉬웠다. 스웨터 차림은 그들에게 영 어울리지 않았다. 피셔 부인이야 무엇을 입든 그녀의 칙칙하고 두툼한 옷이 잘 어울렸지만, 다른 두 사람은 아직 젊고 꽤 고운 편이었다. 이목구비도 단정했다. 최악의 몰골 대신 최선의 모습을 보여주려 애쓴다면 그들의 삶도 크게 달라질 터였다. 하지만 이내 스크랩은 흥미를 잃었다. 생각을 거두고 토스트를 찔끔 깨물었다. 어차피 그게 다 무슨 소용이란 말인가. 예쁘게 차려입어 봤자 자신을 소유하려는 탐욕스러운 남자들의 표적만 될 뿐이었다."
+    "text": "피셔 부인은 대답은커녕 쳐다보지도 않았지만, 스크랩은 달랐다. 보통 사람 같으면 샐쭉 웃음이 터졌을 법한 묘한 실룩거림이 그녀의 입가에 맴돌았다. 식탁 맞은편 꽃병 너머로 비친 그 모습은 보조개가 살짝 팬 짧고 눈부신 미소 같았다."
   },
   {
-    "character": "Lotty",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"오늘 정말 환상적인 하루를 보냈어요.\""
-  },
-  {
+    "index": 36,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
     "speed": 1.0,
-    "text": "윌킨스 부인이 눈빛을 반짝이며 이야기를 꺼냈다.\n\n스크랩은 고개를 숙였다. '아,' 그녀는 속으로 탄식했다. '또 감정에 겨워 수다를 떨기 시작하겠군.'\n\n'누가 지 하루에 관심이나 있다고.' 피셔 부인 역시 고개를 숙이며 생각했다.\n\n실제로 피셔 부인은 윌킨스 부인이 입을 열 때마다 일부러 고개를 숙여 불쾌감을 표시했다. 게다가 저 여자가 언제 또 엉뚱한 소리를 내뱉을지 모르니 그것만이 유일하게 안전한 대처법이기도 했다. 아까 남자 운운하던 소리만 해도 하필 자신을 겨냥한 게 아닌가. 무슨 뜻으로 그런 말을 했단 말인가. 깊이 생각하지 않는 편이 정신 건강에 이롭다고 피셔 부인은 결론 내렸다. 비록 눈을 내리깔고 있었지만, 그녀는 캐롤라인 레이디가 키안티 와인병에 손을 뻗어 잔을 다시 채우는 것을 똑똑히 보았다.\n\n또 마시다니! 이미 한 잔을 비웠는데 생선 요리가 아직 다 나오지도 않은 참이었다. 피셔 부인은 이 일행 중 그나마 제정신인 또 다른 회원인 아버스넛 부인 역시 이 모습을 지켜보고 있다는 사실을 감지했다. 그녀는 아버스넛 부인이 품격 있고 예의 바른 숙녀이기를 내심 기대하고 있었다. 비록 아버스넛 부인 역시 거실을 침범하긴 했지만, 필시 저 윌킨스 부인에게 억지로 끌려 들어온 것이리라. 피셔 부인은 아버스넛 부인에게는 딱히 감정이 없었고, 그녀가 오직 물만 마시는 모습이 아주 흡족했다. 그것이 올바른 처신이었다. 공평하게 말해서, 주근깨 부인도 물만 마셨으니 그 나이대에 합당한 처신이었다. 피셔 부인 자신은 와인을 마시긴 했지만 아주 절제하여 식사당 딱 한 잔만 마셨다. 그녀는 예순다섯 살이었고, 그 나이라면 두 잔을 마셔도 충분히 정상 참작이 되는 처지였다."
+    "text": "'저 여자, 참 표정이 풍부하네.' 스크랩은 약간의 흥미를 느끼며 윌킨스 부인을 관찰했다. 빛과 그림자에 따라 물결치는 밀밭 같았다. 그녀는 윌킨스 부인과 머리가 검은 부인이 나름대로 옷을 갈아입었지만, 그저 실크 스웨터를 걸쳤을 뿐이라는 사실을 눈치챘다. 스크랩이 보기에는 똑같은 노력으로 충분히 더 어울리게 차려입을 수 있을 텐데 아쉬웠다. 스웨터 차림은 그들에게 영 어울리지 않았다. 피셔 부인이야 무엇을 입든 그녀의 칙칙하고 두툼한 옷이 잘 어울렸지만, 다른 두 사람은 아직 젊고 꽤 고운 편이었다. 이목구비도 단정했다. 최악의 몰골 대신 최선의 모습을 보여주려 애쓴다면 그들의 삶도 크게 달라질 터였다. 하지만 이내 스크랩은 흥미를 잃었다. 생각을 거두고 토스트를 찔끔 깨물었다. 어차피 그게 다 무슨 소용이란 말인가. 예쁘게 차려입어 봤자 자신을 소유하려는 탐욕스러운 남자들의 표적만 될 뿐이었다."
   },
   {
-    "character": "Rose",
+    "index": 37,
+    "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"그 술은,\""
+    "speed": 1.0,
+    "text": "오늘 정말 환상적인 하루를 보냈어요."
   },
   {
+    "index": 38,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "윌킨스 부인이 눈빛을 반짝이며 이야기를 꺼냈다."
+  },
+  {
+    "index": 39,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "스크랩은 고개를 숙였다. '아,' 그녀는 속으로 탄식했다. '또 감정에 겨워 수다를 떨기 시작하겠군.'"
+  },
+  {
+    "index": 40,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "'누가 지 하루에 관심이나 있다고.' 피셔 부인 역시 고개를 숙이며 생각했다."
+  },
+  {
+    "index": 41,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "실제로 피셔 부인은 윌킨스 부인이 입을 열 때마다 일부러 고개를 숙여 불쾌감을 표시했다. 게다가 저 여자가 언제 또 엉뚱한 소리를 내뱉을지 모르니 그것만이 유일하게 안전한 대처법이기도 했다. 아까 남자 운운하던 소리만 해도 하필 자신을 겨냥한 게 아닌가. 무슨 뜻으로 그런 말을 했단 말인가. 깊이 생각하지 않는 편이 정신 건강에 이롭다고 피셔 부인은 결론 내렸다. 비록 눈을 내리깔고 있었지만, 그녀는 캐롤라인 레이디가 키안티 와인병에 손을 뻗어 잔을 다시 채우는 것을 똑똑히 보았다."
+  },
+  {
+    "index": 42,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "또 마시다니! 이미 한 잔을 비웠는데 생선 요리가 아직 다 나오지도 않은 참이었다. 피셔 부인은 이 일행 중 그나마 제정신인 또 다른 회원인 아버스넛 부인 역시 이 모습을 지켜보고 있다는 사실을 감지했다. 그녀는 아버스넛 부인이 품격 있고 예의 바른 숙녀이기를 내심 기대하고 있었다. 비록 아버스넛 부인 역시 거실을 침범하긴 했지만, 필시 저 윌킨스 부인에게 억지로 끌려 들어온 것이리라. 피셔 부인은 아버스넛 부인에게는 딱히 감정이 없었고, 그녀가 오직 물만 마시는 모습이 아주 흡족했다. 그것이 올바른 처신이었다. 공평하게 말해서, 주근깨 부인도 물만 마셨으니 그 나이대에 합당한 처신이었다. 피셔 부인 자신은 와인을 마시긴 했지만 아주 절제하여 식사당 딱 한 잔만 마셨다. 그녀는 예순다섯 살이었고, 그 나이라면 두 잔을 마셔도 충분히 정상 참작이 되는 처지였다."
+  },
+  {
+    "index": 43,
+    "character": "Fisher",
+    "sex": "female",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "그 술은,"
+  },
+  {
+    "index": 44,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -252,41 +360,79 @@
     "text": "그녀는 윌킨스 부인의 즐거웠던 하루 이야기를 뚝 끊으며 캐롤라인 레이디의 잔을 가리켰다."
   },
   {
-    "character": "Lady Caroline",
+    "index": 45,
+    "character": "Fisher",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"건강에 아주 해롭소.\""
+    "speed": 1.0,
+    "text": "건강에 아주 해롭소."
   },
   {
+    "index": 46,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
     "speed": 1.0,
-    "text": "캐롤라인 레이디는 들은 체도 하지 않았다. 식탁에 한쪽 팔꿈치를 괸 채 윌킨스 부인의 이야기에 귀를 기울이며 와인을 홀짝일 뿐이었다.\n\n어디 보자, 윌킨스 부인이 무슨 말을 하고 있는 거지? 누군가를 성으로 초대했다고? 그것도 남자라고?\n\n피셔 부인은 자신의 귀를 의심했다. 하지만 윌킨스 부인이 그를 가리켜 '그이'라고 부르는 것을 보니 분명 남자였다.\n\n마침내 피셔 부인은 생전 처음으로 윌킨스 부인에게 직접 말을 건넸다. 이것은 결코 묵과할 수 없는 중대한 사안이었다. 비록 그녀가 예순다섯 살의 노인이고 한 달 동안 함께 지낼 여자들에게 큰 관심은 없었지만, 이 모임에 남자를 끌어들이는 것은 전혀 차원이 다른 문제였다. 그녀는 남에게 이용당할 생각이 털끝만큼도 없었다. 옛날 사람들이 말하는 그 '품행 단정치 못한 행위'에 묵인해 주려고 멀리 이탈리아까지 온 것이 아니었다. 런던에서 모였을 때는 남자 얘기가 일절 없었다. 만약 그때 언급되었다면 그녀는 이 모임에 끼지 않았을 터였다."
+    "text": "캐롤라인 레이디는 들은 체도 하지 않았다. 식탁에 한쪽 팔꿈치를 괸 채 윌킨스 부인의 이야기에 귀를 기울이며 와인을 홀짝일 뿐이었다."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"그 사람 이름이 뭐요?\""
-  },
-  {
+    "index": 47,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
     "speed": 1.0,
-    "text": "피셔 부인이 말을 자르며 물었다.\n\n윌킨스 부인은 다소 놀란 표정으로 그녀를 보았다."
+    "text": "어디 보자, 윌킨스 부인이 무슨 말을 하고 있는 거지? 누군가를 성으로 초대했다고? 그것도 남자라고?"
   },
   {
-    "character": "Lotty",
+    "index": 48,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "피셔 부인은 자신의 귀를 의심했다. 하지만 윌킨스 부인이 그를 가리켜 '그이'라고 부르는 것을 보니 분명 남자였다."
+  },
+  {
+    "index": 49,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "마침내 피셔 부인은 생전 처음으로 윌킨스 부인에게 직접 말을 건넸다. 이것은 결코 묵과할 수 없는 중대한 사안이었다. 비록 그녀가 예순다섯 살의 노인이고 한 달 동안 함께 지낼 여자들에게 큰 관심은 없었지만, 이 모임에 남자를 끌어들이는 것은 전혀 차원이 다른 문제였다. 그녀는 남에게 이용당할 생각이 털끝만큼도 없었다. 옛날 사람들이 말하는 그 '품행 단정치 못한 행위'에 묵인해 주려고 멀리 이탈리아까지 온 것이 아니었다. 런던에서 모였을 때는 남자 얘기가 일절 없었다. 만약 그때 언급되었다면 그녀는 이 모임에 끼지 않았을 터였다."
+  },
+  {
+    "index": 50,
+    "character": "Fisher",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"윌킨스예요.\""
+    "speed": 1.0,
+    "text": "그 사람 이름이 뭐요?"
   },
   {
+    "index": 51,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "피셔 부인이 말을 자르며 물었다."
+  },
+  {
+    "index": 52,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "윌킨스 부인은 다소 놀란 표정으로 그녀를 보았다."
+  },
+  {
+    "index": 53,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "윌킨스예요."
+  },
+  {
+    "index": 54,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -294,62 +440,71 @@
     "text": "그녀가 대답했다."
   },
   {
-    "character": "Lotty",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"윌킨스?\""
-  },
-  {
-    "character": "Frederick",
+    "index": 55,
+    "character": "Narrator",
     "sex": "male",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-InJoonNeural",
     "speed": 1.0,
-    "text": "\"네.\""
+    "text": "윌킨스?"
   },
   {
-    "character": "Lotty",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"당신 성과 같구려?\""
-  },
-  {
-    "character": "Frederick",
+    "index": 56,
+    "character": "Narrator",
     "sex": "male",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-InJoonNeural",
     "speed": 1.0,
-    "text": "\"남편 성이니까요.\""
+    "text": "네."
   },
   {
-    "character": "Lotty",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"친척이요?\""
-  },
-  {
-    "character": "Frederick",
+    "index": 57,
+    "character": "Narrator",
     "sex": "male",
-    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "voice": "ko-KR-InJoonNeural",
     "speed": 1.0,
-    "text": "\"피가 섞이진 않았죠.\""
+    "text": "당신 성과 같구려?"
   },
   {
-    "character": "Lotty",
+    "index": 58,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "남편 성이니까요."
+  },
+  {
+    "index": 59,
+    "character": "Fisher",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"결혼으로 맺어진 인척이오?\""
+    "speed": 1.0,
+    "text": "친척이요?"
   },
   {
-    "character": "Rose",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"제 남편이에요.\""
+    "index": 60,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "피가 섞이진 않았죠."
   },
   {
+    "index": 61,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "결혼으로 맺어진 인척이오?"
+  },
+  {
+    "index": 62,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "제 남편이에요."
+  },
+  {
+    "index": 63,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -357,13 +512,15 @@
     "text": "피셔 부인은 다시 눈길을 아래로 돌렸다. 윌킨스 부인과는 도무지 말이 통하지 않았다. 말투가 어찌나 괴상망측한지."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"제 남편이에요\""
+    "index": 64,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "제 남편이에요"
   },
   {
+    "index": 65,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -371,27 +528,63 @@
     "text": "라고 평범하게 말하면 될 것을 늘 꼬아서 말했다. 게다가 피셔 부인은 내심 햄프스티드에서 온 두 여자가 전쟁 과부일 것이라 넘겨짚고 있었다. 런던 회합에서 남편의 존재에 대해 일절 언급하지 않았으니, 버젓이 남편이 살아서 기다리고 있다면 참으로 기이한 처사였다. 그리고 남편이 친척이 아니라면 대체 누가 친척이란 말인가."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"피가 섞이지 않았다\""
-  },
-  {
+    "index": 66,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
     "speed": 1.0,
-    "text": "니, 참으로 해괴망측한 궤변이었다. 남편이야말로 이 세상에서 가장 가까운 반려이자 혈족이나 다름없었다. 성경에서도 남자가 부모를 떠나 아내와 연합할 것이라 적혀 있으니, 결혼으로 맺어진 유대는 혈연보다 끈끈했다. 남편의 부모조차 아내 앞에서는 아무것도 아닐진대, 아내의 부모는 남편에 비하면 더 말할 나위도 없었다. 그녀 자신은 피셔 씨와 결혼할 당시 부모님이 이미 돌아가셨기에 부모를 떠날 필요는 없었으나, 살아 계셨더라도 당연히 떠났을 터였다. 피가 섞이지 않았다니, 참으로 해괴한 소리였다.\n\n저녁 식사는 훌륭했다. 감탄이 나오는 요리가 꼬리를 물고 이어졌다. 코스탄차는 첫째 주만큼은 달걀과 크림을 쓰고 싶은 만큼 아끼지 않고 듬뿍 써서 요리한 뒤, 나중에 고지서가 나올 때 손님들의 반응을 살펴볼 작정이었다. 그녀의 경험상 영국인들은 식비 청구서에 대해 사소하게 투덜대지 않았다. 얌전하고 말로 쉽게 구슬릴 수 있는 손님들이었다. 게다가 이 성의 주인이 누구란 말인가. 아무도 대장 노릇을 자처하지 않으니, 코스탄차는 자신이 주도권을 쥔 것이나 다름없다고 판단했다. 그래서 요리를 제멋대로 솜씨 좋게 만들었는데, 맛만큼은 정말 기가 막혔다.\n\n하지만 네 여자는 대화에 온통 정신이 팔려 요리가 얼마나 훌륭한지 깨닫지 못한 채 우물우물 음식을 씹었다. 평소 음식에 남다른 미각을 지녔던 피셔 부인조차 눈치채지 못했다. 맛있는 요리가 앞에 놓였음에도 공기 취급을 당했으니, 피셔 부인이 얼마나 깊이 분개하고 있는지 잘 보여주었다.\n\n그녀는 몹시 격앙되어 있었다. 전부 윌킨스 부인의 탓이었다. 그녀는 사람을 미치게 만드는 재주가 있었다. 게다가 키안티 와인 기운이 올랐는지 캐롤라인 레이디마저 윌킨스 부인을 은근히 부추기고 있으니 엎친 데 덮친 격이었다.\n\n피셔 부인은 주변에 남자가 한 명도 없다는 사실을 천만다행으로 여겼다. 남자가 있었다면 캐롤라인 레이디 앞에서 바보처럼 헤벌레 굴었을 것이 뻔했다. 아가씨는 남자들을 단번에 홀려 미치게 만드는 전형적인 부류였고, 오늘 밤은 특히 더 심했다. 와인 기운 때문인지 한층 더 미모가 빛났고, 치명적으로 매력적였다. 피셔 부인이 극도로 혐오하는 풍경 중 하나가 바로 점잖고 지적인 남성들이 진지하고 깊이 있는 대화를 나누다가도, 머리 텅 빈 예쁜 계집애 하나가 나타나면 헤벌레 웃는 바보로 돌변하는 꼴이었다. 일찍이 그녀의 머리 위에 엄숙하게 손을 얹어주었던 위대하고 현명한 정치가 글래드스턴 씨조차, 지금 이 자리에 있었다면 품위를 팽개치고 캐롤라인 레이디에게 추파를 던졌을 거라고 피셔 부인은 장담했다."
+    "text": "피가 섞이지 않았다"
   },
   {
+    "index": 67,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "니, 참으로 해괴망측한 궤변이었다. 남편이야말로 이 세상에서 가장 가까운 반려이자 혈족이나 다름없었다. 성경에서도 남자가 부모를 떠나 아내와 연합할 것이라 적혀 있으니, 결혼으로 맺어진 유대는 혈연보다 끈끈했다. 남편의 부모조차 아내 앞에서는 아무것도 아닐진대, 아내의 부모는 남편에 비하면 더 말할 나위도 없었다. 그녀 자신은 피셔 씨와 결혼할 당시 부모님이 이미 돌아가셨기에 부모를 떠날 필요는 없었으나, 살아 계셨더라도 당연히 떠났을 터였다. 피가 섞이지 않았다니, 참으로 해괴한 소리였다."
+  },
+  {
+    "index": 68,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "저녁 식사는 훌륭했다. 감탄이 나오는 요리가 꼬리를 물고 이어졌다. 코스탄차는 첫째 주만큼은 달걀과 크림을 쓰고 싶은 만큼 아끼지 않고 듬뿍 써서 요리한 뒤, 나중에 고지서가 나올 때 손님들의 반응을 살펴볼 작정이었다. 그녀의 경험상 영국인들은 식비 청구서에 대해 사소하게 투덜대지 않았다. 얌전하고 말로 쉽게 구슬릴 수 있는 손님들이었다. 게다가 이 성의 주인이 누구란 말인가. 아무도 대장 노릇을 자처하지 않으니, 코스탄차는 자신이 주도권을 쥔 것이나 다름없다고 판단했다. 그래서 요리를 제멋대로 솜씨 좋게 만들었는데, 맛만큼은 정말 기가 막혔다."
+  },
+  {
+    "index": 69,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "하지만 네 여자는 대화에 온통 정신이 팔려 요리가 얼마나 훌륭한지 깨닫지 못한 채 우물우물 음식을 씹었다. 평소 음식에 남다른 미각을 지녔던 피셔 부인조차 눈치채지 못했다. 맛있는 요리가 앞에 놓였음에도 공기 취급을 당했으니, 피셔 부인이 얼마나 깊이 분개하고 있는지 잘 보여주었다."
+  },
+  {
+    "index": 70,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "그녀는 몹시 격앙되어 있었다. 전부 윌킨스 부인의 탓이었다. 그녀는 사람을 미치게 만드는 재주가 있었다. 게다가 키안티 와인 기운이 올랐는지 캐롤라인 레이디마저 윌킨스 부인을 은근히 부추기고 있으니 엎친 데 덮친 격이었다."
+  },
+  {
+    "index": 71,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "피셔 부인은 주변에 남자가 한 명도 없다는 사실을 천만다행으로 여겼다. 남자가 있었다면 캐롤라인 레이디 앞에서 바보처럼 헤벌레 굴었을 것이 뻔했다. 아가씨는 남자들을 단번에 홀려 미치게 만드는 전형적인 부류였고, 오늘 밤은 특히 더 심했다. 와인 기운 때문인지 한층 더 미모가 빛났고, 치명적으로 매력적였다. 피셔 부인이 극도로 혐오하는 풍경 중 하나가 바로 점잖고 지적인 남성들이 진지하고 깊이 있는 대화를 나누다가도, 머리 텅 빈 예쁜 계집애 하나가 나타나면 헤벌레 웃는 바보로 돌변하는 꼴이었다. 일찍이 그녀의 머리 위에 엄숙하게 손을 얹어주었던 위대하고 현명한 정치가 글래드스턴 씨조차, 지금 이 자리에 있었다면 품위를 팽개치고 캐롤라인 레이디에게 추파를 던졌을 거라고 피셔 부인은 장담했다."
+  },
+  {
+    "index": 72,
     "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"있잖아요,\""
+    "speed": 1.0,
+    "text": "있잖아요,"
   },
   {
+    "index": 73,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -399,13 +592,15 @@
     "text": "윌킨스 부인이 말을 꺼냈다. 그녀는 늘 말을 꺼낼 때마다 '있잖아요' 또는 '보시다시피'라고 말문을 여는 나쁜 버릇이 있었고, 그때마다 피셔 부인은"
   },
   {
-    "character": "Lotty",
+    "index": 74,
+    "character": "Fisher",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"미안하지만 보기는 뭘 봐요, 듣고만 있소\""
+    "speed": 1.0,
+    "text": "미안하지만 보기는 뭘 봐요, 듣고만 있소"
   },
   {
+    "index": 75,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -413,13 +608,15 @@
     "text": "라고 쏘아붙이고 싶은 충동을 꾹 참았다."
   },
   {
-    "character": "Lotty",
+    "index": 76,
+    "character": "Rose",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"있잖아요.\""
+    "speed": 1.0,
+    "text": "있잖아요."
   },
   {
+    "index": 77,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -427,20 +624,23 @@
     "text": "윌킨스 부인이 캐롤라인 레이디 쪽으로 몸을 숙이며 말했다."
   },
   {
-    "character": "Lotty",
+    "index": 78,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"우리가 런던에서 각자 원한다면 손님 한 명씩을 초대할 수 있다고 합의했잖아요. 그래서 제가 첫 테이프를 끊은 거예요.\""
+    "speed": 1.0,
+    "text": "우리가 런던에서 각자 원한다면 손님 한 명씩을 초대할 수 있다고 합의했잖아요. 그래서 제가 첫 테이프를 끊은 거예요."
   },
   {
-    "character": "Lady Caroline",
+    "index": 79,
+    "character": "Fisher",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"나는 그런 약속은 기억나지 않소.\""
+    "speed": 1.0,
+    "text": "나는 그런 약속은 기억나지 않소."
   },
   {
+    "index": 80,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -448,20 +648,23 @@
     "text": "접시를 노려보며 피셔 부인이 쏘아붙였다."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 81,
+    "character": "Rose",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"아니요, 확실히 합의했어요. 그쵸, 로즈?\""
+    "speed": 1.0,
+    "text": "아니요, 확실히 합의했어요. 그쵸, 로즈?"
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 82,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"네, 저도 기억나요.\""
+    "speed": 1.0,
+    "text": "네, 저도 기억나요."
   },
   {
+    "index": 83,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -469,20 +672,23 @@
     "text": "캐롤라인 레이디가 말했다."
   },
   {
-    "character": "Lady Caroline",
+    "index": 84,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"설마 우리 중에 진짜로 누군가를 초대할 사람이 생길 거라고는 생각지 못했지만요. 애초에 친구들을 피해서 온 거잖아요.\""
+    "speed": 1.0,
+    "text": "설마 우리 중에 진짜로 누군가를 초대할 사람이 생길 거라고는 생각지 못했지만요. 애초에 친구들을 피해서 온 거잖아요."
   },
   {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"남편들도 피해서요.\""
+    "index": 85,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "남편들도 피해서요."
   },
   {
+    "index": 86,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -490,13 +696,15 @@
     "text": "또 그 상스러운 복수형 단어 언급이었다. 정말 천박하기 짝이 없다고 피셔 부인은 탄식했다. 끔찍한 뉘앙스를 풍기는 말투였다. 아버스넛 부인 역시 동조하는 게 분명한지 얼굴이 붉어졌다."
   },
   {
-    "character": "Rose",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"그리고 가족 간의 정에서도요.\""
+    "index": 87,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "그리고 가족 간의 정에서도요."
   },
   {
+    "index": 88,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -504,13 +712,15 @@
     "text": "캐롤라인 레이디가 말했다. 와인 기운 탓이리라. 틀림없었다."
   },
   {
+    "index": 89,
     "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"그리고 가족 간의 정이 메마른 차가운 현실에서도요.\""
+    "speed": 1.0,
+    "text": "그리고 가족 간의 정이 메마른 차가운 현실에서도요."
   },
   {
+    "index": 90,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -518,13 +728,15 @@
     "text": "윌킨스 부인이 자신의 가정 환경과 성격을 여과 없이 드러내며 맞장구를 쳤다."
   },
   {
-    "character": "Rose",
+    "index": 91,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"차라리 메마른 게 나아요.\""
+    "speed": 1.0,
+    "text": "차라리 메마른 게 나아요."
   },
   {
+    "index": 92,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -532,20 +744,23 @@
     "text": "캐롤라인 레이디가 말했다."
   },
   {
-    "character": "Lady Caroline",
+    "index": 93,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"그건 견딜 만하거든요. 혼자만의 공간이 보장되니까요.\""
+    "speed": 1.0,
+    "text": "그건 견딜 만하거든요. 혼자만의 공간이 보장되니까요."
   },
   {
+    "index": 94,
     "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"아니요, 정말 끔찍해요.\""
+    "speed": 1.0,
+    "text": "아니요, 정말 끔찍해요."
   },
   {
+    "index": 95,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -553,20 +768,23 @@
     "text": "윌킨스 부인이 소리쳤다."
   },
   {
+    "index": 96,
     "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"발가벗겨진 채 허허벌판에 버려진 느낌이랄까요.\""
+    "speed": 1.0,
+    "text": "발가벗겨진 채 허허벌판에 버려진 느낌이랄까요."
   },
   {
-    "character": "Rose",
+    "index": 97,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"하지만 전 그게 좋은걸요.\""
+    "speed": 1.0,
+    "text": "하지만 전 그게 좋은걸요."
   },
   {
+    "index": 98,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -574,13 +792,15 @@
     "text": "캐롤라인 레이디가 대꾸했다."
   },
   {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"원 참...\""
+    "index": 99,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "원 참..."
   },
   {
+    "index": 100,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -588,13 +808,15 @@
     "text": "피셔 부인이 혀를 찼."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 101,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"거추장스러운 껍데기들을 하나씩 벗어 던지는 건 정말 근사한 기분이에요.\""
+    "speed": 1.0,
+    "text": "거추장스러운 껍데기들을 하나씩 벗어 던지는 건 정말 근사한 기분이에요."
   },
   {
+    "index": 102,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -602,13 +824,15 @@
     "text": "캐롤라인 레이디는 다른 두 사람은 철저히 무시한 채 오직 윌킨스 부인에게만 눈길을 주며 말했다."
   },
   {
-    "character": "Lady Caroline",
+    "index": 103,
+    "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"하지만 옷 하나 걸치지 못한 채 칼바람 속에 서서, 평생 온기를 느끼지 못하고 온몸이 꽁꽁 얼어붙어 죽어가는 느낌... 사랑하지도 않는 사람과 한집에 사는 건 딱 그런 지옥이에요.\""
+    "speed": 1.0,
+    "text": "하지만 옷 하나 걸치지 못한 채 칼바람 속에 서서, 평생 온기를 느끼지 못하고 온몸이 꽁꽁 얼어붙어 죽어가는 느낌... 사랑하지도 않는 사람과 한집에 사는 건 딱 그런 지옥이에요."
   },
   {
+    "index": 104,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -616,13 +840,15 @@
     "text": "식탁에서 부부의 비밀을 저토록 아무렇지도 않게 발설하다니, 피셔 부인은 어이가 없었다. 윌킨스 부인은 와인도 안 마시고 맹물만 들이켜면서 그런 소리를 하니 술 탓도 할 수 없었다. 아버스넛 부인 역시 난감한 기색이 역력해 엉덩이를 들썩이는 것을 보니 피셔 부인의 불쾌감에 동의하는 눈치였다."
   },
   {
-    "character": "Rose",
+    "index": 105,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"남편이 당신을 사랑하지 않았나요?\""
+    "speed": 1.0,
+    "text": "남편이 당신을 사랑하지 않았나요?"
   },
   {
+    "index": 106,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -630,20 +856,23 @@
     "text": "캐롤라인 레이디가 윌킨스 부인 못지않게 스스럼없이 물었다."
   },
   {
+    "index": 107,
     "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"멜러시가요? 전혀 티를 안 냈죠.\""
+    "speed": 1.0,
+    "text": "멜러시가요? 전혀 티를 안 냈죠."
   },
   {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"완벽하네요.\""
+    "index": 108,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "완벽하네요."
   },
   {
+    "index": 109,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -651,13 +880,15 @@
     "text": "캐롤라인 레이디가 중얼거렸다."
   },
   {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"기가 막혀서...\""
+    "index": 110,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "기가 막혀서..."
   },
   {
+    "index": 111,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -665,27 +896,31 @@
     "text": "피셔 부인이 읊조렸다."
   },
   {
+    "index": 112,
     "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"전혀 완벽하지 않았어요. 전 불행해 죽을 지경이었는걸요. 그런데 여기 와서 지난날을 돌아보니, 내가 왜 그렇게 사소한 일로 불행해했인지 의아할 지경이에요. 그 멜러시라는 사람 때문에 말이죠.\""
+    "speed": 1.0,
+    "text": "전혀 완벽하지 않았어요. 전 불행해 죽을 지경이었는걸요. 그런데 여기 와서 지난날을 돌아보니, 내가 왜 그렇게 사소한 일로 불행해했인지 의아할 지경이에요. 그 멜러시라는 사람 때문에 말이죠."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 113,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "\"그럴 만한 가치도 없는 남자였다는 뜻이군요.\""
+    "text": "그럴 만한 가치도 없는 남자였다는 뜻이군요."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"적당히들 하시오...\""
+    "index": 114,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "적당히들 하시오..."
   },
   {
+    "index": 115,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -693,13 +928,15 @@
     "text": "피셔 부인이 톡 쏘아붙였다."
   },
   {
+    "index": 116,
     "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"아니요, 제 마음의 병이 씻은 듯이 나았다는 뜻이에요.\""
+    "speed": 1.0,
+    "text": "아니요, 제 마음의 병이 씻은 듯이 나았다는 뜻이에요."
   },
   {
+    "index": 117,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -707,20 +944,23 @@
     "text": "캐롤라인 레이디는 와인잔의 다리를 살랑살랑 흔들며, 맞은편에서 화사하게 빛나는 얼굴을 유심히 살폈다."
   },
   {
+    "index": 118,
     "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"이제 제가 행복해지니 나 혼자만 움켜쥐고 있을 수가 없어요. 남편을 소외시킨 채 나만 즐기는 건 이치에 맞지 않아요. 나눠야 해요. 로제티의 시에 나오는 축복받은 처녀의 마음이 딱 이랬을 것 같아요.\""
+    "speed": 1.0,
+    "text": "이제 제가 행복해지니 나 혼자만 움켜쥐고 있을 수가 없어요. 남편을 소외시킨 채 나만 즐기는 건 이치에 맞지 않아요. 나눠야 해요. 로제티의 시에 나오는 축복받은 처녀의 마음이 딱 이랬을 것 같아요."
   },
   {
-    "character": "Lady Caroline",
+    "index": 119,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"축복받은 처녀가 뭐예요?\""
+    "speed": 1.0,
+    "text": "축복받은 처녀가 뭐예요?"
   },
   {
+    "index": 120,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -728,13 +968,15 @@
     "text": "스크랩이 물었다."
   },
   {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"원 참!\""
+    "index": 121,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "원 참!"
   },
   {
+    "index": 122,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -742,13 +984,15 @@
     "text": "이번에는 피셔 부인이 꽤 목소리를 높였기에 캐롤라인 레이디가 그녀를 바라보았다."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 123,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"제가 꼭 알아야 하는 건가요?\""
+    "speed": 1.0,
+    "text": "제가 꼭 알아야 하는 건가요?"
   },
   {
+    "index": 124,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -756,20 +1000,23 @@
     "text": "그녀가 물었다."
   },
   {
-    "character": "Lady Caroline",
+    "index": 125,
+    "character": "Fisher",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "\"전 과학 같은 건 전혀 몰라요. 이름만 들어서는 무슨 새 종류 같네요.\""
+    "text": "전 과학 같은 건 전혀 몰라요. 이름만 들어서는 무슨 새 종류 같네요."
   },
   {
-    "character": "Rose",
+    "index": 126,
+    "character": "Fisher",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"그건 시요.\""
+    "speed": 1.0,
+    "text": "그건 시요."
   },
   {
+    "index": 127,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -777,13 +1024,15 @@
     "text": "피셔 부인이 차갑게 쏘아붙였다."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"아,\""
+    "index": 128,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "아,"
   },
   {
+    "index": 129,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -791,13 +1040,15 @@
     "text": "스크랩이 대꾸했다."
   },
   {
+    "index": 130,
     "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"내가 나중에 빌려줄게요!\""
+    "speed": 1.0,
+    "text": "내가 나중에 빌려줄게요!"
   },
   {
+    "index": 131,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -805,13 +1056,15 @@
     "text": "윌킨스 부인이 웃음을 터뜨렸다."
   },
   {
-    "character": "Rose",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"아녜요, 괜찮아요.\""
+    "index": 132,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "아녜요, 괜찮아요."
   },
   {
+    "index": 133,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -819,13 +1072,15 @@
     "text": "스크랩이 사양했다."
   },
   {
-    "character": "Lady Caroline",
+    "index": 134,
+    "character": "Fisher",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"그 시를 쓴 작가는,\""
+    "speed": 1.0,
+    "text": "그 시를 쓴 작가는,"
   },
   {
+    "index": 135,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -833,20 +1088,23 @@
     "text": "피셔 부인이 얼음장처럼 덧붙였다."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 136,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"완벽한 신사는 아니었을지언정 내 아버님 댁에서 자주 저녁 식사를 함께 하곤 했소.\""
+    "speed": 1.0,
+    "text": "완벽한 신사는 아니었을지언정 내 아버님 댁에서 자주 저녁 식사를 함께 하곤 했소."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 137,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"여간 따분하지 않으셨겠네요.\""
+    "speed": 1.0,
+    "text": "여간 따분하지 않으셨겠네요."
   },
   {
+    "index": 138,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -854,13 +1112,15 @@
     "text": "스크랩이 말했다."
   },
   {
-    "character": "Lady Caroline",
+    "index": 139,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"우리 어머니도 맨날 그래요. 허구한 날 작가들을 초대하거든요. 전 작가들이 제일 싫어요. 책만 안 쓰면 봐줄 만하겠는데 말이죠. 멜러시 이야기나 더 해줘요.\""
+    "speed": 1.0,
+    "text": "우리 어머니도 맨날 그래요. 허구한 날 작가들을 초대하거든요. 전 작가들이 제일 싫어요. 책만 안 쓰면 봐줄 만하겠는데 말이죠. 멜러시 이야기나 더 해줘요."
   },
   {
+    "index": 140,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -868,13 +1128,15 @@
     "text": "그녀는 다시 윌킨스 부인에게 고개를 돌렸다."
   },
   {
-    "character": "Rose",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"하 참...\""
+    "index": 141,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "하 참..."
   },
   {
+    "index": 142,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -882,13 +1144,15 @@
     "text": "피셔 부인이 한숨을 쉬었다."
   },
   {
+    "index": 143,
     "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"성안에 빈 침대들이 널려 있잖아요.\""
+    "speed": 1.0,
+    "text": "성안에 빈 침대들이 널려 있잖아요."
   },
   {
+    "index": 144,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -896,13 +1160,15 @@
     "text": "윌킨스 부인이 말했다."
   },
   {
-    "character": "Rose",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"무슨 빈 침대요?\""
+    "index": 145,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "무슨 빈 침대요?"
   },
   {
+    "index": 146,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -910,34 +1176,47 @@
     "text": "스크랩이 물었다."
   },
   {
+    "index": 147,
     "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"이 성안에 있는 침대들 말이에요. 침대마다 행복한 사람들이 차지하고 누워 있어야 마땅해요. 침대는 여덟 개나 되는데 사람은 넷뿐이잖아요. 우리끼리만 독차지하는 건 너무 이기적이에요. 로즈도 남편을 불렀으면 좋겠어요. 캐롤라인 레이디랑 피셔 부인은 남편이 없으시니, 대신 친구분이라도 한 분 초대해서 즐거운 시간을 보내면 얼마나 좋아요?\""
+    "speed": 1.0,
+    "text": "이 성안에 있는 침대들 말이에요. 침대마다 행복한 사람들이 차지하고 누워 있어야 마땅해요. 침대는 여덟 개나 되는데 사람은 넷뿐이잖아요. 우리끼리만 독차지하는 건 너무 이기적이에요. 로즈도 남편을 불렀으면 좋겠어요. 캐롤라인 레이디랑 피셔 부인은 남편이 없으시니, 대신 친구분이라도 한 분 초대해서 즐거운 시간을 보내면 얼마나 좋아요?"
   },
   {
+    "index": 148,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
     "speed": 1.0,
-    "text": "로즈는 입술을 꽉 깨물었다. 얼굴이 붉어졌다가 이내 하얗게 질렸다. 제발 로티가 입을 다물어주기를 간절히 바랐다. 혼자 성자가 되어 온 누리에 사랑을 전파하는 것은 좋은데, 꼭 저렇게 철없이 굴어야 한단 말인가. 로즈는 자신의 가슴 깊은 흉터가 대낮에 까발려지는 기분이었다. 제발 입 좀 다물었으면 좋았을 텐데 싶었다.\n\n피셔 부인은 캐롤라인 레이디가 시를 모른다고 지적할 때보다 한층 더 서늘한 목소리로 말했다."
+    "text": "로즈는 입술을 꽉 깨물었다. 얼굴이 붉어졌다가 이내 하얗게 질렸다. 제발 로티가 입을 다물어주기를 간절히 바랐다. 혼자 성자가 되어 온 누리에 사랑을 전파하는 것은 좋은데, 꼭 저렇게 철없이 굴어야 한단 말인가. 로즈는 자신의 가슴 깊은 흉터가 대낮에 까발려지는 기분이었다. 제발 입 좀 다물었으면 좋았을 텐데 싶었다."
   },
   {
-    "character": "Rose",
+    "index": 149,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "피셔 부인은 캐롤라인 레이디가 시를 모른다고 지적할 때보다 한층 더 서늘한 목소리로 말했다."
+  },
+  {
+    "index": 150,
+    "character": "Fisher",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"이 성에 비어 있는 침실은 단 하나뿐이오.\""
+    "speed": 1.0,
+    "text": "이 성에 비어 있는 침실은 단 하나뿐이오."
   },
   {
+    "index": 151,
     "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"하나뿐이라고요?\""
+    "speed": 1.0,
+    "text": "하나뿐이라고요?"
   },
   {
+    "index": 152,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -945,20 +1224,23 @@
     "text": "윌킨스 부인이 깜짝 놀라 물었다."
   },
   {
+    "index": 153,
     "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"그럼 다른 방들은 다 누가 차지하고 있는 거예요?\""
+    "speed": 1.0,
+    "text": "그럼 다른 방들은 다 누가 차지하고 있는 거예요?"
   },
   {
-    "character": "Rose",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"우리가 쓰고 있지 않소.\""
+    "index": 154,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "우리가 쓰고 있지 않소."
   },
   {
+    "index": 155,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -966,34 +1248,47 @@
     "text": "피셔 부인이 말했다."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 156,
+    "character": "Rose",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"하지만 우리가 방을 다 쓰는 건 아니잖아요. 적어도 방이 여섯 개는 될 텐데요. 그럼 두 개가 남는 셈이고, 성 주인도 침대가 여덟 개라고 했단 말이에요. 그쵸, 로즈?\""
+    "speed": 1.0,
+    "text": "하지만 우리가 방을 다 쓰는 건 아니잖아요. 적어도 방이 여섯 개는 될 텐데요. 그럼 두 개가 남는 셈이고, 성 주인도 침대가 여덟 개라고 했단 말이에요. 그쵸, 로즈?"
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 157,
+    "character": "Fisher",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"침실은 여섯 개요.\""
+    "speed": 1.0,
+    "text": "침실은 여섯 개요."
   },
   {
+    "index": 158,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
     "speed": 1.0,
-    "text": "피셔 부인이 쐐기를 박았다. 그녀와 캐롤라인 레이디는 처음 도착했을 때 가장 좋은 방을 고르기 위해 집 안 구석구석을 수색했었다. 침실이 여섯 개라는 사실을 진작 파악하고 있었는데, 다만 그중 두 개는 매우 비좁은 방이었다. 작은 방 하나는 의자와 옷장 하나만 둔 채 프란체스카가 쓰고 있었고, 나머지 하나만 비어 있었다.\n\n윌킨스 부인과 아버스넛 부인은 야외 경치에 한눈이 팔려 집 안은 쳐다보지도 않았었다. 산 살바토레를 계약할 당시 너무 흥분했던 나머지 침대가 여덟 개라는 말을 침실이 여덟 개라는 뜻으로 마음대로 착각했던 것이다. 실제로는 침대는 여덟 개였지만, 그중 네 개는 윌킨스 부인과 아버스넛 부인의 큰 방에 나란히 놓여 배분되어 있었다."
+    "text": "피셔 부인이 쐐기를 박았다. 그녀와 캐롤라인 레이디는 처음 도착했을 때 가장 좋은 방을 고르기 위해 집 안 구석구석을 수색했었다. 침실이 여섯 개라는 사실을 진작 파악하고 있었는데, 다만 그중 두 개는 매우 비좁은 방이었다. 작은 방 하나는 의자와 옷장 하나만 둔 채 프란체스카가 쓰고 있었고, 나머지 하나만 비어 있었다."
   },
   {
-    "character": "Rose",
+    "index": 159,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "윌킨스 부인과 아버스넛 부인은 야외 경치에 한눈이 팔려 집 안은 쳐다보지도 않았었다. 산 살바토레를 계약할 당시 너무 흥분했던 나머지 침대가 여덟 개라는 말을 침실이 여덟 개라는 뜻으로 마음대로 착각했던 것이다. 실제로는 침대는 여덟 개였지만, 그중 네 개는 윌킨스 부인과 아버스넛 부인의 큰 방에 나란히 놓여 배분되어 있었다."
+  },
+  {
+    "index": 160,
+    "character": "Fisher",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"침실은 여섯 개요.\""
+    "speed": 1.0,
+    "text": "침실은 여섯 개요."
   },
   {
+    "index": 161,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -1001,20 +1296,23 @@
     "text": "피셔 부인이 거듭 강조했다."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 162,
+    "character": "Fisher",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"우리가 네 개를 쓰고, 프란체스카가 다섯 번째 방을 쓰고, 여섯 번째 방이 비어 있소.\""
+    "speed": 1.0,
+    "text": "우리가 네 개를 쓰고, 프란체스카가 다섯 번째 방을 쓰고, 여섯 번째 방이 비어 있소."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 163,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"그러니,\""
+    "speed": 1.0,
+    "text": "그러니,"
   },
   {
+    "index": 164,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -1022,20 +1320,23 @@
     "text": "스크랩이 대꾸했다."
   },
   {
-    "character": "Lady Caroline",
+    "index": 165,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"인심을 쓰고 싶어도 쓸 수가 없네요. 정말 다행이죠?\""
+    "speed": 1.0,
+    "text": "인심을 쓰고 싶어도 쓸 수가 없네요. 정말 다행이죠?"
   },
   {
+    "index": 166,
     "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"그럼 손님방은 하나밖에 없는 거예요?\""
+    "speed": 1.0,
+    "text": "그럼 손님방은 하나밖에 없는 거예요?"
   },
   {
+    "index": 167,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -1043,27 +1344,55 @@
     "text": "세 사람을 번갈아 보며 윌킨스 부인이 물었다."
   },
   {
-    "character": "Rose",
+    "index": 168,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"네, 그리고 당신이 벌써 찜했고요.\""
+    "speed": 1.0,
+    "text": "네, 그리고 당신이 벌써 찜했고요."
   },
   {
+    "index": 169,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
     "speed": 1.0,
-    "text": "스크랩이 말했다.\n\n윌킨스 부인은 당황했다. 침대 배정에 이런 문제가 있을 줄은 꿈에도 몰랐다. 멜러시를 초대할 때 당연히 비어 있는 독방 중 하나에 그를 묵게 할 작정이었다. 하녀들도 있는 넓은 저택이니, 런던의 비좁은 집에서처럼 한방을 같이 쓸 필요는 없으리라 믿었다. 아무리 지금 마음속에 사랑이 솟구친다 해도 무턱대고 한 방에 우겨넣는 것은 무리였다. 부부가 침실을 같이 쓴다는 것은 상당한 양보와 인내를 요구하는 일이었다. 밤에는 각자 방에서 푹 자고 아침에 산뜻한 기분으로 만나야 불필요한 마찰 없이 평화를 유지할 수 있었다. 환기 문제, 욕실 스케줄, 사소한 앙금 없이 온전히 친구처럼 마주하기 위해서였다. 지금 그녀가 누리는 이 행복과 아량은 온전히 홀로서기에서 나온 새로운 자유 덕분이었다. 만약 멜러시와 좁은 한방에 갇히게 된다면 이 평화가 아침까지 살아남을 수 있을까? 다음 날 아침 눈을 떴을 때도 여전히 남편을 사랑할 수 있을까? 낙원에 온 지 겨우 하루밖에 되지 않았다. 오랜 세월 묵은 부부 관계의 고질병이 벌써 완벽하게 치유되었을 리가 없지 않은가. 당장 오늘 아침만 해도 혼자 침대를 독차지하고 이불을 맘껏 끌어당기며 깨어나는 행복이 얼마나 컸던가!\n\n그녀가 생각에 너무 깊이 빠진 나머지 디저트 접시가 도는 줄도 모르고 있자, 결국 프란체스카가 옆구리를 쿡 찔렀다.\n\n'멜러시와 한방을 쓰게 되면 그에게 품은 이 좋은 감정들이 씻은 듯이 사라질지도 몰라.' 디저트를 덜어내며 윌킨스 부인은 속으로 생각했다. '하지만 하나밖에 없는 빈방을 멜러시가 독차지해 버리면, 피셔 부인이나 캐롤라인 레이디가 누군가를 초대하고 싶을 때 방이 없잖아. 지금은 없다고 하지만, 이토록 아름다운 곳에 있다 보면 갑자기 친구를 불러 기쁘게 해주고 싶을지도 모르는데 멜러시 때문에 기회를 잃는 셈이 되지.'"
+    "text": "스크랩이 말했다."
   },
   {
-    "character": "Lotty",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"참으로 진퇴양난이네요.\""
+    "index": 170,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "윌킨스 부인은 당황했다. 침대 배정에 이런 문제가 있을 줄은 꿈에도 몰랐다. 멜러시를 초대할 때 당연히 비어 있는 독방 중 하나에 그를 묵게 할 작정이었다. 하녀들도 있는 넓은 저택이니, 런던의 비좁은 집에서처럼 한방을 같이 쓸 필요는 없으리라 믿었다. 아무리 지금 마음속에 사랑이 솟구친다 해도 무턱대고 한 방에 우겨넣는 것은 무리였다. 부부가 침실을 같이 쓴다는 것은 상당한 양보와 인내를 요구하는 일이었다. 밤에는 각자 방에서 푹 자고 아침에 산뜻한 기분으로 만나야 불필요한 마찰 없이 평화를 유지할 수 있었다. 환기 문제, 욕실 스케줄, 사소한 앙금 없이 온전히 친구처럼 마주하기 위해서였다. 지금 그녀가 누리는 이 행복과 아량은 온전히 홀로서기에서 나온 새로운 자유 덕분이었다. 만약 멜러시와 좁은 한방에 갇히게 된다면 이 평화가 아침까지 살아남을 수 있을까? 다음 날 아침 눈을 떴을 때도 여전히 남편을 사랑할 수 있을까? 낙원에 온 지 겨우 하루밖에 되지 않았다. 오랜 세월 묵은 부부 관계의 고질병이 벌써 완벽하게 치유되었을 리가 없지 않은가. 당장 오늘 아침만 해도 혼자 침대를 독차지하고 이불을 맘껏 끌어당기며 깨어나는 행복이 얼마나 컸던가!"
   },
   {
+    "index": 171,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "그녀가 생각에 너무 깊이 빠진 나머지 디저트 접시가 도는 줄도 모르고 있자, 결국 프란체스카가 옆구리를 쿡 찔렀다."
+  },
+  {
+    "index": 172,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "'멜러시와 한방을 쓰게 되면 그에게 품은 이 좋은 감정들이 씻은 듯이 사라질지도 몰라.' 디저트를 덜어내며 윌킨스 부인은 속으로 생각했다. '하지만 하나밖에 없는 빈방을 멜러시가 독차지해 버리면, 피셔 부인이나 캐롤라인 레이디가 누군가를 초대하고 싶을 때 방이 없잖아. 지금은 없다고 하지만, 이토록 아름다운 곳에 있다 보면 갑자기 친구를 불러 기쁘게 해주고 싶을지도 모르는데 멜러시 때문에 기회를 잃는 셈이 되지.'"
+  },
+  {
+    "index": 173,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "참으로 진퇴양난이네요."
+  },
+  {
+    "index": 174,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -1071,13 +1400,15 @@
     "text": "그녀는 미간을 찌푸리며 생각을 밖으로 불쑥 내뱉었다."
   },
   {
-    "character": "Rose",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"뭐가요?\""
+    "index": 175,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "뭐가요?"
   },
   {
+    "index": 176,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -1085,13 +1416,15 @@
     "text": "스크랩이 물었다."
   },
   {
+    "index": 177,
     "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"멜러시를 어디에 재워야 할지 말이에요.\""
+    "speed": 1.0,
+    "text": "멜러시를 어디에 재워야 할지 말이에요."
   },
   {
+    "index": 178,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -1099,27 +1432,31 @@
     "text": "스크랩이 빤히 바라보았다."
   },
   {
-    "character": "Lady Caroline",
+    "index": 179,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"왜요? 남편에게 방 하나면 충분하지 않나요?\""
+    "speed": 1.0,
+    "text": "왜요? 남편에게 방 하나면 충분하지 않나요?"
   },
   {
+    "index": 180,
     "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"아, 물론 그렇죠. 하지만 그렇게 되면 나중에 당신이나 다른 분이 초대하고 싶은 손님이 와도 방이 없잖아요.\""
+    "speed": 1.0,
+    "text": "아, 물론 그렇죠. 하지만 그렇게 되면 나중에 당신이나 다른 분이 초대하고 싶은 손님이 와도 방이 없잖아요."
   },
   {
-    "character": "Lady Caroline",
+    "index": 181,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"전 아무도 부르고 싶지 않아요.\""
+    "speed": 1.0,
+    "text": "전 아무도 부르고 싶지 않아요."
   },
   {
+    "index": 182,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -1127,13 +1464,15 @@
     "text": "스크랩이 잘라 말했다."
   },
   {
+    "index": 183,
     "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"부인도요?\""
+    "speed": 1.0,
+    "text": "부인도요?"
   },
   {
+    "index": 184,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -1141,20 +1480,23 @@
     "text": "윌킨스 부인이 피셔 부인을 보며 물었다."
   },
   {
-    "character": "Lotty",
+    "index": 185,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"물론 로즈는 제외하고요. 로즈는 남편과 한방을 쓰는 것을 너무나 기뻐할 게 불 보듯 뻔하니까요.\""
+    "speed": 1.0,
+    "text": "물론 로즈는 제외하고요. 로즈는 남편과 한방을 쓰는 것을 너무나 기뻐할 게 불 보듯 뻔하니까요."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"원 참...\""
+    "index": 186,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "원 참..."
   },
   {
+    "index": 187,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -1162,27 +1504,47 @@
     "text": "피셔 부인이 말했다."
   },
   {
-    "character": "Lotty",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"뭐가 '원 참'이에요?\""
-  },
-  {
+    "index": 188,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
     "speed": 1.0,
-    "text": "윌킨스 부인은 유용한 제안이라도 나올까 싶어 눈을 반짝이며 피셔 부인에게 몸을 돌렸다.\n\n하지만 해결책 따위는 없었다. 그 단어는 여전히 차갑고 언짢은 거부감만을 드러낸 채 덩그러니 놓여 있을 뿐이었다.\n\n그래도 한 소리 덧붙이긴 했다."
+    "text": "뭐가 '원 참'이에요?"
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 189,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "윌킨스 부인은 유용한 제안이라도 나올까 싶어 눈을 반짝이며 피셔 부인에게 몸을 돌렸다."
+  },
+  {
+    "index": 190,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "하지만 해결책 따위는 없었다. 그 단어는 여전히 차갑고 언짢은 거부감만을 드러낸 채 덩그러니 놓여 있을 뿐이었다."
+  },
+  {
+    "index": 191,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "그래도 한 소리 덧붙이긴 했다."
+  },
+  {
+    "index": 192,
+    "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"그러니까 당신 말은,\""
+    "speed": 1.0,
+    "text": "그러니까 당신 말은,"
   },
   {
+    "index": 193,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -1190,27 +1552,31 @@
     "text": "피셔 부인이 물었다."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 194,
+    "character": "Fisher",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"그 유일한 빈방을 당신 식구만을 위해 독점하겠다는 소리요?\""
+    "speed": 1.0,
+    "text": "그 유일한 빈방을 당신 식구만을 위해 독점하겠다는 소리요?"
   },
   {
+    "index": 195,
     "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"식구가 아니라 남편이에요. 아시다시피...\""
+    "speed": 1.0,
+    "text": "식구가 아니라 남편이에요. 아시다시피..."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 196,
+    "character": "Fisher",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"난 아무것도 모르오.\""
+    "speed": 1.0,
+    "text": "난 아무것도 모르오."
   },
   {
+    "index": 197,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -1218,48 +1584,103 @@
     "text": "피셔 부인은 그녀의 말장난에 짜증이 나서 결국 말을 가로막았다."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 198,
+    "character": "Fisher",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"마지못해 당신 목소리를 듣고 있을 뿐이오.\""
+    "speed": 1.0,
+    "text": "마지못해 당신 목소리를 듣고 있을 뿐이오."
   },
   {
+    "index": 199,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
     "speed": 1.0,
-    "text": "하지만 윌킨스 부인은 꾸지람 따위는 가볍게 무시하고는, 멜러시의 최적의 수면 배치에 대해 식탁에 전혀 어울리지 않는 황당한 수다를 늘어놓기 시작했다.\n\n토머스, 존, 앨프리드, 로버트처럼 단순하고 묵직한 옛날 이름들만 기억하는 피셔 부인에게 '멜러시'라는 이름은 참으로 해괴망측하고 거만하게 느껴졌다. 어쨌든 멜러시는 윌킨스 부인의 남편이었으니, 그가 묵을 자리는 이미 정해져 있었다. 대체 왜 이런 시끄러운 토론이 필요한가. 피셔 부인은 그가 도착할 것에 대비해 이미 윌킨스 부인의 방에 보조 침대를 하나 더 들여놓으라고 미리 지시해 두었었다. 세상에는 수다를 떨기보다 묵묵히 행해야 할 일들이 있는 법이었다. 남편과 관련된 대부분의 일들이 바로 그 범주에 속했고, 식사 자리에서 잠자리에 대해 왈가왈부하는 것은 극도로 무례한 짓이었다. 남편이 언제 어디서 자는지는 아내만의 은밀한 비밀이어야 했다. 때로는 아내조차 모르는 불행한 결혼 생활도 존재했지만, 그런 치부 역시 입 밖으로 내지 않고 겉으로는 체면을 세우는 것이 상식이었다. 적어도 그녀 시절에는 다들 그렇게 살았다. 윌킨스 씨가 부인과 같이 자야 하는지 말아야 하는지, 그 찬반 논리를 식탁에서 듣고 있는 것 자체가 지루하고 천박하게 느껴졌다.\n\n만약 캐롤라인 레이디만 없었더라면 피셔 부인이 재빨리 화제를 돌려 식탁의 품격을 되찾았을 터였다. 하지만 캐롤라인 레이디는 윌킨스 부인을 부추기며 대화에 대놓고 동참했다. 와인 탓이었는지는 몰라도 적극적으로 참여하고 있었다. 게다가 그녀는 자기 버릇을 버리지 못하고 윌킨스 씨가 당연히 그 유일한 빈방을 써야 한다고 우겨댔. 다른 배치는 아예 불가능하다는 듯 당연하게 말하며, 한방을 같이 쓰는 것은 '야만적'이라고 표현하기까지 했다. 피셔 부인은 남편과 아내가 한 몸이 된다는 성경 구절을 들어 한방을 쓰는 게 순리임을 지적해주고 싶었지만 꾹 참았다. 미혼 여성에게 부부 관계에 대한 성경 구절을 인용하는 것은 교양 없는 짓이라 여겼기 때문이다.\n\n하지만 윌킨스 씨를 부인의 방으로 쫓아내고 이 시끄러운 사안을 매듭지을 확실한 카드가 하나 있었다. 바로 자신이 친구를 초대하겠다고 선언하는 것이었다. 이미 합의된 권리였으니 당당했다. 예의범절을 떠나서라도, 부인의 방에 같이 누우면 그만인 남편 때문에 유일한 빈방을 독차지하려는 심보는 고약했다. 진짜로 누군가를 초대해 버리면 될 일이었다. 예컨대 케이트 럼리가 있었다. 케이트는 여행 경비를 지불할 경제적 여유가 충분한 사람이었다. 피셔 부인과 동세대 인물로 사교계 사정도 훤히 꿰뚫고 있었다. 물론 케이트는 그 사교계의 핵심은 아니었고 늘 주변부를 겉돌며 대규모 파티에나 겨우 초대받는 처지이긴 했다. 평생 주류에 진입하지 못하는 부류가 있기 마련인데 케이트가 딱 그랬다. 하지만 그 이들이 오히려 늘 초대에 감사하며 고분고분하게 굴어 함께 지내기는 편했다.\n\n그래, 차라리 케이트를 부르는 게 낫겠어. 그 불쌍한 여자는 평생 결혼도 하지 못했지만, 모든 사람이 결혼할 수는 없는 법이었다. 적당히 부유했고, 큰 부자는 아니어도 제 몫의 경비는 넉넉히 대며 고마워할 줄 아는 사람이었다. 케이트가 아주 훌륭한 해결책이 될 터였다. 케이트가 오면 윌킨스 부부는 꼼짝없이 한방을 써야 하니 윌킨스 부인의 식구 독점 탐욕을 꺾을 수 있었다. 또한 피셔 부인 자신이 외톨이가 되는 것도 막을 수 있었다. 그녀는 식사 사이사이에 혼자 지내는 것은 좋아했지만, 정신적으로 철저히 소외되는 것은 질색이었다. 이 이상한 세 젊은 여자 틈바구니에서 외톨이가 될까 봐 은근히 겁이 나던 차였다. 아버스넛 부인마저 저 윌킨스 부인과 짝짝꿍이 되어 자신과 선을 긋고 있지 않은가. 케이트가 오면 든든한 아군이 되어줄 것이었다. 다루기도 쉬운 사람이니 자신의 거실을 침범하지 않으면서도, 식사 때마다 제 편이 되어줄 터였다.\n\n피셔 부인은 당장 내색하지는 않았다. 하지만 이윽고 저녁이 되어 거실 장작불 주변에 모여 앉았을 때였다. 피셔 부인은 자신이 독점한 서재에 벽난로가 없다는 사실을 뒤늦게 깨달았기에, 쌀쌀한 저녁 시간에는 결국 공동 거실로 나와야 했다. 프란체스카가 커피를 나르고 캐롤라인 레이디가 사방에 담배 연기를 뿌려대는 가운데, 윌킨스 부인이 들뜬 목소리로 말했다."
+    "text": "하지만 윌킨스 부인은 꾸지람 따위는 가볍게 무시하고는, 멜러시의 최적의 수면 배치에 대해 식탁에 전혀 어울리지 않는 황당한 수다를 늘어놓기 시작했다."
   },
   {
-    "character": "Lotty",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"아무도 방을 쓰지 않는다면, 멜러시가 그 빈방을 쓰게 하고 싶어요.\""
-  },
-  {
-    "character": "Rose",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"당연히 남편분이 쓰셔야죠.\""
-  },
-  {
+    "index": 200,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
     "speed": 1.0,
-    "text": "캐롤라인 레이디가 말했다.\n\n그때 피셔 부인이 입을 열었다."
+    "text": "토머스, 존, 앨프리드, 로버트처럼 단순하고 묵직한 옛날 이름들만 기억하는 피셔 부인에게 '멜러시'라는 이름은 참으로 해괴망측하고 거만하게 느껴졌다. 어쨌든 멜러시는 윌킨스 부인의 남편이었으니, 그가 묵을 자리는 이미 정해져 있었다. 대체 왜 이런 시끄러운 토론이 필요한가. 피셔 부인은 그가 도착할 것에 대비해 이미 윌킨스 부인의 방에 보조 침대를 하나 더 들여놓으라고 미리 지시해 두었었다. 세상에는 수다를 떨기보다 묵묵히 행해야 할 일들이 있는 법이었다. 남편과 관련된 대부분의 일들이 바로 그 범주에 속했고, 식사 자리에서 잠자리에 대해 왈가왈부하는 것은 극도로 무례한 짓이었다. 남편이 언제 어디서 자는지는 아내만의 은밀한 비밀이어야 했다. 때로는 아내조차 모르는 불행한 결혼 생활도 존재했지만, 그런 치부 역시 입 밖으로 내지 않고 겉으로는 체면을 세우는 것이 상식이었다. 적어도 그녀 시절에는 다들 그렇게 살았다. 윌킨스 씨가 부인과 같이 자야 하는지 말아야 하는지, 그 찬반 논리를 식탁에서 듣고 있는 것 자체가 지루하고 천박하게 느껴졌다."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 201,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "만약 캐롤라인 레이디만 없었더라면 피셔 부인이 재빨리 화제를 돌려 식탁의 품격을 되찾았을 터였다. 하지만 캐롤라인 레이디는 윌킨스 부인을 부추기며 대화에 대놓고 동참했다. 와인 탓이었는지는 몰라도 적극적으로 참여하고 있었다. 게다가 그녀는 자기 버릇을 버리지 못하고 윌킨스 씨가 당연히 그 유일한 빈방을 써야 한다고 우겨댔. 다른 배치는 아예 불가능하다는 듯 당연하게 말하며, 한방을 같이 쓰는 것은 '야만적'이라고 표현하기까지 했다. 피셔 부인은 남편과 아내가 한 몸이 된다는 성경 구절을 들어 한방을 쓰는 게 순리임을 지적해주고 싶었지만 꾹 참았다. 미혼 여성에게 부부 관계에 대한 성경 구절을 인용하는 것은 교양 없는 짓이라 여겼기 때문이다."
+  },
+  {
+    "index": 202,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "하지만 윌킨스 씨를 부인의 방으로 쫓아내고 이 시끄러운 사안을 매듭지을 확실한 카드가 하나 있었다. 바로 자신이 친구를 초대하겠다고 선언하는 것이었다. 이미 합의된 권리였으니 당당했다. 예의범절을 떠나서라도, 부인의 방에 같이 누우면 그만인 남편 때문에 유일한 빈방을 독차지하려는 심보는 고약했다. 진짜로 누군가를 초대해 버리면 될 일이었다. 예컨대 케이트 럼리가 있었다. 케이트는 여행 경비를 지불할 경제적 여유가 충분한 사람이었다. 피셔 부인과 동세대 인물로 사교계 사정도 훤히 꿰뚫고 있었다. 물론 케이트는 그 사교계의 핵심은 아니었고 늘 주변부를 겉돌며 대규모 파티에나 겨우 초대받는 처지이긴 했다. 평생 주류에 진입하지 못하는 부류가 있기 마련인데 케이트가 딱 그랬다. 하지만 그 이들이 오히려 늘 초대에 감사하며 고분고분하게 굴어 함께 지내기는 편했다."
+  },
+  {
+    "index": 203,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "그래, 차라리 케이트를 부르는 게 낫겠어. 그 불쌍한 여자는 평생 결혼도 하지 못했지만, 모든 사람이 결혼할 수는 없는 법이었다. 적당히 부유했고, 큰 부자는 아니어도 제 몫의 경비는 넉넉히 대며 고마워할 줄 아는 사람이었다. 케이트가 아주 훌륭한 해결책이 될 터였다. 케이트가 오면 윌킨스 부부는 꼼짝없이 한방을 써야 하니 윌킨스 부인의 식구 독점 탐욕을 꺾을 수 있었다. 또한 피셔 부인 자신이 외톨이가 되는 것도 막을 수 있었다. 그녀는 식사 사이사이에 혼자 지내는 것은 좋아했지만, 정신적으로 철저히 소외되는 것은 질색이었다. 이 이상한 세 젊은 여자 틈바구니에서 외톨이가 될까 봐 은근히 겁이 나던 차였다. 아버스넛 부인마저 저 윌킨스 부인과 짝짝꿍이 되어 자신과 선을 긋고 있지 않은가. 케이트가 오면 든든한 아군이 되어줄 것이었다. 다루기도 쉬운 사람이니 자신의 거실을 침범하지 않으면서도, 식사 때마다 제 편이 되어줄 터였다."
+  },
+  {
+    "index": 204,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "피셔 부인은 당장 내색하지는 않았다. 하지만 이윽고 저녁이 되어 거실 장작불 주변에 모여 앉았을 때였다. 피셔 부인은 자신이 독점한 서재에 벽난로가 없다는 사실을 뒤늦게 깨달았기에, 쌀쌀한 저녁 시간에는 결국 공동 거실로 나와야 했다. 프란체스카가 커피를 나르고 캐롤라인 레이디가 사방에 담배 연기를 뿌려대는 가운데, 윌킨스 부인이 들뜬 목소리로 말했다."
+  },
+  {
+    "index": 205,
+    "character": "Fisher",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"내게 친구가 한 명 있소.\""
+    "speed": 1.0,
+    "text": "아무도 방을 쓰지 않는다면, 멜러시가 그 빈방을 쓰게 하고 싶어요."
   },
   {
+    "index": 206,
+    "character": "Scrap",
+    "sex": "female",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "당연히 남편분이 쓰셔야죠."
+  },
+  {
+    "index": 207,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "캐롤라인 레이디가 말했다."
+  },
+  {
+    "index": 208,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "그때 피셔 부인이 입을 열었다."
+  },
+  {
+    "index": 209,
+    "character": "Fisher",
+    "sex": "female",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "내게 친구가 한 명 있소."
+  },
+  {
+    "index": 210,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -1267,27 +1688,39 @@
     "text": "그녀가 굵직한 목소리로 말하자 거실이 쥐 죽은 듯 조용해졌다."
   },
   {
-    "character": "Rose",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"케이트 럼리라는 친구요.\""
-  },
-  {
+    "index": 211,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
     "speed": 1.0,
-    "text": "피셔 부인이 이름을 밝혔다.\n\n아무도 대꾸하지 않았다."
+    "text": "케이트 럼리라는 친구요."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"혹시,\""
+    "index": 212,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "피셔 부인이 이름을 밝혔다."
   },
   {
+    "index": 213,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "아무도 대꾸하지 않았다."
+  },
+  {
+    "index": 214,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "혹시,"
+  },
+  {
+    "index": 215,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -1295,13 +1728,15 @@
     "text": "피셔 부인이 캐롤라인 레이디를 바라보며 덧붙였다."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"그녀를 아시오?\""
+    "index": 216,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "그녀를 아시오?"
   },
   {
+    "index": 217,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -1309,34 +1744,47 @@
     "text": "캐롤라인 레이디는 모르는 사람이었다. 다른 두 부인은 어차피 잘나가는 명사를 알 리가 없었으므로 굳이 묻지도 않은 채, 피셔 부인이 말을 이었다."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 218,
+    "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"그 친구를 이곳으로 부를 생각요.\""
+    "speed": 1.0,
+    "text": "그 친구를 이곳으로 부를 생각요."
   },
   {
+    "index": 219,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
     "speed": 1.0,
-    "text": "완벽한 침묵이 흘렀다.\n\n마침내 스크랩이 윌킨스 부인에게 말했다."
+    "text": "완벽한 침묵이 흘렀다."
   },
   {
-    "character": "Lady Caroline",
+    "index": 220,
+    "character": "Narrator",
+    "sex": "male",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "마침내 스크랩이 윌킨스 부인에게 말했다."
+  },
+  {
+    "index": 221,
+    "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"음, 이걸로 멜러시의 잠자리 문제는 해결되었네요.\""
+    "speed": 1.0,
+    "text": "음, 이걸로 멜러시의 잠자리 문제는 해결되었네요."
   },
   {
-    "character": "Lady Caroline",
+    "index": 222,
+    "character": "Fisher",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"윌킨스 씨의 잠자리는 가장 합당한 방식으로 결말이 난 셈이오.\""
+    "speed": 1.0,
+    "text": "윌킨스 씨의 잠자리는 가장 합당한 방식으로 결말이 난 셈이오."
   },
   {
+    "index": 223,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -1344,20 +1792,23 @@
     "text": "피셔 부인이 쐐기를 박았다."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 224,
+    "character": "Fisher",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"애초에 왜 그게 논쟁거리가 되었는지 이해할 수가 없구려.\""
+    "speed": 1.0,
+    "text": "애초에 왜 그게 논쟁거리가 되었는지 이해할 수가 없구려."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 225,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"그럼 꼼짝없이 한방을 같이 쓰셔야겠어요.\""
+    "speed": 1.0,
+    "text": "그럼 꼼짝없이 한방을 같이 쓰셔야겠어요."
   },
   {
+    "index": 226,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -1365,13 +1816,15 @@
     "text": "캐롤라인 레이디가 윌킨스 부인에게 말했다."
   },
   {
-    "character": "Lady Caroline",
+    "index": 227,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"혹시,\""
+    "speed": 1.0,
+    "text": "혹시,"
   },
   {
+    "index": 228,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -1379,13 +1832,15 @@
     "text": "그녀가 덧붙였다."
   },
   {
-    "character": "Rose",
+    "index": 229,
+    "character": "Scrap",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 0.95,
-    "text": "\"남편분이 못 오시는 게 아니라면요.\""
+    "speed": 1.0,
+    "text": "남편분이 못 오시는 게 아니라면요."
   },
   {
+    "index": 230,
     "character": "Narrator",
     "sex": "male",
     "voice": "ko-KR-InJoonNeural",
@@ -1393,10 +1848,11 @@
     "text": "하지만 윌킨스 부인은 걱정스러운 표정으로(한방을 같이 써도 흔들리지 않을 만큼 자신의 마음의 평화가 단단히 굳어졌는지 여전히 불안했기에) 불안하게 읊조릴 뿐이었다."
   },
   {
+    "index": 231,
     "character": "Lotty",
     "sex": "female",
     "voice": "ko-KR-SunHiNeural",
-    "speed": 1.05,
-    "text": "\"제 눈에는 그이가 여기 오는 게 보여요.\""
+    "speed": 1.0,
+    "text": "제 눈에는 그이가 여기 오는 게 보여요."
   }
 ]

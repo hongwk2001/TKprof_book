@@ -1,12 +1,30 @@
 [
   {
+    "index": 0,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Chapter 12\n\n\nAt dinner, which was the first time all four of them sat around the dining table together, Scrap finally showed up.\n\nShe arrived right on time, wearing one of those loose gowns often described as stunning. This one really was. It completely captivated Mrs. Wilkins, who couldn't take her eyes off the beautiful woman sitting opposite her. The gown was a shell-pink color, clinging to Scrap as if it loved her too."
+    "text": "Chapter 12"
   },
   {
+    "index": 1,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "At dinner, which was the first time all four of them sat around the dining table together, Scrap finally showed up."
+  },
+  {
+    "index": 2,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "She arrived right on time, wearing one of those loose gowns often described as stunning. This one really was. It completely captivated Mrs. Wilkins, who couldn't take her eyes off the beautiful woman sitting opposite her. The gown was a shell-pink color, clinging to Scrap as if it loved her too."
+  },
+  {
+    "index": 3,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
@@ -14,6 +32,7 @@
     "text": "“What a beautiful dress!”"
   },
   {
+    "index": 4,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -21,13 +40,15 @@
     "text": "Mrs. Wilkins said eagerly."
   },
   {
-    "character": "Lady Caroline",
+    "index": 5,
+    "character": "Scrap",
     "sex": "female",
-    "voice": "bf_isabella",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "“What, this old thing?”"
   },
   {
+    "index": 6,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -35,13 +56,15 @@
     "text": "Scrap said, looking down as if to check what she was wearing."
   },
   {
-    "character": "Lady Caroline",
+    "index": 7,
+    "character": "Scrap",
     "sex": "female",
-    "voice": "bf_isabella",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "“I've had it forever.”"
   },
   {
+    "index": 8,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -49,13 +72,15 @@
     "text": "And she went back to eating her soup."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 9,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“You must be very cold in that,”"
   },
   {
+    "index": 10,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -63,27 +88,15 @@
     "text": "Mrs. Fisher said with a tight smile. The dress showed a lot of skin—her entire arms, for instance—and even where it did cover her, the fabric was so thin you could practically see through it."
   },
   {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "bf_isabella",
-    "speed": 1.0,
-    "text": "“Who, me?”"
-  },
-  {
+    "index": 11,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Scrap said, looking up for a second."
+    "text": "“Who, me?” Scrap said, looking up for a second. “Oh, no.”"
   },
   {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "bf_isabella",
-    "speed": 1.0,
-    "text": "“Oh, no.”"
-  },
-  {
+    "index": 12,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -91,13 +104,15 @@
     "text": "And she kept eating her soup."
   },
   {
+    "index": 13,
     "character": "Rose",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "“You must be careful not to catch a cold,”"
   },
   {
+    "index": 14,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -105,34 +120,31 @@
     "text": "Mrs. Arbuthnot said, feeling that such beauty should be kept safe at all costs."
   },
   {
+    "index": 15,
     "character": "Rose",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "“It gets much colder here once the sun goes down.”"
   },
   {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "bf_isabella",
-    "speed": 1.0,
-    "text": "“I'm perfectly warm,”"
-  },
-  {
+    "index": 16,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Scrap said, busy with her soup."
+    "text": "“I'm perfectly warm,” Scrap said, busy with her soup."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 17,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“You look as if you're not wearing anything underneath,”"
   },
   {
+    "index": 18,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -140,13 +152,15 @@
     "text": "Mrs. Fisher said."
   },
   {
-    "character": "Lady Caroline",
+    "index": 19,
+    "character": "Scrap",
     "sex": "female",
-    "voice": "bf_isabella",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "“I'm not. Or at least, barely anything,”"
   },
   {
+    "index": 20,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -154,55 +168,39 @@
     "text": "Scrap said, finishing her soup."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "“How very reckless,”"
-  },
-  {
+    "index": 21,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher said,"
+    "text": "“How very reckless,” Mrs. Fisher said, “and highly improper.”"
   },
   {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "bf_isabella",
-    "speed": 1.0,
-    "text": "“and highly improper.”"
-  },
-  {
+    "index": 22,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Scrap just stared at her.\n\nMrs. Fisher had come to dinner prepared to like Lady Caroline. At least she hadn't invaded her private room, sat at her desk, or used her pen. Mrs. Fisher had assumed she knew how to behave. But now it seemed she didn't. Was it polite to come dressed—or rather, undressed—like that to dinner? Such behavior was not only improper but also very inconsiderate. The girl would surely catch a cold and infect everyone else. Mrs. Fisher hated other people's colds. They were always caused by stupidity, and then they were passed on to her, who did nothing to deserve them."
+    "text": "Scrap just stared at her."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "“Airhead,”"
-  },
-  {
+    "index": 23,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher thought, staring sternly at Lady Caroline."
+    "text": "Mrs. Fisher had come to dinner prepared to like Lady Caroline. At least she hadn't invaded her private room, sat at her desk, or used her pen. Mrs. Fisher had assumed she knew how to behave. But now it seemed she didn't. Was it polite to come dressed—or rather, undressed—like that to dinner? Such behavior was not only improper but also very inconsiderate. The girl would surely catch a cold and infect everyone else. Mrs. Fisher hated other people's colds. They were always caused by stupidity, and then they were passed on to her, who did nothing to deserve them."
   },
   {
-    "character": "Lady Caroline",
+    "index": 24,
+    "character": "Narrator",
     "sex": "female",
-    "voice": "bf_isabella",
+    "voice": "af_heart",
     "speed": 1.0,
-    "text": "“Not a single thought in her head besides vanity.”"
+    "text": "“Airhead,” Mrs. Fisher thought, staring sternly at Lady Caroline. “Not a single thought in her head besides vanity.”"
   },
   {
+    "index": 25,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
@@ -210,6 +208,7 @@
     "text": "“But there are no men here,”"
   },
   {
+    "index": 26,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -217,13 +216,15 @@
     "text": "Mrs. Wilkins said,"
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 27,
+    "character": "Lotty",
     "sex": "female",
-    "voice": "bf_alice",
+    "voice": "af_bella",
     "speed": 1.0,
     "text": "“so how can it be improper? Have you noticed,”"
   },
   {
+    "index": 28,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -231,20 +232,31 @@
     "text": "she asked Mrs. Fisher, who tried to pretend she hadn't heard,"
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 29,
+    "character": "Lotty",
     "sex": "female",
-    "voice": "bf_alice",
+    "voice": "af_bella",
     "speed": 1.0,
     "text": "“how hard it is to be improper when there are no men around?”"
   },
   {
+    "index": 30,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher didn't answer or even look at her, but Scrap did. Her mouth twitched in what would have been a smirk on anyone else. From across the table, over the bowl of flowers, it looked like a beautiful, brief, dimpled smile.\n\nThat woman has a very expressive face, Scrap thought, watching Mrs. Wilkins with a hint of interest. It was like a field of wheat shifting under lights and shadows. She noticed that both Mrs. Wilkins and the dark-haired one had changed, but only to put on silk sweaters. Scrap thought they could have easily dressed up properly with the same amount of effort. Of course, they looked terrible in those sweaters. It didn't matter what Mrs. Fisher wore; her plain, heavy clothes suited her perfectly. But the other two were still young and quite attractive. They actually had nice features. Their lives would be so different if they tried to look their best instead of their worst. But then, Scrap suddenly lost interest. She turned her thoughts away and nibbled on some toast. What did it matter anyway? If you looked your best, you just attracted greedy people who wanted to claim you."
+    "text": "Mrs. Fisher didn't answer or even look at her, but Scrap did. Her mouth twitched in what would have been a smirk on anyone else. From across the table, over the bowl of flowers, it looked like a beautiful, brief, dimpled smile."
   },
   {
+    "index": 31,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "That woman has a very expressive face, Scrap thought, watching Mrs. Wilkins with a hint of interest. It was like a field of wheat shifting under lights and shadows. She noticed that both Mrs. Wilkins and the dark-haired one had changed, but only to put on silk sweaters. Scrap thought they could have easily dressed up properly with the same amount of effort. Of course, they looked terrible in those sweaters. It didn't matter what Mrs. Fisher wore; her plain, heavy clothes suited her perfectly. But the other two were still young and quite attractive. They actually had nice features. Their lives would be so different if they tried to look their best instead of their worst. But then, Scrap suddenly lost interest. She turned her thoughts away and nibbled on some toast. What did it matter anyway? If you looked your best, you just attracted greedy people who wanted to claim you."
+  },
+  {
+    "index": 32,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
@@ -252,216 +264,231 @@
     "text": "“I've had the most wonderful day,”"
   },
   {
+    "index": 33,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Wilkins began, her eyes shining.\n\nScrap looked down. Oh, she thought, she's going to start gushing.\n\nAs if anyone cares about her day, Mrs. Fisher thought, also looking down.\n\nIn fact, whenever Mrs. Wilkins spoke, Mrs. Fisher looked down on purpose to show her disapproval. Besides, it seemed like the only safe thing to do, since you never knew what inappropriate thing the woman would say next. Like that comment about men—directed at her, no less. What did she mean by that? Better not to think about it, Mrs. Fisher decided. Even though her eyes were cast down, she still saw Lady Caroline reach for the Chianti bottle and refill her glass.\n\nAgain! She had already had one glass, and the fish course was barely finished. Mrs. Fisher noticed that the other sensible member of the group, Mrs. Arbuthnot, was watching too. She hoped and believed Mrs. Arbuthnot was respectable and well-mannered. True, she had invaded the study as well, but she had probably been dragged in by the other one. Mrs. Fisher had nothing against Mrs. Arbuthnot, and was pleased to see she only drank water. That was proper. To be fair, the freckled one drank water too, which was right for their age. Mrs. Fisher drank wine herself, but very moderately: just one glass per meal. And she was sixty-five, a status that would easily justify two."
+    "text": "Mrs. Wilkins began, her eyes shining."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "“That,”"
-  },
-  {
+    "index": 34,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "she told Lady Caroline, interrupting Mrs. Wilkins's story about her wonderful day and pointing at the glass,"
+    "text": "Scrap looked down. Oh, she thought, she's going to start gushing."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 35,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "As if anyone cares about her day, Mrs. Fisher thought, also looking down."
+  },
+  {
+    "index": 36,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "In fact, whenever Mrs. Wilkins spoke, Mrs. Fisher looked down on purpose to show her disapproval. Besides, it seemed like the only safe thing to do, since you never knew what inappropriate thing the woman would say next. Like that comment about men—directed at her, no less. What did she mean by that? Better not to think about it, Mrs. Fisher decided. Even though her eyes were cast down, she still saw Lady Caroline reach for the Chianti bottle and refill her glass."
+  },
+  {
+    "index": 37,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Again! She had already had one glass, and the fish course was barely finished. Mrs. Fisher noticed that the other sensible member of the group, Mrs. Arbuthnot, was watching too. She hoped and believed Mrs. Arbuthnot was respectable and well-mannered. True, she had invaded the study as well, but she had probably been dragged in by the other one. Mrs. Fisher had nothing against Mrs. Arbuthnot, and was pleased to see she only drank water. That was proper. To be fair, the freckled one drank water too, which was right for their age. Mrs. Fisher drank wine herself, but very moderately: just one glass per meal. And she was sixty-five, a status that would easily justify two."
+  },
+  {
+    "index": 38,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "“That,” she told Lady Caroline, interrupting Mrs. Wilkins's story about her wonderful day and pointing at the glass,"
+  },
+  {
+    "index": 39,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“is very bad for you.”"
   },
   {
+    "index": 40,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Lady Caroline didn't seem to hear. She kept sipping her wine, leaning her elbow on the table, and listening to Mrs. Wilkins.\n\nAnd what was Mrs. Wilkins saying? That she had invited someone to come stay? A man?\n\nMrs. Fisher couldn't believe her ears. But it was clearly a man, because she was referring to him as 'he.'\n\nSuddenly, for the very first time, Mrs. Fisher spoke directly to Mrs. Wilkins. This was too important to ignore. She was sixty-five and didn't care much about the women she was staying with for a month, but adding men to the mix was a completely different story. She was not going to be used. She hadn't come all this way to give her approval to what people in her day called loose behavior. Nothing had been mentioned about men during their meeting in London; if it had, she would have refused to join them."
+    "text": "Lady Caroline didn't seem to hear. She kept sipping her wine, leaning her elbow on the table, and listening to Mrs. Wilkins."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 41,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "And what was Mrs. Wilkins saying? That she had invited someone to come stay? A man?"
+  },
+  {
+    "index": 42,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Mrs. Fisher couldn't believe her ears. But it was clearly a man, because she was referring to him as 'he.'"
+  },
+  {
+    "index": 43,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Suddenly, for the very first time, Mrs. Fisher spoke directly to Mrs. Wilkins. This was too important to ignore. She was sixty-five and didn't care much about the women she was staying with for a month, but adding men to the mix was a completely different story. She was not going to be used. She hadn't come all this way to give her approval to what people in her day called loose behavior. Nothing had been mentioned about men during their meeting in London; if it had, she would have refused to join them."
+  },
+  {
+    "index": 44,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“What is his name?”"
   },
   {
+    "index": 45,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher asked, interrupting.\n\nMrs. Wilkins looked at her, slightly surprised."
+    "text": "Mrs. Fisher asked, interrupting."
   },
   {
-    "character": "Lotty",
-    "sex": "female",
-    "voice": "af_bella",
-    "speed": 1.0,
-    "text": "“Wilkins,”"
-  },
-  {
+    "index": 46,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "she said."
+    "text": "Mrs. Wilkins looked at her, slightly surprised. “Wilkins,” she said."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 47,
+    "character": "Narrator",
     "sex": "female",
-    "voice": "bf_alice",
+    "voice": "af_heart",
     "speed": 1.0,
     "text": "“Wilkins?”"
   },
   {
-    "character": "Lotty",
+    "index": 48,
+    "character": "Narrator",
     "sex": "female",
-    "voice": "af_bella",
+    "voice": "af_heart",
     "speed": 1.0,
     "text": "“Yes.”"
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 49,
+    "character": "Narrator",
     "sex": "female",
-    "voice": "bf_alice",
+    "voice": "af_heart",
     "speed": 1.0,
     "text": "“Your name?”"
   },
   {
-    "character": "Lotty",
+    "index": 50,
+    "character": "Narrator",
     "sex": "female",
-    "voice": "af_bella",
+    "voice": "af_heart",
     "speed": 1.0,
     "text": "“And his.”"
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 51,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“Is he a relative?”"
   },
   {
-    "character": "Lotty",
+    "index": 52,
+    "character": "Narrator",
     "sex": "female",
-    "voice": "af_bella",
+    "voice": "af_heart",
     "speed": 1.0,
     "text": "“Not by blood.”"
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 53,
+    "character": "Narrator",
     "sex": "female",
-    "voice": "bf_alice",
+    "voice": "af_heart",
     "speed": 1.0,
     "text": "“Related by marriage?”"
   },
   {
-    "character": "Lotty",
+    "index": 54,
+    "character": "Narrator",
     "sex": "female",
-    "voice": "af_bella",
+    "voice": "af_heart",
     "speed": 1.0,
     "text": "“He's my husband.”"
   },
   {
+    "index": 55,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher looked down again. She simply couldn't communicate with Mrs. Wilkins. There was something so odd about how she spoke."
+    "text": "Mrs. Fisher looked down again. She simply couldn't communicate with Mrs. Wilkins. There was something so odd about how she spoke. “A husband”—as if she had several! She always put an inappropriate twist on things. Why couldn't she just say “my husband”? Besides, Mrs. Fisher had assumed, for some reason, that both the Hampstead women were war widows. They hadn't mentioned husbands at their meeting in London, which seemed unnatural if they actually had them. And if a husband isn't a relative, who is? “Not by blood.” What an absurd way to talk. A husband was the closest relative of all. She remembered the Bible saying a man should leave his parents and cling to his wife, showing that marriage created a bond stronger than blood. If a husband's parents were nothing to him compared to his wife, then a wife's parents should be even less to her compared to her husband. She herself hadn't had to leave her parents for Mr. Fisher because they were already dead when she married, but she certainly would have left them if they had been alive. Not blood, indeed. Ridiculous talk."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "“A husband”"
-  },
-  {
+    "index": 56,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "—as if she had several! She always put an inappropriate twist on things. Why couldn't she just say"
+    "text": "The dinner was excellent. One delicious course followed another. Costanza had decided to use as many eggs and as much cream as she wanted for the first week, and wait to see what happened when the bills came. In her experience, English people didn't complain about bills. They were quiet and easily convinced. Besides, who was the boss here? Since no one had claimed the role, Costanza figured she might as well be in charge. So she did whatever she wanted with the cooking, and the food was delicious."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "“my husband”"
-  },
-  {
+    "index": 57,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "? Besides, Mrs. Fisher had assumed, for some reason, that both the Hampstead women were war widows. They hadn't mentioned husbands at their meeting in London, which seemed unnatural if they actually had them. And if a husband isn't a relative, who is?"
+    "text": "The four women, however, were so wrapped up in their conversation that they ate without realizing how good the food was. Even Mrs. Fisher, who usually had a strong appreciation for food, didn't notice. It was as if the excellent cooking wasn't even there, which showed just how upset she was."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "“Not by blood.”"
-  },
-  {
+    "index": 58,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "What an absurd way to talk. A husband was the closest relative of all. She remembered the Bible saying a man should leave his parents and cling to his wife, showing that marriage created a bond stronger than blood. If a husband's parents were nothing to him compared to his wife, then a wife's parents should be even less to her compared to her husband. She herself hadn't had to leave her parents for Mr. Fisher because they were already dead when she married, but she certainly would have left them if they had been alive. Not blood, indeed. Ridiculous talk.\n\nThe dinner was excellent. One delicious course followed another. Costanza had decided to use as many eggs and as much cream as she wanted for the first week, and wait to see what happened when the bills came. In her experience, English people didn't complain about bills. They were quiet and easily convinced. Besides, who was the boss here? Since no one had claimed the role, Costanza figured she might as well be in charge. So she did whatever she wanted with the cooking, and the food was delicious.\n\nThe four women, however, were so wrapped up in their conversation that they ate without realizing how good the food was. Even Mrs. Fisher, who usually had a strong appreciation for food, didn't notice. It was as if the excellent cooking wasn't even there, which showed just how upset she was.\n\nShe was definitely agitated. It was all Mrs. Wilkins's fault. She was enough to drive anyone crazy. And she was clearly being encouraged by Lady Caroline, who was probably feeling the effects of the Chianti.\n\nMrs. Fisher was very glad there were no men around, because they would have acted like fools around Lady Caroline. She was exactly the kind of young woman who made men lose their heads, especially tonight. Maybe it was the wine making her personality shine more, but she was undeniably attractive. There were few things Mrs. Fisher hated more than watching sensible, intelligent men—who had just been discussing serious, interesting topics—turn into giggling fools the moment a pretty, brainless girl walked in. She felt that even Mr. Gladstone, the great, wise statesman who had once solemnly placed his hand on her head, would have stopped speaking sense and started flirting if he had seen Lady Caroline."
+    "text": "She was definitely agitated. It was all Mrs. Wilkins's fault. She was enough to drive anyone crazy. And she was clearly being encouraged by Lady Caroline, who was probably feeling the effects of the Chianti."
   },
   {
-    "character": "Lotty",
-    "sex": "female",
-    "voice": "af_bella",
-    "speed": 1.0,
-    "text": "“You see,”"
-  },
-  {
+    "index": 59,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Wilkins said—a silly habit she had of starting her sentences, which always made Mrs. Fisher want to snap,"
+    "text": "Mrs. Fisher was very glad there were no men around, because they would have acted like fools around Lady Caroline. She was exactly the kind of young woman who made men lose their heads, especially tonight. Maybe it was the wine making her personality shine more, but she was undeniably attractive. There were few things Mrs. Fisher hated more than watching sensible, intelligent men—who had just been discussing serious, interesting topics—turn into giggling fools the moment a pretty, brainless girl walked in. She felt that even Mr. Gladstone, the great, wise statesman who had once solemnly placed his hand on her head, would have stopped speaking sense and started flirting if he had seen Lady Caroline."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "“Excuse me, I don't see, I hear,”"
-  },
-  {
+    "index": 60,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "though she didn't bother."
+    "text": "“You see,” Mrs. Wilkins said—a silly habit she had of starting her sentences, which always made Mrs. Fisher want to snap, “Excuse me, I don't see, I hear,” though she didn't bother. “You see,” Mrs. Wilkins said, leaning toward Lady Caroline,"
   },
   {
-    "character": "Lotty",
-    "sex": "female",
-    "voice": "af_bella",
-    "speed": 1.0,
-    "text": "“You see,”"
-  },
-  {
-    "character": "Narrator",
-    "sex": "female",
-    "voice": "af_heart",
-    "speed": 1.0,
-    "text": "Mrs. Wilkins said, leaning toward Lady Caroline,"
-  },
-  {
+    "index": 61,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
@@ -469,13 +496,15 @@
     "text": "“we agreed in London that if any of us wanted to, we could invite one guest. So now I'm doing it.”"
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 62,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“I don't remember that,”"
   },
   {
+    "index": 63,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -483,41 +512,39 @@
     "text": "Mrs. Fisher said, staring at her plate."
   },
   {
-    "character": "Lotty",
+    "index": 64,
+    "character": "Rose",
     "sex": "female",
-    "voice": "af_bella",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "“Oh yes, we did—didn't we, Rose?”"
   },
   {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "bf_isabella",
-    "speed": 1.0,
-    "text": "“Yes, I remember,”"
-  },
-  {
+    "index": 65,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Lady Caroline said."
+    "text": "“Yes, I remember,” Lady Caroline said."
   },
   {
-    "character": "Lady Caroline",
+    "index": 66,
+    "character": "Scrap",
     "sex": "female",
-    "voice": "bf_isabella",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "“Though it seemed impossible that any of us would actually want to. The whole point was to escape our friends.”"
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 67,
+    "character": "Narrator",
     "sex": "female",
-    "voice": "bf_alice",
+    "voice": "af_heart",
     "speed": 1.0,
     "text": "“And our husbands.”"
   },
   {
+    "index": 68,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -525,20 +552,15 @@
     "text": "There was that inappropriate plural again. How vulgar, Mrs. Fisher thought. What an awful implication. Mrs. Arbuthnot clearly agreed, because her face had turned red."
   },
   {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "bf_isabella",
-    "speed": 1.0,
-    "text": "“And family affection,”"
-  },
-  {
+    "index": 69,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Lady Caroline said—or was that the wine talking? It had to be."
+    "text": "“And family affection,” Lady Caroline said—or was that the wine talking? It had to be."
   },
   {
+    "index": 70,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
@@ -546,6 +568,7 @@
     "text": "“And the lack of family affection,”"
   },
   {
+    "index": 71,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -553,13 +576,15 @@
     "text": "Mrs. Wilkins added, revealing a lot about her home life and personality."
   },
   {
-    "character": "Lady Caroline",
+    "index": 72,
+    "character": "Scrap",
     "sex": "female",
-    "voice": "bf_isabella",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "“That wouldn't be so bad,”"
   },
   {
+    "index": 73,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -567,13 +592,15 @@
     "text": "Lady Caroline said."
   },
   {
-    "character": "Lady Caroline",
+    "index": 74,
+    "character": "Scrap",
     "sex": "female",
-    "voice": "bf_isabella",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "“I could live with that. It gives you space.”"
   },
   {
+    "index": 75,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
@@ -581,6 +608,7 @@
     "text": "“Oh no, it's terrible,”"
   },
   {
+    "index": 76,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -588,6 +616,7 @@
     "text": "Mrs. Wilkins cried."
   },
   {
+    "index": 77,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
@@ -595,13 +624,15 @@
     "text": "“It feels like being completely naked.”"
   },
   {
-    "character": "Lady Caroline",
+    "index": 78,
+    "character": "Scrap",
     "sex": "female",
-    "voice": "bf_isabella",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "“But I like that,”"
   },
   {
+    "index": 79,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -609,27 +640,23 @@
     "text": "Lady Caroline said."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "“Really—”"
-  },
-  {
+    "index": 80,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher said."
+    "text": "“Really—” Mrs. Fisher said."
   },
   {
-    "character": "Lady Caroline",
+    "index": 81,
+    "character": "Scrap",
     "sex": "female",
-    "voice": "bf_isabella",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "“It's a wonderful feeling, shedding things,”"
   },
   {
+    "index": 82,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -637,6 +664,7 @@
     "text": "Lady Caroline said, speaking only to Mrs. Wilkins and ignoring the other two."
   },
   {
+    "index": 83,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
@@ -644,6 +672,7 @@
     "text": "“Oh, but standing in a freezing wind with no clothes, knowing you'll never have any, and getting colder and colder until you die—that's what it felt like, living with someone who doesn't love you.”"
   },
   {
+    "index": 84,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -651,13 +680,15 @@
     "text": "All these personal secrets, Mrs. Fisher thought... and Mrs. Wilkins had no excuse, since she was saying all this while drinking only water. Mrs. Arbuthnot, judging by her expression, completely agreed with Mrs. Fisher's disapproval; she was shifting uncomfortably."
   },
   {
-    "character": "Lady Caroline",
+    "index": 85,
+    "character": "Scrap",
     "sex": "female",
-    "voice": "bf_isabella",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "“But didn't he love you?”"
   },
   {
+    "index": 86,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -665,6 +696,7 @@
     "text": "Lady Caroline asked, just as shamelessly open as Mrs. Wilkins."
   },
   {
+    "index": 87,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
@@ -672,34 +704,23 @@
     "text": "“Mellersh? He never showed it.”"
   },
   {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "bf_isabella",
-    "speed": 1.0,
-    "text": "“Perfect,”"
-  },
-  {
+    "index": 88,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Lady Caroline murmured."
+    "text": "“Perfect,” Lady Caroline murmured."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "“Really—”"
-  },
-  {
+    "index": 89,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher said."
+    "text": "“Really—” Mrs. Fisher said."
   },
   {
+    "index": 90,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
@@ -707,27 +728,23 @@
     "text": "“I didn't think it was perfect at all. I was miserable. And now, being here, I look back and wonder how I could have been so unhappy. Over Mellersh, of all people.”"
   },
   {
-    "character": "Lady Caroline",
+    "index": 91,
+    "character": "Scrap",
     "sex": "female",
-    "voice": "bf_isabella",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "“You mean he wasn't worth it.”"
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "“Really—”"
-  },
-  {
+    "index": 92,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher said."
+    "text": "“Really—” Mrs. Fisher said."
   },
   {
+    "index": 93,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
@@ -735,6 +752,7 @@
     "text": "“No, I mean I've suddenly recovered.”"
   },
   {
+    "index": 94,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -742,6 +760,7 @@
     "text": "Lady Caroline, slowly spinning the stem of her wine glass, studied the glowing face opposite her."
   },
   {
+    "index": 95,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
@@ -749,13 +768,15 @@
     "text": "“And now that I'm happy, I can't just sit here and keep it to myself. I can't enjoy this while shutting him out. I have to share. I understand exactly how the Blessed Damozel felt.”"
   },
   {
-    "character": "Lady Caroline",
+    "index": 96,
+    "character": "Scrap",
     "sex": "female",
-    "voice": "bf_isabella",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "“What is the Blessed Damozel?”"
   },
   {
+    "index": 97,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -763,48 +784,39 @@
     "text": "Scrap asked."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "“Really—”"
-  },
-  {
+    "index": 98,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher said, with so much force this time that Lady Caroline looked at her."
+    "text": "“Really—” Mrs. Fisher said, with so much force this time that Lady Caroline looked at her."
   },
   {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "bf_isabella",
-    "speed": 1.0,
-    "text": "“Should I know?”"
-  },
-  {
+    "index": 99,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "she asked."
+    "text": "“Should I know?” she asked."
   },
   {
-    "character": "Lady Caroline",
+    "index": 100,
+    "character": "Scrap",
     "sex": "female",
-    "voice": "bf_isabella",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "“I don't know anything about science. It sounds like a bird.”"
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 101,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“It is a poem,”"
   },
   {
+    "index": 102,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -812,20 +824,15 @@
     "text": "Mrs. Fisher said very coldly."
   },
   {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "bf_isabella",
-    "speed": 1.0,
-    "text": "“Oh,”"
-  },
-  {
+    "index": 103,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Scrap said."
+    "text": "“Oh,” Scrap said."
   },
   {
+    "index": 104,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
@@ -833,6 +840,7 @@
     "text": "“I'll lend it to you,”"
   },
   {
+    "index": 105,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -840,48 +848,39 @@
     "text": "Mrs. Wilkins said, bursting into laughter."
   },
   {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "bf_isabella",
-    "speed": 1.0,
-    "text": "“No, thanks,”"
-  },
-  {
+    "index": 106,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Scrap said."
+    "text": "“No, thanks,” Scrap said."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "“And the author,”"
-  },
-  {
+    "index": 107,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher said icily,"
+    "text": "“And the author,” Mrs. Fisher said icily,"
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 108,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“though perhaps not a perfect gentleman, often dined at my father's house.”"
   },
   {
-    "character": "Lady Caroline",
+    "index": 109,
+    "character": "Scrap",
     "sex": "female",
-    "voice": "bf_isabella",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "“How boring for you,”"
   },
   {
+    "index": 110,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -889,13 +888,15 @@
     "text": "Scrap said."
   },
   {
-    "character": "Lady Caroline",
+    "index": 111,
+    "character": "Scrap",
     "sex": "female",
-    "voice": "bf_isabella",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "“My mother is always doing that—inviting writers. I hate writers. I wouldn't mind them so much if they didn't write books. Tell me more about Mellersh,”"
   },
   {
+    "index": 112,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -903,20 +904,15 @@
     "text": "she said, turning back to Mrs. Wilkins."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "“Really—”"
-  },
-  {
+    "index": 113,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher said."
+    "text": "“Really—” Mrs. Fisher said."
   },
   {
+    "index": 114,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
@@ -924,6 +920,7 @@
     "text": "“All those empty beds,”"
   },
   {
+    "index": 115,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -931,20 +928,15 @@
     "text": "Mrs. Wilkins said."
   },
   {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "bf_isabella",
-    "speed": 1.0,
-    "text": "“What empty beds?”"
-  },
-  {
+    "index": 116,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Scrap asked."
+    "text": "“What empty beds?” Scrap asked."
   },
   {
+    "index": 117,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
@@ -952,34 +944,39 @@
     "text": "“The ones in this house. Each of them should have a happy person sleeping in it. Eight beds and only four of us. It feels so selfish to keep this all to ourselves. I want Rose to invite her husband too. You and Mrs. Fisher don't have husbands, but why not invite a friend to have a wonderful time?”"
   },
   {
+    "index": 118,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Rose bit her lip. She turned red, then pale. She wished Lotty would just shut up. It was fine that she wanted to be a saint and love everyone, but did she have to be so tactless? Rose felt like all her painful secrets were being exposed. If only Lotty would be quiet...\n\nMrs. Fisher, even colder than when she discussed Lady Caroline's ignorance of the poem, said,"
+    "text": "Rose bit her lip. She turned red, then pale. She wished Lotty would just shut up. It was fine that she wanted to be a saint and love everyone, but did she have to be so tactless? Rose felt like all her painful secrets were being exposed. If only Lotty would be quiet..."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 119,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Mrs. Fisher, even colder than when she discussed Lady Caroline's ignorance of the poem, said,"
+  },
+  {
+    "index": 120,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“There is only one empty bedroom in this house.”"
   },
   {
-    "character": "Lotty",
-    "sex": "female",
-    "voice": "af_bella",
-    "speed": 1.0,
-    "text": "“Only one?”"
-  },
-  {
+    "index": 121,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Wilkins asked, surprised."
+    "text": "“Only one?” Mrs. Wilkins asked, surprised."
   },
   {
+    "index": 122,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
@@ -987,48 +984,55 @@
     "text": "“Then who is in all the others?”"
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "“We are,”"
-  },
-  {
+    "index": 123,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher said."
+    "text": "“We are,” Mrs. Fisher said."
   },
   {
-    "character": "Lotty",
+    "index": 124,
+    "character": "Rose",
     "sex": "female",
-    "voice": "af_bella",
+    "voice": "bf_isabella",
     "speed": 1.0,
     "text": "“But we aren't using all of them. There must be at least six rooms. That leaves two extra, and the owner said there were eight beds—didn't he, Rose?”"
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 125,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“There are six bedrooms,”"
   },
   {
+    "index": 126,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher said. Both she and Lady Caroline had explored the house when they arrived to pick the best rooms. They knew there were six bedrooms, though two were very small. In one of those small rooms, Francesca slept with just a chair and a dresser, and the other one was empty.\n\nMrs. Wilkins and Mrs. Arbuthnot had barely looked at the house, having spent most of their time outside staring at the view. In their distracted excitement when booking San Salvatore, they had assumed eight beds meant eight bedrooms, which was wrong. There were eight beds, but four of them were shared between Mrs. Wilkins's and Mrs. Arbuthnot's rooms."
+    "text": "Mrs. Fisher said. Both she and Lady Caroline had explored the house when they arrived to pick the best rooms. They knew there were six bedrooms, though two were very small. In one of those small rooms, Francesca slept with just a chair and a dresser, and the other one was empty."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 127,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Mrs. Wilkins and Mrs. Arbuthnot had barely looked at the house, having spent most of their time outside staring at the view. In their distracted excitement when booking San Salvatore, they had assumed eight beds meant eight bedrooms, which was wrong. There were eight beds, but four of them were shared between Mrs. Wilkins's and Mrs. Arbuthnot's rooms."
+  },
+  {
+    "index": 128,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“There are six bedrooms,”"
   },
   {
+    "index": 129,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -1036,34 +1040,31 @@
     "text": "Mrs. Fisher repeated."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 130,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“We have four, Francesca has the fifth, and the sixth is empty.”"
   },
   {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "bf_isabella",
-    "speed": 1.0,
-    "text": "“So,”"
-  },
-  {
+    "index": 131,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Scrap said,"
+    "text": "“So,” Scrap said,"
   },
   {
-    "character": "Lady Caroline",
+    "index": 132,
+    "character": "Scrap",
     "sex": "female",
-    "voice": "bf_isabella",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "“even if we wanted to be generous, we can't. Isn't that lucky?”"
   },
   {
+    "index": 133,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
@@ -1071,6 +1072,7 @@
     "text": "“So there's only room for one guest?”"
   },
   {
+    "index": 134,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -1078,90 +1080,15 @@
     "text": "Mrs. Wilkins asked, looking at the other three."
   },
   {
-    "character": "Lady Caroline",
+    "index": 135,
+    "character": "Scrap",
     "sex": "female",
-    "voice": "bf_isabella",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "“Yes, and you've already claimed him,”"
   },
   {
-    "character": "Narrator",
-    "sex": "female",
-    "voice": "af_heart",
-    "speed": 1.0,
-    "text": "Scrap said.\n\nMrs. Wilkins was surprised. She hadn't expected this bed problem. In inviting Mellersh, she had planned to put him in one of the spare rooms she thought existed. With a large house and servants, there was no reason they had to share a room like they did in their small house at home. Even the deep love she felt now shouldn't be pushed too far. Sharing a bed in marriage required a lot of patience and tolerance. She knew she would get along better with Mellersh if they weren't locked up together at night, so they could meet in the morning as friends with no arguments about open windows, bathroom schedules, or petty resentments. Her current happiness and kindness came from her new freedom. Would that peace survive a night in the same room with Mellersh? Would she still feel nothing but love for him in the morning? She hadn't been in this paradise very long. What if she wasn't fully cured of her old frustrations yet? And just that morning, she had been so happy to wake up alone and pull the blankets however she wanted!\n\nFrancesca had to nudge her, since she was so deep in thought she didn't notice the dessert being passed.\n\nIf I share a room with Mellersh, Mrs. Wilkins thought as she served herself, I might lose all this good will I have for him. But if I put him in the only spare room, I prevent Mrs. Fisher or Lady Caroline from inviting someone. They don't want to now, but in a place like this, they might suddenly decide to make a friend happy, and they won't be able to because of Mellersh."
-  },
-  {
-    "character": "Lotty",
-    "sex": "female",
-    "voice": "af_bella",
-    "speed": 1.0,
-    "text": "“What a dilemma,”"
-  },
-  {
-    "character": "Narrator",
-    "sex": "female",
-    "voice": "af_heart",
-    "speed": 1.0,
-    "text": "she said out loud, frowning."
-  },
-  {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "bf_isabella",
-    "speed": 1.0,
-    "text": "“What is?”"
-  },
-  {
-    "character": "Narrator",
-    "sex": "female",
-    "voice": "af_heart",
-    "speed": 1.0,
-    "text": "Scrap asked."
-  },
-  {
-    "character": "Lotty",
-    "sex": "female",
-    "voice": "af_bella",
-    "speed": 1.0,
-    "text": "“Where to put Mellersh.”"
-  },
-  {
-    "character": "Narrator",
-    "sex": "female",
-    "voice": "af_heart",
-    "speed": 1.0,
-    "text": "Scrap stared."
-  },
-  {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "bf_isabella",
-    "speed": 1.0,
-    "text": "“Why? Isn't one room enough for him?”"
-  },
-  {
-    "character": "Narrator",
-    "sex": "female",
-    "voice": "af_heart",
-    "speed": 1.0,
-    "text": "she asked."
-  },
-  {
-    "character": "Lotty",
-    "sex": "female",
-    "voice": "af_bella",
-    "speed": 1.0,
-    "text": "“Oh, yes. But then there won't be a spare room for anyone you might want to invite.”"
-  },
-  {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "bf_isabella",
-    "speed": 1.0,
-    "text": "“I won't want to invite anyone,”"
-  },
-  {
+    "index": 136,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -1169,20 +1096,111 @@
     "text": "Scrap said."
   },
   {
-    "character": "Lotty",
-    "sex": "female",
-    "voice": "af_bella",
-    "speed": 1.0,
-    "text": "“Or you,”"
-  },
-  {
+    "index": 137,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Wilkins said to Mrs. Fisher."
+    "text": "Mrs. Wilkins was surprised. She hadn't expected this bed problem. In inviting Mellersh, she had planned to put him in one of the spare rooms she thought existed. With a large house and servants, there was no reason they had to share a room like they did in their small house at home. Even the deep love she felt now shouldn't be pushed too far. Sharing a bed in marriage required a lot of patience and tolerance. She knew she would get along better with Mellersh if they weren't locked up together at night, so they could meet in the morning as friends with no arguments about open windows, bathroom schedules, or petty resentments. Her current happiness and kindness came from her new freedom. Would that peace survive a night in the same room with Mellersh? Would she still feel nothing but love for him in the morning? She hadn't been in this paradise very long. What if she wasn't fully cured of her old frustrations yet? And just that morning, she had been so happy to wake up alone and pull the blankets however she wanted!"
   },
   {
+    "index": 138,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Francesca had to nudge her, since she was so deep in thought she didn't notice the dessert being passed."
+  },
+  {
+    "index": 139,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "If I share a room with Mellersh, Mrs. Wilkins thought as she served herself, I might lose all this good will I have for him. But if I put him in the only spare room, I prevent Mrs. Fisher or Lady Caroline from inviting someone. They don't want to now, but in a place like this, they might suddenly decide to make a friend happy, and they won't be able to because of Mellersh."
+  },
+  {
+    "index": 140,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "“What a dilemma,” she said out loud, frowning."
+  },
+  {
+    "index": 141,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "“What is?” Scrap asked."
+  },
+  {
+    "index": 142,
+    "character": "Lotty",
+    "sex": "female",
+    "voice": "af_bella",
+    "speed": 1.0,
+    "text": "“Where to put Mellersh.”"
+  },
+  {
+    "index": 143,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Scrap stared."
+  },
+  {
+    "index": 144,
+    "character": "Scrap",
+    "sex": "female",
+    "voice": "bf_lily",
+    "speed": 1.0,
+    "text": "“Why? Isn't one room enough for him?”"
+  },
+  {
+    "index": 145,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "she asked."
+  },
+  {
+    "index": 146,
+    "character": "Lotty",
+    "sex": "female",
+    "voice": "af_bella",
+    "speed": 1.0,
+    "text": "“Oh, yes. But then there won't be a spare room for anyone you might want to invite.”"
+  },
+  {
+    "index": 147,
+    "character": "Scrap",
+    "sex": "female",
+    "voice": "bf_lily",
+    "speed": 1.0,
+    "text": "“I won't want to invite anyone,”"
+  },
+  {
+    "index": 148,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Scrap said."
+  },
+  {
+    "index": 149,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "“Or you,” Mrs. Wilkins said to Mrs. Fisher."
+  },
+  {
+    "index": 150,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
@@ -1190,41 +1208,47 @@
     "text": "“Rose, of course, doesn't count. I'm sure she would love sharing a room with her husband. It's obvious.”"
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "“Really—”"
-  },
-  {
+    "index": 151,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher said."
+    "text": "“Really—” Mrs. Fisher said."
   },
   {
-    "character": "Lotty",
-    "sex": "female",
-    "voice": "af_bella",
-    "speed": 1.0,
-    "text": "“Really what?”"
-  },
-  {
+    "index": 152,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Wilkins asked, turning to her, hoping she was about to make a helpful suggestion.\n\nShe wasn't. The word stood alone, cold and disapproving as before.\n\nPrompted, however, Mrs. Fisher added to it."
+    "text": "“Really what?” Mrs. Wilkins asked, turning to her, hoping she was about to make a helpful suggestion."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 153,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "She wasn't. The word stood alone, cold and disapproving as before."
+  },
+  {
+    "index": 154,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Prompted, however, Mrs. Fisher added to it."
+  },
+  {
+    "index": 155,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“Really, am I to understand,”"
   },
   {
+    "index": 156,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -1232,13 +1256,15 @@
     "text": "she asked,"
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 157,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“that you plan to keep the only spare room just for your own family?”"
   },
   {
+    "index": 158,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
@@ -1246,6 +1272,7 @@
     "text": "“He isn't my own family,”"
   },
   {
+    "index": 159,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -1253,6 +1280,7 @@
     "text": "Mrs. Wilkins said."
   },
   {
+    "index": 160,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
@@ -1260,48 +1288,71 @@
     "text": "“He's my husband. You see—”"
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "“I see nothing,”"
-  },
-  {
+    "index": 161,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher couldn't help interrupting, annoyed by her phrasing."
+    "text": "“I see nothing,” Mrs. Fisher couldn't help interrupting, annoyed by her phrasing."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 162,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“At most I hear you, and reluctantly at that.”"
   },
   {
+    "index": 163,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "But Mrs. Wilkins, completely ignoring the scolding, repeated her phrase and launched into a long, highly inappropriate talk about the best sleeping arrangements for Mellersh.\n\nMellersh—Mrs. Fisher, remembering the simple, strong names of her youth like Thomas, John, Alfred, and Robert, thought the name Mellersh was terribly pretentious—was Mrs. Wilkins's husband, so his place was obvious. Why all this discussion? Anticipating his arrival, she had already ordered a second bed to be put in Mrs. Wilkins's room. Some things in life were meant to be done, not talked about. Most matters involving husbands fell into this category, and discussing where one slept at the dinner table was highly inappropriate. How and where husbands slept was private to their wives. Sometimes even the wives didn't know, which led to unhappy marriages, but those issues weren't discussed either; people kept up appearances. At least, that was how it was in her day. Listening to whether Mr. Wilkins should sleep with Mrs. Wilkins, and all the reasons for and against it, was both boring and vulgar.\n\nShe might have managed to change the subject and restore proper manners if it hadn't been for Lady Caroline. Lady Caroline encouraged Mrs. Wilkins, joining in the discussion just as openly. She was probably influenced by the wine, but whatever the reason, she was fully participating. And, typical of her, Lady Caroline insisted that Mr. Wilkins should have the single spare room. She took it for granted, saying any other setup would be impossible, even calling it"
+    "text": "But Mrs. Wilkins, completely ignoring the scolding, repeated her phrase and launched into a long, highly inappropriate talk about the best sleeping arrangements for Mellersh."
   },
   {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "bf_isabella",
-    "speed": 1.0,
-    "text": "“barbarous.”"
-  },
-  {
+    "index": 164,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher wanted to ask if she had ever read the Bible passage about a husband and wife becoming one flesh—which surely meant sharing a room. But she didn't ask, as she felt it was inappropriate to quote scripture about marriage to a single woman.\n\nBut there was one way to force Mr. Wilkins into his wife's room and resolve the issue: she could announce that she was going to invite a friend. It was her right, as they had all agreed. Aside from proper manners, it was ridiculous for Mrs. Wilkins to hog the only spare room when her husband could easily sleep in hers. Maybe she actually would invite someone—or at least suggest they come. There was Kate Lumley, for instance. Kate could easily afford the trip and pay her share. She was from Mrs. Fisher's generation and knew the same social circle. Of course, Kate had always been on the edges of that circle, only invited to the large parties and never the intimate ones. Some people never made it to the inner circle, and Kate was one of them. Often, though, those people were more pleasant to be around because they remained grateful for the invitation.\n\nYes, she might actually invite Kate. The poor woman had never married, but you couldn't expect everyone to marry. She was reasonably well-off—not rich, but comfortable enough to pay her own way and still be grateful. Yes, Kate was the perfect solution. Her presence would instantly force the Wilkinses to share a room and prevent Mrs. Wilkins from taking up too much space. It would also save Mrs. Fisher from feeling lonely. She liked being alone between meals, but she hated feeling mentally isolated. She feared she would feel that way with these three strange young women. Even Mrs. Arbuthnot, because of her friendship with Mrs. Wilkins, was different from her. Kate would be a great support. Kate was easy to manage, so she wouldn't invade Mrs. Fisher's private room, but she would be there at meals to back her up.\n\nMrs. Fisher didn't say anything right away. But later in the living room, as they gathered around the wood fire—since she had realized her private study had no fireplace, she had to spend the cool evenings in the main room after all—while Francesca served coffee and Lady Caroline filled the air with smoke, Mrs. Wilkins said happily,"
+    "text": "Mellersh—Mrs. Fisher, remembering the simple, strong names of her youth like Thomas, John, Alfred, and Robert, thought the name Mellersh was terribly pretentious—was Mrs. Wilkins's husband, so his place was obvious. Why all this discussion? Anticipating his arrival, she had already ordered a second bed to be put in Mrs. Wilkins's room. Some things in life were meant to be done, not talked about. Most matters involving husbands fell into this category, and discussing where one slept at the dinner table was highly inappropriate. How and where husbands slept was private to their wives. Sometimes even the wives didn't know, which led to unhappy marriages, but those issues weren't discussed either; people kept up appearances. At least, that was how it was in her day. Listening to whether Mr. Wilkins should sleep with Mrs. Wilkins, and all the reasons for and against it, was both boring and vulgar."
   },
   {
+    "index": 165,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "She might have managed to change the subject and restore proper manners if it hadn't been for Lady Caroline. Lady Caroline encouraged Mrs. Wilkins, joining in the discussion just as openly. She was probably influenced by the wine, but whatever the reason, she was fully participating. And, typical of her, Lady Caroline insisted that Mr. Wilkins should have the single spare room. She took it for granted, saying any other setup would be impossible, even calling it “barbarous.” Mrs. Fisher wanted to ask if she had ever read the Bible passage about a husband and wife becoming one flesh—which surely meant sharing a room. But she didn't ask, as she felt it was inappropriate to quote scripture about marriage to a single woman."
+  },
+  {
+    "index": 166,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "But there was one way to force Mr. Wilkins into his wife's room and resolve the issue: she could announce that she was going to invite a friend. It was her right, as they had all agreed. Aside from proper manners, it was ridiculous for Mrs. Wilkins to hog the only spare room when her husband could easily sleep in hers. Maybe she actually would invite someone—or at least suggest they come. There was Kate Lumley, for instance. Kate could easily afford the trip and pay her share. She was from Mrs. Fisher's generation and knew the same social circle. Of course, Kate had always been on the edges of that circle, only invited to the large parties and never the intimate ones. Some people never made it to the inner circle, and Kate was one of them. Often, though, those people were more pleasant to be around because they remained grateful for the invitation."
+  },
+  {
+    "index": 167,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Yes, she might actually invite Kate. The poor woman had never married, but you couldn't expect everyone to marry. She was reasonably well-off—not rich, but comfortable enough to pay her own way and still be grateful. Yes, Kate was the perfect solution. Her presence would instantly force the Wilkinses to share a room and prevent Mrs. Wilkins from taking up too much space. It would also save Mrs. Fisher from feeling lonely. She liked being alone between meals, but she hated feeling mentally isolated. She feared she would feel that way with these three strange young women. Even Mrs. Arbuthnot, because of her friendship with Mrs. Wilkins, was different from her. Kate would be a great support. Kate was easy to manage, so she wouldn't invade Mrs. Fisher's private room, but she would be there at meals to back her up."
+  },
+  {
+    "index": 168,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Mrs. Fisher didn't say anything right away. But later in the living room, as they gathered around the wood fire—since she had realized her private study had no fireplace, she had to spend the cool evenings in the main room after all—while Francesca served coffee and Lady Caroline filled the air with smoke, Mrs. Wilkins said happily,"
+  },
+  {
+    "index": 169,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
@@ -1309,27 +1360,39 @@
     "text": "“Well, if nobody wants that room, I'd love for Mellersh to have it.”"
   },
   {
-    "character": "Lady Caroline",
+    "index": 170,
+    "character": "Scrap",
     "sex": "female",
-    "voice": "bf_isabella",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "“Of course he should have it,”"
   },
   {
+    "index": 171,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Lady Caroline said.\n\nThen Mrs. Fisher spoke up."
+    "text": "Lady Caroline said."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 172,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Then Mrs. Fisher spoke up."
+  },
+  {
+    "index": 173,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“I have a friend,”"
   },
   {
+    "index": 174,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -1337,41 +1400,31 @@
     "text": "she said in her deep voice, and the room went completely quiet."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "“Kate Lumley,”"
-  },
-  {
+    "index": 175,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher said.\n\nNo one said a word."
+    "text": "“Kate Lumley,” Mrs. Fisher said."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "“Perhaps,”"
-  },
-  {
+    "index": 176,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher continued, looking at Lady Caroline,"
+    "text": "No one said a word."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 177,
+    "character": "Narrator",
     "sex": "female",
-    "voice": "bf_alice",
+    "voice": "af_heart",
     "speed": 1.0,
-    "text": "“you know her?”"
+    "text": "“Perhaps,” Mrs. Fisher continued, looking at Lady Caroline, “you know her?”"
   },
   {
+    "index": 178,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -1379,34 +1432,47 @@
     "text": "Lady Caroline didn't know her. Without bothering to ask the other two, since she was sure they didn't know anyone important, Mrs. Fisher continued,"
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 179,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“I plan to invite her to join me.”"
   },
   {
+    "index": 180,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "There was complete silence.\n\nThen Scrap said to Mrs. Wilkins,"
+    "text": "There was complete silence."
   },
   {
-    "character": "Lady Caroline",
+    "index": 181,
+    "character": "Narrator",
     "sex": "female",
-    "voice": "bf_isabella",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Then Scrap said to Mrs. Wilkins,"
+  },
+  {
+    "index": 182,
+    "character": "Scrap",
+    "sex": "female",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "“Well, that settles things for Mellersh.”"
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 183,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“It settles the question of Mr. Wilkins in the only proper way,”"
   },
   {
+    "index": 184,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -1414,48 +1480,39 @@
     "text": "Mrs. Fisher said,"
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 185,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
     "text": "“though I don't understand why it was ever a question in the first place.”"
   },
   {
-    "character": "Lady Caroline",
+    "index": 186,
+    "character": "Scrap",
     "sex": "female",
-    "voice": "bf_isabella",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "“Looks like you're stuck sharing, then,”"
   },
   {
+    "index": 187,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Lady Caroline said to Mrs. Wilkins."
+    "text": "Lady Caroline said to Mrs. Wilkins. “Unless,” she added,"
   },
   {
-    "character": "Lady Caroline",
+    "index": 188,
+    "character": "Scrap",
     "sex": "female",
-    "voice": "bf_isabella",
-    "speed": 1.0,
-    "text": "“Unless,”"
-  },
-  {
-    "character": "Narrator",
-    "sex": "female",
-    "voice": "af_heart",
-    "speed": 1.0,
-    "text": "she added,"
-  },
-  {
-    "character": "Lady Caroline",
-    "sex": "female",
-    "voice": "bf_isabella",
+    "voice": "bf_lily",
     "speed": 1.0,
     "text": "“he can't make it.”"
   },
   {
+    "index": 189,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -1463,6 +1520,7 @@
     "text": "But Mrs. Wilkins, looking worried—since she wasn't sure if her peace of mind was strong enough yet to handle sharing—could only say uneasily,"
   },
   {
+    "index": 190,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",

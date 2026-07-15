@@ -2,10 +2,10 @@ import os
 import glob
 
 # Path to the chapters directory
-chapters_dir = r"d:\git_repo\TKprof_book\books\science_of_getting_rich\chapters"
+chapters_dir = r"d:\git_repo\TKprof_book\books\the_enchanted_april\chapters"
 
-# Find all modernized chapter files
-chapter_files = glob.glob(os.path.join(chapters_dir, "ch_*_en.txt"))
+# Find all modernized chapter files (English and Korean)
+chapter_files = glob.glob(os.path.join(chapters_dir, "ch_*.txt"))
 
 files_modified = 0
 

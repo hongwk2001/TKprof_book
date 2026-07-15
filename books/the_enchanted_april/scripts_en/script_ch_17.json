@@ -1,19 +1,46 @@
 [
   {
+    "index": 0,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Chapter 17\n\nOn the first day of the third week, Rose finally wrote to Frederick.\n\nTo make sure she didn't change her mind and hold back the letter, she gave it to Domenico to post. If she didn't write now, she would run out of time completely. Half their stay at San Salvatore was already over. Even if Frederick left the moment he received the letter—which was unlikely, given packing, passport arrangements, and his general lack of urgency—he wouldn't arrive for at least five days.\n\nOnce it was sent, Rose immediately regretted it. He wouldn't come. He probably wouldn't even bother to reply. And if he did reply, it would just be some made-up excuse about being too busy to travel. Writing to him would only end up making her more miserable than she was before.\n\nIt was amazing what silly things you did when you had too much free time. This attempt to revive her relationship with Frederick was just the result of having nothing to do. She wished she had never gone on vacation. What did she need a vacation for? Work was her salvation; it kept her grounded and focused. Back home in Hampstead, busy and absorbed, she had managed to get over Frederick, thinking of him with the gentle sadness one reserves for a past love who had died long ago. But now this beautiful, lazy place had dragged her back into the misery she had worked so hard to escape years ago. Besides, if Frederick did come, she would only bore him. Hadn't she realized right after arriving at San Salvatore that that was why he stayed away from her? Why did she think she wouldn't bore him now, after being apart for so long? She would probably just stand before him tongue-tied and clumsy. What a pathetic position to be in—practically begging him,"
+    "text": "Chapter 17"
   },
   {
-    "character": "Rose",
+    "index": 1,
+    "character": "Narrator",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "af_heart",
     "speed": 1.0,
-    "text": "\"Please wait, don't lose patience, maybe I'll be more interesting soon.\""
+    "text": "On the first day of the third week, Rose finally wrote to Frederick."
   },
   {
+    "index": 2,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "To make sure she didn't change her mind and hold back the letter, she gave it to Domenico to post. If she didn't write now, she would run out of time completely. Half their stay at San Salvatore was already over. Even if Frederick left the moment he received the letter—which was unlikely, given packing, passport arrangements, and his general lack of urgency—he wouldn't arrive for at least five days."
+  },
+  {
+    "index": 3,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Once it was sent, Rose immediately regretted it. He wouldn't come. He probably wouldn't even bother to reply. And if he did reply, it would just be some made-up excuse about being too busy to travel. Writing to him would only end up making her more miserable than she was before."
+  },
+  {
+    "index": 4,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "It was amazing what silly things you did when you had too much free time. This attempt to revive her relationship with Frederick was just the result of having nothing to do. She wished she had never gone on vacation. What did she need a vacation for? Work was her salvation; it kept her grounded and focused. Back home in Hampstead, busy and absorbed, she had managed to get over Frederick, thinking of him with the gentle sadness one reserves for a past love who had died long ago. But now this beautiful, lazy place had dragged her back into the misery she had worked so hard to escape years ago. Besides, if Frederick did come, she would only bore him. Hadn't she realized right after arriving at San Salvatore that that was why he stayed away from her? Why did she think she wouldn't bore him now, after being apart for so long? She would probably just stand before him tongue-tied and clumsy. What a pathetic position to be in—practically begging him, \"Please wait, don't lose patience, maybe I'll be more interesting soon.\""
+  },
+  {
+    "index": 5,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -21,76 +48,143 @@
     "text": "A thousand times a day, Rose wished she had left Frederick alone. But Lotty, who asked her every evening if she had sent the letter, cheered with delight when Rose finally said yes, throwing her arms around her."
   },
   {
+    "index": 6,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
     "speed": 1.0,
-    "text": "\"Now we will be completely happy!\""
+    "text": "Now we will be completely happy!"
   },
   {
+    "index": 7,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "the enthusiastic Lotty cried.\n\nBut Rose was far from certain, and she looked more and more like someone with a heavy weight on her mind.\n\nMr. Wilkins, eager to find out what was bothering her, strolled around in the sun wearing his Panama hat and began running into her"
+    "text": "the enthusiastic Lotty cried."
   },
   {
-    "character": "Frederick",
-    "sex": "male",
-    "voice": "am_michael",
-    "speed": 1.0,
-    "text": "\"accidentally.\""
-  },
-  {
-    "character": "Frederick",
-    "sex": "male",
-    "voice": "am_michael",
-    "speed": 1.0,
-    "text": "\"I didn't know,\""
-  },
-  {
+    "index": 8,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mr. Wilkins said the first time, politely tipping his hat,"
+    "text": "But Rose was far from certain, and she looked more and more like someone with a heavy weight on her mind."
   },
   {
-    "character": "Frederick",
-    "sex": "male",
-    "voice": "am_michael",
-    "speed": 1.0,
-    "text": "\"that you also liked this spot.\""
-  },
-  {
+    "index": 9,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "And he sat down beside her.\n\nIn the afternoon, she chose a different spot, but she hadn't been there half an hour before Mr. Wilkins came around the corner, lightly swinging his cane."
+    "text": "Mr. Wilkins, eager to find out what was bothering her, strolled around in the sun wearing his Panama hat and began running into her \"accidentally.\""
   },
   {
-    "character": "Frederick",
-    "sex": "male",
-    "voice": "am_michael",
-    "speed": 1.0,
-    "text": "\"We seem destined to meet on our walks,\""
-  },
-  {
+    "index": 10,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mr. Wilkins said pleasantly. And he sat down next to her again.\n\nMr. Wilkins was very kind, and she realized she had misjudged him in Hampstead. This was his true self, softened by the warm sun of San Salvatore. Still, Rose really wanted to be alone. At least she was grateful to him for proving that even if she bored Frederick, she didn't bore everyone; if she did, he wouldn't have stayed to talk to her every time until it was time to go inside. Granted, he bored her, but that wasn't nearly as bad as if she bored him. That would have really hurt her pride. Since Rose found herself unable to pray lately, she was being targeted by all kinds of negative emotions: vanity, over-sensitivity, irritability, and defensiveness. These were strange, unfamiliar feelings to take over her empty heart. She had never been vain or quick-tempered in her life. Could San Salvatore have opposite effects on different people? Did the same sun that sweetened Mr. Wilkins turn her sour?\n\nThe next morning, to make sure she was left alone, she went down to the rocks by the water where she and Lotty had sat on their first day, leaving Mr. Wilkins still chatting with Mrs. Fisher over breakfast. By now, Frederick would have received her letter. If he behaved like Mr. Wilkins, she might receive a telegram from him today.\n\nShe tried to dismiss this silly hope by mocking herself. Yet, if Mr. Wilkins had telegraphed, why not Frederick? The magic of San Salvatore seemed to rub off on the letter paper. Lotty hadn't expected a telegram either, but it was waiting for her when she came in at lunchtime. It would be too wonderful if Rose found one waiting for her too when she went back for lunch...\n\nRose wrapped her arms tightly around her knees. How deeply she longed to be important to someone again—not important on a stage or in a charity organization, but personally important to just one other person. Just a private connection, with nobody else knowing or caring. In a world crowded with billions of people, it didn't seem like too much to ask for just one person to call her own. Someone who needed her, thought of her, and wanted to be with her. Oh, how badly she wanted to feel precious to someone!\n\nShe sat under the pine tree by the sea all morning. No one came near her. The hours passed slowly, feeling incredibly long. But she refused to go back up before lunch, wanting to give the telegram plenty of time to arrive...\n\nThat day, Scrap, encouraged by Lotty and feeling she had sat still long enough, got up from her chair and cushions. She went off with Lotty and some sandwiches up into the hills until evening. Mr. Wilkins had wanted to go along, but on Lady Caroline's advice, he stayed behind to keep Mrs. Fisher company. Though he left Mrs. Fisher around eleven to look for Mrs. Arbuthnot and keep her company too, trying to split his time equally between the lonely women, he returned soon after, wiping his forehead. He went back to Mrs. Fisher, since Mrs. Arbuthnot had managed to hide from him. He noticed a telegram waiting for her when he walked in. It was a pity he didn't know where she was."
+    "text": "\"I didn't know,\" Mr. Wilkins said the first time, politely tipping his hat,"
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 11,
+    "character": "Mellersh",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"Should we open it?\""
+    "text": "that you also liked this spot."
   },
   {
+    "index": 12,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "And he sat down beside her."
+  },
+  {
+    "index": 13,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "In the afternoon, she chose a different spot, but she hadn't been there half an hour before Mr. Wilkins came around the corner, lightly swinging his cane."
+  },
+  {
+    "index": 14,
+    "character": "Mellersh",
+    "sex": "female",
+    "voice": "bf_alice",
+    "speed": 1.0,
+    "text": "We seem destined to meet on our walks,"
+  },
+  {
+    "index": 15,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Mr. Wilkins said pleasantly. And he sat down next to her again."
+  },
+  {
+    "index": 16,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Mr. Wilkins was very kind, and she realized she had misjudged him in Hampstead. This was his true self, softened by the warm sun of San Salvatore. Still, Rose really wanted to be alone. At least she was grateful to him for proving that even if she bored Frederick, she didn't bore everyone; if she did, he wouldn't have stayed to talk to her every time until it was time to go inside. Granted, he bored her, but that wasn't nearly as bad as if she bored him. That would have really hurt her pride. Since Rose found herself unable to pray lately, she was being targeted by all kinds of negative emotions: vanity, over-sensitivity, irritability, and defensiveness. These were strange, unfamiliar feelings to take over her empty heart. She had never been vain or quick-tempered in her life. Could San Salvatore have opposite effects on different people? Did the same sun that sweetened Mr. Wilkins turn her sour?"
+  },
+  {
+    "index": 17,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "The next morning, to make sure she was left alone, she went down to the rocks by the water where she and Lotty had sat on their first day, leaving Mr. Wilkins still chatting with Mrs. Fisher over breakfast. By now, Frederick would have received her letter. If he behaved like Mr. Wilkins, she might receive a telegram from him today."
+  },
+  {
+    "index": 18,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "She tried to dismiss this silly hope by mocking herself. Yet, if Mr. Wilkins had telegraphed, why not Frederick? The magic of San Salvatore seemed to rub off on the letter paper. Lotty hadn't expected a telegram either, but it was waiting for her when she came in at lunchtime. It would be too wonderful if Rose found one waiting for her too when she went back for lunch..."
+  },
+  {
+    "index": 19,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Rose wrapped her arms tightly around her knees. How deeply she longed to be important to someone again—not important on a stage or in a charity organization, but personally important to just one other person. Just a private connection, with nobody else knowing or caring. In a world crowded with billions of people, it didn't seem like too much to ask for just one person to call her own. Someone who needed her, thought of her, and wanted to be with her. Oh, how badly she wanted to feel precious to someone!"
+  },
+  {
+    "index": 20,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "She sat under the pine tree by the sea all morning. No one came near her. The hours passed slowly, feeling incredibly long. But she refused to go back up before lunch, wanting to give the telegram plenty of time to arrive..."
+  },
+  {
+    "index": 21,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "That day, Scrap, encouraged by Lotty and feeling she had sat still long enough, got up from her chair and cushions. She went off with Lotty and some sandwiches up into the hills until evening. Mr. Wilkins had wanted to go along, but on Lady Caroline's advice, he stayed behind to keep Mrs. Fisher company. Though he left Mrs. Fisher around eleven to look for Mrs. Arbuthnot and keep her company too, trying to split his time equally between the lonely women, he returned soon after, wiping his forehead. He went back to Mrs. Fisher, since Mrs. Arbuthnot had managed to hide from him. He noticed a telegram waiting for her when he walked in. It was a pity he didn't know where she was."
+  },
+  {
+    "index": 22,
+    "character": "Mellersh",
+    "sex": "female",
+    "voice": "bf_alice",
+    "speed": 1.0,
+    "text": "Should we open it?"
+  },
+  {
+    "index": 23,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -98,41 +192,39 @@
     "text": "he asked Mrs. Fisher."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "\"No,\""
-  },
-  {
+    "index": 24,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher replied."
+    "text": "\"No,\" Mrs. Fisher replied."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 25,
+    "character": "Mellersh",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"It might need an answer.\""
+    "text": "It might need an answer."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 26,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"I don't believe in meddling with other people's mail.\""
+    "text": "I don't believe in meddling with other people's mail."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 27,
+    "character": "Mellersh",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"Meddling! My dear lady—\""
+    "text": "Meddling! My dear lady—"
   },
   {
+    "index": 28,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -140,69 +232,71 @@
     "text": "Mr. Wilkins was shocked by her choice of words. Meddling! He respected Mrs. Fisher greatly, but sometimes found her difficult. He was sure she liked him and was likely to become a client, but he feared she would be stubborn and secretive. She was definitely secretive; despite his best efforts to be helpful and sympathetic for a week, she hadn't given him the slightest hint of what was bothering her."
   },
   {
-    "character": "Lotty",
-    "sex": "female",
-    "voice": "af_bella",
-    "speed": 1.0,
-    "text": "\"Poor old thing,\""
-  },
-  {
+    "index": 29,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Lotty had said when he asked if she knew what was wrong with Mrs. Fisher."
+    "text": "\"Poor old thing,\" Lotty had said when he asked if she knew what was wrong with Mrs. Fisher."
   },
   {
+    "index": 30,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
     "speed": 1.0,
-    "text": "\"She has no love in her life.\""
+    "text": "She has no love in her life."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 31,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "\"Love?\" Mr. Wilkins echoed, genuinely shocked."
+  },
+  {
+    "index": 32,
+    "character": "Mellersh",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"Love?\""
+    "text": "But surely, my dear—at her age—"
   },
   {
-    "character": "Narrator",
-    "sex": "female",
-    "voice": "af_heart",
-    "speed": 1.0,
-    "text": "Mr. Wilkins echoed, genuinely shocked."
-  },
-  {
-    "character": "Frederick",
-    "sex": "male",
-    "voice": "am_michael",
-    "speed": 1.0,
-    "text": "\"But surely, my dear—at her age—\""
-  },
-  {
+    "index": 33,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
     "speed": 1.0,
-    "text": "\"Any kind of love,\""
+    "text": "Any kind of love,"
   },
   {
+    "index": 34,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Lotty said.\n\nThat very morning, he had asked his wife—whose opinion he now valued and respected—if she knew what was wrong with Mrs. Arbuthnot, who also remained quiet and distant despite his attempts to make her open up."
+    "text": "Lotty said."
   },
   {
+    "index": 35,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "That very morning, he had asked his wife—whose opinion he now valued and respected—if she knew what was wrong with Mrs. Arbuthnot, who also remained quiet and distant despite his attempts to make her open up."
+  },
+  {
+    "index": 36,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
     "speed": 1.0,
-    "text": "\"She wants her husband,\""
+    "text": "She wants her husband,"
   },
   {
+    "index": 37,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -210,90 +304,103 @@
     "text": "Lotty replied."
   },
   {
-    "character": "Frederick",
-    "sex": "male",
-    "voice": "am_michael",
-    "speed": 1.0,
-    "text": "\"Ah,\""
-  },
-  {
+    "index": 38,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mr. Wilkins said, seeing Mrs. Arbuthnot's quiet sadness in a new light."
+    "text": "\"Ah,\" Mr. Wilkins said, seeing Mrs. Arbuthnot's quiet sadness in a new light. \"Very proper,\" he added."
   },
   {
-    "character": "Frederick",
-    "sex": "male",
-    "voice": "am_michael",
-    "speed": 1.0,
-    "text": "\"Very proper,\""
-  },
-  {
+    "index": 39,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "he added.\n\nAnd Lotty smiled and said,"
+    "text": "And Lotty smiled and said,"
   },
   {
+    "index": 40,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
     "speed": 1.0,
-    "text": "\"We do want them.\""
+    "text": "We do want them."
   },
   {
+    "index": 41,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mr. Wilkins smiled back and said,"
+    "text": "Mr. Wilkins smiled back and said, \"Do you?\""
   },
   {
-    "character": "Frederick",
-    "sex": "male",
-    "voice": "am_michael",
-    "speed": 1.0,
-    "text": "\"Do you?\""
-  },
-  {
-    "character": "Lotty",
-    "sex": "female",
-    "voice": "af_bella",
-    "speed": 1.0,
-    "text": "\"Of course,\""
-  },
-  {
+    "index": 42,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Lotty said, smiling.\n\nAnd Mr. Wilkins, very pleased with her, playfully pinched her ear, even though it was still early in the day, a time when people aren't usually very affectionate.\n\nJust before twelve-thirty, Rose walked slowly up through the pergola and between the camellia bushes lining the old stone steps. The blue periwinkles that had covered them when she first arrived were gone, replaced by these flowering bushes. She touched and smelled the pink, white, red, and striped blossoms one by one, trying to delay her disappointment. As long as she hadn't seen the empty table in the hall for herself, she could still hope and imagine the telegram waiting for her. But camellias have no scent, as Mr. Wilkins pointed out. He was standing in the doorway watching for her and knew all about gardening.\n\nShe started at his voice and looked up."
+    "text": "\"Of course,\" Lotty said, smiling."
   },
   {
-    "character": "Briggs",
-    "sex": "male",
-    "voice": "am_michael",
-    "speed": 1.0,
-    "text": "\"A telegram came for you,\""
-  },
-  {
+    "index": 43,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mr. Wilkins said.\n\nShe stared at him, her mouth slightly open."
+    "text": "And Mr. Wilkins, very pleased with her, playfully pinched her ear, even though it was still early in the day, a time when people aren't usually very affectionate."
   },
   {
-    "character": "Briggs",
-    "sex": "male",
-    "voice": "am_michael",
+    "index": 44,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
     "speed": 1.0,
-    "text": "\"I looked everywhere for you, but couldn't find you—\""
+    "text": "Just before twelve-thirty, Rose walked slowly up through the pergola and between the camellia bushes lining the old stone steps. The blue periwinkles that had covered them when she first arrived were gone, replaced by these flowering bushes. She touched and smelled the pink, white, red, and striped blossoms one by one, trying to delay her disappointment. As long as she hadn't seen the empty table in the hall for herself, she could still hope and imagine the telegram waiting for her. But camellias have no scent, as Mr. Wilkins pointed out. He was standing in the doorway watching for her and knew all about gardening."
   },
   {
+    "index": 45,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "She started at his voice and looked up."
+  },
+  {
+    "index": 46,
+    "character": "Mellersh",
+    "sex": "female",
+    "voice": "bf_alice",
+    "speed": 1.0,
+    "text": "A telegram came for you,"
+  },
+  {
+    "index": 47,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Mr. Wilkins said."
+  },
+  {
+    "index": 48,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "She stared at him, her mouth slightly open."
+  },
+  {
+    "index": 49,
+    "character": "Mellersh",
+    "sex": "female",
+    "voice": "bf_alice",
+    "speed": 1.0,
+    "text": "I looked everywhere for you, but couldn't find you—"
+  },
+  {
+    "index": 50,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -301,27 +408,39 @@
     "text": "Of course! She knew it. She had been sure of it deep down. Instantly, Rose felt a surge of youthful energy. Blushing red as the camellias, she flew up the steps and into the hall, tearing open the telegram before Mr. Wilkins could even finish his sentence. If things could happen like this, then there was no limit to what was possible—she and Frederick were going to be together again at last!"
   },
   {
-    "character": "Frederick",
-    "sex": "male",
-    "voice": "am_michael",
+    "index": 51,
+    "character": "Mellersh",
+    "sex": "female",
+    "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"No bad news, I hope?\""
+    "text": "No bad news, I hope?"
   },
   {
+    "index": 52,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mr. Wilkins said, having followed her inside. After reading it, she stood staring at the paper and her face went completely pale. He watched with curiosity as all the color drained from her cheeks.\n\nShe turned and looked at Mr. Wilkins as if trying to remember who he was."
+    "text": "Mr. Wilkins said, having followed her inside. After reading it, she stood staring at the paper and her face went completely pale. He watched with curiosity as all the color drained from her cheeks."
   },
   {
+    "index": 53,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "She turned and looked at Mr. Wilkins as if trying to remember who he was."
+  },
+  {
+    "index": 54,
     "character": "Rose",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Oh, no. On the contrary—\""
+    "text": "Oh, no. On the contrary—"
   },
   {
+    "index": 55,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -329,27 +448,39 @@
     "text": "She forced a smile."
   },
   {
+    "index": 56,
     "character": "Rose",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"I'm going to have a visitor,\""
+    "text": "I'm going to have a visitor,"
   },
   {
+    "index": 57,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "she said, handing him the telegram. As he took it, she walked toward the dining room, murmuring something about lunch being ready.\n\nMr. Wilkins read the telegram. It had been sent from Mezzago that morning and said:"
+    "text": "she said, handing him the telegram. As he took it, she walked toward the dining room, murmuring something about lunch being ready."
   },
   {
-    "character": "Frederick",
-    "sex": "male",
-    "voice": "am_michael",
+    "index": 58,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
     "speed": 1.0,
-    "text": "\"Am passing through on way to Rome. May I pay my respects this afternoon? Thomas Briggs.\""
+    "text": "Mr. Wilkins read the telegram. It had been sent from Mezzago that morning and said:"
   },
   {
+    "index": 59,
+    "character": "Briggs",
+    "sex": "female",
+    "voice": "bf_isabella",
+    "speed": 1.0,
+    "text": "Am passing through on way to Rome. May I pay my respects this afternoon? Thomas Briggs."
+  },
+  {
+    "index": 60,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -357,62 +488,79 @@
     "text": "Why would a telegram like that make her turn so pale? Her reaction had been so dramatic that Mr. Wilkins was convinced she had received bad news."
   },
   {
-    "character": "Frederick",
-    "sex": "male",
-    "voice": "am_michael",
+    "index": 61,
+    "character": "Mellersh",
+    "sex": "female",
+    "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"Who is Thomas Briggs?\""
+    "text": "Who is Thomas Briggs?"
   },
   {
+    "index": 62,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "he asked, following her into the dining room.\n\nShe looked at him blankly."
+    "text": "he asked, following her into the dining room."
   },
   {
+    "index": 63,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "She looked at him blankly. \"Who is...?\" she repeated, trying to collect her thoughts."
+  },
+  {
+    "index": 64,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Thomas Briggs."
+  },
+  {
+    "index": 65,
     "character": "Rose",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Who is...?\""
+    "text": "Oh. Yes. He is the owner. This is his house. He is very nice. He is coming this afternoon."
   },
   {
+    "index": 66,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "she repeated, trying to collect her thoughts."
+    "text": "Thomas Briggs was arriving at that very moment. He was riding along the road from Mezzago in a carriage, hoping the dark-eyed lady would understand that he only wanted to see her, not check up on his house. He knew a polite owner shouldn't intrude on tenants. But he had been thinking about her constantly since they met. Rose Arbuthnot—what a pretty name. And she was such a lovely woman, sweet and maternal in the best sense (meaning she wasn't actually his mother, since she was younger than him). Besides, he was passing so close by. It seemed silly not to drop in and see if she was comfortable. He wanted to see her in his house, using his chairs, his cups, and his things. Did she put the big red brocade cushion behind her head in the drawing room? Her dark hair and pale skin would look beautiful against it. Had she noticed the portrait on the stairs that looked just like her? He wondered if she liked it. He wanted to explain it to her. Since she probably wasn't a painter, she might not have noticed how the shape of the eyebrows and the curve of the cheek matched hers exactly."
   },
   {
-    "character": "Frederick",
-    "sex": "male",
-    "voice": "am_michael",
-    "speed": 1.0,
-    "text": "\"Thomas Briggs.\""
-  },
-  {
-    "character": "Rose",
-    "sex": "female",
-    "voice": "af_nicole",
-    "speed": 1.0,
-    "text": "\"Oh. Yes. He is the owner. This is his house. He is very nice. He is coming this afternoon.\""
-  },
-  {
+    "index": 67,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Thomas Briggs was arriving at that very moment. He was riding along the road from Mezzago in a carriage, hoping the dark-eyed lady would understand that he only wanted to see her, not check up on his house. He knew a polite owner shouldn't intrude on tenants. But he had been thinking about her constantly since they met. Rose Arbuthnot—what a pretty name. And she was such a lovely woman, sweet and maternal in the best sense (meaning she wasn't actually his mother, since she was younger than him). Besides, he was passing so close by. It seemed silly not to drop in and see if she was comfortable. He wanted to see her in his house, using his chairs, his cups, and his things. Did she put the big red brocade cushion behind her head in the drawing room? Her dark hair and pale skin would look beautiful against it. Had she noticed the portrait on the stairs that looked just like her? He wondered if she liked it. He wanted to explain it to her. Since she probably wasn't a painter, she might not have noticed how the shape of the eyebrows and the curve of the cheek matched hers exactly.\n\nHe told the carriage to wait in Castagneto and crossed the square. Children and dogs greeted him, appearing out of nowhere since they all knew him. He walked quickly up the winding path—he was an active man in his early thirties—pulled the old chain to ring the bell, and waited politely by the open door.\n\nWhen Francesca saw him, she raised her hands, eyebrows, and eyelids in surprise, talking rapidly to assure him that everything was in perfect order and she was doing her job."
+    "text": "He told the carriage to wait in Castagneto and crossed the square. Children and dogs greeted him, appearing out of nowhere since they all knew him. He walked quickly up the winding path—he was an active man in his early thirties—pulled the old chain to ring the bell, and waited politely by the open door."
   },
   {
-    "character": "Costanza",
+    "index": 68,
+    "character": "Narrator",
     "sex": "female",
-    "voice": "bf_lily",
+    "voice": "af_heart",
     "speed": 1.0,
-    "text": "\"Of course, of course,\""
+    "text": "When Francesca saw him, she raised her hands, eyebrows, and eyelids in surprise, talking rapidly to assure him that everything was in perfect order and she was doing her job."
   },
   {
+    "index": 69,
+    "character": "Briggs",
+    "sex": "female",
+    "voice": "bf_isabella",
+    "speed": 1.0,
+    "text": "Of course, of course,"
+  },
+  {
+    "index": 70,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -420,13 +568,15 @@
     "text": "Briggs said, cutting her short."
   },
   {
+    "index": 71,
     "character": "Briggs",
-    "sex": "male",
-    "voice": "am_michael",
+    "sex": "female",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"I don't doubt it.\""
+    "text": "I don't doubt it."
   },
   {
+    "index": 72,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -434,34 +584,31 @@
     "text": "He asked her to take his business card to her mistress."
   },
   {
-    "character": "Briggs",
-    "sex": "male",
-    "voice": "am_michael",
-    "speed": 1.0,
-    "text": "\"Which mistress?\""
-  },
-  {
+    "index": 73,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Francesca asked."
+    "text": "\"Which mistress?\" Francesca asked."
   },
   {
-    "character": "Costanza",
+    "index": 74,
+    "character": "Narrator",
     "sex": "female",
-    "voice": "bf_lily",
+    "voice": "af_heart",
     "speed": 1.0,
-    "text": "\"Which mistress?\""
+    "text": "Which mistress?"
   },
   {
-    "character": "Costanza",
+    "index": 75,
+    "character": "Mellersh",
     "sex": "female",
-    "voice": "bf_lily",
+    "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"There are four of them,\""
+    "text": "There are four of them,"
   },
   {
+    "index": 76,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -469,41 +616,79 @@
     "text": "Francesca said. Seeing her master's surprised look, she sensed something unusual was going on, which pleased her. Life was boring, and any drama helped pass the time."
   },
   {
-    "character": "Costanza",
-    "sex": "female",
-    "voice": "bf_lily",
-    "speed": 1.0,
-    "text": "\"Four?\""
-  },
-  {
+    "index": 77,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "he repeated, surprised."
+    "text": "\"Four?\" he repeated, surprised."
   },
   {
+    "index": 78,
     "character": "Briggs",
-    "sex": "male",
-    "voice": "am_michael",
+    "sex": "female",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Well, take it to all of them then,\""
+    "text": "Well, take it to all of them then,"
   },
   {
+    "index": 79,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "he said, catching himself when he saw her expression.\n\nCoffee was being served in the upper garden in the shade of the pine tree. Only Mrs. Fisher and Mr. Wilkins were drinking it. Mrs. Arbuthnot, who had eaten nothing and stayed completely silent during lunch, had disappeared immediately afterward.\n\nWhile Francesca went to the garden with his card, Briggs stood on the stairs examining the painting of the Madonna. It was by an unknown early Italian artist, and he had bought it in Orvieto. The likeness to his tenant was remarkable. Of course, she had been wearing a hat in London, but he was sure her hair grew from her forehead just like the woman's in the painting. The expression of the eyes, sweet and serious, was identical. He was delighted to think he would always have her likeness in his house.\n\nHearing footsteps, he looked up and saw her coming down the stairs, dressed in white, just as he had pictured her in this setting.\n\nShe was surprised to see him so early. She had expected him around tea time, and until then, she had planned to sit somewhere outside by herself.\n\nHe watched her descend with eager interest. In a moment, she would stand right next to her portrait."
+    "text": "he said, catching himself when he saw her expression."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 80,
+    "character": "Narrator",
     "sex": "female",
-    "voice": "bf_alice",
+    "voice": "af_heart",
     "speed": 1.0,
-    "text": "\"It really is extraordinary,\""
+    "text": "Coffee was being served in the upper garden in the shade of the pine tree. Only Mrs. Fisher and Mr. Wilkins were drinking it. Mrs. Arbuthnot, who had eaten nothing and stayed completely silent during lunch, had disappeared immediately afterward."
   },
   {
+    "index": 81,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "While Francesca went to the garden with his card, Briggs stood on the stairs examining the painting of the Madonna. It was by an unknown early Italian artist, and he had bought it in Orvieto. The likeness to his tenant was remarkable. Of course, she had been wearing a hat in London, but he was sure her hair grew from her forehead just like the woman's in the painting. The expression of the eyes, sweet and serious, was identical. He was delighted to think he would always have her likeness in his house."
+  },
+  {
+    "index": 82,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Hearing footsteps, he looked up and saw her coming down the stairs, dressed in white, just as he had pictured her in this setting."
+  },
+  {
+    "index": 83,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "She was surprised to see him so early. She had expected him around tea time, and until then, she had planned to sit somewhere outside by herself."
+  },
+  {
+    "index": 84,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "He watched her descend with eager interest. In a moment, she would stand right next to her portrait."
+  },
+  {
+    "index": 85,
+    "character": "Briggs",
+    "sex": "female",
+    "voice": "bf_isabella",
+    "speed": 1.0,
+    "text": "It really is extraordinary,"
+  },
+  {
+    "index": 86,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -511,27 +696,31 @@
     "text": "Briggs said."
   },
   {
-    "character": "Briggs",
-    "sex": "male",
-    "voice": "am_michael",
-    "speed": 1.0,
-    "text": "\"Hello,\""
-  },
-  {
+    "index": 87,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Rose said, trying her best to show a polite welcome.\n\nShe didn't feel very welcoming. With the disappointment of the telegram fresh in her heart, his presence felt like an intrusion; he was here instead of Frederick, taking the place of the husband she had longed to see."
+    "text": "\"Hello,\" Rose said, trying her best to show a polite welcome."
   },
   {
-    "character": "Frederick",
-    "sex": "male",
-    "voice": "am_michael",
+    "index": 88,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
     "speed": 1.0,
-    "text": "\"Just stand still a second—\""
+    "text": "She didn't feel very welcoming. With the disappointment of the telegram fresh in her heart, his presence felt like an intrusion; he was here instead of Frederick, taking the place of the husband she had longed to see."
   },
   {
+    "index": 89,
+    "character": "Briggs",
+    "sex": "female",
+    "voice": "bf_isabella",
+    "speed": 1.0,
+    "text": "Just stand still a second—"
+  },
+  {
+    "index": 90,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -539,13 +728,15 @@
     "text": "She paused automatically."
   },
   {
+    "index": 91,
     "character": "Briggs",
-    "sex": "male",
-    "voice": "am_michael",
+    "sex": "female",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Yes, it's amazing. Do you mind taking off your hat?\""
+    "text": "Yes, it's amazing. Do you mind taking off your hat?"
   },
   {
+    "index": 92,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -553,27 +744,39 @@
     "text": "Rose, surprised, took it off."
   },
   {
+    "index": 93,
     "character": "Briggs",
-    "sex": "male",
-    "voice": "am_michael",
+    "sex": "female",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Yes, I thought so. I wanted to be sure. Look, have you noticed—\""
+    "text": "Yes, I thought so. I wanted to be sure. Look, have you noticed—"
   },
   {
+    "index": 94,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "He began tracing the face in the painting with his hand, looking back and forth between the portrait and her.\n\nRose's surprise turned into amusement, and she couldn't help smiling."
+    "text": "He began tracing the face in the painting with his hand, looking back and forth between the portrait and her."
   },
   {
+    "index": 95,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Rose's surprise turned into amusement, and she couldn't help smiling."
+  },
+  {
+    "index": 96,
     "character": "Rose",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Did you come all this way just to compare me to the painting?\""
+    "text": "Did you come all this way just to compare me to the painting?"
   },
   {
+    "index": 97,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -581,41 +784,55 @@
     "text": "she asked."
   },
   {
+    "index": 98,
     "character": "Briggs",
-    "sex": "male",
-    "voice": "am_michael",
-    "speed": 1.0,
-    "text": "\"You see how similar you are—\""
-  },
-  {
-    "character": "Lady Caroline",
     "sex": "female",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"I didn't realize I looked so serious.\""
+    "text": "You see how similar you are—"
   },
   {
-    "character": "Briggs",
-    "sex": "male",
-    "voice": "am_michael",
+    "index": 99,
+    "character": "Rose",
+    "sex": "female",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"You don't now. But you did a minute ago, just as serious. Oh, hello,\""
+    "text": "I didn't realize I looked so serious."
   },
   {
+    "index": 100,
+    "character": "Briggs",
+    "sex": "female",
+    "voice": "bf_isabella",
+    "speed": 1.0,
+    "text": "You don't now. But you did a minute ago, just as serious. Oh, hello,"
+  },
+  {
+    "index": 101,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "he said suddenly, realizing she had her hand out. He laughed and shook it, blushing all the way to his blond hair.\n\nFrancesca returned."
+    "text": "he said suddenly, realizing she had her hand out. He laughed and shook it, blushing all the way to his blond hair."
   },
   {
-    "character": "Costanza",
+    "index": 102,
+    "character": "Narrator",
     "sex": "female",
-    "voice": "bf_lily",
+    "voice": "af_heart",
     "speed": 1.0,
-    "text": "\"Signora Fisher says she would be pleased to see you,\""
+    "text": "Francesca returned."
   },
   {
+    "index": 103,
+    "character": "Francesca",
+    "sex": "female",
+    "voice": "af_bella",
+    "speed": 1.0,
+    "text": "Signora Fisher says she would be pleased to see you,"
+  },
+  {
+    "index": 104,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -623,13 +840,15 @@
     "text": "she said."
   },
   {
+    "index": 105,
     "character": "Briggs",
-    "sex": "male",
-    "voice": "am_michael",
+    "sex": "female",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Who is Signora Fisher?\""
+    "text": "Who is Signora Fisher?"
   },
   {
+    "index": 106,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -637,118 +856,47 @@
     "text": "he asked Rose."
   },
   {
+    "index": 107,
     "character": "Rose",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"One of the four women sharing your house.\""
+    "text": "One of the four women sharing your house."
   },
   {
+    "index": 108,
     "character": "Briggs",
-    "sex": "male",
-    "voice": "am_michael",
+    "sex": "female",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"So there are four of you here?\""
+    "text": "So there are four of you here?"
   },
   {
+    "index": 109,
     "character": "Rose",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Yes. My friend and I realized we couldn't afford it on our own.\""
+    "text": "Yes. My friend and I realized we couldn't afford it on our own."
   },
   {
-    "character": "Briggs",
-    "sex": "male",
-    "voice": "am_michael",
-    "speed": 1.0,
-    "text": "\"Oh, I see—\""
-  },
-  {
+    "index": 110,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Briggs began, feeling a bit awkward. He wished Rose didn't have to worry about money and could just stay at San Salvatore as his guest."
+    "text": "\"Oh, I see—\" Briggs began, feeling a bit awkward. He wished Rose didn't have to worry about money and could just stay at San Salvatore as his guest."
   },
   {
+    "index": 111,
     "character": "Rose",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Mrs. Fisher is having coffee in the upper garden,\""
+    "text": "Mrs. Fisher is having coffee in the upper garden,"
   },
   {
-    "character": "Narrator",
-    "sex": "female",
-    "voice": "af_heart",
-    "speed": 1.0,
-    "text": "Rose said."
-  },
-  {
-    "character": "Rose",
-    "sex": "female",
-    "voice": "af_nicole",
-    "speed": 1.0,
-    "text": "\"I'll take you up and introduce you.\""
-  },
-  {
-    "character": "Briggs",
-    "sex": "male",
-    "voice": "am_michael",
-    "speed": 1.0,
-    "text": "\"I don't really want to go. You have your hat, so you were heading out for a walk. May I come along? I'd love for you to show me around.\""
-  },
-  {
-    "character": "Rose",
-    "sex": "female",
-    "voice": "af_nicole",
-    "speed": 1.0,
-    "text": "\"But Mrs. Fisher is waiting for you.\""
-  },
-  {
-    "character": "Frederick",
-    "sex": "male",
-    "voice": "am_michael",
-    "speed": 1.0,
-    "text": "\"Won't she keep?\""
-  },
-  {
-    "character": "Rose",
-    "sex": "female",
-    "voice": "af_nicole",
-    "speed": 1.0,
-    "text": "\"Yes,\""
-  },
-  {
-    "character": "Narrator",
-    "sex": "female",
-    "voice": "af_heart",
-    "speed": 1.0,
-    "text": "Rose said, with the same smile that had charmed him on their first meeting."
-  },
-  {
-    "character": "Rose",
-    "sex": "female",
-    "voice": "af_nicole",
-    "speed": 1.0,
-    "text": "\"I think she can wait until tea time.\""
-  },
-  {
-    "character": "Briggs",
-    "sex": "male",
-    "voice": "am_michael",
-    "speed": 1.0,
-    "text": "\"Do you speak Italian?\""
-  },
-  {
-    "character": "Rose",
-    "sex": "female",
-    "voice": "af_nicole",
-    "speed": 1.0,
-    "text": "\"No,\""
-  },
-  {
+    "index": 112,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -756,13 +904,71 @@
     "text": "Rose said."
   },
   {
+    "index": 113,
     "character": "Rose",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Why?\""
+    "text": "I'll take you up and introduce you."
   },
   {
+    "index": 114,
+    "character": "Briggs",
+    "sex": "female",
+    "voice": "bf_isabella",
+    "speed": 1.0,
+    "text": "I don't really want to go. You have your hat, so you were heading out for a walk. May I come along? I'd love for you to show me around."
+  },
+  {
+    "index": 115,
+    "character": "Rose",
+    "sex": "female",
+    "voice": "bf_isabella",
+    "speed": 1.0,
+    "text": "But Mrs. Fisher is waiting for you."
+  },
+  {
+    "index": 116,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Won't she keep?"
+  },
+  {
+    "index": 117,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "\"Yes,\" Rose said, with the same smile that had charmed him on their first meeting."
+  },
+  {
+    "index": 118,
+    "character": "Rose",
+    "sex": "female",
+    "voice": "bf_isabella",
+    "speed": 1.0,
+    "text": "I think she can wait until tea time."
+  },
+  {
+    "index": 119,
+    "character": "Briggs",
+    "sex": "female",
+    "voice": "bf_isabella",
+    "speed": 1.0,
+    "text": "Do you speak Italian?"
+  },
+  {
+    "index": 120,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "No,\" Rose said. \"Why?"
+  },
+  {
+    "index": 121,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -770,13 +976,15 @@
     "text": "At that, he turned to Francesca and told her quickly in fluent Italian to go back to Mrs. Fisher and say he had run into his old friend Mrs. Arbuthnot and was going for a walk with her, and would introduce himself later."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 122,
+    "character": "Briggs",
     "sex": "female",
-    "voice": "bf_alice",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Are you inviting me to tea?\""
+    "text": "Are you inviting me to tea?"
   },
   {
+    "index": 123,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -784,27 +992,31 @@
     "text": "he asked Rose once Francesca left."
   },
   {
+    "index": 124,
     "character": "Rose",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Of course. It's your house.\""
+    "text": "Of course. It's your house."
   },
   {
-    "character": "Costanza",
+    "index": 125,
+    "character": "Briggs",
     "sex": "female",
-    "voice": "bf_lily",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"It's not. It's yours.\""
+    "text": "It's not. It's yours."
   },
   {
+    "index": 126,
     "character": "Rose",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Only until next Monday,\""
+    "text": "Only until next Monday,"
   },
   {
+    "index": 127,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -812,13 +1024,15 @@
     "text": "she smiled."
   },
   {
-    "character": "Frederick",
-    "sex": "male",
-    "voice": "am_michael",
+    "index": 128,
+    "character": "Briggs",
+    "sex": "female",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Come show me the views,\""
+    "text": "Come show me the views,"
   },
   {
+    "index": 129,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",

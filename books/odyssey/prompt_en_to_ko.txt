@@ -1,0 +1,15 @@
+Translate the following modernized English text of "The Odyssey" into high-quality, natural, and expressive Korean. 
+
+Follow these translation rules to add beautiful literary color and ensure the best readability:
+1. **Storytelling Tone:** Write in an elegant, storytelling narrative voice. Use a classic novel style with natural endings (such as 하십시오체/해라체 mix typical of high fantasy and epic historical fiction) to fit the grand tone of the epic.
+2. **Kinship & Social Realism:** Do not use literal word-for-word translations for relationships. Instead, use natural Korean honorifics and family titles (e.g., replace generic "brother" with "형" or "동생" depending on who is older, and refer to "father Nestor" as "아버지 네스토르" respectfully).
+3. **Natural Idioms over Literal Phrasing:** 
+   - Avoid modern English sentence structures (e.g., "Only then..." -> "그제야...", "took his hand" -> "손을 맞잡았다", "fell asleep" -> "단잠에 빠져들었다").
+   - Make the description of feasts, battle, and sea journeys rich and vivid.
+4. **Punctuation & Flow for Reading/TTS:** 
+   - Keep sentences flowing naturally.
+   - Do not include brackets, meta-annotations, or formatting marks.
+   - Ensure the output is clean text, paragraph by paragraph.
+5. **Name Preservation:** Retain the Greek naming convention (Odysseus, Athena, Zeus, Telemachus, Nestor, Menelaus, Poseidon, Hermes, etc.) transliterated accurately into standard Korean (오디세우스, 아테나, 제우스, 텔레마코스, 네스토르, 메넬라오스, 포세이돈, 헤르메스 등).
+
+Output ONLY the Korean translation. Do not include any notes, explanations, or English text.

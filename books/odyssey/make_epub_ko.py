@@ -7,6 +7,7 @@ import os
 import zipfile
 import uuid
 import re
+import html
 from datetime import datetime, timezone
 
 # ── Paths ────────────────────────────────────────────────────────────────────
@@ -68,11 +69,11 @@ def txt_to_html(text, title):
         f"<!DOCTYPE html>",
         f"<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">",
         f"<head>",
-        f"  <title>{title}</title>",
+        f"  <title>{html.escape(title)}</title>",
         f"  <link rel=\"stylesheet\" href=\"../Styles/main.css\" type=\"text/css\"/>",
         f"</head>",
         f"<body>",
-        f"<h1>{title}</h1>"
+        f"<h1>{html.escape(title)}</h1>"
     ]
     
     is_first_p = True
@@ -86,14 +87,15 @@ def txt_to_html(text, title):
         
         # Check for headings or regular paragraphs
         if line.startswith("[") and line.endswith("]"):
-            html_parts.append(f"<h2>{line[1:-1]}</h2>")
+            html_parts.append(f"<h2>{html.escape(line[1:-1])}</h2>")
             is_first_p = True
         else:
+            escaped_line = html.escape(line)
             if is_first_p:
-                html_parts.append(f"<p class=\"no-indent\">{line}</p>")
+                html_parts.append(f"<p class=\"no-indent\">{escaped_line}</p>")
                 is_first_p = False
             else:
-                html_parts.append(f"<p>{line}</p>")
+                html_parts.append(f"<p>{escaped_line}</p>")
 
     html_parts.append("</body>")
     html_parts.append("</html>")
@@ -227,7 +229,7 @@ def main():
     for ch in chapters:
         play_order += 1
         ncx_parts.append(f"    <navPoint id=\"navPoint-{play_order}\" playOrder=\"{play_order}\">")
-        ncx_parts.append(f"      <navLabel><text>{ch['title']}</text></navLabel>")
+        ncx_parts.append(f"      <navLabel><text>{html.escape(ch['title'])}</text></navLabel>")
         ncx_parts.append(f"      <content src=\"{ch['href']}\"/>")
         ncx_parts.append(f"    </navPoint>")
         
@@ -257,7 +259,7 @@ def main():
     ]
     
     for ch in chapters:
-        nav_parts.append(f"      <li><a href=\"{ch['href']}\">{ch['title']}</a></li>")
+        nav_parts.append(f"      <li><a href=\"{ch['href']}\">{html.escape(ch['title'])}</a></li>")
         
     nav_parts.append("    </ol>")
     nav_parts.append("  </nav>")

@@ -1,103 +1,222 @@
 [
   {
+    "index": 0,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Chapter 4\n\nIt had been arranged that Mrs. Arbuthnot and Mrs. Wilkins, traveling together, would arrive at San Salvatore on the evening of March 31st. The owner, who had given them directions, understood their desire to avoid starting their vacation on April Fool's Day. Lady Caroline and Mrs. Fisher, who didn't know each other yet and were under no obligation to keep each other company on the journey, were to arrive on the morning of April 2nd. This way, everything would be prepared for the two who, despite paying equal shares, felt a bit like guests.\n\nThe end of March brought some very difficult moments. Mrs. Wilkins, with her heart in her throat and her face showing a mix of guilt, fear, and determination, finally told her husband that she had been invited to Italy. He refused to believe it. Of course he refused to believe it; nobody had ever invited his wife to Italy before. There was no precedent for such a thing. He demanded proof. The only proof was Mrs. Arbuthnot, and Mrs. Wilkins succeeded in bringing her over—but only after desperate begging and pleading. Mrs. Arbuthnot had never expected to face Mr. Wilkins and tell him something that wasn't the whole truth, and the experience made her realize what she had suspected for a while: she was drifting further and further from her high moral standards.\n\nIndeed, the entire month of March was full of anxious, unpleasant moments. It was an uneasy month. Mrs. Arbuthnot’s conscience, which she had pampered for years, could not reconcile what she was doing with her high standards of right and wrong. It gave her no peace. It nudged her during her prayers. It interrupted her requests for divine guidance with uncomfortable questions, like,"
+    "text": "Chapter 4"
   },
   {
-    "character": "Rose",
-    "sex": "female",
-    "voice": "af_nicole",
-    "speed": 1.0,
-    "text": "\"Aren't you a hypocrite? Do you really mean that? Wouldn't you actually be disappointed if your prayer was answered?\""
-  },
-  {
+    "index": 1,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "The long-lasting cold, wet weather also sided with her conscience, causing far more sickness than usual among the poor. They had bronchitis, fevers, and endless distress. And here she was, spending precious money on a trip just to make herself happy. One woman indulging herself while crowds of people suffered...\n\nShe couldn't look the vicar in the eye. He didn't know, and nobody else knew, what she was planning to do. From the very beginning, she couldn't look anyone in the face. She made excuses to avoid giving charity speeches. How could she stand up and beg people for money when she was spending so much on her own selfish pleasure? \n\nNor did it help her conscience when she asked Frederick for money. In an attempt to make up for the savings she was spending, she told him she would be grateful if he could give her some money, and he immediately wrote her a check for one hundred pounds. He asked no questions. She blushed deeply. He looked at her for a moment and then looked away. It was actually a relief to Frederick that she was willing to take some money from him. She immediately gave the entire sum to her charity organization, but this only made her feel more tangled in moral doubts than ever.\n\nMrs. Wilkins, on the other hand, had no such doubts. She was convinced that taking a vacation was perfectly appropriate, and that spending her hard-earned savings on happiness was right and beautiful."
+    "text": "It had been arranged that Mrs. Arbuthnot and Mrs. Wilkins, traveling together, would arrive at San Salvatore on the evening of March 31st. The owner, who had given them directions, understood their desire to avoid starting their vacation on April Fool's Day. Lady Caroline and Mrs. Fisher, who didn't know each other yet and were under no obligation to keep each other company on the journey, were to arrive on the morning of April 2nd. This way, everything would be prepared for the two who, despite paying equal shares, felt a bit like guests."
   },
   {
+    "index": 2,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "The end of March brought some very difficult moments. Mrs. Wilkins, with her heart in her throat and her face showing a mix of guilt, fear, and determination, finally told her husband that she had been invited to Italy. He refused to believe it. Of course he refused to believe it; nobody had ever invited his wife to Italy before. There was no precedent for such a thing. He demanded proof. The only proof was Mrs. Arbuthnot, and Mrs. Wilkins succeeded in bringing her over—but only after desperate begging and pleading. Mrs. Arbuthnot had never expected to face Mr. Wilkins and tell him something that wasn't the whole truth, and the experience made her realize what she had suspected for a while: she was drifting further and further from her high moral standards."
+  },
+  {
+    "index": 3,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Indeed, the entire month of March was full of anxious, unpleasant moments. It was an uneasy month. Mrs. Arbuthnot’s conscience, which she had pampered for years, could not reconcile what she was doing with her high standards of right and wrong. It gave her no peace. It nudged her during her prayers. It interrupted her requests for divine guidance with uncomfortable questions, like, \"Aren't you a hypocrite? Do you really mean that? Wouldn't you actually be disappointed if your prayer was answered?\""
+  },
+  {
+    "index": 4,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "The long-lasting cold, wet weather also sided with her conscience, causing far more sickness than usual among the poor. They had bronchitis, fevers, and endless distress. And here she was, spending precious money on a trip just to make herself happy. One woman indulging herself while crowds of people suffered..."
+  },
+  {
+    "index": 5,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "She couldn't look the vicar in the eye. He didn't know, and nobody else knew, what she was planning to do. From the very beginning, she couldn't look anyone in the face. She made excuses to avoid giving charity speeches. How could she stand up and beg people for money when she was spending so much on her own selfish pleasure?"
+  },
+  {
+    "index": 6,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Nor did it help her conscience when she asked Frederick for money. In an attempt to make up for the savings she was spending, she told him she would be grateful if he could give her some money, and he immediately wrote her a check for one hundred pounds. He asked no questions. She blushed deeply. He looked at her for a moment and then looked away. It was actually a relief to Frederick that she was willing to take some money from him. She immediately gave the entire sum to her charity organization, but this only made her feel more tangled in moral doubts than ever."
+  },
+  {
+    "index": 7,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Mrs. Wilkins, on the other hand, had no such doubts. She was convinced that taking a vacation was perfectly appropriate, and that spending her hard-earned savings on happiness was right and beautiful."
+  },
+  {
+    "index": 8,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
     "speed": 1.0,
-    "text": "\"Think of how much nicer we will be when we get back,\""
+    "text": "Think of how much nicer we will be when we get back,"
   },
   {
+    "index": 9,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "she said to Mrs. Arbuthnot, trying to cheer up her pale friend.\n\nNo, Mrs. Wilkins had no doubts, but she did have fears. March was a stressful month for her as well, with Mr. Wilkins coming home daily for dinner and eating his fish in the silence of false security.\n\nFurthermore, life has a way of happening at the most inconvenient times. It really is amazing how awkward things can get. Mrs. Wilkins, who was very careful all month to cook only the foods Mellersh liked, shopping and hovering over the stove with unusual care, succeeded so well that Mellersh was actually pleased. He was so pleased that he began to think he might have married the right wife after all, instead of the wrong one, as he had often suspected. \n\nThe result was that on the third Sunday of the month—Mrs. Wilkins had planned to break the news on the fourth Sunday, since there were five Sundays in March and they were leaving on the fifth—after a wonderful lunch where the Yorkshire pudding melted in his mouth and the apricot tart was so good he ate the whole thing, Mellersh sat by the warm fire as hail pelted the window and said,"
+    "text": "she said to Mrs. Arbuthnot, trying to cheer up her pale friend."
   },
   {
+    "index": 10,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "No, Mrs. Wilkins had no doubts, but she did have fears. March was a stressful month for her as well, with Mr. Wilkins coming home daily for dinner and eating his fish in the silence of false security."
+  },
+  {
+    "index": 11,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Furthermore, life has a way of happening at the most inconvenient times. It really is amazing how awkward things can get. Mrs. Wilkins, who was very careful all month to cook only the foods Mellersh liked, shopping and hovering over the stove with unusual care, succeeded so well that Mellersh was actually pleased. He was so pleased that he began to think he might have married the right wife after all, instead of the wrong one, as he had often suspected."
+  },
+  {
+    "index": 12,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "The result was that on the third Sunday of the month—Mrs. Wilkins had planned to break the news on the fourth Sunday, since there were five Sundays in March and they were leaving on the fifth—after a wonderful lunch where the Yorkshire pudding melted in his mouth and the apricot tart was so good he ate the whole thing, Mellersh sat by the warm fire as hail pelted the window and said,"
+  },
+  {
+    "index": 13,
     "character": "Mellersh",
-    "sex": "male",
-    "voice": "am_michael",
+    "sex": "female",
+    "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"I am thinking of taking you to Italy for Easter.\""
+    "text": "I am thinking of taking you to Italy for Easter."
   },
   {
+    "index": 14,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "He then paused, waiting for her shocked and grateful excitement.\n\nNone came. The room was completely silent, except for the hail hitting the window and the crackle of the fire. Mrs. Wilkins couldn't speak. She was dumbfounded. The next Sunday was the day she had planned to tell him, and she hadn't even figured out what she was going to say yet.\n\nMr. Wilkins, who hadn't traveled abroad since before the war, had grown increasingly disgusted by the persistent rain and wind. He had slowly decided he wanted to escape England for Easter. His business was doing well, and he could easily afford a trip. Switzerland was pointless in April, but Easter in Italy sounded classic. He would go to Italy, and since it would look bad if he didn't take his wife, he decided to bring her along. Besides, a second person is always useful in a country where you don't speak the language—useful for holding things and waiting with the luggage.\n\nHe had expected her to be thrilled. The lack of any reaction was unbelievable. He concluded she hadn't heard him. She was probably lost in some silly daydream. It was a shame how childish she remained.\n\nHe turned his head—their chairs were facing the fire—and looked at her. She was staring straight into the flames, which must have been why her face was so red."
+    "text": "He then paused, waiting for her shocked and grateful excitement."
   },
   {
+    "index": 15,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "None came. The room was completely silent, except for the hail hitting the window and the crackle of the fire. Mrs. Wilkins couldn't speak. She was dumbfounded. The next Sunday was the day she had planned to tell him, and she hadn't even figured out what she was going to say yet."
+  },
+  {
+    "index": 16,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Mr. Wilkins, who hadn't traveled abroad since before the war, had grown increasingly disgusted by the persistent rain and wind. He had slowly decided he wanted to escape England for Easter. His business was doing well, and he could easily afford a trip. Switzerland was pointless in April, but Easter in Italy sounded classic. He would go to Italy, and since it would look bad if he didn't take his wife, he decided to bring her along. Besides, a second person is always useful in a country where you don't speak the language—useful for holding things and waiting with the luggage."
+  },
+  {
+    "index": 17,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "He had expected her to be thrilled. The lack of any reaction was unbelievable. He concluded she hadn't heard him. She was probably lost in some silly daydream. It was a shame how childish she remained."
+  },
+  {
+    "index": 18,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "He turned his head—their chairs were facing the fire—and looked at her. She was staring straight into the flames, which must have been why her face was so red."
+  },
+  {
+    "index": 19,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "\"I am thinking,\" he repeated in a loud, clear, educated voice, speaking sharply because her lack of attention was unacceptable,"
+  },
+  {
+    "index": 20,
     "character": "Mellersh",
-    "sex": "male",
-    "voice": "am_michael",
+    "sex": "female",
+    "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"I am thinking,\""
+    "text": "of taking you to Italy for Easter. Did you hear me?"
   },
   {
+    "index": 21,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "he repeated in a loud, clear, educated voice, speaking sharply because her lack of attention was unacceptable,"
+    "text": "Yes, she had heard him, and she had been marveling at the incredible coincidence—really most extraordinary! She was just about to tell him how... how she had been invited by a friend... Easter, too... Easter was in April, wasn't it? Her friend had a house there."
   },
   {
-    "character": "Mellersh",
-    "sex": "male",
-    "voice": "am_michael",
-    "speed": 1.0,
-    "text": "\"of taking you to Italy for Easter. Did you hear me?\""
-  },
-  {
+    "index": 22,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Yes, she had heard him, and she had been marveling at the incredible coincidence—really most extraordinary! She was just about to tell him how... how she had been invited by a friend... Easter, too... Easter was in April, wasn't it? Her friend had a house there.\n\nIn fact, driven by fear, guilt, and surprise, Mrs. Wilkins had been even more disorganized and rambling than usual.\n\nIt was a terrible afternoon. Mellersh, deeply offended that his planned treat was ruined, questioned her with extreme severity. He demanded that she refuse the invitation. He insisted that since she had accepted it without consulting him, she write to cancel. Finding her unexpectedly stubborn, he then claimed he didn't believe she had been invited to Italy at all. He refused to believe in this"
+    "text": "In fact, driven by fear, guilt, and surprise, Mrs. Wilkins had been even more disorganized and rambling than usual."
   },
   {
-    "character": "Mellersh",
-    "sex": "male",
-    "voice": "am_michael",
-    "speed": 1.0,
-    "text": "\"Mrs. Arbuthnot\""
-  },
-  {
+    "index": 23,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "he had never heard of before. \n\nIt was only when the gentle Mrs. Arbuthnot was brought over—with great difficulty, since she hated saying anything less than the whole truth—and verified his wife's story that he finally believed them. He couldn't help but believe Mrs. Arbuthnot; she had the same effect on him as she did on transit workers. She barely had to say a word. But that didn't help her conscience, which kept reminding her that she had left him with an incomplete impression. Do you see any real difference, her conscience asked, between an incomplete impression and a flat-out lie? God sees none.\n\nThe rest of March felt like a bad dream. Both Mrs. Arbuthnot and Mrs. Wilkins were exhausted and felt terribly guilty. When they finally left on the morning of the 30th, there was no excitement or holiday feeling at all."
+    "text": "It was a terrible afternoon. Mellersh, deeply offended that his planned treat was ruined, questioned her with extreme severity. He demanded that she refuse the invitation. He insisted that since she had accepted it without consulting him, she write to cancel. Finding her unexpectedly stubborn, he then claimed he didn't believe she had been invited to Italy at all. He refused to believe in this \"Mrs. Arbuthnot\" he had never heard of before."
   },
   {
+    "index": 24,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "It was only when the gentle Mrs. Arbuthnot was brought over—with great difficulty, since she hated saying anything less than the whole truth—and verified his wife's story that he finally believed them. He couldn't help but believe Mrs. Arbuthnot; she had the same effect on him as she did on transit workers. She barely had to say a word. But that didn't help her conscience, which kept reminding her that she had left him with an incomplete impression. Do you see any real difference, her conscience asked, between an incomplete impression and a flat-out lie? God sees none."
+  },
+  {
+    "index": 25,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "The rest of March felt like a bad dream. Both Mrs. Arbuthnot and Mrs. Wilkins were exhausted and felt terribly guilty. When they finally left on the morning of the 30th, there was no excitement or holiday feeling at all."
+  },
+  {
+    "index": 26,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
     "speed": 1.0,
-    "text": "\"We've been too good—much too good,\""
+    "text": "We've been too good—much too good,"
   },
   {
+    "index": 27,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -105,31 +224,43 @@
     "text": "Mrs. Wilkins kept whispering as they walked up and down the platform at Victoria Station, having arrived an hour earlier than necessary."
   },
   {
+    "index": 28,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
     "speed": 1.0,
-    "text": "\"And that's why we feel like we're doing something wrong. We've been browbeaten. We aren't even real human beings anymore. Real human beings are never as good as we've been. To think we should be so happy right now, actually starting our trip, and it's ruined just because we've spoiled them! What have we done, I'd like to know, except want to go away by ourselves for once and get a little rest from them?\""
+    "text": "And that's why we feel like we're doing something wrong. We've been browbeaten. We aren't even real human beings anymore. Real human beings are never as good as we've been. To think we should be so happy right now, actually starting our trip, and it's ruined just because we've spoiled them! What have we done, I'd like to know, except want to go away by ourselves for once and get a little rest from them?"
   },
   {
+    "index": 29,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Arbuthnot paced patiently, not asking who"
+    "text": "Mrs. Arbuthnot paced patiently, not asking who \"them\" referred to because she already knew. Mrs. Wilkins meant their husbands, assuming Frederick was just as angry as Mellersh about his wife leaving. In reality, Frederick didn't even know his wife was gone."
   },
   {
-    "character": "Mellersh",
-    "sex": "male",
-    "voice": "am_michael",
-    "speed": 1.0,
-    "text": "\"them\""
-  },
-  {
+    "index": 30,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "referred to because she already knew. Mrs. Wilkins meant their husbands, assuming Frederick was just as angry as Mellersh about his wife leaving. In reality, Frederick didn't even know his wife was gone.\n\nMrs. Arbuthnot, who never spoke about him, had said nothing of this to Mrs. Wilkins. Frederick was too close to her heart to discuss. He was busy finishing another one of his scandalous books and had been away almost constantly for the past few weeks, including the day she left. Why should she tell him beforehand? Certain that he wouldn't care what she did, she simply wrote him a note and left it on the entry table. She wrote that she was going on a month's holiday because she needed a rest, and that Gladys, the capable maid, had instructions to take care of him. She didn't say where she was going; there was no reason to, as he wouldn't care.\n\nThe day of departure was miserable, windy, and wet. The English Channel crossing was terrible, and they were both very seasick. But once they arrived in Calais and stopped being sick, they felt a wave of happiness. It was there that the true excitement of their adventure finally began to warm their spirits. It hit Mrs. Wilkins first, and spread like a warm glow to her pale companion. \n\nBy the time they reached Calais, where they ordered sole—Mrs. Wilkins specifically wanted to eat a sole that Mellersh wasn't having—Mellersh had already begun to seem less important. None of the French porters knew him, and not a single official in Calais cared a bit about Mellersh. In Paris, they had no time to think about him because their train was late and they barely caught the connection to Turin. By the afternoon of the next day, as they entered Italy, England, Frederick, Mellersh, the vicar, the poor, Hampstead, the club, Shoolbred's, and their endless worries had all faded away like a half-remembered dream."
+    "text": "Mrs. Arbuthnot, who never spoke about him, had said nothing of this to Mrs. Wilkins. Frederick was too close to her heart to discuss. He was busy finishing another one of his scandalous books and had been away almost constantly for the past few weeks, including the day she left. Why should she tell him beforehand? Certain that he wouldn't care what she did, she simply wrote him a note and left it on the entry table. She wrote that she was going on a month's holiday because she needed a rest, and that Gladys, the capable maid, had instructions to take care of him. She didn't say where she was going; there was no reason to, as he wouldn't care."
+  },
+  {
+    "index": 31,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "The day of departure was miserable, windy, and wet. The English Channel crossing was terrible, and they were both very seasick. But once they arrived in Calais and stopped being sick, they felt a wave of happiness. It was there that the true excitement of their adventure finally began to warm their spirits. It hit Mrs. Wilkins first, and spread like a warm glow to her pale companion."
+  },
+  {
+    "index": 32,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "By the time they reached Calais, where they ordered sole—Mrs. Wilkins specifically wanted to eat a sole that Mellersh wasn't having—Mellersh had already begun to seem less important. None of the French porters knew him, and not a single official in Calais cared a bit about Mellersh. In Paris, they had no time to think about him because their train was late and they barely caught the connection to Turin. By the afternoon of the next day, as they entered Italy, England, Frederick, Mellersh, the vicar, the poor, Hampstead, the club, Shoolbred's, and their endless worries had all faded away like a half-remembered dream."
   }
 ]

@@ -468,7 +468,7 @@ def parse_chapter_text(filepath, lang, book_name):
     return script_items
 
 def main():
-    base_dir = r"d:\git_repo\thefirstaicompany\books"
+    base_dir = os.path.dirname(os.path.abspath(__file__))
     print("Starting chapter script preparation...")
     
     # Find all chapter files across the 10 books

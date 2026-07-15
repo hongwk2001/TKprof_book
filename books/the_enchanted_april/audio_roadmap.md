@@ -75,9 +75,9 @@ flowchart TD
 | **Stage 1** | Backup existing single-voice files | ✅ Done |
 | **Stage 2** | Subagent dialogue tagging (EN & KO) | ✅ Done |
 | **Stage 3** | Define Kokoro voice JSON mapping | ✅ Done |
-| **Stage 4** | Generate Kokoro multi-voice audio | ✅ Done (Scripts Upgraded & Tested. English stray lines removed from KO Ch 1, 2, 12, 13, 14. Outputs generated as `_fixed.mp3`) |
-| **Stage 5** | Run post-processing correction engine | ✅ Done for Korean (all 26 files corrected), ⬜ Pending for English |
-| **Stage 6** | Merge Parts and run final QC audit | ✅ Final QC audit passed for Korean (26/26 passed), ⬜ Pending for English |
+| **Stage 4** | Generate Kokoro multi-voice audio | ✅ Done (Korean generated. English intro, overview, and closing tracks generated. Main English chapter dialogue regeneration skipped for now per user decision.) |
+| **Stage 5** | Run post-processing correction engine | ✅ Done (All 26 Korean files and 26 English files normalized and corrected) |
+| **Stage 6** | Merge Parts and run final QC audit | ✅ Final QC audit passed for Korean (26/26 passed) and English (26/26 passed) |
 
 ---
 

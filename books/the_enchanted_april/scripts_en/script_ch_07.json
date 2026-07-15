@@ -1,19 +1,62 @@
 [
   {
+    "index": 0,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Chapter 7\n\n\nTheir eyes followed her admiringly. They had no idea they had just been snubbed. Of course, it was a disappointment to find she had beaten them to it, depriving them of the joy of preparing her room and seeing her reaction when she first arrived. But at least they still had Mrs. Fisher. They would focus on Mrs. Fisher and watch her face instead—though, like everyone else, they would have preferred to watch Lady Caroline's.\n\nSince Lady Caroline had mentioned breakfast, they figured they should go eat too. There was far too much to do that day to spend any more time looking at the views—they had to meet the servants, inspect the house, and finally get Mrs. Fisher's room ready and decorated.\n\nThey waved cheerfully at Lady Caroline, who seemed too absorbed in the view to notice. Turning away, they saw that the maid from the night before had walked up silently behind them in cloth slippers with rope soles.\n\nShe was Francesca, the elderly maid who had worked for the owner for years, making a property inventory unnecessary. After wishing them good morning and hoping they had slept well, she told them that breakfast was ready in the dining room downstairs and asked them to follow her.\n\nThey didn't understand a single word of Francesca's lengthy Italian explanation, but they followed her anyway because it was obvious they were supposed to. Walking downstairs and through a wide hallway—which looked just like the one upstairs, except it had glass doors opening to the garden instead of a window—they were shown into the dining room. There, sitting at the head of the table and eating breakfast, was Mrs. Fisher.\n\nThis time, they both gasped. Even Mrs. Arbuthnot let out an surprised"
+    "text": "Chapter 7"
   },
   {
-    "character": "Rose",
+    "index": 1,
+    "character": "Narrator",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "af_heart",
     "speed": 1.0,
-    "text": "\"Oh.\""
+    "text": "Their eyes followed her admiringly. They had no idea they had just been snubbed. Of course, it was a disappointment to find she had beaten them to it, depriving them of the joy of preparing her room and seeing her reaction when she first arrived. But at least they still had Mrs. Fisher. They would focus on Mrs. Fisher and watch her face instead—though, like everyone else, they would have preferred to watch Lady Caroline's."
   },
   {
+    "index": 2,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Since Lady Caroline had mentioned breakfast, they figured they should go eat too. There was far too much to do that day to spend any more time looking at the views—they had to meet the servants, inspect the house, and finally get Mrs. Fisher's room ready and decorated."
+  },
+  {
+    "index": 3,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "They waved cheerfully at Lady Caroline, who seemed too absorbed in the view to notice. Turning away, they saw that the maid from the night before had walked up silently behind them in cloth slippers with rope soles."
+  },
+  {
+    "index": 4,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "She was Francesca, the elderly maid who had worked for the owner for years, making a property inventory unnecessary. After wishing them good morning and hoping they had slept well, she told them that breakfast was ready in the dining room downstairs and asked them to follow her."
+  },
+  {
+    "index": 5,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "They didn't understand a single word of Francesca's lengthy Italian explanation, but they followed her anyway because it was obvious they were supposed to. Walking downstairs and through a wide hallway—which looked just like the one upstairs, except it had glass doors opening to the garden instead of a window—they were shown into the dining room. There, sitting at the head of the table and eating breakfast, was Mrs. Fisher."
+  },
+  {
+    "index": 6,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "This time, they both gasped. Even Mrs. Arbuthnot let out an surprised \"Oh.\""
+  },
+  {
+    "index": 7,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -21,13 +64,15 @@
     "text": "Mrs. Wilkins had more to say."
   },
   {
+    "index": 8,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
     "speed": 1.0,
-    "text": "\"Why, it's like having the bread snatched right out of our mouths!\""
+    "text": "Why, it's like having the bread snatched right out of our mouths!"
   },
   {
+    "index": 9,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -35,13 +80,15 @@
     "text": "she exclaimed."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 10,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"How do you do,\""
+    "text": "How do you do,"
   },
   {
+    "index": 11,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -49,27 +96,39 @@
     "text": "Mrs. Fisher said."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 12,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"I can't get up because of my walking stick.\""
+    "text": "I can't get up because of my walking stick."
   },
   {
+    "index": 13,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "She reached out her hand across the table.\n\nThey walked over and shook her hand."
+    "text": "She reached out her hand across the table."
   },
   {
+    "index": 14,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "They walked over and shook her hand."
+  },
+  {
+    "index": 15,
     "character": "Rose",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"We had no idea you were already here,\""
+    "text": "We had no idea you were already here,"
   },
   {
+    "index": 16,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -77,27 +136,23 @@
     "text": "Mrs. Arbuthnot said."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "\"Yes,\""
-  },
-  {
+    "index": 17,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher replied, returning to her breakfast."
+    "text": "\"Yes,\" Mrs. Fisher replied, returning to her breakfast."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 18,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"Yes, I am here.\""
+    "text": "Yes, I am here."
   },
   {
+    "index": 19,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -105,13 +160,15 @@
     "text": "She calmly cracked the top off her soft-boiled egg."
   },
   {
+    "index": 20,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
     "speed": 1.0,
-    "text": "\"It's a big disappointment,\""
+    "text": "It's a big disappointment,"
   },
   {
+    "index": 21,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -119,34 +176,47 @@
     "text": "Mrs. Wilkins said."
   },
   {
+    "index": 22,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
     "speed": 1.0,
-    "text": "\"We were planning to give you such a warm welcome.\""
+    "text": "We were planning to give you such a warm welcome."
   },
   {
+    "index": 23,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher glanced at her and remembered that this was the woman who claimed to have seen Keats during their meeting in London. She decided she had to be careful with her and set boundaries right from the start.\n\nIgnoring Mrs. Wilkins, she looked down calmly at her egg and said seriously,"
+    "text": "Mrs. Fisher glanced at her and remembered that this was the woman who claimed to have seen Keats during their meeting in London. She decided she had to be careful with her and set boundaries right from the start."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 24,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Ignoring Mrs. Wilkins, she looked down calmly at her egg and said seriously,"
+  },
+  {
+    "index": 25,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"Yes. I arrived yesterday with Lady Caroline.\""
+    "text": "Yes. I arrived yesterday with Lady Caroline."
   },
   {
+    "index": 26,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
     "speed": 1.0,
-    "text": "\"It's really too bad,\""
+    "text": "It's really too bad,"
   },
   {
+    "index": 27,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -154,20 +224,23 @@
     "text": "Mrs. Wilkins said, completely ignoring the snub."
   },
   {
+    "index": 28,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
     "speed": 1.0,
-    "text": "\"Now there's no one left for us to prepare for. I feel disappointed, like someone took away my food just as I was about to enjoy eating it.\""
+    "text": "Now there's no one left for us to prepare for. I feel disappointed, like someone took away my food just as I was about to enjoy eating it."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 29,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"Where would you like to sit?\""
+    "text": "Where would you like to sit?"
   },
   {
+    "index": 30,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -175,41 +248,47 @@
     "text": "Mrs. Fisher asked Mrs. Arbuthnot, pointedly ignoring Mrs. Wilkins. The comparison to food and mouths seemed very vulgar to her."
   },
   {
-    "character": "Rose",
-    "sex": "female",
-    "voice": "af_nicole",
-    "speed": 1.0,
-    "text": "\"Oh, thank you—\""
-  },
-  {
+    "index": 31,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Arbuthnot said, sitting down quickly next to her. There were only two empty seats, one on either side of Mrs. Fisher. She took one, and Mrs. Wilkins sat down opposite her in the other.\n\nMrs. Fisher sat at the head of the table, surrounded by the coffee and tea pots. Even though they were all sharing the expenses of San Salvatore equally, Mrs. Arbuthnot couldn't help reflecting that she and Lotty were the ones who had found the place, done the work of renting it, and agreed to let Mrs. Fisher join them. Without them, Mrs. Fisher wouldn't even be here. In a way, Mrs. Fisher was their guest. There was no official host, but if there were, it should have been either herself or Lotty, not Mrs. Fisher or Lady Caroline. Mrs. Arbuthnot felt this quite clearly as she sat down. Mrs. Fisher hovered her hand over the pots—the same hand that the famous writer Ruskin had once shaken—and asked,"
+    "text": "\"Oh, thank you—\" Mrs. Arbuthnot said, sitting down quickly next to her. There were only two empty seats, one on either side of Mrs. Fisher. She took one, and Mrs. Wilkins sat down opposite her in the other."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "\"Tea or coffee?\""
-  },
-  {
+    "index": 32,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "The feeling grew stronger when Mrs. Fisher rang a small gong on the table as if she owned the place, and when Francesca appeared, ordered her in formal Italian to bring more milk. Mrs. Fisher had a strange way of acting like she was in charge, and if Mrs. Arbuthnot hadn't been so happy, she might have been annoyed by it.\n\nMrs. Wilkins noticed it too, but it only made her random thoughts turn to cuckoos—birds that take over other birds' nests. If she had been as nervous and shy as during their first meeting, she probably would have blurted out something incoherent and embarrassing about cuckoos. But her happiness had cured her shyness. She felt very calm and in control of what she said, without the fear of saying something foolish. She was completely at ease and natural. Her disappointment about not welcoming Mrs. Fisher vanished immediately, since it was impossible to feel down in such a paradise. She didn't even mind Mrs. Fisher playing the host. What did it matter? You didn't care about things like that here. So she and Mrs. Arbuthnot sat down happily on either side of Mrs. Fisher. The sun flooded the room through two east-facing windows, and an open door led to a garden filled with beautiful flowers, especially freesias.\n\nThe sweet, delicate scent of the freesias drifted through the door. Back in London, freesias were far too expensive for her. Sometimes she would go into a flower shop just to ask the price so she could smell them, knowing they cost a ridiculous amount for just a few stems. Here, they grew everywhere—sprouting from every corner and covering the rose beds. Imagine being able to pick armfuls of freesias whenever you wanted, in the warm sunshine, wearing a summer dress, and all on the first of April!"
+    "text": "Mrs. Fisher sat at the head of the table, surrounded by the coffee and tea pots. Even though they were all sharing the expenses of San Salvatore equally, Mrs. Arbuthnot couldn't help reflecting that she and Lotty were the ones who had found the place, done the work of renting it, and agreed to let Mrs. Fisher join them. Without them, Mrs. Fisher wouldn't even be here. In a way, Mrs. Fisher was their guest. There was no official host, but if there were, it should have been either herself or Lotty, not Mrs. Fisher or Lady Caroline. Mrs. Arbuthnot felt this quite clearly as she sat down. Mrs. Fisher hovered her hand over the pots—the same hand that the famous writer Ruskin had once shaken—and asked, \"Tea or coffee?\" The feeling grew stronger when Mrs. Fisher rang a small gong on the table as if she owned the place, and when Francesca appeared, ordered her in formal Italian to bring more milk. Mrs. Fisher had a strange way of acting like she was in charge, and if Mrs. Arbuthnot hadn't been so happy, she might have been annoyed by it."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 33,
+    "character": "Narrator",
     "sex": "female",
-    "voice": "bf_alice",
+    "voice": "af_heart",
     "speed": 1.0,
-    "text": "\"I suppose you realize that we've arrived in heaven, don't you?\""
+    "text": "Mrs. Wilkins noticed it too, but it only made her random thoughts turn to cuckoos—birds that take over other birds' nests. If she had been as nervous and shy as during their first meeting, she probably would have blurted out something incoherent and embarrassing about cuckoos. But her happiness had cured her shyness. She felt very calm and in control of what she said, without the fear of saying something foolish. She was completely at ease and natural. Her disappointment about not welcoming Mrs. Fisher vanished immediately, since it was impossible to feel down in such a paradise. She didn't even mind Mrs. Fisher playing the host. What did it matter? You didn't care about things like that here. So she and Mrs. Arbuthnot sat down happily on either side of Mrs. Fisher. The sun flooded the room through two east-facing windows, and an open door led to a garden filled with beautiful flowers, especially freesias."
   },
   {
+    "index": 34,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "The sweet, delicate scent of the freesias drifted through the door. Back in London, freesias were far too expensive for her. Sometimes she would go into a flower shop just to ask the price so she could smell them, knowing they cost a ridiculous amount for just a few stems. Here, they grew everywhere—sprouting from every corner and covering the rose beds. Imagine being able to pick armfuls of freesias whenever you wanted, in the warm sunshine, wearing a summer dress, and all on the first of April!"
+  },
+  {
+    "index": 35,
+    "character": "Lotty",
+    "sex": "female",
+    "voice": "af_bella",
+    "speed": 1.0,
+    "text": "I suppose you realize that we've arrived in heaven, don't you?"
+  },
+  {
+    "index": 36,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -217,41 +296,31 @@
     "text": "she said, smiling at Mrs. Fisher like a fellow angel."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "\"They are much younger than I expected,\""
-  },
-  {
+    "index": 37,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher thought,"
+    "text": "\"They are much younger than I expected,\" Mrs. Fisher thought, \"and not nearly as plain.\" She ignored Mrs. Wilkins's excitement and thought back to how quickly and nervously they had refused to exchange references when they met at her house in London."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "\"and not nearly as plain.\""
-  },
-  {
+    "index": 38,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "She ignored Mrs. Wilkins's excitement and thought back to how quickly and nervously they had refused to exchange references when they met at her house in London.\n\nOf course, nothing anyone did could affect Mrs. Fisher's solid respectability. She had the backing of the three famous names she had offered as references, and many others she could call on. Even if these young women turned out to be unreliable eccentrics (and she had no proof that the girl in the garden was actually Lady Caroline Dester; she had only been told she was), why should she care? Let them do what they wanted. Being sixty-five had its advantages. Besides, it was only for four weeks, after which she would never see them again. In the meantime, there were plenty of quiet places where she could sit away from them and reminisce. She also had her own private sitting room, a charming space with honey-colored furniture, paintings, windows looking toward Genoa, and a door leading to the castle walls. The house had two sitting rooms, and she had explained to Lady Caroline (who was indeed very pretty, and whom the poet Tennyson would have loved to take for walks on the hills) that she needed the honey-colored room all to herself because of her walking stick."
+    "text": "Of course, nothing anyone did could affect Mrs. Fisher's solid respectability. She had the backing of the three famous names she had offered as references, and many others she could call on. Even if these young women turned out to be unreliable eccentrics (and she had no proof that the girl in the garden was actually Lady Caroline Dester; she had only been told she was), why should she care? Let them do what they wanted. Being sixty-five had its advantages. Beside, it was only for four weeks, after which she would never see them again. In the meantime, there were plenty of quiet places where she could sit away from them and reminisce. She also had her own private sitting room, a charming space with honey-colored furniture, paintings, windows looking toward Genoa, and a door leading to the castle walls. The house had two sitting rooms, and she had explained to Lady Caroline (who was indeed very pretty, and whom the poet Tennyson would have loved to take for walks on the hills) that she needed the honey-colored room all to herself because of her walking stick."
   },
   {
-    "character": "Lady Caroline",
+    "index": 39,
+    "character": "Fisher",
     "sex": "female",
-    "voice": "bf_isabella",
+    "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"No one wants to see an old woman hobbling around everywhere,\""
+    "text": "No one wants to see an old woman hobbling around everywhere,"
   },
   {
+    "index": 40,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -259,13 +328,15 @@
     "text": "she had said."
   },
   {
-    "character": "Lady Caroline",
+    "index": 41,
+    "character": "Fisher",
     "sex": "female",
-    "voice": "bf_isabella",
+    "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"I'll be perfectly happy spending most of my time alone in here or sitting out on the terrace.\""
+    "text": "I'll be perfectly happy spending most of my time alone in here or sitting out on the terrace."
   },
   {
+    "index": 42,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -273,13 +344,15 @@
     "text": "She had a very nice bedroom too. It had windows facing both the morning sun over the bay and the garden. She and Lady Caroline had discovered that these were the only two bedrooms with double views, and they were by far the most spacious. Each had two beds, so they immediately had the extra beds moved into the other rooms to make more space. Lady Caroline had turned her room into a bed-sitting room by moving in a sofa, a desk, and a comfortable chair. Mrs. Fisher didn't need to do that since she had her own sitting room. Lady Caroline had initially thought of taking the main living room for herself, suggesting that the other two women could use the dining room between meals since it was very pleasant. But she hadn't liked the shape of the main living room—it was a dark, round room in the tower with narrow windows in the thick walls and a ceiling shaped like an open umbrella. Lady Caroline had clearly wanted the honey-colored sitting room instead, and would have taken it if Mrs. Fisher hadn't stood her ground. That would have been ridiculous."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 43,
+    "character": "Rose",
     "sex": "female",
-    "voice": "bf_alice",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"I hope your room is comfortable,\""
+    "text": "I hope your room is comfortable,"
   },
   {
+    "index": 44,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -287,48 +360,47 @@
     "text": "Mrs. Arbuthnot said, trying to politely remind Mrs. Fisher that she wasn't the hostess."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "\"It is,\""
-  },
-  {
+    "index": 45,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher said."
+    "text": "\"It is,\" Mrs. Fisher said."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 46,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"Would you like more coffee?\""
+    "text": "Would you like more coffee?"
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 47,
+    "character": "Rose",
+    "sex": "female",
+    "voice": "bf_isabella",
+    "speed": 1.0,
+    "text": "No, thank you. Would you?"
+  },
+  {
+    "index": 48,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"No, thank you. Would you?\""
+    "text": "No, thank you. There were two beds in my room, which crowded it, so I had one removed. It's much more convenient now."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "\"No, thank you. There were two beds in my room, which crowded it, so I had one removed. It's much more convenient now.\""
-  },
-  {
+    "index": 49,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
     "speed": 1.0,
-    "text": "\"Oh, that's why there are two beds in my room!\""
+    "text": "Oh, that's why there are two beds in my room!"
   },
   {
+    "index": 50,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -336,13 +408,15 @@
     "text": "Mrs. Wilkins exclaimed, suddenly understanding. The second bed in her tiny room had seemed out of place from the start."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 51,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"I didn't care where it went,\""
+    "text": "I didn't care where it went,"
   },
   {
+    "index": 52,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -350,20 +424,23 @@
     "text": "Mrs. Fisher said to Mrs. Arbuthnot."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 53,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"I just asked Francesca to take it out.\""
+    "text": "I just asked Francesca to take it out."
   },
   {
+    "index": 54,
     "character": "Rose",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"I have two in my room as well,\""
+    "text": "I have two in my room as well,"
   },
   {
+    "index": 55,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -371,13 +448,15 @@
     "text": "Mrs. Arbuthnot said."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 56,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"Your second one must be Lady Caroline's. She had hers removed too,\""
+    "text": "Your second one must be Lady Caroline's. She had hers removed too,"
   },
   {
+    "index": 57,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -385,20 +464,23 @@
     "text": "Mrs. Fisher said."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 58,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"It seems silly to have extra beds in a room when only one person is sleeping there.\""
+    "text": "It seems silly to have extra beds in a room when only one person is sleeping there."
   },
   {
+    "index": 59,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
     "speed": 1.0,
-    "text": "\"But we don't have husbands here either,\""
+    "text": "But we don't have husbands here either,"
   },
   {
+    "index": 60,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -406,48 +488,55 @@
     "text": "Mrs. Wilkins said,"
   },
   {
+    "index": 61,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
     "speed": 1.0,
-    "text": "\"and I don't see the point of extra beds if there are no husbands to put in them. Can't we have ours taken away too?\""
+    "text": "and I don't see the point of extra beds if there are no husbands to put in them. Can't we have ours taken away too?"
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "\"Beds,\""
-  },
-  {
+    "index": 62,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher said coldly,"
+    "text": "\"Beds,\" Mrs. Fisher said coldly,"
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 63,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"cannot just be moved from room to room. They have to stay somewhere.\""
+    "text": "cannot just be moved from room to room. They have to stay somewhere."
   },
   {
+    "index": 64,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher found Mrs. Wilkins's remarks highly inappropriate. Every time she spoke, she said something that was better left unsaid. In Mrs. Fisher's social circle, people did not talk about husbands so casually. Back in the 1880s, when Mrs. Fisher was young, husbands were taken seriously as a stabilizing moral force. Beds, too, were discussed with caution, and proper manners prevented anyone from speaking of husbands and beds in the same sentence.\n\nShe turned even more pointedly toward Mrs. Arbuthnot."
+    "text": "Mrs. Fisher found Mrs. Wilkins's remarks highly inappropriate. Every time she spoke, she said something that was better left unsaid. In Mrs. Fisher's social circle, people did not talk about husbands so casually. Back in the 1880s, when Mrs. Fisher was young, husbands were taken seriously as a stabilizing moral force. Beds, too, were discussed with caution, and proper manners prevented anyone from speaking of husbands and beds in the same sentence."
   },
   {
-    "character": "Rose",
+    "index": 65,
+    "character": "Narrator",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "af_heart",
     "speed": 1.0,
-    "text": "\"Let me give you a little more coffee,\""
+    "text": "She turned even more pointedly toward Mrs. Arbuthnot."
   },
   {
+    "index": 66,
+    "character": "Fisher",
+    "sex": "female",
+    "voice": "bf_alice",
+    "speed": 1.0,
+    "text": "Let me give you a little more coffee,"
+  },
+  {
+    "index": 67,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -455,55 +544,71 @@
     "text": "she said."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "\"No, thank you. But won't you have some?\""
-  },
-  {
+    "index": 68,
     "character": "Rose",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"No, thank you. I never drink more than two cups. Would you like an orange?\""
+    "text": "No, thank you. But won't you have some?"
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 69,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"No, thank you. Would you?\""
+    "text": "No, thank you. I never drink more than two cups. Would you like an orange?"
   },
   {
+    "index": 70,
     "character": "Rose",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"No, I don't eat fruit at breakfast. It is an American trend that I am too old to start now. Have you had enough?\""
+    "text": "No, thank you. Would you?"
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 71,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"Yes, thank you. Have you?\""
+    "text": "No, I don't eat fruit at breakfast. It is an American trend that I am too old to start now. Have you had enough?"
   },
   {
+    "index": 72,
+    "character": "Rose",
+    "sex": "female",
+    "voice": "bf_isabella",
+    "speed": 1.0,
+    "text": "Yes, thank you. Have you?"
+  },
+  {
+    "index": 73,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher paused before replying. Was this a habit—this annoying trick of repeating a question back? If so, she would have to stop it, because no one could live comfortably for a month with someone who had such an irritating habit.\n\nShe looked at Mrs. Arbuthnot's gentle face and felt reassured. No, it was probably just an accident, not a habit. She couldn't imagine Mrs. Arbuthnot having annoying habits any more than a gentle dove. Looking at her, she thought she would make a wonderful wife for the writer Thomas Carlyle, much better than his actual, sharp-tongued wife Jane. She would have calmed him down."
+    "text": "Mrs. Fisher paused before replying. Was this a habit—this annoying trick of repeating a question back? If so, she would have to stop it, because no one could live comfortably for a month with someone who had such an irritating habit."
   },
   {
-    "character": "Rose",
+    "index": 74,
+    "character": "Narrator",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "af_heart",
     "speed": 1.0,
-    "text": "\"Shall we go then?\""
+    "text": "She looked at Mrs. Arbuthnot's gentle face and felt reassured. No, it was probably just an accident, not a habit. She couldn't imagine Mrs. Arbuthnot having annoying habits any more than a gentle dove. Looking at her, she thought she would make a wonderful wife for the writer Thomas Carlyle, much better than his actual, sharp-tongued wife Jane. She would have calmed him down."
   },
   {
+    "index": 75,
+    "character": "Fisher",
+    "sex": "female",
+    "voice": "bf_alice",
+    "speed": 1.0,
+    "text": "Shall we go then?"
+  },
+  {
+    "index": 76,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -511,13 +616,15 @@
     "text": "she suggested."
   },
   {
+    "index": 77,
     "character": "Rose",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Let me help you up,\""
+    "text": "Let me help you up,"
   },
   {
+    "index": 78,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -525,13 +632,15 @@
     "text": "Mrs. Arbuthnot offered helpfully."
   },
   {
-    "character": "Rose",
+    "index": 79,
+    "character": "Fisher",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"Oh, thank you, but I can manage. My stick only gets in the way sometimes.\""
+    "text": "Oh, thank you, but I can manage. My stick only gets in the way sometimes."
   },
   {
+    "index": 80,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -539,13 +648,15 @@
     "text": "Mrs. Fisher got up easily, and Mrs. Arbuthnot's help wasn't needed after all."
   },
   {
+    "index": 81,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
     "speed": 1.0,
-    "text": "\"I'm going to have one of these beautiful oranges,\""
+    "text": "I'm going to have one of these beautiful oranges,"
   },
   {
+    "index": 82,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -553,13 +664,15 @@
     "text": "Mrs. Wilkins said, staying at the table and reaching for the fruit bowl."
   },
   {
+    "index": 83,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
     "speed": 1.0,
-    "text": "\"Rose, how can you resist them? Look, take this one. It's a beauty.\""
+    "text": "Rose, how can you resist them? Look, take this one. It's a beauty."
   },
   {
+    "index": 84,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -567,41 +680,39 @@
     "text": "She held out a large orange."
   },
   {
+    "index": 85,
     "character": "Rose",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"No, I need to go tend to my chores,\""
+    "text": "No, I need to go tend to my chores,"
   },
   {
+    "index": 86,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Arbuthnot said, walking toward the door."
+    "text": "Mrs. Arbuthnot said, walking toward the door. \"Please excuse me,\" she added politely to Mrs. Fisher."
   },
   {
-    "character": "Rose",
-    "sex": "female",
-    "voice": "af_nicole",
-    "speed": 1.0,
-    "text": "\"Please excuse me,\""
-  },
-  {
+    "index": 87,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "she added politely to Mrs. Fisher.\n\nMrs. Fisher also headed for the door, moving quickly and easily. Her stick didn't seem to slow her down at all, and she clearly didn't want to be left alone with Mrs. Wilkins."
+    "text": "Mrs. Fisher also headed for the door, moving quickly and easily. Her stick didn't seem to slow her down at all, and she clearly didn't want to be left alone with Mrs. Wilkins."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 88,
+    "character": "Rose",
     "sex": "female",
-    "voice": "bf_alice",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"What time would you like lunch?\""
+    "text": "What time would you like lunch?"
   },
   {
+    "index": 89,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -609,13 +720,15 @@
     "text": "Mrs. Arbuthnot asked, still trying to assert some authority."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 90,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"Lunch is at twelve-thirty,\""
+    "text": "Lunch is at twelve-thirty,"
   },
   {
+    "index": 91,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -623,48 +736,15 @@
     "text": "Mrs. Fisher said."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "\"We will have it at twelve-thirty then,\""
-  },
-  {
-    "character": "Narrator",
-    "sex": "female",
-    "voice": "af_heart",
-    "speed": 1.0,
-    "text": "Mrs. Arbuthnot said."
-  },
-  {
+    "index": 92,
     "character": "Rose",
     "sex": "female",
-    "voice": "af_nicole",
+    "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"I'll inform the cook. It might be difficult, but I brought a small dictionary—\""
+    "text": "We will have it at twelve-thirty then,"
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "\"The cook already knows,\""
-  },
-  {
-    "character": "Narrator",
-    "sex": "female",
-    "voice": "af_heart",
-    "speed": 1.0,
-    "text": "Mrs. Fisher said."
-  },
-  {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "\"Oh?\""
-  },
-  {
+    "index": 93,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -672,13 +752,47 @@
     "text": "Mrs. Arbuthnot said."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 94,
+    "character": "Rose",
+    "sex": "female",
+    "voice": "bf_isabella",
+    "speed": 1.0,
+    "text": "I'll inform the cook. It might be difficult, but I brought a small dictionary—"
+  },
+  {
+    "index": 95,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"Lady Caroline has already told her,\""
+    "text": "The cook already knows,"
   },
   {
+    "index": 96,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "Mrs. Fisher said."
+  },
+  {
+    "index": 97,
+    "character": "Narrator",
+    "sex": "female",
+    "voice": "af_heart",
+    "speed": 1.0,
+    "text": "\"Oh?\" Mrs. Arbuthnot said."
+  },
+  {
+    "index": 98,
+    "character": "Fisher",
+    "sex": "female",
+    "voice": "bf_alice",
+    "speed": 1.0,
+    "text": "Lady Caroline has already told her,"
+  },
+  {
+    "index": 99,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -686,48 +800,39 @@
     "text": "Mrs. Fisher explained."
   },
   {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "\"Oh?\""
-  },
-  {
+    "index": 100,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Arbuthnot said again."
+    "text": "\"Oh?\" Mrs. Arbuthnot said again."
   },
   {
-    "character": "Mrs. Fisher",
+    "index": 101,
+    "character": "Fisher",
     "sex": "female",
     "voice": "bf_alice",
     "speed": 1.0,
-    "text": "\"Yes. Lady Caroline speaks the kind of Italian that cooks understand. My walking stick keeps me from going to the kitchen, and even if I could go, I doubt they would understand my Dante.\""
+    "text": "Yes. Lady Caroline speaks the kind of Italian that cooks understand. My walking stick keeps me from going to the kitchen, and even if I could go, I doubt they would understand my Dante."
   },
   {
-    "character": "Rose",
-    "sex": "female",
-    "voice": "af_nicole",
-    "speed": 1.0,
-    "text": "\"But—\""
-  },
-  {
+    "index": 102,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Arbuthnot began."
+    "text": "\"But—\" Mrs. Arbuthnot began."
   },
   {
+    "index": 103,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
     "speed": 1.0,
-    "text": "\"But it's just wonderful!\""
+    "text": "But it's just wonderful!"
   },
   {
+    "index": 104,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -735,13 +840,15 @@
     "text": "Mrs. Wilkins interrupted from the table, delighted by how simple their lives were going to be here."
   },
   {
+    "index": 105,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
     "speed": 1.0,
-    "text": "\"We don't have to do anything at all except be happy! You wouldn't believe,\""
+    "text": "We don't have to do anything at all except be happy! You wouldn't believe,"
   },
   {
+    "index": 106,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
@@ -749,24 +856,19 @@
     "text": "she said, turning directly to Mrs. Fisher with orange slices in both hands,"
   },
   {
+    "index": 107,
     "character": "Lotty",
     "sex": "female",
     "voice": "af_bella",
     "speed": 1.0,
-    "text": "\"how hard Rose and I have worked at being good for years, and how much we need a complete rest.\""
+    "text": "how hard Rose and I have worked at being good for years, and how much we need a complete rest."
   },
   {
+    "index": 108,
     "character": "Narrator",
     "sex": "female",
     "voice": "af_heart",
     "speed": 1.0,
-    "text": "Mrs. Fisher walked out of the room without answering, thinking to herself,"
-  },
-  {
-    "character": "Mrs. Fisher",
-    "sex": "female",
-    "voice": "bf_alice",
-    "speed": 1.0,
-    "text": "\"She absolutely must be kept in line.\""
+    "text": "Mrs. Fisher walked out of the room without answering, thinking to herself, \"She absolutely must be kept in line.\""
   }
 ]

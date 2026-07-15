@@ -65,7 +65,7 @@ def mix_audio(bumper, raw_audio, out_file, bumper_duration, add_full_outro=False
     run_cmd(cmd)
 
 def main():
-    # 1. Generate Intro
+    # 1. Generate Intro (Short Credits)
     intro_txt = os.path.join(BASE_DIR, "introduction_en.txt")
     intro_raw = os.path.join(TEMP_DIR, "raw_intro.mp3")
     intro_final = os.path.join(FINAL_DIR, "final_track_00_intro.mp3")
@@ -75,13 +75,24 @@ def main():
         mix_audio(BUMPER_FILE, intro_raw, intro_final, bumper_duration=4.5)
         print(f"Finished {intro_final}")
 
+    # 1b. Generate Overview (Introduction Content)
+    overview_txt = os.path.join(BASE_DIR, "overview_en.txt")
+    overview_raw = os.path.join(TEMP_DIR, "raw_overview.mp3")
+    overview_final = os.path.join(FINAL_DIR, "final_track_01.mp3")
+    
+    print("Generating Overview...")
+    if generate_tts(overview_txt, overview_raw):
+        mix_audio(BUMPER_FILE, overview_raw, overview_final, bumper_duration=2.0, add_full_outro=False)
+        print(f"Finished {overview_final}")
+
     # 2. Generate Chapters 1 to 26
     for i in range(1, 27):
         ch_txt = os.path.join(CHAPTERS_DIR, f"ch_{i:02d}_en.txt")
         ch_raw = os.path.join(TEMP_DIR, f"raw_ch_{i:02d}.mp3")
-        ch_final = os.path.join(FINAL_DIR, f"final_track_{i:02d}.mp3")
+        # Shift chapters down by 1 (e.g. ch 1 -> track 02)
+        ch_final = os.path.join(FINAL_DIR, f"final_track_{i+1:02d}.mp3")
         
-        print(f"Generating Chapter {i}...")
+        print(f"Generating Chapter {i} (saved as track {i+1})...")
         if generate_tts(ch_txt, ch_raw):
             mix_audio(BUMPER_FILE, ch_raw, ch_final, bumper_duration=2.0, add_full_outro=False)
             print(f"Finished {ch_final}")
