@@ -1,0 +1,308 @@
+[
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "제3장 황무지를 건너서\n\n메리는 오랫동안 단잠에 빠졌다. 마침내 눈을 떴을 때, 메들록 부인은 어느 기차역에서 점심 도시락 바구니를 사 놓은 뒤였다. 두 사람은 닭고기와 차가운 소고기, 버터 바른 빵을 먹고 따뜻한 차를 마셨다. 창밖에는 비가 그 어느 때보다 세차게 퍼붓고 있었고, 승강장에 서 있는 사람들은 저마다 젖어서 번들거리는 우비를 입고 있었다. 열차 차장이 객실에 등불을 밝혔고, 메들록 부인은 음식을 먹으면서 기분이 눈에 띄게 좋아졌다. 음식을 푸짐하게 먹은 부인은 이내 잠속으로 빠져들었다. 메리는 부인의 멋진 보닛 모자가 한쪽으로 비스듬히 기울어지는 것을 멍하니 바라보며 앉아 있다가, 창문을 토닥토닥 두드리는 한결같은 빗소리에 취해 자신도 모르게 객실 구석에서 다시 깊은 잠에 빠져들었다. 다시 눈을 떴을 때 주위는 온통 칠흑 같은 어둠뿐이었다. 기차는 어느 역에 멈춰 서 있었고, 메들록 부인이 메리의 어깨를 흔들며 깨우고 있었다."
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "\"잠을 아주 푹 자더구나!\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "부인이 말했다."
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "\"이제 일어날 시간이다! 트웨이트 역에 도착했으니, 앞으로 마차를 타고 한참을 가야 한단다.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "메리는 자리에서 일어나 눈을 비비며 메들록 부인이 짐을 꾸리는 모습을 바라보았다. 그러나 돕겠다고 나서지는 않았다. 인도에 살 때는 늘 하인들이 모든 짐을 날라다 주었기에, 메리는 다른 사람이 제 시중을 드는 것을 당연하게 여겨 왔다.\n\n역은 아담했고, 그 기차에서 내리는 승객은 그들뿐인 듯했다. 역장은 메들록 부인에게 퉁명스러우면서도 친근하게 말을 건넸는데, 메리는 나중에야 그 독특하고 억센 말투가 바로 요크셔 사투리라는 것을 알게 되었다."
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "\"무사히 돌아오셨구려.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "역장이 말했다."
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "\"어린 아가씨도 함께 데려오셨군.\""
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "\"네, 이 애랍니다.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "메들록 부인이 어깨 너머로 메리를 흘끗 돌아보며 고개를 끄덕였다. 자신도 모르게 현지 사투리가 살짝 섞인 말투였다."
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "\"부인은 좀 어때요?\""
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "\"덕분에 잘 지냅니다. 마차가 바깥에 대기하고 있소.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "작은 승강장 바로 바깥쪽 길가에는 말 두 필이 이끄는 마차가 기다리고 있었다. 메리가 보기에도 꽤 근사한 마차였다. 마차 안으로 올라타도록 도와준 하인은 차림새가 깔끔하고 단정했다. 그의 긴 비옷과 모자의 방수 덮개는 온통 젖어서 반들거렸고 물방울이 뚝뚝 흘러내렸다. 다부진 체격의 역장을 비롯해 바깥의 모든 것이 그야말로 물에 흠뻑 젖어 있었다.\n\n하인이 마차 문을 닫고 마부 옆자리에 올라타자마자 마차가 출발했다. 메리는 푹신한 쿠션이 깔린 마차 구석에 편안하게 기대앉았지만, 더는 잠을 자고 싶지 않았다. 대신 메들록 부인이 말해 준 낯선 곳으로 향하는 길이 궁금해 창밖을 유심히 바라보았다. 메리는 원래 겁이 많은 성격이 아니었고 딱히 두려움에 사로잡힌 것도 아니었지만, 마음 한구석이 찌푸려지는 것까지 막을 수는 없었다. 사방이 쓸쓸한 황무지 경계에 우뚝 솟아 있고 문이 굳게 잠긴 방이 백 개나 있다는 그 넓은 저택에서 앞으로 어떤 일이 벌어질지 도무지 짐작조차 할 수 없었기 때문이다."
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"황무지가 뭐예요?\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "메리가 문득 메들록 부인에게 물었다."
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "\"한 십 분쯤 지나서 창밖을 내다보렴. 그럼 보게 될 테니.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "부인이 대답했다."
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "\"저택에 닿으려면 미셀 황무지를 질러서 오 마일은 족히 가야 한단다. 아주 어두운 밤이라 많이 보이지는 않겠지만, 그래도 어떤 곳인지는 어렴풋이 알 수 있을 게다.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "메리는 더는 묻지 않았다. 그저 어두컴컴한 구석자리에 가만히 앉아 창밖으로 시선을 고정할 뿐이었다. 마차의 등불이 앞길을 향해 가느다란 빛줄기를 비출 때마다, 주변 풍경이 어둠 속에서 잠깐씩 스쳐 지나갔다. 역을 벗어난 마차는 아주 작은 마을을 통과했다. 메리는 벽을 하얗게 칠한 나지막한 오두막집들과 동네 선술집에서 새어 나오는 따뜻한 불빛을 보았다. 이어서 교회와 목사관을 지나고, 장난감과 사탕, 온갖 잡동사니를 진열해 둔 작은 구멍가게 창문들도 지나쳤다. 이윽고 울타리와 나무들이 늘어선 큰길에 들어섰다. 그 후로는 한참 동안 풍경에 이렇다 할 변화가 없었다. 적어도 메리에게는 그 지루한 시간이 영원처럼 느껴졌다.\n\n마침내 말들이 언덕길을 오르는 것처럼 걸음이 느려지더니, 얼마 지나지 않아 길가에 서 있던 울타리와 나무들이 거짓말처럼 사라져 버렸다. 양옆으로는 그저 깊고 무거운 어둠만이 끝없이 펼쳐져 있을 뿐이었다. 바로 그때 마차가 세차게 덜컹거렸고, 메리는 몸을 앞으로 기울여 유리창에 얼굴을 바짝 들이댔다."
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "\"아니나 다를까, 이제 황무지에 들어섰단다.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "메들록 부인이 말했다.\n\n마차 등불이 포장되지 않은 울퉁불퉁한 흙길 위에 노란 불빛을 던졌다. 길은 눈앞에 펼쳐진 광활하고 어두운 빈터로 뻗어 나가며 나지막한 덤불과 야생 관목들 사이를 가르고 있었다. 바람이 세차게 불기 시작하더니 낮고 웅장하면서도 쓸쓸한 바람 소리가 메아리쳤다."
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"이게…… 바다는 아니지요, 그렇죠?\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "메리가 옆에 앉은 메들록 부인을 바라보며 물었다."
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "\"아니란다, 바다가 아니야.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "메들록 부인이 대답했다."
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "\"그렇다고 들판이나 산도 아니지. 그저 보라색 헤더 꽃과 가시덤불, 야생 덤불 말고는 아무것도 자라지 않고, 들말과 양들 말고는 살아가는 생물도 없는 거친 벌판이 끝없이 펼쳐진 곳이란다.\""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"물만 있으면 꼭 바다 같을 텐데요.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "메리가 말했다."
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"지금 들리는 소리가 딱 바다 소리 같아요.\""
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "\"그건 덤불 사이를 휩쓸고 지나가는 바람 소리일 뿐이야.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "메들록 부인이 대답했다."
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "\"내 눈에는 그저 황량하고 음산한 곳일 뿐이지만, 이곳을 무척 사랑하는 사람도 많단다. 특히 헤더 꽃이 온통 보랏빛으로 만발할 때면 더욱 그렇지.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "마차는 어둠 속을 달리고 또 달렸다. 비는 멎었지만 바람은 울부짖듯 윙윙거리며 소름 끼치는 소리를 내질렀다. 길은 구불구불하게 올라갔다 내려갔다 했고, 아래로 물이 세차게 소용돌이치며 흐르는 작은 다리를 몇 번이나 건넜다. 메리는 이 여정이 영원히 끝나지 않을 것만 같았다. 메리에게는 이 끝없이 펼쳐진 황량한 황무지가 마치 검은 바다처럼 보였고, 자신들은 그 넓은 바다 한가운데에 놓인 좁고 기다란 마른 땅 위를 위태롭게 건너가고 있는 듯했다."
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"싫어, 정말 싫어.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "메리는 속으로 되뇌었다. 그리고 얇은 입술을 꼭 다물었다.\n\n말들이 가파른 오르막길을 힘들게 올라갈 때쯤, 메리의 눈에 저 멀리 작은 불빛 하나가 번득였다. 메들록 부인 역시 거의 동시에 그 빛을 발견하고는 안도의 한숨을 길게 몰아쉬었다."
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "\"오, 저 반짝이는 작은 불빛을 보니 참 반갑기도 하지!\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "부인이 반갑게 외쳤다."
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "\"저건 문지기 집 창문에서 새어 나오는 불빛이란다. 이제 머잖아 따뜻하고 맛있는 차를 대접받을 수 있겠구나.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "하지만 부인의 말처럼 되기까지는 시간이 조금 더 걸렸다. 마차가 저택 영지의 정문을 통과한 뒤에도 2마일은 족히 되는 가로수길을 더 달려야 했기 때문이다. 양옆의 나무들이 머리 위로 울창하게 맞닿아 있어서, 마치 길고 어두운 터널 속을 통과하는 기분이었다.\n\n마침내 어두운 가로수 터널을 벗어나 넓게 트인 공간으로 나오자, 돌을 깔아놓은 마당을 둘러싸고 나지막하게 길게 뻗은 대저택이 모습을 드러냈다. 처음에는 창문에 불빛이 하나도 없는 것처럼 보였으나, 마차에서 내리던 메리는 2층 구석방 하나에서 어슴푸레하게 흘러나오는 불빛을 발견했다.\n\n커다란 철 못이 촘촘히 박히고 육중한 철제 걸쇠로 단단히 고정된 두꺼운 참나무 현관문은 보기만 해도 위압적이었다. 그 문을 열고 들어서자 웅장하고 거대한 홀이 나타났다. 홀 안의 조명이 어찌나 어스름한지 벽에 걸린 초상화들의 얼굴이며 우뚝 서 있는 차가운 갑옷들이 메리를 으스스하게 만들었고, 메리는 애써 그것들을 외면했다. 차가운 돌바닥 위에 서 있는 검은 상복 차림의 메리는 한없이 초라하고 낯선 이방인처럼 보였다. 메리 자신도 겉보기만큼이나 자신이 보잘것없고 길을 잃어버린 듯 쓸쓸하게 느껴졌다.\n\n그들을 마중하기 위해 문을 열어 준 집사 곁에 깔끔한 차림의 야윈 노인 한 명이 서 있었다."
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "\"이 아이를 방으로 안내하시오.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "노인이 낮고 껄끄러운 목소리로 말했다."
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "\"주인님께서는 아이를 대면하고 싶어 하지 않으시오. 아침 일찍 런던으로 떠나실 예정이오.\""
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "\"잘 알겠습니다, 피처 씨.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "메들록 부인이 대답했다."
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "\"제가 맡은 소임이 무엇인지만 분명히 일러 주신다면 문제없습니다.\""
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "\"부인이 해야 할 소임이란,\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "피처 씨가 단호하게 덧붙였다."
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "\"주인님께서 심기를 방해받지 않으시도록 단속하고, 주인님이 원치 않는 사람이나 사물은 어떤 것도 대면하시지 않도록 철저히 차단하는 것이오.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "메리 레녹스는 넓은 계단을 걸어 올라가 길고 지루한 복도를 통과한 다음, 다시 짧은 층계를 오르고서도 몇 군데의 통로를 더 거쳐서야 목적지에 닿았다. 마침내 방문 하나가 열리자, 벽난로에서 따뜻한 불꽃이 타닥타닥 타오르고 식탁 위에 저녁 식사가 차려진 아늑한 방이 나타났다.\n\n메들록 부인이 퉁명스럽게 입을 열었다."
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "\"자, 이제 다 왔단다! 이 방과 바로 옆방이 네가 머물 곳이야. 그리고 절대 이 구역 밖으로 돌아다녀서는 안 된다. 알겠니? 내 말을 명심해야 한다!\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"이것이 메리가 미셀스웨이트 저택에 발을 들이게 된 경위였다. 메리는 필시 제 아홉 해 평생을 통틀어 이때만큼 기분이 뒤틀리고 옹고집을 부려 본 적이 없었을 것이다.\""
+  }
+]

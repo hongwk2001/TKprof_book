@@ -1,0 +1,728 @@
+[
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "제17장 발작\n\n메리는 아침 아주 일찍 일어나 화원에서 열심히 일했다. 피곤하고 졸렸던 터라, 마사가 저녁 식사를 가져다주자마자 다 먹고는 기쁜 마음으로 잠자리에 들었다. 베개에 머리를 얹으며 메리는 혼잣말을 중얼거렸다.\n\n\""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "아침 먹기 전에 나가서 디콘이랑 같이 일해야지. 그리고 그 후에…… 음, 그 애를 만나러 가 봐야겠어."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n한밤중이었을 것이다. 메리는 너무도 끔찍한 소리에 소스라치며 단번에 침대에서 일어났다. 무슨 소리일까? 대체 무슨 소리일까? 이내 메리는 무슨 일인지 확실히 깨달았다. 문들이 거칠게 열리고 닫히는 소리, 복도를 바쁘게 오가는 발소리가 들렸고, 누군가 울부짖으며 동시에 비명을 지르고 있었다. 소름 끼치도록 울고 불며 소리치는 비명이었다.\n\n\""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "콜린이야."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 메리가 말했다. \""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "간호사가 히스테리라고 부르던 그 발작을 일으키고 있구나. 정말 끔찍한 소리네."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n흐느끼는 비명에 귀를 기울이면서, 메리는 사람들이 왜 그토록 겁에 질려 그 비명 소리를 피하려고만 했는지, 왜 그의 고집을 다 받아주었는지 충분히 이해할 수 있었다. 메리는 속이 울렁거리고 몸이 떨려 두 손으로 귀를 틀어막았다.\n\n\""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "어쩌면 좋지. 어쩌면 좋아."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 메리는 계속 중얼거렸다. \""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "도저히 못 참겠어."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n용기를 내어 가 보면 그가 울음을 그칠지 문득 의문이 들었다. 하지만 그가 자신을 방에서 쫓아냈던 기억이 떠올랐고, 자신을 보면 발작이 더 심해질지도 모른다는 생각이 들었다. 귀를 꼭 틀어막아도 그 끔찍한 소리는 지워지지 않았다. 그 소리가 너무도 싫고 두려웠던 나머지, 메리는 갑자기 화가 치밀기 시작했다. 콜린이 자신을 겁주는 것처럼, 자신도 똑같이 성질을 부려 그를 겁주고 싶었다. 메리는 제 성질머리 외에는 남의 심술궂은 부림을 겪어본 적이 없었다. 메리는 귀에서 손을 떼고 벌떡 일어나 발을 동동 굴렀다.\n\n\""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "그 애를 당장 멈추게 해야 해! 누군가 멈추게 만들어야 한다고! 엉덩이라도 때려주어야 해!"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 메리가 소리쳤다.\n\n바로 그때, 복도를 거의 달려오다시피 하는 발소리가 들렸다. 메리의 방 문이 열리더니 간호사가 들어왔다. 간호사는 더 이상 웃는 낯이 아니었고, 얼굴이 허옇게 질려 있었다.\n\n\""
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "도련님이 히스테리 발작을 일으키셨어요."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 간호사가 몹시 다급하게 말했다. \""
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "이러다 다치시겠어요. 아무도 감당을 못 하네요. 착한 아가씨, 와서 한번 달래 봐 주세요. 도련님이 아가씨를 좋아하시잖아요."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n\""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "오늘 아침에 날 방에서 쫓아냈단 말이에요!"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 메리는 흥분해서 발을 쿵쿵 구르며 말했다.\n\n메리가 발을 굴리는 모습에 간호사는 오히려 안도했다. 실은 메리가 이불 속에 머리를 처박고 울며 떨고 있을까 봐 걱정했던 것이다.\n\n\""
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "잘됐어요."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 간호사가 말했다. \""
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "딱 좋은 기세네요. 가서 호되게 꾸짖어 주세요. 딴생각을 하게 주의를 돌려야 해요. 제발 가 줘요, 아가씨. 어서 빨리요."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n훗날 돌이켜보고서야 메리는 그 상황이 끔찍하면서도 얼마나 우스꽝스러웠는지 깨달았다. 어른들이란 어른들이 전부 겁에 질려서는, 고작 어린 소녀에게 매달리다니 말이다. 그 까닭은 단지 메리가 콜린 못지않게 고약한 성질머리를 부릴 수 있으리라 짐작했기 때문이었다.\n\n메리는 복도를 날아가듯 달렸고, 비명 소리에 가까워질수록 성질이 뻗쳤다. 문앞에 이르렀을 때는 심술궂은 마음이 극에 달했다. 메리는 손바닥으로 문을 세차게 밀쳐 열고, 방을 가로질러 기둥이 네 개 달린 침대로 달려갔다.\n\n\""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "당장 그쳐!"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 메리가 거의 소리를 질렀다. \""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "그치란 말이야! 난 네가 싫어! 다들 널 싫어해! 사람들이 이 집에서 전부 도망쳐 버리고, 네가 소리 지르다 죽게 내버려 뒀으면 좋겠어! 너 이러다 금방 숨이 넘어가 죽을 거야, 차라리 죽어 버려!"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n얌전하고 다정한 아이라면 결코 생각지도, 내뱉지도 못했을 모진 말들이었다. 하지만 아무도 감히 막아서거나 거역하지 못했던 이 발작적인 소년에게는, 이 말을 들었을 때의 충격이 가장 좋은 묘약이었다.\n\n그는 엎드린 채 두 손으로 베개를 짓이기고 있었다. 격노한 어린 목소리에 그는 흠칫 놀라 몸을 홱 돌렸다. 붉고 허얗게 퉁퉁 부어오른 그의 얼굴은 끔찍한 몰골이었고, 숨이 차서 꺽꺽거리고 있었다. 하지만 화가 머리끝까지 난 어린 메리는 조금도 개의치 않았다.\n\n\""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "한 번만 더 소리 질러 봐."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 메리가 말했다. \""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "나도 같이 소리 지를 거야. 네 비명보다 훨씬 더 크게 질러서 널 겁줄 테다! 아주 자지러지게 만들어 줄 거야!"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n메리의 기세에 너무 놀란 나머지 그는 정말로 비명을 그쳤다. 터져 나오려던 비명이 목구멍에 컥 막혀 버렸다. 얼굴에는 눈물이 범벅이 되어 흘러내렸고 온몸이 사시나무 떨듯 떨렸다.\n\n\""
+  },
+  {
+    "character": "colin",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "멈출 수가 없어!"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 그가 헐떡이며 흐느꼈다. \""
+  },
+  {
+    "character": "colin",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "안 된단 말이야, 안 돼!"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n\""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "할 수 있어!"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 메리가 소리쳤다. \""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "네 병의 절반은 엄살이랑 심술 때문이야. 다 히스테리라고, 히스테리, 히스테리!"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 메리는 그 단어를 뱉을 때마다 발을 쾅쾅 굴렀다.\n\n\""
+  },
+  {
+    "character": "colin",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "등에 혹이 만져졌단 말이야, 분명히 느꼈어."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 콜린이 목이 멘 목소리로 간신히 말했다. \""
+  },
+  {
+    "character": "colin",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "그렇게 될 줄 알았어. 난 꼽추가 될 테고, 결국 죽어 버릴 거야."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 그는 다시 몸을 이리저리 비틀며 얼굴을 파묻고 흐느끼며 울부짖었으나, 비명을 지르지는 않았다.\n\n\""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "혹 따위 만져졌을 리가 없어!"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 메리가 사납게 맞받아쳤다. \""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "혹시 만져졌대도 그건 히스테리 때문에 생긴 혹이야! 히스테리를 부리면 혹이 생긴단 말이야. 네 못된 등뼈에는 아무 이상 없어, 그냥 히스테리일 뿐이라고! 똑바로 누워 봐, 내가 볼 테니까!"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n메리는 '히스테리'라는 단어가 마음에 들었고, 그 말이 그에게 약효를 내고 있다고 느꼈다. 그 역시 자신처럼 이 단어를 한 번도 들어보지 못했을 터였다.\n\n\""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "간호사님,"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 메리가 명령했다. \""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "이리 와서 당장 이 애의 등을 보여줘요!"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n간호사와 메들록 부인, 그리고 마사는 입을 벌린 채 메리를 멍하니 바라보며 문 근처에 옹기종기 모여 서 있었다. 세 사람 모두 겁에 질려 몇 번이나 숨을 죽였다. 간호사는 반쯤 겁먹은 기색으로 조심스레 다가왔다. 콜린은 숨이 가빠 꺽꺽 울며 들썩이고 있었다.\n\n\""
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "도련님이…… 보여주지 않으려 하실지도 몰라요."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 간호사가 기어들어 가는 목소리로 주저했다.\n\n하지만 콜린은 그 말을 듣고 흐느끼는 와중에 헐떡이며 내뱉었다.\n\n\""
+  },
+  {
+    "character": "colin",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "보, 보여줘! 보면 알, 알 거 아냐!"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n옷을 걷어 올리자 드러난 등은 가련할 정도로 앙상했다. 갈비뼈 마디마디와 척추뼈의 결이 고스란히 들여다보일 정도였다. 하지만 꼬마 아가씨 메리는 뼈마디를 세어보는 대신, 엄숙하고 단호한 표정으로 등을 굽혀 꼼꼼히 살펴보았다. 그토록 진지하고 어른스러운 표정이라니, 간호사는 웃음을 참으려고 고개를 돌려 버렸다. 잠시 침묵이 흘렀다. 메리가 런던에서 온 저명한 의사라도 된 것처럼 척추뼈를 따라 위아래로, 이곳저곳을 골똘히 살펴보는 동안 콜린마저 숨을 죽이려 애썼다.\n\n\""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "혹은 한 군데도 없어!"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 메리가 마침내 말했다. \""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "핀 대가리만 한 혹도 없는걸. 네 척추뼈 말고는 아무것도 안 만져져. 그건 네가 말라서 도드라져 보이는 것뿐이야. 나도 척추뼈가 너만큼이나 툭 튀어나와 있었는데 살이 찌면서 가라앉았어. 아직 완전히 감출 만큼 살이 찌진 않았지만 말이야. 핀 대가리만 한 혹도 없단 말이야! 또 헛소리하면 그땐 내가 비웃어 줄 테다!"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n짓궂고 어린애 같은 메리의 투덜거림이 콜린에게 얼마나 커다란 위안이 되었는지는 오직 그 자신만이 알았다. 만약 콜린이 가슴 깊이 품어둔 은밀한 공포를 털어놓을 상대가 있었더라면, 감히 질문이라도 던질 용기가 있었더라면, 굳게 닫힌 거대한 저택에서 무지하고 그에게 넌더리가 난 사람들의 불안에 둘러싸여 누워 지내는 대신 함께 뛰놀 다른 아이들이 있었더라면, 그는 제 두려움과 병의 대부분이 스스로 만들어 낸 허상임을 진작 깨달았을 것이다. 그러나 콜린은 수 시간, 수일, 수개월, 그리고 수년 동안 오직 자신과 자신의 통증, 자신의 피로만을 생각하며 누워 있었다. 그런데 화가 잔뜩 나서는 사정이라곤 봐주지 않는 이 어린 소녀가 그가 생각하는 것만큼 아프지 않다고 고집스럽게 주장하자, 어쩌면 그 말이 진짜 사실일지도 모른다는 생각이 들었다.\n\n\""
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "도련님이 등에 혹이 있다고 생각하시는 줄은 몰랐네요."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 간호사가 조심스레 말을 뗐다. \""
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "등이 약한 건 스스로 앉으려고 애쓰지 않아서일 뿐이에요. 혹 같은 건 없다고 진작 말씀드릴 수도 있었는데 말이죠."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 콜린은 침을 꿀꺽 삼키고는 고개를 살짝 돌려 간호사를 바라보았다.\n\n\""
+  },
+  {
+    "character": "colin",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "정, 정말로요?"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 그가 애처롭게 물었다.\n\n\""
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "예, 도련님."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n\""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "거 봐!"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 메리도 침을 꿀꺽 삼키며 말했다.\n\n콜린은 다시 얼굴을 파묻고 엎드렸다. 몰아치던 울음의 폭풍이 잦아들면서 간간이 몸을 떨며 깊이 숨을 몰아쉴 뿐, 그는 한동안 가만히 누워 있었다. 뺨을 타고 흘러내린 굵은 눈물방울들이 베개를 적셨다. 그 눈물은 그에게 묘하고도 크나큰 안도감을 안겨주었다. 이윽고 그는 몸을 돌려 다시 간호사를 바라보았는데, 놀랍게도 간호사에게 말을 건넬 때의 목소리에서는 더 이상 절대 권력자 같은 오만함을 찾아볼 수 없었다.\n\n\""
+  },
+  {
+    "character": "colin",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "내가…… 어른이 될 때까지…… 살 수 있을까?"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 그가 물었다.\n\n간호사는 그리 영리하지도, 유달리 다정하지도 않은 인물이었지만, 런던에서 온 의사가 했던 말을 그대로 전할 수는 있었다.\n\n\""
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "하라는 대로 잘 따르시고, 성질을 부리지 않으시며, 신선한 바깥공기를 쐬는 시간을 많이 보내신다면 그러실 수 있을 겁니다."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n격렬한 발작이 지나가고 울다 지쳐 몸이 축 늘어지자, 마음도 한결 누그러진 모양이었다. 그는 메리를 향해 손을 지그시 내밀었다. 다행히 메리도 화가 가라앉자 마음이 약해져, 그의 손을 맞잡으며 화해의 뜻을 받아들였다.\n\n\""
+  },
+  {
+    "character": "colin",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "메리, 너랑 같이…… 나갈게."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 그가 말했다. \""
+  },
+  {
+    "character": "colin",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "우리가 만약…… 찾는다면 바깥공기도 싫어하지 않을 거야."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 그는 비밀의 화원을 찾는다면이라는 말이 튀어나오기 직전에 가까스로 멈추고 덧붙였다. \""
+  },
+  {
+    "character": "colin",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "디콘이 와서 내 휠체어를 밀어준다면 너랑 같이 나가고 싶어. 디콘이랑 여우, 그리고 까마귀가 너무 보고 싶단 말이야."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n간호사는 어질러진 침대를 다시 정리하고 베개를 털어 똑바로 놓았다. 그러고는 콜린에게 따뜻한 고기 육수를 한 잔 끓여다 주었고 메리에게도 건넸다. 소동을 치른 메리는 육수를 아주 맛있게 들이켰다. 메들록 부인과 마사는 기쁜 마음으로 슬그머니 빠져나갔다. 방이 다시 깨끗하고 아늑해지자, 간호사도 물러가고 싶어 하는 기색이 역력했다. 잠을 설쳐 피곤해진 젊고 건강한 그녀는 대놓고 하품을 해대며 메리를 쳐다보았다. 메리는 커다란 발받침대를 침대 밑에 바짝 끌어다 놓고 콜린의 손을 잡고 있었다.\n\n\""
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "아가씨도 방에 돌아가서 마저 주무시는 게 좋겠어요."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 간호사가 메리에게 말했다. \""
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "도련님도 흥분이 덜 풀려서 그렇지 좀 있으면 주무실 거예요. 저도 옆방에 가서 누울까 합니다."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n\""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "내가 우리 유모한테 배운 노래 불러줄까?"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 메리가 콜린에게 조용히 속삭였다.\n\n콜린은 그녀의 손을 부드럽게 잡아끌며, 피로가 서린 눈으로 애원하듯 쳐다보았다.\n\n\""
+  },
+  {
+    "character": "colin",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "응, 불러줘!"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 그가 속삭였다. \""
+  },
+  {
+    "character": "colin",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "참 차분한 노래잖아. 금방 잠들 수 있을 것 같아."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n\""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "내가 이 애 잠드는 것 도와줄게요."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 메리가 하품하는 간호사에게 말했다. \""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "가 보셔도 돼요."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n\""
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "그럼요."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 간호사는 사양하는 척 주저하며 덧붙였다. \""
+  },
+  {
+    "character": "others",
+    "voice": "ko-KR-HyunsuMultilingualNeural",
+    "speed": 1.0,
+    "text": "혹시 30분이 지나도 안 자면 저를 부르셔야 해요."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n\""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "그럴게요."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 메리가 대답했다.\n\n간호사는 잽싸게 방을 나갔다. 간호사가 가자마자 콜린이 메리의 손을 다시 당겼다.\n\n\""
+  },
+  {
+    "character": "colin",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "하마터면 말해 버릴 뻔했어."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 콜린이 속삭였다. \""
+  },
+  {
+    "character": "colin",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "그래도 제때 멈췄어. 이제 더 말 안 하고 잘게. 그런데 넌 들려줄 재밌는 이야기가 엄청 많다고 했잖아. 혹시 말이야…… 비밀의 화원으로 들어가는 길에 대해 뭐라도 알아낸 거야?"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n메리는 그의 안쓰럽고 지친 얼굴과 퉁퉁 부은 눈을 바라보았고, 마음이 뭉클해졌다.\n\n\""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "응."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 메리가 대답했다. \""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "알아낸 것 같아. 그러니까 어서 자면 내일 얘기해 줄게."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 콜린의 손이 파르르 떨렸다.\n\n\""
+  },
+  {
+    "character": "colin",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "아, 메리!"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 그가 말했다. \""
+  },
+  {
+    "character": "colin",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 1.0,
+    "text": "오, 메리! 내가 그곳에 들어갈 수만 있다면 어른이 될 때까지 살 수 있을 것 같아! 유모 노래 말고, 그냥 예전 첫날에 해 주었던 것처럼 그 안이 어떻게 생겼을지 나긋나긋하게 들려주면 안 돼? 그럼 정말 금방 잠들 수 있을 것 같아."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n\""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "그래."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 메리가 대답했다. \""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "눈을 감아 봐."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n콜린은 눈을 감고 아주 조용히 누웠다. 메리는 그의 손을 잡고 아주 느릿느릿하고 나직한 목소리로 이야기하기 시작했다.\n\n\""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "오랫동안 홀로 버려진 탓에, 줄기들이 서로 사랑스럽게 얽히고설켜 자라났을 거야. 장미 덩굴은 자라고 또 자라서 나뭇가지와 담벼락에 주렁주렁 매달려 있고, 땅 위를 묘한 잿빛 안개처럼 기어 다니고 있겠지. 더러는 죽었지만 대다수는 살아 있어. 여름이 오면 장미로 된 휘장과 분수가 만들어질 거야. 땅속에는 수선화와 설강화, 백합과 붓꽃들이 가득 차서 어둠을 뚫고 싹을 틔우려 애쓰고 있을 테지. 이제 봄이 시작되었으니…… 어쩌면, 어쩌면……."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n부드럽고 잔잔하게 읊조리는 목소리가 그를 점점 더 깊은 평온 속으로 빠져들게 했다. 메리는 그것을 보고 이야기를 이어나갔다.\n\n\""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "어쩌면 풀밭 위로 파릇파릇 돋아나고 있을지도 몰라. 어쩌면 보랏빛과 금빛 크로커스들이 지금 이 순간에도 무리 지어 피어나고 있을지도. 나뭇잎들도 잎망울을 터뜨려 둥글게 몸을 펴기 시작하겠지. 잿빛 풍경이 걷히며 초록색 베일이 온 세상을 살며시 덮어가고, 너무도 안전하고 고요한 그곳을 구경하러 새들이 날아오겠지. 그리고 어쩌면…… 어쩌면…… 어쩌면……."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\" 메리가 아주 나직하고 느린 어조로 속삭였다. \""
+  },
+  {
+    "character": "mary",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "붉은가슴울새가 짝을 만나 둥지를 틀고 있을지도 몰라."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "\"\n\n그렇게 콜린은 깊은 잠에 빠져들었다."
+  }
+]
