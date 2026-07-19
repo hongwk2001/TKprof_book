@@ -3,13 +3,19 @@
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Chapter 3: Across the Moor\n\nMary slept for a long time. When she finally woke up, Mrs. Medlock had bought a lunch basket at one of the stations. They ate chicken, cold beef, bread and butter, and drank hot tea. Outside, the rain poured down harder than ever, and everyone on the platform wore wet, shiny raincoats. The train guard lit the lamps in their compartment, and Mrs. Medlock cheered up considerably as she ate. She ate a hearty meal and soon fell asleep. Mary sat watching her, staring as the woman's fine bonnet slipped to one side, until Mary herself drifted off to sleep again in the corner of the carriage, lulled by the steady patter of rain against the glass. It was pitch black when she woke up next. The train had stopped at a station, and Mrs. Medlock was shaking her shoulder."
+    "text": "Chapter 3: Across the Moor"
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Mary slept for a long time. When she finally woke up, Mrs. Medlock had bought a lunch basket at one of the stations. They ate chicken, cold beef, bread and butter, and drank hot tea. Outside, the rain poured down harder than ever, and everyone on the platform wore wet, shiny raincoats. The train guard lit the lamps in their compartment, and Mrs. Medlock cheered up considerably as she ate. She ate a hearty meal and soon fell asleep. Mary sat watching her, staring as the womans fine bonnet slipped to one side, until Mary herself drifted off to sleep again in the corner of the carriage, lulled by the steady patter of rain against the glass. It was pitch black when she woke up next. The train had stopped at a station, and Mrs. Medlock was shaking her shoulder."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"You've had quite a sleep!\""
+    "text": "Youve had quite a sleep!"
   },
   {
     "character": "Narrator",
@@ -21,19 +27,25 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Time to wake up! We're at Thwaite Station, and we have a long drive ahead of us.\""
+    "text": "Time to wake up! Were at Thwaite Station, and we have a long drive ahead of us."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary stood up and tried to keep her eyes open while Mrs. Medlock gathered her packages. The little girl didn't offer to help. In India, the servants had always carried everything, and she took it for granted that others would wait on her.\n\nThe station was small, and they seemed to be the only passengers getting off. The stationmaster spoke to Mrs. Medlock in a gruff but friendly voice, pronouncing his words with a broad, unusual accent that Mary would later learn was Yorkshire."
+    "text": "Mary stood up and tried to keep her eyes open while Mrs. Medlock gathered her packages. The little girl didnt offer to help. In India, the servants had always carried everything, and she took it for granted that others would wait on her."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "The station was small, and they seemed to be the only passengers getting off. The stationmaster spoke to Mrs. Medlock in a gruff but friendly voice, pronouncing his words with a broad, unusual accent that Mary would later learn was Yorkshire."
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I see you've got back,\""
+    "text": "I see youve got back,"
   },
   {
     "character": "Narrator",
@@ -45,13 +57,13 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"And you've brought the young one with you.\""
+    "text": "And youve brought the young one with you."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Yes, that's her,\""
+    "text": "Yes, thats her,"
   },
   {
     "character": "Narrator",
@@ -63,25 +75,31 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"How's your wife?\""
+    "text": "Hows your wife?"
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Well enough. The carriage is waiting outside for you.\""
+    "text": "Well enough. The carriage is waiting outside for you."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "A horse-drawn carriage stood waiting on the road just outside the small platform. Mary noticed that it was an elegant carriage, and the footman who helped her inside was smart and well-dressed. His long raincoat and the waterproof cover on his hat were shiny and dripping wet. In fact, everything was soaked, including the stocky stationmaster.\n\nOnce the footman shut the door and climbed up to sit next to the driver, they started off. Mary sat back in the comfortable, cushioned corner of the carriage, but she didn't feel like sleeping anymore. Instead, she stared out the window, curious to see the road leading to the strange place Mrs. Medlock had described. She wasn't a timid child, and she wasn't exactly scared, but she couldn't help feeling uneasy. There was no telling what might happen in a house with a hundred closed-up rooms, standing right on the edge of a lonely moor."
+    "text": "A horse-drawn carriage stood waiting on the road just outside the small platform. Mary noticed that it was an elegant carriage, and the footman who helped her inside was smart and well-dressed. His long raincoat and the waterproof cover on his hat were shiny and dripping wet. In fact, everything was soaked, including the stocky stationmaster."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Once the footman shut the door and climbed up to sit next to the driver, they started off. Mary sat back in the comfortable, cushioned corner of the carriage, but she didnt feel like sleeping anymore. Instead, she stared out the window, curious to see the road leading to the strange place Mrs. Medlock had described. She wasnt a timid child, and she wasnt exactly scared, but she couldnt help feeling uneasy. There was no telling what might happen in a house with a hundred closed-up rooms, standing right on the edge of a lonely moor."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"What is a moor?\""
+    "text": "What is a moor?"
   },
   {
     "character": "Narrator",
@@ -93,7 +111,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Look out the window in about ten minutes and you'll see,\""
+    "text": "Look out the window in about ten minutes and youll see,"
   },
   {
     "character": "Narrator",
@@ -105,31 +123,43 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"We have to drive five miles across Missel Moor before we reach the Manor. You won't see much because it's a dark night, but you'll see something.\""
+    "text": "We have to drive five miles across Missel Moor before we reach the Manor. You wont see much because its a dark night, but youll see something."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary didn't ask any more questions. She waited quietly in her dark corner, keeping her eyes fixed on the window. The carriage lamps cast narrow beams of light ahead, letting her catch fleeting glimpses of their surroundings. After leaving the station, they drove through a tiny village, where she saw whitewashed cottages and the warm glow of a local pub. Then they passed a church, a vicarage, and a few small cottage shop windows displaying toys, sweets, and various odds and ends. Soon they reached the main highway, where she could see hedges and trees. After that, the landscape didn't seem to change for a long time—or at least, it felt like a very long time to her.\n\nFinally, the horses began to slow down as if they were climbing a hill, and soon the hedges and trees vanished. In fact, she could see nothing but deep, heavy darkness on either side. She leaned forward and pressed her face against the glass just as the carriage gave a violent jolt."
+    "text": "Mary didnt ask any more questions. She waited quietly in her dark corner, keeping her eyes fixed on the window. The carriage lamps cast narrow beams of light ahead, letting her catch fleeting glimpses of their surroundings. After leaving the station, they drove through a tiny village, where she saw whitewashed cottages and the warm glow of a local pub. Then they passed a church, a vicarage, and a few small cottage shop windows displaying toys, sweets, and various odds and ends. Soon they reached the main highway, where she could see hedges and trees. After that, the landscape didnt seem to change for a long time—or at least, it felt like a very long time to her."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Finally, the horses began to slow down as if they were climbing a hill, and soon the hedges and trees vanished. In fact, she could see nothing but deep, heavy darkness on either side. She leaned forward and pressed her face against the glass just as the carriage gave a violent jolt."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Well, we're on the moor now, sure enough,\""
+    "text": "Well, were on the moor now, sure enough,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mrs. Medlock said.\n\nThe carriage lamps cast a yellow glow onto a rough, unpaved road. It seemed to cut through low bushes and wild shrubs that stretched out into the vast, dark emptiness ahead. A wind was rising, making a strange, wild, low rushing sound."
+    "text": "Mrs. Medlock said."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "The carriage lamps cast a yellow glow onto a rough, unpaved road. It seemed to cut through low bushes and wild shrubs that stretched out into the vast, dark emptiness ahead. A wind was rising, making a strange, wild, low rushing sound."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"It's... it's not the sea, is it?\""
+    "text": "Its... its not the sea, is it?"
   },
   {
     "character": "Narrator",
@@ -141,7 +171,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"No, it's not,\""
+    "text": "No, its not,"
   },
   {
     "character": "Narrator",
@@ -153,13 +183,13 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"And it's not fields or mountains either. It's just miles and miles of wild, open land where nothing grows but heather, gorse, and wild shrubs, and nothing lives but wild ponies and sheep.\""
+    "text": "And its not fields or mountains either. Its just miles and miles of wild, open land where nothing grows but heather, gorse, and wild shrubs, and nothing lives but wild ponies and sheep."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"It feels like it could be the sea, if only there were water,\""
+    "text": "It feels like it could be the sea, if only there were water,"
   },
   {
     "character": "Narrator",
@@ -171,13 +201,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"It sounds just like the ocean right now.\""
+    "text": "It sounds just like the ocean right now."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"That's just the wind blowing through the bushes,\""
+    "text": "Thats just the wind blowing through the bushes,"
   },
   {
     "character": "Narrator",
@@ -189,7 +219,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"It's a wild, gloomy place if you ask me, though plenty of people love it—especially when the heather is in bloom.\""
+    "text": "Its a wild, gloomy place if you ask me, though plenty of people love it—especially when the heather is in bloom."
   },
   {
     "character": "Narrator",
@@ -201,7 +231,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I don't like it,\""
+    "text": "I dont like it,"
   },
   {
     "character": "Narrator",
@@ -213,19 +243,25 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I don't like it.\""
+    "text": "I dont like it."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "She pressed her thin lips tightly together.\n\nThe horses were climbing a steep stretch of road when Mary first spotted a light. Mrs. Medlock saw it at the same time and let out a long sigh of relief."
+    "text": "She pressed her thin lips tightly together."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "The horses were climbing a steep stretch of road when Mary first spotted a light. Mrs. Medlock saw it at the same time and let out a long sigh of relief."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Oh, I'm glad to see that little light twinkling,\""
+    "text": "Oh, Im glad to see that little light twinkling,"
   },
   {
     "character": "Narrator",
@@ -237,19 +273,37 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"That's the light from the gatehouse window. We'll at least get a nice cup of tea in a little while.\""
+    "text": "Thats the light from the gatehouse window. Well at least get a nice cup of tea in a little while."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "It took a little while, just as she had said. Once the carriage passed through the park gates, they still had to drive down a two-mile avenue. The trees met overhead, making it feel as if they were driving through a long, dark tunnel.\n\nFinally, they emerged from the dark tunnel into an open space and stopped in front of a very long, low-built house that seemed to stretch around a stone courtyard. At first, Mary thought there were no lights in any of the windows. But as she got out of the carriage, she noticed a dull glow coming from a single upstairs corner room.\n\nThe entrance door was massive, made of thick, heavy oak panels studded with large iron nails and bound with heavy iron bars. It opened into a grand, enormous hall. The lighting was so dim that the faces in the portraits on the walls and the silent figures in suits of armor made Mary uneasy, and she avoided looking at them. Standing on the cold stone floor, she looked like a tiny, strange figure in her black clothes—and she felt just as small, lost, and out of place as she looked.\n\nA tidy, thin old man stood near the butler who had opened the door for them."
+    "text": "It took a little while, just as she had said. Once the carriage passed through the park gates, they still had to drive down a two-mile avenue. The trees met overhead, making it feel as if they were driving through a long, dark tunnel."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Finally, they emerged from the dark tunnel into an open space and stopped in front of a very long, low-built house that seemed to stretch around a stone courtyard. At first, Mary thought there were no lights in any of the windows. But as she got out of the carriage, she noticed a dull glow coming from a single upstairs corner room."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "The entrance door was massive, made of thick, heavy oak panels studded with large iron nails and bound with heavy iron bars. It opened into a grand, enormous hall. The lighting was so dim that the faces in the portraits on the walls and the silent figures in suits of armor made Mary uneasy, and she avoided looking at them. Standing on the cold stone floor, she looked like a tiny, strange figure in her black clothes—and she felt just as small, lost, and out of place as she looked."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "A tidy, thin old man stood near the butler who had opened the door for them."
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"You are to take her to her room,\""
+    "text": "You are to take her to her room,"
   },
   {
     "character": "Narrator",
@@ -261,13 +315,13 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"He does not want to see her. He is leaving for London in the morning.\""
+    "text": "He does not want to see her. He is leaving for London in the morning."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Very well, Mr. Pitcher,\""
+    "text": "Very well, Mr. Pitcher,"
   },
   {
     "character": "Narrator",
@@ -279,13 +333,13 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"As long as I know what is expected of me, I can handle it.\""
+    "text": "As long as I know what is expected of me, I can handle it."
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"What is expected of you, Mrs. Medlock,\""
+    "text": "What is expected of you, Mrs. Medlock,"
   },
   {
     "character": "Narrator",
@@ -297,19 +351,25 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"is that you make sure he isn't disturbed, and that he doesn't see anyone or anything he doesn't want to see.\""
+    "text": "is that you make sure he isnt disturbed, and that he doesnt see anyone or anything he doesnt want to see."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary Lennox was then led up a wide staircase, down a long hallway, up a short flight of steps, and through several more corridors. Finally, a door opened, and she found herself in a room with a warm fire crackling in the fireplace and supper waiting on a table.\n\nMrs. Medlock said bluntly:"
+    "text": "Mary Lennox was then led up a wide staircase, down a long hallway, up a short flight of steps, and through several more corridors. Finally, a door opened, and she found herself in a room with a warm fire crackling in the fireplace and supper waiting on a table."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Mrs. Medlock said bluntly:"
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Well, here you are! This room and the next one are where you'll be living, and you must stay in them. Don't you forget that!\""
+    "text": "Well, here you are! This room and the next one are where youll be living, and you must stay in them. Dont you forget that!"
   },
   {
     "character": "Narrator",

@@ -3,13 +3,19 @@
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Chapter 11: The Nest of the Missel Thrush\n\nFor two or three minutes, he stood looking around him while Mary watched. Then he began to walk about softly, stepping even more lightly than Mary had when she first found herself inside the four walls. His eyes seemed to take in everything—the gray trees with gray vines climbing over them and hanging from their branches, the tangles on the walls and in the grass, and the evergreen alcoves with stone seats and tall flower urns standing inside them."
+    "text": "Chapter 11: The Nest of the Missel Thrush"
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "For two or three minutes, he stood looking around him while Mary watched. Then he began to walk about softly, stepping even more lightly than Mary had when she first found herself inside the four walls. His eyes seemed to take in everything—the gray trees with gray vines climbing over them and hanging from their branches, the tangles on the walls and in the grass, and the evergreen alcoves with stone seats and tall flower urns standing inside them."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I never thought I’d see this place,\""
+    "text": "I never thought Id see this place,"
   },
   {
     "character": "Narrator",
@@ -21,19 +27,25 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Did you know about it?\""
+    "text": "Did you know about it?"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "asked Mary.\n\nShe had spoken aloud, and he made a sign for her to be quiet."
+    "text": "asked Mary."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "She had spoken aloud, and he made a sign for her to be quiet."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"We must speak softly,\""
+    "text": "We must speak softly,"
   },
   {
     "character": "Narrator",
@@ -45,13 +57,13 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"or someone will hear us and wonder what is going on in here.\""
+    "text": "or someone will hear us and wonder what is going on in here."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Oh! I forgot!\""
+    "text": "Oh! I forgot!"
   },
   {
     "character": "Narrator",
@@ -63,19 +75,25 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Did you know about the garden?\""
+    "text": "Did you know about the garden?"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "she asked again once she had recovered herself.\n\nDickon nodded."
+    "text": "she asked again once she had recovered herself."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Dickon nodded."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Martha told me there was one that no one was ever allowed inside,\""
+    "text": "Martha told me there was one that no one was ever allowed inside,"
   },
   {
     "character": "Narrator",
@@ -87,7 +105,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"We used to wonder what it was like.\""
+    "text": "We used to wonder what it was like."
   },
   {
     "character": "Narrator",
@@ -99,7 +117,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Oh, the nests that will be here come spring!\""
+    "text": "Oh, the nests that will be here come spring!"
   },
   {
     "character": "Narrator",
@@ -111,7 +129,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"It will be the safest nesting place in England. With no one ever coming near, and plenty of tangled trees and roses to build in. I wonder why all the birds on the moor don't build here.\""
+    "text": "It will be the safest nesting place in England. With no one ever coming near, and plenty of tangled trees and roses to build in. I wonder why all the birds on the moor dont build here."
   },
   {
     "character": "Narrator",
@@ -123,7 +141,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Will there be roses?\""
+    "text": "Will there be roses?"
   },
   {
     "character": "Narrator",
@@ -135,13 +153,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Can you tell? I thought maybe they were all dead.\""
+    "text": "Can you tell? I thought maybe they were all dead."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Oh, no! Not them—not all of them!\""
+    "text": "Oh, no! Not them—not all of them!"
   },
   {
     "character": "Narrator",
@@ -153,7 +171,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Look here!\""
+    "text": "Look here!"
   },
   {
     "character": "Narrator",
@@ -165,7 +183,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"There's lots of dead wood that needs to be cut out,\""
+    "text": "Theres lots of dead wood that needs to be cut out,"
   },
   {
     "character": "Narrator",
@@ -177,19 +195,25 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"And there's a lot of old wood, but it grew some new branches last year. This one here is new,\""
+    "text": "And theres a lot of old wood, but it grew some new branches last year. This one here is new,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "and he touched a shoot that looked brownish-green instead of hard, dry gray.\n\nMary touched it herself in an eager, respectful way."
+    "text": "and he touched a shoot that looked brownish-green instead of hard, dry gray."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Mary touched it herself in an eager, respectful way."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"That one?\""
+    "text": "That one?"
   },
   {
     "character": "Narrator",
@@ -201,7 +225,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Is that one completely alive—really?\""
+    "text": "Is that one completely alive—really?"
   },
   {
     "character": "Narrator",
@@ -213,19 +237,19 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"It’s as wick as you or me,\""
+    "text": "Its as wick as you or me,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "he said. Mary remembered that Martha had told her \"wick\" meant alive or lively."
+    "text": "he said. Mary remembered that Martha had told her wick meant alive or lively."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I'm glad it's wick!\""
+    "text": "Im glad its wick!"
   },
   {
     "character": "Narrator",
@@ -237,7 +261,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I want them all to be alive. Let's go around the garden and count how many live ones there are.\""
+    "text": "I want them all to be alive. Lets go around the garden and count how many live ones there are."
   },
   {
     "character": "Narrator",
@@ -249,7 +273,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"They've run wild,\""
+    "text": "Theyve run wild,"
   },
   {
     "character": "Narrator",
@@ -261,7 +285,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"but the strongest ones have really thrived on it. The most delicate ones have died out, but the others have grown and grown, and spread and spread, until they're amazing. Look here!\""
+    "text": "but the strongest ones have really thrived on it. The most delicate ones have died out, but the others have grown and grown, and spread and spread, until theyre amazing. Look here!"
   },
   {
     "character": "Narrator",
@@ -273,7 +297,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"A person might think this was dead wood, but I don't believe it is—not down to the root. I'll cut it close to the ground and see.\""
+    "text": "A person might think this was dead wood, but I dont believe it is—not down to the root. Ill cut it close to the ground and see."
   },
   {
     "character": "Narrator",
@@ -285,7 +309,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"There!\""
+    "text": "There!"
   },
   {
     "character": "Narrator",
@@ -297,7 +321,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I told you so. There's green in that wood yet. Look at it.\""
+    "text": "I told you so. Theres green in that wood yet. Look at it."
   },
   {
     "character": "Narrator",
@@ -309,7 +333,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"When it looks a bit greenish and juicy like that, it's alive,\""
+    "text": "When it looks a bit greenish and juicy like that, its alive,"
   },
   {
     "character": "Narrator",
@@ -321,7 +345,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"When the inside is dry and breaks easily, like this piece I've cut off, it's done for. There's a big root here that all this live wood sprang from. If the old wood is cut away, and the dirt is dug up around it and taken care of, there'll be—\""
+    "text": "When the inside is dry and breaks easily, like this piece Ive cut off, its done for. Theres a big root here that all this live wood sprang from. If the old wood is cut away, and the dirt is dug up around it and taken care of, therell be—"
   },
   {
     "character": "Narrator",
@@ -333,19 +357,25 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"There'll be a fountain of roses here this summer.\""
+    "text": "Therell be a fountain of roses here this summer."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "They went from bush to bush and from tree to tree. He was very strong and skilled with his knife, knowing exactly how to prune the dry, dead wood away and telling when a hopeless-looking branch or twig still had green life in it. Within half an hour, Mary felt like she could tell too. Whenever he cut through a dead-looking branch and she caught sight of the slightest hint of moist green, she would cry out joyfully under her breath. The spade, hoe, and weeding fork were incredibly useful. He showed her how to use the fork while he dug around the roots with the spade, turning the soil and letting the air in.\n\nThey were working hard around one of the biggest rosebushes when he caught sight of something that made him gasp in surprise."
+    "text": "They went from bush to bush and from tree to tree. He was very strong and skilled with his knife, knowing exactly how to prune the dry, dead wood away and telling when a hopeless-looking branch or twig still had green life in it. Within half an hour, Mary felt like she could tell too. Whenever he cut through a dead-looking branch and she caught sight of the slightest hint of moist green, she would cry out joyfully under her breath. The spade, hoe, and weeding fork were incredibly useful. He showed her how to use the fork while he dug around the roots with the spade, turning the soil and letting the air in."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "They were working hard around one of the biggest rosebushes when he caught sight of something that made him gasp in surprise."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Look!\""
+    "text": "Look!"
   },
   {
     "character": "Narrator",
@@ -357,19 +387,19 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Who did that?\""
+    "text": "Who did that?"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "It was one of Mary's own little cleared patches around the pale green shoots."
+    "text": "It was one of Marys own little cleared patches around the pale green shoots."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I did it,\""
+    "text": "I did it,"
   },
   {
     "character": "Narrator",
@@ -381,7 +411,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Why, I thought you didn't know anything about gardening,\""
+    "text": "Why, I thought you didnt know anything about gardening,"
   },
   {
     "character": "Narrator",
@@ -393,7 +423,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I don't,\""
+    "text": "I dont,"
   },
   {
     "character": "Narrator",
@@ -405,7 +435,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"But they were so tiny, and the grass was so thick and strong, they looked like they had no room to breathe. So I made space for them. I don't even know what they are.\""
+    "text": "But they were so tiny, and the grass was so thick and strong, they looked like they had no room to breathe. So I made space for them. I dont even know what they are."
   },
   {
     "character": "Narrator",
@@ -417,7 +447,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"You were right,\""
+    "text": "You were right,"
   },
   {
     "character": "Narrator",
@@ -429,7 +459,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"A professional gardener couldn't have told you any better. They'll grow like Jack's beanstalk now. They're crocuses and snowdrops, and these here are narcissuses,\""
+    "text": "A professional gardener couldnt have told you any better. Theyll grow like Jacks beanstalk now. Theyre crocuses and snowdrops, and these here are narcissuses,"
   },
   {
     "character": "Narrator",
@@ -441,7 +471,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"and here are daffodils. Oh! They will be a beautiful sight.\""
+    "text": "and here are daffodils. Oh! They will be a beautiful sight."
   },
   {
     "character": "Narrator",
@@ -453,7 +483,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"You've done a lot of work for such a little girl,\""
+    "text": "Youve done a lot of work for such a little girl,"
   },
   {
     "character": "Narrator",
@@ -465,7 +495,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I'm gaining weight,\""
+    "text": "Im gaining weight,"
   },
   {
     "character": "Narrator",
@@ -477,13 +507,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"and I'm growing stronger. I used to be tired all the time. When I dig, I don't feel tired at all. I love the smell of the earth when it's turned over.\""
+    "text": "and Im growing stronger. I used to be tired all the time. When I dig, I dont feel tired at all. I love the smell of the earth when its turned over."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"It's really good for you,\""
+    "text": "Its really good for you,"
   },
   {
     "character": "Narrator",
@@ -495,13 +525,13 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"There's nothing as nice as the smell of good, clean dirt, except the smell of fresh, growing things when the rain falls on them. I go out on the moor many a day when it's raining, lying under a bush to listen to the soft swish of the drops on the heather, and I just sniff and sniff. My mother says the tip of my nose actually quivers like a rabbit's.\""
+    "text": "Theres nothing as nice as the smell of good, clean dirt, except the smell of fresh, growing things when the rain falls on them. I go out on the moor many a day when its raining, lying under a bush to listen to the soft swish of the drops on the heather, and I just sniff and sniff. My mother says the tip of my nose actually quivers like a rabbits."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Do you never catch a cold?\""
+    "text": "Do you never catch a cold?"
   },
   {
     "character": "Narrator",
@@ -513,7 +543,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Not me,\""
+    "text": "Not me,"
   },
   {
     "character": "Narrator",
@@ -525,7 +555,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I've never caught a cold in my life. I wasn't raised to be delicate. I've run around the moor in all kinds of weather, just like the rabbits do. Mother says I've breathed in too much fresh air over twelve years to ever get a stuffy nose. I'm as tough as a thorny walking stick.\""
+    "text": "Ive never caught a cold in my life. I wasnt raised to be delicate. Ive run around the moor in all kinds of weather, just like the rabbits do. Mother says Ive breathed in too much fresh air over twelve years to ever get a stuffy nose. Im as tough as a thorny walking stick."
   },
   {
     "character": "Narrator",
@@ -537,7 +567,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"There's so much work to do here!\""
+    "text": "Theres so much work to do here!"
   },
   {
     "character": "Narrator",
@@ -549,7 +579,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Will you come back and help me do it?\""
+    "text": "Will you come back and help me do it?"
   },
   {
     "character": "Narrator",
@@ -561,13 +591,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I know I can help too. I can dig, pull up weeds, and do whatever you tell me. Oh, please come, Dickon!\""
+    "text": "I know I can help too. I can dig, pull up weeds, and do whatever you tell me. Oh, please come, Dickon!"
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I'll come every day if you want me to, rain or shine,\""
+    "text": "Ill come every day if you want me to, rain or shine,"
   },
   {
     "character": "Narrator",
@@ -579,13 +609,13 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"This is the best fun I've ever had in my life—being shut in here and waking up a garden.\""
+    "text": "This is the best fun Ive ever had in my life—being shut in here and waking up a garden."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"If you come,\""
+    "text": "If you come,"
   },
   {
     "character": "Narrator",
@@ -597,7 +627,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"and help me bring it back to life, I'll—I don't know what I'll do,\""
+    "text": "and help me bring it back to life, Ill—I dont know what Ill do,"
   },
   {
     "character": "Narrator",
@@ -609,7 +639,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I'll tell you what you'll do,\""
+    "text": "Ill tell you what youll do,"
   },
   {
     "character": "Narrator",
@@ -621,7 +651,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"You'll get healthy and strong, you'll get as hungry as a young fox, and you'll learn how to talk to the robin just like I do. Oh, we'll have so much fun!\""
+    "text": "Youll get healthy and strong, youll get as hungry as a young fox, and youll learn how to talk to the robin just like I do. Oh, well have so much fun!"
   },
   {
     "character": "Narrator",
@@ -633,7 +663,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I wouldn't want to make it look like a professional gardener's garden, all trimmed and perfectly neat, would you?\""
+    "text": "I wouldnt want to make it look like a professional gardeners garden, all trimmed and perfectly neat, would you?"
   },
   {
     "character": "Narrator",
@@ -645,13 +675,13 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"It's much nicer like this, with everything running wild, swinging and grabbing onto each other.\""
+    "text": "Its much nicer like this, with everything running wild, swinging and grabbing onto each other."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Let's not make it tidy,\""
+    "text": "Lets not make it tidy,"
   },
   {
     "character": "Narrator",
@@ -663,7 +693,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"It wouldn't feel like a secret garden if it were neat.\""
+    "text": "It wouldnt feel like a secret garden if it were neat."
   },
   {
     "character": "Narrator",
@@ -675,7 +705,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"It's a secret garden sure enough,\""
+    "text": "Its a secret garden sure enough,"
   },
   {
     "character": "Narrator",
@@ -687,13 +717,13 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"but it seems like someone besides the robin has been in here since it was locked up ten years ago.\""
+    "text": "but it seems like someone besides the robin has been in here since it was locked up ten years ago."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"But the door was locked and the key was buried,\""
+    "text": "But the door was locked and the key was buried,"
   },
   {
     "character": "Narrator",
@@ -705,13 +735,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"No one could get in.\""
+    "text": "No one could get in."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"That's true,\""
+    "text": "Thats true,"
   },
   {
     "character": "Narrator",
@@ -723,25 +753,31 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"It's a strange place. It looks to me like some pruning was done here and there, more recently than ten years ago.\""
+    "text": "Its a strange place. It looks to me like some pruning was done here and there, more recently than ten years ago."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"But how could that be?\""
+    "text": "But how could that be?"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary asked.\n\nHe was examining a branch of a rosebush and shook his head."
+    "text": "Mary asked."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "He was examining a branch of a rosebush and shook his head."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Yes, how could they?\""
+    "text": "Yes, how could they?"
   },
   {
     "character": "Narrator",
@@ -753,7 +789,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"With the door locked and the key buried.\""
+    "text": "With the door locked and the key buried."
   },
   {
     "character": "Narrator",
@@ -765,7 +801,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Are there any flowers that look like bells?\""
+    "text": "Are there any flowers that look like bells?"
   },
   {
     "character": "Narrator",
@@ -777,7 +813,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Lilies of the valley do,\""
+    "text": "Lilies of the valley do,"
   },
   {
     "character": "Narrator",
@@ -789,13 +825,13 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"and there are Canterbury bells and campanulas.\""
+    "text": "and there are Canterbury bells and campanulas."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Let's plant some,\""
+    "text": "Lets plant some,"
   },
   {
     "character": "Narrator",
@@ -807,19 +843,19 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"There are lilies of the valley here already; I saw them. They've grown too close together, and we'll have to separate them, but there are plenty. The other flowers take two years to bloom from seeds, but I can bring you some starter plants from our cottage garden. Why do you want them?\""
+    "text": "There are lilies of the valley here already; I saw them. Theyve grown too close together, and well have to separate them, but there are plenty. The other flowers take two years to bloom from seeds, but I can bring you some starter plants from our cottage garden. Why do you want them?"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Then Mary told him about Basil and his siblings in India, how much she had hated them, and how they used to call her \"Mistress Mary, Quite Contrary.\""
+    "text": "Then Mary told him about Basil and his siblings in India, how much she had hated them, and how they used to call her Mistress Mary, Quite Contrary."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"They used to dance around and sing at me. They sang:\n\n'Mistress Mary, quite contrary,\nHow does your garden grow?\nWith silver bells, and cockle shells,\nAnd marigolds all in a row.'\n\nI just remembered it, and it made me wonder if there were really flowers like silver bells.\""
+    "text": "They used to dance around and sing at me. They sang:\n\nMistress Mary, quite contrary,\nHow does your garden grow?\nWith silver bells, and cockle shells,\nAnd marigolds all in a row.\n\nI just remembered it, and it made me wonder if there were really flowers like silver bells."
   },
   {
     "character": "Narrator",
@@ -831,7 +867,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I wasn't as stubborn as they were.\""
+    "text": "I wasnt as stubborn as they were."
   },
   {
     "character": "Narrator",
@@ -843,7 +879,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Oh!\""
+    "text": "Oh!"
   },
   {
     "character": "Narrator",
@@ -855,7 +891,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"There doesn't seem to be any reason for anyone to be contrary when there are flowers and things, and so many friendly wild creatures running around making homes, building nests, and singing and whistling, does there?\""
+    "text": "There doesnt seem to be any reason for anyone to be contrary when there are flowers and things, and so many friendly wild creatures running around making homes, building nests, and singing and whistling, does there?"
   },
   {
     "character": "Narrator",
@@ -867,7 +903,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Dickon,\""
+    "text": "Dickon,"
   },
   {
     "character": "Narrator",
@@ -879,7 +915,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"you are just as nice as Martha said you were. I like you, and you make the fifth person. I never thought I would like five people.\""
+    "text": "you are just as nice as Martha said you were. I like you, and you make the fifth person. I never thought I would like five people."
   },
   {
     "character": "Narrator",
@@ -891,7 +927,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Only five people that you like?\""
+    "text": "Only five people that you like?"
   },
   {
     "character": "Narrator",
@@ -903,13 +939,13 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Who are the other four?\""
+    "text": "Who are the other four?"
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Your mother and Martha,\""
+    "text": "Your mother and Martha,"
   },
   {
     "character": "Narrator",
@@ -921,7 +957,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"and the robin, and Ben Weatherstaff.\""
+    "text": "and the robin, and Ben Weatherstaff."
   },
   {
     "character": "Narrator",
@@ -933,7 +969,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I know you think I'm a strange lad,\""
+    "text": "I know you think Im a strange lad,"
   },
   {
     "character": "Narrator",
@@ -945,7 +981,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"but I think you're the strangest little girl I've ever seen.\""
+    "text": "but I think youre the strangest little girl Ive ever seen."
   },
   {
     "character": "Narrator",
@@ -957,7 +993,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Does tha' like me?\""
+    "text": "Does tha like me?"
   },
   {
     "character": "Narrator",
@@ -969,7 +1005,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Oh!\""
+    "text": "Oh!"
   },
   {
     "character": "Narrator",
@@ -981,13 +1017,13 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"That I do. I like you wonderfully, and so does the robin, I truly believe!\""
+    "text": "That I do. I like you wonderfully, and so does the robin, I truly believe!"
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"That's two, then,\""
+    "text": "Thats two, then,"
   },
   {
     "character": "Narrator",
@@ -999,7 +1035,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"That's two who like me.\""
+    "text": "Thats two who like me."
   },
   {
     "character": "Narrator",
@@ -1011,7 +1047,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I have to go,\""
+    "text": "I have to go,"
   },
   {
     "character": "Narrator",
@@ -1023,7 +1059,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"And you have to go too, don't you?\""
+    "text": "And you have to go too, dont you?"
   },
   {
     "character": "Narrator",
@@ -1035,7 +1071,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"My lunch is easy to carry around,\""
+    "text": "My lunch is easy to carry around,"
   },
   {
     "character": "Narrator",
@@ -1047,7 +1083,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Mother always lets me put a bit of something in my pocket.\""
+    "text": "Mother always lets me put a bit of something in my pocket."
   },
   {
     "character": "Narrator",
@@ -1059,7 +1095,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"It's usually nothing but bread,\""
+    "text": "Its usually nothing but bread,"
   },
   {
     "character": "Narrator",
@@ -1071,7 +1107,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"but I've got a nice slice of fat bacon with it today.\""
+    "text": "but Ive got a nice slice of fat bacon with it today."
   },
   {
     "character": "Narrator",
@@ -1083,7 +1119,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Go on and get your food,\""
+    "text": "Go on and get your food,"
   },
   {
     "character": "Narrator",
@@ -1095,7 +1131,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I'll be finished with mine first. I'll get a bit more work done before I head back home.\""
+    "text": "Ill be finished with mine first. Ill get a bit more work done before I head back home."
   },
   {
     "character": "Narrator",
@@ -1107,7 +1143,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I'll call the robin over,\""
+    "text": "Ill call the robin over,"
   },
   {
     "character": "Narrator",
@@ -1119,7 +1155,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"and give him the bacon rind to peck at. Robins really love a bit of fat.\""
+    "text": "and give him the bacon rind to peck at. Robins really love a bit of fat."
   },
   {
     "character": "Narrator",
@@ -1131,19 +1167,25 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Whatever happens, you—you would never tell anyone?\""
+    "text": "Whatever happens, you—you would never tell anyone?"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "she asked.\n\nHis bright red cheeks were stuffed with his first big bite of bread and bacon, but he managed to smile encouragingly."
+    "text": "she asked."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "His bright red cheeks were stuffed with his first big bite of bread and bacon, but he managed to smile encouragingly."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"If you were a missel thrush and showed me where your nest was, do you think I'd tell anyone? Not me,\""
+    "text": "If you were a missel thrush and showed me where your nest was, do you think Id tell anyone? Not me,"
   },
   {
     "character": "Narrator",
@@ -1155,7 +1197,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"You're as safe as a missel thrush.\""
+    "text": "Youre as safe as a missel thrush."
   },
   {
     "character": "Narrator",

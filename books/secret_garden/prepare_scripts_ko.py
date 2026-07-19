@@ -23,38 +23,25 @@ VOICE_MAP = {
 def parse_tagged_text(content):
     segments = []
     
-    # Matching any of our defined XML tags or non-tagged narration blocks
+    # Matching any of our defined XML tags including narrator
     pattern = re.compile(
-        r'(<(?P<tag>mary|colin|dickon|martha|craven|ben|others)>(?P<speech>.*?)</(?P=tag)>)|'
-        r'(?P<narration>(?:(?!<(?:mary|colin|dickon|martha|craven|ben|others)>).)+)', 
+        r'<(?P<tag>mary|colin|dickon|martha|craven|ben|others|narrator)>(?P<speech>.*?)</(?P=tag)>',
         re.DOTALL
     )
     
     for match in pattern.finditer(content):
         tag = match.group('tag')
         speech = match.group('speech')
-        narration = match.group('narration')
         
         if tag and speech:
             text = speech.strip()
             for q in ['"', '“', '”', "'", '‘', '’']:
                 text = text.replace(q, '')
             if text:
-                voice, speed = VOICE_MAP[tag]
+                char_name = "Narrator" if tag == "narrator" else tag
+                voice, speed = VOICE_MAP[char_name]
                 segments.append({
-                    "character": tag,
-                    "voice": voice,
-                    "speed": speed,
-                    "text": text
-                })
-        elif narration:
-            text = narration.strip()
-            for q in ['"', '“', '”', "'", '‘', '’']:
-                text = text.replace(q, '')
-            if text:
-                voice, speed = VOICE_MAP["Narrator"]
-                segments.append({
-                    "character": "Narrator",
+                    "character": char_name,
                     "voice": voice,
                     "speed": speed,
                     "text": text

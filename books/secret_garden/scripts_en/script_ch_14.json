@@ -3,13 +3,19 @@
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Chapter 14: A Young Rajah\n\nThe moor was hidden in mist when morning came, and the rain showed no signs of stopping. Going outside was completely out of the question. Martha was so busy that Mary didn't get a chance to talk to her, but in the afternoon, she asked Martha to come and sit with her in the nursery. Martha arrived carrying the stocking she was always knitting whenever she had a spare moment."
+    "text": "Chapter 14: A Young Rajah"
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "The moor was hidden in mist when morning came, and the rain showed no signs of stopping. Going outside was completely out of the question. Martha was so busy that Mary didnt get a chance to talk to her, but in the afternoon, she asked Martha to come and sit with her in the nursery. Martha arrived carrying the stocking she was always knitting whenever she had a spare moment."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“What’s the matter with you?”"
+    "text": "Whats the matter with you?"
   },
   {
     "character": "Narrator",
@@ -21,25 +27,31 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“You look as if you’ve got something to say.”"
+    "text": "You look as if youve got something to say."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“I have. I've found out what the crying was,”"
+    "text": "I have. Ive found out what the crying was,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "said Mary.\n\nMartha let her knitting drop onto her lap and stared at her with startled eyes."
+    "text": "said Mary."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Martha let her knitting drop onto her lap and stared at her with startled eyes."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“You haven’t!”"
+    "text": "You havent!"
   },
   {
     "character": "Narrator",
@@ -51,13 +63,13 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“Never!”"
+    "text": "Never!"
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“I heard it in the night,”"
+    "text": "I heard it in the night,"
   },
   {
     "character": "Narrator",
@@ -69,19 +81,19 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“So I got up and went to see where it was coming from. It was Colin. I found him.”"
+    "text": "So I got up and went to see where it was coming from. It was Colin. I found him."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Martha’s face turned red with fright."
+    "text": "Marthas face turned red with fright."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“Eh, Miss Mary!”"
+    "text": "Eh, Miss Mary!"
   },
   {
     "character": "Narrator",
@@ -93,13 +105,13 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“You shouldn’t have done it—you shouldn’t! You’ll get me into trouble. I never told you anything about him, but you’ll still get me into trouble. I’ll lose my job, and what will mother do then!”"
+    "text": "You shouldnt have done it—you shouldnt! Youll get me into trouble. I never told you anything about him, but youll still get me into trouble. Ill lose my job, and what will mother do then!"
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“You won’t lose your job,”"
+    "text": "You wont lose your job,"
   },
   {
     "character": "Narrator",
@@ -111,13 +123,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“He was glad I came. We talked for a long time, and he said he was glad I found him.”"
+    "text": "He was glad I came. We talked for a long time, and he said he was glad I found him."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“Was he?”"
+    "text": "Was he?"
   },
   {
     "character": "Narrator",
@@ -129,13 +141,13 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“Are you sure? You don’t know what he’s like when anything upsets him. He’s a big boy to cry like a baby, but when he’s in a temper, he’ll scream just to frighten us. He knows we don’t dare call our souls our own.”"
+    "text": "Are you sure? You dont know what hes like when anything upsets him. Hes a big boy to cry like a baby, but when hes in a temper, hell scream just to frighten us. He knows we dont dare call our souls our own."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“He wasn’t upset,”"
+    "text": "He wasnt upset,"
   },
   {
     "character": "Narrator",
@@ -147,7 +159,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“I asked him if I should leave, but he made me stay. He asked me questions, and I sat on a big footstool and talked to him about India, the robin, and the gardens. He wouldn’t let me go. He even let me see his mother’s picture. Before I left, I sang him to sleep.”"
+    "text": "I asked him if I should leave, but he made me stay. He asked me questions, and I sat on a big footstool and talked to him about India, the robin, and the gardens. He wouldnt let me go. He even let me see his mothers picture. Before I left, I sang him to sleep."
   },
   {
     "character": "Narrator",
@@ -159,7 +171,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“I can hardly believe you!”"
+    "text": "I can hardly believe you!"
   },
   {
     "character": "Narrator",
@@ -171,13 +183,13 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“It’s as if you walked straight into a lion’s den. If he’d been the way he usually is, he’d have thrown one of his tantrums and woken the whole house. He won’t let strangers look at him.”"
+    "text": "Its as if you walked straight into a lions den. If hed been the way he usually is, hed have thrown one of his tantrums and woken the whole house. He wont let strangers look at him."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“He let me look at him. I looked at him the whole time, and he looked at me. We just stared at each other!”"
+    "text": "He let me look at him. I looked at him the whole time, and he looked at me. We just stared at each other!"
   },
   {
     "character": "Narrator",
@@ -189,7 +201,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“I don’t know what to do!”"
+    "text": "I dont know what to do!"
   },
   {
     "character": "Narrator",
@@ -201,13 +213,13 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“If Mrs. Medlock finds out, she’ll think I disobeyed orders and told you, and I’ll be sent straight back home to my mother.”"
+    "text": "If Mrs. Medlock finds out, shell think I disobeyed orders and told you, and Ill be sent straight back home to my mother."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“He isn’t going to tell Mrs. Medlock anything about it yet. It’s a secret for now,”"
+    "text": "He isnt going to tell Mrs. Medlock anything about it yet. Its a secret for now,"
   },
   {
     "character": "Narrator",
@@ -219,13 +231,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“And he says everyone has to do whatever he wants.”"
+    "text": "And he says everyone has to do whatever he wants."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“Aye, that’s true enough—the spoiled lad!”"
+    "text": "Aye, thats true enough—the spoiled lad!"
   },
   {
     "character": "Narrator",
@@ -237,13 +249,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“He says Mrs. Medlock must obey him, too. And he wants me to come and talk to him every day. You are supposed to tell me when he wants to see me.”"
+    "text": "He says Mrs. Medlock must obey him, too. And he wants me to come and talk to him every day. You are supposed to tell me when he wants to see me."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“Me!”"
+    "text": "Me!"
   },
   {
     "character": "Narrator",
@@ -255,13 +267,13 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“I’ll lose my job—I will for sure!”"
+    "text": "Ill lose my job—I will for sure!"
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“You can’t lose it if you’re doing what he wants, especially when everyone is ordered to obey him,”"
+    "text": "You cant lose it if youre doing what he wants, especially when everyone is ordered to obey him,"
   },
   {
     "character": "Narrator",
@@ -273,7 +285,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“Do you mean to say,”"
+    "text": "Do you mean to say,"
   },
   {
     "character": "Narrator",
@@ -285,13 +297,13 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“that he was actually nice to you?”"
+    "text": "that he was actually nice to you?"
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“I think he almost liked me,”"
+    "text": "I think he almost liked me,"
   },
   {
     "character": "Narrator",
@@ -303,7 +315,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“Then you must have bewitched him!”"
+    "text": "Then you must have bewitched him!"
   },
   {
     "character": "Narrator",
@@ -315,7 +327,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“Do you mean Magic?”"
+    "text": "Do you mean Magic?"
   },
   {
     "character": "Narrator",
@@ -327,13 +339,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“I’ve heard about Magic in India, but I don’t know how to do it. I just went into his room, and I was so surprised to see him that I stood and stared. Then he turned around and stared at me. He thought I was a ghost or a dream, and I thought maybe he was one, too. It was so strange being alone together in the middle of the night, not knowing anything about each other. We just started asking questions. And when I asked if I should leave, he told me not to.”"
+    "text": "Ive heard about Magic in India, but I dont know how to do it. I just went into his room, and I was so surprised to see him that I stood and stared. Then he turned around and stared at me. He thought I was a ghost or a dream, and I thought maybe he was one, too. It was so strange being alone together in the middle of the night, not knowing anything about each other. We just started asking questions. And when I asked if I should leave, he told me not to."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“The world must be coming to an end!”"
+    "text": "The world must be coming to an end!"
   },
   {
     "character": "Narrator",
@@ -345,7 +357,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“What is the matter with him?”"
+    "text": "What is the matter with him?"
   },
   {
     "character": "Narrator",
@@ -357,7 +369,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“Nobody knows for sure,”"
+    "text": "Nobody knows for sure,"
   },
   {
     "character": "Narrator",
@@ -369,13 +381,13 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“Mr. Craven nearly lost his mind when the baby was born. The doctors thought he’d have to be put in an asylum. It was because Mrs. Craven died, just like I told you. He wouldn’t even look at the baby. He just raved and said it would grow up to be another hunchback like him, and that it would be better off dead.”"
+    "text": "Mr. Craven nearly lost his mind when the baby was born. The doctors thought hed have to be put in an asylum. It was because Mrs. Craven died, just like I told you. He wouldnt even look at the baby. He just raved and said it would grow up to be another hunchback like him, and that it would be better off dead."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“Is Colin a hunchback?”"
+    "text": "Is Colin a hunchback?"
   },
   {
     "character": "Narrator",
@@ -387,13 +399,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“He didn’t look like one.”"
+    "text": "He didnt look like one."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“He isn’t yet,”"
+    "text": "He isnt yet,"
   },
   {
     "character": "Narrator",
@@ -405,13 +417,13 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“But he started out all wrong. Mother said there was enough grief and anger in this house to make any child sick. They were afraid his back was weak, so they’ve always coddled him—keeping him lying down and not letting him walk. Once they made him wear a back brace, but he fretted so much it made him downright ill. Then a specialist from London came to see him and made them take it off. He talked to the other doctor quite sharply, though politely. He said there had been far too much medicine and too much letting him have his own way.”"
+    "text": "But he started out all wrong. Mother said there was enough grief and anger in this house to make any child sick. They were afraid his back was weak, so theyve always coddled him—keeping him lying down and not letting him walk. Once they made him wear a back brace, but he fretted so much it made him downright ill. Then a specialist from London came to see him and made them take it off. He talked to the other doctor quite sharply, though politely. He said there had been far too much medicine and too much letting him have his own way."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“I think he’s a very spoiled boy,”"
+    "text": "I think hes a very spoiled boy,"
   },
   {
     "character": "Narrator",
@@ -423,7 +435,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“He’s the most spoiled little thing that ever lived!”"
+    "text": "Hes the most spoiled little thing that ever lived!"
   },
   {
     "character": "Narrator",
@@ -435,13 +447,13 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“I won’t deny he’s been very sick. He’s had coughs and colds that nearly killed him two or three times. Once he had rheumatic fever, and another time he had typhoid. Mrs. Medlock got a terrible fright then. He’d been out of his mind with fever, and she was talking to the nurse, thinking he couldn’t hear. She said, ‘He’ll die this time for sure, and it’s the best thing for him and everyone else.’ But when she looked at him, there he was with his big eyes wide open, staring at her as clear-headed as could be. She didn’t know what he would do, but he just stared and said, ‘Give me some water and stop talking.’”"
+    "text": "I wont deny hes been very sick. Hes had coughs and colds that nearly killed him two or three times. Once he had rheumatic fever, and another time he had typhoid. Mrs. Medlock got a terrible fright then. Hed been out of his mind with fever, and she was talking to the nurse, thinking he couldnt hear. She said, Hell die this time for sure, and its the best thing for him and everyone else. But when she looked at him, there he was with his big eyes wide open, staring at her as clear-headed as could be. She didnt know what he would do, but he just stared and said, Give me some water and stop talking."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“Do you think he will die?”"
+    "text": "Do you think he will die?"
   },
   {
     "character": "Narrator",
@@ -453,7 +465,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“Mother says there’s no reason to expect a child to live when he gets no fresh air and does nothing but lie on his back, read picture books, and take medicine. He is weak, and he hates the effort of going outside. He catches cold so easily that he claims it makes him sick.”"
+    "text": "Mother says theres no reason to expect a child to live when he gets no fresh air and does nothing but lie on his back, read picture books, and take medicine. He is weak, and he hates the effort of going outside. He catches cold so easily that he claims it makes him sick."
   },
   {
     "character": "Narrator",
@@ -465,7 +477,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“I wonder,”"
+    "text": "I wonder,"
   },
   {
     "character": "Narrator",
@@ -477,13 +489,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“if it wouldn’t do him good to go out into a garden and watch things grow. It did me a lot of good.”"
+    "text": "if it wouldnt do him good to go out into a garden and watch things grow. It did me a lot of good."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“One of the worst fits he ever had,”"
+    "text": "One of the worst fits he ever had,"
   },
   {
     "character": "Narrator",
@@ -495,13 +507,13 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“was when they took him out to the roses by the fountain. He’d been reading in a paper about something called a ‘rose cold,’ and he started sneezing and insisted he had caught it. Then a new gardener, who didn’t know the rules, walked by and looked at him curiously. Colin flew into a rage, screaming that the man was staring because he was going to be a hunchback. He cried himself into a fever and was sick all night.”"
+    "text": "was when they took him out to the roses by the fountain. Hed been reading in a paper about something called a rose cold, and he started sneezing and insisted he had caught it. Then a new gardener, who didnt know the rules, walked by and looked at him curiously. Colin flew into a rage, screaming that the man was staring because he was going to be a hunchback. He cried himself into a fever and was sick all night."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“If he ever gets angry with me, I’ll never go to see him again,”"
+    "text": "If he ever gets angry with me, Ill never go to see him again,"
   },
   {
     "character": "Narrator",
@@ -513,7 +525,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“He’ll have you if he wants you,”"
+    "text": "Hell have you if he wants you,"
   },
   {
     "character": "Narrator",
@@ -525,7 +537,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“You might as well know that right from the start.”"
+    "text": "You might as well know that right from the start."
   },
   {
     "character": "Narrator",
@@ -537,7 +549,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“I expect the nurse wants me to watch him for a bit,”"
+    "text": "I expect the nurse wants me to watch him for a bit,"
   },
   {
     "character": "Narrator",
@@ -549,7 +561,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“I hope he’s in a good mood.”"
+    "text": "I hope hes in a good mood."
   },
   {
     "character": "Narrator",
@@ -561,7 +573,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“Well, you really have bewitched him,”"
+    "text": "Well, you really have bewitched him,"
   },
   {
     "character": "Narrator",
@@ -573,19 +585,25 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“He’s sitting up on his sofa with his picture books. He told the nurse to stay away until six o’clock, and I’m supposed to wait in the next room. The minute she left, he called me over and said, ‘I want Mary Lennox to come and talk to me, and remember, you’re not to tell anyone.’ You’d better go as fast as you can.”"
+    "text": "Hes sitting up on his sofa with his picture books. He told the nurse to stay away until six oclock, and Im supposed to wait in the next room. The minute she left, he called me over and said, I want Mary Lennox to come and talk to me, and remember, youre not to tell anyone. Youd better go as fast as you can."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary was more than willing to go quickly. She didn't want to see Colin quite as much as she wanted to see Dickon, but she was still very curious to see him.\n\nA bright fire was crackling on the hearth when she entered his room, and in the daylight she could see that it was a truly beautiful space. The rich colors of the rugs, hangings, pictures, and books on the walls made it feel warm and cozy, despite the gray sky and pouring rain outside. Colin looked like a picture himself, wrapped in a velvet dressing gown and propped up against a large, brocaded cushion. He had a bright red spot of color on each cheek."
+    "text": "Mary was more than willing to go quickly. She didnt want to see Colin quite as much as she wanted to see Dickon, but she was still very curious to see him."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "A bright fire was crackling on the hearth when she entered his room, and in the daylight she could see that it was a truly beautiful space. The rich colors of the rugs, hangings, pictures, and books on the walls made it feel warm and cozy, despite the gray sky and pouring rain outside. Colin looked like a picture himself, wrapped in a velvet dressing gown and propped up against a large, brocaded cushion. He had a bright red spot of color on each cheek."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“Come in,”"
+    "text": "Come in,"
   },
   {
     "character": "Narrator",
@@ -597,13 +615,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“I’ve been thinking about you all morning.”"
+    "text": "Ive been thinking about you all morning."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“I’ve been thinking about you, too,”"
+    "text": "Ive been thinking about you, too,"
   },
   {
     "character": "Narrator",
@@ -615,7 +633,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“You don’t know how scared Martha is. She’s worried Mrs. Medlock will think she told me about you, and then she’ll be fired.”"
+    "text": "You dont know how scared Martha is. Shes worried Mrs. Medlock will think she told me about you, and then shell be fired."
   },
   {
     "character": "Narrator",
@@ -627,7 +645,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“Go and tell her to come in here,”"
+    "text": "Go and tell her to come in here,"
   },
   {
     "character": "Narrator",
@@ -639,7 +657,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“She is in the next room.”"
+    "text": "She is in the next room."
   },
   {
     "character": "Narrator",
@@ -651,7 +669,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“Are you supposed to do what I want or not?”"
+    "text": "Are you supposed to do what I want or not?"
   },
   {
     "character": "Narrator",
@@ -663,7 +681,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“I have to do what you want, sir,”"
+    "text": "I have to do what you want, sir,"
   },
   {
     "character": "Narrator",
@@ -675,13 +693,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“Does Mrs. Medlock have to do what I want?”"
+    "text": "Does Mrs. Medlock have to do what I want?"
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“Everyone does, sir,”"
+    "text": "Everyone does, sir,"
   },
   {
     "character": "Narrator",
@@ -693,13 +711,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“Well, then, if I order you to bring Miss Mary to me, how can Mrs. Medlock send you away if she finds out?”"
+    "text": "Well, then, if I order you to bring Miss Mary to me, how can Mrs. Medlock send you away if she finds out?"
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“Please don’t let her, sir,”"
+    "text": "Please dont let her, sir,"
   },
   {
     "character": "Narrator",
@@ -711,7 +729,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“I’ll fire her if she dares to say a single word about it,”"
+    "text": "Ill fire her if she dares to say a single word about it,"
   },
   {
     "character": "Narrator",
@@ -723,13 +741,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“She wouldn’t like that at all, I can tell you.”"
+    "text": "She wouldnt like that at all, I can tell you."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“Thank you, sir,”"
+    "text": "Thank you, sir,"
   },
   {
     "character": "Narrator",
@@ -741,13 +759,13 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "“I only want to do my duty, sir.”"
+    "text": "I only want to do my duty, sir."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“What I want is your duty,”"
+    "text": "What I want is your duty,"
   },
   {
     "character": "Narrator",
@@ -759,7 +777,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“I’ll make sure you’re taken care of. Now you may go.”"
+    "text": "Ill make sure youre taken care of. Now you may go."
   },
   {
     "character": "Narrator",
@@ -771,7 +789,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“Why do you look at me like that?”"
+    "text": "Why do you look at me like that?"
   },
   {
     "character": "Narrator",
@@ -783,25 +801,25 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“What are you thinking about?”"
+    "text": "What are you thinking about?"
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“I’m thinking about two things.”"
+    "text": "Im thinking about two things."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“What are they? Sit down and tell me.”"
+    "text": "What are they? Sit down and tell me."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“Here is the first one,”"
+    "text": "Here is the first one,"
   },
   {
     "character": "Narrator",
@@ -813,13 +831,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“Once in India, I saw a boy who was a Rajah. He was covered in rubies, emeralds, and diamonds. He spoke to his people exactly the way you spoke to Martha. Everyone had to do whatever he said, right that very second. I think they would have been put to death if they hadn’t.”"
+    "text": "Once in India, I saw a boy who was a Rajah. He was covered in rubies, emeralds, and diamonds. He spoke to his people exactly the way you spoke to Martha. Everyone had to do whatever he said, right that very second. I think they would have been put to death if they hadnt."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“I’ll make you tell me all about Rajahs in a little while,”"
+    "text": "Ill make you tell me all about Rajahs in a little while,"
   },
   {
     "character": "Narrator",
@@ -831,13 +849,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“but first, tell me what the second thing was.”"
+    "text": "but first, tell me what the second thing was."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“I was thinking,”"
+    "text": "I was thinking,"
   },
   {
     "character": "Narrator",
@@ -849,13 +867,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“about how different you are from Dickon.”"
+    "text": "about how different you are from Dickon."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“Who is Dickon?”"
+    "text": "Who is Dickon?"
   },
   {
     "character": "Narrator",
@@ -867,7 +885,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“What a strange name!”"
+    "text": "What a strange name!"
   },
   {
     "character": "Narrator",
@@ -879,7 +897,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“He is Martha’s brother, and he’s twelve years old,”"
+    "text": "He is Marthas brother, and hes twelve years old,"
   },
   {
     "character": "Narrator",
@@ -891,7 +909,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“He is unlike anyone else in the world. He can charm foxes, squirrels, and birds, just like the people in India charm snakes. He plays a very soft tune on a wooden pipe, and they come and listen to him.”"
+    "text": "He is unlike anyone else in the world. He can charm foxes, squirrels, and birds, just like the people in India charm snakes. He plays a very soft tune on a wooden pipe, and they come and listen to him."
   },
   {
     "character": "Narrator",
@@ -903,7 +921,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“There’s a picture of a snake charmer in this one,”"
+    "text": "Theres a picture of a snake charmer in this one,"
   },
   {
     "character": "Narrator",
@@ -915,7 +933,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“Come and look.”"
+    "text": "Come and look."
   },
   {
     "character": "Narrator",
@@ -927,7 +945,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“Can he do that?”"
+    "text": "Can he do that?"
   },
   {
     "character": "Narrator",
@@ -939,7 +957,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“He plays his pipe, and they listen,”"
+    "text": "He plays his pipe, and they listen,"
   },
   {
     "character": "Narrator",
@@ -951,7 +969,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“But he doesn’t call it magic. He says it’s just because he spends so much time on the moor and understands their ways. He says he sometimes feels like a bird or a rabbit himself because he loves them so much. I think he even asks the robin questions. It seemed as if they were talking to each other in soft chirps.”"
+    "text": "But he doesnt call it magic. He says its just because he spends so much time on the moor and understands their ways. He says he sometimes feels like a bird or a rabbit himself because he loves them so much. I think he even asks the robin questions. It seemed as if they were talking to each other in soft chirps."
   },
   {
     "character": "Narrator",
@@ -963,7 +981,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“Tell me more about him,”"
+    "text": "Tell me more about him,"
   },
   {
     "character": "Narrator",
@@ -975,7 +993,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“He knows all about eggs and nests,”"
+    "text": "He knows all about eggs and nests,"
   },
   {
     "character": "Narrator",
@@ -987,13 +1005,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“And he knows where foxes, badgers, and otters live. He keeps their homes a secret so that other boys won’t find them and scare them. He knows about everything that grows or lives on the moor.”"
+    "text": "And he knows where foxes, badgers, and otters live. He keeps their homes a secret so that other boys wont find them and scare them. He knows about everything that grows or lives on the moor."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“Does he actually like the moor?”"
+    "text": "Does he actually like the moor?"
   },
   {
     "character": "Narrator",
@@ -1005,13 +1023,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“How can he, when it’s such a huge, bare, dreary place?”"
+    "text": "How can he, when its such a huge, bare, dreary place?"
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“It’s the most beautiful place!”"
+    "text": "Its the most beautiful place!"
   },
   {
     "character": "Narrator",
@@ -1023,13 +1041,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“Thousands of lovely things grow there, and there are thousands of little creatures busy building nests, digging holes, making burrows, and chirping or singing or squeaking to each other. They are so busy having fun under the earth, in the trees, or in the heather. It’s their world.”"
+    "text": "Thousands of lovely things grow there, and there are thousands of little creatures busy building nests, digging holes, making burrows, and chirping or singing or squeaking to each other. They are so busy having fun under the earth, in the trees, or in the heather. Its their world."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“How do you know all that?”"
+    "text": "How do you know all that?"
   },
   {
     "character": "Narrator",
@@ -1041,7 +1059,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“I’ve never actually been out on it, really,”"
+    "text": "Ive never actually been out on it, really,"
   },
   {
     "character": "Narrator",
@@ -1053,13 +1071,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“I only drove across it in the dark, and I thought it was horrible. Martha told me about it first, and then Dickon. When Dickon talks about it, you feel as if you can see and hear everything—as if you were standing right in the heather with the sun shining and the yellow gorse flowers smelling like honey, surrounded by bees and butterflies.”"
+    "text": "I only drove across it in the dark, and I thought it was horrible. Martha told me about it first, and then Dickon. When Dickon talks about it, you feel as if you can see and hear everything—as if you were standing right in the heather with the sun shining and the yellow gorse flowers smelling like honey, surrounded by bees and butterflies."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“You never see anything when you’re sick,”"
+    "text": "You never see anything when youre sick,"
   },
   {
     "character": "Narrator",
@@ -1071,7 +1089,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“You can’t if you stay inside a room all the time,”"
+    "text": "You cant if you stay inside a room all the time,"
   },
   {
     "character": "Narrator",
@@ -1083,19 +1101,25 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“I couldn’t go out on the moor,”"
+    "text": "I couldnt go out on the moor,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "he said in a resentful tone.\n\nMary was silent for a moment, and then she said something very bold."
+    "text": "he said in a resentful tone."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Mary was silent for a moment, and then she said something very bold."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“You might—someday.”"
+    "text": "You might—someday."
   },
   {
     "character": "Narrator",
@@ -1107,25 +1131,25 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“Go out on the moor? How could I? I’m going to die.”"
+    "text": "Go out on the moor? How could I? Im going to die."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“How do you know?”"
+    "text": "How do you know?"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary said unsympathetically. She didn’t like the way he constantly talked about dying. She didn’t feel sorry for him at all; in fact, she felt like he was almost boasting about it."
+    "text": "Mary said unsympathetically. She didnt like the way he constantly talked about dying. She didnt feel sorry for him at all; in fact, she felt like he was almost boasting about it."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“Oh, I’ve heard it for as long as I can remember,”"
+    "text": "Oh, Ive heard it for as long as I can remember,"
   },
   {
     "character": "Narrator",
@@ -1137,7 +1161,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“They’re always whispering about it, thinking I don’t notice. They wish I would, too.”"
+    "text": "Theyre always whispering about it, thinking I dont notice. They wish I would, too."
   },
   {
     "character": "Narrator",
@@ -1149,7 +1173,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“If they wished I would die,”"
+    "text": "If they wished I would die,"
   },
   {
     "character": "Narrator",
@@ -1161,43 +1185,55 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“I’d make sure I didn’t. Who wishes you would?”"
+    "text": "Id make sure I didnt. Who wishes you would?"
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“The servants—and Dr. Craven, of course, because he would inherit Misselthwaite and be rich instead of poor. He doesn’t dare say so, but he always looks cheerful when I get worse. When I had typhoid fever, his face looked positively glowing. I think my father wishes I would die, too.”"
+    "text": "The servants—and Dr. Craven, of course, because he would inherit Misselthwaite and be rich instead of poor. He doesnt dare say so, but he always looks cheerful when I get worse. When I had typhoid fever, his face looked positively glowing. I think my father wishes I would die, too."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“I don’t believe he does,”"
+    "text": "I dont believe he does,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary said stubbornly.\n\nThat made Colin turn and stare at her again."
+    "text": "Mary said stubbornly."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "That made Colin turn and stare at her again."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“You don’t?”"
+    "text": "You dont?"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "he asked.\n\nThen he lay back on his cushion and was quiet, as if he were deep in thought. A long silence followed. Perhaps both of them were thinking the strange kinds of thoughts that children do not usually have."
+    "text": "he asked."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Then he lay back on his cushion and was quiet, as if he were deep in thought. A long silence followed. Perhaps both of them were thinking the strange kinds of thoughts that children do not usually have."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“I like the great doctor from London, because he made them take that iron brace off,”"
+    "text": "I like the great doctor from London, because he made them take that iron brace off,"
   },
   {
     "character": "Narrator",
@@ -1209,25 +1245,25 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“Did he say you were going to die?”"
+    "text": "Did he say you were going to die?"
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“No.”"
+    "text": "No."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“What did he say?”"
+    "text": "What did he say?"
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“He didn’t whisper,”"
+    "text": "He didnt whisper,"
   },
   {
     "character": "Narrator",
@@ -1239,13 +1275,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“Maybe he knew I hated whispering. I heard him say one thing quite out loud. He said, ‘The boy might live if he would make up his mind to it. Get him into a better frame of mind.’ He sounded rather angry when he said it.”"
+    "text": "Maybe he knew I hated whispering. I heard him say one thing quite out loud. He said, The boy might live if he would make up his mind to it. Get him into a better frame of mind. He sounded rather angry when he said it."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“I’ll tell you who might get you into a better frame of mind,”"
+    "text": "Ill tell you who might get you into a better frame of mind,"
   },
   {
     "character": "Narrator",
@@ -1257,19 +1293,19 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“I bet Dickon would. He’s always talking about living things. He never talks about dead things or things that are sick. He’s always looking up at the sky to watch birds flying, or looking down at the ground to see something growing. He has these round blue eyes that are always wide open from looking around. And he laughs such a big laugh with his wide mouth—and his cheeks are as red as cherries.”"
+    "text": "I bet Dickon would. Hes always talking about living things. He never talks about dead things or things that are sick. Hes always looking up at the sky to watch birds flying, or looking down at the ground to see something growing. He has these round blue eyes that are always wide open from looking around. And he laughs such a big laugh with his wide mouth—and his cheeks are as red as cherries."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "She pulled her stool closer to the sofa, her face completely changing at the memory of Dickon’s wide, smiling mouth and bright, open eyes."
+    "text": "She pulled her stool closer to the sofa, her face completely changing at the memory of Dickons wide, smiling mouth and bright, open eyes."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“Look,”"
+    "text": "Look,"
   },
   {
     "character": "Narrator",
@@ -1281,19 +1317,25 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "“Let’s not talk about dying. I don’t like it. Let’s talk about living instead. Let’s talk all about Dickon, and then we can look at your pictures.”"
+    "text": "Lets not talk about dying. I dont like it. Lets talk about living instead. Lets talk all about Dickon, and then we can look at your pictures."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "It was the absolute best thing she could have said. Talking about Dickon meant talking about the moor, the cottage, and the fourteen people who lived in it on sixteen shillings a week. It meant talking about the children who grew chubby on the fresh moor air just like the wild ponies, and about Dickon’s mother, the skipping rope, the sunlit moor, and the tiny green shoots pushing up through the dark soil. Everything felt so alive that Mary talked more than she ever had in her life. Colin, too, talked and listened in a way he never had before. Soon, they both began to laugh over silly little things, the way happy children do. They laughed so hard that before long, they were making as much noise as two normal, healthy ten-year-olds—instead of a cold, stubborn little girl and a sickly boy convinced he was going to die.\n\nThey were having such a wonderful time that they completely forgot about the pictures and the time. They were laughing loudly over stories about Ben Weatherstaff and his robin, and Colin was actually sitting upright as if he had forgotten all about his weak back, when he suddenly remembered something."
+    "text": "It was the absolute best thing she could have said. Talking about Dickon meant talking about the moor, the cottage, and the fourteen people who lived in it on sixteen shillings a week. It meant talking about the children who grew chubby on the fresh moor air just like the wild ponies, and about Dickons mother, the skipping rope, the sunlit moor, and the tiny green shoots pushing up through the dark soil. Everything felt so alive that Mary talked more than she ever had in her life. Colin, too, talked and listened in a way he never had before. Soon, they both began to laugh over silly little things, the way happy children do. They laughed so hard that before long, they were making as much noise as two normal, healthy ten-year-olds—instead of a cold, stubborn little girl and a sickly boy convinced he was going to die."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "They were having such a wonderful time that they completely forgot about the pictures and the time. They were laughing loudly over stories about Ben Weatherstaff and his robin, and Colin was actually sitting upright as if he had forgotten all about his weak back, when he suddenly remembered something."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“Do you know there’s one thing we haven’t thought of at all?”"
+    "text": "Do you know theres one thing we havent thought of at all?"
   },
   {
     "character": "Narrator",
@@ -1305,19 +1347,25 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“We are cousins!”"
+    "text": "We are cousins!"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "It seemed so funny that they had talked for so long without remembering this simple fact that they laughed harder than ever, having reached that silly state where everything is hilarious. In the middle of their laughter, the door opened and in walked Dr. Craven and Mrs. Medlock.\n\nDr. Craven stopped in absolute alarm, and Mrs. Medlock almost fell backward because he had accidentally backed into her."
+    "text": "It seemed so funny that they had talked for so long without remembering this simple fact that they laughed harder than ever, having reached that silly state where everything is hilarious. In the middle of their laughter, the door opened and in walked Dr. Craven and Mrs. Medlock."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Dr. Craven stopped in absolute alarm, and Mrs. Medlock almost fell backward because he had accidentally backed into her."
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "“Good Lord!”"
+    "text": "Good Lord!"
   },
   {
     "character": "Narrator",
@@ -1329,13 +1377,13 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "“Good Lord!”"
+    "text": "Good Lord!"
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "“What is this?”"
+    "text": "What is this?"
   },
   {
     "character": "Narrator",
@@ -1347,19 +1395,19 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "“What is the meaning of this?”"
+    "text": "What is the meaning of this?"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary was immediately reminded of the young Rajah again. Colin answered as if the doctor’s shock and Mrs. Medlock’s terror didn’t matter in the least. He was as calm and unbothered as if a couple of old pets had strolled into the room."
+    "text": "Mary was immediately reminded of the young Rajah again. Colin answered as if the doctors shock and Mrs. Medlocks terror didnt matter in the least. He was as calm and unbothered as if a couple of old pets had strolled into the room."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“This is my cousin, Mary Lennox,”"
+    "text": "This is my cousin, Mary Lennox,"
   },
   {
     "character": "Narrator",
@@ -1371,7 +1419,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“I asked her to come and talk to me. I like her. She is to come and talk to me whenever I send for her.”"
+    "text": "I asked her to come and talk to me. I like her. She is to come and talk to me whenever I send for her."
   },
   {
     "character": "Narrator",
@@ -1383,7 +1431,7 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "“Oh, sir,”"
+    "text": "Oh, sir,"
   },
   {
     "character": "Narrator",
@@ -1395,13 +1443,13 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "“I don’t know how this could have happened. There isn’t a servant on the estate who would dare to speak—they all have their strict orders.”"
+    "text": "I dont know how this could have happened. There isnt a servant on the estate who would dare to speak—they all have their strict orders."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“Nobody told her anything,”"
+    "text": "Nobody told her anything,"
   },
   {
     "character": "Narrator",
@@ -1413,19 +1461,19 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“She heard me crying and found me herself. I’m glad she came. Don’t be ridiculous, Medlock.”"
+    "text": "She heard me crying and found me herself. Im glad she came. Dont be ridiculous, Medlock."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary saw that Dr. Craven looked highly displeased, but it was obvious he didn't dare cross his patient. He sat down beside Colin and took his pulse."
+    "text": "Mary saw that Dr. Craven looked highly displeased, but it was obvious he didnt dare cross his patient. He sat down beside Colin and took his pulse."
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "“I’m afraid there has been too much excitement. Excitement is not good for you, my boy,”"
+    "text": "Im afraid there has been too much excitement. Excitement is not good for you, my boy,"
   },
   {
     "character": "Narrator",
@@ -1437,7 +1485,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“I would be more excited if she stayed away,”"
+    "text": "I would be more excited if she stayed away,"
   },
   {
     "character": "Narrator",
@@ -1449,7 +1497,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“I feel better. She makes me feel better. The nurse must bring her tea up with mine. We’re going to have tea together.”"
+    "text": "I feel better. She makes me feel better. The nurse must bring her tea up with mine. Were going to have tea together."
   },
   {
     "character": "Narrator",
@@ -1461,7 +1509,7 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "“He does look a bit better, sir,”"
+    "text": "He does look a bit better, sir,"
   },
   {
     "character": "Narrator",
@@ -1473,7 +1521,7 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "“But,”"
+    "text": "But,"
   },
   {
     "character": "Narrator",
@@ -1485,13 +1533,13 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "“he looked better this morning before she came in.”"
+    "text": "he looked better this morning before she came in."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“She came into my room last night,”"
+    "text": "She came into my room last night,"
   },
   {
     "character": "Narrator",
@@ -1503,19 +1551,25 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“She stayed with me a long time. She sang a Hindustani song to me, and it put me to sleep. I felt much better when I woke up. I wanted my breakfast, and now I want my tea. Tell the nurse, Medlock.”"
+    "text": "She stayed with me a long time. She sang a Hindustani song to me, and it put me to sleep. I felt much better when I woke up. I wanted my breakfast, and now I want my tea. Tell the nurse, Medlock."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Dr. Craven didn’t stay much longer. He spoke to the nurse for a few minutes when she arrived and gave Colin a few warning words. He mustn’t talk too much; he mustn’t forget that he was sick; he mustn’t forget that he got tired very easily. Mary thought there seemed to be an awful lot of unpleasant things he was supposed to keep in mind.\n\nColin looked irritated and kept his strange, dark-lashed eyes fixed on Dr. Craven’s face."
+    "text": "Dr. Craven didnt stay much longer. He spoke to the nurse for a few minutes when she arrived and gave Colin a few warning words. He mustnt talk too much; he mustnt forget that he was sick; he mustnt forget that he got tired very easily. Mary thought there seemed to be an awful lot of unpleasant things he was supposed to keep in mind."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Colin looked irritated and kept his strange, dark-lashed eyes fixed on Dr. Cravens face."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“I want to forget it,”"
+    "text": "I want to forget it,"
   },
   {
     "character": "Narrator",
@@ -1527,19 +1581,19 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“She makes me forget it. That’s why I want her here.”"
+    "text": "She makes me forget it. Thats why I want her here."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Dr. Craven looked very uneasy as he left the room. He cast a puzzled glance at the little girl sitting on the large stool. The moment he had walked in, she had turned back into a stiff, silent child, and he couldn’t understand what Colin saw in her. Still, the boy did look noticeably brighter, and the doctor sighed heavily as he walked down the corridor."
+    "text": "Dr. Craven looked very uneasy as he left the room. He cast a puzzled glance at the little girl sitting on the large stool. The moment he had walked in, she had turned back into a stiff, silent child, and he couldnt understand what Colin saw in her. Still, the boy did look noticeably brighter, and the doctor sighed heavily as he walked down the corridor."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“They’re always trying to force me to eat when I don’t want to,”"
+    "text": "Theyre always trying to force me to eat when I dont want to,"
   },
   {
     "character": "Narrator",
@@ -1551,6 +1605,6 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "“But if you’ll eat, I will. Those muffins look so nice and hot. Now, tell me about Rajahs.”"
+    "text": "But if youll eat, I will. Those muffins look so nice and hot. Now, tell me about Rajahs."
   }
 ]

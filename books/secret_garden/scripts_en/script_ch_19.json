@@ -3,13 +3,19 @@
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Chapter 19: \"It Has Come!\"\n\nOf course, Dr. Craven had been sent for the morning after Colin's tantrum. He was always summoned immediately when such episodes occurred. Every time he arrived, he found a pale, shaken boy lying in bed, sulky and still so hysterical that he was ready to burst into tears at the slightest word. In fact, Dr. Craven dreaded and hated these difficult visits. This time, he was away from Misselthwaite Manor until the afternoon."
+    "text": "Chapter 19: It Has Come!"
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Of course, Dr. Craven had been sent for the morning after Colins tantrum. He was always summoned immediately when such episodes occurred. Every time he arrived, he found a pale, shaken boy lying in bed, sulky and still so hysterical that he was ready to burst into tears at the slightest word. In fact, Dr. Craven dreaded and hated these difficult visits. This time, he was away from Misselthwaite Manor until the afternoon."
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"How is he?\""
+    "text": "How is he?"
   },
   {
     "character": "Narrator",
@@ -21,13 +27,13 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"He will burst a blood vessel in one of those fits some day. The boy is half insane with hysteria and self-indulgence.\""
+    "text": "He will burst a blood vessel in one of those fits some day. The boy is half insane with hysteria and self-indulgence."
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Well, sir,\""
+    "text": "Well, sir,"
   },
   {
     "character": "Narrator",
@@ -39,19 +45,19 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"you will hardly believe your eyes when you see him. That plain, sour-faced child—who is almost as bad as he is—has completely bewitched him. There is no telling how she did it. Goodness knows she is nothing to look at, and you barely ever hear her speak, but she did what none of us dared to do. She flew at him like a little cat last night, stamped her feet, and ordered him to stop screaming. Somehow she startled him so much that he actually stopped, and this afternoon—well, just come upstairs and see, sir. It is hard to believe.\""
+    "text": "you will hardly believe your eyes when you see him. That plain, sour-faced child—who is almost as bad as he is—has completely bewitched him. There is no telling how she did it. Goodness knows she is nothing to look at, and you barely ever hear her speak, but she did what none of us dared to do. She flew at him like a little cat last night, stamped her feet, and ordered him to stop screaming. Somehow she startled him so much that he actually stopped, and this afternoon—well, just come upstairs and see, sir. It is hard to believe."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "The scene Dr. Craven saw when he entered his patient's room was truly astonishing. As Mrs. Medlock opened the door, he heard laughing and chattering. Colin was sitting up quite straight on his sofa in his dressing gown. He was looking at a picture in one of the gardening books and talking to the plain child, who at that moment could hardly be called plain at all because her face was glowing with so much joy."
+    "text": "The scene Dr. Craven saw when he entered his patients room was truly astonishing. As Mrs. Medlock opened the door, he heard laughing and chattering. Colin was sitting up quite straight on his sofa in his dressing gown. He was looking at a picture in one of the gardening books and talking to the plain child, who at that moment could hardly be called plain at all because her face was glowing with so much joy."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Those long spires of blue flowers—we will have a lot of those,\""
+    "text": "Those long spires of blue flowers—we will have a lot of those,"
   },
   {
     "character": "Narrator",
@@ -63,13 +69,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"They are called Delphiniums.\""
+    "text": "They are called Delphiniums."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Dickon says they are larkspurs made big and grand,\""
+    "text": "Dickon says they are larkspurs made big and grand,"
   },
   {
     "character": "Narrator",
@@ -81,7 +87,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"There are clumps of them in the garden already.\""
+    "text": "There are clumps of them in the garden already."
   },
   {
     "character": "Narrator",
@@ -93,7 +99,7 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I am sorry to hear you were ill last night, my boy,\""
+    "text": "I am sorry to hear you were ill last night, my boy,"
   },
   {
     "character": "Narrator",
@@ -105,7 +111,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I am better now—much better,\""
+    "text": "I am better now—much better,"
   },
   {
     "character": "Narrator",
@@ -117,7 +123,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I am going out in my wheelchair in a day or two if the weather is fine. I want some fresh air.\""
+    "text": "I am going out in my wheelchair in a day or two if the weather is fine. I want some fresh air."
   },
   {
     "character": "Narrator",
@@ -129,7 +135,7 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"It must be a very fine day,\""
+    "text": "It must be a very fine day,"
   },
   {
     "character": "Narrator",
@@ -141,25 +147,31 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"and you must be very careful not to tire yourself.\""
+    "text": "and you must be very careful not to tire yourself."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Fresh air will not tire me,\""
+    "text": "Fresh air will not tire me,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "said the young prince.\n\nSince there had been times when this same young gentleman had screamed with rage, insisting that fresh air would give him a cold and kill him, it was no wonder the doctor felt startled."
+    "text": "said the young prince."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Since there had been times when this same young gentleman had screamed with rage, insisting that fresh air would give him a cold and kill him, it was no wonder the doctor felt startled."
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I thought you did not like fresh air,\""
+    "text": "I thought you did not like fresh air,"
   },
   {
     "character": "Narrator",
@@ -171,7 +183,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I do not like it when I am by myself,\""
+    "text": "I do not like it when I am by myself,"
   },
   {
     "character": "Narrator",
@@ -183,13 +195,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"But my cousin is going out with me.\""
+    "text": "But my cousin is going out with me."
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"And the nurse, of course?\""
+    "text": "And the nurse, of course?"
   },
   {
     "character": "Narrator",
@@ -201,7 +213,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"No, I will not have the nurse,\""
+    "text": "No, I will not have the nurse,"
   },
   {
     "character": "Narrator",
@@ -213,7 +225,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"My cousin knows how to take care of me. I am always better when she is with me. She made me feel better last night. A very strong boy I know will push my carriage.\""
+    "text": "My cousin knows how to take care of me. I am always better when she is with me. She made me feel better last night. A very strong boy I know will push my carriage."
   },
   {
     "character": "Narrator",
@@ -225,7 +237,7 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"He must be a strong and steady boy,\""
+    "text": "He must be a strong and steady boy,"
   },
   {
     "character": "Narrator",
@@ -237,25 +249,25 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"And I must know something about him. Who is he? What is his name?\""
+    "text": "And I must know something about him. Who is he? What is his name?"
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"It is Dickon,\""
+    "text": "It is Dickon,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary spoke up suddenly. She felt that anyone who knew the moor must know Dickon. And she was right. She saw Dr. Craven's serious face instantly relax into a relieved smile."
+    "text": "Mary spoke up suddenly. She felt that anyone who knew the moor must know Dickon. And she was right. She saw Dr. Cravens serious face instantly relax into a relieved smile."
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Oh, Dickon,\""
+    "text": "Oh, Dickon,"
   },
   {
     "character": "Narrator",
@@ -267,13 +279,13 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"If it is Dickon, you will be safe enough. Dickon is as strong as a moor pony.\""
+    "text": "If it is Dickon, you will be safe enough. Dickon is as strong as a moor pony."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"And he is trustworthy,\""
+    "text": "And he is trustworthy,"
   },
   {
     "character": "Narrator",
@@ -285,7 +297,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"He is the most trustworthy lad in Yorkshire.\""
+    "text": "He is the most trustworthy lad in Yorkshire."
   },
   {
     "character": "Narrator",
@@ -297,7 +309,7 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Did Dickon teach you that?\""
+    "text": "Did Dickon teach you that?"
   },
   {
     "character": "Narrator",
@@ -309,7 +321,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I am learning it as if it were French,\""
+    "text": "I am learning it as if it were French,"
   },
   {
     "character": "Narrator",
@@ -321,13 +333,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"It is like a native dialect in India. Very clever people try to learn them. I like it, and so does Colin.\""
+    "text": "It is like a native dialect in India. Very clever people try to learn them. I like it, and so does Colin."
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Well, well,\""
+    "text": "Well, well,"
   },
   {
     "character": "Narrator",
@@ -339,13 +351,13 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"If it amuses you, perhaps it will not do you any harm. Did you take your medicine last night, Colin?\""
+    "text": "If it amuses you, perhaps it will not do you any harm. Did you take your medicine last night, Colin?"
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"No,\""
+    "text": "No,"
   },
   {
     "character": "Narrator",
@@ -357,13 +369,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I refused to take it at first, and after Mary calmed me down, she talked me to sleep. She spoke in a low voice about the spring creeping into a garden.\""
+    "text": "I refused to take it at first, and after Mary calmed me down, she talked me to sleep. She spoke in a low voice about the spring creeping into a garden."
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"That sounds soothing,\""
+    "text": "That sounds soothing,"
   },
   {
     "character": "Narrator",
@@ -375,13 +387,13 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"You are clearly better, but you must remember—\""
+    "text": "You are clearly better, but you must remember—"
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I do not want to remember,\""
+    "text": "I do not want to remember,"
   },
   {
     "character": "Narrator",
@@ -393,7 +405,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"When I lie by myself and remember, I start to feel pains everywhere. I think of things that make me want to scream because I hate them so much. If there were a doctor anywhere who could make you forget you were ill instead of remembering it, I would have him brought here.\""
+    "text": "When I lie by myself and remember, I start to feel pains everywhere. I think of things that make me want to scream because I hate them so much. If there were a doctor anywhere who could make you forget you were ill instead of remembering it, I would have him brought here."
   },
   {
     "character": "Narrator",
@@ -405,7 +417,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"It is because my cousin makes me forget that she makes me better.\""
+    "text": "It is because my cousin makes me forget that she makes me better."
   },
   {
     "character": "Narrator",
@@ -417,7 +429,7 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Well, sir,\""
+    "text": "Well, sir,"
   },
   {
     "character": "Narrator",
@@ -429,13 +441,13 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"could you have believed it?\""
+    "text": "could you have believed it?"
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"It is certainly a new state of affairs,\""
+    "text": "It is certainly a new state of affairs,"
   },
   {
     "character": "Narrator",
@@ -447,13 +459,13 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"And there is no denying that it is better than the old one.\""
+    "text": "And there is no denying that it is better than the old one."
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I believe Susan Sowerby is right—I really do,\""
+    "text": "I believe Susan Sowerby is right—I really do,"
   },
   {
     "character": "Narrator",
@@ -465,13 +477,13 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I stopped by her cottage on my way to Thwaite yesterday and had a chat with her. She said to me, 'Well, Sarah Ann, she might not be a good child, and she might not be a pretty one, but she is a child, and children need other children.' Susan Sowerby and I went to school together.\""
+    "text": "I stopped by her cottage on my way to Thwaite yesterday and had a chat with her. She said to me, Well, Sarah Ann, she might not be a good child, and she might not be a pretty one, but she is a child, and children need other children. Susan Sowerby and I went to school together."
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"She is the best nurse I know,\""
+    "text": "She is the best nurse I know,"
   },
   {
     "character": "Narrator",
@@ -483,7 +495,7 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"When I find her in a cottage, I know the chances are that I will save my patient.\""
+    "text": "When I find her in a cottage, I know the chances are that I will save my patient."
   },
   {
     "character": "Narrator",
@@ -495,7 +507,7 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"She has a way with her, Susan does,\""
+    "text": "She has a way with her, Susan does,"
   },
   {
     "character": "Narrator",
@@ -507,13 +519,13 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I have been thinking all morning about something she said yesterday. She said, 'Once when I was giving the children a bit of a lecture after they had been fighting, I told them all: \"When I was at school, my geography book said the world was shaped like an orange, and I found out before I was ten that the whole orange doesn't belong to anyone. No one owns more than their own little section, and sometimes it seems like there aren't enough sections to go around. But don't any of you think you own the whole orange, or you will find out you're mistaken, and you won't learn that without some hard knocks.\" What children learn from other children,' she said, 'is that there is no sense in grabbing for the whole orange, peel and all. If you do, you probably won't even get the seeds, and those are too bitter to eat.'\""
+    "text": "I have been thinking all morning about something she said yesterday. She said, Once when I was giving the children a bit of a lecture after they had been fighting, I told them all: When I was at school, my geography book said the world was shaped like an orange, and I found out before I was ten that the whole orange doesnt belong to anyone. No one owns more than their own little section, and sometimes it seems like there arent enough sections to go around. But dont any of you think you own the whole orange, or you will find out youre mistaken, and you wont learn that without some hard knocks. What children learn from other children, she said, is that there is no sense in grabbing for the whole orange, peel and all. If you do, you probably wont even get the seeds, and those are too bitter to eat."
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"She is a wise woman,\""
+    "text": "She is a wise woman,"
   },
   {
     "character": "Narrator",
@@ -525,7 +537,7 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Well, she has a way of saying things,\""
+    "text": "Well, she has a way of saying things,"
   },
   {
     "character": "Narrator",
@@ -537,7 +549,7 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Sometimes I have said to her, 'Oh, Susan, if you were a different woman and did not speak such broad Yorkshire, there are times when I would have said you were downright clever.'\""
+    "text": "Sometimes I have said to her, Oh, Susan, if you were a different woman and did not speak such broad Yorkshire, there are times when I would have said you were downright clever."
   },
   {
     "character": "Narrator",
@@ -549,19 +561,25 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"You have been out! You have been out! There is that wonderful smell of leaves!\""
+    "text": "You have been out! You have been out! There is that wonderful smell of leaves!"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "he cried.\n\nShe had been running, and her hair was loose and windblown. She was bright from the fresh air and her cheeks were rosy."
+    "text": "he cried."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "She had been running, and her hair was loose and windblown. She was bright from the fresh air and her cheeks were rosy."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"It is so beautiful!\""
+    "text": "It is so beautiful!"
   },
   {
     "character": "Narrator",
@@ -573,13 +591,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"You have never seen anything so beautiful! It has come! I thought it had come the other morning, but it was only on its way. It is here now! Spring has finally arrived! Dickon says so!\""
+    "text": "You have never seen anything so beautiful! It has come! I thought it had come the other morning, but it was only on its way. It is here now! Spring has finally arrived! Dickon says so!"
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Has it?\""
+    "text": "Has it?"
   },
   {
     "character": "Narrator",
@@ -591,7 +609,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Open the window!\""
+    "text": "Open the window!"
   },
   {
     "character": "Narrator",
@@ -603,7 +621,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Perhaps we will hear golden trumpets!\""
+    "text": "Perhaps we will hear golden trumpets!"
   },
   {
     "character": "Narrator",
@@ -615,7 +633,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"That is fresh air,\""
+    "text": "That is fresh air,"
   },
   {
     "character": "Narrator",
@@ -627,31 +645,37 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Lie on your back and take long, deep breaths of it. That is what Dickon does when he lies on the moor. He says he feels it in his veins, and it makes him strong, and he feels as if he could live forever and ever. Breathe it in, keep breathing it.\""
+    "text": "Lie on your back and take long, deep breaths of it. That is what Dickon does when he lies on the moor. He says he feels it in his veins, and it makes him strong, and he feels as if he could live forever and ever. Breathe it in, keep breathing it."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "She was only repeating what Dickon had told her, but she captured Colin's imagination."
+    "text": "She was only repeating what Dickon had told her, but she captured Colins imagination."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Forever and ever! Does it make him feel like that?\""
+    "text": "Forever and ever! Does it make him feel like that?"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "he asked. He did exactly as she told him, taking long, deep breaths over and over again until he felt that something completely new and wonderful was happening to him.\n\nMary came back to his bedside."
+    "text": "he asked. He did exactly as she told him, taking long, deep breaths over and over again until he felt that something completely new and wonderful was happening to him."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Mary came back to his bedside."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Things are crowding up out of the earth,\""
+    "text": "Things are crowding up out of the earth,"
   },
   {
     "character": "Narrator",
@@ -663,19 +687,25 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Flowers are uncurling and buds are on everything. The green veil has covered almost all the gray, and the birds are in such a hurry to build their nests for fear of being too late that some of them are even fighting for places in the secret garden. The rosebushes look as alive as can be, there are primroses in the lanes and woods, the seeds we planted are sprouting, and Dickon has brought the fox, the crow, the squirrels, and a newborn lamb!\""
+    "text": "Flowers are uncurling and buds are on everything. The green veil has covered almost all the gray, and the birds are in such a hurry to build their nests for fear of being too late that some of them are even fighting for places in the secret garden. The rosebushes look as alive as can be, there are primroses in the lanes and woods, the seeds we planted are sprouting, and Dickon has brought the fox, the crow, the squirrels, and a newborn lamb!"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Then she paused for breath. Dickon had found the newborn lamb three days before, lying by its dead mother among the gorse bushes on the moor. It was not the first motherless lamb he had found, and he knew exactly what to do. He had wrapped it in his jacket, taken it to the cottage, let it lie near the fire, and fed it warm milk. It was a soft little thing with a sweet, silly baby face and legs that were rather long for its body. Dickon had carried it across the moor in his arms, and its feeding bottle was in his pocket along with a squirrel. When Mary had sat under a tree with its warm, soft body cuddled on her lap, she felt too full of wonder and joy to speak. A lamb—a real, living lamb lying on her lap just like a baby!\n\nShe was describing the lamb with great joy, and Colin was listening while taking deep breaths of air, when the nurse entered. The nurse started slightly at the sight of the open window. She had sat stifling in the room on many warm days because her patient was convinced that open windows would give him a cold."
+    "text": "Then she paused for breath. Dickon had found the newborn lamb three days before, lying by its dead mother among the gorse bushes on the moor. It was not the first motherless lamb he had found, and he knew exactly what to do. He had wrapped it in his jacket, taken it to the cottage, let it lie near the fire, and fed it warm milk. It was a soft little thing with a sweet, silly baby face and legs that were rather long for its body. Dickon had carried it across the moor in his arms, and its feeding bottle was in his pocket along with a squirrel. When Mary had sat under a tree with its warm, soft body cuddled on her lap, she felt too full of wonder and joy to speak. A lamb—a real, living lamb lying on her lap just like a baby!"
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "She was describing the lamb with great joy, and Colin was listening while taking deep breaths of air, when the nurse entered. The nurse started slightly at the sight of the open window. She had sat stifling in the room on many warm days because her patient was convinced that open windows would give him a cold."
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Are you sure you are not chilly, Master Colin?\""
+    "text": "Are you sure you are not chilly, Master Colin?"
   },
   {
     "character": "Narrator",
@@ -687,7 +717,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"No,\""
+    "text": "No,"
   },
   {
     "character": "Narrator",
@@ -699,19 +729,25 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I am breathing deep breaths of fresh air. It makes you strong. I am going to get up and sit on the sofa for breakfast. My cousin will eat with me.\""
+    "text": "I am breathing deep breaths of fresh air. It makes you strong. I am going to get up and sit on the sofa for breakfast. My cousin will eat with me."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "The nurse went away, hiding a smile, to order two breakfasts. She found the servants' hall a much more cheerful place than the invalid's room, and right now everyone wanted to hear the news from upstairs. There was a lot of joking about the unpopular young recluse who, as the cook put it, \"had finally met his match, and good for him.\" The servants were very tired of his tantrums, and the butler, who had a family of his own, had more than once expressed his opinion that the boy would be much better off if someone gave him a good scolding.\n\nWhen Colin was on his sofa and breakfast for two was served, he made an announcement to the nurse in his most princely manner."
+    "text": "The nurse went away, hiding a smile, to order two breakfasts. She found the servants hall a much more cheerful place than the invalids room, and right now everyone wanted to hear the news from upstairs. There was a lot of joking about the unpopular young recluse who, as the cook put it, had finally met his match, and good for him. The servants were very tired of his tantrums, and the butler, who had a family of his own, had more than once expressed his opinion that the boy would be much better off if someone gave him a good scolding."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "When Colin was on his sofa and breakfast for two was served, he made an announcement to the nurse in his most princely manner."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"A boy, a fox, a crow, two squirrels, and a newborn lamb are coming to see me this morning. I want them brought upstairs as soon as they arrive,\""
+    "text": "A boy, a fox, a crow, two squirrels, and a newborn lamb are coming to see me this morning. I want them brought upstairs as soon as they arrive,"
   },
   {
     "character": "Narrator",
@@ -723,7 +759,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Do not start playing with the animals in the servants' hall and keep them down there. I want them up here.\""
+    "text": "Do not start playing with the animals in the servants hall and keep them down there. I want them up here."
   },
   {
     "character": "Narrator",
@@ -735,7 +771,7 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Yes, sir,\""
+    "text": "Yes, sir,"
   },
   {
     "character": "Narrator",
@@ -747,7 +783,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I will tell you what you can do,\""
+    "text": "I will tell you what you can do,"
   },
   {
     "character": "Narrator",
@@ -759,13 +795,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"You can tell Martha to bring them here. The boy is Martha's brother. His name is Dickon, and he is an animal charmer.\""
+    "text": "You can tell Martha to bring them here. The boy is Marthas brother. His name is Dickon, and he is an animal charmer."
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I hope the animals will not bite, Master Colin,\""
+    "text": "I hope the animals will not bite, Master Colin,"
   },
   {
     "character": "Narrator",
@@ -777,7 +813,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I told you he is a charmer,\""
+    "text": "I told you he is a charmer,"
   },
   {
     "character": "Narrator",
@@ -789,13 +825,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"A charmer's animals never bite.\""
+    "text": "A charmers animals never bite."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"There are snake charmers in India,\""
+    "text": "There are snake charmers in India,"
   },
   {
     "character": "Narrator",
@@ -807,25 +843,31 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"And they can put the snakes' heads in their mouths.\""
+    "text": "And they can put the snakes heads in their mouths."
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Goodness!\""
+    "text": "Goodness!"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "the nurse shuddered.\n\nThey ate their breakfast with the morning air pouring in. Colin ate a very hearty breakfast, and Mary watched him with serious interest."
+    "text": "the nurse shuddered."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "They ate their breakfast with the morning air pouring in. Colin ate a very hearty breakfast, and Mary watched him with serious interest."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"You will start to get fatter just like I did,\""
+    "text": "You will start to get fatter just like I did,"
   },
   {
     "character": "Narrator",
@@ -837,13 +879,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I never wanted my breakfast when I was in India, but now I am always hungry for it.\""
+    "text": "I never wanted my breakfast when I was in India, but now I am always hungry for it."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I wanted mine this morning,\""
+    "text": "I wanted mine this morning,"
   },
   {
     "character": "Narrator",
@@ -855,7 +897,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Perhaps it was the fresh air. When do you think Dickon will get here?\""
+    "text": "Perhaps it was the fresh air. When do you think Dickon will get here?"
   },
   {
     "character": "Narrator",
@@ -867,7 +909,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Listen!\""
+    "text": "Listen!"
   },
   {
     "character": "Narrator",
@@ -879,19 +921,19 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Did you hear a caw?\""
+    "text": "Did you hear a caw?"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Colin listened and heard it—a hoarse \"caw-caw,\" the strangest sound in the world to hear inside a house."
+    "text": "Colin listened and heard it—a hoarse caw-caw, the strangest sound in the world to hear inside a house."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Yes,\""
+    "text": "Yes,"
   },
   {
     "character": "Narrator",
@@ -903,7 +945,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"That is Soot,\""
+    "text": "That is Soot,"
   },
   {
     "character": "Narrator",
@@ -915,13 +957,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Listen again. Do you hear a bleat—a tiny one?\""
+    "text": "Listen again. Do you hear a bleat—a tiny one?"
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Oh, yes!\""
+    "text": "Oh, yes!"
   },
   {
     "character": "Narrator",
@@ -933,7 +975,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"That is the newborn lamb,\""
+    "text": "That is the newborn lamb,"
   },
   {
     "character": "Narrator",
@@ -945,19 +987,19 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"He is coming.\""
+    "text": "He is coming."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Dickon's moorland boots were thick and heavy, and though he tried to walk quietly, they made a clumping sound as he walked through the long corridors. Mary and Colin heard him marching closer and closer, until he passed through the tapestry door and onto the soft carpet of Colin's own hallway."
+    "text": "Dickons moorland boots were thick and heavy, and though he tried to walk quietly, they made a clumping sound as he walked through the long corridors. Mary and Colin heard him marching closer and closer, until he passed through the tapestry door and onto the soft carpet of Colins own hallway."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"If you please, sir,\""
+    "text": "If you please, sir,"
   },
   {
     "character": "Narrator",
@@ -969,19 +1011,31 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"here is Dickon and his creatures.\""
+    "text": "here is Dickon and his creatures."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Dickon came in, wearing his warmest, widest smile. The newborn lamb was cradled in his arms, and the little red fox trotted by his side. Nut the squirrel sat on his left shoulder, Soot the crow on his right, and Shell the other squirrel peeped his head and paws out of Dickon's coat pocket.\n\nColin slowly sat up and stared and stared, just as he had when he first saw Mary. But this was a look of pure wonder and delight. The truth was that, despite everything he had heard, he had not really understood what this boy would be like. Dickon was so close to his fox, his crow, his squirrels, and his lamb, and they were all so friendly, that they seemed like a part of him. Colin had never talked to another boy in his life, and he was so overwhelmed by his own pleasure and curiosity that he did not even think to speak.\n\nBut Dickon did not feel the least bit shy or awkward. He had not felt embarrassed when the crow did not know his language and only stared without speaking the first time they met. Animals were always like that until they got to know you. He walked over to Colin's sofa and gently placed the newborn lamb on his lap. Immediately, the little creature turned to the warm velvet dressing gown, nuzzling into its folds and budding its curly head with soft impatience against Colin's side. Of course, no boy could have kept quiet after that."
+    "text": "Dickon came in, wearing his warmest, widest smile. The newborn lamb was cradled in his arms, and the little red fox trotted by his side. Nut the squirrel sat on his left shoulder, Soot the crow on his right, and Shell the other squirrel peeped his head and paws out of Dickons coat pocket."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Colin slowly sat up and stared and stared, just as he had when he first saw Mary. But this was a look of pure wonder and delight. The truth was that, despite everything he had heard, he had not really understood what this boy would be like. Dickon was so close to his fox, his crow, his squirrels, and his lamb, and they were all so friendly, that they seemed like a part of him. Colin had never talked to another boy in his life, and he was so overwhelmed by his own pleasure and curiosity that he did not even think to speak."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "But Dickon did not feel the least bit shy or awkward. He had not felt embarrassed when the crow did not know his language and only stared without speaking the first time they met. Animals were always like that until they got to know you. He walked over to Colins sofa and gently placed the newborn lamb on his lap. Immediately, the little creature turned to the warm velvet dressing gown, nuzzling into its folds and budding its curly head with soft impatience against Colins side. Of course, no boy could have kept quiet after that."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"What is it doing?\""
+    "text": "What is it doing?"
   },
   {
     "character": "Narrator",
@@ -993,13 +1047,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"What does it want?\""
+    "text": "What does it want?"
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"It wants its mother,\""
+    "text": "It wants its mother,"
   },
   {
     "character": "Narrator",
@@ -1011,7 +1065,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I brought him to you a bit hungry because I knew you would like to see him feed.\""
+    "text": "I brought him to you a bit hungry because I knew you would like to see him feed."
   },
   {
     "character": "Narrator",
@@ -1023,7 +1077,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Come on, little one,\""
+    "text": "Come on, little one,"
   },
   {
     "character": "Narrator",
@@ -1035,19 +1089,25 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"This is what you are after. You will get more out of this than you will out of silk velvet coats. There now.\""
+    "text": "This is what you are after. You will get more out of this than you will out of silk velvet coats. There now."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "He pushed the rubber tip of the bottle into the nuzzling mouth, and the lamb began to suck it with absolute delight.\n\nAfter that, there was no wondering what to say. By the time the lamb fell asleep, questions were pouring out of Colin, and Dickon answered them all. He told them how he had found the lamb just as the sun was rising three mornings ago. He had been standing on the moor, listening to a skylark and watching it climb higher and higher into the sky until it was only a tiny speck in the deep blue."
+    "text": "He pushed the rubber tip of the bottle into the nuzzling mouth, and the lamb began to suck it with absolute delight."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "After that, there was no wondering what to say. By the time the lamb fell asleep, questions were pouring out of Colin, and Dickon answered them all. He told them how he had found the lamb just as the sun was rising three mornings ago. He had been standing on the moor, listening to a skylark and watching it climb higher and higher into the sky until it was only a tiny speck in the deep blue."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I had almost lost sight of him if not for his song,\""
+    "text": "I had almost lost sight of him if not for his song,"
   },
   {
     "character": "Narrator",
@@ -1059,19 +1119,25 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"and I was wondering how anyone could hear it when it seemed like he would fly right out of the world in a minute. Just then, I heard something else far off among the gorse bushes. It was a weak bleating, and I knew it was a newborn lamb that was hungry. I knew it wouldn't be hungry unless it had lost its mother somehow, so I set off to search. Oh, I really had to look for it! I went in and out of the bushes, round and round, and I always seemed to take the wrong turn. But at last, I saw a bit of white by a rock on top of the moor. I climbed up and found the little one half dead with cold and starvation.\""
+    "text": "and I was wondering how anyone could hear it when it seemed like he would fly right out of the world in a minute. Just then, I heard something else far off among the gorse bushes. It was a weak bleating, and I knew it was a newborn lamb that was hungry. I knew it wouldnt be hungry unless it had lost its mother somehow, so I set off to search. Oh, I really had to look for it! I went in and out of the bushes, round and round, and I always seemed to take the wrong turn. But at last, I saw a bit of white by a rock on top of the moor. I climbed up and found the little one half dead with cold and starvation."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "While he talked, Soot flew solemnly in and out of the open window, cawing remarks about the scenery, while Nut and Shell explored the big trees outside, running up and down the trunks and exploring branches. Captain the fox curled up near Dickon, who preferred to sit on the hearth rug.\n\nThey looked at the pictures in the gardening books. Dickon knew all the flowers by their common names and knew exactly which ones were already growing in the secret garden."
+    "text": "While he talked, Soot flew solemnly in and out of the open window, cawing remarks about the scenery, while Nut and Shell explored the big trees outside, running up and down the trunks and exploring branches. Captain the fox curled up near Dickon, who preferred to sit on the hearth rug."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "They looked at the pictures in the gardening books. Dickon knew all the flowers by their common names and knew exactly which ones were already growing in the secret garden."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I couldn't say that fancy name,\""
+    "text": "I couldnt say that fancy name,"
   },
   {
     "character": "Narrator",
@@ -1083,13 +1149,13 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"But we call that a columbine, and that other one is a snapdragon. They both grow wild in the hedges, but these are garden ones, and they are bigger and grander. There are some big clumps of columbine in the secret garden. They will look like a bed of blue and white butterflies fluttering when they bloom.\""
+    "text": "But we call that a columbine, and that other one is a snapdragon. They both grow wild in the hedges, but these are garden ones, and they are bigger and grander. There are some big clumps of columbine in the secret garden. They will look like a bed of blue and white butterflies fluttering when they bloom."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I am going to see them,\""
+    "text": "I am going to see them,"
   },
   {
     "character": "Narrator",
@@ -1101,13 +1167,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I am going to see them!\""
+    "text": "I am going to see them!"
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Yes, you must,\""
+    "text": "Yes, you must,"
   },
   {
     "character": "Narrator",
@@ -1119,6 +1185,6 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"And you must not lose any time about it.\""
+    "text": "And you must not lose any time about it."
   }
 ]

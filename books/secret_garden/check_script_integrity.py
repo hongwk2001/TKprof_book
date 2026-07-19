@@ -7,14 +7,14 @@ TAGGED_DIR = os.path.join(BASE_DIR, "chapters", "tagged")
 SCRIPTS_EN_DIR = os.path.join(BASE_DIR, "scripts_en")
 SCRIPTS_KO_DIR = os.path.join(BASE_DIR, "scripts_ko")
 
-VALID_TAGS = {"mary", "colin", "dickon", "martha", "craven", "ben", "others"}
-QUOTE_CHARS = {'"', '“', '”', "'"}
+VALID_TAGS = {"mary", "colin", "dickon", "martha", "craven", "ben", "others", "narrator"}
+QUOTE_CHARS = {'"', '“', '”', "'", '‘', '’'}
 
 def check_file_tags(filepath):
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
         
-    tag_pattern = re.compile(r'</?(?:mary|colin|dickon|martha|craven|ben|others)>')
+    tag_pattern = re.compile(r'</?(?:mary|colin|dickon|martha|craven|ben|others|narrator)>')
     matches = list(tag_pattern.finditer(content))
     
     stack = []
@@ -43,6 +43,14 @@ def check_file_tags(filepath):
     while stack:
         tag_name, line_num = stack.pop()
         errors.append(f"Line {line_num}: Unclosed opening tag <{tag_name}>")
+
+    # Check for untagged text
+    clean_text = content
+    for tag in VALID_TAGS:
+        clean_text = re.sub(f'<{tag}>.*?</{tag}>', '', clean_text, flags=re.DOTALL)
+        
+    if clean_text.strip():
+        errors.append(f"Untagged text outside dialogue tags detected: '{clean_text.strip()[:100]}...'")
         
     return errors
 

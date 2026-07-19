@@ -3,25 +3,37 @@
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Chapter 4: Martha\n\nWhen Mary opened her eyes in the morning, it was because a young housemaid had come into the room to light the fire. The girl was kneeling on the hearth rug, noisily raking out the cinders. Mary lay still and watched her for a few moments, then began to look around. She had never seen a room like this before, and she thought it was strange and gloomy. The walls were covered with tapestries showing a forest scene. Strangely dressed people stood under the trees, and in the distance, she could see the turrets of a castle. There were hunters, horses, dogs, and ladies, and Mary felt almost as if she were in the forest with them. Through a deep window, she could see a vast, rising stretch of land. It seemed to have no trees at all and looked like an endless, dull, purplish sea."
-  },
-  {
-    "character": "mary",
-    "voice": "af_sarah",
-    "speed": 1.0,
-    "text": "\"What is that?\""
+    "text": "Chapter 4: Martha"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "she asked, pointing out the window.\n\nMartha, the young housemaid, had just stood up. She looked out and pointed too."
+    "text": "When Mary opened her eyes in the morning, it was because a young housemaid had come into the room to light the fire. The girl was kneeling on the hearth rug, noisily raking out the cinders. Mary lay still and watched her for a few moments, then began to look around. She had never seen a room like this before, and she thought it was strange and gloomy. The walls were covered with tapestries showing a forest scene. Strangely dressed people stood under the trees, and in the distance, she could see the turrets of a castle. There were hunters, horses, dogs, and ladies, and Mary felt almost as if she were in the forest with them. Through a deep window, she could see a vast, rising stretch of land. It seemed to have no trees at all and looked like an endless, dull, purplish sea."
+  },
+  {
+    "character": "mary",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "What is that?"
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "she asked, pointing out the window."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Martha, the young housemaid, had just stood up. She looked out and pointed too."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"That there?\""
+    "text": "That there?"
   },
   {
     "character": "Narrator",
@@ -33,13 +45,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Yes.\""
+    "text": "Yes."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"That's the moor,\""
+    "text": "Thats the moor,"
   },
   {
     "character": "Narrator",
@@ -51,13 +63,13 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Do you like it?\""
+    "text": "Do you like it?"
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"No,\""
+    "text": "No,"
   },
   {
     "character": "Narrator",
@@ -69,13 +81,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I hate it.\""
+    "text": "I hate it."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"That's because you're not used to it,\""
+    "text": "Thats because youre not used to it,"
   },
   {
     "character": "Narrator",
@@ -87,13 +99,13 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"You think it's too big and bare now. But you'll get to like it.\""
+    "text": "You think its too big and bare now. But youll get to like it."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Do you?\""
+    "text": "Do you?"
   },
   {
     "character": "Narrator",
@@ -105,7 +117,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Yes, I really do,\""
+    "text": "Yes, I really do,"
   },
   {
     "character": "Narrator",
@@ -117,31 +129,37 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"I just love it. It's not bare at all. It's covered with growing things that smell sweet. It's truly beautiful in the spring and summer when the gorse, broom, and heather are in bloom. It smells of honey, and there's so much fresh air. The sky looks so high, and the bees and skylarks make such a lovely sound humming and singing. Oh, I wouldn't live away from the moor for anything!\""
+    "text": "I just love it. Its not bare at all. Its covered with growing things that smell sweet. Its truly beautiful in the spring and summer when the gorse, broom, and heather are in bloom. It smells of honey, and theres so much fresh air. The sky looks so high, and the bees and skylarks make such a lovely sound humming and singing. Oh, I wouldnt live away from the moor for anything!"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary listened to her with a serious, puzzled expression. The Indian servants she was used to were not like this at all. They were submissive and respectful, and they never dared to talk to their masters as equals. They bowed low, calling them \"protector of the poor\" and other titles like that. In India, servants were ordered to do things, not asked. It wasn't the custom to say \"please\" and \"thank you,\" and Mary had always slapped her Ayah in the face when she was angry. She wondered what this girl would do if someone slapped her. Martha was a round, rosy, good-natured looking girl, but she had a sturdy, strong way about her that made Mary wonder if she might actually slap back—even if the person who slapped her was only a little girl."
+    "text": "Mary listened to her with a serious, puzzled expression. The Indian servants she was used to were not like this at all. They were submissive and respectful, and they never dared to talk to their masters as equals. They bowed low, calling them protector of the poor and other titles like that. In India, servants were ordered to do things, not asked. It wasnt the custom to say please and thank you, and Mary had always slapped her Ayah in the face when she was angry. She wondered what this girl would do if someone slapped her. Martha was a round, rosy, good-natured looking girl, but she had a sturdy, strong way about her that made Mary wonder if she might actually slap back—even if the person who slapped her was only a little girl."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"You are a strange servant,\""
+    "text": "You are a strange servant,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary said from her pillows, rather haughtily.\n\nMartha sat back on her heels, blacking brush in hand, and laughed. She didn't seem the least bit annoyed."
+    "text": "Mary said from her pillows, rather haughtily."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Martha sat back on her heels, blacking brush in hand, and laughed. She didnt seem the least bit annoyed."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Oh, I know that!\""
+    "text": "Oh, I know that!"
   },
   {
     "character": "Narrator",
@@ -153,25 +171,31 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"If there were a grand mistress here at Misselthwaite, I would never have been hired as an under-housemaid. I might have been allowed to be a kitchen maid, but I would never have been allowed upstairs. I'm too common, and I talk too much Yorkshire. But this is a strange house, even if it is grand. It seems like there's neither a master nor a mistress, except for Mr. Pitcher and Mrs. Medlock. Mr. Craven doesn't want to be bothered by anything when he's here, and he's almost always away. Mrs. Medlock gave me the job out of kindness. She told me she could never have done it if Misselthwaite were run like other big houses.\""
+    "text": "If there were a grand mistress here at Misselthwaite, I would never have been hired as an under-housemaid. I might have been allowed to be a kitchen maid, but I would never have been allowed upstairs. Im too common, and I talk too much Yorkshire. But this is a strange house, even if it is grand. It seems like theres neither a master nor a mistress, except for Mr. Pitcher and Mrs. Medlock. Mr. Craven doesnt want to be bothered by anything when hes here, and hes almost always away. Mrs. Medlock gave me the job out of kindness. She told me she could never have done it if Misselthwaite were run like other big houses."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Are you going to be my servant?\""
+    "text": "Are you going to be my servant?"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary asked, still speaking in her bossy Indian way.\n\nMartha began scrubbing the grate again."
+    "text": "Mary asked, still speaking in her bossy Indian way."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Martha began scrubbing the grate again."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"I'm Mrs. Medlock's servant,\""
+    "text": "Im Mrs. Medlocks servant,"
   },
   {
     "character": "Narrator",
@@ -183,25 +207,31 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"And she is Mr. Craven's. But I'm supposed to do the housemaid's work up here and help look after you a bit. Though you won't need much waiting on.\""
+    "text": "And she is Mr. Cravens. But Im supposed to do the housemaids work up here and help look after you a bit. Though you wont need much waiting on."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Who is going to dress me?\""
+    "text": "Who is going to dress me?"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary demanded.\n\nMartha sat back on her heels again and stared in amazement, her Yorkshire accent growing stronger."
+    "text": "Mary demanded."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Martha sat back on her heels again and stared in amazement, her Yorkshire accent growing stronger."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Can't you dress yourself?\""
+    "text": "Cant you dress yourself?"
   },
   {
     "character": "Narrator",
@@ -213,7 +243,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"What do you mean? I don't understand your language,\""
+    "text": "What do you mean? I dont understand your language,"
   },
   {
     "character": "Narrator",
@@ -225,7 +255,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Oh, I forgot,\""
+    "text": "Oh, I forgot,"
   },
   {
     "character": "Narrator",
@@ -237,13 +267,13 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Mrs. Medlock told me I'd have to be careful, or you wouldn't understand what I was saying. I mean, can't you put on your own clothes?\""
+    "text": "Mrs. Medlock told me Id have to be careful, or you wouldnt understand what I was saying. I mean, cant you put on your own clothes?"
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"No,\""
+    "text": "No,"
   },
   {
     "character": "Narrator",
@@ -255,13 +285,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I never have in my life. My Ayah dressed me, of course.\""
+    "text": "I never have in my life. My Ayah dressed me, of course."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Well,\""
+    "text": "Well,"
   },
   {
     "character": "Narrator",
@@ -273,25 +303,31 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"it's time you learned. You can't start too young. It will do you good to wait on yourself a bit. My mother always said she couldn't understand why rich people's children didn't turn out to be complete fools, what with nurses washing and dressing them and taking them out for walks as if they were puppies!\""
+    "text": "its time you learned. You cant start too young. It will do you good to wait on yourself a bit. My mother always said she couldnt understand why rich peoples children didnt turn out to be complete fools, what with nurses washing and dressing them and taking them out for walks as if they were puppies!"
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"It is different in India,\""
+    "text": "It is different in India,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary said disdainfully. She could hardly bear this.\n\nBut Martha was not discouraged at all."
+    "text": "Mary said disdainfully. She could hardly bear this."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "But Martha was not discouraged at all."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Oh, I can see it's different,\""
+    "text": "Oh, I can see its different,"
   },
   {
     "character": "Narrator",
@@ -303,7 +339,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"I suppose it's because there are so many natives there instead of regular English people. When I heard you were coming from India, I thought you were a native too.\""
+    "text": "I suppose its because there are so many natives there instead of regular English people. When I heard you were coming from India, I thought you were a native too."
   },
   {
     "character": "Narrator",
@@ -315,7 +351,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"What!\""
+    "text": "What!"
   },
   {
     "character": "Narrator",
@@ -327,7 +363,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"What! You thought I was a native? You—you daughter of a pig!\""
+    "text": "What! You thought I was a native? You—you daughter of a pig!"
   },
   {
     "character": "Narrator",
@@ -339,7 +375,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Who are you calling names?\""
+    "text": "Who are you calling names?"
   },
   {
     "character": "Narrator",
@@ -351,7 +387,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"You shouldn't get so upset. That's no way for a young lady to talk. I have nothing against natives. When you read about them in pamphlets, they're always very religious. You always read that a native is a brother. I've never seen one, and I was really pleased to think I was going to see one up close. When I came in to light your fire this morning, I crept up to your bed and carefully pulled the covers back to look at you. And there you were,\""
+    "text": "You shouldnt get so upset. Thats no way for a young lady to talk. I have nothing against natives. When you read about them in pamphlets, theyre always very religious. You always read that a native is a brother. Ive never seen one, and I was really pleased to think I was going to see one up close. When I came in to light your fire this morning, I crept up to your bed and carefully pulled the covers back to look at you. And there you were,"
   },
   {
     "character": "Narrator",
@@ -363,31 +399,31 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"no more native than me—even if you are very yellow.\""
+    "text": "no more native than me—even if you are very yellow."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary didn't even try to control her anger and humiliation."
+    "text": "Mary didnt even try to control her anger and humiliation."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"You thought I was a native! How dare you! You don't know anything about natives! They aren't like you—they are servants who have to bow to you! You know nothing about India. You know nothing about anything!\""
+    "text": "You thought I was a native! How dare you! You dont know anything about natives! They arent like you—they are servants who have to bow to you! You know nothing about India. You know nothing about anything!"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "She was in such a rage and felt so helpless under the girl's simple stare. Suddenly, she felt so terribly lonely and away from everything she knew and understood, and that understood her. She threw herself face down on the pillows and burst into passionate tears. She sobbed so uncontrollably that good-natured Martha felt a little frightened and very sorry for her. She walked over to the bed and bent over her."
+    "text": "She was in such a rage and felt so helpless under the girls simple stare. Suddenly, she felt so terribly lonely and away from everything she knew and understood, and that understood her. She threw herself face down on the pillows and burst into passionate tears. She sobbed so uncontrollably that good-natured Martha felt a little frightened and very sorry for her. She walked over to the bed and bent over her."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Oh, you mustn't cry like that!\""
+    "text": "Oh, you mustnt cry like that!"
   },
   {
     "character": "Narrator",
@@ -399,7 +435,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"You really mustn't. I didn't know you'd be so upset. I don't know anything about anything, just like you said. I beg your pardon, Miss. Please stop crying.\""
+    "text": "You really mustnt. I didnt know youd be so upset. I dont know anything about anything, just like you said. I beg your pardon, Miss. Please stop crying."
   },
   {
     "character": "Narrator",
@@ -411,7 +447,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"It's time for you to get up now,\""
+    "text": "Its time for you to get up now,"
   },
   {
     "character": "Narrator",
@@ -423,7 +459,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Mrs. Medlock told me to bring your breakfast, tea, and dinner into the room next door. It's been set up as a nursery for you. I'll help you put on your clothes if you'll get out of bed. If the buttons are in the back, you won't be able to do them yourself.\""
+    "text": "Mrs. Medlock told me to bring your breakfast, tea, and dinner into the room next door. Its been set up as a nursery for you. Ill help you put on your clothes if youll get out of bed. If the buttons are in the back, you wont be able to do them yourself."
   },
   {
     "character": "Narrator",
@@ -435,7 +471,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Those are not mine,\""
+    "text": "Those are not mine,"
   },
   {
     "character": "Narrator",
@@ -447,7 +483,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Mine are black.\""
+    "text": "Mine are black."
   },
   {
     "character": "Narrator",
@@ -459,13 +495,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Those are nicer than mine.\""
+    "text": "Those are nicer than mine."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"These are the ones you must put on,\""
+    "text": "These are the ones you must put on,"
   },
   {
     "character": "Narrator",
@@ -477,25 +513,31 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Mr. Craven ordered Mrs. Medlock to buy them in London. He said, 'I won't have a child dressed in black wandering around like a lost soul. It would make the place sadder than it already is. Put some color on her.' My mother said she knew exactly what he meant. Mother always knows what people mean. She doesn't like black clothing herself.\""
+    "text": "Mr. Craven ordered Mrs. Medlock to buy them in London. He said, I wont have a child dressed in black wandering around like a lost soul. It would make the place sadder than it already is. Put some color on her. My mother said she knew exactly what he meant. Mother always knows what people mean. She doesnt like black clothing herself."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I hate black things,\""
+    "text": "I hate black things,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary said.\n\nThe process of getting dressed taught both of them a few things. Martha had buttoned up her little sisters and brothers, but she had never seen a child who stood completely still, waiting for someone else to do everything for her as if she had no hands or feet of her own."
+    "text": "Mary said."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "The process of getting dressed taught both of them a few things. Martha had buttoned up her little sisters and brothers, but she had never seen a child who stood completely still, waiting for someone else to do everything for her as if she had no hands or feet of her own."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Why don't you put on your own shoes?\""
+    "text": "Why dont you put on your own shoes?"
   },
   {
     "character": "Narrator",
@@ -507,7 +549,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"My Ayah did it,\""
+    "text": "My Ayah did it,"
   },
   {
     "character": "Narrator",
@@ -519,7 +561,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"It was the custom.\""
+    "text": "It was the custom."
   },
   {
     "character": "Narrator",
@@ -531,31 +573,43 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"It was the custom.\""
+    "text": "It was the custom."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "The Indian servants were always saying it. If you told them to do something their ancestors hadn't done for a thousand years, they would look at you mildly and say,"
+    "text": "The Indian servants were always saying it. If you told them to do something their ancestors hadnt done for a thousand years, they would look at you mildly and say,"
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"It is not the custom,\""
+    "text": "It is not the custom,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "and you knew that was the end of the matter.\n\nIt had never been the custom for Mary to do anything but stand still and let herself be dressed like a doll. But before she was even ready for breakfast, she began to suspect that her life at Misselthwaite Manor would end up teaching her many new things—like putting on her own shoes and stockings, and picking up the things she dropped. If Martha had been a well-trained, elegant lady's maid, she would have been much more submissive and respectful. She would have known it was her job to brush Mary's hair, button her boots, and tidy up after her. Instead, she was just an untrained country girl from Yorkshire who had grown up in a cottage on the moor with a crowd of little brothers and sisters. None of them had ever dreamed of doing anything but looking after themselves and the younger ones, who were either babies or just learning to waddle around and trip over things.\n\nIf Mary Lennox had been a child who was easily amused, she might have laughed at how talkative Martha was. Instead, she only listened coldly, wondering at the girl's free and easy manners. At first, she wasn't interested at all, but gradually, as the girl kept chatting in her good-natured, down-to-earth way, Mary began to pay attention to what she was saying."
+    "text": "and you knew that was the end of the matter."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "It had never been the custom for Mary to do anything but stand still and let herself be dressed like a doll. But before she was even ready for breakfast, she began to suspect that her life at Misselthwaite Manor would end up teaching her many new things—like putting on her own shoes and stockings, and picking up the things she dropped. If Martha had been a well-trained, elegant ladys maid, she would have been much more submissive and respectful. She would have known it was her job to brush Marys hair, button her boots, and tidy up after her. Instead, she was just an untrained country girl from Yorkshire who had grown up in a cottage on the moor with a crowd of little brothers and sisters. None of them had ever dreamed of doing anything but looking after themselves and the younger ones, who were either babies or just learning to waddle around and trip over things."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "If Mary Lennox had been a child who was easily amused, she might have laughed at how talkative Martha was. Instead, she only listened coldly, wondering at the girls free and easy manners. At first, she wasnt interested at all, but gradually, as the girl kept chatting in her good-natured, down-to-earth way, Mary began to pay attention to what she was saying."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Oh, you should see them all!\""
+    "text": "Oh, you should see them all!"
   },
   {
     "character": "Narrator",
@@ -567,13 +621,13 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"There are twelve of us, and my father only makes sixteen shillings a week. I can tell you, my mother has a hard time putting enough porridge on the table for everyone. They run around on the moor and play there all day, and mother says the fresh air of the moor fattens them up. She says she believes they eat the grass just like the wild ponies do! Our Dickon is twelve years old, and he has a young pony he calls his own.\""
+    "text": "There are twelve of us, and my father only makes sixteen shillings a week. I can tell you, my mother has a hard time putting enough porridge on the table for everyone. They run around on the moor and play there all day, and mother says the fresh air of the moor fattens them up. She says she believes they eat the grass just like the wild ponies do! Our Dickon is twelve years old, and he has a young pony he calls his own."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Where did he get it?\""
+    "text": "Where did he get it?"
   },
   {
     "character": "Narrator",
@@ -585,19 +639,19 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"He found it on the moor with its mother when it was just a baby. He began to make friends with it, giving it pieces of bread and pulling fresh grass for it. The pony got to like him so much that it follows him around now and lets him ride on its back. Dickon is a kind boy, and animals just love him.\""
+    "text": "He found it on the moor with its mother when it was just a baby. He began to make friends with it, giving it pieces of bread and pulling fresh grass for it. The pony got to like him so much that it follows him around now and lets him ride on its back. Dickon is a kind boy, and animals just love him."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary had never owned a pet of her own, but she had always thought she would like one. So, she began to feel a tiny bit of interest in Dickon, and since she had never cared about anyone but herself before, it was the start of a healthy new feeling. When she went into the room that had been set up as her nursery, she found it was very similar to the room she had slept in. It wasn't a child's room at all, but a room for a grown-up, filled with gloomy old portraits on the walls and heavy, dark oak chairs. In the center, a table was set with a hearty breakfast. But Mary had always had a very small appetite, and she looked at the first plate Martha set before her with total indifference."
+    "text": "Mary had never owned a pet of her own, but she had always thought she would like one. So, she began to feel a tiny bit of interest in Dickon, and since she had never cared about anyone but herself before, it was the start of a healthy new feeling. When she went into the room that had been set up as her nursery, she found it was very similar to the room she had slept in. It wasnt a childs room at all, but a room for a grown-up, filled with gloomy old portraits on the walls and heavy, dark oak chairs. In the center, a table was set with a hearty breakfast. But Mary had always had a very small appetite, and she looked at the first plate Martha set before her with total indifference."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I don't want it,\""
+    "text": "I dont want it,"
   },
   {
     "character": "Narrator",
@@ -609,7 +663,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"You don't want your porridge!\""
+    "text": "You dont want your porridge!"
   },
   {
     "character": "Narrator",
@@ -621,19 +675,19 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"No.\""
+    "text": "No."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"You don't know how good it is. Put a little syrup or some sugar on it.\""
+    "text": "You dont know how good it is. Put a little syrup or some sugar on it."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I don't want it,\""
+    "text": "I dont want it,"
   },
   {
     "character": "Narrator",
@@ -645,7 +699,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Oh!\""
+    "text": "Oh!"
   },
   {
     "character": "Narrator",
@@ -657,13 +711,13 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"I can't bear to see good food go to waste. If our children were at this table, they'd clear it clean in five minutes.\""
+    "text": "I cant bear to see good food go to waste. If our children were at this table, theyd clear it clean in five minutes."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Why?\""
+    "text": "Why?"
   },
   {
     "character": "Narrator",
@@ -675,7 +729,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Why!\""
+    "text": "Why!"
   },
   {
     "character": "Narrator",
@@ -687,25 +741,31 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Because they've hardly ever had full stomachs in their lives. They're as hungry as young hawks and foxes.\""
+    "text": "Because theyve hardly ever had full stomachs in their lives. Theyre as hungry as young hawks and foxes."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I don't know what it feels like to be hungry,\""
+    "text": "I dont know what it feels like to be hungry,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary said, with the simple indifference of someone who had never gone without.\n\nMartha looked indignant."
+    "text": "Mary said, with the simple indifference of someone who had never gone without."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Martha looked indignant."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Well, it would do you good to try it, I can see that plain enough,\""
+    "text": "Well, it would do you good to try it, I can see that plain enough,"
   },
   {
     "character": "Narrator",
@@ -717,13 +777,13 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"I have no patience with people who just sit and stare at good bread and meat. My goodness! I wish Dickon and Phil and Jane and the rest of them had what's on this table right under their aprons.\""
+    "text": "I have no patience with people who just sit and stare at good bread and meat. My goodness! I wish Dickon and Phil and Jane and the rest of them had whats on this table right under their aprons."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Why don't you take it to them?\""
+    "text": "Why dont you take it to them?"
   },
   {
     "character": "Narrator",
@@ -735,7 +795,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"It's not mine,\""
+    "text": "Its not mine,"
   },
   {
     "character": "Narrator",
@@ -747,7 +807,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"And today isn't my day off. I only get one day off a month, just like the rest of the servants. Then I go home, help my mother clean up, and give her a day of rest.\""
+    "text": "And today isnt my day off. I only get one day off a month, just like the rest of the servants. Then I go home, help my mother clean up, and give her a day of rest."
   },
   {
     "character": "Narrator",
@@ -759,7 +819,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Wrap up warm and run outside to play,\""
+    "text": "Wrap up warm and run outside to play,"
   },
   {
     "character": "Narrator",
@@ -771,7 +831,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"It will do you good and help build up an appetite for your dinner.\""
+    "text": "It will do you good and help build up an appetite for your dinner."
   },
   {
     "character": "Narrator",
@@ -783,37 +843,43 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Outside? Why should I go outside on a day like this?\""
+    "text": "Outside? Why should I go outside on a day like this?"
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Well, if you don't go out, you'll have to stay in, and what else do you have to do?\""
+    "text": "Well, if you dont go out, youll have to stay in, and what else do you have to do?"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary looked around the room. There was absolutely nothing to do. When Mrs. Medlock set up the nursery, she hadn't thought about games or toys. Perhaps it would be better to go out and see what the gardens looked like."
+    "text": "Mary looked around the room. There was absolutely nothing to do. When Mrs. Medlock set up the nursery, she hadnt thought about games or toys. Perhaps it would be better to go out and see what the gardens looked like."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Who will go with me?\""
+    "text": "Who will go with me?"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "she asked.\n\nMartha stared."
+    "text": "she asked."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Martha stared."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"You'll go by yourself,\""
+    "text": "Youll go by yourself,"
   },
   {
     "character": "Narrator",
@@ -825,19 +891,25 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"You'll have to learn to play like other children do when they don't have brothers and sisters. Our Dickon goes off onto the moor by himself and plays for hours. That's how he made friends with the pony. He has sheep on the moor that know him, and birds that fly down to eat right out of his hand. No matter how little food there is, he always saves a bit of his bread to feed his pets.\""
+    "text": "Youll have to learn to play like other children do when they dont have brothers and sisters. Our Dickon goes off onto the moor by himself and plays for hours. Thats how he made friends with the pony. He has sheep on the moor that know him, and birds that fly down to eat right out of his hand. No matter how little food there is, he always saves a bit of his bread to feed his pets."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "It was actually this mention of Dickon that made Mary decide to go outside, though she didn't realize it herself. There would at least be birds outside, even if there were no ponies or sheep. They would be different from the birds in India, and it might amuse her to watch them.\n\nMartha found Mary's coat and hat, along with a pair of sturdy little boots, and showed her the way downstairs."
+    "text": "It was actually this mention of Dickon that made Mary decide to go outside, though she didnt realize it herself. There would at least be birds outside, even if there were no ponies or sheep. They would be different from the birds in India, and it might amuse her to watch them."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Martha found Marys coat and hat, along with a pair of sturdy little boots, and showed her the way downstairs."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"If you go round that way, you'll reach the gardens,\""
+    "text": "If you go round that way, youll reach the gardens,"
   },
   {
     "character": "Narrator",
@@ -849,7 +921,7 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"There are lots of flowers in the summertime, but nothing is blooming now.\""
+    "text": "There are lots of flowers in the summertime, but nothing is blooming now."
   },
   {
     "character": "Narrator",
@@ -861,13 +933,13 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"One of the gardens is locked up. No one has been inside it for ten years.\""
+    "text": "One of the gardens is locked up. No one has been inside it for ten years."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Why?\""
+    "text": "Why?"
   },
   {
     "character": "Narrator",
@@ -879,19 +951,37 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"Mr. Craven had it shut up when his wife died so suddenly. He won't let anyone go inside. It was her garden. He locked the door, dug a hole, and buried the key. Ah, there's Mrs. Medlock's bell ringing—I must run!\""
+    "text": "Mr. Craven had it shut up when his wife died so suddenly. He wont let anyone go inside. It was her garden. He locked the door, dug a hole, and buried the key. Ah, theres Mrs. Medlocks bell ringing—I must run!"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "After Martha left, Mary turned down the path leading to the gate in the shrubbery. She couldn't stop thinking about the garden that no one had entered for ten years. She wondered what it looked like and if there were any flowers still alive inside. Once she passed through the shrubbery gate, she found herself in vast gardens with wide lawns and winding paths bordered by neatly trimmed hedges. There were trees, flowerbeds, evergreens clipped into strange shapes, and a large pool with an old grey fountain in the middle. But the flowerbeds were bare and wintry, and the fountain was silent. This was clearly not the closed garden. How could a garden be shut up anyway? You could always just walk into a garden.\n\nShe was just thinking about this when she noticed that the path she was following ended at a long wall covered in ivy. She didn't know enough about England to realize she was approaching the kitchen gardens, where the vegetables and fruit trees grew. She walked up to the wall and found a green door set into the ivy, and it was wide open. This was clearly not the locked garden, so she could go right in.\n\nShe stepped through the door and found a garden with high walls all around it. It was only one of several walled gardens that seemed to connect to one another. She saw another open green door showing bushes and pathways between beds of winter vegetables. Fruit trees were trained flat against the brick walls, and glass frames covered some of the plant beds. The place looked bare and ugly, Mary thought as she stood and stared around. It might be nicer in the summer when things were green, but there was nothing pretty about it now.\n\nBefore long, an old man with a spade over his shoulder walked through the door from the second garden. He looked startled to see Mary, then touched his cap in a brief greeting. He had a grumpy old face and didn't seem pleased to see her at all—but then, she was already unhappy with his garden, wore her sour \"contrary\" expression, and certainly didn't look pleased to see him either."
+    "text": "After Martha left, Mary turned down the path leading to the gate in the shrubbery. She couldnt stop thinking about the garden that no one had entered for ten years. She wondered what it looked like and if there were any flowers still alive inside. Once she passed through the shrubbery gate, she found herself in vast gardens with wide lawns and winding paths bordered by neatly trimmed hedges. There were trees, flowerbeds, evergreens clipped into strange shapes, and a large pool with an old grey fountain in the middle. But the flowerbeds were bare and wintry, and the fountain was silent. This was clearly not the closed garden. How could a garden be shut up anyway? You could always just walk into a garden."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "She was just thinking about this when she noticed that the path she was following ended at a long wall covered in ivy. She didnt know enough about England to realize she was approaching the kitchen gardens, where the vegetables and fruit trees grew. She walked up to the wall and found a green door set into the ivy, and it was wide open. This was clearly not the locked garden, so she could go right in."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "She stepped through the door and found a garden with high walls all around it. It was only one of several walled gardens that seemed to connect to one another. She saw another open green door showing bushes and pathways between beds of winter vegetables. Fruit trees were trained flat against the brick walls, and glass frames covered some of the plant beds. The place looked bare and ugly, Mary thought as she stood and stared around. It might be nicer in the summer when things were green, but there was nothing pretty about it now."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Before long, an old man with a spade over his shoulder walked through the door from the second garden. He looked startled to see Mary, then touched his cap in a brief greeting. He had a grumpy old face and didnt seem pleased to see her at all—but then, she was already unhappy with his garden, wore her sour contrary expression, and certainly didnt look pleased to see him either."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"What is this place?\""
+    "text": "What is this place?"
   },
   {
     "character": "Narrator",
@@ -903,7 +993,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"One of the kitchen gardens,\""
+    "text": "One of the kitchen gardens,"
   },
   {
     "character": "Narrator",
@@ -915,7 +1005,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"What is that?\""
+    "text": "What is that?"
   },
   {
     "character": "Narrator",
@@ -927,7 +1017,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"Another of them,\""
+    "text": "Another of them,"
   },
   {
     "character": "Narrator",
@@ -939,13 +1029,13 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"There's another on the other side of the wall, and the orchard is on the other side of that.\""
+    "text": "Theres another on the other side of the wall, and the orchard is on the other side of that."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Can I go inside them?\""
+    "text": "Can I go inside them?"
   },
   {
     "character": "Narrator",
@@ -957,19 +1047,31 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"If you want. But there's nothing to see.\""
+    "text": "If you want. But theres nothing to see."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary didn't answer. She walked down the path and through the second green door. There, she found more walls, winter vegetables, and glass frames, but in the next wall, there was another green door, and this one was closed. Perhaps it led into the garden no one had seen for ten years. Since she wasn't a timid child and always did exactly what she wanted, Mary went up to the door and turned the handle. She actually hoped it wouldn't open, because she wanted to be sure she had found the mysterious garden—but it opened quite easily. She walked through and found herself in an orchard. It also had walls all around it, with fruit trees trained against them and bare trees growing in the winter-browned grass, but there was no green door to be seen anywhere. Mary searched for one. As she had entered the upper end of the orchard, she noticed that the wall didn't seem to stop, but extended further, as if it enclosed another area on the other side. She could see the tops of trees rising above the wall. As she stood still, she noticed a bird with a bright red breast sitting on the very top branch of one of them. Suddenly, he burst into a cheerful winter song—almost as if he had spotted her and was calling out to her.\n\nShe stopped to listen, and somehow his cheerful, friendly little whistle made her feel happy. Even a disagreeable little girl can feel lonely, and the huge, empty house, the vast bare moor, and the silent, wintry gardens had made Mary feel as if she were the only person left in the world. If she had been an affectionate child who was used to being loved, she would have been heartbroken. But even though she was \"Mistress Mary, Quite Contrary,\" she felt deeply lonely, and this bright-breasted little bird brought a look to her sour face that was almost a smile. She listened to him until he flew away. He was nothing like the birds in India. She liked him and wondered if she would ever see him again. Perhaps he lived in the mysterious garden and knew all its secrets.\n\nPerhaps it was because she had absolutely nothing to do that she thought so much about the deserted garden. She was curious and wanted to see what was inside. Why had Mr. Archibald Craven buried the key? If he loved his wife so much, why did he hate her garden? She wondered if she would ever meet him. She knew that if she did, she wouldn't like him, and he wouldn't like her. She would probably just stand and stare at him without saying a word, even though she would be desperate to ask why he had done such a strange thing."
+    "text": "Mary didnt answer. She walked down the path and through the second green door. There, she found more walls, winter vegetables, and glass frames, but in the next wall, there was another green door, and this one was closed. Perhaps it led into the garden no one had seen for ten years. Since she wasnt a timid child and always did exactly what she wanted, Mary went up to the door and turned the handle. She actually hoped it wouldnt open, because she wanted to be sure she had found the mysterious garden—but it opened quite easily. She walked through and found herself in an orchard. It also had walls all around it, with fruit trees trained against them and bare trees growing in the winter-browned grass, but there was no green door to be seen anywhere. Mary searched for one. As she had entered the upper end of the orchard, she noticed that the wall didnt seem to stop, but extended further, as if it enclosed another area on the other side. She could see the tops of trees rising above the wall. As she stood still, she noticed a bird with a bright red breast sitting on the very top branch of one of them. Suddenly, he burst into a cheerful winter song—almost as if he had spotted her and was calling out to her."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "She stopped to listen, and somehow his cheerful, friendly little whistle made her feel happy. Even a disagreeable little girl can feel lonely, and the huge, empty house, the vast bare moor, and the silent, wintry gardens had made Mary feel as if she were the only person left in the world. If she had been an affectionate child who was used to being loved, she would have been heartbroken. But even though she was Mistress Mary, Quite Contrary, she felt deeply lonely, and this bright-breasted little bird brought a look to her sour face that was almost a smile. She listened to him until he flew away. He was nothing like the birds in India. She liked him and wondered if she would ever see him again. Perhaps he lived in the mysterious garden and knew all its secrets."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Perhaps it was because she had absolutely nothing to do that she thought so much about the deserted garden. She was curious and wanted to see what was inside. Why had Mr. Archibald Craven buried the key? If he loved his wife so much, why did he hate her garden? She wondered if she would ever meet him. She knew that if she did, she wouldnt like him, and he wouldnt like her. She would probably just stand and stare at him without saying a word, even though she would be desperate to ask why he had done such a strange thing."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"People never like me, and I never like people,\""
+    "text": "People never like me, and I never like people,"
   },
   {
     "character": "Narrator",
@@ -981,7 +1083,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"And I can never talk the way the Crawford children did. They were always talking and laughing and playing.\""
+    "text": "And I can never talk the way the Crawford children did. They were always talking and laughing and playing."
   },
   {
     "character": "Narrator",
@@ -993,7 +1095,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I believe that tree was in the secret garden—I feel sure it was,\""
+    "text": "I believe that tree was in the secret garden—I feel sure it was,"
   },
   {
     "character": "Narrator",
@@ -1005,7 +1107,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"There was a wall around it, and no door.\""
+    "text": "There was a wall around it, and no door."
   },
   {
     "character": "Narrator",
@@ -1017,7 +1119,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I have been into the other gardens,\""
+    "text": "I have been into the other gardens,"
   },
   {
     "character": "Narrator",
@@ -1029,7 +1131,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"There was nothing to stop you,\""
+    "text": "There was nothing to stop you,"
   },
   {
     "character": "Narrator",
@@ -1041,13 +1143,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I went into the orchard.\""
+    "text": "I went into the orchard."
   },
   {
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"There was no dog at the door to bite you,\""
+    "text": "There was no dog at the door to bite you,"
   },
   {
     "character": "Narrator",
@@ -1059,7 +1161,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"There was no door from there into the other garden,\""
+    "text": "There was no door from there into the other garden,"
   },
   {
     "character": "Narrator",
@@ -1071,7 +1173,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"What garden?\""
+    "text": "What garden?"
   },
   {
     "character": "Narrator",
@@ -1083,7 +1185,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"The one on the other side of the wall,\""
+    "text": "The one on the other side of the wall,"
   },
   {
     "character": "Narrator",
@@ -1095,19 +1197,31 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"There are trees there—I saw their tops. A bird with a red breast was sitting on one of them, and he sang.\""
+    "text": "There are trees there—I saw their tops. A bird with a red breast was sitting on one of them, and he sang."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "To her surprise, the grumpy, weather-beaten old face actually changed. A slow smile spread across it, and the gardener looked completely different. It made Mary realize how much nicer a person looked when they smiled. She had never thought about that before.\n\nHe turned toward the orchard side of the garden and let out a soft, low whistle. She couldn't understand how such a grumpy man could make such a sweet, coaxing sound.\n\nAlmost immediately, a wonderful thing happened. She heard a soft rustling flight through the air, and the red-breasted bird came flying right toward them. He landed on a large clump of earth, very close to the gardener's foot."
+    "text": "To her surprise, the grumpy, weather-beaten old face actually changed. A slow smile spread across it, and the gardener looked completely different. It made Mary realize how much nicer a person looked when they smiled. She had never thought about that before."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "He turned toward the orchard side of the garden and let out a soft, low whistle. She couldnt understand how such a grumpy man could make such a sweet, coaxing sound."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Almost immediately, a wonderful thing happened. She heard a soft rustling flight through the air, and the red-breasted bird came flying right toward them. He landed on a large clump of earth, very close to the gardeners foot."
   },
   {
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"Here he is,\""
+    "text": "Here he is,"
   },
   {
     "character": "Narrator",
@@ -1119,7 +1233,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"Where have you been, you cheeky little beggar?\""
+    "text": "Where have you been, you cheeky little beggar?"
   },
   {
     "character": "Narrator",
@@ -1131,7 +1245,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"I haven't seen you all day. Have you started your courting this early in the season? You're too forward.\""
+    "text": "I havent seen you all day. Have you started your courting this early in the season? Youre too forward."
   },
   {
     "character": "Narrator",
@@ -1143,7 +1257,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Will he always come when you call him?\""
+    "text": "Will he always come when you call him?"
   },
   {
     "character": "Narrator",
@@ -1155,13 +1269,13 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"Yes, that he will. I've known him ever since he was a baby. He came out of the nest in that other garden. When he first flew over the wall, he was too weak to fly back for a few days, so we became friends. When he finally went back over the wall, the rest of the family was gone. He was lonely, so he came back to me.\""
+    "text": "Yes, that he will. Ive known him ever since he was a baby. He came out of the nest in that other garden. When he first flew over the wall, he was too weak to fly back for a few days, so we became friends. When he finally went back over the wall, the rest of the family was gone. He was lonely, so he came back to me."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"What kind of bird is he?\""
+    "text": "What kind of bird is he?"
   },
   {
     "character": "Narrator",
@@ -1173,7 +1287,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"Don't you know? He's a robin redbreast, and they're the friendliest, most curious birds alive. They're almost as friendly as dogs, if you know how to get along with them. Watch him pecking around there and looking at us now and then. He knows we're talking about him.\""
+    "text": "Dont you know? Hes a robin redbreast, and theyre the friendliest, most curious birds alive. Theyre almost as friendly as dogs, if you know how to get along with them. Watch him pecking around there and looking at us now and then. He knows were talking about him."
   },
   {
     "character": "Narrator",
@@ -1185,7 +1299,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"He's a proud one,\""
+    "text": "Hes a proud one,"
   },
   {
     "character": "Narrator",
@@ -1197,7 +1311,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"He likes to hear people talk about him. And curious—bless me, there was never a bird so nosy and curious. He's always coming to see what I'm planting. He knows all the things Mr. Craven never bothers to find out. He's the real head gardener, he is.\""
+    "text": "He likes to hear people talk about him. And curious—bless me, there was never a bird so nosy and curious. Hes always coming to see what Im planting. He knows all the things Mr. Craven never bothers to find out. Hes the real head gardener, he is."
   },
   {
     "character": "Narrator",
@@ -1209,7 +1323,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Where did the rest of the family fly to?\""
+    "text": "Where did the rest of the family fly to?"
   },
   {
     "character": "Narrator",
@@ -1221,7 +1335,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"There's no knowing. The parent birds push them out of the nest and make them fly, and they're scattered before you know it. This one was a smart little fellow, and he knew he was lonely.\""
+    "text": "Theres no knowing. The parent birds push them out of the nest and make them fly, and theyre scattered before you know it. This one was a smart little fellow, and he knew he was lonely."
   },
   {
     "character": "Narrator",
@@ -1233,55 +1347,85 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I'm lonely,\""
+    "text": "Im lonely,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "she said.\n\nShe hadn't realized before that this was one of the things making her feel so sour and cross. She only seemed to understand it now, as she and the robin looked at each other.\n\nThe old gardener pushed his cap back on his bald head and stared at her for a moment."
+    "text": "she said."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "She hadnt realized before that this was one of the things making her feel so sour and cross. She only seemed to understand it now, as she and the robin looked at each other."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "The old gardener pushed his cap back on his bald head and stared at her for a moment."
   },
   {
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"Are you the little girl from India?\""
+    "text": "Are you the little girl from India?"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "he asked.\n\nMary nodded."
+    "text": "he asked."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Mary nodded."
   },
   {
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"Then it's no wonder you're lonely. You'll be even lonelier before you're through,\""
+    "text": "Then its no wonder youre lonely. Youll be even lonelier before youre through,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "he said.\n\nHe began to dig again, driving his spade deep into the rich, dark garden soil while the robin hopped around, busy with his own work."
+    "text": "he said."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "He began to dig again, driving his spade deep into the rich, dark garden soil while the robin hopped around, busy with his own work."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"What is your name?\""
+    "text": "What is your name?"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary asked.\n\nHe stood up straight to answer."
+    "text": "Mary asked."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "He stood up straight to answer."
   },
   {
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"Ben Weatherstaff,\""
+    "text": "Ben Weatherstaff,"
   },
   {
     "character": "Narrator",
@@ -1293,7 +1437,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"I'm lonely myself, except when he's with me,\""
+    "text": "Im lonely myself, except when hes with me,"
   },
   {
     "character": "Narrator",
@@ -1305,13 +1449,13 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"He's the only friend I've got.\""
+    "text": "Hes the only friend Ive got."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I have no friends at all,\""
+    "text": "I have no friends at all,"
   },
   {
     "character": "Narrator",
@@ -1323,7 +1467,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I never had any. My Ayah didn't like me, and I never played with anyone.\""
+    "text": "I never had any. My Ayah didnt like me, and I never played with anyone."
   },
   {
     "character": "Narrator",
@@ -1335,7 +1479,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"You and me are quite a bit alike,\""
+    "text": "You and me are quite a bit alike,"
   },
   {
     "character": "Narrator",
@@ -1347,19 +1491,25 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"We were cut from the same cloth. Neither of us is good-looking, and we're both as sour as we look. We've got the same bad tempers, the both of us, I'd bet.\""
+    "text": "We were cut from the same cloth. Neither of us is good-looking, and were both as sour as we look. Weve got the same bad tempers, the both of us, Id bet."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "This was blunt honesty, and Mary Lennox had never heard the truth about herself in her entire life. Indian servants always bowed and submitted to whatever she did. She had never thought much about her own appearance, but now she wondered if she was as unattractive as Ben Weatherstaff. She also wondered if she looked as sour as he had before the robin arrived. She even began to wonder if she really was bad-tempered. The thoughts made her feel uncomfortable.\n\nSuddenly, a clear, rippling little sound broke out nearby, and she turned around. She was standing a few feet from a young apple tree, and the robin had flown onto one of its branches, bursting into a fragment of song. Ben Weatherstaff laughed out loud."
+    "text": "This was blunt honesty, and Mary Lennox had never heard the truth about herself in her entire life. Indian servants always bowed and submitted to whatever she did. She had never thought much about her own appearance, but now she wondered if she was as unattractive as Ben Weatherstaff. She also wondered if she looked as sour as he had before the robin arrived. She even began to wonder if she really was bad-tempered. The thoughts made her feel uncomfortable."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Suddenly, a clear, rippling little sound broke out nearby, and she turned around. She was standing a few feet from a young apple tree, and the robin had flown onto one of its branches, bursting into a fragment of song. Ben Weatherstaff laughed out loud."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Why did he do that?\""
+    "text": "Why did he do that?"
   },
   {
     "character": "Narrator",
@@ -1371,7 +1521,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"He's made up his mind to be friends with you,\""
+    "text": "Hes made up his mind to be friends with you,"
   },
   {
     "character": "Narrator",
@@ -1383,13 +1533,13 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"Well, I'll be. He's taken a real liking to you.\""
+    "text": "Well, Ill be. Hes taken a real liking to you."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"To me?\""
+    "text": "To me?"
   },
   {
     "character": "Narrator",
@@ -1401,7 +1551,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Would you be friends with me?\""
+    "text": "Would you be friends with me?"
   },
   {
     "character": "Narrator",
@@ -1413,19 +1563,19 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Would you?\""
+    "text": "Would you?"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "She didn't say it in her usual hard little voice or in her bossy Indian tone, but in a voice so soft, eager, and coaxing that Ben Weatherstaff was just as surprised as she had been when he whistled."
+    "text": "She didnt say it in her usual hard little voice or in her bossy Indian tone, but in a voice so soft, eager, and coaxing that Ben Weatherstaff was just as surprised as she had been when he whistled."
   },
   {
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"Well,\""
+    "text": "Well,"
   },
   {
     "character": "Narrator",
@@ -1437,13 +1587,13 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"you said that as sweet and natural as if you were a real child instead of a sharp little old woman. You said it almost the way Dickon talks to his wild creatures on the moor.\""
+    "text": "you said that as sweet and natural as if you were a real child instead of a sharp little old woman. You said it almost the way Dickon talks to his wild creatures on the moor."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Do you know Dickon?\""
+    "text": "Do you know Dickon?"
   },
   {
     "character": "Narrator",
@@ -1455,7 +1605,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"Everybody knows him. Dickon wanders around everywhere. The very blackberries and heather-bells know him. I'd bet the foxes show him where their cubs are sleeping, and the skylarks don't hide their nests from him.\""
+    "text": "Everybody knows him. Dickon wanders around everywhere. The very blackberries and heather-bells know him. Id bet the foxes show him where their cubs are sleeping, and the skylarks dont hide their nests from him."
   },
   {
     "character": "Narrator",
@@ -1467,7 +1617,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"He has flown over the wall!\""
+    "text": "He has flown over the wall!"
   },
   {
     "character": "Narrator",
@@ -1479,13 +1629,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"He has flown into the orchard—and now across the other wall—into the garden where there is no door!\""
+    "text": "He has flown into the orchard—and now across the other wall—into the garden where there is no door!"
   },
   {
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"He lives there,\""
+    "text": "He lives there,"
   },
   {
     "character": "Narrator",
@@ -1497,13 +1647,13 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"He hatched from his egg there. If he's courting, he's looking for some young lady robin who lives among the old rosebushes in there.\""
+    "text": "He hatched from his egg there. If hes courting, hes looking for some young lady robin who lives among the old rosebushes in there."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Rosebushes,\""
+    "text": "Rosebushes,"
   },
   {
     "character": "Narrator",
@@ -1515,7 +1665,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Are there rosebushes?\""
+    "text": "Are there rosebushes?"
   },
   {
     "character": "Narrator",
@@ -1527,7 +1677,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"There were ten years ago,\""
+    "text": "There were ten years ago,"
   },
   {
     "character": "Narrator",
@@ -1539,7 +1689,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I should like to see them,\""
+    "text": "I should like to see them,"
   },
   {
     "character": "Narrator",
@@ -1551,7 +1701,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Where is the green door? There must be a door somewhere.\""
+    "text": "Where is the green door? There must be a door somewhere."
   },
   {
     "character": "Narrator",
@@ -1563,7 +1713,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"There was one ten years ago, but there isn't now,\""
+    "text": "There was one ten years ago, but there isnt now,"
   },
   {
     "character": "Narrator",
@@ -1575,7 +1725,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"No door!\""
+    "text": "No door!"
   },
   {
     "character": "Narrator",
@@ -1587,13 +1737,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"There must be one.\""
+    "text": "There must be one."
   },
   {
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"None that anyone can find, and none that is anyone's business. Don't be a meddling girl, poking your nose where it doesn't belong. Now, I have to get on with my work. Go on and play. I have no more time.\""
+    "text": "None that anyone can find, and none that is anyones business. Dont be a meddling girl, poking your nose where it doesnt belong. Now, I have to get on with my work. Go on and play. I have no more time."
   },
   {
     "character": "Narrator",

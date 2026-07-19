@@ -3,13 +3,19 @@
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Chapter 23: Magic\n\nDr. Craven had been waiting at the house for some time when they returned. He had actually begun to wonder if he should send someone out to look for them along the garden paths. When Colin was brought back to his room, the doctor examined him with a serious expression."
+    "text": "Chapter 23: Magic"
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Dr. Craven had been waiting at the house for some time when they returned. He had actually begun to wonder if he should send someone out to look for them along the garden paths. When Colin was brought back to his room, the doctor examined him with a serious expression."
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"You shouldn't have stayed out so long,\""
+    "text": "You shouldnt have stayed out so long,"
   },
   {
     "character": "Narrator",
@@ -21,13 +27,13 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"You must not overexert yourself.\""
+    "text": "You must not overexert yourself."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I'm not tired at all,\""
+    "text": "Im not tired at all,"
   },
   {
     "character": "Narrator",
@@ -39,13 +45,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"It has made me feel well. Tomorrow I am going out in the morning as well as in the afternoon.\""
+    "text": "It has made me feel well. Tomorrow I am going out in the morning as well as in the afternoon."
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I'm not sure I can allow that,\""
+    "text": "Im not sure I can allow that,"
   },
   {
     "character": "Narrator",
@@ -57,13 +63,13 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I'm afraid it wouldn't be wise.\""
+    "text": "Im afraid it wouldnt be wise."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"It wouldn't be wise to try and stop me,\""
+    "text": "It wouldnt be wise to try and stop me,"
   },
   {
     "character": "Narrator",
@@ -75,19 +81,19 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I am going.\""
+    "text": "I am going."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Even Mary had realized that one of Colin's main quirks was that he had no idea how rude and demanding he was when he ordered people around. He had lived on a sort of desert island all his life, and since he was its king, he made his own rules of behavior and had no one to compare himself to. Mary had actually been very much like him herself. Since coming to Misselthwaite, she had gradually discovered that her own manners were not the kind that people liked or found normal. Having made this discovery, she naturally thought it was interesting enough to share with Colin. So, she sat and watched him curiously for a few minutes after Dr. Craven left. She wanted to make him ask why she was staring, and of course, he did."
+    "text": "Even Mary had realized that one of Colins main quirks was that he had no idea how rude and demanding he was when he ordered people around. He had lived on a sort of desert island all his life, and since he was its king, he made his own rules of behavior and had no one to compare himself to. Mary had actually been very much like him herself. Since coming to Misselthwaite, she had gradually discovered that her own manners were not the kind that people liked or found normal. Having made this discovery, she naturally thought it was interesting enough to share with Colin. So, she sat and watched him curiously for a few minutes after Dr. Craven left. She wanted to make him ask why she was staring, and of course, he did."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"What are you looking at me for?\""
+    "text": "What are you looking at me for?"
   },
   {
     "character": "Narrator",
@@ -99,13 +105,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I was thinking that I feel rather sorry for Dr. Craven.\""
+    "text": "I was thinking that I feel rather sorry for Dr. Craven."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"So do I,\""
+    "text": "So do I,"
   },
   {
     "character": "Narrator",
@@ -117,13 +123,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"He won't inherit Misselthwaite now that I'm not going to die.\""
+    "text": "He wont inherit Misselthwaite now that Im not going to die."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I'm sorry for him because of that, of course,\""
+    "text": "Im sorry for him because of that, of course,"
   },
   {
     "character": "Narrator",
@@ -135,13 +141,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"but I was actually thinking that it must have been dreadful to have to be polite for ten years to a boy who was always rude. I would never have done it.\""
+    "text": "but I was actually thinking that it must have been dreadful to have to be polite for ten years to a boy who was always rude. I would never have done it."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Am I rude?\""
+    "text": "Am I rude?"
   },
   {
     "character": "Narrator",
@@ -153,7 +159,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"If you had been his own son, and if he were the kind of man who hits,\""
+    "text": "If you had been his own son, and if he were the kind of man who hits,"
   },
   {
     "character": "Narrator",
@@ -165,13 +171,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"he would have slapped you.\""
+    "text": "he would have slapped you."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"But he wouldn't dare,\""
+    "text": "But he wouldnt dare,"
   },
   {
     "character": "Narrator",
@@ -183,7 +189,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"No, he wouldn't dare,\""
+    "text": "No, he wouldnt dare,"
   },
   {
     "character": "Narrator",
@@ -195,13 +201,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Nobody ever dared to do anything you didn't like—because you were going to die and all that. You were such a helpless creature.\""
+    "text": "Nobody ever dared to do anything you didnt like—because you were going to die and all that. You were such a helpless creature."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"But,\""
+    "text": "But,"
   },
   {
     "character": "Narrator",
@@ -213,25 +219,31 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I am not going to be helpless anymore. I won't let people think I am. I stood on my feet this afternoon.\""
+    "text": "I am not going to be helpless anymore. I wont let people think I am. I stood on my feet this afternoon."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"It's always getting your own way that has made you so strange,\""
+    "text": "Its always getting your own way that has made you so strange,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary continued, thinking aloud.\n\nColin turned his head, frowning."
+    "text": "Mary continued, thinking aloud."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Colin turned his head, frowning."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Am I strange?\""
+    "text": "Am I strange?"
   },
   {
     "character": "Narrator",
@@ -243,7 +255,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Yes,\""
+    "text": "Yes,"
   },
   {
     "character": "Narrator",
@@ -255,7 +267,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"very. But you don't need to be angry,\""
+    "text": "very. But you dont need to be angry,"
   },
   {
     "character": "Narrator",
@@ -267,13 +279,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"because I am strange, too—and so is Ben Weatherstaff. But I'm not as strange as I was before I began to like people and before I found the garden.\""
+    "text": "because I am strange, too—and so is Ben Weatherstaff. But Im not as strange as I was before I began to like people and before I found the garden."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I don't want to be strange,\""
+    "text": "I dont want to be strange,"
   },
   {
     "character": "Narrator",
@@ -285,19 +297,25 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I'm not going to be,\""
+    "text": "Im not going to be,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "and he frowned again with determination.\n\nHe was a very proud boy. He lay thinking for a while, and then Mary saw his beautiful smile appear and gradually transform his whole face."
+    "text": "and he frowned again with determination."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "He was a very proud boy. He lay thinking for a while, and then Mary saw his beautiful smile appear and gradually transform his whole face."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I will stop being strange,\""
+    "text": "I will stop being strange,"
   },
   {
     "character": "Narrator",
@@ -309,13 +327,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"if I go to the garden every day. There is Magic in there—good Magic, you know, Mary. I'm sure there is.\""
+    "text": "if I go to the garden every day. There is Magic in there—good Magic, you know, Mary. Im sure there is."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"So am I,\""
+    "text": "So am I,"
   },
   {
     "character": "Narrator",
@@ -327,7 +345,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Even if it isn't real Magic,\""
+    "text": "Even if it isnt real Magic,"
   },
   {
     "character": "Narrator",
@@ -339,13 +357,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"we can pretend it is. Something is there—something!\""
+    "text": "we can pretend it is. Something is there—something!"
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"It's Magic,\""
+    "text": "Its Magic,"
   },
   {
     "character": "Narrator",
@@ -357,7 +375,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"but not black Magic. It's as white as snow.\""
+    "text": "but not black Magic. Its as white as snow."
   },
   {
     "character": "Narrator",
@@ -369,7 +387,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"She was very fond of them—she was,\""
+    "text": "She was very fond of them—she was,"
   },
   {
     "character": "Narrator",
@@ -381,31 +399,43 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"She liked those things that were always pointing up to the blue sky, she used to say. Not that she was one of those who looked down on the earth—not her. She just loved it, but she said the blue sky always looked so joyful.\""
+    "text": "She liked those things that were always pointing up to the blue sky, she used to say. Not that she was one of those who looked down on the earth—not her. She just loved it, but she said the blue sky always looked so joyful."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "The seeds Dickon and Mary had planted grew as if fairies had tended them. Dozens of satiny poppies of all shades danced in the breeze, gaily defying the flowers that had lived in the garden for years and seemed to wonder how these new arrivals had got there. And the roses—the roses! Rising out of the grass, tangled around the sundial, wrapping around the tree trunks and hanging from their branches, climbing up the walls and spreading over them in long cascading garlands—they came alive day by day, hour by hour. Fresh green leaves and buds—so many buds—tiny at first but swelling and working Magic until they burst open into cups of fragrance, delicately spilling over their brims and filling the garden air.\n\nColin saw it all, watching each change as it happened. Every morning he was brought out, and he spent every hour of the day in the garden unless it rained. Even gray days pleased him. He would lie on the grass,"
-  },
-  {
-    "character": "colin",
-    "voice": "am_adam",
-    "speed": 1.0,
-    "text": "\"watching things grow,\""
+    "text": "The seeds Dickon and Mary had planted grew as if fairies had tended them. Dozens of satiny poppies of all shades danced in the breeze, gaily defying the flowers that had lived in the garden for years and seemed to wonder how these new arrivals had got there. And the roses—the roses! Rising out of the grass, tangled around the sundial, wrapping around the tree trunks and hanging from their branches, climbing up the walls and spreading over them in long cascading garlands—they came alive day by day, hour by hour. Fresh green leaves and buds—so many buds—tiny at first but swelling and working Magic until they burst open into cups of fragrance, delicately spilling over their brims and filling the garden air."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "he said. If you watched long enough, he declared, you could see the buds open. He also made friends with strange, busy insects running about on unknown but clearly serious errands—sometimes carrying tiny scraps of straw, feathers, or food, or climbing blades of grass as if they were trees to look out and explore the land. A mole pushing up its mound at the end of its tunnel, finally emerging with its long-clawed paws that looked like tiny elf hands, had kept him fascinated for an entire morning. The ways of ants, beetles, bees, frogs, birds, and plants gave him a new world to explore. And when Dickon revealed them all, adding the ways of foxes, otters, ferrets, squirrels, trout, water rats, and badgers, there was no end to the things they could talk and think about.\n\nAnd this was not even half the Magic. The fact that he had actually stood on his feet had started Colin thinking deeply. When Mary told him of the spell she had cast, he was excited and highly approved. He talked about it constantly."
+    "text": "Colin saw it all, watching each change as it happened. Every morning he was brought out, and he spent every hour of the day in the garden unless it rained. Even gray days pleased him. He would lie on the grass,"
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Of course there must be plenty of Magic in the world,\""
+    "text": "watching things grow,"
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "he said. If you watched long enough, he declared, you could see the buds open. He also made friends with strange, busy insects running about on unknown but clearly serious errands—sometimes carrying tiny scraps of straw, feathers, or food, or climbing blades of grass as if they were trees to look out and explore the land. A mole pushing up its mound at the end of its tunnel, finally emerging with its long-clawed paws that looked like tiny elf hands, had kept him fascinated for an entire morning. The ways of ants, beetles, bees, frogs, birds, and plants gave him a new world to explore. And when Dickon revealed them all, adding the ways of foxes, otters, ferrets, squirrels, trout, water rats, and badgers, there was no end to the things they could talk and think about."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "And this was not even half the Magic. The fact that he had actually stood on his feet had started Colin thinking deeply. When Mary told him of the spell she had cast, he was excited and highly approved. He talked about it constantly."
+  },
+  {
+    "character": "colin",
+    "voice": "am_adam",
+    "speed": 1.0,
+    "text": "Of course there must be plenty of Magic in the world,"
   },
   {
     "character": "Narrator",
@@ -417,7 +447,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"but people don't know what it's like or how to make it. Perhaps the beginning is just to say good things are going to happen until you make them happen. I am going to try an experiment.\""
+    "text": "but people dont know what its like or how to make it. Perhaps the beginning is just to say good things are going to happen until you make them happen. I am going to try an experiment."
   },
   {
     "character": "Narrator",
@@ -429,7 +459,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Good morning, Ben Weatherstaff,\""
+    "text": "Good morning, Ben Weatherstaff,"
   },
   {
     "character": "Narrator",
@@ -441,25 +471,25 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I want you and Dickon and Miss Mary to stand in a row and listen to me, because I am going to tell you something very important.\""
+    "text": "I want you and Dickon and Miss Mary to stand in a row and listen to me, because I am going to tell you something very important."
   },
   {
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"Aye, aye, sir!\""
+    "text": "Aye, aye, sir!"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "answered Ben Weatherstaff, touching his hand to his forehead. (One of Ben's long-hidden secrets was that he had run away to sea as a boy and made several voyages. So he could respond like a sailor.)"
+    "text": "answered Ben Weatherstaff, touching his hand to his forehead. (One of Bens long-hidden secrets was that he had run away to sea as a boy and made several voyages. So he could respond like a sailor.)"
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I am going to try a scientific experiment,\""
+    "text": "I am going to try a scientific experiment,"
   },
   {
     "character": "Narrator",
@@ -471,25 +501,31 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"When I grow up, I am going to make great scientific discoveries, and I am going to start now with this experiment.\""
+    "text": "When I grow up, I am going to make great scientific discoveries, and I am going to start now with this experiment."
   },
   {
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"Aye, aye, sir!\""
+    "text": "Aye, aye, sir!"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Ben Weatherstaff said promptly, though this was the first time he had ever heard of great scientific discoveries.\n\nIt was the first time Mary had heard of them either. But even then, she had begun to realize that, strange as he was, Colin had read about many unusual things and was a very convincing boy. When he held up his head and fixed his strange eyes on you, you couldn't help but believe him, even though he was only ten years old—going on eleven. At this moment, he was especially convincing because he was enjoying the thrill of making a speech like a grown-up."
+    "text": "Ben Weatherstaff said promptly, though this was the first time he had ever heard of great scientific discoveries."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "It was the first time Mary had heard of them either. But even then, she had begun to realize that, strange as he was, Colin had read about many unusual things and was a very convincing boy. When he held up his head and fixed his strange eyes on you, you couldnt help but believe him, even though he was only ten years old—going on eleven. At this moment, he was especially convincing because he was enjoying the thrill of making a speech like a grown-up."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"The great scientific discoveries I am going to make,\""
+    "text": "The great scientific discoveries I am going to make,"
   },
   {
     "character": "Narrator",
@@ -501,7 +537,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"will be about Magic. Magic is a powerful thing, and hardly anyone knows anything about it, except for a few people in old books—and Mary a little, because she was born in India where there are fakirs. I believe Dickon knows some Magic, though he might not realize it. He charms animals and people. I would never have allowed him to visit me if he hadn't been an animal charmer—which also makes him a boy charmer, because a boy is an animal. I am sure there is Magic in everything, but we just aren't smart enough to grasp it and make it work for us, like electricity, horses, and steam.\""
+    "text": "will be about Magic. Magic is a powerful thing, and hardly anyone knows anything about it, except for a few people in old books—and Mary a little, because she was born in India where there are fakirs. I believe Dickon knows some Magic, though he might not realize it. He charms animals and people. I would never have allowed him to visit me if he hadnt been an animal charmer—which also makes him a boy charmer, because a boy is an animal. I am sure there is Magic in everything, but we just arent smart enough to grasp it and make it work for us, like electricity, horses, and steam."
   },
   {
     "character": "Narrator",
@@ -513,7 +549,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"Aye, aye, sir,\""
+    "text": "Aye, aye, sir,"
   },
   {
     "character": "Narrator",
@@ -525,7 +561,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"When Mary found this garden, it looked completely dead,\""
+    "text": "When Mary found this garden, it looked completely dead,"
   },
   {
     "character": "Narrator",
@@ -537,13 +573,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Then something began pushing things up out of the soil and making something out of nothing. One day there was nothing there, and the next day there was. I had never watched things grow before, and it made me very curious. Scientific people are always curious, and I am going to be scientific. I keep asking myself, 'What is it? What is it?' It's something. It can't be nothing! I don't know its name, so I call it Magic. I have never seen the sunrise, but Mary and Dickon have, and from what they tell me, I am sure that is Magic, too. Something pushes it up and pulls it down. Sometimes, since I've been in the garden, I've looked up through the trees at the sky and felt a strange, happy feeling, as if something were pushing and pulling inside my chest, making me breathe fast. Magic is always pushing and pulling, making things out of nothing. Everything is made of Magic—leaves and trees, flowers and birds, badgers, foxes, squirrels, and people. So it must be all around us, in this garden and everywhere else. The Magic in this garden has made me stand up and know that I am going to live to be a man. I am going to make a scientific experiment: I will try to capture some of it and put it inside myself, to let it push and pull me and make me strong. I don't know how to do it, but I think if you keep thinking about it and calling it, it will come. Perhaps that is the very first step to getting it. When I was trying to stand for the first time, Mary kept repeating to herself as fast as she could, 'You can do it! You can do it!' and I did. I had to try myself, of course, but her Magic helped me, and so did Dickon's. Every morning and evening, and as often as I can remember during the day, I am going to say, 'Magic is in me! Magic is making me well! I am going to be as strong as Dickon, as strong as Dickon!' And you must all do it, too. That is my experiment. Will you help, Ben Weatherstaff?\""
+    "text": "Then something began pushing things up out of the soil and making something out of nothing. One day there was nothing there, and the next day there was. I had never watched things grow before, and it made me very curious. Scientific people are always curious, and I am going to be scientific. I keep asking myself, What is it? What is it? Its something. It cant be nothing! I dont know its name, so I call it Magic. I have never seen the sunrise, but Mary and Dickon have, and from what they tell me, I am sure that is Magic, too. Something pushes it up and pulls it down. Sometimes, since Ive been in the garden, Ive looked up through the trees at the sky and felt a strange, happy feeling, as if something were pushing and pulling inside my chest, making me breathe fast. Magic is always pushing and pulling, making things out of nothing. Everything is made of Magic—leaves and trees, flowers and birds, badgers, foxes, squirrels, and people. So it must be all around us, in this garden and everywhere else. The Magic in this garden has made me stand up and know that I am going to live to be a man. I am going to make a scientific experiment: I will try to capture some of it and put it inside myself, to let it push and pull me and make me strong. I dont know how to do it, but I think if you keep thinking about it and calling it, it will come. Perhaps that is the very first step to getting it. When I was trying to stand for the first time, Mary kept repeating to herself as fast as she could, You can do it! You can do it! and I did. I had to try myself, of course, but her Magic helped me, and so did Dickons. Every morning and evening, and as often as I can remember during the day, I am going to say, Magic is in me! Magic is making me well! I am going to be as strong as Dickon, as strong as Dickon! And you must all do it, too. That is my experiment. Will you help, Ben Weatherstaff?"
   },
   {
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"Aye, aye, sir!\""
+    "text": "Aye, aye, sir!"
   },
   {
     "character": "Narrator",
@@ -555,19 +591,19 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"Aye, aye!\""
+    "text": "Aye, aye!"
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"If you keep doing it every day, as regularly as soldiers drill, we shall see what will happen and find out if the experiment succeeds. You learn things by saying them over and over and thinking about them until they stay in your mind forever, and I think it will be the same with Magic. If you keep calling it to come and help you, it will become a part of you, and it will stay and do things.\""
+    "text": "If you keep doing it every day, as regularly as soldiers drill, we shall see what will happen and find out if the experiment succeeds. You learn things by saying them over and over and thinking about them until they stay in your mind forever, and I think it will be the same with Magic. If you keep calling it to come and help you, it will become a part of you, and it will stay and do things."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I once heard an officer in India tell my mother that there were fakirs who repeated words thousands of times,\""
+    "text": "I once heard an officer in India tell my mother that there were fakirs who repeated words thousands of times,"
   },
   {
     "character": "Narrator",
@@ -579,7 +615,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"I've heard Jem Fettleworth's wife say the same thing thousands of times—calling Jem a drunken brute,\""
+    "text": "Ive heard Jem Fettleworths wife say the same thing thousands of times—calling Jem a drunken brute,"
   },
   {
     "character": "Narrator",
@@ -591,7 +627,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"Something always came of that, sure enough. He gave her a good beating, went to the Blue Lion pub, and got as drunk as a lord.\""
+    "text": "Something always came of that, sure enough. He gave her a good beating, went to the Blue Lion pub, and got as drunk as a lord."
   },
   {
     "character": "Narrator",
@@ -603,7 +639,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Well,\""
+    "text": "Well,"
   },
   {
     "character": "Narrator",
@@ -615,7 +651,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"you see, something did come of it. She used the wrong Magic until she made him beat her. If she had used the right Magic and said something nice, perhaps he wouldn't have gotten so drunk, and perhaps—perhaps he might have bought her a new bonnet.\""
+    "text": "you see, something did come of it. She used the wrong Magic until she made him beat her. If she had used the right Magic and said something nice, perhaps he wouldnt have gotten so drunk, and perhaps—perhaps he might have bought her a new bonnet."
   },
   {
     "character": "Narrator",
@@ -627,7 +663,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"You're a clever lad as well as a straight-legged one, Master Colin,\""
+    "text": "Youre a clever lad as well as a straight-legged one, Master Colin,"
   },
   {
     "character": "Narrator",
@@ -639,7 +675,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"Next time I see Bess Fettleworth, I'll give her a hint of what Magic can do for her. She'd be very pleased if the scientific experiment worked—and so would Jem.\""
+    "text": "Next time I see Bess Fettleworth, Ill give her a hint of what Magic can do for her. Shed be very pleased if the scientific experiment worked—and so would Jem."
   },
   {
     "character": "Narrator",
@@ -651,19 +687,25 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Do you think the experiment will work?\""
+    "text": "Do you think the experiment will work?"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Colin asked him, wondering what he was thinking. He often wondered what Dickon was thinking when he saw him looking at him or at one of his animals with that happy, wide smile.\n\nDickon smiled now, and his smile was even wider than usual."
+    "text": "Colin asked him, wondering what he was thinking. He often wondered what Dickon was thinking when he saw him looking at him or at one of his animals with that happy, wide smile."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Dickon smiled now, and his smile was even wider than usual."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Yes,\""
+    "text": "Yes,"
   },
   {
     "character": "Narrator",
@@ -675,7 +717,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I really do. It'll work just like the seeds do when the sun shines on them. It'll work for sure. Shall we begin it now?\""
+    "text": "I really do. Itll work just like the seeds do when the sun shines on them. Itll work for sure. Shall we begin it now?"
   },
   {
     "character": "Narrator",
@@ -687,7 +729,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"It will be like sitting in a temple,\""
+    "text": "It will be like sitting in a temple,"
   },
   {
     "character": "Narrator",
@@ -699,13 +741,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I'm rather tired, and I want to sit down.\""
+    "text": "Im rather tired, and I want to sit down."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Oh!\""
+    "text": "Oh!"
   },
   {
     "character": "Narrator",
@@ -717,19 +759,19 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"you mustn't begin by saying you're tired. You might spoil the Magic.\""
+    "text": "you mustnt begin by saying youre tired. You might spoil the Magic."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Colin turned and looked into Dickon's innocent round eyes."
+    "text": "Colin turned and looked into Dickons innocent round eyes."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"That's true,\""
+    "text": "Thats true,"
   },
   {
     "character": "Narrator",
@@ -741,19 +783,19 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I must only think of the Magic.\""
+    "text": "I must only think of the Magic."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "It all seemed very majestic and mysterious when they sat down in their circle. Ben Weatherstaff felt as if he had somehow been led into attending a prayer meeting. Ordinarily, he was stubborn about being against prayer meetings, but since this was the Rajah's affair, he didn't mind it and was actually quite pleased to be asked to help. Mistress Mary felt solemnly enraptured. Dickon held his rabbit in his arm, and perhaps he made some silent charmer's signal, because when he sat down cross-legged like the rest, the crow, the fox, the squirrels, and the lamb slowly drew near and joined the circle, each settling down in a spot as if by their own choice."
+    "text": "It all seemed very majestic and mysterious when they sat down in their circle. Ben Weatherstaff felt as if he had somehow been led into attending a prayer meeting. Ordinarily, he was stubborn about being against prayer meetings, but since this was the Rajahs affair, he didnt mind it and was actually quite pleased to be asked to help. Mistress Mary felt solemnly enraptured. Dickon held his rabbit in his arm, and perhaps he made some silent charmers signal, because when he sat down cross-legged like the rest, the crow, the fox, the squirrels, and the lamb slowly drew near and joined the circle, each settling down in a spot as if by their own choice."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"The animals have come,\""
+    "text": "The animals have come,"
   },
   {
     "character": "Narrator",
@@ -765,7 +807,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"They want to help us.\""
+    "text": "They want to help us."
   },
   {
     "character": "Narrator",
@@ -777,7 +819,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Now we will begin,\""
+    "text": "Now we will begin,"
   },
   {
     "character": "Narrator",
@@ -789,13 +831,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Shall we sway backward and forward, Mary, like dervishes?\""
+    "text": "Shall we sway backward and forward, Mary, like dervishes?"
   },
   {
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"I can't do any swaying backward and forward,\""
+    "text": "I cant do any swaying backward and forward,"
   },
   {
     "character": "Narrator",
@@ -807,13 +849,13 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"I've got the rheumatism.\""
+    "text": "Ive got the rheumatism."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"The Magic will cure it,\""
+    "text": "The Magic will cure it,"
   },
   {
     "character": "Narrator",
@@ -825,13 +867,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"but we won't sway until it has. We will only chant.\""
+    "text": "but we wont sway until it has. We will only chant."
   },
   {
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"I can't do any chanting,\""
+    "text": "I cant do any chanting,"
   },
   {
     "character": "Narrator",
@@ -843,19 +885,19 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"They kicked me out of the church choir the only time I ever tried it.\""
+    "text": "They kicked me out of the church choir the only time I ever tried it."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "No one smiled. They were all far too serious. Not even a shadow of doubt crossed Colin's face; he was thinking only of the Magic."
+    "text": "No one smiled. They were all far too serious. Not even a shadow of doubt crossed Colins face; he was thinking only of the Magic."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Then I will chant,\""
+    "text": "Then I will chant,"
   },
   {
     "character": "Narrator",
@@ -867,31 +909,37 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"The sun is shining—the sun is shining. That is the Magic. The flowers are growing—the roots are stirring. That is the Magic. Being alive is the Magic—being strong is the Magic. The Magic is in me—the Magic is in me. It is in me—it is in me. It's in every one of us. It's in Ben Weatherstaff's back. Magic! Magic! Come and help!\""
+    "text": "The sun is shining—the sun is shining. That is the Magic. The flowers are growing—the roots are stirring. That is the Magic. Being alive is the Magic—being strong is the Magic. The Magic is in me—the Magic is in me. It is in me—it is in me. Its in every one of us. Its in Ben Weatherstaffs back. Magic! Magic! Come and help!"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "He said it many times—not a thousand times, but quite a lot. Mary listened, spellbound. She felt it was both strange and beautiful, and she wanted him to go on and on. Ben Weatherstaff began to feel soothed into a pleasant, dreamy state. The humming of the bees in the blossoms blended with the chanting voice, drowsily melting into a peaceful doze. Dickon sat cross-legged with his rabbit asleep in his arms and one hand resting on the lamb's back. Soot the crow had nudged a squirrel out of the way and huddled close to Dickon's shoulder, a gray film dropping over his eyes. At last, Colin stopped."
+    "text": "He said it many times—not a thousand times, but quite a lot. Mary listened, spellbound. She felt it was both strange and beautiful, and she wanted him to go on and on. Ben Weatherstaff began to feel soothed into a pleasant, dreamy state. The humming of the bees in the blossoms blended with the chanting voice, drowsily melting into a peaceful doze. Dickon sat cross-legged with his rabbit asleep in his arms and one hand resting on the lambs back. Soot the crow had nudged a squirrel out of the way and huddled close to Dickons shoulder, a gray film dropping over his eyes. At last, Colin stopped."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Now I am going to walk around the garden,\""
+    "text": "Now I am going to walk around the garden,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "he announced.\n\nBen Weatherstaff's head had just slumped forward, and he snapped it back up."
+    "text": "he announced."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Ben Weatherstaffs head had just slumped forward, and he snapped it back up."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"You've been asleep,\""
+    "text": "Youve been asleep,"
   },
   {
     "character": "Narrator",
@@ -903,7 +951,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"Nothing of the sort,\""
+    "text": "Nothing of the sort,"
   },
   {
     "character": "Narrator",
@@ -915,7 +963,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"The sermon was good enough, but I've got to get out before they pass the collection plate.\""
+    "text": "The sermon was good enough, but Ive got to get out before they pass the collection plate."
   },
   {
     "character": "Narrator",
@@ -927,7 +975,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"You're not in church,\""
+    "text": "Youre not in church,"
   },
   {
     "character": "Narrator",
@@ -939,7 +987,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"Not me,\""
+    "text": "Not me,"
   },
   {
     "character": "Narrator",
@@ -951,7 +999,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"Who said I was? I heard every word. You said the Magic was in my back. The doctor calls it rheumatism.\""
+    "text": "Who said I was? I heard every word. You said the Magic was in my back. The doctor calls it rheumatism."
   },
   {
     "character": "Narrator",
@@ -963,7 +1011,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"That was the wrong Magic,\""
+    "text": "That was the wrong Magic,"
   },
   {
     "character": "Narrator",
@@ -975,25 +1023,43 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"You will get better. You have my permission to go back to work. But come back tomorrow.\""
+    "text": "You will get better. You have my permission to go back to work. But come back tomorrow."
   },
   {
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"I'd like to see you walk around the garden,\""
+    "text": "Id like to see you walk around the garden,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "grunted Ben.\n\nIt was not an unfriendly grunt, but it was a grunt. In fact, being a stubborn old man and not having full faith in Magic, he had made up his mind that if he were sent away, he would climb his ladder and look over the wall, just so he would be ready to hobble back if Colin stumbled.\n\nThe Rajah did not mind him staying, and so the procession was formed. It really did look like a procession. Colin led the way, with Dickon on one side and Mary on the other. Ben Weatherstaff walked behind them, and the animals trailed after. The lamb and the fox cub kept close to Dickon, the white rabbit hopped along or stopped to nibble, and Soot followed with the solemn air of someone who felt he was in charge.\n\nIt was a procession that moved slowly but with dignity. Every few yards they stopped to rest. Colin leaned on Dickon's arm, and Ben Weatherstaff kept a sharp lookout, but now and then Colin took his hand away and walked a few steps alone. His head was held high the entire time, and he looked very grand."
+    "text": "grunted Ben."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "It was not an unfriendly grunt, but it was a grunt. In fact, being a stubborn old man and not having full faith in Magic, he had made up his mind that if he were sent away, he would climb his ladder and look over the wall, just so he would be ready to hobble back if Colin stumbled."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "The Rajah did not mind him staying, and so the procession was formed. It really did look like a procession. Colin led the way, with Dickon on one side and Mary on the other. Ben Weatherstaff walked behind them, and the animals trailed after. The lamb and the fox cub kept close to Dickon, the white rabbit hopped along or stopped to nibble, and Soot followed with the solemn air of someone who felt he was in charge."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "It was a procession that moved slowly but with dignity. Every few yards they stopped to rest. Colin leaned on Dickons arm, and Ben Weatherstaff kept a sharp lookout, but now and then Colin took his hand away and walked a few steps alone. His head was held high the entire time, and he looked very grand."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"The Magic is in me!\""
+    "text": "The Magic is in me!"
   },
   {
     "character": "Narrator",
@@ -1005,7 +1071,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"The Magic is making me strong! I can feel it! I can feel it!\""
+    "text": "The Magic is making me strong! I can feel it! I can feel it!"
   },
   {
     "character": "Narrator",
@@ -1017,7 +1083,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I did it! The Magic worked!\""
+    "text": "I did it! The Magic worked!"
   },
   {
     "character": "Narrator",
@@ -1029,13 +1095,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"That is my first scientific discovery.\""
+    "text": "That is my first scientific discovery."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"What will Dr. Craven say?\""
+    "text": "What will Dr. Craven say?"
   },
   {
     "character": "Narrator",
@@ -1047,7 +1113,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"He won't say anything,\""
+    "text": "He wont say anything,"
   },
   {
     "character": "Narrator",
@@ -1059,13 +1125,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"because we won't tell him. This is going to be our biggest secret of all. No one is to know anything about it until I have grown so strong that I can walk and run like any other boy. I shall come here every day in my wheelchair and be taken back in it. I won't have people whispering and asking questions, and I won't let my father hear about it until the experiment has completely succeeded. Then, when he comes back to Misselthwaite, I shall just walk into his study and say, 'Here I am. I am like any other boy. I am perfectly well, and I shall live to be a man. It was done by a scientific experiment.'\""
+    "text": "because we wont tell him. This is going to be our biggest secret of all. No one is to know anything about it until I have grown so strong that I can walk and run like any other boy. I shall come here every day in my wheelchair and be taken back in it. I wont have people whispering and asking questions, and I wont let my father hear about it until the experiment has completely succeeded. Then, when he comes back to Misselthwaite, I shall just walk into his study and say, Here I am. I am like any other boy. I am perfectly well, and I shall live to be a man. It was done by a scientific experiment."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"He will think he's dreaming,\""
+    "text": "He will think hes dreaming,"
   },
   {
     "character": "Narrator",
@@ -1077,19 +1143,19 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"He won't believe his eyes.\""
+    "text": "He wont believe his eyes."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Colin flushed with triumph. He had made himself believe that he was going to get well, which was more than half the battle, though he didn't realize it. The thought that motivated him more than any other was imagining what his father's face would look like when he saw he had a son who was as straight and strong as other fathers' sons. One of his deepest miseries in his unhealthy, gloomy past had been his hatred of being a sickly, weak-backed boy whose father was afraid to look at him."
+    "text": "Colin flushed with triumph. He had made himself believe that he was going to get well, which was more than half the battle, though he didnt realize it. The thought that motivated him more than any other was imagining what his fathers face would look like when he saw he had a son who was as straight and strong as other fathers sons. One of his deepest miseries in his unhealthy, gloomy past had been his hatred of being a sickly, weak-backed boy whose father was afraid to look at him."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"He'll have to believe them,\""
+    "text": "Hell have to believe them,"
   },
   {
     "character": "Narrator",
@@ -1101,13 +1167,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"One of the things I am going to do, after the Magic works and before I begin making scientific discoveries, is to become an athlete.\""
+    "text": "One of the things I am going to do, after the Magic works and before I begin making scientific discoveries, is to become an athlete."
   },
   {
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"We'll have you taking up boxing in a week or so,\""
+    "text": "Well have you taking up boxing in a week or so,"
   },
   {
     "character": "Narrator",
@@ -1119,7 +1185,7 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"You'll end up winning the championship belt and being the prize-fighter of all England.\""
+    "text": "Youll end up winning the championship belt and being the prize-fighter of all England."
   },
   {
     "character": "Narrator",
@@ -1131,7 +1197,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Weatherstaff,\""
+    "text": "Weatherstaff,"
   },
   {
     "character": "Narrator",
@@ -1143,13 +1209,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"that is disrespectful. You must not take liberties just because you are in on the secret. No matter how well the Magic works, I will not be a prize-fighter. I shall be a Scientific Discoverer.\""
+    "text": "that is disrespectful. You must not take liberties just because you are in on the secret. No matter how well the Magic works, I will not be a prize-fighter. I shall be a Scientific Discoverer."
   },
   {
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"Beg pardon—beg pardon, sir,\""
+    "text": "Beg pardon—beg pardon, sir,"
   },
   {
     "character": "Narrator",
@@ -1161,12 +1227,12 @@
     "character": "ben",
     "voice": "bm_lewis",
     "speed": 0.95,
-    "text": "\"I should have seen it wasn't a joking matter.\""
+    "text": "I should have seen it wasnt a joking matter."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "But his eyes twinkled, and secretly he was thrilled. He really didn't mind being scolded, since the scolding meant that the boy was gaining strength and spirit."
+    "text": "But his eyes twinkled, and secretly he was thrilled. He really didnt mind being scolded, since the scolding meant that the boy was gaining strength and spirit."
   }
 ]

@@ -3,13 +3,19 @@
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Chapter 15: Nest Building\n\nAfter another week of rain, the high arch of the blue sky appeared again, and the sun that poured down was quite hot. Although Mary had not had a chance to see either the secret garden or Dickon, she had enjoyed herself very much. The week had not seemed long at all. She had spent hours every day in Colin's room, talking about Rajahs, gardens, Dickon, and his cottage on the moor. They had looked at the beautiful books and pictures. Sometimes Mary read to Colin, and sometimes he read a little to her. When he was amused and interested, she thought he hardly looked like an invalid at all, except that his face was so pale and he was always lying on the sofa."
+    "text": "Chapter 15: Nest Building"
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "After another week of rain, the high arch of the blue sky appeared again, and the sun that poured down was quite hot. Although Mary had not had a chance to see either the secret garden or Dickon, she had enjoyed herself very much. The week had not seemed long at all. She had spent hours every day in Colins room, talking about Rajahs, gardens, Dickon, and his cottage on the moor. They had looked at the beautiful books and pictures. Sometimes Mary read to Colin, and sometimes he read a little to her. When he was amused and interested, she thought he hardly looked like an invalid at all, except that his face was so pale and he was always lying on the sofa."
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"You are a sly young thing, listening and getting out of bed to investigate like you did that night,\""
+    "text": "You are a sly young thing, listening and getting out of bed to investigate like you did that night,"
   },
   {
     "character": "Narrator",
@@ -21,19 +27,25 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"But there is no denying it has been a blessing to all of us. He hasn't had a tantrum or a crying fit since you two became friends. The nurse was about to quit because she was so tired of him, but now she says she doesn't mind staying since you've gone on duty with her,\""
+    "text": "But there is no denying it has been a blessing to all of us. He hasnt had a tantrum or a crying fit since you two became friends. The nurse was about to quit because she was so tired of him, but now she says she doesnt mind staying since youve gone on duty with her,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "she added, laughing a little.\n\nIn her talks with Colin, Mary tried to be very careful about the secret garden. There were certain things she wanted to find out, but she felt she had to do so without asking direct questions. First, as she grew to enjoy his company, she wanted to know if he was the kind of boy who could keep a secret. He was not like Dickon at all, but he was clearly so delighted by the idea of a hidden garden that she thought he might be trusted. Still, she had not known him long enough to be sure. Second, if he could indeed be trusted, would it be possible to take him to the garden without anyone finding out? The doctor had said he needed fresh air, and Colin had mentioned that he would not mind going outside if it were to a secret garden. Perhaps if he spent time outdoors, got to know Dickon and the robin, and watched things grow, he would not think so much about dying. Mary had looked at herself in the mirror lately and realized she looked like a completely different person from the child who had arrived from India. She looked much healthier and happier now. Even Martha had noticed the change."
+    "text": "she added, laughing a little."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "In her talks with Colin, Mary tried to be very careful about the secret garden. There were certain things she wanted to find out, but she felt she had to do so without asking direct questions. First, as she grew to enjoy his company, she wanted to know if he was the kind of boy who could keep a secret. He was not like Dickon at all, but he was clearly so delighted by the idea of a hidden garden that she thought he might be trusted. Still, she had not known him long enough to be sure. Second, if he could indeed be trusted, would it be possible to take him to the garden without anyone finding out? The doctor had said he needed fresh air, and Colin had mentioned that he would not mind going outside if it were to a secret garden. Perhaps if he spent time outdoors, got to know Dickon and the robin, and watched things grow, he would not think so much about dying. Mary had looked at herself in the mirror lately and realized she looked like a completely different person from the child who had arrived from India. She looked much healthier and happier now. Even Martha had noticed the change."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"The air from the moor has done you good already,\""
+    "text": "The air from the moor has done you good already,"
   },
   {
     "character": "Narrator",
@@ -45,13 +57,13 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"You're not nearly so yellow, and you're not nearly so scrawny. Even your hair doesn't fall down on your head so flat. It has some life in it now, so it stands out a bit.\""
+    "text": "Youre not nearly so yellow, and youre not nearly so scrawny. Even your hair doesnt fall down on your head so flat. It has some life in it now, so it stands out a bit."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"It is like me,\""
+    "text": "It is like me,"
   },
   {
     "character": "Narrator",
@@ -63,25 +75,25 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"It is growing stronger and thicker. I am sure there is more of it.\""
+    "text": "It is growing stronger and thicker. I am sure there is more of it."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"It certainly looks like it,\""
+    "text": "It certainly looks like it,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Martha said, ruffling it up a little around Mary's face."
+    "text": "Martha said, ruffling it up a little around Marys face."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"You're not half so plain when it's like that, and you have some color in your cheeks.\""
+    "text": "Youre not half so plain when its like that, and you have some color in your cheeks."
   },
   {
     "character": "Narrator",
@@ -93,7 +105,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Why does it make you angry when people look at you?\""
+    "text": "Why does it make you angry when people look at you?"
   },
   {
     "character": "Narrator",
@@ -105,7 +117,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I have always hated it,\""
+    "text": "I have always hated it,"
   },
   {
     "character": "Narrator",
@@ -117,13 +129,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"even when I was very small. When they took me to the seaside and I lay in my carriage, everyone stared. Ladies would stop to talk to my nurse and start whispering. I knew they were saying I wouldn't live to grow up. Sometimes they would pat my cheeks and say, 'Poor child!' Once, when a lady did that, I screamed out loud and bit her hand. She was so frightened that she ran away.\""
+    "text": "even when I was very small. When they took me to the seaside and I lay in my carriage, everyone stared. Ladies would stop to talk to my nurse and start whispering. I knew they were saying I wouldnt live to grow up. Sometimes they would pat my cheeks and say, Poor child! Once, when a lady did that, I screamed out loud and bit her hand. She was so frightened that she ran away."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"She must have thought you had gone mad like a rabid dog,\""
+    "text": "She must have thought you had gone mad like a rabid dog,"
   },
   {
     "character": "Narrator",
@@ -135,7 +147,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I don't care what she thought,\""
+    "text": "I dont care what she thought,"
   },
   {
     "character": "Narrator",
@@ -147,7 +159,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I wonder why you didn't scream and bite me when I came into your room?\""
+    "text": "I wonder why you didnt scream and bite me when I came into your room?"
   },
   {
     "character": "Narrator",
@@ -159,7 +171,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I thought you were a ghost or a dream,\""
+    "text": "I thought you were a ghost or a dream,"
   },
   {
     "character": "Narrator",
@@ -171,25 +183,31 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"You can't bite a ghost or a dream, and if you scream, they don't care.\""
+    "text": "You cant bite a ghost or a dream, and if you scream, they dont care."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Would you hate it if—if a boy looked at you?\""
+    "text": "Would you hate it if—if a boy looked at you?"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary asked hesitantly.\n\nHe leaned back on his cushion and paused to think."
+    "text": "Mary asked hesitantly."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "He leaned back on his cushion and paused to think."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"There is one boy,\""
+    "text": "There is one boy,"
   },
   {
     "character": "Narrator",
@@ -201,13 +219,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"There is one boy I think I wouldn't mind. It is that boy who knows where the foxes live—Dickon.\""
+    "text": "There is one boy I think I wouldnt mind. It is that boy who knows where the foxes live—Dickon."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I am sure you wouldn't mind him,\""
+    "text": "I am sure you wouldnt mind him,"
   },
   {
     "character": "Narrator",
@@ -219,7 +237,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Birds and other animals don't mind him,\""
+    "text": "Birds and other animals dont mind him,"
   },
   {
     "character": "Narrator",
@@ -231,43 +249,31 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Perhaps that's why I wouldn't either. He is a sort of animal charmer, and I am just a boy animal.\""
+    "text": "Perhaps thats why I wouldnt either. He is a sort of animal charmer, and I am just a boy animal."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Then he laughed, and she laughed too. Soon, they were both laughing heartily, finding the idea of a boy animal hiding in his den very funny indeed.\n\nAfter that, Mary knew she did not need to worry about him meeting Dickon.\n\nOn that first morning when the sky was blue again, Mary woke up very early. The sun was pouring in slanting rays through the blinds. The sight was so joyful that she jumped out of bed and ran to the window. She pulled up the blinds and opened the window, letting in a great wave of fresh, sweet-scented air. The moor looked blue, and the whole world seemed as if something magical had happened to it. There were sweet, soft bird calls here, there, and everywhere, as if dozens of birds were warming up for a concert. Mary put her hand out of the window and held it in the warm sunlight."
-  },
-  {
-    "character": "mary",
-    "voice": "af_sarah",
-    "speed": 1.0,
-    "text": "\"It's warm—so warm!\""
+    "text": "Then he laughed, and she laughed too. Soon, they were both laughing heartily, finding the idea of a boy animal hiding in his den very funny indeed."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "she said."
-  },
-  {
-    "character": "mary",
-    "voice": "af_sarah",
-    "speed": 1.0,
-    "text": "\"It will make the green shoots push up and up, and it will make the bulbs and roots work and grow with all their might under the earth.\""
+    "text": "After that, Mary knew she did not need to worry about him meeting Dickon."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "She knelt down and leaned out of the window as far as she could, taking deep breaths and sniffing the air. She laughed as she remembered what Dickon's mother had said about Dickon's nose twitching like a rabbit's."
+    "text": "On that first morning when the sky was blue again, Mary woke up very early. The sun was pouring in slanting rays through the blinds. The sight was so joyful that she jumped out of bed and ran to the window. She pulled up the blinds and opened the window, letting in a great wave of fresh, sweet-scented air. The moor looked blue, and the whole world seemed as if something magical had happened to it. There were sweet, soft bird calls here, there, and everywhere, as if dozens of birds were warming up for a concert. Mary put her hand out of the window and held it in the warm sunlight."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"It must be very early,\""
+    "text": "Its warm—so warm!"
   },
   {
     "character": "Narrator",
@@ -279,7 +285,31 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"The little clouds are all pink, and I have never seen the sky look like this before. No one is awake yet. I don't even hear the stable boys.\""
+    "text": "It will make the green shoots push up and up, and it will make the bulbs and roots work and grow with all their might under the earth."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "She knelt down and leaned out of the window as far as she could, taking deep breaths and sniffing the air. She laughed as she remembered what Dickons mother had said about Dickons nose twitching like a rabbits."
+  },
+  {
+    "character": "mary",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "It must be very early,"
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "she said."
+  },
+  {
+    "character": "mary",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "The little clouds are all pink, and I have never seen the sky look like this before. No one is awake yet. I dont even hear the stable boys."
   },
   {
     "character": "Narrator",
@@ -291,19 +321,19 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I can't wait! I am going to see the garden!\""
+    "text": "I cant wait! I am going to see the garden!"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "By this time she had learned to dress herself, and she slipped into her clothes in five minutes. She knew of a small side door that she could unbolt on her own. She ran downstairs quietly in her stocking feet and put on her shoes in the hall. She unchained, unbolted, and unlocked the door. As soon as it opened, she leaped outside with a single bound. There she stood on the grass, which seemed to have turned green overnight. The sun poured down on her, warm, sweet breezes swirled around her, and bird songs drifted from every bush and tree. She clasped her hands in pure joy and looked up at the sky. It was a beautiful mix of blue, pink, pearl, and white, flooded with the bright light of spring. She felt like singing aloud herself, and she knew the thrushes, robins, and skylarks couldn't help doing the same. She ran past the bushes and along the paths toward the secret garden."
+    "text": "By this time she had learned to dress herself, and she slipped into her clothes in five minutes. She knew of a small side door that she could unbolt on her own. She ran downstairs quietly in her stocking feet and put on her shoes in the hall. She unchained, unbolted, and unlocked the door. As soon as it opened, she leaped outside with a single bound. There she stood on the grass, which seemed to have turned green overnight. The sun poured down on her, warm, sweet breezes swirled around her, and bird songs drifted from every bush and tree. She clasped her hands in pure joy and looked up at the sky. It was a beautiful mix of blue, pink, pearl, and white, flooded with the bright light of spring. She felt like singing aloud herself, and she knew the thrushes, robins, and skylarks couldnt help doing the same. She ran past the bushes and along the paths toward the secret garden."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"It is completely different already,\""
+    "text": "It is completely different already,"
   },
   {
     "character": "Narrator",
@@ -315,19 +345,31 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"The grass is greener, shoots are popping up everywhere, leaves are uncurling, and green buds are showing. I am sure Dickon will come this afternoon.\""
+    "text": "The grass is greener, shoots are popping up everywhere, leaves are uncurling, and green buds are showing. I am sure Dickon will come this afternoon."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "The long, warm rain had worked wonders on the flower beds that bordered the path by the lower wall. Shoots were sprouting and pushing up from the roots of the plants, and here and there, royal purple and yellow crocuses were actually beginning to open. Six months ago, Mary would not have noticed the world waking up around her, but now she missed nothing.\n\nWhen she reached the spot where the door was hidden under the ivy, she was startled by a loud, strange sound. It was the sharp caw of a crow, coming from the top of the wall. When she looked up, she saw a large, glossy, blue-black bird looking down at her with a very wise expression. She had never seen a crow so close before, and it made her a little nervous. But a moment later, he spread his wings and flapped away into the garden. She hoped he was not planning to stay inside as she pushed the door open, wondering what he would do. Once she stepped into the garden, she saw that he did intend to stay. He had landed on a small apple tree, and beneath it lay a little reddish animal with a bushy tail. Both of them were watching Dickon, who was kneeling on the grass, working hard with his head bent down.\n\nMary ran across the grass to him."
+    "text": "The long, warm rain had worked wonders on the flower beds that bordered the path by the lower wall. Shoots were sprouting and pushing up from the roots of the plants, and here and there, royal purple and yellow crocuses were actually beginning to open. Six months ago, Mary would not have noticed the world waking up around her, but now she missed nothing."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "When she reached the spot where the door was hidden under the ivy, she was startled by a loud, strange sound. It was the sharp caw of a crow, coming from the top of the wall. When she looked up, she saw a large, glossy, blue-black bird looking down at her with a very wise expression. She had never seen a crow so close before, and it made her a little nervous. But a moment later, he spread his wings and flapped away into the garden. She hoped he was not planning to stay inside as she pushed the door open, wondering what he would do. Once she stepped into the garden, she saw that he did intend to stay. He had landed on a small apple tree, and beneath it lay a little reddish animal with a bushy tail. Both of them were watching Dickon, who was kneeling on the grass, working hard with his head bent down."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Mary ran across the grass to him."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Oh, Dickon! Dickon!\""
+    "text": "Oh, Dickon! Dickon!"
   },
   {
     "character": "Narrator",
@@ -339,7 +381,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"How did you get here so early? The sun has only just come up!\""
+    "text": "How did you get here so early? The sun has only just come up!"
   },
   {
     "character": "Narrator",
@@ -351,7 +393,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Well!\""
+    "text": "Well!"
   },
   {
     "character": "Narrator",
@@ -363,7 +405,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I was up long before the sun. How could I stay in bed? The world has started all over again this morning. It's working, humming, scratching, piping, building nests, and breathing out sweet scents. You just have to be out in it instead of lying on your back. When the sun came up, the moor went wild with joy. I was right in the middle of the heather, and I ran like crazy myself, shouting and singing. Then I came straight here. I couldn't have stayed away. Why, the garden was lying here waiting for us!\""
+    "text": "I was up long before the sun. How could I stay in bed? The world has started all over again this morning. Its working, humming, scratching, piping, building nests, and breathing out sweet scents. You just have to be out in it instead of lying on your back. When the sun came up, the moor went wild with joy. I was right in the middle of the heather, and I ran like crazy myself, shouting and singing. Then I came straight here. I couldnt have stayed away. Why, the garden was lying here waiting for us!"
   },
   {
     "character": "Narrator",
@@ -375,7 +417,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Oh, Dickon! Dickon!\""
+    "text": "Oh, Dickon! Dickon!"
   },
   {
     "character": "Narrator",
@@ -387,7 +429,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I'm so happy I can hardly breathe!\""
+    "text": "Im so happy I can hardly breathe!"
   },
   {
     "character": "Narrator",
@@ -399,19 +441,19 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"This is the little fox cub,\""
+    "text": "This is the little fox cub,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "he said, rubbing the reddish animal's head."
+    "text": "he said, rubbing the reddish animals head."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"His name is Captain. And this is Soot. Soot flew across the moor with me, and Captain ran as if the hounds were chasing him. They both felt just the same way I did.\""
+    "text": "His name is Captain. And this is Soot. Soot flew across the moor with me, and Captain ran as if the hounds were chasing him. They both felt just the same way I did."
   },
   {
     "character": "Narrator",
@@ -423,7 +465,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Look here!\""
+    "text": "Look here!"
   },
   {
     "character": "Narrator",
@@ -435,7 +477,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"See how these shoots have pushed up, and these, and these! And look at these here!\""
+    "text": "See how these shoots have pushed up, and these, and these! And look at these here!"
   },
   {
     "character": "Narrator",
@@ -447,7 +489,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"You never kiss a person like that,\""
+    "text": "You never kiss a person like that,"
   },
   {
     "character": "Narrator",
@@ -459,7 +501,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Flowers are so different.\""
+    "text": "Flowers are so different."
   },
   {
     "character": "Narrator",
@@ -471,7 +513,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Oh,\""
+    "text": "Oh,"
   },
   {
     "character": "Narrator",
@@ -483,19 +525,25 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I've kissed mother like that many times when I've come home from the moor after a day of roaming, and she stood there at the door in the sun, looking so glad and welcoming.\""
+    "text": "Ive kissed mother like that many times when Ive come home from the moor after a day of roaming, and she stood there at the door in the sun, looking so glad and welcoming."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "They ran from one part of the garden to another, finding so many wonders that they had to remind themselves to speak in low whispers. He showed her swelling leaf buds on rose branches that had looked completely dead. He pointed out thousands of tiny green shoots pushing through the soil. They put their noses close to the earth to sniff its warm, spring scent. They dug, weeded, and laughed quietly with pure joy, until Mary's hair was as messy as Dickon's and her cheeks were almost as red as his.\n\nThe secret garden was full of joy that morning, but then came the greatest delight of all, because it was so wonderful. Something flew quickly over the wall and darted through the trees to a thick, overgrown corner—a little flash of a red-breasted bird with something hanging from its beak. Dickon stood completely still and put his hand on Mary's arm, warning her as if they were in a quiet, sacred place."
+    "text": "They ran from one part of the garden to another, finding so many wonders that they had to remind themselves to speak in low whispers. He showed her swelling leaf buds on rose branches that had looked completely dead. He pointed out thousands of tiny green shoots pushing through the soil. They put their noses close to the earth to sniff its warm, spring scent. They dug, weeded, and laughed quietly with pure joy, until Marys hair was as messy as Dickons and her cheeks were almost as red as his."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "The secret garden was full of joy that morning, but then came the greatest delight of all, because it was so wonderful. Something flew quickly over the wall and darted through the trees to a thick, overgrown corner—a little flash of a red-breasted bird with something hanging from its beak. Dickon stood completely still and put his hand on Marys arm, warning her as if they were in a quiet, sacred place."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"We must not move,\""
+    "text": "We must not move,"
   },
   {
     "character": "Narrator",
@@ -507,7 +555,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"We must hardly even breathe. I knew he was looking for a mate when I saw him last. It's Ben Weatherstaff's robin. He is building his nest. He'll stay here if we don't scare him away.\""
+    "text": "We must hardly even breathe. I knew he was looking for a mate when I saw him last. Its Ben Weatherstaffs robin. He is building his nest. Hell stay here if we dont scare him away."
   },
   {
     "character": "Narrator",
@@ -519,7 +567,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"We mustn't look like we're watching him too closely,\""
+    "text": "We mustnt look like were watching him too closely,"
   },
   {
     "character": "Narrator",
@@ -531,7 +579,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"He would leave us for good if he thought we were interfering now. He'll act very differently until his nesting is done. He's setting up house. He'll be shyer and quicker to take offense. He has no time for visiting and gossiping now. We must keep still and try to look like grass and trees and bushes. Once he gets used to seeing us, I'll chirp a little so he knows we won't get in his way.\""
+    "text": "He would leave us for good if he thought we were interfering now. Hell act very differently until his nesting is done. Hes setting up house. Hell be shyer and quicker to take offense. He has no time for visiting and gossiping now. We must keep still and try to look like grass and trees and bushes. Once he gets used to seeing us, Ill chirp a little so he knows we wont get in his way."
   },
   {
     "character": "Narrator",
@@ -543,7 +591,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"This nest-building is just part of spring,\""
+    "text": "This nest-building is just part of spring,"
   },
   {
     "character": "Narrator",
@@ -555,13 +603,13 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I bet it has been going on the same way every year since the world began. Birds have their own way of thinking and doing things, and we had better not interfere. You can lose a friend in springtime easier than in any other season if you are too nosey.\""
+    "text": "I bet it has been going on the same way every year since the world began. Birds have their own way of thinking and doing things, and we had better not interfere. You can lose a friend in springtime easier than in any other season if you are too nosey."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"If we talk about him, I can't help looking at him,\""
+    "text": "If we talk about him, I cant help looking at him,"
   },
   {
     "character": "Narrator",
@@ -573,13 +621,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"We must talk about something else. There is something I want to tell you.\""
+    "text": "We must talk about something else. There is something I want to tell you."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"He'll like it better if we talk about something else,\""
+    "text": "Hell like it better if we talk about something else,"
   },
   {
     "character": "Narrator",
@@ -591,25 +639,31 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"What is it you have to tell me?\""
+    "text": "What is it you have to tell me?"
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Well—do you know about Colin?\""
+    "text": "Well—do you know about Colin?"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "she whispered.\n\nHe turned his head to look at her."
+    "text": "she whispered."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "He turned his head to look at her."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"What do you know about him?\""
+    "text": "What do you know about him?"
   },
   {
     "character": "Narrator",
@@ -621,19 +675,25 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I've seen him. I have gone to talk to him every day this week. He wants me to visit. He says I make him forget about being sick and dying,\""
+    "text": "Ive seen him. I have gone to talk to him every day this week. He wants me to visit. He says I make him forget about being sick and dying,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary answered.\n\nA look of relief washed over Dickon's round face once the surprise wore off."
+    "text": "Mary answered."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "A look of relief washed over Dickons round face once the surprise wore off."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I am glad to hear that,\""
+    "text": "I am glad to hear that,"
   },
   {
     "character": "Narrator",
@@ -645,13 +705,13 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I am truly glad. It makes me feel much better. I knew I couldn't say anything about him, and I don't like keeping secrets.\""
+    "text": "I am truly glad. It makes me feel much better. I knew I couldnt say anything about him, and I dont like keeping secrets."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Don't you like hiding the garden?\""
+    "text": "Dont you like hiding the garden?"
   },
   {
     "character": "Narrator",
@@ -663,7 +723,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I will never tell anyone about the garden,\""
+    "text": "I will never tell anyone about the garden,"
   },
   {
     "character": "Narrator",
@@ -675,7 +735,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"But I did say to my mother, 'Mother, I have a secret to keep. It's not a bad one, you know. It's no worse than hiding where a bird's nest is. You don't mind that, do you?'\""
+    "text": "But I did say to my mother, Mother, I have a secret to keep. Its not a bad one, you know. Its no worse than hiding where a birds nest is. You dont mind that, do you?"
   },
   {
     "character": "Narrator",
@@ -687,19 +747,25 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"What did she say?\""
+    "text": "What did she say?"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "she asked, eager to hear.\n\nDickon grinned warmly."
+    "text": "she asked, eager to hear."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Dickon grinned warmly."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"It was just like her, what she said,\""
+    "text": "It was just like her, what she said,"
   },
   {
     "character": "Narrator",
@@ -711,13 +777,13 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"She gave my head a little rub, laughed, and said, 'Well, son, you can have all the secrets you want. I've known you for twelve years.'\""
+    "text": "She gave my head a little rub, laughed, and said, Well, son, you can have all the secrets you want. Ive known you for twelve years."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"How did you know about Colin?\""
+    "text": "How did you know about Colin?"
   },
   {
     "character": "Narrator",
@@ -729,19 +795,19 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Everyone who knows Mr. Craven knows there is a little boy who is likely to be disabled, and they know Mr. Craven doesn't want him talked about. People feel sorry for Mr. Craven because Mrs. Craven was such a lovely young lady and they were so fond of each other. Mrs. Medlock stops by our cottage whenever she goes to Thwaite, and she doesn't mind talking to mother in front of us children because she knows we've been brought up to be trustworthy. How did you find out about him? Martha was in quite a state the last time she came home. She said you had heard him crying and were asking questions, and she didn't know what to say.\""
+    "text": "Everyone who knows Mr. Craven knows there is a little boy who is likely to be disabled, and they know Mr. Craven doesnt want him talked about. People feel sorry for Mr. Craven because Mrs. Craven was such a lovely young lady and they were so fond of each other. Mrs. Medlock stops by our cottage whenever she goes to Thwaite, and she doesnt mind talking to mother in front of us children because she knows weve been brought up to be trustworthy. How did you find out about him? Martha was in quite a state the last time she came home. She said you had heard him crying and were asking questions, and she didnt know what to say."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary told him the story of the midnight wind howling, which had woken her up. She described the faint, distant sound of the crying that had led her down the dark corridors with her candle, ending when she opened the door to the dimly lit room with the carved four-poster bed. When she described Colin's small, ivory-white face and his strange, dark-rimmed eyes, Dickon shook his head."
+    "text": "Mary told him the story of the midnight wind howling, which had woken her up. She described the faint, distant sound of the crying that had led her down the dark corridors with her candle, ending when she opened the door to the dimly lit room with the carved four-poster bed. When she described Colins small, ivory-white face and his strange, dark-rimmed eyes, Dickon shook his head."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Those are just like his mother's eyes, though they say hers were always laughing,\""
+    "text": "Those are just like his mothers eyes, though they say hers were always laughing,"
   },
   {
     "character": "Narrator",
@@ -753,13 +819,13 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"They say Mr. Craven can't bear to see him when he is awake because his eyes look so much like his mother's, yet they look so sad in his thin, pale face.\""
+    "text": "They say Mr. Craven cant bear to see him when he is awake because his eyes look so much like his mothers, yet they look so sad in his thin, pale face."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Do you think he wants to die?\""
+    "text": "Do you think he wants to die?"
   },
   {
     "character": "Narrator",
@@ -771,13 +837,13 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"No, but he wishes he had never been born. Mother says that's the worst thing on earth for a child. Children who aren't wanted rarely thrive. Mr. Craven would buy anything money can buy for the poor boy, but he would rather forget he exists. For one thing, he's afraid he'll look at him one day and see a hunched back.\""
+    "text": "No, but he wishes he had never been born. Mother says thats the worst thing on earth for a child. Children who arent wanted rarely thrive. Mr. Craven would buy anything money can buy for the poor boy, but he would rather forget he exists. For one thing, hes afraid hell look at him one day and see a hunched back."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Colin is so afraid of it himself that he won't even sit up,\""
+    "text": "Colin is so afraid of it himself that he wont even sit up,"
   },
   {
     "character": "Narrator",
@@ -789,13 +855,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"He says he is always thinking that if he feels a lump growing, he will go crazy and scream himself to death.\""
+    "text": "He says he is always thinking that if he feels a lump growing, he will go crazy and scream himself to death."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Oh, he shouldn't lie there thinking things like that,\""
+    "text": "Oh, he shouldnt lie there thinking things like that,"
   },
   {
     "character": "Narrator",
@@ -807,7 +873,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"No boy could get well thinking those kinds of thoughts.\""
+    "text": "No boy could get well thinking those kinds of thoughts."
   },
   {
     "character": "Narrator",
@@ -819,7 +885,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"When we first came in here,\""
+    "text": "When we first came in here,"
   },
   {
     "character": "Narrator",
@@ -831,7 +897,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"it seemed like everything was gray. Look around now, and tell me if you don't see a difference.\""
+    "text": "it seemed like everything was gray. Look around now, and tell me if you dont see a difference."
   },
   {
     "character": "Narrator",
@@ -843,7 +909,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Why,\""
+    "text": "Why,"
   },
   {
     "character": "Narrator",
@@ -855,13 +921,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"the gray wall is changing! It's as if a green mist is creeping over it. It looks almost like a green veil.\""
+    "text": "the gray wall is changing! Its as if a green mist is creeping over it. It looks almost like a green veil."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Yes,\""
+    "text": "Yes,"
   },
   {
     "character": "Narrator",
@@ -873,13 +939,13 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"And it will get greener and greener until the gray is completely gone. Can you guess what I was thinking?\""
+    "text": "And it will get greener and greener until the gray is completely gone. Can you guess what I was thinking?"
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I know it was something nice,\""
+    "text": "I know it was something nice,"
   },
   {
     "character": "Narrator",
@@ -891,13 +957,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I bet it was about Colin.\""
+    "text": "I bet it was about Colin."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I was thinking that if he were out here, he wouldn't be watching for lumps to grow on his back. He'd be watching for buds to bloom on the rosebushes, and he would probably get much healthier,\""
+    "text": "I was thinking that if he were out here, he wouldnt be watching for lumps to grow on his back. Hed be watching for buds to bloom on the rosebushes, and he would probably get much healthier,"
   },
   {
     "character": "Narrator",
@@ -909,13 +975,13 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I was wondering if we could ever get him in the mood to come out here and lie under the trees in his carriage.\""
+    "text": "I was wondering if we could ever get him in the mood to come out here and lie under the trees in his carriage."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I've been wondering about that myself. I've thought of it almost every time I've talked to him,\""
+    "text": "Ive been wondering about that myself. Ive thought of it almost every time Ive talked to him,"
   },
   {
     "character": "Narrator",
@@ -927,19 +993,19 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I've wondered if he can keep a secret, and if we could bring him here without anyone seeing us. I thought perhaps you could push his wheelchair. The doctor said he needs fresh air, and if Colin tells them he wants us to take him out, no one will dare to disobey. He refuses to go out for anyone else, so they might be glad if he agrees to go with us. He could order the gardeners to keep away so they won't find out.\""
+    "text": "Ive wondered if he can keep a secret, and if we could bring him here without anyone seeing us. I thought perhaps you could push his wheelchair. The doctor said he needs fresh air, and if Colin tells them he wants us to take him out, no one will dare to disobey. He refuses to go out for anyone else, so they might be glad if he agrees to go with us. He could order the gardeners to keep away so they wont find out."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Dickon was thinking deeply as he scratched Captain's back."
+    "text": "Dickon was thinking deeply as he scratched Captains back."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"It would be good for him, I'm sure,\""
+    "text": "It would be good for him, Im sure,"
   },
   {
     "character": "Narrator",
@@ -951,13 +1017,13 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"We wouldn't be thinking he'd be better off never born. We would just be children watching a garden grow, and he would be one of us. Two boys and a girl, watching the spring come. I bet it would be better than any doctor's medicine.\""
+    "text": "We wouldnt be thinking hed be better off never born. We would just be children watching a garden grow, and he would be one of us. Two boys and a girl, watching the spring come. I bet it would be better than any doctors medicine."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"He has been lying in his room so long, and he is so afraid of his back, that it has made him a bit strange,\""
+    "text": "He has been lying in his room so long, and he is so afraid of his back, that it has made him a bit strange,"
   },
   {
     "character": "Narrator",
@@ -969,13 +1035,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"He knows a lot of things from books, but he doesn't know anything else. He says he has been too sick to notice things, and he hates going outdoors and hates gardens and gardeners. But he likes to hear about this garden because it is a secret. I didn't dare tell him too much, but he said he wanted to see it.\""
+    "text": "He knows a lot of things from books, but he doesnt know anything else. He says he has been too sick to notice things, and he hates going outdoors and hates gardens and gardeners. But he likes to hear about this garden because it is a secret. I didnt dare tell him too much, but he said he wanted to see it."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"We'll get him out here eventually, for sure,\""
+    "text": "Well get him out here eventually, for sure,"
   },
   {
     "character": "Narrator",
@@ -987,7 +1053,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I can push his carriage easily. Have you noticed how the robin and his mate have been working while we've been sitting here? Look at him perched on that branch, wondering where it would be best to put the twig he's holding in his beak.\""
+    "text": "I can push his carriage easily. Have you noticed how the robin and his mate have been working while weve been sitting here? Look at him perched on that branch, wondering where it would be best to put the twig hes holding in his beak."
   },
   {
     "character": "Narrator",
@@ -999,7 +1065,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Wherever you put it, it will be all right,\""
+    "text": "Wherever you put it, it will be all right,"
   },
   {
     "character": "Narrator",
@@ -1011,13 +1077,13 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"You knew how to build your nest before you even hatched. Go on then, my friend. You have no time to lose.\""
+    "text": "You knew how to build your nest before you even hatched. Go on then, my friend. You have no time to lose."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Oh, I do love hearing you talk to him!\""
+    "text": "Oh, I do love hearing you talk to him!"
   },
   {
     "character": "Narrator",
@@ -1029,7 +1095,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Ben Weatherstaff scolds him and makes fun of him, and the robin hops around looking like he understands every word. I know he likes it. Ben says the robin is so proud that he would rather have stones thrown at him than not be noticed at all.\""
+    "text": "Ben Weatherstaff scolds him and makes fun of him, and the robin hops around looking like he understands every word. I know he likes it. Ben says the robin is so proud that he would rather have stones thrown at him than not be noticed at all."
   },
   {
     "character": "Narrator",
@@ -1041,7 +1107,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"You know we won't trouble you,\""
+    "text": "You know we wont trouble you,"
   },
   {
     "character": "Narrator",
@@ -1053,12 +1119,12 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"We are almost wild creatures ourselves. We're nest-building too, bless you. Just make sure you don't tell on us.\""
+    "text": "We are almost wild creatures ourselves. Were nest-building too, bless you. Just make sure you dont tell on us."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "And though the robin didn't answer because his beak was full, Mary knew when he flew away with his twig to his corner of the garden that the look in his bright, dark eye meant he wouldn't tell their secret for the world."
+    "text": "And though the robin didnt answer because his beak was full, Mary knew when he flew away with his twig to his corner of the garden that the look in his bright, dark eye meant he wouldnt tell their secret for the world."
   }
 ]

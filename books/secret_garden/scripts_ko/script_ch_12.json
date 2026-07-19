@@ -3,13 +3,25 @@
     "character": "Narrator",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "제12장 흙을 조금만 가질 수 있을까요?\n\n메리는 방에 다다랐을 때 숨이 턱에 닿을 정도로 허겁지겁 달렸다.\n\n이마에는 머리카락이 헝클어져 있었고 두 볼은 발그레하게 상기되어 있었다. 탁자 위에는 저녁 식사가 차려져 있었고, 마사가 그 옆에 서 있었다."
+    "text": "제12장 흙을 조금만 가질 수 있을까요?"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "메리는 방에 다다랐을 때 숨이 턱에 닿을 정도로 허겁지겁 달렸다."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "이마에는 머리카락이 헝클어져 있었고 두 볼은 발그레하게 상기되어 있었다. 탁자 위에는 저녁 식사가 차려져 있었고, 마사가 그 옆에 서 있었다."
   },
   {
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“조금 늦으셨네유.”"
+    "text": "조금 늦으셨네유."
   },
   {
     "character": "Narrator",
@@ -21,13 +33,13 @@
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“어디 다녀오셨어유?”"
+    "text": "어디 다녀오셨어유?"
   },
   {
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“나 디콘을 봤어!”"
+    "text": "나 디콘을 봤어!"
   },
   {
     "character": "Narrator",
@@ -39,13 +51,13 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“디콘을 만났단 말이야!”"
+    "text": "디콘을 만났단 말이야!"
   },
   {
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“거봐유, 올 거라고 했잖아유.”"
+    "text": "거봐유, 올 거라고 했잖아유."
   },
   {
     "character": "Narrator",
@@ -57,25 +69,31 @@
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“디콘이 마음에 드셔유?”"
+    "text": "디콘이 마음에 드셔유?"
   },
   {
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“내 생각에는…… 내 생각에는 걔가 참 멋진 것 같아!”"
+    "text": "내 생각에는…… 내 생각에는 걔가 참 멋진 것 같아!"
   },
   {
     "character": "Narrator",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "메리가 단호한 목소리로 말했다.\n\n마사는 다소 당황한 듯 보였지만, 기분 좋은 기색도 감돌았다."
+    "text": "메리가 단호한 목소리로 말했다."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "마사는 다소 당황한 듯 보였지만, 기분 좋은 기색도 감돌았다."
   },
   {
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“글쎄유,”"
+    "text": "글쎄유,"
   },
   {
     "character": "Narrator",
@@ -87,13 +105,13 @@
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“세상에 둘도 없이 착한 애기는 하지만, 한 번도 잘생겼다고 생각한 적은 없거든유. 코가 너무 들창코잖아유.”"
+    "text": "세상에 둘도 없이 착한 애기는 하지만, 한 번도 잘생겼다고 생각한 적은 없거든유. 코가 너무 들창코잖아유."
   },
   {
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“난 들창코가 좋아.”"
+    "text": "난 들창코가 좋아."
   },
   {
     "character": "Narrator",
@@ -105,7 +123,7 @@
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“게다가 눈은 또 얼마나 동그란데유.”"
+    "text": "게다가 눈은 또 얼마나 동그란데유."
   },
   {
     "character": "Narrator",
@@ -117,13 +135,13 @@
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“빛깔은 참 곱지만유.”"
+    "text": "빛깔은 참 곱지만유."
   },
   {
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“난 동그란 눈이 좋아.”"
+    "text": "난 동그란 눈이 좋아."
   },
   {
     "character": "Narrator",
@@ -135,7 +153,7 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“그리고 눈동자 색깔이 황무지 위 하늘빛이랑 똑같아.”"
+    "text": "그리고 눈동자 색깔이 황무지 위 하늘빛이랑 똑같아."
   },
   {
     "character": "Narrator",
@@ -147,13 +165,13 @@
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“엄마 말씀이, 디콘이 늘 새랑 구름을 올려다봐서 눈동자가 그런 색깔이 된 거래유. 그렇지만 입은 엄청 크잖아유, 안 그래유?”"
+    "text": "엄마 말씀이, 디콘이 늘 새랑 구름을 올려다봐서 눈동자가 그런 색깔이 된 거래유. 그렇지만 입은 엄청 크잖아유, 안 그래유?"
   },
   {
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“난 걔의 큰 입이 정말 마음에 들어.”"
+    "text": "난 걔의 큰 입이 정말 마음에 들어."
   },
   {
     "character": "Narrator",
@@ -165,7 +183,7 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“내 입도 걔 입이랑 똑같았으면 좋겠어.”"
+    "text": "내 입도 걔 입이랑 똑같았으면 좋겠어."
   },
   {
     "character": "Narrator",
@@ -177,7 +195,7 @@
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“그 조그만 얼굴에 그렇게 큰 입이면 엄청 웃겨 보일 거구먼유.”"
+    "text": "그 조그만 얼굴에 그렇게 큰 입이면 엄청 웃겨 보일 거구먼유."
   },
   {
     "character": "Narrator",
@@ -189,13 +207,13 @@
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“그래도 만나면 마음에 들어 할 줄 알았어유. 씨앗이랑 정원 도구는 어떠셨어유?”"
+    "text": "그래도 만나면 마음에 들어 할 줄 알았어유. 씨앗이랑 정원 도구는 어떠셨어유?"
   },
   {
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“디콘이 그걸 가져온 걸 어떻게 알았어?”"
+    "text": "디콘이 그걸 가져온 걸 어떻게 알았어?"
   },
   {
     "character": "Narrator",
@@ -207,7 +225,7 @@
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“에이, 틀림없이 가져올 줄 알았지유. 요크셔 어디에서든 구할 수 있는 거라면 걔는 무슨 일이 있어도 구해 왔을 거예유. 워낙 듬직한 아이니까유.”"
+    "text": "에이, 틀림없이 가져올 줄 알았지유. 요크셔 어디에서든 구할 수 있는 거라면 걔는 무슨 일이 있어도 구해 왔을 거예유. 워낙 듬직한 아이니까유."
   },
   {
     "character": "Narrator",
@@ -219,7 +237,7 @@
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“누구한테 여쭤보셨어유?”"
+    "text": "누구한테 여쭤보셨어유?"
   },
   {
     "character": "Narrator",
@@ -231,7 +249,7 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“아직 아무에게도 안 여쭤봤어.”"
+    "text": "아직 아무에게도 안 여쭤봤어."
   },
   {
     "character": "Narrator",
@@ -243,13 +261,13 @@
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“글쎄유, 정원사 총감독님께는 안 여쭤보는 게 나을 것 같아유. 로치 씨는 너무 거만한 분이거든유.”"
+    "text": "글쎄유, 정원사 총감독님께는 안 여쭤보는 게 나을 것 같아유. 로치 씨는 너무 거만한 분이거든유."
   },
   {
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“그분은 본 적도 없어.”"
+    "text": "그분은 본 적도 없어."
   },
   {
     "character": "Narrator",
@@ -261,13 +279,13 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“보조 정원사들이랑 벤 웨더스태프 할아버지만 봤는걸.”"
+    "text": "보조 정원사들이랑 벤 웨더스태프 할아버지만 봤는걸."
   },
   {
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“저라면 벤 웨더스태프 할아버지한테 여쭤볼 것 같아유.”"
+    "text": "저라면 벤 웨더스태프 할아버지한테 여쭤볼 것 같아유."
   },
   {
     "character": "Narrator",
@@ -279,13 +297,13 @@
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“늘 심술궂게 굴어도 겉보기만큼 나쁜 사람은 아니거든유. 크레이븐 님께서도 벤 할아버지가 하고 싶은 대로 하게 내버려 두신대유. 돌아가신 크레이븐 부인께서 살아 계실 때부터 여기 계셨던 데다가 부인을 잘 웃기기도 하셨거든유. 부인께서 벤 할아버지를 참 아끼셨대유. 어쩌면 아무도 쓰지 않는 한적한 모퉁이 땅을 찾아주실지도 몰라유.”"
+    "text": "늘 심술궂게 굴어도 겉보기만큼 나쁜 사람은 아니거든유. 크레이븐 님께서도 벤 할아버지가 하고 싶은 대로 하게 내버려 두신대유. 돌아가신 크레이븐 부인께서 살아 계실 때부터 여기 계셨던 데다가 부인을 잘 웃기기도 하셨거든유. 부인께서 벤 할아버지를 참 아끼셨대유. 어쩌면 아무도 쓰지 않는 한적한 모퉁이 땅을 찾아주실지도 몰라유."
   },
   {
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“아무도 원하지 않는 한적한 곳이라면 내가 그걸 가져도 아무도 신경 쓰지 않겠지, 그렇지?”"
+    "text": "아무도 원하지 않는 한적한 곳이라면 내가 그걸 가져도 아무도 신경 쓰지 않겠지, 그렇지?"
   },
   {
     "character": "Narrator",
@@ -297,7 +315,7 @@
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“마다할 이유가 없지유.”"
+    "text": "마다할 이유가 없지유."
   },
   {
     "character": "Narrator",
@@ -309,7 +327,7 @@
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“해를 끼칠 것도 없으니까유.”"
+    "text": "해를 끼칠 것도 없으니까유."
   },
   {
     "character": "Narrator",
@@ -321,7 +339,7 @@
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“말씀드릴 게 있어유.”"
+    "text": "말씀드릴 게 있어유."
   },
   {
     "character": "Narrator",
@@ -333,7 +351,7 @@
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“일단 식사부터 하시게 놔두는 게 좋을 것 같아서유. 오늘 아침에 크레이븐 님께서 돌아오셨는데, 아가씨를 보고 싶어 하시는 것 같아유.”"
+    "text": "일단 식사부터 하시게 놔두는 게 좋을 것 같아서유. 오늘 아침에 크레이븐 님께서 돌아오셨는데, 아가씨를 보고 싶어 하시는 것 같아유."
   },
   {
     "character": "Narrator",
@@ -345,7 +363,7 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“어머!”"
+    "text": "어머!"
   },
   {
     "character": "Narrator",
@@ -357,13 +375,13 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“왜? 내가 처음 왔을 때는 나를 보고 싶어 하지 않으셨잖아. 피처 아저씨가 그렇게 말하는 걸 들었단 말이야.”"
+    "text": "왜? 내가 처음 왔을 때는 나를 보고 싶어 하지 않으셨잖아. 피처 아저씨가 그렇게 말하는 걸 들었단 말이야."
   },
   {
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“그게 말이지유,”"
+    "text": "그게 말이지유,"
   },
   {
     "character": "Narrator",
@@ -375,13 +393,13 @@
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“메들록 부인 말씀이 저희 엄마 덕분이래유. 엄마가 스웨이트 마을로 가시던 길에 크레이븐 님을 마주치셨대유. 전에는 한 번도 대화를 나눠보신 적이 없었지만, 돌아가신 크레이븐 부인께서 저희 오두막집에 두세 번 들르신 적이 있었거든유. 주인님은 잊으셨을지 몰라도 엄마는 잊지 않고 계셨던 터라, 용기를 내어 가시던 길을 멈춰 세우신 거지유. 주인님께 아가씨에 대해 무슨 말씀을 드렸는지는 모르겠지만, 무언가 말씀을 하셨고, 그 덕에 주인님께서 내일 다시 떠나시기 전에 아가씨를 보기로 마음먹으신 거래유.”"
+    "text": "메들록 부인 말씀이 저희 엄마 덕분이래유. 엄마가 스웨이트 마을로 가시던 길에 크레이븐 님을 마주치셨대유. 전에는 한 번도 대화를 나눠보신 적이 없었지만, 돌아가신 크레이븐 부인께서 저희 오두막집에 두세 번 들르신 적이 있었거든유. 주인님은 잊으셨을지 몰라도 엄마는 잊지 않고 계셨던 터라, 용기를 내어 가시던 길을 멈춰 세우신 거지유. 주인님께 아가씨에 대해 무슨 말씀을 드렸는지는 모르겠지만, 무언가 말씀을 하셨고, 그 덕에 주인님께서 내일 다시 떠나시기 전에 아가씨를 보기로 마음먹으신 거래유."
   },
   {
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“아!”"
+    "text": "아!"
   },
   {
     "character": "Narrator",
@@ -393,31 +411,37 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“내일 다시 떠나신대? 정말 다행이다!”"
+    "text": "내일 다시 떠나신대? 정말 다행이다!"
   },
   {
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“오랫동안 멀리 떠나 계실 거래유. 가을이나 겨울이 되어야 돌아오실지도 몰라유. 먼 외국으로 여행을 가신다는데, 항상 그러시거든유.”"
+    "text": "오랫동안 멀리 떠나 계실 거래유. 가을이나 겨울이 되어야 돌아오실지도 몰라유. 먼 외국으로 여행을 가신다는데, 항상 그러시거든유."
   },
   {
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“아! 정말 잘됐다, 정말 다행이야!”"
+    "text": "아! 정말 잘됐다, 정말 다행이야!"
   },
   {
     "character": "Narrator",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "메리가 고맙다는 듯 말했다.\n\n가을이나 겨울이 될 때까지 돌아오지 않으신다면, 비밀의 화원이 다시 살아나는 모습을 지켜볼 시간이 충분할 것이다. 설령 그때 가서 들통이 나고 화원을 빼앗긴다 해도, 적어도 그만큼의 시간은 온전히 메리의 몫이 될 테니까."
+    "text": "메리가 고맙다는 듯 말했다."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "가을이나 겨울이 될 때까지 돌아오지 않으신다면, 비밀의 화원이 다시 살아나는 모습을 지켜볼 시간이 충분할 것이다. 설령 그때 가서 들통이 나고 화원을 빼앗긴다 해도, 적어도 그만큼의 시간은 온전히 메리의 몫이 될 테니까."
   },
   {
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“언제 나를 보고 싶어 하실 것 같아—”"
+    "text": "언제 나를 보고 싶어 하실 것 같아—"
   },
   {
     "character": "Narrator",
@@ -429,7 +453,7 @@
     "character": "others",
     "voice": "ko-KR-HyunsuMultilingualNeural",
     "speed": 1.0,
-    "text": "“머리가 엉망이구나.”"
+    "text": "머리가 엉망이구나."
   },
   {
     "character": "Narrator",
@@ -441,19 +465,25 @@
     "character": "others",
     "voice": "ko-KR-HyunsuMultilingualNeural",
     "speed": 1.0,
-    "text": "“가서 머리 좀 빗어라. 마사, 아가씨가 가장 좋은 옷으로 갈아입을 수 있게 도와라. 크레이븐 님께서 서재로 모셔오라고 나를 보내셨단다.”"
+    "text": "가서 머리 좀 빗어라. 마사, 아가씨가 가장 좋은 옷으로 갈아입을 수 있게 도와라. 크레이븐 님께서 서재로 모셔오라고 나를 보내셨단다."
   },
   {
     "character": "Narrator",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "메리의 볼에서 핏기가 싹 가셨다. 심장이 쿵쾅거리기 시작하더니, 자신이 다시 예전처럼 뚱하고 못생기고 말수 없는 아이로 돌아가는 것이 느껴졌다. 메리는 메들록 부인에게 대꾸조차 하지 않고 몸을 돌려 제 침실로 걸어 들어갔고, 마사도 그 뒤를 따랐다. 옷을 갈아입고 머리를 빗는 동안 메리는 한마디도 하지 않았다. 단장이 끝나자, 메리는 묵묵히 메들록 부인의 뒤를 따라 복도를 걸었다. 무슨 할 말이 있겠는가? 크레이븐 씨를 만나러 가야만 했고, 그는 자기를 좋아하지 않을 것이며, 자기 역시 그를 좋아하지 않을 터였다. 그가 자기를 어떻게 생각할지 메리는 빤히 알고 있었다.\n\n메리는 전에는 가본 적 없는 저택의 다른 구역으로 향했다. 마침내 메들록 부인이 어느 문을 두드렸고, 안에서"
+    "text": "메리의 볼에서 핏기가 싹 가셨다. 심장이 쿵쾅거리기 시작하더니, 자신이 다시 예전처럼 뚱하고 못생기고 말수 없는 아이로 돌아가는 것이 느껴졌다. 메리는 메들록 부인에게 대꾸조차 하지 않고 몸을 돌려 제 침실로 걸어 들어갔고, 마사도 그 뒤를 따랐다. 옷을 갈아입고 머리를 빗는 동안 메리는 한마디도 하지 않았다. 단장이 끝나자, 메리는 묵묵히 메들록 부인의 뒤를 따라 복도를 걸었다. 무슨 할 말이 있겠는가? 크레이븐 씨를 만나러 가야만 했고, 그는 자기를 좋아하지 않을 것이며, 자기 역시 그를 좋아하지 않을 터였다. 그가 자기를 어떻게 생각할지 메리는 빤히 알고 있었다."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "메리는 전에는 가본 적 없는 저택의 다른 구역으로 향했다. 마침내 메들록 부인이 어느 문을 두드렸고, 안에서"
   },
   {
     "character": "others",
     "voice": "ko-KR-HyunsuMultilingualNeural",
     "speed": 1.0,
-    "text": "“들어오시오.”"
+    "text": "들어오시오."
   },
   {
     "character": "Narrator",
@@ -465,7 +495,7 @@
     "character": "others",
     "voice": "ko-KR-HyunsuMultilingualNeural",
     "speed": 1.0,
-    "text": "“주인님, 메리 아가씨입니다.”"
+    "text": "주인님, 메리 아가씨입니다."
   },
   {
     "character": "Narrator",
@@ -477,31 +507,49 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“여기 두고 가도 좋소. 데려가야 할 때가 되면 종을 울려 부르겠소.”"
+    "text": "여기 두고 가도 좋소. 데려가야 할 때가 되면 종을 울려 부르겠소."
   },
   {
     "character": "Narrator",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "크레이븐 씨가 말했다.\n\n메들록 부인이 나가고 문이 닫히자, 보잘것없는 꼬마 메리는 마른 손가락을 꼼지락거리며 가만히 서서 기다릴 수밖에 없었다. 의자에 앉아 있는 남자는 꼽추라기보다는 어깨가 솟아오르고 다소 굽어 있는 편이었고, 검은 머리칼에는 흰머리가 희끗희끗 섞여 있었다. 그는 솟아오른 어깨 너머로 고개를 돌려 메리에게 말을 걸었다."
-  },
-  {
-    "character": "craven",
-    "voice": "ko-KR-InJoonNeural",
-    "speed": 0.95,
-    "text": "“이리 가까이 오너라!”"
+    "text": "크레이븐 씨가 말했다."
   },
   {
     "character": "Narrator",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "그가 말했다.\n\n메리는 그를 향해 걸어갔다.\n\n그는 추남이 아니었다. 얼굴은 어둡고 그늘지지만 않았다면 꽤 잘생겼을 상이었다. 그는 메리를 보는 것 자체가 괴롭고 성가신 듯 보였고, 대체 이 아이를 어떻게 처리해야 할지 막막해하는 기색이었다."
+    "text": "메들록 부인이 나가고 문이 닫히자, 보잘것없는 꼬마 메리는 마른 손가락을 꼼지락거리며 가만히 서서 기다릴 수밖에 없었다. 의자에 앉아 있는 남자는 꼽추라기보다는 어깨가 솟아오르고 다소 굽어 있는 편이었고, 검은 머리칼에는 흰머리가 희끗희끗 섞여 있었다. 그는 솟아오른 어깨 너머로 고개를 돌려 메리에게 말을 걸었다."
   },
   {
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“몸은 건강하냐?”"
+    "text": "이리 가까이 오너라!"
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "그가 말했다."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "메리는 그를 향해 걸어갔다."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "그는 추남이 아니었다. 얼굴은 어둡고 그늘지지만 않았다면 꽤 잘생겼을 상이었다. 그는 메리를 보는 것 자체가 괴롭고 성가신 듯 보였고, 대체 이 아이를 어떻게 처리해야 할지 막막해하는 기색이었다."
+  },
+  {
+    "character": "craven",
+    "voice": "ko-KR-InJoonNeural",
+    "speed": 0.95,
+    "text": "몸은 건강하냐?"
   },
   {
     "character": "Narrator",
@@ -513,7 +561,7 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“네.”"
+    "text": "네."
   },
   {
     "character": "Narrator",
@@ -525,13 +573,13 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“사람들이 너를 잘 보살펴 주더냐?”"
+    "text": "사람들이 너를 잘 보살펴 주더냐?"
   },
   {
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“네.”"
+    "text": "네."
   },
   {
     "character": "Narrator",
@@ -543,7 +591,7 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“아주 말랐구나.”"
+    "text": "아주 말랐구나."
   },
   {
     "character": "Narrator",
@@ -555,19 +603,25 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“요즘 살이 찌고 있어요.”"
+    "text": "요즘 살이 찌고 있어요."
   },
   {
     "character": "Narrator",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "메리는 스스로도 가장 무뚝뚝하다고 생각하는 말투로 대답했다.\n\n그의 얼굴은 얼마나 불행해 보였던가! 그의 검은 눈동자는 메리를 거의 보지 못하고 딴 곳을 응시하는 듯했고, 주의를 온전히 기울이지도 못하는 모습이었다."
+    "text": "메리는 스스로도 가장 무뚝뚝하다고 생각하는 말투로 대답했다."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "그의 얼굴은 얼마나 불행해 보였던가! 그의 검은 눈동자는 메리를 거의 보지 못하고 딴 곳을 응시하는 듯했고, 주의를 온전히 기울이지도 못하는 모습이었다."
   },
   {
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“내 너를 잊고 있었구나.”"
+    "text": "내 너를 잊고 있었구나."
   },
   {
     "character": "Narrator",
@@ -579,13 +633,13 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“기억인들 할 수 있었겠느냐? 가정교사나 보모 같은 사람을 딸려 보낼 생각이었는데 깜빡 잊었어.”"
+    "text": "기억인들 할 수 있었겠느냐? 가정교사나 보모 같은 사람을 딸려 보낼 생각이었는데 깜빡 잊었어."
   },
   {
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“제발요,”"
+    "text": "제발요,"
   },
   {
     "character": "Narrator",
@@ -597,7 +651,7 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“제발……”"
+    "text": "제발……"
   },
   {
     "character": "Narrator",
@@ -609,7 +663,7 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“무슨 말을 하고 싶은 게냐?”"
+    "text": "무슨 말을 하고 싶은 게냐?"
   },
   {
     "character": "Narrator",
@@ -621,7 +675,7 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“저는…… 저는 보모가 필요할 만큼 어리지 않아요.”"
+    "text": "저는…… 저는 보모가 필요할 만큼 어리지 않아요."
   },
   {
     "character": "Narrator",
@@ -633,7 +687,7 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“그리고 제발…… 제발 아직은 가정교사를 두지 말아 주세요.”"
+    "text": "그리고 제발…… 제발 아직은 가정교사를 두지 말아 주세요."
   },
   {
     "character": "Narrator",
@@ -645,19 +699,25 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“소어비 부인인가 하는 여자도 똑같은 말을 하더군.”"
+    "text": "소어비 부인인가 하는 여자도 똑같은 말을 하더군."
   },
   {
     "character": "Narrator",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "그가 건성으로 중얼거렸다.\n\n그 말에 메리는 약간 용기를 냈다."
+    "text": "그가 건성으로 중얼거렸다."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "그 말에 메리는 약간 용기를 냈다."
   },
   {
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“그분이…… 그분이 마사의 어머니인가요?”"
+    "text": "그분이…… 그분이 마사의 어머니인가요?"
   },
   {
     "character": "Narrator",
@@ -669,7 +729,7 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“그래, 그런 것 같구나.”"
+    "text": "그래, 그런 것 같구나."
   },
   {
     "character": "Narrator",
@@ -681,7 +741,7 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“그분은 아이들에 대해 잘 아세요.”"
+    "text": "그분은 아이들에 대해 잘 아세요."
   },
   {
     "character": "Narrator",
@@ -693,7 +753,7 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“자식이 열둘이나 되거든요. 아주 잘 아신다고요.”"
+    "text": "자식이 열둘이나 되거든요. 아주 잘 아신다고요."
   },
   {
     "character": "Narrator",
@@ -705,13 +765,13 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“그럼 너는 무엇을 하고 싶으냐?”"
+    "text": "그럼 너는 무엇을 하고 싶으냐?"
   },
   {
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“밖에서 놀고 싶어요.”"
+    "text": "밖에서 놀고 싶어요."
   },
   {
     "character": "Narrator",
@@ -723,7 +783,7 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“인도에 있을 때는 밖에서 노는 걸 전혀 좋아하지 않았어요. 하지만 여기서는 밖에서 놀면 배가 고파지고, 살도 찌고 있어요.”"
+    "text": "인도에 있을 때는 밖에서 노는 걸 전혀 좋아하지 않았어요. 하지만 여기서는 밖에서 놀면 배가 고파지고, 살도 찌고 있어요."
   },
   {
     "character": "Narrator",
@@ -735,7 +795,7 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“소어비 부인도 그게 네게 득이 될 거라고 하더구나. 어쩌면 그럴지도 모르지.”"
+    "text": "소어비 부인도 그게 네게 득이 될 거라고 하더구나. 어쩌면 그럴지도 모르지."
   },
   {
     "character": "Narrator",
@@ -747,13 +807,13 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“가정교사를 두기 전에 먼저 몸을 튼튼히 키워야 한다고 하더군.”"
+    "text": "가정교사를 두기 전에 먼저 몸을 튼튼히 키워야 한다고 하더군."
   },
   {
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“황무지에서 불어오는 바람을 맞으며 뛰어놀면 힘이 솟는 것 같아요.”"
+    "text": "황무지에서 불어오는 바람을 맞으며 뛰어놀면 힘이 솟는 것 같아요."
   },
   {
     "character": "Narrator",
@@ -765,7 +825,7 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“주로 어디서 노느냐?”"
+    "text": "주로 어디서 노느냐?"
   },
   {
     "character": "Narrator",
@@ -777,7 +837,7 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“사방이요.”"
+    "text": "사방이요."
   },
   {
     "character": "Narrator",
@@ -789,13 +849,13 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“마사의 어머니가 줄넘기를 선물해 주셨거든요. 줄넘기를 하고 뛰어다니면서, 땅에서 싹이 트기 시작하는지 살펴보곤 해요. 해를 끼치는 일은 아무것도 안 해요.”"
+    "text": "마사의 어머니가 줄넘기를 선물해 주셨거든요. 줄넘기를 하고 뛰어다니면서, 땅에서 싹이 트기 시작하는지 살펴보곤 해요. 해를 끼치는 일은 아무것도 안 해요."
   },
   {
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“그렇게 겁먹은 얼굴을 하지 말거라.”"
+    "text": "그렇게 겁먹은 얼굴을 하지 말거라."
   },
   {
     "character": "Narrator",
@@ -807,7 +867,7 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“너 같은 꼬마가 무슨 해를 끼치겠느냐! 하고 싶은 것은 무엇이든 해도 좋다.”"
+    "text": "너 같은 꼬마가 무슨 해를 끼치겠느냐! 하고 싶은 것은 무엇이든 해도 좋다."
   },
   {
     "character": "Narrator",
@@ -819,19 +879,25 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“정말 그래도 돼요?”"
+    "text": "정말 그래도 돼요?"
   },
   {
     "character": "Narrator",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "메리가 떨리는 목소리로 물었다.\n\n메리의 초조해 보이는 조그만 얼굴을 보니 그의 걱정은 더 깊어지는 듯했다."
+    "text": "메리가 떨리는 목소리로 물었다."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "메리의 초조해 보이는 조그만 얼굴을 보니 그의 걱정은 더 깊어지는 듯했다."
   },
   {
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“그렇게 무서워하지 말라니까.”"
+    "text": "그렇게 무서워하지 말라니까."
   },
   {
     "character": "Narrator",
@@ -843,13 +909,13 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“당연히 되고말고. 내가 네 후견인이긴 하지만, 어느 아이에게든 참으로 무심한 후견인이구나. 내 몸이 너무 아프고, 비참하고, 경황이 없어서 네게 시간이나 관심을 내어줄 수가 없어. 하지만 네가 행복하고 편안하게 지내기를 바란다. 난 아이들에 대해선 아무것도 모르지만, 필요한 것은 메들록 부인이 다 챙겨줄 게다. 오늘 너를 부른 것은 소어비 부인이 너를 한 번 만나봐야 한다고 권했기 때문이다. 딸에게 네 이야기를 들었다면서, 네게는 맑은 공기와 자유, 그리고 마음껏 뛰어놀 환경이 필요하다고 하더군.”"
+    "text": "당연히 되고말고. 내가 네 후견인이긴 하지만, 어느 아이에게든 참으로 무심한 후견인이구나. 내 몸이 너무 아프고, 비참하고, 경황이 없어서 네게 시간이나 관심을 내어줄 수가 없어. 하지만 네가 행복하고 편안하게 지내기를 바란다. 난 아이들에 대해선 아무것도 모르지만, 필요한 것은 메들록 부인이 다 챙겨줄 게다. 오늘 너를 부른 것은 소어비 부인이 너를 한 번 만나봐야 한다고 권했기 때문이다. 딸에게 네 이야기를 들었다면서, 네게는 맑은 공기와 자유, 그리고 마음껏 뛰어놀 환경이 필요하다고 하더군."
   },
   {
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“그분은 아이들에 대해 모든 걸 아세요.”"
+    "text": "그분은 아이들에 대해 모든 걸 아세요."
   },
   {
     "character": "Narrator",
@@ -861,7 +927,7 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“아는 게 당연하겠지.”"
+    "text": "아는 게 당연하겠지."
   },
   {
     "character": "Narrator",
@@ -873,7 +939,7 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“황무지에서 내 길을 가로막다니 참으로 대담한 여자라고 생각했다만, 세상을 떠난 아내가 옛적에 자신에게 친절을 베풀어 주었다고 하더구나.”"
+    "text": "황무지에서 내 길을 가로막다니 참으로 대담한 여자라고 생각했다만, 세상을 떠난 아내가 옛적에 자신에게 친절을 베풀어 주었다고 하더구나."
   },
   {
     "character": "Narrator",
@@ -885,7 +951,7 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“참 훌륭한 여자야. 이제 와서 너를 보니, 그 여자의 말이 지극히 옳았다는 생각이 드는구나. 밖에서 마음껏 뛰어놀아라. 워낙 넓은 장원이니 어디든 가고 싶은 곳에 가고, 네 흥미를 끄는 일을 찾아보려무나. 혹시 필요한 것은 없느냐?”"
+    "text": "참 훌륭한 여자야. 이제 와서 너를 보니, 그 여자의 말이 지극히 옳았다는 생각이 드는구나. 밖에서 마음껏 뛰어놀아라. 워낙 넓은 장원이니 어디든 가고 싶은 곳에 가고, 네 흥미를 끄는 일을 찾아보려무나. 혹시 필요한 것은 없느냐?"
   },
   {
     "character": "Narrator",
@@ -897,13 +963,13 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“장난감이나 책, 인형 같은 것이 필요하냐?”"
+    "text": "장난감이나 책, 인형 같은 것이 필요하냐?"
   },
   {
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“제가요,”"
+    "text": "제가요,"
   },
   {
     "character": "Narrator",
@@ -915,7 +981,7 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“흙을 조금만 가질 수 있을까요?”"
+    "text": "흙을 조금만 가질 수 있을까요?"
   },
   {
     "character": "Narrator",
@@ -927,7 +993,7 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“흙이라고!”"
+    "text": "흙이라고!"
   },
   {
     "character": "Narrator",
@@ -939,25 +1005,31 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“무슨 뜻이냐?”"
+    "text": "무슨 뜻이냐?"
   },
   {
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“씨앗을 심고…… 자라나게 하려고요. 살아 움직이는 모습을 보려고요.”"
+    "text": "씨앗을 심고…… 자라나게 하려고요. 살아 움직이는 모습을 보려고요."
   },
   {
     "character": "Narrator",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "메리가 머뭇거리며 대답했다.\n\n그는 메리를 잠시 바라보더니, 재빨리 손으로 눈가를 쓸어내렸다."
+    "text": "메리가 머뭇거리며 대답했다."
+  },
+  {
+    "character": "Narrator",
+    "voice": "ko-KR-SunHiNeural",
+    "speed": 1.0,
+    "text": "그는 메리를 잠시 바라보더니, 재빨리 손으로 눈가를 쓸어내렸다."
   },
   {
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“네가 정원을 그만큼이나 좋아하는구나?”"
+    "text": "네가 정원을 그만큼이나 좋아하는구나?"
   },
   {
     "character": "Narrator",
@@ -969,7 +1041,7 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“인도에 있을 때는 잘 몰랐어요.”"
+    "text": "인도에 있을 때는 잘 몰랐어요."
   },
   {
     "character": "Narrator",
@@ -981,7 +1053,7 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“늘 아프고 지쳐 있었고, 날씨도 너무 더웠거든요. 가끔 모래밭에 작은 꽃밭을 만들고 꺾은 꽃들을 꽂아두기는 했어요. 하지만 여기선 달라요.”"
+    "text": "늘 아프고 지쳐 있었고, 날씨도 너무 더웠거든요. 가끔 모래밭에 작은 꽃밭을 만들고 꺾은 꽃들을 꽂아두기는 했어요. 하지만 여기선 달라요."
   },
   {
     "character": "Narrator",
@@ -993,7 +1065,7 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“흙을 조금이라,”"
+    "text": "흙을 조금이라,"
   },
   {
     "character": "Narrator",
@@ -1005,7 +1077,7 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“원하는 만큼 얼마든지 흙을 가져도 좋다.”"
+    "text": "원하는 만큼 얼마든지 흙을 가져도 좋다."
   },
   {
     "character": "Narrator",
@@ -1017,7 +1089,7 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“흙과 자라나는 만물을 무척이나 사랑했던 다른 누군가가 생각나는구나. 네가 원하는 땅을 찾거든,”"
+    "text": "흙과 자라나는 만물을 무척이나 사랑했던 다른 누군가가 생각나는구나. 네가 원하는 땅을 찾거든,"
   },
   {
     "character": "Narrator",
@@ -1029,19 +1101,19 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“가져가거라, 아가야. 그리고 그 땅을 다시 살아나게 해 보려무나.”"
+    "text": "가져가거라, 아가야. 그리고 그 땅을 다시 살아나게 해 보려무나."
   },
   {
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“아무도 원하지 않는 곳이라면 어디서든 가져도 되나요?”"
+    "text": "아무도 원하지 않는 곳이라면 어디서든 가져도 되나요?"
   },
   {
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“어디든 괜찮다.”"
+    "text": "어디든 괜찮다."
   },
   {
     "character": "Narrator",
@@ -1053,7 +1125,7 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“자, 이제 가보려무나. 내가 피곤하구나.”"
+    "text": "자, 이제 가보려무나. 내가 피곤하구나."
   },
   {
     "character": "Narrator",
@@ -1065,7 +1137,7 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“잘 가거라. 나는 여름 내내 집을 비울 게다.”"
+    "text": "잘 가거라. 나는 여름 내내 집을 비울 게다."
   },
   {
     "character": "Narrator",
@@ -1077,7 +1149,7 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“메들록 부인,”"
+    "text": "메들록 부인,"
   },
   {
     "character": "Narrator",
@@ -1089,7 +1161,7 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“이제 아이를 직접 만나 보니 소어비 부인이 무슨 뜻으로 말했는지 알겠소. 메리는 공부를 시작하기 전에 먼저 몸을 튼튼히 다질 필요가 있소. 소박하고 건강에 좋은 음식을 챙겨 주시오. 정원에서 마음껏 뛰어놀게 내버려 두고, 너무 사사건건 간섭하지 마시오. 아이에게는 자유와 맑은 공기, 그리고 야외 활동이 필요하오. 소어비 부인이 이따금 찾아와 아이를 살피게 하고, 메리도 가끔 그 집 오두막에 놀러 갈 수 있도록 해주시오.”"
+    "text": "이제 아이를 직접 만나 보니 소어비 부인이 무슨 뜻으로 말했는지 알겠소. 메리는 공부를 시작하기 전에 먼저 몸을 튼튼히 다질 필요가 있소. 소박하고 건강에 좋은 음식을 챙겨 주시오. 정원에서 마음껏 뛰어놀게 내버려 두고, 너무 사사건건 간섭하지 마시오. 아이에게는 자유와 맑은 공기, 그리고 야외 활동이 필요하오. 소어비 부인이 이따금 찾아와 아이를 살피게 하고, 메리도 가끔 그 집 오두막에 놀러 갈 수 있도록 해주시오."
   },
   {
     "character": "Narrator",
@@ -1101,7 +1173,7 @@
     "character": "others",
     "voice": "ko-KR-HyunsuMultilingualNeural",
     "speed": 1.0,
-    "text": "“감사합니다, 주인님.”"
+    "text": "감사합니다, 주인님."
   },
   {
     "character": "Narrator",
@@ -1113,13 +1185,13 @@
     "character": "others",
     "voice": "ko-KR-HyunsuMultilingualNeural",
     "speed": 1.0,
-    "text": "“수잔 소어비와 저는 학교를 같이 다녔는데, 참 사리 깊고 어디 내놓아도 빠지지 않을 만큼 고운 마음씨를 가진 여자지요. 저는 자식을 낳아본 적이 없지만, 그 친구는 열둘이나 키워냈고, 그 애들은 하나같이 건강하고 바르게 자랐습니다. 메리 아가씨가 그이들과 어울려도 나쁜 물이 들 일은 절대 없을 겁니다. 저라도 아이들 문제라면 늘 수잔 소어비의 조언을 따랐을 것입니다. 뭐랄까, 속이 아주 꽉 차고 건강한 사람이라고나 할까요, 제 뜻이 무엇인지 아시겠지요.”"
+    "text": "수잔 소어비와 저는 학교를 같이 다녔는데, 참 사리 깊고 어디 내놓아도 빠지지 않을 만큼 고운 마음씨를 가진 여자지요. 저는 자식을 낳아본 적이 없지만, 그 친구는 열둘이나 키워냈고, 그 애들은 하나같이 건강하고 바르게 자랐습니다. 메리 아가씨가 그이들과 어울려도 나쁜 물이 들 일은 절대 없을 겁니다. 저라도 아이들 문제라면 늘 수잔 소어비의 조언을 따랐을 것입니다. 뭐랄까, 속이 아주 꽉 차고 건강한 사람이라고나 할까요, 제 뜻이 무엇인지 아시겠지요."
   },
   {
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“잘 알겠소.”"
+    "text": "잘 알겠소."
   },
   {
     "character": "Narrator",
@@ -1131,7 +1203,7 @@
     "character": "craven",
     "voice": "ko-KR-InJoonNeural",
     "speed": 0.95,
-    "text": "“이제 메리 아가씨를 데리고 나가 보고, 피처를 내 방으로 보내시오.”"
+    "text": "이제 메리 아가씨를 데리고 나가 보고, 피처를 내 방으로 보내시오."
   },
   {
     "character": "Narrator",
@@ -1143,7 +1215,7 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“내 정원을 가져도 된대!”"
+    "text": "내 정원을 가져도 된대!"
   },
   {
     "character": "Narrator",
@@ -1155,13 +1227,13 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“내가 원하는 곳 어디에나 정원을 만들어도 좋대! 당분간 가정교사도 안 둘 거래! 너희 어머니도 나를 보러 오실 거고, 나도 너희 오두막에 가도 된대! 나처럼 조그만 여자애가 무슨 해를 끼치겠냐면서, 내가 원하는 곳이면 어디서든 마음대로 해도 좋다고 하셨어!”"
+    "text": "내가 원하는 곳 어디에나 정원을 만들어도 좋대! 당분간 가정교사도 안 둘 거래! 너희 어머니도 나를 보러 오실 거고, 나도 너희 오두막에 가도 된대! 나처럼 조그만 여자애가 무슨 해를 끼치겠냐면서, 내가 원하는 곳이면 어디서든 마음대로 해도 좋다고 하셨어!"
   },
   {
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“어머나!”"
+    "text": "어머나!"
   },
   {
     "character": "Narrator",
@@ -1173,13 +1245,13 @@
     "character": "martha",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“참 너그러운 분이시네유, 그츄?”"
+    "text": "참 너그러운 분이시네유, 그츄?"
   },
   {
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“마사,”"
+    "text": "마사,"
   },
   {
     "character": "Narrator",
@@ -1191,7 +1263,7 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“그분은 정말로 좋은 분이야. 하지만 얼굴이 너무 슬퍼 보이고 이마에는 주름이 가득 잡혀 있어.”"
+    "text": "그분은 정말로 좋은 분이야. 하지만 얼굴이 너무 슬퍼 보이고 이마에는 주름이 가득 잡혀 있어."
   },
   {
     "character": "Narrator",
@@ -1203,7 +1275,7 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“가버렸네.”"
+    "text": "가버렸네."
   },
   {
     "character": "Narrator",
@@ -1215,7 +1287,7 @@
     "character": "mary",
     "voice": "ko-KR-SunHiNeural",
     "speed": 1.0,
-    "text": "“아, 디콘은…… 디콘은 그냥 숲속 요정이었던 걸까?”"
+    "text": "아, 디콘은…… 디콘은 그냥 숲속 요정이었던 걸까?"
   },
   {
     "character": "Narrator",
@@ -1227,6 +1299,6 @@
     "character": "dickon",
     "voice": "ko-KR-InJoonNeural",
     "speed": 1.0,
-    "text": "“돌아올게.”"
+    "text": "돌아올게."
   }
 ]

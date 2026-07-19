@@ -3,13 +3,19 @@
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Chapter 18: You Mustn't Waste Any Time\n\nOf course, Mary didn't wake up early the next morning. She slept late because she was exhausted. When Martha brought her breakfast, she told Mary that although Colin was quiet, he was feeling sick and feverish, just as he always did after wearing himself out with a crying fit. Mary listened while eating her breakfast slowly."
+    "text": "Chapter 18: You Mustnt Waste Any Time"
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Of course, Mary didnt wake up early the next morning. She slept late because she was exhausted. When Martha brought her breakfast, she told Mary that although Colin was quiet, he was feeling sick and feverish, just as he always did after wearing himself out with a crying fit. Mary listened while eating her breakfast slowly."
   },
   {
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"He says he wishes you would please go and see him as soon as you can,\""
+    "text": "He says he wishes you would please go and see him as soon as you can,"
   },
   {
     "character": "Narrator",
@@ -21,13 +27,13 @@
     "character": "martha",
     "voice": "bf_isabella",
     "speed": 1.0,
-    "text": "\"It's strange how fond he's grown of you. You really gave it to him last night, didn't you? Nobody else would have dared to do that. Oh, the poor lad! He's been spoiled so much that even salt won't save him. Mother says the two worst things that can happen to a child are never getting their own way—or always getting it. She doesn't know which is worse. You were in quite a temper yourself, too. But when I went into his room, he said to me, 'Please ask Miss Mary if she'll please come and talk to me.' Imagine him saying please! Will you go, Miss?\""
+    "text": "Its strange how fond hes grown of you. You really gave it to him last night, didnt you? Nobody else would have dared to do that. Oh, the poor lad! Hes been spoiled so much that even salt wont save him. Mother says the two worst things that can happen to a child are never getting their own way—or always getting it. She doesnt know which is worse. You were in quite a temper yourself, too. But when I went into his room, he said to me, Please ask Miss Mary if shell please come and talk to me. Imagine him saying please! Will you go, Miss?"
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I'll run and see Dickon first,\""
+    "text": "Ill run and see Dickon first,"
   },
   {
     "character": "Narrator",
@@ -39,19 +45,25 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"No, I'll go see Colin first and tell him—I know what I'll tell him,\""
+    "text": "No, Ill go see Colin first and tell him—I know what Ill tell him,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "she said, struck by a sudden inspiration.\n\nShe was wearing her hat when she walked into Colin's room, and for a second he looked disappointed. He was lying in bed. His face was pitifully pale, and there were dark circles around his eyes."
+    "text": "she said, struck by a sudden inspiration."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "She was wearing her hat when she walked into Colins room, and for a second he looked disappointed. He was lying in bed. His face was pitifully pale, and there were dark circles around his eyes."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I'm glad you came,\""
+    "text": "Im glad you came,"
   },
   {
     "character": "Narrator",
@@ -63,7 +75,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"My head hurts and I ache all over because I'm so tired. Are you going somewhere?\""
+    "text": "My head hurts and I ache all over because Im so tired. Are you going somewhere?"
   },
   {
     "character": "Narrator",
@@ -75,7 +87,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I won't be long,\""
+    "text": "I wont be long,"
   },
   {
     "character": "Narrator",
@@ -87,7 +99,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I'm going to see Dickon, but I'll come back. Colin, it's—it's something about the garden.\""
+    "text": "Im going to see Dickon, but Ill come back. Colin, its—its something about the garden."
   },
   {
     "character": "Narrator",
@@ -99,7 +111,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Oh, is it?\""
+    "text": "Oh, is it?"
   },
   {
     "character": "Narrator",
@@ -111,7 +123,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I dreamed about it all night. I heard you say something about gray changing into green, and I dreamed I was standing in a place filled with trembling little green leaves. There were birds on nests everywhere, looking so soft and still. I'll lie here and think about it until you come back.\""
+    "text": "I dreamed about it all night. I heard you say something about gray changing into green, and I dreamed I was standing in a place filled with trembling little green leaves. There were birds on nests everywhere, looking so soft and still. Ill lie here and think about it until you come back."
   },
   {
     "character": "Narrator",
@@ -123,7 +135,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"I came over on the pony this morning,\""
+    "text": "I came over on the pony this morning,"
   },
   {
     "character": "Narrator",
@@ -135,7 +147,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Oh, he is a good little fellow—Jump is! I brought these two in my pockets. This one here is named Nut, and this other one is named Shell.\""
+    "text": "Oh, he is a good little fellow—Jump is! I brought these two in my pockets. This one here is named Nut, and this other one is named Shell."
   },
   {
     "character": "Narrator",
@@ -147,7 +159,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Nut,\""
+    "text": "Nut,"
   },
   {
     "character": "Narrator",
@@ -159,19 +171,25 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Shell,\""
+    "text": "Shell,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "the other leaped onto his left shoulder.\n\nWhen they sat down on the grass with Captain curled at their feet, Soot listening solemnly from a tree, and Nut and Shell sniffing around close by, Mary felt it would be hard to leave such a delightful scene. But as she began to tell her story, the look on Dickon's funny face gradually changed her mind. She could see he felt even sorrier for Colin than she did. He looked up at the sky and all around him."
+    "text": "the other leaped onto his left shoulder."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "When they sat down on the grass with Captain curled at their feet, Soot listening solemnly from a tree, and Nut and Shell sniffing around close by, Mary felt it would be hard to leave such a delightful scene. But as she began to tell her story, the look on Dickons funny face gradually changed her mind. She could see he felt even sorrier for Colin than she did. He looked up at the sky and all around him."
   },
   {
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Just listen to those birds—the world seems full of them—all whistling and piping,\""
+    "text": "Just listen to those birds—the world seems full of them—all whistling and piping,"
   },
   {
     "character": "Narrator",
@@ -183,7 +201,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Look at them darting about, and listen to them calling to each other. When spring comes, it feels like the whole world is calling. The leaves are uncurling so you can see them—and, my word, the wonderful smells around here!\""
+    "text": "Look at them darting about, and listen to them calling to each other. When spring comes, it feels like the whole world is calling. The leaves are uncurling so you can see them—and, my word, the wonderful smells around here!"
   },
   {
     "character": "Narrator",
@@ -195,7 +213,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"And that poor lad lying shut up and seeing so little that he starts thinking about things that make him scream. Oh, we must get him out here! We must get him watching and listening and breathing in the fresh air, and get him soaked through with sunshine. And we mustn't waste any time about it.\""
+    "text": "And that poor lad lying shut up and seeing so little that he starts thinking about things that make him scream. Oh, we must get him out here! We must get him watching and listening and breathing in the fresh air, and get him soaked through with sunshine. And we mustnt waste any time about it."
   },
   {
     "character": "Narrator",
@@ -207,7 +225,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Yes, we must,\""
+    "text": "Yes, we must,"
   },
   {
     "character": "Narrator",
@@ -219,7 +237,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I'll tell you what we'll do first,\""
+    "text": "Ill tell you what well do first,"
   },
   {
     "character": "Narrator",
@@ -231,7 +249,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"He's taken a grand liking to you. He wants to see you, and he wants to see Soot and Captain. When I go back to the house to talk to him, I'll ask him if you can come and see him tomorrow morning—and bring your creatures with you—and then, in a little while, when there are more leaves out, and maybe a bud or two, we'll get him to come out, and you shall push him in his chair, and we'll bring him here and show him everything.\""
+    "text": "Hes taken a grand liking to you. He wants to see you, and he wants to see Soot and Captain. When I go back to the house to talk to him, Ill ask him if you can come and see him tomorrow morning—and bring your creatures with you—and then, in a little while, when there are more leaves out, and maybe a bud or two, well get him to come out, and you shall push him in his chair, and well bring him here and show him everything."
   },
   {
     "character": "Narrator",
@@ -243,7 +261,7 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"You must talk a bit of Yorkshire like that to Master Colin,\""
+    "text": "You must talk a bit of Yorkshire like that to Master Colin,"
   },
   {
     "character": "Narrator",
@@ -255,25 +273,31 @@
     "character": "dickon",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"You'll make him laugh, and there's nothing as good for sick people as laughing is. Mother says she believes a good half-hour of laughing every morning would cure a fellow who was coming down with typhus fever.\""
+    "text": "Youll make him laugh, and theres nothing as good for sick people as laughing is. Mother says she believes a good half-hour of laughing every morning would cure a fellow who was coming down with typhus fever."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I'm going to talk Yorkshire to him this very day,\""
+    "text": "Im going to talk Yorkshire to him this very day,"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Mary said, chuckling herself.\n\nThe garden had reached the stage where, every day and night, it seemed as if magicians were passing through it, drawing loveliness out of the earth and the branches with their wands. It was hard to walk away and leave it all, especially since Nut had actually crawled onto her dress, and Shell had scrambled down the trunk of the apple tree they were sitting under, watching her with curious eyes. But she went back to the house, and when she sat down close to Colin's bed, he began to sniff the air just as Dickon did, though not in such an experienced way."
+    "text": "Mary said, chuckling herself."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "The garden had reached the stage where, every day and night, it seemed as if magicians were passing through it, drawing loveliness out of the earth and the branches with their wands. It was hard to walk away and leave it all, especially since Nut had actually crawled onto her dress, and Shell had scrambled down the trunk of the apple tree they were sitting under, watching her with curious eyes. But she went back to the house, and when she sat down close to Colins bed, he began to sniff the air just as Dickon did, though not in such an experienced way."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"You smell like flowers and—and fresh things!\""
+    "text": "You smell like flowers and—and fresh things!"
   },
   {
     "character": "Narrator",
@@ -285,13 +309,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"What is that smell? It's cool and warm and sweet all at the same time.\""
+    "text": "What is that smell? Its cool and warm and sweet all at the same time."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"It's the wind from the moor,\""
+    "text": "Its the wind from the moor,"
   },
   {
     "character": "Narrator",
@@ -303,19 +327,19 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"It comes from sitting on the grass under a tree with Dickon and Captain and Soot and Nut and Shell. It's the spring and the outdoors and the sunshine that smell so grand.\""
+    "text": "It comes from sitting on the grass under a tree with Dickon and Captain and Soot and Nut and Shell. Its the spring and the outdoors and the sunshine that smell so grand."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "She said it with as thick an accent as she could manage. You don't know how broad Yorkshire sounds until you hear someone speak it. Colin began to laugh."
+    "text": "She said it with as thick an accent as she could manage. You dont know how broad Yorkshire sounds until you hear someone speak it. Colin began to laugh."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"What are you doing?\""
+    "text": "What are you doing?"
   },
   {
     "character": "Narrator",
@@ -327,13 +351,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I've never heard you talk like that before. How funny it sounds!\""
+    "text": "Ive never heard you talk like that before. How funny it sounds!"
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I'm giving you a bit of Yorkshire,\""
+    "text": "Im giving you a bit of Yorkshire,"
   },
   {
     "character": "Narrator",
@@ -345,19 +369,19 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I can't talk as grandly as Dickon and Martha can, but you see I can manage a bit. Don't you understand a bit of Yorkshire when you hear it? And you a Yorkshire lad yourself, born and bred! Oh, I wonder you're not ashamed of yourself!\""
+    "text": "I cant talk as grandly as Dickon and Martha can, but you see I can manage a bit. Dont you understand a bit of Yorkshire when you hear it? And you a Yorkshire lad yourself, born and bred! Oh, I wonder youre not ashamed of yourself!"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "Then she began to laugh too, and they both laughed until they couldn't stop. They laughed so hard the room echoed, and Mrs. Medlock, opening the door to come in, stepped back into the hallway and stood listening in amazement."
+    "text": "Then she began to laugh too, and they both laughed until they couldnt stop. They laughed so hard the room echoed, and Mrs. Medlock, opening the door to come in, stepped back into the hallway and stood listening in amazement."
   },
   {
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Well, upon my word!\""
+    "text": "Well, upon my word!"
   },
   {
     "character": "Narrator",
@@ -369,19 +393,19 @@
     "character": "others",
     "voice": "am_michael",
     "speed": 1.0,
-    "text": "\"Whoever heard of such a thing! Who on earth would have thought it!\""
+    "text": "Whoever heard of such a thing! Who on earth would have thought it!"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "There was so much to talk about. It seemed as if Colin could never hear enough about Dickon, Captain, Soot, Nut, Shell, and the pony named Jump. Mary had run into the woods with Dickon to see Jump. He was a tiny, shaggy moor pony with thick hair hanging over his eyes, a pretty face, and a nuzzling velvet nose. He was rather thin from living on moor grass, but he was as tough and wiry as if the muscles in his little legs were made of steel springs. He had lifted his head and whinnied softly the moment he saw Dickon, trotting up to him and putting his head over Dickon's shoulder. Then Dickon had whispered into his ear, and Jump had answered with curious little whinnies, puffs, and snorts. Dickon even had him offer Mary his small front hoof and kiss her cheek with his soft muzzle."
+    "text": "There was so much to talk about. It seemed as if Colin could never hear enough about Dickon, Captain, Soot, Nut, Shell, and the pony named Jump. Mary had run into the woods with Dickon to see Jump. He was a tiny, shaggy moor pony with thick hair hanging over his eyes, a pretty face, and a nuzzling velvet nose. He was rather thin from living on moor grass, but he was as tough and wiry as if the muscles in his little legs were made of steel springs. He had lifted his head and whinnied softly the moment he saw Dickon, trotting up to him and putting his head over Dickons shoulder. Then Dickon had whispered into his ear, and Jump had answered with curious little whinnies, puffs, and snorts. Dickon even had him offer Mary his small front hoof and kiss her cheek with his soft muzzle."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Does he really understand everything Dickon says?\""
+    "text": "Does he really understand everything Dickon says?"
   },
   {
     "character": "Narrator",
@@ -393,7 +417,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"It seems like he does,\""
+    "text": "It seems like he does,"
   },
   {
     "character": "Narrator",
@@ -405,7 +429,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Dickon says any creature will understand you if you are truly friends with them, but you have to be real friends.\""
+    "text": "Dickon says any creature will understand you if you are truly friends with them, but you have to be real friends."
   },
   {
     "character": "Narrator",
@@ -417,7 +441,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I wish I were friends with things,\""
+    "text": "I wish I were friends with things,"
   },
   {
     "character": "Narrator",
@@ -429,13 +453,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"But I'm not. I've never had anything to be friends with, and I can't stand people.\""
+    "text": "But Im not. Ive never had anything to be friends with, and I cant stand people."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Can't you stand me?\""
+    "text": "Cant you stand me?"
   },
   {
     "character": "Narrator",
@@ -447,7 +471,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Yes, I can,\""
+    "text": "Yes, I can,"
   },
   {
     "character": "Narrator",
@@ -459,13 +483,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"It's funny, but I actually like you.\""
+    "text": "Its funny, but I actually like you."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Ben Weatherstaff said I was just like him,\""
+    "text": "Ben Weatherstaff said I was just like him,"
   },
   {
     "character": "Narrator",
@@ -477,19 +501,19 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"He said he'd bet we both have the same nasty tempers. I think you are like him too. We are all three alike—you, me, and Ben Weatherstaff. He said none of us are much to look at, and we are as sour as we look. But I don't feel as sour as I used to before I met the robin and Dickon.\""
+    "text": "He said hed bet we both have the same nasty tempers. I think you are like him too. We are all three alike—you, me, and Ben Weatherstaff. He said none of us are much to look at, and we are as sour as we look. But I dont feel as sour as I used to before I met the robin and Dickon."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Did you feel like you hated people?\""
+    "text": "Did you feel like you hated people?"
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Yes,\""
+    "text": "Yes,"
   },
   {
     "character": "Narrator",
@@ -501,7 +525,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I would have hated you if I had met you before I saw the robin and Dickon.\""
+    "text": "I would have hated you if I had met you before I saw the robin and Dickon."
   },
   {
     "character": "Narrator",
@@ -513,7 +537,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Mary,\""
+    "text": "Mary,"
   },
   {
     "character": "Narrator",
@@ -525,13 +549,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I wish I hadn't said those things about sending Dickon away. I hated you when you said he was like an angel, and I laughed at you—but maybe he really is.\""
+    "text": "I wish I hadnt said those things about sending Dickon away. I hated you when you said he was like an angel, and I laughed at you—but maybe he really is."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Well, it was a bit funny to say,\""
+    "text": "Well, it was a bit funny to say,"
   },
   {
     "character": "Narrator",
@@ -543,13 +567,13 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"because his nose turns up, he has a big mouth, his clothes are covered in patches, and he speaks in a thick Yorkshire accent. But if an angel did come to Yorkshire and live on the moor—if there was a Yorkshire angel—I believe he'd understand growing things, know how to make them bloom, and know how to talk to wild creatures just like Dickon does. And they would know he was a true friend.\""
+    "text": "because his nose turns up, he has a big mouth, his clothes are covered in patches, and he speaks in a thick Yorkshire accent. But if an angel did come to Yorkshire and live on the moor—if there was a Yorkshire angel—I believe hed understand growing things, know how to make them bloom, and know how to talk to wild creatures just like Dickon does. And they would know he was a true friend."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I wouldn't mind if Dickon looked at me,\""
+    "text": "I wouldnt mind if Dickon looked at me,"
   },
   {
     "character": "Narrator",
@@ -561,13 +585,13 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"I want to meet him.\""
+    "text": "I want to meet him."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I'm glad you said that,\""
+    "text": "Im glad you said that,"
   },
   {
     "character": "Narrator",
@@ -579,7 +603,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"because... because...\""
+    "text": "because... because..."
   },
   {
     "character": "Narrator",
@@ -591,43 +615,55 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Because what?\""
+    "text": "Because what?"
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "he asked eagerly.\n\nMary was so excited that she stood up from her stool, came over to him, and took both his hands in hers."
-  },
-  {
-    "character": "mary",
-    "voice": "af_sarah",
-    "speed": 1.0,
-    "text": "\"Can I trust you? I trusted Dickon because the birds trusted him. Can I trust you—completely, for sure?\""
+    "text": "he asked eagerly."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "she pleaded.\n\nHer face was so serious that he answered in a near whisper."
-  },
-  {
-    "character": "colin",
-    "voice": "am_adam",
-    "speed": 1.0,
-    "text": "\"Yes, yes!\""
+    "text": "Mary was so excited that she stood up from her stool, came over to him, and took both his hands in hers."
   },
   {
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Well, Dickon is coming to see you tomorrow morning, and he'll bring his animals with him.\""
+    "text": "Can I trust you? I trusted Dickon because the birds trusted him. Can I trust you—completely, for sure?"
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "she pleaded."
+  },
+  {
+    "character": "Narrator",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Her face was so serious that he answered in a near whisper."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Oh! Oh!\""
+    "text": "Yes, yes!"
+  },
+  {
+    "character": "mary",
+    "voice": "af_sarah",
+    "speed": 1.0,
+    "text": "Well, Dickon is coming to see you tomorrow morning, and hell bring his animals with him."
+  },
+  {
+    "character": "colin",
+    "voice": "am_adam",
+    "speed": 1.0,
+    "text": "Oh! Oh!"
   },
   {
     "character": "Narrator",
@@ -639,7 +675,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"But that's not all,\""
+    "text": "But thats not all,"
   },
   {
     "character": "Narrator",
@@ -651,19 +687,19 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"The rest is even better. There is a door into the garden. I found it. It's hidden under the ivy on the wall.\""
+    "text": "The rest is even better. There is a door into the garden. I found it. Its hidden under the ivy on the wall."
   },
   {
     "character": "Narrator",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "If he had been a strong, healthy boy, Colin would probably have shouted, \"Hooray! Hooray! Hooray!\" But he was weak and easily overwhelmed; his eyes grew wider and wider, and he gasped for breath."
+    "text": "If he had been a strong, healthy boy, Colin would probably have shouted, Hooray! Hooray! Hooray! But he was weak and easily overwhelmed; his eyes grew wider and wider, and he gasped for breath."
   },
   {
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Oh, Mary!\""
+    "text": "Oh, Mary!"
   },
   {
     "character": "Narrator",
@@ -675,7 +711,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"Will I see it? Will I get inside? Will I live to see it?\""
+    "text": "Will I see it? Will I get inside? Will I live to see it?"
   },
   {
     "character": "Narrator",
@@ -687,7 +723,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Of course you'll see it!\""
+    "text": "Of course youll see it!"
   },
   {
     "character": "Narrator",
@@ -699,7 +735,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"Of course you'll live to get inside! Don't be silly!\""
+    "text": "Of course youll live to get inside! Dont be silly!"
   },
   {
     "character": "Narrator",
@@ -711,7 +747,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"It is exactly what you thought it would be,\""
+    "text": "It is exactly what you thought it would be,"
   },
   {
     "character": "Narrator",
@@ -723,7 +759,7 @@
     "character": "colin",
     "voice": "am_adam",
     "speed": 1.0,
-    "text": "\"It sounds just as if you had actually seen it. You know I said that when you first told me.\""
+    "text": "It sounds just as if you had actually seen it. You know I said that when you first told me."
   },
   {
     "character": "Narrator",
@@ -735,7 +771,7 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I had seen it—and I had been inside,\""
+    "text": "I had seen it—and I had been inside,"
   },
   {
     "character": "Narrator",
@@ -747,6 +783,6 @@
     "character": "mary",
     "voice": "af_sarah",
     "speed": 1.0,
-    "text": "\"I found the key and got in weeks ago. But I didn't dare tell you. I was too afraid I couldn't trust you—for sure!\""
+    "text": "I found the key and got in weeks ago. But I didnt dare tell you. I was too afraid I couldnt trust you—for sure!"
   }
 ]
