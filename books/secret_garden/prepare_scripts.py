@@ -36,7 +36,7 @@ def parse_tagged_text(content):
         narration = match.group('narration')
         
         if tag and speech:
-            text = speech.strip()
+            text = speech.strip().strip('"\'“”')
             if text:
                 voice, speed = VOICE_MAP[tag]
                 segments.append({
