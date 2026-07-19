@@ -77,11 +77,11 @@ def check_json_file(filepath):
                 if f"<{tag}>" in text or f"</{tag}>" in text:
                     errors.append(f"Segment {i} ({char}): Leaked XML tag found in text: '{text}'")
                     
-            # 3. Check for leading/trailing quotation marks in direct speech
-            if char != "Narrator" and text:
-                stripped = text.strip()
-                if stripped and (stripped[0] in QUOTE_CHARS or stripped[-1] in QUOTE_CHARS):
-                    errors.append(f"Segment {i} ({char}): Direct speech text contains outer quotes: '{text}'")
+            # 3. Check for any quotation marks in the text
+            if text:
+                found_quotes = [q for q in QUOTE_CHARS if q in text]
+                if found_quotes:
+                    errors.append(f"Segment {i} ({char}): Text contains forbidden quotation marks {found_quotes}: '{text}'")
                     
     return errors
 
