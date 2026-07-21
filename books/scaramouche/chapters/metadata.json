@@ -1,0 +1,152 @@
+{
+  "book_1": {
+    "ch_01": {
+      "title_en": "THE REPUBLICAN",
+      "title_ko": "공화주의자"
+    },
+    "ch_02": {
+      "title_en": "THE ARISTOCRAT",
+      "title_ko": "귀족"
+    },
+    "ch_03": {
+      "title_en": "THE ELOQUENCE OF M. DE VILMORIN",
+      "title_ko": "필립 드 빌모랭의 웅변"
+    },
+    "ch_04": {
+      "title_en": "THE HERITAGE",
+      "title_ko": "유산"
+    },
+    "ch_05": {
+      "title_en": "THE LORD OF GAVRILLAC",
+      "title_ko": "가브리약 영주"
+    },
+    "ch_06": {
+      "title_en": "THE WINDMILL",
+      "title_ko": "풍차"
+    },
+    "ch_07": {
+      "title_en": "THE WIND",
+      "title_ko": "바람"
+    },
+    "ch_08": {
+      "title_en": "OMNES OMNIBUS",
+      "title_ko": "옴네스 옴니부스"
+    },
+    "ch_09": {
+      "title_en": "THE AFTERMATH",
+      "title_ko": "여파"
+    }
+  },
+  "book_2": {
+    "ch_01": {
+      "title_en": "THE TRESPASSERS",
+      "title_ko": "침입자들"
+    },
+    "ch_02": {
+      "title_en": "THE SERVICE OF THESPIS",
+      "title_ko": "연극의 길"
+    },
+    "ch_03": {
+      "title_en": "THE COMIC MUSE",
+      "title_ko": "희극의 여신"
+    },
+    "ch_04": {
+      "title_en": "EXIT MONSIEUR PARVISSIMUS",
+      "title_ko": "파르비시무스 씨의 퇴장"
+    },
+    "ch_05": {
+      "title_en": "ENTER SCARAMOUCHE",
+      "title_ko": "스카라무슈 등장"
+    },
+    "ch_06": {
+      "title_en": "CLIMENE",
+      "title_ko": "클리멘"
+    },
+    "ch_07": {
+      "title_en": "THE CONQUEST OF NANTES",
+      "title_ko": "낭트 정복"
+    },
+    "ch_08": {
+      "title_en": "THE DREAM",
+      "title_ko": "꿈"
+    },
+    "ch_09": {
+      "title_en": "THE AWAKENING",
+      "title_ko": "각성"
+    },
+    "ch_10": {
+      "title_en": "CONTRITION",
+      "title_ko": "회개"
+    },
+    "ch_11": {
+      "title_en": "THE FRACAS AT THE THEATRE FEYDAU",
+      "title_ko": "페이도 극장의 소동"
+    }
+  },
+  "book_3": {
+    "ch_01": {
+      "title_en": "TRANSITION",
+      "title_ko": "전환"
+    },
+    "ch_02": {
+      "title_en": "Whom the Gods Would Destroy",
+      "title_ko": "신이 파멸시키고자 하는 자"
+    },
+    "ch_03": {
+      "title_en": "PRESIDENT LE CHAPELIER",
+      "title_ko": "르 샤플리에 의장"
+    },
+    "ch_04": {
+      "title_en": "AT MEUDON",
+      "title_ko": "뫼동에서"
+    },
+    "ch_05": {
+      "title_en": "MADAME DE PLOUGASTEL",
+      "title_ko": "플루가스텔 부인"
+    },
+    "ch_06": {
+      "title_en": "POLITICIANS",
+      "title_ko": "정치인들"
+    },
+    "ch_07": {
+      "title_en": "THE SPADASSINICIDES",
+      "title_ko": "검객 암살자들"
+    },
+    "ch_08": {
+      "title_en": "THE PALADIN OF THE THIRD",
+      "title_ko": "제3신분의 팔라딘"
+    },
+    "ch_09": {
+      "title_en": "TORN PRIDE",
+      "title_ko": "찢겨진 자존심"
+    },
+    "ch_10": {
+      "title_en": "THE RETURNING CARRIAGE",
+      "title_ko": "돌아오는 마차"
+    },
+    "ch_11": {
+      "title_en": "INFERENCES",
+      "title_ko": "추론"
+    },
+    "ch_12": {
+      "title_en": "THE OVERWHELMING REASON",
+      "title_ko": "압도적인 이유"
+    },
+    "ch_13": {
+      "title_en": "SANCTUARY",
+      "title_ko": "피난처"
+    },
+    "ch_14": {
+      "title_en": "THE BARRIER",
+      "title_ko": "장벽"
+    },
+    "ch_15": {
+      "title_en": "SAFE-CONDUCT",
+      "title_ko": "통행증"
+    },
+    "ch_16": {
+      "title_en": "SUNRISE",
+      "title_ko": "일출"
+    }
+  }
+}

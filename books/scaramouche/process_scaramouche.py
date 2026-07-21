@@ -40,6 +40,14 @@ async def synthesize_text_segment(text, voice, speed="+0%"):
             await asyncio.sleep(2)
     raise RuntimeError(f"Failed to synthesize segment after 5 attempts: {text[:30]}...")
 
+def map_sequential_to_book_ch(ch_num):
+    if ch_num <= 9:
+        return 1, ch_num
+    elif ch_num <= 20:
+        return 2, ch_num - 9
+    else:
+        return 3, ch_num - 20
+
 def clean_bracketed_header(filepath):
     if not os.path.exists(filepath):
         return
@@ -66,15 +74,16 @@ def clean_bracketed_header(filepath):
                 f.write(new_content + "\n")
 
 async def generate_ko_audio(ch_num):
-    ch_str = str(ch_num).zfill(2)
-    txt_path = os.path.join(CHAPTERS_DIR, f"ch_{ch_str}_ko.txt")
-    out_path = os.path.join(OUTPUT_DIR, f"track_{ch_str}_ko.mp3")
+    book_num, inner_ch_num = map_sequential_to_book_ch(ch_num)
+    ch_str = str(inner_ch_num).zfill(2)
+    txt_path = os.path.join(CHAPTERS_DIR, f"book_{book_num}", f"ch_{ch_str}_ko.txt")
+    out_path = os.path.join(OUTPUT_DIR, f"track_{str(ch_num).zfill(2)}_ko.mp3")
 
     if not os.path.exists(txt_path):
         print(f"  [Error] Korean text file not found: {txt_path}")
         return False
 
-    print(f"  Generating Korean audio for Chapter {ch_num}...")
+    print(f"  Generating Korean audio for Chapter {ch_num} (Book {book_num} Chapter {inner_ch_num})...")
     with open(txt_path, "r", encoding="utf-8") as f:
         text = f.read().strip()
 
@@ -94,15 +103,16 @@ async def generate_ko_audio(ch_num):
     return True
 
 async def generate_en_audio(ch_num):
-    ch_str = str(ch_num).zfill(2)
-    txt_path = os.path.join(CHAPTERS_DIR, f"ch_{ch_str}_en.txt")
-    out_path = os.path.join(OUTPUT_DIR, f"track_{ch_str}_en.mp3")
+    book_num, inner_ch_num = map_sequential_to_book_ch(ch_num)
+    ch_str = str(inner_ch_num).zfill(2)
+    txt_path = os.path.join(CHAPTERS_DIR, f"book_{book_num}", f"ch_{ch_str}_en.txt")
+    out_path = os.path.join(OUTPUT_DIR, f"track_{str(ch_num).zfill(2)}_en.mp3")
 
     if not os.path.exists(txt_path):
         print(f"  [Error] English text file not found: {txt_path}")
         return False
 
-    print(f"  Generating English audio for Chapter {ch_num} (Dual Voice: Andrew/Brian)...")
+    print(f"  Generating English audio for Chapter {ch_num} (Book {book_num} Chapter {inner_ch_num}) (Dual Voice: Andrew/Brian)...")
     with open(txt_path, "r", encoding="utf-8") as f:
         text = f.read().strip()
 
@@ -111,8 +121,6 @@ async def generate_en_audio(ch_num):
 
     for p_idx, para in enumerate(paragraphs):
         # Parse dialogue using double-quotes
-        # Heuristics: parts inside double quotes are dialogue (Brian), outside are narrator (Andrew)
-        # Using regex to split by matching double quotes
         parts = re.split(r'("[^"]*")', para)
         
         for part in parts:
@@ -168,13 +176,19 @@ async def main():
     modernize_script = os.path.join(SCRIPT_DIR, "..", "modernize_book.py")
 
     for ch in chapters:
+        book_num, inner_ch_num = map_sequential_to_book_ch(ch)
+        inner_ch_str = str(inner_ch_num).zfill(2)
         ch_str = str(ch).zfill(2)
-        print(f"\n=================== Processing Chapter {ch_str} ===================")
+        
+        print(f"\n=================== Processing Chapter {ch_str} (Book {book_num} Chapter {inner_ch_num}) ===================")
+        
+        # Relative path of the raw file
+        rel_raw_path = f"book_{book_num}/raw_ch_{inner_ch_str}.txt"
         
         # 1. Translate to Korean
-        ko_txt_path = os.path.join(CHAPTERS_DIR, f"ch_{ch_str}_ko.txt")
+        ko_txt_path = os.path.join(CHAPTERS_DIR, f"book_{book_num}", f"ch_{inner_ch_str}_ko.txt")
         if not os.path.exists(ko_txt_path):
-            success = run_command([python_exe, translate_script, "--book", "scaramouche", "--chapters", str(ch)])
+            success = run_command([python_exe, translate_script, "--book", "scaramouche", "--chapters", rel_raw_path])
             if not success:
                 print(f"Stopping execution due to translation failure on Chapter {ch}")
                 sys.exit(1)
@@ -182,9 +196,9 @@ async def main():
             print(f"  Korean translation already exists: {ko_txt_path}")
 
         # 2. Modernize English
-        en_txt_path = os.path.join(CHAPTERS_DIR, f"ch_{ch_str}_en.txt")
+        en_txt_path = os.path.join(CHAPTERS_DIR, f"book_{book_num}", f"ch_{inner_ch_str}_en.txt")
         if not os.path.exists(en_txt_path):
-            success = run_command([python_exe, modernize_script, "--book", "scaramouche", "--chapters", str(ch)])
+            success = run_command([python_exe, modernize_script, "--book", "scaramouche", "--chapters", rel_raw_path])
             if not success:
                 print(f"Stopping execution due to modernization failure on Chapter {ch}")
                 sys.exit(1)
