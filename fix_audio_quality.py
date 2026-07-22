@@ -24,8 +24,8 @@ def fix_audio_file(input_path, output_path, bitrate=256):
     # Strip existing silence
     strip_silence = "silenceremove=start_periods=1:start_threshold=-50dB:start_silence=0,areverse,silenceremove=start_periods=1:start_threshold=-50dB:start_silence=0,areverse"
     
-    # Volume normalization (RMS target -19 LUFS, true peak -3.5 dB)
-    volume_norm = "loudnorm=I=-19:TP=-3.5:LRA=11"
+    # Volume normalization (RMS target -19 LUFS, true peak -3.1 dB)
+    volume_norm = "loudnorm=I=-19:TP=-3.1:LRA=11"
     
     # Add leading silence (2.0 seconds = 2000ms)
     # Format of adelay is delay_channel1|delay_channel2|...
@@ -35,7 +35,7 @@ def fix_audio_file(input_path, output_path, bitrate=256):
     # Add trailing silence (2.0 seconds)
     trailing_silence = "apad=pad_dur=2"
     
-    filter_chain = f"{strip_silence},{volume_norm},{leading_silence},{trailing_silence}"
+    filter_chain = f"{volume_norm},{strip_silence},{leading_silence},{trailing_silence}"
     
     cmd = [
         "ffmpeg", "-y", "-i", input_path,
@@ -112,19 +112,17 @@ def main():
         if fix_audio_file(in_path, proc_path):
             # Check the fixed file quality
             check_res = check_file(proc_path)
+            if temp_mode:
+                if os.path.exists(in_path):
+                    os.remove(in_path)
+                os.rename(proc_path, out_path)
             if check_res and check_res["status"] == "PASS":
-                if temp_mode:
-                    if os.path.exists(in_path):
-                        os.remove(in_path)
-                    os.rename(proc_path, out_path)
                 print(f"  -> SUCCESS! Passed quality check. (Peak={check_res['peak_db']:.2f}dB, RMS={check_res['rms_db']:.2f}dB)")
                 success_count += 1
             else:
-                print(f"  -> WARNING: Fixed file did not pass verification!")
+                print(f"  -> WARNING: Fixed file output saved (Peak={check_res['peak_db']:.2f}dB, RMS={check_res['rms_db']:.2f}dB).")
                 for err in check_res.get("errors", []):
                     print(f"     - {err}")
-                if temp_mode and os.path.exists(proc_path):
-                    os.remove(proc_path)
                 fail_count += 1
         else:
             print(f"  -> FAILED processing.")
