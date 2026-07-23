@@ -20,10 +20,11 @@ OUTPUT_DIR = os.path.join(SCRIPT_DIR, "final_audio")
 
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
-# Voice Configurations
+# Voice Configurations (Male Voices Only as requested)
 EN_NARRATOR = "en-US-AndrewNeural"
 EN_DIALOGUE = "en-US-BrianNeural"
-KO_VOICE = "ko-KR-HyunsuMultilingualNeural"
+KO_VOICE_NARRATOR = "ko-KR-InJoonNeural"
+KO_VOICE_DIALOGUE = "ko-KR-HyunsuMultilingualNeural"
 
 async def synthesize_text_segment(text, voice, speed="+0%"):
     for attempt in range(5):
@@ -83,19 +84,30 @@ async def generate_ko_audio(ch_num):
         print(f"  [Error] Korean text file not found: {txt_path}")
         return False
 
-    print(f"  Generating Korean audio for Chapter {ch_num} (Book {book_num} Chapter {inner_ch_num})...")
+    print(f"  Generating Korean audio for Chapter {ch_num} (Book {book_num} Chapter {inner_ch_num}) (Male Voices: InJoon/Hyunsu)...")
     with open(txt_path, "r", encoding="utf-8") as f:
         text = f.read().strip()
 
-    # Split text into paragraphs to avoid edge-tts timeout on very large texts, and compile
     paragraphs = [p.strip() for p in text.split("\n") if p.strip()]
     combined_audio = AudioSegment.empty()
 
     for idx, para in enumerate(paragraphs):
-        print(f"    Synthesizing Korean paragraph {idx+1}/{len(paragraphs)}...")
-        segment_audio = await synthesize_text_segment(para, KO_VOICE, speed="+2%")
-        combined_audio += segment_audio
-        combined_audio += AudioSegment.silent(duration=400) # 0.4s pause between paragraphs
+        # Parse dialogue using double quotes or Korean quotes
+        parts = re.split(r'("[^"]*"|“[^”]*”)', para)
+        for part in parts:
+            part = part.strip()
+            if not part:
+                continue
+            if (part.startswith('"') and part.endswith('"')) or (part.startswith('“') and part.endswith('”')):
+                clean_text = part.strip('"“’’”').strip()
+                if clean_text:
+                    seg_audio = await synthesize_text_segment(clean_text, KO_VOICE_DIALOGUE, speed="+2%")
+                    combined_audio += seg_audio
+            else:
+                seg_audio = await synthesize_text_segment(part, KO_VOICE_NARRATOR, speed="+0%")
+                combined_audio += seg_audio
+            combined_audio += AudioSegment.silent(duration=300)
+        combined_audio += AudioSegment.silent(duration=500)
 
     combined_audio = combined_audio.set_frame_rate(44100).set_channels(2)
     combined_audio.export(out_path, format="mp3", bitrate="256k")
