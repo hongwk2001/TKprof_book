@@ -1,7 +1,8 @@
+import sys
 import zipfile
 import xml.etree.ElementTree as ET
 
-epub_path = r'D:\git_repo\TKprof_book\books\The_Muqaddimah\The_Muqaddimah_Retold1.epub'
+epub_path = sys.argv[1] if len(sys.argv) > 1 else r'D:\git_repo\TKprof_book\books\art_of_war\art_of_war_en.epub'
 
 try:
     with zipfile.ZipFile(epub_path, 'r') as z:
