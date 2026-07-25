@@ -1,0 +1,197 @@
+import os
+
+def replace_all(text, replacements):
+    for old, new in replacements:
+        if old not in text:
+            print('NOT FOUND:', old)
+        text = text.replace(old, new)
+    return text
+
+en_replacements = [
+    ('"You never know,"', '<Other>"You never know,"</Other>'),
+    ('"when a rainy day will come. You might be very glad to find you have a nest egg. Indeed, we both might."', '<Other>"when a rainy day will come. You might be very glad to find you have a nest egg. Indeed, we both might."</Other>'),
+    ('"Marvelous,"', '<Lotty>"Marvelous,"</Lotty>'),
+    ('"She,"', '<Other>"She,"</Other>'),
+    ('"should stay at home."', '<Other>"should stay at home."</Other>'),
+    ('"Are you reading about the medieval castle and the wistaria?"', '<Lotty>"Are you reading about the medieval castle and the wistaria?"</Lotty>'),
+    ('"Why do you ask me that?"', '<Rose>"Why do you ask me that?"</Rose>'),
+    ('"Oh, only because I saw it too, and I thought perhaps... I thought somehow..."', '<Lotty>"Oh, only because I saw it too, and I thought perhaps... I thought somehow..."</Lotty>'),
+    ('"And I know you by sight,"', '<Lotty>"And I know you by sight,"</Lotty>'),
+    ('"Every Sunday... I see you every Sunday in church."', '<Lotty>"Every Sunday... I see you every Sunday in church."</Lotty>'),
+    ('"In church?"', '<Rose>"In church?"</Rose>'),
+    ('"And this seems like such a wonderful thing—this advertisement about the wistaria—and..."', '<Lotty>"And this seems like such a wonderful thing—this advertisement about the wistaria—and..."</Lotty>'),
+    ('"It just seems so wonderful,"', '<Lotty>"It just seems so wonderful,"</Lotty>'),
+    ('"and it\'s such a miserable day..."', '<Lotty>"and it\'s such a miserable day..."</Lotty>'),
+    ('"If you see me in church,"', '<Rose>"If you see me in church,"</Rose>'),
+    ('"I assume you live in Hampstead too?"', '<Rose>"I assume you live in Hampstead too?"</Rose>'),
+    ('"Oh yes,"', '<Lotty>"Oh yes,"</Lotty>'),
+    ('"Where?"', '<Rose>"Where?"</Rose>'),
+    ('"Perhaps that\'s why this seems so wonderful,"', '<Lotty>"Perhaps that\'s why this seems so wonderful,"</Lotty>'),
+    ('"No, I think it\'s wonderful regardless,"', '<Rose>"No, I think it\'s wonderful regardless,"</Rose>'),
+    ('"Then you were reading it?"', '<Lotty>"Then you were reading it?"</Lotty>'),
+    ('"Yes,"', '<Rose>"Yes,"</Rose>'),
+    ('"Wouldn\'t it be wonderful?"', '<Lotty>"Wouldn\'t it be wonderful?"</Lotty>'),
+    ('"Wonderful,"', '<Rose>"Wonderful,"</Rose>'),
+    ('"Very wonderful. But it\'s no use wasting time thinking about such things."', '<Rose>"Very wonderful. But it\'s no use wasting time thinking about such things."</Rose>'),
+    ('"Oh, but it is!"', '<Lotty>"Oh, but it is!"</Lotty>'),
+    ('"Just thinking about it is worth it. It\'s such a change from Hampstead. And sometimes I believe... I really believe that if you want something hard enough, you get it."', '<Lotty>"Just thinking about it is worth it. It\'s such a change from Hampstead. And sometimes I believe... I really believe that if you want something hard enough, you get it."</Lotty>'),
+    ('"Perhaps,"', '<Rose>"Perhaps,"</Rose>'),
+    ('"you could tell me your name. If we are to be friends"', '<Rose>"you could tell me your name. If we are to be friends"</Rose>'),
+    ('"as I hope we will, we should start at the beginning."', '<Rose>"as I hope we will, we should start at the beginning."</Rose>'),
+    ('"Oh yes, of course. I\'m Mrs. Wilkins,"', '<Lotty>"Oh yes, of course. I\'m Mrs. Wilkins,"</Lotty>'),
+    ('"I don\'t expect my name means anything to you. Sometimes it doesn\'t mean much to me either. But,"', '<Lotty>"I don\'t expect my name means anything to you. Sometimes it doesn\'t mean much to me either. But,"</Lotty>'),
+    ('"I am Mrs. Wilkins."', '<Lotty>"I am Mrs. Wilkins."</Lotty>'),
+    ('"But I am not a villa."', '<Other>"But I am not a villa."</Other>'),
+    ('"My husband,"', '<Lotty>"My husband,"</Lotty>'),
+    ('"is a lawyer. He..."', '<Lotty>"is a lawyer. He..."</Lotty>'),
+    ('"He is very handsome."', '<Lotty>"He is very handsome."</Lotty>'),
+    ('"Well,"', '<Rose>"Well,"</Rose>'),
+    ('"that must be very nice for you."', '<Rose>"that must be very nice for you."</Rose>'),
+    ('"Why?"', '<Lotty>"Why?"</Lotty>'),
+    ('"Because,"', '<Rose>"Because,"</Rose>'),
+    ('"because beauty and good looks are a gift, and if they are used properly..."', '<Rose>"because beauty and good looks are a gift, and if they are used properly..."</Rose>'),
+    ('"Why don\'t we try to rent it?"', '<Lotty>"Why don\'t we try to rent it?"</Lotty>'),
+    ('"Rent it?"', '<Rose>"Rent it?"</Rose>'),
+    ('"Yes,"', '<Lotty>"Yes,"</Lotty>'),
+    ('"Instead of just sitting here saying \'how wonderful\' and going back to Hampstead without doing anything. Going back to the same dinners and the same fish we\'ve dealt with for years, and will keep dealing with for years to come. In fact,"', '<Lotty>"Instead of just sitting here saying \'how wonderful\' and going back to Hampstead without doing anything. Going back to the same dinners and the same fish we\'ve dealt with for years, and will keep dealing with for years to come. In fact,"</Lotty>'),
+    ('"I see no end to it. There is no end. So there ought to be a break, a little pause—for everyone\'s sake. It would actually be unselfish of us to go away and be happy for a while, because we would come back much nicer people. Everyone needs a holiday after a while."', '<Lotty>"I see no end to it. There is no end. So there ought to be a break, a little pause—for everyone\'s sake. It would actually be unselfish of us to go away and be happy for a while, because we would come back much nicer people. Everyone needs a holiday after a while."</Lotty>'),
+    ('"But how do you mean, get it?"', '<Rose>"But how do you mean, get it?"</Rose>'),
+    ('"Take it,"', '<Lotty>"Take it,"</Lotty>'),
+    ('"Take it?"', '<Rose>"Take it?"</Rose>'),
+    ('"Rent it. Hire it. Go there."', '<Lotty>"Rent it. Hire it. Go there."</Lotty>'),
+    ('"But... do you mean you and me?"', '<Rose>"But... do you mean you and me?"</Rose>'),
+    ('"Yes! Between the two of us. We can share the cost, so it only costs half. And you look... you look exactly like you want it as much as I do. You look like you need a rest, like you need something happy to happen to you."', '<Lotty>"Yes! Between the two of us. We can share the cost, so it only costs half. And you look... you look exactly like you want it as much as I do. You look like you need a rest, like you need something happy to happen to you."</Lotty>'),
+    ('"But we don\'t even know each other."', '<Rose>"But we don\'t even know each other."</Rose>'),
+    ('"Just think how well we would know each other if we went away together for a month! And I\'ve saved money for a rainy day, and I\'m sure you have too. And this is the rainy day—just look at it outside!"', '<Lotty>"Just think how well we would know each other if we went away together for a month! And I\'ve saved money for a rainy day, and I\'m sure you have too. And this is the rainy day—just look at it outside!"</Lotty>'),
+    ('"Think of getting away for a whole month—from everything—to heaven..."', '<Lotty>"Think of getting away for a whole month—from everything—to heaven..."</Lotty>'),
+    ('"But heaven isn\'t somewhere else. It is here and now. We are told so."', '<Rose>"But heaven isn\'t somewhere else. It is here and now. We are told so."</Rose>'),
+    ('"Heaven is within us. We are told that on the highest authority. You know the poem about the kindred points, don\'t you..."', '<Rose>"Heaven is within us. We are told that on the highest authority. You know the poem about the kindred points, don\'t you..."</Rose>'),
+    ('"Oh yes, I know them,"', '<Lotty>"Oh yes, I know them,"</Lotty>'),
+    ('"The kindred points of heaven and home,"', '<Rose>"The kindred points of heaven and home,"</Rose>'),
+    ('"Heaven is in our home."', '<Rose>"Heaven is in our home."</Rose>'),
+    ('"It isn\'t,"', '<Lotty>"It isn\'t,"</Lotty>'),
+    ('"Oh, but it is. It is there if we choose to make it so."', '<Rose>"Oh, but it is. It is there if we choose to make it so."</Rose>'),
+    ('"I do choose, and I do try to make it, and it isn\'t,"', '<Lotty>"I do choose, and I do try to make it, and it isn\'t,"</Lotty>'),
+    ('"I would like to be friends,"', '<Rose>"I would like to be friends,"</Rose>'),
+    ('"Won\'t you come visit me, or let me visit you? Whenever you feel like talking. I\'ll give you my address,"', '<Rose>"Won\'t you come visit me, or let me visit you? Whenever you feel like talking. I\'ll give you my address,"</Rose>'),
+    ('"so you won\'t forget."', '<Rose>"so you won\'t forget."</Rose>'),
+    ('"It\'s so funny,"', '<Lotty>"It\'s so funny,"</Lotty>'),
+    ('"But I see us both—you and me—in that medieval castle this April."', '<Lotty>"But I see us both—you and me—in that medieval castle this April."</Lotty>'),
+    ('"Do you?"', '<Rose>"Do you?"</Rose>'),
+    ('"Don\'t you ever see things in a flash before they happen?"', '<Lotty>"Don\'t you ever see things in a flash before they happen?"</Lotty>'),
+    ('"Never,"', '<Rose>"Never,"</Rose>'),
+    ('"Of course,"', '<Rose>"Of course,"</Rose>'),
+    ('"it would be incredibly beautiful... incredibly beautiful..."', '<Rose>"it would be incredibly beautiful... incredibly beautiful..."</Rose>'),
+    ('"Even if it were wrong,"', '<Lotty>"Even if it were wrong,"</Lotty>'),
+    ('"it\'s only for a month."', '<Lotty>"it\'s only for a month."</Lotty>'),
+    ('"That..."', '<Rose>"That..."</Rose>'),
+    ('"Anyway,"', '<Lotty>"Anyway,"</Lotty>'),
+    ('"I\'m sure it\'s wrong to go on being good for so long that you become miserable. And I can tell you\'ve been good for years, because you look so unhappy."', '<Lotty>"I\'m sure it\'s wrong to go on being good for so long that you become miserable. And I can tell you\'ve been good for years, because you look so unhappy."</Lotty>'),
+    ('"And I... I\'ve done nothing but duties and things for others since I was a girl, and I don\'t think anyone loves me any better for it. And I long... oh, I long for something else... something else..."', '<Lotty>"And I... I\'ve done nothing but duties and things for others since I was a girl, and I don\'t think anyone loves me any better for it. And I long... oh, I long for something else... something else..."</Lotty>'),
+    ('"Would you believe,"', '<Lotty>"Would you believe,"</Lotty>'),
+    ('"that I\'ve never spoken to anyone like this in my life? I don\'t know what has come over me."', '<Lotty>"that I\'ve never spoken to anyone like this in my life? I don\'t know what has come over me."</Lotty>'),
+    ('"It\'s the advertisement,"', '<Rose>"It\'s the advertisement,"</Rose>'),
+    ('"Yes,"', '<Lotty>"Yes,"</Lotty>'),
+    ('"And the fact that we\'re both so... miserable."', '<Lotty>"And the fact that we\'re both so... miserable."</Lotty>')
+]
+
+ko_replacements = [
+    ('"인생은 모르는 법이오. 언제 비가 올지 모르니 비상금을 든든히 챙겨두는 게 좋지. 우리 둘 다 요긴하게 쓸 날이 올 거요."', '<Other>"인생은 모르는 법이오. 언제 비가 올지 모르니 비상금을 든든히 챙겨두는 게 좋지. 우리 둘 다 요긴하게 쓸 날이 올 거요."</Other>'),
+    ('"경이롭네요"', '<Lotty>"경이롭네요"</Lotty>'),
+    ('"그 애는 집에 있어야 해"', '<Other>"그 애는 집에 있어야 해"</Other>'),
+    ('"혹시 등나무꽃이 핀 중세 성에 관한 광고를 읽고 계시나요?"', '<Lotty>"혹시 등나무꽃이 핀 중세 성에 관한 광고를 읽고 계시나요?"</Lotty>'),
+    ('"왜 그런 질문을 하시는 거죠?"', '<Rose>"왜 그런 질문을 하시는 거죠?"</Rose>'),
+    ('"아, 저도 그 광고를 보았거든요. 그래서 혹시나... 제 생각에..."', '<Lotty>"아, 저도 그 광고를 보았거든요. 그래서 혹시나... 제 생각에..."</Lotty>'),
+    ('"그리고 저는 전부터 당신을 알고 있었어요."', '<Lotty>"그리고 저는 전부터 당신을 알고 있었어요."</Lotty>'),
+    ('"매주 일요일마다... 교회에서 뵈었거든요."', '<Lotty>"매주 일요일마다... 교회에서 뵈었거든요."</Lotty>'),
+    ('"교회에서요?"', '<Rose>"교회에서요?"</Rose>'),
+    ('"그리고 이 광고가 참 아름답다고 생각했어요. 등나무꽃에 대한 이야기가요. 그래서..."', '<Lotty>"그리고 이 광고가 참 아름답다고 생각했어요. 등나무꽃에 대한 이야기가요. 그래서..."</Lotty>'),
+    ('"그냥 너무나 멋진 곳이라는 생각이 들어서요. 날씨도 이렇게 찌푸둥한데..."', '<Lotty>"그냥 너무나 멋진 곳이라는 생각이 들어서요. 날씨도 이렇게 찌푸둥한데..."</Lotty>'),
+    ('"교회에서 저를 보셨다면, 햄프스테드에 사시는 모양이군요?"', '<Rose>"교회에서 저를 보셨다면, 햄프스테드에 사시는 모양이군요?"</Rose>'),
+    ('"네, 그래요."', '<Lotty>"네, 그래요."</Lotty>'),
+    ('"네, 맞아요."', '<Lotty>"네, 맞아요."</Lotty>'),
+    ('"구체적으로 어디에 사시나요?"', '<Rose>"구체적으로 어디에 사시나요?"</Rose>'),
+    ('"그래서 이 광고가 더 특별하게 느껴졌나 봐요."', '<Lotty>"그래서 이 광고가 더 특별하게 느껴졌나 봐요."</Lotty>'),
+    ('"아니요, 날씨와 상관없이 참 멋진 곳이긴 해요."', '<Rose>"아니요, 날씨와 상관없이 참 멋진 곳이긴 해요."</Rose>'),
+    ('"그럼 부인도 같은 생각을 하셨던 거네요?"', '<Lotty>"그럼 부인도 같은 생각을 하셨던 거네요?"</Lotty>'),
+    ('"네."', '<Rose>"네."</Rose>'),
+    ('"정말 멋지지 않을까요?"', '<Lotty>"정말 멋지지 않을까요?"</Lotty>'),
+    ('"멋지겠지요."', '<Rose>"멋지겠지요."</Rose>'),
+    ('"정말 멋질 거예요. 하지만 그런 터무니없는 생각을 하느라 시간을 허비하는 건 아무 소용도 없답니다."', '<Rose>"정말 멋질 거예요. 하지만 그런 터무니없는 생각을 하느라 시간을 허비하는 건 아무 소용도 없답니다."</Rose>'),
+    ('"오, 그렇지 않아요!"', '<Lotty>"오, 그렇지 않아요!"</Lotty>'),
+    ('"그저 생각하는 것만으로도 충분히 가치 있는 일이에요. 햄프스테드에서의 삶과는 완전히 다른 세상이잖아요. 그리고 가끔은... 어떤 것을 정말 간절히 원하면 결국 이루어진다고 믿어요."', '<Lotty>"그저 생각하는 것만으로도 충분히 가치 있는 일이에요. 햄프스테드에서의 삶과는 완전히 다른 세상이잖아요. 그리고 가끔은... 어떤 것을 정말 간절히 원하면 결국 이루어진다고 믿어요."</Lotty>'),
+    ('"괜찮으시다면,"', '<Rose>"괜찮으시다면,"</Rose>'),
+    ('"이름을 말씀해 주시겠어요? 우리가 친구가 되려면,"', '<Rose>"이름을 말씀해 주시겠어요? 우리가 친구가 되려면,"</Rose>'),
+    ('"서로 인사부터 나누는 게 순서겠지요."', '<Rose>"서로 인사부터 나누는 게 순서겠지요."</Rose>'),
+    ('"아, 네, 죄송해요. 저는 윌킨스 부인이라고 해요."', '<Lotty>"아, 네, 죄송해요. 저는 윌킨스 부인이라고 해요."</Lotty>'),
+    ('"제 이름이 낯설 텐데 당연해요. 저 역시 가끔 제 이름이 낯설게 느껴지거든요. 하지만,"', '<Lotty>"제 이름이 낯설 텐데 당연해요. 저 역시 가끔 제 이름이 낯설게 느껴지거든요. 하지만,"</Lotty>'),
+    ('"어쨌든 저는 윌킨스 부인이랍니다."', '<Lotty>"어쨌든 저는 윌킨스 부인이랍니다."</Lotty>'),
+    ('"하지만 내가 주택은 아니지 않소."', '<Other>"하지만 내가 주택은 아니지 않소."</Other>'),
+    ('"제 남편은,"', '<Lotty>"제 남편은,"</Lotty>'),
+    ('"변호사예요. 그는..."', '<Lotty>"변호사예요. 그는..."</Lotty>'),
+    ('"아주 잘생겼어요."', '<Lotty>"아주 잘생겼어요."</Lotty>'),
+    ('"참 잘되었네요."', '<Rose>"참 잘되었네요."</Rose>'),
+    ('"왜요?"', '<Lotty>"왜요?"</Lotty>'),
+    ('"수려한 외모는 하늘이 내린 선물인걸요. 그것을 올바르게 사용하기만 한다면..."', '<Rose>"수려한 외모는 하늘이 내린 선물인걸요. 그것을 올바르게 사용하기만 한다면..."</Rose>'),
+    ('"우리 저 성을 같이 빌려보면 어떨까요?"', '<Lotty>"우리 저 성을 같이 빌려보면 어떨까요?"</Lotty>'),
+    ('"빌린다고요?"', '<Rose>"빌린다고요?"</Rose>'),
+    ('"네!"', '<Lotty>"네!"</Lotty>'),
+    ('"여기 앉아서 \'참 좋겠다\'라고 말만 하다가 다시 햄프스테드로 돌아가는 대신 말이에요. 매일 똑같은 저녁 식사를 준비하고, 몇 년 동안 질리도록 다루어 온 생선을 또 다루기 위해 돌아가는 것보다 낫잖아요. 앞으로도 평생 그럴 텐데 말이에요. 실은,"', '<Lotty>"여기 앉아서 \'참 좋겠다\'라고 말만 하다가 다시 햄프스테드로 돌아가는 대신 말이에요. 매일 똑같은 저녁 식사를 준비하고, 몇 년 동안 질리도록 다루어 온 생선을 또 다루기 위해 돌아가는 것보다 낫잖아요. 앞으로도 평생 그럴 텐데 말이에요. 실은,"</Lotty>'),
+    ('"이 지루한 일상에는 끝이 없어요. 정말 끝이 없다고요. 그러니까 우리 모두를 위해서라도 잠깐 멈춤의 시간이 필요해요. 잠시 이곳을 떠나 행복한 시간을 보내는 건 결코 이기적인 행동이 아니에요. 오히려 돌아왔을 때 훨씬 더 너그럽고 좋은 사람이 되어 있을 테니까요. 누구에게나 휴식은 필요한 법이잖아요."', '<Lotty>"이 지루한 일상에는 끝이 없어요. 정말 끝이 없다고요. 그러니까 우리 모두를 위해서라도 잠깐 멈춤의 시간이 필요해요. 잠시 이곳을 떠나 행복한 시간을 보내는 건 결코 이기적인 행동이 아니에요. 오히려 돌아왔을 때 훨씬 더 너그럽고 좋은 사람이 되어 있을 테니까요. 누구에게나 휴식은 필요한 법이잖아요."</Lotty>'),
+    ('"하지만 빌린다는 게 무슨 뜻이죠?"', '<Rose>"하지만 빌린다는 게 무슨 뜻이죠?"</Rose>'),
+    ('"그곳으로 떠나는 거죠."', '<Lotty>"그곳으로 떠나는 거죠."</Lotty>'),
+    ('"떠난다고요?"', '<Rose>"떠난다고요?"</Rose>'),
+    ('"임대해서 계약하는 거예요. 우리 둘이서요."', '<Lotty>"임대해서 계약하는 거예요. 우리 둘이서요."</Lotty>'),
+    ('"하지만... 부인과 제가요?"', '<Rose>"하지만... 부인과 제가요?"</Rose>'),
+    ('"네! 우리 둘이 함께요. 비용을 나누면 절반밖에 안 들잖아요. 그리고 부인도... 저만큼이나 이 휴가를 간절히 원하시는 것처럼 보여요. 휴식이 필요하고, 삶에 뭔가 행복한 일이 일어나기를 바라시는 것 같다고요."', '<Lotty>"네! 우리 둘이 함께요. 비용을 나누면 절반밖에 안 들잖아요. 그리고 부인도... 저만큼이나 이 휴가를 간절히 원하시는 것처럼 보여요. 휴식이 필요하고, 삶에 뭔가 행복한 일이 일어나기를 바라시는 것 같다고요."</Lotty>'),
+    ('"하지만 우린 서로 알지도 못하잖아요."', '<Rose>"하지만 우린 서로 알지도 못하잖아요."</Rose>'),
+    ('"한 달 동안 함께 지내다 보면 아주 잘 알게 될 거예요! 저는 만일의 사태에 대비해 모아둔 비상금이 있고, 부인께도 그런 돈이 있을 거라고 믿어요. 그리고 바로 오늘이야말로 그 비상금을 써야 할 만일의 사태잖아요. 바깥 날씨 좀 보세요!"', '<Lotty>"한 달 동안 함께 지내다 보면 아주 잘 알게 될 거예요! 저는 만일의 사태에 대비해 모아둔 비상금이 있고, 부인께도 그런 돈이 있을 거라고 믿어요. 그리고 바로 오늘이야말로 그 비상금을 써야 할 만일의 사태잖아요. 바깥 날씨 좀 보세요!"</Lotty>'),
+    ('"모든 것에서 벗어나 한 달 동안 천국 같은 곳으로 떠난다고 생각해 보세요..."', '<Lotty>"모든 것에서 벗어나 한 달 동안 천국 같은 곳으로 떠난다고 생각해 보세요..."</Lotty>'),
+    ('"하지만 천국은 먼 곳에 있는 것이 아니랍니다. 바로 지금, 이곳에 존재하지요. 성경에서도 그렇게 가르쳐 주지 않나요."', '<Rose>"하지만 천국은 먼 곳에 있는 것이 아니랍니다. 바로 지금, 이곳에 존재하지요. 성경에서도 그렇게 가르쳐 주지 않나요."</Rose>'),
+    ('"천국은 우리 마음속에 있습니다. 지극히 높으신 분의 말씀이지요. 집과 천국은 본질적으로 통한다는 시 구절도 아실 텐데요..."', '<Rose>"천국은 우리 마음속에 있습니다. 지극히 높으신 분의 말씀이지요. 집과 천국은 본질적으로 통한다는 시 구절도 아실 텐데요..."</Rose>'),
+    ('"네, 잘 알아요."', '<Lotty>"네, 잘 알아요."</Lotty>'),
+    ('"가장 가까운 곳인 가정에 천국이 있다는 말입니다."', '<Rose>"가장 가까운 곳인 가정에 천국이 있다는 말입니다."</Rose>'),
+    ('"그렇지 않아요."', '<Lotty>"그렇지 않아요."</Lotty>'),
+    ('"오, 그렇지 않아요. 우리가 그렇게 만들고자 노력한다면 가정은 천국이 될 수 있어요."', '<Rose>"오, 그렇지 않아요. 우리가 그렇게 만들고자 노력한다면 가정은 천국이 될 수 있어요."</Rose>'),
+    ('"저는 온 마음으로 그렇게 되기를 바랐고 노력도 했지만, 천국이 되지 않았는걸요."', '<Lotty>"저는 온 마음으로 그렇게 되기를 바랐고 노력도 했지만, 천국이 되지 않았는걸요."</Lotty>'),
+    ('"우리가 좋은 친구가 되었으면 좋겠어요."', '<Rose>"우리가 좋은 친구가 되었으면 좋겠어요."</Rose>'),
+    ('"저희 집에 놀러 오시거나, 제가 댁으로 찾아뵐게요. 언제든 이야기하고 싶을 때 연락해 주세요. 제 주소를 적어 드릴게요."', '<Rose>"저희 집에 놀러 오시거나, 제가 댁으로 찾아뵐게요. 언제든 이야기하고 싶을 때 연락해 주세요. 제 주소를 적어 드릴게요."</Rose>'),
+    ('"참 신기하죠."', '<Lotty>"참 신기하죠."</Lotty>'),
+    ('"이번 4월에 우리 두 사람이 그 중세 성에 함께 있는 모습이 눈앞에 선연히 그려지다니요."', '<Lotty>"이번 4월에 우리 두 사람이 그 중세 성에 함께 있는 모습이 눈앞에 선연히 그려지다니요."</Lotty>'),
+    ('"정말 그런가요?"', '<Rose>"정말 그런가요?"</Rose>'),
+    ('"가끔 어떤 일이 일어나기 전에 번뜩이며 깨달아지는 순간이 있지 않나요?"', '<Lotty>"가끔 어떤 일이 일어나기 전에 번뜩이며 깨달아지는 순간이 있지 않나요?"</Lotty>'),
+    ('"전혀 없어요."', '<Rose>"전혀 없어요."</Rose>'),
+    ('"물론,"', '<Rose>"물론,"</Rose>'),
+    ('"믿을 수 없을 만큼 아름답겠지요... 정말 꿈만 같을 거예요..."', '<Rose>"믿을 수 없을 만큼 아름답겠지요... 정말 꿈만 같을 거예요..."</Rose>'),
+    ('"그것이 도덕적으로 잘못된 일이라 해도, 딱 한 달뿐이잖아요."', '<Lotty>"그것이 도덕적으로 잘못된 일이라 해도, 딱 한 달뿐이잖아요."</Lotty>'),
+    ('"그건..."', '<Rose>"그건..."</Rose>'),
+    ('"그리고 평생 착하게 살다가 결국 우울해지고 불행해지는 것이야말로 진짜 잘못된 행동 아닌가요? 부인이 수년 동안 착하게만 살아오셨다는 걸 알 수 있어요. 표정이 너무 불행해 보이거든요."', '<Lotty>"그리고 평생 착하게 살다가 결국 우울해지고 불행해지는 것이야말로 진짜 잘못된 행동 아닌가요? 부인이 수년 동안 착하게만 살아오셨다는 걸 알 수 있어요. 표정이 너무 불행해 보이거든요."</Lotty>'),
+    ('"저 역시 어릴 때부터 오직 남들을 돕고 아내로서 의무를 다하는 삶만 살아왔어요. 그렇다고 해서 사람들이 절 더 사랑해 주는 것도 아니더라고요. 저는 갈망해요... 오, 정말 다른 삶을 간절히 원해요..."', '<Lotty>"저 역시 어릴 때부터 오직 남들을 돕고 아내로서 의무를 다하는 삶만 살아왔어요. 그렇다고 해서 사람들이 절 더 사랑해 주는 것도 아니더라고요. 저는 갈망해요... 오, 정말 다른 삶을 간절히 원해요..."</Lotty>'),
+    ('"믿기 힘드시겠지만,"', '<Lotty>"믿기 힘드시겠지만,"</Lotty>'),
+    ('"제 평생 다른 사람에게 이렇게 속마음을 털어놓은 건 처음이에요. 제가 왜 이러는지 모르겠어요."', '<Lotty>"제 평생 다른 사람에게 이렇게 속마음을 털어놓은 건 처음이에요. 제가 왜 이러는지 모르겠어요."</Lotty>'),
+    ('"다 저 광고 때문이겠지요."', '<Rose>"다 저 광고 때문이겠지요."</Rose>'),
+    ('"맞아요."', '<Lotty>"맞아요."</Lotty>'),
+    ('"그리고 우리 두 사람이 너무나... 불행하기 때문이기도 하고요."', '<Lotty>"그리고 우리 두 사람이 너무나... 불행하기 때문이기도 하고요."</Lotty>')
+]
+
+in_dir = r'd:\git_repo\TKprof_book\books\the_enchanted_april\chapters'
+out_dir = os.path.join(in_dir, 'tagged')
+os.makedirs(out_dir, exist_ok=True)
+
+with open(os.path.join(in_dir, 'ch_01_en.txt'), 'r', encoding='utf-8') as f:
+    en_text = f.read()
+
+en_text = replace_all(en_text, en_replacements)
+
+with open(os.path.join(out_dir, 'ch_01_en.txt'), 'w', encoding='utf-8') as f:
+    f.write(en_text)
+
+with open(os.path.join(in_dir, 'ch_01_ko.txt'), 'r', encoding='utf-8') as f:
+    ko_text = f.read()
+
+ko_text = replace_all(ko_text, ko_replacements)
+
+with open(os.path.join(out_dir, 'ch_01_ko.txt'), 'w', encoding='utf-8') as f:
+    f.write(ko_text)
+
+print('Done processing files.')

@@ -4,7 +4,7 @@ import re
 import time
 import difflib
 from dotenv import load_dotenv
-import google.generativeai as genai
+import google.genai as genai
 
 def load_api_key():
     base_dir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))

@@ -85,14 +85,18 @@ def main():
         mix_audio(BUMPER_FILE, overview_raw, overview_final, bumper_duration=2.0, add_full_outro=False)
         print(f"Finished {overview_final}")
 
-    # 2. Generate Chapters 1 to 26
-    for i in range(1, 27):
+    # 2. Generate Chapters 1 to 27
+    for i in range(1, 28):
         ch_txt = os.path.join(CHAPTERS_DIR, f"ch_{i:02d}_en.txt")
         ch_raw = os.path.join(TEMP_DIR, f"raw_ch_{i:02d}.mp3")
-        # Shift chapters down by 1 (e.g. ch 1 -> track 02)
+        # Shift chapters down by 1 (e.g. ch 1 -> track 02, ch 27 -> track 28)
         ch_final = os.path.join(FINAL_DIR, f"final_track_{i+1:02d}.mp3")
         
-        print(f"Generating Chapter {i} (saved as track {i+1})...")
+        if i == 27:
+            print(f"Generating Copyright & Modernization Notes (saved as track {i+1})...")
+        else:
+            print(f"Generating Chapter {i} (saved as track {i+1})...")
+            
         if generate_tts(ch_txt, ch_raw):
             mix_audio(BUMPER_FILE, ch_raw, ch_final, bumper_duration=2.0, add_full_outro=False)
             print(f"Finished {ch_final}")
@@ -100,7 +104,7 @@ def main():
     # 3. Generate Closing Track
     closing_txt = os.path.join(BASE_DIR, "closing_en.txt")
     closing_raw = os.path.join(TEMP_DIR, "raw_closing.mp3")
-    closing_final = os.path.join(FINAL_DIR, "closing.mp3")
+    closing_final = os.path.join(FINAL_DIR, "final_track_29_closing.mp3")
     
     print("Generating Closing Track...")
     if generate_tts(closing_txt, closing_raw):

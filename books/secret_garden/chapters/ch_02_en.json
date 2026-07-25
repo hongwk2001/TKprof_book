@@ -1,0 +1,380 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Chapter 2: Mistress Mary Quite Contrary",
+    "is_header": false
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "Mary liked looking at her mother from afar, thinking she was very pretty. But Mary barely knew her, so it was hard to expect her to love her or miss her much after she died. In fact, she didn't miss her at all. Mary was a self-centered child, so she only ever thought about herself. An older child would have been worried about being left alone in the world. But Mary was very young. She'd always been looked after, so she just assumed she always would be. What she really wanted to know was if she was going to nice people. Would they be polite to her and let her have her own way, just like her Ayah and the other local servants used to?",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Narrator",
+    "text": "Mary knew she wouldn't be staying long at the English clergyman's house where she was first taken. She didn't want to stay there anyway. The clergyman was poor. He had five children, all close in age, who wore worn-out clothes. They were always fighting and grabbing toys from each other. Mary hated their messy bungalow. She was so unpleasant to the children that after a day or two, no one would play with her. By the second day, they'd given her a nickname that made her absolutely furious.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Narrator",
+    "text": "Basil was the one who thought of it first. He was a little boy with cheeky blue eyes and a turned-up nose, and Mary hated him. She was playing alone under a tree, just like she had been the day the cholera epidemic started. She was making little mounds of earth and paths for a garden. Basil came and stood nearby to watch her. Soon, he got quite interested and suddenly made a suggestion.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Female",
+    "text": "Why don't you put a pile of stones there and pretend it's a rock garden?",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Narrator",
+    "text": "he asked.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Female",
+    "text": "Right there in the middle.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "Narrator",
+    "text": "He leaned over her to point.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Male",
+    "text": "Go away!",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Narrator",
+    "text": "Mary yelled.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Male",
+    "text": "I don't want boys around. Go away!",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Narrator",
+    "text": "For a moment, Basil looked angry. Then he started to tease her. He was always teasing his sisters. He danced around her, made faces, sang, and laughed.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Male",
+    "text": "Mistress Mary, quite contrary,\nHow does your garden grow?\nWith silver bells, and cockle shells,\nAnd marigolds all in a row.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "role": "Narrator",
+    "text": "He sang it until the other children heard and started laughing too. The angrier Mary got, the more they sang",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "role": "Female",
+    "text": "Mistress Mary, quite contrary.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "role": "Narrator",
+    "text": "After that, for as long as she stayed with them, they called her",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "role": "Female",
+    "text": "Mistress Mary Quite Contrary.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "role": "Narrator",
+    "text": "They used it when they talked about her, and often when they spoke directly to her.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "role": "Female",
+    "text": "You're going to be sent home,",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "role": "Narrator",
+    "text": "Basil told her,",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "role": "Female",
+    "text": "at the end of the week. And we're glad about it.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "role": "Male",
+    "text": "I'm glad about it too,",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "role": "Narrator",
+    "text": "Mary replied.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "role": "Male",
+    "text": "Where is home?",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "role": "Female",
+    "text": "She doesn't even know where home is!",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "role": "Narrator",
+    "text": "Basil said with the scorn only a seven-year-old can manage.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "role": "Female",
+    "text": "It's England, of course. Our grandma lives there, and our sister Mabel was sent to her last year. You're not going to your grandma. You don't have one. You're going to your uncle. His name is Mister Archibald Craven.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "role": "Male",
+    "text": "I don't know anything about him,",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "role": "Narrator",
+    "text": "Mary snapped.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "role": "Male",
+    "text": "I know you don't,",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "role": "Narrator",
+    "text": "Basil replied.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "role": "Male",
+    "text": "You don't know anything. Girls never do. I heard Mom and Dad talking about him. He lives in a huge, lonely old house in the countryside. No one goes near him. He's so grumpy he won't let anyone, and they wouldn't come even if he did. He's a hunchback, and he's awful.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "role": "Female",
+    "text": "I don't believe you,",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "role": "Narrator",
+    "text": "Mary said. She turned her back and stuck her fingers in her ears, refusing to listen anymore.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "role": "Narrator",
+    "text": "But she thought about it a lot afterward. That night, when Missus Crawford told her she would sail to England in a few days to live with her uncle, Mister Archibald Craven, at Misselthwaite Manor, Mary looked so cold and stubbornly uninterested that they didn't know what to make of her. They tried to be kind. But Mary just turned her face away when Missus Crawford tried to kiss her. She held herself stiffly when Mister Crawford patted her shoulder.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "role": "Child",
+    "text": "She's such a plain child,",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "role": "Narrator",
+    "text": "Missus Crawford said with pity afterward.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "role": "Child",
+    "text": "And her mother was such a beautiful woman. She had such charming manners, too. Mary, though, has the most unappealing ways I've ever seen in a child. The children call her 'Mistress Mary Quite Contrary.' And even though it's naughty of them, you can't help but understand why.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "role": "Child",
+    "text": "Perhaps if her mother had brought her pretty face and charming manners into the nursery more often, Mary might have learned some nice ways too. It's very sad, now that the poor beautiful woman is gone, to think that many people never even knew she had a child.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "role": "Child",
+    "text": "I believe she hardly ever looked at her,",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "role": "Narrator",
+    "text": "Missus Crawford sighed.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "role": "Child",
+    "text": "When her Ayah died, there was no one to even think about the poor little thing. Imagine the servants running away and leaving her all alone in that empty bungalow! Colonel McGrew said he nearly jumped out of his skin when he opened the door and found her standing by herself in the middle of the room.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "role": "Narrator",
+    "text": "Mary made the long journey to England under the care of an officer's wife. The wife was taking her own children to a boarding school. The officer's wife was completely focused on her own son and daughter. She was quite happy to hand Mary over to the woman Mister Archibald Craven sent to meet her in London. This woman was Missus Medlock, the housekeeper at Misselthwaite Manor. She was a plump woman with very red cheeks and sharp black eyes. She wore a very purple dress, a black silk cape with jet fringe, and a black bonnet with purple velvet flowers that stood up and trembled when she moved her head. Mary didn't like her at all. But since Mary rarely liked anyone, that wasn't surprising. Plus, it was clear Missus Medlock didn't think much of Mary either.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "role": "Child",
+    "text": "My goodness! She's a plain little thing!",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "role": "Narrator",
+    "text": "she said.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "role": "Child",
+    "text": "And we'd heard her mother was a beauty. She hasn't passed much of that on, has she, ma'am?",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "role": "Female",
+    "text": "Perhaps she'll improve as she gets older,",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "role": "Narrator",
+    "text": "the officer's wife said kindly.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "role": "Female",
+    "text": "If she weren't so pale and had a nicer expression, her features are actually quite good. Children change so much.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "role": "Female",
+    "text": "She'll have to change a lot,",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "role": "Narrator",
+    "text": "Missus Medlock replied.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "role": "Female",
+    "text": "And, if you ask me, there's nothing at Misselthwaite that's likely to improve children!",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "role": "Narrator",
+    "text": "They thought Mary wasn't listening. She was standing a little apart from them, by the window of the private hotel they were staying at. She was watching the buses, cabs, and people passing by. But she heard everything clearly. She became very curious about her uncle and the place he lived. What kind of place was it? What would he be like? What was a hunchback? She'd never seen one. Maybe there weren't any in India.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "role": "Narrator",
+    "text": "Since she'd been living in other people's houses and no longer had an Ayah, she started to feel lonely. She also began to have strange new thoughts. She started to wonder why she never seemed to belong to anyone, even when her parents were alive. Other children seemed to belong to their parents, but she never felt like she was truly anyone's little girl. She had servants, food, and clothes, but no one ever paid her any real attention. She didn't know this was because she was an unpleasant child. But then, of course, she didn't know she was unpleasant. She often thought other people were disagreeable, but she didn't realize she was herself.",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "role": "Narrator",
+    "text": "Mary thought Missus Medlock was the most unpleasant person she'd ever seen. Her face was ordinary and ruddy, and her fancy bonnet was just as common. The next day, when they set out for Yorkshire, Mary walked through the station to the train carriage with her head held high. She tried to keep as far away from Missus Medlock as possible. She didn't want to seem like she belonged to her. It would have made her furious if people thought she was Missus Medlock's little girl.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "role": "Narrator",
+    "text": "But Missus Medlock wasn't bothered by Mary or her thoughts at all. She was the kind of woman who",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "role": "Child",
+    "text": "wouldn't stand for any nonsense from young ones.",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "role": "Narrator",
+    "text": "At least, that's what she would have said if anyone had asked her. She hadn't wanted to go to London, especially since her sister Maria's daughter was getting married. But she had a comfortable, well-paid job as housekeeper at Misselthwaite Manor. The only way to keep it was to immediately do whatever Mister Archibald Craven told her. She never even dared to ask a question.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "role": "Child",
+    "text": "Captain Lennox and his wife died of cholera,",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "role": "Narrator",
+    "text": "Mister Craven had said in his short, cold way.",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "role": "Child",
+    "text": "Captain Lennox was my wife's brother, and I am their daughter's guardian. The child needs to be brought here. You must go to London and bring her yourself.",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "role": "Narrator",
+    "text": "So, she packed her small trunk and made the trip.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "role": "Narrator",
+    "text": "Mary sat in her corner of the train carriage, looking plain and grumpy. She had nothing to read or look at. Her thin, black-gloved hands were folded in her lap. Her black dress made her look even paler than usual. Her limp, light hair straggled out from under her black crepe hat.",
+    "is_header": false
+  }
+]

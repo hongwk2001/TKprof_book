@@ -66,9 +66,8 @@ class TranslationValidator:
             if non_std_chars:
                 # Filter out standard English words if they were already flagged
                 unique_chars = list(set(non_std_chars))
-                # Let's filter out standard alphabetic characters if they belong to a flagged English word
-                # to avoid duplicate logging, but keep Hanja, Thai, etc.
-                foreign_chars = [c for c in unique_chars if not c.isalpha()]
+                # Filter out English letters, but keep Hanja, non-ASCII alphabets, etc.
+                foreign_chars = [c for c in unique_chars if not (('a' <= c <= 'z') or ('A' <= c <= 'Z'))]
                 if foreign_chars:
                     print(f"  [FOREIGN CHAR WARNING] Line {idx}: Found unexpected non-Korean characters: {foreign_chars}")
                     print(f"    Content: {cleaned_line}")

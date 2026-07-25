@@ -1,0 +1,752 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Chapter 7",
+    "is_header": false
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "Their eyes followed her admiringly. They had no idea they had just been snubbed. Of course, it was a disappointment to find she had beaten them to it, depriving them of the joy of preparing her room and seeing her reaction when she first arrived. But at least they still had Missus Fisher. They would focus on Missus Fisher and watch her face instead—though, like everyone else, they would have preferred to watch Lady Caroline's.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Narrator",
+    "text": "Since Lady Caroline had mentioned breakfast, they figured they should go eat too. There was far too much to do that day to spend any more time looking at the views—they had to meet the servants, inspect the house, and finally get Missus Fisher's room ready and decorated.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Narrator",
+    "text": "They waved cheerfully at Lady Caroline, who seemed too absorbed in the view to notice. Turning away, they saw that the maid from the night before had walked up silently behind them in cloth slippers with rope soles.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Narrator",
+    "text": "She was Francesca, the elderly maid who had worked for the owner for years, making a property inventory unnecessary. After wishing them good morning and hoping they had slept well, she told them that breakfast was ready in the dining room downstairs and asked them to follow her.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Narrator",
+    "text": "They didn't understand a single word of Francesca's lengthy Italian explanation, but they followed her anyway because it was obvious they were supposed to. Walking downstairs and through a wide hallway—which looked just like the one upstairs, except it had glass doors opening to the garden instead of a window—they were shown into the dining room. There, sitting at the head of the table and eating breakfast, was Missus Fisher.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Narrator",
+    "text": "This time, they both gasped. Even Missus Arbuthnot let out an surprised",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "Male",
+    "text": "Oh.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Narrator",
+    "text": "Missus Wilkins had more to say.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Female",
+    "text": "Why, it's like having the bread snatched right out of our mouths!",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Narrator",
+    "text": "she exclaimed.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Female",
+    "text": "How do you do,",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Narrator",
+    "text": "Missus Fisher said.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "role": "Female",
+    "text": "I can't get up because of my walking stick.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "role": "Narrator",
+    "text": "She reached out her hand across the table.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "role": "Narrator",
+    "text": "They walked over and shook her hand.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "role": "Female",
+    "text": "We had no idea you were already here,",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "role": "Narrator",
+    "text": "Missus Arbuthnot said.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "role": "Female",
+    "text": "Yes,",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "role": "Narrator",
+    "text": "Missus Fisher replied, returning to her breakfast.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "role": "Female",
+    "text": "Yes, I am here.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "role": "Narrator",
+    "text": "She calmly cracked the top off her soft-boiled egg.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "role": "Male",
+    "text": "It's a big disappointment,",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "role": "Narrator",
+    "text": "Missus Wilkins said.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "role": "Male",
+    "text": "We were planning to give you such a warm welcome.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "role": "Narrator",
+    "text": "Missus Fisher glanced at her and remembered that this was the woman who claimed to have seen Keats during their meeting in London. She decided she had to be careful with her and set boundaries right from the start.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "role": "Narrator",
+    "text": "Ignoring Missus Wilkins, she looked down calmly at her egg and said seriously,",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "role": "Female",
+    "text": "Yes. I arrived yesterday with Lady Caroline.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "role": "Male",
+    "text": "It's really too bad,",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "role": "Narrator",
+    "text": "Missus Wilkins said, completely ignoring the snub.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "role": "Male",
+    "text": "Now there's no one left for us to prepare for. I feel disappointed, like someone took away my food just as I was about to enjoy eating it.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "role": "Female",
+    "text": "Where would you like to sit?",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "role": "Narrator",
+    "text": "Missus Fisher asked Missus Arbuthnot, pointedly ignoring Missus Wilkins. The comparison to food and mouths seemed very vulgar to her.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "role": "Female",
+    "text": "Oh, thank you—",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "role": "Narrator",
+    "text": "Missus Arbuthnot said, sitting down quickly next to her. There were only two empty seats, one on either side of Missus Fisher. She took one, and Missus Wilkins sat down opposite her in the other.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "role": "Narrator",
+    "text": "Missus Fisher sat at the head of the table, surrounded by the coffee and tea pots. Even though they were all sharing the expenses of San Salvatore equally, Missus Arbuthnot couldn't help reflecting that she and Lotty were the ones who had found the place, done the work of renting it, and agreed to let Missus Fisher join them. Without them, Missus Fisher wouldn't even be here. In a way, Missus Fisher was their guest. There was no official host, but if there were, it should have been either herself or Lotty, not Missus Fisher or Lady Caroline. Missus Arbuthnot felt this quite clearly as she sat down. Missus Fisher hovered her hand over the pots—the same hand that the famous writer Ruskin had once shaken—and asked,",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "role": "Female",
+    "text": "Tea or coffee?",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "role": "Narrator",
+    "text": "The feeling grew stronger when Missus Fisher rang a small gong on the table as if she owned the place, and when Francesca appeared, ordered her in formal Italian to bring more milk. Missus Fisher had a strange way of acting like she was in charge, and if Missus Arbuthnot hadn't been so happy, she might have been annoyed by it.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "role": "Narrator",
+    "text": "Missus Wilkins noticed it too, but it only made her random thoughts turn to cuckoos—birds that take over other birds' nests. If she had been as nervous and shy as during their first meeting, she probably would have blurted out something incoherent and embarrassing about cuckoos. But her happiness had cured her shyness. She felt very calm and in control of what she said, without the fear of saying something foolish. She was completely at ease and natural. Her disappointment about not welcoming Missus Fisher vanished immediately, since it was impossible to feel down in such a paradise. She didn't even mind Missus Fisher playing the host. What did it matter? You didn't care about things like that here. So she and Missus Arbuthnot sat down happily on either side of Missus Fisher. The sun flooded the room through two east-facing windows, and an open door led to a garden filled with beautiful flowers, especially freesias.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "role": "Narrator",
+    "text": "The sweet, delicate scent of the freesias drifted through the door. Back in London, freesias were far too expensive for her. Sometimes she would go into a flower shop just to ask the price so she could smell them, knowing they cost a ridiculous amount for just a few stems. Here, they grew everywhere—sprouting from every corner and covering the rose beds. Imagine being able to pick armfuls of freesias whenever you wanted, in the warm sunshine, wearing a summer dress, and all on the first of April!",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "role": "Female",
+    "text": "I suppose you realize that we've arrived in heaven, don't you?",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "role": "Narrator",
+    "text": "she said, smiling at Missus Fisher like a fellow angel.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "role": "Female",
+    "text": "They are much younger than I expected,",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "role": "Narrator",
+    "text": "Missus Fisher thought,",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "role": "Female",
+    "text": "and not nearly as plain.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "role": "Narrator",
+    "text": "She ignored Missus Wilkins's excitement and thought back to how quickly and nervously they had refused to exchange references when they met at her house in London.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "role": "Narrator",
+    "text": "Of course, nothing anyone did could affect Missus Fisher's solid respectability. She had the backing of the three famous names she had offered as references, and many others she could call on. Even if these young women turned out to be unreliable eccentrics (and she had no proof that the girl in the garden was actually Lady Caroline Dester; she had only been told she was), why should she care? Let them do what they wanted. Being sixty-five had its advantages. Besides, it was only for four weeks, after which she would never see them again. In the meantime, there were plenty of quiet places where she could sit away from them and reminisce. She also had her own private sitting room, a charming space with honey-colored furniture, paintings, windows looking toward Genoa, and a door leading to the castle walls. The house had two sitting rooms, and she had explained to Lady Caroline (who was indeed very pretty, and whom the poet Tennyson would have loved to take for walks on the hills) that she needed the honey-colored room all to herself because of her walking stick.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "role": "Female",
+    "text": "No one wants to see an old woman hobbling around everywhere,",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "role": "Narrator",
+    "text": "she had said.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "role": "Female",
+    "text": "I'll be perfectly happy spending most of my time alone in here or sitting out on the terrace.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "role": "Narrator",
+    "text": "She had a very nice bedroom too. It had windows facing both the morning sun over the bay and the garden. She and Lady Caroline had discovered that these were the only two bedrooms with double views, and they were by far the most spacious. Each had two beds, so they immediately had the extra beds moved into the other rooms to make more space. Lady Caroline had turned her room into a bed-sitting room by moving in a sofa, a desk, and a comfortable chair. Missus Fisher didn't need to do that since she had her own sitting room. Lady Caroline had initially thought of taking the main living room for herself, suggesting that the other two women could use the dining room between meals since it was very pleasant. But she hadn't liked the shape of the main living room—it was a dark, round room in the tower with narrow windows in the thick walls and a ceiling shaped like an open umbrella. Lady Caroline had clearly wanted the honey-colored sitting room instead, and would have taken it if Missus Fisher hadn't stood her ground. That would have been ridiculous.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "role": "Female",
+    "text": "I hope your room is comfortable,",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "role": "Narrator",
+    "text": "Missus Arbuthnot said, trying to politely remind Missus Fisher that she wasn't the hostess.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "role": "Male",
+    "text": "It is,",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "role": "Narrator",
+    "text": "Missus Fisher said.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "role": "Male",
+    "text": "Would you like more coffee?",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "role": "Male",
+    "text": "No, thank you. Would you?",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "role": "Male",
+    "text": "No, thank you. There were two beds in my room, which crowded it, so I had one removed. It's much more convenient now.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "role": "Female",
+    "text": "Oh, that's why there are two beds in my room!",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "role": "Narrator",
+    "text": "Missus Wilkins exclaimed, suddenly understanding. The second bed in her tiny room had seemed out of place from the start.",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "role": "Male",
+    "text": "I didn't care where it went,",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "role": "Narrator",
+    "text": "Missus Fisher said to Missus Arbuthnot.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "role": "Male",
+    "text": "I just asked Francesca to take it out.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "role": "Male",
+    "text": "I have two in my room as well,",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "role": "Narrator",
+    "text": "Missus Arbuthnot said.",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "role": "Female",
+    "text": "Your second one must be Lady Caroline's. She had hers removed too,",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "role": "Narrator",
+    "text": "Missus Fisher said.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "role": "Female",
+    "text": "It seems silly to have extra beds in a room when only one person is sleeping there.",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "role": "Male",
+    "text": "But we don't have husbands here either,",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "role": "Narrator",
+    "text": "Missus Wilkins said,",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "role": "Male",
+    "text": "and I don't see the point of extra beds if there are no husbands to put in them. Can't we have ours taken away too?",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "role": "Male",
+    "text": "Beds,",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "role": "Narrator",
+    "text": "Missus Fisher said coldly,",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "role": "Male",
+    "text": "cannot just be moved from room to room. They have to stay somewhere.",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "role": "Narrator",
+    "text": "Missus Fisher found Missus Wilkins's remarks highly inappropriate. Every time she spoke, she said something that was better left unsaid. In Missus Fisher's social circle, people did not talk about husbands so casually. Back in the 1880s, when Missus Fisher was young, husbands were taken seriously as a stabilizing moral force. Beds, too, were discussed with caution, and proper manners prevented anyone from speaking of husbands and beds in the same sentence.",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "role": "Narrator",
+    "text": "She turned even more pointedly toward Missus Arbuthnot.",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "role": "Child",
+    "text": "Let me give you a little more coffee,",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "role": "Narrator",
+    "text": "she said.",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "role": "Male",
+    "text": "No, thank you. But won't you have some?",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "role": "Male",
+    "text": "No, thank you. I never drink more than two cups. Would you like an orange?",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "role": "Male",
+    "text": "No, thank you. Would you?",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "role": "Male",
+    "text": "No, I don't eat fruit at breakfast. It is an American trend that I am too old to start now. Have you had enough?",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "role": "Male",
+    "text": "Yes, thank you. Have you?",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "role": "Narrator",
+    "text": "Missus Fisher paused before replying. Was this a habit—this annoying trick of repeating a question back? If so, she would have to stop it, because no one could live comfortably for a month with someone who had such an irritating habit.",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "role": "Narrator",
+    "text": "She looked at Missus Arbuthnot's gentle face and felt reassured. No, it was probably just an accident, not a habit. She couldn't imagine Missus Arbuthnot having annoying habits any more than a gentle dove. Looking at her, she thought she would make a wonderful wife for the writer Thomas Carlyle, much better than his actual, sharp-tongued wife Jane. She would have calmed him down.",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "role": "Female",
+    "text": "Shall we go then?",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "role": "Narrator",
+    "text": "she suggested.",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "role": "Male",
+    "text": "Let me help you up,",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "role": "Narrator",
+    "text": "Missus Arbuthnot offered helpfully.",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "role": "Male",
+    "text": "Oh, thank you, but I can manage. My stick only gets in the way sometimes.",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "role": "Narrator",
+    "text": "Missus Fisher got up easily, and Missus Arbuthnot's help wasn't needed after all.",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "role": "Female",
+    "text": "I'm going to have one of these beautiful oranges,",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "role": "Narrator",
+    "text": "Missus Wilkins said, staying at the table and reaching for the fruit bowl.",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "role": "Female",
+    "text": "Rose, how can you resist them? Look, take this one. It's a beauty.",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "role": "Narrator",
+    "text": "She held out a large orange.",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "role": "Female",
+    "text": "No, I need to go tend to my chores,",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "role": "Narrator",
+    "text": "Missus Arbuthnot said, walking toward the door.",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "role": "Female",
+    "text": "Please excuse me,",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "role": "Narrator",
+    "text": "she added politely to Missus Fisher.",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "role": "Narrator",
+    "text": "Missus Fisher also headed for the door, moving quickly and easily. Her stick didn't seem to slow her down at all, and she clearly didn't want to be left alone with Missus Wilkins.",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "role": "Male",
+    "text": "What time would you like lunch?",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "role": "Narrator",
+    "text": "Missus Arbuthnot asked, still trying to assert some authority.",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "role": "Male",
+    "text": "Lunch is at twelve-thirty,",
+    "is_header": false
+  },
+  {
+    "id": 104,
+    "role": "Narrator",
+    "text": "Missus Fisher said.",
+    "is_header": false
+  },
+  {
+    "id": 105,
+    "role": "Male",
+    "text": "We will have it at twelve-thirty then,",
+    "is_header": false
+  },
+  {
+    "id": 106,
+    "role": "Narrator",
+    "text": "Missus Arbuthnot said.",
+    "is_header": false
+  },
+  {
+    "id": 107,
+    "role": "Male",
+    "text": "I'll inform the cook. It might be difficult, but I brought a small dictionary—",
+    "is_header": false
+  },
+  {
+    "id": 108,
+    "role": "Male",
+    "text": "The cook already knows,",
+    "is_header": false
+  },
+  {
+    "id": 109,
+    "role": "Narrator",
+    "text": "Missus Fisher said.",
+    "is_header": false
+  },
+  {
+    "id": 110,
+    "role": "Male",
+    "text": "Oh?",
+    "is_header": false
+  },
+  {
+    "id": 111,
+    "role": "Narrator",
+    "text": "Missus Arbuthnot said.",
+    "is_header": false
+  },
+  {
+    "id": 112,
+    "role": "Female",
+    "text": "Lady Caroline has already told her,",
+    "is_header": false
+  },
+  {
+    "id": 113,
+    "role": "Narrator",
+    "text": "Missus Fisher explained.",
+    "is_header": false
+  },
+  {
+    "id": 114,
+    "role": "Male",
+    "text": "Oh?",
+    "is_header": false
+  },
+  {
+    "id": 115,
+    "role": "Narrator",
+    "text": "Missus Arbuthnot said again.",
+    "is_header": false
+  },
+  {
+    "id": 116,
+    "role": "Female",
+    "text": "Yes. Lady Caroline speaks the kind of Italian that cooks understand. My walking stick keeps me from going to the kitchen, and even if I could go, I doubt they would understand my Dante.",
+    "is_header": false
+  },
+  {
+    "id": 117,
+    "role": "Male",
+    "text": "But—",
+    "is_header": false
+  },
+  {
+    "id": 118,
+    "role": "Narrator",
+    "text": "Missus Arbuthnot began.",
+    "is_header": false
+  },
+  {
+    "id": 119,
+    "role": "Female",
+    "text": "But it's just wonderful!",
+    "is_header": false
+  },
+  {
+    "id": 120,
+    "role": "Narrator",
+    "text": "Missus Wilkins interrupted from the table, delighted by how simple their lives were going to be here.",
+    "is_header": false
+  },
+  {
+    "id": 121,
+    "role": "Female",
+    "text": "We don't have to do anything at all except be happy! You wouldn't believe,",
+    "is_header": false
+  },
+  {
+    "id": 122,
+    "role": "Narrator",
+    "text": "she said, turning directly to Missus Fisher with orange slices in both hands,",
+    "is_header": false
+  },
+  {
+    "id": 123,
+    "role": "Female",
+    "text": "how hard Rose and I have worked at being good for years, and how much we need a complete rest.",
+    "is_header": false
+  },
+  {
+    "id": 124,
+    "role": "Narrator",
+    "text": "Missus Fisher walked out of the room without answering, thinking to herself,",
+    "is_header": false
+  },
+  {
+    "id": 125,
+    "role": "Female",
+    "text": "She absolutely must be kept in line.",
+    "is_header": false
+  }
+]

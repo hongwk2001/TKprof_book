@@ -1,0 +1,380 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Chapter 3: Across the Moor",
+    "is_header": false
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "Mary slept for a long time. When she finally woke up, Missus Medlock had bought a lunch basket at one of the stations. They ate chicken, cold beef, bread and butter, and drank hot tea. Outside, the rain poured down harder than ever, and everyone on the platform wore wet, shiny raincoats. The train guard lit the lamps in their compartment, and Missus Medlock cheered up considerably as she ate. She ate a hearty meal and soon fell asleep. Mary sat watching her, staring as the woman's fine bonnet slipped to one side, until Mary herself drifted off to sleep again in the corner of the carriage, lulled by the steady patter of rain against the glass. It was pitch black when she woke up next. The train had stopped at a station, and Missus Medlock was shaking her shoulder.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Female",
+    "text": "You've had quite a sleep!",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Narrator",
+    "text": "she said.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Female",
+    "text": "Time to wake up! We're at Thwaite Station, and we have a long drive ahead of us.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Narrator",
+    "text": "Mary stood up and tried to keep her eyes open while Missus Medlock gathered her packages. The little girl didn't offer to help. In India, the servants had always carried everything, and she took it for granted that others would wait on her.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Narrator",
+    "text": "The station was small, and they seemed to be the only passengers getting off. The stationmaster spoke to Missus Medlock in a gruff but friendly voice, pronouncing his words with a broad, unusual accent that Mary would later learn was Yorkshire.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "Child",
+    "text": "I see you've got back,",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Narrator",
+    "text": "he said.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Child",
+    "text": "And you've brought the young one with you.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Female",
+    "text": "Yes, that's her,",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Narrator",
+    "text": "Missus Medlock replied, adopting a bit of the local accent herself as she nodded over her shoulder toward Mary.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Female",
+    "text": "How's your wife?",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "role": "Male",
+    "text": "Well enough. The carriage is waiting outside for you.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "role": "Narrator",
+    "text": "A horse-drawn carriage stood waiting on the road just outside the small platform. Mary noticed that it was an elegant carriage, and the footman who helped her inside was smart and well-dressed. His long raincoat and the waterproof cover on his hat were shiny and dripping wet. In fact, everything was soaked, including the stocky stationmaster.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "role": "Narrator",
+    "text": "Once the footman shut the door and climbed up to sit next to the driver, they started off. Mary sat back in the comfortable, cushioned corner of the carriage, but she didn't feel like sleeping anymore. Instead, she stared out the window, curious to see the road leading to the strange place Missus Medlock had described. She wasn't a timid child, and she wasn't exactly scared, but she couldn't help feeling uneasy. There was no telling what might happen in a house with a hundred closed-up rooms, standing right on the edge of a lonely moor.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "role": "Female",
+    "text": "What is a moor?",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "role": "Narrator",
+    "text": "she asked Missus Medlock suddenly.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "role": "Female",
+    "text": "Look out the window in about ten minutes and you'll see,",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "role": "Narrator",
+    "text": "the woman answered.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "role": "Female",
+    "text": "We have to drive five miles across Missel Moor before we reach the Manor. You won't see much because it's a dark night, but you'll see something.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "role": "Narrator",
+    "text": "Mary didn't ask any more questions. She waited quietly in her dark corner, keeping her eyes fixed on the window. The carriage lamps cast narrow beams of light ahead, letting her catch fleeting glimpses of their surroundings. After leaving the station, they drove through a tiny village, where she saw whitewashed cottages and the warm glow of a local pub. Then they passed a church, a vicarage, and a few small cottage shop windows displaying toys, sweets, and various odds and ends. Soon they reached the main highway, where she could see hedges and trees. After that, the landscape didn't seem to change for a long time—or at least, it felt like a very long time to her.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "role": "Narrator",
+    "text": "Finally, the horses began to slow down as if they were climbing a hill, and soon the hedges and trees vanished. In fact, she could see nothing but deep, heavy darkness on either side. She leaned forward and pressed her face against the glass just as the carriage gave a violent jolt.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "role": "Male",
+    "text": "Well, we're on the moor now, sure enough,",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "role": "Narrator",
+    "text": "Missus Medlock said.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "role": "Narrator",
+    "text": "The carriage lamps cast a yellow glow onto a rough, unpaved road. It seemed to cut through low bushes and wild shrubs that stretched out into the vast, dark emptiness ahead. A wind was rising, making a strange, wild, low rushing sound.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "role": "Female",
+    "text": "It's... it's not the sea, is it?",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "role": "Narrator",
+    "text": "Mary asked, looking over at her companion.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "role": "Male",
+    "text": "No, it's not,",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "role": "Narrator",
+    "text": "Missus Medlock answered.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "role": "Male",
+    "text": "And it's not fields or mountains either. It's just miles and miles of wild, open land where nothing grows but heather, gorse, and wild shrubs, and nothing lives but wild ponies and sheep.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "role": "Male",
+    "text": "It feels like it could be the sea, if only there were water,",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "role": "Narrator",
+    "text": "Mary said.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "role": "Male",
+    "text": "It sounds just like the ocean right now.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "role": "Male",
+    "text": "That's just the wind blowing through the bushes,",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "role": "Narrator",
+    "text": "Missus Medlock said.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "role": "Male",
+    "text": "It's a wild, gloomy place if you ask me, though plenty of people love it—especially when the heather is in bloom.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "role": "Narrator",
+    "text": "They drove on and on through the darkness. Although the rain had stopped, the wind howled and whistled, making eerie noises. The road wound up and down, and several times they crossed small bridges where water rushed noisily underneath. Mary felt as if the drive would never end. To her, the vast, bleak moor felt like a black ocean, and they were crossing it on a narrow strip of dry land.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "role": "Female",
+    "text": "I don't like it,",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "role": "Narrator",
+    "text": "she said to herself.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "role": "Female",
+    "text": "I don't like it.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "role": "Narrator",
+    "text": "She pressed her thin lips tightly together.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "role": "Narrator",
+    "text": "The horses were climbing a steep stretch of road when Mary first spotted a light. Missus Medlock saw it at the same time and let out a long sigh of relief.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "role": "Child",
+    "text": "Oh, I'm glad to see that little light twinkling,",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "role": "Narrator",
+    "text": "she exclaimed.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "role": "Child",
+    "text": "That's the light from the gatehouse window. We'll at least get a nice cup of tea in a little while.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "role": "Narrator",
+    "text": "It took a little while, just as she had said. Once the carriage passed through the park gates, they still had to drive down a two-mile avenue. The trees met overhead, making it feel as if they were driving through a long, dark tunnel.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "role": "Narrator",
+    "text": "Finally, they emerged from the dark tunnel into an open space and stopped in front of a very long, low-built house that seemed to stretch around a stone courtyard. At first, Mary thought there were no lights in any of the windows. But as she got out of the carriage, she noticed a dull glow coming from a single upstairs corner room.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "role": "Narrator",
+    "text": "The entrance door was massive, made of thick, heavy oak panels studded with large iron nails and bound with heavy iron bars. It opened into a grand, enormous hall. The lighting was so dim that the faces in the portraits on the walls and the silent figures in suits of armor made Mary uneasy, and she avoided looking at them. Standing on the cold stone floor, she looked like a tiny, strange figure in her black clothes—and she felt just as small, lost, and out of place as she looked.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "role": "Narrator",
+    "text": "A tidy, thin old man stood near the butler who had opened the door for them.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "role": "Female",
+    "text": "You are to take her to her room,",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "role": "Narrator",
+    "text": "he said in a low, gravelly voice.",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "role": "Female",
+    "text": "He does not want to see her. He is leaving for London in the morning.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "role": "Male",
+    "text": "Very well, Mister Pitcher,",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "role": "Narrator",
+    "text": "Missus Medlock replied.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "role": "Male",
+    "text": "As long as I know what is expected of me, I can handle it.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "role": "Male",
+    "text": "What is expected of you, Missus Medlock,",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "role": "Narrator",
+    "text": "Mister Pitcher said,",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "role": "Male",
+    "text": "is that you make sure he isn't disturbed, and that he doesn't see anyone or anything he doesn't want to see.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "role": "Narrator",
+    "text": "Mary Lennox was then led up a wide staircase, down a long hallway, up a short flight of steps, and through several more corridors. Finally, a door opened, and she found herself in a room with a warm fire crackling in the fireplace and supper waiting on a table.",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "role": "Narrator",
+    "text": "Missus Medlock said bluntly:",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "role": "Male",
+    "text": "Well, here you are! This room and the next one are where you'll be living, and you must stay in them. Don't you forget that!",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "role": "Narrator",
+    "text": "This was how Mary arrived at Misselthwaite Manor, and she had probably never felt so sour and stubborn in all her life.",
+    "is_header": false
+  }
+]

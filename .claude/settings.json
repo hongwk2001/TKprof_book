@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(./venv/bin/pip list *)",
+      "Bash(venv/Scripts/python.exe -c \"import kokoro, pydub, soundfile; print\\('kokoro/pydub/soundfile OK'\\)\")",
+      "Bash(venv/Scripts/python.exe -c \"import edge_tts; print\\('edge_tts OK'\\)\")",
+      "Bash(venv/Scripts/python.exe --version)"
+    ]
+  }
+}

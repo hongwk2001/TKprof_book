@@ -6,11 +6,11 @@ set -e
 
 # 1. Activate venv if not already done (optional reminder)
 if [ -z "$VIRTUAL_ENV" ]; then
-    if [ -f "wsl_venv/bin/activate" ]; then
+    if [ -f "venv/Scripts/activate" ]; then
         echo "Activating virtual environment..."
-        source wsl_venv/bin/activate
+        source venv/Scripts/activate
     else
-        echo "WARNING: Virtual environment not active. Please activate wsl_venv first."
+        echo "WARNING: Virtual environment not active. Please activate venv first."
     fi
 fi
 

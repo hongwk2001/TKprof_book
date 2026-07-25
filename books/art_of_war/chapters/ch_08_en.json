@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Chapter Eight. Variation of Tactics",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "1. Sun Tzu said:",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Male",
+    "text": "In war, a general receives his orders from the sovereign, mobilizes his army, and concentrates his forces.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Narrator",
+    "text": "2.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Male",
+    "text": "Do not encamp in difficult terrain. In regions where major roads intersect, forge alliances. Do not linger in dangerously isolated positions. When surrounded, you must rely on strategy. When facing a desperate situation, you must fight.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Narrator",
+    "text": "> Cao Cao:",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Male",
+    "text": "Difficult terrain offers no natural defenses and traps the army. If you linger, you invite destruction. When surrounded on all sides, the only way out is a brilliant stratagem. When there is no way out at all, the men will fight to the death because they have no other choice.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "Narrator",
+    "text": "3.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Male",
+    "text": "There are routes that must not be taken, armies that must not be engaged, cities that must not be besieged, positions that must not be contested, and orders from the sovereign that must not be obeyed.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Narrator",
+    "text": "> Zhang Yu:",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Male",
+    "text": "A general must exercise independent judgment on the battlefield. If a sovereign's order contradicts the realities of the terrain or the immediate tactical situation, obeying it would lead to disaster. True loyalty means securing victory, not blindly following distant commands.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Narrator",
+    "text": "4.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Male",
+    "text": "A general who fully grasps the advantages of adapting his tactics knows exactly how to command his troops.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "role": "Narrator",
+    "text": "> Du Mu:",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "role": "Male",
+    "text": "Adaptability is the lifeblood of warfare. A commander who cannot shift his methods to suit changing circumstances is like a man trying to play a lute with the tuning pegs glued in place.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "role": "Narrator",
+    "text": "5.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "role": "Male",
+    "text": "A general who fails to understand this flexibility may know the terrain perfectly, yet he will be unable to turn that knowledge into a practical advantage.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "role": "Narrator",
+    "text": "6.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "role": "Male",
+    "text": "Likewise, a commander who ignores the art of tactical adaptation will fail to utilize his men effectively, even if he understands the Five Advantages.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "role": "Narrator",
+    "text": "7.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "role": "Male",
+    "text": "Therefore, a wise leader always factors both advantages and disadvantages into his plans.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "role": "Narrator",
+    "text": "> Li Quan:",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "role": "Male",
+    "text": "If you only see the advantage, you become reckless. If you only see the disadvantage, you become paralyzed by fear. True wisdom lies in weighing both seamlessly.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "role": "Narrator",
+    "text": "8.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "role": "Male",
+    "text": "By tempering our expectations of success with an awareness of potential drawbacks, we can accomplish our essential objectives.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "role": "Narrator",
+    "text": "9.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "role": "Male",
+    "text": "Conversely, by remaining alert for opportunities even in the midst of crisis, we can extricate ourselves from disaster.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "role": "Narrator",
+    "text": "10.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "role": "Male",
+    "text": "Subdue enemy commanders by inflicting damage on them. Create endless trouble to keep them constantly occupied. Offer deceptive lures to force them to rush to any given point.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "role": "Narrator",
+    "text": "> Du Mu:",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "role": "Male",
+    "text": "Damage can take many forms: severing their supply lines, harassing their flanks, or sowing discord among their ranks. Make them exhaust themselves chasing illusions.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "role": "Narrator",
+    "text": "11.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "role": "Male",
+    "text": "The art of war teaches us not to hope the enemy will not come, but to be fully prepared to receive them; not to hope they will not attack, but to make our own position unassailable.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "role": "Narrator",
+    "text": "> Cao Cao:",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "role": "Male",
+    "text": "Never rely on the enemy's mistakes or inactivity. Rely only on your own invulnerability.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "role": "Narrator",
+    "text": "12. \"A general is vulnerable to five fatal flaws: \n(1) Recklessness, which leads to destruction; \n(2) Cowardice, which leads to capture; \n(3) A quick temper, which can be provoked by insults; \n(4) A fragile ego, which is too sensitive to shame; \n(5) Over-solicitude for his men, which paralyzes him with worry.\"",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "role": "Narrator",
+    "text": "> Zhang Yu:",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "role": "Male",
+    "text": "A reckless general charges blindly into traps. A cowardly general hesitates when he should strike. An angry general is easily baited. A proud general fights to save face rather than to win. A compassionate general cannot bear to order men to their deaths, and thus loses the entire army.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "role": "Narrator",
+    "text": "13.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "role": "Male",
+    "text": "These are the five besetting sins of a commander, and they are ruinous to the conduct of war.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "role": "Narrator",
+    "text": "14.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "role": "Male",
+    "text": "When an army is annihilated and its general killed, the root cause will inevitably be found among these five fatal flaws. Reflect upon them deeply.",
+    "is_header": false
+  }
+]

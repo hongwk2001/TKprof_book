@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Chapter One. Laying Plans",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "1. Sun Tzu said,",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Male",
+    "text": "The art of war is of vital importance to the State.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Narrator",
+    "text": "> Cao Cao:",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Male",
+    "text": "Weapons are instruments of ill omen. War is a dangerous business. It is a matter of life and death, a road to safety or ruin. Therefore, it is a subject of inquiry which can on no account be neglected.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Narrator",
+    "text": "2. It is a matter of life and death—a road to either safety or ruin. Therefore, it is a subject of inquiry that can never be neglected.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Narrator",
+    "text": "3. The art of war is governed by five constant factors, which must be carefully weighed when analyzing the conditions on the battlefield.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "Narrator",
+    "text": "4. These factors are: (1) The Moral Law, (2) Heaven, (3) Earth, (4) The Commander, and (5) Method and Discipline.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Narrator",
+    "text": "5, 6. The Moral Law unites the people in complete harmony with their leader, ensuring they will follow him with their lives, undismayed by any danger.\n> Du Mu:",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Male",
+    "text": "When the ruler's commands are just and his policies benevolent, the people are of one mind with him.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Narrator",
+    "text": "> \n> *Tactical Metaphor Explanation:* The",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Male",
+    "text": "Moral Law",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Narrator",
+    "text": "or *Tao* refers to the alignment of purpose between the leadership and the populace. Without political unity and popular support, military operations are doomed from the start.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "role": "Narrator",
+    "text": "7. Heaven signifies night and day, cold and heat, times and seasons.\n> Meng Shih:",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "role": "Male",
+    "text": "The skillful general conducts his operations in accordance with the seasons, recognizing that extreme heat or severe cold can exhaust an army.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "role": "Narrator",
+    "text": "> \n> *Tactical Metaphor Explanation:*",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "role": "Male",
+    "text": "Heaven",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "role": "Narrator",
+    "text": "represents uncontrollable environmental and temporal variables. A master strategist uses weather and timing as force multipliers rather than fighting against them.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "role": "Narrator",
+    "text": "8. Earth comprises distances great and small, danger and security, open ground and narrow passes, and the chances of life and death.\n> Wang Hsi:",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "role": "Male",
+    "text": "By 'Earth' we mean the lay of the land. The strategist must know where the ground is advantageous for infantry and where it favors cavalry.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "role": "Narrator",
+    "text": "> \n> *Tactical Metaphor Explanation:*",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "role": "Male",
+    "text": "Earth",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "role": "Narrator",
+    "text": "represents the physical terrain. Terrain dictates formations, logistics, and tactics. Choosing the right battleground is half the victory.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "role": "Narrator",
+    "text": "9. The Commander stands for the virtues of wisdom, sincerity, benevolence, courage, and strictness.\n> Du Mu:",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "role": "Male",
+    "text": "If wise, a commander can recognize changing circumstances; if sincere, his men will trust his rewards and punishments; if benevolent, he loves his men; if courageous, he gains victory by seizing opportunities without hesitation; if strict, his troops are disciplined.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "role": "Narrator",
+    "text": "10. Method and Discipline refer to the proper organization of the army into subdivisions, the gradations of rank among officers, the maintenance of supply routes, and the control of military expenditures.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "role": "Narrator",
+    "text": "11. Every general should be familiar with these five elements. Those who master them will be victorious; those who do not will fail.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "role": "Narrator",
+    "text": "12. Therefore, when evaluating military conditions, use them as the basis for comparison:",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "role": "Narrator",
+    "text": "13. (1) Which sovereign possesses the Moral Law?\n(2) Which general is more capable?\n(3) Who holds the advantages of Heaven and Earth?\n(4) On which side is discipline most strictly enforced?\n(5) Which army is stronger?\n(6) Which side has the better-trained officers and men?\n(7) Which army is more consistent in its rewards and punishments?",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "role": "Narrator",
+    "text": "> Cao Cao:",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "role": "Male",
+    "text": "By comparing these seven things, one can foresee who will win and who will lose.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "role": "Narrator",
+    "text": "14. By carefully weighing these seven considerations, I can forecast victory or defeat.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "role": "Narrator",
+    "text": "15. The general who listens to my counsel and acts upon it will conquer—keep him in command! The general who ignores my counsel will suffer defeat—dismiss him!",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "role": "Narrator",
+    "text": "16. While applying my strategic counsel, you must also exploit any favorable circumstances that arise beyond the ordinary rules of war.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "role": "Narrator",
+    "text": "17. As circumstances shift in your favor, you must dynamically modify your plans.\n> Wang Hsi:",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "role": "Male",
+    "text": "Strategic advantage (Shih) is not fixed. It is born of the immediate circumstances. One must adapt to the enemy's movements as water adapts to the terrain.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "role": "Narrator",
+    "text": "18. All warfare is based on deception.\n> *Tactical Metaphor Explanation:* Deception is the core of Sun Tzu's philosophy. It is the art of misdirecting the enemy's expectations, causing them to make fatal miscalculations and commit resources to the wrong places.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "role": "Narrator",
+    "text": "19. Therefore, when capable of attacking, feign incapacity; when deploying forces, feign inactivity. When you are near, make the enemy believe you are far away; when you are far away, make him believe you are near.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "role": "Narrator",
+    "text": "20. Offer bait to entice the enemy. Feign disorder, and crush him.\n> Du Mu:",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "role": "Male",
+    "text": "If the enemy is greedy for advantage, entice him with a mirage of gain. Then, when he breaks formation to pursue it, attack.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "role": "Narrator",
+    "text": "21. If the enemy is secure at all points, be prepared for him. If he possesses superior strength, evade him.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "role": "Narrator",
+    "text": "22. If your opponent is quick-tempered, seek to irritate him. Pretend to be weak, so that he grows arrogant.\n> Wang Tzu:",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "role": "Male",
+    "text": "A quick-tempered commander can be provoked into attacking prematurely, abandoning strong defensive positions in a fit of rage.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "role": "Narrator",
+    "text": "23. If he is taking his ease, give him no rest. If his forces are united, separate them.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "role": "Narrator",
+    "text": "24. Attack where he is unprepared; appear where you are least expected.\n> Cao Cao:",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "role": "Male",
+    "text": "Strike at his vulnerabilities. Move your troops like a phantom.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "role": "Narrator",
+    "text": "> \n> *Tactical Metaphor Explanation:* This embodies the principle of initiative and asymmetry. Victory is achieved not by grinding against the enemy's strength, but by exploiting their blind spots and maintaining the element of surprise.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "role": "Narrator",
+    "text": "25. These strategic maneuvers lead to victory and must never be revealed in advance.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "role": "Narrator",
+    "text": "26. The general who wins a battle makes extensive calculations in his headquarters long before the fighting begins. The general who loses a battle makes only a few calculations beforehand. Thus do many calculations lead to victory, and few calculations lead to defeat—how much worse is it to make no calculation at all! By paying careful attention to this point, I can foresee who is likely to win or lose.\n> Wang Hsi:",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "role": "Male",
+    "text": "Calculations refer to the assessment of the five factors and the seven considerations. A battle is won in the temple before it is fought on the field.",
+    "is_header": false
+  }
+]

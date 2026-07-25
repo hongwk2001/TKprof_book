@@ -1,0 +1,800 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Chapter 18: You Mustn't Waste Any Time",
+    "is_header": false
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "Of course, Mary didn't wake up early the next morning. She slept late because she was exhausted. When Martha brought her breakfast, she told Mary that although Colin was quiet, he was feeling sick and feverish, just as he always did after wearing himself out with a crying fit. Mary listened while eating her breakfast slowly.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Child",
+    "text": "He says he wishes you would please go and see him as soon as you can,",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Narrator",
+    "text": "Martha said.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Child",
+    "text": "It's strange how fond he's grown of you. You really gave it to him last night, didn't you? Nobody else would have dared to do that. Oh, the poor lad! He's been spoiled so much that even salt won't save him. Mother says the two worst things that can happen to a child are never getting their own way—or always getting it. She doesn't know which is worse. You were in quite a temper yourself, too. But when I went into his room, he said to me, 'Please ask Miss Mary if she'll please come and talk to me.' Imagine him saying please! Will you go, Miss?",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Female",
+    "text": "I'll run and see Dickon first,",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Narrator",
+    "text": "Mary said.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "Female",
+    "text": "No, I'll go see Colin first and tell him—I know what I'll tell him,",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Narrator",
+    "text": "she said, struck by a sudden inspiration.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Narrator",
+    "text": "She was wearing her hat when she walked into Colin's room, and for a second he looked disappointed. He was lying in bed. His face was pitifully pale, and there were dark circles around his eyes.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Male",
+    "text": "I'm glad you came,",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Narrator",
+    "text": "he said.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Male",
+    "text": "My head hurts and I ache all over because I'm so tired. Are you going somewhere?",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "role": "Narrator",
+    "text": "Mary went over and leaned against his bed.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "role": "Female",
+    "text": "I won't be long,",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "role": "Narrator",
+    "text": "she said.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "role": "Female",
+    "text": "I'm going to see Dickon, but I'll come back. Colin, it's—it's something about the garden.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "role": "Narrator",
+    "text": "His whole face brightened, and a little color came into his cheeks.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "role": "Child",
+    "text": "Oh, is it?",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "role": "Narrator",
+    "text": "he cried out.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "role": "Child",
+    "text": "I dreamed about it all night. I heard you say something about gray changing into green, and I dreamed I was standing in a place filled with trembling little green leaves. There were birds on nests everywhere, looking so soft and still. I'll lie here and think about it until you come back.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "role": "Narrator",
+    "text": "Within five minutes, Mary was with Dickon in their garden. The fox and the crow were with him again, and this time he had brought two tame squirrels.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "role": "Child",
+    "text": "I came over on the pony this morning,",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "role": "Narrator",
+    "text": "he said.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "role": "Child",
+    "text": "Oh, he is a good little fellow—Jump is! I brought these two in my pockets. This one here is named Nut, and this other one is named Shell.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "role": "Narrator",
+    "text": "When he said",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "role": "Male",
+    "text": "Nut,",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "role": "Narrator",
+    "text": "one squirrel leaped onto his right shoulder, and when he said",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "role": "Male",
+    "text": "Shell,",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "role": "Narrator",
+    "text": "the other leaped onto his left shoulder.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "role": "Narrator",
+    "text": "When they sat down on the grass with Captain curled at their feet, Soot listening solemnly from a tree, and Nut and Shell sniffing around close by, Mary felt it would be hard to leave such a delightful scene. But as she began to tell her story, the look on Dickon's funny face gradually changed her mind. She could see he felt even sorrier for Colin than she did. He looked up at the sky and all around him.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "role": "Child",
+    "text": "Just listen to those birds—the world seems full of them—all whistling and piping,",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "role": "Narrator",
+    "text": "he said.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "role": "Child",
+    "text": "Look at them darting about, and listen to them calling to each other. When spring comes, it feels like the whole world is calling. The leaves are uncurling so you can see them—and, my word, the wonderful smells around here!",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "role": "Narrator",
+    "text": "he sniffed with his happy, turned-up nose.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "role": "Child",
+    "text": "And that poor lad lying shut up and seeing so little that he starts thinking about things that make him scream. Oh, we must get him out here! We must get him watching and listening and breathing in the fresh air, and get him soaked through with sunshine. And we mustn't waste any time about it.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "role": "Narrator",
+    "text": "When he was very interested, he often spoke in a thick Yorkshire dialect, though at other times he tried to soften it so Mary could understand him better. But she loved his broad Yorkshire accent and had actually been trying to learn to speak it herself. So she tried a little of it now.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "role": "Child",
+    "text": "Yes, we must,",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "role": "Narrator",
+    "text": "she said.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "role": "Child",
+    "text": "I'll tell you what we'll do first,",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "role": "Narrator",
+    "text": "she went on, and Dickon grinned, because when the little girl tried to twist her tongue into speaking Yorkshire, it amused him very much.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "role": "Child",
+    "text": "He's taken a grand liking to you. He wants to see you, and he wants to see Soot and Captain. When I go back to the house to talk to him, I'll ask him if you can come and see him tomorrow morning—and bring your creatures with you—and then, in a little while, when there are more leaves out, and maybe a bud or two, we'll get him to come out, and you shall push him in his chair, and we'll bring him here and show him everything.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "role": "Narrator",
+    "text": "When she finished, she was quite proud of herself. She had never made a long speech in Yorkshire before, and she had remembered it very well.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "role": "Female",
+    "text": "You must talk a bit of Yorkshire like that to Master Colin,",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "role": "Narrator",
+    "text": "Dickon chuckled.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "role": "Female",
+    "text": "You'll make him laugh, and there's nothing as good for sick people as laughing is. Mother says she believes a good half-hour of laughing every morning would cure a fellow who was coming down with typhus fever.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "role": "Female",
+    "text": "I'm going to talk Yorkshire to him this very day,",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "role": "Narrator",
+    "text": "Mary said, chuckling herself.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "role": "Narrator",
+    "text": "The garden had reached the stage where, every day and night, it seemed as if magicians were passing through it, drawing loveliness out of the earth and the branches with their wands. It was hard to walk away and leave it all, especially since Nut had actually crawled onto her dress, and Shell had scrambled down the trunk of the apple tree they were sitting under, watching her with curious eyes. But she went back to the house, and when she sat down close to Colin's bed, he began to sniff the air just as Dickon did, though not in such an experienced way.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "role": "Male",
+    "text": "You smell like flowers and—and fresh things!",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "role": "Narrator",
+    "text": "he cried out quite joyously.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "role": "Male",
+    "text": "What is that smell? It's cool and warm and sweet all at the same time.",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "role": "Male",
+    "text": "It's the wind from the moor,",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "role": "Narrator",
+    "text": "Mary said.",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "role": "Male",
+    "text": "It comes from sitting on the grass under a tree with Dickon and Captain and Soot and Nut and Shell. It's the spring and the outdoors and the sunshine that smell so grand.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "role": "Narrator",
+    "text": "She said it with as thick an accent as she could manage. You don't know how broad Yorkshire sounds until you hear someone speak it. Colin began to laugh.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "role": "Male",
+    "text": "What are you doing?",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "role": "Narrator",
+    "text": "he asked.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "role": "Male",
+    "text": "I've never heard you talk like that before. How funny it sounds!",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "role": "Male",
+    "text": "I'm giving you a bit of Yorkshire,",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "role": "Narrator",
+    "text": "Mary answered triumphantly.",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "role": "Male",
+    "text": "I can't talk as grandly as Dickon and Martha can, but you see I can manage a bit. Don't you understand a bit of Yorkshire when you hear it? And you a Yorkshire lad yourself, born and bred! Oh, I wonder you're not ashamed of yourself!",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "role": "Narrator",
+    "text": "Then she began to laugh too, and they both laughed until they couldn't stop. They laughed so hard the room echoed, and Missus Medlock, opening the door to come in, stepped back into the hallway and stood listening in amazement.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "role": "Female",
+    "text": "Well, upon my word!",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "role": "Narrator",
+    "text": "Missus Medlock said to herself, speaking in a bit of a Yorkshire accent because there was no one around to hear her and she was so astonished.",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "role": "Female",
+    "text": "Whoever heard of such a thing! Who on earth would have thought it!",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "role": "Narrator",
+    "text": "There was so much to talk about. It seemed as if Colin could never hear enough about Dickon, Captain, Soot, Nut, Shell, and the pony named Jump. Mary had run into the woods with Dickon to see Jump. He was a tiny, shaggy moor pony with thick hair hanging over his eyes, a pretty face, and a nuzzling velvet nose. He was rather thin from living on moor grass, but he was as tough and wiry as if the muscles in his little legs were made of steel springs. He had lifted his head and whinnied softly the moment he saw Dickon, trotting up to him and putting his head over Dickon's shoulder. Then Dickon had whispered into his ear, and Jump had answered with curious little whinnies, puffs, and snorts. Dickon even had him offer Mary his small front hoof and kiss her cheek with his soft muzzle.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "role": "Male",
+    "text": "Does he really understand everything Dickon says?",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "role": "Narrator",
+    "text": "Colin asked.",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "role": "Male",
+    "text": "It seems like he does,",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "role": "Narrator",
+    "text": "Mary answered.",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "role": "Male",
+    "text": "Dickon says any creature will understand you if you are truly friends with them, but you have to be real friends.",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "role": "Narrator",
+    "text": "Colin lay quiet for a little while, his strange gray eyes staring at the wall, but Mary could tell he was thinking.",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "role": "Male",
+    "text": "I wish I were friends with things,",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "role": "Narrator",
+    "text": "he said at last.",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "role": "Male",
+    "text": "But I'm not. I've never had anything to be friends with, and I can't stand people.",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "role": "Male",
+    "text": "Can't you stand me?",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "role": "Narrator",
+    "text": "Mary asked.",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "role": "Male",
+    "text": "Yes, I can,",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "role": "Narrator",
+    "text": "he answered.",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "role": "Male",
+    "text": "It's funny, but I actually like you.",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "role": "Male",
+    "text": "Ben Weatherstaff said I was just like him,",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "role": "Narrator",
+    "text": "Mary said.",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "role": "Male",
+    "text": "He said he'd bet we both have the same nasty tempers. I think you are like him too. We are all three alike—you, me, and Ben Weatherstaff. He said none of us are much to look at, and we are as sour as we look. But I don't feel as sour as I used to before I met the robin and Dickon.",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "role": "Male",
+    "text": "Did you feel like you hated people?",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "role": "Male",
+    "text": "Yes,",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "role": "Narrator",
+    "text": "Mary answered quite frankly.",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "role": "Male",
+    "text": "I would have hated you if I had met you before I saw the robin and Dickon.",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "role": "Narrator",
+    "text": "Colin reached out his thin hand and touched her.",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "role": "Male",
+    "text": "Mary,",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "role": "Narrator",
+    "text": "he said,",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "role": "Male",
+    "text": "I wish I hadn't said those things about sending Dickon away. I hated you when you said he was like an angel, and I laughed at you—but maybe he really is.",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "role": "Female",
+    "text": "Well, it was a bit funny to say,",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "role": "Narrator",
+    "text": "she admitted frankly,",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "role": "Female",
+    "text": "because his nose turns up, he has a big mouth, his clothes are covered in patches, and he speaks in a thick Yorkshire accent. But if an angel did come to Yorkshire and live on the moor—if there was a Yorkshire angel—I believe he'd understand growing things, know how to make them bloom, and know how to talk to wild creatures just like Dickon does. And they would know he was a true friend.",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "role": "Male",
+    "text": "I wouldn't mind if Dickon looked at me,",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "role": "Narrator",
+    "text": "Colin said.",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "role": "Male",
+    "text": "I want to meet him.",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "role": "Male",
+    "text": "I'm glad you said that,",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "role": "Narrator",
+    "text": "Mary answered,",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "role": "Male",
+    "text": "because... because...",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "role": "Narrator",
+    "text": "Suddenly, she realized this was the perfect moment to tell him. Colin could tell something new was coming.",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "role": "Male",
+    "text": "Because what?",
+    "is_header": false
+  },
+  {
+    "id": 104,
+    "role": "Narrator",
+    "text": "he asked eagerly.",
+    "is_header": false
+  },
+  {
+    "id": 105,
+    "role": "Narrator",
+    "text": "Mary was so excited that she stood up from her stool, came over to him, and took both his hands in hers.",
+    "is_header": false
+  },
+  {
+    "id": 106,
+    "role": "Female",
+    "text": "Can I trust you? I trusted Dickon because the birds trusted him. Can I trust you—completely, for sure?",
+    "is_header": false
+  },
+  {
+    "id": 107,
+    "role": "Narrator",
+    "text": "she pleaded.",
+    "is_header": false
+  },
+  {
+    "id": 108,
+    "role": "Narrator",
+    "text": "Her face was so serious that he answered in a near whisper.",
+    "is_header": false
+  },
+  {
+    "id": 109,
+    "role": "Male",
+    "text": "Yes, yes!",
+    "is_header": false
+  },
+  {
+    "id": 110,
+    "role": "Male",
+    "text": "Well, Dickon is coming to see you tomorrow morning, and he'll bring his animals with him.",
+    "is_header": false
+  },
+  {
+    "id": 111,
+    "role": "Male",
+    "text": "Oh! Oh!",
+    "is_header": false
+  },
+  {
+    "id": 112,
+    "role": "Narrator",
+    "text": "Colin cried out in delight.",
+    "is_header": false
+  },
+  {
+    "id": 113,
+    "role": "Male",
+    "text": "But that's not all,",
+    "is_header": false
+  },
+  {
+    "id": 114,
+    "role": "Narrator",
+    "text": "Mary went on, turning pale with quiet excitement.",
+    "is_header": false
+  },
+  {
+    "id": 115,
+    "role": "Male",
+    "text": "The rest is even better. There is a door into the garden. I found it. It's hidden under the ivy on the wall.",
+    "is_header": false
+  },
+  {
+    "id": 116,
+    "role": "Narrator",
+    "text": "If he had been a strong, healthy boy, Colin would probably have shouted,",
+    "is_header": false
+  },
+  {
+    "id": 117,
+    "role": "Child",
+    "text": "Hooray! Hooray! Hooray!",
+    "is_header": false
+  },
+  {
+    "id": 118,
+    "role": "Narrator",
+    "text": "But he was weak and easily overwhelmed; his eyes grew wider and wider, and he gasped for breath.",
+    "is_header": false
+  },
+  {
+    "id": 119,
+    "role": "Female",
+    "text": "Oh, Mary!",
+    "is_header": false
+  },
+  {
+    "id": 120,
+    "role": "Narrator",
+    "text": "he cried with a half-sob.",
+    "is_header": false
+  },
+  {
+    "id": 121,
+    "role": "Female",
+    "text": "Will I see it? Will I get inside? Will I live to see it?",
+    "is_header": false
+  },
+  {
+    "id": 122,
+    "role": "Narrator",
+    "text": "He clutched her hands and pulled her toward him.",
+    "is_header": false
+  },
+  {
+    "id": 123,
+    "role": "Male",
+    "text": "Of course you'll see it!",
+    "is_header": false
+  },
+  {
+    "id": 124,
+    "role": "Narrator",
+    "text": "Mary snapped indignantly.",
+    "is_header": false
+  },
+  {
+    "id": 125,
+    "role": "Male",
+    "text": "Of course you'll live to get inside! Don't be silly!",
+    "is_header": false
+  },
+  {
+    "id": 126,
+    "role": "Narrator",
+    "text": "She was so calm, down-to-earth, and practical that she brought him back to his senses, and he began to laugh at himself. A few minutes later, she was sitting on her stool again, telling him not what she imagined the secret garden was like, but what it actually was. Colin forgot all about his aches and exhaustion as he listened, completely spellbound.",
+    "is_header": false
+  },
+  {
+    "id": 127,
+    "role": "Male",
+    "text": "It is exactly what you thought it would be,",
+    "is_header": false
+  },
+  {
+    "id": 128,
+    "role": "Narrator",
+    "text": "he said at last.",
+    "is_header": false
+  },
+  {
+    "id": 129,
+    "role": "Male",
+    "text": "It sounds just as if you had actually seen it. You know I said that when you first told me.",
+    "is_header": false
+  },
+  {
+    "id": 130,
+    "role": "Narrator",
+    "text": "Mary hesitated for a moment, and then boldly spoke the truth.",
+    "is_header": false
+  },
+  {
+    "id": 131,
+    "role": "Female",
+    "text": "I had seen it—and I had been inside,",
+    "is_header": false
+  },
+  {
+    "id": 132,
+    "role": "Narrator",
+    "text": "she said.",
+    "is_header": false
+  },
+  {
+    "id": 133,
+    "role": "Female",
+    "text": "I found the key and got in weeks ago. But I didn't dare tell you. I was too afraid I couldn't trust you—for sure!",
+    "is_header": false
+  }
+]

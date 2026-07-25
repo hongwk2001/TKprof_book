@@ -1,0 +1,554 @@
+[
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Book 16\n\nOdysseus Reveals Himself to Telemachus\n\nMeanwhile, Odysseus and the swineherd Eumaeus had a fire going in the hut. They were getting breakfast ready as dawn broke. The other workers had already left with the pigs. Just then, Telemachus approached. The dogs didn't bark; instead, they wagged their tails and greeted him warmly. Odysseus heard footsteps and noticed the dogs weren't barking. He turned to Eumaeus."
+  },
+  {
+    "character": "odysseus",
+    "voice": "en-US-BrianNeural",
+    "speed": 1.0,
+    "text": "\"Eumaeus, I hear footsteps,\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Odysseus said."
+  },
+  {
+    "character": "odysseus",
+    "voice": "en-US-BrianNeural",
+    "speed": 1.0,
+    "text": "\"It must be one of your men or someone you know. The dogs are wagging their tails, not barking.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Before Odysseus could finish speaking, his son, Telemachus, stood at the door. Eumaeus leaped to his feet, dropping the bowls where he'd been mixing wine. He rushed to his young master, kissing Telemachus's head and his beautiful eyes, tears of joy streaming down his face. He was happier than an old father welcoming back his only son after ten years of hardship in a foreign land. Eumaeus hugged Telemachus tightly, kissing him all over as if he'd returned from the dead. He spoke to him with deep affection."
+  },
+  {
+    "character": "others",
+    "voice": "en-US-EricNeural",
+    "speed": 1.0,
+    "text": "\"Oh, Telemachus, light of my eyes, you're finally here!\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Eumaeus cried."
+  },
+  {
+    "character": "others",
+    "voice": "en-US-EricNeural",
+    "speed": 1.0,
+    "text": "\"When I heard you'd gone to Pylos, I feared I'd never see you again. Come in, my dear boy, sit down. Now that you're back, I can truly look at your face. You don't often visit us herdsmen in the countryside. You usually stay in town. I suppose you thought it was more important to keep an eye on what the suitors were doing.\""
+  },
+  {
+    "character": "telemachus",
+    "voice": "en-US-ChristopherNeural",
+    "speed": 1.0,
+    "text": "\"That's true, Eumaeus,\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Telemachus replied."
+  },
+  {
+    "character": "telemachus",
+    "voice": "en-US-ChristopherNeural",
+    "speed": 1.0,
+    "text": "\"But I came now because I wanted to see you. I also needed to know if my mother is still in our old home, or if she's married someone else, leaving Odysseus's bed empty, without blankets, and covered in cobwebs.\""
+  },
+  {
+    "character": "others",
+    "voice": "en-US-EricNeural",
+    "speed": 1.0,
+    "text": "\"Your mother is still at the house,\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Eumaeus answered."
+  },
+  {
+    "character": "others",
+    "voice": "en-US-EricNeural",
+    "speed": 1.0,
+    "text": "\"She's heartbroken, grieving day and night, doing nothing but weeping.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "After speaking, Eumaeus took Telemachus's spear. Telemachus then stepped over the stone threshold and entered the hut. Odysseus started to rise, offering his seat to Telemachus. But Telemachus stopped him."
+  },
+  {
+    "character": "telemachus",
+    "voice": "en-US-ChristopherNeural",
+    "speed": 1.0,
+    "text": "\"Sit down, stranger,\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Telemachus said."
+  },
+  {
+    "character": "telemachus",
+    "voice": "en-US-ChristopherNeural",
+    "speed": 1.0,
+    "text": "\"I can easily find another place to sit. And there's someone here who will set a spot for me.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Odysseus returned to his seat. Eumaeus quickly made a spot for Telemachus, spreading green brushwood on the floor and covering it with a sheepskin. Next, the swineherd brought out platters of cold meat, leftovers from the day before. He quickly filled the bread baskets. He mixed wine in bowls made of ivy-wood, then sat down facing Odysseus. They began to eat the delicious food laid before them. After they had eaten and drunk their fill, Telemachus asked Eumaeus,"
+  },
+  {
+    "character": "telemachus",
+    "voice": "en-US-ChristopherNeural",
+    "speed": 1.0,
+    "text": "\"Eumaeus, where does this stranger come from? How did his crew bring him to Ithaca, and who were they? He certainly didn't arrive by land.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "The swineherd Eumaeus replied,"
+  },
+  {
+    "character": "others",
+    "voice": "en-US-EricNeural",
+    "speed": 1.0,
+    "text": "\"My son, I'll tell you the honest truth. He says he's from Crete and has traveled all over the world. Right now, he's escaped from a Thesprotian ship and has taken refuge here at my hut. So, I'm putting him in your hands. Do whatever you wish with him, but remember, he is a suppliant, asking for your protection.\""
+  },
+  {
+    "character": "telemachus",
+    "voice": "en-US-ChristopherNeural",
+    "speed": 1.0,
+    "text": "\"What you've just told me truly distresses me,\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Telemachus said."
+  },
+  {
+    "character": "telemachus",
+    "voice": "en-US-ChristopherNeural",
+    "speed": 1.0,
+    "text": "\"How can I possibly bring this stranger into my house? I'm still young, and I'm not strong enough to defend myself if anyone attacks me. My mother can't make up her mind. She's torn between staying here to protect our home, out of respect for public opinion and her husband's memory, or marrying the best man among the suitors, the one who offers the most. But since this stranger has come to your hut, Eumaeus, I will provide him with a sturdy cloak, a tunic, a sword, and sandals. Then I'll send him wherever he wishes to go. Or, if you prefer, you can keep him here at the hut. I'll send him clothes and food so he won't be a burden on you or your men. However, I absolutely forbid him from going near the suitors. They are incredibly arrogant and will surely mistreat him, which would break my heart. No matter how brave a man is, he can't stand against so many enemies. They would simply be too strong for him.\""
+  },
+  {
+    "character": "odysseus",
+    "voice": "en-US-BrianNeural",
+    "speed": 1.0,
+    "text": "\"Sir,\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Odysseus said,"
+  },
+  {
+    "character": "odysseus",
+    "voice": "en-US-BrianNeural",
+    "speed": 1.0,
+    "text": "\"I must speak my mind. I'm truly shocked by what you've said about the suitors' arrogant behavior, especially when they disrespect a man like you. Tell me, do you simply endure such treatment? Or has some god turned your people against you? Can't you call on your brothers for help? Even in the biggest disputes, a man can usually count on his brothers for support. I wish I were as young as you are, with the spirit I have now. If I were Odysseus's son, or even Odysseus himself, I'd rather someone cut off my head than not go to that house and bring disaster upon every one of those suitors. If they were too many for me to handle alone, I'd rather die fighting in my own home than witness such shameful sights day after day. I can't stand seeing strangers cruelly abused, men dragging female servants around improperly, wine poured out carelessly, and bread wasted for a purpose that will never be achieved.\""
+  },
+  {
+    "character": "telemachus",
+    "voice": "en-US-ChristopherNeural",
+    "speed": 1.0,
+    "text": "\"I will tell you everything honestly,\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Telemachus replied."
+  },
+  {
+    "character": "telemachus",
+    "voice": "en-US-ChristopherNeural",
+    "speed": 1.0,
+    "text": "\"There's no hostility between me and my people. And I can't complain about brothers, who a man can usually count on for support, no matter how big the quarrel. Zeus has made our family a line of only sons. Arceisius had only one son, Laertes. Laertes had only one son, Odysseus. And I am Odysseus's only son. My father left me behind when he went away, so I've never been able to help him. That's why my house is now overrun by countless greedy men. The chiefs from all the neighboring islands—Dulichium, Same, and Zacynthus—along with the most important men of Ithaca itself, are devouring my household. They pretend to be courting my mother. She won't flat-out refuse to marry, nor will she bring an end to this situation. So, they are ruining my estate, and soon they'll ruin me too. However, the final outcome rests with the gods. But Eumaeus, my old friend, go at once and tell Penelope that I am safe and have returned from Pylos. Tell only her, and then come straight back here without letting anyone else know. Many people are plotting against me.\""
+  },
+  {
+    "character": "others",
+    "voice": "en-US-EricNeural",
+    "speed": 1.0,
+    "text": "\"I understand and will obey,\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Eumaeus replied."
+  },
+  {
+    "character": "others",
+    "voice": "en-US-EricNeural",
+    "speed": 1.0,
+    "text": "\"You don't need to instruct me further. But as I'm going that way, shouldn't I also let poor Laertes know that you've returned? Despite his deep sorrow for Odysseus, he used to oversee the farm work himself and would eat and drink freely with his servants. But people say that ever since you left for Pylos, he hasn't eaten or drunk properly. He doesn't look after his farm anymore. He just sits and weeps, wasting away until he's nothing but skin and bones.\""
+  },
+  {
+    "character": "telemachus",
+    "voice": "en-US-ChristopherNeural",
+    "speed": 1.0,
+    "text": "\"That's truly sad,\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Telemachus answered."
+  },
+  {
+    "character": "telemachus",
+    "voice": "en-US-ChristopherNeural",
+    "speed": 1.0,
+    "text": "\"My heart breaks for him, but we must leave him alone for now. If I could have everything my own way, the first thing I'd wish for would be my father's return. But go now, deliver my message, and hurry back. Don't go out of your way to tell Laertes. Tell my mother to send one of her women secretly to him with the news right away, so he can hear it from her.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Telemachus urged the swineherd, so Eumaeus put on his sandals, tied them to his feet, and headed for town. The goddess Athena watched him leave the hut. Then, she approached the hut herself, appearing as a beautiful, stately, and wise woman. She stood beside the entrance and revealed herself to Odysseus. Telemachus, however, couldn't see her and didn't even know she was there, for the gods don't reveal themselves to everyone. Odysseus saw her, and so did the dogs. The dogs didn't bark; instead, they whimpered in fear and ran to the far side of the yard. Athena nodded her head and signaled to Odysseus with her eyebrows. Odysseus then left the hut and stood before her, just outside the main wall of the yard. The goddess Athena spoke to him."
+  },
+  {
+    "character": "others",
+    "voice": "en-US-EricNeural",
+    "speed": 1.0,
+    "text": "\"Odysseus, noble son of Laertes,\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Athena said,"
+  },
+  {
+    "character": "others",
+    "voice": "en-US-EricNeural",
+    "speed": 1.0,
+    "text": "\"it's time to tell your son everything. Don't keep him in the dark any longer. Make your plans to destroy the suitors, then head for town. I won't be long in joining you. I'm eager for this fight myself!\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "As she spoke, Athena touched Odysseus with her golden wand. First, she draped a clean, fine tunic and cloak over his shoulders. Then, she transformed him, making him younger and more impressive. His face regained its color, his cheeks filled out, and his beard turned dark again. With that, the goddess Athena vanished. Odysseus walked back into the hut. His son was utterly astonished when he saw him. Telemachus quickly looked away, afraid he might be staring at a god."
+  },
+  {
+    "character": "telemachus",
+    "voice": "en-US-ChristopherNeural",
+    "speed": 1.0,
+    "text": "\"Stranger,\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Telemachus said,"
+  },
+  {
+    "character": "telemachus",
+    "voice": "en-US-ChristopherNeural",
+    "speed": 1.0,
+    "text": "\"you've changed so suddenly from just a moment ago! Your clothes are different, and your face looks completely new. Are you one of the gods who live in the heavens? If so, please be kind to me until I can offer you proper sacrifices and gifts of finely crafted gold. Have mercy on me!\""
+  },
+  {
+    "character": "odysseus",
+    "voice": "en-US-BrianNeural",
+    "speed": 1.0,
+    "text": "\"I am no god. Why would you mistake me for one?\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Odysseus began."
+  },
+  {
+    "character": "odysseus",
+    "voice": "en-US-BrianNeural",
+    "speed": 1.0,
+    "text": "\"I am your father, the very one who has caused you so much pain and left you to suffer at the hands of these lawless men.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "He finished speaking and kissed his son. A single tear rolled down his cheek and fell to the ground. He had held back all his tears until this moment. But Telemachus still couldn't believe this was his father. He spoke."
+  },
+  {
+    "character": "telemachus",
+    "voice": "en-US-ChristopherNeural",
+    "speed": 1.0,
+    "text": "\"You are not my father. Some god is just tricking me with false hopes, only to plunge me into deeper sorrow later. No mortal man could change himself from old to young, or young to old, in an instant, unless a god was helping him. Just a moment ago, you were an old man in rags. Now, you shine like a god descended from the heavens!\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Odysseus replied,"
+  },
+  {
+    "character": "odysseus",
+    "voice": "en-US-BrianNeural",
+    "speed": 1.0,
+    "text": "\"Telemachus, you shouldn't be so incredibly surprised that I am truly here. There will be no other Odysseus coming after me. It is I, your father, who has finally returned home after twenty long years of wandering and countless hardships. What you're amazed by is the work of the mighty goddess Athena. She can change me however she wishes. Nothing is impossible for her. One moment, she makes me look like a beggar. The next, she transforms me into a young man in fine clothes. For the gods who live in the heavens, it's as easy as breathing to make any mortal look rich or poor.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Odysseus finished speaking and sat down. Telemachus threw his arms around his father and wept. Both were so overwhelmed with emotion that they cried out loud, like eagles or vultures whose young, still learning to fly, have been stolen by farmers. Their cries were truly heartbreaking. The sun would have set on their sorrow if Telemachus hadn't suddenly spoken."
+  },
+  {
+    "character": "telemachus",
+    "voice": "en-US-ChristopherNeural",
+    "speed": 1.0,
+    "text": "\"My dear father, what ship brought you to Ithaca? What nation were the sailors from? You couldn't have come by land, could you?\""
+  },
+  {
+    "character": "odysseus",
+    "voice": "en-US-BrianNeural",
+    "speed": 1.0,
+    "text": "\"My son, I will tell you the truth,\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Odysseus replied."
+  },
+  {
+    "character": "odysseus",
+    "voice": "en-US-BrianNeural",
+    "speed": 1.0,
+    "text": "\"It was the Phaeacians who brought me here to Ithaca. They are excellent sailors, always willing to escort anyone who reaches their shores. They carried me across the sea while I was fast asleep and landed me right here in Ithaca. They gave me many gifts: bronze, gold, and fine clothes. Thanks to the gods' mercy, these gifts are safely hidden in a cave. And I have come here now at the suggestion of the goddess Athena, so we can plan how to defeat our enemies. First, give me a list of the suitors and their numbers. I need to know exactly who they are and how many there are. Then I can think this over carefully and decide if the two of us can fight them all alone, or if we need to find others to help us.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Telemachus answered,"
+  },
+  {
+    "character": "telemachus",
+    "voice": "en-US-ChristopherNeural",
+    "speed": 1.0,
+    "text": "\"Father, I've always heard of your great fame, both in battle and in council. But the task you're talking about is enormous. The mere thought of it makes me tremble. Two men cannot stand against so many brave warriors. There aren't just ten suitors, or even twenty. There are many, many more. I'll tell you their numbers right now. From Dulichium, there are fifty-two chosen young men, with six servants. From Same, twenty-four. From Zacynthus, twenty young Achaeans. And from Ithaca itself, twelve. All of them are from noble families. They also have a servant named Medon, a bard, and two men who carve meat at their feasts. If we face such a huge number, you might regret ever coming here and seeking revenge. Can't you think of anyone else who would be willing to come and help us?\""
+  },
+  {
+    "character": "odysseus",
+    "voice": "en-US-BrianNeural",
+    "speed": 1.0,
+    "text": "\"Listen to me,\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Odysseus replied,"
+  },
+  {
+    "character": "odysseus",
+    "voice": "en-US-BrianNeural",
+    "speed": 1.0,
+    "text": "\"and think carefully if the goddess Athena and her father Zeus will be enough, or if I should try to find someone else to help us.\""
+  },
+  {
+    "character": "telemachus",
+    "voice": "en-US-ChristopherNeural",
+    "speed": 1.0,
+    "text": "\"The ones you've named,\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Telemachus answered,"
+  },
+  {
+    "character": "telemachus",
+    "voice": "en-US-ChristopherNeural",
+    "speed": 1.0,
+    "text": "\"are indeed two very strong allies. Even though they live high among the clouds, they hold immense power over both gods and mortals.\""
+  },
+  {
+    "character": "odysseus",
+    "voice": "en-US-BrianNeural",
+    "speed": 1.0,
+    "text": "\"These two,\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Odysseus continued,"
+  },
+  {
+    "character": "odysseus",
+    "voice": "en-US-BrianNeural",
+    "speed": 1.0,
+    "text": "\"will not stay out of the fight for long once the suitors and I begin our battle in my house. So, tomorrow morning, return home early and mingle with the suitors as you usually do. Later, the swineherd will bring me to the city, disguised as a miserable old beggar. If you see them mistreating me, steel your heart against my suffering. Don't let it shake you. Even if they drag me out by my feet or throw things at me, just watch. Do nothing more than gently try to persuade them to act more reasonably. But they won't listen to you, because their day of reckoning is almost here. Furthermore, I have one more thing to tell you, so engrave these words in your heart. When the goddess Athena puts the thought into my mind, I will nod my head to you. When you see me do this, you must gather all the weapons in the house and hide them in the strong storeroom. If the suitors ask why you're removing the weapons, make an excuse. Say that the weapons have become dirty and stained with smoke since Odysseus left, so you're moving them to a place where the smoke won't reach them. Add, specifically, that you're afraid Zeus might make them quarrel when they're drunk on wine. Explain that the sight of weapons sometimes tempts people to use them, and they might harm each other, ruining both the feast and the wooing. But leave one sword and one spear for each of us, and two oxhide shields, so we can grab them instantly. Then Zeus and Athena will soon quiet these people. There's one more important thing. If you are truly my son and my blood runs in your veins, don't let anyone know that Odysseus is in the house. Not Laertes, not the swineherd, not any of the servants, not even Penelope herself. You and I alone will test the women, and we'll also test the male servants to see who is on our side and who is against us.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Telemachus replied,"
+  },
+  {
+    "character": "telemachus",
+    "voice": "en-US-ChristopherNeural",
+    "speed": 1.0,
+    "text": "\"Father, you will get to know me soon enough, and then you'll see that I can keep your secrets. However, I don't think the plan you've suggested will work out well for either of us. Please think it over again. It will take us far too long to go around to all the farms and test the men. All that time, the suitors will continue to waste your estate without any fear or regret. Testing the women to see who is disloyal and who is innocent is a good idea. But I'm not in favor of going around and testing all the men individually. If Zeus truly gives us a sign that he will support you, we can deal with the men later. It won't be too late then.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "While they were talking, the ship that had brought Telemachus and his crew from Pylos had already reached the town of Ithaca. As the ship entered the harbor, they pulled it onto the land. Servants came and took their armor, and all the gifts were left at Clytius's house. They then sent a servant to Penelope to tell her that Telemachus had gone to the countryside, but had sent the ship to town so she wouldn't be alarmed or upset. This servant happened to meet Eumaeus on the way to deliver the news to Penelope. When they arrived at the palace, the servant spoke to the queen in front of her waiting women."
+  },
+  {
+    "character": "others",
+    "voice": "en-US-EricNeural",
+    "speed": 1.0,
+    "text": "\"Your Majesty, your son has returned from Pylos!\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "But Eumaeus approached Penelope closely and privately told her everything her son had instructed him to say. After delivering his message, Eumaeus left the palace and its outbuildings and returned to his pigs.\n\nThe suitors were shocked and furious at this news. They went outside the great wall surrounding the outer courtyard and held a meeting near the main entrance. Eurymachus, son of Polybus, was the first to speak.\n\nEurymachus said,"
+  },
+  {
+    "character": "others",
+    "voice": "en-US-EricNeural",
+    "speed": 1.0,
+    "text": "\"My friends, Telemachus's voyage is a very serious problem. We were so sure he wouldn't accomplish anything. But now, we must launch a ship, gather a crew, and send them after the others. They need to be told to return as quickly as possible!\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "He had barely finished speaking when Amphinomus turned and saw the ship already in the harbor. The crew was lowering its sails and stowing their oars. He laughed and said to the others,"
+  },
+  {
+    "character": "others",
+    "voice": "en-US-EricNeural",
+    "speed": 1.0,
+    "text": "\"No need to send a message! They're already here. Some god must have warned them, or perhaps they saw our ship pass by and couldn't catch up.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "At this, they all stood up and headed to the waterfront. The crew then pulled the ship onto the beach. Servants took their armor, and they all went together to the meeting place. But they wouldn't let anyone, young or old, sit with them. Antinous, son of Eupeithes, spoke first.\n\nAntinous said,"
+  },
+  {
+    "character": "others",
+    "voice": "en-US-EricNeural",
+    "speed": 1.0,
+    "text": "\"By the gods! Look how they saved this man from destruction! We kept scouts on the headlands all day long, and after sunset, we didn't even go ashore to sleep. We waited in our ship all night until morning, hoping to capture and kill him, but some god secretly brought him home despite us. Now, let's figure out how to get rid of him. He must not escape us. As long as he's alive, our plans will never succeed. He's very clever, and public opinion isn't entirely on our side. We must act quickly before he can call the Achaeans to an assembly. He won't waste any time doing so. He'll be furious with us and tell everyone how we plotted to kill him but failed. People won't like this when they find out. We need to make sure they don't harm us or drive us from our own country into exile. So, let's try to seize him, either at his farm away from town or on the road here. Then we can divide his property among ourselves, and his mother and the man who marries her can have the house. If this plan doesn't appeal to you, and you want Telemachus to live on and keep his father's property, then we shouldn't gather here and waste his goods like this anymore. Instead, each of us should propose to Penelope from our own homes. Then she can marry the man who offers her the most, the one destined to win her.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Everyone fell silent until Amphinomus stood up to speak. He was the son of Nisus, who was the son of King Aretias. Among all the suitors from Dulichium, an island rich in wheat and lush grass, he was by far the most prominent. He was also a kind-hearted man by nature, which is why Penelope preferred his company over any of the other suitors. He spoke to them plainly and honestly."
+  },
+  {
+    "character": "others",
+    "voice": "en-US-EricNeural",
+    "speed": 1.0,
+    "text": "\"My friends, I do not agree with killing Telemachus. It is a terrible thing to kill a man of noble birth. Let's first consult the gods. If Zeus's oracle advises us to kill him, then I will help kill him myself, and I will urge everyone else to do the same. But if the gods warn us against it, then I want you all to hold back.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "When he finished speaking, his words pleased them. So they immediately rose and went to Odysseus's house, taking their usual seats.\n\nThen Penelope decided to show herself to the suitors. She knew about the plot against Telemachus because the servant Medon had overheard their conversation and told her. So, accompanied by her maidens, she went down to the courtyard. She approached the suitors, stood by one of the pillars supporting the cloister roof, and with a veil covering her face, she scolded Antinous."
+  },
+  {
+    "character": "others",
+    "voice": "en-US-EricNeural",
+    "speed": 1.0,
+    "text": "\"Antinous, you insolent and wicked schemer! People say you're the best speaker and advisor among men your age in Ithaca, but that's simply not true. You madman! How dare you try to kill Telemachus and ignore the pleas of suppliants, whom Zeus himself watches over? It's wrong for you to plot against each other like this. Don't you remember how your father fled to this very house, terrified of the people? They were enraged because he had joined Taphian pirates to plunder the Thesprotians, who were at peace with us. They wanted to tear him to pieces and seize everything he owned. But Odysseus calmed their fury and protected him. And now, you devour his property for free, woo his wife, and even try to kill his son! You are breaking my heart. Stop this at once, and make the others stop too.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Eurymachus, son of Polybus, replied,"
+  },
+  {
+    "character": "others",
+    "voice": "en-US-EricNeural",
+    "speed": 1.0,
+    "text": "\"Take heart, Queen Penelope, daughter of Icarius, and don't worry about these matters. As long as I live and breathe, no man will ever be born who dares to lay a hand on your son, Telemachus. I swear, if anyone tries to harm Telemachus, my spear will be stained red with their blood! Odysseus often held me on his knees, offered me wine to drink, and placed pieces of meat in my hands. So Telemachus is my dearest friend, and he has nothing to fear from us suitors. Of course, if the gods decree his death, he cannot escape it.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "He said this to reassure the queen, but in truth, he was secretly plotting against Telemachus.\n\nPenelope went upstairs again and mourned her husband until Athena sprinkled sleep over her eyes. That evening, Eumaeus returned to Odysseus and his son. They had just sacrificed a year-old pig and were preparing supper together. Athena approached Odysseus, touched him with her wand, and instantly transformed him back into an old man, dressing him in his old rags. She did this because she worried Eumaeus, the swineherd, might recognize him, fail to keep the secret, and tell Penelope.\n\nTelemachus spoke first."
+  },
+  {
+    "character": "telemachus",
+    "voice": "en-US-ChristopherNeural",
+    "speed": 1.0,
+    "text": "\"Eumaeus, you're back!\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "he said."
+  },
+  {
+    "character": "telemachus",
+    "voice": "en-US-ChristopherNeural",
+    "speed": 1.0,
+    "text": "\"What's the news from town? Have the suitors returned, or are they still waiting out there to ambush me on my way home?\""
+  },
+  {
+    "character": "others",
+    "voice": "en-US-EricNeural",
+    "speed": 1.0,
+    "text": "\"I didn't think to ask about that while I was in town,\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Eumaeus replied."
+  },
+  {
+    "character": "others",
+    "voice": "en-US-EricNeural",
+    "speed": 1.0,
+    "text": "\"My only thought was to deliver my message and return as quickly as possible. I did meet a messenger from those who went with you to Pylos, and he was the first to tell your mother the news. But I can tell you what I saw with my own eyes. I had just reached the top of Hermes' Hill, overlooking the town, when I saw a ship sailing into the harbor, packed with many men. They carried a lot of shields and spears. I suspected they were the suitors, but I couldn't be sure.\""
+  },
+  {
+    "character": "Narrator",
+    "voice": "en-US-AndrewNeural",
+    "speed": 1.0,
+    "text": "Hearing this, Telemachus smiled at his father, making sure Eumaeus didn't see him.\n\nOnce their work was done and supper was ready, they ate together. Everyone had their fill and was completely satisfied. After enjoying plenty to eat and drink, they lay down comfortably and drifted into sweet sleep."
+  }
+]

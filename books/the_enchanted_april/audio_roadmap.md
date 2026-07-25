@@ -95,7 +95,7 @@ Before treating Stage 4 as fully closed, a voice-mapping gap surfaced:
 ### Update (2026-07-08, later same day) — decisions made, EN patched
 
 - **KO**: no change — no extra voice available, KO scripts left exactly as-is (the 70 flagged lines stay male "Other").
-- **Python env**: confirmed to use `wsl_venv/` (repo root) — has kokoro + edge-tts + pydub + soundfile together, natively in WSL. Do not use the hermes-agent venvs.
+- **Python env**: confirmed to use `venv/` (repo root) — has kokoro + edge-tts + pydub + soundfile together. Do not use the hermes-agent venvs.
 - **EN voices picked** (via generated samples in `temp_audio/`, British Kokoro voices): **Scrap → `bf_isabella`** (speed 0.95), **Fisher → `bf_alice`** (speed 0.9).
 - **Applied**: `scripts_en/classify_fisher_scrap.py` reclassified 163 high-confidence Fisher lines and 119 high-confidence Scrap lines out of the "Other" bucket across all 22 EN chapters (only lines with an explicit "Mrs. Fisher said" / "Lady Caroline"/"Scrap said" directly adjacent — high precision, spot-checked).
 - **`generate_audio.py` patched**: it previously hardcoded a single American (`lang_code='a'`) Kokoro pipeline for every voice, which would have mishandled the new British `bf_` voices. Now picks pipeline by voice prefix (`a`/`b`) lazily.
@@ -104,7 +104,7 @@ Before treating Stage 4 as fully closed, a voice-mapping gap surfaced:
 
 ### Update (2026-07-08, evening) — KO audio was stale, full regen kicked off
 
-Found that **all 22 KO chapter scripts were newer than their generated audio** (`scripts_ko/script_ch_*.json` mtimes 07:45–14:07 vs. `final_audio_ko/` audio from Jul 7 22:25 – Jul 8 09:53) — a lot of Korean text/tagging fixes had landed after the last audio generation. Backed up the stale audio to `final_audio_ko_backup_20260708/` and started `python generate_audio_ko.py` (full 22-chapter + intro/closing/sample regen) in the background using `wsl_venv`. Completed successfully (one transient edge-tts failure on Ch14 segment 21, fixed with a clean single-chapter retry). KO Stage 4 audio is now current with the scripts.
+Found that **all 22 KO chapter scripts were newer than their generated audio** (`scripts_ko/script_ch_*.json` mtimes 07:45–14:07 vs. `final_audio_ko/` audio from Jul 7 22:25 – Jul 8 09:53) — a lot of Korean text/tagging fixes had landed after the last audio generation. Backed up the stale audio to `final_audio_ko_backup_20260708/` and started `python generate_audio_ko.py` (full 22-chapter + intro/closing/sample regen) in the background using `venv`. Completed successfully (one transient edge-tts failure on Ch14 segment 21, fixed with a clean single-chapter retry). KO Stage 4 audio is now current with the scripts.
 
 ### Update (2026-07-08/09) — full EN character-tagging audit, all 22 chapters, 274 fixes applied
 

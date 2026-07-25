@@ -1,0 +1,578 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Book 7",
+    "is_header": false
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "1. What is vice? It is what you have seen countless times. Whenever you see it, remind yourself that you have seen this all before. Search high and low, and you will find the same things everywhere. The events filling the history of ancient, middle, and modern times, and the things that crowd our cities and homes today, are not new. Everything is familiar, and everything is fleeting.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Narrator",
+    "text": "2. How can the great principles of life die, unless the thoughts that support them are put out? You always have the power to rekindle those thoughts. I can always form the right opinion about anything. If that is true, why should I let myself be disturbed? Whatever is outside my mind means nothing to it. Learn this, and you will stand upright. You can always renew your life. Simply look at things again the way you used to, and your life will be fresh and new.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Narrator",
+    "text": "3. Your shallow obsession with shows, stage plays, flocks, and herds, and all your little battles, are just like bones thrown to a pack of puppies. They are like bait dropped into a fishpond, the struggles and heavy loads of ants, the scampering of frightened mice, or the jerky movements of puppets on strings. Your duty is to stand firm in the middle of all this. Be kind and humble, but understand that a person's worth is equal to the worth of the things they chase.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Narrator",
+    "text": "4. When you talk to someone, pay close attention to what they are saying. In every project, focus on what is being done. With actions, look immediately at the goal. With words, try to grasp the underlying meaning.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Narrator",
+    "text": "5. Is my mind capable of handling this task, or not? If it is, I will use it for the work in front of me like a tool given to me by nature. If it is not, I will step aside for someone better suited for the job, unless it is my duty to press on. In that case, I do the best I can, leaning on those who can help guide my mind to achieve something useful for the common good. Everything I do, whether alone or with others, must be aimed completely at what is helpful and right for the community.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Narrator",
+    "text": "6. How many people who were once praised by the masses have been completely forgotten! And how many of the people who praised them have been dead and gone for ages!",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "Narrator",
+    "text": "7. Do not be ashamed to ask for help. It is your job to do your part, just like a soldier during a siege. What if you are injured and cannot climb the wall by yourself, but you can do it with someone else's help?",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Narrator",
+    "text": "8. Do not worry about the future. You will face it, if you must, with the very same power of reason that you use for your present problems.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Narrator",
+    "text": "9. All things are tied together in one sacred bond. Barely anything is entirely separate from another. Everything is arranged together to form one ordered whole. The universe, made of all things, is one. Through everything runs one divine spirit. Existence is one, and the law is one, because reason is shared by all intelligent creatures. Truth is also one, since there is only one kind of perfection possible for all beings that share the same nature and the same rational power.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Narrator",
+    "text": "10. Everything physical is quickly swallowed up in the matter of the whole universe, and every active cause is quickly absorbed back into the universal reason. The memory of all things is rapidly buried in eternity.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Narrator",
+    "text": "11. For a reasoning being, acting according to nature means acting according to reason.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Narrator",
+    "text": "12. Be upright naturally, or let yourself be corrected.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "role": "Narrator",
+    "text": "13. In a living body, individual parts play the same role as reasoning beings do in the world. They are built to work together for one shared purpose. This thought will hit home much harder if you frequently tell yourself,",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "role": "Male",
+    "text": "I am a limb of the massive organism made up of reasoning beings.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "role": "Narrator",
+    "text": "If you call yourself merely a part instead of a limb, you have not yet found a deep love for humanity. You do not yet love doing good just for the sake of doing good, and you only do your duty out of obligation, without realizing that you are helping yourself in the process.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "role": "Narrator",
+    "text": "14. Let the outside world affect whatever parts of you are open to being affected. Let the part that suffers complain about the suffering, if it wants. But as for me, if I refuse to believe that the event is bad, I remain unharmed. And choosing not to believe it is entirely within my power.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "role": "Narrator",
+    "text": "15. Let anyone say or do whatever they want. I must remain a good person. It is just as if gold, emeralds, or purple dye were constantly saying,",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "role": "Male",
+    "text": "Let people say or do what they want. I must be an emerald and keep my shine.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "role": "Narrator",
+    "text": "16. The mind that rules you does not upset itself. It does not create its own fears or spark its own cravings. If someone else can cause it grief or terror, let them try. But the mind will not let its own thoughts drive it into those emotions.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "role": "Narrator",
+    "text": "Let the body worry, if it can, about getting hurt, and let it complain when it suffers. But the soul, which feels fear and sadness and interprets those feelings, will not let any suffering in. You simply cannot force it to hold that opinion.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "role": "Narrator",
+    "text": "The ruling part of you is entirely independent, unless it chooses to rely on something else. In the same way, it is free from all disruption and roadblocks, as long as it does not disrupt or block itself.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "role": "Narrator",
+    "text": "17. To have good luck is simply to have a good spirit, or a good mind. What are you doing here, imagination? Go away, just as you came. I have no use for you. You have come back in your usual old way. I am not angry with you, but I want you gone.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "role": "Narrator",
+    "text": "18. Are you afraid of change? What can happen without it? What is more pleasant or more natural to the universe? Can you heat your bathwater without the firewood changing into ash? Can you eat unless your food goes through a change? Can anything useful be accomplished without change? Do you not realize that the change happening inside you is exactly the same, and just as necessary to the nature of the universe?",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "role": "Narrator",
+    "text": "19. All bodies sweep through the substance of the universe like a rushing river. They share the same nature and work together with the whole, just as our own limbs work together. How many people like Chrysippus, Socrates, and Epictetus have been swallowed up by the passage of time! Keep this in mind about every person and every situation.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "role": "Narrator",
+    "text": "20. I only worry about one thing: making sure I do nothing that goes against human nature, nothing that my nature rejects, and nothing that my nature is not yet ready for.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "role": "Narrator",
+    "text": "21. The time is fast approaching when you will forget everything, and when everyone will forget you.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "role": "Narrator",
+    "text": "22. It is a special part of being human to love even those who make mistakes. You can reach this level of love if you remember that even those who do wrong are your family. They mess up because they do not know any better, and they do not do it on purpose. Remember, too, that soon both you and they will be dead. Above all, remember that they have not actually harmed you, because they have not made your soul any worse than it was before.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "role": "Narrator",
+    "text": "23. The nature that presides over everything treats universal matter like wax. First, it sculpts a horse, then breaks it down and turns it into a tree, then a person, and then something else. Each shape lasts for only a short time. But there is nothing terrible about a chest being taken apart, just as there was nothing terrible about it being put together in the first place.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "role": "Narrator",
+    "text": "24. An angry look goes completely against nature. When your face is twisted in anger over and over, its beauty dies, fades away forever, and can never be brought back. Let this fact alone show you that anger goes against reason. If your sense of right and wrong disappears completely, what reason do you have to stay alive?",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "role": "Narrator",
+    "text": "25. In a very short time, Nature, the ultimate ruler of everything, will change all the things you see right now. She will take their substance to make new things, and then use that substance to make even more things, so the universe will always stay fresh and new.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "role": "Narrator",
+    "text": "26. Whenever someone wrongs you, immediately think about what mistaken idea of good or bad made them do it. Once you see where their mistake lies, you will feel sorry for them instead of being surprised or angry. You might even hold the same wrong ideas about what is good, or something very similar. In that case, it is your duty to forgive them. And if you have let go of those false ideas of good and bad, it will be much easier to show patience to someone who is still confused.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "role": "Narrator",
+    "text": "27. Do not spend time thinking about what you lack, but rather on what you already have. Pick out the best things you possess, and remind yourself how desperately you would want them if they were not yours. But be careful. Do not let your joy in what you have cause you to value these things too much, or you will be devastated if you ever lose them.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "role": "Narrator",
+    "text": "28. Retreat into yourself. Your rational mind naturally finds happiness in acting fairly and in the peace that fairness brings.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "role": "Narrator",
+    "text": "29. Wipe away your imagination. Stop the violent urges of your passions. Keep your focus entirely on the present moment. Clearly observe everything that happens, whether to you or to someone else. Break everything down into its cause and its physical matter. Think about your final hour. Leave the mistakes of others right where they belong.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "role": "Narrator",
+    "text": "30. Pay close attention to what people are saying. Dig deep into everything that happens and find the causes behind it.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "role": "Narrator",
+    "text": "31. Find joy in simplicity, modesty, and not caring about the things that are neither good nor bad. Love humanity and obey God. Someone once said that everything runs by law and order. But what if there is nothing out there but random atoms? Even if that is true, it is enough to remember that almost everything is governed by law.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "role": "Narrator",
+    "text": "32. When it comes to death: If the universe is just a random crash of atoms, death is simply those atoms scattering. If the universe is an organized whole, death is either a complete end or a transfer to another state of being.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "role": "Narrator",
+    "text": "33. When it comes to pain: Pain that you cannot handle will bring your life to an end, freeing you. Pain that lingers must be something you can endure. Your mind can separate itself from your body, meaning your soul takes no damage. As for the body parts suffering from the pain, let them complain if they can.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "role": "Narrator",
+    "text": "34. When it comes to glory: Look at the minds of the people offering the praise. Look at what they avoid and what they chase. Just as new layers of sand blow over the old ones and bury them, the events of past ages are quickly buried by the next.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "role": "Narrator",
+    "text": "35. A thought from Plato:",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "role": "Male",
+    "text": "Do you think a person with true greatness of mind, who looks at all of time and all of existence, could view human life as a huge deal?",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "role": "Male",
+    "text": "Impossible,",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "role": "Narrator",
+    "text": "the other replies.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "role": "Male",
+    "text": "Could someone like that see death as something to fear?",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "role": "Male",
+    "text": "No, absolutely not.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "role": "Narrator",
+    "text": "36. Antisthenes once said that it is the mark of a king to do good deeds and receive insults in return.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "role": "Narrator",
+    "text": "37. It is shameful for your face to obey your mind, shaping itself however your mind demands, while your mind cannot shape and control itself however it wants.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "role": "Narrator",
+    "text": "38. It is useless to get angry at outside events, because they do not care about your anger at all.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "role": "Narrator",
+    "text": "39. Bring joy to us and to the immortal Gods.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "role": "Narrator",
+    "text": "40. Life is like a heavy stalk of grain that gets cut down. Some must fall, and some are left unharvested.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "role": "Narrator",
+    "text": "41. If the Gods ignore me and my children, there is a good reason for it.",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "role": "Narrator",
+    "text": "42. Because I keep what is right and just on my side.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "role": "Narrator",
+    "text": "43. Do not cry with them, and quiet your own throbbing sorrow.",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "role": "Narrator",
+    "text": "44. Another thought from Plato:",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "role": "Male",
+    "text": "I would give him a fair answer. I would say, 'You are wrong, my friend, if you think a person of any real worth should weigh their chances of living against their chances of dying. Instead, in everything they do, they should only care about whether they are acting fairly or unfairly, and whether they are acting like a good person or a bad one.'",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "role": "Narrator",
+    "text": "45. And he says this as well:",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "role": "Male",
+    "text": "To tell you the truth, men of Athens, this is how it really is. Wherever a person chooses to take a stand because they think it is best, or wherever their commander orders them to be, that is where they should stay, no matter the danger. They should ignore death, and care about nothing except avoiding dishonor.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "role": "Narrator",
+    "text": "46. And again:",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "role": "Male",
+    "text": "Think about this, my friend. Being truly noble and truly good might have nothing to do with saving your own life or being saved. A real human being should not focus on squeezing a few extra years out of life or make survival their main goal. Instead, they should hand it all over to the will of God. They should accept the old saying that no one can outrun their fate, and figure out how to spend the time they have left in the best possible way.",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "role": "Narrator",
+    "text": "47. Watch the paths of the stars, and imagine yourself running right alongside them. Constantly think about how the elements are always changing into one another. Thinking about these things washes away the dirt of this earthly life.",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "role": "Narrator",
+    "text": "48. Plato made a great point when he said that to talk about humanity, you need to look down on earthly things from a high place. You have to look at herds and armies, farms and weddings, hellos and goodbyes, births and deaths. You need to see the chaos of the courthouses, empty deserts, and all the different nations of the world. You have to look at celebrations and funerals, business trades, the massive jumble of it all, and the order that somehow rises out of all opposites.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "role": "Narrator",
+    "text": "49. Think about the past and the rise and fall of so many empires. Doing this helps you predict what is going to happen next. Things will always be the same, and they can never break the rhythm they are moving in right now. Because of this, watching human life for forty years is basically the same as watching it for ten thousand years. What else is there to see?",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "role": "Narrator",
+    "text": "50. Everything born from the earth goes back to the earth, but what comes from heaven rises back to heaven.",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "role": "Narrator",
+    "text": "This means either a clump of atoms falling apart, or eternal elements scattering away.",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "role": "Narrator",
+    "text": "51. People try to dodge death using food, drinks, spells, and magic tricks. But we just have to endure the storm that God sends us, working hard without complaining.",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "role": "Narrator",
+    "text": "52. He might be a better wrestler than you, but he is not a better citizen. He is not humbler, not better equipped for bad luck, and not more forgiving of his neighbors' flaws.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "role": "Narrator",
+    "text": "53. Whenever we can act in line with the reason shared by Gods and humans, we have nothing to fear. When we can benefit from good actions that match human nature, we do not need to expect anything bad to happen.",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "role": "Narrator",
+    "text": "54. In any place and at any time, you can gratefully accept your current luck and treat the people around you fairly. You can carefully examine all the thoughts popping into your head, so nothing slips past before you fully understand it.",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "role": "Narrator",
+    "text": "55. Do not snoop around in other people's souls. Keep your eyes locked on the finish line nature has set for you. Watch where the universe is pushing you through outside events, and where your own nature is steering you through your actions. Every being has to play the part it was made for. All lesser things were created for the beings with reason, just as lower things exist for higher things. And rational beings were created for each other. The main trait of human nature, then, is a drive for community. The second is mastering the urges of the body. Reason sets its own limits and refuses to be overpowered by senses or passions, which are more animalistic. The intellect demands to be in charge and never to be a slave to the body, and rightly so, because it was built to command and use all those lower abilities. The third trait of a reasoning being is being careful to avoid rushing and making mistakes. Let the soul march straight ahead armed with these principles, and it takes full possession of what is rightfully hers.",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "role": "Narrator",
+    "text": "56. Treat yourself as if you were dead, and as if your life were already over. Take whatever time is left to you, as an unexpected bonus, and live it according to nature's laws.",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "role": "Narrator",
+    "text": "57. Only love what happens to you, the things spun out for you by fate. What could possibly suit you better?",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "role": "Narrator",
+    "text": "58. Whenever something bad happens, picture the people who went through the exact same thing. They threw fits, acted shocked, and whined about it. Where are they now? Gone forever. Why do you want to act like them? Leave those unnatural tantrums to flaky people who change with the wind. Instead, figure out how to make good use of these events. There is a good use for them, because they give you the raw materials for doing the right thing. Just focus your effort and desire on being proud of your own actions. Remember that the physical things attached to your efforts and desires do not matter at all.",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "role": "Narrator",
+    "text": "59. Look inside yourself. The fountain of goodness is right there. Keep digging, and it will never stop flowing.",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "role": "Narrator",
+    "text": "60. Keep your body steady and controlled in how you move and how you sit. Just as a wise and graceful face shows what kind of soul you have, your whole body should project that same power. But you have to do all this naturally, without showing off.",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "role": "Narrator",
+    "text": "61. The art of life is a lot more like wrestling than dancing. A wrestler always has to be on guard and stand their ground against sudden, unexpected attacks from their opponent.",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "role": "Narrator",
+    "text": "62. Always think about the kind of people whose approval you want, and look at the state of their souls. When you see what drives their opinions and desires, you will not blame them for mistakes they make by accident, and you will not care about their praise anymore.",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "role": "Narrator",
+    "text": "63. Plato says that every soul loses the truth against its will. The same goes for fairness, self-control, kindness, and every other virtue. You must keep this in mind at all times. If you do, you will be much gentler with everyone.",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "role": "Narrator",
+    "text": "64. During any pain, remember that there is nothing shameful about it. Pain cannot damage the soul that guides you, and it cannot destroy your ability to reason or help others. When dealing with most pain, Epicurus's advice can help:",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "role": "Male",
+    "text": "Pain is never unbearable or unending if you remember its limits and do not make it worse with your imagination.",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "role": "Narrator",
+    "text": "Also, remember that a lot of things irritate us without us even realizing they are basically just like pain—things like being sleepy, feeling too hot, or having no appetite. When you get annoyed by things like these, tell yourself that you are letting pain win.",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "role": "Narrator",
+    "text": "65. Make sure you never treat the most brutal and cruel people the way they treat everyone else.",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "role": "Narrator",
+    "text": "66. How do we really know that Telauges was not smarter than Socrates? It is not enough that Socrates died a more heroic death or argued more sharply with the philosophers. It is not enough that he patiently stood guard through a freezing night, bravely refused to arrest an innocent man, or carried himself with a dignified air in public—which we can probably doubt anyway. But even if all that is true, when looking at Socrates, we have to ask what kind of soul he had. Was he happy simply acting fairly toward people and respectfully toward the Gods? Was he able to stay calm around the flaws of others instead of getting angry or kissing up to them in their ignorance? Did he accept whatever the ruler of the universe threw his way without complaining that it was unbearable? And did he keep his soul from surrendering to the passions of his body?",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "role": "Narrator",
+    "text": "67. Nature has not glued the soul to the body so tightly that the soul cannot draw its own boundaries and do its own job. It is entirely possible to be a God among men without anyone noticing. Always remember that, and remember this too: a happy life requires very little. Even if you give up on being a great philosopher or scientist, you can still become a free person, full of modesty, unselfishness, and obedience to God.",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "role": "Narrator",
+    "text": "68. You have the power to live above all violence, keeping total peace of mind, even if the whole world screams insults at you. You can do this even if wild animals tear this lump of flesh that grew alongside you into pieces. What can stop your soul in the middle of all this from staying perfectly calm, judging the situation clearly, and using whatever is thrown its way? Judgment can look at the crisis and say,",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "role": "Male",
+    "text": "This is what you really are, no matter how scary you look to others.",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "role": "Narrator",
+    "text": "Practical use can say to the situation,",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "role": "Male",
+    "text": "I was looking for you. For me, everything that happens right now is just material for reasoning and acting well. It is a chance to practice the art of being human and following God.",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "role": "Narrator",
+    "text": "Everything that happens is useful and familiar when working for God or humanity. Nothing is new or impossible to handle; everything is well known and ready to be used.",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "role": "Narrator",
+    "text": "69. The ultimate moral goal is to spend every day as if it were your last, without frenzy, without laziness, and without putting on an act.",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "role": "Narrator",
+    "text": "70. The Gods are immortal, and they do not get upset that they have to put up with so many terrible sinners for all of eternity. In fact, they go out of their way to take care of them. But you, who will be dead any minute, cannot stand them anymore—even though you are a sinner yourself!",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "role": "Narrator",
+    "text": "71. It is ridiculous that you do not try to run away from your own flaws, which is actually possible, but instead you exhaust yourself trying to run away from other people's flaws, which is impossible.",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "role": "Narrator",
+    "text": "72. Whenever your reasoning and social side sees something that does not serve rational or social goals, it rightfully judges that thing as beneath it.",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "role": "Narrator",
+    "text": "73. When you have done a kind thing for someone, they have benefited. Why do you act like a fool and expect a third thing on top of it—like a reputation for being generous or getting something in return?",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "role": "Narrator",
+    "text": "74. No one ever gets tired of doing what brings them a reward, and your real reward is acting according to nature. Therefore, never get tired of gaining your reward by helping others gain theirs.",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "role": "Narrator",
+    "text": "75. Nature set out to create an organized universe. Right now, either everything that happens follows an unstoppable chain of cause and effect, or we have to admit that there is barely any reason behind the most beautiful things in the world, the things the universal mind seems to care about the most. Remembering this will keep you calm in a lot of situations.",
+    "is_header": false
+  }
+]

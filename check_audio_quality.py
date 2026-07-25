@@ -218,7 +218,7 @@ def main():
         # Scan for mp3 files
         for root, _, files in os.walk(target_path):
             # Skip hidden folders or venv
-            if any(part.startswith(".") or part == "venv" or part == "wsl_venv" for part in root.split(os.sep)):
+            if any(part.startswith(".") or part == "venv" for part in root.split(os.sep)):
                 continue
             for file in files:
                 if file.lower().endswith(".mp3"):

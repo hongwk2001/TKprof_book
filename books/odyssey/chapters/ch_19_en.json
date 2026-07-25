@@ -1,0 +1,524 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Book 19",
+    "is_header": false
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "Telemachus and Odysseus Remove the Weapons — Odysseus Speaks with Penelope — Eurycleia Washes Odysseus's Feet and Recognizes His Scar — Penelope Tells Odysseus Her Dream",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Narrator",
+    "text": "Odysseus remained in the cloister, thinking deeply about how he and Athena would defeat the suitors. After a while, he said to Telemachus,",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Female",
+    "text": "Telemachus, we must gather all the weapons and move them inside. If the suitors ask why you've removed them, make up a good excuse. Tell them the weapons have become dirty and covered in soot from the smoke since Odysseus left, so you've moved them somewhere the smoke can't reach. Add that you're especially worried that the drunken suitors might anger Zeus and start fighting among themselves, ruining both the feast and their courtship. Weapons can sometimes tempt people to use them.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Narrator",
+    "text": "Telemachus agreed with his father. He called for Nurse Eurycleia and said,",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Child",
+    "text": "Nurse, please lock the women in their rooms. I need to move the weapons my father left behind into the storeroom. No one has looked after them since my father left, and they've been covered in soot throughout my childhood. I want to move them somewhere the smoke can't reach.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Child",
+    "text": "My boy,",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "Narrator",
+    "text": "Eurycleia replied,",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Child",
+    "text": "I wish you would take full charge of this house and all its belongings yourself. But who will go with you and light the way for you to the storeroom? The maids could have done it, but you didn't allow them.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Male",
+    "text": "The stranger will light the way for me,",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Narrator",
+    "text": "Telemachus said.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Male",
+    "text": "Anyone who eats my bread, no matter where they come from, must earn their keep.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Narrator",
+    "text": "Eurycleia did as she was told and locked the women in their rooms. Then Odysseus and his son quickly moved the helmets, shields, and spears inside. The goddess Athena stood before them, holding a golden lamp that shone with a soft, brilliant light. Seeing this, Telemachus said,",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "role": "Child",
+    "text": "Father, I see an amazing sight! The walls, with the rafters, crossbeams, and the pillars supporting them, are all glowing as if on fire. A god from the heavens must be here!",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "role": "Narrator",
+    "text": "Odysseus replied,",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "role": "Female",
+    "text": "Hush, be quiet and don't ask any questions. This is how the gods work. Go to your bed, and leave me here to talk with your mother and the maids. Your mother, in her sorrow, will have many questions for me.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "role": "Narrator",
+    "text": "So, Telemachus took a torch and went across the courtyard to his usual bedroom. He slept soundly in his bed until morning, while Odysseus was still in the cloister, deep in thought about how he and Athena would defeat the suitors.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "role": "Narrator",
+    "text": "Then Penelope came down from her room, looking as beautiful as Aphrodite or Artemis. The maids placed her usual chair, decorated with silver and ivory carvings, near the fire. Icmalius had crafted it, and its footstool was built right into the seat. It was covered with a thick wool blanket. Penelope sat on it, and the maids came from the women's room to join her. They began clearing the tables where the wicked suitors had been dining, taking away the leftover bread and the cups they had used. They emptied the embers from the braziers and piled on plenty of wood to provide both light and heat. But Melantho began to scold Odysseus for a second time.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "role": "Female",
+    "text": "Stranger,",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "role": "Narrator",
+    "text": "she said,",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "role": "Female",
+    "text": "are you planning to bother us all night, wandering around the house and spying on the women? Get out, you miserable wretch! Go eat your supper outside, or I'll chase you out with a burning torch!",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "role": "Narrator",
+    "text": "Odysseus glared at her and replied,",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "role": "Child",
+    "text": "My dear woman, why are you so angry with me? Is it because I'm dirty and my clothes are in rags, and because I'm forced to beg like any wandering beggar? I, too, was once a rich man and had a fine house of my own. In those days, I generously gave to many wanderers like myself, no matter who they were or what they needed. I had countless servants and everything else that wealthy people enjoy, but Zeus decided to take everything from me. So, woman, be careful, or you might lose that pride and high position you flaunt over your companions. Be careful not to displease your mistress, and remember that Odysseus might return home, for there's still a chance. Moreover, even if he is dead, as you think, by Apollo's will, he left a son behind him, Telemachus. He is no longer a boy and will notice any wrongdoing by the maids in this house.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "role": "Narrator",
+    "text": "Penelope heard what he was saying and scolded the maid.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "role": "Child",
+    "text": "You insolent girl!",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "role": "Narrator",
+    "text": "she said.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "role": "Child",
+    "text": "I saw exactly how abominably you were behaving, and you will pay for it. You knew perfectly well, because I told you myself, that I was going to see the stranger and ask him about my husband, because of whom I am constantly grieving.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "role": "Narrator",
+    "text": "Then she said to her chief maid, Eurynome,",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "role": "Female",
+    "text": "Bring a chair with a wool blanket on it so the stranger can sit and tell his story, and listen to what I have to say. I want to ask him some questions.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "role": "Narrator",
+    "text": "Eurynome immediately brought the chair and placed a wool blanket on it. As soon as Odysseus sat down, Penelope began.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "role": "Female",
+    "text": "Stranger, I will first ask you who you are and where you come from. Tell me about your hometown and your parents.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "role": "Female",
+    "text": "My lady,",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "role": "Narrator",
+    "text": "answered Odysseus,",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "role": "Female",
+    "text": "who on earth could possibly criticize you? Your fame reaches the very heavens. You are like a flawless king who champions justice, ruling over a great and brave nation. Because of his goodness, the earth yields abundant wheat and barley, the trees are loaded with fruit, the ewes give birth to lambs, the sea teems with fish, and his people thrive under his rule. Nevertheless, as I sit here in your house, please ask me some other question and don't ask about my family and origins. It will only bring back painful memories and increase my sorrow. I am filled with sadness, but it's not right for me to sit here weeping and wailing in someone else's home. It's not good to grieve constantly. Otherwise, one of your servants, or even you yourself, might complain that my eyes are wet with tears because I've had too much wine.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "role": "Narrator",
+    "text": "Then Penelope replied,",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "role": "Child",
+    "text": "Stranger, the gods took away all my beauty, both my face and my figure, when the Argives sailed for Troy, and my dear husband went with them. If he were to return and manage my household, I would be more respected and present myself better to the world. As it is, I am oppressed with worry and the sorrows the gods have piled upon me. The lords from all our islands, Dulichium, Same, and Zacynthus, as well as from Ithaca itself, are trying to marry me against my will and are squandering my wealth. So I can't pay attention to strangers, beggars, or even skilled craftsmen. My heart is constantly breaking for Odysseus. They want me to marry again right away, and I have to come up with clever tricks to fool them. First, the gods put it into my mind to set up a large embroidery frame in my room and begin a huge, intricate piece of needlework. Then I said to them, 'My dear suitors, Odysseus is indeed dead, but please don't pressure me to marry again right away. I don't want my skill in needlework to be forgotten, so wait until I finish weaving a burial shroud for the noble Laertes. It will be ready for when death finally takes him. He is a very wealthy man, and the women of the town would gossip if he were buried without a proper shroud.' This is what I said, and they agreed. So, I worked on my great weaving project all day long, but at night, by torchlight, I would secretly undo the stitches. I tricked them like this for three years, and they never found out. But as time passed, and I was in my fourth year, with the moons waning and many days gone by, those worthless maids of mine betrayed me to the suitors. They burst in and caught me, furious, and forced me to finish the work whether I wanted to or not. Now, I don't see any other way to avoid this marriage. My parents are pressuring me greatly, and my son is angry about how the suitors are destroying his estate. He's old enough now to understand everything and perfectly capable of managing his own affairs, for the gods have blessed him with a wonderful nature. Still, despite all this, tell me who you are and where you come from, for you must have had a father and mother of some sort. You can't be the son of an oak tree or a rock.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "role": "Narrator",
+    "text": "Then Odysseus answered,",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "role": "Child",
+    "text": "My lady, wife of Odysseus, since you persist in asking me about my family, I will answer, no matter how painful it is. Anyone who has been an exile for so long and suffered among so many people must expect to feel pain. Still, I will tell you everything you ask about your question. There is a beautiful and fertile island in the middle of the sea called Crete. It is densely populated, with ninety cities. The people speak many different languages, all mixed together, for there are Achaeans, brave Eteocretans, Dorians of three-fold race, and noble Pelasgi. There is a great town there, Knossos, where King Minos ruled. Every nine years, he would meet with Zeus himself. Minos was Deucalion's father, and I am Deucalion's son. Deucalion had two sons, Idomeneus and me. Idomeneus sailed for Troy, and I, the younger brother, am called Aethon. My brother, however, was older and braver than I. It was in Crete that I met Odysseus and offered him hospitality. The winds had blown him off course from Cape Malea while he was sailing to Troy, leaving him at Amnisus, near the cave of Ilithuia. The harbors there are difficult to enter, and he could barely find shelter from the fierce winds raging at the time. As soon as he got there, he went into the town and asked for Idomeneus, claiming to be his old and dear friend. But Idomeneus had already set sail for Troy some ten or twelve days earlier. So I took him to my own house and showed him every kind of hospitality, for I had plenty of everything. Moreover, I fed his men barley meal from the public stores, and gathered wine and oxen so they could offer sacrifices to their hearts' content. They stayed with me twelve days, because a powerful north wind was blowing, so strong you could barely stand on land. I suppose some unfriendly god had stirred up the storm for them, but on the thirteenth day, the wind died down, and they departed.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "role": "Narrator",
+    "text": "Odysseus continued to tell her many convincing stories, and Penelope wept as she listened, her heart melting with emotion. Just as snow on mountain peaks melts when the southeast and west winds blow, making rivers overflow their banks, so too did tears stream down her cheeks for the husband who sat beside her the entire time. Odysseus felt pity and sorrow for her, but he kept his eyes as hard as horn or iron, not letting them even tremble. He skillfully held back his tears. Then, when she had cried her fill and calmed her heart, she turned to him again and said,",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "role": "Female",
+    "text": "Now, stranger, I shall put you to the test and see whether you truly hosted my husband and his men, as you claim. Tell me, then, how he was dressed, what he looked like, and what his companions were like.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "role": "Child",
+    "text": "My lady,",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "role": "Narrator",
+    "text": "answered Odysseus,",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "role": "Child",
+    "text": "it was so long ago that it's hard for me to say precisely. Twenty years have passed since he left my home and went elsewhere. But I will tell you as well as I can recollect. Odysseus wore a double-lined cloak of purple wool, fastened with a gold brooch that had two loops for the pin. On its surface, there was a design: a dog holding a spotted fawn between its front paws, watching it as it lay panting on the ground. Everyone marveled at how skillfully this was crafted in gold, with the dog staring at the fawn, strangling it, and the fawn desperately struggling to escape. The shirt he wore next to his skin was so soft it fit him like an onion's peel. It shimmered in the sunlight, drawing the admiration of every woman who saw it. I must also tell you, and please remember this, that I don't know if Odysseus wore these clothes when he left home, or if one of his companions gave them to him during his journey, or perhaps someone at whose house he was staying gave them as a gift. He had many friends and few equals among the Achaeans. I myself gave him a bronze sword, a beautiful double-lined purple cloak, and a shirt that reached his feet. I sent him off on his ship with all due honor. He had a servant with him, a little older than himself, and I can describe him to you. His shoulders were hunched, his skin was dark, and he had thick, curly hair. His name was Eurybates, and Odysseus treated him more intimately than anyone else, as they were very much alike in spirit.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "role": "Narrator",
+    "text": "Penelope was even more deeply moved by the undeniable proof Odysseus had given her. After she had found comfort in her tears once more, she said to him,",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "role": "Female",
+    "text": "Stranger, I already felt pity for you, but from now on, you will be honored and welcomed in my home. I was the one who gave Odysseus those clothes you described. I took them from the storeroom and folded them myself, and I also gave him the gold brooch to wear as an ornament. Oh, no! I will never welcome him home again. It was a terrible fate that he ever set out for that cursed city, whose very name I can't even bring myself to say.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "role": "Narrator",
+    "text": "Odysseus replied,",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "role": "Female",
+    "text": "My lady, wife of Odysseus, please don't ruin yourself further by grieving so bitterly. I truly understand your sorrow. Any woman who loves her husband and has children with him would naturally mourn his loss, even if he were a lesser man than Odysseus, who they say was like a god. But please, dry your tears and listen to my story. I will hide nothing and tell you the absolute truth. I recently heard that Odysseus is alive and on his way home. He is currently among the Thesprotians, bringing back a great deal of valuable treasure he collected from them. However, his ship and all his crew were lost while leaving Thrinacia. Zeus and the sun-god were furious because Odysseus's men had slaughtered the sun-god's cattle, and every single sailor drowned. But Odysseus clung to the ship's keel and drifted to the land of the Phaeacians, a people close to the gods. They treated him like a deity, giving him many gifts and intending to send him home safely. In fact, Odysseus would have been here long ago, but he thought it better to travel from land to land, gathering more wealth. There's no one in the world as cunning as he is; no one can compare to him. King Pheidon of the Thesprotians told me all of this. He swore to me, pouring out wine in his house, that a ship was ready at the shore and a crew had been found to take Odysseus back to his own country. He sent me ahead because there happened to be a Thesprotian ship sailing for the fertile island of Dulichium. But he showed me all the treasure Odysseus had gathered. There was enough wealth piled up in King Pheidon's house to last Odysseus's family for ten generations. The king also said Odysseus had gone to Dodona to learn Zeus's will from the sacred oak tree, to decide whether to return to Ithaca openly or in secret after such a long absence. So, you can be sure he is safe and will arrive shortly. He is close by and cannot stay away from home much longer. Nevertheless, I will confirm my words with an oath. I swear by Zeus, the greatest and most powerful of all gods, and by this very hearth of Odysseus where I now stand, that everything I have told you will surely come to pass. Odysseus will return this very year. By the end of this month, or the start of the next, he will be here.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "role": "Narrator",
+    "text": "Penelope replied,",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "role": "Female",
+    "text": "I pray it is so. If your words prove true, I will give you such generous gifts and kindness that everyone who sees you will congratulate you. But I know very well how things stand. Odysseus will not return, and you will not receive an escort from here. Since Odysseus is gone, there is no longer a master in this house like him, one who would welcome honorable strangers and help them on their way home. Now, maids, wash his feet and prepare a bed for him with rugs and blankets, so he can rest warmly and peacefully until morning. Then, at dawn, wash and anoint him again, so he can sit in the hall and eat with Telemachus. Any of these hateful men who treats him rudely will face my wrath. Whether they like it or not, they will have no more say in this house. For how, sir, can you know if my heart and understanding are superior to other women's if I let you dine in my hall, looking squalid and poorly dressed? Life is short. If people are cruel and act harshly, they are hated while alive and scorned after death. But those who are righteous and act justly are praised in every land, and many will bless them.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "role": "Narrator",
+    "text": "Odysseus replied,",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "role": "Child",
+    "text": "My lady, I have given up rugs and blankets since the day I left the snowy mountains of Crete to board a ship. I will lie down as I have on countless sleepless nights before. Night after night, I've waited for morning in rough sleeping places. Also, I don't like having my feet washed. I certainly don't want any of the young maids in your house touching my feet. But if there is an old, respected woman here who has endured as much hardship as I have, I will allow her to wash them.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "role": "Narrator",
+    "text": "To this Penelope said,",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "role": "Child",
+    "text": "My dear sir, of all the guests who have ever come to my house, none has spoken with such admirable wisdom in every way as you have. As it happens, there is a most respected old woman in this house. She is the same one who held my poor dear husband in her arms the night he was born and nursed him throughout his childhood. She is very frail now, but she shall wash your feet.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "role": "Narrator",
+    "text": "Penelope called out,",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "role": "Child",
+    "text": "Eurycleia, come here and wash the feet of this man, who is the same age as your master. I imagine Odysseus's hands and feet are much like his now, for hardship ages us all terribly fast.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "role": "Narrator",
+    "text": "At these words, the old woman covered her face with her hands. She burst into tears and lamented,",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "role": "Child",
+    "text": "My dear child, I don't know what to make of you. I'm certain no one was ever more god-fearing than you, yet why does Zeus hate you so? No one in the world ever burned more thigh bones or offered finer sacrifices to him when you prayed to reach a peaceful old age and see your son grow up to be like you. Yet look how he has kept you alone from ever returning home! I'm sure the women in whatever foreign palace Odysseus is in are mocking him, just as these rude maids here have mocked you. I don't wonder that you don't want them to wash you after the way they've insulted you. I will wash your feet myself, gladly, as Penelope has asked me to. I will wash them both for Penelope's sake and for your own, for you have stirred the deepest compassion in my heart. And listen closely to one more thing: we have had all kinds of suffering strangers come here before, but I dare say that no one has ever come here who was so much like Odysseus in appearance, voice, and even his feet, as you are.",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "role": "Narrator",
+    "text": "Odysseus replied,",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "role": "Male",
+    "text": "Everyone who has seen us both has always said we were remarkably similar. And now you've noticed it too.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "role": "Narrator",
+    "text": "The old woman brought the basin for washing his feet. She poured in plenty of cold water, then added hot water until it was warm enough. Odysseus sat by the fire, but soon he turned away from the light. He realized that the old woman might recognize a certain scar on his leg, and then the whole truth would be revealed. Indeed, as soon as she began washing her master, she immediately recognized the scar. It was a wound Odysseus had received from a wild boar while hunting on Mount Parnassus with his excellent grandfather Autolycus, who was the most accomplished thief and perjurer in the world, and with Autolycus's sons. Hermes himself had given him this gift, because Autolycus used to burn the thigh bones of goats and kids as offerings to Hermes, so the god enjoyed his company. It happened once that Autolycus had gone to Ithaca and found his daughter's newborn child. After supper, Eurycleia placed the infant on his knees and said,",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "role": "Child",
+    "text": "Lord Autolycus, you must name your grandson. You greatly wished for a grandson, didn't you?",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "role": "Narrator",
+    "text": "Autolycus replied,",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "role": "Child",
+    "text": "Son-in-law and daughter, name the child this: I have caused much displeasure to many people, both men and women, in various places. So name the child 'Odysseus,' which means 'Child of Anger' or 'Child of Pain.' When he grows up and comes to visit his mother's family on Mount Parnassus, where my treasures are kept, I will give him gifts and send him back rejoicing.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "role": "Narrator",
+    "text": "So Odysseus went to Parnassus to receive the gifts from Autolycus. Autolycus and his sons shook his hand and welcomed him. His grandmother Amphithea wrapped her arms around him, kissing his head and his beautiful eyes. Autolycus then asked his sons to prepare dinner, and they did as he told them. They brought in a five-year-old bull, skinned and prepared it, then divided it into joints. These they carefully cut into smaller pieces, skewered them, and roasted them until done. Then they served the portions to everyone. They feasted all day long until sunset, and everyone had their fill. When the sun set and darkness fell, they went to bed and enjoyed the sweet gift of sleep.",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "role": "Narrator",
+    "text": "When rosy-fingered Dawn appeared, Autolycus's sons went out hunting with their hounds, and Odysseus went with them. They climbed the wooded slopes of Mount Parnassus and soon reached its windy upland valleys. As the sun, freshly risen from the slow, calm currents of Oceanus, began to warm the fields, they arrived at a mountain gorge. The dogs led the way, searching for the tracks of their prey, and behind them came Autolycus's sons, with Odysseus close behind the dogs, holding a long spear. Here, a huge boar had its lair among some thick brushwood. It was so dense that neither wind nor rain could pass through, nor could the sun's rays pierce it, and the ground beneath was thick with fallen leaves. The boar heard the noise of the men's feet and the hounds barking from all sides as the huntsmen approached. It rushed from its lair, raised the bristles on its neck, and stood ready to fight, with fire flashing from its eyes. Odysseus was the first to raise his spear and try to drive it into the beast, but the boar was too quick for him. It charged him sideways, ripping a deep gash above his knee, though it didn't reach the bone. As for the boar, Odysseus hit it on the right shoulder, and the spear point went right through it. The boar fell groaning in the dust and died. Autolycus's sons dealt with the boar's carcass and bound Odysseus's wound. After chanting a spell to stop the bleeding, they hurried home. Once Autolycus and his sons had fully healed Odysseus, they gave him splendid gifts and sent him back to Ithaca with great affection. When he returned, his father and mother were overjoyed to see him. They asked him all about it, and how he had gotten the scar. So Odysseus told them how the boar had ripped him when he was out hunting with Autolycus and his sons on Mount Parnassus.",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "role": "Narrator",
+    "text": "As soon as Eurycleia held the scarred leg in her hands, she recognized it instantly and dropped his foot. The leg fell into the basin, which clanged loudly and overturned, spilling all the water onto the floor. Eurycleia's eyes filled with tears of both joy and grief, and she couldn't speak. But then she grabbed Odysseus by the beard and said,",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "role": "Child",
+    "text": "My dear child, you must be Odysseus himself! I didn't recognize you until I actually touched and felt you.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "role": "Narrator",
+    "text": "As she spoke, Eurycleia looked at Penelope, wanting to tell her that her dear husband was in the house. But Penelope couldn't look in that direction or see what was happening, because Athena had diverted her attention. So Odysseus grabbed Eurycleia by the throat with his right hand and pulled her close with his left. He said,",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "role": "Female",
+    "text": "Nurse, do you want to ruin me? After twenty years of wandering, I've finally returned home, and you, who nursed me at your own breast, would betray me? Since the gods have allowed you to recognize me, keep silent. Don't say a word about this to anyone else in the house. If you do, I swear to you—and it will happen—that if the gods grant me victory over these suitors, I will not spare you, even though you are my own nurse, when I kill the other women.",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "role": "Child",
+    "text": "My child,",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "role": "Narrator",
+    "text": "Eurycleia replied,",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "role": "Child",
+    "text": "What are you saying? You know very well that nothing can bend or break me. I will keep my tongue silent like a stone or a piece of iron. And listen to this, keep it in your heart: when the gods deliver the suitors into your hands, I will give you a list of the women in the house who have been disloyal, and those who are innocent.",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "role": "Narrator",
+    "text": "Odysseus replied,",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "role": "Male",
+    "text": "Nurse, you don't need to say that. I can judge each and every one of them myself. Just keep silent and leave everything to the gods.",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "role": "Narrator",
+    "text": "As he said this, Eurycleia left the hall to fetch more water, since the first had spilled. After she had washed and anointed him with oil, Odysseus pulled his chair closer to the fire to warm himself, and hid the scar under his rags. Then Penelope began to speak to him.",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "role": "Child",
+    "text": "Stranger,",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "role": "Narrator",
+    "text": "Penelope said,",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "role": "Child",
+    "text": "I want to speak with you briefly about another matter. It's almost bedtime, at least for those who can sleep despite their sorrow. As for me, the gods have given me a life of such immeasurable sorrow. Even by day, while I attend to my duties and look after the servants, I weep and lament constantly. Then, when night comes and everyone goes to bed, I lie awake, my heart tormented by endless, cruel thoughts. Just like the gray nightingale, daughter of Pandareus, who in early spring hides in the shadiest coverts and pours out her mournful song about accidentally killing her son Itylus, son of King Zethus, my mind also tosses and turns. I'm so uncertain whether I should stay here with my son, protecting my wealth, my servants, and this great house, out of respect for public opinion and the memory of my late husband. Or is it time for me to go with the best of these suitors who are wooing me with such magnificent gifts? When my son was young and couldn't understand, he wouldn't hear of me leaving my husband's house. But now that he's grown, he begs and pleads with me to go, furious at how the suitors are devouring his property. Listen, then, to a dream I had, and please interpret it for me if you can. I have twenty geese around the house that eat mash from a trough, and I'm extremely fond of them. I dreamed that a great eagle swooped down from a mountain and dug its curved beak into the neck of each goose until it had killed them all. Soon it soared into the sky, leaving them lying dead around the yard. I wept so bitterly in my dream that all my maids gathered around me, grieving so piteously because the eagle had killed my geese. Then the eagle came back, perched on a projecting rafter, and spoke to me with a human voice, telling me to stop crying. 'Be brave, daughter of Icarius,' he said. 'This is no mere dream, but a vision of good omen that will surely come true. The geese are the suitors, and I am no longer an eagle, but your own husband. I have returned to you, and I will bring these suitors to a disgraceful end.' With that, I woke. When I looked outside, I saw my geese eating their mash at the trough as usual.",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "role": "Narrator",
+    "text": "Odysseus replied,",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "role": "Female",
+    "text": "Madam, this dream can only have one meaning. Didn't Odysseus himself tell you how it will be fulfilled? It foretells the death of the suitors, and not a single one of them will escape.",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "role": "Narrator",
+    "text": "Penelope replied,",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "role": "Child",
+    "text": "Stranger, dreams are truly strange and mysterious things, and they certainly don't always come true. There are two gates through which these fleeting visions pass: one made of horn, and the other of ivory. Dreams that come through the ivory gate are false, but those from the horn gate hold true meaning for those who see them. However, I don't think my dream came through the horn gate, even though my son and I would be most thankful if it did. And listen closely to what I say: the coming dawn will bring an ill-omened day that will separate me from Odysseus's house. For I am about to hold a contest of axes. My husband used to set up twelve axes in the courtyard, one in front of the other, like the supports for a ship. Then he would step back and shoot an arrow straight through the holes of all twelve. I shall make the suitors try to do the same thing. Whichever of them can string the bow most easily and send his arrow through all twelve axes, him I will follow. I will leave this house of my lawful husband, so noble and rich. But even then, I'm sure I will remember this house in my dreams.",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "role": "Narrator",
+    "text": "Odysseus replied,",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "role": "Female",
+    "text": "My lady, wife of Odysseus, you don't need to postpone your contest. Odysseus will return before they can even string the bow, no matter how hard they try to handle it and shoot their arrows through the iron axes.",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "role": "Narrator",
+    "text": "Penelope said,",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "role": "Female",
+    "text": "Sir, as long as you sit here and talk to me, I have no desire to go to bed. Still, people cannot go without sleep forever, and the gods have appointed a time for all things for us dwellers on earth. Therefore, I will go upstairs and lie upon that bed, which I have never stopped wetting with my tears since the day Odysseus left for that hateful city, Troy.",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "role": "Narrator",
+    "text": "She went upstairs to her room, her maidens by her side. Once inside, she cried her heart out, missing her beloved husband. It wasn't until the goddess Athena gently brought sweet sleep to her eyes that she finally drifted into a deep slumber.",
+    "is_header": false
+  }
+]

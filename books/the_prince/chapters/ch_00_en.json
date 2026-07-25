@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Dedication\nTo the Magnificent Lorenzo Di Piero De' Medici",
+    "is_header": false
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "People who want to win the favor of a prince usually bring him the things they value most, or the things they know he likes best. Because of this, you often see princes being given horses, weapons, cloth of gold, precious stones, and other ornaments fit for their greatness.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Narrator",
+    "text": "I want to offer myself to Your Magnificence with some proof of my devotion. However, I have looked through my possessions and found nothing I value more than my knowledge of the actions of great men. I have gained this knowledge through long experience with modern events and a constant study of history. I have thought about these things deeply and studied them for a long time. Now, I have condensed them into a small book, which I am sending to you.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Narrator",
+    "text": "I know this work might not seem worthy of your attention. Still, I am confident in your kindness and hope you will accept it. After all, the best gift I can give you is the chance to understand in a very short time everything I have learned over many years, through so many dangers and hardships. I have not dressed this work up with fancy language, complicated sentences, or any outside fluff that other writers use to decorate their books. I want this book to be valued for nothing else but the truth of its material and the importance of its subject.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Narrator",
+    "text": "I also hope it will not be seen as arrogant for a man of low and humble status to discuss and make rules about how princes should rule. Think about people who sketch landscapes. They stand down in the valley to study the mountains and high places, and they climb the mountains to study the plains below. In the exact same way, you have to be a prince to truly understand the nature of the people, and you have to be one of the people to truly understand the nature of princes.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Narrator",
+    "text": "So, please accept this small gift in the spirit I am sending it. If you read it carefully and think about it, you will see my deepest wish: that you achieve the greatness that fortune and your own abilities promise you. And if you ever look down from the height of your greatness to these lower places, you will see how unfairly I am suffering under a terrible and endless run of bad luck.",
+    "is_header": false
+  }
+]

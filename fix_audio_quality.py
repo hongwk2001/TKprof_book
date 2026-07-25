@@ -6,9 +6,12 @@ import subprocess
 import argparse
 from check_audio_quality import probe_audio_format, check_file
 
+from pydub import AudioSegment
+
 def fix_audio_file(input_path, output_path, bitrate=256):
     """
-    Applies FFmpeg filters to clean silence, normalize volume, and adjust leading/trailing silence.
+    Applies Pydub to strip silence, FFmpeg loudnorm for target volume,
+    and Pydub to pad exact 2.0s leading/trailing silences.
     """
     # 1. Probe original properties to detect channel count
     fmt = probe_audio_format(input_path)
@@ -17,40 +20,72 @@ def fix_audio_file(input_path, output_path, bitrate=256):
         return False
         
     channels = fmt.get("channels", 2)
-    # Target bitrate matching the source, but at least 192k
     out_bitrate = max(192, fmt.get("bitrate_kbps", bitrate))
     
-    # 2. Build the filter graph
-    # Strip existing silence
-    strip_silence = "silenceremove=start_periods=1:start_threshold=-50dB:start_silence=0,areverse,silenceremove=start_periods=1:start_threshold=-50dB:start_silence=0,areverse"
-    
-    # Volume normalization (RMS target -19 LUFS, true peak -3.1 dB)
-    volume_norm = "loudnorm=I=-19:TP=-3.1:LRA=11"
-    
-    # Add leading silence (2.0 seconds = 2000ms)
-    # Format of adelay is delay_channel1|delay_channel2|...
-    delay_str = "|".join(["2000"] * channels)
-    leading_silence = f"adelay={delay_str}"
-    
-    # Add trailing silence (2.0 seconds)
-    trailing_silence = "apad=pad_dur=2"
-    
-    filter_chain = f"{volume_norm},{strip_silence},{leading_silence},{trailing_silence}"
-    
-    cmd = [
-        "ffmpeg", "-y", "-i", input_path,
-        "-af", filter_chain,
-        "-ar", "44100",
-        "-b:a", f"{out_bitrate}k",
-        output_path
-    ]
+    # Create temporary files in the same directory as output
+    temp_dir = os.path.dirname(output_path)
+    temp_stripped = os.path.join(temp_dir, "temp_stripped.mp3")
+    temp_norm = os.path.join(temp_dir, "temp_norm.mp3")
     
     try:
-        subprocess.run(cmd, capture_output=True, text=True, check=True)
+        # 2. Load with pydub and strip leading/trailing silence
+        sound = AudioSegment.from_mp3(input_path)
+        
+        # Strip leading silence (below -50 dBFS)
+        start_trim = 0
+        chunk_size = 10  # ms
+        for i in range(0, len(sound), chunk_size):
+            if sound[i:i+chunk_size].dBFS > -50:
+                start_trim = i
+                break
+                
+        # Strip trailing silence
+        end_trim = len(sound)
+        for i in range(len(sound), 0, -chunk_size):
+            if sound[i-chunk_size:i].dBFS > -50:
+                end_trim = i
+                break
+                
+        sound_trimmed = sound[start_trim:end_trim]
+        sound_trimmed.export(temp_stripped, format="mp3", bitrate=f"{out_bitrate}k")
+        
+        # 3. Apply loudnorm normalization via FFmpeg (on stripped audio)
+        volume_norm = "loudnorm=I=-19:TP=-3.1:LRA=11"
+        cmd = [
+            "ffmpeg", "-y", "-i", temp_stripped,
+            "-af", volume_norm,
+            "-ar", "44100",
+            "-b:a", f"{out_bitrate}k",
+            temp_norm
+        ]
+        
+        result = subprocess.run(cmd, capture_output=True, text=True)
+        if result.returncode != 0:
+            print(f"FFmpeg normalization failed:\n{result.stderr}", file=sys.stderr)
+            return False
+            
+        # 4. Load normalized audio and add exactly 2.0s of clean silence at start and end
+        norm_sound = AudioSegment.from_mp3(temp_norm)
+        silence_padding = AudioSegment.silent(duration=2000, frame_rate=44100)
+        
+        # Combine
+        final_sound = silence_padding + norm_sound + silence_padding
+        
+        # Export final file (ensuring constant bitrate & 44.1 kHz)
+        final_sound.export(output_path, format="mp3", bitrate=f"{out_bitrate}k")
         return True
-    except subprocess.CalledProcessError as e:
-        print(f"FFmpeg failed for {os.path.basename(input_path)}:\n{e.stderr}", file=sys.stderr)
+        
+    except Exception as e:
+        print(f"Exception during processing of {os.path.basename(input_path)}: {e}", file=sys.stderr)
         return False
+    finally:
+        # Clean up temporary files
+        for temp_file in [temp_stripped, temp_norm]:
+            if os.path.exists(temp_file):
+                try:
+                    os.remove(temp_file)
+                except OSError:
+                    pass
 
 def main():
     parser = argparse.ArgumentParser(description="Fix audio quality of MP3 files to match Authors Republic / ACX specifications.")

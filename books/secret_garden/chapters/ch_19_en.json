@@ -1,0 +1,1232 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Chapter 19:",
+    "is_header": false
+  },
+  {
+    "id": 2,
+    "role": "Male",
+    "text": "It Has Come!",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Narrator",
+    "text": "Of course, Doctor Craven had been sent for the morning after Colin's tantrum. He was always summoned immediately when such episodes occurred. Every time he arrived, he found a pale, shaken boy lying in bed, sulky and still so hysterical that he was ready to burst into tears at the slightest word. In fact, Doctor Craven dreaded and hated these difficult visits. This time, he was away from Misselthwaite Manor until the afternoon.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Child",
+    "text": "How is he?",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Narrator",
+    "text": "Doctor Craven asked Missus Medlock rather irritably when he arrived.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Child",
+    "text": "He will burst a blood vessel in one of those fits some day. The boy is half insane with hysteria and self-indulgence.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Child",
+    "text": "Well, sir,",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "Narrator",
+    "text": "Missus Medlock answered,",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Child",
+    "text": "you will hardly believe your eyes when you see him. That plain, sour-faced child—who is almost as bad as he is—has completely bewitched him. There is no telling how she did it. Goodness knows she is nothing to look at, and you barely ever hear her speak, but she did what none of us dared to do. She flew at him like a little cat last night, stamped her feet, and ordered him to stop screaming. Somehow she startled him so much that he actually stopped, and this afternoon—well, just come upstairs and see, sir. It is hard to believe.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Narrator",
+    "text": "The scene Doctor Craven saw when he entered his patient's room was truly astonishing. As Missus Medlock opened the door, he heard laughing and chattering. Colin was sitting up quite straight on his sofa in his dressing gown. He was looking at a picture in one of the gardening books and talking to the plain child, who at that moment could hardly be called plain at all because her face was glowing with so much joy.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Male",
+    "text": "Those long spires of blue flowers—we will have a lot of those,",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Narrator",
+    "text": "Colin announced.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Male",
+    "text": "They are called Delphiniums.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "role": "Male",
+    "text": "Dickon says they are larkspurs made big and grand,",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "role": "Narrator",
+    "text": "Mary cried.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "role": "Male",
+    "text": "There are clumps of them in the garden already.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "role": "Narrator",
+    "text": "Then they saw Doctor Craven and stopped talking. Mary became very quiet, and Colin looked annoyed.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "role": "Child",
+    "text": "I am sorry to hear you were ill last night, my boy,",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "role": "Narrator",
+    "text": "Doctor Craven said a little nervously. He was rather a nervous man.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "role": "Male",
+    "text": "I am better now—much better,",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "role": "Narrator",
+    "text": "Colin answered, speaking like a prince.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "role": "Male",
+    "text": "I am going out in my wheelchair in a day or two if the weather is fine. I want some fresh air.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "role": "Narrator",
+    "text": "Doctor Craven sat down beside him, felt his pulse, and looked at him curiously.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "role": "Male",
+    "text": "It must be a very fine day,",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "role": "Narrator",
+    "text": "the doctor said,",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "role": "Male",
+    "text": "and you must be very careful not to tire yourself.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "role": "Child",
+    "text": "Fresh air will not tire me,",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "role": "Narrator",
+    "text": "said the young prince.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "role": "Narrator",
+    "text": "Since there had been times when this same young gentleman had screamed with rage, insisting that fresh air would give him a cold and kill him, it was no wonder the doctor felt startled.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "role": "Male",
+    "text": "I thought you did not like fresh air,",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "role": "Narrator",
+    "text": "Doctor Craven said.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "role": "Male",
+    "text": "I do not like it when I am by myself,",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "role": "Narrator",
+    "text": "Colin replied.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "role": "Male",
+    "text": "But my cousin is going out with me.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "role": "Male",
+    "text": "And the nurse, of course?",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "role": "Narrator",
+    "text": "Doctor Craven suggested.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "role": "Child",
+    "text": "No, I will not have the nurse,",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "role": "Narrator",
+    "text": "Colin said, speaking so grandly that Mary could not help remembering the young Indian prince she had seen. He had diamonds, emeralds, and pearls all over him, and great rubies on the small dark hand he waved to command his servants to bow and receive his orders.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "role": "Child",
+    "text": "My cousin knows how to take care of me. I am always better when she is with me. She made me feel better last night. A very strong boy I know will push my carriage.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "role": "Narrator",
+    "text": "Doctor Craven felt rather alarmed. If this difficult, hysterical boy happened to get well, he would lose his chance of inheriting Misselthwaite. But although he was a weak man, he was not completely dishonest, and he did not intend to let the boy run into real danger.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "role": "Child",
+    "text": "He must be a strong and steady boy,",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "role": "Narrator",
+    "text": "Doctor Craven said.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "role": "Child",
+    "text": "And I must know something about him. Who is he? What is his name?",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "role": "Female",
+    "text": "It is Dickon,",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "role": "Narrator",
+    "text": "Mary spoke up suddenly. She felt that anyone who knew the moor must know Dickon. And she was right. She saw Doctor Craven's serious face instantly relax into a relieved smile.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "role": "Male",
+    "text": "Oh, Dickon,",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "role": "Narrator",
+    "text": "he said.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "role": "Male",
+    "text": "If it is Dickon, you will be safe enough. Dickon is as strong as a moor pony.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "role": "Female",
+    "text": "And he is trustworthy,",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "role": "Narrator",
+    "text": "Mary said.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "role": "Female",
+    "text": "He is the most trustworthy lad in Yorkshire.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "role": "Narrator",
+    "text": "She had been speaking in the Yorkshire dialect to Colin, and she forgot herself.",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "role": "Male",
+    "text": "Did Dickon teach you that?",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "role": "Narrator",
+    "text": "Doctor Craven asked, laughing out loud.",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "role": "Male",
+    "text": "I am learning it as if it were French,",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "role": "Narrator",
+    "text": "Mary said rather coldly.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "role": "Male",
+    "text": "It is like a native dialect in India. Very clever people try to learn them. I like it, and so does Colin.",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "role": "Male",
+    "text": "Well, well,",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "role": "Narrator",
+    "text": "he said.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "role": "Male",
+    "text": "If it amuses you, perhaps it will not do you any harm. Did you take your medicine last night, Colin?",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "role": "Female",
+    "text": "No,",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "role": "Narrator",
+    "text": "Colin answered.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "role": "Female",
+    "text": "I refused to take it at first, and after Mary calmed me down, she talked me to sleep. She spoke in a low voice about the spring creeping into a garden.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "role": "Female",
+    "text": "That sounds soothing,",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "role": "Narrator",
+    "text": "Doctor Craven said, more puzzled than ever. He glanced sideways at Mary, who sat on her stool looking down silently at the carpet.",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "role": "Female",
+    "text": "You are clearly better, but you must remember—",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "role": "Female",
+    "text": "I do not want to remember,",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "role": "Narrator",
+    "text": "Colin interrupted, the demanding prince appearing again.",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "role": "Female",
+    "text": "When I lie by myself and remember, I start to feel pains everywhere. I think of things that make me want to scream because I hate them so much. If there were a doctor anywhere who could make you forget you were ill instead of remembering it, I would have him brought here.",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "role": "Narrator",
+    "text": "He waved a thin hand that looked as though it should have been covered in royal ruby rings.",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "role": "Female",
+    "text": "It is because my cousin makes me forget that she makes me better.",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "role": "Narrator",
+    "text": "Doctor Craven had never made such a short visit after a tantrum. Usually, he had to stay a very long time and do many things. This afternoon, he did not give any medicine or leave new orders, and he was spared any unpleasant scenes. When he went downstairs, he looked very thoughtful. When he spoke to Missus Medlock in the library, she could tell that he was deeply puzzled.",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "role": "Female",
+    "text": "Well, sir,",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "role": "Narrator",
+    "text": "she ventured,",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "role": "Female",
+    "text": "could you have believed it?",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "role": "Male",
+    "text": "It is certainly a new state of affairs,",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "role": "Narrator",
+    "text": "the doctor said.",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "role": "Male",
+    "text": "And there is no denying that it is better than the old one.",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "role": "Child",
+    "text": "I believe Susan Sowerby is right—I really do,",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "role": "Narrator",
+    "text": "Missus Medlock said.",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "role": "Child",
+    "text": "I stopped by her cottage on my way to Thwaite yesterday and had a chat with her. She said to me, 'Well, Sarah Ann, she might not be a good child, and she might not be a pretty one, but she is a child, and children need other children.' Susan Sowerby and I went to school together.",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "role": "Female",
+    "text": "She is the best nurse I know,",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "role": "Narrator",
+    "text": "Doctor Craven said.",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "role": "Female",
+    "text": "When I find her in a cottage, I know the chances are that I will save my patient.",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "role": "Narrator",
+    "text": "Missus Medlock smiled. She was very fond of Susan Sowerby.",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "role": "Child",
+    "text": "She has a way with her, Susan does,",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "role": "Narrator",
+    "text": "Missus Medlock went on eagerly.",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "role": "Child",
+    "text": "I have been thinking all morning about something she said yesterday. She said, 'Once when I was giving the children a bit of a lecture after they had been fighting, I told them all:",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "role": "Narrator",
+    "text": "When I was at school, my geography book said the world was shaped like an orange, and I found out before I was ten that the whole orange doesn't belong to anyone. No one owns more than their own little section, and sometimes it seems like there aren't enough sections to go around. But don't any of you think you own the whole orange, or you will find out you're mistaken, and you won't learn that without some hard knocks.",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "role": "Child",
+    "text": "What children learn from other children,' she said, 'is that there is no sense in grabbing for the whole orange, peel and all. If you do, you probably won't even get the seeds, and those are too bitter to eat.'",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "role": "Female",
+    "text": "She is a wise woman,",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "role": "Narrator",
+    "text": "Doctor Craven said, putting on his coat.",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "role": "Female",
+    "text": "Well, she has a way of saying things,",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "role": "Narrator",
+    "text": "Missus Medlock finished, very pleased.",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "role": "Female",
+    "text": "Sometimes I have said to her, 'Oh, Susan, if you were a different woman and did not speak such broad Yorkshire, there are times when I would have said you were downright clever.'",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "role": "Narrator",
+    "text": "That night Colin slept without waking up once. When he opened his eyes in the morning, he lay still and smiled without even realizing it—he smiled because he felt so wonderfully comfortable. It was actually nice to be awake, and he turned over and stretched his limbs luxuriously. He felt as if tight strings that had held him bound had loosened and let him go. He did not know that Doctor Craven would have said his nerves had finally relaxed and rested. Instead of lying there staring at the wall and wishing he had not woken up, his mind was full of the plans he and Mary had made yesterday. He pictured the garden, Dickon, and all his wild creatures. It was so nice to have pleasant things to think about. He had not been awake for more than ten minutes when he heard feet running along the corridor, and Mary arrived at the door. A moment later, she ran across to his bed, bringing with her a breeze of fresh air full of the scent of the morning.",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "role": "Male",
+    "text": "You have been out! You have been out! There is that wonderful smell of leaves!",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "role": "Narrator",
+    "text": "he cried.",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "role": "Narrator",
+    "text": "She had been running, and her hair was loose and windblown. She was bright from the fresh air and her cheeks were rosy.",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "role": "Child",
+    "text": "It is so beautiful!",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "role": "Narrator",
+    "text": "she said, a little breathless from running.",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "role": "Child",
+    "text": "You have never seen anything so beautiful! It has come! I thought it had come the other morning, but it was only on its way. It is here now! Spring has finally arrived! Dickon says so!",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "role": "Male",
+    "text": "Has it?",
+    "is_header": false
+  },
+  {
+    "id": 104,
+    "role": "Narrator",
+    "text": "Colin cried. Even though he knew nothing about spring, he felt his heart beat faster. He actually sat up in bed.",
+    "is_header": false
+  },
+  {
+    "id": 105,
+    "role": "Male",
+    "text": "Open the window!",
+    "is_header": false
+  },
+  {
+    "id": 106,
+    "role": "Narrator",
+    "text": "he added, laughing partly with joyful excitement and partly at his own imagination.",
+    "is_header": false
+  },
+  {
+    "id": 107,
+    "role": "Male",
+    "text": "Perhaps we will hear golden trumpets!",
+    "is_header": false
+  },
+  {
+    "id": 108,
+    "role": "Narrator",
+    "text": "Although he laughed, Mary was at the window in a second. In another moment, she opened it wide, and the fresh, soft air, sweet scents, and bird songs came pouring in.",
+    "is_header": false
+  },
+  {
+    "id": 109,
+    "role": "Female",
+    "text": "That is fresh air,",
+    "is_header": false
+  },
+  {
+    "id": 110,
+    "role": "Narrator",
+    "text": "she said.",
+    "is_header": false
+  },
+  {
+    "id": 111,
+    "role": "Female",
+    "text": "Lie on your back and take long, deep breaths of it. That is what Dickon does when he lies on the moor. He says he feels it in his veins, and it makes him strong, and he feels as if he could live forever and ever. Breathe it in, keep breathing it.",
+    "is_header": false
+  },
+  {
+    "id": 112,
+    "role": "Narrator",
+    "text": "She was only repeating what Dickon had told her, but she captured Colin's imagination.",
+    "is_header": false
+  },
+  {
+    "id": 113,
+    "role": "Female",
+    "text": "Forever and ever! Does it make him feel like that?",
+    "is_header": false
+  },
+  {
+    "id": 114,
+    "role": "Narrator",
+    "text": "he asked. He did exactly as she told him, taking long, deep breaths over and over again until he felt that something completely new and wonderful was happening to him.",
+    "is_header": false
+  },
+  {
+    "id": 115,
+    "role": "Narrator",
+    "text": "Mary came back to his bedside.",
+    "is_header": false
+  },
+  {
+    "id": 116,
+    "role": "Female",
+    "text": "Things are crowding up out of the earth,",
+    "is_header": false
+  },
+  {
+    "id": 117,
+    "role": "Narrator",
+    "text": "she ran on excitedly.",
+    "is_header": false
+  },
+  {
+    "id": 118,
+    "role": "Female",
+    "text": "Flowers are uncurling and buds are on everything. The green veil has covered almost all the gray, and the birds are in such a hurry to build their nests for fear of being too late that some of them are even fighting for places in the secret garden. The rosebushes look as alive as can be, there are primroses in the lanes and woods, the seeds we planted are sprouting, and Dickon has brought the fox, the crow, the squirrels, and a newborn lamb!",
+    "is_header": false
+  },
+  {
+    "id": 119,
+    "role": "Narrator",
+    "text": "Then she paused for breath. Dickon had found the newborn lamb three days before, lying by its dead mother among the gorse bushes on the moor. It was not the first motherless lamb he had found, and he knew exactly what to do. He had wrapped it in his jacket, taken it to the cottage, let it lie near the fire, and fed it warm milk. It was a soft little thing with a sweet, silly baby face and legs that were rather long for its body. Dickon had carried it across the moor in his arms, and its feeding bottle was in his pocket along with a squirrel. When Mary had sat under a tree with its warm, soft body cuddled on her lap, she felt too full of wonder and joy to speak. A lamb—a real, living lamb lying on her lap just like a baby!",
+    "is_header": false
+  },
+  {
+    "id": 120,
+    "role": "Narrator",
+    "text": "She was describing the lamb with great joy, and Colin was listening while taking deep breaths of air, when the nurse entered. The nurse started slightly at the sight of the open window. She had sat stifling in the room on many warm days because her patient was convinced that open windows would give him a cold.",
+    "is_header": false
+  },
+  {
+    "id": 121,
+    "role": "Female",
+    "text": "Are you sure you are not chilly, Master Colin?",
+    "is_header": false
+  },
+  {
+    "id": 122,
+    "role": "Narrator",
+    "text": "she asked.",
+    "is_header": false
+  },
+  {
+    "id": 123,
+    "role": "Male",
+    "text": "No,",
+    "is_header": false
+  },
+  {
+    "id": 124,
+    "role": "Narrator",
+    "text": "Colin answered.",
+    "is_header": false
+  },
+  {
+    "id": 125,
+    "role": "Male",
+    "text": "I am breathing deep breaths of fresh air. It makes you strong. I am going to get up and sit on the sofa for breakfast. My cousin will eat with me.",
+    "is_header": false
+  },
+  {
+    "id": 126,
+    "role": "Narrator",
+    "text": "The nurse went away, hiding a smile, to order two breakfasts. She found the servants' hall a much more cheerful place than the invalid's room, and right now everyone wanted to hear the news from upstairs. There was a lot of joking about the unpopular young recluse who, as the cook put it,",
+    "is_header": false
+  },
+  {
+    "id": 127,
+    "role": "Child",
+    "text": "had finally met his match, and good for him.",
+    "is_header": false
+  },
+  {
+    "id": 128,
+    "role": "Narrator",
+    "text": "The servants were very tired of his tantrums, and the butler, who had a family of his own, had more than once expressed his opinion that the boy would be much better off if someone gave him a good scolding.",
+    "is_header": false
+  },
+  {
+    "id": 129,
+    "role": "Narrator",
+    "text": "When Colin was on his sofa and breakfast for two was served, he made an announcement to the nurse in his most princely manner.",
+    "is_header": false
+  },
+  {
+    "id": 130,
+    "role": "Child",
+    "text": "A boy, a fox, a crow, two squirrels, and a newborn lamb are coming to see me this morning. I want them brought upstairs as soon as they arrive,",
+    "is_header": false
+  },
+  {
+    "id": 131,
+    "role": "Narrator",
+    "text": "he said.",
+    "is_header": false
+  },
+  {
+    "id": 132,
+    "role": "Child",
+    "text": "Do not start playing with the animals in the servants' hall and keep them down there. I want them up here.",
+    "is_header": false
+  },
+  {
+    "id": 133,
+    "role": "Narrator",
+    "text": "The nurse gasped slightly and tried to cover it with a cough.",
+    "is_header": false
+  },
+  {
+    "id": 134,
+    "role": "Female",
+    "text": "Yes, sir,",
+    "is_header": false
+  },
+  {
+    "id": 135,
+    "role": "Narrator",
+    "text": "she answered.",
+    "is_header": false
+  },
+  {
+    "id": 136,
+    "role": "Child",
+    "text": "I will tell you what you can do,",
+    "is_header": false
+  },
+  {
+    "id": 137,
+    "role": "Narrator",
+    "text": "Colin added, waving his hand.",
+    "is_header": false
+  },
+  {
+    "id": 138,
+    "role": "Child",
+    "text": "You can tell Martha to bring them here. The boy is Martha's brother. His name is Dickon, and he is an animal charmer.",
+    "is_header": false
+  },
+  {
+    "id": 139,
+    "role": "Male",
+    "text": "I hope the animals will not bite, Master Colin,",
+    "is_header": false
+  },
+  {
+    "id": 140,
+    "role": "Narrator",
+    "text": "said the nurse.",
+    "is_header": false
+  },
+  {
+    "id": 141,
+    "role": "Male",
+    "text": "I told you he is a charmer,",
+    "is_header": false
+  },
+  {
+    "id": 142,
+    "role": "Narrator",
+    "text": "Colin said sternly.",
+    "is_header": false
+  },
+  {
+    "id": 143,
+    "role": "Male",
+    "text": "A charmer's animals never bite.",
+    "is_header": false
+  },
+  {
+    "id": 144,
+    "role": "Male",
+    "text": "There are snake charmers in India,",
+    "is_header": false
+  },
+  {
+    "id": 145,
+    "role": "Narrator",
+    "text": "Mary said.",
+    "is_header": false
+  },
+  {
+    "id": 146,
+    "role": "Male",
+    "text": "And they can put the snakes' heads in their mouths.",
+    "is_header": false
+  },
+  {
+    "id": 147,
+    "role": "Male",
+    "text": "Goodness!",
+    "is_header": false
+  },
+  {
+    "id": 148,
+    "role": "Narrator",
+    "text": "the nurse shuddered.",
+    "is_header": false
+  },
+  {
+    "id": 149,
+    "role": "Narrator",
+    "text": "They ate their breakfast with the morning air pouring in. Colin ate a very hearty breakfast, and Mary watched him with serious interest.",
+    "is_header": false
+  },
+  {
+    "id": 150,
+    "role": "Female",
+    "text": "You will start to get fatter just like I did,",
+    "is_header": false
+  },
+  {
+    "id": 151,
+    "role": "Narrator",
+    "text": "she said.",
+    "is_header": false
+  },
+  {
+    "id": 152,
+    "role": "Female",
+    "text": "I never wanted my breakfast when I was in India, but now I am always hungry for it.",
+    "is_header": false
+  },
+  {
+    "id": 153,
+    "role": "Male",
+    "text": "I wanted mine this morning,",
+    "is_header": false
+  },
+  {
+    "id": 154,
+    "role": "Narrator",
+    "text": "said Colin.",
+    "is_header": false
+  },
+  {
+    "id": 155,
+    "role": "Male",
+    "text": "Perhaps it was the fresh air. When do you think Dickon will get here?",
+    "is_header": false
+  },
+  {
+    "id": 156,
+    "role": "Narrator",
+    "text": "He was not long in coming. In about ten minutes, Mary held up her hand.",
+    "is_header": false
+  },
+  {
+    "id": 157,
+    "role": "Female",
+    "text": "Listen!",
+    "is_header": false
+  },
+  {
+    "id": 158,
+    "role": "Narrator",
+    "text": "she said.",
+    "is_header": false
+  },
+  {
+    "id": 159,
+    "role": "Female",
+    "text": "Did you hear a caw?",
+    "is_header": false
+  },
+  {
+    "id": 160,
+    "role": "Narrator",
+    "text": "Colin listened and heard it—a hoarse",
+    "is_header": false
+  },
+  {
+    "id": 161,
+    "role": "Male",
+    "text": "caw-caw,",
+    "is_header": false
+  },
+  {
+    "id": 162,
+    "role": "Narrator",
+    "text": "the strangest sound in the world to hear inside a house.",
+    "is_header": false
+  },
+  {
+    "id": 163,
+    "role": "Male",
+    "text": "Yes,",
+    "is_header": false
+  },
+  {
+    "id": 164,
+    "role": "Narrator",
+    "text": "he answered.",
+    "is_header": false
+  },
+  {
+    "id": 165,
+    "role": "Male",
+    "text": "That is Soot,",
+    "is_header": false
+  },
+  {
+    "id": 166,
+    "role": "Narrator",
+    "text": "Mary said.",
+    "is_header": false
+  },
+  {
+    "id": 167,
+    "role": "Male",
+    "text": "Listen again. Do you hear a bleat—a tiny one?",
+    "is_header": false
+  },
+  {
+    "id": 168,
+    "role": "Male",
+    "text": "Oh, yes!",
+    "is_header": false
+  },
+  {
+    "id": 169,
+    "role": "Narrator",
+    "text": "cried Colin, his face flushing with excitement.",
+    "is_header": false
+  },
+  {
+    "id": 170,
+    "role": "Male",
+    "text": "That is the newborn lamb,",
+    "is_header": false
+  },
+  {
+    "id": 171,
+    "role": "Narrator",
+    "text": "Mary said.",
+    "is_header": false
+  },
+  {
+    "id": 172,
+    "role": "Male",
+    "text": "He is coming.",
+    "is_header": false
+  },
+  {
+    "id": 173,
+    "role": "Narrator",
+    "text": "Dickon's moorland boots were thick and heavy, and though he tried to walk quietly, they made a clumping sound as he walked through the long corridors. Mary and Colin heard him marching closer and closer, until he passed through the tapestry door and onto the soft carpet of Colin's own hallway.",
+    "is_header": false
+  },
+  {
+    "id": 174,
+    "role": "Male",
+    "text": "If you please, sir,",
+    "is_header": false
+  },
+  {
+    "id": 175,
+    "role": "Narrator",
+    "text": "Martha announced, opening the door,",
+    "is_header": false
+  },
+  {
+    "id": 176,
+    "role": "Male",
+    "text": "here is Dickon and his creatures.",
+    "is_header": false
+  },
+  {
+    "id": 177,
+    "role": "Narrator",
+    "text": "Dickon came in, wearing his warmest, widest smile. The newborn lamb was cradled in his arms, and the little red fox trotted by his side. Nut the squirrel sat on his left shoulder, Soot the crow on his right, and Shell the other squirrel peeped his head and paws out of Dickon's coat pocket.",
+    "is_header": false
+  },
+  {
+    "id": 178,
+    "role": "Narrator",
+    "text": "Colin slowly sat up and stared and stared, just as he had when he first saw Mary. But this was a look of pure wonder and delight. The truth was that, despite everything he had heard, he had not really understood what this boy would be like. Dickon was so close to his fox, his crow, his squirrels, and his lamb, and they were all so friendly, that they seemed like a part of him. Colin had never talked to another boy in his life, and he was so overwhelmed by his own pleasure and curiosity that he did not even think to speak.",
+    "is_header": false
+  },
+  {
+    "id": 179,
+    "role": "Narrator",
+    "text": "But Dickon did not feel the least bit shy or awkward. He had not felt embarrassed when the crow did not know his language and only stared without speaking the first time they met. Animals were always like that until they got to know you. He walked over to Colin's sofa and gently placed the newborn lamb on his lap. Immediately, the little creature turned to the warm velvet dressing gown, nuzzling into its folds and budding its curly head with soft impatience against Colin's side. Of course, no boy could have kept quiet after that.",
+    "is_header": false
+  },
+  {
+    "id": 180,
+    "role": "Male",
+    "text": "What is it doing?",
+    "is_header": false
+  },
+  {
+    "id": 181,
+    "role": "Narrator",
+    "text": "Colin cried.",
+    "is_header": false
+  },
+  {
+    "id": 182,
+    "role": "Male",
+    "text": "What does it want?",
+    "is_header": false
+  },
+  {
+    "id": 183,
+    "role": "Female",
+    "text": "It wants its mother,",
+    "is_header": false
+  },
+  {
+    "id": 184,
+    "role": "Narrator",
+    "text": "Dickon said, his smile growing even wider.",
+    "is_header": false
+  },
+  {
+    "id": 185,
+    "role": "Female",
+    "text": "I brought him to you a bit hungry because I knew you would like to see him feed.",
+    "is_header": false
+  },
+  {
+    "id": 186,
+    "role": "Narrator",
+    "text": "He knelt down by the sofa and took a feeding bottle from his pocket.",
+    "is_header": false
+  },
+  {
+    "id": 187,
+    "role": "Child",
+    "text": "Come on, little one,",
+    "is_header": false
+  },
+  {
+    "id": 188,
+    "role": "Narrator",
+    "text": "he said, turning the small woolly white head with a gentle brown hand.",
+    "is_header": false
+  },
+  {
+    "id": 189,
+    "role": "Child",
+    "text": "This is what you are after. You will get more out of this than you will out of silk velvet coats. There now.",
+    "is_header": false
+  },
+  {
+    "id": 190,
+    "role": "Narrator",
+    "text": "He pushed the rubber tip of the bottle into the nuzzling mouth, and the lamb began to suck it with absolute delight.",
+    "is_header": false
+  },
+  {
+    "id": 191,
+    "role": "Narrator",
+    "text": "After that, there was no wondering what to say. By the time the lamb fell asleep, questions were pouring out of Colin, and Dickon answered them all. He told them how he had found the lamb just as the sun was rising three mornings ago. He had been standing on the moor, listening to a skylark and watching it climb higher and higher into the sky until it was only a tiny speck in the deep blue.",
+    "is_header": false
+  },
+  {
+    "id": 192,
+    "role": "Child",
+    "text": "I had almost lost sight of him if not for his song,",
+    "is_header": false
+  },
+  {
+    "id": 193,
+    "role": "Narrator",
+    "text": "Dickon said,",
+    "is_header": false
+  },
+  {
+    "id": 194,
+    "role": "Child",
+    "text": "and I was wondering how anyone could hear it when it seemed like he would fly right out of the world in a minute. Just then, I heard something else far off among the gorse bushes. It was a weak bleating, and I knew it was a newborn lamb that was hungry. I knew it wouldn't be hungry unless it had lost its mother somehow, so I set off to search. Oh, I really had to look for it! I went in and out of the bushes, round and round, and I always seemed to take the wrong turn. But at last, I saw a bit of white by a rock on top of the moor. I climbed up and found the little one half dead with cold and starvation.",
+    "is_header": false
+  },
+  {
+    "id": 195,
+    "role": "Narrator",
+    "text": "While he talked, Soot flew solemnly in and out of the open window, cawing remarks about the scenery, while Nut and Shell explored the big trees outside, running up and down the trunks and exploring branches. Captain the fox curled up near Dickon, who preferred to sit on the hearth rug.",
+    "is_header": false
+  },
+  {
+    "id": 196,
+    "role": "Narrator",
+    "text": "They looked at the pictures in the gardening books. Dickon knew all the flowers by their common names and knew exactly which ones were already growing in the secret garden.",
+    "is_header": false
+  },
+  {
+    "id": 197,
+    "role": "Male",
+    "text": "I couldn't say that fancy name,",
+    "is_header": false
+  },
+  {
+    "id": 198,
+    "role": "Narrator",
+    "text": "Dickon said, pointing to one labeled Aquilegia.",
+    "is_header": false
+  },
+  {
+    "id": 199,
+    "role": "Male",
+    "text": "But we call that a columbine, and that other one is a snapdragon. They both grow wild in the hedges, but these are garden ones, and they are bigger and grander. There are some big clumps of columbine in the secret garden. They will look like a bed of blue and white butterflies fluttering when they bloom.",
+    "is_header": false
+  },
+  {
+    "id": 200,
+    "role": "Male",
+    "text": "I am going to see them,",
+    "is_header": false
+  },
+  {
+    "id": 201,
+    "role": "Narrator",
+    "text": "Colin cried.",
+    "is_header": false
+  },
+  {
+    "id": 202,
+    "role": "Male",
+    "text": "I am going to see them!",
+    "is_header": false
+  },
+  {
+    "id": 203,
+    "role": "Male",
+    "text": "Yes, you must,",
+    "is_header": false
+  },
+  {
+    "id": 204,
+    "role": "Narrator",
+    "text": "Mary said quite seriously.",
+    "is_header": false
+  },
+  {
+    "id": 205,
+    "role": "Male",
+    "text": "And you must not lose any time about it.",
+    "is_header": false
+  }
+]

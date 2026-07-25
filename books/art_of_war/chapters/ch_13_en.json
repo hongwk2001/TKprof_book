@@ -1,0 +1,572 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Chapter Thirteen: THE USE OF SPIES",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "1. Sun Tzŭ said:",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Male",
+    "text": "Raising an army of a hundred thousand men and marching them across great distances inflicts heavy losses on the people and drains the wealth of the State. The daily cost will amount to a thousand ounces of silver. There will be turmoil both at home and abroad, and men will collapse from exhaustion on the roads. Up to seven hundred thousand families will be kept from their labor.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Narrator",
+    "text": "> Cao Cao:",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Male",
+    "text": "A thousand ounces of silver covers the cost of provisions, armor, and supplies. The burden of supporting one soldier falls upon seven families; thus, seven hundred thousand families are kept from their fieldwork.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Narrator",
+    "text": ">\n> Li Quan:",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Male",
+    "text": "When war drags on, the people's resources are exhausted. A wise general understands that protracted campaigns destroy the nation from within.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "Narrator",
+    "text": "2.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Male",
+    "text": "Hostile armies may stand locked in a stalemate for years, striving for a victory that is ultimately decided in a single day. Given this reality, to remain ignorant of the enemy's condition simply because one grudges spending a hundred ounces of silver on honors and rewards is the absolute height of inhumanity.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Narrator",
+    "text": "> Du Mu:",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Male",
+    "text": "To grudge the minor expense of spies, remaining blind to the enemy's movements, is to send one's own men to needless slaughter. There is no greater inhumanity than sacrificing lives to save silver.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Narrator",
+    "text": "3.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Male",
+    "text": "Anyone who acts in this manner is no true leader of men, no real help to their sovereign, and no master of victory.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "role": "Narrator",
+    "text": "4.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "role": "Male",
+    "text": "What enables the wise sovereign and the brilliant general to strike, conquer, and achieve feats beyond the reach of ordinary men is foreknowledge.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "role": "Narrator",
+    "text": "> Ho Yen-hsi:",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "role": "Male",
+    "text": "Foreknowledge cannot be obtained by sitting in a tent and guessing. It must be actively sought out through those who know the enemy's situation.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "role": "Narrator",
+    "text": "5.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "role": "Male",
+    "text": "This foreknowledge cannot be coaxed from spirits; it cannot be deduced from past experience, nor can it be calculated through equations.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "role": "Narrator",
+    "text": "> Mei Yao-chen:",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "role": "Male",
+    "text": "You cannot pray to the gods for intelligence. You cannot rely on historical analogies, for every situation is unique. You must seek out men who have actual knowledge of the enemy.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "role": "Narrator",
+    "text": "6.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "role": "Male",
+    "text": "Knowledge of the enemy's dispositions can only be obtained from other men.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "role": "Narrator",
+    "text": "7.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "role": "Male",
+    "text": "Therefore, we use spies, of which there are five classes: (1) Local spies; (2) inward spies; (3) converted spies; (4) doomed spies; and (5) surviving spies.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "role": "Narrator",
+    "text": "8.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "role": "Male",
+    "text": "When all five types of spies are actively working, no one can discover the secret network. This is known as 'divine manipulation of the threads.' It is a sovereign's most precious asset.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "role": "Narrator",
+    "text": "> Zhang Yu:",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "role": "Male",
+    "text": "Like a master weaver controlling countless invisible threads, the commander orchestrates this network. The enemy is caught in the web without ever perceiving its existence.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "role": "Narrator",
+    "text": "9.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "role": "Male",
+    "text": "Employing local spies means enlisting the inhabitants of a district.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "role": "Narrator",
+    "text": "> Du You:",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "role": "Male",
+    "text": "These are ordinary civilians in the enemy's territory. Because they blend in perfectly, they can gather information without arousing suspicion.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "role": "Narrator",
+    "text": "10.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "role": "Male",
+    "text": "Employing inward spies means making use of the enemy's own officials.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "role": "Narrator",
+    "text": "> Du Mu:",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "role": "Male",
+    "text": "This refers to officials who have been dismissed, those who are greedy for wealth, or those nursing grievances against their own sovereign. They can be bought or persuaded to turn against their master.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "role": "Narrator",
+    "text": "11.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "role": "Male",
+    "text": "Employing converted spies means capturing the enemy's spies and turning them to serve our own purposes.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "role": "Narrator",
+    "text": "> Cao Cao:",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "role": "Male",
+    "text": "When you discover enemy spies in your midst, do not execute them immediately. Bribe them generously and instruct them to feed false intelligence back to their masters.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "role": "Narrator",
+    "text": "12.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "role": "Male",
+    "text": "Employing doomed spies means doing certain things openly to deceive, allowing our own spies to learn of them and report them to the enemy.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "role": "Narrator",
+    "text": "> Du Mu:",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "role": "Male",
+    "text": "We deliberately leak false information to our own spies, knowing they will be captured and interrogated by the enemy. When the enemy acts on this false intelligence and finds it untrue, our spies will inevitably be put to death. Thus, they are 'doomed'.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "role": "Narrator",
+    "text": "13.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "role": "Male",
+    "text": "Finally, surviving spies are those who successfully bring back intelligence from the enemy's camp.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "role": "Narrator",
+    "text": "> Li Quan:",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "role": "Male",
+    "text": "These are men of exceptional cunning, physical endurance, and presence of mind. They slip into the enemy camp, observe, and return alive to report.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "role": "Narrator",
+    "text": "14.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "role": "Male",
+    "text": "Therefore, no relationship within the entire army should be more intimate than the one maintained with spies. No one should be more generously rewarded. In no other business should greater secrecy be preserved.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "role": "Narrator",
+    "text": "> Mei Yao-chen:",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "role": "Male",
+    "text": "If spies are not treated with the utmost intimacy and rewarded lavishly, they may easily turn against you and become converted spies for the enemy.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "role": "Narrator",
+    "text": "15.",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "role": "Male",
+    "text": "Spies cannot be effectively utilized without a certain intuitive brilliance.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "role": "Narrator",
+    "text": "> Du Mu:",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "role": "Male",
+    "text": "You must be able to read men's hearts and understand their true motives. Without this brilliance, you cannot distinguish a loyal spy from a double agent.",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "role": "Narrator",
+    "text": "16.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "role": "Male",
+    "text": "They cannot be properly managed without benevolence and absolute straightforwardness.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "role": "Narrator",
+    "text": "> Zhang Yu:",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "role": "Male",
+    "text": "Benevolence binds them to your service; straightforwardness ensures they understand exactly what is required of them without ambiguity.",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "role": "Narrator",
+    "text": "17.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "role": "Male",
+    "text": "Without a subtle and ingenious mind, you cannot verify the truth of their reports.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "role": "Narrator",
+    "text": "> Cao Cao:",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "role": "Male",
+    "text": "Intelligence is often fragmented and contradictory. It takes a master's mind to piece together the truth from a web of lies.",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "role": "Narrator",
+    "text": "18.",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "role": "Male",
+    "text": "Be subtle! Be subtle! And use your spies for every kind of operation.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "role": "Narrator",
+    "text": "19.",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "role": "Male",
+    "text": "If a spy leaks a secret before the time is ripe, both the spy and anyone who heard the secret must be put to death.",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "role": "Narrator",
+    "text": "> Wang Hsi:",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "role": "Male",
+    "text": "This is the ultimate rule of operational security. A leaked secret can compromise the entire army. Swift and merciless execution is the only remedy.",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "role": "Narrator",
+    "text": "20.",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "role": "Male",
+    "text": "Whether your objective is to crush an army, storm a city, or assassinate an individual, you must first discover the names of the general's attendants, aides-de-camp, door-keepers, and sentries. Our spies must be tasked with uncovering these.",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "role": "Narrator",
+    "text": "> Du Mu:",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "role": "Male",
+    "text": "By knowing the names and weaknesses of those closest to the enemy commander, you can find the pressure points needed to unravel his defenses from within.",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "role": "Narrator",
+    "text": "21.",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "role": "Male",
+    "text": "The enemy's spies who come to spy on us must be identified, tempted with bribes, led away, and comfortably housed. This is how they become converted spies, ready for our service.",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "role": "Narrator",
+    "text": "> Mei Yao-chen:",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "role": "Male",
+    "text": "Turn the enemy's own weapons against him. A converted spy is far more valuable than a dead one.",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "role": "Narrator",
+    "text": "22.",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "role": "Male",
+    "text": "Through the intelligence provided by the converted spy, we can acquire and employ both local and inward spies.",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "role": "Narrator",
+    "text": "23.",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "role": "Male",
+    "text": "Thanks to his information, we can also instruct the doomed spy to deliver false reports to the enemy.",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "role": "Narrator",
+    "text": "24.",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "role": "Male",
+    "text": "Lastly, his information ensures that the surviving spy can be deployed at exactly the right moments.",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "role": "Narrator",
+    "text": "25.",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "role": "Male",
+    "text": "The ultimate goal of spying, across all five varieties, is complete knowledge of the enemy. This knowledge originates with the converted spy. Therefore, it is absolutely essential to treat the converted spy with the utmost generosity.",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "role": "Narrator",
+    "text": "> Zhang Yu:",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "role": "Male",
+    "text": "The converted spy is the linchpin. Since he knows the enemy's intelligence network and methods, he provides the master key that unlocks the entire system.",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "role": "Narrator",
+    "text": "26.",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "role": "Male",
+    "text": "In ancient times, the rise of the Yin dynasty was made possible by I Chih, who had previously served the Hsia. Similarly, the rise of the Chou dynasty was driven by Lü Ya, who had previously served the Yin.",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "role": "Narrator",
+    "text": "> Cao Cao:",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "role": "Male",
+    "text": "These great men were essentially inward spies of the highest order. They served a corrupt dynasty but secretly guided its conquerors to victory.",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "role": "Narrator",
+    "text": "27.",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "role": "Male",
+    "text": "Thus, only the enlightened ruler and the wise general who utilize the sharpest minds in the army for espionage will achieve extraordinary results. Spies are a critical element in war, because the army's ability to maneuver depends entirely on them.",
+    "is_header": false
+  }
+]

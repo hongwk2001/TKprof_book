@@ -1,0 +1,1766 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "제13장:",
+    "is_header": false
+  },
+  {
+    "id": 2,
+    "role": "Male",
+    "text": "난 콜린이야",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Narrator",
+    "text": "메리는 저녁 식사를 하러 집으로 돌아갈 때 그 그림을 챙겨 가 마사에게 보여 주었다.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Male",
+    "text": "어머나!",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Narrator",
+    "text": "마사가 아주 자랑스러워하며 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Male",
+    "text": "우리 디콘이 이렇게 솜씨가 좋은 줄은 미처 몰랐네유. 이건 둥지 위에 앉아 있는 겨우살이지빠귀 그림인데, 아주 실물처럼 똑같이 생겼네유.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Narrator",
+    "text": "그제야 메리는 디콘이 비밀을 지키겠다는 메시지로 그 그림을 보냈음을 깨달았다. 그는 비밀을 꼭 지켜줄 테니 안심하라는 뜻을 전하고 싶었던 것이다. 비밀의 화원은 그녀의 둥지였고, 자신은 그 둥지 위의 겨우살이지빠귀와 같았다. 아, 메리는 이 묘하고 유별난 소년이 얼마나 마음에 들었는지 모른다!",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "Narrator",
+    "text": "메리는 바로 다음 날 그가 다시 돌아오기를 바라며, 다가올 아침을 고대하며 잠이 들었다.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Narrator",
+    "text": "하지만 요크셔의 날씨는, 특히 봄철에는 도무지 종잡을 수가 없는 법이다. 메리는 한밤중에 창문을 세차게 두드리는 빗소리에 잠이 깼다. 비가 억수같이 쏟아지고 있었고, 바람은 거대한 고저택의 모퉁이를 휘감고 굴뚝을 통과하며 윙윙 울부짖었다. 침대에 일어나 앉은 메리는 온몸이 찌푸둥하고 짜증이 났다.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Male",
+    "text": "비가 꼭 나만큼이나 고집불통이네.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Narrator",
+    "text": "메리가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Male",
+    "text": "내가 비 오는 걸 싫어하는 줄 알고 일부러 내리는 게 분명해.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Narrator",
+    "text": "메리는 베개에 머리를 묻고 다시 누웠다. 울지는 않았지만, 세차게 쏟아지는 빗소리를 미워하며 누워 있었다. 쓸쓸하게 울부짖는 바람 소리도 싫었다. 다시 잠을 이룰 수가 없었다. 제 마음이 슬퍼서 그런지 그 애처로운 소리 때문에 잠이 오지 않았다. 만약 행복했더라면 그 소리가 자장가처럼 들렸을지도 모를 일이었다. 바람은 또 어찌나 울부짖고, 굵은 빗방울은 어찌나 쏟아져 내리며 창문을 두들겨 대는지!",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "role": "Male",
+    "text": "꼭 황무지에서 길을 잃고 울며 헤매는 사람 목소리 같아.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "role": "Narrator",
+    "text": "메리가 중얼거렸다.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "role": "Narrator",
+    "text": "그렇게 잠을 이루지 못한 채 한 시간가량 이리저리 뒤척이던 그때, 문득 메리는 벌떡 일어나 앉아 고개를 문 쪽으로 돌렸다. 귀를 쫑긋 세우고 온 신경을 집중해 들어 보았다.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "role": "Male",
+    "text": "지금은 바람 소리가 아니야.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "role": "Narrator",
+    "text": "메리가 나직하지만 또렷하게 속삭였다.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "role": "Male",
+    "text": "바람 소리가 아니야. 분명 달라. 전에 들었던 그 울음소리야.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "role": "Narrator",
+    "text": "방문이 살짝 열려 있었는데, 긴 복도를 타고 멀리서 들려오는 애처로운 울음소리가 희미하게 울렸다. 메리는 몇 분 동안 귀를 기울였고, 시간이 흐를수록 확신이 섰다. 그 울음소리의 정체를 꼭 밝혀내야만 할 것 같았다. 그것은 비밀의 화원이나 묻혀 있던 열쇠보다 훨씬 더 기이하게 느껴졌다. 어쩌면 반항심 어린 마음이 그녀를 대담하게 만들었는지도 모른다. 메리는 침대 밖으로 발을 디디며 바닥에 일어섰다.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "role": "Male",
+    "text": "그 소리가 뭔지 꼭 알아내겠어.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "role": "Narrator",
+    "text": "메리가 다짐했다.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "role": "Male",
+    "text": "모두 잠들었으니 메들록 부인도 상관없어. 아무래도 좋아!",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "role": "Narrator",
+    "text": "침대 곁에 놓인 촛대를 집어 든 메리는 살금살금 방을 나섰다. 복도는 아주 길고 어두웠지만, 흥분한 나머지 무서운 줄도 몰랐다. 메리는 길을 잃었던 날 메들록 부인이 드나들었던 태피스트리 문이 있는 짧은 복도로 가려면 어느 모퉁이로 꺾어야 하는지 기억해 내려고 애썼다. 소리는 그쪽에서 흘러나오고 있었다. 희미한 촛불을 켜 든 채 더듬더듬 길을 찾으며 나아가는 메리의 심장이 어찌나 크게 뛰는지 귀에 생생히 들릴 정도였다. 멀리서 들려오는 희미한 울음소리가 길잡이가 되어 그녀를 이끌었다. 울음소리는 이따금 뚝 끊겼다가도 다시 이어지곤 했다. 이 모퉁이로 꺾는 것이 맞나? 그녀는 멈춰 서서 생각했다. 맞았다. 이 복도를 따라가다가 왼쪽으로 꺾어 넓은 두 계단을 올라간 뒤, 다시 오른쪽으로 돌면 되었다. 그렇다, 저기 태피스트리 문이 보였다.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "role": "Narrator",
+    "text": "메리는 문을 아주 살며시 밀어 열고 들어가 뒤돌아서서 조용히 닫았다. 복도에 들어서니 울음소리가 그리 크지는 않았지만 아주 똑똑히 들렸다. 왼쪽 벽 너머에서 들려오고 있었는데, 몇 야드쯤 가다 보니 문이 하나 나타났다. 문틈 밑으로 희미한 불빛이 새어 나오고 있었다. 누군가 그 방 안에서 울고 있었고, 목소리로 보아 아주 어린아이였다.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "role": "Narrator",
+    "text": "메리는 문가로 걸어가 슬며시 밀었다. 그러자 갑자기 방 안에 우뚝 들어서게 되었다!",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "role": "Narrator",
+    "text": "그곳은 고풍스럽고 우아한 가구들이 놓인 넓은 방이었다. 벽난로 속에서 사그라드는 불꽃이 희미하게 빛나고 있었고, 화려한 브로케이드 직물로 장식된 네 기둥 달린 침대 곁에는 미등이 켜져 있었다. 그리고 침대에는 한 소년이 누워 짜증 섞인 울음을 터뜨리고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "role": "Narrator",
+    "text": "메리는 자신이 지금 현실 세계에 서 있는 것인지, 아니면 나도 모르게 다시 잠들어 꿈을 꾸고 있는 것인지 멍해졌다.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "role": "Narrator",
+    "text": "소년은 상아색 피부에 날카롭고 섬세한 이목구비를 지녔고, 그의 얼굴에 비해 눈이 유난히 커 보였다. 이마 위로 쏟아져 내린 숱이 많고 무성한 머리카락 때문에 핼쑥한 얼굴이 한층 더 작아 보였다. 오랫동안 병을 앓아온 아이처럼 보였으나, 아파서 운다기보다는 몸이 몹시 피곤하고 짜증이 나서 칭얼거리는 것처럼 울고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "role": "Narrator",
+    "text": "메리는 촛대를 손에 든 채 문가에 서서 숨을 죽였다. 그러고는 살금살금 방을 가로질러 걸어갔다. 그녀가 다가서자 촛불에 비친 형체가 소년의 눈에 들어왔다. 소년은 베개에 묻은 고개를 돌려 메리를 빤히 쳐다보았고, 회색 눈동자가 튀어나올 듯 둥그렇게 커졌다.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "role": "Male",
+    "text": "너는 누구야?",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "role": "Narrator",
+    "text": "마침내 소년이 겁먹은 목소리로 나직이 속삭였다.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "role": "Male",
+    "text": "너 유령이니?",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "role": "Male",
+    "text": "아니, 난 유령이 아니야.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "role": "Narrator",
+    "text": "메리 역시 겁에 질린 목소리로 똑같이 속삭였다.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "role": "Male",
+    "text": "너야말로 유령이야?",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "role": "Narrator",
+    "text": "소년은 메리를 뚫어지게 쳐다보았다. 메리는 소년의 눈이 참으로 신비롭다는 생각을 떨칠 수 없었다. 짙고 촘촘한 속눈썹에 둘러싸인 그의 눈은 마노처럼 맑은 회색빛을 띠고 있었는데, 얼굴에 비해 너무나도 커 보였다.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "role": "Male",
+    "text": "아니,",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "role": "Narrator",
+    "text": "소년이 잠시 후 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "role": "Male",
+    "text": "난 콜린이야.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "role": "Male",
+    "text": "콜린이 누군데?",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "role": "Narrator",
+    "text": "메리가 조심스레 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "role": "Male",
+    "text": "난 콜린 크레이븐이야. 너는 누구야?",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "role": "Male",
+    "text": "난 메리 레녹스야. 크레이븐 씨가 내 고모부셔.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "role": "Male",
+    "text": "그분은 내 아버지야,",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "role": "Narrator",
+    "text": "소년이 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "role": "Male",
+    "text": "네 아버지라고!",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "role": "Narrator",
+    "text": "메리가 숨을 들이켰다.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "role": "Male",
+    "text": "아무도 나한테 그분께 아들이 있다는 말을 안 해줬어! 왜 숨긴 거지?",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "role": "Male",
+    "text": "이리 와봐,",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "role": "Narrator",
+    "text": "소년이 불안한 기색으로 그 기이한 눈을 메리에게서 떼지 못한 채 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "role": "Narrator",
+    "text": "메리가 침대 가까이 다가가자 소년은 손을 뻗어 그녀의 몸에 가져다 댔다.",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "role": "Male",
+    "text": "너 진짜 사람 맞지?",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "role": "Narrator",
+    "text": "소년이 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "role": "Male",
+    "text": "난 아주 진짜 같은 꿈을 자주 꾸거든. 너도 꿈속의 한 장면일지 몰라.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "role": "Narrator",
+    "text": "방을 나서기 전 모직 가운을 걸쳤던 메리는 그 가운의 깃 한 자락을 소년의 손가락 사이에 쥐여 주었다.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "role": "Male",
+    "text": "이걸 만져봐. 얼마나 두껍고 따뜻한지 알 수 있을 거야.",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "role": "Narrator",
+    "text": "메리가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "role": "Male",
+    "text": "내가 진짜라는 걸 보여 주려고 원한다면 꼬집어 줄 수도 있어. 사실 나도 잠깐은 네가 꿈속 인물인 줄 알았어.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "role": "Male",
+    "text": "어디서 온 거야?",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "role": "Narrator",
+    "text": "소년이 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "role": "Male",
+    "text": "내 방에서 왔어. 바람이 너무 세차게 불어서 잠이 안 오더라고. 그런데 어디선가 우는 소리가 들려서 누군가 하고 찾으러 나선 거야. 너는 왜 울고 있었어?",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "role": "Male",
+    "text": "나도 잠이 오지 않고 머리도 아파서. 네 이름을 다시 말해줄래?",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "role": "Male",
+    "text": "메리 레녹스야. 아무도 내가 이곳에 와서 살게 되었다는 말을 안 해줬니?",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "role": "Narrator",
+    "text": "소년은 여전히 메리의 가운 자락을 조물거리고 있었으나, 눈앞의 메리가 실재한다는 것을 차츰 믿어가는 듯했다.",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "role": "Male",
+    "text": "응,",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "role": "Narrator",
+    "text": "소년이 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "role": "Male",
+    "text": "감히 그럴 엄두를 내지 못했겠지.",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "role": "Male",
+    "text": "왜?",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "role": "Narrator",
+    "text": "메리가 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "role": "Male",
+    "text": "내가 너랑 마주치는 걸 싫어했을 테니까. 난 사람들이 날 구경하고 수군거리는 게 정말 싫어.",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "role": "Male",
+    "text": "왜?",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "role": "Narrator",
+    "text": "메리는 시간이 흐를수록 어리둥절해하며 다시 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "role": "Male",
+    "text": "난 항상 이렇게 아파서 침대에 누워만 지내야 하니까. 아버지 역시 다른 사람들이 내 이야기를 하는 걸 원치 않으셔. 하인들이 내 소문을 내는 것도 엄격히 금지되어 있어. 내가 살아남는다면 꼽추가 될지도 모른대. 하지만 어차피 난 살지 못할 거야. 아버지는 내가 자라서 자신처럼 변할지도 모른다는 생각을 끔찍이도 싫어하셔.",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "role": "Male",
+    "text": "아, 참으로 이상한 집이야!",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "role": "Narrator",
+    "text": "메리가 외쳤다.",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "role": "Male",
+    "text": "정말 별난 집이야! 모든 게 다 비밀이잖아. 잠겨 있는 방들, 잠겨 있는 화원... 그리고 너까지! 너도 갇혀 있었던 거야?",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "role": "Male",
+    "text": "아니. 딴 방으로 옮겨 다니기 싫어서 여기 계속 있는 거야. 조금만 움직여도 너무 기운이 빠지거든.",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "role": "Male",
+    "text": "아버님이 널 보러 오시기는 하니?",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "role": "Narrator",
+    "text": "메리가 조심스레 질문을 건넸다.",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "role": "Male",
+    "text": "가끔 오셔. 대개 내가 잠들어 있을 때지. 나를 대면하고 싶어 하지 않으셔.",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "role": "Male",
+    "text": "왜?",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "role": "Narrator",
+    "text": "메리는 묻지 않을 수 없었다.",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "role": "Narrator",
+    "text": "소년의 얼굴 위로 분노의 어두운 그늘이 스쳐 지나갔다.",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "role": "Male",
+    "text": "내가 태어날 때 어머니가 돌아가셨거든. 그래서 날 보기만 해도 괴로우신 거야. 내가 모를 줄 아시겠지만, 하인들이 수군거리는 걸 다 들었어. 아버지는 나를 거의 미워하시다시피 해.",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "role": "Male",
+    "text": "어머니가 돌아가셔서 그 화원을 미워하시는구나,",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "role": "Narrator",
+    "text": "메리가 거의 혼잣말처럼 중얼거렸다.",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "role": "Male",
+    "text": "무슨 화원?",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "role": "Narrator",
+    "text": "소년이 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "role": "Male",
+    "text": "아, 그냥... 그냥 그분이 좋아하시던 화원 말이야.",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "role": "Narrator",
+    "text": "메리가 말을 더듬으며 얼버무렸다.",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "role": "Male",
+    "text": "너는 계속 여기서만 살았니?",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "role": "Male",
+    "text": "거의 평생을 살았어. 가끔 바닷가로 요양을 가기도 했지만, 사람들이 쳐다보는 게 싫어서 오래 있지 않았어. 전에는 등을 곧게 펴려고 쇠로 된 척추 보조기를 차고 다녔는데, 런던에서 온 유명한 의사가 그걸 보더니 멍청한 짓이라고 하더군. 당장 보조기를 풀어 버리고 맑은 바깥바람을 쐬게 하라고 했지. 하지만 난 바깥바람이 끔찍하게 싫고, 밖으로 나가고 싶지 않아.",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "role": "Male",
+    "text": "나도 처음 여기 왔을 땐 그랬어.",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "role": "Narrator",
+    "text": "메리가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "role": "Male",
+    "text": "그런데 왜 자꾸 날 그렇게 쳐다보는 거야?",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "role": "Male",
+    "text": "꿈결이 너무 생생해서 그래.",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "role": "Narrator",
+    "text": "소년이 다소 신경질적으로 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "role": "Male",
+    "text": "가끔은 눈을 떴을 때 내가 진짜 깨어 있는 건지 도무지 믿기지 않거든.",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "role": "Male",
+    "text": "우리 둘 다 깨어 있는 게 맞아.",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "role": "Narrator",
+    "text": "메리가 말했다. 메리는 높은 천장과 어두컴컴한 모퉁이들, 그리고 가물거리는 벽난로 불빛이 감도는 방 안을 둘러보았다.",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "role": "Male",
+    "text": "정말 꿈속 같기는 해. 한밤중인데다 이 넓은 집에서 우리 둘 말고는 아무도 안 깨어 있으니까. 우리만 멀뚱멀뚱 깨어 있잖아.",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "role": "Male",
+    "text": "난 이게 꿈이 아니었으면 좋겠어.",
+    "is_header": false
+  },
+  {
+    "id": 104,
+    "role": "Narrator",
+    "text": "소년이 불안해하며 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 105,
+    "role": "Narrator",
+    "text": "갑자기 메리에게 좋은 생각이 떠올랐다.",
+    "is_header": false
+  },
+  {
+    "id": 106,
+    "role": "Male",
+    "text": "네가 다른 사람들과 마주치는 걸 싫어한다면,",
+    "is_header": false
+  },
+  {
+    "id": 107,
+    "role": "Narrator",
+    "text": "메리가 조심스레 입을 열었다.",
+    "is_header": false
+  },
+  {
+    "id": 108,
+    "role": "Male",
+    "text": "내가 가길 바라니?",
+    "is_header": false
+  },
+  {
+    "id": 109,
+    "role": "Narrator",
+    "text": "소년은 아직도 메리의 가운 자락을 쥔 채, 그것을 살며시 잡아당겼다.",
+    "is_header": false
+  },
+  {
+    "id": 110,
+    "role": "Male",
+    "text": "아니,",
+    "is_header": false
+  },
+  {
+    "id": 111,
+    "role": "Narrator",
+    "text": "소년이 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 112,
+    "role": "Male",
+    "text": "네가 가 버리면 널 정말 꿈결로 생각할 거야. 네가 진짜 사람이라면 저 큰 발 받침대에 앉아서 나랑 이야기하자. 너에 대해 듣고 싶어.",
+    "is_header": false
+  },
+  {
+    "id": 113,
+    "role": "Narrator",
+    "text": "메리는 침대 옆 탁자 위에 촛대를 내려놓고 푹신한 발 받침대에 자리를 잡고 앉았다. 그녀는 전혀 돌아가고 싶지 않았다. 이 신비하고 비밀스러운 방에 남아, 신비로운 소년과 이야기를 나누고 싶을 뿐이었다.",
+    "is_header": false
+  },
+  {
+    "id": 114,
+    "role": "Male",
+    "text": "무슨 얘기를 해줄까?",
+    "is_header": false
+  },
+  {
+    "id": 115,
+    "role": "Narrator",
+    "text": "메리가 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 116,
+    "role": "Narrator",
+    "text": "소년은 메리가 미셀스웨이트 저택에 온 지 얼마나 되었는지, 방이 어느 쪽 복도에 있는지, 그리고 여기서 무엇을 하며 지내왔는지 몹시 궁금해했다. 황무지를 자신만큼이나 싫어하는지, 요크셔에 오기 전에는 어디에 살았는지도 물었다. 소년이 베개에 편안히 기대어 귀를 기울이는 동안 메리는 온갖 질문에 세세히 대답해 주었다. 메리는 소년의 청을 들어 인도 시절의 생활과 드넓은 바다를 건너온 항해 이야기를 들려주었다. 또한 대화를 나누면서 메리는 소년이 늘 앓아눕는 바람에 다른 아이들처럼 정식 교육을 받지 못했다는 사실도 알게 되었다. 아주 어렸을 때 유모 중 한 명이 글을 깨우쳐 주어, 소년은 아름다운 책들을 읽고 삽화를 구경하며 시간을 보낸다고 했다.",
+    "is_header": false
+  },
+  {
+    "id": 117,
+    "role": "Narrator",
+    "text": "아버지가 소년이 깨어 있는 모습을 보러 오는 일은 극히 드물었으나, 소년이 지루하지 않게 시간을 보낼 수 있도록 온갖 귀하고 멋진 물건들을 아낌없이 사다 주었다. 하지만 소년은 그중 어떤 것에도 흥미를 느끼지 못하는 듯했다. 소년은 원하는 것은 무엇이든 손에 넣을 수 있었고, 하기 싫은 일은 결코 강요받지 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 118,
+    "role": "Male",
+    "text": "누구든 나를 기쁘게 해 주어야 해.",
+    "is_header": false
+  },
+  {
+    "id": 119,
+    "role": "Narrator",
+    "text": "소년이 무심하게 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 120,
+    "role": "Male",
+    "text": "화를 내면 나만 더 아프니까. 그리고 아무도 내가 자라 어른이 될 때까지 살 수 있으리라 믿지 않아.",
+    "is_header": false
+  },
+  {
+    "id": 121,
+    "role": "Narrator",
+    "text": "소년은 그 생각에 아주 익숙해진 듯 더는 아무렇지도 않게 툭 털어놓았다. 그는 메리의 목소리가 마음에 드는 눈치였다. 메리가 조곤조곤 이야기를 계속하자, 졸린 와중에도 꽤 호기심을 보이며 귀를 기울였다. 한두 번은 정말 잠에 빠져든 게 아닌가 싶기도 했다. 그러다가 마침내 소년이 질문 하나를 던지면서 대화의 물꼬가 전혀 새로운 방향으로 텄다.",
+    "is_header": false
+  },
+  {
+    "id": 122,
+    "role": "Male",
+    "text": "너는 몇 살이야?",
+    "is_header": false
+  },
+  {
+    "id": 123,
+    "role": "Narrator",
+    "text": "소년이 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 124,
+    "role": "Male",
+    "text": "난 열 살이야.",
+    "is_header": false
+  },
+  {
+    "id": 125,
+    "role": "Narrator",
+    "text": "메리는 저도 모르게 내뱉었다.",
+    "is_header": false
+  },
+  {
+    "id": 126,
+    "role": "Male",
+    "text": "너도 열 살이잖아.",
+    "is_header": false
+  },
+  {
+    "id": 127,
+    "role": "Male",
+    "text": "그걸 네가 어떻게 알아?",
+    "is_header": false
+  },
+  {
+    "id": 128,
+    "role": "Narrator",
+    "text": "소년이 깜짝 놀라 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 129,
+    "role": "Male",
+    "text": "왜냐하면 네가 태어났을 때 화원 문이 잠겼고 열쇠가 땅에 묻혔거든. 그 화원은 십 년 동안 잠겨 있었어.",
+    "is_header": false
+  },
+  {
+    "id": 130,
+    "role": "Narrator",
+    "text": "콜린은 상체를 반쯤 일으켜 세우고는 팔꿈치로 몸을 지탱한 채 메리를 향해 돌아앉았다.",
+    "is_header": false
+  },
+  {
+    "id": 131,
+    "role": "Male",
+    "text": "어떤 화원 문이 잠겼다는 거야? 누가 그랬는데? 열쇠는 어디에 묻혔어?",
+    "is_header": false
+  },
+  {
+    "id": 132,
+    "role": "Narrator",
+    "text": "소년이 별안간 강한 호기심을 보이며 잇달아 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 133,
+    "role": "Male",
+    "text": "그건... 크레이븐 고모부가 미워하시는 화원이야.",
+    "is_header": false
+  },
+  {
+    "id": 134,
+    "role": "Narrator",
+    "text": "메리가 조마조마해하며 더듬거렸다.",
+    "is_header": false
+  },
+  {
+    "id": 135,
+    "role": "Male",
+    "text": "고모부가 문을 잠그셨어. 아무도... 아무도 열쇠를 어디 묻으셨는지 몰라.",
+    "is_header": false
+  },
+  {
+    "id": 136,
+    "role": "Male",
+    "text": "어떤 화원인데?",
+    "is_header": false
+  },
+  {
+    "id": 137,
+    "role": "Narrator",
+    "text": "콜린이 다그쳐 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 138,
+    "role": "Male",
+    "text": "십 년 동안 아무도 안에 들어가선 안 되는 곳이었어.",
+    "is_header": false
+  },
+  {
+    "id": 139,
+    "role": "Narrator",
+    "text": "메리가 조심스레 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 140,
+    "role": "Narrator",
+    "text": "하지만 이미 몸을 사리기엔 너무 늦은 뒤였다. 소년은 메리와 닮은 점이 참 많았다. 그 역시 평소 정신을 쏟을 만한 일이 통 없었던 탓인지, 숨겨진 화원이라는 이야기가 메리 때와 마찬가지로 소년의 마음을 단숨에 사로잡아 버렸다. 그는 연방 질문을 퍼부었다. 그 화원이 어디에 있는지, 메리가 문을 찾아본 적은 있는지, 정원사들에게 물어본 적은 있는지.",
+    "is_header": false
+  },
+  {
+    "id": 141,
+    "role": "Male",
+    "text": "아무도 그 얘길 하려 하지 않아.",
+    "is_header": false
+  },
+  {
+    "id": 142,
+    "role": "Narrator",
+    "text": "메리가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 143,
+    "role": "Male",
+    "text": "질문을 받아도 대답하지 말라는 지시를 받은 것 같아.",
+    "is_header": false
+  },
+  {
+    "id": 144,
+    "role": "Male",
+    "text": "나라면 대답하게 만들었을 텐데.",
+    "is_header": false
+  },
+  {
+    "id": 145,
+    "role": "Narrator",
+    "text": "콜린이 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 146,
+    "role": "Male",
+    "text": "정말 그럴 수 있어?",
+    "is_header": false
+  },
+  {
+    "id": 147,
+    "role": "Narrator",
+    "text": "메리가 덜컥 겁이 나기 시작해 우물쭈물 물었다. 만약 소년이 사람들에게 억지로 대답하게 만든다면 앞으로 무슨 사달이 날지 모를 일이었다.",
+    "is_header": false
+  },
+  {
+    "id": 148,
+    "role": "Male",
+    "text": "내가 말했잖아, 누구든 날 기쁘게 해야 한다고.",
+    "is_header": false
+  },
+  {
+    "id": 149,
+    "role": "Narrator",
+    "text": "소년이 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 150,
+    "role": "Male",
+    "text": "내가 살아남기만 하면 이 저택은 언젠가 내 것이 될 테니까. 다들 그걸 알거든. 나 같으면 입을 열게 만들었을 거야.",
+    "is_header": false
+  },
+  {
+    "id": 151,
+    "role": "Narrator",
+    "text": "메리는 자신이 여태껏 버릇없고 오만하게 자랐다는 사실은 깨닫지 못했으면서도, 눈앞의 신비로운 소년이 지독하게 응석받이로 자랐다는 것만은 똑똑히 알 수 있었다. 그는 온 세상이 자기 발밑에 있는 것처럼 굴었다. 어쩜 이토록 별난 아이가 다 있고, 또 제 죽음에 대해서는 어찌나 덤덤하게 말하는지 신기할 따름이었다.",
+    "is_header": false
+  },
+  {
+    "id": 152,
+    "role": "Male",
+    "text": "너 정말로 오래 살지 못할 거라고 생각해?",
+    "is_header": false
+  },
+  {
+    "id": 153,
+    "role": "Narrator",
+    "text": "메리가 한편으로는 호기심에, 한편으로는 소년이 화원 생각을 잊어버리기를 바라며 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 154,
+    "role": "Male",
+    "text": "아마도 그렇겠지.",
+    "is_header": false
+  },
+  {
+    "id": 155,
+    "role": "Narrator",
+    "text": "소년이 전과 다름없이 무덤덤하게 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 156,
+    "role": "Male",
+    "text": "아주 어릴 때부터 사람들이 내가 오래 살지 못할 거라고 수군거리는 소리를 들었어. 처음엔 내가 너무 어려서 말을 못 알아듣는 줄 알았고, 지금은 내가 안 듣고 있는 줄 아나 봐. 하지만 난 다 듣고 있어. 내 전담 의사는 우리 아버지의 사촌인데, 꽤 가난하거든. 내가 죽으면 아버지가 돌아가신 뒤 미셀스웨이트의 모든 재산을 그 사람이 물려받게 돼. 그래서 그 의사도 내가 살길 바라지 않는 것 같아.",
+    "is_header": false
+  },
+  {
+    "id": 157,
+    "role": "Male",
+    "text": "너는 살고 싶어?",
+    "is_header": false
+  },
+  {
+    "id": 158,
+    "role": "Narrator",
+    "text": "메리가 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 159,
+    "role": "Male",
+    "text": "아니.",
+    "is_header": false
+  },
+  {
+    "id": 160,
+    "role": "Narrator",
+    "text": "소년이 뾰로통하고 피곤에 지친 목소리로 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 161,
+    "role": "Male",
+    "text": "하지만 죽는 것도 싫어. 몸이 아플 때 침대에 누워 죽음을 생각하다 보면 눈물이 왈칵 쏟아져서 한참을 울게 돼.",
+    "is_header": false
+  },
+  {
+    "id": 162,
+    "role": "Male",
+    "text": "네가 우는 소리를 세 번이나 들었어.",
+    "is_header": false
+  },
+  {
+    "id": 163,
+    "role": "Narrator",
+    "text": "메리가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 164,
+    "role": "Male",
+    "text": "그때는 그게 누구인지 전혀 몰랐지만 말이야. 그것 때문에 울었던 거니?",
+    "is_header": false
+  },
+  {
+    "id": 165,
+    "role": "Narrator",
+    "text": "메리는 소년이 기필코 화원 생각을 잊기를 바랐다.",
+    "is_header": false
+  },
+  {
+    "id": 166,
+    "role": "Male",
+    "text": "아마 그랬을 거야.",
+    "is_header": false
+  },
+  {
+    "id": 167,
+    "role": "Narrator",
+    "text": "소년이 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 168,
+    "role": "Male",
+    "text": "우리 딴 얘기 하자. 그 화원 이야기 좀 해줘. 너도 가보고 싶지 않니?",
+    "is_header": false
+  },
+  {
+    "id": 169,
+    "role": "Male",
+    "text": "응,",
+    "is_header": false
+  },
+  {
+    "id": 170,
+    "role": "Narrator",
+    "text": "메리가 기어들어 가는 목소리로 답했다.",
+    "is_header": false
+  },
+  {
+    "id": 171,
+    "role": "Male",
+    "text": "난 꼭 볼 거야.",
+    "is_header": false
+  },
+  {
+    "id": 172,
+    "role": "Narrator",
+    "text": "소년이 고집스럽게 말을 이었다.",
+    "is_header": false
+  },
+  {
+    "id": 173,
+    "role": "Male",
+    "text": "내가 태어나서 뭔가 간절히 보고 싶다는 마음이 든 건 이번이 처음이야. 그 화원을 꼭 보고 싶어. 땅에 묻힌 열쇠를 파내고 문을 열게 할 거야. 휠체어를 타고 거기 데려다 달라고 해야지. 바깥바람을 쐬는 핑계로 삼으면 되니까. 당장 문을 열라고 시켜야겠어.",
+    "is_header": false
+  },
+  {
+    "id": 174,
+    "role": "Narrator",
+    "text": "소년은 꽤 흥분했는지, 신비로운 두 눈이 밤하늘의 별처럼 반짝이더니 전보다 훨씬 더 커 보였다.",
+    "is_header": false
+  },
+  {
+    "id": 175,
+    "role": "Male",
+    "text": "그 사람들은 내 말대로 해야만 해.",
+    "is_header": false
+  },
+  {
+    "id": 176,
+    "role": "Narrator",
+    "text": "소년이 덧붙였다.",
+    "is_header": false
+  },
+  {
+    "id": 177,
+    "role": "Male",
+    "text": "나를 그곳에 데려가게 만들 테니, 너도 같이 가게 해줄게.",
+    "is_header": false
+  },
+  {
+    "id": 178,
+    "role": "Narrator",
+    "text": "메리는 두 손을 꼭 움켜쥐었다. 모든 게 엉망이 될 터였다. 정말 모든 게! 그렇게 되면 디콘은 다시는 오지 않을 것이며, 메리 자신도 둥지 속에서 안전하게 보호받는 지빠귀처럼 느끼던 그 아늑함을 다시는 누릴 수 없을 터였다.",
+    "is_header": false
+  },
+  {
+    "id": 179,
+    "role": "Male",
+    "text": "아, 안 돼! 안 돼, 안 돼! 제발 그러지 마!",
+    "is_header": false
+  },
+  {
+    "id": 180,
+    "role": "Narrator",
+    "text": "메리가 소리를 질렀다.",
+    "is_header": false
+  },
+  {
+    "id": 181,
+    "role": "Narrator",
+    "text": "소년은 메리가 미치기라도 한 것처럼 빤히 바라보았다.",
+    "is_header": false
+  },
+  {
+    "id": 182,
+    "role": "Male",
+    "text": "왜?",
+    "is_header": false
+  },
+  {
+    "id": 183,
+    "role": "Narrator",
+    "text": "소년이 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 184,
+    "role": "Male",
+    "text": "너도 가보고 싶다며.",
+    "is_header": false
+  },
+  {
+    "id": 185,
+    "role": "Male",
+    "text": "그건 그렇지만,",
+    "is_header": false
+  },
+  {
+    "id": 186,
+    "role": "Narrator",
+    "text": "메리는 목이 메어 끅끅거리며 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 187,
+    "role": "Male",
+    "text": "사람들한테 문을 열어 달라고 해서 그렇게 실려 들어가 버리면, 그 화원은 더는 비밀이 아니게 되잖아.",
+    "is_header": false
+  },
+  {
+    "id": 188,
+    "role": "Narrator",
+    "text": "소년은 몸을 더 앞으로 쑥 기울였다.",
+    "is_header": false
+  },
+  {
+    "id": 189,
+    "role": "Male",
+    "text": "비밀이라니.",
+    "is_header": false
+  },
+  {
+    "id": 190,
+    "role": "Narrator",
+    "text": "소년이 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 191,
+    "role": "Male",
+    "text": "그게 무슨 뜻이야? 말해줘.",
+    "is_header": false
+  },
+  {
+    "id": 192,
+    "role": "Narrator",
+    "text": "메리는 숨 가쁘게 말을 쏟아냈다. 말들이 봇물 터지듯 다급하게 흘러나왔다.",
+    "is_header": false
+  },
+  {
+    "id": 193,
+    "role": "Male",
+    "text": "그게 그러니까... 있잖아,",
+    "is_header": false
+  },
+  {
+    "id": 194,
+    "role": "Narrator",
+    "text": "메리는 숨을 헐떡이며 속삭였다.",
+    "is_header": false
+  },
+  {
+    "id": 195,
+    "role": "Male",
+    "text": "우리 둘 말고는 아무도 모르고... 담쟁이넝쿨 밑에 꼭꼭 숨겨진 문이 있어서 그걸 우리가 찾아내는 거야. 그리고 둘이서 살그머니 안으로 들어가 문을 탁 닫아걸면, 아무도 그 안에 사람이 있는 줄 모르겠지. 그 화원을 우리만의 비밀 화원이라 부르고, 우리가 지빠귀고 화원이 우리 둥지라고 소꿉장난을 하는 거야. 매일같이 거기서 흙도 파고 씨앗도 심어서 화원을 다시 파릇파릇 살려내며 놀 수 있잖아...",
+    "is_header": false
+  },
+  {
+    "id": 196,
+    "role": "Male",
+    "text": "그 화원이 죽어 있어?",
+    "is_header": false
+  },
+  {
+    "id": 197,
+    "role": "Narrator",
+    "text": "소년이 말을 가로막았다.",
+    "is_header": false
+  },
+  {
+    "id": 198,
+    "role": "Male",
+    "text": "아무도 보살펴 주지 않으면 머잖아 정말 죽고 말 거야.",
+    "is_header": false
+  },
+  {
+    "id": 199,
+    "role": "Narrator",
+    "text": "메리가 말을 이었다.",
+    "is_header": false
+  },
+  {
+    "id": 200,
+    "role": "Male",
+    "text": "알뿌리들은 살아남겠지만, 장미들은...",
+    "is_header": false
+  },
+  {
+    "id": 201,
+    "role": "Narrator",
+    "text": "소년은 메리만큼이나 잔뜩 흥분해서 다시 그녀의 말을 끊었다.",
+    "is_header": false
+  },
+  {
+    "id": 202,
+    "role": "Male",
+    "text": "알뿌리가 뭔데?",
+    "is_header": false
+  },
+  {
+    "id": 203,
+    "role": "Narrator",
+    "text": "소년이 재빨리 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 204,
+    "role": "Male",
+    "text": "수선화랑 백합이랑 스노드롭 같은 꽃들이야. 지금 땅속에서 봄이 오는 걸 알고 열심히 힘을 내며 연둣빛 새싹들을 밀어 올리고 있을 거야.",
+    "is_header": false
+  },
+  {
+    "id": 205,
+    "role": "Male",
+    "text": "봄이 오고 있다고?",
+    "is_header": false
+  },
+  {
+    "id": 206,
+    "role": "Narrator",
+    "text": "소년이 혼잣말처럼 중얼거렸다.",
+    "is_header": false
+  },
+  {
+    "id": 207,
+    "role": "Male",
+    "text": "봄은 어떤 느낌인데? 아파서 방 안에만 처박혀 있으면 봄이 오는지 어떤지 알 수가 없어.",
+    "is_header": false
+  },
+  {
+    "id": 208,
+    "role": "Male",
+    "text": "비가 내릴 때 햇살이 내리쬐고, 햇빛 속에서 단비가 내리고, 땅밑에서 온갖 생명들이 고개를 내밀며 꿈틀거리는 거야.",
+    "is_header": false
+  },
+  {
+    "id": 209,
+    "role": "Narrator",
+    "text": "메리가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 210,
+    "role": "Male",
+    "text": "만약 그 화원이 우리만의 비밀이 되어서 그리로 들어갈 수 있다면, 날마다 자라나는 식물들을 관찰하고 살아남은 장미가 얼마나 되는지 직접 지켜볼 수 있을 텐데. 그렇지 않니? 아, 비밀로 남겨 두는 게 훨씬 더 멋진 일이라는 걸 모르겠어?",
+    "is_header": false
+  },
+  {
+    "id": 211,
+    "role": "Narrator",
+    "text": "소년은 다시 베개 위로 털썩 누워 묘한 표정을 지었다.",
+    "is_header": false
+  },
+  {
+    "id": 212,
+    "role": "Male",
+    "text": "난 살면서 비밀을 가져본 적이 한 번도 없어.",
+    "is_header": false
+  },
+  {
+    "id": 213,
+    "role": "Narrator",
+    "text": "소년이 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 214,
+    "role": "Male",
+    "text": "내가 어른이 될 때까지 살지 못할 거라는 사실을 숨긴 것 말고는 말이야. 사람들이 내가 알고 있다는 걸 모르니까, 그것도 일종의 비밀이겠지. 하지만 방금 네가 말한 비밀이 백배는 더 마음에 들어.",
+    "is_header": false
+  },
+  {
+    "id": 215,
+    "role": "Male",
+    "text": "그 사람들에게 화원으로 데려다 달라고 강요하지 않겠다고 약속하면,",
+    "is_header": false
+  },
+  {
+    "id": 216,
+    "role": "Narrator",
+    "text": "메리가 애원하듯 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 217,
+    "role": "Male",
+    "text": "내가 머지않아 그곳으로 들어가는 길을 꼭 찾아낼 수 있을 것 같아. 그러고 나면, 의사가 휠체어를 타고 밖으로 나가라고 할 때 넌 네 마음대로 할 수 있으니까, 네 휠체어를 밀어 줄 소년을 구하면 되잖아. 그럼 우리끼리만 조용히 갈 수 있고, 그 화원은 언제까지나 우리 둘만의 비밀 화원이 될 수 있어.",
+    "is_header": false
+  },
+  {
+    "id": 218,
+    "role": "Male",
+    "text": "그거... 정말... 좋겠다.",
+    "is_header": false
+  },
+  {
+    "id": 219,
+    "role": "Narrator",
+    "text": "소년이 눈을 몽롱하게 뜨고 아주 천천히 중얼거렸다.",
+    "is_header": false
+  },
+  {
+    "id": 220,
+    "role": "Male",
+    "text": "정말 좋겠어. 비밀의 화원 안으로 갈 수만 있다면 바깥바람을 쐬는 것도 나쁘지 않을 것 같아.",
+    "is_header": false
+  },
+  {
+    "id": 221,
+    "role": "Narrator",
+    "text": "비밀을 유지하자는 제안에 소년이 흥미를 보이자 메리는 마침내 한숨을 돌리며 안도할 수 있었다. 메리는 자신이 본 화원의 모습을 머릿속에 생생하게 그려 주며 계속 이야기를 나누면, 소년도 그곳을 무척 아끼게 되어 다른 사람들이 함부로 짓밟고 드나들도록 가만두지 않을 것이라 확신했다.",
+    "is_header": false
+  },
+  {
+    "id": 222,
+    "role": "Male",
+    "text": "내가 보기엔 화원 안이 이런 모습일 것 같아.",
+    "is_header": false
+  },
+  {
+    "id": 223,
+    "role": "Narrator",
+    "text": "메리가 입을 열었다.",
+    "is_header": false
+  },
+  {
+    "id": 224,
+    "role": "Male",
+    "text": "오랫동안 닫혀 있었으니, 온갖 나뭇가지와 덩굴이 뒤엉켜 아주 야생 정원처럼 변했을 거야.",
+    "is_header": false
+  },
+  {
+    "id": 225,
+    "role": "Narrator",
+    "text": "소년은 꼼짝도 하지 않고 누워 메리가 묘사하는 풍경에 빠져들었다. 나무를 타고 기어오른 장미 줄기들이 커다란 둥근 고리를 그리며 아래로 치렁치렁 늘어뜨려진 모습, 그리고 워낙 안전한 곳이라 새들이 사방에 둥지를 틀었을 거라는 이야기들이었다. 이어서 메리는 붉은가슴울새와 벤 웨더스태프의 일화도 들려주었다. 붉은가슴울새에 관해서는 나눌 이야기가 무궁무진했고, 새 이야기를 할 때면 마음에 평온이 찾아와 메리는 두려움조차 잊어버렸다. 붉은가슴울새 이야기가 얼마나 흥미진진했던지, 이야기를 듣던 콜린의 입가에 잔잔한 미소가 피어나 핼쑥했던 얼굴이 제법 훤칠해 보이기까지 했다. 사실 처음 마주했을 때 메리는 커다란 눈망울에 무성한 머리를 한 그가 자신보다 훨씬 못생겼다고 생각했었다.",
+    "is_header": false
+  },
+  {
+    "id": 226,
+    "role": "Male",
+    "text": "새가 그렇게 영리할 수 있다는 건 처음 알았어.",
+    "is_header": false
+  },
+  {
+    "id": 227,
+    "role": "Narrator",
+    "text": "소년이 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 228,
+    "role": "Male",
+    "text": "방 안에만 갇혀 지내면 세상만사를 알 길이 없으니까. 너는 정말 아는 게 많구나. 왠지 넌 벌써 그 화원 안에 들어가 본 사람처럼 말해.",
+    "is_header": false
+  },
+  {
+    "id": 229,
+    "role": "Narrator",
+    "text": "순간 메리는 뜨끔하여 말문이 막혀 입을 다물었다. 다행히 소년은 대답을 기대하지 않는 기색이었고, 이내 뜬금없는 제안으로 메리를 깜짝 놀라게 했다.",
+    "is_header": false
+  },
+  {
+    "id": 230,
+    "role": "Male",
+    "text": "너한테 보여 줄 게 있어.",
+    "is_header": false
+  },
+  {
+    "id": 231,
+    "role": "Narrator",
+    "text": "소년이 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 232,
+    "role": "Male",
+    "text": "벽난로 위 벽에 걸려 있는 장미색 실크 커튼이 보이니?",
+    "is_header": false
+  },
+  {
+    "id": 233,
+    "role": "Narrator",
+    "text": "미처 눈여겨보지 못했던 메리가 시선을 올리자 과연 그것이 보였다. 부드러운 비단 커튼 뒤로 무언가 그림 액자가 가려져 있는 듯했다.",
+    "is_header": false
+  },
+  {
+    "id": 234,
+    "role": "Male",
+    "text": "응, 보여.",
+    "is_header": false
+  },
+  {
+    "id": 235,
+    "role": "Narrator",
+    "text": "메리가 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 236,
+    "role": "Male",
+    "text": "그 아래에 줄이 하나 늘어져 있을 거야.",
+    "is_header": false
+  },
+  {
+    "id": 237,
+    "role": "Narrator",
+    "text": "콜린이 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 238,
+    "role": "Male",
+    "text": "가서 그걸 잡아당겨 봐.",
+    "is_header": false
+  },
+  {
+    "id": 239,
+    "role": "Narrator",
+    "text": "메리는 호기심이 발동해 자리에서 일어나 끈을 찾아 쥐었다. 메리가 끈을 당기자 비단 커튼이 고리를 따라 스르륵 옆으로 젖혀지며 한 폭의 그림이 드러났다. 활짝 웃고 있는 어떤 여자의 초상화였다. 파란 리본으로 묶어 올린 눈부신 금발 머리에, 초상화 속 그녀의 해맑고 사랑스러운 두 눈은 콜린의 저 슬픈 눈동자와 판박이였다. 짙은 속눈썹에 둘러싸인 마노빛 회색 눈이 실물보다 배는 더 커 보였다.",
+    "is_header": false
+  },
+  {
+    "id": 240,
+    "role": "Male",
+    "text": "우리 어머니셔.",
+    "is_header": false
+  },
+  {
+    "id": 241,
+    "role": "Narrator",
+    "text": "콜린이 원망 섞인 어조로 읊조렸다.",
+    "is_header": false
+  },
+  {
+    "id": 242,
+    "role": "Male",
+    "text": "어머니가 왜 돌아가셨는지 난 이해할 수 없어. 가끔은 날 두고 떠나버린 어머니가 미워지기도 해.",
+    "is_header": false
+  },
+  {
+    "id": 243,
+    "role": "Male",
+    "text": "참 이상도 하지!",
+    "is_header": false
+  },
+  {
+    "id": 244,
+    "role": "Narrator",
+    "text": "메리가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 245,
+    "role": "Male",
+    "text": "어머니가 살아 계셨다면 내가 이렇게 허구한 날 앓아눕지도 않았을 거야.",
+    "is_header": false
+  },
+  {
+    "id": 246,
+    "role": "Narrator",
+    "text": "소년이 투덜거렸다.",
+    "is_header": false
+  },
+  {
+    "id": 247,
+    "role": "Male",
+    "text": "남들처럼 건강하게 뛰어놀며 자랐겠지. 우리 아버지도 날 마주하는 걸 꺼려 하지 않으셨을 테고, 내 등도 꼿꼿했을 텐데. 이제 다시 커튼을 쳐줘.",
+    "is_header": false
+  },
+  {
+    "id": 248,
+    "role": "Narrator",
+    "text": "메리는 소년의 말대로 커튼을 다시 치고 발 받침대로 돌아와 앉았다.",
+    "is_header": false
+  },
+  {
+    "id": 249,
+    "role": "Male",
+    "text": "어머니가 너보다 훨씬 예쁘시네.",
+    "is_header": false
+  },
+  {
+    "id": 250,
+    "role": "Narrator",
+    "text": "메리가 입을 열었다.",
+    "is_header": false
+  },
+  {
+    "id": 251,
+    "role": "Male",
+    "text": "하지만 눈매는 꼭 빼닮았어. 적어도 눈의 모양새랑 빛깔은 똑같아. 그런데 초상화에 왜 커튼을 쳐 둔 거야?",
+    "is_header": false
+  },
+  {
+    "id": 252,
+    "role": "Narrator",
+    "text": "소년은 몸을 이리저리 뒤척이며 불편한 기색을 내비쳤다.",
+    "is_header": false
+  },
+  {
+    "id": 253,
+    "role": "Male",
+    "text": "내가 쳐 놓으라고 시켰어.",
+    "is_header": false
+  },
+  {
+    "id": 254,
+    "role": "Narrator",
+    "text": "소년이 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 255,
+    "role": "Male",
+    "text": "가끔은 나를 빤히 쳐다보는 어머니의 시선이 곱지 않게 느껴질 때가 있거든. 내가 이렇게 아프고 괴로운데도 초상화 속 어머니는 너무 환하게 웃고 계시니까. 게다가 어머니는 내 차지니까, 다른 사람들이 함부로 들여다보는 게 싫어.",
+    "is_header": false
+  },
+  {
+    "id": 256,
+    "role": "Narrator",
+    "text": "잠시 방 안에 침묵이 맴돈 뒤, 메리가 말을 건넸다.",
+    "is_header": false
+  },
+  {
+    "id": 257,
+    "role": "Male",
+    "text": "만약 내가 여기 들어온 걸 메들록 부인님이 알게 되면 어떻게 될까?",
+    "is_header": false
+  },
+  {
+    "id": 258,
+    "role": "Male",
+    "text": "내가 하라는 대로 하겠지.",
+    "is_header": false
+  },
+  {
+    "id": 259,
+    "role": "Narrator",
+    "text": "소년이 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 260,
+    "role": "Male",
+    "text": "너를 매일 이리로 들여보내서 나랑 이야기하게 하라고 시키면 돼. 네가 와 줘서 정말 기뻐.",
+    "is_header": false
+  },
+  {
+    "id": 261,
+    "role": "Male",
+    "text": "나도 그래.",
+    "is_header": false
+  },
+  {
+    "id": 262,
+    "role": "Narrator",
+    "text": "메리가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 263,
+    "role": "Male",
+    "text": "나도 올 수 있는 한 자주 올게. 하지만...",
+    "is_header": false
+  },
+  {
+    "id": 264,
+    "role": "Narrator",
+    "text": "그녀가 머뭇거렸다.",
+    "is_header": false
+  },
+  {
+    "id": 265,
+    "role": "Male",
+    "text": "...난 매일 화원 문도 계속 찾아봐야 해.",
+    "is_header": false
+  },
+  {
+    "id": 266,
+    "role": "Male",
+    "text": "응, 꼭 그래야지.",
+    "is_header": false
+  },
+  {
+    "id": 267,
+    "role": "Narrator",
+    "text": "콜린도 고개를 끄덕였다.",
+    "is_header": false
+  },
+  {
+    "id": 268,
+    "role": "Male",
+    "text": "문을 찾으면 그 얘기도 나한테 죄다 들려줘.",
+    "is_header": false
+  },
+  {
+    "id": 269,
+    "role": "Narrator",
+    "text": "소년은 전처럼 잠시 골똘히 생각에 잠겨 있다가 다시 입을 열었다.",
+    "is_header": false
+  },
+  {
+    "id": 270,
+    "role": "Male",
+    "text": "네 존재도 일단 비밀로 하는 게 좋겠어.",
+    "is_header": false
+  },
+  {
+    "id": 271,
+    "role": "Narrator",
+    "text": "소년이 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 272,
+    "role": "Male",
+    "text": "사람들이 스스로 눈치채기 전까지는 너에 대해 입도 벙긋하지 않을게. 내가 혼자 있고 싶다고 간호사를 방 밖으로 내보내면 되니까. 혹시 마사를 아니?",
+    "is_header": false
+  },
+  {
+    "id": 273,
+    "role": "Male",
+    "text": "응, 아주 잘 알지.",
+    "is_header": false
+  },
+  {
+    "id": 274,
+    "role": "Narrator",
+    "text": "메리가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 275,
+    "role": "Male",
+    "text": "내 수중을 들어주는 하녀거든.",
+    "is_header": false
+  },
+  {
+    "id": 276,
+    "role": "Narrator",
+    "text": "소년은 바깥 복도 쪽을 향해 턱짓을 했다.",
+    "is_header": false
+  },
+  {
+    "id": 277,
+    "role": "Male",
+    "text": "마사가 저 옆방에서 자고 있어. 간호사는 어제 언니네 집에 가느라 하루 외박을 했거든. 간호사는 외출할 때마다 늘 마사더러 나를 돌보라고 시켜. 마사를 통해 언제 내 방에 들어오면 될지 알아볼 수 있을 거야.",
+    "is_header": false
+  },
+  {
+    "id": 278,
+    "role": "Narrator",
+    "text": "그제야 메리는 전에 울음소리에 대해 물었을 때 마사가 왜 그리 안절부절못했는지 고개를 끄덕였다.",
+    "is_header": false
+  },
+  {
+    "id": 279,
+    "role": "Male",
+    "text": "그럼 마사는 진작부터 너에 대해 알고 있었던 거네?",
+    "is_header": false
+  },
+  {
+    "id": 280,
+    "role": "Narrator",
+    "text": "메리가 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 281,
+    "role": "Male",
+    "text": "응, 나를 자주 보살펴 줬으니까. 간호사가 자리를 비우고 싶어 할 때마다 마사가 들어오거든.",
+    "is_header": false
+  },
+  {
+    "id": 282,
+    "role": "Male",
+    "text": "나 너무 오래 있었던 것 같아.",
+    "is_header": false
+  },
+  {
+    "id": 283,
+    "role": "Narrator",
+    "text": "메리가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 284,
+    "role": "Male",
+    "text": "이제 나갈까? 네 눈을 보니 졸음이 한가득 묻어 있네.",
+    "is_header": false
+  },
+  {
+    "id": 285,
+    "role": "Male",
+    "text": "네가 가기 전에 내가 잠들었으면 좋겠어.",
+    "is_header": false
+  },
+  {
+    "id": 286,
+    "role": "Narrator",
+    "text": "소년이 다소 수줍어하며 속내를 털어놓았다.",
+    "is_header": false
+  },
+  {
+    "id": 287,
+    "role": "Male",
+    "text": "눈을 감아봐.",
+    "is_header": false
+  },
+  {
+    "id": 288,
+    "role": "Narrator",
+    "text": "메리는 발 받침대를 침대 가까이 끌어당기며 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 289,
+    "role": "Male",
+    "text": "인도에서 유모가 내게 해 주었던 것처럼 해줄게. 손을 토닥이고 쓰다듬어 주면서 나직이 노래를 불러 줄 테니까.",
+    "is_header": false
+  },
+  {
+    "id": 290,
+    "role": "Male",
+    "text": "그러면... 참 좋겠다.",
+    "is_header": false
+  },
+  {
+    "id": 291,
+    "role": "Narrator",
+    "text": "소년이 몽롱하게 중얼거렸다.",
+    "is_header": false
+  },
+  {
+    "id": 292,
+    "role": "Narrator",
+    "text": "메리는 침대에 누워 잠들지 못하는 소년이 안쓰러웠다. 그녀는 침대에 몸을 기대어 힌두스탄어로 된 나지막하고 잔잔한 자장가를 부르며 그의 손을 쓰다듬고 토닥이기 시작했다.",
+    "is_header": false
+  },
+  {
+    "id": 293,
+    "role": "Male",
+    "text": "좋다...",
+    "is_header": false
+  },
+  {
+    "id": 294,
+    "role": "Narrator",
+    "text": "소년이 한층 더 잦아드는 잠결 속에 나직하게 읊조렸다. 메리는 부드러운 자장가를 부르며 손길을 멈추지 않았다. 얼마 후 그를 다시 내려다보았을 때, 짙은 속눈썹이 양 볼 위로 가지런히 내려앉아 있었다. 눈을 감은 소년은 단잠에 빠져들어 있었다. 메리는 가만히 자리에서 일어나 촛대를 챙겨 들고 소리 없이 사뿐사뿐 방을 빠져나왔다.",
+    "is_header": false
+  }
+]

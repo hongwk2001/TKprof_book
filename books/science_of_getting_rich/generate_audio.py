@@ -30,8 +30,31 @@ def main():
         base_name = os.path.splitext(filename)[0]
         is_last = (idx == num_chapters)
         
+        mapping = {
+            "ch_00_en": "00_opening_credits.mp3",
+            "ch_01_en": "01_chapter_01.mp3",
+            "ch_02_en": "02_chapter_02.mp3",
+            "ch_03_en": "03_chapter_03.mp3",
+            "ch_04_en": "04_chapter_04.mp3",
+            "ch_05_en": "05_chapter_05.mp3",
+            "ch_06_en": "06_chapter_06.mp3",
+            "ch_07_en": "07_chapter_07.mp3",
+            "ch_08_en": "08_chapter_08.mp3",
+            "ch_09_en": "09_chapter_09.mp3",
+            "ch_10_en": "10_chapter_10.mp3",
+            "ch_11_en": "11_chapter_11.mp3",
+            "ch_12_en": "12_chapter_12.mp3",
+            "ch_13_en": "13_chapter_13.mp3",
+            "ch_14_en": "14_chapter_14.mp3",
+            "ch_15_en": "15_chapter_15.mp3",
+            "ch_16_en": "16_chapter_16.mp3",
+            "ch_17_en": "17_chapter_17.mp3",
+            "ch_18_en": "18_chapter_18.mp3",
+            "ch_19_en": "19_closing_credits.mp3",
+        }
+        out_filename = mapping.get(base_name, f"{base_name}.mp3")
+        out_mp3 = os.path.join(OUTPUT_DIR, out_filename)
         temp_raw = os.path.join(OUTPUT_DIR, f"temp_{base_name}.mp3")
-        out_mp3 = os.path.join(OUTPUT_DIR, f"{base_name}.mp3")
         
         print(f"\n--- Processing Chapter {idx}: {filename} ---")
         print(f"1. Generating raw TTS -> {os.path.basename(temp_raw)}...")
@@ -88,14 +111,14 @@ def main():
             if os.path.exists(temp_raw):
                 os.remove(temp_raw)
 
-    # Generate Sample Track (copy ch_01_en.mp3 to sample.mp3)
+    # Generate Sample Track (copy 01_chapter_01.mp3 to retail_sample.mp3)
     import shutil
-    sample_src = os.path.join(OUTPUT_DIR, "ch_01_en.mp3")
-    sample_dst = os.path.join(OUTPUT_DIR, "sample.mp3")
+    sample_src = os.path.join(OUTPUT_DIR, "01_chapter_01.mp3")
+    sample_dst = os.path.join(OUTPUT_DIR, "retail_sample.mp3")
     if os.path.exists(sample_src):
-        print("\nGenerating Sample Track...")
+        print("\nGenerating Retail Sample Track...")
         shutil.copy(sample_src, sample_dst)
-        print("Successfully generated sample.mp3")
+        print("Successfully generated retail_sample.mp3")
 
 if __name__ == "__main__":
     main()

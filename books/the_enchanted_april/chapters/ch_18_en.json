@@ -1,0 +1,842 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Chapter 18",
+    "is_header": false
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "They had a very pleasant walk, sitting down often in warm, thyme-scented corners. If anything could have helped Rose recover from her bitter disappointment that morning, it was Mister Briggs's company. He really did help her feel better. The same transformation happened to Rose that had happened to Lotty with her husband: the more Mister Briggs found Rose charming, the more charming she actually became.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Narrator",
+    "text": "Briggs was a very open man who didn't like to waste time. Before they even reached the end of the peninsula where the lighthouse stood—he had asked her to show him the lighthouse because the path was wide enough for them to walk side-by-side and fairly flat—he confessed the impression she had made on him back in London.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Narrator",
+    "text": "Since even the most religious and serious women like to know they've made an impression—especially the kind that has nothing to do with their character or good deeds—Rose was pleased. She smiled, and her smile made her look more attractive than ever. Her cheeks flushed with color and her eyes brightened. She found herself saying things that sounded interesting and even funny. If Frederick were listening now, she thought, maybe he would see she wasn't a hopeless bore after all. Here was a good-looking, young, and intelligent man—she hoped he was intelligent, which would make the compliment even better—who was clearly happy to spend the whole afternoon just talking to her.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Narrator",
+    "text": "However, Mister Briggs was too lively for her to think about Frederick right then. She praised the servants when he asked about them, and praised the yellow sitting room without mentioning that she had only been in it once and was embarrassing kicked out. She admitted she knew very little about art or antiques but thought she could learn if someone explained them to her, and she said she had spent every day outdoors because the scenery was so wonderful and unlike anything she had ever seen.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Narrator",
+    "text": "Briggs walked beside her along his paths, which were happily her paths for the moment, and felt the warm comfort of family life. He was an orphan and an only child with a very domestic nature. He would have adored a sister and spoiled a mother, and lately he had started thinking about marriage. Although he had been happy with his past relationships—each of which had surprisingly ended in close friendship—he loved children and felt it was time to settle down if he didn't want to be too old when his first child grew up. San Salvatore had started to feel a bit empty to him. He felt like his footsteps echoed in the halls, and he had been so lonely there that he decided to rent it out this spring. The castle needed a wife. It needed that final touch of warmth and beauty—he always pictured his future wife as beautiful and kind. He found it funny how in love he already was with this imaginary wife.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Narrator",
+    "text": "He was hitting it off so quickly with the lady with the lovely name as they walked toward the lighthouse that he knew he would soon be telling her all about his past, his life, and his future hopes. The thought of opening up so fast made him laugh.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "Female",
+    "text": "Why are you laughing?",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Narrator",
+    "text": "she asked, looking at him with a smile.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Male",
+    "text": "It feels like coming home,",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Narrator",
+    "text": "he said.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Male",
+    "text": "But this is your home.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Male",
+    "text": "I mean really coming home. To a family. I never had a family, since I'm an orphan.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "role": "Male",
+    "text": "Oh, are you?",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "role": "Narrator",
+    "text": "Rose said sympathetically.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "role": "Male",
+    "text": "I hope you haven't been one for very long. No, I mean—I hope you have been one for a long time so you are used to it. I'm sorry, I don't know what I mean, except that I'm sorry.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "role": "Narrator",
+    "text": "He laughed again.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "role": "Male",
+    "text": "Oh, I'm used to it. I don't have anyone. No brothers or sisters.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "role": "Child",
+    "text": "So you're an only child,",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "role": "Narrator",
+    "text": "she noted.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "role": "Male",
+    "text": "Yes. And there is something about you that feels exactly like my idea of a family.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "role": "Narrator",
+    "text": "She was amused.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "role": "Female",
+    "text": "So... cozy,",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "role": "Narrator",
+    "text": "he said, looking at her as he searched for the right word.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "role": "Female",
+    "text": "You wouldn't think so if you saw my house in Hampstead,",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "role": "Narrator",
+    "text": "she said. A picture of her cold, stiff house came to mind, where the only soft thing was the neglected antique sofa. No wonder Frederick avoided it, she thought, suddenly seeing things clearly. There was nothing cozy about his home life.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "role": "Male",
+    "text": "I don't think any place you live in could be anything but exactly like you,",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "role": "Narrator",
+    "text": "he said.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "role": "Male",
+    "text": "You're not going to claim San Salvatore is like me, are you?",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "role": "Male",
+    "text": "I absolutely do. You have to admit it is beautiful, right?",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "role": "Narrator",
+    "text": "He said several sweet things like that. She thoroughly enjoyed their walk; she couldn't remember having such a pleasant stroll since her husband was courting her.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "role": "Narrator",
+    "text": "When she returned for tea with Mister Briggs, Mister Wilkins noticed that she looked completely different.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "role": "Female",
+    "text": "Trouble here, definitely trouble,",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "role": "Narrator",
+    "text": "Mister Wilkins thought, virtually rubbing his hands in anticipation of a new client. He could already picture himself being asked for legal advice. On one hand, there was her husband Mister Arbuthnot; on the other hand, there was Briggs. Trouble was brewing. But why had Briggs's telegram shocked her so much at first? If she had turned pale from pure excitement, then the drama was closer than he thought. She wasn't pale now; her cheeks were as rosy as her name. Well, he was the right man to handle trouble. He was sorry when people got into messes, but if they did, he was ready to help.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "role": "Narrator",
+    "text": "Energized by these thoughts and eager for business, Mister Wilkins helped play host to Mister Briggs. Acting as a temporary co-owner and future advisor, he showed great hospitality, pointing out the features of the property and taking him to the wall to show him Mezzago across the bay.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "role": "Narrator",
+    "text": "Missus Fisher was also very polite. This was the young man's house, making him a property owner. She liked property and respected those who owned it, especially someone so young. It was inherited, of course, which she considered more respectable than earning it oneself. It proved he came from a good family, and in an age where family background seemed ignored, she appreciated that.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "role": "Narrator",
+    "text": "So tea was a very pleasant meal, with everyone friendly and happy. Briggs thought Missus Fisher was a sweet old lady and treated her that way, and the San Salvatore magic worked again—she actually became a sweet old lady. She was warm and almost playful with him, even calling him",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "role": "Child",
+    "text": "my dear boy",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "role": "Narrator",
+    "text": "before tea was finished.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "role": "Narrator",
+    "text": "These were strange words for Missus Fisher, who had probably never used them in her life. Rose was amazed. How nice people really could be! When would she stop misjudging everyone? She had never suspected this side of Missus Fisher, and she began to wonder if the woman's difficult attitude had actually been a reaction to Rose's own argumentative and annoying behavior. It probably was. How awful she must have been! Rose felt deeply regretful as she watched Missus Fisher blossom into genuine friendliness just because someone was nice to her. She felt a wave of shame when Missus Fisher laughed, realizing that she had never heard the sound before. None of them had heard Missus Fisher laugh since they arrived. It was a sad reflection on all of them. The others had all laughed at some point, but Missus Fisher never had. Since she was clearly capable of enjoying herself, it was obvious she hadn't been happy until now. Nobody had cared about her feelings, except maybe Lotty. Lotty had wanted her to be happy, but she seemed to rub Missus Fisher the wrong way, whereas Rose had never spent five minutes with her without wanting to argue.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "role": "Narrator",
+    "text": "How terrible she had been! She had behaved unpardonably. Her regret showed in her polite, gentle attention toward Missus Fisher, which made the observant Briggs think she was even more angelic. He briefly wished he were an old lady just so Rose Arbuthnot would treat him that way. He felt there was no end to her kindness. He wouldn't even mind taking terrible-tasting medicine if Rose were the one serving it to him.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "role": "Narrator",
+    "text": "Sensing his bright blue eyes—made even brighter by his deep tan—fixed on her with a twinkle, she smiled and asked him what he was thinking about.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "role": "Narrator",
+    "text": "He replied that he couldn't tell her that just yet, but added,",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "role": "Female",
+    "text": "Someday.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "role": "Male",
+    "text": "Trouble, trouble,",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "role": "Narrator",
+    "text": "Mister Wilkins thought, once again imagining the legal fees.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "role": "Male",
+    "text": "Yes, I'm their man.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "role": "Male",
+    "text": "I'm sure,",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "role": "Narrator",
+    "text": "Missus Fisher said kindly,",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "role": "Male",
+    "text": "you don't have any thoughts we shouldn't hear.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "role": "Male",
+    "text": "I'm sure,",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "role": "Narrator",
+    "text": "Briggs said,",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "role": "Male",
+    "text": "I'd be telling you all my secrets within a week.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "role": "Child",
+    "text": "You would be telling them to someone very safe,",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "role": "Narrator",
+    "text": "Missus Fisher replied warmly—she would have loved to have a son like him.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "role": "Child",
+    "text": "And in return,",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "role": "Narrator",
+    "text": "she added,",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "role": "Child",
+    "text": "I would probably tell you mine.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "role": "Female",
+    "text": "Oh no,",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "role": "Narrator",
+    "text": "Mister Wilkins joined in, trying to match their playful tone,",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "role": "Female",
+    "text": "I must protest. I really must. I have a prior claim as the older friend. I've known Missus Fisher for ten days, and you, Briggs, haven't even known her for one. I claim the right to hear her secrets first. That is, if she has any—which I doubt.",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "role": "Female",
+    "text": "Oh, yes I do!",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "role": "Narrator",
+    "text": "Missus Fisher exclaimed, thinking of her feeling of sprouting new leaves. That she said anything at all was surprising, but doing it so cheerfully was a miracle. Rose could only watch her in astonishment.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "role": "Male",
+    "text": "Then I shall extract them,",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "role": "Narrator",
+    "text": "Briggs said with equal cheer.",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "role": "Male",
+    "text": "They won't need much extracting,",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "role": "Narrator",
+    "text": "Missus Fisher said.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "role": "Male",
+    "text": "My difficulty is keeping them from bursting out.",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "role": "Narrator",
+    "text": "She sounded just like Lotty. Mister Wilkins adjusted his monocle and studied Missus Fisher closely. Rose watched, smiling because Missus Fisher seemed so amused, though she didn't quite know why. Her smile was a bit tentative, as a happy Missus Fisher was a new and slightly intimidating sight that would take some getting used to.",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "role": "Narrator",
+    "text": "What Missus Fisher was actually thinking was how surprised they would be if she told them she felt like she was sprouting flower buds. They would think she was a silly old woman, just as she would have thought herself a few days ago. But she was getting used to the idea of blossoming. She was more softened and receptive now. Although it would be best if her physical appearance matched her youthful feelings, you couldn't have everything. Wasn't it better to feel young inside rather than old all over? There would be plenty of time to feel completely old, inside and out, when she returned to her tomb of a house at Prince of Wales Terrace.",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "role": "Narrator",
+    "text": "However, without Briggs's arrival, Missus Fisher probably would have stayed locked inside her shell. The others only knew her as harsh. Her pride wouldn't have let her relax suddenly, especially in front of three young women. But the stranger Briggs had immediately taken a liking to her. His genuine appreciation—Briggs had thought she was exactly the kind of grandmother he wished he had—helped Missus Fisher break out of her shell. Here was at last, just as Lotty had predicted: happy, good-tempered, and kind.",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "role": "Narrator",
+    "text": "Lotty returned from her picnic half an hour later. Following the voices to the upper garden in hopes of finding some tea left, she saw what had happened right away, because Missus Fisher was laughing at that very moment.",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "role": "Female",
+    "text": "She's broken out of her cocoon,",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "role": "Narrator",
+    "text": "Lotty thought. Quick and impulsive as ever, and completely unconcerned with formalities, she leaned over the back of Missus Fisher's chair and kissed her on the cheek.",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "role": "Female",
+    "text": "Good heavens!",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "role": "Narrator",
+    "text": "Missus Fisher cried, jumping in surprise. Nothing like that had happened to her since the early days of her marriage, and even then, her husband had only kissed her very formally. This was a warm, genuine kiss that lingered on her cheek with a strange, soft sweetness.",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "role": "Narrator",
+    "text": "When she saw who had kissed her, she blushed deeply. Missus Wilkins was kissing her, and it felt so affectionate! Even if she wanted to, she couldn't put on her stern face and start scolding in front of Mister Briggs. But she didn't want to. Was it possible that Missus Wilkins actually liked her, and had liked her all this time, even while Missus Fisher was busy disliking her? A little warmth seeped through Missus Fisher's cold defenses. Someone young had kissed her—someone young had actually wanted to kiss her. Blushing deeply, she watched the odd woman, who seemed completely unaware that she had done anything unusual. Lotty shook hands with Mister Briggs when her husband introduced him, and immediately began chatting with him as if they were old friends. What an unusual, strange woman. It made sense that she might have misjudged someone so unique.",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "role": "Female",
+    "text": "I'm sure you want some tea,",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "role": "Narrator",
+    "text": "Briggs said warmly to Lotty. He thought she was delightful, freckles, messy hair and all. He would have loved a sister like her.",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "role": "Male",
+    "text": "This is cold,",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "role": "Narrator",
+    "text": "he said, touching the teapot.",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "role": "Male",
+    "text": "I'll tell Francesca to make some fresh tea—",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "role": "Narrator",
+    "text": "He stopped and blushed.",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "role": "Male",
+    "text": "Am I forgetting that I don't live here?",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "role": "Narrator",
+    "text": "he laughed, looking around at them.",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "role": "Male",
+    "text": "Very natural, very natural,",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "role": "Narrator",
+    "text": "Mister Wilkins assured him.",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "role": "Male",
+    "text": "I'll go tell Francesca,",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "role": "Narrator",
+    "text": "Rose said, standing up.",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "role": "Male",
+    "text": "No, no,",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "role": "Narrator",
+    "text": "Briggs said.",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "role": "Male",
+    "text": "Don't leave.",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "role": "Narrator",
+    "text": "He put his hands to his mouth and called out.",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "role": "Male",
+    "text": "Francesca!",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "role": "Narrator",
+    "text": "Briggs called out.",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "role": "Narrator",
+    "text": "She came running. None of their calls had ever been answered so quickly.",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "role": "Female",
+    "text": "'Her master's voice,'",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "role": "Narrator",
+    "text": "Mister Wilkins remarked, thinking it was a very clever comment.",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "role": "Male",
+    "text": "Make some fresh tea,",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "role": "Narrator",
+    "text": "Briggs ordered in Italian.",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "role": "Male",
+    "text": "Quick, quick!",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "role": "Narrator",
+    "text": "Then, remembering he wasn't host, he blushed again and apologized to everyone.",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "role": "Male",
+    "text": "Very natural, very natural,",
+    "is_header": false
+  },
+  {
+    "id": 104,
+    "role": "Narrator",
+    "text": "Mister Wilkins assured him again.",
+    "is_header": false
+  },
+  {
+    "id": 105,
+    "role": "Narrator",
+    "text": "Briggs then explained to Lotty what he had already told the others: he was on his way to Rome, decided to get off at Mezzago to see if they were comfortable, and planned to resume his trip the next day, spending the night at a hotel in Mezzago.",
+    "is_header": false
+  },
+  {
+    "id": 106,
+    "role": "Female",
+    "text": "But that's ridiculous,",
+    "is_header": false
+  },
+  {
+    "id": 107,
+    "role": "Narrator",
+    "text": "Lotty said.",
+    "is_header": false
+  },
+  {
+    "id": 108,
+    "role": "Female",
+    "text": "Of course you must stay here. It's your house. There's Kate Lumley's room,",
+    "is_header": false
+  },
+  {
+    "id": 109,
+    "role": "Narrator",
+    "text": "she added, turning to Missus Fisher.",
+    "is_header": false
+  },
+  {
+    "id": 110,
+    "role": "Female",
+    "text": "You wouldn't mind Mister Briggs using it for one night? Kate Lumley isn't in it, you know,",
+    "is_header": false
+  },
+  {
+    "id": 111,
+    "role": "Narrator",
+    "text": "she said to Briggs, laughing.",
+    "is_header": false
+  },
+  {
+    "id": 112,
+    "role": "Narrator",
+    "text": "To her own surprise, Missus Fisher laughed too. She knew that at any other time, she would have found the joke highly inappropriate, but now she just found it amusing.",
+    "is_header": false
+  },
+  {
+    "id": 113,
+    "role": "Narrator",
+    "text": "No indeed, she assured Briggs, Kate Lumley was not in that room. Which was lucky, because Kate was a very large woman and the bedroom was extremely narrow. Kate might fit inside, but that was about all; once in, she would be wedged so tightly she might never get out. The room was completely at Mister Briggs's disposal, and she hoped he wouldn't do something as silly as stay at a hotel—especially since he owned the castle.",
+    "is_header": false
+  },
+  {
+    "id": 114,
+    "role": "Narrator",
+    "text": "Rose listened to this speech in utter disbelief. Missus Fisher laughed heartily as she spoke, and Lotty laughed too, leaning down to kiss Missus Fisher several more times.",
+    "is_header": false
+  },
+  {
+    "id": 115,
+    "role": "Child",
+    "text": "So you see, my dear boy,",
+    "is_header": false
+  },
+  {
+    "id": 116,
+    "role": "Narrator",
+    "text": "Missus Fisher said,",
+    "is_header": false
+  },
+  {
+    "id": 117,
+    "role": "Child",
+    "text": "you must stay here and join us.",
+    "is_header": false
+  },
+  {
+    "id": 118,
+    "role": "Male",
+    "text": "We would love to have you,",
+    "is_header": false
+  },
+  {
+    "id": 119,
+    "role": "Narrator",
+    "text": "Mister Wilkins agreed heartily.",
+    "is_header": false
+  },
+  {
+    "id": 120,
+    "role": "Female",
+    "text": "Yes, very much indeed,",
+    "is_header": false
+  },
+  {
+    "id": 121,
+    "role": "Narrator",
+    "text": "Missus Fisher repeated, looking like a proud mother.",
+    "is_header": false
+  },
+  {
+    "id": 122,
+    "role": "Female",
+    "text": "Please do,",
+    "is_header": false
+  },
+  {
+    "id": 123,
+    "role": "Narrator",
+    "text": "Rose said, when Briggs looked at her for her approval.",
+    "is_header": false
+  },
+  {
+    "id": 124,
+    "role": "Male",
+    "text": "How kind of you all,",
+    "is_header": false
+  },
+  {
+    "id": 125,
+    "role": "Narrator",
+    "text": "he said, beaming.",
+    "is_header": false
+  },
+  {
+    "id": 126,
+    "role": "Male",
+    "text": "I'd love to be a guest here. What a new experience. And with three such—",
+    "is_header": false
+  },
+  {
+    "id": 127,
+    "role": "Narrator",
+    "text": "He stopped and looked around.",
+    "is_header": false
+  },
+  {
+    "id": 128,
+    "role": "Female",
+    "text": "Wait,",
+    "is_header": false
+  },
+  {
+    "id": 129,
+    "role": "Narrator",
+    "text": "he asked,",
+    "is_header": false
+  },
+  {
+    "id": 130,
+    "role": "Female",
+    "text": "shouldn't I have a fourth hostess? Francesca said she had four mistresses.",
+    "is_header": false
+  },
+  {
+    "id": 131,
+    "role": "Female",
+    "text": "Yes, Lady Caroline,",
+    "is_header": false
+  },
+  {
+    "id": 132,
+    "role": "Narrator",
+    "text": "Lotty said.",
+    "is_header": false
+  },
+  {
+    "id": 133,
+    "role": "Female",
+    "text": "Then shouldn't we make sure she wants me to stay too?",
+    "is_header": false
+  },
+  {
+    "id": 134,
+    "role": "Female",
+    "text": "Oh, I'm sure she—",
+    "is_header": false
+  },
+  {
+    "id": 135,
+    "role": "Narrator",
+    "text": "Lotty began.",
+    "is_header": false
+  },
+  {
+    "id": 136,
+    "role": "Child",
+    "text": "The daughter of Lord Droitwich, Briggs,",
+    "is_header": false
+  },
+  {
+    "id": 137,
+    "role": "Narrator",
+    "text": "Mister Wilkins said,",
+    "is_header": false
+  },
+  {
+    "id": 138,
+    "role": "Child",
+    "text": "is not likely to lack basic manners and hospitality.",
+    "is_header": false
+  },
+  {
+    "id": 139,
+    "role": "Child",
+    "text": "The daughter of—",
+    "is_header": false
+  },
+  {
+    "id": 140,
+    "role": "Narrator",
+    "text": "Briggs started, but he stopped dead. Standing in the doorway was Lady Caroline herself. Or rather, walking toward him out of the dark doorway into the bright sunset was the most beautiful woman he had ever seen in his life—his dream of absolute perfection.",
+    "is_header": false
+  }
+]

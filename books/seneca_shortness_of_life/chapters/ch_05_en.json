@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Chapter Five: Cicero's Struggle with Public Life",
+    "is_header": false
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "Marcus Cicero was constantly thrown into the political crossfire alongside men like Catiline, Clodius, Pompey, and Crassus. Some were blatant enemies; others, unreliable friends. He was tossed violently back and forth as the Republic foundered, desperately fighting to save it from destruction before finally being swept away himself. Unable to find peace in prosperity or resilience in adversity, how many times did he curse that very consulship he had once endlessly—and justifiably—praised!",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Narrator",
+    "text": "Consider the tearful words he wrote to Atticus after Pompey the Elder had fallen, while Pompey's son was still trying to rally his shattered army in Spain:",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Child",
+    "text": "Do you ask what I am doing here?",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Narrator",
+    "text": "he lamented.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Child",
+    "text": "I am lingering in my Tusculan villa, half a prisoner.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Narrator",
+    "text": "He then went on to mourn his past, complain of his present, and despair over his future.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "Narrator",
+    "text": "Cicero labeled himself",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Male",
+    "text": "half a prisoner.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Narrator",
+    "text": "But in absolute truth, a wise man would never demean himself with such a term.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Male",
+    "text": "Never will the wise man be half a prisoner.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Narrator",
+    "text": "He possesses an absolute, unshakable liberty; he is completely free, his own master, and stands towering over the rest of mankind.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Male",
+    "text": "For what can possibly be above him who is above Fortune?",
+    "is_header": false
+  }
+]

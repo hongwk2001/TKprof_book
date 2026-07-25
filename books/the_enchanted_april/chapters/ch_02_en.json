@@ -1,0 +1,392 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Chapter 2",
+    "is_header": false
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "Of course, Missus Arbuthnot was not miserable. How could she be, she asked herself, when God was taking care of her? But she let that comment pass for now without arguing. She was convinced that Missus Wilkins was a fellow human being in desperate need of her help—and not just with physical things like warm boots and blankets, but with the more delicate help of true understanding and finding the right words.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Narrator",
+    "text": "She soon realized that the",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Female",
+    "text": "right words",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Narrator",
+    "text": "were not about living for others, prayer, or finding peace by giving oneself to God. Missus Wilkins had her own messy, confusing replies to those ideas, which were hard to answer on the spot. Instead, the right words were a simple suggestion: it couldn't hurt to write a letter inquiring about the advertisement. It would be non-committal—just a simple question.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Narrator",
+    "text": "What worried Missus Arbuthnot about this idea was that she wasn't suggesting it just to comfort Missus Wilkins. She wanted to write it because of her own secret longing for the medieval castle.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Narrator",
+    "text": "This was very disturbing. Missus Arbuthnot was used to directing, leading, advising, and supporting others—except for Frederick; she had long ago learned to leave her husband in God's hands. Yet here she was, being led and influenced by a simple newspaper ad and a rambling stranger. It was highly unsettling. She couldn't understand her sudden desire for what was, after all, pure self-indulgence, especially since she hadn't felt such a desire in years.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "Female",
+    "text": "There's no harm in simply asking,",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Narrator",
+    "text": "she said in a quiet voice, almost as if the vicar, the Savings Bank, and all the poor people waiting for her help were listening and judging.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Male",
+    "text": "It's not like it commits us to anything,",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Narrator",
+    "text": "Missus Wilkins agreed, also in a quiet but shaking voice.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Narrator",
+    "text": "They stood up at the same time—Missus Arbuthnot was surprised by how tall Missus Wilkins actually was—and walked over to a writing desk. Missus Arbuthnot wrote to Z, Box 1000, The Times, asking for details. They asked for all the information, but the only detail they really cared about was the rent.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Narrator",
+    "text": "They both felt that Missus Arbuthnot should write the letter and handle the business side. Not only was she used to organizing things and being practical, but she was also older, calmer, and certainly wiser. Missus Wilkins didn't doubt this for a second; even the way Missus Arbuthnot parted her hair suggested a deep calm that could only come from wisdom.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "role": "Narrator",
+    "text": "Yet, even if Missus Arbuthnot was older and wiser, her new friend seemed to be the one pushing things forward. She was disorganized, but she had a strong pull. She possessed a strange, contagious energy that led you on. And the way her mind jumped to conclusions—wrong ones, of course, like assuming Missus Arbuthnot was miserable—was quite disconcerting.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "role": "Narrator",
+    "text": "Despite her new friend's chaotic energy, Missus Arbuthnot found herself sharing her excitement and longing. Once the letter was dropped into the mailbox in the lobby and could not be retrieved, both she and Missus Wilkins felt a sudden pang of guilt.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "role": "Male",
+    "text": "It only shows,",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "role": "Narrator",
+    "text": "Missus Wilkins whispered as they turned away from the mailbox,",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "role": "Male",
+    "text": "how perfectly good we've been our entire lives. The very first time we do something our husbands don't know about, we feel guilty.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "role": "Female",
+    "text": "I'm afraid I can't say I've been perfectly good,",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "role": "Narrator",
+    "text": "Missus Arbuthnot protested gently. She felt uncomfortable with Missus Wilkins's habit of jumping to conclusions again, especially since she hadn't said anything about her guilt.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "role": "Male",
+    "text": "Oh, but I'm sure you have. I can see you've been good, and that's why you're not happy.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "role": "Narrator",
+    "text": "She really shouldn't say things like that, Missus Arbuthnot thought. I must try to help her stop doing that.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "role": "Narrator",
+    "text": "Aloud, she said seriously,",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "role": "Female",
+    "text": "I don't know why you keep saying I'm not happy. When you know me better, I think you'll find that I am. And I'm sure you don't really mean that being good makes a person unhappy.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "role": "Male",
+    "text": "Yes, I do,",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "role": "Narrator",
+    "text": "Missus Wilkins replied.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "role": "Male",
+    "text": "Our kind of goodness does. We have achieved it, and we are unhappy. There are miserable kinds of goodness, and happy kinds. The kind of goodness we'll experience at the medieval castle, for instance, is the happy sort.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "role": "Female",
+    "text": "That is, assuming we actually go there,",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "role": "Narrator",
+    "text": "Missus Arbuthnot said, trying to keep things grounded. She felt that Missus Wilkins needed to be held back a bit.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "role": "Female",
+    "text": "After all, we've only written to ask. Anyone can do that. I think it's highly likely the terms will be impossible, and even if they aren't, we probably won't want to go by tomorrow anyway.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "role": "Male",
+    "text": "I see us there,",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "role": "Narrator",
+    "text": "Missus Wilkins replied.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "role": "Narrator",
+    "text": "All of this was very unsettling. As Missus Arbuthnot walked through the rainy streets on her way to a charity meeting she was supposed to speak at, her mind was in an unusual state of turmoil. She hoped she had appeared calm, practical, and sensible to Missus Wilkins, hiding her own excitement. But in reality, she was deeply moved, happy, guilty, and afraid all at once. She was feeling the exact range of emotions of a woman who had just come from a secret meeting with a lover, though she didn't realize it.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "role": "Narrator",
+    "text": "That was exactly how she looked when she arrived late on the stage. She normally looked open and honest, but now she looked almost secretive as she faced the crowd of wooden faces waiting to hear her talk about helping the poor of Hampstead. Her audience, however, was mostly convinced that they needed help themselves.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "role": "Narrator",
+    "text": "She looked like she was hiding a scandalous but delightful secret. The usual clear honesty on her face was gone, replaced by a nervous, pleased expression that would have made a more worldly audience assume she had just come from a passionate romance.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "role": "Narrator",
+    "text": "Beauty, beauty, beauty... the words kept repeating in her mind as she stood on stage talking about sadness to the small audience. She had never been to Italy. Was that really what her savings were meant for? Although she didn't approve of how Missus Wilkins assumed their future was already destined—as if thinking or struggling was completely useless—she was still influenced by it. Missus Wilkins had the eyes of a prophet. Some people were like that, Missus Arbuthnot knew; and if Missus Wilkins had actually seen her at the medieval castle, struggling against it did seem like a waste of time. Still, to spend her savings on her own pleasure...",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "role": "Narrator",
+    "text": "The source of her savings had been questionable, but she had at least hoped they would be used for a good cause. Was she really going to redirect this money from its intended purpose—which was the only thing that justified her keeping it—just to give herself a vacation?",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "role": "Narrator",
+    "text": "Missus Arbuthnot spoke on and on. She was so practiced at these speeches she could have delivered them in her sleep. At the end of the meeting, her mind was so filled with secret visions of Italy that she barely noticed that nobody in the audience was moved, and certainly nobody had donated.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "role": "Narrator",
+    "text": "But the vicar noticed. He was disappointed. Usually, his good friend Missus Arbuthnot was much more successful. And even more unusually, she didn't even seem to care.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "role": "Female",
+    "text": "I can't imagine,",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "role": "Narrator",
+    "text": "he said to her irritably as they left,",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "role": "Female",
+    "text": "what is wrong with these people. Nothing seems to move them.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "role": "Male",
+    "text": "Perhaps they need a holiday,",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "role": "Narrator",
+    "text": "Missus Arbuthnot suggested. The vicar thought this was a very strange reply.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "role": "Female",
+    "text": "In February?",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "role": "Narrator",
+    "text": "he called after her sarcastically.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "role": "Female",
+    "text": "Oh no—not until April,",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "role": "Narrator",
+    "text": "Missus Arbuthnot replied over her shoulder.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "role": "Female",
+    "text": "Very odd,",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "role": "Narrator",
+    "text": "the vicar thought.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "role": "Female",
+    "text": "Very odd indeed.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "role": "Narrator",
+    "text": "He went home and was not particularly kind to his wife that evening.",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "role": "Narrator",
+    "text": "That night, in her prayers, Missus Arbuthnot asked for guidance. She felt she should pray that the medieval castle had already been rented by someone else, settling the matter for good. But she couldn't bring herself to do it. What if that prayer was answered? She couldn't risk it.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "role": "Narrator",
+    "text": "Besides, she reasoned with herself—and almost pointed out to God—if she spent her savings on a vacation, she could easily save up another nest egg. Frederick was always trying to give her money. It would only mean that her donations to the parish charities would be slightly smaller for a little while. And then, the next nest egg could be the one that was purified by being spent on a good cause.",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "role": "Narrator",
+    "text": "Missus Arbuthnot had no money of her own and was forced to live on Frederick's income. Her very savings were the fruit of past sin. The way Frederick made his living was a constant source of distress for her. He wrote highly popular, yearly biographies of royal mistresses. History was full of kings who had mistresses, and even more mistresses who had kings. Because of this, he had published a book of scandalous memoirs every year of their marriage, and there were still stacks of historical ladies waiting to be written about.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "role": "Narrator",
+    "text": "Missus Arbuthnot was helpless; she had to live on the proceeds of his books. After the success of his book on Madame du Barry, he had bought her a terrible sofa with soft, plush cushions. It felt wrong to her that this reminder of a dead French sinner should sit in her very home.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "role": "Narrator",
+    "text": "Because she was a good person who believed that morality was the foundation of happiness, the fact that she and Frederick made their living from historical scandal was a secret source of sadness for her. The more scandalous the lady, the more his books were read, the more money he gave his wife, and the more she spent helping the poor after adding a small amount to her savings. (She saved in case people stopped reading about wickedness and Frederick needed her support).",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "role": "Narrator",
+    "text": "The local parish flourished because of the bad behavior of historical ladies like Du Barry, Montespan, Pompadour, and Ninon de l'Enclos. The poor were the filter through which the money passed, coming out clean on the other side. That was the best she could do. She had tried to think of a better solution in the past, but she had found it too difficult, just as she had found Frederick, and had left them both to God.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "role": "Narrator",
+    "text": "None of this money was spent on her own house or clothes; those remained plain and simple, except for the large soft sofa. It was the poor who benefited. Their very boots were bought with the proceeds of historical sins. But it was so difficult. Groping for guidance, Missus Arbuthnot prayed until she was exhausted. Ought she perhaps to refuse to touch the money entirely, avoiding it as she would avoid the sins that paid for it? But then what would happen to the poor children's boots? She had asked the vicar for advice, and through much cautious, evasive language, he had ultimately voted in favor of the boots.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "role": "Narrator",
+    "text": "At least she had excelled at persuading Frederick, when he first started this successful career, to publish the memoirs under a pen name so she wouldn't be publicly associated with them. (Before their marriage, he had been a blameless librarian at the British Museum). Hampstead read his books with joy, having no idea that the author lived right among them. Frederick was practically unknown in Hampstead. He never attended local social events. Whatever he did for fun was done in London, and he never spoke of where he went or who he saw. He might have been completely friendless for all he ever mentioned to his wife. Only the vicar knew where the parish money came from, and he considered it a matter of honor never to speak of it.",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "role": "Narrator",
+    "text": "Her house was at least free from the spirits of those historical ladies, because Frederick did all his writing away from home. He had two rooms near the British Museum where he did his research. He went there every morning and returned long after his wife was asleep. Sometimes he didn't return at all for several days. Then, he would suddenly appear at breakfast, having let himself in late the night before, looking cheerful, healthy, and happy. He was a well-fed, full-blooded man who was content with the world. He was always happy to give her money, and she was always gentle, making sure his coffee was exactly how he liked it.",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "role": "Narrator",
+    "text": "He seemed very happy. She often thought that no matter how much you tried to categorize life, it remained a mystery. Some people were impossible to place, and Frederick was one of them. He bore no resemblance to the young Frederick she had married. He didn't seem to need any of the things he used to say were so important—love, home, sharing thoughts, and being completely focused on each other's interests.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "role": "Narrator",
+    "text": "After early, painful attempts to hold him to the ideals they had started with—attempts that had hurt her deeply and ruined the Frederick she thought she knew—she had finally placed him at the top of her prayer list and left him to God. She had loved him too deeply to do anything else now. He had no idea that whenever he left the house, her blessing went with him, hovering around him like a quiet echo of their past love.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "role": "Narrator",
+    "text": "She didn't dare think of him as he used to be during the wonderful early days of their romance. Her child had died, and she had no one of her own to love. The poor became her children, and God became the focus of her love. What could be happier than this life? she sometimes asked herself. Yet, her face and eyes remained sad.",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "role": "Narrator",
+    "text": "Perhaps when we're old... perhaps when we are both quite old... she would think wistfully.",
+    "is_header": false
+  }
+]

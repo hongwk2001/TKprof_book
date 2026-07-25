@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Chapter Nine: The Jealous Courtier, Unferth",
+    "is_header": false
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "Unferth, the son of Ecglaf, sat at the feet of King Hrothgar. He was deeply jealous of Beowulf's fame and decided to start a quarrel to humiliate him. Beowulf's arrival and his brave journey across the sea annoyed the courtier. Unferth simply could not stand the thought of anyone else in the world achieving more glory than himself.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Male",
+    "text": "Are you the same Beowulf who raced against Breca in a swimming match on the open sea?",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Narrator",
+    "text": "Unferth challenged. \"The two of you risked your lives in the deep water out of pride, making a foolish boast! No one could convince you to stop your reckless journey. You swam through the ocean streams, fighting the cold, wintry waves as the sea boiled with surges. You both struggled in the freezing water for seven nights, but Breca beat you. He was stronger! By morning, the current washed him ashore in the land of the Heathoreams. From there, he returned to his home, where he ruled the Brondings and their wealthy city. Breca fully accomplished his boast against you!",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Narrator",
+    "text": "Therefore, I expect you to fail here, even though you have survived many battles. You will not survive one whole night waiting for Grendel in Heorot!\"",
+    "is_header": false
+  }
+]

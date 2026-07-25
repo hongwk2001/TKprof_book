@@ -1,0 +1,1238 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Chapter 23: Magic",
+    "is_header": false
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "Doctor Craven had been waiting at the house for some time when they returned. He had actually begun to wonder if he should send someone out to look for them along the garden paths. When Colin was brought back to his room, the doctor examined him with a serious expression.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Male",
+    "text": "You shouldn't have stayed out so long,",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Narrator",
+    "text": "he said.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Male",
+    "text": "You must not overexert yourself.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Male",
+    "text": "I'm not tired at all,",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Narrator",
+    "text": "Colin replied.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "Male",
+    "text": "It has made me feel well. Tomorrow I am going out in the morning as well as in the afternoon.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Male",
+    "text": "I'm not sure I can allow that,",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Narrator",
+    "text": "Doctor Craven answered.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Male",
+    "text": "I'm afraid it wouldn't be wise.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Male",
+    "text": "It wouldn't be wise to try and stop me,",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Narrator",
+    "text": "Colin said quite seriously.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "role": "Male",
+    "text": "I am going.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "role": "Narrator",
+    "text": "Even Mary had realized that one of Colin's main quirks was that he had no idea how rude and demanding he was when he ordered people around. He had lived on a sort of desert island all his life, and since he was its king, he made his own rules of behavior and had no one to compare himself to. Mary had actually been very much like him herself. Since coming to Misselthwaite, she had gradually discovered that her own manners were not the kind that people liked or found normal. Having made this discovery, she naturally thought it was interesting enough to share with Colin. So, she sat and watched him curiously for a few minutes after Doctor Craven left. She wanted to make him ask why she was staring, and of course, he did.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "role": "Male",
+    "text": "What are you looking at me for?",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "role": "Narrator",
+    "text": "he asked.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "role": "Male",
+    "text": "I was thinking that I feel rather sorry for Doctor Craven.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "role": "Male",
+    "text": "So do I,",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "role": "Narrator",
+    "text": "Colin said calmly, but with a look of some satisfaction.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "role": "Male",
+    "text": "He won't inherit Misselthwaite now that I'm not going to die.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "role": "Child",
+    "text": "I'm sorry for him because of that, of course,",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "role": "Narrator",
+    "text": "Mary said,",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "role": "Child",
+    "text": "but I was actually thinking that it must have been dreadful to have to be polite for ten years to a boy who was always rude. I would never have done it.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "role": "Male",
+    "text": "Am I rude?",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "role": "Narrator",
+    "text": "Colin asked, quite untroubled.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "role": "Child",
+    "text": "If you had been his own son, and if he were the kind of man who hits,",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "role": "Narrator",
+    "text": "Mary said,",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "role": "Child",
+    "text": "he would have slapped you.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "role": "Male",
+    "text": "But he wouldn't dare,",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "role": "Narrator",
+    "text": "Colin said.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "role": "Male",
+    "text": "No, he wouldn't dare,",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "role": "Narrator",
+    "text": "Mistress Mary answered, thinking it over quite impartially.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "role": "Male",
+    "text": "Nobody ever dared to do anything you didn't like—because you were going to die and all that. You were such a helpless creature.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "role": "Male",
+    "text": "But,",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "role": "Narrator",
+    "text": "Colin announced stubbornly,",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "role": "Male",
+    "text": "I am not going to be helpless anymore. I won't let people think I am. I stood on my feet this afternoon.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "role": "Male",
+    "text": "It's always getting your own way that has made you so strange,",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "role": "Narrator",
+    "text": "Mary continued, thinking aloud.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "role": "Narrator",
+    "text": "Colin turned his head, frowning.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "role": "Male",
+    "text": "Am I strange?",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "role": "Narrator",
+    "text": "he demanded.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "role": "Female",
+    "text": "Yes,",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "role": "Narrator",
+    "text": "Mary answered,",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "role": "Female",
+    "text": "very. But you don't need to be angry,",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "role": "Narrator",
+    "text": "she added fairly,",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "role": "Female",
+    "text": "because I am strange, too—and so is Ben Weatherstaff. But I'm not as strange as I was before I began to like people and before I found the garden.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "role": "Male",
+    "text": "I don't want to be strange,",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "role": "Narrator",
+    "text": "Colin said.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "role": "Male",
+    "text": "I'm not going to be,",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "role": "Narrator",
+    "text": "and he frowned again with determination.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "role": "Narrator",
+    "text": "He was a very proud boy. He lay thinking for a while, and then Mary saw his beautiful smile appear and gradually transform his whole face.",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "role": "Male",
+    "text": "I will stop being strange,",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "role": "Narrator",
+    "text": "he said,",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "role": "Male",
+    "text": "if I go to the garden every day. There is Magic in there—good Magic, you know, Mary. I'm sure there is.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "role": "Male",
+    "text": "So am I,",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "role": "Narrator",
+    "text": "said Mary.",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "role": "Male",
+    "text": "Even if it isn't real Magic,",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "role": "Narrator",
+    "text": "Colin said,",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "role": "Male",
+    "text": "we can pretend it is. Something is there—something!",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "role": "Male",
+    "text": "It's Magic,",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "role": "Narrator",
+    "text": "Mary said,",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "role": "Male",
+    "text": "but not black Magic. It's as white as snow.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "role": "Narrator",
+    "text": "They always called it Magic, and it truly felt like it in the months that followed—the wonderful, radiant, amazing months. Oh, the things that happened in that garden! If you have never had a garden, you cannot understand, and if you have had a garden, you will know that it would take a whole book to describe all that took place there. At first, it seemed that green shoots would never stop pushing their way through the earth, in the grass, in the flowerbeds, and even in the cracks of the walls. Then the green shoots began to bud, and the buds began to open and show color—every shade of blue, every shade of purple, and every tint and hue of crimson. In its happy days, flowers had been tucked into every inch, hole, and corner. Ben Weatherstaff had seen it done and had even scraped out mortar from between the bricks of the wall to make pockets of soil for lovely climbing plants to grow. Irises and white lilies rose from the grass in clusters, and the green alcoves filled with spectacular armies of blue and white delphiniums, columbines, and bellflowers.",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "role": "Female",
+    "text": "She was very fond of them—she was,",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "role": "Narrator",
+    "text": "Ben Weatherstaff said.",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "role": "Female",
+    "text": "She liked those things that were always pointing up to the blue sky, she used to say. Not that she was one of those who looked down on the earth—not her. She just loved it, but she said the blue sky always looked so joyful.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "role": "Narrator",
+    "text": "The seeds Dickon and Mary had planted grew as if fairies had tended them. Dozens of satiny poppies of all shades danced in the breeze, gaily defying the flowers that had lived in the garden for years and seemed to wonder how these new arrivals had got there. And the roses—the roses! Rising out of the grass, tangled around the sundial, wrapping around the tree trunks and hanging from their branches, climbing up the walls and spreading over them in long cascading garlands—they came alive day by day, hour by hour. Fresh green leaves and buds—so many buds—tiny at first but swelling and working Magic until they burst open into cups of fragrance, delicately spilling over their brims and filling the garden air.",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "role": "Narrator",
+    "text": "Colin saw it all, watching each change as it happened. Every morning he was brought out, and he spent every hour of the day in the garden unless it rained. Even gray days pleased him. He would lie on the grass,",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "role": "Male",
+    "text": "watching things grow,",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "role": "Narrator",
+    "text": "he said. If you watched long enough, he declared, you could see the buds open. He also made friends with strange, busy insects running about on unknown but clearly serious errands—sometimes carrying tiny scraps of straw, feathers, or food, or climbing blades of grass as if they were trees to look out and explore the land. A mole pushing up its mound at the end of its tunnel, finally emerging with its long-clawed paws that looked like tiny elf hands, had kept him fascinated for an entire morning. The ways of ants, beetles, bees, frogs, birds, and plants gave him a new world to explore. And when Dickon revealed them all, adding the ways of foxes, otters, ferrets, squirrels, trout, water rats, and badgers, there was no end to the things they could talk and think about.",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "role": "Narrator",
+    "text": "And this was not even half the Magic. The fact that he had actually stood on his feet had started Colin thinking deeply. When Mary told him of the spell she had cast, he was excited and highly approved. He talked about it constantly.",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "role": "Male",
+    "text": "Of course there must be plenty of Magic in the world,",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "role": "Narrator",
+    "text": "he said wisely one day,",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "role": "Male",
+    "text": "but people don't know what it's like or how to make it. Perhaps the beginning is just to say good things are going to happen until you make them happen. I am going to try an experiment.",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "role": "Narrator",
+    "text": "The next morning, as soon as they went to the secret garden, he sent for Ben Weatherstaff. Ben came as quickly as he could and found the Rajah standing on his feet under a tree, looking very grand and smiling beautifully.",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "role": "Male",
+    "text": "Good morning, Ben Weatherstaff,",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "role": "Narrator",
+    "text": "Colin said.",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "role": "Male",
+    "text": "I want you and Dickon and Miss Mary to stand in a row and listen to me, because I am going to tell you something very important.",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "role": "Child",
+    "text": "Aye, aye, sir!",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "role": "Narrator",
+    "text": "answered Ben Weatherstaff, touching his hand to his forehead. (One of Ben's long-hidden secrets was that he had run away to sea as a boy and made several voyages. So he could respond like a sailor.)",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "role": "Male",
+    "text": "I am going to try a scientific experiment,",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "role": "Narrator",
+    "text": "explained the Rajah.",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "role": "Male",
+    "text": "When I grow up, I am going to make great scientific discoveries, and I am going to start now with this experiment.",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "role": "Male",
+    "text": "Aye, aye, sir!",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "role": "Narrator",
+    "text": "Ben Weatherstaff said promptly, though this was the first time he had ever heard of great scientific discoveries.",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "role": "Narrator",
+    "text": "It was the first time Mary had heard of them either. But even then, she had begun to realize that, strange as he was, Colin had read about many unusual things and was a very convincing boy. When he held up his head and fixed his strange eyes on you, you couldn't help but believe him, even though he was only ten years old—going on eleven. At this moment, he was especially convincing because he was enjoying the thrill of making a speech like a grown-up.",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "role": "Child",
+    "text": "The great scientific discoveries I am going to make,",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "role": "Narrator",
+    "text": "he continued,",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "role": "Child",
+    "text": "will be about Magic. Magic is a powerful thing, and hardly anyone knows anything about it, except for a few people in old books—and Mary a little, because she was born in India where there are fakirs. I believe Dickon knows some Magic, though he might not realize it. He charms animals and people. I would never have allowed him to visit me if he hadn't been an animal charmer—which also makes him a boy charmer, because a boy is an animal. I am sure there is Magic in everything, but we just aren't smart enough to grasp it and make it work for us, like electricity, horses, and steam.",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "role": "Narrator",
+    "text": "This sounded so impressive that Ben Weatherstaff got quite excited and could hardly keep still.",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "role": "Male",
+    "text": "Aye, aye, sir,",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "role": "Narrator",
+    "text": "he said, standing up straight.",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "role": "Female",
+    "text": "When Mary found this garden, it looked completely dead,",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "role": "Narrator",
+    "text": "the speaker went on.",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "role": "Female",
+    "text": "Then something began pushing things up out of the soil and making something out of nothing. One day there was nothing there, and the next day there was. I had never watched things grow before, and it made me very curious. Scientific people are always curious, and I am going to be scientific. I keep asking myself, 'What is it? What is it?' It's something. It can't be nothing! I don't know its name, so I call it Magic. I have never seen the sunrise, but Mary and Dickon have, and from what they tell me, I am sure that is Magic, too. Something pushes it up and pulls it down. Sometimes, since I've been in the garden, I've looked up through the trees at the sky and felt a strange, happy feeling, as if something were pushing and pulling inside my chest, making me breathe fast. Magic is always pushing and pulling, making things out of nothing. Everything is made of Magic—leaves and trees, flowers and birds, badgers, foxes, squirrels, and people. So it must be all around us, in this garden and everywhere else. The Magic in this garden has made me stand up and know that I am going to live to be a man. I am going to make a scientific experiment: I will try to capture some of it and put it inside myself, to let it push and pull me and make me strong. I don't know how to do it, but I think if you keep thinking about it and calling it, it will come. Perhaps that is the very first step to getting it. When I was trying to stand for the first time, Mary kept repeating to herself as fast as she could, 'You can do it! You can do it!' and I did. I had to try myself, of course, but her Magic helped me, and so did Dickon's. Every morning and evening, and as often as I can remember during the day, I am going to say, 'Magic is in me! Magic is making me well! I am going to be as strong as Dickon, as strong as Dickon!' And you must all do it, too. That is my experiment. Will you help, Ben Weatherstaff?",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "role": "Male",
+    "text": "Aye, aye, sir!",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "role": "Narrator",
+    "text": "said Ben Weatherstaff.",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "role": "Male",
+    "text": "Aye, aye!",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "role": "Male",
+    "text": "If you keep doing it every day, as regularly as soldiers drill, we shall see what will happen and find out if the experiment succeeds. You learn things by saying them over and over and thinking about them until they stay in your mind forever, and I think it will be the same with Magic. If you keep calling it to come and help you, it will become a part of you, and it will stay and do things.",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "role": "Female",
+    "text": "I once heard an officer in India tell my mother that there were fakirs who repeated words thousands of times,",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "role": "Narrator",
+    "text": "Mary said.",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "role": "Female",
+    "text": "I've heard Jem Fettleworth's wife say the same thing thousands of times—calling Jem a drunken brute,",
+    "is_header": false
+  },
+  {
+    "id": 104,
+    "role": "Narrator",
+    "text": "Ben Weatherstaff said dryly.",
+    "is_header": false
+  },
+  {
+    "id": 105,
+    "role": "Female",
+    "text": "Something always came of that, sure enough. He gave her a good beating, went to the Blue Lion pub, and got as drunk as a lord.",
+    "is_header": false
+  },
+  {
+    "id": 106,
+    "role": "Narrator",
+    "text": "Colin frowned and thought for a few minutes. Then he cheered up.",
+    "is_header": false
+  },
+  {
+    "id": 107,
+    "role": "Female",
+    "text": "Well,",
+    "is_header": false
+  },
+  {
+    "id": 108,
+    "role": "Narrator",
+    "text": "he said,",
+    "is_header": false
+  },
+  {
+    "id": 109,
+    "role": "Female",
+    "text": "you see, something did come of it. She used the wrong Magic until she made him beat her. If she had used the right Magic and said something nice, perhaps he wouldn't have gotten so drunk, and perhaps—perhaps he might have bought her a new bonnet.",
+    "is_header": false
+  },
+  {
+    "id": 110,
+    "role": "Narrator",
+    "text": "Ben Weatherstaff chuckled, and there was a look of sharp admiration in his small, old eyes.",
+    "is_header": false
+  },
+  {
+    "id": 111,
+    "role": "Female",
+    "text": "You're a clever lad as well as a straight-legged one, Master Colin,",
+    "is_header": false
+  },
+  {
+    "id": 112,
+    "role": "Narrator",
+    "text": "he said.",
+    "is_header": false
+  },
+  {
+    "id": 113,
+    "role": "Female",
+    "text": "Next time I see Bess Fettleworth, I'll give her a hint of what Magic can do for her. She'd be very pleased if the scientific experiment worked—and so would Jem.",
+    "is_header": false
+  },
+  {
+    "id": 114,
+    "role": "Narrator",
+    "text": "Dickon had stood listening to the lecture, his round eyes shining with curious delight. Nut and Shell were on his shoulders, and he held a long-eared white rabbit in his arm, stroking it softly while it laid its ears along its back and enjoyed itself.",
+    "is_header": false
+  },
+  {
+    "id": 115,
+    "role": "Male",
+    "text": "Do you think the experiment will work?",
+    "is_header": false
+  },
+  {
+    "id": 116,
+    "role": "Narrator",
+    "text": "Colin asked him, wondering what he was thinking. He often wondered what Dickon was thinking when he saw him looking at him or at one of his animals with that happy, wide smile.",
+    "is_header": false
+  },
+  {
+    "id": 117,
+    "role": "Narrator",
+    "text": "Dickon smiled now, and his smile was even wider than usual.",
+    "is_header": false
+  },
+  {
+    "id": 118,
+    "role": "Male",
+    "text": "Yes,",
+    "is_header": false
+  },
+  {
+    "id": 119,
+    "role": "Narrator",
+    "text": "he answered,",
+    "is_header": false
+  },
+  {
+    "id": 120,
+    "role": "Male",
+    "text": "I really do. It'll work just like the seeds do when the sun shines on them. It'll work for sure. Shall we begin it now?",
+    "is_header": false
+  },
+  {
+    "id": 121,
+    "role": "Narrator",
+    "text": "Colin was delighted, and so was Mary. Inspired by memories of pictures of fakirs and holy men, Colin suggested that they should all sit cross-legged under the canopy of the tree.",
+    "is_header": false
+  },
+  {
+    "id": 122,
+    "role": "Male",
+    "text": "It will be like sitting in a temple,",
+    "is_header": false
+  },
+  {
+    "id": 123,
+    "role": "Narrator",
+    "text": "Colin said.",
+    "is_header": false
+  },
+  {
+    "id": 124,
+    "role": "Male",
+    "text": "I'm rather tired, and I want to sit down.",
+    "is_header": false
+  },
+  {
+    "id": 125,
+    "role": "Male",
+    "text": "Oh!",
+    "is_header": false
+  },
+  {
+    "id": 126,
+    "role": "Narrator",
+    "text": "said Dickon,",
+    "is_header": false
+  },
+  {
+    "id": 127,
+    "role": "Male",
+    "text": "you mustn't begin by saying you're tired. You might spoil the Magic.",
+    "is_header": false
+  },
+  {
+    "id": 128,
+    "role": "Narrator",
+    "text": "Colin turned and looked into Dickon's innocent round eyes.",
+    "is_header": false
+  },
+  {
+    "id": 129,
+    "role": "Male",
+    "text": "That's true,",
+    "is_header": false
+  },
+  {
+    "id": 130,
+    "role": "Narrator",
+    "text": "he said slowly.",
+    "is_header": false
+  },
+  {
+    "id": 131,
+    "role": "Male",
+    "text": "I must only think of the Magic.",
+    "is_header": false
+  },
+  {
+    "id": 132,
+    "role": "Narrator",
+    "text": "It all seemed very majestic and mysterious when they sat down in their circle. Ben Weatherstaff felt as if he had somehow been led into attending a prayer meeting. Ordinarily, he was stubborn about being against prayer meetings, but since this was the Rajah's affair, he didn't mind it and was actually quite pleased to be asked to help. Mistress Mary felt solemnly enraptured. Dickon held his rabbit in his arm, and perhaps he made some silent charmer's signal, because when he sat down cross-legged like the rest, the crow, the fox, the squirrels, and the lamb slowly drew near and joined the circle, each settling down in a spot as if by their own choice.",
+    "is_header": false
+  },
+  {
+    "id": 133,
+    "role": "Male",
+    "text": "The animals have come,",
+    "is_header": false
+  },
+  {
+    "id": 134,
+    "role": "Narrator",
+    "text": "Colin said gravely.",
+    "is_header": false
+  },
+  {
+    "id": 135,
+    "role": "Male",
+    "text": "They want to help us.",
+    "is_header": false
+  },
+  {
+    "id": 136,
+    "role": "Narrator",
+    "text": "Mary thought Colin looked truly beautiful. He held his head high as if he were a priest, and his strange eyes had a wonderful look in them. The light filtered down on him through the canopy of leaves.",
+    "is_header": false
+  },
+  {
+    "id": 137,
+    "role": "Male",
+    "text": "Now we will begin,",
+    "is_header": false
+  },
+  {
+    "id": 138,
+    "role": "Narrator",
+    "text": "he said.",
+    "is_header": false
+  },
+  {
+    "id": 139,
+    "role": "Male",
+    "text": "Shall we sway backward and forward, Mary, like dervishes?",
+    "is_header": false
+  },
+  {
+    "id": 140,
+    "role": "Male",
+    "text": "I can't do any swaying backward and forward,",
+    "is_header": false
+  },
+  {
+    "id": 141,
+    "role": "Narrator",
+    "text": "said Ben Weatherstaff.",
+    "is_header": false
+  },
+  {
+    "id": 142,
+    "role": "Male",
+    "text": "I've got the rheumatism.",
+    "is_header": false
+  },
+  {
+    "id": 143,
+    "role": "Male",
+    "text": "The Magic will cure it,",
+    "is_header": false
+  },
+  {
+    "id": 144,
+    "role": "Narrator",
+    "text": "Colin said in a high-priest tone,",
+    "is_header": false
+  },
+  {
+    "id": 145,
+    "role": "Male",
+    "text": "but we won't sway until it has. We will only chant.",
+    "is_header": false
+  },
+  {
+    "id": 146,
+    "role": "Male",
+    "text": "I can't do any chanting,",
+    "is_header": false
+  },
+  {
+    "id": 147,
+    "role": "Narrator",
+    "text": "Ben Weatherstaff said a bit testily.",
+    "is_header": false
+  },
+  {
+    "id": 148,
+    "role": "Male",
+    "text": "They kicked me out of the church choir the only time I ever tried it.",
+    "is_header": false
+  },
+  {
+    "id": 149,
+    "role": "Narrator",
+    "text": "No one smiled. They were all far too serious. Not even a shadow of doubt crossed Colin's face; he was thinking only of the Magic.",
+    "is_header": false
+  },
+  {
+    "id": 150,
+    "role": "Child",
+    "text": "Then I will chant,",
+    "is_header": false
+  },
+  {
+    "id": 151,
+    "role": "Narrator",
+    "text": "he said. He began, looking like a strange boy spirit.",
+    "is_header": false
+  },
+  {
+    "id": 152,
+    "role": "Child",
+    "text": "The sun is shining—the sun is shining. That is the Magic. The flowers are growing—the roots are stirring. That is the Magic. Being alive is the Magic—being strong is the Magic. The Magic is in me—the Magic is in me. It is in me—it is in me. It's in every one of us. It's in Ben Weatherstaff's back. Magic! Magic! Come and help!",
+    "is_header": false
+  },
+  {
+    "id": 153,
+    "role": "Narrator",
+    "text": "He said it many times—not a thousand times, but quite a lot. Mary listened, spellbound. She felt it was both strange and beautiful, and she wanted him to go on and on. Ben Weatherstaff began to feel soothed into a pleasant, dreamy state. The humming of the bees in the blossoms blended with the chanting voice, drowsily melting into a peaceful doze. Dickon sat cross-legged with his rabbit asleep in his arms and one hand resting on the lamb's back. Soot the crow had nudged a squirrel out of the way and huddled close to Dickon's shoulder, a gray film dropping over his eyes. At last, Colin stopped.",
+    "is_header": false
+  },
+  {
+    "id": 154,
+    "role": "Male",
+    "text": "Now I am going to walk around the garden,",
+    "is_header": false
+  },
+  {
+    "id": 155,
+    "role": "Narrator",
+    "text": "he announced.",
+    "is_header": false
+  },
+  {
+    "id": 156,
+    "role": "Narrator",
+    "text": "Ben Weatherstaff's head had just slumped forward, and he snapped it back up.",
+    "is_header": false
+  },
+  {
+    "id": 157,
+    "role": "Male",
+    "text": "You've been asleep,",
+    "is_header": false
+  },
+  {
+    "id": 158,
+    "role": "Narrator",
+    "text": "Colin said.",
+    "is_header": false
+  },
+  {
+    "id": 159,
+    "role": "Male",
+    "text": "Nothing of the sort,",
+    "is_header": false
+  },
+  {
+    "id": 160,
+    "role": "Narrator",
+    "text": "mumbled Ben.",
+    "is_header": false
+  },
+  {
+    "id": 161,
+    "role": "Male",
+    "text": "The sermon was good enough, but I've got to get out before they pass the collection plate.",
+    "is_header": false
+  },
+  {
+    "id": 162,
+    "role": "Narrator",
+    "text": "He was not quite awake yet.",
+    "is_header": false
+  },
+  {
+    "id": 163,
+    "role": "Male",
+    "text": "You're not in church,",
+    "is_header": false
+  },
+  {
+    "id": 164,
+    "role": "Narrator",
+    "text": "Colin said.",
+    "is_header": false
+  },
+  {
+    "id": 165,
+    "role": "Male",
+    "text": "Not me,",
+    "is_header": false
+  },
+  {
+    "id": 166,
+    "role": "Narrator",
+    "text": "said Ben, straightening up.",
+    "is_header": false
+  },
+  {
+    "id": 167,
+    "role": "Male",
+    "text": "Who said I was? I heard every word. You said the Magic was in my back. The doctor calls it rheumatism.",
+    "is_header": false
+  },
+  {
+    "id": 168,
+    "role": "Narrator",
+    "text": "The Rajah waved his hand.",
+    "is_header": false
+  },
+  {
+    "id": 169,
+    "role": "Male",
+    "text": "That was the wrong Magic,",
+    "is_header": false
+  },
+  {
+    "id": 170,
+    "role": "Narrator",
+    "text": "he said.",
+    "is_header": false
+  },
+  {
+    "id": 171,
+    "role": "Male",
+    "text": "You will get better. You have my permission to go back to work. But come back tomorrow.",
+    "is_header": false
+  },
+  {
+    "id": 172,
+    "role": "Male",
+    "text": "I'd like to see you walk around the garden,",
+    "is_header": false
+  },
+  {
+    "id": 173,
+    "role": "Narrator",
+    "text": "grunted Ben.",
+    "is_header": false
+  },
+  {
+    "id": 174,
+    "role": "Narrator",
+    "text": "It was not an unfriendly grunt, but it was a grunt. In fact, being a stubborn old man and not having full faith in Magic, he had made up his mind that if he were sent away, he would climb his ladder and look over the wall, just so he would be ready to hobble back if Colin stumbled.",
+    "is_header": false
+  },
+  {
+    "id": 175,
+    "role": "Narrator",
+    "text": "The Rajah did not mind him staying, and so the procession was formed. It really did look like a procession. Colin led the way, with Dickon on one side and Mary on the other. Ben Weatherstaff walked behind them, and the animals trailed after. The lamb and the fox cub kept close to Dickon, the white rabbit hopped along or stopped to nibble, and Soot followed with the solemn air of someone who felt he was in charge.",
+    "is_header": false
+  },
+  {
+    "id": 176,
+    "role": "Narrator",
+    "text": "It was a procession that moved slowly but with dignity. Every few yards they stopped to rest. Colin leaned on Dickon's arm, and Ben Weatherstaff kept a sharp lookout, but now and then Colin took his hand away and walked a few steps alone. His head was held high the entire time, and he looked very grand.",
+    "is_header": false
+  },
+  {
+    "id": 177,
+    "role": "Male",
+    "text": "The Magic is in me!",
+    "is_header": false
+  },
+  {
+    "id": 178,
+    "role": "Narrator",
+    "text": "he kept saying.",
+    "is_header": false
+  },
+  {
+    "id": 179,
+    "role": "Male",
+    "text": "The Magic is making me strong! I can feel it! I can feel it!",
+    "is_header": false
+  },
+  {
+    "id": 180,
+    "role": "Narrator",
+    "text": "It seemed very certain that something was supporting and uplifting him. He sat on the benches in the alcoves, and once or twice on the grass. Several times he paused along the path and leaned on Dickon, but he refused to give up until he had gone all the way around the garden. When he returned to the canopy tree, his cheeks were flushed and he looked triumphant.",
+    "is_header": false
+  },
+  {
+    "id": 181,
+    "role": "Male",
+    "text": "I did it! The Magic worked!",
+    "is_header": false
+  },
+  {
+    "id": 182,
+    "role": "Narrator",
+    "text": "he cried.",
+    "is_header": false
+  },
+  {
+    "id": 183,
+    "role": "Male",
+    "text": "That is my first scientific discovery.",
+    "is_header": false
+  },
+  {
+    "id": 184,
+    "role": "Male",
+    "text": "What will Doctor Craven say?",
+    "is_header": false
+  },
+  {
+    "id": 185,
+    "role": "Narrator",
+    "text": "Mary blurted out.",
+    "is_header": false
+  },
+  {
+    "id": 186,
+    "role": "Child",
+    "text": "He won't say anything,",
+    "is_header": false
+  },
+  {
+    "id": 187,
+    "role": "Narrator",
+    "text": "Colin answered,",
+    "is_header": false
+  },
+  {
+    "id": 188,
+    "role": "Child",
+    "text": "because we won't tell him. This is going to be our biggest secret of all. No one is to know anything about it until I have grown so strong that I can walk and run like any other boy. I shall come here every day in my wheelchair and be taken back in it. I won't have people whispering and asking questions, and I won't let my father hear about it until the experiment has completely succeeded. Then, when he comes back to Misselthwaite, I shall just walk into his study and say, 'Here I am. I am like any other boy. I am perfectly well, and I shall live to be a man. It was done by a scientific experiment.'",
+    "is_header": false
+  },
+  {
+    "id": 189,
+    "role": "Male",
+    "text": "He will think he's dreaming,",
+    "is_header": false
+  },
+  {
+    "id": 190,
+    "role": "Narrator",
+    "text": "Mary cried.",
+    "is_header": false
+  },
+  {
+    "id": 191,
+    "role": "Male",
+    "text": "He won't believe his eyes.",
+    "is_header": false
+  },
+  {
+    "id": 192,
+    "role": "Narrator",
+    "text": "Colin flushed with triumph. He had made himself believe that he was going to get well, which was more than half the battle, though he didn't realize it. The thought that motivated him more than any other was imagining what his father's face would look like when he saw he had a son who was as straight and strong as other fathers' sons. One of his deepest miseries in his unhealthy, gloomy past had been his hatred of being a sickly, weak-backed boy whose father was afraid to look at him.",
+    "is_header": false
+  },
+  {
+    "id": 193,
+    "role": "Male",
+    "text": "He'll have to believe them,",
+    "is_header": false
+  },
+  {
+    "id": 194,
+    "role": "Narrator",
+    "text": "he said.",
+    "is_header": false
+  },
+  {
+    "id": 195,
+    "role": "Male",
+    "text": "One of the things I am going to do, after the Magic works and before I begin making scientific discoveries, is to become an athlete.",
+    "is_header": false
+  },
+  {
+    "id": 196,
+    "role": "Male",
+    "text": "We'll have you taking up boxing in a week or so,",
+    "is_header": false
+  },
+  {
+    "id": 197,
+    "role": "Narrator",
+    "text": "said Ben Weatherstaff.",
+    "is_header": false
+  },
+  {
+    "id": 198,
+    "role": "Male",
+    "text": "You'll end up winning the championship belt and being the prize-fighter of all England.",
+    "is_header": false
+  },
+  {
+    "id": 199,
+    "role": "Narrator",
+    "text": "Colin stared at him sternly.",
+    "is_header": false
+  },
+  {
+    "id": 200,
+    "role": "Male",
+    "text": "Weatherstaff,",
+    "is_header": false
+  },
+  {
+    "id": 201,
+    "role": "Narrator",
+    "text": "he said,",
+    "is_header": false
+  },
+  {
+    "id": 202,
+    "role": "Male",
+    "text": "that is disrespectful. You must not take liberties just because you are in on the secret. No matter how well the Magic works, I will not be a prize-fighter. I shall be a Scientific Discoverer.",
+    "is_header": false
+  },
+  {
+    "id": 203,
+    "role": "Child",
+    "text": "Beg pardon—beg pardon, sir,",
+    "is_header": false
+  },
+  {
+    "id": 204,
+    "role": "Narrator",
+    "text": "answered Ben, touching his hand to his forehead in salute.",
+    "is_header": false
+  },
+  {
+    "id": 205,
+    "role": "Child",
+    "text": "I should have seen it wasn't a joking matter.",
+    "is_header": false
+  },
+  {
+    "id": 206,
+    "role": "Narrator",
+    "text": "But his eyes twinkled, and secretly he was thrilled. He really didn't mind being scolded, since the scolding meant that the boy was gaining strength and spirit.",
+    "is_header": false
+  }
+]

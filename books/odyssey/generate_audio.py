@@ -29,21 +29,22 @@ VOICES = {
     "others": "en-US-EricNeural"
 }
 
-async def synthesize_segment(text, voice):
+async def synthesize_segment(text, voice, sem):
     # No rate/pitch change, default values
-    for attempt in range(5):
-        try:
-            communicate = edge_tts.Communicate(text, voice)
-            audio_data = b""
-            async for chunk in communicate.stream():
-                if chunk["type"] == "audio":
-                    audio_data += chunk["data"]
-            if audio_data:
-                return AudioSegment.from_file(BytesIO(audio_data), format="mp3")
-        except Exception as e:
-            print(f"      Attempt {attempt + 1} failed for voice {voice}: {e}")
-            await asyncio.sleep(2)
-    raise RuntimeError(f"Failed to synthesize segment after 5 attempts: text={text[:20]}...")
+    async with sem:
+        for attempt in range(5):
+            try:
+                communicate = edge_tts.Communicate(text, voice)
+                audio_data = b""
+                async for chunk in communicate.stream():
+                    if chunk["type"] == "audio":
+                        audio_data += chunk["data"]
+                if audio_data:
+                    return AudioSegment.from_file(BytesIO(audio_data), format="mp3")
+            except Exception as e:
+                print(f"      Attempt {attempt + 1} failed for voice {voice}: {e}")
+                await asyncio.sleep(2)
+        raise RuntimeError(f"Failed to synthesize segment after 5 attempts: text={text[:20]}...")
 
 def apply_post_processing(raw_path, clean_path, bitrate=256):
     """
@@ -86,6 +87,10 @@ async def generate_chapter(ch_num):
     raw_file = os.path.join(TEMP_DIR, f"raw_ch_{ch_str}.mp3")
     final_file = os.path.join(OUTPUT_DIR, f"final_track_{ch_str}.mp3")
 
+    if os.path.exists(final_file):
+        print(f"Chapter {ch_num} already exists: {final_file}. Skipping.")
+        return True
+
     if not os.path.exists(script_file):
         print(f"Script file not found: {script_file}")
         return False
@@ -95,25 +100,48 @@ async def generate_chapter(ch_num):
     with open(script_file, 'r', encoding='utf-8') as f:
         script = json.load(f)
 
-    combined_audio = AudioSegment.empty()
-    prev_role = None
-
+    # Pre-synthesize all segments in parallel using a semaphore to limit concurrency
+    sem = asyncio.Semaphore(15)
+    tasks = []
+    
     for i, segment in enumerate(script):
         text = segment['text'].strip()
         role = segment.get('character', 'Narrator')
         
         # Skip headers or empty segments
         if not text or not re.search(r'[a-zA-Z0-9]', text):
+            async def dummy(): return None
+            tasks.append(dummy())
             continue
 
         voice = VOICES.get(role, VOICES["Narrator"])
+        
+        # Apply pronunciation overrides for names mispronounced by Edge-TTS
+        PRONUNCIATION_OVERRIDES = {
+            r"\bTelemachus\b": "Telemacus",
+            r"\bTelemachus's\b": "Telemacus's",
+            r"\bTelemachus'\b": "Telemacus's",
+        }
+        for pattern, replacement in PRONUNCIATION_OVERRIDES.items():
+            text = re.sub(pattern, replacement, text, flags=re.IGNORECASE)
 
-        # Add pause before this segment if there was a previous segment (500ms)
+        tasks.append(synthesize_segment(text, voice, sem))
+
+    print(f"  Synthesizing {len(script)} segments concurrently...")
+    results = await asyncio.gather(*tasks)
+
+    combined_audio = AudioSegment.empty()
+    prev_role = None
+
+    for i, segment in enumerate(script):
+        segment_audio = results[i]
+        if segment_audio is None:
+            continue
+            
+        role = segment.get('character', 'Narrator')
         if prev_role is not None:
             combined_audio += AudioSegment.silent(duration=500)
-
-        print(f"  Segment {i + 1}/{len(script)} ({role} - {voice}): {text[:40]}...")
-        segment_audio = await synthesize_segment(text, voice)
+            
         combined_audio += segment_audio
         prev_role = role
 

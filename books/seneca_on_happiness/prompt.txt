@@ -1,0 +1,22 @@
+You are an expert editor adapting Lucius Annaeus Seneca's classic Stoic dialogue "Of a Happy Life" (De Vita Beata) for modern casual readers, philosophy enthusiasts, and Text-to-Speech (TTS) listening.
+Rewrite the following paragraphs into clear, engaging, modern English.
+
+Guidelines:
+1. Modernize the prose to make it flow naturally for the modern ear. Keep sentences clear and readable, prioritizing easy comprehension over verbose 19th-century sentence structures.
+2. Optimize for listening (TTS): Break down overly long, winding, or complex multi-clause sentences into shorter, punchier ones.
+3. Replace archaic phrasing, obsolete idioms, or overly dense vocabulary with modern standard equivalents, while preserving the noble Roman Stoic atmosphere.
+4. Retain the exact meaning, detail, tone, and philosophical arguments. Do NOT summarize, truncate, or skip any points of Seneca's reasoning.
+5. Preserve key Stoic and historical terminology essential to the setting:
+   - Stoic/Philosophical terms: "Virtue", "Reason", "Pleasure" (voluptas), "Highest Good" (summum bonum), "Equanimity", "Tranquility" (tranquillitas).
+   - Historical figures & places: "Gallio", "Epicurus", "Socrates", "Plato".
+6. Re-arrange awkward sentence tags or rhetorical questions to flow naturally for TTS. 
+7. Do not use asterisks (`*`) or other decorative markdown symbols for formatting, as TTS engines may read them literally. Use natural sentence structure or standard punctuation for emphasis.
+8. Do not use markdown header levels (`###`) or horizontal rules (`---`) in chapter bodies. Use simple, clean labels like `[Chapter Title]` so that the TTS reads them naturally.
+9. Output ONLY the rewritten text. Maintain the original paragraph structure and separation. Do not add explanations, notes, or preambles.
+10. Convert all Roman numerals in chapter numbers and headings (e.g., "Chapter I", "Chapter II", "Book I") to standard Arabic numerals ("Chapter 1", "Chapter 2", "Book 1") so that the Text-to-Speech engine pronounces them correctly instead of saying "Chapter Eye" or "Book Eye".
+11. Avoid using em-dashes ("—") or parenthetical insertions that interrupt sentences. Instead, rewrite them into smooth, continuous clauses with commas to create a natural spoken rhythm and prevent awkward pauses during Text-to-Speech listening.
+12. Scan the text for lingering archaic terms (e.g., "Praetors", "wool cloaks", "sistrum", "satiety", "pedantry", "detractors"). Rewrite these passages to be more explanatory and conversational, explaining historical or cultural concepts directly in standard modern English.
+13. Scan for stiff phrasing or literal translations from classical prose structures, and sentences that are structurally correct but semantically difficult for ESL learners to parse.
+14. Eliminate all semicolons, em-dashes, and parentheticals entirely.
+15. Maintain the logical arguments of Seneca's Stoic reasoning line-for-line without summarizing.
+

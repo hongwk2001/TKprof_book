@@ -1,0 +1,686 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Chapter 5",
+    "is_header": false
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "It was cloudy in Italy, which surprised them. They had expected brilliant sunshine. But it didn't matter: it was Italy, and even the clouds looked thick and beautiful. Neither of them had ever been there before. Both stared out the windows with rapt faces. The hours flew by as long as it was light, and after dark, there was the excitement of getting closer and closer, and finally arriving.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Narrator",
+    "text": "At Genoa, it had begun to rain—Genoa! Imagine actually being in Genoa, seeing its name written on the station sign just like any other city. At Nervi it was pouring, and when they finally reached Mezzago toward midnight (for their train was late again), the rain was coming down in what felt like solid sheets. But it was Italy. Nothing it did could be bad. Even the rain felt different—straight rain, falling properly on one’s umbrella, not like that violently blowing English rain that got in everywhere. And it would stop; and when it did, the earth would be covered in roses.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Narrator",
+    "text": "Mister Briggs, the owner of San Salvatore, had told them,",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Male",
+    "text": "Get off at Mezzago, and then drive.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Narrator",
+    "text": "But he had forgotten what he knew very well: that Italian trains are often late. He had imagined his tenants arriving at Mezzago at eight o’clock in the evening, finding a row of carriages to choose from.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Narrator",
+    "text": "Instead, the train was four hours late. When Missus Arbuthnot and Missus Wilkins scrambled down the steep, ladder-like steps of their train car into the dark downpour—their hands full of bags and their skirts sweeping up pools of dirty water—they would have had nothing to drive in if not for the vigilance of Domenico, the gardener at San Salvatore. All the regular carriage drivers had gone home hours ago. Domenico, predicting this, had sent his aunt’s carriage, driven by his cousin. Since his aunt and her carriage lived in Castagneto, the village at the base of San Salvatore, the driver wouldn't dare return home without the passengers he had been sent to fetch, no matter how late the train was.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "Narrator",
+    "text": "Domenico’s cousin was named Beppo. He emerged out of the dark where Missus Arbuthnot and Missus Wilkins stood, unsure of what to do next after the train had moved on. There was no porter in sight, and it felt like they were standing in the middle of the train tracks rather than on a platform.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Narrator",
+    "text": "Beppo, who had been looking for them, bounded out of the darkness and spoke to them in rapid, loud Italian. He was a very respectable young man, but in the dark, with a wet hat slouched over one eye, he didn't look like it. They didn't like the way he grabbed their bags. He certainly didn't look like a porter. However, amidst his flood of words, they recognized the name",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Child",
+    "text": "San Salvatore.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Narrator",
+    "text": "They kept repeating it back to him—it was the only Italian they knew—as they hurried after him to keep their bags in sight, stumbling over tracks and through puddles toward a small, high carriage waiting in the road.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Narrator",
+    "text": "The carriage's hood was up, and the horse stood in deep thought. They climbed inside. The moment they were in—though Missus Wilkins was barely settled—the horse woke up with a start and immediately began rushing home, leaving Beppo and the bags behind.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Narrator",
+    "text": "Beppo chased after the carriage, shouting at the top of his lungs, and caught the hanging reins just in time. He proudly explained, with what he thought was perfect clearness, that the horse always did that because it was a spirited animal, full of energy, and cared for by Beppo like a son. He assured the ladies they shouldn't be alarmed—he had noticed them clutching each other in fear. But although he was loud, clear, and talkative, they only looked at him blankly.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "role": "Narrator",
+    "text": "He kept talking as he piled the bags around them, sure they would eventually understand him, especially since he spoke loudly and used simple, helpful gestures. But they both just kept staring at him. He noticed sympathetically that they both had pale, exhausted faces and large, tired eyes. He thought they were beautiful, and their eyes watching him over the pile of bags looked like the eyes of the Virgin Mary. The only thing the ladies said, gently prodding his back as he sat on the driver's box to get his attention, was,",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "role": "Male",
+    "text": "San Salvatore?",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "role": "Narrator",
+    "text": "And each time he answered loudly and encouragingly,",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "role": "Male",
+    "text": "Sì, sì—San Salvatore.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "role": "Male",
+    "text": "We don't actually know if he's taking us there,",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "role": "Narrator",
+    "text": "Missus Arbuthnot said quietly after they had been driving for what felt like a long time. They had left the paved streets of the sleeping town and were on a winding road. To their left was a low wall, beyond which was a vast black emptiness and the sound of the sea. To their right was something steep and dark—large rocks, they whispered to each other.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "role": "Female",
+    "text": "No, we don't know,",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "role": "Narrator",
+    "text": "Missus Wilkins agreed, feeling a chill run down her spine.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "role": "Narrator",
+    "text": "They felt very uncomfortable. It was so late, so dark, and the road was so lonely. What if a wheel broke? What if they met Fascists, or their opponents? They deeply regretted not staying the night in Genoa and traveling in the daylight the next morning.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "role": "Male",
+    "text": "But that would have been the first of April,",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "role": "Narrator",
+    "text": "Missus Wilkins said quietly.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "role": "Male",
+    "text": "It is April Fool's Day now,",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "role": "Narrator",
+    "text": "Missus Arbuthnot whispered.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "role": "Male",
+    "text": "So it is,",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "role": "Narrator",
+    "text": "Missus Wilkins murmured.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "role": "Narrator",
+    "text": "They fell silent.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "role": "Narrator",
+    "text": "Beppo turned around on his box—a worrying habit, since he should have been watching the road—and spoke to them again with what he was sure was absolute clarity.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "role": "Narrator",
+    "text": "How they wished their mothers had made them learn Italian when they were children! If only they could say,",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "role": "Male",
+    "text": "Please sit properly and watch the horse.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "role": "Narrator",
+    "text": "They didn't even know the Italian word for",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "role": "Male",
+    "text": "horse.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "role": "Narrator",
+    "text": "It was embarrassing to be so ignorant.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "role": "Narrator",
+    "text": "In their anxiety—as the road twisted around sharp rocks and only the low wall kept them from falling into the sea—they began to gesticulate, waving their hands and pointing ahead to tell Beppo to face forward. He thought they wanted him to drive faster. The next ten minutes were terrifying as he tried to please them. He was proud of his horse, and it could go very fast. He stood up in his seat, cracked his whip, and the horse bolted forward. The rocks seemed to leap toward them, the carriage swayed, the bags shifted, and Missus Arbuthnot and Missus Wilkins clung to each other. They clattered and swayed until they reached a hill near Castagneto. The horse, knowing every inch of the road, stopped suddenly at the base of the hill, throwing everything in the carriage into a heap, and then walked up at a snail's pace.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "role": "Narrator",
+    "text": "Beppo turned around, laughing with pride, expecting their admiration.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "role": "Narrator",
+    "text": "The beautiful ladies did not laugh back. They just stared, their pale faces looking milky against the dark night.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "role": "Narrator",
+    "text": "But once they reached the top of the slope, they finally saw houses. The rocks, the low wall, and the sea disappeared, and the loneliness of the road was over. There were no lights on, and nobody saw them pass, but as soon as they entered the village, Beppo yelled",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "role": "Male",
+    "text": "Castagneto!",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "role": "Narrator",
+    "text": "over his shoulder, stood up, cracked his whip, and made the horse dash forward once more.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "role": "Female",
+    "text": "We will be there in a minute,",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "role": "Narrator",
+    "text": "Missus Arbuthnot told herself, holding on.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "role": "Female",
+    "text": "We will stop soon,",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "role": "Narrator",
+    "text": "Missus Wilkins told herself, holding on.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "role": "Narrator",
+    "text": "They said nothing aloud because nothing could be heard over the cracking whip, the clattering wheels, and the encouraging noises Beppo was making at his horse.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "role": "Narrator",
+    "text": "They anxiously looked for any sign of San Salvatore.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "role": "Narrator",
+    "text": "They had hoped that after the village, a medieval archway would appear, and they would drive through it into a garden and pull up to a brightly lit, open door where the servants stood waiting.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "role": "Narrator",
+    "text": "Instead, the carriage suddenly stopped.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "role": "Narrator",
+    "text": "Looking out, they saw they were still in the middle of a village street, surrounded by small dark houses. Beppo threw the reins over the horse's back, confident it wouldn't move, and climbed down. At the same moment, out of nowhere, a man and several boys appeared and began pulling their bags out of the carriage.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "role": "Female",
+    "text": "No, no—San Salvatore, San Salvatore!",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "role": "Narrator",
+    "text": "Missus Wilkins cried, trying to hold onto her bags.",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "role": "Male",
+    "text": "Sì, sì—San Salvatore!",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "role": "Narrator",
+    "text": "they all shouted back, pulling.",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "role": "Female",
+    "text": "This can't be San Salvatore,",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "role": "Narrator",
+    "text": "Missus Wilkins said to Missus Arbuthnot, who sat quietly watching her bags being carried away with her usual patience. She knew she couldn't stop them if they were thieves.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "role": "Female",
+    "text": "I don't think it is,",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "role": "Narrator",
+    "text": "she admitted. She couldn't help but wonder at God's plans. Had they really been brought here, after all their lies and effort, only to be robbed?",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "role": "Narrator",
+    "text": "She stopped her thoughts and told Missus Wilkins they were in God's hands as the boys disappeared with their bags into the night and the man with the lantern helped Beppo pull the rug off them. For the first time, hearing that they were in God's hands made Missus Wilkins feel truly afraid.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "role": "Narrator",
+    "text": "There was nothing to do but get out. It was pointless to sit in the carriage repeating",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "role": "Child",
+    "text": "San Salvatore.",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "role": "Narrator",
+    "text": "Every time they said it, Beppo and the other man just shouted it back. If only they had learned Italian when they were young! If only they could say,",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "role": "Child",
+    "text": "Drive us to the door.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "role": "Narrator",
+    "text": "But they didn't even know the word for",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "role": "Child",
+    "text": "door.",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "role": "Narrator",
+    "text": "Such ignorance was not only embarrassing, it was dangerous. It was too late to regret it now. They couldn't stay in the carriage forever, so they got out.",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "role": "Narrator",
+    "text": "The two men opened umbrellas for them and handed them over. This made them feel slightly better, because they couldn't believe that thieves would bother to open umbrellas for their victims. The man with the lantern gestured for them to follow him, talking loudly and quickly. Beppo stayed behind. Ought they to pay him? Not if they were about to be robbed and murdered, they thought. You don't pay on such occasions. Beside, he hadn't actually brought them to San Salvatore, and he didn't ask for any money as they walked away into the night. They couldn't help but think this was a bad sign: he was asking for nothing now because he would get so much later.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "role": "Narrator",
+    "text": "They came to some steps. The road ended abruptly at a church and went down into steps. The man held the lantern low so they could see.",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "role": "Female",
+    "text": "San Salvatore?",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "role": "Narrator",
+    "text": "Missus Wilkins asked very quietly before going down. She couldn't go down in silence, even though she was sure no medieval castle was ever built at the bottom of a flight of steps.",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "role": "Narrator",
+    "text": "Again, the echoing reply came:",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "role": "Male",
+    "text": "Sì, sì—San Salvatore.",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "role": "Narrator",
+    "text": "They walked down carefully, holding up their skirts just as if they would need them again and weren't about to be murdered.",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "role": "Narrator",
+    "text": "The steps led to a steep path with flat stone slabs in the middle. They slipped on the wet stones, and the man with the lantern held them up politely, talking rapidly.",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "role": "Male",
+    "text": "Perhaps it is all right after all,",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "role": "Narrator",
+    "text": "Missus Wilkins whispered to Missus Arbuthnot.",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "role": "Male",
+    "text": "We're in God's hands,",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "role": "Narrator",
+    "text": "Missus Arbuthnot said again, and again Missus Wilkins felt afraid.",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "role": "Narrator",
+    "text": "At the bottom of the path, the lantern light flickered over an open square surrounded by houses on three sides. The sea was on the fourth side, washing gently over the pebbles.",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "role": "Male",
+    "text": "San Salvatore,",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "role": "Narrator",
+    "text": "the man said, pointing with his lantern to a dark mass curving around the water like an arm.",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "role": "Narrator",
+    "text": "They stared. They saw the dark mass, and at the top of it, a single light.",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "role": "Male",
+    "text": "San Salvatore?",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "role": "Narrator",
+    "text": "they both asked, disbelieving. Where were their bags, and why had they been forced to get out of the carriage?",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "role": "Male",
+    "text": "Sì, sì—San Salvatore.",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "role": "Narrator",
+    "text": "They walked along a quay right at the water's edge. There was no wall here, nothing to stop the man with the lantern from pushing them into the water. But he didn't. Perhaps it really is all right, Missus Wilkins suggested. Missus Arbuthnot began to agree and stopped talking about God's hands.",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "role": "Narrator",
+    "text": "The lantern light reflected on the wet stones of the quay. To their left, at the end of a jetty, was a red light. They reached an archway with a heavy iron gate. The man pushed it open. This time they went up steps, and at the top was a path winding upward through invisible flowers. They couldn't see them, but the air was filled with their scent.",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "role": "Narrator",
+    "text": "It finally occurred to Missus Wilkins that the carriage hadn't driven them to the door because there was no road, only a footpath. That explained why their bags had been carried off. She felt confident they would find their luggage waiting for them at the top. San Salvatore was on top of a hill, as a medieval castle should be. At a turn in the path, they saw the light they had seen from the quay, much closer now. She told Missus Arbuthnot her theory, and Missus Arbuthnot agreed.",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "role": "Narrator",
+    "text": "With real hope, Missus Wilkins pointed to the dark outline against the night sky.",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "role": "Male",
+    "text": "San Salvatore?",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "role": "Male",
+    "text": "Sì, sì—San Salvatore,",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "role": "Narrator",
+    "text": "the man replied warmly.",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "role": "Narrator",
+    "text": "They crossed a small bridge over a ravine, then walked along a flat path bordered by long grass and more flowers. The wet grass brushed against their stockings, and the scent of invisible flowers was everywhere. They climbed higher through the trees along a zigzag path. The warm rain was bringing out all the sweet scents. The red light on the jetty dropped further below them.",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "role": "Narrator",
+    "text": "The path wound around the other side of the small peninsula. The jetty and red light disappeared, and they saw distant lights across the water.",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "role": "Male",
+    "text": "Mezzago,",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "role": "Narrator",
+    "text": "the man said, waving his lantern.",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "role": "Male",
+    "text": "Sì, sì,",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "role": "Narrator",
+    "text": "they replied, having finally learned the phrase. The man congratulated them in a flood of polite words on their excellent Italian. This was Domenico, the loyal and capable gardener of San Salvatore, the main support of the estate. He was polite and intelligent, though in the dark, with his sharp features and swift movements, he looked like a villain.",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "role": "Narrator",
+    "text": "They passed a high wall towering above them, walked under trellises where wet branches brushed against them, and the lantern light flickered over lilies. Finally, they climbed a flight of ancient stone steps, went through another iron gate, and found themselves inside, climbing a vaulted stone stairway that looked like a dungeon.",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "role": "Narrator",
+    "text": "At the top was a wrought-iron door, through which shone a flood of bright electric light.",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "role": "Male",
+    "text": "Ecco,",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "role": "Narrator",
+    "text": "Domenico said, running up the last few steps to push the door open.",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "role": "Narrator",
+    "text": "They had arrived. It was San Salvatore. Their bags were waiting for them, and they had not been murdered.",
+    "is_header": false
+  },
+  {
+    "id": 104,
+    "role": "Narrator",
+    "text": "They looked at each other's pale faces and blinked solemnly.",
+    "is_header": false
+  },
+  {
+    "id": 105,
+    "role": "Narrator",
+    "text": "It was a wonderful moment. Here they were, in their medieval castle at last. Their feet touched its ancient stones.",
+    "is_header": false
+  },
+  {
+    "id": 106,
+    "role": "Narrator",
+    "text": "Missus Wilkins put her arm around Missus Arbuthnot's neck and kissed her.",
+    "is_header": false
+  },
+  {
+    "id": 107,
+    "role": "Female",
+    "text": "The first thing to happen in this house,",
+    "is_header": false
+  },
+  {
+    "id": 108,
+    "role": "Narrator",
+    "text": "she said softly,",
+    "is_header": false
+  },
+  {
+    "id": 109,
+    "role": "Female",
+    "text": "shall be a kiss.",
+    "is_header": false
+  },
+  {
+    "id": 110,
+    "role": "Male",
+    "text": "Dear Lotty,",
+    "is_header": false
+  },
+  {
+    "id": 111,
+    "role": "Narrator",
+    "text": "Missus Arbuthnot said.",
+    "is_header": false
+  },
+  {
+    "id": 112,
+    "role": "Female",
+    "text": "Dear Rose,",
+    "is_header": false
+  },
+  {
+    "id": 113,
+    "role": "Narrator",
+    "text": "Missus Wilkins replied, her eyes filling with tears of joy.",
+    "is_header": false
+  },
+  {
+    "id": 114,
+    "role": "Narrator",
+    "text": "Domenico was delighted. He loved seeing beautiful ladies kiss. He gave them a warm speech of welcome. Tired as they were, they stood arm in arm, smiling at him without understanding a single word.",
+    "is_header": false
+  }
+]

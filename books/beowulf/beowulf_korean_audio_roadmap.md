@@ -275,11 +275,11 @@ async def generate_chapter(ch_arg):
 | 캐릭터 → 나레이터 | 500ms |
 | 캐릭터 → 캐릭터 | 400ms |
 
-### 실행 명령 (WSL)
+### 실행 명령 (Git Bash)
 
 ```bash
-source wsl_venv/bin/activate
-cd /mnt/d/git_repo/TKprof_book/books/beowulf
+source venv/Scripts/activate
+cd /d/git_repo/TKprof_book/books/beowulf
 
 # 전체 생성 (46개 트랙)
 python generate_audio_ko.py
@@ -393,10 +393,10 @@ books/beowulf/
 
 ## 11. 설치 요구사항
 
-> ⚠️ **반드시 WSL 터미널에서 진행**
+> ⚠️ **반드시 Git Bash 터미널에서 진행**
 > ```bash
-> cd /mnt/d/git_repo/TKprof_book
-> source wsl_venv/bin/activate
+> cd /d/git_repo/TKprof_book
+> source venv/Scripts/activate
 > ```
 
 ```bash

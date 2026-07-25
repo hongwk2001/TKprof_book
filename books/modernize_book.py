@@ -119,6 +119,7 @@ def process_chapter(book_id, raw_filename, api_key):
     else:
         dest_filename = raw_filename.replace("raw_", "").replace(".txt", "_en.txt")
     dest_path = os.path.join(dest_dir, dest_filename)
+    os.makedirs(os.path.dirname(dest_path), exist_ok=True)
     
     # Check for custom prompt.txt
     prompt_file = os.path.join(book_path, "prompt.txt")
@@ -204,12 +205,17 @@ if __name__ == "__main__":
         
     if args.chapters:
         requested = [x.strip() for x in args.chapters.split(",")]
-        raw_files = os.listdir(raw_chapters_dir)
+        raw_files = []
+        for root, dirs, files in os.walk(raw_chapters_dir):
+            for file in files:
+                rel_path = os.path.relpath(os.path.join(root, file), raw_chapters_dir).replace("\\", "/")
+                raw_files.append(rel_path)
         ch_list = []
         for req in requested:
             found = False
             for f in raw_files:
-                if f == req or f == f"raw_{req}.txt" or (f == f"raw_ch_{int(req):02d}.txt" if req.isdigit() else False):
+                basename = os.path.basename(f)
+                if f == req or basename == req or basename == f"raw_{req}.txt" or (basename == f"raw_ch_{int(req):02d}.txt" if req.isdigit() else False):
                     ch_list.append(f)
                     found = True
                     break
@@ -228,10 +234,15 @@ if __name__ == "__main__":
             if not found:
                 print(f"Warning: could not resolve chapter parameter '{req}' to a file.")
     else:
-        raw_files = os.listdir(raw_chapters_dir)
+        raw_files = []
+        for root, dirs, files in os.walk(raw_chapters_dir):
+            for file in files:
+                rel_path = os.path.relpath(os.path.join(root, file), raw_chapters_dir).replace("\\", "/")
+                raw_files.append(rel_path)
         ch_list = []
         for f in sorted(raw_files):
-            if f.startswith("raw_") and f.endswith(".txt"):
+            basename = os.path.basename(f)
+            if basename.startswith("raw_") and basename.endswith(".txt"):
                 ch_list.append(f)
                 
     print(f"Processing chapters: {ch_list}")

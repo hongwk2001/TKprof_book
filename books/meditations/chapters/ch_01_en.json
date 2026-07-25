@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Book 1",
+    "is_header": false
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "1. I learned from my grandfather, Verus, to have good manners and keep my anger in check. 2. From the reputation and memory of my father, I learned what it means to be modest and manly. 3. My mother taught me to be religious and generous. She showed me how to avoid not only doing evil, but even thinking about it. She also taught me to live simply, far removed from the typical habits of the rich. 4. I owe it to my great-grandfather that I avoided public schools. Instead, I had excellent teachers at home. He taught me that when it comes to education, you should never hesitate to spend generously.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Narrator",
+    "text": "5. My tutor taught me not to take sides in the chariot races, favoring neither the green nor the blue teams. He also told me not to cheer for specific gladiators, whether lightly or heavily armed. From him, I learned to endure hard work and want very little. He taught me to do things for myself without bothering others, to mind my own business, and to ignore gossip and slander.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Narrator",
+    "text": "6. Diognetus taught me not to waste my time on shallow things. He told me to ignore the tall tales of miracle workers and sorcerers who claim they can cast spells or drive out demons. He warned me against keeping quails for fighting or getting caught up in similar fads. He showed me how to tolerate people who speak their minds freely, and he inspired my deep love for philosophy. I also have him to thank for introducing me to the lectures of Bacchius, and later Tandasis and Marcianus. Thanks to him, I began writing philosophical dialogues in my youth. I happily adopted the philosopher's simple bed and animal skins, embracing all the traditional practices of the Greek thinkers.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Narrator",
+    "text": "7. Rusticus helped me realize that my own character needed fixing and healing. He kept me from falling into the trap of becoming a typical public intellectual. Because of him, I didn't waste my time writing abstract theories or delivering preachy public speeches. He also steered me away from trying to impress people by showing off my self-discipline or my busy schedule. He taught me to give up the study of rhetoric, poetry, and overly elegant language. He made sure I didn't walk around the house in my formal senatorial robes or put on any other kind of pretentious act. I learned to write letters simply, just like the one he wrote to my mother from Sinuessa. He taught me to be forgiving and ready to make peace with anyone who angered or offended me, as soon as they were willing to make amends. He taught me to read carefully, never settling for a shallow understanding, and not to be quickly won over by people who talk too much. I am especially grateful to him for introducing me to the teachings of Epictetus, lending me a copy from his own library.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Narrator",
+    "text": "8. Apollonius taught me true freedom and unbreakable determination. He taught me to rely on nothing but reason, even in the smallest matters. He showed me how to stay perfectly steady through excruciating pain, the loss of a child, or a long illness. He was a living example of how a person can be both incredibly resilient and completely adaptable. He was always patient when explaining things. You could see that he considered his skill in teaching philosophy to be the least of his talents. From him, I learned how to accept favors from friends without losing my self-respect and without seeming ungrateful.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Narrator",
+    "text": "9. Sextus was my role model for a kind and gentle temper. His household was the perfect example of a family led by true fatherly love and a firm commitment to living according to nature. From him, I learned how to be serious without being fake. I learned how to carefully observe the moods and needs of my friends. He taught me to be patient with the ignorant and with those who follow popular opinions without thinking for themselves. He knew how to adapt to anyone and any situation. Spending time with him was more enjoyable than any flattery, yet he commanded the deepest respect from everyone around him. He had an incredible talent for discovering, understanding, and organizing the essential rules of life. His example showed me how to completely suppress anger and any other intense emotion. Even with his perfect calmness, he had the most tender and loving heart. He was quick to praise others, but did so quietly. He possessed vast knowledge, but never showed it off.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "Narrator",
+    "text": "10. Alexander the Grammarian taught me not to criticize people. He showed me not to embarrass others when they used bad grammar, awkward phrasing, or mispronounced a word. Instead, he taught me to tactfully use the correct word in my reply. I learned to focus on the topic itself rather than the mistake, gently offering the right expression or finding some other polite way to guide them.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Narrator",
+    "text": "11. Fronto opened my eyes to the jealousy, deceit, and hypocrisy that surround kings. He helped me see that the people we call nobles often lack basic human affection.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Narrator",
+    "text": "12. Alexander the Platonist taught me not to constantly tell people, or write in letters, that I am too busy. He showed me not to use urgent business as an excuse to dodge the responsibilities we owe to our family, friends, and community.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Narrator",
+    "text": "13. Catulus taught me never to dismiss a friend's complaint, even if it seems unfair. Instead, I should try to restore our relationship to how it was before. He taught me to speak of my teachers with wholehearted praise, just as people remember Domitius and Athenodorus doing. He also taught me to love my children with true, deep affection.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Narrator",
+    "text": "14. My brother Severus taught me to love my family, truth, and justice. Through him, I learned about Thrasea, Helvidius, Cato, Dion, and Brutus. He gave me my first vision of a republic built on fair laws and equal rights, and a monarchy that prioritizes the freedom of its citizens. From him, I learned to stay devoted to philosophy. He taught me to be generous, giving with all my heart, and to stay optimistic. He showed me how to trust in the love of my friends. He was always honest about what he disliked in others. His behavior was so open and straightforward that his friends never had to guess what he wanted or felt.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Narrator",
+    "text": "15. The advice of Maximus taught me self-control and clear judgment. He showed me how to stay brave during sickness and other hardships. He taught me to be gentle but serious, and to do my duty without complaining. Everyone believed that he meant exactly what he said, and that everything he did was done with good intentions. I never saw him surprised or shocked by anything. He was never in a rush, never backed down from his goals, and never seemed confused or depressed. He wasn't quick to fake a smile, but he was never angry or suspicious either. He was always ready to do good, to forgive, and to tell the truth. He came across as a man who was naturally good, rather than someone who had to be fixed. No one ever felt belittled by Maximus, and no one ever dared to think they were better than him. He also had a great sense of humor.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "role": "Narrator",
+    "text": "16. From my father, I learned to be gentle and perfectly consistent in my decisions, once I had thought them through. He taught me not to be arrogant about worldly glory, and to be hardworking and persistent. He showed me to listen carefully to anyone who had an idea for the public good, and to give everyone exactly what they deserved. He knew exactly when to be strict and when to be forgiving. He taught me to avoid all impure desires and to treat everyone with basic human decency. He gave his friends the freedom to join him for dinner or travel with him only if they wanted to. If urgent business kept them away, he never held it against them. I learned from him to be careful and patient in meetings; he never settled for first impressions. I noticed how he kept his friends without being overly attached or easily changing his mind. He was happy in every situation and always cheerful. He planned far ahead and handled the smallest details quietly, without making a fuss. He put a stop to public cheering and flattery. He constantly watched over the needs of the Empire, managed public money carefully, and ignored the people who criticized him for doing so. He wasn't superstitious about the gods, and he didn't try to win over the public by chasing popularity. Instead, he was steady, sensible, and focused on what was honorable, never chasing after the newest trends. He enjoyed the luxuries of life without pride or guilt. When they were available, he enjoyed them simply. When they weren't, he didn't miss them. No one could ever call him a fake, a clown, or a show-off. He was a mature, complete man who couldn't be manipulated. He knew how to govern himself just as well as he governed others. He deeply respected true philosophers, without insulting the fakes or letting them lead him astray. He was easy to talk to and his company was delightful, but never overwhelming. He took sensible care of his body, neither obsessing over his health and looks nor neglecting them. Because he took care of himself, he rarely needed medicine. His greatest quality was how he gladly stepped aside for anyone with a special talent, like great speakers or experts in law and history. He actively helped them so they could be recognized for their unique skills. He respected the old traditions without making a big show of it. He wasn't restless; he liked staying in the same places and doing the same work. Even after terrible headaches, he would get right back to his duties with fresh energy. He kept very few secrets, and only when they involved matters of the state. He was sensible and modest when throwing public events, building projects, or handing out bonuses. He always focused on what was right, not on the applause he might get. He didn't bathe at strange hours, had no obsession with fancy buildings, and didn't care about gourmet food, the color of his clothes, or the good looks of his servants. His clothes were mostly made of Lanuvian wool, or from his coastal villa at Lorium. We all remember how gently he treated the tax collector at Tusculum who begged for his forgiveness. That was how he always behaved. He was never cruel, unforgiving, or violent. He never did anything so intensely that you could say he was sweating over it. He thought everything through calmly, logically, and consistently, as if he had all the time in the world. You could honestly say of him what was said of Socrates: he knew how to enjoy things that most people can't handle having, and he knew how to go without things that most people can't stand losing. To be strong when you go without, and self-controlled when you enjoy things, these are the marks of a perfect, unbeatable soul, just like the one Maximus showed when he was sick.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "role": "Narrator",
+    "text": "17. I thank the gods that I had wonderful grandparents and parents, a good sister, excellent teachers, reliable servants, good relatives, and great friends. I am grateful that I never hurt any of them out of anger or carelessness, even though my temper could have easily pushed me to do so if the situation had arisen. Thanks to their goodness, I was never put in a position that exposed my weakness. I am also thankful that I didn't spend too much time being raised by my grandfather's mistress. I am glad I kept my innocence and waited longer than most before experiencing sexual pleasure. I owe it to the gods that I grew up under a ruler and father who stripped away all my vanity. He proved to me that a leader can live in a palace without bodyguards, fancy robes, torches, statues, or endless luxury. He showed me that a ruler can live almost like an ordinary citizen without losing the dignity and authority needed to govern. I thank the gods for giving me a brother whose character pushed me to be better, while his respect and love brought me so much joy. I am grateful that my children are mentally healthy and physically strong. I owe it to divine guidance that I didn't get too far into poetry, public speaking, or other hobbies. If I had been successful at them, they might have completely consumed my life. By the grace of the gods, I quickly promoted the people who raised me to the positions they wanted. I didn't make them wait and hope I would do it later when I was older. I thank the gods that I got to know Apollonius, Rusticus, and Maximus. I am grateful for the many clear opportunities I have had to think deeply about what it really means to live according to Nature. As far as the gods are concerned, with all their help, inspiration, and guidance, there is nothing stopping me from living that life right now. If I have fallen short, it is my own fault for ignoring the gentle reminders and direct lessons of the gods. I am thankful that my body has held up so long under the extreme stress of my life. I am grateful that I never got involved with Benedicta or Theodotus, and that when I later fell into foolish passions, I recovered quickly. I give thanks that, even when I was furious with Rusticus, I never did anything I would later regret. I am grateful that my mother, though she died young, spent her final years living with me. I am thankful that whenever I wanted to help someone who was poor or struggling, I was never told we didn't have the money to do it. I am also glad that I never had to beg for that kind of help myself. I must be grateful that I have a wife who is so obedient, loving, and genuine. I am thankful I found such capable and honorable people to educate my children. I have received divine help in my dreams, particularly the remedies that stopped me from coughing up blood and cured my dizziness, which wonderfully happened to me at Caieta. The gods also watched over me when I first turned to philosophy. I am so glad I didn't fall for some fake intellectual, waste my time reading endless books, obsess over logical puzzles, or spend my life staring at the stars. To have all these things turn out so well, I truly needed the help of fortune and the gods.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "role": "Narrator",
+    "text": "Written in the country of the Quadi, by the Granua.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "role": "Narrator",
+    "text": "End of Book 1.",
+    "is_header": false
+  }
+]

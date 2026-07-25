@@ -1,0 +1,416 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Book 3",
+    "is_header": false
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "Telemachus Visits Nestor at Pylos",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Narrator",
+    "text": "As the sun rose from the beautiful sea, casting its light on mortals and gods alike, they arrived at Pylos, the city of Neleus. The people of Pylos were gathered on the shore, sacrificing black bulls to Poseidon, god of earthquakes. Nine groups, each with five hundred men, offered nine bulls each. As they ate the inner organs and burned the thigh bones on the embers in Poseidon's name, Telemachus and his crew arrived. They lowered their sails, anchored their ship, and went ashore.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Narrator",
+    "text": "Athena led the way, and Telemachus followed. Athena said,",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Female",
+    "text": "Telemachus, don't be shy or nervous at all. You've made this journey to find out where your father is buried and how he died. So go straight to Nestor and let's hear what he has to tell us. Beg him to tell the truth. He's a good man, so he won't lie.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Narrator",
+    "text": "Telemachus replied,",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Male",
+    "text": "Mentor, how can I possibly approach Nestor? And what should I say to him? I've never had a long conversation with anyone before. I'm ashamed to start questioning someone so much older than me.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "Narrator",
+    "text": "Athena answered,",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Female",
+    "text": "Telemachus, some things your own instincts will tell you, and the heavens will teach you even more. I'm sure the gods have been with you since the day you were born.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Narrator",
+    "text": "Athena walked quickly, and Telemachus followed her. They arrived where the Pylian people were gathered. There, they saw Nestor sitting with his sons. People around them were busy preparing dinner. Some were putting meat on spits, while others were cooking it. When the strangers were spotted, people crowded around them, took their hands, and invited them to sit. Nestor's son, Pisistratus, immediately greeted each of them and seated them on soft sheepskins laid on the sand near his father and brother, Thrasymedes. Then he gave them portions of the inner organs and poured wine into a golden cup for them. He handed the cup to Athena first, greeting her as he did so.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Narrator",
+    "text": "Pisistratus said,",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Male",
+    "text": "Sir, please offer a prayer to King Poseidon. You're joining his feast right now. Once you've prayed and made your drink offering, pass the cup to your friend so he can do the same. I'm sure he also raises his hands in prayer, for humans cannot live without the gods in this world. Still, he is younger than you and about my age, so I will give you the honor of going first.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Narrator",
+    "text": "As he spoke, he handed her the cup. Athena thought it was very right and proper of him to offer the cup to her first. She then began to pray sincerely to Poseidon. She cried out,",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "role": "Female",
+    "text": "Oh, god who encircles the earth, please hear the prayers of your servants who call upon you. We especially beg you to bless Nestor and his sons. Also, grant the rest of the Pylian people a fitting reward for the excellent sacrifices they are offering you. Finally, allow Telemachus and me to happily achieve the purpose that brought us to Pylos in our ship.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "role": "Narrator",
+    "text": "After finishing her prayer, Athena handed the cup to Telemachus, and he prayed in the same way. Soon after, when the outer meats were roasted and taken off the spits, the carvers gave everyone their share, and they all enjoyed an excellent dinner. Once they had eaten and drunk their fill, Nestor, the knight of Gerene, began to speak.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "role": "Narrator",
+    "text": "He said,",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "role": "Male",
+    "text": "Now that our guests have finished their dinner, it would be good to ask who they are. Gentlemen, who are you, and from what port have you sailed? Are you merchants? Or do you roam the seas like pirates, hostile to everyone, with everyone's hand against you?",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "role": "Narrator",
+    "text": "Telemachus answered boldly. Athena had given him the courage to ask about his father and make a name for himself.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "role": "Narrator",
+    "text": "He said,",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "role": "Child",
+    "text": "Nestor, son of Neleus, glory of the Achaeans, you ask where we come from, and I will tell you. We are from Ithaca, beneath Mount Neritum. The matter I wish to speak about is private, not public. I am searching for news of my unhappy father, Odysseus. He is said to have sacked the city of Troy alongside you. We know what fate befell the other heroes who fought at Troy, but as for Odysseus, the heavens haven't even told us if he's dead. No one can say for sure where he died, whether he fell in battle on land or drowned at sea amidst Amphitrite's waves. Therefore, I beg you on my knees, if you could possibly tell me about his sad end. Whether you saw it with your own eyes or heard it from another traveler. He was a man born for trouble. Don't soften anything out of pity for me. Just tell me plainly and honestly exactly what you saw. If my brave father Odysseus ever served you Achaeans faithfully, in word or deed, when you were troubled by the Trojans, please remember that now for my sake and tell me everything truthfully.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "role": "Narrator",
+    "text": "Nestor replied, \"My friend, you remind me of a time filled with much sorrow. The brave Achaeans suffered greatly at sea while raiding under Achilles, and just as much fighting before King Priam's great city. All our finest warriors fell there. Ajax, Achilles, Patroclus, who was as wise as the gods, and even my own dear son Antilochus, who was incredibly swift-footed and brave in battle. But we suffered far more than that. What mortal tongue could possibly tell the whole story? Even if you stayed here and questioned me for five or even six years, I couldn't tell you everything the Achaeans endured. You'd grow tired of my tale and head home before it ended. For nine long years, we tried every kind of trick and strategy, but the will of the heavens was against us. During all that time, no one could compare to your father in cleverness. If you truly are his son, that is. I can hardly believe my eyes. You speak so much like him. No one would think that people of such different ages could speak so similarly. He and I never had any disagreements, from start to finish, whether in camp or in council. With one heart and purpose, we advised the Argives on how to arrange everything for the best.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "role": "Narrator",
+    "text": "\"However, after we sacked Priam's city and set sail as the gods scattered us, Zeus decided to make the Argives suffer on their journey home. Not all of them had been wise or understanding, so many met a terrible end due to the displeasure of Athena, daughter of Zeus. Athena caused a quarrel between the two sons of Atreus.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "role": "Narrator",
+    "text": "\"The sons of Atreus called a meeting, but it wasn't a proper one. The sun had set, and the Achaeans were heavy with wine. When they explained why they had gathered the people, Menelaus insisted they should sail home at once. This displeased Agamemnon, who believed they should wait and offer sacrifices to calm Athena's anger. Foolishly, he should have known he couldn't sway her. The gods don't easily change their minds once they've decided something. So the two exchanged harsh words, and the Achaeans leaped to their feet with a cry that tore through the air. They were divided, unsure of what to do.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "role": "Narrator",
+    "text": "\"That night, we rested and let our anger cool, for Zeus was plotting trouble against us. But in the morning, some of us launched our ships and loaded our goods and women aboard. About half of us stayed behind with Agamemnon. We, the other half, boarded our ships and sailed. The ships sailed smoothly because the heavens had calmed the sea. When we reached Tenedos, we offered sacrifices to the gods, longing to get home. However, cruel Zeus had no intention of letting us do so yet, and he stirred up a second quarrel. During this, some of us turned our ships back and sailed with Odysseus to make peace with Agamemnon. But I, and all the ships with me, pressed onward, for I saw trouble brewing. Tydeus's son also went on with me, and his crew. Later, Menelaus joined us at Lesbos and found us trying to decide our course. We didn't know whether to go outside Chios, keeping the island of Psyra to our left, or inside Chios, past the stormy headland of Mimas. So we asked the heavens for a sign, and we received one: we would be safest and quickest out of danger if we steered our ships across the open sea toward Euboea. That's what we did, and a fair wind sprang up, giving us a swift passage through the night to Geraestus. There, we offered many sacrifices to Poseidon for helping us so far on our journey. Four days later, Diomed and his men docked their ships in Argos, but I continued on to Pylos. The wind never died down from the day the heavens first granted me a fair breeze.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "role": "Child",
+    "text": "So, my dear young friend, I returned without hearing any news about the others. I don't know who made it home safely or who was lost. But I will tell you everything I know, without holding anything back. These are the reports I've heard since I returned to my own house here. They say the Myrmidons returned home safely under Achilles' son, Neoptolemus. The valiant son of Poias, Philoctetes, did too. Idomeneus lost no men at sea, and all his followers who escaped death in battle returned safely with him to Crete. No matter how far from the world you live, you must have heard about Agamemnon and the terrible end he met at the hands of Aegisthus. And Aegisthus soon paid a fearful price. See what a good thing it is for a man to leave a son behind, to do as Orestes did, who killed the wicked Aegisthus, the murderer of his noble father. You, too, are a tall, smart-looking young man. Show your courage and make a name for yourself in history!",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "role": "Narrator",
+    "text": "Telemachus replied,",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "role": "Child",
+    "text": "Nestor, son of Neleus, glory of the Achaeans, the Achaeans praise Orestes, and his name will be remembered forever. He nobly avenged his father. How I wish the heavens would grant me similar revenge against the arrogance of these wicked suitors, who are mistreating me and plotting my downfall! But the gods have not prepared such happiness for me and my father, so we must endure it as best we can.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "role": "Narrator",
+    "text": "Nestor said,",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "role": "Female",
+    "text": "My friend, now that you remind me, I recall hearing about your mother. She has many suitors who are hostile to you and are ruining your estate. Are you just putting up with this, or are public opinion and the will of the gods against you? Who knows, Odysseus might return after all and make these scoundrels pay in full, either by himself or with an army of Achaeans behind him! If Athena were to like you as much as she liked Odysseus when we fought before Troy – and I've never seen the gods so openly fond of anyone as Athena was of your father then – if she would take as good care of you as she did of him, these suitors would soon give up their wooing.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "role": "Male",
+    "text": "I can't expect anything like that,",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "role": "Narrator",
+    "text": "Telemachus replied.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "role": "Male",
+    "text": "It's too big a dream, too much to even imagine. Even if the gods themselves wanted it, such good fortune would never come my way.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "role": "Female",
+    "text": "Telemachus, what are you saying?",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "role": "Narrator",
+    "text": "Athena asked.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "role": "Female",
+    "text": "Heaven has a long reach when it decides to save someone. If it were me, I wouldn't care how much I suffered on the journey, as long as I could finally reach home safely. I'd rather face hardship and then be safe, than rush home only to be murdered in my own house, like Agamemnon was by the betrayal of Aegisthus and his wife. But remember, death is certain. When a person's time comes, not even the gods can save them, no matter how much they care.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "role": "Male",
+    "text": "Mentor,",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "role": "Narrator",
+    "text": "Telemachus replied,",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "role": "Male",
+    "text": "let's not talk about that anymore. There's no chance my father will ever return; the gods decided his fate long ago. But there's something else I want to ask Nestor. He knows more than anyone else. People say he's been king for three generations, so it's like talking to an immortal. So, Nestor, please tell me the truth: How did Agamemnon die that way? What was Menelaus doing then? And how did that cunning Aegisthus manage to kill a man so much better than himself? Was Menelaus away from Achaean Argos, sailing to other lands, which gave Aegisthus the courage to kill Agamemnon?",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "role": "Female",
+    "text": "I'll tell you the truth,",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "role": "Narrator",
+    "text": "Nestor replied.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "role": "Female",
+    "text": "In fact, you've already guessed how it all happened. If Menelaus had returned from Troy and found Aegisthus still alive in his house, Aegisthus wouldn't even have a burial mound. Even in death, he would have been tossed outside the city, food for dogs and vultures. Not a single woman would have mourned him, because his deed was so wicked. But we were far away, fighting fiercely at Troy. Meanwhile, Aegisthus was living comfortably in the heart of Argos, using endless flattery to charm Agamemnon's wife, Clytemnestra.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "role": "Female",
+    "text": "At first, Clytemnestra wanted nothing to do with his evil plan. She was naturally a good woman. Plus, Agamemnon had left a bard with her, strictly ordering him to watch over his wife while he was away at Troy. But when the gods decided her downfall, Aegisthus dragged the bard to a deserted island and left him there to be eaten by crows and seagulls. After that, Clytemnestra willingly went to Aegisthus's house. Aegisthus then offered many sacrifices to the gods and decorated countless temples with tapestries and gold. He had succeeded far beyond his wildest dreams.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "role": "Female",
+    "text": "Meanwhile, Menelaus and I were sailing home from Troy, getting along well. When we reached Sunium, the tip of Athens, the god Apollo struck down Phrontis, Menelaus's helmsman, with a deadly arrow. Phrontis was the best at handling a ship in rough weather, and he died right there, still gripping the helm. Menelaus was eager to press on, but he had to wait to bury his comrade and give him proper funeral rites. Soon after, he could set sail again. When he reached the Malean headlands, Zeus sent misfortune his way, stirring up fierce winds that made the waves rise like mountains. Here, Menelaus split his fleet. Half of it headed towards Crete, where the Cydonians live near the Iardanus River. There's a high headland there, stretching into the sea from a place called Gortyn. Along this coast, all the way to Phaestus, the sea gets rough when a south wind blows. But past Phaestus, the coast is safer, with a small headland offering great shelter. Here, part of the fleet crashed against the rocks and was wrecked, though the crews barely saved themselves. The other five ships were swept by winds and waves to Egypt. There, Menelaus collected much gold and treasure among people who spoke a strange language. Back home, Aegisthus was busy with his evil plot. After killing Agamemnon, he ruled Mycenae for seven years, and the people obeyed him. But in the eighth year, Orestes returned from Athens to be his doom. He killed his father's murderer. Then, Orestes held a feast for the people of Argos to announce the deaths of his mother and the cunning Aegisthus. On that very day, Menelaus arrived home, his ships laden with as much treasure as they could carry.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "role": "Male",
+    "text": "So, listen to my advice. Don't travel too far from home for too long, and don't leave your property to those dangerous people in your house. They'll devour everything you own, and your journey will be for nothing. Still, I strongly urge you to visit Menelaus. He recently returned from a voyage to lands so distant that no one thought a man could ever come back once the winds had carried him so far off course. Even birds couldn't fly that distance in a year; the seas he crossed were vast and terrifying. So, go to him by sea, and take your own men. Or, if you prefer to travel by land, I can give you a chariot and horses, and my sons will escort you to Lacedaemon, where Menelaus lives. Ask him to tell you the truth. He is an honorable man and won't lie to you.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "role": "Narrator",
+    "text": "As Nestor spoke, the sun set and darkness fell. Athena then said,",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "role": "Female",
+    "text": "Sir, everything you've said is wise. Now, please order the tongues of the sacrificed animals to be cut, and mix the wine so we can pour offerings to Poseidon and the other immortal gods. Then, it's time for bed. At religious festivals, people should leave early and not stay up late.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "role": "Narrator",
+    "text": "When Athena, daughter of Zeus, finished speaking, they all obeyed her words. Male servants poured water over the guests' hands, while young attendants filled the mixing bowls with wine and water. They passed the bowls around, allowing each man to make his drink offering. Then, they threw the tongues of the sacrificed animals into the fire and stood to pour their offerings. After they had made their offerings and drunk as much as they wished, Athena and Telemachus prepared to board their ship. But Nestor quickly stopped them.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "role": "Child",
+    "text": "By heaven and the immortal gods!",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "role": "Narrator",
+    "text": "Nestor exclaimed.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "role": "Child",
+    "text": "I forbid you to leave my house and go back to your ship! Do you think I'm so poor, so short on clothes, or that I have so few cloaks that I can't provide comfortable beds for myself and my guests? Let me tell you, I have plenty of rugs and cloaks. As long as I live, I will not allow the son of my old friend Odysseus to sleep on a ship's deck. My sons, after me, will also keep an open house, just as I have.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "role": "Narrator",
+    "text": "Athena replied,",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "role": "Child",
+    "text": "Sir, you've spoken well. It would be much better for Telemachus to do as you've suggested. So, he will return with you and sleep at your house. But I must go back to give orders to my crew and keep their spirits high. I am the only older person among them; the rest are all young men, Telemachus's age, who joined this voyage out of friendship. So, I must return to the ship and sleep there. Besides, tomorrow I need to go to the Cauconians. They owe me a large sum of money that's been due for a long time. As for Telemachus, since he is now your guest, please send him to Lacedaemon in a chariot, and let one of your sons go with him. I would also be grateful if you could provide your best and fastest horses.",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "role": "Narrator",
+    "text": "As she finished speaking, Athena flew away in the form of an eagle. Everyone watched, amazed by the sight. Nestor was astonished. He took Telemachus's hand.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "role": "Child",
+    "text": "My friend,",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "role": "Narrator",
+    "text": "he said,",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "role": "Child",
+    "text": "you are still so young, yet the gods watch over you like this. It's clear you're destined to be a great hero someday. That could have been no one else among the sky-dwellers but Athena, the mighty daughter of Zeus, born of Triton. She showed such favor to your brave father among the Argives. Holy queen,",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "role": "Narrator",
+    "text": "he continued,",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "role": "Child",
+    "text": "please grant your grace upon me, my good wife, and my children. In return, I will offer you a sacrifice: a broad-browed heifer, one year old, unbroken, and never yet yoked by man. I will gild her horns and offer her up to you.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "role": "Narrator",
+    "text": "As Nestor prayed, Athena heard him. He then led his sons and sons-in-law back to his house. Once they arrived and settled onto the benches and seats, Nestor mixed them a bowl of sweet wine. It was eleven years old when the housekeeper had first opened its jar. As he mixed the wine, he prayed fervently and poured drink offerings to Athena, daughter of aegis-bearing Zeus. After they had made their offerings and drunk as much as they wished, the others went home to their own beds. But Nestor had Telemachus sleep in the room above the gateway, alongside Pisistratus, who was his only unmarried son remaining. Nestor himself slept in an inner room of the house, with his wife, the queen, by his side.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "role": "Narrator",
+    "text": "When rosy-fingered Dawn, child of morning, appeared, Nestor rose from his bed. He sat on the benches of white, polished marble in front of his house. Long ago, Neleus, whose wisdom rivaled the gods, used to sit there. But Neleus was now dead, gone to the house of Hades. So, Nestor sat in his place, holding his scepter as guardian of the people's welfare. His sons—Echephron, Stratius, Perseus, Aretus, and Thrasymedes—came out of their rooms and gathered around him. The sixth son was Pisistratus. When Telemachus joined them, they made him sit with them. Then, Nestor spoke to his sons.",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "role": "Female",
+    "text": "My sons,",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "role": "Narrator",
+    "text": "he said,",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "role": "Female",
+    "text": "hurry and do as I command you. First and foremost, I want to honor the great goddess Athena, who appeared to me in person during yesterday's festivities. So, one of you, go to the plain and tell the stockman to find a heifer and bring it here immediately. Another must go to Telemachus's ship and invite all the crew, leaving only two men to guard the vessel. Someone else, run and fetch Laerceus the goldsmith to gild the heifer's horns. The rest of you, stay right here. Tell the maids in the house to prepare an excellent dinner and to bring seats and logs of wood for a burnt offering. Also, tell them to bring me some clear spring water.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "role": "Narrator",
+    "text": "They quickly set off to carry out their tasks. The heifer was led in from the plain, and Telemachus's crew arrived from the ship. The goldsmith brought his anvil, hammer, and tongs for working gold, and the goddess Athena herself appeared to accept the sacrifice. Nestor provided the gold, and the smith gilded the heifer's horns, making them beautiful enough to please the goddess. Then, Stratius and Echephron led the heifer by its horns. Aretus brought water from the house in a patterned ewer, carrying a basket of barley meal in his other hand. Strong Thrasymedes stood ready with a sharp axe to strike the heifer, while Perseus held a bucket. Nestor began by washing his hands and sprinkling barley meal. He offered many prayers to Athena as he threw a lock of hair from the heifer's head onto the fire.",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "role": "Narrator",
+    "text": "After they finished praying and sprinkling the barley meal, Thrasymedes struck. With a single blow, he cut through the tendons at the base of the heifer's neck, bringing her down. Nestor's daughters, daughters-in-law, and his respected wife, Eurydice (who was Clymenus's eldest daughter), all cried out with joy. They lifted the heifer's head from the ground, and Pisistratus slit her throat. Once all the blood had drained and she was completely dead, they butchered the animal. In order, they cut out all the thigh bones, wrapped them in two layers of fat, and placed pieces of raw meat on top. Nestor then laid these on the wood fire and poured wine over them. The young men stood nearby, holding five-pronged spits. After the thigh bones were burned and they had tasted the inner meats, they cut the remaining meat into small pieces, skewered them, and roasted them over the fire.",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "role": "Narrator",
+    "text": "Meanwhile, Nestor's youngest daughter, the beautiful Polycaste, bathed Telemachus. After she washed and anointed him with oil, she brought him a fine cloak and shirt. When Telemachus emerged from his bath and sat beside Nestor, he looked like a god. Once the outer meats were cooked, they took them off the spits and sat down to dinner. Loyal servants attended them, continuously pouring wine into golden cups. As soon as they had eaten and drunk their fill, Nestor said,",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "role": "Child",
+    "text": "Sons, harness Telemachus's horses to the chariot so he can depart at once.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "role": "Narrator",
+    "text": "As he spoke, they quickly harnessed the swift horses to the chariot as he had instructed. The housekeeper packed provisions of bread, wine, and sweet treats, fit for the sons of princes. Telemachus climbed into the chariot, and Pisistratus took the reins, sitting beside him. He whipped the horses, and they galloped eagerly into the open country, leaving the high citadel of Pylos behind them. They traveled all day, the yoke swaying on the horses' necks, until the sun set and darkness covered the land. Then they reached Pherae, the home of Diocles, son of Ortilochus and grandson of Alpheus. They spent the night there, and Diocles welcomed them with generous hospitality. When rosy-fingered Dawn, child of morning, appeared, they again yoked their horses and drove out through the gateway beneath the echoing gatehouse. Pisistratus lashed the horses, and they flew forward without hesitation. Soon, they reached the rich farmlands of the open country, and thanks to their swift steeds, they completed their journey in good time.",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "role": "Narrator",
+    "text": "Now the sun had set, and darkness covered the land.",
+    "is_header": false
+  }
+]

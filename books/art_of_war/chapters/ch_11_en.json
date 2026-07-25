@@ -1,0 +1,1052 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Chapter Eleven. The Nine Situations",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "1. Sun Tzu said: The art of war recognizes nine varieties of ground: (1) Dispersive; (2) Facile; (3) Contentious; (4) Open; (5) Intersecting highways; (6) Serious; (7) Difficult; (8) Hemmed-in; (9) Desperate.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Narrator",
+    "text": "2. When a commander fights in his own territory, it is dispersive ground.\n> Du Mu:",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Male",
+    "text": "In their advance, they will lack the valor of desperation, and when they retreat, they will find harbors of refuge.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Narrator",
+    "text": "> *Explanation:* Fighting close to home creates a psychological weakness; soldiers are easily tempted to scatter and seek the safety of their nearby homes instead of committing to the battle.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Narrator",
+    "text": "3. When an army penetrates shallowly into hostile territory, it is facile ground.\n> Li Quan and He Shi:",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Male",
+    "text": "Because of the facility for retreating.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "Narrator",
+    "text": "> *Explanation:* Being too close to the border makes falling back tempting. This ease of retreat undermines the army's resolve.\n> Du Mu:",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Male",
+    "text": "When your army has crossed the border, you should burn your boats and bridges, in order to make it clear to everybody that you have no hankering after home.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Narrator",
+    "text": "> *Explanation:* A commander must deliberately cut off easy escape routes to force the army to commit entirely to the campaign without looking back.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Narrator",
+    "text": "4. Ground that offers great advantage to whoever holds it is contentious ground.\n> Du Mu:",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Male",
+    "text": "Ground to be contended for.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Narrator",
+    "text": "> *Explanation:* This refers to crucial strategic choke points or high ground that dictate the flow of the battle.\n> Cao Cao:",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "role": "Male",
+    "text": "Ground on which the few and the weak can defeat the many and the strong.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "role": "Narrator",
+    "text": "> *Explanation:* Terrain so inherently advantageous that it acts as a force multiplier, allowing a smaller force to overpower a much larger one.\n> Li Quan:",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "role": "Male",
+    "text": "Such as the neck of a pass.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "role": "Narrator",
+    "text": "> *Explanation:* A narrow chokepoint where numerical superiority is neutralized.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "role": "Narrator",
+    "text": "5. Ground where both sides have freedom of movement is open ground.\n> Cao Cao:",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "role": "Male",
+    "text": "Ground covered with a network of roads.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "role": "Narrator",
+    "text": "> *Explanation:* Terrain that allows for rapid maneuverability and deployment in any direction.\n> He Shi:",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "role": "Male",
+    "text": "Ground on which intercommunication is easy.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "role": "Narrator",
+    "text": "> *Explanation:* Flat, unobstructed terrain where orders and supplies can flow freely.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "role": "Narrator",
+    "text": "6. Ground that forms the key intersection between three contiguous states, so that whoever occupies it first controls most of the Empire, is ground of intersecting highways.\n> Cao Cao:",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "role": "Male",
+    "text": "Our country adjoining the enemy's and a third country conterminous with both.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "role": "Narrator",
+    "text": "> *Explanation:* A vital geopolitical crossroads. Controlling it allows one to dictate terms to neighboring states and control regional trade and movement.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "role": "Narrator",
+    "text": "7. When an army penetrates deep into hostile territory, leaving many fortified cities behind it, it is serious ground.\n> Wang Xi:",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "role": "Male",
+    "text": "When an army has reached such a point, its situation is serious.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "role": "Narrator",
+    "text": "> *Explanation:* The army's supply lines are stretched thin and highly vulnerable, making survival entirely dependent on pressing forward.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "role": "Narrator",
+    "text": "8. Mountain forests, rugged steeps, marshes, and fens—any difficult terrain to traverse—is difficult ground.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "role": "Narrator",
+    "text": "9. Ground accessed through narrow gorges and exited only by tortuous paths, allowing a small enemy force to crush a large body of our men, is hemmed-in ground.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "role": "Narrator",
+    "text": "10. Ground where an army can only survive by fighting immediately and desperately is desperate ground.\n> Cao Cao:",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "role": "Male",
+    "text": "A lofty mountain in front, a large river behind, advance impossible, retreat blocked.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "role": "Narrator",
+    "text": "> *Explanation:* Total entrapment. The environment itself offers no escape.\n> Chen Hao:",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "role": "Male",
+    "text": "To be on 'desperate ground' is like sitting in a leaking boat or crouching in a burning house.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "role": "Narrator",
+    "text": "> *Explanation:* A metaphor for imminent destruction where inaction guarantees death. The only way out is immediate, aggressive action.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "role": "Narrator",
+    "text": "11. Therefore, do not fight on dispersive ground. Do not halt on facile ground. Do not attack on contentious ground.\n> Cao Cao:",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "role": "Male",
+    "text": "Let all your energies be bent on occupying the advantageous position first.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "role": "Narrator",
+    "text": "> *Explanation:* Instead of attacking an enemy who already holds contentious ground, preemptively secure it yourself before they arrive.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "role": "Narrator",
+    "text": "12. Do not block the enemy's way on open ground. Form alliances on ground of intersecting highways.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "role": "Narrator",
+    "text": "13. Gather plunder and provisions on serious ground. Keep moving steadily on difficult ground.\n> Du Mu:",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "role": "Male",
+    "text": "When encamped on 'serious ground,' one ought to take measures for a protracted resistance by bringing in provisions from all sides, and keep a close watch on the enemy.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "role": "Narrator",
+    "text": "> *Explanation:* Deep in enemy territory, self-sufficiency is vital. You must forage to sustain the army as supply lines from home are too vulnerable.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "role": "Narrator",
+    "text": "14. Resort to stratagem on hemmed-in ground. Fight with everything you have on desperate ground.\n> Cao Cao:",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "role": "Male",
+    "text": "Try the effect of some unusual artifice.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "role": "Narrator",
+    "text": "> *Explanation:* Use deception and unconventional tactics to offset the terrain's disadvantage.\n> Du Yu:",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "role": "Male",
+    "text": "Some scheme must be devised which will suit the circumstances, and if we can succeed in deluding the enemy, the peril may be escaped.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "role": "Narrator",
+    "text": "> *Explanation:* When trapped, outright combat will fail; you must trick the enemy into opening a path.\n> Jia Lin:",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "role": "Male",
+    "text": "If you fight with all your might, there is a chance of life; whereas death is certain if you cling to your corner.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "role": "Narrator",
+    "text": "> *Explanation:* On desperate ground, hesitation is fatal. Only absolute, unbridled aggression offers a chance of survival.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "role": "Narrator",
+    "text": "15. Skilled commanders of the past knew how to drive a wedge between the enemy's front and rear.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "role": "Narrator",
+    "text": "16. They prevented cooperation between large and small divisions, hindered good troops from rescuing bad ones, and stopped officers from rallying their men.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "role": "Narrator",
+    "text": "17. When advantageous, they moved forward; when disadvantageous, they halted.\n> Mei Yaochen:",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "role": "Male",
+    "text": "Having succeeded in thus dislocating the enemy, they would push forward in order to secure any advantage to be gained; if there was no advantage to be gained, they would remain where they were.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "role": "Narrator",
+    "text": "> *Explanation:* A commander must be opportunistic but never reckless. Action is only taken when success is assured.",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "role": "Narrator",
+    "text": "18. If asked how to handle a massive, organized enemy host ready to attack, I say: Seize something they hold dear, and they will submit to your will.\n> Cao Cao:",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "role": "Male",
+    "text": "Some strategical advantage on which the enemy is depending.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "role": "Narrator",
+    "text": "> *Explanation:* Target their vital supply depots, families, or key infrastructure. \n> Du Mu:",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "role": "Male",
+    "text": "The three things which an enemy is anxious to do are: (1) to capture our favourable positions; (2) to ravage our cultivated land; (3) to guard his own communications.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "role": "Narrator",
+    "text": "> *Explanation:* Identify what the enemy values most and threaten it. This forces them to abandon their offensive plans and react to your moves.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "role": "Narrator",
+    "text": "19. Speed is the essence of war: exploit the enemy's unreadiness, take unexpected routes, and strike unguarded targets.\n> Du Mu:",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "role": "Male",
+    "text": "These are the profoundest truths of military science, and the chief business of the general.",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "role": "Narrator",
+    "text": "> *Explanation:* Initiative and momentum are more powerful than sheer numbers. Striking before the enemy can prepare guarantees victory.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "role": "Narrator",
+    "text": "20. The principles for an invading force are: the deeper you penetrate, the more unified your troops become, making it harder for defenders to prevail.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "role": "Narrator",
+    "text": "21. Forage in fertile country to keep your army fed.",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "role": "Narrator",
+    "text": "22. Carefully manage your men's well-being and do not overtax them. Conserve your energy, keep your army moving, and devise unfathomable plans.\n> Wang Xi:",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "role": "Male",
+    "text": "Pet them, humor them, give them plenty of food and drink, and look after them generally.",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "role": "Narrator",
+    "text": "> *Explanation:* A commander must ensure the physical and mental peak condition of the troops before asking them to perform the impossible.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "role": "Narrator",
+    "text": "23. Throw your soldiers into positions with no escape, and they will prefer death to flight. When facing death, they will achieve the impossible, and officers and men alike will exhaust their utmost strength.\n> Zhang Yu:",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "role": "Male",
+    "text": "A desperado and a man who sets some value on his life do not meet on even terms. If they are in an awkward place together, they will surely exert their united strength to get out of it.",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "role": "Narrator",
+    "text": "> *Explanation:* Removing the option of escape transforms ordinary soldiers into an unstoppable force out of sheer survival instinct.",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "role": "Narrator",
+    "text": "24. In desperate straits, soldiers lose fear. With no refuge, they stand firm. Deep in hostile territory, they show a stubborn front. When there is no alternative, they fight hard.",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "role": "Narrator",
+    "text": "25. Thus, without needing to be organized, they are constantly vigilant; without being asked, they execute your will; without restrictions, they remain faithful; without orders, they can be trusted.",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "role": "Narrator",
+    "text": "26. Prohibit superstitions and omens, and banish doubts. Then, until death, they will fear no calamity.\n> Du Mu:",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "role": "Male",
+    "text": "If all doubts and scruples are discarded, your men will never falter in their resolution until they die.",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "role": "Narrator",
+    "text": "> *Explanation:* Eliminate any psychological factors, like bad omens or rumors, that could breed hesitation or fear.",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "role": "Narrator",
+    "text": "27. If our soldiers are not weighed down with wealth, it is not because they disdain riches; if their lives are short, it is not because they dislike longevity.\n> Zhang Yu:",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "role": "Male",
+    "text": "Wealth and long life are things for which all men have a natural inclination. Hence, if they burn or fling away valuables, and sacrifice their own lives, it is not that they dislike them, but simply that they have no choice.",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "role": "Narrator",
+    "text": "> *Explanation:* The soldiers abandon earthly attachments not out of noble asceticism, but because extreme situational pressure demands complete focus on immediate survival.",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "role": "Narrator",
+    "text": "28. On the day they march to battle, your soldiers may weep—those sitting soaking their garments, and those lying down letting tears run down their cheeks. But once brought to bay, they will display the courage of legendary heroes.\n> Cao Cao:",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "role": "Male",
+    "text": "All have embraced the firm resolution to do or die.",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "role": "Narrator",
+    "text": "> *Explanation:* The initial fear of death gives way to extraordinary courage once the reality of the situation sets in and retreat is no longer an option.",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "role": "Narrator",
+    "text": "29. A skilled tactician is like the *shuaijan* snake of the Chang mountains. Strike its head, and you are attacked by its tail; strike its tail, and you are attacked by its head; strike its middle, and you are attacked by both.",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "role": "Narrator",
+    "text": "30. Can an army be made to imitate the *shuaijan*? Yes. Even mortal enemies like the men of Wu and Yue will help each other like the left and right hands if caught in a storm while crossing a river in the same boat.\n> Mei Yaochen:",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "role": "Male",
+    "text": "Is it possible to make the front and rear of an army each swiftly responsive to attack on the other, just as though they were part of a single living body?",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "role": "Narrator",
+    "text": "> *Explanation:* True cohesion is achieved when mutual survival depends on absolute cooperation, transcending any prior rivalries.",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "role": "Narrator",
+    "text": "31. Therefore, tethering horses and burying chariot wheels is not enough to ensure your army holds its ground.",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "role": "Narrator",
+    "text": "32. The principle of managing an army is to establish a single standard of courage that everyone must meet.",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "role": "Narrator",
+    "text": "33. Making the best use of both strong and weak troops is a matter of properly utilizing the ground.\n> Mei Yaochen:",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "role": "Male",
+    "text": "The way to eliminate the differences of strong and weak and to make both serviceable is to utilize accidental features of the ground.",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "role": "Narrator",
+    "text": "> *Explanation:* Good terrain acts as a great equalizer. A weak unit holding a narrow pass can effectively neutralize a much stronger enemy force.",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "role": "Narrator",
+    "text": "34. A skilled general leads his army as easily as taking a single man by the hand.\n> Du Mu:",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "role": "Male",
+    "text": "The simile has reference to the ease with which he does it.",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "role": "Narrator",
+    "text": "> *Explanation:* A masterful commander instills such discipline and unity that commanding a massive army feels as effortless as guiding one person.",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "role": "Narrator",
+    "text": "35. A general must be quiet to ensure secrecy, and upright and just to maintain order.",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "role": "Narrator",
+    "text": "36. He must mystify his officers and men with false reports and appearances, keeping them in total ignorance.\n> Cao Cao:",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "role": "Male",
+    "text": "The troops must not be allowed to share your schemes in the beginning; they may only rejoice with you over their happy outcome.",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "role": "Narrator",
+    "text": "> *Explanation:* Information must be strictly siloed. If troops don't know the overarching plan, they cannot leak it or second-guess the commander's decisions.",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "role": "Narrator",
+    "text": "37. By altering his arrangements, changing his plans, shifting his camp, and taking circuitous routes, he keeps the enemy and his own troops from anticipating his purpose.\n> Wang Xi:",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "role": "Male",
+    "text": "Not using the same stratagem twice.",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "role": "Narrator",
+    "text": "> *Explanation:* Predictability is fatal. A commander must constantly innovate and adapt to keep the enemy guessing.\n> Zhang Yu:",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "role": "Male",
+    "text": "You must deceive even your own soldiers. Make them follow you, but without letting them know why.",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "role": "Narrator",
+    "text": "> *Explanation:* Total operational security requires blinding your own forces to the grand strategy so their natural reactions do not betray your intent.",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "role": "Narrator",
+    "text": "38. At the critical moment, the leader acts like one who climbs high and kicks away the ladder. He leads his men deep into hostile territory before showing his hand.",
+    "is_header": false
+  },
+  {
+    "id": 104,
+    "role": "Narrator",
+    "text": "39. He burns his boats and smashes his cooking pots. Like a shepherd driving a flock, he drives his men this way and that, and none know where they are going.\n> Du Mu:",
+    "is_header": false
+  },
+  {
+    "id": 105,
+    "role": "Male",
+    "text": "The army is only cognizant of orders to advance or retreat; it is ignorant of the ulterior ends of attacking and conquering.",
+    "is_header": false
+  },
+  {
+    "id": 106,
+    "role": "Narrator",
+    "text": "> *Explanation:* The soldiers act as pure instruments of the commander's will, driven entirely by necessity and direct orders, untroubled by grand strategic concerns.",
+    "is_header": false
+  },
+  {
+    "id": 107,
+    "role": "Narrator",
+    "text": "40. To muster his host and bring it into danger—this is the true business of the general.",
+    "is_header": false
+  },
+  {
+    "id": 108,
+    "role": "Narrator",
+    "text": "41. The specific measures for the nine varieties of ground, the expediency of aggressive or defensive tactics, and the fundamental laws of human nature must be thoroughly studied.\n> Zhang Yu:",
+    "is_header": false
+  },
+  {
+    "id": 109,
+    "role": "Male",
+    "text": "One must not be hide-bound in interpreting the rules for the nine varieties of ground.",
+    "is_header": false
+  },
+  {
+    "id": 110,
+    "role": "Narrator",
+    "text": "> *Explanation:* The rules of terrain are guidelines, not dogma. A commander must flexibly adapt them based on human psychology and shifting circumstances.",
+    "is_header": false
+  },
+  {
+    "id": 111,
+    "role": "Narrator",
+    "text": "42. When invading hostile territory, penetrating deeply brings cohesion; penetrating shallowly brings dispersion.",
+    "is_header": false
+  },
+  {
+    "id": 112,
+    "role": "Narrator",
+    "text": "43. When you cross into neighboring territory, you are on critical ground. When roads intersect on all sides, it is ground of intersecting highways.",
+    "is_header": false
+  },
+  {
+    "id": 113,
+    "role": "Narrator",
+    "text": "44. Deep penetration is serious ground. Shallow penetration is facile ground.",
+    "is_header": false
+  },
+  {
+    "id": 114,
+    "role": "Narrator",
+    "text": "45. With strongholds behind and narrow passes ahead, it is hemmed-in ground. With no refuge at all, it is desperate ground.",
+    "is_header": false
+  },
+  {
+    "id": 115,
+    "role": "Narrator",
+    "text": "46. Therefore, on dispersive ground, I would inspire unity of purpose. On facile ground, I would ensure close connection between all parts of the army.\n> Du Mu:",
+    "is_header": false
+  },
+  {
+    "id": 116,
+    "role": "Male",
+    "text": "Guard against the desertion of our own troops, and a sudden attack on the part of the enemy.",
+    "is_header": false
+  },
+  {
+    "id": 117,
+    "role": "Narrator",
+    "text": "> *Explanation:* When troops are uncommitted, maintaining strict formation and discipline prevents them from scattering at the first sign of trouble.\n> Mei Yaochen:",
+    "is_header": false
+  },
+  {
+    "id": 118,
+    "role": "Male",
+    "text": "On the march, the regiments should be in close touch; in an encampment, there should be continuity between the fortifications.",
+    "is_header": false
+  },
+  {
+    "id": 119,
+    "role": "Narrator",
+    "text": "> *Explanation:* Physical proximity reinforces psychological resolve. Ensure units are closely knit to deter desertion and repel sudden strikes.",
+    "is_header": false
+  },
+  {
+    "id": 120,
+    "role": "Narrator",
+    "text": "47. On contentious ground, I would hurry up my rear.\n> Zhang Yu:",
+    "is_header": false
+  },
+  {
+    "id": 121,
+    "role": "Male",
+    "text": "We must quickly bring up our rear, so that head and tail may both reach the goal.",
+    "is_header": false
+  },
+  {
+    "id": 122,
+    "role": "Narrator",
+    "text": "> *Explanation:* Speed is paramount. The entire force must occupy the advantageous terrain simultaneously to secure it effectively.\n> Mei Yaochen:",
+    "is_header": false
+  },
+  {
+    "id": 123,
+    "role": "Male",
+    "text": "Supposing the enemy has not yet reached the coveted position, and we are behind him, we should advance with all speed in order to dispute its possession.",
+    "is_header": false
+  },
+  {
+    "id": 124,
+    "role": "Narrator",
+    "text": "> *Explanation:* If the enemy is closer to the key terrain, aggressive and rapid movement is required to intercept them before they can dig in.",
+    "is_header": false
+  },
+  {
+    "id": 125,
+    "role": "Narrator",
+    "text": "48. On open ground, I would maintain strict defenses. On intersecting highways, I would consolidate alliances.",
+    "is_header": false
+  },
+  {
+    "id": 126,
+    "role": "Narrator",
+    "text": "49. On serious ground, I would secure a continuous stream of supplies. On difficult ground, I would keep pushing forward.",
+    "is_header": false
+  },
+  {
+    "id": 127,
+    "role": "Narrator",
+    "text": "50. On hemmed-in ground, I would block any way of retreat.\n> Meng Shi:",
+    "is_header": false
+  },
+  {
+    "id": 128,
+    "role": "Male",
+    "text": "To make it seem that I meant to defend the position, whereas my real intention is to burst suddenly through the enemy's lines.",
+    "is_header": false
+  },
+  {
+    "id": 129,
+    "role": "Narrator",
+    "text": "> *Explanation:* Feigning a defensive posture can trick the enemy into lowering their guard, setting up a devastating breakout maneuver.\n> Mei Yaochen:",
+    "is_header": false
+  },
+  {
+    "id": 130,
+    "role": "Male",
+    "text": "In order to make my soldiers fight with desperation.",
+    "is_header": false
+  },
+  {
+    "id": 131,
+    "role": "Narrator",
+    "text": "> *Explanation:* Intentionally sealing off your own retreat forces your troops to fight with the absolute ferocity of cornered animals.\n> Wang Xi:",
+    "is_header": false
+  },
+  {
+    "id": 132,
+    "role": "Male",
+    "text": "Fearing lest my men be tempted to run away.",
+    "is_header": false
+  },
+  {
+    "id": 133,
+    "role": "Narrator",
+    "text": "> *Explanation:* Removing the option of retreat removes the temptation of cowardice.",
+    "is_header": false
+  },
+  {
+    "id": 134,
+    "role": "Narrator",
+    "text": "51. On desperate ground, I would proclaim to my soldiers that saving their lives is hopeless. For it is a soldier's disposition to offer obstinate resistance when surrounded, to fight hard when helpless, and to obey promptly when in danger.\n> Du Yu:",
+    "is_header": false
+  },
+  {
+    "id": 135,
+    "role": "Male",
+    "text": "Burn your baggage and impedimenta, throw away your stores and provisions, choke up the wells, destroy your cooking-stoves, and make it plain to your men that they cannot survive, but must fight to the death.",
+    "is_header": false
+  },
+  {
+    "id": 136,
+    "role": "Narrator",
+    "text": "> *Explanation:* The physical destruction of essential supplies acts as an undeniable psychological trigger, forcing total commitment to the imminent battle.\n> Mei Yaochen:",
+    "is_header": false
+  },
+  {
+    "id": 137,
+    "role": "Male",
+    "text": "The only chance of life lies in giving up all hope of it.",
+    "is_header": false
+  },
+  {
+    "id": 138,
+    "role": "Narrator",
+    "text": "> *Explanation:* Paradoxically, accepting death allows soldiers to fight with such fearless intensity that they actually secure their survival.",
+    "is_header": false
+  },
+  {
+    "id": 139,
+    "role": "Narrator",
+    "text": "52. We cannot ally with neighboring princes until we know their designs. We cannot march without knowing the terrain—mountains, forests, pitfalls, and swamps. We cannot use natural advantages without local guides.",
+    "is_header": false
+  },
+  {
+    "id": 140,
+    "role": "Narrator",
+    "text": "53. Ignorance of any of these principles is unbefitting for a warlike prince.",
+    "is_header": false
+  },
+  {
+    "id": 141,
+    "role": "Narrator",
+    "text": "54. When a warlike prince attacks a powerful state, he prevents the enemy from concentrating their forces. He overawes his opponents, stopping their allies from joining them.\n> Mei Yaochen:",
+    "is_header": false
+  },
+  {
+    "id": 142,
+    "role": "Female",
+    "text": "In attacking a powerful state, if you can divide her forces, you will have a superiority in strength; if you have a superiority in strength, you will overawe the enemy; if you overawe the enemy, the neighbouring states will be frightened; and if the neighbouring states are frightened, the enemy's allies will be prevented from joining her.",
+    "is_header": false
+  },
+  {
+    "id": 143,
+    "role": "Narrator",
+    "text": "> *Explanation:* A rapid, decisive strike shatters the enemy's cohesion and creates a cascading effect of fear, isolating them strategically and diplomatically.",
+    "is_header": false
+  },
+  {
+    "id": 144,
+    "role": "Narrator",
+    "text": "55. Hence he does not seek broad alliances, nor does he foster the power of other states. He carries out his own secret designs, keeping antagonists in awe. Thus he captures their cities and overthrows their kingdoms.",
+    "is_header": false
+  },
+  {
+    "id": 145,
+    "role": "Narrator",
+    "text": "56. Bestow rewards and issue orders without regard to fixed rules or previous arrangements, and you can handle an entire army as though it were a single man.\n> Wang Xi:",
+    "is_header": false
+  },
+  {
+    "id": 146,
+    "role": "Male",
+    "text": "In order to prevent treachery.",
+    "is_header": false
+  },
+  {
+    "id": 147,
+    "role": "Narrator",
+    "text": "> *Explanation:* Unpredictability in rewards and punishments prevents soldiers from game-playing the system or forming subversive factions.\n> Cao Cao:",
+    "is_header": false
+  },
+  {
+    "id": 148,
+    "role": "Male",
+    "text": "Give instructions only on sighting the enemy; give rewards when you see deserving deeds.",
+    "is_header": false
+  },
+  {
+    "id": 149,
+    "role": "Narrator",
+    "text": "> *Explanation:* Immediate, context-specific action ensures that rewards feel earned and orders are highly relevant, maximizing their impact.\n> Jia Lin:",
+    "is_header": false
+  },
+  {
+    "id": 150,
+    "role": "Male",
+    "text": "There should be no fixity in your rules and arrangements.",
+    "is_header": false
+  },
+  {
+    "id": 151,
+    "role": "Narrator",
+    "text": "> *Explanation:* A dynamic leadership style keeps the army highly responsive and adaptable to the commander's immediate will.",
+    "is_header": false
+  },
+  {
+    "id": 152,
+    "role": "Narrator",
+    "text": "57. Confront your soldiers with the task, but never reveal your design. When the outlook is bright, show it to them; when it is gloomy, tell them nothing.",
+    "is_header": false
+  },
+  {
+    "id": 153,
+    "role": "Narrator",
+    "text": "58. Plunge your army into deadly peril, and it will survive; put it in desperate straits, and it will emerge safely.",
+    "is_header": false
+  },
+  {
+    "id": 154,
+    "role": "Narrator",
+    "text": "59. It is precisely when a force is in harm's way that it can strike a blow for victory.",
+    "is_header": false
+  },
+  {
+    "id": 155,
+    "role": "Narrator",
+    "text": "60. Success in war is gained by carefully accommodating ourselves to the enemy's purpose.\n> Cao Cao:",
+    "is_header": false
+  },
+  {
+    "id": 156,
+    "role": "Male",
+    "text": "Feign stupidity.",
+    "is_header": false
+  },
+  {
+    "id": 157,
+    "role": "Narrator",
+    "text": "> *Explanation:* Pretending to be ignorant or weak lulls the enemy into a false sense of security, causing them to overextend or make fatal mistakes.\n> Zhang Yu:",
+    "is_header": false
+  },
+  {
+    "id": 158,
+    "role": "Male",
+    "text": "If the enemy shows an inclination to advance, lure him on to do so; if he is anxious to retreat, delay on purpose that he may carry out his intention.",
+    "is_header": false
+  },
+  {
+    "id": 159,
+    "role": "Narrator",
+    "text": "> *Explanation:* Exploit the enemy's existing momentum. Guide their natural inclinations into a trap rather than fighting against them head-on.",
+    "is_header": false
+  },
+  {
+    "id": 160,
+    "role": "Narrator",
+    "text": "61. By persistently hanging on the enemy's flank, we will eventually succeed in killing their commander-in-chief.",
+    "is_header": false
+  },
+  {
+    "id": 161,
+    "role": "Narrator",
+    "text": "62. This is called achieving results through sheer cunning and adaptability.",
+    "is_header": false
+  },
+  {
+    "id": 162,
+    "role": "Narrator",
+    "text": "63. On the day you take command, block frontier passes, destroy official passports, and stop all emissaries from passing.",
+    "is_header": false
+  },
+  {
+    "id": 163,
+    "role": "Narrator",
+    "text": "64. Be stern in the council-chamber so that you maintain complete control of the situation.\n> Mei Yaochen:",
+    "is_header": false
+  },
+  {
+    "id": 164,
+    "role": "Male",
+    "text": "Take the strictest precautions to ensure secrecy in your deliberations.",
+    "is_header": false
+  },
+  {
+    "id": 165,
+    "role": "Narrator",
+    "text": "> *Explanation:* Absolute authority and airtight secrecy at the top level prevent leaks and guarantee that the strategic vision remains uncompromised.",
+    "is_header": false
+  },
+  {
+    "id": 166,
+    "role": "Narrator",
+    "text": "65. If the enemy leaves a door open, you must rush in.",
+    "is_header": false
+  },
+  {
+    "id": 167,
+    "role": "Narrator",
+    "text": "66. Forestall your opponent by seizing what he holds dear, and subtly manipulate the timing of his arrival.\n> Chen Hao:",
+    "is_header": false
+  },
+  {
+    "id": 168,
+    "role": "Male",
+    "text": "He who intends to occupy a position of importance to the enemy, must begin by making an artful appointment, so to speak, with his antagonist, and cajole him into going there as well.",
+    "is_header": false
+  },
+  {
+    "id": 169,
+    "role": "Narrator",
+    "text": "> *Explanation:* Dictate the terms of engagement. Lure the enemy into a predetermined kill zone on a schedule that benefits you, not them.",
+    "is_header": false
+  },
+  {
+    "id": 170,
+    "role": "Narrator",
+    "text": "67. Walk in the path defined by rule, and accommodate yourself to the enemy until you can fight a decisive battle.\n> Jia Lin:",
+    "is_header": false
+  },
+  {
+    "id": 171,
+    "role": "Male",
+    "text": "Victory is the only thing that matters, and this cannot be achieved by adhering to conventional canons.",
+    "is_header": false
+  },
+  {
+    "id": 172,
+    "role": "Narrator",
+    "text": "> *Explanation:* Dogma is the enemy of success. True mastery lies in recognizing when to break the rules to secure a win.\n> Du Mu:",
+    "is_header": false
+  },
+  {
+    "id": 173,
+    "role": "Male",
+    "text": "Conform to the enemy's tactics until a favourable opportunity offers; then come forth and engage in a battle that shall prove decisive.",
+    "is_header": false
+  },
+  {
+    "id": 174,
+    "role": "Narrator",
+    "text": "> *Explanation:* Play along with the enemy's expectations. Be passive and predictable until the precise moment their guard drops, then strike with overwhelming, decisive force.",
+    "is_header": false
+  },
+  {
+    "id": 175,
+    "role": "Narrator",
+    "text": "68. At first, exhibit the coyness of a maiden until the enemy gives you an opening; then, emulate the speed of a running hare, and it will be too late for the enemy to oppose you.",
+    "is_header": false
+  }
+]
