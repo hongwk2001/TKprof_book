@@ -85,7 +85,6 @@ def txt_to_html(text, title, ch_id=""):
         f"  <link rel=\"stylesheet\" href=\"../Styles/main.css\" type=\"text/css\"/>",
         f"</head>",
         f"<body>",
-        f"  <h1>{title}</h1>",
     ]
     
     first_p = True
@@ -170,21 +169,14 @@ def build_epub():
 
     chapters_data = []
     
-    chapter_titles = [
-        "제1부: 편지 I–IV",
-        "제2부: 제1장–4장",
-        "제3부: 제5장–8장",
-        "제4부: 제9장–12장",
-        "제5부: 제13장–16장",
-        "제6부: 제17장–20장",
-        "제7부: 제21장–24장"
-    ]
-
-    for i in range(7):
+    for i in range(1, 29):
         ch_str = str(i).zfill(2)
         txt_file = os.path.join(CHAPTERS_DIR, f"ch_{ch_str}_ko.txt")
         text = read_txt(txt_file)
-        title = chapter_titles[i]
+        if i <= 4:
+            title = f"편지 {i}"
+        else:
+            title = f"제{i-4}장"
         chapters_data.append((ch_str, title, text))
 
     with zipfile.ZipFile(OUTPUT_FILE, "w", zipfile.ZIP_DEFLATED) as z:
