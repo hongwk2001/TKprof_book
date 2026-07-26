@@ -73,6 +73,6 @@ flowchart LR
 
 ## 📊 Production Stats
 
-- **Translation/Refinement Subagent Passes**: 203 runs
-- **Translation/Splitting Script Executions**: 59 runs
+- **Translation/Refinement Subagent Passes**: 333 runs
+- **Translation/Splitting Script Executions**: 60 runs
 
