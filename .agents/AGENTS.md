@@ -21,6 +21,8 @@
 
 - **Subagents for Translation & Modernization**: Avoid calling external APIs directly via scripts (such as `modernize_book.py` or `translate_book.py` using Gemini API keys) to avoid quota and key limits. Instead, define and spawn a specialized subagent to process chapters or text segments. You MUST run translation, editing, and text refinement tasks using the latest high-tier reasoning/pro model (`pro`) to ensure literary quality.
 
+- **Clarifying Modernization Prompts**: When modernizing texts for ESL or easy-listening (TTS) purposes, avoid pairing conflicting directives like "preserve historical/gothic tone" with "simplify vocabulary." Directives must prioritize contemporary clarity and clear English as the primary constraint to ensure the model successfully simplifies archaic structures.
+
 
 
 
