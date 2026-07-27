@@ -22,7 +22,5 @@
 - **Subagents for Translation & Modernization**: Avoid calling external APIs directly via scripts (such as `modernize_book.py` or `translate_book.py` using Gemini API keys) to avoid quota and key limits. Instead, define and spawn a specialized subagent to process chapters or text segments. You MUST run translation, editing, and text refinement tasks using the latest high-tier reasoning/pro model (`pro`) to ensure literary quality.
 
 - **Clarifying Modernization Prompts**: When modernizing texts for ESL or easy-listening (TTS) purposes, avoid pairing conflicting directives like "preserve historical/gothic tone" with "simplify vocabulary." Directives must prioritize contemporary clarity and clear English as the primary constraint to ensure the model successfully simplifies archaic structures.
-
-
-
+- **KDP Publishing Forms**: When advising the user on publishing or preparing metadata for the Amazon Kindle Store, always consult and use the form structure and high-converting title formula defined in [kdp_publishing_form.md](file:///d:/git_repo/TKprof_book/notes/kdp_publishing_form.md).
 
