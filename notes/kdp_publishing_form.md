@@ -71,7 +71,7 @@ Copy this blank form for any new book publication:
 *   **KDP Book Title**: `Stoic Essays on Life and Happiness: Modernized Edition`
 *   **KDP Subtitle**: `Seneca's Guides on Time and Joy (A Conversational Adaptation for Self-Discipline, Focus, and Inner Peace)`
 *   **Author**: `Lucius Annaeus Seneca`
-*   **Target Price**: `$2.99` (70% Royalty Tier)
+*   **Target Price**: `$7.99` (70% Royalty Tier)
 *   **KDP Categories**:
     1.  `Philosophy ➔ Stoicism`
     2.  `Self-Help ➔ Personal Growth ➔ Happiness`

@@ -5,7 +5,7 @@
 - **Author**: Lucius Annaeus Seneca
 - **Publisher**: TKPROF LLC
 - **Publication Date**: 2026
-- **eBook Target Price**: $2.99
+- **eBook Target Price**: $7.99
 - **Categories / Genres**: 
   - Non-Fiction > Philosophy > Stoicism
   - Self-Help > Personal Growth > Happiness
