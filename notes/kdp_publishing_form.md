@@ -26,6 +26,7 @@ Copy this blank form for any new book publication:
 ### [Book Title - Project Name]
 *   **KDP Book Title**: 
 *   **KDP Subtitle**: 
+*   **Author (First & Last Name)**: 
 *   **Target Price**: 
 *   **KDP Categories (List 2-3)**:
     1.  
@@ -49,6 +50,7 @@ Copy this blank form for any new book publication:
 ### 1. The Art of War
 *   **KDP Book Title**: `The Art of War: Modernized Edition`
 *   **KDP Subtitle**: `Sun Tzu's Ancient Strategy Masterpiece (A Conversational Adaptation for Leadership, Decision-Making, and Strategic Advantage)`
+*   **Author**: `Sun Tzu`
 *   **Target Price**: `$2.99` (70% Royalty Tier)
 *   **KDP Categories**:
     1.  `History ➔ Military ➔ Strategy`
@@ -68,6 +70,7 @@ Copy this blank form for any new book publication:
 ### 2. Stoic Essays on Life and Happiness (Seneca)
 *   **KDP Book Title**: `Stoic Essays on Life and Happiness: Modernized Edition`
 *   **KDP Subtitle**: `Seneca's Guides on Time and Joy (A Conversational Adaptation for Self-Discipline, Focus, and Inner Peace)`
+*   **Author**: `Lucius Annaeus Seneca`
 *   **Target Price**: `$2.99` (70% Royalty Tier)
 *   **KDP Categories**:
     1.  `Philosophy ➔ Stoicism`
@@ -87,6 +90,7 @@ Copy this blank form for any new book publication:
 ### 3. Frankenstein (Mary Shelley)
 *   **KDP Book Title**: `Frankenstein: Modernized Edition`
 *   **KDP Subtitle**: `Mary Shelley's Gothic Masterpiece (A Clear-Reading Adaptation for Easy Listening, Vocabulary Building, and Classic Horror)`
+*   **Author**: `Mary Shelley`
 *   **Target Price**: `$4.99` (70% Royalty Tier)
 *   **KDP Categories**:
     1.  `Fiction ➔ Classics`
