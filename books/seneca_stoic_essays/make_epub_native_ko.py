@@ -1,6 +1,6 @@
 """
-make_epub_native.py
-Compiles Sun Tzu's The Art of War (with Classic Commentators) into an English EPUB3 eBook directly using Python's zipfile.
+make_epub_native_ko.py
+Compiles Seneca's Stoic Essays (On the Shortness of Life & On Happiness) into a Korean EPUB3 eBook directly using Python's zipfile.
 """
 
 import os
@@ -12,13 +12,13 @@ from datetime import datetime, timezone
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 CHAPTERS_DIR = os.path.join(BASE_DIR, "chapters")
 IMAGES_DIR = os.path.join(BASE_DIR, "images")
-OUTPUT_FILE = os.path.join(BASE_DIR, "art_of_war_en.epub")
+OUTPUT_FILE = os.path.join(BASE_DIR, "seneca_stoic_essays_ko.epub")
 
 STYLE = """
 body {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'KoPub Batang', serif;
     font-size: 1em;
-    line-height: 1.6;
+    line-height: 1.7;
     margin: 1.5em 2em;
     color: #1a1a1a;
 }
@@ -29,7 +29,7 @@ h1 {
     text-align: center;
     margin-top: 2em;
     margin-bottom: 1em;
-    color: #2c1a0e;
+    color: #1c2d42;
 }
 
 h2 {
@@ -38,7 +38,7 @@ h2 {
     text-align: center;
     margin-top: 1.8em;
     margin-bottom: 1em;
-    color: #5a3e28;
+    color: #2c425e;
     text-transform: uppercase;
 }
 
@@ -51,19 +51,29 @@ p.no-indent {
     text-indent: 0;
 }
 
+.part-title {
+    text-align: center;
+    margin-top: 5em;
+}
+
+.part-title h1 {
+    font-size: 2.2em;
+    color: #1c2d42;
+    margin-bottom: 0.5em;
+}
+
+.part-title h2 {
+    font-size: 1.6em;
+    color: #2c425e;
+}
+
 blockquote {
     margin: 1em 0 1em 1.5em;
     padding: 0.6em 1em;
-    border-left: 4px solid #8b0000;
-    background-color: #fcf8f2;
+    border-left: 4px solid #1c2d42;
+    background-color: #f4f7fa;
     font-style: italic;
-    color: #333333;
-}
-
-blockquote strong {
-    font-style: normal;
-    color: #7a1c1c;
-    font-weight: bold;
+    color: #2c3e50;
 }
 
 .cover-img {
@@ -95,40 +105,18 @@ def txt_to_html(text, title):
     ]
     
     first_p = True
-    in_bq = False
-
     for line in lines:
         line_s = line.strip()
         if not line_s:
-            if in_bq:
-                html_parts.append("  </blockquote>")
-                in_bq = False
             continue
-
-        if line_s.startswith("# ") or line_s.startswith("Chapter ") or line_s.startswith("I.") or line_s.startswith("II.") or line_s.startswith("III."):
+        if line_s.startswith("Chapter ") or line_s.startswith("제") or line_s.startswith("# ") or (line_s.startswith("[") and line_s.endswith("]")):
             continue
             
-        if line_s.startswith(">"):
-            bq_content = line_s[1:].strip()
-            # Convert markdown **Name:** to <strong>Name:</strong>
-            bq_content = re.sub(r'\*\*(.*?)\*\*', r'<strong>\1</strong>', bq_content)
-            if not in_bq:
-                html_parts.append("  <blockquote>")
-                in_bq = True
-            html_parts.append(f"    <p class=\"no-indent\">{bq_content}</p>")
+        if first_p:
+            html_parts.append(f"  <p class=\"no-indent\">{line_s}</p>")
+            first_p = False
         else:
-            if in_bq:
-                html_parts.append("  </blockquote>")
-                in_bq = False
-
-            if first_p:
-                html_parts.append(f"  <p class=\"no-indent\">{line_s}</p>")
-                first_p = False
-            else:
-                html_parts.append(f"  <p>{line_s}</p>")
-
-    if in_bq:
-        html_parts.append("  </blockquote>")
+            html_parts.append(f"  <p>{line_s}</p>")
             
     html_parts.append("</body>\n</html>")
     return "\n".join(html_parts)
@@ -140,44 +128,38 @@ def build_epub():
     cover_path = os.path.join(IMAGES_DIR, "cover.jpg")
     has_cover = os.path.exists(cover_path)
 
-    intro_text = read_txt(os.path.join(BASE_DIR, "introduction_en.txt"))
-    overview_text = read_txt(os.path.join(BASE_DIR, "overview_en.txt"))
-    copyright_text = read_txt(os.path.join(BASE_DIR, "copyright_en.txt"))
+    intro_text = read_txt(os.path.join(BASE_DIR, "introduction_ko.txt"))
+    overview_text = read_txt(os.path.join(BASE_DIR, "overview_ko.txt"))
+    copyright_text = read_txt(os.path.join(BASE_DIR, "copyright_ko.txt"))
 
-    chapters_data = []
-    
-    # Load Biography (Chapter 0)
-    bio_path = os.path.join(CHAPTERS_DIR, "ch_00_en.txt")
-    if os.path.exists(bio_path):
-        chapters_data.append(("00", "Biography: The Life of Sun Tzu", read_txt(bio_path)))
-
-    chapter_titles = [
-        "Chapter I: Laying Plans",
-        "Chapter II: Waging War",
-        "Chapter III: Attack by Stratagem",
-        "Chapter IV: Tactical Dispositions",
-        "Chapter V: Energy",
-        "Chapter VI: Weak Points and Strong",
-        "Chapter VII: Maneuvering",
-        "Chapter VIII: Variation in Tactics",
-        "Chapter IX: The Army on the March",
-        "Chapter X: Terrain",
-        "Chapter XI: The Nine Situations",
-        "Chapter XII: The Attack by Fire",
-        "Chapter XIII: The Use of Spies"
-    ]
-
-    for i in range(1, 14):
+    part1_chapters = []
+    shortness_dir = os.path.join(CHAPTERS_DIR, "shortness_of_life")
+    for i in range(1, 21):
         ch_str = str(i).zfill(2)
-        txt_file = os.path.join(CHAPTERS_DIR, f"ch_{ch_str}_en.txt")
+        txt_file = os.path.join(shortness_dir, f"ch_{ch_str}_ko.txt")
         text = read_txt(txt_file)
-        title = chapter_titles[i-1]
-        chapters_data.append((ch_str, title, text))
+        
+        # In Korean chapters, we have titles like "[제1장: ...]" or similar
+        first_line = text.split("\n")[0].strip() if text else ""
+        if first_line.startswith("[") and first_line.endswith("]"):
+            title = first_line[1:-1].strip()
+        else:
+            title = f"제{i}장"
+        part1_chapters.append((f"shortness_ch_{ch_str}", f"shortness_ch_{ch_str}.xhtml", title, text))
 
-    # Load Appendix (Thirty-Six Stratagems)
-    app_path = os.path.join(CHAPTERS_DIR, "appendix_stratagems_en.txt")
-    if os.path.exists(app_path):
-        chapters_data.append(("appendix", "Appendix: The Thirty-Six Stratagems", read_txt(app_path)))
+    part2_chapters = []
+    happiness_dir = os.path.join(CHAPTERS_DIR, "on_happiness")
+    for i in range(1, 29):
+        ch_str = str(i).zfill(2)
+        txt_file = os.path.join(happiness_dir, f"ch_{ch_str}_ko.txt")
+        text = read_txt(txt_file)
+        
+        first_line = text.split("\n")[0].strip() if text else ""
+        if first_line.startswith("[") and first_line.endswith("]"):
+            title = first_line[1:-1].strip()
+        else:
+            title = f"제{i}장"
+        part2_chapters.append((f"happiness_ch_{ch_str}", f"happiness_ch_{ch_str}.xhtml", title, text))
 
     with zipfile.ZipFile(OUTPUT_FILE, "w", zipfile.ZIP_DEFLATED) as z:
         z.writestr("mimetype", "application/epub+zip", compress_type=zipfile.ZIP_STORED)
@@ -221,34 +203,83 @@ def build_epub():
             spine_items.append('<itemref idref="cover"/>')
 
         if intro_text:
-            z.writestr("OEBPS/Text/intro.xhtml", txt_to_html(intro_text, "Introduction"))
+            z.writestr("OEBPS/Text/intro.xhtml", txt_to_html(intro_text, "서문"))
             manifest_items.append('<item id="intro" href="Text/intro.xhtml" media-type="application/xhtml+xml"/>')
             spine_items.append('<itemref idref="intro"/>')
-            ncx_targets.append(("Introduction", "Text/intro.xhtml"))
-            nav_targets.append(("Introduction", "Text/intro.xhtml"))
+            ncx_targets.append(("서문", "Text/intro.xhtml"))
+            nav_targets.append(("서문", "Text/intro.xhtml"))
 
         if overview_text:
-            z.writestr("OEBPS/Text/overview.xhtml", txt_to_html(overview_text, "Overview of Chapters"))
+            z.writestr("OEBPS/Text/overview.xhtml", txt_to_html(overview_text, "도서 개요"))
             manifest_items.append('<item id="overview" href="Text/overview.xhtml" media-type="application/xhtml+xml"/>')
             spine_items.append('<itemref idref="overview"/>')
-            ncx_targets.append(("Overview of Chapters", "Text/overview.xhtml"))
-            nav_targets.append(("Overview of Chapters", "Text/overview.xhtml"))
+            ncx_targets.append(("도서 개요", "Text/overview.xhtml"))
+            nav_targets.append(("도서 개요", "Text/overview.xhtml"))
 
-        for ch_str, title, text in chapters_data:
-            filename = f"ch_{ch_str}.xhtml"
-            item_id = f"ch_{ch_str}"
+        # Part I Divider Page
+        part1_divider = """<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>제1부</title>
+  <link rel="stylesheet" href="../Styles/main.css" type="text/css"/>
+</head>
+<body>
+  <div class="part-title">
+    <h1>제1부</h1>
+    <h2>인생의 짧음에 대하여</h2>
+  </div>
+</body>
+</html>"""
+        z.writestr("OEBPS/Text/part1_intro.xhtml", part1_divider)
+        manifest_items.append('<item id="part1_intro" href="Text/part1_intro.xhtml" media-type="application/xhtml+xml"/>')
+        spine_items.append('<itemref idref="part1_intro"/>')
+        ncx_targets.append(("제1부: 인생의 짧음에 대하여", "Text/part1_intro.xhtml"))
+        nav_targets.append(("제1부: 인생의 짧음에 대하여", "Text/part1_intro.xhtml"))
+
+        # Part I Chapters
+        for item_id, filename, title, text in part1_chapters:
             z.writestr(f"OEBPS/Text/{filename}", txt_to_html(text, title))
             manifest_items.append(f'<item id="{item_id}" href="Text/{filename}" media-type="application/xhtml+xml"/>')
             spine_items.append(f'<itemref idref="{item_id}"/>')
-            ncx_targets.append((title, f"Text/{filename}"))
-            nav_targets.append((title, f"Text/{filename}"))
+            ncx_targets.append((f"  {title}", f"Text/{filename}"))
+            nav_targets.append((f"  {title}", f"Text/{filename}"))
+
+        # Part II Divider Page
+        part2_divider = """<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <title>제2부</title>
+  <link rel="stylesheet" href="../Styles/main.css" type="text/css"/>
+</head>
+<body>
+  <div class="part-title">
+    <h1>제2부</h1>
+    <h2>행복한 삶에 관하여</h2>
+  </div>
+</body>
+</html>"""
+        z.writestr("OEBPS/Text/part2_intro.xhtml", part2_divider)
+        manifest_items.append('<item id="part2_intro" href="Text/part2_intro.xhtml" media-type="application/xhtml+xml"/>')
+        spine_items.append('<itemref idref="part2_intro"/>')
+        ncx_targets.append(("제2부: 행복한 삶에 관하여", "Text/part2_intro.xhtml"))
+        nav_targets.append(("제2부: 행복한 삶에 관하여", "Text/part2_intro.xhtml"))
+
+        # Part II Chapters
+        for item_id, filename, title, text in part2_chapters:
+            z.writestr(f"OEBPS/Text/{filename}", txt_to_html(text, title))
+            manifest_items.append(f'<item id="{item_id}" href="Text/{filename}" media-type="application/xhtml+xml"/>')
+            spine_items.append(f'<itemref idref="{item_id}"/>')
+            ncx_targets.append((f"  {title}", f"Text/{filename}"))
+            nav_targets.append((f"  {title}", f"Text/{filename}"))
 
         if copyright_text:
-            z.writestr("OEBPS/Text/copyright.xhtml", txt_to_html(copyright_text, "Copyright & Credits"))
+            z.writestr("OEBPS/Text/copyright.xhtml", txt_to_html(copyright_text, "판권 및 저작권 정보"))
             manifest_items.append('<item id="copyright" href="Text/copyright.xhtml" media-type="application/xhtml+xml"/>')
             spine_items.append('<itemref idref="copyright"/>')
-            ncx_targets.append(("Copyright & Credits", "Text/copyright.xhtml"))
-            nav_targets.append(("Copyright & Credits", "Text/copyright.xhtml"))
+            ncx_targets.append(("판권 및 저작권 정보", "Text/copyright.xhtml"))
+            nav_targets.append(("판권 및 저작권 정보", "Text/copyright.xhtml"))
 
         manifest_str = "\n    ".join(manifest_items)
         spine_str = "\n    ".join(spine_items)
@@ -257,9 +288,9 @@ def build_epub():
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:identifier id="BookId">{book_id}</dc:identifier>
-    <dc:title>The Art of War (with Classic Commentators)</dc:title>
-    <dc:creator>Sun Tzu</dc:creator>
-    <dc:language>en</dc:language>
+    <dc:title>세네카의 인생과 행복에 관한 성찰</dc:title>
+    <dc:creator>루키우스 안나에우스 세네카</dc:creator>
+    <dc:language>ko</dc:language>
     <dc:publisher>TKPROF LLC</dc:publisher>
     <meta property="dcterms:modified">{pub_date}</meta>
   </metadata>
@@ -275,7 +306,7 @@ def build_epub():
         nav_points = []
         for idx, (label, src) in enumerate(ncx_targets, 1):
             nav_points.append(f"""    <navPoint id="navPoint-{idx}" playOrder="{idx}">
-      <navLabel><text>{label}</text></navLabel>
+      <navLabel><text>{label.strip()}</text></navLabel>
       <content src="{src}"/>
     </navPoint>""")
         nav_points_str = "\n".join(nav_points)
@@ -288,7 +319,7 @@ def build_epub():
     <meta name="dtb:totalPageCount" content="0"/>
     <meta name="dtb:maxPageNumber" content="0"/>
   </head>
-  <docTitle><text>The Art of War</text></docTitle>
+  <docTitle><text>세네카의 인생과 행복에 관한 성찰</text></docTitle>
   <navMap>
 {nav_points_str}
   </navMap>
@@ -297,19 +328,20 @@ def build_epub():
 
         nav_li = []
         for label, src in nav_targets:
-            nav_li.append(f'        <li><a href="{src}">{label}</a></li>')
+            style_attr = ' style="padding-left: 20px;"' if label.startswith("  ") else ""
+            nav_li.append(f'        <li{style_attr}><a href="{src}">{label.strip()}</a></li>')
         nav_li_str = "\n".join(nav_li)
 
         nav_xhtml = f"""<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
 <head>
-  <title>Table of Contents</title>
+  <title>목차</title>
   <link rel="stylesheet" href="Styles/main.css" type="text/css"/>
 </head>
 <body>
   <nav epub:type="toc" id="toc">
-    <h1>Table of Contents</h1>
+    <h1>목차</h1>
     <ol>
 {nav_li_str}
     </ol>

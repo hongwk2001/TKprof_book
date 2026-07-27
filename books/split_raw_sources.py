@@ -101,7 +101,7 @@ def split_frankenstein(text):
     letter_match = re.search(r"LETTER\s+I\b", text, re.I)
     start_letters = letter_match.start() if letter_match else 0
     
-    chapter_matches = list(re.finditer(r"\bChapter\s+([I|V|X|L]+)\b", text, re.I))
+    chapter_matches = list(re.finditer(r"\bChapter\s+(\d+|[I|V|X|L]+)\b", text, re.I))
     # Filter out TOC matches by checking if they are in the beginning
     actual_chapters = []
     for m in chapter_matches:
@@ -120,9 +120,10 @@ def split_frankenstein(text):
     boundaries = [start_letters]
     target_indices = [1, 5, 9, 13, 17, 21]
     
-    # Map roman numerals to their numeric values
+    # Map roman numerals and arabic numerals to their numeric values
     roman_map = {
-        "I": 1, "V": 5, "IX": 9, "XIII": 13, "XVII": 17, "XXI": 21
+        "I": 1, "V": 5, "IX": 9, "XIII": 13, "XVII": 17, "XXI": 21,
+        "1": 1, "5": 5, "9": 9, "13": 13, "17": 17, "21": 21
     }
     
     for target in target_indices:

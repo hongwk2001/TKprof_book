@@ -19,8 +19,9 @@ flowchart LR
 
 ---
 
-## 📋 Chapter Plan (13 Classical Chapters)
+## 📋 Chapter Plan (Biography, 13 Classical Chapters, and Appendix)
 
+- [x] `ch_00_en.txt`: Biography: The Life of Sun Tzu
 - [ ] `ch_01_en.txt`: Laying Plans (계획 / 始計)
 - [ ] `ch_02_en.txt`: Waging War (작전 / 作戰)
 - [ ] `ch_03_en.txt`: Attack by Stratagem (모공 / 謀攻)
@@ -34,6 +35,7 @@ flowchart LR
 - [ ] `ch_11_en.txt`: The Nine Situations (구지 / 九地)
 - [ ] `ch_12_en.txt`: The Attack by Fire (화공 / 火攻)
 - [ ] `ch_13_en.txt`: The Use of Spies (용간 / 用間)
+- [x] `appendix_stratagems_en.txt`: Appendix: The Thirty-Six Stratagems
 
 ---
 

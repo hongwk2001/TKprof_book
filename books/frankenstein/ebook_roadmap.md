@@ -26,34 +26,34 @@ flowchart LR
 
 ## 📋 Chapter Plan (28 Sequential Chapters)
 
-- [x] `ch_01_en.txt` / `ch_01_ko.txt`: Letter I
-- [x] `ch_02_en.txt` / `ch_02_ko.txt`: Letter II
-- [x] `ch_03_en.txt` / `ch_03_ko.txt`: Letter III
-- [x] `ch_04_en.txt` / `ch_04_ko.txt`: Letter IV
-- [x] `ch_05_en.txt` / `ch_05_ko.txt`: Chapter I
-- [x] `ch_06_en.txt` / `ch_06_ko.txt`: Chapter II
-- [x] `ch_07_en.txt` / `ch_07_ko.txt`: Chapter III
-- [x] `ch_08_en.txt` / `ch_08_ko.txt`: Chapter IV
-- [x] `ch_09_en.txt` / `ch_09_ko.txt`: Chapter V
-- [x] `ch_10_en.txt` / `ch_10_ko.txt`: Chapter VI
-- [x] `ch_11_en.txt` / `ch_11_ko.txt`: Chapter VII
-- [x] `ch_12_en.txt` / `ch_12_ko.txt`: Chapter VIII
-- [x] `ch_13_en.txt` / `ch_13_ko.txt`: Chapter IX
-- [x] `ch_14_en.txt` / `ch_14_ko.txt`: Chapter X
-- [x] `ch_15_en.txt` / `ch_15_ko.txt`: Chapter XI
-- [x] `ch_16_en.txt` / `ch_16_ko.txt`: Chapter XII
-- [x] `ch_17_en.txt` / `ch_17_ko.txt`: Chapter XIII
-- [x] `ch_18_en.txt` / `ch_18_ko.txt`: Chapter XIV
-- [x] `ch_19_en.txt` / `ch_19_ko.txt`: Chapter XV
-- [x] `ch_20_en.txt` / `ch_20_ko.txt`: Chapter XVI
-- [x] `ch_21_en.txt` / `ch_21_ko.txt`: Chapter XVII
-- [x] `ch_22_en.txt` / `ch_22_ko.txt`: Chapter XVIII
-- [x] `ch_23_en.txt` / `ch_23_ko.txt`: Chapter XIX
-- [x] `ch_24_en.txt` / `ch_24_ko.txt`: Chapter XX
-- [x] `ch_25_en.txt` / `ch_25_ko.txt`: Chapter XXI
-- [x] `ch_26_en.txt` / `ch_26_ko.txt`: Chapter XXII
-- [x] `ch_27_en.txt` / `ch_27_ko.txt`: Chapter XXIII
-- [x] `ch_28_en.txt` / `ch_28_ko.txt`: Chapter XXIV
+- [x] `1.Lt1_en.txt` / `1.Lt1_ko.txt`: Letter I
+- [x] `2.Lt2_en.txt` / `2.Lt2_ko.txt`: Letter II
+- [x] `3.Lt3_en.txt` / `3.Lt3_ko.txt`: Letter III
+- [x] `4.Lt4_en.txt` / `4.Lt4_ko.txt`: Letter IV
+- [x] `5.ch1_en.txt` / `5.ch1_ko.txt`: Chapter I
+- [x] `6.ch2_en.txt` / `6.ch2_ko.txt`: Chapter II
+- [x] `7.ch3_en.txt` / `7.ch3_ko.txt`: Chapter III
+- [x] `8.ch4_en.txt` / `8.ch4_ko.txt`: Chapter IV
+- [x] `9.ch5_en.txt` / `9.ch5_ko.txt`: Chapter V
+- [x] `10.ch6_en.txt` / `10.ch6_ko.txt`: Chapter VI
+- [x] `11.ch7_en.txt` / `11.ch7_ko.txt`: Chapter VII
+- [x] `12.ch8_en.txt` / `12.ch8_ko.txt`: Chapter VIII
+- [x] `13.ch9_en.txt` / `13.ch9_ko.txt`: Chapter IX
+- [x] `14.ch10_en.txt` / `14.ch10_ko.txt`: Chapter X
+- [x] `15.ch11_en.txt` / `15.ch11_ko.txt`: Chapter XI
+- [x] `16.ch12_en.txt` / `16.ch12_ko.txt`: Chapter XII
+- [x] `17.ch13_en.txt` / `17.ch13_ko.txt`: Chapter XIII
+- [x] `18.ch14_en.txt` / `18.ch14_ko.txt`: Chapter XIV
+- [x] `19.ch15_en.txt` / `19.ch15_ko.txt`: Chapter XV
+- [x] `20.ch16_en.txt` / `20.ch16_ko.txt`: Chapter XVI
+- [x] `21.ch17_en.txt` / `21.ch17_ko.txt`: Chapter XVII
+- [x] `22.ch18_en.txt` / `22.ch18_ko.txt`: Chapter XVIII
+- [x] `23.ch19_en.txt` / `23.ch19_ko.txt`: Chapter XIX
+- [x] `24.ch20_en.txt` / `24.ch20_ko.txt`: Chapter XX
+- [x] `25.ch21_en.txt` / `25.ch21_ko.txt`: Chapter XXI
+- [x] `26.ch22_en.txt` / `26.ch22_ko.txt`: Chapter XXII
+- [x] `27.ch23_en.txt` / `27.ch23_ko.txt`: Chapter XXIII
+- [x] `28.ch24_en.txt` / `28.ch24_ko.txt`: Chapter XXIV
 
 ---
 

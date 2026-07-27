@@ -4,7 +4,7 @@
 - **Subtitle**: The Ancient Strategy Masterpiece
 - **Author**: Sun Tzu (trans. Lionel Giles, Modernized Edition)
 - **Language**: English (`en`)
-- **Publisher**: Antigravity Classics
+- **Publisher**: TKPROF LLC
 - **Publication Date**: 2026
 - **Categories / Genres**: 
   - Non-Fiction > Military & Strategy

@@ -168,16 +168,19 @@ def build_epub():
     copyright_text = read_txt(os.path.join(BASE_DIR, "copyright_en.txt"))
 
     chapters_data = []
-    
     for i in range(1, 29):
-        ch_str = str(i).zfill(2)
-        txt_file = os.path.join(CHAPTERS_DIR, f"ch_{ch_str}_en.txt")
-        text = read_txt(txt_file)
         if i <= 4:
+            txt_file = os.path.join(CHAPTERS_DIR, f"{i}.Lt{i}_en.txt")
             title = f"Letter {i}"
+            filename = f"{i}.Lt{i}.xhtml"
+            item_id = f"Lt{i}"
         else:
+            txt_file = os.path.join(CHAPTERS_DIR, f"{i}.ch{i-4}_en.txt")
             title = f"Chapter {i-4}"
-        chapters_data.append((ch_str, title, text))
+            filename = f"{i}.ch{i-4}.xhtml"
+            item_id = f"ch{i-4}"
+        text = read_txt(txt_file)
+        chapters_data.append((filename, item_id, title, text))
 
     with zipfile.ZipFile(OUTPUT_FILE, "w", zipfile.ZIP_DEFLATED) as z:
         z.writestr("mimetype", "application/epub+zip", compress_type=zipfile.ZIP_STORED)
@@ -234,10 +237,8 @@ def build_epub():
             ncx_targets.append(("Overview of Chapters", "Text/overview.xhtml"))
             nav_targets.append(("Overview of Chapters", "Text/overview.xhtml"))
 
-        for ch_str, title, text in chapters_data:
-            filename = f"ch_{ch_str}.xhtml"
-            item_id = f"ch_{ch_str}"
-            z.writestr(f"OEBPS/Text/{filename}", txt_to_html(text, title, ch_id=ch_str))
+        for filename, item_id, title, text in chapters_data:
+            z.writestr(f"OEBPS/Text/{filename}", txt_to_html(text, title))
             manifest_items.append(f'<item id="{item_id}" href="Text/{filename}" media-type="application/xhtml+xml"/>')
             spine_items.append(f'<itemref idref="{item_id}"/>')
             ncx_targets.append((title, f"Text/{filename}"))

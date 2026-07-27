@@ -95,7 +95,7 @@ def main():
             process_track(raw_ch, final_ch)
 
     # 4. Closing Track
-    closing_text = "This concludes the audiobook of The Art of War, written by Sun Tzu, narrated by Andrew. Copyright 2026 by Antigravity Classics. All rights reserved."
+    closing_text = "This concludes the audiobook of The Art of War, written by Sun Tzu, narrated by Andrew. Copyright 2026 by TKPROF LLC. All rights reserved."
     raw_closing = os.path.join(TEMP_DIR, "raw_closing.mp3")
     final_closing = os.path.join(FINAL_DIR, f"final_track_15_closing.mp3")
     print("Generating Closing Track...")

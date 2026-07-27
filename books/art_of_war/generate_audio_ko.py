@@ -79,7 +79,7 @@ def main():
             process_track(raw_ch, final_ch)
 
     # 4. Closing Track
-    closing_text = "손자병법 오디오북 낭독을 마칩니다. 손자 지음, 인준 낭독. 저작권 2026년 Antigravity Classics. 판권 소유."
+    closing_text = "손자병법 오디오북 낭독을 마칩니다. 손자 지음, 인준 낭독. 저작권 2026년 TKPROF LLC. 판권 소유."
     raw_closing = os.path.join(TEMP_DIR, "raw_closing_ko.mp3")
     final_closing = os.path.join(FINAL_DIR, "final_track_15_closing_ko.mp3")
     print("Generating Closing Track...")
