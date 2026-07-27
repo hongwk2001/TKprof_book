@@ -244,11 +244,11 @@ def build_epub():
             nav_targets.append((title, f"Text/{filename}"))
 
         if copyright_text:
-            z.writestr("OEBPS/Text/copyright.xhtml", txt_to_html(copyright_text, "Copyright & Credits"))
+            z.writestr("OEBPS/Text/copyright.xhtml", txt_to_html(copyright_text, "Copyright and Credits"))
             manifest_items.append('<item id="copyright" href="Text/copyright.xhtml" media-type="application/xhtml+xml"/>')
             spine_items.append('<itemref idref="copyright"/>')
-            ncx_targets.append(("Copyright & Credits", "Text/copyright.xhtml"))
-            nav_targets.append(("Copyright & Credits", "Text/copyright.xhtml"))
+            ncx_targets.append(("Copyright and Credits", "Text/copyright.xhtml"))
+            nav_targets.append(("Copyright and Credits", "Text/copyright.xhtml"))
 
         manifest_str = "\n    ".join(manifest_items)
         spine_str = "\n    ".join(spine_items)
