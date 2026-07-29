@@ -92,4 +92,11 @@ For full-book translation projects containing many chapters (e.g., 24 chapters),
 5.  **State-Based Resumption (Skip Checks)**: To handle unexpected disconnections (e.g., server restarts or timeouts), the controller loop must perform a state check on disk. If the proposal file (or final tagged file) for a chapter already exists and is non-empty, the controller skips spawning a subagent for that chapter, allowing the workflow to resume from where it was interrupted.
 6.  **Debug-Friendly Workspace Retention**: Keep the subagents' scratch directories and intermediate files intact. If a subagent crashes or fails, its specific workspace context, logs, and trace scripts must be preserved to allow direct debugging and diagnosis.
 
+---
 
+## 6. Post-Prompt Update Workflow (Audit & Refine)
+
+When translation prompts or style guidelines are updated (e.g., adding new Anti-Literal rules), do **not** re-translate chapters from scratch. Instead, execute an **Audit & Refine Pass** on the existing target-language text:
+1. Provide the subagent with the original English, the existing Korean text, and the newly updated `prompt_ko.txt`.
+2. Instruct the subagent to act as a rigorous editor: its sole job is to audit the existing Korean text against the new rules (e.g., fixing dictionary-matching verbs and breaking up heavy modifiers) and output a smoother version.
+3. This preserves established context, name mappings, and previous manual edits while efficiently elevating the prose quality.

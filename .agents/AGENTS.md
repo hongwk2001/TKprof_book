@@ -24,3 +24,7 @@
 - **Clarifying Modernization Prompts**: When modernizing texts for ESL or easy-listening (TTS) purposes, avoid pairing conflicting directives like "preserve historical/gothic tone" with "simplify vocabulary." Directives must prioritize contemporary clarity and clear English as the primary constraint to ensure the model successfully simplifies archaic structures.
 - **KDP Publishing Forms**: When advising the user on publishing or preparing metadata for the Amazon Kindle Store, always consult and use the form structure and high-converting title formula defined in [kdp_publishing_form.md](file:///d:/git_repo/TKprof_book/notes/kdp_publishing_form.md).
 
+- **Explanatory Translation Loop (English -> Korean -> English)**: For high-context historical or philosophical texts, enhance accessibility for ESL/young readers by performing a double-translation loop:
+  1. Translate the modernized English to Korean using the polite style (`하십시오체`), simplifying phrasing and weaving in natural, inline contextual explanations for historical figures, objects, and concepts.
+  2. Translate the resulting Korean version back into English. This naturally captures the simplified sentence structure and inline definitions in contemporary English, producing a fully self-explanatory English edition.
+
