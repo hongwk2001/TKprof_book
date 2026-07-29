@@ -133,42 +133,48 @@ def build_epub():
     # Book I (21 chapters)
     for i in range(1, 22):
         ch_str = str(i).zfill(2)
-        txt_file = os.path.join(CHAPTERS_DIR, "1.on_anger", f"on_anger_book1_ch{ch_str}_ko.txt")
+        txt_file_v2 = os.path.join(CHAPTERS_DIR, "1.on_anger", f"on_anger_book1_ch{ch_str}_ko_v2.txt")
+        txt_file = txt_file_v2 if os.path.exists(txt_file_v2) else os.path.join(CHAPTERS_DIR, "1.on_anger", f"on_anger_book1_ch{ch_str}_ko.txt")
         text = read_txt(txt_file)
         chapters.append(("anger_b1_ch" + ch_str, f"on_anger_b1_ch{ch_str}.xhtml", f"분노에 대하여 1권 - {i}장", text, "분노에 대하여 (1권)"))
         
     # Book II (36 chapters)
     for i in range(1, 37):
         ch_str = str(i).zfill(2)
-        txt_file = os.path.join(CHAPTERS_DIR, "1.on_anger", f"on_anger_book2_ch{ch_str}_ko.txt")
+        txt_file_v2 = os.path.join(CHAPTERS_DIR, "1.on_anger", f"on_anger_book2_ch{ch_str}_ko_v2.txt")
+        txt_file = txt_file_v2 if os.path.exists(txt_file_v2) else os.path.join(CHAPTERS_DIR, "1.on_anger", f"on_anger_book2_ch{ch_str}_ko.txt")
         text = read_txt(txt_file)
         chapters.append(("anger_b2_ch" + ch_str, f"on_anger_b2_ch{ch_str}.xhtml", f"분노에 대하여 2권 - {i}장", text, "분노에 대하여 (2권)"))
         
     # Book III (43 chapters)
     for i in range(1, 44):
         ch_str = str(i).zfill(2)
-        txt_file = os.path.join(CHAPTERS_DIR, "1.on_anger", f"on_anger_book3_ch{ch_str}_ko.txt")
+        txt_file_v2 = os.path.join(CHAPTERS_DIR, "1.on_anger", f"on_anger_book3_ch{ch_str}_ko_v2.txt")
+        txt_file = txt_file_v2 if os.path.exists(txt_file_v2) else os.path.join(CHAPTERS_DIR, "1.on_anger", f"on_anger_book3_ch{ch_str}_ko.txt")
         text = read_txt(txt_file)
         chapters.append(("anger_b3_ch" + ch_str, f"on_anger_b3_ch{ch_str}.xhtml", f"분노에 대하여 3권 - {i}장", text, "분노에 대하여 (3권)"))
 
     # 2. Tranquillity of Mind (마음의 평온에 대하여) (17 chapters)
     for i in range(1, 18):
         ch_str = str(i).zfill(2)
-        txt_file = os.path.join(CHAPTERS_DIR, "2.tranquillity_of_mind", f"tranquillity_ch{ch_str}_ko.txt")
+        txt_file_v2 = os.path.join(CHAPTERS_DIR, "2.tranquillity_of_mind", f"tranquillity_ch{ch_str}_ko_v2.txt")
+        txt_file = txt_file_v2 if os.path.exists(txt_file_v2) else os.path.join(CHAPTERS_DIR, "2.tranquillity_of_mind", f"tranquillity_ch{ch_str}_ko.txt")
         text = read_txt(txt_file)
         chapters.append(("tranquillity_ch" + ch_str, f"tranquillity_ch{ch_str}.xhtml", f"마음의 평온에 대하여 - {i}장", text, "마음의 평온에 대하여"))
 
     # 3. Constancy (현자의 굳건함에 대하여) (19 chapters)
     for i in range(1, 20):
         ch_str = str(i).zfill(2)
-        txt_file = os.path.join(CHAPTERS_DIR, "3.constancy", f"constancy_ch{ch_str}_ko.txt")
+        txt_file_v2 = os.path.join(CHAPTERS_DIR, "3.constancy", f"constancy_ch{ch_str}_ko_v2.txt")
+        txt_file = txt_file_v2 if os.path.exists(txt_file_v2) else os.path.join(CHAPTERS_DIR, "3.constancy", f"constancy_ch{ch_str}_ko.txt")
         text = read_txt(txt_file)
         chapters.append(("constancy_ch" + ch_str, f"constancy_ch{ch_str}.xhtml", f"현자의 굳건함에 대하여 - {i}장", text, "현자의 굳건함에 대하여"))
 
     # 4. Providence (섭리에 대하여) (6 chapters)
     for i in range(1, 7):
         ch_str = str(i).zfill(2)
-        txt_file = os.path.join(CHAPTERS_DIR, "4.providence", f"providence_ch{ch_str}_ko.txt")
+        txt_file_v2 = os.path.join(CHAPTERS_DIR, "4.providence", f"providence_ch{ch_str}_ko_v2.txt")
+        txt_file = txt_file_v2 if os.path.exists(txt_file_v2) else os.path.join(CHAPTERS_DIR, "4.providence", f"providence_ch{ch_str}_ko.txt")
         text = read_txt(txt_file)
         chapters.append(("providence_ch" + ch_str, f"providence_ch{ch_str}.xhtml", f"섭리에 대하여 - {i}장", text, "섭리에 대하여"))
 
