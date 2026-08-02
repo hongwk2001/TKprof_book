@@ -68,7 +68,18 @@ Never translate kinship terms or proverbs word-for-word. Apply these context rul
     *   *Awkward Literal*: "자기 아버지를 아는 자식은 현명한 자식이라고들 합니다."
     *   *Refined Literary*: "실상 자기가 누구의 피줄인지 스스로 온전히 아는 자식은 없다고들 하지요." (None can truly prove their own lineage).
 
+### Clean Korean Transliteration (No Parenthetical English Names or Glossaries)
+*   *Rule*: Do NOT insert original English spellings, Hanja, or inline comma glossaries in parentheses next to Korean names or terms.
+*   *Incorrect*: "베오(Beow)", "그렌델(Grendel)", "단두대(Guillotine)", "프록코트, frock-coat, 19세기 무릎 길이의 예복,"
+*   *Correction*: Use pure, clean Korean transliteration/translation only: **"베오"**, **"그렌델"**, **"단두대"**, **"프록코트"**. If cultural context is required, weave it naturally into the narrative without interrupting punctuation or spelling out English words.
+
+### Full Chapter Title & Header Translation
+*   *Rule*: Always translate all chapter numbers, book sections, and chapter title strings 100% into clean Korean.
+*   *Incorrect*: Leaving "Book 1 Chapter 1: ..." or raw English titles at the top of Korean chapter files.
+*   *Correction*: Translate fully into natural Korean headers (e.g. **"[1부 1장: 블레이즈오버 저택과 어머니, 그리고 사회의 구조]"** or **"제1장: 시대"**).
+
 ---
+
 
 ## 4. Human-in-the-Loop Verification
 

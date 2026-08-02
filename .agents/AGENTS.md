@@ -28,3 +28,8 @@
   1. Translate the modernized English to Korean using the polite style (`하십시오체`), simplifying phrasing and weaving in natural, inline contextual explanations for historical figures, objects, and concepts.
   2. Translate the resulting Korean version back into English. This naturally captures the simplified sentence structure and inline definitions in contemporary English, producing a fully self-explanatory English edition.
 
+- **Korean Translation Cleanliness Rules**:
+  1. **Full Chapter Title & Header Translation**: All chapter numbers, book sections, and chapter titles MUST be 100% translated into clean Korean (e.g., `[1부 1장: 블레이즈오버 저택과 어머니]` or `제1장: 시대`). Never leave `Book 1 Chapter 1...` or raw English title strings untranslated.
+  2. **No Unnecessary Parenthetical English Names or Glossaries**: Do NOT append English original spellings, Hanja, or inline comma glossaries in parentheses next to Korean transliterations (e.g., write `베오`, NEVER `베오(Beow)`; write `토노 번게이`, NEVER `토노 번게이(Tono-Bungay)` or `, Tono-Bungay,`). Weave any necessary context naturally into the sentence without interrupting punctuation or English spellings.
+
+
