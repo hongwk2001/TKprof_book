@@ -1,4 +1,6 @@
-# 제1장: 하딩엄 호텔, 그리고 우리가 거물로 성장한 과정
+import os
+
+content = """# 제1장: 하딩엄 호텔, 그리고 우리가 거물로 성장한 과정
 
 1
 
@@ -246,3 +248,7 @@
 "저기." 저는 생각했습니다. "신의 은총이 아니었다면 우리 삼촌과 제가 걸어가고 있을 길이다."
 
 하지만 삼촌의 생각은 전혀 다른 방향으로 흘러갔고, 그는 그 광경을 경제 개혁에 대한 활기차지만 결론이 없는 장광설을 위한 시험대로 삼았습니다.
+"""
+
+with open(r"c:\git_repo\TKprof_book\scratch\tagged_book3_ch01_ko_proposal.txt", "w", encoding="utf-8") as f:
+    f.write(content)

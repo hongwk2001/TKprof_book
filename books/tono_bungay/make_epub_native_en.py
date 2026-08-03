@@ -13,10 +13,10 @@ CHAPTERS_DIR = os.path.join(BASE_DIR, "chapters")
 OUTPUT_FILE = os.path.join(BASE_DIR, "tono_bungay_en.epub")
 
 BOOK_TITLES = {
-    1: "Book 1: The Days Before Commerce",
-    2: "Book 2: Of the Remarkable Growth of Tono-Bungay",
+    1: "Book 1: The Days Before Tono-Bungay Was Invented",
+    2: "Book 2: The Rise of Tono-Bungay",
     3: "Book 3: The Great Days of Tono-Bungay",
-    4: "Book 4: Love and the Ocean"
+    4: "Book 4: The Aftermath of Tono-Bungay"
 }
 
 STYLE = """
@@ -84,6 +84,9 @@ def read_txt(path):
 
 def txt_to_html(text, title):
     lines = [line.strip() for line in text.split("\n") if line.strip()]
+    
+    h1_title = title.replace(" - ", "<br/>")
+    
     html_parts = [
         "<?xml version='1.0' encoding='utf-8'?>",
         "<!DOCTYPE html>",
@@ -93,7 +96,7 @@ def txt_to_html(text, title):
         "  <link rel=\"stylesheet\" href=\"../Styles/main.css\" type=\"text/css\"/>",
         "</head>",
         "<body>",
-        f"  <h1>{title}</h1>"
+        f"  <h1>{h1_title}</h1>"
     ]
     
     first = True
@@ -141,7 +144,14 @@ def build_epub():
             if not text:
                 continue
                 
-            ch_title = f"{book_heading} - Chapter {c_num}"
+            lines = text.split('\n')
+            if lines and lines[0].startswith('#'):
+                chapter_specific_title = lines[0].lstrip('#').strip()
+                ch_title = f"{book_heading} - {chapter_specific_title}"
+                text = '\n'.join(lines[1:]).strip()
+            else:
+                ch_title = f"{book_heading} - Chapter {c_num}"
+
             item_id = f"ch_{b_num}_{c_num}"
             filename = f"ch_{b_num}_{c_num}.xhtml"
             

@@ -13,10 +13,10 @@ CHAPTERS_DIR = os.path.join(BASE_DIR, "chapters")
 OUTPUT_FILE = os.path.join(BASE_DIR, "tono_bungay_ko.epub")
 
 BOOK_TITLES = {
-    1: "제1권: 상업 이전의 시대",
-    2: "제2권: 토노 벙게의 놀라운 성장",
-    3: "제3권: 토노 벙게의 위대한 전성기",
-    4: "제4권: 사랑과 아득한 바다"
+    1: "제1권: 토노-번게이가 발명되기 이전의 시대",
+    2: "제2권: 토노-번게이의 비상",
+    3: "제3권: 토노-번게이의 위대한 전성기",
+    4: "제4권: 토노-번게이의 여파"
 }
 
 STYLE = """
@@ -84,6 +84,9 @@ def read_txt(path):
 
 def txt_to_html(text, title):
     lines = [line.strip() for line in text.split("\n") if line.strip()]
+    
+    h1_title = title.replace(" - ", "<br/>")
+    
     html_parts = [
         "<?xml version='1.0' encoding='utf-8'?>",
         "<!DOCTYPE html>",
@@ -93,7 +96,7 @@ def txt_to_html(text, title):
         "  <link rel=\"stylesheet\" href=\"../Styles/main.css\" type=\"text/css\"/>",
         "</head>",
         "<body>",
-        f"  <h1>{title}</h1>"
+        f"  <h1>{h1_title}</h1>"
     ]
     
     first = True
@@ -141,7 +144,13 @@ def build_epub():
             if not text:
                 continue
                 
-            ch_title = f"{book_heading} - 제{c_num}장"
+            lines = text.split('\n')
+            if lines and lines[0].startswith('#'):
+                chapter_specific_title = lines[0].lstrip('#').strip()
+                ch_title = f"{book_heading} - {chapter_specific_title}"
+                text = '\n'.join(lines[1:]).strip()
+            else:
+                ch_title = f"{book_heading} - 제{c_num}장"
             item_id = f"ch_{b_num}_{c_num}"
             filename = f"ch_{b_num}_{c_num}.xhtml"
             
