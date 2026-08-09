@@ -21,7 +21,7 @@ import os
 import re
 
 BASE_DIR   = 'books/dracula/chapters'
-ARTIFACT   = r'C:\Users\hongw\.gemini\antigravity\brain\b85acb0a-6fb8-4473-bf15-263a48b385aa\audit_validation_report.md'
+ARTIFACT   = r'C:\Users\hongw\.gemini\antigravity\brain\f7b98130-034e-4c41-97e8-4a99b243b760\audit_validation_report.md'
 
 RATIO_EN_INFLATION   = 1.20   # chunked EN / raw EN word count
 RATIO_KO_MISALIGN    = 4.0    # KO words / EN words per paragraph

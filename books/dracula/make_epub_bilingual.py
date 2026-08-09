@@ -126,7 +126,7 @@ def build_epub():
     book_id = f"urn:uuid:{uuid.uuid4()}"
     pub_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-    cover_path = os.path.join(IMAGES_DIR, "cover.jpg")
+    cover_path = os.path.join(BASE_DIR, "cover.jpg")
     has_cover = os.path.exists(cover_path)
 
     chapters_data = []
