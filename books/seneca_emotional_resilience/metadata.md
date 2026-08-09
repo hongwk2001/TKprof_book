@@ -5,7 +5,7 @@
 *   **Author (First & Last Name)**: Lucius Annaeus Seneca
 *   **Publisher**: TKPROF LLC
 *   **Publication Date**: 2026
-*   **Target Price**: $3.99 (70% Royalty Tier)
+*   **Target Price**: [To Be Decided]
 *   **KDP Categories (List 2-3)**:
     1.  Philosophy ➔ Stoicism
     2.  Self-Help ➔ Self-Management ➔ Anger Management

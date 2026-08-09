@@ -88,27 +88,33 @@ def txt_to_bilingual_html(en_paras, ko_paras, title):
     first_en = en_paras[0] if en_paras else title
     first_ko = ko_paras[0] if ko_paras else title
     
+    import re
+    # Strip ID from chapter title if present
+    pid_match_en = re.match(r'^(\[P\d+\])\s*', first_en)
+    if pid_match_en:
+        first_en = first_en[len(pid_match_en.group(1)):].strip()
+    pid_match_ko = re.match(r'^(\[P\d+\])\s*', first_ko)
+    if pid_match_ko:
+        first_ko = first_ko[len(pid_match_ko.group(1)):].strip()
+    
     # Assume the first paragraph is the chapter title (e.g. CHAPTER I)
     html_parts.append(f"  <h2>{first_en}<br/><span style='font-size: 0.8em; color: #2c3e50;'>{first_ko}</span></h2>")
     
-    import re
     for i in range(1, len(en_paras)):
         en_p = en_paras[i]
         ko_p = ko_paras[i]
         
         # Extract paragraph ID if present (e.g., [P001])
-        pid_match = re.match(r'^(\[P\d+\])\s+', en_p)
+        pid_match = re.match(r'^(\[P\d+\])\s*', en_p)
         if pid_match:
             pid = pid_match.group(1)
             en_p = en_p[len(pid):].strip()
             # Also strip from Korean if present
             if ko_p.startswith(pid):
                 ko_p = ko_p[len(pid):].strip()
-            
-            # Wrap the ID in a hidden span
-            pid_span = f"<span class=\"para-id\" style=\"display:none\">{pid}</span> "
-            en_p = pid_span + en_p
-            ko_p = pid_span + ko_p
+            elif re.match(r'^(\[P\d+\])\s*', ko_p):
+                # Fallback if ko_p starts with a different pid for some reason
+                ko_p = re.sub(r'^\[P\d+\]\s*', '', ko_p)
 
         html_parts.append(f"  <p class=\"eng\">{en_p}</p>")
         html_parts.append(f"  <p class=\"kor\">{ko_p}</p>")

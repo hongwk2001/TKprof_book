@@ -165,7 +165,7 @@ def build_epub():
     <content src="Text/{filename}"/>
   </navPoint>''')
             
-            nav_html_items.append(f'    <li><a href="Text/{filename}">{ch_title}</a></li>')
+            nav_html_items.append(f'    <li><a href="{filename}">{ch_title}</a></li>')
             chapter_index += 1
 
     manifest_str = "\n    ".join(manifest_items)
