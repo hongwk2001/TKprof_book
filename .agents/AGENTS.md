@@ -33,3 +33,5 @@
   2. **No Unnecessary Parenthetical English Names or Glossaries**: Do NOT append English original spellings, Hanja, or inline comma glossaries in parentheses next to Korean transliterations (e.g., write `베오`, NEVER `베오(Beow)`; write `토노 번게이`, NEVER `토노 번게이(Tono-Bungay)` or `, Tono-Bungay,`). Weave any necessary context naturally into the sentence without interrupting punctuation or English spellings.
 
 
+
+- **Mechanical Bilingual Parity Splitting**: When tasked with splitting bilingual paragraphs to enforce strict 1:1 parity (e.g. splitting paragraphs to keep word counts under a limit), ALWAYS prioritize building a pure Python mechanical script using a proportional dynamic programming (DP) algorithm (e.g. bucketing split sentences based on relative lengths: i * K / N). Do NOT use slow LLM API calls or manual batching for large-scale paragraph parity tasks. Mechanical DP alignment achieves 1:1 parity flawlessly and takes minutes instead of hours.
