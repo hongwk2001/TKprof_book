@@ -1,0 +1,91 @@
+00: EN=[P001]          KO=[P001]         
+01: EN=[P002]          KO=[P002]         
+02: EN=[P003]          KO=[P003]         
+03: EN=[P004]          KO=[P004]         
+04: EN=[P005]          KO=[P005]         
+05: EN=[P006]          KO=[P006]         
+06: EN=[P007]          KO=[P007]         
+07: EN=[P008]          KO=[P008]         
+08: EN=[P009]          KO=[P009]         
+09: EN=[P010]          KO=[P010]         
+10: EN=[P011]          KO=[P011]         
+11: EN=[P012]          KO=[P012]         
+12: EN=[P013]          KO=[P013]         
+13: EN=[P014]          KO=[P014]         
+14: EN=[P015]          KO=[P015]         
+15: EN=[P016]          KO=[P016]         
+16: EN=[P017]          KO=[P017]         
+17: EN=[P018]          KO=[P018]         
+18: EN=[P019]          KO=[P019]         
+19: EN=[P020]          KO=[P020]         
+20: EN=[P021]          KO=[P021]         
+21: EN=[P022]          KO=[P022]         
+22: EN=[P023]          KO=[P023]         
+23: EN=[P024]          KO=[P024]         
+24: EN=[P025]          KO=[P025]         
+25: EN=[P026]          KO=[P026]         
+26: EN=[P027a]         KO=[P027a]        
+27: EN=[P027b]         KO=[P027b]        
+28: EN=[P028_029]      KO=[P028_029]     
+29: EN=[P029b]         KO=[P029b]        
+30: EN=[P030_031]      KO=[P030_031]     
+31: EN=[P032]          KO=[P032]         
+32: EN=[P033]          KO=[P033]         
+33: EN=[P034a]         KO=[P034a]        
+34: EN=[P034b]         KO=[P034b]        
+35: EN=[P035_036]      KO=[P035_036]     
+36: EN=[P036b]         KO=[P036b]        
+37: EN=[P037_038]      KO=[P037_038]     
+38: EN=[P038b]         KO=[P038b]        
+39: EN=[P039_040]      KO=[P039_040]     
+40: EN=[P041_045]      KO=[P041_045]     
+41: EN=[P045b]         KO=[P045b]        
+42: EN=[P045c]         KO=[P045c]        
+43: EN=[P045d]         KO=[P045d]        
+44: EN=[P045e]         KO=[P045e]        
+45: EN=[P046a]         KO=[P046a]        
+46: EN=[P046b]         KO=[P046b]        
+47: EN=[P047_048]      KO=[P047_048]     
+48: EN=[P049a]         KO=[P049a]        
+49: EN=[P049b]         KO=[P049b]        
+50: EN=[P050_051]      KO=[P050_051]     
+51: EN=[P051b]         KO=[P051b]        
+52: EN=[P052_053]      KO=[P052_053]     
+53: EN=[P053b]         KO=[P053b]        
+54: EN=[P054_055]      KO=[P054_055]     
+55: EN=[P056a]         KO=[P056a]        
+56: EN=[P056b]         KO=[P056b]        
+57: EN=[P057_058]      KO=[P057_058]     
+58: EN=[P059]          KO=[P059]         
+59: EN=[P060]          KO=[P060]         
+60: EN=[P061a]         KO=[P062a]         *MISMATCH*
+61: EN=[P061b]         KO=[P062b]         *MISMATCH*
+62: EN=[P062a]         KO=[P063_064]      *MISMATCH*
+63: EN=[P062b]         KO=[P065]          *MISMATCH*
+64: EN=[P063_064]      KO=[P066]          *MISMATCH*
+65: EN=[P065]          KO=[P067]          *MISMATCH*
+66: EN=[P066]          KO=[P068a]         *MISMATCH*
+67: EN=[P067]          KO=[P068b]         *MISMATCH*
+68: EN=[P068a]         KO=[P069_070]      *MISMATCH*
+69: EN=[P068b]         KO=[P071]          *MISMATCH*
+70: EN=[P069_070]      KO=[P072_074]      *MISMATCH*
+71: EN=[P071]          KO=[P074b]         *MISMATCH*
+72: EN=[P072_074]      KO=[P074c]         *MISMATCH*
+73: EN=[P074b]         KO=[P075]          *MISMATCH*
+74: EN=[P074c]         KO=[P076]          *MISMATCH*
+75: EN=[P075]          KO=[P077]          *MISMATCH*
+76: EN=[P076]          KO=[P078a]         *MISMATCH*
+77: EN=[P077]          KO=[P079]          *MISMATCH*
+78: EN=[P078a]         KO=[P080]          *MISMATCH*
+79: EN=[P078b]         KO=[P081]          *MISMATCH*
+80: EN=[P079]          KO=[P082]          *MISMATCH*
+81: EN=[P080]          KO=[P083]          *MISMATCH*
+82: EN=[P081]          KO=[P084_087]      *MISMATCH*
+83: EN=[P082]          KO=[P087b]         *MISMATCH*
+84: EN=[P083]          KO=[P087c]         *MISMATCH*
+85: EN=[P084_087]      KO=[P087da]        *MISMATCH*
+86: EN=[P087b]         KO=[P087db]        *MISMATCH*
+87: EN=[P087c]         KO=[P088]          *MISMATCH*
+88: EN=[P087da]        KO=                *MISMATCH*
+89: EN=[P087db]        KO=                *MISMATCH*
+90: EN=[P088]          KO=                *MISMATCH*

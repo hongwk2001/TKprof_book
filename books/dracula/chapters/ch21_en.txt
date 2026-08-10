@@ -18,8 +18,9 @@
 
 [P009] The patient was now breathing with a harsh, rattling sound, and it was obvious he had suffered a severe injury. Van Helsing returned incredibly fast, carrying a surgical case. He had clearly been thinking and had already made up his mind, because before he even looked at the patient again, he whispered to me:
 
-[P010_011] "Send the attendant away. We must be alone with him when he wakes up after the surgery." So I said:
-"I think that will be all for now, Simmons. We have done everything we can at the moment. You should go on your rounds, and Dr. Van Helsing will perform the surgery. Let me know instantly if you notice anything unusual anywhere."
+[P010] "Send the attendant away. We must be alone with him when he wakes up after the surgery." So I said:
+
+[P011] I think that will be all for now, Simmons. We have done everything we can at the moment. You should go on your rounds, and Dr. Van Helsing will perform the surgery. Let me know instantly if you notice anything unusual anywhere."
 
 [P012] The attendant left, and we began a thorough examination of the patient. The facial wounds were only superficial; the real injury was a depressed skull fracture that extended right up into the motor area of the brain. The Professor thought for a moment and said:
 
@@ -46,53 +47,53 @@
 [P020] Without another word, he performed the surgery. The rattling breathing continued for a few moments. Then, he took a breath so deep and long that it seemed like it would tear his chest open. Suddenly, his eyes snapped open and locked into a wild, helpless stare. This lasted for a short time; then, his expression softened into glad surprise, and a sigh of relief escaped his lips. His body convulsed, and as it did, he said:
 "I'll be quiet, Doctor. Tell them to take off this straitjacket.
 
-[P021a] I had a terrible dream, and it left me so weak that I can't move. What's wrong with my face? It feels swollen, and it hurts terribly." He tried to turn his head, but even that small effort made his eyes look glassy and unfocused again, so I gently moved his head back. Then Van Helsing said in a quiet, serious tone:
+[P021] I had a terrible dream, and it left me so weak that I can't move. What's wrong with my face? It feels swollen, and it hurts terribly." He tried to turn his head, but even that small effort made his eyes look glassy and unfocused again, so I gently moved his head back. Then Van Helsing said in a quiet, serious tone:
 
-[P021b] "Tell us about your dream, Mr. Renfield." Hearing the voice, his terribly mutilated face brightened, and he said:
+[P022] "Tell us about your dream, Mr. Renfield." Hearing the voice, his terribly mutilated face brightened, and he said:
 
-[P021c] "That's Dr. Van Helsing. It's so good of you to be here. Please give me some water, my lips are dry; then I will try to tell you. I dreamed—" he stopped and looked like he was going to faint. I called quietly to Quincey, "The brandy—it's in my study—quick!" He bolted out and returned with a glass, a decanter of brandy, and a pitcher of water. We wet his dry lips, and the patient quickly revived.
+[P023a] "That's Dr. Van Helsing. It's so good of you to be here. Please give me some water, my lips are dry; then I will try to tell you. I dreamed—" he stopped and looked like he was going to faint. I called quietly to Quincey, "The brandy—it's in my study—quick!" He bolted out and returned with a glass, a decanter of brandy, and a pitcher of water. We wet his dry lips, and the patient quickly revived.
 
-[P022_023] It seemed, however, that his damaged brain had been working the whole time, because when he was fully conscious again, he stared at me with an intense, agonized confusion that I will never forget, and said:
+[P023b] It seemed, however, that his damaged brain had been working the whole time, because when he was fully conscious again, he stared at me with an intense, agonized confusion that I will never forget, and said:
 
-[P023b] "I shouldn't lie to myself; it wasn't a dream, it was a grim reality." Then his eyes scanned the room. When he saw the two figures sitting patiently on the edge of the bed, he continued:
+[P024] "I shouldn't lie to myself; it wasn't a dream, it was a grim reality." Then his eyes scanned the room. When he saw the two figures sitting patiently on the edge of the bed, he continued:
 
-[P023c] "Even if I wasn't already sure, I would know just by looking at them." For a moment his eyes closed—not from pain or sleep, but intentionally, as if he were trying to pull all his thoughts together. When he opened them, he spoke urgently and with more energy than he had shown so far:
+[P025] "Even if I wasn't already sure, I would know just by looking at them." For a moment his eyes closed—not from pain or sleep, but intentionally, as if he were trying to pull all his thoughts together. When he opened them, he spoke urgently and with more energy than he had shown so far:
 
-[P023d] "Quick, Doctor, quick. I'm dying! I feel like I only have a few minutes left; and then I have to go back to death—or something worse! Wet my lips with the brandy again. I have something I must say before I die, or at least before my damaged brain completely shuts down. Thank you! It was the night you left me, when I begged you to let me go. I couldn't speak then because my tongue felt tied, but I was just as sane then as I am now, except for that.
+[P026a] "Quick, Doctor, quick. I'm dying! I feel like I only have a few minutes left; and then I have to go back to death—or something worse! Wet my lips with the brandy again. I have something I must say before I die, or at least before my damaged brain completely shuts down. Thank you! It was the night you left me, when I begged you to let me go. I couldn't speak then because my tongue felt tied, but I was just as sane then as I am now, except for that.
 
-[P023e] I was in complete despair for a long time after you left; it felt like hours. Then, I suddenly felt peaceful. My brain seemed to clear up, and I realized where I was. I heard dogs barking behind our building, but not from where He was!" As he spoke, Van Helsing didn't blink, but he reached out and gripped my hand tightly. He didn't let his emotions show, though; he just nodded slightly and said quietly, "Go on." Renfield continued:
+[P026b] I was in complete despair for a long time after you left; it felt like hours. Then, I suddenly felt peaceful. My brain seemed to clear up, and I realized where I was. I heard dogs barking behind our building, but not from where He was!" As he spoke, Van Helsing didn't blink, but he reached out and gripped my hand tightly. He didn't let his emotions show, though; he just nodded slightly and said quietly, "Go on." Renfield continued:
 
-[P023f] "He came up to the window in the mist, just like I'd seen him do so many times before. But he was solid this time—not a ghost—and his eyes were fierce, like an angry man's. He was smiling with his red mouth; his sharp white teeth flashed in the moonlight when he turned to look back over the trees where the dogs were barking. I wouldn't invite him in at first, even though I knew he wanted to come inside—just as he had wanted to all along. Then he started promising me things.
+[P027a] "He came up to the window in the mist, just like I'd seen him do so many times before. But he was solid this time—not a ghost—and his eyes were fierce, like an angry man's. He was smiling with his red mouth; his sharp white teeth flashed in the moonlight when he turned to look back over the trees where the dogs were barking. I wouldn't invite him in at first, even though I knew he wanted to come inside—just as he had wanted to all along. Then he started promising me things.
 
-[P024_027] Not with words, but by showing me." The Professor interrupted him:
+[P027b] Not with words, but by showing me." The Professor interrupted him:
 
-[P027b] "How?"
+[P028] "How?"
 
-[P027c] "By making them happen. Just like he used to send in the flies when the sun was out. Huge, fat ones with steel and sapphire colors on their wings. And at night, large moths with skull-and-crossbones patterns on their backs." Van Helsing nodded at him while instinctively whispering to me:
+[P029] "By making them happen. Just like he used to send in the flies when the sun was out. Huge, fat ones with steel and sapphire colors on their wings. And at night, large moths with skull-and-crossbones patterns on their backs." Van Helsing nodded at him while instinctively whispering to me:
 
-[P027d] "The Acherontia Atropos—what people call the 'Death's-head Hawkmoth'?" The patient continued without pausing.
+[P030] "The Acherontia Atropos—what people call the 'Death's-head Hawkmoth'?" The patient continued without pausing.
 
-[P027e] "Then he started whispering: 'Rats, rats, rats! Hundreds, thousands, millions of them, and every single one is a life. And dogs and cats to eat them, too. All of them lives! All full of red blood and years of life, not just annoying flies!' I laughed at him, because I wanted to see what he was really capable of. Then the dogs started howling from far away, past the dark trees near His house. He waved me over to the window. I got up and looked out.
+[P031a] "Then he started whispering: 'Rats, rats, rats! Hundreds, thousands, millions of them, and every single one is a life. And dogs and cats to eat them, too. All of them lives! All full of red blood and years of life, not just annoying flies!' I laughed at him, because I wanted to see what he was really capable of. Then the dogs started howling from far away, past the dark trees near His house. He waved me over to the window. I got up and looked out.
 
-[P027f] He raised his hands and seemed to summon something without making a sound. A dark mass spread over the grass, moving like a wave of fire. Then He parted the mist to the sides, and I saw thousands of rats with glowing red eyes—just like His, only smaller. He raised his hand, and they all froze. It felt like he was saying to me: 'I will give you all these lives, and many more, far greater ones, for eternity, if you just bow down and worship me!' Then a red cloud, the color of blood, seemed to cover my eyes.
+[P031b] He raised his hands and seemed to summon something without making a sound. A dark mass spread over the grass, moving like a wave of fire. Then He parted the mist to the sides, and I saw thousands of rats with glowing red eyes—just like His, only smaller. He raised his hand, and they all froze. It felt like he was saying to me: 'I will give you all these lives, and many more, far greater ones, for eternity, if you just bow down and worship me!' Then a red cloud, the color of blood, seemed to cover my eyes.
 
-[P028_031] Before I even realized what I was doing, I was opening the window and telling Him, 'Come in, Lord and Master!' The rats vanished, but He slipped right through the window, even though I had only opened it an inch. He came inside just like the moonlight used to slip through the smallest cracks to shine in my room in all its glory."
+[P031c] Before I even realized what I was doing, I was opening the window and telling Him, 'Come in, Lord and Master!' The rats vanished, but He slipped right through the window, even though I had only opened it an inch. He came inside just like the moonlight used to slip through the smallest cracks to shine in my room in all its glory."
 
-[P031b] His voice was getting weaker, so I moistened his lips with the brandy again, and he kept talking. It seemed, however, that his mind had skipped ahead while he was drinking, because his story jumped forward. I was about to stop him and bring him back to where he left off, but Van Helsing whispered to me: "Let him continue. Don't interrupt him. He can't go back, and if he loses his train of thought, he might not be able to finish." Renfield continued:
+[P032] His voice was getting weaker, so I moistened his lips with the brandy again, and he kept talking. It seemed, however, that his mind had skipped ahead while he was drinking, because his story jumped forward. I was about to stop him and bring him back to where he left off, but Van Helsing whispered to me: "Let him continue. Don't interrupt him. He can't go back, and if he loses his train of thought, he might not be able to finish." Renfield continued:
 
-[P031c] "I waited all day to hear from him, but he didn't send me anything, not even a single fly. By the time the moon came out, I was quite angry with him. When he slid through the closed window without even knocking, I lost my temper. He just sneered at me. His pale face appeared out of the mist, his red eyes gleaming, and he walked around like he owned the place and I was nobody. He didn't even smell the same when he walked past me. I couldn't stop him. For some reason, I was convinced that Mrs.
+[P033a] "I waited all day to hear from him, but he didn't send me anything, not even a single fly. By the time the moon came out, I was quite angry with him. When he slid through the closed window without even knocking, I lost my temper. He just sneered at me. His pale face appeared out of the mist, his red eyes gleaming, and he walked around like he owned the place and I was nobody. He didn't even smell the same when he walked past me. I couldn't stop him. For some reason, I was convinced that Mrs.
 
-[P032_033] Harker had come into the room."
+[P033b] Harker had come into the room."
 
-[P033b] The two men sitting on the bed stood up and moved behind him, so he couldn't see them but they could hear him better. They both stayed quiet, but the Professor flinched and trembled. His face, however, just grew even grimmer and more severe. Renfield continued without noticing:
+[P034] The two men sitting on the bed stood up and moved behind him, so he couldn't see them but they could hear him better. They both stayed quiet, but the Professor flinched and trembled. His face, however, just grew even grimmer and more severe. Renfield continued without noticing:
 
-[P033c] "When Mrs. Harker came to visit me this afternoon, she was different. She seemed drained, like tea that has been watered down." We all reacted to this, but no one said a word; he kept going:
+[P035] "When Mrs. Harker came to visit me this afternoon, she was different. She seemed drained, like tea that has been watered down." We all reacted to this, but no one said a word; he kept going:
 
-[P033d] "I didn't even know she was there until she spoke, and she didn't look like herself. I don't care for pale people; I prefer them full of blood, and it seemed like all of hers was gone. I didn't realize it right then, but after she left, I started thinking about it. It made me furious to realize that He had been draining her life away." I could feel the others trembling with shock, just as I was, but we didn't move or speak. "So when He arrived tonight, I was ready for Him.
+[P036a] "I didn't even know she was there until she spoke, and she didn't look like herself. I don't care for pale people; I prefer them full of blood, and it seemed like all of hers was gone. I didn't realize it right then, but after she left, I started thinking about it. It made me furious to realize that He had been draining her life away." I could feel the others trembling with shock, just as I was, but we didn't move or speak. "So when He arrived tonight, I was ready for Him.
 
-[P033e] I saw the mist creeping in, and I grabbed it hard. I had heard that madmen possess unnatural strength, and since I knew I was a madman—at least sometimes—I decided to use all my power. And yes, He felt it too, because He had to materialize out of the mist just to fight me off. I held on tight. I thought I was going to win, because I was determined not to let Him take any more of her life—until I saw His eyes. They burned right into me, and my strength melted away like water.
+[P036b] I saw the mist creeping in, and I grabbed it hard. I had heard that madmen possess unnatural strength, and since I knew I was a madman—at least sometimes—I decided to use all my power. And yes, He felt it too, because He had to materialize out of the mist just to fight me off. I held on tight. I thought I was going to win, because I was determined not to let Him take any more of her life—until I saw His eyes. They burned right into me, and my strength melted away like water.
 
-[P034_036] He broke free, and when I tried to cling to Him again, He lifted me up and hurled me to the ground. I saw a red cloud, heard a sound like thunder, and then the mist seemed to slip away under the door." His voice was growing fainter, and his breathing was getting worse. Van Helsing stood up instinctively.
+[P036c] He broke free, and when I tried to cling to Him again, He lifted me up and hurled me to the ground. I saw a red cloud, heard a sound like thunder, and then the mist seemed to slip away under the door." His voice was growing fainter, and his breathing was getting worse. Van Helsing stood up instinctively.
 
 [P037a] "Now we know the worst," he said. "He is here, and we know his true purpose. It might not be too late. Let's arm ourselves—just like we did the other night—but don't waste any time; we don't have a second to spare." There was no need to say our fears out loud, or rather, our certainties—we all felt exactly the same way. We all hurried to our rooms and grabbed the same items we had taken when we broke into the Count's house.
 
@@ -100,33 +101,33 @@
 
 [P038] "I never let these out of my sight, and I won't until this miserable business is finished. Be smart, my friends. We are not dealing with an ordinary enemy. Oh, the tragedy! To think that our dear Madam Mina is suffering!" He stopped, his voice breaking with emotion, and I honestly didn't know whether pure rage or terror was stronger in my own heart.
 
-[P039a] We paused outside the Harkers' door. Art and Quincey hung back a little, and Quincey asked:
+[P039] We paused outside the Harkers' door. Art and Quincey hung back a little, and Quincey asked:
 
-[P039b] "Should we wake her?"
+[P040] "Should we wake her?"
 
-[P039c] "We have to," Van Helsing said grimly. "If the door is locked, I will break it down."
+[P041] "We have to," Van Helsing said grimly. "If the door is locked, I will break it down."
 
-[P039d] "Won't that terrify her? It's completely inappropriate to break into a lady's room!"
+[P042] "Won't that terrify her? It's completely inappropriate to break into a lady's room!"
 
-[P039e] Van Helsing replied very seriously, "You are absolutely right, but this is a matter of life and death. To a doctor, all bedrooms are the same; and even if they weren't, they are all the same to me tonight. My friend John, when I turn the handle, if the door doesn't open, put your shoulder against it and shove hard. And you two help as well. Ready? Now!"
+[P043] Van Helsing replied very seriously, "You are absolutely right, but this is a matter of life and death. To a doctor, all bedrooms are the same; and even if they weren't, they are all the same to me tonight. My friend John, when I turn the handle, if the door doesn't open, put your shoulder against it and shove hard. And you two help as well. Ready? Now!"
 
-[P039f] He turned the handle as he spoke, but the door wouldn't budge. We threw our weight against it, and it burst open with a loud crash, sending us stumbling into the room. The Professor actually fell down, and as he was scrambling to his hands and knees, I looked past him. What I saw horrified me completely. I felt the hair on the back of my neck stand straight up, and my heart seemed to stop beating.
+[P044] He turned the handle as he spoke, but the door wouldn't budge. We threw our weight against it, and it burst open with a loud crash, sending us stumbling into the room. The Professor actually fell down, and as he was scrambling to his hands and knees, I looked past him. What I saw horrified me completely. I felt the hair on the back of my neck stand straight up, and my heart seemed to stop beating.
 
-[P039g] The moonlight was so bright that even through the thick yellow blinds, the room was lit up enough to see clearly. On the bed near the window lay Jonathan Harker, his face flushed and his breathing heavy, as if he were drugged into a deep stupor. Kneeling on the edge of the bed closer to us, facing outwards, was his wife, dressed in a white nightgown. Beside her stood a tall, thin man dressed entirely in black.
+[P045a] The moonlight was so bright that even through the thick yellow blinds, the room was lit up enough to see clearly. On the bed near the window lay Jonathan Harker, his face flushed and his breathing heavy, as if he were drugged into a deep stupor. Kneeling on the edge of the bed closer to us, facing outwards, was his wife, dressed in a white nightgown. Beside her stood a tall, thin man dressed entirely in black.
 
-[P039h] His face was turned away, but the second we saw him, we all recognized the Count instantly—from his overall appearance right down to the scar on his forehead.
+[P045b] His face was turned away, but the second we saw him, we all recognized the Count instantly—from his overall appearance right down to the scar on his forehead.
 
-[P040_044] With his left hand, he was gripping both of Mrs. Harker's hands, holding her arms fully stretched out away from her body. His right hand clutched the back of her neck, aggressively forcing her face down against his chest. Her white nightgown was smeared with blood, and a thin stream of blood trickled down the man's bare chest, which was exposed by his ripped-open shirt. The way he was holding her looked horrifyingly like a child forcing a kitten's face into a bowl of milk to make it drink.
+[P045c] With his left hand, he was gripping both of Mrs. Harker's hands, holding her arms fully stretched out away from her body. His right hand clutched the back of her neck, aggressively forcing her face down against his chest. Her white nightgown was smeared with blood, and a thin stream of blood trickled down the man's bare chest, which was exposed by his ripped-open shirt. The way he was holding her looked horrifyingly like a child forcing a kitten's face into a bowl of milk to make it drink.
 
-[P045a] As we burst in, the Count turned his head, and the demonic look I had heard others describe seemed to flash across his face. His eyes burned red with an evil intensity; his large nostrils flared and quivered, and his sharp white teeth snapped together like a wild animal's behind his thick, blood-dripping lips. With a violent shove that threw his victim back onto the bed as if she had been tossed from a great height, he turned and lunged at us.
+[P045d] As we burst in, the Count turned his head, and the demonic look I had heard others describe seemed to flash across his face. His eyes burned red with an evil intensity; his large nostrils flared and quivered, and his sharp white teeth snapped together like a wild animal's behind his thick, blood-dripping lips. With a violent shove that threw his victim back onto the bed as if she had been tossed from a great height, he turned and lunged at us.
 
-[P045b] But by that time, the Professor had scrambled to his feet and was holding out the envelope containing the Communion Wafer toward him. The Count stopped dead in his tracks, just like poor Lucy had done outside her tomb, and shrank back. He kept cowering backwards as we moved forward, holding up our crucifixes. Suddenly, the moonlight vanished as a huge black cloud covered the sky. When Quincey struck a match and lit the gas lamp, the Count was gone, and we saw nothing but a faint mist.
+[P045e] But by that time, the Professor had scrambled to his feet and was holding out the envelope containing the Communion Wafer toward him. The Count stopped dead in his tracks, just like poor Lucy had done outside her tomb, and shrank back. He kept cowering backwards as we moved forward, holding up our crucifixes. Suddenly, the moonlight vanished as a huge black cloud covered the sky. When Quincey struck a match and lit the gas lamp, the Count was gone, and we saw nothing but a faint mist.
 
-[P045c] As we watched, the mist drifted away under the door, which had swung shut again after we broke it open. Van Helsing, Arthur, and I rushed over to Mrs. Harker. By then, she had caught her breath and let out a scream so wild, so ear-piercing, and so full of absolute despair that I feel like I'll hear it echoing in my head until the day I die. For a few seconds, she just lay there, completely helpless and disheveled. Her face was a ghostly white, making the blood smeared across her lips, cheeks, and chin look even more horrific.
+[P045f] As we watched, the mist drifted away under the door, which had swung shut again after we broke it open. Van Helsing, Arthur, and I rushed over to Mrs. Harker. By then, she had caught her breath and let out a scream so wild, so ear-piercing, and so full of absolute despair that I feel like I'll hear it echoing in my head until the day I die. For a few seconds, she just lay there, completely helpless and disheveled. Her face was a ghostly white, making the blood smeared across her lips, cheeks, and chin look even more horrific.
 
-[P045d] A thin line of blood was dripping from her throat, and her eyes were wild with sheer terror. Then, she covered her face with her poor, bruised hands, which still showed the red marks from the Count's brutal grip on her pale skin. From behind her hands came a low, heartbreaking wail. That slow sobbing made her terrible scream seem like just a brief outburst of an endless grief. Van Helsing stepped forward and gently pulled the blanket over her, while Arthur stared at her face in despair for a second before running out of the room.
+[P045g] A thin line of blood was dripping from her throat, and her eyes were wild with sheer terror. Then, she covered her face with her poor, bruised hands, which still showed the red marks from the Count's brutal grip on her pale skin. From behind her hands came a low, heartbreaking wail. That slow sobbing made her terrible scream seem like just a brief outburst of an endless grief. Van Helsing stepped forward and gently pulled the blanket over her, while Arthur stared at her face in despair for a second before running out of the room.
 
-[P045e] Van Helsing whispered to me:
+[P045h] Van Helsing whispered to me:
 
 [P046a] "Jonathan is in a trance, the kind we know vampires can cause. We can't do anything for poor Madam Mina until she recovers a bit from the shock; I have to wake him up!" He dipped the corner of a towel into cold water and started snapping it lightly against Harker's face. The whole time, his wife kept her face buried in her hands, sobbing in a way that broke my heart to hear. I raised the blinds and looked out the window.
 
