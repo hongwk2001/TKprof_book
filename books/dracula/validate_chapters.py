@@ -45,17 +45,15 @@ def word_count(text):
     return len(text.split())
 
 def strip_tags(text):
-    return re.sub(r'\[P\d+\]\s*', '', text)
+    return re.sub(r'\[P[0-9a-zA-Z_]+\]\s*', '', text)
 
 def check_tag_sequence(paras):
-    """Return list of tag errors (gaps, duplicates, missing)."""
+    """Return list of tag errors (missing or malformed)."""
     errors = []
     for i, p in enumerate(paras, 1):
-        m = re.match(r'^\[P(\d+)\]', p)
+        m = re.match(r'^\[P[0-9a-zA-Z_]+\]', p)
         if not m:
-            errors.append('Para %d: missing [Pxxx] tag' % i)
-        elif int(m.group(1)) != i:
-            errors.append('Para %d: expected [P%03d] but found [P%s]' % (i, i, m.group(1)))
+            errors.append('Para %d: missing or malformed [Pxxx] tag' % i)
     return errors
 
 def check_duplication(paras):

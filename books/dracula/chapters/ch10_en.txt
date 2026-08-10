@@ -52,19 +52,19 @@
 
 [P027] "If you only knew how gladly I would die for her, you would understand—"
 
-[P028] He broke off, choking back a sob.
+[P028_029] He broke off, choking back a sob.
 
-[P029] "Good boy!" Van Helsing said. "Very soon, you will be happy knowing you did everything possible for the woman you love. Now come with us, and stay quiet. I will let you kiss her once before we begin, but then you must step back and leave the room the moment I give you the signal. And say nothing to her mother. You know how frail she is. We can't let her experience any shock, and knowing about this procedure would certainly be a shock. Come!"
+[P029b] "Good boy!" Van Helsing said. "Very soon, you will be happy knowing you did everything possible for the woman you love. Now come with us, and stay quiet. I will let you kiss her once before we begin, but then you must step back and leave the room the moment I give you the signal. And say nothing to her mother. You know how frail she is. We can't let her experience any shock, and knowing about this procedure would certainly be a shock. Come!"
 
 [P030] We all went up to Lucy's room together. Arthur was told to wait outside for the moment. Lucy turned her head and looked at us, but she didn't say a word. She wasn't asleep; she was just simply too weak to speak. Her eyes spoke for her, and that was all she could manage. Van Helsing took a few things from his medical bag and placed them on a small table out of her line of sight. Then he mixed a sedative and walked over to her bed, speaking in a cheerful voice:
 
 [P031] "Now, little miss, here is your medicine. Drink it down like a good girl. Here, I'll lift your head so it's easy to swallow. That's it." She managed to drink it successfully.
 
-[P032] I was shocked by how long it took for the sedative to take effect. In reality, this just proved how completely exhausted her body was. The time dragged on until finally, her eyelids began to droop. At long last, the sedative started working, and she fell into a deep sleep. Once the Professor was satisfied that she was completely under, he called Arthur into the room and told him to take off his coat. Then he added, "You can give her one quick kiss while I set up the table. Friend John, come help me!" Neither of us looked while Arthur bent over to kiss her.
+[P032a] I was shocked by how long it took for the sedative to take effect. In reality, this just proved how completely exhausted her body was. The time dragged on until finally, her eyelids began to droop. At long last, the sedative started working, and she fell into a deep sleep. Once the Professor was satisfied that she was completely under, he called Arthur into the room and told him to take off his coat. Then he added, "You can give her one quick kiss while I set up the table. Friend John, come help me!" Neither of us looked while Arthur bent over to kiss her.
 
-[P033] Van Helsing turned to me and said:
+[P032b] Van Helsing turned to me and said:
 
-[P034] "He is so young and strong, and his blood is so healthy, that we don't even need to remove the fibrin to prevent clotting."
+[P033_034] "He is so young and strong, and his blood is so healthy, that we don't even need to remove the fibrin to prevent clotting."
 
 [P035] Van Helsing performed the procedure quickly but with absolute precision. As the blood transfusion continued, life seemed to flow back into poor Lucy's pale cheeks. Arthur was getting paler by the minute, but the pure joy on his face was practically glowing. After a while, I started getting worried, because losing that much blood was taking a heavy toll on Arthur, even though he was a strong man. It made me realize just how devastating Lucy's blood loss must have been, considering that draining Arthur so severely only partially restored her color. But the Professor remained focused, holding his pocket watch and shifting his eyes between Lucy and Arthur. The room was so quiet I could hear my own heart beating. Finally, he said softly, "Don't move a muscle. That is enough. John, you take care of him; I will tend to her." Once the procedure was finished, I could see just how drained Arthur was. I bandaged his arm and supported his weight to lead him out of the room. Without even turning around—the man seemed to have eyes in the back of his head—Van Helsing spoke:
 
@@ -72,15 +72,15 @@
 
 [P037] After Arthur left, I went back into the bedroom. Lucy was sleeping peacefully, and her breathing was much stronger; I could see the blanket rising and falling with her chest. Van Helsing was sitting by the bed, staring at her intently. The velvet ribbon had fallen back into place, covering the red mark. I whispered to the Professor:
 
-[P038] "What do you make of that mark on her neck?"
+[P038a] "What do you make of that mark on her neck?"
 
-[P039] "What do you make of it?"
+[P038b] "What do you make of it?"
 
-[P040] "I haven't looked closely at it yet," I replied, and I immediately leaned in to untie the ribbon. Right over her jugular vein were two small puncture wounds. They weren't large, but they looked nasty. It wasn't a disease; the edges of the wounds were white and ragged, as if the skin had been rubbed or chewed raw. For a second, I thought that this wound might be where she lost all that blood, but I immediately dismissed the idea as impossible. If she had lost enough blood from that wound to become as pale as she was before the transfusion, the entire bed would have been soaked red.
+[P039_040] "I haven't looked closely at it yet," I replied, and I immediately leaned in to untie the ribbon. Right over her jugular vein were two small puncture wounds. They weren't large, but they looked nasty. It wasn't a disease; the edges of the wounds were white and ragged, as if the skin had been rubbed or chewed raw. For a second, I thought that this wound might be where she lost all that blood, but I immediately dismissed the idea as impossible. If she had lost enough blood from that wound to become as pale as she was before the transfusion, the entire bed would have been soaked red.
 
-[P041] "Well?" Van Helsing asked.
+[P040b] "Well?" Van Helsing asked.
 
-[P042] "Well," I said, "I have no idea what caused it." The Professor stood up. "I must go back to Amsterdam tonight," he said. "I need to get some specific books and supplies from my home. You must stay here all night, and you must not take your eyes off her for a single second."
+[P041_042] "Well," I said, "I have no idea what caused it." The Professor stood up. "I must go back to Amsterdam tonight," he said. "I need to get some specific books and supplies from my home. You must stay here all night, and you must not take your eyes off her for a single second."
 
 [P043] "Should I hire a nurse to help?" I asked.
 
@@ -116,11 +116,11 @@
 
 [P059] I watched over her all through the night. She didn't stir once, but slept continuously in a deep, peaceful, healing sleep. Her lips were parted slightly, and her chest rose and fell as steadily as a clock's pendulum. She had a soft smile on her face, proving that no nightmares had come to ruin her peaceful rest.
 
-[P060] Her maid arrived early in the morning, so I left Lucy in her care and went back to my own home, as I had many other things to worry about. I sent short telegrams to Van Helsing and Arthur, letting them know that the procedure had been a massive success. I had to spend the entire day catching up on my own backlog of work; it was already dark by the time I was able to check on my animal-eating patient, Renfield. The report was positive; he had been perfectly quiet for the last twenty-four hours. While I was eating dinner, a telegram arrived from Van Helsing in Amsterdam. He suggested that I should go back and spend tonight at Hillingham, just to be close by in case I was needed. He also mentioned that he was taking the overnight mail train and would meet me there early tomorrow morning.
+[P060a] Her maid arrived early in the morning, so I left Lucy in her care and went back to my own home, as I had many other things to worry about. I sent short telegrams to Van Helsing and Arthur, letting them know that the procedure had been a massive success. I had to spend the entire day catching up on my own backlog of work; it was already dark by the time I was able to check on my animal-eating patient, Renfield. The report was positive; he had been perfectly quiet for the last twenty-four hours. While I was eating dinner, a telegram arrived from Van Helsing in Amsterdam. He suggested that I should go back and spend tonight at Hillingham, just to be close by in case I was needed. He also mentioned that he was taking the overnight mail train and would meet me there early tomorrow morning.
 
-[P061] *       *       *       *       *
+[P060b] *       *       *       *       *
 
-[P062] September 9.—I was extremely tired and worn out when I finally arrived at Hillingham. I had barely slept a wink for two nights, and my brain was starting to feel that heavy numbness that comes with extreme mental exhaustion. Lucy was awake and in excellent spirits. When she shook my hand, she looked closely at my face and said:
+[P061_062] September 9.—I was extremely tired and worn out when I finally arrived at Hillingham. I had barely slept a wink for two nights, and my brain was starting to feel that heavy numbness that comes with extreme mental exhaustion. Lucy was awake and in excellent spirits. When she shook my hand, she looked closely at my face and said:
 
 [P063] "There will be no staying up all night for you today. You are completely exhausted. I am feeling entirely well again; I really am. If anyone needs to stay up and keep watch, it should be me keeping watch over you." I was too tired to argue, so I simply went to eat my supper. Lucy sat with me, and her charming company really brightened my mood. I enjoyed a large meal and drank two glasses of an outstanding port wine. After that, Lucy took me upstairs and showed me into a room right next to hers, where a warm fire was already burning in the fireplace. "Now," she said, "you have to sleep here. I'll leave my door open, and I'll leave this door open, too. You can sleep on the sofa because I know none of you doctors will actually sleep in a real bed while there is a patient nearby. If I need anything at all, I will call out for you, and you can come to me instantly." I had no choice but to agree. I was absolutely exhausted, and I couldn't have stayed awake even if I tried. So, after she promised me one more time that she would call for me if she needed anything, I laid down on the sofa and instantly forgot about the entire world.
 
@@ -146,15 +146,15 @@
 
 [P074] "It isn't too late. Her heart is beating, although very weakly. All the progress we made has been completely wiped out; we have to start all over again. Young Arthur isn't here today; I'm going to have to ask for your blood this time, my friend John." Even as he spoke, he was already digging into his bag and pulling out the transfusion equipment. I immediately took off my coat and rolled up my shirtsleeve. We couldn't give her a sedative right now, nor did she need one since she was already unconscious, so we began the procedure without wasting a single second. After a while—and it certainly didn't feel like a short while, because having your blood drained, even when you give it gladly, is a terrible sensation—Van Helsing held up a finger in warning. "Don't move," he whispered, "but I'm worried that as she gets stronger, she might wake up; and that would be incredibly dangerous. I need to take a precaution. I'm going to give her a hypodermic injection of morphine." He quickly and skillfully administered the shot. It had a good effect on Lucy, as her faint seemed to smoothly transition into a drug-induced sleep. I felt a surge of personal pride as I saw a faint hint of pink finally return to her pale cheeks and lips. No man can truly understand what it feels like to have his own life-blood drained into the veins of the woman he loves until he actually experiences it for himself.
 
-[P075] The Professor watched me carefully. "That is enough," he said. "Already?" I protested. "You took significantly more blood from Arthur." He gave me a sad smile and replied:
+[P075a] The Professor watched me carefully. "That is enough," he said. "Already?" I protested. "You took significantly more blood from Arthur." He gave me a sad smile and replied:
 
-[P076] "He is her lover, her fiancé. You have a job to do, and a lot of hard work ahead of you, both for her sake and for others. What you have given today is enough."
+[P075b] "He is her lover, her fiancé. You have a job to do, and a lot of hard work ahead of you, both for her sake and for others. What you have given today is enough."
 
-[P077] When we finished the transfusion, Van Helsing tended to Lucy while I applied pressure with my fingers to my own cut. I lay down while I waited for him to have a free moment to bandage my arm, because I was feeling faint and slightly nauseous. Soon enough, he wrapped my wound and sent me downstairs to pour myself a glass of wine. As I was walking out of the room, he followed me and whispered:
+[P076_077] When we finished the transfusion, Van Helsing tended to Lucy while I applied pressure with my fingers to my own cut. I lay down while I waited for him to have a free moment to bandage my arm, because I was feeling faint and slightly nauseous. Soon enough, he wrapped my wound and sent me downstairs to pour myself a glass of wine. As I was walking out of the room, he followed me and whispered:
 
-[P078] "Remember, you must not tell anyone about this. If our young friend Arthur shows up unexpectedly like he did yesterday, do not say a word to him about it. It would only terrify him, and it might also make him jealous. We cannot allow that. Understood!"
+[P077b] "Remember, you must not tell anyone about this. If our young friend Arthur shows up unexpectedly like he did yesterday, do not say a word to him about it. It would only terrify him, and it might also make him jealous. We cannot allow that. Understood!"
 
-[P079] When I came back upstairs, he looked at me closely and then said:
+[P078_079] When I came back upstairs, he looked at me closely and then said:
 
 [P080] "You aren't doing too badly. Go into the next room, lie down on your sofa, and rest for a while. After that, eat a very large breakfast, and then come back to see me."
 
@@ -168,11 +168,11 @@
 
 [P085] Van Helsing returned a couple of hours later and immediately said to me: "Now go home. Eat plenty of food and drink plenty of fluids. Build your strength back up. I will stay here tonight, and I will keep watch over the little miss myself. You and I must monitor this case closely, and no one else can know about it. I have very serious reasons for this. No, do not ask what they are; you can think whatever you want. Don't be afraid to consider even the most impossible explanations. Good night."
 
-[P086] While I was walking through the hallway, two of the maids came up to me and asked if one or both of them could stay up to watch over Miss Lucy tonight. They practically begged me to let them do it. When I explained that Dr. Van Helsing specifically wanted either himself or me to keep watch, they pleaded with me pitifully to talk to the "foreign gentleman" on their behalf. I was deeply touched by their kindness. Maybe it was because I am physically weak right now, or maybe it was because they were showing such devotion to Lucy, but it moved me. I have seen many similar instances of women showing such fierce, gentle care for others. I made it back to my own home just in time for a late dinner. I did my evening rounds with my patients—everything was fine—and now I am writing this down while I wait to fall asleep. It is finally coming.
+[P086a] While I was walking through the hallway, two of the maids came up to me and asked if one or both of them could stay up to watch over Miss Lucy tonight. They practically begged me to let them do it. When I explained that Dr. Van Helsing specifically wanted either himself or me to keep watch, they pleaded with me pitifully to talk to the "foreign gentleman" on their behalf. I was deeply touched by their kindness. Maybe it was because I am physically weak right now, or maybe it was because they were showing such devotion to Lucy, but it moved me. I have seen many similar instances of women showing such fierce, gentle care for others. I made it back to my own home just in time for a late dinner. I did my evening rounds with my patients—everything was fine—and now I am writing this down while I wait to fall asleep. It is finally coming.
 
-[P087] *       *       *       *       *
+[P086b] *       *       *       *       *
 
-[P088] September 11.—I went over to Hillingham this afternoon. I found Van Helsing in excellent spirits, and Lucy was doing much better. Shortly after I arrived, a large package from overseas was delivered for the Professor. He opened it with a great show of dramatic flair—which was obviously intentional—and revealed a huge bundle of white flowers.
+[P087_088] September 11.—I went over to Hillingham this afternoon. I found Van Helsing in excellent spirits, and Lucy was doing much better. Shortly after I arrived, a large package from overseas was delivered for the Professor. He opened it with a great show of dramatic flair—which was obviously intentional—and revealed a huge bundle of white flowers.
 
 [P089] "These are for you, Miss Lucy," he said.
 

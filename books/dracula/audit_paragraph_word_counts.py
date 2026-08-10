@@ -16,7 +16,7 @@ def count_metrics(filepath):
     p_count = len(paras)
 
     # Strip out the paragraph IDs if they exist (e.g. [P001]) before counting words
-    clean_text = re.sub(r'\[P\d+\]\s*', '', text)
+    clean_text = re.sub(r'\[P[0-9a-zA-Z_]+\]\s*', '', text)
     w_count = len(clean_text.split())
 
     return p_count, f"{w_count:,}", paras
@@ -30,8 +30,8 @@ def detect_misalignment(en_paras, ko_paras, chapter, threshold=4.0, min_en_words
     """
     issues = []
     for i, (ep, kp) in enumerate(zip(en_paras, ko_paras)):
-        en_clean = re.sub(r'\[P\d+\]\s*', '', ep)
-        ko_clean = re.sub(r'\[P\d+\]\s*', '', kp)
+        en_clean = re.sub(r'\[P[0-9a-zA-Z_]+\]\s*', '', ep)
+        ko_clean = re.sub(r'\[P[0-9a-zA-Z_]+\]\s*', '', kp)
         en_words = len(en_clean.split())
         ko_words = len(ko_clean.split())
         if en_words >= min_en_words and ko_words > 0:
@@ -64,7 +64,7 @@ def generate_report():
     for i in range(1, 28):
         ch = f"{i:02d}"
 
-        raw_en  = os.path.join(base_dir, f"raw_ch_{ch}.txt")
+        raw_en  = os.path.join('books/dracula/chapters_backup', f"raw_ch_{ch}.txt")
         chunk_en = os.path.join(base_dir, f"ch{ch}_en.txt")
         chunk_ko = os.path.join(base_dir, f"ch{ch}_ko.txt")
 
@@ -114,7 +114,7 @@ def generate_report():
         markdown_lines.append("| — | — | — | — | — | ✅ No issues found |")
 
     # Save
-    artifact_path = r"C:\Users\hongw\.gemini\antigravity\brain\b85acb0a-6fb8-4473-bf15-263a48b385aa\audit_report.md"
+    artifact_path = "books/dracula/audit_report.md"
     with open(artifact_path, 'w', encoding='utf-8') as f:
         f.write('\n'.join(markdown_lines))
 

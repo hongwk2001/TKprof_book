@@ -3,7 +3,7 @@ import re
 
 def get_words(text):
     # Remove paragraph tags like [P001]
-    text = re.sub(r'\[P\d+\]', '', text)
+    text = re.sub(r'\[P[0-9a-zA-Z_]+\]', '', text)
     # Lowercase and find all word tokens (ignoring punctuation)
     return re.findall(r'\b\w+\b', text.lower())
 
@@ -27,7 +27,7 @@ def validate():
     print("-" * 40)
     for i in range(1, 28):
         ch = f'{i:02d}'
-        ch_path = os.path.join(base, f'raw_ch_{ch}.txt')
+        ch_path = os.path.join('books/dracula/chapters_backup', f'raw_ch_{ch}.txt')
         if not os.path.exists(ch_path):
             print(f"Ch {ch}: File not found!")
             continue
@@ -87,12 +87,12 @@ def validate():
     
     # Check if we have a perfect match
     if max_match_len == total_chapters_words:
-        print("✅ SUCCESS: The 27 raw chapters perfectly match raw_source.txt sequentially!")
+        print("[SUCCESS] The 27 raw chapters perfectly match raw_source.txt sequentially!")
         print(f"Core Narrative Range in raw_source: words {best_start:,} to {best_start + total_chapters_words:,}")
         print(f"Raw Source Total Words: {len(source_words):,}")
         print(f"Matched Narrative Words: {total_chapters_words:,}")
     else:
-        print(f"❌ FAILURE: Mismatch detected at offset {max_match_len:,} from start of narrative.")
+        print(f"[FAILURE] Mismatch detected at offset {max_match_len:,} from start of narrative.")
         
         # Print surrounding context of the mismatch
         mismatch_idx_source = best_start + max_match_len

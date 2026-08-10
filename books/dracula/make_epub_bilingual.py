@@ -90,10 +90,10 @@ def txt_to_bilingual_html(en_paras, ko_paras, title):
     
     import re
     # Strip ID from chapter title if present
-    pid_match_en = re.match(r'^(\[P\d+\])\s*', first_en)
+    pid_match_en = re.match(r'^(\[P[0-9a-zA-Z_]+\])\s*', first_en)
     if pid_match_en:
         first_en = first_en[len(pid_match_en.group(1)):].strip()
-    pid_match_ko = re.match(r'^(\[P\d+\])\s*', first_ko)
+    pid_match_ko = re.match(r'^(\[P[0-9a-zA-Z_]+\])\s*', first_ko)
     if pid_match_ko:
         first_ko = first_ko[len(pid_match_ko.group(1)):].strip()
     
@@ -105,16 +105,16 @@ def txt_to_bilingual_html(en_paras, ko_paras, title):
         ko_p = ko_paras[i]
         
         # Extract paragraph ID if present (e.g., [P001])
-        pid_match = re.match(r'^(\[P\d+\])\s*', en_p)
+        pid_match = re.match(r'^(\[P[0-9a-zA-Z_]+\])\s*', en_p)
         if pid_match:
             pid = pid_match.group(1)
             en_p = en_p[len(pid):].strip()
             # Also strip from Korean if present
             if ko_p.startswith(pid):
                 ko_p = ko_p[len(pid):].strip()
-            elif re.match(r'^(\[P\d+\])\s*', ko_p):
+            elif re.match(r'^(\[P[0-9a-zA-Z_]+\])\s*', ko_p):
                 # Fallback if ko_p starts with a different pid for some reason
-                ko_p = re.sub(r'^\[P\d+\]\s*', '', ko_p)
+                ko_p = re.sub(r'^\[P[0-9a-zA-Z_]+\]\s*', '', ko_p)
 
         html_parts.append(f"  <p class=\"eng\">{en_p}</p>")
         html_parts.append(f"  <p class=\"kor\">{ko_p}</p>")

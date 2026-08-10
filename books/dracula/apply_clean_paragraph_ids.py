@@ -35,11 +35,18 @@ def main():
         tagged_en = []
         tagged_ko = []
         for idx in range(len(en_paras)):
-            clean_en = re.sub(r'^\[P\d+\]\s*', '', en_paras[idx])
-            clean_ko = re.sub(r'^\[P\d+\]\s*', '', ko_paras[idx])
+            # Detect existing tag in English, else fallback to sequential
+            en_match = re.match(r'^\[(P[0-9a-zA-Z_]+)\]\s*', en_paras[idx])
+            if en_match:
+                tag = en_match.group(1)
+            else:
+                tag = f"P{idx+1:03d}"
+                
+            clean_en = re.sub(r'^\[P[0-9a-zA-Z_]+\]\s*', '', en_paras[idx])
+            clean_ko = re.sub(r'^\[P[0-9a-zA-Z_]+\]\s*', '', ko_paras[idx])
             
-            tagged_en.append(f"[P{idx+1:03d}] {clean_en}")
-            tagged_ko.append(f"[P{idx+1:03d}] {clean_ko}")
+            tagged_en.append(f"[{tag}] {clean_en}")
+            tagged_ko.append(f"[{tag}] {clean_ko}")
             
         with open(en_file, 'w', encoding='utf-8') as f:
             f.write('\n\n'.join(tagged_en))

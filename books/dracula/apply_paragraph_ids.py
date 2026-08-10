@@ -21,11 +21,17 @@ def apply_ids():
             continue
             
         for idx in range(len(en_paras)):
-            # Check if already tagged
-            if not re.match(r'^\[P\d+\]\s+', en_paras[idx]):
-                en_paras[idx] = f"[P{idx+1:03d}] " + en_paras[idx]
-            if not re.match(r'^\[P\d+\]\s+', ko_paras[idx]):
-                ko_paras[idx] = f"[P{idx+1:03d}] " + ko_paras[idx]
+            en_match = re.match(r'^\[(P[0-9a-zA-Z_]+)\]\s*', en_paras[idx])
+            if en_match:
+                tag = en_match.group(1)
+            else:
+                tag = f"P{idx+1:03d}"
+                
+            clean_en = re.sub(r'^\[P[0-9a-zA-Z_]+\]\s*', '', en_paras[idx])
+            clean_ko = re.sub(r'^\[P[0-9a-zA-Z_]+\]\s*', '', ko_paras[idx])
+            
+            en_paras[idx] = f"[{tag}] " + clean_en
+            ko_paras[idx] = f"[{tag}] " + clean_ko
                 
         with open(en_file, 'w', encoding='utf-8') as f:
             f.write('\n\n'.join(en_paras))
