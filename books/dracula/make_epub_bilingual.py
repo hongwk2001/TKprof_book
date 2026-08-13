@@ -72,13 +72,16 @@ def read_paragraphs(path):
         paras = [p.strip() for p in raw.split("\n\n") if p.strip()]
         return paras
 
+import html
+
 def txt_to_bilingual_html(en_paras, ko_paras, title):
+    title_escaped = html.escape(title)
     html_parts = [
         f"<?xml version='1.0' encoding='utf-8'?>",
         f"<!DOCTYPE html>",
         f"<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">",
         f"<head>",
-        f"  <title>{title}</title>",
+        f"  <title>{title_escaped}</title>",
         f"  <link rel=\"stylesheet\" href=\"../Styles/main.css\" type=\"text/css\"/>",
         f"</head>",
         f"<body>",
@@ -97,8 +100,11 @@ def txt_to_bilingual_html(en_paras, ko_paras, title):
     if pid_match_ko:
         first_ko = first_ko[len(pid_match_ko.group(1)):].strip()
     
+    first_en_esc = html.escape(first_en)
+    first_ko_esc = html.escape(first_ko)
+
     # Assume the first paragraph is the chapter title (e.g. CHAPTER I)
-    html_parts.append(f"  <h2>{first_en}<br/><span style='font-size: 0.8em; color: #2c3e50;'>{first_ko}</span></h2>")
+    html_parts.append(f"  <h2>{first_en_esc}<br/><span style='font-size: 0.8em; color: #2c3e50;'>{first_ko_esc}</span></h2>")
     
     for i in range(1, len(en_paras)):
         en_p = en_paras[i]
@@ -116,8 +122,11 @@ def txt_to_bilingual_html(en_paras, ko_paras, title):
                 # Fallback if ko_p starts with a different pid for some reason
                 ko_p = re.sub(r'^\[P[0-9a-zA-Z_]+\]\s*', '', ko_p)
 
-        html_parts.append(f"  <p class=\"eng\">{en_p}</p>")
-        html_parts.append(f"  <p class=\"kor\">{ko_p}</p>")
+        en_esc = html.escape(en_p)
+        ko_esc = html.escape(ko_p)
+
+        html_parts.append(f"  <p class=\"eng\">{en_esc}</p>")
+        html_parts.append(f"  <p class=\"kor\">{ko_esc}</p>")
 
     html_parts.append("</body>\n</html>")
     return "\n".join(html_parts)
@@ -126,8 +135,14 @@ def build_epub():
     book_id = f"urn:uuid:{uuid.uuid4()}"
     pub_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-    cover_path = os.path.join(BASE_DIR, "cover.jpg")
+    cover_path = os.path.join(BASE_DIR, "covers", "cover_eng_ko_square.jpg")
+    if not os.path.exists(cover_path):
+        cover_path = os.path.join(BASE_DIR, "images", "cover.jpg")
+    if not os.path.exists(cover_path):
+        cover_path = os.path.join(BASE_DIR, "cover.jpg")
     has_cover = os.path.exists(cover_path)
+    if has_cover:
+        print(f"Embedding cover image from: {cover_path}")
 
     chapters_data = []
     

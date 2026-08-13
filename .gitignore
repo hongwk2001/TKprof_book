@@ -50,3 +50,7 @@ wsl_venv/
 
 # Machine Learning Models
 *.onnx
+
+# Browser Profiles
+d2d_browser_profile/
+

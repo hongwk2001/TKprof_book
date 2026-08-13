@@ -17,10 +17,8 @@ OUTPUT_FILE   = os.path.join(BASE_DIR, "odyssey_ko.epub")
 
 # ── CSS Style ─────────────────────────────────────────────────────────────────
 STYLE = """
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700&display=swap');
-
 body {
-    font-family: 'Noto Serif KR', serif;
+    font-family: 'Noto Serif KR', 'KoPubWorldBatang', 'Batang', serif;
     font-size: 1em;
     line-height: 1.8;
     margin: 1.5em 2em;
@@ -281,8 +279,15 @@ def main():
         
     with zipfile.ZipFile(OUTPUT_FILE, "w", zipfile.ZIP_DEFLATED) as epub:
         epub.writestr("mimetype", "application/epub+zip", compress_type=zipfile.ZIP_STORED)
-        epub.writestr("META-INF/container.xml", container_content)
-        epub.write(os.path.join(BASE_DIR, "cover.png"), "OEBPS/Images/cover.png")
+        cover_cand = [
+            os.path.join(BASE_DIR, "cover_ko.png"),
+            os.path.join(BASE_DIR, "cover_ko.jpg"),
+            os.path.join(BASE_DIR, "cover.png"),
+            os.path.join(BASE_DIR, "cover.jpg")
+        ]
+        cover_path = next((c for c in cover_cand if os.path.exists(c)), None)
+        if cover_path:
+            epub.write(cover_path, "OEBPS/Images/cover.png")
         epub.writestr("OEBPS/Text/cover.xhtml", cover_html)
         epub.writestr("OEBPS/Styles/main.css", STYLE)
         epub.writestr("OEBPS/content.opf", opf_content)
