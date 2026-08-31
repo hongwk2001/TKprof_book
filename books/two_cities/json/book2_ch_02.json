@@ -1,0 +1,978 @@
+[
+  {
+    "id": 1,
+    "tag": "P001",
+    "raw": "CHAPTER II. A Sight",
+    "en": "[Chapter 2] A Sight",
+    "ko": "",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P002",
+    "raw": "“You know the Old Bailey well, no doubt?” said one of the oldest of clerks to Jerry the messenger.",
+    "en": "\"You know the Old Bailey courthouse well, no doubt?\" said one of the oldest clerks to Jerry the messenger.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P003",
+    "raw": "“Ye-es, sir,” returned Jerry, in something of a dogged manner. “I _do_ know the Bailey.”",
+    "en": "\"Yes, sir,\" returned Jerry in a stubborn voice. \"I _do_ know the Bailey.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P004_1",
+    "raw": "“Just so.",
+    "en": "\"Just so.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P004_2",
+    "raw": "And you know Mr.",
+    "en": "And you know Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P004_3",
+    "raw": "Lorry.”",
+    "en": "Lorry.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P005_1",
+    "raw": "“I know Mr.",
+    "en": "\"I know Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P005_2",
+    "raw": "Lorry, sir, much better than I know the Bailey.",
+    "en": "Lorry, sir, much better than I know the Bailey.\" He said it the way a reluctant witness answers in court.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P005_3",
+    "raw": "Much better,” said Jerry, not unlike a reluctant witness at the establishment in question, “than I, as a honest tradesman, wish to know the Bailey.”",
+    "en": "\"Much better than I, as an honest tradesman, wish to know the Bailey.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P006_1",
+    "raw": "“Very well.",
+    "en": "\"Very well.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P006_2",
+    "raw": "Find the door where the witnesses go in, and show the door-keeper this note for Mr.",
+    "en": "Find the door where the witnesses go in, and show the doorkeeper this note for Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P006_3",
+    "raw": "Lorry.",
+    "en": "Lorry.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P006_4",
+    "raw": "He will then let you in.”",
+    "en": "He will then let you in.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P007",
+    "raw": "“Into the court, sir?”",
+    "en": "\"Into the courtroom, sir?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P008",
+    "raw": "“Into the court.”",
+    "en": "\"Into the courtroom.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P009_1",
+    "raw": "Mr.",
+    "en": "Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P009_2",
+    "raw": "Cruncher’s eyes seemed to get a little closer to one another, and to interchange the inquiry, “What do you think of this?”",
+    "en": "Cruncher’s eyes seemed to get a little closer together, as if asking each other, \"What do you think of this?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P010",
+    "raw": "“Am I to wait in the court, sir?” he asked, as the result of that conference.",
+    "en": "\"Am I to wait in the court, sir?\" he asked, after considering the idea.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P011_1",
+    "raw": "“I am going to tell you.",
+    "en": "\"I am going to tell you.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P011_2",
+    "raw": "The door-keeper will pass the note to Mr.",
+    "en": "The doorkeeper will pass the note to Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P011_3",
+    "raw": "Lorry, and do you make any gesture that will attract Mr.",
+    "en": "Lorry. You must make some gesture to attract Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P011_4",
+    "raw": "Lorry’s attention, and show him where you stand.",
+    "en": "Lorry’s attention and show him where you are standing.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P011_5",
+    "raw": "Then what you have to do, is, to remain there until he wants you.”",
+    "en": "Then, your job is simply to stay there until he needs you.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P012",
+    "raw": "“Is that all, sir?”",
+    "en": "\"Is that all, sir?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P013_1",
+    "raw": "“That’s all.",
+    "en": "\"That’s all.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P013_2",
+    "raw": "He wishes to have a messenger at hand.",
+    "en": "He wants to have a messenger nearby.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P013_3",
+    "raw": "This is to tell him you are there.”",
+    "en": "This note is just to let him know you have arrived.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P014_1",
+    "raw": "As the ancient clerk deliberately folded and superscribed the note, Mr.",
+    "en": "As the old clerk slowly folded and addressed the note, Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P014_2",
+    "raw": "Cruncher, after surveying him in silence until he came to the blotting-paper stage, remarked:",
+    "en": "Cruncher watched him in silence until he began using the blotting paper to dry the ink. Then Jerry remarked:",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P015",
+    "raw": "“I suppose they’ll be trying Forgeries this morning?”",
+    "en": "\"I suppose they’ll be trying forgery cases this morning?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P016",
+    "raw": "“Treason!”",
+    "en": "\"Treason!\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P017",
+    "raw": "“That’s quartering,” said Jerry. “Barbarous!”",
+    "en": "\"That means drawing and quartering,\" said Jerry. \"Barbarous!\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P018",
+    "raw": "“It is the law,” remarked the ancient clerk, turning his surprised spectacles upon him. “It is the law.”",
+    "en": "\"It is the law,\" remarked the old clerk, turning his spectacles toward him in surprise. \"It is the law.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P019_1",
+    "raw": "“It’s hard in the law to spile a man, I think.",
+    "en": "\"I think it’s harsh for the law to ruin a man's body like that.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P019_2",
+    "raw": "It’s hard enough to kill him, but it’s wery hard to spile him, sir.”",
+    "en": "It’s hard enough to kill him, but it’s very hard to slice him up, sir.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P020_1",
+    "raw": "“Not at all,” retained the ancient clerk. “Speak well of the law.",
+    "en": "\"Not at all,\" replied the old clerk. \"Speak well of the law.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P020_2",
+    "raw": "Take care of your chest and voice, my good friend, and leave the law to take care of itself.",
+    "en": "Take care of your own health, my friend, and leave the law to take care of itself.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P020_3",
+    "raw": "I give you that advice.”",
+    "en": "That is my advice to you.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P021",
+    "raw": "“It’s the damp, sir, what settles on my chest and voice,” said Jerry. “I leave you to judge what a damp way of earning a living mine is.”",
+    "en": "\"It’s the damp weather, sir, that settles in my chest and voice,\" said Jerry. \"You can imagine what a damp way of earning a living mine is.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P022_1",
+    "raw": "“Well, well,” said the old clerk; “we all have our various ways of gaining a livelihood.",
+    "en": "\"Well, well,\" said the old clerk. \"We all have our different ways of making a living.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P022_2",
+    "raw": "Some of us have damp ways, and some of us have dry ways.",
+    "en": "Some of us have damp ways, and some have dry ways.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P022_3",
+    "raw": "Here is the letter.",
+    "en": "Here is the letter.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P022_4",
+    "raw": "Go along.”",
+    "en": "Off you go.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P023",
+    "raw": "Jerry took the letter, and, remarking to himself with less internal deference than he made an outward show of, “You are a lean old one, too,” made his bow, informed his son, in passing, of his destination, and went his way.",
+    "en": "Jerry took the letter. Under his breath, with far less respect than his polite bow suggested, he muttered, \"You are a withered old man yourself.\" He told his son where he was going as he walked past him. Then he went on his way.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P024_1",
+    "raw": "They hanged at Tyburn, in those days, so the street outside Newgate had not obtained one infamous notoriety that has since attached to it.",
+    "en": "In those days, executions were carried out at Tyburn, so the street outside Newgate Prison had not yet gained the infamous reputation it would have later.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P024_2",
+    "raw": "But, the gaol was a vile place, in which most kinds of debauchery and villainy were practised, and where dire diseases were bred, that came into court with the prisoners, and sometimes rushed straight from the dock at my Lord Chief Justice himself, and pulled him off the bench.",
+    "en": "However, the prison itself was a filthy, corrupt place where all kinds of vice and crime were practiced and where terrible diseases bred. These illnesses often came into the courtroom with the prisoners, sometimes spreading directly to the Lord Chief Justice himself and killing him.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P024_3",
+    "raw": "It had more than once happened, that the Judge in the black cap pronounced his own doom as certainly as the prisoner’s, and even died before him.",
+    "en": "More than once, a judge wearing the black execution cap had pronounced his own death sentence along with the prisoner's, dying even before the condemned man did.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P024_4",
+    "raw": "For the rest, the Old Bailey was famous as a kind of deadly inn-yard, from which pale travellers set out continually, in carts and coaches, on a violent passage into the other world: traversing some two miles and a half of public street and road, and shaming few good citizens, if any.",
+    "en": "Otherwise, the Old Bailey was famous as a deadly departure point. Pale travelers set out from there in carts and carriages, making a violent journey into the next world. They traveled two and a half miles through public streets. Any good citizens who watched had reason to feel ashamed.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P024_5",
+    "raw": "So powerful is use, and so desirable to be good use in the beginning.",
+    "en": "Such is the power of custom, showing how important it is to establish good customs in the first place.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P024_6",
+    "raw": "It was famous, too, for the pillory, a wise old institution, that inflicted a punishment of which no one could foresee the extent; also, for the whipping-post, another dear old institution, very humanising and softening to behold in action; also, for extensive transactions in blood-money, another fragment of ancestral wisdom, systematically leading to the most frightful mercenary crimes that could be committed under Heaven.",
+    "en": "The court was also famous for the pillory. It was a punishment where no one could predict how much harm the crowd might do. Then there was the whipping post ,  another beloved tradition. And there was the practice of paying reward money for catching criminals. That system reliably led to terrible crimes committed purely for greed.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P024_7",
+    "raw": "Altogether, the Old Bailey, at that date, was a choice illustration of the precept, that “Whatever is is right;” an aphorism that would be as final as it is lazy, did it not include the troublesome consequence, that nothing that ever was, was wrong.",
+    "en": "Overall, the Old Bailey at that time was a prime example of the lazy saying, \"Whatever is, is right.\" It's a tidy idea. It would be simple and final ,  except that it also means nothing in the past had ever been wrong.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P025_1",
+    "raw": "Making his way through the tainted crowd, dispersed up and down this hideous scene of action, with the skill of a man accustomed to make his way quietly, the messenger found out the door he sought, and handed in his letter through a trap in it.",
+    "en": "Jerry moved through the dirty crowd with the quiet skill of a man who knew how to go unnoticed. He found the door he was looking for and passed his note through a small slot.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P025_2",
+    "raw": "For, people then paid to see the play at the Old Bailey, just as they paid to see the play in Bedlam--only the former entertainment was much the dearer.",
+    "en": "In those days, people paid to watch trials at the Old Bailey just as they paid to watch the patients at Bedlam asylum, except the trials cost much more.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P025_3",
+    "raw": "Therefore, all the Old Bailey doors were well guarded--except, indeed, the social doors by which the criminals got there, and those were always left wide open.",
+    "en": "Therefore, all the doors to the Old Bailey were heavily guarded, except for the doors the criminals entered through, which were always left wide open.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P026_1",
+    "raw": "After some delay and demur, the door grudgingly turned on its hinges a very little way, and allowed Mr.",
+    "en": "After some delay and discussion, the door opened slightly, allowing Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P026_2",
+    "raw": "Jerry Cruncher to squeeze himself into court.",
+    "en": "Jerry Cruncher to squeeze himself into the courtroom.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P027",
+    "raw": "“What’s on?” he asked, in a whisper, of the man he found himself next to.",
+    "en": "\"What's happening?\" he whispered to the man standing next to him.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P028",
+    "raw": "“Nothing yet.”",
+    "en": "\"Nothing yet.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P029",
+    "raw": "“What’s coming on?”",
+    "en": "\"What case is coming up?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P030",
+    "raw": "“The Treason case.”",
+    "en": "\"The treason case.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P031",
+    "raw": "“The quartering one, eh?”",
+    "en": "\"The drawing and quartering one, right?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P032_1",
+    "raw": "“Ah!” returned the man, with a relish; “he’ll be drawn on a hurdle to be half hanged, and then he’ll be taken down and sliced before his own face, and then his inside will be taken out and burnt while he looks on, and then his head will be chopped off, and he’ll be cut into quarters.",
+    "en": "\"Yes!\" the man replied with excitement. \"He’ll be dragged on a wooden frame to be half-hanged, then cut down and sliced up while he's still alive. His insides will be pulled out and burned before his eyes, then his head will be chopped off and his body cut into four pieces.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P032_2",
+    "raw": "That’s the sentence.”",
+    "en": "That’s the sentence.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "tag": "P033",
+    "raw": "“If he’s found Guilty, you mean to say?” Jerry added, by way of proviso.",
+    "en": "\"If he’s found guilty, you mean?\" Jerry added, to clarify.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P034",
+    "raw": "“Oh! they’ll find him guilty,” said the other. “Don’t you be afraid of that.”",
+    "en": "\"Oh, they’ll find him guilty,\" said the other. \"Don't you worry about that.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P035_1",
+    "raw": "Mr.",
+    "en": "Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P035_2",
+    "raw": "Cruncher’s attention was here diverted to the door-keeper, whom he saw making his way to Mr.",
+    "en": "Cruncher’s attention was then drawn to the doorkeeper, whom he saw walking toward Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "tag": "P035_3",
+    "raw": "Lorry, with the note in his hand.",
+    "en": "Lorry with the note.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "tag": "P035_4",
+    "raw": "Mr.",
+    "en": "Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "tag": "P035_5",
+    "raw": "Lorry sat at a table, among the gentlemen in wigs: not far from a wigged gentleman, the prisoner’s counsel, who had a great bundle of papers before him: and nearly opposite another wigged gentleman with his hands in his pockets, whose whole attention, when Mr.",
+    "en": "Lorry sat at a table among the lawyers in wigs, not far from the prisoner’s defense lawyer, who had a large stack of papers in front of him. Nearly opposite sat another lawyer in a wig, with his hands in his pockets, who seemed entirely focused on staring at the courtroom ceiling.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "tag": "P035_6",
+    "raw": "Cruncher looked at him then or afterwards, seemed to be concentrated on the ceiling of the court.",
+    "en": "Whenever Mr. Cruncher looked at him, whether right then or later on, the man seemed to be completely focused on the courtroom ceiling.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "tag": "P035_7",
+    "raw": "After some gruff coughing and rubbing of his chin and signing with his hand, Jerry attracted the notice of Mr.",
+    "en": "It took some effort, but he finally caught Mr. Lorry's eye. Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "tag": "P035_8",
+    "raw": "Lorry, who had stood up to look for him, and who quietly nodded and sat down again.",
+    "en": "Lorry had stood up to look for him. He nodded quietly and sat back down.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "tag": "P036",
+    "raw": "“What’s _he_ got to do with the case?” asked the man he had spoken with.",
+    "en": "\"What does _he_ have to do with the case?\" asked the man Jerry had been talking to.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "tag": "P037",
+    "raw": "“Blest if I know,” said Jerry.",
+    "en": "\"I have no idea,\" said Jerry.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "tag": "P038",
+    "raw": "“What have _you_ got to do with it, then, if a person may inquire?”",
+    "en": "\"What do _you_ have to do with it, then, if I may ask?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "tag": "P039",
+    "raw": "“Blest if I know that either,” said Jerry.",
+    "en": "\"I don't know that either,\" said Jerry.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "tag": "P040_1",
+    "raw": "The entrance of the Judge, and a consequent great stir and settling down in the court, stopped the dialogue.",
+    "en": "The entrance of the Judge and the general movement of the crowd settling into their places stopped their conversation.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "tag": "P040_2",
+    "raw": "Presently, the dock became the central point of interest.",
+    "en": "Soon, the prisoner's dock became the center of attention.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "tag": "P040_3",
+    "raw": "Two gaolers, who had been standing there, went out, and the prisoner was brought in, and put to the bar.",
+    "en": "Two guards who had been standing there stepped out, and the prisoner was brought in and placed at the bar.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "tag": "P041_1",
+    "raw": "Everybody present, except the one wigged gentleman who looked at the ceiling, stared at him.",
+    "en": "Everyone in the courtroom, except the lawyer looking at the ceiling, stared at him.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "tag": "P041_2",
+    "raw": "All the human breath in the place, rolled at him, like a sea, or a wind, or a fire.",
+    "en": "The breath of the crowd seemed to rush toward him like a wave, a wind, or a fire.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "tag": "P041_3",
+    "raw": "Eager faces strained round pillars and corners, to get a sight of him; spectators in back rows stood up, not to miss a hair of him; people on the floor of the court, laid their hands on the shoulders of the people before them, to help themselves, at anybody’s cost, to a view of him--stood a-tiptoe, got upon ledges, stood upon next to nothing, to see every inch of him.",
+    "en": "Eager faces leaned around pillars and corners to see him. Spectators in the back rows stood up so they wouldn't miss a single detail. People on the floor put their hands on the shoulders of those in front of them to get a better view. They stood on tiptoe and climbed onto ledges.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "tag": "P041_4",
+    "raw": "Conspicuous among these latter, like an animated bit of the spiked wall of Newgate, Jerry stood: aiming at the prisoner the beery breath of a whet he had taken as he came along, and discharging it to mingle with the waves of other beer, and gin, and tea, and coffee, and what not, that flowed at him, and already broke upon the great windows behind him in an impure mist and rain.",
+    "en": "Standing out among them was Jerry. He looked like a piece of the spiked wall of Newgate Prison. He breathed out the smell of the beer he had drunk on the way. That smell joined the thick, damp air of the crowded room ,  the air that was slowly misting up the large windows behind the prisoner.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "tag": "P042_1",
+    "raw": "The object of all this staring and blaring, was a young man of about five-and-twenty, well-grown and well-looking, with a sunburnt cheek and a dark eye.",
+    "en": "The target of all this attention was a young man of about twenty-five, tall, well-built, with sunburnt skin and dark eyes.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "tag": "P042_2",
+    "raw": "His condition was that of a young gentleman.",
+    "en": "He looked like a young gentleman.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "tag": "P042_3",
+    "raw": "He was plainly dressed in black, or very dark grey, and his hair, which was long and dark, was gathered in a ribbon at the back of his neck; more to be out of his way than for ornament.",
+    "en": "He was dressed plainly in black or dark gray, and his long, dark hair was tied back with a ribbon, more to keep it out of the way than for style.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "tag": "P042_4",
+    "raw": "As an emotion of the mind will express itself through any covering of the body, so the paleness which his situation engendered came through the brown upon his cheek, showing the soul to be stronger than the sun.",
+    "en": "Just as strong emotions show through any clothing, the paleness caused by his dangerous situation showed through his sunburned cheeks, proving that his inner feelings were stronger than the sun.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "tag": "P042_5",
+    "raw": "He was otherwise quite self-possessed, bowed to the Judge, and stood quiet.",
+    "en": "Otherwise, he was quite calm, bowed to the Judge, and stood quietly.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "tag": "P043_1",
+    "raw": "The sort of interest with which this man was stared and breathed at, was not a sort that elevated humanity.",
+    "en": "The interest with which the crowd stared and breathed on this man was not a noble human feeling.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "tag": "P043_2",
+    "raw": "Had he stood in peril of a less horrible sentence--had there been a chance of any one of its savage details being spared--by just so much would he have lost in his fascination.",
+    "en": "If he had been facing a less terrible sentence, or if there had been any chance he would be spared its brutal details, he would have been far less fascinating to them.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "tag": "P043_3",
+    "raw": "The form that was to be doomed to be so shamefully mangled, was the sight; the immortal creature that was to be so butchered and torn asunder, yielded the sensation.",
+    "en": "The body that was doomed to be so horribly mutilated was the main attraction; the human being about to be butchered was the source of the excitement.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "tag": "P043_4",
+    "raw": "Whatever gloss the various spectators put upon the interest, according to their several arts and powers of self-deceit, the interest was, at the root of it, Ogreish.",
+    "en": "Whatever excuses the spectators made for their interest, at its root, it was a savage, monstrous curiosity.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "tag": "P044_1",
+    "raw": "Silence in the court!",
+    "en": "\"Silence in court!\" was called.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "tag": "P044_2",
+    "raw": "Charles Darnay had yesterday pleaded Not Guilty to an indictment denouncing him (with infinite jingle and jangle) for that he was a false traitor to our serene, illustrious, excellent, and so forth, prince, our Lord the King, by reason of his having, on divers occasions, and by divers means and ways, assisted Lewis, the French King, in his wars against our said serene, illustrious, excellent, and so forth; that was to say, by coming and going, between the dominions of our said serene, illustrious, excellent, and so forth, and those of the said French Lewis, and wickedly, falsely, traitorously, and otherwise evil-adverbiously, revealing to the said French Lewis what forces our said serene, illustrious, excellent, and so forth, had in preparation to send to Canada and North America.",
+    "en": "Charles Darnay had pleaded not guilty the day before to a long, repetitive indictment charging him with being a traitor to our king. He was accused of having assisted Louis, the King of France, in his wars against England on several occasions. The charges claimed he did this by traveling back and forth between England and France, revealing to the French king what military forces England was preparing to send to Canada and North America.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "tag": "P044_3",
+    "raw": "This much, Jerry, with his head becoming more and more spiky as the law terms bristled it, made out with huge satisfaction, and so arrived circuitously at the understanding that the aforesaid, and over and over again aforesaid, Charles Darnay, stood there before him upon his trial; that the jury were swearing in; and that Mr.",
+    "en": "Jerry's hair seemed to stand up even more as the complicated legal terms were read. He listened with satisfaction. He figured out that this Charles Darnay was indeed the man on trial. The jury was being sworn in.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "tag": "P044_4",
+    "raw": "Attorney-General was making ready to speak.",
+    "en": "The Attorney General was preparing to speak.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "tag": "P045_1",
+    "raw": "The accused, who was (and who knew he was) being mentally hanged, beheaded, and quartered, by everybody there, neither flinched from the situation, nor assumed any theatrical air in it.",
+    "en": "The accused man knew that everyone in the room was already imagining him hanged, beheaded, and quartered. He did not panic. He did not act dramatically.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "tag": "P045_2",
+    "raw": "He was quiet and attentive; watched the opening proceedings with a grave interest; and stood with his hands resting on the slab of wood before him, so composedly, that they had not displaced a leaf of the herbs with which it was strewn.",
+    "en": "He was quiet and attentive, watching the start of the trial with serious interest. He stood with his hands resting on the wooden bar in front of him so calmly that he didn't even stir the herbs scattered on it.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "tag": "P045_3",
+    "raw": "The court was all bestrewn with herbs and sprinkled with vinegar, as a precaution against gaol air and gaol fever.",
+    "en": "The courtroom was covered in herbs and sprinkled with vinegar to protect against the bad air and prison fever.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "tag": "P046_1",
+    "raw": "Over the prisoner’s head there was a mirror, to throw the light down upon him.",
+    "en": "Over the prisoner’s head hung a mirror to reflect light down on him.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "tag": "P046_2",
+    "raw": "Crowds of the wicked and the wretched had been reflected in it, and had passed from its surface and this earth’s together.",
+    "en": "Over the years, crowds of desperate and criminal people had been reflected in it before leaving both the courtroom and the earth.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "tag": "P046_3",
+    "raw": "Haunted in a most ghastly manner that abominable place would have been, if the glass could ever have rendered back its reflections, as the ocean is one day to give up its dead.",
+    "en": "That terrible place would have been haunted indeed if the glass could show all the faces it had once reflected, just as the ocean will one day give up its dead.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 104,
+    "tag": "P046_4",
+    "raw": "Some passing thought of the infamy and disgrace for which it had been reserved, may have struck the prisoner’s mind.",
+    "en": "Perhaps some thought of the disgrace associated with that mirror crossed the prisoner’s mind.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 105,
+    "tag": "P046_5",
+    "raw": "Be that as it may, a change in his position making him conscious of a bar of light across his face, he looked up; and when he saw the glass his face flushed, and his right hand pushed the herbs away.",
+    "en": "In any case, as he shifted his position and felt a beam of light hit his face, he looked up. When he saw the mirror, his face flushed, and his right hand pushed the herbs aside.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 106,
+    "tag": "P047_1",
+    "raw": "It happened, that the action turned his face to that side of the court which was on his left.",
+    "en": "This movement caused him to turn his face to the left side of the court.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 107,
+    "tag": "P047_2",
+    "raw": "About on a level with his eyes, there sat, in that corner of the Judge’s bench, two persons upon whom his look immediately rested; so immediately, and so much to the changing of his aspect, that all the eyes that were turned upon him, turned to them.",
+    "en": "On a level with his eyes, sitting in the corner of the Judge’s bench, were two people who caught his attention immediately. His expression changed so suddenly when he saw them that all eyes in the room followed his gaze.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 108,
+    "tag": "P048_1",
+    "raw": "The spectators saw in the two figures, a young lady of little more than twenty, and a gentleman who was evidently her father; a man of a very remarkable appearance in respect of the absolute whiteness of his hair, and a certain indescribable intensity of face: not of an active kind, but pondering and self-communing.",
+    "en": "The spectators saw a young lady of just over twenty and a gentleman who was clearly her father. He was a man of very striking appearance, with pure white hair and an intense, thoughtful face.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 109,
+    "tag": "P048_2",
+    "raw": "When this expression was upon him, he looked as if he were old; but when it was stirred and broken up--as it was now, in a moment, on his speaking to his daughter--he became a handsome man, not past the prime of life.",
+    "en": "When he was lost in thought, he looked quite old; but when he was engaged, as he was now, speaking to his daughter, he became a handsome man who seemed to still be in his prime.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 110,
+    "tag": "P049_1",
+    "raw": "His daughter had one of her hands drawn through his arm, as she sat by him, and the other pressed upon it.",
+    "en": "His daughter sat beside him with one hand resting on his arm and the other pressing against it.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 111,
+    "tag": "P049_2",
+    "raw": "She had drawn close to him, in her dread of the scene, and in her pity for the prisoner.",
+    "en": "She had drawn close to him in her fear of the courtroom and her pity for the prisoner.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 112,
+    "tag": "P049_3",
+    "raw": "Her forehead had been strikingly expressive of an engrossing terror and compassion that saw nothing but the peril of the accused.",
+    "en": "Her face showed deep terror and compassion, focused entirely on the danger facing the accused man.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 113,
+    "tag": "P049_4",
+    "raw": "This had been so very noticeable, so very powerfully and naturally shown, that starers who had had no pity for him were touched by her; and the whisper went about, “Who are they?”",
+    "en": "This was so clear and natural that even the spectators who felt no pity for him were touched by her expression, and a whisper went around: \"Who are they?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 114,
+    "tag": "P050_1",
+    "raw": "Jerry, the messenger, who had made his own observations, in his own manner, and who had been sucking the rust off his fingers in his absorption, stretched his neck to hear who they were.",
+    "en": "Jerry the messenger, who had been watching in his own way and sucking the rust off his fingers, stretched his neck to hear the answer.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 115,
+    "tag": "P050_2",
+    "raw": "The crowd about him had pressed and passed the inquiry on to the nearest attendant, and from him it had been more slowly pressed and passed back; at last it got to Jerry:",
+    "en": "The question was passed through the crowd to the nearest court official and then whispered back until it reached Jerry:",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 116,
+    "tag": "P051",
+    "raw": "“Witnesses.”",
+    "en": "\"Witnesses.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 117,
+    "tag": "P052",
+    "raw": "“For which side?”",
+    "en": "\"For which side?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 118,
+    "tag": "P053",
+    "raw": "“Against.”",
+    "en": "\"Against.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 119,
+    "tag": "P054",
+    "raw": "“Against what side?”",
+    "en": "\"Against who?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 120,
+    "tag": "P055",
+    "raw": "“The prisoner’s.”",
+    "en": "\"Against the prisoner.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 121,
+    "tag": "P056_1",
+    "raw": "The Judge, whose eyes had gone in the general direction, recalled them, leaned back in his seat, and looked steadily at the man whose life was in his hand, as Mr.",
+    "en": "The Judge's eyes had followed the crowd's gaze. Now he looked back. He leaned back in his seat and stared steadily at the man whose life was in his hands.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 122,
+    "tag": "P056_2",
+    "raw": "Attorney-General rose to spin the rope, grind the axe, and hammer the nails into the scaffold.",
+    "en": "The Attorney General rose to begin building the case for his execution.",
+    "ko": "",
+    "is_header": false
+  }
+]

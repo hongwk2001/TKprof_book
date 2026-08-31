@@ -1,0 +1,890 @@
+[
+  {
+    "id": 1,
+    "tag": "P001",
+    "raw": "CHAPTER XI. Dusk",
+    "en": "[Chapter 11] Dusk",
+    "ko": "",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P002_1",
+    "raw": "The wretched wife of the innocent man thus doomed to die, fell under the sentence, as if she had been mortally stricken.",
+    "en": "The poor wife of the innocent man condemned to die collapsed when she heard the sentence, as if she had been struck with a deadly blow.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P002_2",
+    "raw": "But, she uttered no sound; and so strong was the voice within her, representing that it was she of all the world who must uphold him in his misery and not augment it, that it quickly raised her, even from that shock.",
+    "en": "But she made no sound. A strong voice inside told her that she, of all people in the world, had to support him in his misery and not make it worse. This thought quickly helped her recover, even from such a terrible shock.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P003_1",
+    "raw": "The Judges having to take part in a public demonstration out of doors, the Tribunal adjourned.",
+    "en": "The judges had to take part in a public parade outside, so the court was adjourned.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P003_2",
+    "raw": "The quick noise and movement of the court’s emptying itself by many passages had not ceased, when Lucie stood stretching out her arms towards her husband, with nothing in her face but love and consolation.",
+    "en": "The loud noise and movement of the courtroom emptying through many exits was still going on when Lucie stood up, stretching out her arms toward her husband with nothing but love and comfort on her face.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P004_1",
+    "raw": "“If I might touch him!",
+    "en": "“If only I could touch him!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P004_2",
+    "raw": "If I might embrace him once!",
+    "en": "If only I could hug him just once!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P004_3",
+    "raw": "O, good citizens, if you would have so much compassion for us!”",
+    "en": "Oh, good citizens, if you would only have some pity on us!”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P005_1",
+    "raw": "There was but a gaoler left, along with two of the four men who had taken him last night, and Barsad.",
+    "en": "Only a jailer was left, along with two of the four guards who had arrested Darnay the night before, and Barsad.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P005_2",
+    "raw": "The people had all poured out to the show in the streets.",
+    "en": "The rest of the crowd had poured out into the streets to watch the parade.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P005_3",
+    "raw": "Barsad proposed to the rest, “Let her embrace him then; it is but a moment.” It was silently acquiesced in, and they passed her over the seats in the hall to a raised place, where he, by leaning over the dock, could fold her in his arms.",
+    "en": "Barsad suggested to the others, “Let her hug him, then; it's only for a moment.” They silently agreed, and they helped her over the seats in the hall to a high platform. There, by leaning over the wooden barrier, Darnay could fold her in his arms.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P006_1",
+    "raw": "“Farewell, dear darling of my soul.",
+    "en": "“Goodbye, dear darling of my soul.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P006_2",
+    "raw": "My parting blessing on my love.",
+    "en": "My parting blessing to you, my love.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P006_3",
+    "raw": "We shall meet again, where the weary are at rest!”",
+    "en": "We will meet again, where the tired are at peace!”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P007",
+    "raw": "They were her husband’s words, as he held her to his bosom.",
+    "en": "These were her husband's words as he held her close to his chest.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P008_1",
+    "raw": "“I can bear it, dear Charles.",
+    "en": "“I can bear it, dear Charles.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P008_2",
+    "raw": "I am supported from above: don’t suffer for me.",
+    "en": "I am being supported from heaven; do not worry about me.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P008_3",
+    "raw": "A parting blessing for our child.”",
+    "en": "Give a parting blessing for our child.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P009_1",
+    "raw": "“I send it to her by you.",
+    "en": "“I send it to her through you.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P009_2",
+    "raw": "I kiss her by you.",
+    "en": "I kiss her through you.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P009_3",
+    "raw": "I say farewell to her by you.”",
+    "en": "I say goodbye to her through you.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P010_1",
+    "raw": "“My husband.",
+    "en": "“My husband.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P010_2",
+    "raw": "No!",
+    "en": "No!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P010_3",
+    "raw": "A moment!” He was tearing himself apart from her. “We shall not be separated long.",
+    "en": "Just a moment!” He was pulling himself away from her. “We will not be separated for long.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P010_4",
+    "raw": "I feel that this will break my heart by-and-bye; but I will do my duty while I can, and when I leave her, God will raise up friends for her, as He did for me.”",
+    "en": "I feel that this will break my heart soon, but I will do my duty while I can. And when I leave her, God will bring friends to help her, just as He did for me.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P011",
+    "raw": "Her father had followed her, and would have fallen on his knees to both of them, but that Darnay put out a hand and seized him, crying:",
+    "en": "Her father had followed her, and would have fallen to his knees before them, but Darnay reached out and caught him, crying:",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P012_1",
+    "raw": "“No, no!",
+    "en": "“No, no!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P012_2",
+    "raw": "What have you done, what have you done, that you should kneel to us!",
+    "en": "What have you done, what have you done, that you should kneel to us!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P012_3",
+    "raw": "We know now, what a struggle you made of old.",
+    "en": "We know now what a struggle you went through in the past.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P012_4",
+    "raw": "We know, now what you underwent when you suspected my descent, and when you knew it.",
+    "en": "We know now what you suffered when you suspected who my family was, and when you finally knew it.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P012_5",
+    "raw": "We know now, the natural antipathy you strove against, and conquered, for her dear sake.",
+    "en": "We know now the natural hatred you fought against and conquered for her dear sake.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P012_6",
+    "raw": "We thank you with all our hearts, and all our love and duty.",
+    "en": "We thank you with all our hearts, and all our love and respect.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P012_7",
+    "raw": "Heaven be with you!”",
+    "en": "May Heaven be with you!”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P013",
+    "raw": "Her father’s only answer was to draw his hands through his white hair, and wring them with a shriek of anguish.",
+    "en": "Her father's only answer was to run his hands through his white hair and wring them, letting out a cry of agony.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P014_1",
+    "raw": "“It could not be otherwise,” said the prisoner. “All things have worked together as they have fallen out.",
+    "en": "“It could not be any other way,” said the prisoner. “Everything has worked out exactly as it had to.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P014_2",
+    "raw": "It was the always-vain endeavour to discharge my poor mother’s trust that first brought my fatal presence near you.",
+    "en": "It was my failed attempt to carry out my poor mother's last wishes that first brought my dangerous presence near you.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P014_3",
+    "raw": "Good could never come of such evil, a happier end was not in nature to so unhappy a beginning.",
+    "en": "Good could never come from such evil, and a happy ending was not possible after such a sad beginning.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P014_4",
+    "raw": "Be comforted, and forgive me.",
+    "en": "Find comfort, and forgive me.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P014_5",
+    "raw": "Heaven bless you!”",
+    "en": "May Heaven bless you!”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P015_1",
+    "raw": "As he was drawn away, his wife released him, and stood looking after him with her hands touching one another in the attitude of prayer, and with a radiant look upon her face, in which there was even a comforting smile.",
+    "en": "As he was led away, his wife let go of him and stood watching him go, her hands pressed together in prayer. There was a bright look on her face, and even a comforting smile.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P015_2",
+    "raw": "As he went out at the prisoners’ door, she turned, laid her head lovingly on her father’s breast, tried to speak to him, and fell at his feet.",
+    "en": "As he walked through the prisoner's door, she turned, laid her head lovingly on her father's chest, tried to speak to him, and fainted at his feet.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P016_1",
+    "raw": "Then, issuing from the obscure corner from which he had never moved, Sydney Carton came and took her up.",
+    "en": "Then, stepping out from the dark corner where he had stood without moving, Sydney Carton came over and picked her up.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P016_2",
+    "raw": "Only her father and Mr.",
+    "en": "Only her father and Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P016_3",
+    "raw": "Lorry were with her.",
+    "en": "Lorry were with her.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P016_4",
+    "raw": "His arm trembled as it raised her, and supported her head.",
+    "en": "Carton's arm shook as he lifted her and supported her head.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P016_5",
+    "raw": "Yet, there was an air about him that was not all of pity--that had a flush of pride in it.",
+    "en": "Yet, there was something in his look that was not just pity, there was a glow of pride in it too.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P017_1",
+    "raw": "“Shall I take her to a coach?",
+    "en": "“Shall I carry her to a carriage?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P017_2",
+    "raw": "I shall never feel her weight.”",
+    "en": "She feels as light as a feather to me.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P018_1",
+    "raw": "He carried her lightly to the door, and laid her tenderly down in a coach.",
+    "en": "He carried her easily to the door and laid her down gently in a carriage.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P018_2",
+    "raw": "Her father and their old friend got into it, and he took his seat beside the driver.",
+    "en": "Her father and their old friend got inside, and Carton took his seat next to the driver.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P019_1",
+    "raw": "When they arrived at the gateway where he had paused in the dark not many hours before, to picture to himself on which of the rough stones of the street her feet had trodden, he lifted her again, and carried her up the staircase to their rooms.",
+    "en": "When they arrived at the courtyard gate where he had paused in the dark just hours earlier to imagine which paving stones her feet had touched, he lifted her again. He carried her up the stairs to their rooms.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P019_2",
+    "raw": "There, he laid her down on a couch, where her child and Miss Pross wept over her.",
+    "en": "There, he laid her down on a couch, where her child and Miss Pross wept over her.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P020_1",
+    "raw": "“Don’t recall her to herself,” he said, softly, to the latter, “she is better so.",
+    "en": "“Don't wake her up yet,” he said softly to Miss Pross. “She is better off like this.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P020_2",
+    "raw": "Don’t revive her to consciousness, while she only faints.”",
+    "en": "Don't bring her back to consciousness while she is only fainted.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P021_1",
+    "raw": "“Oh, Carton, Carton, dear Carton!” cried little Lucie, springing up and throwing her arms passionately round him, in a burst of grief. “Now that you have come, I think you will do something to help mamma, something to save papa!",
+    "en": "“Oh, Carton, Carton, dear Carton!” cried little Lucie, jumping up and throwing her arms tightly around him in a burst of tears. “Now that you are here, I know you will do something to help mamma and save papa!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P021_2",
+    "raw": "O, look at her, dear Carton!",
+    "en": "Oh, look at her, dear Carton!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P021_3",
+    "raw": "Can you, of all the people who love her, bear to see her so?”",
+    "en": "Can you, of all the people who love her, bear to see her like this?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P022_1",
+    "raw": "He bent over the child, and laid her blooming cheek against his face.",
+    "en": "He bent over the child and rested her warm cheek against his face.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P022_2",
+    "raw": "He put her gently from him, and looked at her unconscious mother.",
+    "en": "He gently set her aside and looked at her unconscious mother.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P023",
+    "raw": "“Before I go,” he said, and paused--“I may kiss her?”",
+    "en": "“Before I go,” he said, and paused, “may I kiss her?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P024_1",
+    "raw": "It was remembered afterwards that when he bent down and touched her face with his lips, he murmured some words.",
+    "en": "It was remembered later that when he bent down and touched her face with his lips, he whispered a few words.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P024_2",
+    "raw": "The child, who was nearest to him, told them afterwards, and told her grandchildren when she was a handsome old lady, that she heard him say, “A life you love.”",
+    "en": "The child, who was closest to him, told them later, and repeated them to her own grandchildren when she was an old lady, that she had heard him say, “A life you love.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P025_1",
+    "raw": "When he had gone out into the next room, he turned suddenly on Mr.",
+    "en": "When he went into the next room, he turned suddenly to Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "tag": "P025_2",
+    "raw": "Lorry and her father, who were following, and said to the latter:",
+    "en": "Lorry and her father, who were following him, and said to Dr. Manette:",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P026_1",
+    "raw": "“You had great influence but yesterday, Doctor Manette; let it at least be tried.",
+    "en": "“You had great influence only yesterday, Doctor Manette. Let us at least try to use it.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P026_2",
+    "raw": "These judges, and all the men in power, are very friendly to you, and very recognisant of your services; are they not?”",
+    "en": "These judges and all the men in power are very friendly to you and appreciate your services, don't they?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P027_1",
+    "raw": "“Nothing connected with Charles was concealed from me.",
+    "en": "“Nothing about Charles was kept from me.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "tag": "P027_2",
+    "raw": "I had the strongest assurances that I should save him; and I did.” He returned the answer in great trouble, and very slowly.",
+    "en": "I had the strongest promises that I would save him, and I did.” He answered in great distress and very slowly.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "tag": "P028_1",
+    "raw": "“Try them again.",
+    "en": "“Try them again.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "tag": "P028_2",
+    "raw": "The hours between this and to-morrow afternoon are few and short, but try.”",
+    "en": "The hours between now and tomorrow afternoon are few and short, but try.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "tag": "P029_1",
+    "raw": "“I intend to try.",
+    "en": "“I plan to try.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "tag": "P029_2",
+    "raw": "I will not rest a moment.”",
+    "en": "I will not rest for a second.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "tag": "P030_1",
+    "raw": "“That’s well.",
+    "en": "“That is good.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "tag": "P030_2",
+    "raw": "I have known such energy as yours do great things before now--though never,” he added, with a smile and a sigh together, “such great things as this.",
+    "en": "I have seen energy like yours do great things before, though never,” he added with a smile and a sigh, “anything as great as this.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "tag": "P030_3",
+    "raw": "But try!",
+    "en": "But try!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "tag": "P030_4",
+    "raw": "Of little worth as life is when we misuse it, it is worth that effort.",
+    "en": "As worthless as life is when we waste it, it is worth this effort.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "tag": "P030_5",
+    "raw": "It would cost nothing to lay down if it were not.”",
+    "en": "If it weren't, it would be easy to give up.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "tag": "P031_1",
+    "raw": "“I will go,” said Doctor Manette, “to the Prosecutor and the President straight, and I will go to others whom it is better not to name.",
+    "en": "“I will go,” said Doctor Manette, “straight to the Prosecutor and the President, and I will go to others whom it is better not to name.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "tag": "P031_2",
+    "raw": "I will write too, and--But stay!",
+    "en": "I will write letters too, and, but wait!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "tag": "P031_3",
+    "raw": "There is a Celebration in the streets, and no one will be accessible until dark.”",
+    "en": "There is a festival in the streets, and no one will be reachable until dark.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "tag": "P032_1",
+    "raw": "“That’s true.",
+    "en": "“That is true.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "tag": "P032_2",
+    "raw": "Well! It is a forlorn hope at the best, and not much the forlorner for being delayed till dark.",
+    "en": "Well, it is a desperate hope at best, and not much more desperate for being delayed until dark.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "tag": "P032_3",
+    "raw": "I should like to know how you speed; though, mind! I expect nothing!",
+    "en": "I would like to know how you succeed, though remember, I expect nothing!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "tag": "P032_4",
+    "raw": "When are you likely to have seen these dread powers, Doctor Manette?”",
+    "en": "When will you likely have seen these powerful men, Doctor Manette?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "tag": "P033_1",
+    "raw": "“Immediately after dark, I should hope.",
+    "en": "“Right after dark, I hope.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "tag": "P033_2",
+    "raw": "Within an hour or two from this.”",
+    "en": "Within an hour or two from now.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "tag": "P034_1",
+    "raw": "“It will be dark soon after four.",
+    "en": "“It will be dark soon after four.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "tag": "P034_2",
+    "raw": "Let us stretch the hour or two.",
+    "en": "Let us give it more time.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "tag": "P034_3",
+    "raw": "If I go to Mr.",
+    "en": "If I go to Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "tag": "P034_4",
+    "raw": "Lorry’s at nine, shall I hear what you have done, either from our friend or from yourself?”",
+    "en": "Lorry's at nine, will I hear what you have done, either from our friend or from you?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "tag": "P035",
+    "raw": "“Yes.”",
+    "en": "“Yes.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "tag": "P036",
+    "raw": "“May you prosper!”",
+    "en": "“May you succeed!”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "tag": "P037_1",
+    "raw": "Mr.",
+    "en": "Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "tag": "P037_2",
+    "raw": "Lorry followed Sydney to the outer door, and, touching him on the shoulder as he was going away, caused him to turn.",
+    "en": "Lorry followed Sydney to the front door, and touching him on the shoulder as he was leaving, made him turn around.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "tag": "P038_1",
+    "raw": "“I have no hope,” said Mr.",
+    "en": "“I have no hope,” said Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "tag": "P038_2",
+    "raw": "Lorry, in a low and sorrowful whisper.",
+    "en": "Lorry in a quiet, sad whisper.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "tag": "P039",
+    "raw": "“Nor have I.”",
+    "en": "“Neither do I.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "tag": "P040",
+    "raw": "“If any one of these men, or all of these men, were disposed to spare him--which is a large supposition; for what is his life, or any man’s to them!--I doubt if they durst spare him after the demonstration in the court.”",
+    "en": "“Even if one of these men, or all of them, wanted to spare him, which is highly unlikely, for what is his life or any man's life to them!, I doubt they would dare to save him after that demonstration in the courtroom.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "tag": "P041_1",
+    "raw": "“And so do I.",
+    "en": "“I agree.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "tag": "P041_2",
+    "raw": "I heard the fall of the axe in that sound.”",
+    "en": "I heard the sound of the Guillotine's blade falling in those cheers.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "tag": "P042_1",
+    "raw": "Mr.",
+    "en": "Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "tag": "P042_2",
+    "raw": "Lorry leaned his arm upon the door-post, and bowed his face upon it.",
+    "en": "Lorry leaned his arm against the doorframe and rested his face on it.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "tag": "P043_1",
+    "raw": "“Don’t despond,” said Carton, very gently; “don’t grieve.",
+    "en": "“Don't lose hope,” Carton said very gently. “Don't grieve.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 104,
+    "tag": "P043_2",
+    "raw": "I encouraged Doctor Manette in this idea, because I felt that it might one day be consolatory to her.",
+    "en": "I encouraged Doctor Manette to try because I felt it might one day bring her comfort.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 105,
+    "tag": "P043_3",
+    "raw": "Otherwise, she might think ‘his life was wantonly thrown away or wasted,’ and that might trouble her.”",
+    "en": "Otherwise, she might always think his life was pointlessly thrown away or wasted, and that thought would torture her.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 106,
+    "tag": "P044_1",
+    "raw": "“Yes, yes, yes,” returned Mr.",
+    "en": "“Yes, yes, yes,” Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 107,
+    "tag": "P044_2",
+    "raw": "Lorry, drying his eyes, “you are right.",
+    "en": "Lorry replied, wiping his eyes. “You are right.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 108,
+    "tag": "P044_3",
+    "raw": "But he will perish; there is no real hope.”",
+    "en": "But he will die; there is no real hope.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 109,
+    "tag": "P045_1",
+    "raw": "“Yes.",
+    "en": "“Yes.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 110,
+    "tag": "P045_2",
+    "raw": "He will perish: there is no real hope,” echoed Carton.",
+    "en": "He will die; there is no real hope,” Carton repeated.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 111,
+    "tag": "P046",
+    "raw": "And walked with a settled step, down-stairs.",
+    "en": "And he walked with a steady, determined step downstairs.",
+    "ko": "",
+    "is_header": false
+  }
+]

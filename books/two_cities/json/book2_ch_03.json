@@ -1,0 +1,2306 @@
+[
+  {
+    "id": 1,
+    "tag": "P001",
+    "raw": "CHAPTER III. A Disappointment",
+    "en": "[Chapter 3] A Disappointment",
+    "ko": "",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P002_1",
+    "raw": "Mr. Attorney-General had to inform the jury, that the prisoner before them, though young in years, was old in the treasonable practices which claimed the forfeit of his life.",
+    "en": "The Attorney General informed the jury that the prisoner before them, though young in years, was old in the treasonous acts that now threatened his life.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P002_2",
+    "raw": "That this correspondence with the public enemy was not a correspondence of to-day, or of yesterday, or even of last year, or of the year before.",
+    "en": "He claimed that this communication with the country's enemy was not new, but had been going on for years.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P002_3",
+    "raw": "That, it was certain the prisoner had, for longer than that, been in the habit of passing and repassing between France and England, on secret business of which he could give no honest account.",
+    "en": "He asserted that the prisoner had repeatedly traveled back and forth between France and England on secret business for which he could give no honest explanation.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P002_4",
+    "raw": "That, if it were in the nature of traitorous ways to thrive (which happily it never was), the real wickedness and guilt of his business might have remained undiscovered.",
+    "en": "If treason were capable of succeeding, which, fortunately, it never was, the prisoner’s crimes might have remained hidden.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P002_5",
+    "raw": "That Providence, however, had put it into the heart of a person who was beyond fear and beyond reproach, to ferret out the nature of the prisoner’s schemes, and, struck with horror, to disclose them to his Majesty’s Chief Secretary of State and most honourable Privy Council.",
+    "en": "Luckily, a brave and faultless person had discovered the prisoner's schemes. Struck with horror, they reported everything to the Chief Secretary of State and the Privy Council.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P002_6",
+    "raw": "That, this patriot would be produced before them.",
+    "en": "This patriot, the prosecution promised, would testify.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P002_7",
+    "raw": "That, his position and attitude were, on the whole, sublime. That, he had been the prisoner’s friend, but, at once in an auspicious and an evil hour detecting his infamy, had resolved to immolate the traitor he could no longer cherish in his bosom, on the sacred altar of his country.",
+    "en": "The Attorney General described this witness's actions as heroic: he had been the prisoner’s friend, but upon discovering his treason, had decided to sacrifice his personal feelings on the altar of patriotism.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P002_8",
+    "raw": "That, if statues were decreed in Britain, as in ancient Greece and Rome, to public benefactors, this shining citizen would assuredly have had one.",
+    "en": "If statues were built in Britain for public benefactors as they were in ancient Greece and Rome, this shining citizen would surely get one.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P002_9",
+    "raw": "That, as they were not so decreed, he probably would not have one.",
+    "en": "Since Britain did not build such statues, he would not have one, but his virtue, patriotism, was contagious.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P002_10",
+    "raw": "That, Virtue, as had been observed by the poets (in many passages which he well knew the jury would have, word for word, at the tips of their tongues; whereat the jury’s countenances displayed a guilty consciousness that they knew nothing about the passages), was in a manner contagious; more especially the bright virtue known as patriotism, or love of country.",
+    "en": "He added that virtue is contagious, as poets say. He joked that the jury probably knew these poems by heart, which made them look guilty because they didn't know them at all. This was especially true for the virtue of patriotism.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P002_11",
+    "raw": "That, the lofty example of this immaculate and unimpeachable witness for the Crown, to refer to whom however unworthily was an honour, had communicated itself to the prisoner’s servant, and had engendered in him a holy determination to examine his master’s table-drawers and pockets, and secrete his papers. That, he (Mr.",
+    "en": "The Attorney General anticipated that the defense would try to discredit this excellent servant, but remarked that he personally respected him more than his own family and urged the jury to do the same.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P002_12",
+    "raw": "Attorney-General) was prepared to hear some disparagement attempted of this admirable servant; but that, in a general way, he preferred him to his (Mr. Attorney-General’s) brothers and sisters, and honoured him more than his (Mr. Attorney-General’s) father and mother. That, he called with confidence on the jury to come and do likewise.",
+    "en": "The evidence of these two witnesses, combined with the discovered documents, would prove that the prisoner had lists of British military and naval forces to send to the enemy.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P002_13",
+    "raw": "That, the evidence of these two witnesses, coupled with the documents of their discovering that would be produced, would show the prisoner to have been furnished with lists of his Majesty’s forces, and of their disposition and preparation, both by sea and land, and would leave no doubt that he had habitually conveyed such information to a hostile power.",
+    "en": "He stated that the evidence from these two witnesses, along with the documents they found, would prove the prisoner had lists of his Majesty's land and sea forces, leaving no doubt that he regularly shared this information with the enemy.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P002_14",
+    "raw": "That, these lists could not be proved to be in the prisoner’s handwriting; but that it was all the same; that, indeed, it was rather the better for the prosecution, as showing the prisoner to be artful in his precautions.",
+    "en": "The proof would show the treason went back five years, starting just before the first battles of the American Revolutionary War.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P002_15",
+    "raw": "That, the proof would go back five years, and would show the prisoner already engaged in these pernicious missions, within a few weeks before the date of the very first action fought between the British troops and the Americans.",
+    "en": "He promised the proof would show the prisoner had been doing these terrible missions for five years, starting just weeks before the first battle between British and American troops.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P002_16",
+    "raw": "That, for these reasons, the jury, being a loyal jury (as he knew they were), and being a responsible jury (as _they_ knew they were), must positively find the prisoner Guilty, and make an end of him, whether they liked it or not.",
+    "en": "For all these reasons, he told the loyal and responsible jury that they had no choice but to find the prisoner guilty and sentence him to death, whether they liked it or not.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P002_17",
+    "raw": "That, they never could lay their heads upon their pillows; that, they never could tolerate the idea of their wives laying their heads upon their pillows; that, they never could endure the notion of their children laying their heads upon their pillows; in short, that there never more could be, for them or theirs, any laying of heads upon pillows at all, unless the prisoner’s head was taken off.",
+    "en": "He warned them that they—and their wives and children—could never sleep peacefully again unless the prisoner's head was cut off.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P002_18",
+    "raw": "That head Mr. Attorney-General concluded by demanding of them, in the name of everything he could think of with a round turn in it, and on the faith of his solemn asseveration that he already considered the prisoner as good as dead and gone.",
+    "en": "The Attorney-General dramatically finished his speech by demanding the prisoner's head in the name of everything he could think of, declaring the prisoner was already as good as dead.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P003_1",
+    "raw": "When the Attorney-General ceased, a buzz arose in the court as if a cloud of great blue-flies were swarming about the prisoner, in anticipation of what he was soon to become.",
+    "en": "The Solicitor General then questioned the witness, John Barsad. His testimony perfectly matched the Attorney General's description, perhaps a little too perfectly. After sharing his story, he prepared to leave. But the defense lawyer sitting near Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P003_2",
+    "raw": "When toned down again, the unimpeachable patriot appeared in the witness-box.",
+    "en": "Lorry stopped him for cross-examination. The other lawyer opposite just kept staring at the ceiling.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P004_1",
+    "raw": "Mr. Solicitor-General then, following his leader’s lead, examined the patriot: John Barsad, gentleman, by name.",
+    "en": "Following his lead, the Solicitor-General questioned the patriot, a gentleman named John Barsad.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P004_2",
+    "raw": "The story of his pure soul was exactly what Mr.",
+    "en": "No, he rejected the suggestion with disgust.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P004_3",
+    "raw": "Attorney-General had described it to be--perhaps, if it had a fault, a little too exactly.",
+    "en": "The story matched the Attorney-General's description perfectly—perhaps a little too perfectly.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P004_4",
+    "raw": "Having released his noble bosom of its burden, he would have modestly withdrawn himself, but that the wigged gentleman with the papers before him, sitting not far from Mr.",
+    "en": "After telling his heroic tale, he would have quietly stepped down, but the lawyer with the papers, sitting near Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P004_5",
+    "raw": "Lorry, begged to ask him a few questions.",
+    "en": "Lorry, asked to question him.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P004_6",
+    "raw": "The wigged gentleman sitting opposite, still looking at the ceiling of the court.",
+    "en": "The lawyer sitting opposite was still staring at the ceiling.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P004_7",
+    "raw": "Had he ever been a spy himself?",
+    "en": "What was it?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P004_8",
+    "raw": "No, he scorned the base insinuation.",
+    "en": "None of anyone's business.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P004_9",
+    "raw": "What did he live upon?",
+    "en": "Had he inherited it?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P004_10",
+    "raw": "His property.",
+    "en": "Yes.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P004_11",
+    "raw": "Where was his property?",
+    "en": "From whom?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P004_12",
+    "raw": "He didn’t precisely remember where it was.",
+    "en": "A distant relation.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P004_13",
+    "raw": "What was it?",
+    "en": "How distant?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P004_14",
+    "raw": "No business of anybody’s.",
+    "en": "Quite distant.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P004_15",
+    "raw": "Had he inherited it? Yes, he had.",
+    "en": "Had he ever been in prison?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P004_16",
+    "raw": "From whom?",
+    "en": "No.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P004_17",
+    "raw": "Distant relation.",
+    "en": "Never in a debtors' prison?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P004_18",
+    "raw": "Very distant? Rather. Ever been in prison?",
+    "en": "He didn't see what that had to do with anything.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P004_19",
+    "raw": "Certainly not.",
+    "en": "Never?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P004_20",
+    "raw": "Never in a debtors’ prison?",
+    "en": "Well, yes, once.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P004_21",
+    "raw": "Didn’t see what that had to do with it.",
+    "en": "He didn't see what that had to do with anything.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P004_22",
+    "raw": "Never in a debtors’ prison?--Come, once again.",
+    "en": "Two or three times.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P004_23",
+    "raw": "Never?",
+    "en": "Not five or six?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P004_24",
+    "raw": "Yes.",
+    "en": "Perhaps.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P004_25",
+    "raw": "How many times? Two or three times.",
+    "en": "What was his profession?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P004_26",
+    "raw": "Not five or six?",
+    "en": "A gentleman.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P004_27",
+    "raw": "Perhaps. Of what profession? Gentleman.",
+    "en": "Had he ever been kicked?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P004_28",
+    "raw": "Ever been kicked? Might have been.",
+    "en": "He might have been.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P004_29",
+    "raw": "Frequently?",
+    "en": "Frequently?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P004_30",
+    "raw": "No.",
+    "en": "No.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P004_31",
+    "raw": "Ever kicked downstairs?",
+    "en": "Kicked downstairs?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P004_32",
+    "raw": "Decidedly not; once received a kick on the top of a staircase, and fell downstairs of his own accord.",
+    "en": "No, he had once been kicked at the top of a staircase and fell down by himself.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P004_33",
+    "raw": "Kicked on that occasion for cheating at dice?",
+    "en": "Was he kicked for cheating at dice?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P004_34",
+    "raw": "Something to that effect was said by the intoxicated liar who committed the assault, but it was not true.",
+    "en": "The drunk liar who kicked him claimed that, but it wasn't true.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P004_35",
+    "raw": "Swear it was not true?",
+    "en": "Was he sure?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P004_36",
+    "raw": "Positively.",
+    "en": "Absolutely.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P004_37",
+    "raw": "Ever live by cheating at play?",
+    "en": "Had he ever lived by gambling?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P004_38",
+    "raw": "Never. Ever live by play?",
+    "en": "No more than other gentlemen.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P004_39",
+    "raw": "Not more than other gentlemen do. Ever borrow money of the prisoner?",
+    "en": "Had he borrowed money from the prisoner?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P004_40",
+    "raw": "Yes.",
+    "en": "Yes.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P004_41",
+    "raw": "Ever pay him?",
+    "en": "Had he paid it back?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P004_42",
+    "raw": "No.",
+    "en": "No.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "tag": "P004_43",
+    "raw": "Was not this intimacy with the prisoner, in reality a very slight one, forced upon the prisoner in coaches, inns, and packets? No. Sure he saw the prisoner with these lists?",
+    "en": "Was his friendship with the prisoner actually a minor acquaintance forced upon the prisoner during travels?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P004_44",
+    "raw": "Certain.",
+    "en": "No.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P004_45",
+    "raw": "Knew no more about the lists?",
+    "en": "Was he sure he saw the prisoner with the lists?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P004_46",
+    "raw": "No.",
+    "en": "Yes.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "tag": "P004_47",
+    "raw": "Had not procured them himself, for instance?",
+    "en": "Did he know anything else about them?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "tag": "P004_48",
+    "raw": "No.",
+    "en": "No.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "tag": "P004_49",
+    "raw": "Expect to get anything by this evidence?",
+    "en": "Had he put them there himself?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "tag": "P004_50",
+    "raw": "No.",
+    "en": "No.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "tag": "P004_51",
+    "raw": "Not in regular government pay and employment, to lay traps?",
+    "en": "Did he expect to get paid for his testimony?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "tag": "P004_52",
+    "raw": "Oh dear no.",
+    "en": "No.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "tag": "P004_53",
+    "raw": "Or to do anything?",
+    "en": "Was he a government spy?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "tag": "P004_54",
+    "raw": "Oh dear no.",
+    "en": "Absolutely not.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "tag": "P004_55",
+    "raw": "Swear that? Over and over again. No motives but motives of sheer patriotism?",
+    "en": "Did he have any motive other than pure patriotism?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "tag": "P004_56",
+    "raw": "None whatever.",
+    "en": "None at all.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "tag": "P005_1",
+    "raw": "The virtuous servant, Roger Cly, swore his way through the case at a great rate.",
+    "en": "The 'virtuous' servant, Roger Cly, quickly swore to his side of the story.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "tag": "P005_2",
+    "raw": "He had taken service with the prisoner, in good faith and simplicity, four years ago. He had asked the prisoner, aboard the Calais packet, if he wanted a handy fellow, and the prisoner had engaged him.",
+    "en": "He testified that he had started working for the prisoner four years ago, asking him for work on a ship from Calais.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "tag": "P005_3",
+    "raw": "He had not asked the prisoner to take the handy fellow as an act of charity--never thought of such a thing.",
+    "en": "He hadn't asked the prisoner to hire him out of charity—he never even considered such a thing.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "tag": "P005_4",
+    "raw": "He began to have suspicions of the prisoner, and to keep an eye upon him, soon afterwards. In arranging his clothes, while travelling, he had seen similar lists to these in the prisoner’s pockets, over and over again.",
+    "en": "While packing his clothes during travels, he had seen lists like the ones in court in the prisoner’s pockets.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "tag": "P005_5",
+    "raw": "He had taken these lists from the drawer of the prisoner’s desk. He had not put them there first.",
+    "en": "He had taken them from the prisoner’s desk drawer, denying that he had placed them there himself.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "tag": "P005_6",
+    "raw": "He had seen the prisoner show these identical lists to French gentlemen at Calais, and similar lists to French gentlemen, both at Calais and Boulogne.",
+    "en": "He claimed to have seen the prisoner showing these lists to French gentlemen in Calais and Boulogne.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "tag": "P005_7",
+    "raw": "He loved his country, and couldn’t bear it, and had given information.",
+    "en": "He said he loved his country and had to report it.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "tag": "P005_8",
+    "raw": "He had never been suspected of stealing a silver tea-pot; he had been maligned respecting a mustard-pot, but it turned out to be only a plated one.",
+    "en": "Under cross-examination, he denied ever being suspected of stealing a silver teapot, claiming he was falsely accused over a plated mustard pot.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "tag": "P005_9",
+    "raw": "He had known the last witness seven or eight years; that was merely a coincidence. He didn’t call it a particularly curious coincidence; most coincidences were curious.",
+    "en": "He admitted knowing the previous witness, John Barsad, for seven or eight years, but claimed it was just a coincidence.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "tag": "P005_10",
+    "raw": "Neither did he call it a curious coincidence that true patriotism was _his_ only motive too. He was a true Briton, and hoped there were many like him.",
+    "en": "He also claimed his only motive was true patriotism, hoping there were many other British citizens like him.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "tag": "P006_1",
+    "raw": "The blue-flies buzzed again, and Mr. Attorney-General called Mr.",
+    "en": "The crowd buzzed again, and the Attorney General called Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "tag": "P006_2",
+    "raw": "Jarvis Lorry.",
+    "en": "Jarvis Lorry.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "tag": "P007_1",
+    "raw": "“Mr.",
+    "en": "\"Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "tag": "P007_2",
+    "raw": "Jarvis Lorry, are you a clerk in Tellson’s bank?”",
+    "en": "Jarvis Lorry, are you a clerk at Tellson’s Bank?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "tag": "P008",
+    "raw": "“I am.”",
+    "en": "\"I am.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "tag": "P009",
+    "raw": "“On a certain Friday night in November one thousand seven hundred and seventy-five, did business occasion you to travel between London and Dover by the mail?”",
+    "en": "\"On a Friday night in November 1775, did you travel from London to Dover by the mail coach?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "tag": "P010",
+    "raw": "“It did.”",
+    "en": "\"I did.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "tag": "P011",
+    "raw": "“Were there any other passengers in the mail?”",
+    "en": "\"Were there other passengers?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "tag": "P012",
+    "raw": "“Two.”",
+    "en": "\"Two.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "tag": "P013",
+    "raw": "“Did they alight on the road in the course of the night?”",
+    "en": "\"Did they get out along the way during the night?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "tag": "P014",
+    "raw": "“They did.”",
+    "en": "\"Yes.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "tag": "P015_1",
+    "raw": "“Mr.",
+    "en": "\"Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "tag": "P015_2",
+    "raw": "Lorry, look upon the prisoner.",
+    "en": "Lorry, look at the prisoner.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "tag": "P015_3",
+    "raw": "Was he one of those two passengers?”",
+    "en": "Was he one of those passengers?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "tag": "P016",
+    "raw": "“I cannot undertake to say that he was.”",
+    "en": "\"I cannot say for sure.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "tag": "P017",
+    "raw": "“Does he resemble either of these two passengers?”",
+    "en": "\"Does he resemble either of them?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 104,
+    "tag": "P018",
+    "raw": "“Both were so wrapped up, and the night was so dark, and we were all so reserved, that I cannot undertake to say even that.”",
+    "en": "\"They were so wrapped up, it was so dark, and we were all so quiet that I cannot tell.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 105,
+    "tag": "P019_1",
+    "raw": "“Mr.",
+    "en": "\"Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 106,
+    "tag": "P019_2",
+    "raw": "Lorry, look again upon the prisoner. Supposing him wrapped up as those two passengers were, is there anything in his bulk and stature to render it unlikely that he was one of them?”",
+    "en": "Mr. Lorry, look at the prisoner again. If he were wrapped up like those two passengers, is there anything about his size and shape that makes it unlikely he was one of them?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 107,
+    "tag": "P020",
+    "raw": "“No.”",
+    "en": "\"Yes, it is possible.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 108,
+    "tag": "P021",
+    "raw": "“You will not swear, Mr. Lorry, that he was not one of them?”",
+    "en": "\"You won't swear that he was not?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 109,
+    "tag": "P022",
+    "raw": "“No.”",
+    "en": "\"No.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 110,
+    "tag": "P023",
+    "raw": "“So at least you say he may have been one of them?”",
+    "en": "\"So he might have been one of them?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 111,
+    "tag": "P024",
+    "raw": "“Yes. Except that I remember them both to have been--like myself--timorous of highwaymen, and the prisoner has not a timorous air.”",
+    "en": "\"Yes, though both passengers were terrified of highwaymen, and the prisoner does not look like a fearful man.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 112,
+    "tag": "P025_1",
+    "raw": "“Did you ever see a counterfeit of timidity, Mr.",
+    "en": "\"Have you ever seen someone pretend to be afraid, Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 113,
+    "tag": "P025_2",
+    "raw": "Lorry?”",
+    "en": "Lorry?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 114,
+    "tag": "P026",
+    "raw": "“I certainly have seen that.”",
+    "en": "\"Yes, I have.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 115,
+    "tag": "P027",
+    "raw": "“Mr. Lorry, look once more upon the prisoner. Have you seen him, to your certain knowledge, before?”",
+    "en": "\"Have you seen the prisoner before, to your certain knowledge?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 116,
+    "tag": "P028",
+    "raw": "“I have.”",
+    "en": "\"Yes.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 117,
+    "tag": "P029",
+    "raw": "“When?”",
+    "en": "\"When?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 118,
+    "tag": "P030",
+    "raw": "“I was returning from France a few days afterwards, and, at Calais, the prisoner came on board the packet-ship in which I returned, and made the voyage with me.” “At what hour did he come on board?”",
+    "en": "\"A few days later, when I was returning from France. The prisoner came on board the ship at Calais and traveled with me.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 119,
+    "tag": "P031",
+    "raw": "“At a little after midnight.”",
+    "en": "\"What time did he come on board?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 120,
+    "tag": "P032",
+    "raw": "“In the dead of the night. Was he the only passenger who came on board at that untimely hour?”",
+    "en": "\"In the middle of the night. Was he the only passenger to board at that late hour?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 121,
+    "tag": "P033_1",
+    "raw": "“He happened to be the only one.” “Never mind about ‘happening,’ Mr.",
+    "en": "\"In the middle of the night.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 122,
+    "tag": "P033_2",
+    "raw": "Lorry. He was the only passenger who came on board in the dead of the night?”",
+    "en": "Was he the only passenger to board at that late hour?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 123,
+    "tag": "P034",
+    "raw": "“He was.”",
+    "en": "\"Yes, he was.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 124,
+    "tag": "P035_1",
+    "raw": "“Were you travelling alone, Mr.",
+    "en": "\"Were you traveling alone, Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 125,
+    "tag": "P035_2",
+    "raw": "Lorry, or with any companion?”",
+    "en": "Lorry?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 126,
+    "tag": "P036_1",
+    "raw": "“With two companions.",
+    "en": "\"With two companions.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 127,
+    "tag": "P036_2",
+    "raw": "A gentleman and lady. They are here.”",
+    "en": "A gentleman and a lady who are here today.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 128,
+    "tag": "P037",
+    "raw": "“They are here. Had you any conversation with the prisoner?”",
+    "en": "\"Did you speak to the prisoner?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 129,
+    "tag": "P038_1",
+    "raw": "“Hardly any.",
+    "en": "\"Hardly at all.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 130,
+    "tag": "P038_2",
+    "raw": "The weather was stormy, and the passage long and rough, and I lay on a sofa, almost from shore to shore.”",
+    "en": "The weather was bad, the crossing was rough, and I lay on a sofa the whole time.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 131,
+    "tag": "P039",
+    "raw": "“Miss Manette!”",
+    "en": "\"Miss Manette!\" was called.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 132,
+    "tag": "P040_1",
+    "raw": "The young lady, to whom all eyes had been turned before, and were now turned again, stood up where she had sat.",
+    "en": "The young lady, who had caught everyone's attention earlier, stood up.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 133,
+    "tag": "P040_2",
+    "raw": "Her father rose with her, and kept her hand drawn through his arm.",
+    "en": "Her father rose with her, holding her hand.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 134,
+    "tag": "P041",
+    "raw": "“Miss Manette, look upon the prisoner.”",
+    "en": "\"Miss Manette, look at the prisoner.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 135,
+    "tag": "P042_1",
+    "raw": "To be confronted with such pity, and such earnest youth and beauty, was far more trying to the accused than to be confronted with all the crowd.",
+    "en": "Facing her pity and beauty was much harder for the accused man than facing the rest of the courtroom.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 136,
+    "tag": "P042_2",
+    "raw": "Standing, as it were, apart with her on the edge of his grave, not all the staring curiosity that looked on, could, for the moment, nerve him to remain quite still.",
+    "en": "Standing there with her, as if on the edge of his own grave, he couldn't stay still under the crowd's curious stares.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 137,
+    "tag": "P042_3",
+    "raw": "His hurried right hand parcelled out the herbs before him into imaginary beds of flowers in a garden; and his efforts to control and steady his breathing shook the lips from which the colour rushed to his heart.",
+    "en": "His hand nervously moved the herbs on the desk as if arranging flowers, and his lips trembled as he tried to control his breathing.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 138,
+    "tag": "P042_4",
+    "raw": "The buzz of the great flies was loud again.",
+    "en": "The crowd buzzed loudly again.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 139,
+    "tag": "P043",
+    "raw": "“Miss Manette, have you seen the prisoner before?”",
+    "en": "\"Miss Manette, have you seen the prisoner before?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 140,
+    "tag": "P044",
+    "raw": "“Yes, sir.”",
+    "en": "\"Yes, sir.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 141,
+    "tag": "P045",
+    "raw": "“Where?”",
+    "en": "\"Where?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 142,
+    "tag": "P046",
+    "raw": "“On board of the packet-ship just now referred to, sir, and on the same occasion.”",
+    "en": "\"On the ship we just discussed, on the same journey.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 143,
+    "tag": "P047",
+    "raw": "“You are the young lady just now referred to?”",
+    "en": "\"Are you the young lady Mr. Lorry mentioned?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 144,
+    "tag": "P048",
+    "raw": "“O! most unhappily, I am!”",
+    "en": "\"Oh, unfortunately, yes.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 145,
+    "tag": "P049",
+    "raw": "The plaintive tone of her compassion merged into the less musical voice of the Judge, as he said something fiercely: “Answer the questions put to you, and make no remark upon them.”",
+    "en": "Her sad, compassionate tone was interrupted by the Judge, who said sharply, \"Just answer the questions and do not make comments.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 146,
+    "tag": "P050",
+    "raw": "“Miss Manette, had you any conversation with the prisoner on that passage across the Channel?” “Yes, sir.” “Recall it.”",
+    "en": "\"Miss Manette, did you speak with the prisoner during the crossing?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 147,
+    "tag": "P051",
+    "raw": "In the midst of a profound stillness, she faintly began: “When the gentleman came on board--”",
+    "en": "In the heavy silence, she began quietly, \"When the gentleman came on board...\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 148,
+    "tag": "P052",
+    "raw": "“Do you mean the prisoner?” inquired the Judge, knitting his brows.",
+    "en": "\"Do you mean the prisoner?\" the Judge interrupted, frowning.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 149,
+    "tag": "P053",
+    "raw": "“Yes, my Lord.” “Then say the prisoner.”",
+    "en": "The room went quiet as she began.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 150,
+    "tag": "P054_1",
+    "raw": "“When the prisoner came on board, he noticed that my father,” turning her eyes lovingly to him as he stood beside her, “was much fatigued and in a very weak state of health. My father was so reduced that I was afraid to take him out of the air, and I had made a bed for him on the deck near the cabin steps, and I sat on the deck at his side to take care of him.",
+    "en": "\"When the prisoner boarded, he noticed my father,\" she said, looking lovingly at her father beside her. \"He was very tired and weak. My father was so sick that I made a bed for him on the deck so he could have fresh air, and I sat beside him to care for him.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 151,
+    "tag": "P054_2",
+    "raw": "There were no other passengers that night, but we four.",
+    "en": "\"I had made a bed for him on the deck, and I sat beside him.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 152,
+    "tag": "P054_3",
+    "raw": "The prisoner was so good as to beg permission to advise me how I could shelter my father from the wind and weather, better than I had done.",
+    "en": "The prisoner kindly asked if he could show me a better way to protect my father from the wind and weather.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 153,
+    "tag": "P054_4",
+    "raw": "I had not known how to do it well, not understanding how the wind would set when we were out of the harbour. He did it for me.",
+    "en": "The prisoner kindly advised me on how to shelter my father from the wind.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 154,
+    "tag": "P054_5",
+    "raw": "He expressed great gentleness and kindness for my father’s state, and I am sure he felt it. That was the manner of our beginning to speak together.”",
+    "en": "He was very gentle and kind, and that is how we began to speak.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 155,
+    "tag": "P055",
+    "raw": "“Let me interrupt you for a moment. Had he come on board alone?”",
+    "en": "\"Let me stop you for a moment. Did he board the ship alone?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 156,
+    "tag": "P056",
+    "raw": "“No.”",
+    "en": "\"No.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 157,
+    "tag": "P057",
+    "raw": "“How many were with him?”",
+    "en": "\"How many were with him?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 158,
+    "tag": "P058",
+    "raw": "“Two French gentlemen.”",
+    "en": "\"Two French gentlemen.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 159,
+    "tag": "P059",
+    "raw": "“Had they conferred together?”",
+    "en": "\"Did they talk?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 160,
+    "tag": "P060",
+    "raw": "“They had conferred together until the last moment, when it was necessary for the French gentlemen to be landed in their boat.”",
+    "en": "\"Yes, until the last moment when the French gentlemen had to return to shore in their boat.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 161,
+    "tag": "P061",
+    "raw": "“Had any papers been handed about among them, similar to these lists?”",
+    "en": "\"Did they pass papers like these lists?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 162,
+    "tag": "P062",
+    "raw": "“Some papers had been handed about among them, but I don’t know what papers.”",
+    "en": "\"They passed some papers, but I don't know what they were.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 163,
+    "tag": "P063",
+    "raw": "“Like these in shape and size?”",
+    "en": "\"Were they similar in size and shape?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 164,
+    "tag": "P064",
+    "raw": "“Possibly, but indeed I don’t know, although they stood whispering very near to me: because they stood at the top of the cabin steps to have the light of the lamp that was hanging there; it was a dull lamp, and they spoke very low, and I did not hear what they said, and saw only that they looked at papers.”",
+    "en": "\"Maybe, but I really don't know. They were whispering near me to use the light from a dull lamp, but they spoke softly. I didn't hear them, I only saw them looking at papers.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 165,
+    "tag": "P065",
+    "raw": "“Now, to the prisoner’s conversation, Miss Manette.”",
+    "en": "\"What did the prisoner say to you, Miss Manette?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 166,
+    "tag": "P066_1",
+    "raw": "“The prisoner was as open in his confidence with me--which arose out of my helpless situation--as he was kind, and good, and useful to my father.",
+    "en": "She began to cry. \"He was very open with me, which was comforting in my difficult situation.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 167,
+    "tag": "P066_2",
+    "raw": "I hope,” bursting into tears, “I may not repay him by doing him harm to-day.”",
+    "en": "I hope that I do not harm him with my testimony today.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 168,
+    "tag": "P067",
+    "raw": "Buzzing from the blue-flies.",
+    "en": "The crowd buzzed again.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 169,
+    "tag": "P068_1",
+    "raw": "“Miss Manette, if the prisoner does not perfectly understand that you give the evidence which it is your duty to give--which you must give--and which you cannot escape from giving--with great unwillingness, he is the only person present in that condition.",
+    "en": "\"Miss Manette, the prisoner surely understands that you are testifying because it is your legal duty, not because you want to.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 170,
+    "tag": "P068_2",
+    "raw": "Please to go on.”",
+    "en": "Please continue.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 171,
+    "tag": "P069_1",
+    "raw": "“He told me that he was travelling on business of a delicate and difficult nature, which might get people into trouble, and that he was therefore travelling under an assumed name.",
+    "en": "\"He told me he was traveling on difficult, secret business that could get people into trouble, and that he was using a false name.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 172,
+    "tag": "P069_2",
+    "raw": "He said that this business had, within a few days, taken him to France, and might, at intervals, take him backwards and forwards between France and England for a long time to come.”",
+    "en": "He mentioned that this business had recently taken him to France, and that he might have to travel back and forth between France and England for a long time.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 173,
+    "tag": "P070",
+    "raw": "“Did he say anything about America, Miss Manette? Be particular.”",
+    "en": "\"Did he mention America, Miss Manette? Please be specific.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 174,
+    "tag": "P071_1",
+    "raw": "“He tried to explain to me how that quarrel had arisen, and he said that, so far as he could judge, it was a wrong and foolish one on England’s part.",
+    "en": "\"He tried to explain the conflict to me, saying he thought England was wrong and foolish.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 175,
+    "tag": "P071_2",
+    "raw": "He added, in a jesting way, that perhaps George Washington might gain almost as great a name in history as George the Third.",
+    "en": "He joked that George Washington might become as famous in history as King George the Third.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 176,
+    "tag": "P071_3",
+    "raw": "But there was no harm in his way of saying this: it was said laughingly, and to beguile the time.”",
+    "en": "But he said it laughingly, just to pass the time.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 177,
+    "tag": "P072_1",
+    "raw": "Any strongly marked expression of face on the part of a chief actor in a scene of great interest to whom many eyes are directed, will be unconsciously imitated by the spectators.",
+    "en": "When people watch a tense scene, they often unconsciously copy the facial expressions of the main person they are looking at.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 178,
+    "tag": "P072_2",
+    "raw": "Her forehead was painfully anxious and intent as she gave this evidence, and, in the pauses when she stopped for the Judge to write it down, watched its effect upon the counsel for and against.",
+    "en": "Her face looked deeply anxious as she testified. Whenever she paused for the Judge to write, she watched the lawyers' reactions.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 179,
+    "tag": "P072_3",
+    "raw": "Among the lookers-on there was the same expression in all quarters of the court; insomuch, that a great majority of the foreheads there, might have been mirrors reflecting the witness, when the Judge looked up from his notes to glare at that tremendous heresy about George Washington.",
+    "en": "The crowd in the courtroom shared her anxious expression. It was like their faces were mirrors reflecting her feelings when the Judge looked up, shocked by the treasonous mention of George Washington.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 180,
+    "tag": "P073",
+    "raw": "Mr. Attorney-General now signified to my Lord, that he deemed it necessary, as a matter of precaution and form, to call the young lady’s father, Doctor Manette. Who was called accordingly.",
+    "en": "The Attorney-General told the Judge he needed to call the young lady’s father, Doctor Manette, to the stand. So, he was called.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 181,
+    "tag": "P074",
+    "raw": "“Doctor Manette, look upon the prisoner. Have you ever seen him before?”",
+    "en": "\"Doctor Manette, have you ever seen the prisoner before?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 182,
+    "tag": "P075_1",
+    "raw": "“Once.",
+    "en": "\"Once.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 183,
+    "tag": "P075_2",
+    "raw": "When he called at my lodgings in London. Some three years, or three years and a half ago.”",
+    "en": "He visited my lodgings in London about three years ago.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 184,
+    "tag": "P076",
+    "raw": "“Can you identify him as your fellow-passenger on board the packet, or speak to his conversation with your daughter?”",
+    "en": "\"Can you identify him from the ship, or speak to his conversation with your daughter?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 185,
+    "tag": "P077",
+    "raw": "“Sir, I can do neither.”",
+    "en": "\"No, I cannot do either.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 186,
+    "tag": "P078",
+    "raw": "“Is there any particular and special reason for your being unable to do either?”",
+    "en": "\"Is there a specific reason why you cannot?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 187,
+    "tag": "P079",
+    "raw": "He answered, in a low voice, “There is.” “Has it been your misfortune to undergo a long imprisonment, without trial, or even accusation, in your native country, Doctor Manette?”",
+    "en": "In a low voice, he answered, \"Yes. I suffered a long imprisonment in my home country, without trial or charges.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 188,
+    "tag": "P080",
+    "raw": "He answered, in a tone that went to every heart, “A long imprisonment.”",
+    "en": "\"Were you recently released at the time of the voyage?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 189,
+    "tag": "P081",
+    "raw": "“Were you newly released on the occasion in question?”",
+    "en": "\"Were you recently freed when this happened?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 190,
+    "tag": "P082",
+    "raw": "“They tell me so.” “Have you no remembrance of the occasion?”",
+    "en": "\"Do you have any memory of it?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 191,
+    "tag": "P083_1",
+    "raw": "“None.",
+    "en": "\"None.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 192,
+    "tag": "P083_2",
+    "raw": "My mind is a blank, from some time--I cannot even say what time--when I employed myself, in my captivity, in making shoes, to the time when I found myself living in London with my dear daughter here. She had become familiar to me, when a gracious God restored my faculties; but, I am quite unable even to say how she had become familiar.",
+    "en": "My memory is completely blank from the time I was a prisoner making shoes, to the time I found myself living in London with my daughter. She became familiar to me when my mind slowly recovered, but I don't remember how that happened.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 193,
+    "tag": "P083_3",
+    "raw": "I have no remembrance of the process.”",
+    "en": "I do not remember how I got here.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 194,
+    "tag": "P084",
+    "raw": "Mr. Attorney-General sat down, and the father and daughter sat down together.",
+    "en": "The Attorney General sat down, and the Manettes did as well.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 195,
+    "tag": "P085_1",
+    "raw": "A singular circumstance then arose in the case.",
+    "en": "Then, a strange turn occurred.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 196,
+    "tag": "P085_2",
+    "raw": "The object in hand being to show that the prisoner went down, with some fellow-plotter untracked, in the Dover mail on that Friday night in November five years ago, and got out of the mail in the night, as a blind, at a place where he did not remain, but from which he travelled back some dozen miles or more, to a garrison and dockyard, and there collected information; a witness was called to identify him as having been at the precise time required, in the coffee-room of an hotel in that garrison-and-dockyard town, waiting for another person.",
+    "en": "The goal was to prove the prisoner secretly traveled with a co-conspirator on the Dover mail coach five years ago, got off in the dark to throw off suspicion, and then traveled back to a military town to gather intelligence. A witness was called to say he saw the prisoner waiting in a hotel coffee-room in that military town at the exact time.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 197,
+    "tag": "P085_3",
+    "raw": "The prisoner’s counsel was cross-examining this witness with no result, except that he had never seen the prisoner on any other occasion, when the wigged gentleman who had all this time been looking at the ceiling of the court, wrote a word or two on a little piece of paper, screwed it up, and tossed it to him.",
+    "en": "The defense lawyer was cross-examining this witness with no success, when the lawyer who had been staring at the ceiling wrote something on a piece of paper, folded it, and tossed it to him.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 198,
+    "tag": "P085_4",
+    "raw": "Opening this piece of paper in the next pause, the counsel looked with great attention and curiosity at the prisoner.",
+    "en": "Opening the paper, the defense lawyer looked closely at the prisoner, then asked the witness:",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 199,
+    "tag": "P086",
+    "raw": "“You say again you are quite sure that it was the prisoner?”",
+    "en": "\"You say again you are quite sure that it was the prisoner?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 200,
+    "tag": "P087",
+    "raw": "The witness was quite sure.",
+    "en": "The witness was positive.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 201,
+    "tag": "P088",
+    "raw": "“Did you ever see anybody very like the prisoner?”",
+    "en": "\"Did you ever see anyone who looked very much like the prisoner?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 202,
+    "tag": "P089",
+    "raw": "Not so like (the witness said) as that he could be mistaken.",
+    "en": "The witness said not enough to mistake them.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 203,
+    "tag": "P090_1",
+    "raw": "“Look well upon that gentleman, my learned friend there,” pointing to him who had tossed the paper over, “and then look well upon the prisoner.",
+    "en": "\"Look at my colleague here,\" the lawyer said, pointing to the man who had thrown the paper.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 204,
+    "tag": "P090_2",
+    "raw": "How say you?",
+    "en": "\"Now look at the prisoner.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 205,
+    "tag": "P090_3",
+    "raw": "Are they very like each other?”",
+    "en": "Are they not very alike?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 206,
+    "tag": "P091_1",
+    "raw": "Allowing for my learned friend’s appearance being careless and slovenly if not debauched, they were sufficiently like each other to surprise, not only the witness, but everybody present, when they were thus brought into comparison.",
+    "en": "Despite the colleague's messy and careless appearance, they looked so similar that the witness and the entire courtroom were shocked.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 207,
+    "tag": "P091_2",
+    "raw": "My Lord being prayed to bid my learned friend lay aside his wig, and giving no very gracious consent, the likeness became much more remarkable.",
+    "en": "When the Judge allowed the colleague to take off his wig, the resemblance was even more striking.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 208,
+    "tag": "P091_3",
+    "raw": "My Lord inquired of Mr.",
+    "en": "The Judge joked to the defense lawyer, Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 209,
+    "tag": "P091_4",
+    "raw": "Stryver (the prisoner’s counsel), whether they were next to try Mr.",
+    "en": "Stryver, if they should try Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 210,
+    "tag": "P091_5",
+    "raw": "Carton (name of my learned friend) for treason?",
+    "en": "Carton, the colleague, for treason next.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 211,
+    "tag": "P091_6",
+    "raw": "But, Mr.",
+    "en": "Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 212,
+    "tag": "P091_7",
+    "raw": "Stryver replied to my Lord, no; but he would ask the witness to tell him whether what happened once, might happen twice; whether he would have been so confident if he had seen this illustration of his rashness sooner, whether he would be so confident, having seen it; and more.",
+    "en": "Mr. Stryver replied no, but asked the witness if something that happened once could happen again. He asked if the witness would still be so confident after seeing how easily he was mistaken.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 213,
+    "tag": "P091_8",
+    "raw": "The upshot of which, was, to smash this witness like a crockery vessel, and shiver his part of the case to useless lumber.",
+    "en": "This completely destroyed the witness's credibility and ruined that part of the prosecution's case.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 214,
+    "tag": "P092_1",
+    "raw": "Mr.",
+    "en": "By this time, Jerry Cruncher had chewed a lot of rust off his fingers watching the trial.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 215,
+    "tag": "P092_2",
+    "raw": "Cruncher had by this time taken quite a lunch of rust off his fingers in his following of the evidence.",
+    "en": "By now, Cruncher had chewed a good amount of rust off his fingers while anxiously following the trial.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 216,
+    "tag": "P092_3",
+    "raw": "He had now to attend while Mr.",
+    "en": "Stryver presented the defense, showing that the witness Barsad was a hired spy, a traitor, and a scoundrel.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 217,
+    "tag": "P092_4",
+    "raw": "Stryver fitted the prisoner’s case on the jury, like a compact suit of clothes; showing them how the patriot, Barsad, was a hired spy and traitor, an unblushing trafficker in blood, and one of the greatest scoundrels upon earth since accursed Judas--which he certainly did look rather like.",
+    "en": "He argued that the servant Cly was his partner in crime, and that they had targeted the prisoner because his family business required him to travel to France.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 218,
+    "tag": "P092_5",
+    "raw": "How the virtuous servant, Cly, was his friend and partner, and was worthy to be; how the watchful eyes of those forgers and false swearers had rested on the prisoner as a victim, because some family affairs in France, he being of French extraction, did require his making those passages across the Channel--though what those affairs were, a consideration for others who were near and dear to him, forbade him, even for his life, to disclose.",
+    "en": "He explained that Cly, the 'virtuous' servant, was actually Barsad's partner in crime. He argued these liars framed the prisoner, knowing he had to travel to France often for private family matters. Out of respect for his family, the prisoner refused to explain what those matters were, even to save his own life.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 219,
+    "tag": "P092_6",
+    "raw": "How the evidence that had been warped and wrested from the young lady, whose anguish in giving it they had witnessed, came to nothing, involving the mere little innocent gallantries and politenesses likely to pass between any young gentleman and young lady so thrown together;--with the exception of that reference to George Washington, which was altogether too extravagant and impossible to be regarded in any other light than as a monstrous joke.",
+    "en": "He pointed out that the testimony forced from the distressed young lady meant nothing. It only showed innocent politeness between a young man and woman, except for the George Washington comment, which was clearly just a wild joke.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 220,
+    "tag": "P092_7",
+    "raw": "How it would be a weakness in the government to break down in this attempt to practise for popularity on the lowest national antipathies and fears, and therefore Mr.",
+    "en": "He argued that the prosecution was trying to exploit public fear and prejudice, and that the case rested on untrustworthy witnesses.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 221,
+    "tag": "P092_8",
+    "raw": "Attorney-General had made the most of it; how, nevertheless, it rested upon nothing, save that vile and infamous character of evidence too often disfiguring such cases, and of which the State Trials of this country were full.",
+    "en": "He said the Attorney-General blew things out of proportion based on the same terrible, untrustworthy evidence that ruined many other trials in the country.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 222,
+    "tag": "P092_9",
+    "raw": "But, there my Lord interposed (with as grave a face as if it had not been true), saying that he could not sit upon that Bench and suffer those allusions.",
+    "en": "But the Judge interrupted, looking incredibly serious, and said he couldn't allow such disrespectful comments in his court.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 223,
+    "tag": "P093_1",
+    "raw": "Mr. Stryver then called his few witnesses, and Mr. Cruncher had next to attend while Mr. Attorney-General turned the whole suit of clothes Mr. Stryver had fitted on the jury, inside out; showing how Barsad and Cly were even a hundred times better than he had thought them, and the prisoner a hundred times worse.",
+    "en": "Mr. Stryver then called his witnesses. Next, Mr. Cruncher watched as the Attorney-General completely destroyed Stryver's argument, trying to prove that Barsad and Cly were saints and the prisoner was a terrible villain.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 224,
+    "tag": "P093_2",
+    "raw": "Lastly, came my Lord himself, turning the suit of clothes, now inside out, now outside in, but on the whole decidedly trimming and shaping them into grave-clothes for the prisoner.",
+    "en": "Finally, the Judge summarized the case, shaping his words in a way that pointed toward a death sentence.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 225,
+    "tag": "P094",
+    "raw": "And now, the jury turned to consider, and the great flies swarmed again.",
+    "en": "The jury then withdrew to make their decision, and the crowd buzzed once more.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 226,
+    "tag": "P095_1",
+    "raw": "Mr.",
+    "en": "Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 227,
+    "tag": "P095_2",
+    "raw": "Carton, who had so long sat looking at the ceiling of the court, changed neither his place nor his attitude, even in this excitement.",
+    "en": "Carton, who had been staring at the ceiling all along, didn't move or change his posture during all the excitement.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 228,
+    "tag": "P095_3",
+    "raw": "While his learned friend, Mr.",
+    "en": "His colleague, Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 229,
+    "tag": "P095_4",
+    "raw": "Stryver, massing his papers before him, whispered with those who sat near, and from time to time glanced anxiously at the jury; while all the spectators moved more or less, and grouped themselves anew; while even my Lord himself arose from his seat, and slowly paced up and down his platform, not unattended by a suspicion in the minds of the audience that his state was feverish; this one man sat leaning back, with his torn gown half off him, his untidy wig put on just as it had happened to light on his head after its removal, his hands in his pockets, and his eyes on the ceiling as they had been all day.",
+    "en": "Stryver gathered his papers, whispered to those nearby, and nervously glanced at the jury. The crowd shifted and stretched, and even the Judge got up to pace slowly. But through it all, Carton just leaned back with his torn gown slipping off, his messy wig crooked on his head, his hands in his pockets, and his eyes glued to the ceiling.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 230,
+    "tag": "P095_5",
+    "raw": "Something especially reckless in his demeanour, not only gave him a disreputable look, but so diminished the strong resemblance he undoubtedly bore to the prisoner (which his momentary earnestness, when they were compared together, had strengthened), that many of the lookers-on, taking note of him now, said to one another they would hardly have thought the two were so alike.",
+    "en": "His careless attitude made him look untrustworthy. It also made him look much less like the prisoner than he had during that brief moment they were compared side-by-side, making people wonder how they ever thought they looked alike.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 231,
+    "tag": "P095_6",
+    "raw": "Mr.",
+    "en": "Carton sat back with his torn gown half off, his messy wig crooked, his hands in his pockets, staring at the ceiling.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 232,
+    "tag": "P095_7",
+    "raw": "Cruncher made the observation to his next neighbour, and added, “I’d hold half a guinea that _he_ don’t get no law-work to do.",
+    "en": "His reckless attitude made him look very different from the prisoner, so the resemblance was less noticeable now.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 233,
+    "tag": "P095_8",
+    "raw": "Don’t look like the sort of one to get any, do he?”",
+    "en": "Jerry remarked to his neighbor that he bet Carton didn't get much legal work.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 234,
+    "tag": "P096_1",
+    "raw": "Yet, this Mr.",
+    "en": "Yet Carton was paying closer attention than he seemed.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 235,
+    "tag": "P096_2",
+    "raw": "Carton took in more of the details of the scene than he appeared to take in; for now, when Miss Manette’s head dropped upon her father’s breast, he was the first to see it, and to say audibly: “Officer! look to that young lady.",
+    "en": "When Miss Manette’s head fell onto her father’s chest, he was the first to notice, calling out: \"Officer! Look to that young lady.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 236,
+    "tag": "P096_3",
+    "raw": "Help the gentleman to take her out.",
+    "en": "Help her father take her out.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 237,
+    "tag": "P096_4",
+    "raw": "Don’t you see she will fall!”",
+    "en": "She is going to faint!\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 238,
+    "tag": "P097_1",
+    "raw": "There was much commiseration for her as she was removed, and much sympathy with her father. It had evidently been a great distress to him, to have the days of his imprisonment recalled.",
+    "en": "The crowd felt sorry for her as she was led away, and they sympathized with her father. It was clear that remembering his imprisonment had caused him great pain.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 239,
+    "tag": "P097_2",
+    "raw": "He had shown strong internal agitation when he was questioned, and that pondering or brooding look which made him old, had been upon him, like a heavy cloud, ever since. As he passed out, the jury, who had turned back and paused a moment, spoke, through their foreman.",
+    "en": "He had been deeply upset during questioning, and a dark, brooding look had settled on his face like a heavy cloud, making him look older. As he was leaving, the jury foreman stopped to speak.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 240,
+    "tag": "P098_1",
+    "raw": "They were not agreed, and wished to retire.",
+    "en": "As the jury left, they announced they could not agree and needed to deliberate.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 241,
+    "tag": "P098_2",
+    "raw": "My Lord (perhaps with George Washington on his mind) showed some surprise that they were not agreed, but signified his pleasure that they should retire under watch and ward, and retired himself.",
+    "en": "The Judge seemed surprised they hadn't agreed yet—perhaps still bothered by the George Washington comment. He ordered them to deliberate in a private room, then left the courtroom himself.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 242,
+    "tag": "P098_3",
+    "raw": "The trial had lasted all day, and the lamps in the court were now being lighted. It began to be rumoured that the jury would be out a long while.",
+    "en": "As night fell, lamps were lit in the court, and it was rumored the jury would take a long time.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 243,
+    "tag": "P098_4",
+    "raw": "The spectators dropped off to get refreshment, and the prisoner withdrew to the back of the dock, and sat down.",
+    "en": "The spectators left to get food, and the prisoner sat down in the back of the dock.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 244,
+    "tag": "P099_1",
+    "raw": "Mr.",
+    "en": "Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 245,
+    "tag": "P099_2",
+    "raw": "Lorry, who had gone out when the young lady and her father went out, now reappeared, and beckoned to Jerry: who, in the slackened interest, could easily get near him.",
+    "en": "Mr. Lorry, who had stepped out with Lucie and her father, came back and waved for Jerry. Since the crowd was less interested now, Jerry easily walked over to him.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 246,
+    "tag": "P100_1",
+    "raw": "“Jerry, if you wish to take something to eat, you can. But, keep in the way.",
+    "en": "\"Jerry, get something to eat if you want, but stay close.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 247,
+    "tag": "P100_2",
+    "raw": "You will be sure to hear when the jury come in.",
+    "en": "Let me know as soon as the jury returns.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 248,
+    "tag": "P100_3",
+    "raw": "Don’t be a moment behind them, for I want you to take the verdict back to the bank. You are the quickest messenger I know, and will get to Temple Bar long before I can.”",
+    "en": "I want you to take the verdict back to the bank immediately, as you are the fastest messenger.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 249,
+    "tag": "P101_1",
+    "raw": "Jerry had just enough forehead to knuckle, and he knuckled it in acknowledgment of this communication and a shilling.",
+    "en": "Jerry tapped his forehead respectfully to acknowledge the message and the shilling he was given.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 250,
+    "tag": "P101_2",
+    "raw": "Mr.",
+    "en": "Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 251,
+    "tag": "P101_3",
+    "raw": "Carton came up at the moment, and touched Mr.",
+    "en": "Carton walked up at that moment and tapped Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 252,
+    "tag": "P101_4",
+    "raw": "Lorry on the arm.",
+    "en": "Lorry.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 253,
+    "tag": "P102",
+    "raw": "“How is the young lady?”",
+    "en": "\"How is the young lady?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 254,
+    "tag": "P103",
+    "raw": "“She is greatly distressed; but her father is comforting her, and she feels the better for being out of court.”",
+    "en": "\"She is very distressed, but her father is comforting her, and she is glad to be out of the court.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 255,
+    "tag": "P104_1",
+    "raw": "“I’ll tell the prisoner so.",
+    "en": "\"I will let the prisoner know.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 256,
+    "tag": "P104_2",
+    "raw": "It won’t do for a respectable bank gentleman like you, to be seen speaking to him publicly, you know.”",
+    "en": "It wouldn't look good for a respectable banker like you to be seen speaking to him.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 257,
+    "tag": "P105_1",
+    "raw": "Mr.",
+    "en": "Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 258,
+    "tag": "P105_2",
+    "raw": "Lorry reddened as if he were conscious of having debated the point in his mind, and Mr. Carton made his way to the outside of the bar.",
+    "en": "Mr. Lorry blushed, realizing he was caught thinking about it. Carton then made his way out of the lawyer's area.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 259,
+    "tag": "P105_3",
+    "raw": "The way out of court lay in that direction, and Jerry followed him, all eyes, ears, and spikes.",
+    "en": "The exit was in that direction, so Jerry followed him closely, on high alert.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 260,
+    "tag": "P106_1",
+    "raw": "“Mr.",
+    "en": "\"Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 261,
+    "tag": "P106_2",
+    "raw": "Darnay!”",
+    "en": "Darnay!\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 262,
+    "tag": "P107",
+    "raw": "The prisoner came forward directly.",
+    "en": "The prisoner came forward.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 263,
+    "tag": "P108_1",
+    "raw": "“You will naturally be anxious to hear of the witness, Miss Manette.",
+    "en": "\"You must be anxious to hear about the witness, Miss Manette.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 264,
+    "tag": "P108_2",
+    "raw": "She will do very well. You have seen the worst of her agitation.”",
+    "en": "You have seen the worst of her distress.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 265,
+    "tag": "P109_1",
+    "raw": "“I am deeply sorry to have been the cause of it.",
+    "en": "\"I am deeply sorry to have caused it.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 266,
+    "tag": "P109_2",
+    "raw": "Could you tell her so for me, with my fervent acknowledgments?” “Yes, I could. I will, if you ask it.”",
+    "en": "Could you give her my deep thanks?\" \"Yes, I can. I will if you want me to.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 267,
+    "tag": "P110",
+    "raw": "Mr. Carton’s manner was so careless as to be almost insolent. He stood, half turned from the prisoner, lounging with his elbow against the bar.",
+    "en": "\"Yes, I will.\" Carton’s manner was careless, almost rude, as he leaned against the bar.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 268,
+    "tag": "P111",
+    "raw": "“I do ask it. Accept my cordial thanks.”",
+    "en": "\"Thank you,\" said Darnay.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 269,
+    "tag": "P112_1",
+    "raw": "“What,” said Carton, still only half turned towards him, “do you expect, Mr.",
+    "en": "\"What do you expect, Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 270,
+    "tag": "P112_2",
+    "raw": "Darnay?”",
+    "en": "Darnay?\" Carton asked.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 271,
+    "tag": "P113",
+    "raw": "“The worst.”",
+    "en": "\"The worst.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 272,
+    "tag": "P114_1",
+    "raw": "“It’s the wisest thing to expect, and the likeliest.",
+    "en": "\"That is the safest thing to expect.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 273,
+    "tag": "P114_2",
+    "raw": "But I think their withdrawing is in your favour.”",
+    "en": "But the jury taking this long is a good sign.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 274,
+    "tag": "P115",
+    "raw": "Loitering on the way out of court not being allowed, Jerry heard no more: but left them--so like each other in feature, so unlike each other in manner--standing side by side, both reflected in the glass above them.",
+    "en": "Jerry had to move along, so he heard no more, leaving the two men, so alike in face, yet so different in manner, standing side by side.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 275,
+    "tag": "P116_1",
+    "raw": "An hour and a half limped heavily away in the thief-and-rascal crowded passages below, even though assisted off with mutton pies and ale.",
+    "en": "An hour and a half dragged on in the crowded, shady hallways below, helped along slightly by eating meat pies and drinking ale.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 276,
+    "tag": "P116_2",
+    "raw": "The hoarse messenger, uncomfortably seated on a form after taking that refection, had dropped into a doze, when a loud murmur and a rapid tide of people setting up the stairs that led to the court, carried him along with them.",
+    "en": "The gruff messenger was napping uncomfortably on a bench after his meal. Suddenly, a loud murmur and a rush of people heading up the stairs to the court swept him along with them.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 277,
+    "tag": "P117_1",
+    "raw": "“Jerry!",
+    "en": "\"Jerry!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 278,
+    "tag": "P117_2",
+    "raw": "Jerry!” Mr.",
+    "en": "Jerry!\" Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 279,
+    "tag": "P117_3",
+    "raw": "Lorry was already calling at the door when he got there.",
+    "en": "Mr. Lorry was already calling out from the door when he got there.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 280,
+    "tag": "P118_1",
+    "raw": "“Here, sir!",
+    "en": "\"Here, sir!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 281,
+    "tag": "P118_2",
+    "raw": "It’s a fight to get back again. Here I am, sir!”",
+    "en": "It’s hard to get through, but I'm here!\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 282,
+    "tag": "P119_1",
+    "raw": "Mr.",
+    "en": "Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 283,
+    "tag": "P119_2",
+    "raw": "Lorry handed him a paper through the throng. “Quick!",
+    "en": "Lorry handed him a paper through the crowd. \"Quick!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 284,
+    "tag": "P119_3",
+    "raw": "Have you got it?”",
+    "en": "Do you have it?\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 285,
+    "tag": "P120",
+    "raw": "“Yes, sir.”",
+    "en": "\"Yes, sir.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 286,
+    "tag": "P121",
+    "raw": "Hastily written on the paper was the word “ACQUITTED.”",
+    "en": "Written on the paper was the single word: \"ACQUITTED.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 287,
+    "tag": "P122",
+    "raw": "“If you had sent the message, ‘Recalled to Life,’ again,” muttered Jerry, as he turned, “I should have known what you meant, this time.”",
+    "en": "Jerry muttered as he ran, \"If you had sent the message 'Recalled to Life' again, I would have understood it this time.\"",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 288,
+    "tag": "P123",
+    "raw": "He had no opportunity of saying, or so much as thinking, anything else, until he was clear of the Old Bailey; for, the crowd came pouring out with a vehemence that nearly took him off his legs, and a loud buzz swept into the street as if the baffled blue-flies were dispersing in search of other carrion.",
+    "en": "He couldn't say or think anything until he was completely out of the Old Bailey. The crowd poured out so forcefully it nearly knocked him over. A loud buzz filled the street as the disappointed onlookers scattered, looking for their next victim.",
+    "ko": "",
+    "is_header": false
+  }
+]
