@@ -1,0 +1,858 @@
+[
+    {
+        "id": 1,
+        "tag": "P001",
+        "raw": "CHAPTER VI. Triumph",
+        "en": "[Chapter 6] Triumph",
+        "ko": "",
+        "is_header": true
+    },
+    {
+        "id": 2,
+        "tag": "P002_1",
+        "raw": "The dread tribunal of five Judges, Public Prosecutor, and determined Jury, sat every day.",
+        "en": "The terrible court of five judges, a public prosecutor, and a determined jury met every day.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 3,
+        "tag": "P002_2",
+        "raw": "Their lists went forth every evening, and were read out by the gaolers of the various prisons to their prisoners.",
+        "en": "Their list of the condemned went out every evening, read aloud by the jailers to the prisoners in each jail.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 4,
+        "tag": "P002_3",
+        "raw": "The standard gaoler-joke was, “Come out and listen to the Evening Paper, you inside there!”",
+        "en": "The jailers' favorite joke was, “Come out and listen to the Evening Paper, you guys inside!”",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 5,
+        "tag": "P003",
+        "raw": "“Charles Evrémonde, called Darnay!”",
+        "en": "“Charles Evremonde, called Darnay!”",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 6,
+        "tag": "P004",
+        "raw": "So at last began the Evening Paper at La Force.",
+        "en": "So at last began the reading of the list at La Force prison.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 7,
+        "tag": "P005_1",
+        "raw": "When a name was called, its owner stepped apart into a spot reserved for those who were announced as being thus fatally recorded.",
+        "en": "When a name was called, the prisoner stepped aside into an area reserved for those marked for death.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 8,
+        "tag": "P005_2",
+        "raw": "Charles Evrémonde, called Darnay, had reason to know the usage; he had seen hundreds pass away so.",
+        "en": "Charles Darnay knew the routine well; he had seen hundreds of prisoners go this way.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 9,
+        "tag": "P006_1",
+        "raw": "His bloated gaoler, who wore spectacles to read with, glanced over them to assure himself that he had taken his place, and went through the list, making a similar short pause at each name.",
+        "en": "His bloated jailer, wearing glasses to read, looked over them to make sure Darnay had stepped aside, and then continued through the list, pausing briefly at each name.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 10,
+        "tag": "P006_2",
+        "raw": "There were twenty-three names, but only twenty were responded to; for one of the prisoners so summoned had died in gaol and been forgotten, and two had already been guillotined and forgotten.",
+        "en": "There were twenty-three names, but only twenty people answered. One of the summoned prisoners had already died in jail and been forgotten, and two had already been executed and forgotten.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 11,
+        "tag": "P006_3",
+        "raw": "The list was read, in the vaulted chamber where Darnay had seen the associated prisoners on the night of his arrival.",
+        "en": "The list was read in the same arched room where Darnay had seen the polite crowd on his first night.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 12,
+        "tag": "P006_4",
+        "raw": "Every one of those had perished in the massacre; every human creature he had since cared for and parted with, had died on the scaffold.",
+        "en": "Every single person from that crowd had died in the massacre, and everyone he had met since then had been executed.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 13,
+        "tag": "P007_1",
+        "raw": "There were hurried words of farewell and kindness, but the parting was soon over.",
+        "en": "There were quick goodbyes and kind words, but the parting was over fast.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 14,
+        "tag": "P007_2",
+        "raw": "It was the incident of every day, and the society of La Force were engaged in the preparation of some games of forfeits and a little concert, for that evening.",
+        "en": "It was an everyday event, and the prisoners of La Force were busy planning games and a small concert for that evening.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 15,
+        "tag": "P007_3",
+        "raw": "They crowded to the grates and shed tears there; but, twenty places in the projected entertainments had to be refilled, and the time was, at best, short to the lock-up hour, when the common rooms and corridors would be delivered over to the great dogs who kept watch there through the night.",
+        "en": "The prisoners crowded to the bars and cried, but twenty spots in the evening's planned entertainment had to be filled again, and there was very little time left before lockdown, when the common rooms and hallways would be handed over to the huge dogs that kept watch there all night.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 16,
+        "tag": "P007_4",
+        "raw": "The prisoners were far from insensible or unfeeling; their ways arose out of the condition of the time.",
+        "en": "Time was short before lockup, when the rooms and halls would be guarded by the large guard dogs for the night.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 17,
+        "tag": "P007_5",
+        "raw": "Similarly, though with a subtle difference, a species of fervour or intoxication, known, without doubt, to have led some persons to brave the guillotine unnecessarily, and to die by it, was not mere boastfulness, but a wild infection of the wildly shaken public mind.",
+        "en": "In a similar way, though slightly different, there was a kind of intense passion or frenzy—which is actually known to have caused some people to unnecessarily face the guillotine and die by it—that wasn't just showing off, but a wild sickness spreading through the deeply disturbed public mind.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 18,
+        "tag": "P007_6",
+        "raw": "In seasons of pestilence, some of us will have a secret attraction to the disease--a terrible passing inclination to die of it.",
+        "en": "Indeed, a strange urge to face the Guillotine unnecessarily and die had infected many people, not out of boasting, but as a mental illness spreading through the population.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 19,
+        "tag": "P007_7",
+        "raw": "And all of us have like wonders hidden in our breasts, only needing circumstances to evoke them.",
+        "en": "In times of plague, some people feel a weird urge to get sick, and all of us have hidden instincts that only appear in extreme circumstances.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 20,
+        "tag": "P008_1",
+        "raw": "The passage to the Conciergerie was short and dark; the night in its vermin-haunted cells was long and cold.",
+        "en": "The trip to the Conciergerie prison was short and dark, and the night spent in its dirty cells was long and cold.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 21,
+        "tag": "P008_2",
+        "raw": "Next day, fifteen prisoners were put to the bar before Charles Darnay’s name was called.",
+        "en": "The next day, fifteen prisoners were tried before Darnay's name was called.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 22,
+        "tag": "P008_3",
+        "raw": "All the fifteen were condemned, and the trials of the whole occupied an hour and a half.",
+        "en": "All fifteen were condemned to death, and their trials took only an hour and a half in total.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 23,
+        "tag": "P009",
+        "raw": "“Charles Evrémonde, called Darnay,” was at length arraigned.",
+        "en": "“Charles Evremonde, called Darnay,” was finally called to the front.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 24,
+        "tag": "P010_1",
+        "raw": "His judges sat upon the Bench in feathered hats; but the rough red cap and tricoloured cockade was the head-dress otherwise prevailing.",
+        "en": "His judges sat on the bench wearing feathered hats, while almost everyone else in the room wore red caps and tri-color ribbons.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 25,
+        "tag": "P010_2",
+        "raw": "Looking at the Jury and the turbulent audience, he might have thought that the usual order of things was reversed, and that the felons were trying the honest men.",
+        "en": "Looking at the jury and the noisy crowd, one might have thought that criminals were putting honest men on trial.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 26,
+        "tag": "P010_3",
+        "raw": "The lowest, cruelest, and worst populace of a city, never without its quantity of low, cruel, and bad, were the directing spirits of the scene: noisily commenting, applauding, disapproving, anticipating, and precipitating the result, without a check.",
+        "en": "The poorest and cruelest people in the city ruled the courtroom, shouting comments, cheering, booing, and deciding the verdicts without any control.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 27,
+        "tag": "P010_4",
+        "raw": "Of the men, the greater part were armed in various ways; of the women, some wore knives, some daggers, some ate and drank as they looked on, many knitted.",
+        "en": "Most of the men were armed, and some of the women carried knives or daggers, eating and drinking while they watched, and many knitted.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 28,
+        "tag": "P010_5",
+        "raw": "Among these last, was one, with a spare piece of knitting under her arm as she worked.",
+        "en": "Among the knitters was one woman sitting in the front row with a spare piece of knitting under her arm.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 29,
+        "tag": "P010_6",
+        "raw": "She was in a front row, by the side of a man whom he had never seen since his arrival at the Barrier, but whom he directly remembered as Defarge.",
+        "en": "She sat next to a man Darnay had not seen since the city gates, but whom he immediately recognized as Defarge.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 30,
+        "tag": "P010_7",
+        "raw": "He noticed that she once or twice whispered in his ear, and that she seemed to be his wife; but, what he most noticed in the two figures was, that although they were posted as close to himself as they could be, they never looked towards him.",
+        "en": "He noticed that she whispered to him once or twice and seemed to be his wife. But what he noticed most was that, even though they sat very close to him, they never looked at him.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 31,
+        "tag": "P010_8",
+        "raw": "They seemed to be waiting for something with a dogged determination, and they looked at the Jury, but at nothing else.",
+        "en": "They seemed to be waiting for something with stubborn determination, staring only at the jury.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 32,
+        "tag": "P010_9",
+        "raw": "Under the President sat Doctor Manette, in his usual quiet dress.",
+        "en": "Below the president of the court sat Doctor Manette in his usual quiet clothes.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 33,
+        "tag": "P010_10",
+        "raw": "As well as the prisoner could see, he and Mr.",
+        "en": "As far as Darnay could see, the Doctor and Mr.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 34,
+        "tag": "P010_11",
+        "raw": "Lorry were the only men there, unconnected with the Tribunal, who wore their usual clothes, and had not assumed the coarse garb of the Carmagnole.",
+        "en": "Lorry were the only men in the room who wore normal clothes instead of the rough revolutionary dress of the Carmagnole.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 35,
+        "tag": "P011_1",
+        "raw": "Charles Evrémonde, called Darnay, was accused by the public prosecutor as an emigrant, whose life was forfeit to the Republic, under the decree which banished all emigrants on pain of Death.",
+        "en": "Charles Darnay was accused of being an emigrant whose life belonged to the Republic under the law that banished all exiles under penalty of death.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 36,
+        "tag": "P011_2",
+        "raw": "It was nothing that the decree bore date since his return to France.",
+        "en": "It did not matter that the law was passed after he had already returned to France.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 37,
+        "tag": "P011_3",
+        "raw": "There he was, and there was the decree; he had been taken in France, and his head was demanded.",
+        "en": "He was there, the law was there, he had been captured in France, and they demanded his execution.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 38,
+        "tag": "P012",
+        "raw": "“Take off his head!” cried the audience. “An enemy to the Republic!”",
+        "en": "“Cut off his head!” cried the audience. “He is an enemy of the Republic!”",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 39,
+        "tag": "P013",
+        "raw": "The President rang his bell to silence those cries, and asked the prisoner whether it was not true that he had lived many years in England?",
+        "en": "The president rang his bell to quiet the crowd and asked the prisoner if it was true that he had lived for many years in England.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 40,
+        "tag": "P014",
+        "raw": "Undoubtedly it was.",
+        "en": "Yes, it was true.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 41,
+        "tag": "P015_1",
+        "raw": "Was he not an emigrant then?",
+        "en": "Was he not an emigrant then?",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 42,
+        "tag": "P015_2",
+        "raw": "What did he call himself?",
+        "en": "What did he call himself?",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 43,
+        "tag": "P016",
+        "raw": "Not an emigrant, he hoped, within the sense and spirit of the law.",
+        "en": "Not an emigrant, he hoped, according to the spirit of the law.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 44,
+        "tag": "P017",
+        "raw": "Why not? the President desired to know.",
+        "en": "Why not? the president asked.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 45,
+        "tag": "P018",
+        "raw": "Because he had voluntarily relinquished a title that was distasteful to him, and a station that was distasteful to him, and had left his country--he submitted before the word emigrant in the present acceptation by the Tribunal was in use--to live by his own industry in England, rather than on the industry of the overladen people of France.",
+        "en": "Because he had voluntarily given up a title and a position that he hated, leaving his country long before the word \"emigrant\" was used in this way, to live by his own hard work in England rather than off the labor of the heavily taxed people of France.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 46,
+        "tag": "P019",
+        "raw": "What proof had he of this?",
+        "en": "What proof did he have of this?",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 47,
+        "tag": "P020",
+        "raw": "He handed in the names of two witnesses; Theophile Gabelle, and Alexandre Manette.",
+        "en": "He gave the names of two witnesses: Theophile Gabelle and Alexandre Manette.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 48,
+        "tag": "P021",
+        "raw": "But he had married in England? the President reminded him.",
+        "en": "But he had married in England, the president reminded him.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 49,
+        "tag": "P022",
+        "raw": "True, but not an English woman.",
+        "en": "Yes, but not an English woman.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 50,
+        "tag": "P023",
+        "raw": "A citizeness of France?",
+        "en": "A citizeness of France?",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 51,
+        "tag": "P024",
+        "raw": "Yes. By birth.",
+        "en": "Yes, by birth.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 52,
+        "tag": "P025",
+        "raw": "Her name and family?",
+        "en": "What was her name and family?",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 53,
+        "tag": "P026",
+        "raw": "“Lucie Manette, only daughter of Doctor Manette, the good physician who sits there.”",
+        "en": "“Lucie Manette, the only daughter of Doctor Manette, the good physician sitting right there.”",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 54,
+        "tag": "P027_1",
+        "raw": "This answer had a happy effect upon the audience.",
+        "en": "This answer had a great effect on the crowd.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 55,
+        "tag": "P027_2",
+        "raw": "Cries in exaltation of the well-known good physician rent the hall.",
+        "en": "Shouts praising the well-known doctor filled the hall.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 56,
+        "tag": "P027_3",
+        "raw": "So capriciously were the people moved, that tears immediately rolled down several ferocious countenances which had been glaring at the prisoner a moment before, as if with impatience to pluck him out into the streets and kill him.",
+        "en": "The crowd was so unpredictable that tears rolled down the faces of several fierce-looking people who, just a moment before, had been glaring at the prisoner as if they wanted to drag him outside and kill him.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 57,
+        "tag": "P028_1",
+        "raw": "On these few steps of his dangerous way, Charles Darnay had set his foot according to Doctor Manette’s reiterated instructions.",
+        "en": "During these first steps of his trial, Charles Darnay followed Doctor Manette's exact instructions.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 58,
+        "tag": "P028_2",
+        "raw": "The same cautious counsel directed every step that lay before him, and had prepared every inch of his road.",
+        "en": "The same careful plan guided every step that lay ahead of him, prepared in advance.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 59,
+        "tag": "P029",
+        "raw": "The President asked, why had he returned to France when he did, and not sooner?",
+        "en": "The president asked why he had returned to France when he did, and not earlier.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 60,
+        "tag": "P030_1",
+        "raw": "He had not returned sooner, he replied, simply because he had no means of living in France, save those he had resigned; whereas, in England, he lived by giving instruction in the French language and literature.",
+        "en": "He replied that he had not returned sooner because he had no way of making a living in France other than the wealth he had given up, whereas in England he earned his living by teaching French.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 61,
+        "tag": "P030_2",
+        "raw": "He had returned when he did, on the pressing and written entreaty of a French citizen, who represented that his life was endangered by his absence.",
+        "en": "He returned when he did because of the urgent letter from a French citizen who said his life was in danger because of Darnay's absence.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 62,
+        "tag": "P030_3",
+        "raw": "He had come back, to save a citizen’s life, and to bear his testimony, at whatever personal hazard, to the truth.",
+        "en": "He had come back to save a citizen's life and tell the truth, risking his own safety.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 63,
+        "tag": "P030_4",
+        "raw": "Was that criminal in the eyes of the Republic?",
+        "en": "Was that a crime in the eyes of the Republic?",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 64,
+        "tag": "P031_1",
+        "raw": "The populace cried enthusiastically, “No!” and the President rang his bell to quiet them.",
+        "en": "The crowd shouted enthusiastically, “No!” and the president rang his bell to quiet them.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 65,
+        "tag": "P031_2",
+        "raw": "Which it did not, for they continued to cry “No!”  until they left off, of their own will.",
+        "en": "It didn't work, as they kept shouting “No!” until they decided to stop on their own.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 66,
+        "tag": "P032_1",
+        "raw": "The President required the name of that citizen.",
+        "en": "The president asked for the name of that citizen.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 67,
+        "tag": "P032_2",
+        "raw": "The accused explained that the citizen was his first witness.",
+        "en": "Darnay explained that the citizen was Gabelle, his first witness.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 68,
+        "tag": "P032_3",
+        "raw": "He also referred with confidence to the citizen’s letter, which had been taken from him at the Barrier, but which he did not doubt would be found among the papers then before the President.",
+        "en": "He also pointed to Gabelle's letter, which had been taken from him at the gates but was surely among the papers on the president's desk.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 69,
+        "tag": "P033_1",
+        "raw": "The Doctor had taken care that it should be there--had assured him that it would be there--and at this stage of the proceedings it was produced and read.",
+        "en": "The Doctor had made sure the letter was there. At this point, it was produced and read aloud.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 70,
+        "tag": "P033_2",
+        "raw": "Citizen Gabelle was called to confirm it, and did so.",
+        "en": "Gabelle was called to confirm it, and did so.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 71,
+        "tag": "P033_3",
+        "raw": "Citizen Gabelle hinted, with infinite delicacy and politeness, that in the pressure of business imposed on the Tribunal by the multitude of enemies of the Republic with which it had to deal, he had been slightly overlooked in his prison of the Abbaye--in fact, had rather passed out of the Tribunal’s patriotic remembrance--until three days ago; when he had been summoned before it, and had been set at liberty on the Jury’s declaring themselves satisfied that the accusation against him was answered, as to himself, by the surrender of the citizen Evrémonde, called Darnay.",
+        "en": "Gabelle politely mentioned that because the court was so busy dealing with so many enemies of the Republic, he had been slightly forgotten in the Abbaye Prison until three days ago, when he was finally released after the jury decided that his charges were answered by the arrival of Citizen Darnay.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 72,
+        "tag": "P034_1",
+        "raw": "Doctor Manette was next questioned.",
+        "en": "Doctor Manette was questioned next.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 73,
+        "tag": "P034_2",
+        "raw": "His high personal popularity, and the clearness of his answers, made a great impression; but, as he proceeded, as he showed that the Accused was his first friend on his release from his long imprisonment; that, the accused had remained in England, always faithful and devoted to his daughter and himself in their exile; that, so far from being in favour with the Aristocrat government there, he had actually been tried for his life by it, as the foe of England and friend of the United States--as he brought these circumstances into view, with the greatest discretion and with the straightforward force of truth and earnestness, the Jury and the populace became one.",
+        "en": "His great popularity and clear answers made a strong impression. He explained that Charles was his first friend after being released from the Bastille, and that Charles had stayed in England to care for him and Lucie in their exile. He also revealed that, far from being favored by the English government, Charles had actually been tried for his life in London for being a friend to the United States and an enemy to England.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 74,
+        "tag": "P034_3",
+        "raw": "At last, when he appealed by name to Monsieur Lorry, an English gentleman then and there present, who, like himself, had been a witness on that English trial and could corroborate his account of it, the Jury declared that they had heard enough, and that they were ready with their votes if the President were content to receive them.",
+        "en": "As he explained these facts clearly and honestly, the jury and the crowd were completely won over. Finally, when he called on Mr. Lorry to confirm the details of the English trial, the jury declared they had heard enough and were ready to vote.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 75,
+        "tag": "P035_1",
+        "raw": "At every vote (the Jurymen voted aloud and individually), the populace set up a shout of applause.",
+        "en": "With every single vote—since the jury members voted out loud and one by one—the crowd erupted into a loud cheer.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 76,
+        "tag": "P035_2",
+        "raw": "All the voices were in the prisoner’s favour, and the President declared him free.",
+        "en": "Every vote was in the prisoner's favor, and the president declared him free.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 77,
+        "tag": "P036_1",
+        "raw": "Then, began one of those extraordinary scenes with which the populace sometimes gratified their fickleness, or their better impulses towards generosity and mercy, or which they regarded as some set-off against their swollen account of cruel rage.",
+        "en": "Then began one of those wild scenes where the crowd showed their unpredictable generosity and mercy. It was probably a mix of emotions.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 78,
+        "tag": "P036_2",
+        "raw": "No man can decide now to which of these motives such extraordinary scenes were referable; it is probable, to a blending of all the three, with the second predominating.",
+        "en": "As soon as the acquittal was announced, tears flowed as freely as blood had on other days.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 79,
+        "tag": "P036_3",
+        "raw": "No sooner was the acquittal pronounced, than tears were shed as freely as blood at another time, and such fraternal embraces were bestowed upon the prisoner by as many of both sexes as could rush at him, that after his long and unwholesome confinement he was in danger of fainting from exhaustion; none the less because he knew very well, that the very same people, carried by another current, would have rushed at him with the very same intensity, to rend him to pieces and strew him over the streets.",
+        "en": "Men and women rushed to hug Darnay, nearly causing him to faint from exhaustion after his long imprisonment. He was well aware that these same people, under a different mood, would have rushed at him just as eagerly to tear him to pieces in the streets.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 80,
+        "tag": "P037_1",
+        "raw": "His removal, to make way for other accused persons who were to be tried, rescued him from these caresses for the moment.",
+        "en": "He was led away to make room for other prisoners, saving him from the crowd for a moment.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 81,
+        "tag": "P037_2",
+        "raw": "Five were to be tried together, next, as enemies of the Republic, forasmuch as they had not assisted it by word or deed.",
+        "en": "Five prisoners were to be tried next, accused of being enemies of the Republic because they had not active helped it.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 82,
+        "tag": "P037_3",
+        "raw": "So quick was the Tribunal to compensate itself and the nation for a chance lost, that these five came down to him before he left the place, condemned to die within twenty-four hours.",
+        "en": "The court worked so quickly to make up for freeing Darnay that these five were condemned to die within twenty-four hours before Darnay even left the building.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 83,
+        "tag": "P037_4",
+        "raw": "The first of them told him so, with the customary prison sign of Death--a raised finger--and they all added in words, “Long live the Republic!”",
+        "en": "The first one told Darnay the news with the usual prison sign of death, a raised finger, and they all said, “Long live the Republic!”",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 84,
+        "tag": "P038_1",
+        "raw": "The five had had, it is true, no audience to lengthen their proceedings, for when he and Doctor Manette emerged from the gate, there was a great crowd about it, in which there seemed to be every face he had seen in Court--except two, for which he looked in vain.",
+        "en": "The five prisoners had no audience to watch their trial, because when Darnay and Doctor Manette walked out the gates, the entire courtroom crowd was outside waiting.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 85,
+        "tag": "P038_2",
+        "raw": "On his coming out, the concourse made at him anew, weeping, embracing, and shouting, all by turns and all together, until the very tide of the river on the bank of which the mad scene was acted, seemed to run mad, like the people on the shore.",
+        "en": "Only two faces were missing, whom Darnay looked for in vain. As he came out, the crowd rushed him again, crying, hugging, and shouting, until the scene by the riverbank seemed completely wild.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 86,
+        "tag": "P039_1",
+        "raw": "They put him into a great chair they had among them, and which they had taken either out of the Court itself, or one of its rooms or passages.",
+        "en": "The crowd sat him in a huge chair they had brought with them, which they had grabbed either directly from the courtroom itself, or from one of its side rooms or hallways.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 87,
+        "tag": "P039_2",
+        "raw": "Over the chair they had thrown a red flag, and to the back of it they had bound a pike with a red cap on its top.",
+        "en": "They threw a red flag over the chair and tied a spear with a red cap to the back of it.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 88,
+        "tag": "P039_3",
+        "raw": "In this car of triumph, not even the Doctor’s entreaties could prevent his being carried to his home on men’s shoulders, with a confused sea of red caps heaving about him, and casting up to sight from the stormy deep such wrecks of faces, that he more than once misdoubted his mind being in confusion, and that he was in the tumbril on his way to the Guillotine.",
+        "en": "In this triumphal seat, despite the Doctor's objections, he was carried home on men's shoulders. Surrounded by a sea of red caps and wild faces, Darnay felt so confused that he feared he was actually in a cart on his way to the Guillotine.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 89,
+        "tag": "P040_1",
+        "raw": "In wild dreamlike procession, embracing whom they met and pointing him out, they carried him on.",
+        "en": "In a dreamlike procession, hugging strangers and pointing Darnay out, they carried him along.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 90,
+        "tag": "P040_2",
+        "raw": "Reddening the snowy streets with the prevailing Republican colour, in winding and tramping through them, as they had reddened them below the snow with a deeper dye, they carried him thus into the courtyard of the building where he lived.",
+        "en": "They made the snowy streets look red with the popular color of the Republic as they twisted and stomped through them—just as they had stained the ground beneath the snow a much darker, bloodier red in the past—and carried him all the way into the courtyard of the building where he lived.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 91,
+        "tag": "P040_3",
+        "raw": "Her father had gone on before, to prepare her, and when her husband stood upon his feet, she dropped insensible in his arms.",
+        "en": "Her father had run ahead to warn Lucie, and when Darnay finally stood before her, she fainted in his arms.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 92,
+        "tag": "P041_1",
+        "raw": "As he held her to his heart and turned her beautiful head between his face and the brawling crowd, so that his tears and her lips might come together unseen, a few of the people fell to dancing.",
+        "en": "As he held her to his chest and turned her head away from the noisy crowd so he could kiss her unseen, some people began to dance.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 93,
+        "tag": "P041_2",
+        "raw": "Instantly, all the rest fell to dancing, and the courtyard overflowed with the Carmagnole.",
+        "en": "Instantly, everyone joined in, and the courtyard filled with the Carmagnole.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 94,
+        "tag": "P041_3",
+        "raw": "Then, they elevated into the vacant chair a young woman from the crowd to be carried as the Goddess of Liberty, and then swelling and overflowing out into the adjacent streets, and along the river’s bank, and over the bridge, the Carmagnole absorbed them every one and whirled them away.",
+        "en": "They placed a young woman from the crowd into the empty chair to carry her as the Goddess of Liberty, and then the dancing crowd spilled out into the streets, along the river, and over the bridge, carrying everyone away.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 95,
+        "tag": "P042_1",
+        "raw": "After grasping the Doctor’s hand, as he stood victorious and proud before him; after grasping the hand of Mr.",
+        "en": "After shaking the hand of the proud, victorious Doctor, shaking the hand of Mr.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 96,
+        "tag": "P042_2",
+        "raw": "Lorry, who came panting in breathless from his struggle against the waterspout of the Carmagnole; after kissing little Lucie, who was lifted up to clasp her arms round his neck; and after embracing the ever zealous and faithful Pross who lifted her; he took his wife in his arms, and carried her up to their rooms.",
+        "en": "Lorry, who came in panting from the crowd, kissing little Lucie as she was held up to hug him, and thanking Miss Pross, Charles took his wife in his arms and carried her upstairs to their rooms.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 97,
+        "tag": "P043_1",
+        "raw": "“Lucie!",
+        "en": "“Lucie!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 98,
+        "tag": "P043_2",
+        "raw": "My own!",
+        "en": "My own!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 99,
+        "tag": "P043_3",
+        "raw": "I am safe.”",
+        "en": "I am safe.”",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 100,
+        "tag": "P044",
+        "raw": "“O dearest Charles, let me thank God for this on my knees as I have prayed to Him.”",
+        "en": "“Oh, dearest Charles, let me thank God on my knees, just as I prayed to Him.”",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 101,
+        "tag": "P045_1",
+        "raw": "They all reverently bowed their heads and hearts.",
+        "en": "They all bowed their heads in prayer.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 102,
+        "tag": "P045_2",
+        "raw": "When she was again in his arms, he said to her:",
+        "en": "When she was back in his arms, he said to her:",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 103,
+        "tag": "P046_1",
+        "raw": "“And now speak to your father, dearest.",
+        "en": "“And now speak to your father, dearest.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 104,
+        "tag": "P046_2",
+        "raw": "No other man in all this France could have done what he has done for me.”",
+        "en": "No other man in France could have done what he did for me.”",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 105,
+        "tag": "P047_1",
+        "raw": "She laid her head upon her father’s breast, as she had laid his poor head on her own breast, long, long ago.",
+        "en": "She rested her head on her father's chest, just as she had held his poor head long ago.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 106,
+        "tag": "P047_2",
+        "raw": "He was happy in the return he had made her, he was recompensed for his suffering, he was proud of his strength. “You must not be weak, my darling,” he remonstrated; “don’t tremble so.",
+        "en": "He was happy to have returned the favor, rewarded for his past suffering, and proud of his strength. “You must not be weak, my darling,” he said. “Don't tremble so.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 107,
+        "tag": "P047_3",
+        "raw": "I have saved him.”",
+        "en": "I have saved him.”",
+        "ko": "",
+        "is_header": false
+    }
+]

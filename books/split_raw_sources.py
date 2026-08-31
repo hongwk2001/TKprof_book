@@ -198,6 +198,22 @@ def split_great_expectations(text):
     # The book has 59 chapters total. Let's split into 6 equal parts.
     return split_into_equal_parts(text, 6)
 
+def split_dracula(text):
+    """Splits Dracula into 27 chapters."""
+    matches = list(re.finditer(r"^\s*CHAPTER\s+[IVXLCDM]+\s*$", text, re.MULTILINE))
+    if not matches:
+        return split_into_equal_parts(text, 27)
+    
+    parts = []
+    for i in range(len(matches)):
+        start = matches[i].start()
+        end = matches[i+1].start() if i + 1 < len(matches) else len(text)
+        parts.append(text[start:end].strip())
+        
+    while len(parts) < 27:
+        parts.append("")
+    return parts[:27]
+
 def process_book(book_name, num_chapters):
     book_path = os.path.join(BASE_DIR, book_name)
     raw_source_path = os.path.join(book_path, "raw_source.txt")
@@ -223,6 +239,8 @@ def process_book(book_name, num_chapters):
         chapters = split_frankenstein(clean_text)
     elif book_name == "two_cities":
         chapters = split_two_cities(clean_text)
+    elif book_name == "dracula":
+        chapters = split_dracula(clean_text)
     else:
         # Default split for other books
         chapters = split_into_equal_parts(clean_text, num_chapters)
@@ -264,6 +282,7 @@ def process_book(book_name, num_chapters):
 
 def main():
     books_to_process = [
+        ("dracula", 27),
         ("christmas_carol", 5),
         ("frankenstein", 7),
         ("gilgamesh", 6),

@@ -1,0 +1,27 @@
+import codecs
+
+paras = [
+'''"Are you Mrs. Harker?" I nodded.''',
+'''"And you were Miss Mina Murray?" I nodded again.''',
+'''"It is Miss Mina Murray that I have come to see. The friend of that poor child, Lucy Westenra. Madam Mina, I have come on behalf of the dead."''',
+'''I replied, "Sir, the mere fact that you were a friend and benefactor of Lucy Westenra is enough for me to gladly spare my time." I held out my hand, and he took it, saying gently:''',
+'''"Oh, Madam Mina, I knew that the friend of that poor, pure child must be a good person, but there is something I did not yet know..." He concluded with a polite bow. I asked him what brought him to see me, and he got straight to the point.''',
+'''"I read the letters you sent to Miss Lucy. Please forgive me; I did not know where to begin my investigation, and there was no one else I could ask. I know you stayed with Lucy in Whitby. Lucy used to write in her journal sometimes. Do not be surprised, Madam Mina. After you left, she started doing it, imitating your habit. In that journal, there were accounts of her sleepwalking, and she wrote that you had saved her. I have come with a confused mind, so I beg you, in your deep mercy, to tell me everything you remember from that time."''',
+'''"I believe I can tell you everything, Dr. Van Helsing."''',
+'''"Ah, you remember facts and details well? That is quite uncommon among young ladies."''',
+'''"No, Doctor. I recorded everything when it happened. I can show it to you if you wish."''',
+'''"Oh, Madam Mina, I would be truly grateful if you did. You would be doing me a great favor." A touch of mischief arose within me—perhaps everyone has a little bit of that left in them—and I handed him my shorthand journal. He bowed in gratitude, took the journal, and asked:''',
+'''"May I read it?"''',
+'''"If you wish," I answered as politely as possible. He opened the journal, and for a moment, his face stiffened. Then he stood up and bowed.''',
+'''"Oh, you are truly a clever person!" he said. "I have long known that Mr. Jonathan is a man with much to be thankful for, but I did not know his wife possessed all these wonderful qualities. If you wouldn't mind, would you read this for me? Alas, I do not know shorthand." At this point, I felt a little ashamed, thinking my joke had gone too far. I took out a typewritten copy from my sewing basket and handed it to him.''',
+'''"Forgive me," I said. "I couldn't help but play a little joke. But I guessed you would definitely ask about our Lucy, and to save you time—not for my sake, but because I know your time is precious—I typed it out."''',
+'''His eyes sparkled as he took it. "You are very kind," he said. "May I read it right now? I might have some questions for you after I finish."''',
+'''"Of course," I said. "You can read it while I prepare lunch. Then you can ask questions while we eat." He bowed, sat in a chair with his back to the light, and became deeply engrossed in the papers. Meanwhile, I went out to get lunch ready, though in truth, I just left the room so he wouldn't be disturbed. When I returned, he was pacing the room hurriedly, his face flushed with excitement. He rushed over and grabbed both of my hands.''',
+'''"Oh, Madam Mina," he said. "How can I ever express in words how indebted I am to you? These papers are like a ray of sunshine. They have opened a door for me. I am dazzled—the light is so bright that I cannot even see the dark clouds always gathering behind it. But you cannot understand what I mean by this. Oh, you clever woman, thank you so much. Madam," he added with a very serious expression. "If there is ever anything I, Abraham Van Helsing, can do for you or your family, please tell me at any time. Helping you as a friend would be my great joy and honor. And not just as a simple friend. I swear to use all the knowledge I have gained and every ability I possess for you and those you love. There is darkness and light in life. You are one of those lights. You will enjoy a happy and good life, and your husband too will be blessed because of you."''',
+'''"But, Doctor, you overestimate me too much. Besides... besides, you hardly know me."''',
+'''"I do not know you? I, an old man who has studied men and women all my life? I, who have specialized in the brain and everything that comes from it! I have read this journal you so kindly prepared for me, and I saw truth breathing in every sentence. And I also read that affectionate letter you wrote to poor Lucy about the deep trust between you and your husband—and still, you say I do not know you! Oh, Madam Mina, good women reveal the truth of their lives every day, every hour, every minute, so clearly that even angels can read it. And for men like us who try to understand, a little of that angelic vision resides within us too. Your husband is a noble man, and so are you. You possess a firm trust, and such trust cannot exist where there is a cruel or mean heart. Now, tell me about your husband. Has he fully recovered? Is his fever completely gone, and is he healthy and strong again?" I thought this was the perfect opportunity to ask about Jonathan, so I replied:''',
+'''"He has almost completely recovered, but he suffered a great shock when Mr. Hawkins passed away." He interrupted me.'''
+]
+
+with codecs.open('C:/git_repo/TKprof_book/books/dracula/chapters/ch14_en.txt', 'a', 'utf-8') as f:
+    f.write('\n\n'.join(paras) + '\n\n')

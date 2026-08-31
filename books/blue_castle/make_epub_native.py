@@ -16,10 +16,8 @@ OUTPUT_FILE   = os.path.join(BASE_DIR, "the_blue_castle_ko.epub")
 
 # ── CSS Style ─────────────────────────────────────────────────────────────────
 STYLE = """
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700&display=swap');
-
 body {
-    font-family: 'Noto Serif KR', serif;
+    font-family: 'Noto Serif KR', Batang, Georgia, serif;
     font-size: 1em;
     line-height: 1.8;
     margin: 1.5em 2em;
@@ -146,7 +144,7 @@ def main():
   </style>
 </head>
 <body>
-  <img src="../Images/cover.png" alt="Cover" />
+  <img src="../Images/cover.jpg" alt="Cover" />
 </body>
 </html>"""
 
@@ -172,7 +170,7 @@ def main():
         "    <meta name=\"cover\" content=\"cover-image\"/>",
         "  </metadata>",
         "  <manifest>",
-        "    <item id=\"cover-image\" href=\"Images/cover.png\" media-type=\"image/png\" properties=\"cover-image\"/>",
+        "    <item id=\"cover-image\" href=\"Images/cover.jpg\" media-type=\"image/jpeg\" properties=\"cover-image\"/>",
         "    <item id=\"cover\" href=\"Text/cover.xhtml\" media-type=\"application/xhtml+xml\"/>",
         "    <item id=\"ncx\" href=\"toc.ncx\" media-type=\"application/x-dtbncx+xml\"/>",
         "    <item id=\"nav\" href=\"nav.xhtml\" media-type=\"application/xhtml+xml\" properties=\"nav\"/>",
@@ -196,7 +194,7 @@ def main():
         "<?xml version='1.0' encoding='utf-8'?>",
         "<ncx xmlns=\"http://www.daisy.org/z3986/2005/ncx/\" version=\"2005-1\">",
         "  <head>",
-        "    <meta name=\"dtb:uid\" content=\"tkprof-blue-castle-ko-2026\"/>",
+        f"    <meta name=\"dtb:uid\" content=\"{book_uuid}\"/>",
         "    <meta name=\"dtb:depth\" content=\"1\"/>",
         "    <meta name=\"dtb:totalPageCount\" content=\"0\"/>",
         "    <meta name=\"dtb:maxPageNumber\" content=\"0\"/>",
@@ -249,9 +247,11 @@ def main():
         zf.writestr('META-INF/container.xml', container_xml, compress_type=zipfile.ZIP_DEFLATED)
         
         # 3. OEBPS contents
-        cover_path = os.path.join(BASE_DIR, 'cover.png')
+        cover_path = os.path.join(BASE_DIR, 'cover_ko.jpg')
         if os.path.exists(cover_path):
-            zf.write(cover_path, 'OEBPS/Images/cover.png')
+            zf.write(cover_path, 'OEBPS/Images/cover.jpg')
+        else:
+            print("Warning: cover_ko.jpg not found.")
         zf.writestr('OEBPS/Text/cover.xhtml', cover_html.encode('utf-8'), compress_type=zipfile.ZIP_DEFLATED)
         zf.writestr('OEBPS/content.opf', opf_content.encode('utf-8'), compress_type=zipfile.ZIP_DEFLATED)
         zf.writestr('OEBPS/toc.ncx', ncx_content.encode('utf-8'), compress_type=zipfile.ZIP_DEFLATED)

@@ -51,5 +51,5 @@ Located in `chapters/4.providence/`:
 | **Stage 2** | Raw Source Text Acquisition | ✅ Complete | Downloaded Gutenberg eBook #64576 (Aubrey Stewart's 1889 translation). |
 | **Stage 3** | Chapter Segmentation & Setup | ✅ Complete | Split raw texts into book/chapter structure inside the `chapters/` directory. |
 | **Stage 4** | Text Modernization & Verification | ✅ Complete | Applied modernization prompt across all 142 chapters using parallel pro subagents. |
-| **Stage 5** | EPUB Formatting & Packaging | ⬜ Pending | Generate standard ePUB using Python builder. |
+| **Stage 5** | EPUB Formatting & Packaging | ✅ Complete | Generated standard ePUB using Python builder. |
 | **Stage 6** | Audio Script & TTS Generation | ⬜ Pending | Prepare TTS json scripts and run quality checks. |

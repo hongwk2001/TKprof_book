@@ -76,6 +76,8 @@ blockquote {
 }
 """
 
+import html
+
 def read_txt(path):
     if not os.path.exists(path):
         return ""
@@ -85,14 +87,15 @@ def read_txt(path):
 def txt_to_html(text, title):
     lines = [line.strip() for line in text.split("\n") if line.strip()]
     
-    h1_title = title.replace(" - ", "<br/>")
+    escaped_title = html.escape(title)
+    h1_title = escaped_title.replace(" - ", "<br/>")
     
     html_parts = [
         "<?xml version='1.0' encoding='utf-8'?>",
         "<!DOCTYPE html>",
         "<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">",
         "<head>",
-        f"  <title>{title}</title>",
+        f"  <title>{escaped_title}</title>",
         "  <link rel=\"stylesheet\" href=\"../Styles/main.css\" type=\"text/css\"/>",
         "</head>",
         "<body>",
@@ -102,10 +105,10 @@ def txt_to_html(text, title):
     first = True
     for para in lines:
         if para.startswith("#"):
-            html_parts.append(f"  <h2>{para.lstrip('#').strip()}</h2>")
+            html_parts.append(f"  <h2>{html.escape(para.lstrip('#').strip())}</h2>")
         else:
             cls = " class=\"no-indent\"" if first else ""
-            html_parts.append(f"  <p{cls}>{para}</p>")
+            html_parts.append(f"  <p{cls}>{html.escape(para)}</p>")
             first = False
             
     html_parts.extend(["</body>", "</html>"])
@@ -120,6 +123,17 @@ def build_epub():
     toc_ncx_items = []
     nav_html_items = []
     
+    # Cover image support
+    cover_path = os.path.join(BASE_DIR, "cover_en.jpg")
+    if not os.path.exists(cover_path):
+        cover_path = os.path.join(BASE_DIR, "cover.jpg")
+    has_cover = os.path.exists(cover_path)
+
+    if has_cover:
+        manifest_items.append('<item id="cover-image" href="Images/cover.jpg" media-type="image/jpeg" properties="cover-image"/>')
+        manifest_items.append('<item id="cover" href="Text/cover.xhtml" media-type="application/xhtml+xml"/>')
+        spine_items.append('<itemref idref="cover"/>')
+
     # CSS
     manifest_items.append('<item id="css" href="Styles/main.css" media-type="text/css"/>')
     
@@ -133,6 +147,25 @@ def build_epub():
     ]
 
     html_files = {}
+
+    if has_cover:
+        cover_xhtml = """<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+<head>
+  <title>Cover</title>
+  <style type="text/css">
+    body { margin: 0; padding: 0; text-align: center; background-color: #000; }
+    img { max-width: 100%; height: auto; display: block; margin: 0 auto; }
+  </style>
+</head>
+<body>
+  <div>
+    <img src="../Images/cover.jpg" alt="Cover"/>
+  </div>
+</body>
+</html>"""
+        html_files["OEBPS/Text/cover.xhtml"] = cover_xhtml
 
     for b_num, ch_list in chapters_structure:
         book_heading = BOOK_TITLES[b_num]
@@ -162,11 +195,11 @@ def build_epub():
             spine_items.append(f'<itemref idref="{item_id}"/>')
             
             toc_ncx_items.append(f'''  <navPoint id="{item_id}" playOrder="{chapter_index}">
-    <navLabel><text>{ch_title}</text></navLabel>
+    <navLabel><text>{html.escape(ch_title)}</text></navLabel>
     <content src="Text/{filename}"/>
   </navPoint>''')
             
-            nav_html_items.append(f'    <li><a href="Text/{filename}">{ch_title}</a></li>')
+            nav_html_items.append(f'    <li><a href="{filename}">{html.escape(ch_title)}</a></li>')
             chapter_index += 1
 
     manifest_str = "\n    ".join(manifest_items)
@@ -192,7 +225,6 @@ def build_epub():
     {manifest_str}
   </manifest>
   <spine toc="ncx">
-    <itemref idref="nav"/>
     {spine_str}
   </spine>
 </package>'''
@@ -248,6 +280,10 @@ def build_epub():
         zf.writestr("OEBPS/Styles/main.css", STYLE)
         zf.writestr("OEBPS/Text/nav.xhtml", nav_html_content)
         
+        if has_cover:
+            with open(cover_path, "rb") as img_f:
+                zf.writestr("OEBPS/Images/cover.jpg", img_f.read())
+
         for path, content in html_files.items():
             zf.writestr(path, content)
             

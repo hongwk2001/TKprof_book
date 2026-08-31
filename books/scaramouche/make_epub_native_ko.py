@@ -8,6 +8,7 @@ import zipfile
 import uuid
 import sys
 import re
+import html
 from datetime import datetime, timezone
 
 # Force UTF-8 stdout
@@ -19,10 +20,8 @@ CHAPTERS_DIR = os.path.join(BASE_DIR, "chapters")
 OUTPUT_FILE = os.path.join(BASE_DIR, "scaramouche_ko.epub")
 
 STYLE = """
-@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;700&display=swap');
-
 body {
-    font-family: 'Noto Serif KR', serif;
+    font-family: 'Noto Serif KR', 'KoPubWorldBatang', 'Batang', serif;
     font-size: 1em;
     line-height: 1.8;
     margin: 1.5em 2em;
@@ -75,21 +74,22 @@ def read_txt(path):
 
 def txt_to_html(text, title, book_part=None):
     lines = text.split("\n")
+    escaped_title = html.escape(title)
     html_parts = [
         f"<?xml version='1.0' encoding='utf-8'?>",
         f"<!DOCTYPE html>",
         f"<html xmlns=\"http://www.w3.org/1999/xhtml\" xmlns:epub=\"http://www.idpf.org/2007/ops\">",
         f"<head>",
-        f"  <title>{title}</title>",
+        f"  <title>{escaped_title}</title>",
         f"  <link rel=\"stylesheet\" href=\"../Styles/main.css\" type=\"text/css\"/>",
         f"</head>",
         f"<body>",
     ]
     
     if book_part:
-        html_parts.append(f"<h2>{book_part}</h2>")
+        html_parts.append(f"<h2>{html.escape(book_part)}</h2>")
         
-    html_parts.append(f"<h1>{title}</h1>")
+    html_parts.append(f"<h1>{escaped_title}</h1>")
     
     first_p = True
     for line in lines:
@@ -103,11 +103,12 @@ def txt_to_html(text, title, book_part=None):
         if re.match(r"^(\d+|제\d+)\s*(부|장)\b", line) or re.match(r"^(book|chapter)\b", line, re.I):
             continue
             
+        escaped_line = html.escape(line)
         if first_p:
-            html_parts.append(f"<p class=\"no-indent\">{line}</p>")
+            html_parts.append(f"<p class=\"no-indent\">{escaped_line}</p>")
             first_p = False
         else:
-            html_parts.append(f"<p>{line}</p>")
+            html_parts.append(f"<p>{escaped_line}</p>")
             
     html_parts.append("</body>")
     html_parts.append("</html>")
@@ -154,8 +155,8 @@ def compile_book(book_num):
         intro_txt = os.path.join(CHAPTERS_DIR, "introduction_ko.txt")
         if os.path.exists(intro_txt):
             text = read_txt(intro_txt)
-            html = txt_to_html(text, "작가 및 작품 소개")
-            chapters.append({'id': 'intro', 'href': 'Text/intro.xhtml', 'title': '작가 및 작품 소개', 'content': html})
+            intro_html = txt_to_html(text, "작가 및 작품 소개")
+            chapters.append({'id': 'intro', 'href': 'Text/intro.xhtml', 'title': '작가 및 작품 소개', 'content': intro_html})
             
     import json
     metadata_path = os.path.join(CHAPTERS_DIR, "metadata.json")
@@ -208,8 +209,8 @@ def compile_book(book_num):
     copy_txt = os.path.join(CHAPTERS_DIR, "copyright_ko.txt")
     if os.path.exists(copy_txt):
         text = read_txt(copy_txt)
-        html = txt_to_html(text, "저작권 및 편집자 노트")
-        chapters.append({'id': 'copyright', 'href': 'Text/copyright.xhtml', 'title': '저작권 및 편집자 노트', 'content': html})
+        copy_html = txt_to_html(text, "저작권 및 편집자 노트")
+        chapters.append({'id': 'copyright', 'href': 'Text/copyright.xhtml', 'title': '저작권 및 편집자 노트', 'content': copy_html})
         
     book_uuid = f"urn:uuid:{uuid.uuid4()}"
     modified_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -239,12 +240,33 @@ def compile_book(book_num):
         if has_cover:
             with open(cover_filepath, "rb") as cf:
                 z.writestr("OEBPS/Images/cover.jpg", cf.read())
+
+        # Write EPUB3 HTML Nav Document
+        nav_items_xml = "\n        ".join([f'<li><a href="{ch["href"]}">{html.escape(ch["title"])}</a></li>' for ch in chapters])
+        nav_html = f"""<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+<head>
+  <title>목차</title>
+  <link rel="stylesheet" href="Styles/main.css" type="text/css"/>
+</head>
+<body>
+  <nav epub:type="toc" id="toc">
+    <h1>목차</h1>
+    <ol>
+        {nav_items_xml}
+    </ol>
+  </nav>
+</body>
+</html>"""
+        z.writestr("OEBPS/Text/nav.xhtml", nav_html)
             
         # OPF Metadata
         manifest_items = []
         spine_items = []
         
         manifest_items.append('<item id="css" href="Styles/main.css" media-type="text/css"/>')
+        manifest_items.append('<item id="nav" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>')
         
         if has_cover:
             manifest_items.append('<item id="cover-image" href="Images/cover.jpg" media-type="image/jpeg" properties="cover-image"/>')
@@ -260,7 +282,7 @@ def compile_book(book_num):
 <package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="3.0">
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
     <dc:identifier id="bookid">{book_uuid}</dc:identifier>
-    <dc:title>{book_titles[book_num]}</dc:title>
+    <dc:title>{html.escape(book_titles[book_num])}</dc:title>
     <dc:creator>라파엘 사바티니</dc:creator>
     <dc:language>ko</dc:language>
     <dc:publisher>TKPROF LLC</dc:publisher>
@@ -279,7 +301,7 @@ def compile_book(book_num):
         nav_points = []
         for idx, ch in enumerate(chapters):
             nav_points.append(f"""    <navPoint id="{ch['id']}" playOrder="{idx+1}">
-      <navLabel><text>{ch['title']}</text></navLabel>
+      <navLabel><text>{html.escape(ch['title'])}</text></navLabel>
       <content src="{ch['href']}"/>
     </navPoint>""")
             
@@ -290,7 +312,7 @@ def compile_book(book_num):
     <meta name="dtb:uid" content="{book_uuid}"/>
     <meta name="dtb:depth" content="1"/>
   </head>
-  <docTitle><text>{book_titles[book_num]}</text></docTitle>
+  <docTitle><text>{html.escape(book_titles[book_num])}</text></docTitle>
   <navMap>
     {nav_points_xml}
   </navMap>
