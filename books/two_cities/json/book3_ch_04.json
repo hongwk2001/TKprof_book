@@ -12,7 +12,7 @@
     "tag": "P002_1",
     "raw": "Doctor Manette did not return until the morning of the fourth day of his absence.",
     "en": "Doctor Manette did not return until the morning of the fourth day.",
-    "ko": "",
+    "ko": "마네트 박사는 넷째 날 아침이 될 때까지 돌아오지 않았다.",
     "is_header": false
   },
   {
@@ -20,7 +20,7 @@
     "tag": "P002_2",
     "raw": "So much of what had happened in that dreadful time as could be kept from the knowledge of Lucie was so well concealed from her, that not until long afterwards, when France and she were far apart, did she know that eleven hundred defenceless prisoners of both sexes and all ages had been killed by the populace; that four days and nights had been darkened by this deed of horror; and that the air around her had been tainted by the slain.",
     "en": "They hid most of the terrible events from Lucie so well that only long afterward, when she was far away from France, did she learn that eleven hundred defenseless prisoners of all ages and genders had been killed by the mob. She didn't know that four days and nights had been filled with this horror, or that the very air was smelly from the dead.",
-    "ko": "",
+    "ko": "그들은 끔찍한 사건들의 대부분을 루시에게 너무나 잘 숨겨서 그녀가 프랑스에서 멀리 떨어진 훨씬 나중에서야 천백 명의 무방비 상태인 모든 연령과 성별의 죄수들이 군중에 의해 살해되었다는 것을 알게 되었다. 그녀는 사 일 밤낮이 이 공포로 채워져 있었는지, 아니면 그 공기 자체가 죽은 자들로부터 악취를 풍겼는지 알지 못했다.",
     "is_header": false
   },
   {
@@ -28,7 +28,7 @@
     "tag": "P002_3",
     "raw": "She only knew that there had been an attack upon the prisons, that all political prisoners had been in danger, and that some had been dragged out by the crowd and murdered.",
     "en": "She only knew that the prisons had been attacked, that political prisoners were in danger, and that some had been dragged out and killed.",
-    "ko": "",
+    "ko": "그녀는 오직 감옥이 공격받았고, 정치범들이 위험에 처했으며, 일부는 밖으로 끌려나와 살해당했다는 것만을 알고 있었다.",
     "is_header": false
   },
   {
@@ -36,7 +36,7 @@
     "tag": "P003_1",
     "raw": "To Mr.",
     "en": "The Doctor swore Mr.",
-    "ko": "",
+    "ko": "박사는 로리 씨에게",
     "is_header": false
   },
   {
@@ -44,7 +44,7 @@
     "tag": "P003_2",
     "raw": "Lorry, the Doctor communicated under an injunction of secrecy on which he had no need to dwell, that the crowd had taken him through a scene of carnage to the prison of La Force.",
     "en": "Lorry to secrecy and explained that the mob had led him through a bloodbath to La Force prison.",
-    "ko": "",
+    "ko": "비밀을 지키라고 맹세시켰고, 폭도들이 자신을 피바다를 통과해 라포르스 감옥으로 데려갔다고 설명했다.",
     "is_header": false
   },
   {
@@ -52,7 +52,7 @@
     "tag": "P003_3",
     "raw": "That, in the prison he had found a self-appointed Tribunal sitting, before which the prisoners were brought singly, and by which they were rapidly ordered to be put forth to be massacred, or to be released, or (in a few cases) to be sent back to their cells.",
     "en": "Inside, he found a self-appointed court judging the prisoners one by one, quickly ordering them to be killed by the mob outside, released, or sent back to their cells.",
-    "ko": "",
+    "ko": "그 안에서 그는 죄수들을 한 명씩 재판하며, 밖의 폭도들에게 죽임을 당하도록 하거나, 석방하거나, 다시 감방으로 돌려보내라고 신속히 명령을 내리는 자칭 재판소를 발견했다.",
     "is_header": false
   },
   {
@@ -60,7 +60,7 @@
     "tag": "P003_4",
     "raw": "That, presented by his conductors to this Tribunal, he had announced himself by name and profession as having been for eighteen years a secret and unaccused prisoner in the Bastille; that, one of the body so sitting in judgment had risen and identified him, and that this man was Defarge.",
     "en": "When he was presented to this court, he announced his name and profession, stating that he had been held in the Bastille for eighteen years without a trial. One of the judges stood up and recognized him, and that man was Defarge.",
-    "ko": "",
+    "ko": "그가 이 재판소에 섰을 때, 그는 자신의 이름과 직업을 밝히며 재판도 없이 바스티유에 18년 동안 갇혀 있었다고 진술했다. 판사 중 한 명이 일어나 그를 알아보았는데, 그 사람은 드파르지였다.",
     "is_header": false
   },
   {
@@ -68,7 +68,7 @@
     "tag": "P004_1",
     "raw": "That, hereupon he had ascertained, through the registers on the table, that his son-in-law was among the living prisoners, and had pleaded hard to the Tribunal--of whom some members were asleep and some awake, some dirty with murder and some clean, some sober and some not--for his life and liberty.",
     "en": "The Doctor checked the record books on the table and saw that his son-in-law was still alive. He begged the court, whose members were half-asleep, dirty with blood, sober, or drunk, for Charles's life.",
-    "ko": "",
+    "ko": "박사는 탁자 위의 기록부를 확인하고 사위가 아직 살아 있다는 것을 알았다. 그는 반쯤 졸고 있거나 피투성이이거나 멀쩡하거나 술에 취해 있는 재판소 사람들에게 찰스의 목숨을 살려달라고 간청했다.",
     "is_header": false
   },
   {
@@ -76,7 +76,7 @@
     "tag": "P004_2",
     "raw": "That, in the first frantic greetings lavished on himself as a notable sufferer under the overthrown system, it had been accorded to him to have Charles Darnay brought before the lawless Court, and examined.",
     "en": "Because the court respected the Doctor as a famous victim of the old government, they agreed to bring Charles Darnay in for questioning.",
-    "ko": "",
+    "ko": "재판소는 박사를 구체제의 유명한 피해자로 존경했기 때문에 찰스 다네이를 심문하기 위해 데려오는 것에 동의했다.",
     "is_header": false
   },
   {
@@ -84,7 +84,7 @@
     "tag": "P004_3",
     "raw": "That, he seemed on the point of being at once released, when the tide in his favour met with some unexplained check (not intelligible to the Doctor), which led to a few words of secret conference.",
     "en": "It seemed like Charles was about to be released, but then the mood changed for some reason the Doctor didn't understand, and the judges whispered together.",
-    "ko": "",
+    "ko": "찰스가 곧 풀려날 것 같았지만, 박사가 이해하지 못한 어떤 이유로 분위기가 바뀌었고 판사들이 자기들끼리 속삭였다.",
     "is_header": false
   },
   {
@@ -92,7 +92,7 @@
     "tag": "P004_4",
     "raw": "That, the man sitting as President had then informed Doctor Manette that the prisoner must remain in custody, but should, for his sake, be held inviolate in safe custody.",
     "en": "The president of the court then told Doctor Manette that the prisoner had to stay in jail, but for the Doctor's sake, he would be kept safe.",
-    "ko": "",
+    "ko": "재판장이 마네트 박사에게 죄수는 감옥에 머물러야 하지만 박사를 보아 그를 안전하게 지켜주겠다고 말했다.",
     "is_header": false
   },
   {
@@ -100,7 +100,7 @@
     "tag": "P004_5",
     "raw": "That, immediately, on a signal, the prisoner was removed to the interior of the prison again; but, that he, the Doctor, had then so strongly pleaded for permission to remain and assure himself that his son-in-law was, through no malice or mischance, delivered to the concourse whose murderous yells outside the gate had often drowned the proceedings, that he had obtained the permission, and had remained in that Hall of Blood until the danger was over.",
     "en": "Charles was sent back inside, but the Doctor begged so hard to stay and make sure Charles wasn't sent to the murderous mob outside, that the judges let him remain in that bloody room until the danger had passed.",
-    "ko": "",
+    "ko": "찰스는 다시 안으로 보내졌지만, 박사가 찰스가 밖의 살인적인 폭도들에게 보내지지 않도록 곁에 남겠다고 너무나도 간절히 애원했기 때문에 판사들은 위험이 지나갈 때까지 그를 그 피투성이 방에 머물게 허락했다.",
     "is_header": false
   },
   {
@@ -108,7 +108,7 @@
     "tag": "P005_1",
     "raw": "The sights he had seen there, with brief snatches of food and sleep by intervals, shall remain untold.",
     "en": "The horrors the Doctor saw there, while getting almost no food or sleep, will not be described.",
-    "ko": "",
+    "ko": "박사가 그곳에서 거의 먹지도 자지도 못하며 목격한 끔찍한 일들은 차마 묘사할 수 없을 정도다.",
     "is_header": false
   },
   {
@@ -116,7 +116,7 @@
     "tag": "P005_2",
     "raw": "The mad joy over the prisoners who were saved, had astounded him scarcely less than the mad ferocity against those who were cut to pieces.",
     "en": "The crazy joy the mob showed for the prisoners who were saved surprised him as much as their anger toward those they killed.",
-    "ko": "",
+    "ko": "폭도들이 구출된 죄수들에게 보인 광기 어린 기쁨은 그들이 죽인 자들을 향한 분노만큼이나 그를 놀라게 했다.",
     "is_header": false
   },
   {
@@ -124,7 +124,7 @@
     "tag": "P005_3",
     "raw": "One prisoner there was, he said, who had been discharged into the street free, but at whom a mistaken savage had thrust a pike as he passed out.",
     "en": "He said one prisoner was set free, but a confused rioter stabbed him with a spear as he walked out.",
-    "ko": "",
+    "ko": "그의 말에 따르면, 한 죄수가 풀려났지만 걸어 나갈 때 혼란에 빠진 한 폭도가 창으로 그를 찔렀다고 한다.",
     "is_header": false
   },
   {
@@ -132,7 +132,7 @@
     "tag": "P005_4",
     "raw": "Being besought to go to him and dress the wound, the Doctor had passed out at the same gate, and had found him in the arms of a company of Samaritans, who were seated on the bodies of their victims.",
     "en": "Asked to help, the Doctor went outside and found the wounded man being held by a group of killers who were sitting on the bodies of their victims.",
-    "ko": "",
+    "ko": "도움을 요청받고 박사가 밖으로 나갔을 때, 희생자들의 시체 위에 앉아 있던 살인자 무리가 부상자를 붙잡고 있는 것을 발견했다.",
     "is_header": false
   },
   {
@@ -140,7 +140,7 @@
     "tag": "P005_5",
     "raw": "With an inconsistency as monstrous as anything in this awful nightmare, they had helped the healer, and tended the wounded man with the gentlest solicitude--had made a litter for him and escorted him carefully from the spot--had then caught up their weapons and plunged anew into a butchery so dreadful, that the Doctor had covered his eyes with his hands, and swooned away in the midst of it.",
     "en": "With a hypocrisy as crazy as a nightmare, these killers helped the Doctor and treated the wounded man gently, carrying him away on a stretcher. But then they immediately grabbed their weapons and went back to murdering people so brutally that the Doctor covered his eyes and fainted.",
-    "ko": "",
+    "ko": "악몽처럼 미친 위선으로, 이 살인자들은 박사를 도와 부상자를 부드럽게 대하며 들것에 실어 옮겼다. 그러나 그들은 즉시 무기를 집어 들고 다시 너무나 잔인하게 사람들을 살해하기 시작하여, 박사는 눈을 가리고 기절할 정도였다.",
     "is_header": false
   },
   {
@@ -148,7 +148,7 @@
     "tag": "P006_1",
     "raw": "As Mr.",
     "en": "As Mr.",
-    "ko": "",
+    "ko": "로리 씨가",
     "is_header": false
   },
   {
@@ -156,7 +156,7 @@
     "tag": "P006_2",
     "raw": "Lorry received these confidences, and as he watched the face of his friend now sixty-two years of age, a misgiving arose within him that such dread experiences would revive the old danger.",
     "en": "Lorry listened to these secrets and looked at his sixty-two-year-old friend, he worried that these terrible experiences would bring back the Doctor's old mental illness.",
-    "ko": "",
+    "ko": "이 비밀을 들으며 62세의 친구를 바라볼 때, 그는 이 끔찍한 경험들이 박사의 과거 정신 질환을 재발시킬까 봐 걱정했다.",
     "is_header": false
   },
   {
@@ -164,7 +164,7 @@
     "tag": "P007_1",
     "raw": "But, he had never seen his friend in his present aspect: he had never at all known him in his present character.",
     "en": "But Mr. Lorry had never seen the Doctor look like this before.",
-    "ko": "",
+    "ko": "하지만 로리 씨는 이전에 박사가 이런 모습을 한 것을 본 적이 없었다.",
     "is_header": false
   },
   {
@@ -172,7 +172,7 @@
     "tag": "P007_2",
     "raw": "For the first time the Doctor felt, now, that his suffering was strength and power.",
     "en": "For the first time, the Doctor felt that his past suffering gave him power.",
-    "ko": "",
+    "ko": "처음으로 박사는 자신의 과거 고통이 자신에게 힘을 준다고 느꼈다.",
     "is_header": false
   },
   {
@@ -180,7 +180,7 @@
     "tag": "P007_3",
     "raw": "For the first time he felt that in that sharp fire, he had slowly forged the iron which could break the prison door of his daughter’s husband, and deliver him. “It all tended to a good end, my friend; it was not mere waste and ruin.",
     "en": "He felt that his eighteen years in prison had forged the strength he needed to break his daughter's husband out of jail. “It all had a purpose, my friend; it wasn't just wasted suffering.",
-    "ko": "",
+    "ko": "그는 18년간의 감옥 생활이 딸의 남편을 감옥에서 빼내는 데 필요한 힘을 길러주었다고 느꼈다. “내 친구여, 모든 일에는 목적이 있었네. 그것은 단순한 헛된 고통이 아니었어.",
     "is_header": false
   },
   {
@@ -188,7 +188,7 @@
     "tag": "P007_4",
     "raw": "As my beloved child was helpful in restoring me to myself, I will be helpful now in restoring the dearest part of herself to her; by the aid of Heaven I will do it!” Thus, Doctor Manette.",
     "en": "Since my beloved daughter helped save my mind, I will help save the most important person in her life.",
-    "ko": "",
+    "ko": "사랑하는 내 딸이 내 정신을 구하는 데 도움을 주었으니, 나는 그녀의 삶에서 가장 중요한 사람을 구하는 데 도움을 줄 것이네.",
     "is_header": false
   },
   {
@@ -196,7 +196,7 @@
     "tag": "P007_5",
     "raw": "And when Jarvis Lorry saw the kindled eyes, the resolute face, the calm strong look and bearing of the man whose life always seemed to him to have been stopped, like a clock, for so many years, and then set going again with an energy which had lain dormant during the cessation of its usefulness, he believed.",
     "en": "With God's help, I will do it!” said Doctor Manette. And when Mr. Lorry saw his bright eyes, resolute face, and strong bearing, after years of seeming like a stopped clock that was now running with new energy, he believed him.",
-    "ko": "",
+    "ko": "신의 도우심으로 내가 해내겠어!” 마네트 박사가 말했다. 그리고 로리 씨는 수년 동안 멈춘 시계 같았던 그가 이제 새로운 에너지로 달리는 듯한 밝은 눈빛, 단호한 얼굴, 강인한 태도를 보았을 때 그를 믿었다.",
     "is_header": false
   },
   {
@@ -204,7 +204,7 @@
     "tag": "P008_1",
     "raw": "Greater things than the Doctor had at that time to contend with, would have yielded before his persevering purpose.",
     "en": "Even greater obstacles would have crumbled before the Doctor's determination.",
-    "ko": "",
+    "ko": "박사의 결의 앞에서는 그보다 더 큰 장애물도 무너졌을 것이다.",
     "is_header": false
   },
   {
@@ -212,7 +212,7 @@
     "tag": "P008_2",
     "raw": "While he kept himself in his place, as a physician, whose business was with all degrees of mankind, bond and free, rich and poor, bad and good, he used his personal influence so wisely, that he was soon the inspecting physician of three prisons, and among them of La Force.",
     "en": "Working as a doctor who treated everyone, rich and poor, good and bad, he used his influence so well that he was appointed the medical inspector of three prisons, including La Force.",
-    "ko": "",
+    "ko": "부자든 가난한 자든, 선인이든 악인이든 가리지 않고 치료하는 의사로 일하면서 그는 자신의 영향력을 훌륭히 발휘하여 라포르스를 포함한 세 곳의 감옥의 의료 조사관으로 임명되었다.",
     "is_header": false
   },
   {
@@ -220,7 +220,7 @@
     "tag": "P008_3",
     "raw": "He could now assure Lucie that her husband was no longer confined alone, but was mixed with the general body of prisoners; he saw her husband weekly, and brought sweet messages to her, straight from his lips; sometimes her husband himself sent a letter to her (though never by the Doctor’s hand), but she was not permitted to write to him: for, among the many wild suspicions of plots in the prisons, the wildest of all pointed at emigrants who were known to have made friends or permanent connections abroad.",
     "en": "He could now tell Lucie that Charles was no longer in solitary confinement, but was with the other prisoners. The Doctor saw Charles every week and brought her messages directly from him. Sometimes Charles even sent letters, though never carried by the Doctor, but Lucie was not allowed to write back, because the authorities suspected that prisoners were plotting with friends abroad.",
-    "ko": "",
+    "ko": "이제 그는 루시에게 찰스가 독방에 있지 않고 다른 죄수들과 함께 있다고 말할 수 있었다. 박사는 매주 찰스를 만났고 그가 전하는 메시지를 그녀에게 직접 가져왔다. 때로는 찰스가 편지를 보내기도 했지만, 박사가 전달한 적은 없었고, 당국이 죄수들이 해외의 친구들과 공모하고 있다고 의심했기 때문에 루시는 답장을 쓸 수 없었다.",
     "is_header": false
   },
   {
@@ -228,7 +228,7 @@
     "tag": "P009_1",
     "raw": "This new life of the Doctor’s was an anxious life, no doubt; still, the sagacious Mr.",
     "en": "This new life was stressful for the Doctor, but Mr.",
-    "ko": "",
+    "ko": "이 새로운 생활은 박사에게 스트레스였지만, 로리 씨는",
     "is_header": false
   },
   {
@@ -236,7 +236,7 @@
     "tag": "P009_2",
     "raw": "Lorry saw that there was a new sustaining pride in it.",
     "en": "Lorry saw that it gave him a new sense of pride.",
-    "ko": "",
+    "ko": "그것이 그에게 새로운 자부심을 심어주는 것을 보았다.",
     "is_header": false
   },
   {
@@ -244,7 +244,7 @@
     "tag": "P009_3",
     "raw": "Nothing unbecoming tinged the pride; it was a natural and worthy one; but he observed it as a curiosity.",
     "en": "It was a natural and worthy pride, but Mr. Lorry found it interesting to observe.",
-    "ko": "",
+    "ko": "그것은 자연스럽고 가치 있는 자부심이었지만, 로리 씨는 그것을 지켜보는 것이 흥미롭다고 느꼈다.",
     "is_header": false
   },
   {
@@ -252,7 +252,7 @@
     "tag": "P009_4",
     "raw": "The Doctor knew, that up to that time, his imprisonment had been associated in the minds of his daughter and his friend, with his personal affliction, deprivation, and weakness.",
     "en": "Until now, the Doctor's imprisonment had been remembered as a time of weakness and suffering.",
-    "ko": "",
+    "ko": "지금까지 박사의 수감 생활은 나약함과 고통의 시간으로 기억되었다.",
     "is_header": false
   },
   {
@@ -260,7 +260,7 @@
     "tag": "P009_5",
     "raw": "Now that this was changed, and he knew himself to be invested through that old trial with forces to which they both looked for Charles’s ultimate safety and deliverance, he became so far exalted by the change, that he took the lead and direction, and required them as the weak, to trust to him as the strong.",
     "en": "Now that those years in the Bastille gave him the power to protect Charles, he felt proud to take charge, asking Lucie and Mr. Lorry to rely on him as the strong one.",
-    "ko": "",
+    "ko": "바스티유에서의 그 세월이 그에게 찰스를 보호할 힘을 주었기 때문에, 그는 앞장서는 것에 자부심을 느꼈고, 루시와 로리 씨에게 자신을 강한 사람으로 믿고 의지하라고 부탁했다.",
     "is_header": false
   },
   {
@@ -268,7 +268,7 @@
     "tag": "P009_6",
     "raw": "The preceding relative positions of himself and Lucie were reversed, yet only as the liveliest gratitude and affection could reverse them, for he could have had no pride but in rendering some service to her who had rendered so much to him. “All curious to see,” thought Mr.",
     "en": "His role with Lucie was reversed, but only out of love and gratitude, since he wanted nothing more than to help the daughter who had saved him. “It is interesting to watch,” Mr.",
-    "ko": "",
+    "ko": "루시와의 역할이 역전되었지만, 이는 오직 사랑과 감사에서 비롯된 것이었고, 그는 자신을 구해준 딸을 돕는 것 외에는 아무것도 바라지 않았다. “지켜보기에 흥미로운 일이군,” 로리 씨는 생각했다,",
     "is_header": false
   },
   {
@@ -276,7 +276,7 @@
     "tag": "P009_7",
     "raw": "Lorry, in his amiably shrewd way, “but all natural and right; so, take the lead, my dear friend, and keep it; it couldn’t be in better hands.”",
     "en": "Lorry thought, “but completely natural and right. Take the lead, my friend, and keep it; it couldn't be in better hands.”",
-    "ko": "",
+    "ko": "“하지만 완전히 자연스럽고 옳은 일이야. 앞장서게, 내 친구여, 그리고 계속 이끌어가게. 자네보다 더 나은 사람에게 맡길 수는 없을 테니까.”",
     "is_header": false
   },
   {
@@ -284,7 +284,7 @@
     "tag": "P010_1",
     "raw": "But, though the Doctor tried hard, and never ceased trying, to get Charles Darnay set at liberty, or at least to get him brought to trial, the public current of the time set too strong and fast for him.",
     "en": "But even though the Doctor tried constantly to set Charles free or at least get him a trial, the revolution was moving too fast.",
-    "ko": "",
+    "ko": "그러나 박사가 찰스를 석방하거나 최소한 재판을 받게 하려고 끊임없이 노력했음에도 불구하고, 혁명은 너무 빠르게 진행되고 있었다.",
     "is_header": false
   },
   {
@@ -292,7 +292,7 @@
     "tag": "P010_2",
     "raw": "The new era began; the king was tried, doomed, and beheaded; the Republic of Liberty, Equality, Fraternity, or Death, declared for victory or death against the world in arms; the black flag waved night and day from the great towers of Notre Dame; three hundred thousand men, summoned to rise against the tyrants of the earth, rose from all the varying soils of France, as if the dragon’s teeth had been sown broadcast, and had yielded fruit equally on hill and plain, on rock, in gravel, and alluvial mud, under the bright sky of the South and under the clouds of the North, in fell and forest, in the vineyards and the olive-grounds and among the cropped grass and the stubble of the corn, along the fruitful banks of the broad rivers, and in the sand of the sea-shore.",
     "en": "The new era had begun. The king was put on trial, condemned, and beheaded. The new Republic of Liberty, Equality, Fraternity, or Death declared that it would fight for victory or death against the entire armed world. A black flag waved day and night from the massive towers of Notre Dame. Three hundred thousand men were called up to rise against the earth's tyrants, and they sprang up from every corner of France. It was as if dragon's teeth had been scattered everywhere and sprouted soldiers equally on hills and plains, on rocky ground, in gravel, and in rich mud. They rose under the bright southern skies and the cloudy northern skies, in wild moors and forests, in vineyards and olive groves, among short grass and leftover cornstalks, along the fertile banks of wide rivers, and in the sand along the seashore.",
-    "ko": "",
+    "ko": "새로운 시대가 시작되었다. 왕은 재판을 받고, 유죄 판결을 받고, 참수되었다. '자유, 평등, 박애, 아니면 죽음'이라는 새로운 공화국은 무장한 전 세계에 맞서 승리 아니면 죽음을 걸고 싸우겠다고 선언했다. 노트르담의 거대한 탑에서는 밤낮으로 검은 깃발이 나부꼈다. 지구의 폭군들에 맞서 봉기할 30만 명의 병사들이 소집되었고, 그들은 프랑스 전역에서 솟아올랐다. 마치 용의 이빨이 사방에 뿌려져 언덕과 평원, 바위투성이 땅, 자갈밭, 비옥한 진흙 위에서 똑같이 병사들로 싹을 틔운 것 같았다. 그들은 눈부신 남쪽 하늘과 구름 낀 북쪽 하늘 아래에서, 황량한 황무지와 숲, 포도밭과 올리브 숲에서, 짧은 풀밭과 남은 옥수수 줄기 사이에서, 넓은 강가의 비옥한 둑을 따라, 그리고 해변의 모래사장에서 일어났다.",
     "is_header": false
   },
   {
@@ -300,7 +300,7 @@
     "tag": "P010_3",
     "raw": "What private solicitude could rear itself against the deluge of the Year One of Liberty--the deluge rising from below, not falling from above, and with the windows of Heaven shut, not opened!",
     "en": "How could the worries of one family stand against the massive flood of the Year One of Liberty, a flood rising from the anger of the people below?",
-    "ko": "",
+    "ko": "자유의 원년에 밑바닥 사람들의 분노에서 솟아오른 이 거대한 홍수 앞에서 한 가족의 걱정이 어떻게 버틸 수 있었겠는가?",
     "is_header": false
   },
   {
@@ -308,7 +308,7 @@
     "tag": "P011_1",
     "raw": "There was no pause, no pity, no peace, no interval of relenting rest, no measurement of time.",
     "en": "There was no pause, no pity, no peace, and no concept of time.",
-    "ko": "",
+    "ko": "멈춤도, 동정도, 평화도 없었으며, 시간이라는 개념도 없었다.",
     "is_header": false
   },
   {
@@ -316,7 +316,7 @@
     "tag": "P011_2",
     "raw": "Though days and nights circled as regularly as when time was young, and the evening and morning were the first day, other count of time there was none.",
     "en": "Even though days and nights still followed each other just as regularly as they did at the very beginning of the world, there was no other way they kept track of time.",
-    "ko": "",
+    "ko": "비록 세상이 처음 시작될 때처럼 낮과 밤이 여전히 규칙적으로 이어지고 있었지만, 그들이 시간을 측정하는 다른 방법은 없었다.",
     "is_header": false
   },
   {
@@ -324,7 +324,7 @@
     "tag": "P011_3",
     "raw": "Hold of it was lost in the raging fever of a nation, as it is in the fever of one patient.",
     "en": "Time was lost in the nation's madness, just like in a patient's fever.",
-    "ko": "",
+    "ko": "시간은 환자의 열병 속에서처럼 국가의 광기 속에 길을 잃었다.",
     "is_header": false
   },
   {
@@ -332,7 +332,7 @@
     "tag": "P011_4",
     "raw": "Now, breaking the unnatural silence of a whole city, the executioner showed the people the head of the king--and now, it seemed almost in the same breath, the head of his fair wife which had had eight weary months of imprisoned widowhood and misery, to turn it grey.",
     "en": "The executioner showed the king's head to the crowd, and soon after, the head of the queen, whose hair had turned gray from eight months of misery in prison.",
-    "ko": "",
+    "ko": "사형 집행인은 군중에게 왕의 머리를 보여주었고, 곧이어 감옥에서의 8개월간의 비참함으로 인해 머리가 백발이 된 왕비의 머리도 보여주었다.",
     "is_header": false
   },
   {
@@ -340,7 +340,7 @@
     "tag": "P012_1",
     "raw": "And yet, observing the strange law of contradiction which obtains in all such cases, the time was long, while it flamed by so fast.",
     "en": "And yet, following that strange sense of contradiction that always happens in these situations, the time felt incredibly long even as it burned past them so quickly.",
-    "ko": "",
+    "ko": "그럼에도 불구하고, 이런 상황에서 늘 발생하는 이상한 모순적 감각을 따라, 시간은 그렇게 빨리 그들을 지나쳐 불타버리면서도 믿을 수 없을 만큼 길게 느껴졌다.",
     "is_header": false
   },
   {
@@ -348,7 +348,7 @@
     "tag": "P012_2",
     "raw": "A revolutionary tribunal in the capital, and forty or fifty thousand revolutionary committees all over the land; a law of the Suspected, which struck away all security for liberty or life, and delivered over any good and innocent person to any bad and guilty one; prisons gorged with people who had committed no offence, and could obtain no hearing; these things became the established order and nature of appointed things, and seemed to be ancient usage before they were many weeks old.",
     "en": "There was a revolutionary court in Paris and thousands of local committees all over the country. A new law concerning \"suspected\" people destroyed all safety, making it easy for any bad person to accuse an innocent one. Prisons were packed with people who had done nothing wrong and could get no trial. These horrors became the daily routine.",
-    "ko": "",
+    "ko": "파리에는 혁명 재판소가 있었고 전국에 수천 개의 지역 위원회가 있었다. '용의자'에 관한 새로운 법률은 모든 안전을 파괴하여 악인이 무고한 사람을 쉽게 고발할 수 있게 만들었다. 감옥은 아무 잘못도 저지르지 않은 채 재판도 받을 수 없는 사람들로 꽉 찼다. 이러한 공포가 일상이 되었다.",
     "is_header": false
   },
   {
@@ -356,7 +356,7 @@
     "tag": "P012_3",
     "raw": "Above all, one hideous figure grew as familiar as if it had been before the general gaze from the foundations of the world--the figure of the sharp female called La Guillotine.",
     "en": "Above all, one terrifying machine became as familiar as if it had existed since the beginning of the world: the Guillotine.",
-    "ko": "",
+    "ko": "무엇보다도 세상의 시작부터 존재했던 것처럼 익숙해진 무서운 기계가 하나 있었으니, 바로 단두대였다.",
     "is_header": false
   },
   {
@@ -364,7 +364,7 @@
     "tag": "P013_1",
     "raw": "It was the popular theme for jests; it was the best cure for headache, it infallibly prevented the hair from turning grey, it imparted a peculiar delicacy to the complexion, it was the National Razor which shaved close: who kissed La Guillotine, looked through the little window and sneezed into the sack.",
     "en": "It was the subject of popular jokes: people called it the best cure for a headache, a way to keep hair from turning gray, and the \"National Razor\" that shaved close.",
-    "ko": "",
+    "ko": "그것은 대중적인 농담의 소재가 되었다. 사람들은 그것을 두통에 대한 최고의 치료법, 머리가 하얗게 세는 것을 막는 방법, 그리고 바짝 면도해 주는 '국가적인 면도기'라고 불렀다.",
     "is_header": false
   },
   {
@@ -372,7 +372,7 @@
     "tag": "P013_2",
     "raw": "It was the sign of the regeneration of the human race.",
     "en": "They joked that anyone who kissed it looked through the little window and sneezed into the sack.",
-    "ko": "",
+    "ko": "그들은 누구든 단두대에 입을 맞추면 작은 창문 너머를 내다보고 자루 속에 재채기를 한다고 농담했다.",
     "is_header": false
   },
   {
@@ -380,7 +380,7 @@
     "tag": "P013_3",
     "raw": "It superseded the Cross.",
     "en": "It was seen as the symbol of a new era, replacing the Christian cross.",
-    "ko": "",
+    "ko": "그것은 기독교의 십자가를 대체하는 새로운 시대의 상징으로 여겨졌다.",
     "is_header": false
   },
   {
@@ -388,7 +388,7 @@
     "tag": "P013_4",
     "raw": "Models of it were worn on breasts from which the Cross was discarded, and it was bowed down to and believed in where the Cross was denied.",
     "en": "People wore small models of the Guillotine on their chests instead of crosses, bowing down to it instead of God.",
-    "ko": "",
+    "ko": "사람들은 십자가 대신 작은 단두대 모형을 가슴에 달고 다녔으며, 신이 아닌 그것에 절을 했다.",
     "is_header": false
   },
   {
@@ -396,7 +396,7 @@
     "tag": "P014_1",
     "raw": "It sheared off heads so many, that it, and the ground it most polluted, were a rotten red.",
     "en": "It cut off so many heads that the machine and the ground around it were stained dark red.",
-    "ko": "",
+    "ko": "그것은 너무나 많은 머리를 잘라내어 기계와 그 주변 땅이 검붉게 물들 정도였다.",
     "is_header": false
   },
   {
@@ -404,7 +404,7 @@
     "tag": "P014_2",
     "raw": "It was taken to pieces, like a toy-puzzle for a young Devil, and was put together again when the occasion wanted it.",
     "en": "It could be taken apart and put back together easily when needed.",
-    "ko": "",
+    "ko": "그것은 필요할 때 쉽게 분해하고 다시 조립할 수 있었다.",
     "is_header": false
   },
   {
@@ -412,7 +412,7 @@
     "tag": "P014_3",
     "raw": "It hushed the eloquent, struck down the powerful, abolished the beautiful and good.",
     "en": "It silenced speakers, destroyed the powerful, and killed the beautiful and the good.",
-    "ko": "",
+    "ko": "그것은 웅변가들을 침묵시키고, 권력자들을 파멸시키며, 아름답고 선한 사람들을 죽였다.",
     "is_header": false
   },
   {
@@ -420,7 +420,7 @@
     "tag": "P014_4",
     "raw": "Twenty-two friends of high public mark, twenty-one living and one dead, it had lopped the heads off, in one morning, in as many minutes.",
     "en": "In a single morning, and in just as many minutes, it had chopped off the heads of twenty-two famous public figures—twenty-one who were alive and one who was already dead.",
-    "ko": "",
+    "ko": "어느 날 아침, 불과 몇 분 만에 그것은 스물두 명의 유명 인사들의 머리를 잘라버렸다. 스물한 명은 살아 있는 사람이었고, 한 명은 이미 죽은 사람이었다.",
     "is_header": false
   },
   {
@@ -428,7 +428,7 @@
     "tag": "P014_5",
     "raw": "The name of the strong man of Old Scripture had descended to the chief functionary who worked it; but, so armed, he was stronger than his namesake, and blinder, and tore away the gates of God’s own Temple every day.",
     "en": "The chief executioner was nicknamed Samson after the strong man in the Bible; but this executioner was stronger than the biblical Samson, and blinder, destroying lives every day.",
-    "ko": "",
+    "ko": "수석 사형 집행인은 성경에 나오는 힘센 사람의 이름을 따서 삼손이라는 별명을 얻었다. 하지만 이 집행인은 성경의 삼손보다 더 힘이 셌고 눈이 더 멀어 매일 사람들의 목숨을 파괴했다.",
     "is_header": false
   },
   {
@@ -436,7 +436,7 @@
     "tag": "P015_1",
     "raw": "Among these terrors, and the brood belonging to them, the Doctor walked with a steady head: confident in his power, cautiously persistent in his end, never doubting that he would save Lucie’s husband at last.",
     "en": "In the midst of all these terrors and the horrors that came with them, the Doctor walked with a clear and steady mind. He was confident in his own influence, carefully focused on his goal, and never doubted for a second that he would eventually save Lucie’s husband.",
-    "ko": "",
+    "ko": "이 모든 공포와 그에 수반되는 참상 속에서도 박사는 맑고 안정된 마음가짐으로 걸었다. 그는 자신의 영향력에 자신감을 가졌고, 목표에 신중하게 집중했으며, 결국 루시의 남편을 구하게 될 것이라는 사실을 한순간도 의심하지 않았다.",
     "is_header": false
   },
   {
@@ -444,7 +444,7 @@
     "tag": "P015_2",
     "raw": "Yet the current of the time swept by, so strong and deep, and carried the time away so fiercely, that Charles had lain in prison one year and three months when the Doctor was thus steady and confident.",
     "en": "But the current of time swept past them, flowing so fiercely and deeply that Charles had already been sitting in prison for a year and three months by the time the Doctor felt this steady and confident.",
-    "ko": "",
+    "ko": "하지만 시간의 흐름은 너무나 맹렬하고 깊게 그들을 휩쓸고 지나갔고, 박사가 이토록 확고하고 자신감을 느낄 무렵 찰스는 이미 1년 3개월 동안이나 감옥에 앉아 있었다.",
     "is_header": false
   },
   {
@@ -452,7 +452,7 @@
     "tag": "P015_3",
     "raw": "So much more wicked and distracted had the Revolution grown in that December month, that the rivers of the South were encumbered with the bodies of the violently drowned by night, and prisoners were shot in lines and squares under the southern wintry sun.",
     "en": "Yet the time went by so fast that Charles had been in prison for a year and three months while the Doctor remained patient and hopeful.",
-    "ko": "",
+    "ko": "그럼에도 시간은 너무나 빠르게 흘러가, 박사가 인내심과 희망을 유지하는 동안 찰스는 감옥에 있은 지 1년 3개월이 되었다.",
     "is_header": false
   },
   {
@@ -460,7 +460,7 @@
     "tag": "P015_4",
     "raw": "Still, the Doctor walked among the terrors with a steady head.",
     "en": "By December, the Revolution had grown even more violent; rivers in the south were filled with drowned bodies, and prisoners were executed by firing squads.",
-    "ko": "",
+    "ko": "12월이 되자 혁명은 더욱 폭력적으로 변했다. 남부의 강들은 익사한 시체들로 가득 찼고, 죄수들은 총살대에 의해 처형되었다.",
     "is_header": false
   },
   {
@@ -468,7 +468,7 @@
     "tag": "P015_5",
     "raw": "No man better known than he, in Paris at that day; no man in a stranger situation.",
     "en": "At that time, there was no man more famous in Paris than he was—and no man in a weirder situation.",
-    "ko": "",
+    "ko": "당시 파리에는 그보다 더 유명한 사람은 없었고, 그보다 더 기이한 상황에 처한 사람도 없었다.",
     "is_header": false
   },
   {
@@ -476,7 +476,7 @@
     "tag": "P015_6",
     "raw": "Silent, humane, indispensable in hospital and prison, using his art equally among assassins and victims, he was a man apart.",
     "en": "No one was better known in Paris, and no one was in a stranger position.",
-    "ko": "",
+    "ko": "파리에서 그보다 더 잘 알려진 사람도 없었고, 더 낯선 입장에 처한 사람도 없었다.",
     "is_header": false
   },
   {
@@ -484,7 +484,7 @@
     "tag": "P015_7",
     "raw": "In the exercise of his skill, the appearance and the story of the Bastille Captive removed him from all other men.",
     "en": "He was quiet, kind, and indispensable in hospitals and prisons, treating killers and victims alike.",
-    "ko": "",
+    "ko": "그는 조용하고 친절했으며 병원과 감옥에서 없어서는 안 될 존재로, 살인자와 피해자를 똑같이 치료했다.",
     "is_header": false
   },
   {
@@ -492,7 +492,7 @@
     "tag": "P015_8",
     "raw": "He was not suspected or brought in question, any more than if he had indeed been recalled to life some eighteen years before, or were a Spirit moving among mortals.",
     "en": "His past as a Bastille prisoner kept him safe from suspicion, as if he really were a ghost walking among the living.",
-    "ko": "",
+    "ko": "바스티유의 죄수였던 그의 과거는 그를 마치 산 자들 사이를 걷는 진짜 유령인 것처럼 의심으로부터 안전하게 지켜주었다.",
     "is_header": false
   }
 ]

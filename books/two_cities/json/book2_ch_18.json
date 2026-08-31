@@ -12,7 +12,7 @@
     "tag": "P002_1",
     "raw": "The marriage-day was shining brightly, and they were ready outside the closed door of the Doctor’s room, where he was speaking with Charles Darnay.",
     "en": "The wedding day shone brightly. They were waiting outside the closed door of the Doctor's room, where he was speaking with Charles Darnay.",
-    "ko": "",
+    "ko": "결혼식 날이 밝게 빛났다. 그들은 찰스 다네이와 이야기를 나누고 있는 의사의 닫힌 방문 밖에서 기다리고 있었다.",
     "is_header": false
   },
   {
@@ -20,7 +20,7 @@
     "tag": "P002_2",
     "raw": "They were ready to go to church; the beautiful bride, Mr.",
     "en": "They were ready to go to church; the beautiful bride, Mr.",
-    "ko": "",
+    "ko": "그들은 교회에 갈 준비가 되어 있었다. 아름다운 신부와 미스터",
     "is_header": false
   },
   {
@@ -28,7 +28,7 @@
     "tag": "P002_3",
     "raw": "Lorry, and Miss Pross--to whom the event, through a gradual process of reconcilement to the inevitable, would have been one of absolute bliss, but for the yet lingering consideration that her brother Solomon should have been the bridegroom.",
     "en": "Lorry, and Miss Pross were ready to go to church. To Miss Pross, the event would have been perfect happiness, if not for her lingering belief that her brother Solomon should have been the groom.",
-    "ko": "",
+    "ko": "로리, 그리고 프로스 양은 교회에 갈 준비가 되어 있었다. 그녀의 오빠 솔로몬이 신랑이었어야 한다는 지워지지 않는 믿음만 아니었다면, 프로스 양에게 그 행사는 완벽한 행복이었을 것이다.",
     "is_header": false
   },
   {
@@ -36,7 +36,7 @@
     "tag": "P003_1",
     "raw": "“And so,” said Mr.",
     "en": "\"And so,\" said Mr.",
-    "ko": "",
+    "ko": "\"그래서,\" 미스터",
     "is_header": false
   },
   {
@@ -44,7 +44,7 @@
     "tag": "P003_2",
     "raw": "Lorry, who could not sufficiently admire the bride, and who had been moving round her to take in every point of her quiet, pretty dress; “and so it was for this, my sweet Lucie, that I brought you across the Channel, such a baby!",
     "en": "Lorry couldn't admire the bride enough. He had been walking around her to take in every detail of her quiet, pretty dress. \"And so it was for this, my sweet Lucie, that I brought you across the Channel as a baby!\"",
-    "ko": "",
+    "ko": "로리는 신부를 아무리 칭찬해도 지나치지 않았다. 그는 그녀의 차분하고 예쁜 드레스의 모든 세부 사항을 감상하기 위해 그녀 주위를 맴돌았다. \"그래서 이런 날을 위해, 나의 사랑스러운 루시, 내가 갓난아기였던 너를 해협 건너로 데려왔구나!\"",
     "is_header": false
   },
   {
@@ -52,7 +52,7 @@
     "tag": "P003_3",
     "raw": "Lord bless me!",
     "en": "\"And so it was for this, my sweet Lucie, that I brought you across the Channel when you were such a baby!",
-    "ko": "",
+    "ko": "\"그래서 이런 날을 위해, 나의 사랑스러운 루시, 네가 그렇게 어린 아기였을 때 내가 널 해협 건너로 데려왔구나!",
     "is_header": false
   },
   {
@@ -60,7 +60,7 @@
     "tag": "P003_4",
     "raw": "How little I thought what I was doing!",
     "en": "How little I knew what I was doing!",
-    "ko": "",
+    "ko": "내가 무슨 짓을 하고 있는지 얼마나 몰랐던가!",
     "is_header": false
   },
   {
@@ -68,7 +68,7 @@
     "tag": "P003_5",
     "raw": "How lightly I valued the obligation I was conferring on my friend Mr.",
     "en": "How little I thought what I was doing!",
-    "ko": "",
+    "ko": "내가 무슨 짓을 하고 있는지 얼마나 생각하지 못했던가!",
     "is_header": false
   },
   {
@@ -76,7 +76,7 @@
     "tag": "P003_6",
     "raw": "Charles!”",
     "en": "How little I valued the service I was doing for my friend Charles!\"",
-    "ko": "",
+    "ko": "내 친구 찰스를 위해 내가 하고 있는 봉사를 얼마나 하찮게 여겼던가!\"",
     "is_header": false
   },
   {
@@ -84,7 +84,7 @@
     "tag": "P004_1",
     "raw": "“You didn’t mean it,” remarked the matter-of-fact Miss Pross, “and therefore how could you know it?",
     "en": "The practical Miss Pross remarked, \"You didn't mean to do it, so how could you know?",
-    "ko": "",
+    "ko": "실용적인 프로스 양이 말했다. \"그렇게 하려고 했던 게 아니었으니 당신이 어떻게 알 수 있었겠어요?",
     "is_header": false
   },
   {
@@ -92,7 +92,7 @@
     "tag": "P004_2",
     "raw": "Nonsense!”",
     "en": "What nonsense!\"",
-    "ko": "",
+    "ko": "말도 안 되는 소리!\"",
     "is_header": false
   },
   {
@@ -100,7 +100,7 @@
     "tag": "P005_1",
     "raw": "“Really?",
     "en": "\"Really?",
-    "ko": "",
+    "ko": "\"정말입니까?",
     "is_header": false
   },
   {
@@ -108,7 +108,7 @@
     "tag": "P005_2",
     "raw": "Well; but don’t cry,” said the gentle Mr.",
     "en": "Well, don't cry,\" said the gentle Mr.",
-    "ko": "",
+    "ko": "글쎄, 울지 말아요,\" 점잖은 미스터",
     "is_header": false
   },
   {
@@ -116,7 +116,7 @@
     "tag": "P005_3",
     "raw": "Lorry.",
     "en": "Lorry.",
-    "ko": "",
+    "ko": "로리가 말했다.",
     "is_header": false
   },
   {
@@ -124,7 +124,7 @@
     "tag": "P006",
     "raw": "“I am not crying,” said Miss Pross; “_you_ are.”",
     "en": "\"I am not crying,\" said Miss Pross. \"You are.\"",
-    "ko": "",
+    "ko": "\"나는 울지 않아요,\" 프로스 양이 말했다. \"당신이 울고 있잖아요.\"",
     "is_header": false
   },
   {
@@ -132,7 +132,7 @@
     "tag": "P007_1",
     "raw": "“I, my Pross?” (By this time, Mr.",
     "en": "\"I, my Pross?\" By this time, Mr.",
-    "ko": "",
+    "ko": "\"나, 나의 프로스 양?\" 이 무렵, 미스터",
     "is_header": false
   },
   {
@@ -140,7 +140,7 @@
     "tag": "P007_2",
     "raw": "Lorry dared to be pleasant with her, on occasion.)",
     "en": "Lorry dared to joke with her occasionally.",
-    "ko": "",
+    "ko": "로리는 가끔 그녀에게 감히 농담을 하곤 했다.",
     "is_header": false
   },
   {
@@ -148,7 +148,7 @@
     "tag": "P008_1",
     "raw": "“You were, just now; I saw you do it, and I don’t wonder at it.",
     "en": "Miss Pross said, \"You were just now; I saw you do it, and I don't wonder.",
-    "ko": "",
+    "ko": "프로스 양이 말했다. \"방금 전에 그랬잖아요. 당신이 그러는 걸 봤고, 난 놀랍지도 않아요.",
     "is_header": false
   },
   {
@@ -156,7 +156,7 @@
     "tag": "P008_2",
     "raw": "Such a present of plate as you have made ’em, is enough to bring tears into anybody’s eyes.",
     "en": "The silver present you gave them is enough to bring tears to anyone's eyes.",
-    "ko": "",
+    "ko": "당신이 그들에게 준 은 선물은 누구의 눈에라도 눈물을 고이게 하기에 충분해요.",
     "is_header": false
   },
   {
@@ -164,7 +164,7 @@
     "tag": "P008_3",
     "raw": "There’s not a fork or a spoon in the collection,” said Miss Pross, “that I didn’t cry over, last night after the box came, till I couldn’t see it.”",
     "en": "There isn't a fork or spoon in the set that I didn't cry over last night when the box arrived, until I couldn't see them.\"",
-    "ko": "",
+    "ko": "어젯밤 상자가 도착했을 때 세트에 있는 포크나 숟가락 중에 내가 보이지 않을 때까지 울면서 쳐다보지 않은 게 하나도 없어요.\"",
     "is_header": false
   },
   {
@@ -172,7 +172,7 @@
     "tag": "P009_1",
     "raw": "“I am highly gratified,” said Mr.",
     "en": "\"I am very pleased,\" said Mr.",
-    "ko": "",
+    "ko": "\"정말 기쁩니다,\" 미스터",
     "is_header": false
   },
   {
@@ -180,7 +180,7 @@
     "tag": "P009_2",
     "raw": "Lorry, “though, upon my honour, I had no intention of rendering those trifling articles of remembrance invisible to any one.",
     "en": "Lorry, \"though I certainly didn't mean to make them invisible.",
-    "ko": "",
+    "ko": "로리가 말했다. \"비록 내가 그것들을 보이지 않게 하려던 건 확실히 아니었지만 말입니다.",
     "is_header": false
   },
   {
@@ -188,7 +188,7 @@
     "tag": "P009_3",
     "raw": "Dear me!",
     "en": "Dear me!",
-    "ko": "",
+    "ko": "이런!",
     "is_header": false
   },
   {
@@ -196,7 +196,7 @@
     "tag": "P009_4",
     "raw": "This is an occasion that makes a man speculate on all he has lost. Dear, dear, dear!",
     "en": "This is an occasion that makes a man think of everything he has lost.",
-    "ko": "",
+    "ko": "이번 일은 사람으로 하여금 자신이 잃어버린 모든 것을 생각하게 만드는 행사군요.",
     "is_header": false
   },
   {
@@ -204,7 +204,7 @@
     "tag": "P009_5",
     "raw": "To think that there might have been a Mrs.",
     "en": "To think that I might have had a Mrs.",
-    "ko": "",
+    "ko": "나에게도 아내가 있었을지도 모른다고 생각하니,",
     "is_header": false
   },
   {
@@ -212,7 +212,7 @@
     "tag": "P009_6",
     "raw": "Lorry, any time these fifty years almost!”",
     "en": "Lorry at any time during the last fifty years!\"",
-    "ko": "",
+    "ko": "지난 오십 년 중 어느 때라도 로리 부인이!\"",
     "is_header": false
   },
   {
@@ -220,7 +220,7 @@
     "tag": "P010",
     "raw": "“Not at all!” From Miss Pross.",
     "en": "\"Not at all!\" said Miss Pross.",
-    "ko": "",
+    "ko": "\"전혀 아니에요!\" 프로스 양이 말했다.",
     "is_header": false
   },
   {
@@ -228,7 +228,7 @@
     "tag": "P011_1",
     "raw": "“You think there never might have been a Mrs.",
     "en": "\"You think I never could have had a Mrs.",
-    "ko": "",
+    "ko": "\"내가 결코 아내를 가질 수 없었을 거라고 생각합니까,",
     "is_header": false
   },
   {
@@ -236,7 +236,7 @@
     "tag": "P011_2",
     "raw": "Lorry?” asked the gentleman of that name.",
     "en": "Lorry?\" asked the banker.",
-    "ko": "",
+    "ko": "로리 부인을 말입니다?\" 은행가가 물었다.",
     "is_header": false
   },
   {
@@ -244,7 +244,7 @@
     "tag": "P012",
     "raw": "“Pooh!” rejoined Miss Pross; “you were a bachelor in your cradle.”",
     "en": "\"Bah!\" Miss Pross replied. \"You were a bachelor in your cradle.\"",
-    "ko": "",
+    "ko": "\"흥!\" 프로스 양이 대답했다. \"당신은 요람에서부터 독신남이었어요.\"",
     "is_header": false
   },
   {
@@ -252,7 +252,7 @@
     "tag": "P013_1",
     "raw": "“Well!” observed Mr.",
     "en": "\"Well!\" Mr.",
-    "ko": "",
+    "ko": "\"글쎄요!\" 미스터",
     "is_header": false
   },
   {
@@ -260,7 +260,7 @@
     "tag": "P013_2",
     "raw": "Lorry, beamingly adjusting his little wig, “that seems probable, too.”",
     "en": "Lorry smiled, adjusting his wig. \"That seems likely too.\"",
-    "ko": "",
+    "ko": "로리는 가발을 만지작거리며 미소를 지었다. \"그것도 그럴듯해 보이는군요.\"",
     "is_header": false
   },
   {
@@ -268,7 +268,7 @@
     "tag": "P014",
     "raw": "“And you were cut out for a bachelor,” pursued Miss Pross, “before you were put in your cradle.”",
     "en": "\"And you were cut out to be a bachelor before you were even put in your cradle,\" Miss Pross added.",
-    "ko": "",
+    "ko": "\"그리고 당신은 심지어 요람에 눕혀지기도 전부터 독신남이 될 운명이었어요,\" 프로스 양이 덧붙였다.",
     "is_header": false
   },
   {
@@ -276,7 +276,7 @@
     "tag": "P015_1",
     "raw": "“Then, I think,” said Mr.",
     "en": "Drawing his arm around her waist, Mr.",
-    "ko": "",
+    "ko": "그녀의 허리에 팔을 두르며, 미스터",
     "is_header": false
   },
   {
@@ -284,7 +284,7 @@
     "tag": "P015_2",
     "raw": "Lorry, “that I was very unhandsomely dealt with, and that I ought to have had a voice in the selection of my pattern.",
     "en": "Lorry said, \"Then I think I was treated very poorly, and I should have had a say in the matter.",
-    "ko": "",
+    "ko": "로리가 말했다. \"그렇다면 나는 아주 부당한 대우를 받았던 것 같소, 이 문제에 대해 내 발언권이 있었어야 했어요.",
     "is_header": false
   },
   {
@@ -292,7 +292,7 @@
     "tag": "P015_3",
     "raw": "Enough!",
     "en": "Enough!",
-    "ko": "",
+    "ko": "됐소!",
     "is_header": false
   },
   {
@@ -300,7 +300,7 @@
     "tag": "P015_4",
     "raw": "Now, my dear Lucie,” drawing his arm soothingly round her waist, “I hear them moving in the next room, and Miss Pross and I, as two formal folks of business, are anxious not to lose the final opportunity of saying something to you that you wish to hear.",
     "en": "Now, my dear Lucie, I hear them moving in the next room. Miss Pross and I, as two practical business people, want to say one last thing to you.",
-    "ko": "",
+    "ko": "이제 사랑하는 루시, 옆방에서 사람들이 움직이는 소리가 들리는군요. 미스 프로스와 나는 아주 실용적인 두 명의 사업가로서, 당신에게 마지막으로 한 가지 할 말이 있습니다.",
     "is_header": false
   },
   {
@@ -308,7 +308,7 @@
     "tag": "P015_5",
     "raw": "You leave your good father, my dear, in hands as earnest and as loving as your own; he shall be taken every conceivable care of; during the next fortnight, while you are in Warwickshire and thereabouts, even Tellson’s shall go to the wall (comparatively speaking) before him.",
     "en": "You are leaving your good father in hands as loving as your own. He will be taken care of. During the next two weeks, while you are in Warwickshire, even Tellson’s Bank will come second to him.",
-    "ko": "",
+    "ko": "당신은 당신만큼이나 사랑으로 보살펴 줄 사람의 손에 훌륭한 아버지를 맡기고 떠나는 겁니다. 그는 잘 보살핌을 받을 것입니다. 당신이 워릭셔에 있는 다음 2주 동안은 텔슨 은행조차도 그에게는 뒷전이 될 것입니다.",
     "is_header": false
   },
   {
@@ -316,7 +316,7 @@
     "tag": "P015_6",
     "raw": "And when, at the fortnight’s end, he comes to join you and your beloved husband, on your other fortnight’s trip in Wales, you shall say that we have sent him to you in the best health and in the happiest frame.",
     "en": "And when he joins you and your husband in Wales in two weeks, you will see that we have sent him to you in the best health and spirits.",
-    "ko": "",
+    "ko": "그리고 2주 후 웨일스에서 그가 당신과 당신의 남편과 합류하게 될 때, 우리가 그를 최고의 건강과 활기찬 상태로 당신에게 보냈다는 것을 알게 될 것입니다.",
     "is_header": false
   },
   {
@@ -324,7 +324,7 @@
     "tag": "P015_7",
     "raw": "Now, I hear Somebody’s step coming to the door.",
     "en": "Now, I hear his footsteps coming to the door.",
-    "ko": "",
+    "ko": "자, 그가 문으로 다가오는 발소리가 들리는군요.",
     "is_header": false
   },
   {
@@ -332,7 +332,7 @@
     "tag": "P015_8",
     "raw": "Let me kiss my dear girl with an old-fashioned bachelor blessing, before Somebody comes to claim his own.”",
     "en": "Let me kiss my dear girl and bless her before he comes to claim his bride.\"",
-    "ko": "",
+    "ko": "그가 자신의 신부를 데리러 오기 전에 사랑하는 내 소녀에게 키스하고 축복하게 해주시오.\"",
     "is_header": false
   },
   {
@@ -340,7 +340,7 @@
     "tag": "P016",
     "raw": "For a moment, he held the fair face from him to look at the well-remembered expression on the forehead, and then laid the bright golden hair against his little brown wig, with a genuine tenderness and delicacy which, if such things be old-fashioned, were as old as Adam.",
     "en": "For a moment, he held her fair face back to look at the familiar expression on her forehead. Then he pressed her bright golden hair against his little brown wig with a genuine tenderness and delicacy that, if considered old-fashioned, was as old as Adam.",
-    "ko": "",
+    "ko": "잠시 동안 그는 그녀의 이마에 깃든 익숙한 표정을 보기 위해 그녀의 아름다운 얼굴을 뒤로 물러서서 바라보았습니다. 그런 다음 그는 아담만큼이나 오래되었다고 여겨질 법한 진정한 다정함과 섬세함으로 그녀의 밝은 금발을 자신의 작은 갈색 가발에 가져다 대었습니다.",
     "is_header": false
   },
   {
@@ -348,7 +348,7 @@
     "tag": "P017_1",
     "raw": "The door of the Doctor’s room opened, and he came out with Charles Darnay.",
     "en": "The door opened, and the Doctor came out with Charles Darnay.",
-    "ko": "",
+    "ko": "문이 열리고, 마네트 박사가 찰스 다네이와 함께 나왔습니다.",
     "is_header": false
   },
   {
@@ -356,7 +356,7 @@
     "tag": "P017_2",
     "raw": "He was so deadly pale--which had not been the case when they went in together--that no vestige of colour was to be seen in his face.",
     "en": "He was deadly pale, unlike when they went in, with no color left in his face.",
-    "ko": "",
+    "ko": "그는 들어갈 때와는 달리 창백했고, 얼굴에는 핏기가 하나도 남아 있지 않았습니다.",
     "is_header": false
   },
   {
@@ -364,7 +364,7 @@
     "tag": "P017_3",
     "raw": "But, in the composure of his manner he was unaltered, except that to the shrewd glance of Mr.",
     "en": "But his calm manner was unchanged, except that to the sharp eye of Mr.",
-    "ko": "",
+    "ko": "하지만 그의 차분한 태도는 변함이 없었는데, 다만 로리 씨의 예리한 눈에는 예외였습니다.",
     "is_header": false
   },
   {
@@ -372,7 +372,7 @@
     "tag": "P017_4",
     "raw": "Lorry it disclosed some shadowy indication that the old air of avoidance and dread had lately passed over him, like a cold wind.",
     "en": "Lorry noticed a faint look of fear and avoidance on his face, like a cold wind.",
-    "ko": "",
+    "ko": "로리 씨는 찬 바람처럼 스쳐 지나가는 희미한 두려움과 회피의 표정을 그의 얼굴에서 눈치챘습니다.",
     "is_header": false
   },
   {
@@ -380,7 +380,7 @@
     "tag": "P018_1",
     "raw": "He gave his arm to his daughter, and took her down-stairs to the chariot which Mr.",
     "en": "He gave his arm to his daughter and led her downstairs to the carriage Mr.",
-    "ko": "",
+    "ko": "그는 딸에게 팔을 내어주고 로리 씨가 준비한 마차가 있는 아래층으로 그녀를 이끌었습니다.",
     "is_header": false
   },
   {
@@ -388,7 +388,7 @@
     "tag": "P018_2",
     "raw": "Lorry had hired in honour of the day.",
     "en": "Lorry had hired in honor of the day.",
-    "ko": "",
+    "ko": "로리 씨가 그 날을 기념하여 빌려 둔 마차였습니다.",
     "is_header": false
   },
   {
@@ -396,7 +396,7 @@
     "tag": "P018_3",
     "raw": "The rest followed in another carriage, and soon, in a neighbouring church, where no strange eyes looked on, Charles Darnay and Lucie Manette were happily married.",
     "en": "The others followed in another carriage, and soon, in a nearby church with no strangers watching, Charles Darnay and Lucie Manette were happily married.",
-    "ko": "",
+    "ko": "다른 사람들은 다른 마차로 뒤따랐고, 이내 낯선 사람의 눈에 띄지 않는 인근의 한 교회에서 찰스 다네이와 루시 마네트는 행복하게 결혼식을 올렸습니다.",
     "is_header": false
   },
   {
@@ -404,7 +404,7 @@
     "tag": "P019_1",
     "raw": "Besides the glancing tears that shone among the smiles of the little group when it was done, some diamonds, very bright and sparkling, glanced on the bride’s hand, which were newly released from the dark obscurity of one of Mr.",
     "en": "In addition to the tears of joy among the small group, some bright diamonds shone on the bride’s hand, which Mr. Lorry had just taken from his pocket.",
-    "ko": "",
+    "ko": "소규모 무리 사이에서 흘린 기쁨의 눈물 외에도, 로리 씨가 주머니에서 막 꺼낸 반짝이는 다이아몬드 몇 개가 신부의 손에서 빛났습니다.",
     "is_header": false
   },
   {
@@ -412,7 +412,7 @@
     "tag": "P019_2",
     "raw": "Lorry’s pockets.",
     "en": "They returned home for breakfast, and all went well.",
-    "ko": "",
+    "ko": "그들은 아침 식사를 위해 집으로 돌아왔고, 모든 것이 순조롭게 진행되었습니다.",
     "is_header": false
   },
   {
@@ -420,7 +420,7 @@
     "tag": "P019_3",
     "raw": "They returned home to breakfast, and all went well, and in due course the golden hair that had mingled with the poor shoemaker’s white locks in the Paris garret, were mingled with them again in the morning sunlight, on the threshold of the door at parting.",
     "en": "In due course, the golden hair that had once mingled with the shoemaker’s white hair in the Paris attic was held against it again in the morning sun as they said goodbye.",
-    "ko": "",
+    "ko": "이윽고 작별 인사를 나눌 때, 파리의 다락방에서 구두장이의 백발과 한때 어우러졌던 금발이 아침 햇살 속에서 다시 맞닿았습니다.",
     "is_header": false
   },
   {
@@ -428,7 +428,7 @@
     "tag": "P020_1",
     "raw": "It was a hard parting, though it was not for long.",
     "en": "It was a difficult parting, though not for long.",
-    "ko": "",
+    "ko": "비록 오랜 이별은 아니었지만, 그것은 힘든 이별이었습니다.",
     "is_header": false
   },
   {
@@ -436,7 +436,7 @@
     "tag": "P020_2",
     "raw": "But her father cheered her, and said at last, gently disengaging himself from her enfolding arms, “Take her, Charles!",
     "en": "But her father cheered her, saying as he let her go: \"Take her, Charles!",
-    "ko": "",
+    "ko": "그러나 그녀의 아버지는 그녀를 보내며 이렇게 말하며 그녀를 격려했습니다. \"찰스, 이 아이를 데려가게!",
     "is_header": false
   },
   {
@@ -444,7 +444,7 @@
     "tag": "P020_3",
     "raw": "She is yours!”",
     "en": "She is yours!\"",
-    "ko": "",
+    "ko": "이 아이는 자네 것이네!\"",
     "is_header": false
   },
   {
@@ -452,7 +452,7 @@
     "tag": "P021",
     "raw": "And her agitated hand waved to them from a chaise window, and she was gone.",
     "en": "She waved to them from the carriage window, and was gone.",
-    "ko": "",
+    "ko": "그녀는 마차 창문으로 그들에게 손을 흔들었고, 곧 사라졌습니다.",
     "is_header": false
   },
   {
@@ -460,7 +460,7 @@
     "tag": "P022_1",
     "raw": "The corner being out of the way of the idle and curious, and the preparations having been very simple and few, the Doctor, Mr.",
     "en": "The street corner was quiet and out of the way of the curious, and the preparations had been simple.",
-    "ko": "",
+    "ko": "길모퉁이는 조용하고 호기심 많은 사람들의 시선에서 벗어나 있었으며, 준비는 소박했습니다.",
     "is_header": false
   },
   {
@@ -468,7 +468,7 @@
     "tag": "P022_2",
     "raw": "Lorry, and Miss Pross, were left quite alone.",
     "en": "The Doctor, Mr. Lorry, and Miss Pross were left alone.",
-    "ko": "",
+    "ko": "마네트 박사, 로리 씨, 그리고 미스 프로스만 남겨졌습니다.",
     "is_header": false
   },
   {
@@ -476,7 +476,7 @@
     "tag": "P022_3",
     "raw": "It was when they turned into the welcome shade of the cool old hall, that Mr.",
     "en": "As they walked back into the cool hall, Mr.",
-    "ko": "",
+    "ko": "그들이 서늘한 복도로 다시 걸어 들어갈 때, 로리 씨는",
     "is_header": false
   },
   {
@@ -484,7 +484,7 @@
     "tag": "P022_4",
     "raw": "Lorry observed a great change to have come over the Doctor; as if the golden arm uplifted there, had struck him a poisoned blow.",
     "en": "Lorry noticed a major change in the Doctor, as if he had received a terrible blow.",
-    "ko": "",
+    "ko": "마네트 박사가 마치 끔찍한 타격을 입은 것처럼 그에게 큰 변화가 일어난 것을 눈치챘습니다.",
     "is_header": false
   },
   {
@@ -492,7 +492,7 @@
     "tag": "P023_1",
     "raw": "He had naturally repressed much, and some revulsion might have been expected in him when the occasion for repression was gone.",
     "en": "He had controlled his feelings for a long time, and some reaction was expected now that the wedding was over.",
-    "ko": "",
+    "ko": "그는 오랫동안 감정을 통제해 왔기 때문에 결혼식이 끝난 지금은 약간의 반응이 예상되었습니다.",
     "is_header": false
   },
   {
@@ -500,7 +500,7 @@
     "tag": "P023_2",
     "raw": "But, it was the old scared lost look that troubled Mr.",
     "en": "But it was the old scared, lost look that worried Mr.",
-    "ko": "",
+    "ko": "하지만 로리 씨를 걱정하게 만든 것은 예전의 두려움에 떨고 길을 잃은 듯한 그 모습이었습니다.",
     "is_header": false
   },
   {
@@ -508,7 +508,7 @@
     "tag": "P023_3",
     "raw": "Lorry; and through his absent manner of clasping his head and drearily wandering away into his own room when they got up-stairs, Mr.",
     "en": "Lorry. Seeing him hold his head and wander off to his room reminded Mr.",
-    "ko": "",
+    "ko": "로리 씨. 그가 머리를 감싸 쥐고 자신의 방으로 배회하듯 걸어가는 것을 본 것은 로리 씨에게",
     "is_header": false
   },
   {
@@ -516,7 +516,7 @@
     "tag": "P023_4",
     "raw": "Lorry was reminded of Defarge the wine-shop keeper, and the starlight ride.",
     "en": "Lorry of Defarge and the night they rescued him.",
-    "ko": "",
+    "ko": "드파르지와 그들이 그를 구출했던 밤을 상기시켰습니다.",
     "is_header": false
   },
   {
@@ -524,7 +524,7 @@
     "tag": "P024_1",
     "raw": "“I think,” he whispered to Miss Pross, after anxious consideration, “I think we had best not speak to him just now, or at all disturb him.",
     "en": "He whispered to Miss Pross after thinking it over, \"I think we should not speak to him right now or disturb him.",
-    "ko": "",
+    "ko": "그는 그것에 대해 생각한 후 미스 프로스에게 속삭였습니다. \"지금 당장은 그에게 말을 걸거나 방해해서는 안 될 것 같소.",
     "is_header": false
   },
   {
@@ -532,7 +532,7 @@
     "tag": "P024_2",
     "raw": "I must look in at Tellson’s; so I will go there at once and come back presently.",
     "en": "I must check in at Tellson’s Bank, so I will go there immediately and return soon.",
-    "ko": "",
+    "ko": "나는 텔슨 은행에 확인해야 할 것이 있으니, 즉시 그곳에 갔다가 곧 돌아오겠소.",
     "is_header": false
   },
   {
@@ -540,7 +540,7 @@
     "tag": "P024_3",
     "raw": "Then, we will take him a ride into the country, and dine there, and all will be well.”",
     "en": "Then we will take him for a carriage ride in the country and dine there, and everything will be fine.\"",
-    "ko": "",
+    "ko": "그러고 나서 우리는 그를 마차에 태워 시골로 드라이브를 가서 그곳에서 식사를 할 것이고, 그러면 모든 것이 괜찮아질 것이오.\"",
     "is_header": false
   },
   {
@@ -548,7 +548,7 @@
     "tag": "P025_1",
     "raw": "It was easier for Mr.",
     "en": "It was easier for Mr.",
-    "ko": "",
+    "ko": "로리 씨에게는",
     "is_header": false
   },
   {
@@ -556,7 +556,7 @@
     "tag": "P025_2",
     "raw": "Lorry to look in at Tellson’s, than to look out of Tellson’s.",
     "en": "Lorry to go to Tellson’s than to leave it.",
-    "ko": "",
+    "ko": "텔슨 은행을 떠나는 것보다 가는 것이 더 쉬웠습니다.",
     "is_header": false
   },
   {
@@ -564,7 +564,7 @@
     "tag": "P025_3",
     "raw": "He was detained two hours.",
     "en": "He was delayed there for two hours.",
-    "ko": "",
+    "ko": "그는 그곳에서 두 시간 동안 지체되었습니다.",
     "is_header": false
   },
   {
@@ -572,7 +572,7 @@
     "tag": "P025_4",
     "raw": "When he came back, he ascended the old staircase alone, having asked no question of the servant; going thus into the Doctor’s rooms, he was stopped by a low sound of knocking.",
     "en": "When he returned, he went upstairs alone without asking the servant. Entering the Doctor's rooms, he was stopped by a low hammering sound.",
-    "ko": "",
+    "ko": "그가 돌아왔을 때, 그는 하인에게 묻지 않고 혼자 위층으로 올라갔습니다. 마네트 박사의 방에 들어선 그는 낮게 망치질하는 소리에 멈춰 섰습니다.",
     "is_header": false
   },
   {
@@ -580,7 +580,7 @@
     "tag": "P026",
     "raw": "“Good God!” he said, with a start. “What’s that?”",
     "en": "\"Good God!\" he said, starting. \"What is that?\"",
-    "ko": "",
+    "ko": "\"세상에!\" 그가 흠칫 놀라며 말했습니다. \"저게 무슨 소리지?\"",
     "is_header": false
   },
   {
@@ -588,7 +588,7 @@
     "tag": "P027_1",
     "raw": "Miss Pross, with a terrified face, was at his ear. “O me, O me!",
     "en": "Miss Pross was beside him with a terrified face. \"Oh no!",
-    "ko": "",
+    "ko": "미스 프로스는 겁에 질린 얼굴로 그의 옆에 있었습니다. \"오 안 돼!",
     "is_header": false
   },
   {
@@ -596,7 +596,7 @@
     "tag": "P027_2",
     "raw": "All is lost!” cried she, wringing her hands. “What is to be told to Ladybird?",
     "en": "Everything is lost!\" she cried, wringing her hands. \"What will we tell Ladybird?",
-    "ko": "",
+    "ko": "모든 게 끝났어요!\" 그녀는 두 손을 쥐어짜며 울부짖었습니다. \"레이디버드에게 뭐라고 말해야 하죠?",
     "is_header": false
   },
   {
@@ -604,7 +604,7 @@
     "tag": "P027_3",
     "raw": "He doesn’t know me, and is making shoes!”",
     "en": "He doesn't recognize me and is making shoes!\"",
-    "ko": "",
+    "ko": "그가 나를 알아보지 못하고 구두를 만들고 있어요!\"",
     "is_header": false
   },
   {
@@ -612,7 +612,7 @@
     "tag": "P028_1",
     "raw": "Mr.",
     "en": "Mr.",
-    "ko": "",
+    "ko": "로리 씨는",
     "is_header": false
   },
   {
@@ -620,7 +620,7 @@
     "tag": "P028_2",
     "raw": "Lorry said what he could to calm her, and went himself into the Doctor’s room.",
     "en": "Lorry tried to calm her and went into the Doctor’s room.",
-    "ko": "",
+    "ko": "그녀를 진정시키려 애쓰며 마네트 박사의 방으로 들어갔습니다.",
     "is_header": false
   },
   {
@@ -628,7 +628,7 @@
     "tag": "P028_3",
     "raw": "The bench was turned towards the light, as it had been when he had seen the shoemaker at his work before, and his head was bent down, and he was very busy.",
     "en": "The bench was turned toward the window, just as it had been in Paris, and the Doctor was bent over his work, very busy.",
-    "ko": "",
+    "ko": "작업대는 파리에서 그랬던 것처럼 창문을 향해 돌려져 있었고, 박사는 그의 일에 푹 숙인 채 매우 바빠 보였습니다.",
     "is_header": false
   },
   {
@@ -636,7 +636,7 @@
     "tag": "P029_1",
     "raw": "“Doctor Manette.",
     "en": "\"Doctor Manette.",
-    "ko": "",
+    "ko": "\"마네트 박사님.",
     "is_header": false
   },
   {
@@ -644,7 +644,7 @@
     "tag": "P029_2",
     "raw": "My dear friend, Doctor Manette!”",
     "en": "My dear friend, Doctor Manette!\"",
-    "ko": "",
+    "ko": "내 사랑하는 친구, 마네트 박사님!\"",
     "is_header": false
   },
   {
@@ -652,7 +652,7 @@
     "tag": "P030",
     "raw": "The Doctor looked at him for a moment--half inquiringly, half as if he were angry at being spoken to--and bent over his work again.",
     "en": "The Doctor looked up for a moment, half questioning, half angry at being interrupted, and went back to his work.",
-    "ko": "",
+    "ko": "박사는 방해받은 것에 대해 반은 의아해하고 반은 화가 난 듯 잠시 고개를 들더니, 다시 작업으로 돌아갔습니다.",
     "is_header": false
   },
   {
@@ -660,7 +660,7 @@
     "tag": "P031_1",
     "raw": "He had laid aside his coat and waistcoat; his shirt was open at the throat, as it used to be when he did that work; and even the old haggard, faded surface of face had come back to him.",
     "en": "He had taken off his coat and vest. His shirt was open at the throat, just as it used to be in prison, and his face had the same worn, hollow look.",
-    "ko": "",
+    "ko": "그는 외투와 조끼를 벗은 상태였습니다. 그의 셔츠는 감옥에 있을 때처럼 목 부분이 열려 있었고, 얼굴에는 똑같이 지치고 퀭한 표정이 서려 있었습니다.",
     "is_header": false
   },
   {
@@ -668,7 +668,7 @@
     "tag": "P031_2",
     "raw": "He worked hard--impatiently--as if in some sense of having been interrupted.",
     "en": "He worked hard and quickly, as if impatient at being interrupted.",
-    "ko": "",
+    "ko": "그는 방해받은 것을 견딜 수 없다는 듯이 빠르고 열심히 일했습니다.",
     "is_header": false
   },
   {
@@ -676,7 +676,7 @@
     "tag": "P032_1",
     "raw": "Mr.",
     "en": "Mr.",
-    "ko": "",
+    "ko": "로리 씨는",
     "is_header": false
   },
   {
@@ -684,7 +684,7 @@
     "tag": "P032_2",
     "raw": "Lorry glanced at the work in his hand, and observed that it was a shoe of the old size and shape.",
     "en": "Lorry looked at the shoe in his hand, seeing it was the same size and shape as the old ones.",
-    "ko": "",
+    "ko": "그의 손에 있는 구두가 예전 것들과 똑같은 크기와 모양이라는 것을 알아보며 그것을 쳐다보았습니다.",
     "is_header": false
   },
   {
@@ -692,7 +692,7 @@
     "tag": "P032_3",
     "raw": "He took up another that was lying by him, and asked what it was.",
     "en": "He picked up another shoe nearby and asked what it was.",
-    "ko": "",
+    "ko": "그는 근처에 있는 다른 구두를 집어 들고 그것이 무엇인지 물었습니다.",
     "is_header": false
   },
   {
@@ -700,7 +700,7 @@
     "tag": "P033_1",
     "raw": "“A young lady’s walking shoe,” he muttered, without looking up. “It ought to have been finished long ago.",
     "en": "\"A young lady’s walking shoe,\" the Doctor muttered without looking up. \"It should have been finished long ago.",
-    "ko": "",
+    "ko": "\"젊은 여성을 위한 산책용 구두요,\" 박사가 고개를 들지 않은 채 중얼거렸습니다. \"진작에 끝냈어야 하는 건데.",
     "is_header": false
   },
   {
@@ -708,7 +708,7 @@
     "tag": "P033_2",
     "raw": "Let it be.”",
     "en": "Let it be.\"",
-    "ko": "",
+    "ko": "그대로 두시오.\"",
     "is_header": false
   },
   {
@@ -716,7 +716,7 @@
     "tag": "P034_1",
     "raw": "“But, Doctor Manette.",
     "en": "\"But, Doctor Manette.",
-    "ko": "",
+    "ko": "\"하지만, 마네트 박사님.",
     "is_header": false
   },
   {
@@ -724,7 +724,7 @@
     "tag": "P034_2",
     "raw": "Look at me!”",
     "en": "Look at me!\"",
-    "ko": "",
+    "ko": "저를 보세요!\"",
     "is_header": false
   },
   {
@@ -732,7 +732,7 @@
     "tag": "P035",
     "raw": "He obeyed, in the old mechanically submissive manner, without pausing in his work.",
     "en": "He looked up in his old submissive way, without stopping his work.",
-    "ko": "",
+    "ko": "그는 일을 멈추지 않고 예전의 순종적인 모습으로 고개를 들었습니다.",
     "is_header": false
   },
   {
@@ -740,7 +740,7 @@
     "tag": "P036_1",
     "raw": "“You know me, my dear friend?",
     "en": "\"You know me, my dear friend?",
-    "ko": "",
+    "ko": "\"나를 알겠소, 나의 소중한 친구?",
     "is_header": false
   },
   {
@@ -748,7 +748,7 @@
     "tag": "P036_2",
     "raw": "Think again.",
     "en": "Think.",
-    "ko": "",
+    "ko": "생각해 보시오.",
     "is_header": false
   },
   {
@@ -756,7 +756,7 @@
     "tag": "P036_3",
     "raw": "This is not your proper occupation.",
     "en": "This is not your real work.",
-    "ko": "",
+    "ko": "이것은 당신의 진짜 일이 아니오.",
     "is_header": false
   },
   {
@@ -764,7 +764,7 @@
     "tag": "P036_4",
     "raw": "Think, dear friend!”",
     "en": "Think, dear friend!\"",
-    "ko": "",
+    "ko": "생각해 보시오, 소중한 친구여!\"",
     "is_header": false
   },
   {
@@ -772,7 +772,7 @@
     "tag": "P037_1",
     "raw": "Nothing would induce him to speak more.",
     "en": "Nothing could make him speak more.",
-    "ko": "",
+    "ko": "어떤 것도 그가 더 말하게 할 수는 없었습니다.",
     "is_header": false
   },
   {
@@ -780,7 +780,7 @@
     "tag": "P037_2",
     "raw": "He looked up, for an instant at a time, when he was requested to do so; but, no persuasion would extract a word from him.",
     "en": "He looked up for only a second when asked, but no persuasion could get a word from him.",
-    "ko": "",
+    "ko": "그는 질문을 받았을 때 단 1초 동안만 고개를 들었을 뿐, 어떤 설득으로도 그에게서 한 마디도 끌어낼 수 없었습니다.",
     "is_header": false
   },
   {
@@ -788,7 +788,7 @@
     "tag": "P037_3",
     "raw": "He worked, and worked, and worked, in silence, and words fell on him as they would have fallen on an echoless wall, or on the air.",
     "en": "He worked, and worked, and worked in silence. Words fell on him just as they would have fallen on a wall without an echo, or into empty air.",
-    "ko": "",
+    "ko": "그는 침묵 속에서 일하고, 일하고, 또 일했습니다. 그에게 건네는 말은 마치 메아리 없는 벽이나 허공에 부딪히는 것과 같았습니다.",
     "is_header": false
   },
   {
@@ -796,7 +796,7 @@
     "tag": "P037_4",
     "raw": "The only ray of hope that Mr.",
     "en": "The only hope Mr.",
-    "ko": "",
+    "ko": "로리 씨가 본",
     "is_header": false
   },
   {
@@ -804,7 +804,7 @@
     "tag": "P037_5",
     "raw": "Lorry could discover, was, that he sometimes furtively looked up without being asked.",
     "en": "Lorry saw was that he sometimes looked up on his own.",
-    "ko": "",
+    "ko": "유일한 희망은 그가 이따금씩 스스로 고개를 든다는 것이었습니다.",
     "is_header": false
   },
   {
@@ -812,7 +812,7 @@
     "tag": "P037_6",
     "raw": "In that, there seemed a faint expression of curiosity or perplexity--as though he were trying to reconcile some doubts in his mind.",
     "en": "In those glances, there seemed a faint look of curiosity or confusion, as if he were trying to understand something.",
-    "ko": "",
+    "ko": "그런 시선에는 무언가를 이해하려는 듯한 약간의 호기심이나 혼란스러움이 엿보였습니다.",
     "is_header": false
   },
   {
@@ -820,7 +820,7 @@
     "tag": "P038_1",
     "raw": "Two things at once impressed themselves on Mr.",
     "en": "Two things seemed most important to Mr.",
-    "ko": "",
+    "ko": "로리 씨에게는 두 가지가 가장 중요해 보였습니다.",
     "is_header": false
   },
   {
@@ -828,7 +828,7 @@
     "tag": "P038_2",
     "raw": "Lorry, as important above all others; the first, that this must be kept secret from Lucie; the second, that it must be kept secret from all who knew him.",
     "en": "Lorry: first, that this must be kept a secret from Lucie; second, that it must be kept a secret from everyone else.",
-    "ko": "",
+    "ko": "첫째, 이 일은 루시에게 비밀로 해야 한다는 것. 둘째, 다른 모든 사람에게도 비밀로 해야 한다는 것이었습니다.",
     "is_header": false
   },
   {
@@ -836,7 +836,7 @@
     "tag": "P038_3",
     "raw": "In conjunction with Miss Pross, he took immediate steps towards the latter precaution, by giving out that the Doctor was not well, and required a few days of complete rest.",
     "en": "He and Miss Pross took steps immediately, telling everyone that the Doctor was unwell and needed a few days of complete rest.",
-    "ko": "",
+    "ko": "그와 미스 프로스는 즉각적인 조치를 취하여 모든 사람에게 마네트 박사가 편찮으셔서 며칠간 완전한 휴식이 필요하다고 말했습니다.",
     "is_header": false
   },
   {
@@ -844,7 +844,7 @@
     "tag": "P038_4",
     "raw": "In aid of the kind deception to be practised on his daughter, Miss Pross was to write, describing his having been called away professionally, and referring to an imaginary letter of two or three hurried lines in his own hand, represented to have been addressed to her by the same post.",
     "en": "To keep the secret from Lucie, Miss Pross was to write to her, saying the Doctor had been called away on professional business, referring to a fake letter they claimed he had written.",
-    "ko": "",
+    "ko": "루시에게 비밀을 지키기 위해 미스 프로스는 그가 직접 쓴 것처럼 꾸민 가짜 편지를 언급하며 마네트 박사가 전문적인 업무 때문에 급히 떠났다고 그녀에게 편지를 쓰기로 했습니다.",
     "is_header": false
   },
   {
@@ -852,7 +852,7 @@
     "tag": "P039_1",
     "raw": "These measures, advisable to be taken in any case, Mr.",
     "en": "These measures were taken in the hope that he would recover soon.",
-    "ko": "",
+    "ko": "이런 조치들은 그가 곧 회복될 것이라는 희망 하에 취해졌습니다.",
     "is_header": false
   },
   {
@@ -860,7 +860,7 @@
     "tag": "P039_2",
     "raw": "Lorry took in the hope of his coming to himself.",
     "en": "Lorry took this step in the hope that he would come to his senses.",
-    "ko": "",
+    "ko": "로리 씨는 그가 정신을 차릴 것이라는 희망으로 이러한 단계를 밟았습니다.",
     "is_header": false
   },
   {
@@ -868,7 +868,7 @@
     "tag": "P039_3",
     "raw": "If that should happen soon, he kept another course in reserve; which was, to have a certain opinion that he thought the best, on the Doctor’s case.",
     "en": "If that happened soon, he had a backup plan, which was to get the best possible medical opinion on the Doctor's case.",
-    "ko": "",
+    "ko": "만약 그런 일이 조만간 일어나지 않는다면, 그는 마네트 박사의 상태에 대해 최선의 의학적 소견을 구한다는 대안을 가지고 있었습니다.",
     "is_header": false
   },
   {
@@ -876,7 +876,7 @@
     "tag": "P040_1",
     "raw": "In the hope of his recovery, and of resort to this third course being thereby rendered practicable, Mr.",
     "en": "Hoping for his recovery, which would make this third option possible, Mr.",
-    "ko": "",
+    "ko": "이 세 번째 선택을 가능하게 할 그의 회복을 바라며, 로리 씨는",
     "is_header": false
   },
   {
@@ -884,7 +884,7 @@
     "tag": "P040_2",
     "raw": "Lorry resolved to watch him attentively, with as little appearance as possible of doing so.",
     "en": "Lorry decided to watch him closely without appearing to do so.",
-    "ko": "",
+    "ko": "티 내지 않고 그를 가까이서 지켜보기로 결심했습니다.",
     "is_header": false
   },
   {
@@ -892,7 +892,7 @@
     "tag": "P040_3",
     "raw": "He therefore made arrangements to absent himself from Tellson’s for the first time in his life, and took his post by the window in the same room.",
     "en": "He arranged to miss work at Tellson's Bank for the first time in his life, and sat by the window in the same room.",
-    "ko": "",
+    "ko": "그는 평생 처음으로 텔슨 은행의 업무를 쉬기로 하고 같은 방 창가에 앉았습니다.",
     "is_header": false
   },
   {
@@ -900,7 +900,7 @@
     "tag": "P041_1",
     "raw": "He was not long in discovering that it was worse than useless to speak to him, since, on being pressed, he became worried.",
     "en": "He soon realized that speaking to the Doctor only made him anxious.",
-    "ko": "",
+    "ko": "그는 곧 마네트 박사에게 말을 거는 것이 그를 불안하게 만들 뿐이라는 것을 깨달았습니다.",
     "is_header": false
   },
   {
@@ -908,7 +908,7 @@
     "tag": "P041_2",
     "raw": "He abandoned that attempt on the first day, and resolved merely to keep himself always before him, as a silent protest against the delusion into which he had fallen, or was falling.",
     "en": "He stopped trying to talk to him on the first day, deciding simply to stay in the room as a silent protest against his delusion.",
-    "ko": "",
+    "ko": "그는 첫날에 그에게 말을 걸려는 시도를 멈추고, 그의 망상에 대한 무언의 항의로서 단지 방에 머물기로 결정했습니다.",
     "is_header": false
   },
   {
@@ -916,7 +916,7 @@
     "tag": "P041_3",
     "raw": "He remained, therefore, in his seat near the window, reading and writing, and expressing in as many pleasant and natural ways as he could think of, that it was a free place.",
     "en": "Therefore, he stayed in his seat near the window, reading and writing. He tried to show in as many pleasant and natural ways as he could think of that it was a free place.",
-    "ko": "",
+    "ko": "그래서 그는 창가 자리에 머물며 책을 읽고 글을 썼습니다. 그는 이곳이 자유로운 곳이라는 것을 자신이 생각할 수 있는 한 최대한 유쾌하고 자연스러운 방법으로 보여주려 노력했습니다.",
     "is_header": false
   },
   {
@@ -924,7 +924,7 @@
     "tag": "P042_1",
     "raw": "Doctor Manette took what was given him to eat and drink, and worked on, that first day, until it was too dark to see--worked on, half an hour after Mr.",
     "en": "Doctor Manette ate and drank what was given to him and worked on. On that first day, he worked until it was too dark to see, working for thirty minutes after Mr.",
-    "ko": "",
+    "ko": "마네트 박사는 자신에게 주어진 것을 먹고 마시며 계속 일했습니다. 그 첫날, 그는 어두워서 보이지 않을 때까지 일했는데, 로리 씨가",
     "is_header": false
   },
   {
@@ -932,7 +932,7 @@
     "tag": "P042_2",
     "raw": "Lorry could not have seen, for his life, to read or write.",
     "en": "Lorry could not have seen to read or write, even to save his life.",
-    "ko": "",
+    "ko": "자신의 목숨을 구하기 위해서라도 읽거나 쓸 수 없을 만큼 어두워진 후로도 30분이나 더 일했습니다.",
     "is_header": false
   },
   {
@@ -940,7 +940,7 @@
     "tag": "P042_3",
     "raw": "When he put his tools aside as useless, until morning, Mr.",
     "en": "When he finally put his tools away, Mr.",
-    "ko": "",
+    "ko": "마침내 그가 도구를 치웠을 때, 로리 씨는",
     "is_header": false
   },
   {
@@ -948,7 +948,7 @@
     "tag": "P042_4",
     "raw": "Lorry rose and said to him:",
     "en": "Lorry stood up and said:",
-    "ko": "",
+    "ko": "일어서서 말했습니다:",
     "is_header": false
   },
   {
@@ -956,7 +956,7 @@
     "tag": "P043",
     "raw": "“Will you go out?”",
     "en": "\"Will you go out?\"",
-    "ko": "",
+    "ko": "\"외출하시겠소?\"",
     "is_header": false
   },
   {
@@ -964,7 +964,7 @@
     "tag": "P044",
     "raw": "He looked down at the floor on either side of him in the old manner, looked up in the old manner, and repeated in the old low voice:",
     "en": "The Doctor looked at the floor, then looked up in his old way, repeating in his low voice:",
-    "ko": "",
+    "ko": "박사는 바닥을 쳐다보다가 예전과 같은 방식으로 고개를 들고, 낮은 목소리로 반복했습니다:",
     "is_header": false
   },
   {
@@ -972,7 +972,7 @@
     "tag": "P045",
     "raw": "“Out?”",
     "en": "\"Out?\"",
-    "ko": "",
+    "ko": "\"외출?\"",
     "is_header": false
   },
   {
@@ -980,7 +980,7 @@
     "tag": "P046_1",
     "raw": "“Yes; for a walk with me.",
     "en": "\"Yes, for a walk with me.",
-    "ko": "",
+    "ko": "\"그렇소, 나와 함께 산책을.",
     "is_header": false
   },
   {
@@ -988,7 +988,7 @@
     "tag": "P046_2",
     "raw": "Why not?”",
     "en": "Why not?\"",
-    "ko": "",
+    "ko": "안 될 이유가 없지 않소?\"",
     "is_header": false
   },
   {
@@ -996,7 +996,7 @@
     "tag": "P047_1",
     "raw": "He made no effort to say why not, and said not a word more.",
     "en": "He made no effort to answer and said nothing more.",
-    "ko": "",
+    "ko": "그는 대답하려 노력하지 않았고 더 이상 아무 말도 하지 않았습니다.",
     "is_header": false
   },
   {
@@ -1004,7 +1004,7 @@
     "tag": "P047_2",
     "raw": "But, Mr.",
     "en": "But as he sat in the dark with his head in his hands, Mr.",
-    "ko": "",
+    "ko": "그러나 그가 어둠 속에서 머리를 감싸 쥐고 앉아 있을 때, 로리 씨는",
     "is_header": false
   },
   {
@@ -1012,7 +1012,7 @@
     "tag": "P047_3",
     "raw": "Lorry thought he saw, as he leaned forward on his bench in the dusk, with his elbows on his knees and his head in his hands, that he was in some misty way asking himself, “Why not?” The sagacity of the man of business perceived an advantage here, and determined to hold it.",
     "en": "As the Doctor leaned forward on his bench in the dusk, with his elbows on his knees and his head in his hands, Mr. Lorry thought he saw him vaguely asking himself, \"Why not?\" The clever businessman saw an advantage here and decided to hold onto it.",
-    "ko": "",
+    "ko": "땅거미가 질 무렵 박사가 벤치 앞으로 몸을 기울여 무릎에 팔꿈치를 대고 머리를 감싸 쥔 채, 로리 씨는 그가 자신에게 희미하게 \"왜 안 돼?\"라고 묻고 있는 것을 본 것 같다고 생각했습니다. 그 똑똑한 사업가는 여기서 이점을 보았고 그것을 붙잡기로 결심했습니다.",
     "is_header": false
   },
   {
@@ -1020,7 +1020,7 @@
     "tag": "P048_1",
     "raw": "Miss Pross and he divided the night into two watches, and observed him at intervals from the adjoining room.",
     "en": "Miss Pross and he divided the night into watches, observing him from the next room.",
-    "ko": "",
+    "ko": "미스 프로스와 그는 밤을 교대로 나누어 옆방에서 그를 관찰했습니다.",
     "is_header": false
   },
   {
@@ -1028,7 +1028,7 @@
     "tag": "P048_2",
     "raw": "He paced up and down for a long time before he lay down; but, when he did finally lay himself down, he fell asleep.",
     "en": "The Doctor walked up and down his room for a long time before finally going to sleep.",
-    "ko": "",
+    "ko": "박사는 마침내 잠자리에 들기 전 오랫동안 방을 서성였습니다.",
     "is_header": false
   },
   {
@@ -1036,7 +1036,7 @@
     "tag": "P048_3",
     "raw": "In the morning, he was up betimes, and went straight to his bench and to work.",
     "en": "In the morning, he got up early and went straight to his bench to work.",
-    "ko": "",
+    "ko": "아침에 그는 일찍 일어나 곧바로 벤치로 가서 일하기 시작했습니다.",
     "is_header": false
   },
   {
@@ -1044,7 +1044,7 @@
     "tag": "P049_1",
     "raw": "On this second day, Mr.",
     "en": "On this second day, Mr.",
-    "ko": "",
+    "ko": "이 이틀째 되는 날, 로리 씨는",
     "is_header": false
   },
   {
@@ -1052,7 +1052,7 @@
     "tag": "P049_2",
     "raw": "Lorry saluted him cheerfully by his name, and spoke to him on topics that had been of late familiar to them.",
     "en": "Lorry greeted him cheerfully and spoke of things they had recently discussed.",
-    "ko": "",
+    "ko": "그에게 활기차게 인사를 건네고 최근에 논의했던 것들에 대해 이야기했습니다.",
     "is_header": false
   },
   {
@@ -1060,7 +1060,7 @@
     "tag": "P049_3",
     "raw": "He returned no reply, but it was evident that he heard what was said, and that he thought about it, however confusedly.",
     "en": "The Doctor did not answer, but he clearly heard and thought about what was said.",
-    "ko": "",
+    "ko": "박사는 대답하지 않았지만, 그가 말한 것을 분명히 듣고 그것에 대해 생각했습니다.",
     "is_header": false
   },
   {
@@ -1068,7 +1068,7 @@
     "tag": "P049_4",
     "raw": "This encouraged Mr.",
     "en": "This encouraged Mr.",
-    "ko": "",
+    "ko": "이것이 로리 씨를 고무시켰고",
     "is_header": false
   },
   {
@@ -1076,7 +1076,7 @@
     "tag": "P049_5",
     "raw": "Lorry to have Miss Pross in with her work, several times during the day; at those times, they quietly spoke of Lucie, and of her father then present, precisely in the usual manner, and as if there were nothing amiss.",
     "en": "Lorry to have Miss Pross bring her work into the room several times. They spoke normally of Lucie and her father, acting as if nothing were wrong.",
-    "ko": "",
+    "ko": "미스 프로스에게 그녀의 일거리를 그 방으로 여러 번 가져오게 했습니다. 그들은 평소처럼 루시와 그녀의 아버지에 대해 이야기하며 마치 아무 일도 없는 것처럼 행동했습니다.",
     "is_header": false
   },
   {
@@ -1084,7 +1084,7 @@
     "tag": "P049_6",
     "raw": "This was done without any demonstrative accompaniment, not long enough, or often enough to harass him; and it lightened Mr.",
     "en": "They did this briefly so as not to upset him. Mr.",
-    "ko": "",
+    "ko": "그들은 그를 화나게 하지 않기 위해 이 일을 짧게 했습니다. 로리 씨는",
     "is_header": false
   },
   {
@@ -1092,7 +1092,7 @@
     "tag": "P049_7",
     "raw": "Lorry’s friendly heart to believe that he looked up oftener, and that he appeared to be stirred by some perception of inconsistencies surrounding him.",
     "en": "Lorry was encouraged to see that the Doctor looked up more often, appearing to notice that something was strange.",
-    "ko": "",
+    "ko": "마네트 박사가 고개를 더 자주 들며 무언가 이상하다는 것을 알아차린 듯한 모습을 보고 용기를 얻었습니다.",
     "is_header": false
   },
   {
@@ -1100,7 +1100,7 @@
     "tag": "P050_1",
     "raw": "When it fell dark again, Mr.",
     "en": "When night fell, Mr.",
-    "ko": "",
+    "ko": "밤이 되자,",
     "is_header": false
   },
   {
@@ -1108,7 +1108,7 @@
     "tag": "P050_2",
     "raw": "Lorry asked him as before:",
     "en": "Lorry asked again:",
-    "ko": "",
+    "ko": "로리 씨가 다시 물었다:",
     "is_header": false
   },
   {
@@ -1116,7 +1116,7 @@
     "tag": "P051",
     "raw": "“Dear Doctor, will you go out?”",
     "en": "\"Dear Doctor, will you go out?\"",
-    "ko": "",
+    "ko": "\"친애하는 박사님, 외출하시겠습니까?\"",
     "is_header": false
   },
   {
@@ -1124,7 +1124,7 @@
     "tag": "P052",
     "raw": "As before, he repeated, “Out?”",
     "en": "As before, he repeated, \"Out?\"",
-    "ko": "",
+    "ko": "이전처럼 그가 반복했다. \"외출을?\"",
     "is_header": false
   },
   {
@@ -1132,7 +1132,7 @@
     "tag": "P053_1",
     "raw": "“Yes; for a walk with me.",
     "en": "\"Yes, for a walk with me.",
-    "ko": "",
+    "ko": "\"네, 저와 함께 산책을 가시지요.",
     "is_header": false
   },
   {
@@ -1140,7 +1140,7 @@
     "tag": "P053_2",
     "raw": "Why not?”",
     "en": "Why not?\"",
-    "ko": "",
+    "ko": "안 될 이유가 없지 않습니까?\"",
     "is_header": false
   },
   {
@@ -1148,7 +1148,7 @@
     "tag": "P054_1",
     "raw": "This time, Mr.",
     "en": "This time, when the Doctor didn't answer, Mr.",
-    "ko": "",
+    "ko": "이번에는 박사가 대답하지 않자, 로리",
     "is_header": false
   },
   {
@@ -1156,7 +1156,7 @@
     "tag": "P054_2",
     "raw": "Lorry feigned to go out when he could extract no answer from him, and, after remaining absent for an hour, returned.",
     "en": "Mr. Lorry pretended to go out when he couldn't get an answer from him. After staying away for an hour, he returned.",
-    "ko": "",
+    "ko": "씨는 대답을 듣지 못하자 외출하는 척했다. 한 시간 동안 자리를 비웠다가 그는 돌아왔다.",
     "is_header": false
   },
   {
@@ -1164,7 +1164,7 @@
     "tag": "P054_3",
     "raw": "In the meanwhile, the Doctor had removed to the seat in the window, and had sat there looking down at the plane-tree; but, on Mr.",
     "en": "While he was gone, the Doctor had sat by the window looking at the plane tree, but when Mr.",
-    "ko": "",
+    "ko": "그가 없는 동안, 박사는 플라타너스 나무를 바라보며 창가에 앉아 있었지만, 로리",
     "is_header": false
   },
   {
@@ -1172,7 +1172,7 @@
     "tag": "P054_4",
     "raw": "Lorry’s return, he slipped away to his bench.",
     "en": "Lorry returned, he went back to his bench.",
-    "ko": "",
+    "ko": "씨가 돌아오자 그는 다시 자신의 작업대로 돌아갔다.",
     "is_header": false
   },
   {
@@ -1180,7 +1180,7 @@
     "tag": "P055_1",
     "raw": "The time went very slowly on, and Mr.",
     "en": "Time passed slowly, and Mr.",
-    "ko": "",
+    "ko": "시간은 더디게 흘렀고, 로리",
     "is_header": false
   },
   {
@@ -1188,7 +1188,7 @@
     "tag": "P055_2",
     "raw": "Lorry’s hope darkened, and his heart grew heavier again, and grew yet heavier and heavier every day.",
     "en": "Lorry's hopes began to fade as his heart grew heavier each day.",
-    "ko": "",
+    "ko": "씨의 희망은 매일 마음이 더 무거워짐에 따라 희미해지기 시작했다.",
     "is_header": false
   },
   {
@@ -1196,7 +1196,7 @@
     "tag": "P055_3",
     "raw": "The third day came and went, the fourth, the fifth.",
     "en": "The third day passed, then the fourth, the fifth.",
-    "ko": "",
+    "ko": "사흘째가 지나고, 나흘째, 닷새째가 지났다.",
     "is_header": false
   },
   {
@@ -1204,7 +1204,7 @@
     "tag": "P055_4",
     "raw": "Five days, six days, seven days, eight days, nine days.",
     "en": "Five days, six days, seven days, eight days, nine days.",
-    "ko": "",
+    "ko": "닷새, 엿새, 이레, 여드레, 아흐레.",
     "is_header": false
   },
   {
@@ -1212,7 +1212,7 @@
     "tag": "P056_1",
     "raw": "With a hope ever darkening, and with a heart always growing heavier and heavier, Mr.",
     "en": "With fading hope and a heavy heart, Mr.",
-    "ko": "",
+    "ko": "희미해지는 희망과 무거운 마음으로 로리",
     "is_header": false
   },
   {
@@ -1220,7 +1220,7 @@
     "tag": "P056_2",
     "raw": "Lorry passed through this anxious time.",
     "en": "Lorry watched him.",
-    "ko": "",
+    "ko": "씨는 그를 지켜보았다.",
     "is_header": false
   },
   {
@@ -1228,7 +1228,7 @@
     "tag": "P056_3",
     "raw": "The secret was well kept, and Lucie was unconscious and happy; but he could not fail to observe that the shoemaker, whose hand had been a little out at first, was growing dreadfully skilful, and that he had never been so intent on his work, and that his hands had never been so nimble and expert, as in the dusk of the ninth evening.",
     "en": "The secret was kept from Lucie, who was happy. But Mr. Lorry saw that the Doctor, who had been a bit clumsy at first, was becoming very skilled at shoemaking again, working quickly and expertly by the evening of the ninth day.",
-    "ko": "",
+    "ko": "그 비밀은 루시에게는 숨겨졌고, 그녀는 행복했다. 하지만 로리 씨는 처음에 다소 서툴렀던 박사가 아흐레째 저녁 무렵에는 다시 구두 만드는 일에 매우 능숙해져 빠르고 능란하게 일하는 것을 보았다.",
     "is_header": false
   }
 ]
