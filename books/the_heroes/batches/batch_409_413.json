@@ -1,0 +1,217 @@
+[
+  {
+    "id": 409,
+    "tag": "P0409",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "The heroes' hearts sank within them, and they lay upon their oars in fear; but Orpheus called to Tiphys the helmsman, 'Between them we must pass; so look ahead for an opening, and be brave, for Hera is with us.' But Tiphys the cunning helmsman stood silent, clenching his teeth, till he saw a heron come flying mast-high toward the rocks, and hover awhile before them, as if looking for a passage through.  Then he cried, 'Hera has sent us a pilot; let us follow the cunning bird.'",
+    "is_header": false,
+    "word_count": 88,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The heroes' hearts sank, and they rested on their oars in fear.",
+        "kr": "영웅들은 가슴이 철렁 내려앉아 두려움에 노에 기대어 가만히 있었습니다."
+      },
+      {
+        "id": 2,
+        "en": "But Orpheus called to Tiphys the helmsman.",
+        "kr": "하지만 오르페우스가 조타수 티피스에게 외쳤습니다."
+      },
+      {
+        "id": 3,
+        "en": "We must pass between them, so look ahead for an opening.",
+        "kr": "우리는 저 사이를 지나가야 하니 뚫고 나갈 길을 찾아보십시오."
+      },
+      {
+        "id": 4,
+        "en": "Be brave, for Hera is with us.",
+        "kr": "헤라 여신께서 우리와 함께하시니 용기를 내십시오."
+      },
+      {
+        "id": 5,
+        "en": "The clever helmsman stood silent, clenching his teeth.",
+        "kr": "영리한 조타수 티피스는 이를 악문 채 침묵을 지키며 서 있었습니다."
+      },
+      {
+        "id": 6,
+        "en": "Soon he saw a heron flying toward the rocks at mast-height.",
+        "kr": "이내 그는 왜가리 한 마리가 바위를 향해 돛대 높이로 날아오는 것을 보았습니다."
+      },
+      {
+        "id": 7,
+        "en": "It hovered before them as if looking for a passage through.",
+        "kr": "새는 마치 빠져나갈 길을 찾는 것처럼 그들 앞에서 잠시 맴돌았습니다."
+      },
+      {
+        "id": 8,
+        "en": "Then he cried, Hera has sent us a pilot!",
+        "kr": "그러자 그가 소리쳤습니다. 헤라 여신께서 우리에게 길잡이를 보내주셨소!"
+      },
+      {
+        "id": 9,
+        "en": "Let us follow the cunning bird.",
+        "kr": "저 영리한 새를 따라갑시다."
+      }
+    ]
+  },
+  {
+    "id": 410,
+    "tag": "P0410",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "Then the heron flapped to and fro a moment, till he saw a hidden gap, and into it he rushed like an arrow, while the heroes watched what would befall.",
+    "is_header": false,
+    "word_count": 30,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The heron flapped back and forth for a moment.",
+        "kr": "왜가리는 잠시 이리저리 날갯짓을 했습니다."
+      },
+      {
+        "id": 2,
+        "en": "It soon saw a hidden gap and rushed into it like an arrow.",
+        "kr": "이내 숨겨진 틈을 발견한 새는 화살처럼 그곳으로 돌진했습니다."
+      },
+      {
+        "id": 3,
+        "en": "The heroes watched closely to see what would happen.",
+        "kr": "영웅들은 무슨 일이 벌어질지 유심히 지켜보았습니다."
+      }
+    ]
+  },
+  {
+    "id": 411,
+    "tag": "P0411",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "And the blue rocks clashed together as the bird fled swiftly through; but they struck but a feather from his tail, and then rebounded apart at the shock.",
+    "is_header": false,
+    "word_count": 28,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The blue rocks clashed together as the bird fled swiftly through.",
+        "kr": "새가 날쌔게 빠져나갈 때 푸른 바위들이 쿵 하고 맞부딪혔습니다."
+      },
+      {
+        "id": 2,
+        "en": "They only struck a single feather from its tail.",
+        "kr": "하지만 바위들은 꼬리 깃털 하나만을 스치고 지나갔을 뿐이었습니다."
+      },
+      {
+        "id": 3,
+        "en": "The rocks then rebounded apart from the powerful shock.",
+        "kr": "그러고 나서 바위들은 그 엄청난 충격에 다시 튕겨 나갔습니다."
+      }
+    ]
+  },
+  {
+    "id": 412,
+    "tag": "P0412",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "Then Tiphys cheered the heroes, and they shouted; and the oars bent like withes beneath their strokes as they rushed between those toppling ice-crags and the cold blue lips of death.  And ere the rocks could meet again they had passed them, and were safe out in the open sea.",
+    "is_header": false,
+    "word_count": 50,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Tiphys cheered the heroes on, and they shouted in return.",
+        "kr": "티피스가 영웅들을 격려하자 그들도 함성을 질렀습니다."
+      },
+      {
+        "id": 2,
+        "en": "The oars bent like willow branches beneath their powerful strokes.",
+        "kr": "그들의 힘찬 노젓기에 노가 버드나무 가지처럼 휘어졌습니다."
+      },
+      {
+        "id": 3,
+        "en": "They rushed between the toppling ice-crags and the cold blue lips of death.",
+        "kr": "그들은 무너져 내리는 얼음 절벽과 차갑고 푸른 죽음의 입술 사이로 돌진했습니다."
+      },
+      {
+        "id": 4,
+        "en": "Before the rocks could meet again, they had passed safely through.",
+        "kr": "바위가 다시 만나기 전에 그들은 무사히 그곳을 통과했습니다."
+      },
+      {
+        "id": 5,
+        "en": "Finally, they were completely safe out in the open sea.",
+        "kr": "마침내 그들은 탁 트인 바다로 나와 완전히 안전해졌습니다."
+      }
+    ]
+  },
+  {
+    "id": 413,
+    "tag": "P0413",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "And after that they sailed on wearily along the Asian coast, by the Black Cape and Thyneis, where the hot stream of Thymbris falls into the sea, and Sangarius, whose waters float on the Euxine, till they came to Wolf the river, and to Wolf the kindly king.  And there died two brave heroes, Idmon and Tiphys the wise helmsman: one died of an evil sickness, and one a wild boar slew.  So the heroes heaped a mound above them, and set upon it an oar on high, and left them there to sleep together, on the far-off Lycian shore.  But Idas killed the boar, and avenged Tiphys; and Ancaios took the rudder and was helmsman, and steered them on toward the east.",
+    "is_header": false,
+    "word_count": 123,
+    "translation": [
+      {
+        "id": 1,
+        "en": "After that, they sailed wearily along the Asian coast.",
+        "kr": "그 후 그들은 아시아 해안을 따라 지친 몸을 이끌고 항해했습니다."
+      },
+      {
+        "id": 2,
+        "en": "They passed the Black Cape and Thyneis, where the hot stream of Thymbris falls into the sea.",
+        "kr": "그들은 팀브리스의 뜨거운 물줄기가 바다로 떨어지는 검은 곶과 티네이스를 지났습니다."
+      },
+      {
+        "id": 3,
+        "en": "They also passed the Sangarius River, whose waters float on the Euxine Sea.",
+        "kr": "또한 흑해 위를 떠다니는 상가리우스 강도 지나갔습니다."
+      },
+      {
+        "id": 4,
+        "en": "At last, they reached the Wolf River and met Wolf, the kindly king.",
+        "kr": "마침내 그들은 늑대 강에 도착하여 친절한 늑대 왕을 만났습니다."
+      },
+      {
+        "id": 5,
+        "en": "There, two brave heroes, Idmon and Tiphys the wise helmsman, tragically died.",
+        "kr": "그곳에서 두 명의 용감한 영웅인 이드몬과 지혜로운 조타수 티피스가 비극적인 죽음을 맞이했습니다."
+      },
+      {
+        "id": 6,
+        "en": "One died of a terrible sickness, and a wild boar slew the other.",
+        "kr": "한 명은 끔찍한 병으로 죽었고, 다른 한 명은 멧돼지에게 목숨을 잃었습니다."
+      },
+      {
+        "id": 7,
+        "en": "The heroes heaped a burial mound above them and set a tall oar upon it.",
+        "kr": "영웅들은 그들 위에 무덤을 쌓아 올리고 그 위에 높은 노를 세웠습니다."
+      },
+      {
+        "id": 8,
+        "en": "They left them there to sleep together on the distant Lycian shore.",
+        "kr": "그리고 머나먼 리키아 해안에서 두 사람이 함께 잠들도록 남겨두었습니다."
+      },
+      {
+        "id": 9,
+        "en": "But Idas killed the boar and avenged Tiphys.",
+        "kr": "하지만 이다스는 멧돼지를 죽여 티피스의 복수를 했습니다."
+      },
+      {
+        "id": 10,
+        "en": "Ancaeus then took the rudder, becoming the new helmsman.",
+        "kr": "안카이오스가 키를 잡아 새로운 조타수가 되었습니다."
+      },
+      {
+        "id": 11,
+        "en": "He steered the ship onward toward the east.",
+        "kr": "그는 동쪽을 향해 배를 몰았습니다."
+      }
+    ]
+  }
+]

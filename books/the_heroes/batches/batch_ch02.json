@@ -1,0 +1,2136 @@
+[
+  {
+    "id": 42,
+    "tag": "P0042",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "PART II HOW PERSEUS VOWED A RASH VOW",
+    "is_header": true,
+    "word_count": 8,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Part II: How Perseus Vowed a Rash Vow",
+        "kr": "[2부: 페르세우스가 경솔한 맹세를 하다]"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "tag": "P0043",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Fifteen years were past and gone, and the babe was now grown to be a tall lad and a sailor, and went many voyages after merchandise to the islands round.  His mother called him Perseus; but all the people in Seriphos said that he was not the son of mortal man, and called him the son of Zeus, the king of the Immortals.  For though he was but fifteen, he was taller by a head than any man in the island; and he was the most skilful of all in running and wrestling and boxing, and in throwing the quoit and the javelin, and in rowing with the oar, and in playing on the harp, and in all which befits a man.  And he was brave and truthful, gentle and courteous, for good old Dictys had trained him well; and well it was for Perseus that he had done so.  For now Danae and her son fell into great danger, and Perseus had need of all his wit to defend his mother and himself.",
+    "is_header": false,
+    "word_count": 174,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Fifteen years passed, and the baby grew into a tall sailor.",
+        "kr": "15년의 세월이 흘러 아기는 훌쩍 자라 늠름한 선원이 되었습니다."
+      },
+      {
+        "id": 2,
+        "en": "He traveled on trading voyages to nearby islands.",
+        "kr": "그는 무역선에 올라 인근 섬들을 오갔습니다."
+      },
+      {
+        "id": 3,
+        "en": "His mother named him Perseus.",
+        "kr": "어머니는 그를 페르세우스라 불렀습니다."
+      },
+      {
+        "id": 4,
+        "en": "But the people of Seriphos thought he was no mortal.",
+        "kr": "하지만 세리포스 사람들은 그가 평범한 인간이 아니라고 생각했습니다."
+      },
+      {
+        "id": 5,
+        "en": "They called him the son of Zeus, king of the gods.",
+        "kr": "사람들은 그를 신들의 왕인 제우스의 아들이라 불렀습니다."
+      },
+      {
+        "id": 6,
+        "en": "At just fifteen, he stood a head taller than any man on the island.",
+        "kr": "불과 열다섯 살이었지만 그는 섬의 어떤 성인 남성보다 머리 하나는 더 컸습니다."
+      },
+      {
+        "id": 7,
+        "en": "He excelled at running, wrestling, and boxing.",
+        "kr": "달리기와 레슬링, 권투에 누구보다 뛰어났습니다."
+      },
+      {
+        "id": 8,
+        "en": "He mastered the discus, the javelin, and the harp.",
+        "kr": "원반과 투창, 하프 연주에도 능했습니다."
+      },
+      {
+        "id": 9,
+        "en": "He was brave, truthful, gentle, and courteous.",
+        "kr": "그는 용감하고 진실했으며 다정하고 예의가 발랐습니다."
+      },
+      {
+        "id": 10,
+        "en": "The good Dictys had raised him well.",
+        "kr": "선량한 딕티스가 그를 훌륭하게 키워낸 덕분입니다."
+      },
+      {
+        "id": 11,
+        "en": "This training came in handy, for Danae and her son soon faced great danger.",
+        "kr": "이 가르침은 다나에와 아들에게 닥친 큰 위기에서 빛을 발했습니다."
+      },
+      {
+        "id": 12,
+        "en": "Perseus would need all his wits to protect them both.",
+        "kr": "페르세우스는 어머니와 자신을 지키기 위해 기지를 발휘해야만 했습니다."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "tag": "P0044",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "I said that Dictys’ brother was Polydectes, king of the island.  He was not a righteous man, like Dictys; but greedy, and cunning, and cruel. And when he saw fair Danae, he wanted to marry her.  But she would not; for she did not love him, and cared for no one but her boy, and her boy’s father, whom she never hoped to see again.  At last Polydectes became furious; and while Perseus was away at sea he took poor Danae away from Dictys, saying, ‘If you will not be my wife, you shall be my slave.’  So Danae was made a slave, and had to fetch water from the well, and grind in the mill, and perhaps was beaten, and wore a heavy chain, because she would not marry that cruel king.  But Perseus was far away over the seas in the isle of Samos, little thinking how his mother was languishing in grief.",
+    "is_header": false,
+    "word_count": 155,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Dictys had a brother named Polydectes, who ruled the island.",
+        "kr": "딕티스에게는 섬을 다스리는 폴리덱테스라는 형제가 있었습니다."
+      },
+      {
+        "id": 2,
+        "en": "Unlike Dictys, he was greedy, cunning, and cruel.",
+        "kr": "딕티스와 달리 그는 탐욕스럽고 교활하며 잔인한 폭군이었습니다."
+      },
+      {
+        "id": 3,
+        "en": "When he saw the beautiful Danae, he wanted to marry her.",
+        "kr": "그는 아름다운 다나에를 보자마자 아내로 삼고 싶어 했습니다."
+      },
+      {
+        "id": 4,
+        "en": "But she refused, for she loved only her son and his father.",
+        "kr": "하지만 다나에는 오직 아들과 그의 아버지 만을 사랑했기에 거절했습니다."
+      },
+      {
+        "id": 5,
+        "en": "Eventually, Polydectes grew furious.",
+        "kr": "마침내 폴리덱테스는 분노를 터뜨렸습니다."
+      },
+      {
+        "id": 6,
+        "en": "While Perseus was away at sea, he kidnapped Danae from Dictys.",
+        "kr": "페르세우스가 바다로 나간 사이, 그는 딕티스에게서 다나에를 빼앗았습니다."
+      },
+      {
+        "id": 7,
+        "en": "He declared that if she refused marriage, she would become his slave.",
+        "kr": "그는 결혼을 거부하면 노예로 만들겠다고 선고했습니다."
+      },
+      {
+        "id": 8,
+        "en": "Danae was forced to fetch water and grind grain at the mill.",
+        "kr": "다나에는 우물에서 물을 긷고 맷돌을 돌려야 했습니다."
+      },
+      {
+        "id": 9,
+        "en": "She was chained and likely beaten for rejecting the cruel king.",
+        "kr": "잔인한 왕을 거부한 대가로 쇠사슬에 묶인 채 매질을 당했을지도 모릅니다."
+      },
+      {
+        "id": 10,
+        "en": "Meanwhile, Perseus was far away in Samos, unaware of her suffering.",
+        "kr": "한편 페르세우스는 어머니의 고통을 모른 채 머나먼 사모스섬에 있었습니다."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "tag": "P0045",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Now one day at Samos, while the ship was lading, Perseus wandered into a pleasant wood to get out of the sun, and sat down on the turf and fell asleep.  And as he slept a strange dream came to him—the strangest dream which he had ever had in his life.",
+    "is_header": false,
+    "word_count": 51,
+    "translation": [
+      {
+        "id": 1,
+        "en": "One day in Samos, Perseus sought shade in a pleasant wood while his ship was loaded.",
+        "kr": "어느 날 사모스섬에서 배에 짐을 싣는 동안, 페르세우스는 쾌적한 숲으로 들어가 햇빛을 피했습니다."
+      },
+      {
+        "id": 2,
+        "en": "He sat down on the grass and fell asleep.",
+        "kr": "그는 잔디밭에 주저앉아 깜빡 잠이 들었습니다."
+      },
+      {
+        "id": 3,
+        "en": "As he slept, he experienced the strangest dream of his life.",
+        "kr": "그리고 잠결에 평생 겪어본 적 없는 기이한 꿈을 꾸었습니다."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "tag": "P0046",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "There came a lady to him through the wood, taller than he, or any mortal man; but beautiful exceedingly, with great gray eyes, clear and piercing, but strangely soft and mild.  On her head was a helmet, and in her hand a spear.  And over her shoulder, above her long blue robes, hung a goat-skin, which bore up a mighty shield of brass, polished like a mirror.  She stood and looked at him with her clear gray eyes; and Perseus saw that her eye-lids never moved, nor her eyeballs, but looked straight through and through him, and into his very heart, as if she could see all the secrets of his soul, and knew all that he had ever thought or longed for since the day that he was born.  And Perseus dropped his eyes, trembling and blushing, as the wonderful lady spoke.",
+    "is_header": false,
+    "word_count": 143,
+    "translation": [
+      {
+        "id": 1,
+        "en": "A woman walked through the woods toward him.",
+        "kr": "한 여인이 숲을 지나 그에게 다가왔습니다."
+      },
+      {
+        "id": 2,
+        "en": "She was taller than any mortal, and astonishingly beautiful.",
+        "kr": "그녀는 어떤 인간보다 키가 컸고 눈부시게 아름다웠습니다."
+      },
+      {
+        "id": 3,
+        "en": "Her large gray eyes were piercingly clear, yet strangely gentle.",
+        "kr": "커다란 잿빛 눈동자는 꿰뚫어 보듯 맑았지만 놀랍도록 부드러웠습니다."
+      },
+      {
+        "id": 4,
+        "en": "She wore a helmet on her head and held a spear in her hand.",
+        "kr": "머리에는 투구를 쓰고 손에는 창을 들고 있었습니다."
+      },
+      {
+        "id": 5,
+        "en": "A goatskin hung over her long blue robes, supporting a polished brass shield.",
+        "kr": "푸른 긴 옷 위로 염소 가죽을 걸쳤고, 거울처럼 빛나는 놋쇠 방패를 메고 있었습니다."
+      },
+      {
+        "id": 6,
+        "en": "She stood still, staring at him with her gray eyes.",
+        "kr": "그녀는 우두커니 서서 잿빛 눈으로 그를 응시했습니다."
+      },
+      {
+        "id": 7,
+        "en": "Perseus noticed that her eyes never blinked or darted away.",
+        "kr": "페르세우스는 그녀의 눈꺼풀이나 눈동자가 전혀 움직이지 않는 것을 눈치챘습니다."
+      },
+      {
+        "id": 8,
+        "en": "They looked straight through to his very heart.",
+        "kr": "그녀의 시선은 그의 마음속 깊은 곳까지 꿰뚫어 보았습니다."
+      },
+      {
+        "id": 9,
+        "en": "It felt as though she knew every secret and desire he had ever held.",
+        "kr": "마치 그가 태어난 순간부터 품어온 모든 비밀과 갈망을 아는 것 같았습니다."
+      },
+      {
+        "id": 10,
+        "en": "Trembling and blushing, Perseus lowered his gaze as the wondrous lady spoke.",
+        "kr": "신비로운 여인이 입을 열자 페르세우스는 얼굴을 붉히며 고개를 숙였습니다."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "tag": "P0047",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "‘Perseus, you must do an errand for me.’",
+    "is_header": false,
+    "word_count": 8,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus, you must run an errand for me.",
+        "kr": "페르세우스, 나를 위해 심부름을 하나 해주어야겠습니다."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "tag": "P0048",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "‘Who are you, lady?  And how do you know my name?’",
+    "is_header": false,
+    "word_count": 11,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Who are you, lady? And how do you know my name?",
+        "kr": "누구십니까? 그리고 제 이름은 어떻게 아셨습니까?"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "tag": "P0049",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "‘I am Pallas Athené; and I know the thoughts of all men’s hearts, and discern their manhood or their baseness.  And from the souls of clay I turn away, and they are blest, but not by me.  They fatten at ease, like sheep in the pasture, and eat what they did not sow, like oxen in the stall.  They grow and spread, like the gourd along the ground; but, like the gourd, they give no shade to the traveller, and when they are ripe death gathers them, and they go down unloved into hell, and their name vanishes out of the land.",
+    "is_header": false,
+    "word_count": 102,
+    "translation": [
+      {
+        "id": 1,
+        "en": "I am Athena. I know the hearts of all men, seeing their courage or cowardice.",
+        "kr": "나는 아테나입니다. 나는 모든 인간의 마음을 읽어 그들의 용기와 비겁함을 꿰뚫어 봅니다."
+      },
+      {
+        "id": 2,
+        "en": "I turn away from cowardly souls. They may be blessed, but not by me.",
+        "kr": "나는 진흙 같은 비겁한 영혼들을 외면합니다. 그들도 축복을 받겠지만, 내 축복은 아닙니다."
+      },
+      {
+        "id": 3,
+        "en": "They fatten lazily like sheep in a pasture, eating what they never sowed.",
+        "kr": "그들은 목초지의 양 떼처럼 편안히 살을 찌우고, 뿌리지 않은 것을 거두어 먹습니다."
+      },
+      {
+        "id": 4,
+        "en": "They spread across the earth like weeds, offering no shade to travelers.",
+        "kr": "땅바닥을 기어가는 덩굴처럼 퍼지지만, 나그네에게 어떤 그늘도 내어주지 않습니다."
+      },
+      {
+        "id": 5,
+        "en": "When their time comes, death harvests them.",
+        "kr": "때가 되면 죽음이 그들을 거두어 갑니다."
+      },
+      {
+        "id": 6,
+        "en": "They descend to the underworld unloved, and their names vanish from the world.",
+        "kr": "그들은 누구의 사랑도 받지 못한 채 지하 세계로 내려가고, 그 이름도 세상에서 사라집니다."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "tag": "P0050",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "‘But to the souls of fire I give more fire, and to those who are manful I give a might more than man’s.  These are the heroes, the sons of the Immortals, who are blest, but not like the souls of clay.  For I drive them forth by strange paths, Perseus, that they may fight the Titans and the monsters, the enemies of Gods and men.  Through doubt and need, danger and battle, I drive them; and some of them are slain in the flower of youth, no man knows when or where; and some of them win noble names, and a fair and green old age; but what will be their latter end I know not, and none, save Zeus, the father of Gods and men.  Tell me now, Perseus, which of these two sorts of men seem to you more blest?’",
+    "is_header": false,
+    "word_count": 143,
+    "translation": [
+      {
+        "id": 1,
+        "en": "But to fiery souls, I give even more fire.",
+        "kr": "하지만 불꽃 같은 영혼들에게는 더 큰 불꽃을 안겨줍니다."
+      },
+      {
+        "id": 2,
+        "en": "To the courageous, I grant strength beyond mortal limits.",
+        "kr": "용기 있는 자들에게는 인간의 한계를 뛰어넘는 힘을 줍니다."
+      },
+      {
+        "id": 3,
+        "en": "These are the heroes, the children of the gods.",
+        "kr": "이들이 바로 신들의 자녀인 영웅들입니다."
+      },
+      {
+        "id": 4,
+        "en": "I drive them down strange paths to fight monsters and enemies of the gods.",
+        "kr": "나는 그들을 낯선 길로 내몰아 괴물들과 신의 적들에 맞서 싸우게 합니다."
+      },
+      {
+        "id": 5,
+        "en": "I push them through hardship, doubt, and battle.",
+        "kr": "나는 고난과 의심, 전투 속으로 그들을 밀어 넣습니다."
+      },
+      {
+        "id": 6,
+        "en": "Some fall in their prime, in unknown times and places.",
+        "kr": "어떤 이들은 젊은 날에 이름 모를 곳에서 목숨을 잃습니다."
+      },
+      {
+        "id": 7,
+        "en": "Others win glorious names and live to a ripe old age.",
+        "kr": "또 어떤 이들은 영광스러운 이름을 얻고 평온한 노년을 맞이합니다."
+      },
+      {
+        "id": 8,
+        "en": "Only Zeus knows what their ultimate fate will be.",
+        "kr": "오직 제우스만이 그들의 마지막 운명을 알고 있습니다."
+      },
+      {
+        "id": 9,
+        "en": "Tell me, Perseus, which of these two paths seems better to you?",
+        "kr": "말해보십시오, 페르세우스. 이 두 가지 삶 중 어느 쪽이 더 축복받은 것 같습니까?"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "tag": "P0051",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Then Perseus answered boldly: ‘Better to die in the flower of youth, on the chance of winning a noble name, than to live at ease like the sheep, and die unloved and unrenowned.’",
+    "is_header": false,
+    "word_count": 33,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus answered boldly.",
+        "kr": "페르세우스가 당당하게 대답했습니다."
+      },
+      {
+        "id": 2,
+        "en": "It is better to die young for a chance at glory than to live like a lazy sheep and die forgotten.",
+        "kr": "게으른 양처럼 살다 잊힌 채 죽는 것보다, 영광을 쫓다 젊은 날에 죽는 것이 낫습니다."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "tag": "P0052",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Then that strange lady laughed, and held up her brazen shield, and cried: ‘See here, Perseus; dare you face such a monster as this, and slay it, that I may place its head upon this shield?’",
+    "is_header": false,
+    "word_count": 36,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The strange lady laughed and raised her brass shield.",
+        "kr": "신비로운 여인은 웃음을 터뜨리며 놋쇠 방패를 치켜들었습니다."
+      },
+      {
+        "id": 2,
+        "en": "Look here, Perseus! Would you dare slay such a monster so I can mount its head on my shield?",
+        "kr": "여길 보십시오, 페르세우스! 내 방패에 머리를 달 수 있도록 이 끔찍한 괴물을 벨 용기가 있습니까?"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "tag": "P0053",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "And in the mirror of the shield there appeared a face, and as Perseus looked on it his blood ran cold.  It was the face of a beautiful woman; but her cheeks were pale as death, and her brows were knit with everlasting pain, and her lips were thin and bitter like a snake’s; and instead of hair, vipers wreathed about her temples, and shot out their forked tongues; while round her head were folded wings like an eagle’s, and upon her bosom claws of brass.",
+    "is_header": false,
+    "word_count": 86,
+    "translation": [
+      {
+        "id": 1,
+        "en": "A face appeared in the mirror of the shield, chilling Perseus to the bone.",
+        "kr": "방패 거울에 얼굴 하나가 나타나자 페르세우스의 온몸이 얼어붙었습니다."
+      },
+      {
+        "id": 2,
+        "en": "It was the face of a beautiful woman, but her cheeks were pale as death.",
+        "kr": "아름다운 여인의 얼굴이었지만 두 뺨은 죽음처럼 창백했습니다."
+      },
+      {
+        "id": 3,
+        "en": "Her brow was contorted in endless agony.",
+        "kr": "이마는 끝없는 고통으로 일그러져 있었습니다."
+      },
+      {
+        "id": 4,
+        "en": "Her thin lips sneered like a venomous snake.",
+        "kr": "얇은 입술은 독사처럼 비릿한 미소를 짓고 있었습니다."
+      },
+      {
+        "id": 5,
+        "en": "Instead of hair, writhing vipers hissed from her scalp with forked tongues.",
+        "kr": "머리카락 대신 꿈틀거리는 독사들이 갈라진 혀를 날름거렸습니다."
+      },
+      {
+        "id": 6,
+        "en": "Eagle wings folded around her head, and brass claws rested on her chest.",
+        "kr": "머리 주변에는 독수리 날개가 접혀 있었고, 가슴에는 놋쇠 발톱이 달려 있었습니다."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "tag": "P0054",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "And Perseus looked awhile, and then said: ‘If there is anything so fierce and foul on earth, it were a noble deed to kill it.  Where can I find the monster?’",
+    "is_header": false,
+    "word_count": 31,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus stared for a moment, then spoke.",
+        "kr": "페르세우스는 한참을 바라보다가 입을 열었습니다."
+      },
+      {
+        "id": 2,
+        "en": "If such a foul beast exists, killing it would be a noble deed. Where can I find it?",
+        "kr": "세상에 저토록 끔찍한 괴물이 있다면, 그것을 죽이는 것은 숭고한 일일 것입니다. 어디서 찾을 수 있습니까?"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "tag": "P0055",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Then the strange lady smiled again, and said: ‘Not yet; you are too young, and too unskilled; for this is Medusa the Gorgon, the mother of a monstrous brood.  Return to your home, and do the work which waits there for you.  You must play the man in that before I can think you worthy to go in search of the Gorgon.’",
+    "is_header": false,
+    "word_count": 62,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The strange lady smiled again and answered him gently.",
+        "kr": "신비로운 여인은 다시 미소를 지으며 부드럽게 대답했습니다."
+      },
+      {
+        "id": 2,
+        "en": "Not yet. You are too young and unskilled to face Medusa the Gorgon.",
+        "kr": "아직은 아닙니다. 고르곤 메두사를 상대하기에 당신은 너무 어리고 서투릅니다."
+      },
+      {
+        "id": 3,
+        "en": "Go home and finish the work waiting for you there.",
+        "kr": "고향으로 돌아가 당신을 기다리는 일부터 끝마치십시오."
+      },
+      {
+        "id": 4,
+        "en": "You must prove your manhood first before you can hunt the Gorgon.",
+        "kr": "고르곤을 사냥할 자격을 증명하려면 먼저 진짜 남자가 되어야 합니다."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "tag": "P0056",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Then Perseus would have spoken, but the strange lady vanished, and he awoke; and behold, it was a dream.  But day and night Perseus saw before him the face of that dreadful woman, with the vipers writhing round her head.",
+    "is_header": false,
+    "word_count": 40,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus tried to reply, but the strange lady vanished.",
+        "kr": "페르세우스가 대답하려 했지만 신비로운 여인은 사라져버렸습니다."
+      },
+      {
+        "id": 2,
+        "en": "He woke up and realized it was only a dream.",
+        "kr": "잠에서 깨어난 그는 그것이 꿈이라는 것을 깨달았습니다."
+      },
+      {
+        "id": 3,
+        "en": "Yet the dreadful face with the writhing vipers haunted his every waking moment.",
+        "kr": "하지만 독사들이 꿈틀거리는 끔찍한 여인의 얼굴은 밤낮으로 그를 괴롭혔습니다."
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "tag": "P0057",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "So he returned home; and when he came to Seriphos, the first thing which he heard was that his mother was a slave in the house of Polydectes.",
+    "is_header": false,
+    "word_count": 28,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He sailed back to Seriphos, only to hear that his mother had become Polydectes' slave.",
+        "kr": "그는 세리포스로 돌아왔지만, 어머니가 폴리덱테스의 노예가 되었다는 소식을 들어야만 했습니다."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "tag": "P0058",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Grinding his teeth with rage, he went out, and away to the king’s palace, and through the men’s rooms, and the women’s rooms, and so through all the house (for no one dared stop him, so terrible and fair was he), till he found his mother sitting on the floor, turning the stone hand-mill, and weeping as she turned it.  And he lifted her up, and kissed her, and bade her follow him forth.  But before they could pass out of the room Polydectes came in, raging.  And when Perseus saw him, he flew upon him as the mastiff flies on the boar.  ‘Villain and tyrant!’ he cried; ‘is this your respect for the Gods, and thy mercy to strangers and widows? You shall die!’  And because he had no sword he caught up the stone hand-mill, and lifted it to dash out Polydectes’ brains.",
+    "is_header": false,
+    "word_count": 145,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Grinding his teeth in rage, he marched straight to the king's palace.",
+        "kr": "그는 분노로 이를 갈며 곧장 왕의 궁전으로 향했습니다."
+      },
+      {
+        "id": 2,
+        "en": "He stormed through the halls, so terrifying in his fury that no one dared stop him.",
+        "kr": "분노한 그의 모습이 너무도 두려워 아무도 앞을 막아서지 못했습니다."
+      },
+      {
+        "id": 3,
+        "en": "He found his mother weeping on the floor as she turned a heavy stone mill.",
+        "kr": "마침내 무거운 맷돌을 돌리며 바닥에서 눈물짓는 어머니를 발견했습니다."
+      },
+      {
+        "id": 4,
+        "en": "Perseus lifted her up, kissed her, and told her to leave with him.",
+        "kr": "페르세우스는 어머니를 일으켜 세우고 입을 맞춘 뒤 함께 떠나자고 말했습니다."
+      },
+      {
+        "id": 5,
+        "en": "Before they could escape, an enraged Polydectes blocked their path.",
+        "kr": "하지만 방을 나서기 전, 격노한 폴리덱테스가 앞을 가로막았습니다."
+      },
+      {
+        "id": 6,
+        "en": "Perseus lunged at the king like a guard dog attacking a boar.",
+        "kr": "페르세우스는 멧돼지에게 달려드는 사냥개처럼 왕에게 달려들었습니다."
+      },
+      {
+        "id": 7,
+        "en": "Villain and tyrant! he shouted.",
+        "kr": "악당이자 폭군이여! 그가 소리쳤습니다."
+      },
+      {
+        "id": 8,
+        "en": "Is this how you honor the gods and treat widows? You will die for this!",
+        "kr": "이것이 신들을 공경하고 과부들을 대하는 당신의 방식인가? 여기서 죽어라!"
+      },
+      {
+        "id": 9,
+        "en": "Without a sword, Perseus hoisted the heavy stone mill to crush the king's skull.",
+        "kr": "검이 없었던 페르세우스는 무거운 맷돌을 들어 왕의 머리를 내리치려 했습니다."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "tag": "P0059",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "But his mother clung to him, shrieking, ‘Oh, my son, we are strangers and helpless in the land; and if you kill the king, all the people will fall on us, and we shall both die.’",
+    "is_header": false,
+    "word_count": 36,
+    "translation": [
+      {
+        "id": 1,
+        "en": "But his mother clung to him, screaming in terror.",
+        "kr": "하지만 어머니가 비명을 지르며 그에게 매달렸습니다."
+      },
+      {
+        "id": 2,
+        "en": "Oh, my son! We are helpless strangers here!",
+        "kr": "오, 아들아! 우리는 이 땅에서 힘없는 이방인일 뿐이다!"
+      },
+      {
+        "id": 3,
+        "en": "If you kill the king, the people will slaughter us both!",
+        "kr": "네가 왕을 죽이면 모든 백성이 달려들어 우리 둘 다 죽고 말 것이다!"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "tag": "P0060",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Good Dictys, too, who had come in, entreated him.  ‘Remember that he is my brother.  Remember how I have brought you up, and trained you as my own son, and spare him for my sake.’",
+    "is_header": false,
+    "word_count": 35,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The good Dictys rushed in and begged for his brother's life.",
+        "kr": "선량한 딕티스도 뛰어 들어와 형제의 목숨을 구걸했습니다."
+      },
+      {
+        "id": 2,
+        "en": "Remember that he is my brother!",
+        "kr": "그가 내 형제라는 사실을 기억해 다오!"
+      },
+      {
+        "id": 3,
+        "en": "Remember how I raised you as my own son, and spare him for my sake!",
+        "kr": "널 친아들처럼 키워준 나를 생각해서라도 부디 목숨만은 살려다오!"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "tag": "P0061",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Then Perseus lowered his hand; and Polydectes, who had been trembling all this while like a coward, because he knew that he was in the wrong, let Perseus and his mother pass.",
+    "is_header": false,
+    "word_count": 32,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus lowered the heavy stone.",
+        "kr": "페르세우스는 들고 있던 무거운 돌을 내려놓았습니다."
+      },
+      {
+        "id": 2,
+        "en": "Polydectes, trembling like a coward because he knew he was guilty, let them leave.",
+        "kr": "자신의 잘못을 알고 비겁자처럼 떨고 있던 폴리덱테스는 두 사람을 보내주었습니다."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "tag": "P0062",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Perseus took his mother to the temple of Athené, and there the priestess made her one of the temple-sweepers; for there they knew she would be safe, and not even Polydectes would dare to drag her away from the altar. And there Perseus, and the good Dictys, and his wife, came to visit her every day; while Polydectes, not being able to get what he wanted by force, cast about in his wicked heart how he might get it by cunning.",
+    "is_header": false,
+    "word_count": 81,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus took his mother to the temple of Athena.",
+        "kr": "페르세우스는 어머니를 아테나 신전으로 모셨습니다."
+      },
+      {
+        "id": 2,
+        "en": "The priestess made her a temple sweeper to grant her sanctuary.",
+        "kr": "여사제는 다나에를 신전 청소부로 받아주어 안식처를 내어주었습니다."
+      },
+      {
+        "id": 3,
+        "en": "Even Polydectes would not dare drag someone from the holy altar.",
+        "kr": "아무리 폴리덱테스라도 신성한 제단에서 사람을 끌어낼 엄두는 내지 못했습니다."
+      },
+      {
+        "id": 4,
+        "en": "Perseus, Dictys, and his wife visited her every single day.",
+        "kr": "페르세우스와 딕티스 부부는 매일같이 그녀를 찾아갔습니다."
+      },
+      {
+        "id": 5,
+        "en": "Meanwhile, the wicked king plotted new and cunning ways to get what he wanted.",
+        "kr": "한편, 사악한 왕은 자신이 원하는 것을 얻기 위해 새롭고 교활한 음모를 꾸미기 시작했습니다."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "tag": "P0063",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Now he was sure that he could never get back Danae as long as Perseus was in the island; so he made a plot to rid himself of him.  And first he pretended to have forgiven Perseus, and to have forgotten Danae; so that, for a while, all went as smoothly as ever.",
+    "is_header": false,
+    "word_count": 53,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He knew he could never win Danae while Perseus remained on the island.",
+        "kr": "그는 페르세우스가 섬에 있는 한 결코 다나에를 차지할 수 없다는 것을 알았습니다."
+      },
+      {
+        "id": 2,
+        "en": "So, he hatched a plot to get rid of the young man.",
+        "kr": "그래서 그는 그 젊은이를 제거할 음모를 꾸몄습니다."
+      },
+      {
+        "id": 3,
+        "en": "First, he pretended to forgive Perseus and forget about Danae.",
+        "kr": "먼저 그는 페르세우스를 용서하고 다나에를 잊은 척했습니다."
+      },
+      {
+        "id": 4,
+        "en": "For a while, everything seemed peaceful.",
+        "kr": "한동안은 모든 것이 평화로워 보였습니다."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "tag": "P0064",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Next he proclaimed a great feast, and invited to it all the chiefs, and landowners, and the young men of the island, and among them Perseus, that they might all do him homage as their king, and eat of his banquet in his hall.",
+    "is_header": false,
+    "word_count": 44,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Next, he announced a grand feast.",
+        "kr": "다음으로 그는 성대한 연회를 열겠다고 발표했습니다."
+      },
+      {
+        "id": 2,
+        "en": "He invited all the chiefs, landowners, and young men of the island.",
+        "kr": "그는 섬의 모든 족장과 지주, 그리고 젊은이들을 초대했습니다."
+      },
+      {
+        "id": 3,
+        "en": "He made sure to include Perseus.",
+        "kr": "그는 페르세우스도 빠뜨리지 않고 초대했습니다."
+      },
+      {
+        "id": 4,
+        "en": "The king wanted everyone to pay him respect and enjoy his banquet.",
+        "kr": "왕은 모든 사람이 자신에게 경의를 표하고 연회를 즐기기를 원했습니다."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "tag": "P0065",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "On the appointed day they all came; and as the custom was then, each guest brought his present with him to the king: one a horse, another a shawl, or a ring, or a sword; and those who had nothing better brought a basket of grapes, or of game; but Perseus brought nothing, for he had nothing to bring, being but a poor sailor-lad.",
+    "is_header": false,
+    "word_count": 64,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Everyone arrived on the appointed day.",
+        "kr": "약속된 날에 모두가 도착했습니다."
+      },
+      {
+        "id": 2,
+        "en": "Following custom, each guest brought a gift for the king.",
+        "kr": "관습에 따라 각 손님은 왕을 위한 선물을 가져왔습니다."
+      },
+      {
+        "id": 3,
+        "en": "Some brought a horse, a shawl, a ring, or a sword.",
+        "kr": "어떤 이는 말이나 숄, 반지나 칼을 가져왔습니다."
+      },
+      {
+        "id": 4,
+        "en": "Others brought baskets of grapes or wild game.",
+        "kr": "다른 이들은 포도 바구니나 사냥한 고기를 가져왔습니다."
+      },
+      {
+        "id": 5,
+        "en": "But Perseus arrived empty-handed.",
+        "kr": "하지만 페르세우스는 빈손으로 도착했습니다."
+      },
+      {
+        "id": 6,
+        "en": "He was just a poor sailor boy with nothing to give.",
+        "kr": "그는 가난한 선원 소년이라 줄 것이 아무것도 없었습니다."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "tag": "P0066",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "He was ashamed, however, to go into the king’s presence without his gift; and he was too proud to ask Dictys to lend him one.  So he stood at the door sorrowfully, watching the rich men go in; and his face grew very red as they pointed at him, and smiled, and whispered, ‘What has that foundling to give?’",
+    "is_header": false,
+    "word_count": 59,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He felt ashamed to face the king without a gift.",
+        "kr": "그는 선물 없이 왕을 마주하는 것이 부끄러웠습니다."
+      },
+      {
+        "id": 2,
+        "en": "Yet, he was too proud to borrow one from Dictys.",
+        "kr": "하지만 그의 자존심이 허락하지 않아 딕티스에게 빌릴 수도 없었습니다."
+      },
+      {
+        "id": 3,
+        "en": "He stood sadly at the door, watching the rich men enter.",
+        "kr": "그는 부자들이 들어가는 것을 지켜보며 문가에 슬프게 서 있었습니다."
+      },
+      {
+        "id": 4,
+        "en": "His face burned red as they pointed and whispered.",
+        "kr": "사람들이 손가락질하며 속닥거리자 그의 얼굴은 붉게 달아올랐습니다."
+      },
+      {
+        "id": 5,
+        "en": "What does that foundling have to give?",
+        "kr": "저 업둥이가 줄 게 뭐가 있겠어?"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "tag": "P0067",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Now this was what Polydectes wanted; and as soon as he heard that Perseus stood without, he bade them bring him in, and asked him scornfully before them all, ‘Am I not your king, Perseus, and have I not invited you to my feast?  Where is your present, then?’",
+    "is_header": false,
+    "word_count": 49,
+    "translation": [
+      {
+        "id": 1,
+        "en": "This was exactly what Polydectes wanted.",
+        "kr": "이것이 바로 폴리덱테스가 원하던 바였습니다."
+      },
+      {
+        "id": 2,
+        "en": "Hearing that Perseus was waiting outside, he ordered him brought in.",
+        "kr": "페르세우스가 밖에 서 있다는 소식을 듣고 그는 당장 데려오라고 명령했습니다."
+      },
+      {
+        "id": 3,
+        "en": "He mocked the boy in front of everyone.",
+        "kr": "그는 모든 사람 앞에서 소년을 조롱했습니다."
+      },
+      {
+        "id": 4,
+        "en": "Am I not your king, Perseus?",
+        "kr": "내가 너의 왕이 아니더냐, 페르세우스?"
+      },
+      {
+        "id": 5,
+        "en": "Did I not invite you to my feast?",
+        "kr": "내가 너를 연회에 초대하지 않았느냐?"
+      },
+      {
+        "id": 6,
+        "en": "Where is your present, then?",
+        "kr": "그렇다면 네 선물은 어디에 있느냐?"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "tag": "P0068",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Perseus blushed and stammered, while all the proud men round laughed, and some of them began jeering him openly.  ‘This fellow was thrown ashore here like a piece of weed or drift-wood, and yet he is too proud to bring a gift to the king.’",
+    "is_header": false,
+    "word_count": 45,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus blushed and stammered.",
+        "kr": "페르세우스는 얼굴을 붉히며 더듬거렸습니다."
+      },
+      {
+        "id": 2,
+        "en": "The proud men laughed, and some openly jeered at him.",
+        "kr": "오만한 사람들은 웃음을 터뜨렸고, 일부는 대놓고 그를 비웃었습니다."
+      },
+      {
+        "id": 3,
+        "en": "This guy washed ashore like seaweed or driftwood.",
+        "kr": "이 녀석은 해초나 유목처럼 이 해변으로 밀려왔지."
+      },
+      {
+        "id": 4,
+        "en": "Yet he is too proud to bring a gift to the king.",
+        "kr": "그런데도 건방지게 왕에게 선물을 가져오지 않는군."
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "tag": "P0069",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "‘And though he does not know who his father is, he is vain enough to let the old women call him the son of Zeus.’",
+    "is_header": false,
+    "word_count": 25,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He does not even know who his father is.",
+        "kr": "자기 아버지가 누군지도 모르는 주제에 말이야."
+      },
+      {
+        "id": 2,
+        "en": "But he is vain enough to let old women call him the son of Zeus.",
+        "kr": "그런데도 늙은 여자들이 자기를 제우스의 아들이라 부르도록 내버려두는 허영심을 가졌지."
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "tag": "P0070",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "And so forth, till poor Perseus grew mad with shame, and hardly knowing what he said, cried out,—‘A present! who are you who talk of presents? See if I do not bring a nobler one than all of yours together!’",
+    "is_header": false,
+    "word_count": 40,
+    "translation": [
+      {
+        "id": 1,
+        "en": "They continued their insults until Perseus went mad with shame.",
+        "kr": "페르세우스가 수치심에 미쳐버릴 때까지 그들의 모욕은 계속되었습니다."
+      },
+      {
+        "id": 2,
+        "en": "Barely knowing what he was saying, he cried out.",
+        "kr": "그는 자신이 무슨 말을 하는지도 모른 채 소리쳤습니다."
+      },
+      {
+        "id": 3,
+        "en": "A present! Who are you to talk of presents?",
+        "kr": "선물이라고요! 선물을 논할 자격이나 있습니까?"
+      },
+      {
+        "id": 4,
+        "en": "I will bring a nobler gift than all of yours combined!",
+        "kr": "여러분의 선물을 모두 합친 것보다 더 고귀한 것을 가져오겠습니다!"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "tag": "P0071",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "So he said boasting; and yet he felt in his heart that he was braver than all those scoffers, and more able to do some glorious deed.",
+    "is_header": false,
+    "word_count": 27,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He made this boast out of anger.",
+        "kr": "그는 분노에 차서 그렇게 허풍을 떨었습니다."
+      },
+      {
+        "id": 2,
+        "en": "Yet, deep down, he knew he was braver than all those scoffers.",
+        "kr": "하지만 마음속 깊은 곳에서는 자신이 그 모든 비웃는 자들보다 더 용감하다는 것을 알고 있었습니다."
+      },
+      {
+        "id": 3,
+        "en": "He felt truly capable of achieving some glorious deed.",
+        "kr": "그는 자신이 영광스러운 일을 해낼 수 있다고 굳게 믿었습니다."
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "tag": "P0072",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "‘Hear him!  Hear the boaster!  What is it to be?’ cried they all, laughing louder than ever.",
+    "is_header": false,
+    "word_count": 17,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Listen to him! Listen to the boaster!",
+        "kr": "저놈 말 좀 들어봐! 허풍쟁이 같으니!"
+      },
+      {
+        "id": 2,
+        "en": "What will this great gift be?",
+        "kr": "그 대단한 선물이 도대체 뭔데?"
+      },
+      {
+        "id": 3,
+        "en": "They all cried out, laughing louder than ever.",
+        "kr": "그들은 모두 평소보다 더 크게 웃으며 소리쳤습니다."
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "tag": "P0073",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Then his dream at Samos came into his mind, and he cried aloud, ‘The head of the Gorgon.’",
+    "is_header": false,
+    "word_count": 18,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Then, his dream at Samos flashed into his mind.",
+        "kr": "그때 사모스에서 꾼 꿈이 그의 머릿속을 스쳤습니다."
+      },
+      {
+        "id": 2,
+        "en": "The head of the Gorgon, he shouted.",
+        "kr": "고르곤의 머리다, 그는 소리쳤습니다."
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "tag": "P0074",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "He was half afraid after he had said the words for all laughed louder than ever, and Polydectes loudest of all.",
+    "is_header": false,
+    "word_count": 21,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He felt a surge of fear right after saying the words.",
+        "kr": "그는 그 말을 뱉자마자 두려움이 밀려왔습니다."
+      },
+      {
+        "id": 2,
+        "en": "Everyone laughed harder than before.",
+        "kr": "모든 사람이 전보다 더 크게 웃어댔기 때문입니다."
+      },
+      {
+        "id": 3,
+        "en": "Polydectes laughed the loudest of them all.",
+        "kr": "그중에서도 폴리덱테스의 웃음소리가 가장 컸습니다."
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "tag": "P0075",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "‘You have promised to bring me the Gorgon’s head?  Then never appear again in this island without it.  Go!’",
+    "is_header": false,
+    "word_count": 19,
+    "translation": [
+      {
+        "id": 1,
+        "en": "You promised to bring me the head of the Gorgon?",
+        "kr": "네가 나에게 고르곤의 머리를 가져오겠다고 약속했느냐?"
+      },
+      {
+        "id": 2,
+        "en": "Then never return to this island without it.",
+        "kr": "그렇다면 그것 없이는 절대 이 섬에 돌아오지 마라."
+      },
+      {
+        "id": 3,
+        "en": "Go!",
+        "kr": "가거라!"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "tag": "P0076",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Perseus ground his teeth with rage, for he saw that he had fallen into a trap; but his promise lay upon him, and he went out without a word.",
+    "is_header": false,
+    "word_count": 29,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus ground his teeth in rage.",
+        "kr": "페르세우스는 분노로 이를 갈았습니다."
+      },
+      {
+        "id": 2,
+        "en": "He realized he had walked right into a trap.",
+        "kr": "그는 자신이 함정에 빠졌다는 것을 깨달았습니다."
+      },
+      {
+        "id": 3,
+        "en": "But he was bound by his promise.",
+        "kr": "하지만 그는 자신의 약속을 지켜야 했습니다."
+      },
+      {
+        "id": 4,
+        "en": "He turned and left without another word.",
+        "kr": "그는 아무 말 없이 돌아서서 나갔습니다."
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "tag": "P0077",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Down to the cliffs he went, and looked across the broad blue sea; and he wondered if his dream were true, and prayed in the bitterness of his soul.",
+    "is_header": false,
+    "word_count": 29,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He walked down to the cliffs.",
+        "kr": "그는 절벽으로 내려갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "He stared across the vast blue sea.",
+        "kr": "그는 탁 트인 푸른 바다를 응시했습니다."
+      },
+      {
+        "id": 3,
+        "en": "He wondered if his dream had been real.",
+        "kr": "그는 자신의 꿈이 진짜였는지 궁금해했습니다."
+      },
+      {
+        "id": 4,
+        "en": "In deep despair, he began to pray.",
+        "kr": "깊은 절망 속에서 그는 기도를 시작했습니다."
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "tag": "P0078",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "‘Pallas Athené, was my dream true? and shall I slay the Gorgon?  If thou didst really show me her face, let me not come to shame as a liar and boastful.  Rashly and angrily I promised; but cunningly and patiently will I perform.’",
+    "is_header": false,
+    "word_count": 43,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Pallas Athene, was my dream true?",
+        "kr": "팔라스 아테나여, 제 꿈이 진실이었습니까?"
+      },
+      {
+        "id": 2,
+        "en": "Will I truly slay the Gorgon?",
+        "kr": "제가 정말로 고르곤을 죽일 수 있습니까?"
+      },
+      {
+        "id": 3,
+        "en": "If you really showed me her face, do not let me face shame.",
+        "kr": "당신이 진정 저에게 그녀의 얼굴을 보여주셨다면, 제가 수치를 당하지 않게 해주십시오."
+      },
+      {
+        "id": 4,
+        "en": "Do not let them call me a liar and a boaster.",
+        "kr": "사람들이 저를 거짓말쟁이나 허풍쟁이라고 부르지 못하게 해주십시오."
+      },
+      {
+        "id": 5,
+        "en": "I made my promise in anger and haste.",
+        "kr": "저는 홧김에 성급하게 약속을 해버렸습니다."
+      },
+      {
+        "id": 6,
+        "en": "But I will carry it out with patience and skill.",
+        "kr": "하지만 인내심과 지혜를 다해 그것을 해내겠습니다."
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "tag": "P0079",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "But there was no answer, nor sign; neither thunder nor any appearance; not even a cloud in the sky.",
+    "is_header": false,
+    "word_count": 19,
+    "translation": [
+      {
+        "id": 1,
+        "en": "But there was no answer and no sign.",
+        "kr": "하지만 아무런 대답도, 징조도 없었습니다."
+      },
+      {
+        "id": 2,
+        "en": "There was no thunder or sudden vision.",
+        "kr": "천둥이 치지도 않았고 갑작스러운 환상도 나타나지 않았습니다."
+      },
+      {
+        "id": 3,
+        "en": "Not even a single cloud appeared in the sky.",
+        "kr": "하늘에는 구름 한 점조차 보이지 않았습니다."
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "tag": "P0080",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "And three times Perseus called weeping, ‘Rashly and angrily I promised; but cunningly and patiently will I perform.’",
+    "is_header": false,
+    "word_count": 18,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus wept and called out three times.",
+        "kr": "페르세우스는 눈물을 흘리며 세 번을 부르짖었습니다."
+      },
+      {
+        "id": 2,
+        "en": "I made my promise in anger and haste.",
+        "kr": "저는 홧김에 성급하게 약속을 해버렸습니다."
+      },
+      {
+        "id": 3,
+        "en": "But I will carry it out with patience and skill.",
+        "kr": "하지만 인내심과 지혜를 다해 그것을 해내겠습니다."
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "tag": "P0081",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Then he saw afar off above the sea a small white cloud, as bright as silver.  And it came on, nearer and nearer, till its brightness dazzled his eyes.",
+    "is_header": false,
+    "word_count": 29,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Then, he noticed a small white cloud far out over the sea.",
+        "kr": "그때 그는 바다 저 멀리 떠 있는 작은 흰 구름을 발견했습니다."
+      },
+      {
+        "id": 2,
+        "en": "It shone as brightly as pure silver.",
+        "kr": "그것은 순은처럼 눈부시게 빛났습니다."
+      },
+      {
+        "id": 3,
+        "en": "It drifted closer and closer.",
+        "kr": "구름은 점점 더 가까이 다가왔습니다."
+      },
+      {
+        "id": 4,
+        "en": "Soon, its brilliant light completely dazzled his eyes.",
+        "kr": "이내 그 찬란한 빛이 그의 눈을 완전히 부시게 했습니다."
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "tag": "P0082",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Perseus wondered at that strange cloud, for there was no other cloud all round the sky; and he trembled as it touched the cliff below.  And as it touched, it broke, and parted, and within it appeared Pallas Athené, as he had seen her at Samos in his dream, and beside her a young man more light-limbed than the stag, whose eyes were like sparks of fire.  By his side was a scimitar of diamond, all of one clear precious stone, and on his feet were golden sandals, from the heels of which grew living wings.",
+    "is_header": false,
+    "word_count": 96,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus marveled at the strange cloud.",
+        "kr": "페르세우스는 그 이상한 구름을 보고 경이로움을 느꼈습니다."
+      },
+      {
+        "id": 2,
+        "en": "There were no other clouds anywhere in the sky.",
+        "kr": "하늘 어디에도 다른 구름은 없었기 때문입니다."
+      },
+      {
+        "id": 3,
+        "en": "He trembled as it finally touched the cliff beneath him.",
+        "kr": "마침내 구름이 발아래 절벽에 닿자 그는 몸을 떨었습니다."
+      },
+      {
+        "id": 4,
+        "en": "As it landed, the cloud split wide open.",
+        "kr": "절벽에 내려앉은 구름이 활짝 갈라졌습니다."
+      },
+      {
+        "id": 5,
+        "en": "Inside stood Pallas Athene, just as she had appeared in his dream at Samos.",
+        "kr": "그 안에는 그가 사모스에서 꾼 꿈에 나타났던 모습 그대로 팔라스 아테나가 서 있었습니다."
+      },
+      {
+        "id": 6,
+        "en": "Beside her stood a young man, swifter and more graceful than a stag.",
+        "kr": "그녀의 곁에는 수사슴보다 더 빠르고 우아해 보이는 한 청년이 서 있었습니다."
+      },
+      {
+        "id": 7,
+        "en": "His bright eyes flashed like sparks of fire.",
+        "kr": "그의 빛나는 두 눈은 불꽃처럼 번쩍였습니다."
+      },
+      {
+        "id": 8,
+        "en": "A curved diamond sword hung at his side.",
+        "kr": "그의 허리춤에는 휘어진 다이아몬드 검이 매달려 있었습니다."
+      },
+      {
+        "id": 9,
+        "en": "It was carved completely from a single precious stone.",
+        "kr": "그것은 거대한 보석 하나를 통째로 깎아 만든 것이었습니다."
+      },
+      {
+        "id": 10,
+        "en": "He wore golden sandals on his feet.",
+        "kr": "그는 발에 황금 샌들을 신고 있었습니다."
+      },
+      {
+        "id": 11,
+        "en": "Living wings fluttered directly from the heels of the sandals.",
+        "kr": "샌들 뒤꿈치에서는 살아 움직이는 날개가 펄럭이고 있었습니다."
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "tag": "P0083",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "They looked upon Perseus keenly, and yet they never moved their eyes; and they came up the cliffs towards him more swiftly than the sea-gull, and yet they never moved their feet, nor did the breeze stir the robes about their limbs; only the wings of the youth’s sandals quivered, like a hawk’s when he hangs above the cliff.  And Perseus fell down and worshipped, for he knew that they were more than man.",
+    "is_header": false,
+    "word_count": 74,
+    "translation": [
+      {
+        "id": 1,
+        "en": "They stared keenly at Perseus without even blinking.",
+        "kr": "그들은 눈도 깜박이지 않은 채 페르세우스를 뚫어지게 바라보았습니다."
+      },
+      {
+        "id": 2,
+        "en": "They glided up the cliff toward him faster than a seagull.",
+        "kr": "그들은 갈매기보다 더 빠른 속도로 절벽 위로 미끄러지듯 그에게 다가왔습니다."
+      },
+      {
+        "id": 3,
+        "en": "Yet, they never moved their feet at all.",
+        "kr": "하지만 그들은 발을 전혀 움직이지 않았습니다."
+      },
+      {
+        "id": 4,
+        "en": "The ocean breeze did not even stir their flowing robes.",
+        "kr": "바닷바람조차 그들의 펄럭이는 옷자락을 흔들지 못했습니다."
+      },
+      {
+        "id": 5,
+        "en": "Only the wings on the young man's sandals fluttered.",
+        "kr": "오직 청년의 샌들에 달린 날개만이 퍼덕였습니다."
+      },
+      {
+        "id": 6,
+        "en": "They quivered like a hawk hovering high above a cliff.",
+        "kr": "절벽 위를 맴도는 매처럼 날개가 파르르 떨렸습니다."
+      },
+      {
+        "id": 7,
+        "en": "Perseus immediately fell to his knees in awe.",
+        "kr": "페르세우스는 경외심에 사로잡혀 즉시 무릎을 꿇었습니다."
+      },
+      {
+        "id": 8,
+        "en": "He knew at once that they were divine immortals.",
+        "kr": "그는 단번에 그들이 신성한 불멸의 존재라는 것을 알았습니다."
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "tag": "P0084",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "But Athené stood before him and spoke gently, and bid him have no fear. Then—",
+    "is_header": false,
+    "word_count": 15,
+    "translation": [
+      {
+        "id": 1,
+        "en": "But Athene stood before him and spoke gently.",
+        "kr": "하지만 아테나가 그의 앞에 서서 다정하게 말했습니다."
+      },
+      {
+        "id": 2,
+        "en": "She told him not to be afraid.",
+        "kr": "그녀는 그에게 두려워하지 말라고 당부했습니다."
+      },
+      {
+        "id": 3,
+        "en": "Then she spoke.",
+        "kr": "그리고 그녀가 입을 열었습니다."
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "tag": "P0085",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "‘Perseus,’ she said, ‘he who overcomes in one trial merits thereby a sharper trial still.  You have braved Polydectes, and done manfully. Dare you brave Medusa the Gorgon?’",
+    "is_header": false,
+    "word_count": 28,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus, she said, anyone who survives one trial deserves an even harder one.",
+        "kr": "페르세우스, 하나의 시련을 이겨낸 자는 더 가혹한 시련을 마주할 자격이 있습니다."
+      },
+      {
+        "id": 2,
+        "en": "You have bravely faced Polydectes and acted like a true man.",
+        "kr": "당신은 폴리데크테스에게 용감하게 맞서며 진정한 사내답게 행동했습니다."
+      },
+      {
+        "id": 3,
+        "en": "Do you dare to face Medusa the Gorgon?",
+        "kr": "괴물 메두사에게 맞설 용기가 있습니까?"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "tag": "P0086",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "And Perseus said, ‘Try me; for since you spoke to me in Samos a new soul has come into my breast, and I should be ashamed not to dare anything which I can do.  Show me, then, how I can do this!’",
+    "is_header": false,
+    "word_count": 42,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Try me, Perseus replied.",
+        "kr": "저를 시험해 보십시오, 페르세우스가 대답했습니다."
+      },
+      {
+        "id": 2,
+        "en": "Since you spoke to me in Samos, a new spirit has filled my heart.",
+        "kr": "사모스섬에서 당신이 제게 말씀하신 이후로, 새로운 영혼이 제 가슴을 채웠습니다."
+      },
+      {
+        "id": 3,
+        "en": "I would be ashamed to avoid any challenge I am capable of facing.",
+        "kr": "제가 할 수 있는 일을 피한다면 몹시 부끄러울 것입니다."
+      },
+      {
+        "id": 4,
+        "en": "Show me how I can accomplish this!",
+        "kr": "이 일을 어떻게 해낼 수 있는지 제게 알려주십시오!"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "tag": "P0087",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "‘Perseus,’ said Athené, ‘think well before you attempt; for this deed requires a seven years’ journey, in which you cannot repent or turn back nor escape; but if your heart fails you, you must die in the Unshapen Land, where no man will ever find your bones.’",
+    "is_header": false,
+    "word_count": 47,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Think carefully before you try this, Perseus, said Athene.",
+        "kr": "시도하기 전에 신중하게 생각하십시오, 페르세우스, 아테나가 말했습니다."
+      },
+      {
+        "id": 2,
+        "en": "This task requires a seven-year journey.",
+        "kr": "이 임무는 7년의 기나긴 여정을 필요로 합니다."
+      },
+      {
+        "id": 3,
+        "en": "You cannot change your mind, turn back, or escape.",
+        "kr": "도중에 마음을 바꾸거나 되돌아갈 수도, 도망칠 수도 없습니다."
+      },
+      {
+        "id": 4,
+        "en": "If your courage fails, you will die in the Unshapen Land.",
+        "kr": "만약 용기를 잃는다면 당신은 형태 없는 땅에서 죽게 될 것입니다."
+      },
+      {
+        "id": 5,
+        "en": "No one will ever find your bones there.",
+        "kr": "그곳에서는 아무도 당신의 뼈를 찾지 못할 것입니다."
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "tag": "P0088",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "‘Better so than live here, useless and despised,’ said Perseus.  ‘Tell me, then, oh tell me, fair and wise Goddess, of your great kindness and condescension, how I can do but this one thing, and then, if need be, die!’",
+    "is_header": false,
+    "word_count": 40,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Better to die than live here useless and despised, said Perseus.",
+        "kr": "쓸모없이 멸시받으며 이곳에 사느니 차라리 죽는 것이 낫습니다, 페르세우스가 말했습니다."
+      },
+      {
+        "id": 2,
+        "en": "Tell me, beautiful and wise Goddess, out of your great kindness.",
+        "kr": "아름답고 지혜로운 여신이여, 당신의 넓은 자비로 제게 말씀해 주십시오."
+      },
+      {
+        "id": 3,
+        "en": "Show me how I can accomplish just this one thing.",
+        "kr": "제가 이 단 하나의 일만이라도 어떻게 이룰 수 있는지 알려주십시오."
+      },
+      {
+        "id": 4,
+        "en": "Then I am willing to die if I must!",
+        "kr": "그러고 나서 필요하다면 기꺼이 죽음을 맞이하겠습니다!"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "tag": "P0089",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Then Athené smiled and said—",
+    "is_header": false,
+    "word_count": 5,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Athene smiled and spoke.",
+        "kr": "아테나가 미소를 지으며 말했습니다."
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "tag": "P0090",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "‘Be patient, and listen; for if you forget my words, you will indeed die. You must go northward to the country of the Hyperboreans, who live beyond the pole, at the sources of the cold north wind, till you find the three Gray Sisters, who have but one eye and one tooth between them.  You must ask them the way to the Nymphs, the daughters of the Evening Star, who dance about the golden tree, in the Atlantic island of the west.  They will tell you the way to the Gorgon, that you may slay her, my enemy, the mother of monstrous beasts.  Once she was a maiden as beautiful as morn, till in her pride she sinned a sin at which the sun hid his face; and from that day her hair was turned to vipers, and her hands to eagle’s claws; and her heart was filled with shame and rage, and her lips with bitter venom; and her eyes became so terrible that whosoever looks on them is turned to stone; and her children are the winged horse and the giant of the golden sword; and her grandchildren are Echidna the witch-adder, and Geryon the three-headed tyrant, who feeds his herds beside the herds of hell.  So she became the sister of the Gorgons, Stheino and Euryte the abhorred, the daughters of the Queen of the Sea. Touch them not, for they are immortal; but bring me only Medusa’s head.’",
+    "is_header": false,
+    "word_count": 242,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Be patient and listen carefully.",
+        "kr": "인내심을 갖고 잘 들으십시오."
+      },
+      {
+        "id": 2,
+        "en": "If you forget my words, you will die.",
+        "kr": "제 말을 잊으면 목숨을 잃게 됩니다."
+      },
+      {
+        "id": 3,
+        "en": "Travel north to the land of the Hyperboreans.",
+        "kr": "북쪽으로 가서 히페르보레아인들의 땅으로 향하십시오."
+      },
+      {
+        "id": 4,
+        "en": "They live beyond the North Pole where the freezing winds begin.",
+        "kr": "그들은 매서운 북풍이 시작되는 북극 너머에 살고 있습니다."
+      },
+      {
+        "id": 5,
+        "en": "Keep going until you find the three Gray Sisters.",
+        "kr": "세 명의 늙은 자매를 찾을 때까지 계속 가야 합니다."
+      },
+      {
+        "id": 6,
+        "en": "They share only one eye and one tooth among them.",
+        "kr": "그들은 눈 하나와 이빨 하나를 셋이서 함께 사용합니다."
+      },
+      {
+        "id": 7,
+        "en": "Ask them the way to the Nymphs, the daughters of the Evening Star.",
+        "kr": "그들에게 저녁별의 딸들인 요정들에게 가는 길을 물으십시오."
+      },
+      {
+        "id": 8,
+        "en": "These Nymphs dance around a golden tree on a western Atlantic island.",
+        "kr": "그 요정들은 서쪽 대서양의 어느 섬에 있는 황금 나무 주위에서 춤을 춥니다."
+      },
+      {
+        "id": 9,
+        "en": "They will show you the path to the Gorgon.",
+        "kr": "그들이 고르곤에게 가는 길을 알려줄 것입니다."
+      },
+      {
+        "id": 10,
+        "en": "Then you can slay my enemy, the mother of monstrous beasts.",
+        "kr": "그러면 당신은 괴물들의 어미이자 나의 원수인 그녀를 베어버릴 수 있습니다."
+      },
+      {
+        "id": 11,
+        "en": "She was once a maiden as beautiful as the morning.",
+        "kr": "그녀는 한때 아침처럼 아름다운 처녀였습니다."
+      },
+      {
+        "id": 12,
+        "en": "But she committed a sin of pride so terrible the sun hid its face.",
+        "kr": "하지만 그녀는 너무나 끔찍한 오만의 죄를 저질러 태양마저 얼굴을 가릴 정도였습니다."
+      },
+      {
+        "id": 13,
+        "en": "From that day, her hair turned into venomous snakes.",
+        "kr": "그날 이후 그녀의 머리카락은 독사로 변해버렸습니다."
+      },
+      {
+        "id": 14,
+        "en": "Her hands became the sharp claws of an eagle.",
+        "kr": "그녀의 손은 날카로운 독수리의 발톱이 되었습니다."
+      },
+      {
+        "id": 15,
+        "en": "Her heart filled with shame and rage, and her lips dripped poison.",
+        "kr": "그녀의 심장은 수치심과 분노로 가득 찼고, 입술에서는 독이 흘러내렸습니다."
+      },
+      {
+        "id": 16,
+        "en": "Her eyes became so terrible that anyone who looks at her turns to stone.",
+        "kr": "그녀의 눈은 너무나 무시무시해져서, 그녀를 보는 자는 누구든 돌로 변하게 됩니다."
+      },
+      {
+        "id": 17,
+        "en": "Her children are the winged horse and the giant with the golden sword.",
+        "kr": "그녀의 자식들은 날개 달린 말과 황금 검을 든 거인입니다."
+      },
+      {
+        "id": 18,
+        "en": "Her grandchildren include the witch-adder Echidna and the tyrant Geryon.",
+        "kr": "그녀의 손주들은 마녀 독사 에키드나와 폭군 게리온입니다."
+      },
+      {
+        "id": 19,
+        "en": "Geryon has three heads and feeds his herds beside the herds of hell.",
+        "kr": "머리가 셋 달린 게리온은 지옥의 무리 곁에서 자신의 가축들을 먹입니다."
+      },
+      {
+        "id": 20,
+        "en": "She became the sister of the horrifying Gorgons, Stheino and Euryte.",
+        "kr": "그녀는 끔찍한 고르곤 자매인 스테이노와 에우리알레의 자매가 되었습니다."
+      },
+      {
+        "id": 21,
+        "en": "They are the daughters of the Queen of the Sea.",
+        "kr": "그들은 바다의 여왕의 딸들입니다."
+      },
+      {
+        "id": 22,
+        "en": "Do not touch them, for they are immortal.",
+        "kr": "그들은 불사신이니 절대 건드리지 마십시오."
+      },
+      {
+        "id": 23,
+        "en": "Just bring me the head of Medusa.",
+        "kr": "오직 메두사의 머리만 내게 가져오십시오."
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "tag": "P0091",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "‘And I will bring it!’ said Perseus; ‘but how am I to escape her eyes? Will she not freeze me too into stone?’",
+    "is_header": false,
+    "word_count": 23,
+    "translation": [
+      {
+        "id": 1,
+        "en": "I will bring it to you! said Perseus.",
+        "kr": "제가 그것을 가져오겠습니다! 페르세우스가 말했습니다."
+      },
+      {
+        "id": 2,
+        "en": "But how can I escape her deadly eyes?",
+        "kr": "하지만 그녀의 치명적인 눈길을 어떻게 피할 수 있습니까?"
+      },
+      {
+        "id": 3,
+        "en": "Will she not turn me into stone as well?",
+        "kr": "저마저도 돌로 만들어버리지 않겠습니까?"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "tag": "P0092",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "‘You shall take this polished shield,’ said Athené, ‘and when you come near her look not at her herself, but at her image in the brass; so you may strike her safely.  And when you have struck off her head, wrap it, with your face turned away, in the folds of the goat-skin on which the shield hangs, the hide of Amaltheié, the nurse of the Ægis-holder.  So you will bring it safely back to me, and win to yourself renown, and a place among the heroes who feast with the Immortals upon the peak where no winds blow.’",
+    "is_header": false,
+    "word_count": 99,
+    "translation": [
+      {
+        "id": 1,
+        "en": "You will take this polished shield, said Athene.",
+        "kr": "이 빛나는 방패를 가져가십시오, 아테나가 말했습니다."
+      },
+      {
+        "id": 2,
+        "en": "When you get close to her, do not look directly at her.",
+        "kr": "그녀에게 다가갈 때 절대 그녀를 직접 쳐다보아서는 안 됩니다."
+      },
+      {
+        "id": 3,
+        "en": "Look only at her reflection in the brass to strike her safely.",
+        "kr": "방패에 비친 그녀의 모습만 보아야 안전하게 공격할 수 있습니다."
+      },
+      {
+        "id": 4,
+        "en": "Once you chop off her head, turn your face away immediately.",
+        "kr": "그녀의 머리를 베어낸 후에는 즉시 고개를 돌리십시오."
+      },
+      {
+        "id": 5,
+        "en": "Wrap the head in the goatskin that holds this shield.",
+        "kr": "그리고 방패가 매달린 염소 가죽에 그 머리를 감싸십시오."
+      },
+      {
+        "id": 6,
+        "en": "It is the hide of Amalthea, the sacred nurse of Zeus.",
+        "kr": "그것은 제우스를 키운 성스러운 유모 아말테이아의 가죽입니다."
+      },
+      {
+        "id": 7,
+        "en": "This way, you will bring the head safely back to me.",
+        "kr": "이렇게 하면 그 머리를 제게 안전하게 가져올 수 있을 것입니다."
+      },
+      {
+        "id": 8,
+        "en": "You will win great fame for yourself.",
+        "kr": "당신은 위대한 명성을 얻게 될 것입니다."
+      },
+      {
+        "id": 9,
+        "en": "You will earn a place among the heroes who feast with the gods on the windless peaks.",
+        "kr": "또한 바람 없는 산봉우리에서 신들과 함께 연회를 즐기는 영웅들의 자리에 오를 것입니다."
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "tag": "P0093",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Then Perseus said, ‘I will go, though I die in going.  But how shall I cross the seas without a ship?  And who will show me my way?  And when I find her, how shall I slay her, if her scales be iron and brass?’",
+    "is_header": false,
+    "word_count": 45,
+    "translation": [
+      {
+        "id": 1,
+        "en": "I will go, even if it costs my life, Perseus said.",
+        "kr": "목숨을 잃는 한이 있더라도 가겠습니다, 페르세우스가 말했습니다."
+      },
+      {
+        "id": 2,
+        "en": "But how can I cross the seas without a ship?",
+        "kr": "하지만 배도 없이 어떻게 바다를 건널 수 있습니까?"
+      },
+      {
+        "id": 3,
+        "en": "Who will guide me on my journey?",
+        "kr": "누가 제 여정을 안내해 주겠습니까?"
+      },
+      {
+        "id": 4,
+        "en": "And when I find her, how can I kill her if she has armor of iron and brass?",
+        "kr": "게다가 그녀를 찾는다 해도, 무쇠와 놋쇠 같은 비늘을 가졌다면 어떻게 죽일 수 있단 말입니까?"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "tag": "P0094",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Then the young man spoke: ‘These sandals of mine will bear you across the seas, and over hill and dale like a bird, as they bear me all day long; for I am Hermes, the far-famed Argus-slayer, the messenger of the Immortals who dwell on Olympus.’",
+    "is_header": false,
+    "word_count": 46,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Then the young man spoke to him.",
+        "kr": "그때 그 젊은 남자가 그에게 입을 열었습니다."
+      },
+      {
+        "id": 2,
+        "en": "These sandals of mine will carry you across the oceans.",
+        "kr": "내 이 샌들이 당신을 바다 건너로 데려다줄 것입니다."
+      },
+      {
+        "id": 3,
+        "en": "They will fly you over hills and valleys like a bird.",
+        "kr": "새처럼 언덕과 계곡을 넘어 날아갈 수 있게 해줄 것입니다."
+      },
+      {
+        "id": 4,
+        "en": "They carry me in this exact way all day long.",
+        "kr": "하루 종일 나를 데리고 다니는 것과 똑같은 방식입니다."
+      },
+      {
+        "id": 5,
+        "en": "I am Hermes, the famous slayer of Argus.",
+        "kr": "나는 아르고스를 물리친 것으로 유명한 헤르메스입니다."
+      },
+      {
+        "id": 6,
+        "en": "I am the messenger of the gods who live on Mount Olympus.",
+        "kr": "나는 올림포스산에 사는 신들의 전령입니다."
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "tag": "P0095",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Then Perseus fell down and worshipped, while the young man spoke again:",
+    "is_header": false,
+    "word_count": 12,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus immediately fell to his knees and worshipped him.",
+        "kr": "페르세우스는 즉시 무릎을 꿇고 그를 경배했습니다."
+      },
+      {
+        "id": 2,
+        "en": "The young man continued to speak.",
+        "kr": "젊은 남자는 계속해서 말을 이었습니다."
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "tag": "P0096",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "‘The sandals themselves will guide you on the road, for they are divine and cannot stray; and this sword itself, the Argus-slayer, will kill her, for it is divine, and needs no second stroke.  Arise, and gird them on, and go forth.’",
+    "is_header": false,
+    "word_count": 42,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The divine sandals will guide you and never lose the way.",
+        "kr": "신성한 샌들이 당신을 안내할 것이니 절대 길을 잃지 않을 것입니다."
+      },
+      {
+        "id": 2,
+        "en": "This magical sword will kill her with a single strike.",
+        "kr": "이 마법의 검은 단 일격에 그녀를 베어버릴 것입니다."
+      },
+      {
+        "id": 3,
+        "en": "Stand up, put them on, and begin your journey.",
+        "kr": "일어나서 이것들을 착용하고 여정을 떠나십시오."
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "tag": "P0097",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "So Perseus arose, and girded on the sandals and the sword.",
+    "is_header": false,
+    "word_count": 11,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus stood up and strapped on the sandals and the sword.",
+        "kr": "페르세우스는 일어나 샌들과 검을 착용했습니다."
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "tag": "P0098",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "And Athené cried, ‘Now leap from the cliff and be gone.’",
+    "is_header": false,
+    "word_count": 11,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Now leap from the cliff and go! Athene commanded.",
+        "kr": "이제 절벽에서 뛰어내려 떠나십시오! 아테나가 명령했습니다."
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "tag": "P0099",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "But Perseus lingered.",
+    "is_header": false,
+    "word_count": 3,
+    "translation": [
+      {
+        "id": 1,
+        "en": "But Perseus hesitated.",
+        "kr": "하지만 페르세우스는 주저했습니다."
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "tag": "P0100",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "‘May I not bid farewell to my mother and to Dictys?  And may I not offer burnt-offerings to you, and to Hermes the far-famed Argus-slayer, and to Father Zeus above?’",
+    "is_header": false,
+    "word_count": 30,
+    "translation": [
+      {
+        "id": 1,
+        "en": "May I not say goodbye to my mother and Dictys?",
+        "kr": "어머니와 딕티스에게 작별 인사를 할 수는 없습니까?"
+      },
+      {
+        "id": 2,
+        "en": "Shouldn't I offer sacrifices to you and to Hermes?",
+        "kr": "당신과 헤르메스에게 제물을 바쳐야 하지 않겠습니까?"
+      },
+      {
+        "id": 3,
+        "en": "And must I not make an offering to Father Zeus above?",
+        "kr": "그리고 위대한 제우스 아버지께도 제물을 올려야 하지 않습니까?"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "tag": "P0101",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "‘You shall not bid farewell to your mother, lest your heart relent at her weeping.  I will comfort her and Dictys until you return in peace.  Nor shall you offer burnt-offerings to the Olympians; for your offering shall be Medusa’s head.  Leap, and trust in the armour of the Immortals.’",
+    "is_header": false,
+    "word_count": 50,
+    "translation": [
+      {
+        "id": 1,
+        "en": "You must not say goodbye to your mother.",
+        "kr": "당신의 어머니에게 작별 인사를 해서는 안 됩니다."
+      },
+      {
+        "id": 2,
+        "en": "Her tears might weaken your resolve.",
+        "kr": "그녀의 눈물을 보면 당신의 결심이 흔들릴 수 있습니다."
+      },
+      {
+        "id": 3,
+        "en": "I will comfort her and Dictys until you return safely.",
+        "kr": "당신이 무사히 돌아올 때까지 내가 그녀와 딕티스를 위로하겠습니다."
+      },
+      {
+        "id": 4,
+        "en": "Do not offer sacrifices to the gods right now.",
+        "kr": "지금은 신들에게 제물을 바치지 마십시오."
+      },
+      {
+        "id": 5,
+        "en": "The head of Medusa will be your ultimate offering.",
+        "kr": "메두사의 머리가 당신의 최고의 제물이 될 것입니다."
+      },
+      {
+        "id": 6,
+        "en": "Leap from the cliff and trust in this divine armor.",
+        "kr": "절벽에서 뛰어내리고 이 신성한 무구들을 믿으십시오."
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "tag": "P0102",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "Then Perseus looked down the cliff and shuddered; but he was ashamed to show his dread.  Then he thought of Medusa and the renown before him, and he leaped into the empty air.",
+    "is_header": false,
+    "word_count": 33,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus looked down the steep cliff and shuddered.",
+        "kr": "페르세우스는 가파른 절벽 아래를 내려다보며 몸서리쳤습니다."
+      },
+      {
+        "id": 2,
+        "en": "He was too ashamed to show his deep fear.",
+        "kr": "그는 너무 부끄러워서 자신의 깊은 두려움을 드러낼 수 없었습니다."
+      },
+      {
+        "id": 3,
+        "en": "He thought of Medusa and the great glory waiting for him.",
+        "kr": "그는 메두사와 자신을 기다리는 위대한 영광을 떠올렸습니다."
+      },
+      {
+        "id": 4,
+        "en": "Then he leaped bravely into the empty air.",
+        "kr": "그리고 그는 허공을 향해 용감하게 몸을 던졌습니다."
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "tag": "P0103",
+    "chapter_id": "ch_02",
+    "story": "Story I: Perseus",
+    "part": "Part II: How Perseus Vowed a Rash Vow",
+    "raw": "And behold, instead of falling he floated, and stood, and ran along the sky.  He looked back, but Athené had vanished, and Hermes; and the sandals led him on northward ever, like a crane who follows the spring toward the Ister fens.",
+    "is_header": false,
+    "word_count": 42,
+    "translation": [
+      {
+        "id": 1,
+        "en": "To his amazement, he floated instead of falling.",
+        "kr": "놀랍게도 그는 떨어지지 않고 공중에 떠올랐습니다."
+      },
+      {
+        "id": 2,
+        "en": "He stood upright and began to run across the sky.",
+        "kr": "그는 똑바로 서서 하늘을 가로질러 달리기 시작했습니다."
+      },
+      {
+        "id": 3,
+        "en": "He looked back, but Athene and Hermes had vanished.",
+        "kr": "그가 뒤돌아보았지만, 아테나와 헤르메스는 이미 사라지고 없었습니다."
+      },
+      {
+        "id": 4,
+        "en": "The sandals carried him ever northward.",
+        "kr": "샌들은 그를 계속해서 북쪽으로 데려갔습니다."
+      },
+      {
+        "id": 5,
+        "en": "He flew like a crane chasing the spring toward the marshes.",
+        "kr": "그는 봄을 좇아 습지로 날아가는 두루미처럼 하늘을 날았습니다."
+      }
+    ]
+  }
+]

@@ -1,0 +1,2046 @@
+[
+  {
+    "id": 254,
+    "tag": "P0254",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "PART I HOW THE CENTAUR TRAINED THE HEROES ON PELION",
+    "is_header": true,
+    "word_count": 10,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Part I: How the Centaur Trained the Heroes on Pelion",
+        "kr": "1부: 켄타우로스가 펠리온 산에서 영웅들을 가르치다"
+      }
+    ]
+  },
+  {
+    "id": 255,
+    "tag": "P0255",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "I have told you of a hero who fought with wild beasts and with wild men; but now I have a tale of heroes who sailed away into a distant land, to win themselves renown for ever, in the adventure of the Golden Fleece.",
+    "is_header": false,
+    "word_count": 44,
+    "translation": [
+      {
+        "id": 1,
+        "en": "I have told you about a hero who fought wild beasts and men.",
+        "kr": "야생의 짐승과 야만인에 맞서 싸운 영웅의 이야기를 이미 들려드렸습니다."
+      },
+      {
+        "id": 2,
+        "en": "Now I have a tale about heroes who sailed away to a distant land.",
+        "kr": "이제 머나먼 땅으로 항해를 떠난 영웅들의 이야기를 해볼까 합니다."
+      },
+      {
+        "id": 3,
+        "en": "They sought eternal fame in the adventure of the Golden Fleece.",
+        "kr": "그들은 황금 양털을 찾는 모험에서 영원한 명성을 얻고자 했습니다."
+      }
+    ]
+  },
+  {
+    "id": 256,
+    "tag": "P0256",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "Whither they sailed, my children, I cannot clearly tell.  It all happened long ago; so long that it has all grown dim, like a dream which you dreamt last year.  And why they went I cannot tell: some say that it was to win gold.  It may be so; but the noblest deeds which have been done on earth have not been done for gold.  It was not for the sake of gold that the Lord came down and died, and the Apostles went out to preach the good news in all lands.  The Spartans looked for no reward in money when they fought and died at Thermopylæ; and Socrates the wise asked no pay from his countrymen, but lived poor and barefoot all his days, only caring to make men good.  And there are heroes in our days also, who do noble deeds, but not for gold.  Our discoverers did not go to make themselves rich when they sailed out one after another into the dreary frozen seas; nor did the ladies who went out last year to drudge in the hospitals of the East, making themselves poor, that they might be rich in noble works. And young men, too, whom you know, children, and some of them of your own kin, did they say to themselves, ‘How much money shall I earn?’ when they went out to the war, leaving wealth, and comfort, and a pleasant home, and all that money can give, to face hunger and thirst, and wounds and death, that they might fight for their country and their Queen?  No, children, there is a better thing on earth than wealth, a better thing than life itself; and that is, to have done something before you die, for which good men may honour you, and God your Father smile upon your work.",
+    "is_header": false,
+    "word_count": 306,
+    "translation": [
+      {
+        "id": 1,
+        "en": "I cannot clearly tell you where they sailed, my children.",
+        "kr": "여러분, 그들이 어디로 항해했는지는 정확히 말씀드리기 어렵습니다."
+      },
+      {
+        "id": 2,
+        "en": "It all happened so long ago that it has grown dim.",
+        "kr": "너무 오래전에 일어난 일이라 기억이 희미해졌기 때문입니다."
+      },
+      {
+        "id": 3,
+        "en": "It is like a dream you had last year.",
+        "kr": "마치 작년에 꾼 꿈처럼 말입니다."
+      },
+      {
+        "id": 4,
+        "en": "I also cannot tell you why they went.",
+        "kr": "그들이 왜 떠났는지도 알 수 없습니다."
+      },
+      {
+        "id": 5,
+        "en": "Some say they went to win gold.",
+        "kr": "어떤 이들은 황금을 얻기 위해서라고 말합니다."
+      },
+      {
+        "id": 6,
+        "en": "That might be true.",
+        "kr": "그럴지도 모릅니다."
+      },
+      {
+        "id": 7,
+        "en": "But the noblest deeds on earth have not been done for gold.",
+        "kr": "하지만 이 세상에서 가장 고귀한 일들은 황금을 위해 이루어지지 않았습니다."
+      },
+      {
+        "id": 8,
+        "en": "The Lord did not come down and die for gold.",
+        "kr": "주님께서 이 땅에 오셔서 돌아가신 것도 황금 때문이 아니었습니다."
+      },
+      {
+        "id": 9,
+        "en": "The Apostles did not preach the good news in all lands for money.",
+        "kr": "사도들이 온 땅에 기쁜 소식을 전한 것도 돈을 바란 것이 아니었습니다."
+      },
+      {
+        "id": 10,
+        "en": "The Spartans fought and died at Thermopylae without expecting financial reward.",
+        "kr": "스파르타인들은 테르모필레에서 금전적인 보상을 바라지 않고 싸우다 죽었습니다."
+      },
+      {
+        "id": 11,
+        "en": "Socrates the wise asked no pay from his countrymen.",
+        "kr": "지혜로운 소크라테스도 동포들에게 대가를 요구하지 않았습니다."
+      },
+      {
+        "id": 12,
+        "en": "He lived poor and barefoot all his days, only caring to make men good.",
+        "kr": "그는 평생을 가난하고 맨발로 살면서 오직 사람들을 선하게 만드는 데만 힘썼습니다."
+      },
+      {
+        "id": 13,
+        "en": "There are also heroes in our modern days who do noble deeds.",
+        "kr": "오늘날에도 황금을 바라지 않고 고귀한 일을 하는 영웅들이 있습니다."
+      },
+      {
+        "id": 14,
+        "en": "They do not act for the sake of gold.",
+        "kr": "그들은 황금을 위해 행동하지 않습니다."
+      },
+      {
+        "id": 15,
+        "en": "Our explorers did not seek riches when they sailed into the dreary frozen seas.",
+        "kr": "우리의 탐험가들은 황량하고 얼어붙은 바다로 항해할 때 부를 좇지 않았습니다."
+      },
+      {
+        "id": 16,
+        "en": "The women who recently volunteered in Eastern hospitals did not seek wealth.",
+        "kr": "최근 동방의 병원에서 봉사한 여성들도 부를 원하지 않았습니다."
+      },
+      {
+        "id": 17,
+        "en": "They embraced poverty to become rich in noble works.",
+        "kr": "그들은 고귀한 일로 마음을 채우기 위해 기꺼이 가난을 택했습니다."
+      },
+      {
+        "id": 18,
+        "en": "You know many young men who went to war, perhaps even your own relatives.",
+        "kr": "여러분이 아는 참전 용사들이나 친척들도 마찬가지입니다."
+      },
+      {
+        "id": 19,
+        "en": "Did they wonder how much money they would earn?",
+        "kr": "그들이 전쟁터에 나가면서 얼마나 많은 돈을 벌 수 있을지 계산했을까요?"
+      },
+      {
+        "id": 20,
+        "en": "They left behind wealth, comfort, and pleasant homes.",
+        "kr": "그들은 부와 안락함, 그리고 정든 집을 뒤로했습니다."
+      },
+      {
+        "id": 21,
+        "en": "They abandoned everything money can buy to face hunger, thirst, wounds, and death.",
+        "kr": "돈으로 살 수 있는 모든 것을 버리고 굶주림과 갈증, 상처와 죽음에 맞섰습니다."
+      },
+      {
+        "id": 22,
+        "en": "They did this to fight for their country and their Queen.",
+        "kr": "오직 조국과 여왕을 위해 싸우고자 그렇게 한 것입니다."
+      },
+      {
+        "id": 23,
+        "en": "No, my children, there is something on earth better than wealth.",
+        "kr": "그렇습니다 여러분, 이 세상에는 부유함보다 더 나은 것이 있습니다."
+      },
+      {
+        "id": 24,
+        "en": "There is something better than life itself.",
+        "kr": "심지어 생명 자체보다 더 가치 있는 것이 존재합니다."
+      },
+      {
+        "id": 25,
+        "en": "That is to do something meaningful before you die.",
+        "kr": "그것은 죽기 전에 뭔가 의미 있는 일을 해내는 것입니다."
+      },
+      {
+        "id": 26,
+        "en": "Good people will honor you for it.",
+        "kr": "훌륭한 사람들이 그 일로 당신을 존경할 것입니다."
+      },
+      {
+        "id": 27,
+        "en": "And God your Father will smile upon your work.",
+        "kr": "그리고 하나님 아버지께서 당신의 수고에 미소 지으실 것입니다."
+      }
+    ]
+  },
+  {
+    "id": 257,
+    "tag": "P0257",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "Therefore we will believe—why should we not?—of these same Argonauts of old, that they too were noble men, who planned and did a noble deed; and that therefore their fame has lived, and been told in story and in song, mixed up, no doubt, with dreams and fables, and yet true and right at heart.  So we will honour these old Argonauts, and listen to their story as it stands; and we will try to be like them, each of us in our place; for each of us has a Golden Fleece to seek, and a wild sea to sail over ere we reach it, and dragons to fight ere it be ours.",
+    "is_header": false,
+    "word_count": 113,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Therefore we can believe these ancient Argonauts were noble men.",
+        "kr": "그러므로 우리는 이 고대의 아르고호 선원들 역시 고귀한 사람들이었다고 믿을 수 있습니다."
+      },
+      {
+        "id": 2,
+        "en": "Why shouldn't we think they planned and achieved a noble deed?",
+        "kr": "그들이 훌륭한 일을 계획하고 이루어냈다고 생각하지 않을 이유가 없습니다."
+      },
+      {
+        "id": 3,
+        "en": "Their fame has lived on through stories and songs.",
+        "kr": "그들의 명성은 이야기와 노래를 통해 살아남았습니다."
+      },
+      {
+        "id": 4,
+        "en": "Their tale is mixed with dreams and fables.",
+        "kr": "비록 그들의 이야기에 꿈과 신화가 섞여 있기는 합니다."
+      },
+      {
+        "id": 5,
+        "en": "Yet it remains true and right at its heart.",
+        "kr": "하지만 그 본질만큼은 여전히 진실하고 올바릅니다."
+      },
+      {
+        "id": 6,
+        "en": "So we will honor these old Argonauts and listen to their story.",
+        "kr": "그러니 우리는 이 오래된 아르고호 선원들을 기리며 그들의 이야기에 귀를 기울일 것입니다."
+      },
+      {
+        "id": 7,
+        "en": "We will try to be like them in our own lives.",
+        "kr": "우리 각자의 삶 속에서 그들을 닮고자 노력할 것입니다."
+      },
+      {
+        "id": 8,
+        "en": "Each of us has our own Golden Fleece to seek.",
+        "kr": "우리 모두에게는 찾아야 할 각자의 황금 양털이 있습니다."
+      },
+      {
+        "id": 9,
+        "en": "We must sail over a wild sea before we reach it.",
+        "kr": "그곳에 닿으려면 거친 바다를 항해해야만 합니다."
+      },
+      {
+        "id": 10,
+        "en": "We must fight dragons before it can truly be ours.",
+        "kr": "그것을 온전히 우리의 것으로 만들려면 용과 맞서 싸워야 합니다."
+      }
+    ]
+  },
+  {
+    "id": 258,
+    "tag": "P0258",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "* * * * *",
+    "is_header": false,
+    "word_count": 5,
+    "translation": [
+      {
+        "id": 1,
+        "en": "* * * * *",
+        "kr": "* * * * *"
+      }
+    ]
+  },
+  {
+    "id": 259,
+    "tag": "P0259",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "And what was that first Golden Fleece?  I do not know, nor care.  The old Hellens said that it hung in Colchis, which we call the Circassian coast, nailed to a beech-tree in the war-God’s wood; and that it was the fleece of the wondrous ram who bore Phrixus and Helle across the Euxine sea. For Phrixus and Helle were the children of the cloud-nymph, and of Athamas the Minuan king.  And when a famine came upon the land, their cruel step-mother Ino wished to kill them, that her own children might reign, and said that they must be sacrificed on an altar, to turn away the anger of the Gods.  So the poor children were brought to the altar, and the priest stood ready with his knife, when out of the clouds came the Golden Ram, and took them on his back, and vanished.  Then madness came upon that foolish king, Athamas, and ruin upon Ino and her children. For Athamas killed one of them in his fury, and Ino fled from him with the other in her arms, and leaped from a cliff into the sea, and was changed into a dolphin, such as you have seen, which wanders over the waves for ever sighing, with its little one clasped to its breast.",
+    "is_header": false,
+    "word_count": 215,
+    "translation": [
+      {
+        "id": 1,
+        "en": "What exactly was that first Golden Fleece?",
+        "kr": "최초의 황금 양털은 과연 무엇이었을까요?"
+      },
+      {
+        "id": 2,
+        "en": "I do not really know, nor does it matter much.",
+        "kr": "저는 잘 알지도 못하고, 크게 신경 쓰지도 않습니다."
+      },
+      {
+        "id": 3,
+        "en": "The ancient Greeks said it hung in Colchis.",
+        "kr": "고대 그리스인들은 그것이 콜키스에 걸려 있었다고 말했습니다."
+      },
+      {
+        "id": 4,
+        "en": "We now call this area the Circassian coast.",
+        "kr": "우리는 그곳을 체르케스 해안이라고 부릅니다."
+      },
+      {
+        "id": 5,
+        "en": "It was nailed to a beech tree in the war god's sacred wood.",
+        "kr": "그것은 전쟁의 신이 머무는 숲의 너도밤나무에 못 박혀 있었습니다."
+      },
+      {
+        "id": 6,
+        "en": "It was the fleece of a wondrous ram.",
+        "kr": "그것은 놀라운 숫양의 양털이었습니다."
+      },
+      {
+        "id": 7,
+        "en": "This ram carried Phrixus and Helle across the Euxine Sea.",
+        "kr": "이 숫양은 프릭소스와 헬레를 태우고 흑해를 건넜습니다."
+      },
+      {
+        "id": 8,
+        "en": "Phrixus and Helle were the children of a cloud nymph and King Athamas.",
+        "kr": "프릭소스와 헬레는 구름의 요정과 아타마스 왕의 아이들이었습니다."
+      },
+      {
+        "id": 9,
+        "en": "A severe famine eventually struck their land.",
+        "kr": "마침내 그들의 땅에 끔찍한 기근이 닥쳤습니다."
+      },
+      {
+        "id": 10,
+        "en": "Their cruel stepmother Ino wanted to kill them.",
+        "kr": "잔인한 계모 이노는 그들을 죽이고 싶어 했습니다."
+      },
+      {
+        "id": 11,
+        "en": "She wanted her own children to inherit the throne.",
+        "kr": "그녀는 자신의 아이들이 왕위를 물려받기를 바랐습니다."
+      },
+      {
+        "id": 12,
+        "en": "She claimed the gods were angry and demanded a sacrifice.",
+        "kr": "그녀는 신들이 분노하여 제물을 원한다고 주장했습니다."
+      },
+      {
+        "id": 13,
+        "en": "The poor children were dragged to the altar.",
+        "kr": "불쌍한 아이들은 제단으로 끌려갔습니다."
+      },
+      {
+        "id": 14,
+        "en": "The priest stood ready with his sharp knife.",
+        "kr": "사제는 날카로운 칼을 들고 준비하고 있었습니다."
+      },
+      {
+        "id": 15,
+        "en": "Suddenly, the Golden Ram descended from the clouds.",
+        "kr": "그때 갑자기 구름 속에서 황금 숫양이 내려왔습니다."
+      },
+      {
+        "id": 16,
+        "en": "It took the children on its back and vanished.",
+        "kr": "숫양은 아이들을 등에 태우고 사라져 버렸습니다."
+      },
+      {
+        "id": 17,
+        "en": "Then terrible madness fell upon the foolish King Athamas.",
+        "kr": "그러자 어리석은 아타마스 왕에게 끔찍한 광기가 덮쳤습니다."
+      },
+      {
+        "id": 18,
+        "en": "Ruin also came to Ino and her children.",
+        "kr": "이노와 그녀의 아이들에게도 파멸이 찾아왔습니다."
+      },
+      {
+        "id": 19,
+        "en": "Athamas killed one of his children in a furious rage.",
+        "kr": "아타마스는 맹렬한 분노에 사로잡혀 자신의 아이 중 하나를 죽이고 말았습니다."
+      },
+      {
+        "id": 20,
+        "en": "Ino fled from him with her other child in her arms.",
+        "kr": "이노는 남은 아이를 품에 안고 그에게서 도망쳤습니다."
+      },
+      {
+        "id": 21,
+        "en": "She leaped from a high cliff straight into the sea.",
+        "kr": "그녀는 높은 절벽에서 바다로 곧장 뛰어들었습니다."
+      },
+      {
+        "id": 22,
+        "en": "She was magically transformed into a dolphin.",
+        "kr": "그녀는 마법처럼 돌고래로 변하고 말았습니다."
+      },
+      {
+        "id": 23,
+        "en": "She wanders the waves forever, clutching her little one to her breast.",
+        "kr": "그녀는 새끼를 가슴에 품은 채 영원히 파도 위를 떠돌고 있습니다."
+      }
+    ]
+  },
+  {
+    "id": 260,
+    "tag": "P0260",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "But the people drove out King Athamas, because he had killed his child; and he roamed about in his misery, till he came to the Oracle in Delphi. And the Oracle told him that he must wander for his sin, till the wild beasts should feast him as their guest.  So he went on in hunger and sorrow for many a weary day, till he saw a pack of wolves.  The wolves were tearing a sheep; but when they saw Athamas they fled, and left the sheep for him, and he ate of it; and then he knew that the oracle was fulfilled at last.  So he wandered no more; but settled, and built a town, and became a king again.",
+    "is_header": false,
+    "word_count": 121,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The people drove King Athamas out because he had killed his child.",
+        "kr": "백성들은 자식을 죽인 아타마스 왕을 내쫓았습니다."
+      },
+      {
+        "id": 2,
+        "en": "He roamed about in deep misery until he reached the Oracle in Delphi.",
+        "kr": "그는 깊은 절망 속에서 떠돌다가 델포이의 신탁에 이르렀습니다."
+      },
+      {
+        "id": 3,
+        "en": "The Oracle told him he must wander to atone for his sin.",
+        "kr": "신탁은 그가 죄를 속죄하기 위해 방랑해야 한다고 말했습니다."
+      },
+      {
+        "id": 4,
+        "en": "He had to wander until wild beasts feasted him as their guest.",
+        "kr": "그는 야생 짐승들이 그를 손님으로 맞이하여 포식하게 할 때까지 떠돌아야 했습니다."
+      },
+      {
+        "id": 5,
+        "en": "He traveled in hunger and sorrow for many weary days.",
+        "kr": "그는 배고픔과 슬픔 속에서 고단한 날들을 보냈습니다."
+      },
+      {
+        "id": 6,
+        "en": "Finally, he spotted a pack of wild wolves.",
+        "kr": "마침내 그는 야생 늑대 무리를 발견했습니다."
+      },
+      {
+        "id": 7,
+        "en": "The wolves were fiercely tearing apart a sheep.",
+        "kr": "늑대들은 사납게 양을 찢어 먹고 있었습니다."
+      },
+      {
+        "id": 8,
+        "en": "When they saw Athamas, they fled and left the sheep behind.",
+        "kr": "그들은 아타마스를 보자 양을 버려두고 도망쳤습니다."
+      },
+      {
+        "id": 9,
+        "en": "He ate the remaining meat and knew the oracle was finally fulfilled.",
+        "kr": "그는 남은 고기를 먹었고, 마침내 신탁이 이루어졌음을 깨달았습니다."
+      },
+      {
+        "id": 10,
+        "en": "He stopped wandering and settled down to build a new town.",
+        "kr": "그는 방랑을 멈추고 정착하여 새로운 마을을 세웠습니다."
+      },
+      {
+        "id": 11,
+        "en": "There he became a king once again.",
+        "kr": "그곳에서 그는 다시 왕이 되었습니다."
+      }
+    ]
+  },
+  {
+    "id": 261,
+    "tag": "P0261",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "But the ram carried the two children far away over land and sea, till he came to the Thracian Chersonese, and there Helle fell into the sea.  So those narrow straits are called ‘Hellespont,’ after her; and they bear that name until this day.",
+    "is_header": false,
+    "word_count": 44,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The ram carried the two children far away over land and sea.",
+        "kr": "숫양은 두 아이를 태우고 육지와 바다를 넘어 멀리 날아갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "They finally reached the Thracian Chersonese.",
+        "kr": "그들은 마침내 트라키아 케르소네소스에 도착했습니다."
+      },
+      {
+        "id": 3,
+        "en": "There, poor Helle slipped and fell into the sea.",
+        "kr": "그곳에서 불쌍한 헬레가 미끄러져 바다에 빠지고 말았습니다."
+      },
+      {
+        "id": 4,
+        "en": "Those narrow straits were named Hellespont in her honor.",
+        "kr": "그 좁은 해협은 그녀를 기리기 위해 헬레스폰트라고 불렸습니다."
+      },
+      {
+        "id": 5,
+        "en": "The straits bear that name to this very day.",
+        "kr": "그 해협은 오늘날까지도 그 이름을 간직하고 있습니다."
+      }
+    ]
+  },
+  {
+    "id": 262,
+    "tag": "P0262",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "Then the ram flew on with Phrixus to the north-east across the sea which we call the Black Sea now; but the Hellens call it Euxine.  And at last, they say, he stopped at Colchis, on the steep Circassian coast; and there Phrixus married Chalciope, the daughter of Aietes the king; and offered the ram in sacrifice; and Aietes nailed the ram’s fleece to a beech, in the grove of Ares the war-God.",
+    "is_header": false,
+    "word_count": 73,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The ram continued flying northeast with Phrixus.",
+        "kr": "숫양은 프릭소스를 태우고 계속해서 북동쪽으로 날아갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "They crossed the sea we now know as the Black Sea.",
+        "kr": "그들은 지금 우리가 흑해라고 부르는 바다를 건넜습니다."
+      },
+      {
+        "id": 3,
+        "en": "The ancient Greeks called this sea the Euxine.",
+        "kr": "고대 그리스인들은 이 바다를 에욱시노스라고 불렀습니다."
+      },
+      {
+        "id": 4,
+        "en": "Legend says the ram finally stopped at Colchis.",
+        "kr": "전설에 따르면 숫양은 마침내 콜키스에 멈춰 섰습니다."
+      },
+      {
+        "id": 5,
+        "en": "This was on the steep and rugged Circassian coast.",
+        "kr": "그곳은 가파르고 험준한 체르케스 해안에 있었습니다."
+      },
+      {
+        "id": 6,
+        "en": "There, Phrixus married Chalciope, the daughter of King Aietes.",
+        "kr": "그곳에서 프릭소스는 아이에테스 왕의 딸 칼키오페와 결혼했습니다."
+      },
+      {
+        "id": 7,
+        "en": "He offered the Golden Ram as a sacred sacrifice.",
+        "kr": "그는 황금 숫양을 신성한 제물로 바쳤습니다."
+      },
+      {
+        "id": 8,
+        "en": "King Aietes nailed the ram's fleece to a beech tree.",
+        "kr": "아이에테스 왕은 숫양의 털을 너도밤나무에 못 박았습니다."
+      },
+      {
+        "id": 9,
+        "en": "This tree stood in the sacred grove of Ares, the war god.",
+        "kr": "이 나무는 전쟁의 신 아레스의 신성한 숲에 있었습니다."
+      }
+    ]
+  },
+  {
+    "id": 263,
+    "tag": "P0263",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "And after awhile Phrixus died, and was buried, but his spirit had no rest; for he was buried far from his native land, and the pleasant hills of Hellas.  So he came in dreams to the heroes of the Minuai, and called sadly by their beds, ‘Come and set my spirit free, that I may go home to my fathers and to my kinsfolk, and the pleasant Minuan land.’",
+    "is_header": false,
+    "word_count": 69,
+    "translation": [
+      {
+        "id": 1,
+        "en": "After a while, Phrixus died and was buried.",
+        "kr": "얼마 후 프릭소스는 세상을 떠나 묻혔습니다."
+      },
+      {
+        "id": 2,
+        "en": "But his restless spirit could find no peace.",
+        "kr": "하지만 그의 불안한 영혼은 안식을 찾지 못했습니다."
+      },
+      {
+        "id": 3,
+        "en": "He was buried far from his native land.",
+        "kr": "그는 고국에서 아주 멀리 떨어진 곳에 묻혔기 때문입니다."
+      },
+      {
+        "id": 4,
+        "en": "He missed the pleasant and familiar hills of Hellas.",
+        "kr": "그는 그리스의 아름답고 친숙한 언덕을 그리워했습니다."
+      },
+      {
+        "id": 5,
+        "en": "He appeared in dreams to the heroes of the Minyans.",
+        "kr": "그는 미니아스 영웅들의 꿈속에 나타났습니다."
+      },
+      {
+        "id": 6,
+        "en": "He called out sadly as he stood by their beds.",
+        "kr": "그는 그들의 침대 곁에 서서 슬프게 부르짖었습니다."
+      },
+      {
+        "id": 7,
+        "en": "Come and set my spirit free!",
+        "kr": "와서 내 영혼을 자유롭게 해주시오!"
+      },
+      {
+        "id": 8,
+        "en": "I wish to go home to my fathers and my kinsfolk.",
+        "kr": "나는 내 조상들과 친족들이 있는 집으로 돌아가고 싶소."
+      },
+      {
+        "id": 9,
+        "en": "I long to return to the pleasant Minyan land.",
+        "kr": "나는 그 아름다운 미니아스의 땅으로 돌아가길 간절히 원하오."
+      }
+    ]
+  },
+  {
+    "id": 264,
+    "tag": "P0264",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "And they asked, ‘How shall we set your spirit free?’",
+    "is_header": false,
+    "word_count": 10,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The heroes asked, How shall we set your spirit free?",
+        "kr": "영웅들이 물었습니다. 어떻게 해야 당신의 영혼을 자유롭게 할 수 있습니까?"
+      }
+    ]
+  },
+  {
+    "id": 265,
+    "tag": "P0265",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "‘You must sail over the sea to Colchis, and bring home the golden fleece; and then my spirit will come back with it, and I shall sleep with my fathers and have rest.’",
+    "is_header": false,
+    "word_count": 33,
+    "translation": [
+      {
+        "id": 1,
+        "en": "You must sail over the sea to Colchis.",
+        "kr": "당신들은 바다를 건너 콜키스로 항해해야 하오."
+      },
+      {
+        "id": 2,
+        "en": "You must bring home the Golden Fleece.",
+        "kr": "그리고 황금 양털을 고향으로 가져와야 하오."
+      },
+      {
+        "id": 3,
+        "en": "Then my spirit will come back with it.",
+        "kr": "그러면 내 영혼도 그것과 함께 돌아갈 것이오."
+      },
+      {
+        "id": 4,
+        "en": "I shall finally sleep with my fathers and find rest.",
+        "kr": "마침내 나는 조상들 곁에서 잠들며 안식을 찾을 수 있을 것이오."
+      }
+    ]
+  },
+  {
+    "id": 266,
+    "tag": "P0266",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "He came thus, and called to them often; but when they woke they looked at each other, and said, ‘Who dare sail to Colchis, or bring home the golden fleece?’  And in all the country none was brave enough to try it; for the man and the time were not come.",
+    "is_header": false,
+    "word_count": 51,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He visited them often and called out to them.",
+        "kr": "그는 종종 그들을 찾아가 불렀습니다."
+      },
+      {
+        "id": 2,
+        "en": "But when they woke, they only looked at each other.",
+        "kr": "하지만 그들은 잠에서 깨어 서로를 쳐다보기만 했습니다."
+      },
+      {
+        "id": 3,
+        "en": "They asked who would dare sail to Colchis.",
+        "kr": "그들은 누가 감히 콜키스로 항해할 수 있겠냐고 물었습니다."
+      },
+      {
+        "id": 4,
+        "en": "They wondered who could bring back the golden fleece.",
+        "kr": "누가 황금 양털을 가져올 수 있을지 궁금해했습니다."
+      },
+      {
+        "id": 5,
+        "en": "No one in the entire country was brave enough to try.",
+        "kr": "온 나라를 통틀어 그것을 시도할 만큼 용감한 사람은 없었습니다."
+      },
+      {
+        "id": 6,
+        "en": "The right man and the right time had not yet arrived.",
+        "kr": "아직 적임자도 나타나지 않았고 때도 이르지 않았던 것입니다."
+      }
+    ]
+  },
+  {
+    "id": 267,
+    "tag": "P0267",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "Phrixus had a cousin called Æson, who was king in Iolcos by the sea. There he ruled over the rich Minuan heroes, as Athamas his uncle ruled in Boeotia; and, like Athamas, he was an unhappy man.  For he had a step-brother named Pelias, of whom some said that he was a nymph’s son, and there were dark and sad tales about his birth.  When he was a babe he was cast out on the mountains, and a wild mare came by and kicked him. But a shepherd passing found the baby, with its face all blackened by the blow; and took him home, and called him Pelias, because his face was bruised and black.  And he grew up fierce and lawless, and did many a fearful deed; and at last he drove out Æson his step-brother, and then his own brother Neleus, and took the kingdom to himself, and ruled over the rich Minuan heroes, in Iolcos by the sea.",
+    "is_header": false,
+    "word_count": 161,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Phrixus had a cousin named Aeson.",
+        "kr": "프릭소스에게는 아이손이라는 사촌이 있었습니다."
+      },
+      {
+        "id": 2,
+        "en": "Aeson was the king of Iolcos by the sea.",
+        "kr": "아이손은 바닷가에 있는 이올코스의 왕이었습니다."
+      },
+      {
+        "id": 3,
+        "en": "He ruled over the wealthy Minyan heroes there.",
+        "kr": "그는 그곳에서 부유한 미니아스 영웅들을 다스렸습니다."
+      },
+      {
+        "id": 4,
+        "en": "His uncle Athamas ruled in Boeotia.",
+        "kr": "그의 삼촌 아타마스는 보이오티아를 통치했습니다."
+      },
+      {
+        "id": 5,
+        "en": "Like his uncle, Aeson was a deeply unhappy man.",
+        "kr": "삼촌처럼 아이손 역시 무척 불행한 사람이었습니다."
+      },
+      {
+        "id": 6,
+        "en": "He had a stepbrother named Pelias.",
+        "kr": "그에게는 펠리아스라는 이복형제가 있었습니다."
+      },
+      {
+        "id": 7,
+        "en": "Some claimed Pelias was the son of a nymph.",
+        "kr": "어떤 이들은 펠리아스가 요정의 아들이라고 주장했습니다."
+      },
+      {
+        "id": 8,
+        "en": "There were dark and sad rumors about his birth.",
+        "kr": "그의 탄생에 얽힌 어둡고 슬픈 소문들이 있었습니다."
+      },
+      {
+        "id": 9,
+        "en": "As a baby, Pelias was abandoned in the mountains.",
+        "kr": "아기였을 때 펠리아스는 산에 버려졌습니다."
+      },
+      {
+        "id": 10,
+        "en": "A wild mare passed by and kicked him.",
+        "kr": "야생 암말이 지나가다가 그를 발로 찼습니다."
+      },
+      {
+        "id": 11,
+        "en": "A passing shepherd eventually found the baby.",
+        "kr": "지나가던 목동이 마침내 그 아기를 발견했습니다."
+      },
+      {
+        "id": 12,
+        "en": "The baby's face was completely bruised from the blow.",
+        "kr": "아기의 얼굴은 발길질을 당해 온통 멍들어 있었습니다."
+      },
+      {
+        "id": 13,
+        "en": "The shepherd took him home and named him Pelias.",
+        "kr": "목동은 그를 집으로 데려가 펠리아스라는 이름을 지어주었습니다."
+      },
+      {
+        "id": 14,
+        "en": "The name meant that his face was bruised and dark.",
+        "kr": "그 이름은 얼굴에 멍이 들고 까맣다는 뜻이었습니다."
+      },
+      {
+        "id": 15,
+        "en": "Pelias grew up to be fierce and lawless.",
+        "kr": "펠리아스는 자라면서 난폭하고 무법적인 사람이 되었습니다."
+      },
+      {
+        "id": 16,
+        "en": "He committed many terrible and violent deeds.",
+        "kr": "그는 끔찍하고 폭력적인 짓을 많이 저질렀습니다."
+      },
+      {
+        "id": 17,
+        "en": "Eventually, he drove out his stepbrother Aeson.",
+        "kr": "결국 그는 이복형제인 아이손을 내쫓았습니다."
+      },
+      {
+        "id": 18,
+        "en": "He also banished his own brother Neleus.",
+        "kr": "그는 친동생인 넬레우스마저 추방했습니다."
+      },
+      {
+        "id": 19,
+        "en": "Pelias claimed the kingdom entirely for himself.",
+        "kr": "펠리아스는 왕국을 온전히 차지했습니다."
+      },
+      {
+        "id": 20,
+        "en": "He then ruled the wealthy Minyan heroes in Iolcos.",
+        "kr": "그러고는 이올코스에서 부유한 미니아스 영웅들을 다스렸습니다."
+      }
+    ]
+  },
+  {
+    "id": 268,
+    "tag": "P0268",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "And Æson, when he was driven out, went sadly away out of the town, leading his little son by the hand; and he said to himself, ‘I must hide the child in the mountains; or Pelias will surely kill him, because he is the heir.’",
+    "is_header": false,
+    "word_count": 45,
+    "translation": [
+      {
+        "id": 1,
+        "en": "After being driven out, Aeson left the town in deep sorrow.",
+        "kr": "쫓겨난 후 아이손은 깊은 슬픔에 잠겨 마을을 떠났습니다."
+      },
+      {
+        "id": 2,
+        "en": "He walked away while leading his little son by the hand.",
+        "kr": "그는 어린 아들의 손을 잡고 걸어갔습니다."
+      },
+      {
+        "id": 3,
+        "en": "He quietly muttered a plan to himself.",
+        "kr": "그는 혼잣말로 조용히 계획을 중얼거렸습니다."
+      },
+      {
+        "id": 4,
+        "en": "I must hide the child safely in the mountains.",
+        "kr": "아이를 산속에 안전하게 숨겨야만 해."
+      },
+      {
+        "id": 5,
+        "en": "Otherwise, Pelias will certainly kill him.",
+        "kr": "그렇지 않으면 펠리아스가 틀림없이 아이를 죽일 거야."
+      },
+      {
+        "id": 6,
+        "en": "He will target my son because he is the true heir.",
+        "kr": "내 아들이 진정한 후계자이기 때문에 표적이 될 테니까."
+      }
+    ]
+  },
+  {
+    "id": 269,
+    "tag": "P0269",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "So he went up from the sea across the valley, through the vineyards and the olive groves, and across the torrent of Anauros, toward Pelion the ancient mountain, whose brows are white with snow.",
+    "is_header": false,
+    "word_count": 34,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Aeson walked up from the sea and crossed the valley.",
+        "kr": "아이손은 바다에서 올라와 계곡을 건넜습니다."
+      },
+      {
+        "id": 2,
+        "en": "He passed through the vineyards and olive groves.",
+        "kr": "그는 포도밭과 올리브 숲을 지나갔습니다."
+      },
+      {
+        "id": 3,
+        "en": "He carefully crossed the rushing waters of the Anauros.",
+        "kr": "그는 물살이 거센 아나우로스 강을 조심스럽게 건넜습니다."
+      },
+      {
+        "id": 4,
+        "en": "He headed toward the ancient mountain of Pelion.",
+        "kr": "그는 오래된 펠리온 산을 향해 나아갔습니다."
+      },
+      {
+        "id": 5,
+        "en": "The high peaks of the mountain were covered in white snow.",
+        "kr": "산의 높은 봉우리는 하얀 눈으로 덮여 있었습니다."
+      }
+    ]
+  },
+  {
+    "id": 270,
+    "tag": "P0270",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "He went up and up into the mountain, over marsh, and crag, and down, till the boy was tired and footsore, and Æson had to bear him in his arms, till he came to the mouth of a lonely cave, at the foot of a mighty cliff.",
+    "is_header": false,
+    "word_count": 47,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He climbed higher and higher into the steep mountain.",
+        "kr": "그는 가파른 산을 향해 높이 올라갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "He crossed over marshes, crags, and deep hills.",
+        "kr": "그는 늪과 바위 절벽, 깊은 언덕을 넘어갔습니다."
+      },
+      {
+        "id": 3,
+        "en": "Eventually, the boy became utterly exhausted.",
+        "kr": "마침내 소년은 완전히 지쳐버렸습니다."
+      },
+      {
+        "id": 4,
+        "en": "The child's feet were incredibly sore from walking.",
+        "kr": "아이의 발은 걷느라 너무나 아팠습니다."
+      },
+      {
+        "id": 5,
+        "en": "Aeson had to carry his son in his arms.",
+        "kr": "아이손은 아들을 품에 안고 가야 했습니다."
+      },
+      {
+        "id": 6,
+        "en": "They finally reached the mouth of a lonely cave.",
+        "kr": "그들은 마침내 외딴 동굴 입구에 다다랐습니다."
+      },
+      {
+        "id": 7,
+        "en": "The cave rested at the very foot of a massive cliff.",
+        "kr": "그 동굴은 거대한 절벽의 맨 아래쪽에 있었습니다."
+      }
+    ]
+  },
+  {
+    "id": 271,
+    "tag": "P0271",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "Above the cliff the snow-wreaths hung, dripping and cracking in the sun; but at its foot around the cave’s mouth grew all fair flowers and herbs, as if in a garden, ranged in order, each sort by itself.  There they grew gaily in the sunshine, and the spray of the torrent from above; while from the cave came the sound of music, and a man’s voice singing to the harp.",
+    "is_header": false,
+    "word_count": 70,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Thick snow hung heavily above the tall cliff.",
+        "kr": "높은 절벽 위에는 두꺼운 눈송이가 무겁게 매달려 있었습니다."
+      },
+      {
+        "id": 2,
+        "en": "The snow dripped and cracked under the warm sun.",
+        "kr": "눈은 따뜻한 햇살을 받아 녹아내리며 갈라졌습니다."
+      },
+      {
+        "id": 3,
+        "en": "But beautiful flowers and herbs grew at the cliff's base.",
+        "kr": "하지만 절벽 아래에는 아름다운 꽃과 약초가 자라고 있었습니다."
+      },
+      {
+        "id": 4,
+        "en": "They surrounded the mouth of the cave like a garden.",
+        "kr": "그것들은 마치 정원처럼 동굴 입구를 둘러싸고 있었습니다."
+      },
+      {
+        "id": 5,
+        "en": "Each type of plant was neatly arranged by itself.",
+        "kr": "각 식물들은 종류별로 깔끔하게 정리되어 있었습니다."
+      },
+      {
+        "id": 6,
+        "en": "They thrived brightly in the sunshine and river spray.",
+        "kr": "식물들은 햇빛과 강물의 물보라 속에서 생기 있게 자랐습니다."
+      },
+      {
+        "id": 7,
+        "en": "The sound of beautiful music drifted from the cave.",
+        "kr": "동굴에서는 아름다운 음악 소리가 흘러나왔습니다."
+      },
+      {
+        "id": 8,
+        "en": "A man's voice was singing softly to a harp.",
+        "kr": "한 남자의 목소리가 하프 연주에 맞춰 부드럽게 노래하고 있었습니다."
+      }
+    ]
+  },
+  {
+    "id": 272,
+    "tag": "P0272",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "Then Æson put down the lad, and whispered—",
+    "is_header": false,
+    "word_count": 8,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Aeson gently set the young boy down.",
+        "kr": "아이손은 어린 소년을 부드럽게 내려놓았습니다."
+      },
+      {
+        "id": 2,
+        "en": "He then leaned in and whispered softly to him.",
+        "kr": "그러고는 몸을 숙여 아이에게 조용히 속삭였습니다."
+      }
+    ]
+  },
+  {
+    "id": 273,
+    "tag": "P0273",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "‘Fear not, but go in, and whomsoever you shall find, lay your hands upon his knees, and say, “In the name of Zeus, the father of Gods and men, I am your guest from this day forth.”’",
+    "is_header": false,
+    "word_count": 37,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Do not be afraid, just go inside.",
+        "kr": "두려워하지 말고 안으로 들어가거라."
+      },
+      {
+        "id": 2,
+        "en": "Whoever you find, place your hands on his knees.",
+        "kr": "누구를 만나든 그의 무릎에 두 손을 얹어라."
+      },
+      {
+        "id": 3,
+        "en": "In the name of Zeus, father of gods and men.",
+        "kr": "신과 인간의 아버지이신 제우스의 이름으로."
+      },
+      {
+        "id": 4,
+        "en": "Tell him I am your guest from this day forward.",
+        "kr": "오늘부터 제가 당신의 손님입니다라고 말하거라."
+      }
+    ]
+  },
+  {
+    "id": 274,
+    "tag": "P0274",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "Then the lad went in without trembling, for he too was a hero’s son; but when he was within, he stopped in wonder to listen to that magic song.",
+    "is_header": false,
+    "word_count": 29,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The boy walked inside without any fear or trembling.",
+        "kr": "소년은 조금도 두려워하거나 떨지 않고 안으로 들어갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "He was incredibly brave because he was a hero's son.",
+        "kr": "그 역시 영웅의 아들이었기에 무척 용감했습니다."
+      },
+      {
+        "id": 3,
+        "en": "But once inside, he immediately stopped in his tracks.",
+        "kr": "하지만 안으로 들어가자마자 그는 곧장 걸음을 멈추었습니다."
+      },
+      {
+        "id": 4,
+        "en": "He listened to the magical song in pure wonder.",
+        "kr": "그는 순수한 경이로움 속에서 마법 같은 노래에 귀를 기울였습니다."
+      }
+    ]
+  },
+  {
+    "id": 275,
+    "tag": "P0275",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "And there he saw the singer lying upon bear-skins and fragrant boughs: Cheiron, the ancient centaur, the wisest of all things beneath the sky. Down to the waist he was a man, but below he was a noble horse; his white hair rolled down over his broad shoulders, and his white beard over his broad brown chest; and his eyes were wise and mild, and his forehead like a mountain-wall.",
+    "is_header": false,
+    "word_count": 70,
+    "translation": [
+      {
+        "id": 1,
+        "en": "There he saw the singer resting on bear skins.",
+        "kr": "그곳에서 그는 곰 가죽 위에 쉬고 있는 가수를 보았습니다."
+      },
+      {
+        "id": 2,
+        "en": "The singer lay among sweet and fragrant tree branches.",
+        "kr": "가수는 달콤하고 향긋한 나뭇가지들 사이에 누워 있었습니다."
+      },
+      {
+        "id": 3,
+        "en": "It was Chiron, the ancient and wise centaur.",
+        "kr": "그는 바로 늙고 지혜로운 켄타우로스인 케이론이었습니다."
+      },
+      {
+        "id": 4,
+        "en": "He was the wisest of all beings beneath the sky.",
+        "kr": "그는 하늘 아래 있는 모든 존재 중에서 가장 지혜로웠습니다."
+      },
+      {
+        "id": 5,
+        "en": "Down to his waist, he was a human man.",
+        "kr": "허리까지는 인간 남자의 모습이었습니다."
+      },
+      {
+        "id": 6,
+        "en": "But below his waist, he was a magnificent horse.",
+        "kr": "하지만 허리 아래는 늠름한 말의 형상을 하고 있었습니다."
+      },
+      {
+        "id": 7,
+        "en": "His white hair flowed heavily over his broad shoulders.",
+        "kr": "그의 하얀 머리카락은 넓은 어깨 위로 무겁게 흘러내렸습니다."
+      },
+      {
+        "id": 8,
+        "en": "His white beard covered his wide, brown chest.",
+        "kr": "하얀 수염은 넓고 갈색빛이 도는 가슴을 덮고 있었습니다."
+      },
+      {
+        "id": 9,
+        "en": "His eyes were deeply wise and very gentle.",
+        "kr": "그의 눈은 깊이 있는 지혜와 다정함을 품고 있었습니다."
+      },
+      {
+        "id": 10,
+        "en": "His forehead was as grand as a towering mountain wall.",
+        "kr": "그의 이마는 솟아오른 산벽처럼 웅장했습니다."
+      }
+    ]
+  },
+  {
+    "id": 276,
+    "tag": "P0276",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "And in his hands he held a harp of gold, and struck it with a golden key; and as he struck, he sang till his eyes glittered, and filled all the cave with light.",
+    "is_header": false,
+    "word_count": 34,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He held a beautiful golden harp in his hands.",
+        "kr": "그는 손에 아름다운 황금 하프를 들고 있었습니다."
+      },
+      {
+        "id": 2,
+        "en": "He struck its strings with a shining golden key.",
+        "kr": "그는 빛나는 황금 채로 하프 줄을 튕겼습니다."
+      },
+      {
+        "id": 3,
+        "en": "As he played, he sang with glittering eyes.",
+        "kr": "그는 하프를 연주하며 반짝이는 눈으로 노래를 불렀습니다."
+      },
+      {
+        "id": 4,
+        "en": "His brilliant presence filled the entire cave with light.",
+        "kr": "그의 찬란한 존재감은 동굴 전체를 빛으로 가득 채웠습니다."
+      }
+    ]
+  },
+  {
+    "id": 277,
+    "tag": "P0277",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "And he sang of the birth of Time, and of the heavens and the dancing stars; and of the ocean, and the ether, and the fire, and the shaping of the wondrous earth.  And he sang of the treasures of the hills, and the hidden jewels of the mine, and the veins of fire and metal, and the virtues of all healing herbs, and of the speech of birds, and of prophecy, and of hidden things to come.",
+    "is_header": false,
+    "word_count": 78,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He sang about the very birth of Time.",
+        "kr": "그는 시간이 탄생한 순간에 대해 노래했습니다."
+      },
+      {
+        "id": 2,
+        "en": "He sang of the heavens and the dancing stars.",
+        "kr": "그는 하늘과 춤추는 별들에 대해 노래했습니다."
+      },
+      {
+        "id": 3,
+        "en": "His song described the ocean, the air, and the fire.",
+        "kr": "그의 노래는 바다와 공기, 그리고 불을 묘사했습니다."
+      },
+      {
+        "id": 4,
+        "en": "He sang about the shaping of our wondrous earth.",
+        "kr": "그는 우리의 경이로운 지구가 어떻게 형성되었는지 노래했습니다."
+      },
+      {
+        "id": 5,
+        "en": "He also sang of the hidden treasures within the hills.",
+        "kr": "그는 언덕 속에 숨겨진 보물들에 대해서도 노래했습니다."
+      },
+      {
+        "id": 6,
+        "en": "He described the secret jewels buried deep in mines.",
+        "kr": "그는 광산 깊은 곳에 묻힌 비밀스러운 보석들을 묘사했습니다."
+      },
+      {
+        "id": 7,
+        "en": "His song revealed the winding veins of fire and metal.",
+        "kr": "그의 노래는 불과 금속이 흐르는 굽이치는 광맥을 보여주었습니다."
+      },
+      {
+        "id": 8,
+        "en": "He explained the healing powers of all medicinal herbs.",
+        "kr": "그는 모든 약초가 가진 치유의 힘을 설명했습니다."
+      },
+      {
+        "id": 9,
+        "en": "He sang of the unique languages spoken by birds.",
+        "kr": "그는 새들이 말하는 독특한 언어에 대해 노래했습니다."
+      },
+      {
+        "id": 10,
+        "en": "Finally, he sang of prophecies and hidden future events.",
+        "kr": "마지막으로 그는 예언과 숨겨진 미래의 사건들에 대해 노래했습니다."
+      }
+    ]
+  },
+  {
+    "id": 278,
+    "tag": "P0278",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "Then he sang of health, and strength, and manhood, and a valiant heart; and of music, and hunting, and wrestling, and all the games which heroes love: and of travel, and wars, and sieges, and a noble death in fight; and then he sang of peace and plenty, and of equal justice in the land; and as he sang the boy listened wide-eyed, and forgot his errand in the song.",
+    "is_header": false,
+    "word_count": 70,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He sang of health, strength, manhood, and a valiant heart.",
+        "kr": "그는 건강과 힘, 남성미, 그리고 용맹한 마음에 대해 노래했습니다."
+      },
+      {
+        "id": 2,
+        "en": "He sang of music, hunting, wrestling, and all the games heroes love.",
+        "kr": "또한 음악과 사냥, 레슬링, 그리고 영웅들이 사랑하는 모든 경기에 대해 노래했습니다."
+      },
+      {
+        "id": 3,
+        "en": "He sang of travel, wars, sieges, and a noble death in battle.",
+        "kr": "여행과 전쟁, 공성전, 그리고 전투에서의 고귀한 죽음에 대해서도 노래했습니다."
+      },
+      {
+        "id": 4,
+        "en": "Then he sang of peace and plenty, and of equal justice in the land.",
+        "kr": "그러고 나서 평화와 풍요, 그리고 이 땅의 평등한 정의에 대해 노래했습니다."
+      },
+      {
+        "id": 5,
+        "en": "As he sang, the wide-eyed boy listened and forgot his errand.",
+        "kr": "그가 노래하는 동안, 눈이 휘둥그레진 소년은 귀를 기울이며 자신의 심부름도 잊어버렸습니다."
+      }
+    ]
+  },
+  {
+    "id": 279,
+    "tag": "P0279",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "And at the last old Cheiron was silent, and called the lad with a soft voice.",
+    "is_header": false,
+    "word_count": 16,
+    "translation": [
+      {
+        "id": 1,
+        "en": "At last, old Chiron fell silent and called the boy with a soft voice.",
+        "kr": "마침내 늙은 케이론은 침묵을 지키더니, 부드러운 목소리로 소년을 불렀습니다."
+      }
+    ]
+  },
+  {
+    "id": 280,
+    "tag": "P0280",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "And the lad ran trembling to him, and would have laid his hands upon his knees; but Cheiron smiled, and said, ‘Call hither your father Æson, for I know you, and all that has befallen, and saw you both afar in the valley, even before you left the town.’",
+    "is_header": false,
+    "word_count": 49,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The boy ran trembling to him and reached out to touch his knees.",
+        "kr": "소년은 떨면서 그에게 달려가 그의 무릎에 손을 얹으려 했습니다."
+      },
+      {
+        "id": 2,
+        "en": "But Chiron smiled and spoke.",
+        "kr": "하지만 케이론은 미소를 지으며 말했습니다."
+      },
+      {
+        "id": 3,
+        "en": "Call your father Aeson here.",
+        "kr": "너의 아버지 아이손을 이곳으로 모셔오너라."
+      },
+      {
+        "id": 4,
+        "en": "I know who you are and everything that has happened.",
+        "kr": "나는 네가 누구인지, 그리고 무슨 일이 있었는지 모두 알고 있단다."
+      },
+      {
+        "id": 5,
+        "en": "I saw you both from afar in the valley, even before you left the town.",
+        "kr": "너희가 마을을 떠나기도 전에 계곡 멀리서 두 사람을 보았지."
+      }
+    ]
+  },
+  {
+    "id": 281,
+    "tag": "P0281",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "Then Æson came in sadly, and Cheiron asked him, ‘Why camest you not yourself to me, Æson the Æolid?’",
+    "is_header": false,
+    "word_count": 19,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Aeson came in sadly.",
+        "kr": "아이손이 슬픈 표정으로 들어왔습니다."
+      },
+      {
+        "id": 2,
+        "en": "Chiron asked him, Why did you not come to me yourself, Aeson, son of Aeolus?",
+        "kr": "케이론이 그에게 물었습니다. 아이올로스의 아들 아이손이여, 왜 직접 나를 찾아오지 않았소?"
+      }
+    ]
+  },
+  {
+    "id": 282,
+    "tag": "P0282",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "And Æson said—",
+    "is_header": false,
+    "word_count": 3,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Aeson replied.",
+        "kr": "아이손이 대답했습니다."
+      }
+    ]
+  },
+  {
+    "id": 283,
+    "tag": "P0283",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "‘I thought, Cheiron will pity the lad if he sees him come alone; and I wished to try whether he was fearless, and dare venture like a hero’s son.  But now I entreat you by Father Zeus, let the boy be your guest till better times, and train him among the sons of the heroes, that he may avenge his father’s house.’",
+    "is_header": false,
+    "word_count": 62,
+    "translation": [
+      {
+        "id": 1,
+        "en": "I thought you would pity the boy if you saw him come alone.",
+        "kr": "아이 혼자 오는 것을 보면 당신이 이 소년을 불쌍히 여길 것이라 생각했습니다."
+      },
+      {
+        "id": 2,
+        "en": "I also wanted to see if he was brave enough to venture out like a hero's son.",
+        "kr": "또한 영웅의 아들답게 두려움 없이 모험을 떠날 수 있는지 시험해 보고 싶었습니다."
+      },
+      {
+        "id": 3,
+        "en": "But now I beg you by Father Zeus to let him be your guest.",
+        "kr": "하지만 이제 아버지 제우스의 이름으로 간청하건대, 더 좋은 시절이 올 때까지 이 아이를 당신의 손님으로 받아 주십시오."
+      },
+      {
+        "id": 4,
+        "en": "Train him among the heroes' sons, so he may one day avenge his father's house.",
+        "kr": "영웅들의 아들들 사이에서 이 아이를 훈련시켜, 훗날 아버지 가문의 복수를 할 수 있게 해 주십시오."
+      }
+    ]
+  },
+  {
+    "id": 284,
+    "tag": "P0284",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "Then Cheiron smiled, and drew the lad to him, and laid his hand upon his golden locks, and said, ‘Are you afraid of my horse’s hoofs, fair boy, or will you be my pupil from this day?’",
+    "is_header": false,
+    "word_count": 37,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Chiron smiled and drew the boy close.",
+        "kr": "케이론은 미소를 지으며 소년을 가까이 끌어당겼습니다."
+      },
+      {
+        "id": 2,
+        "en": "He laid his hand on the boy's golden hair and spoke.",
+        "kr": "그는 소년의 금발 머리에 손을 얹고 말했습니다."
+      },
+      {
+        "id": 3,
+        "en": "Are you afraid of my horse's hooves, fair boy?",
+        "kr": "아름다운 소년아, 내 말발굽이 두렵느냐?"
+      },
+      {
+        "id": 4,
+        "en": "Or will you be my pupil from this day forward?",
+        "kr": "아니면 오늘부터 내 제자가 되겠느냐?"
+      }
+    ]
+  },
+  {
+    "id": 285,
+    "tag": "P0285",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "‘I would gladly have horse’s hoofs like you, if I could sing such songs as yours.’",
+    "is_header": false,
+    "word_count": 16,
+    "translation": [
+      {
+        "id": 1,
+        "en": "I would gladly have horse's hooves like you, if I could sing such songs.",
+        "kr": "선생님처럼 그런 노래를 부를 수 있다면, 저도 기꺼이 말발굽을 갖고 싶습니다."
+      }
+    ]
+  },
+  {
+    "id": 286,
+    "tag": "P0286",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "And Cheiron laughed, and said, ‘Sit here by me till sundown, when your playfellows will come home, and you shall learn like them to be a king, worthy to rule over gallant men.’",
+    "is_header": false,
+    "word_count": 33,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Chiron laughed and nodded.",
+        "kr": "케이론은 웃으며 고개를 끄덕였습니다."
+      },
+      {
+        "id": 2,
+        "en": "Sit here by me until sundown.",
+        "kr": "해가 질 때까지 내 곁에 앉아 있거라."
+      },
+      {
+        "id": 3,
+        "en": "Your playmates will come home then.",
+        "kr": "그때쯤이면 네 놀이 친구들이 돌아올 것이다."
+      },
+      {
+        "id": 4,
+        "en": "You will learn alongside them to be a king worthy of ruling brave men.",
+        "kr": "너는 그들과 함께 용감한 사람들을 다스리기에 합당한 왕이 되는 법을 배울 것이다."
+      }
+    ]
+  },
+  {
+    "id": 287,
+    "tag": "P0287",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "Then he turned to Æson, and said, ‘Go back in peace, and bend before the storm like a prudent man.  This boy shall not cross the Anauros again, till he has become a glory to you and to the house of Æolus.’",
+    "is_header": false,
+    "word_count": 42,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Then he turned to Aeson.",
+        "kr": "그러고 나서 그는 아이손을 돌아보았습니다."
+      },
+      {
+        "id": 2,
+        "en": "Go back in peace, and bend before the storm like a wise man.",
+        "kr": "평안히 돌아가 현명한 사람처럼 폭풍우 앞에서는 몸을 낮추시오."
+      },
+      {
+        "id": 3,
+        "en": "This boy will not cross the Anauros again until he becomes a glory to you and the house of Aeolus.",
+        "kr": "이 소년은 당신과 아이올로스 가문의 영광이 될 때까지는 아나우로스 강을 다시 건너지 않을 것이오."
+      }
+    ]
+  },
+  {
+    "id": 288,
+    "tag": "P0288",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "And Æson wept over his son and went away; but the boy did not weep, so full was his fancy of that strange cave, and the centaur, and his song, and the playfellows whom he was to see.",
+    "is_header": false,
+    "word_count": 38,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Aeson wept over his son before walking away.",
+        "kr": "아이손은 아들을 안고 눈물을 흘린 뒤 떠났습니다."
+      },
+      {
+        "id": 2,
+        "en": "But the boy did not shed a tear.",
+        "kr": "하지만 소년은 눈물 한 방울 흘리지 않았습니다."
+      },
+      {
+        "id": 3,
+        "en": "His mind was too full of that strange cave, the centaur, and his song.",
+        "kr": "그의 마음은 그 신비로운 동굴과 켄타우로스, 그리고 그의 노래로 가득 차 있었습니다."
+      },
+      {
+        "id": 4,
+        "en": "He was already eager to meet his new playmates.",
+        "kr": "그는 이미 새로운 놀이 친구들을 만날 생각에 잔뜩 부풀어 있었습니다."
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "tag": "P0289",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "Then Cheiron put the lyre into his hands, and taught him how to play it, till the sun sank low behind the cliff, and a shout was heard outside.",
+    "is_header": false,
+    "word_count": 29,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Chiron put the lyre into his hands and taught him how to play.",
+        "kr": "케이론은 수금을 소년의 손에 쥐여 주고 연주하는 법을 가르쳤습니다."
+      },
+      {
+        "id": 2,
+        "en": "They played until the sun sank low behind the cliff and a shout was heard outside.",
+        "kr": "그들은 해가 절벽 뒤로 뉘엿뉘엿 지고 밖에서 함성이 들려올 때까지 연주를 계속했습니다."
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "tag": "P0290",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "And then in came the sons of the heroes, Æneas, and Heracles, and Peleus, and many another mighty name.",
+    "is_header": false,
+    "word_count": 19,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Then the sons of the heroes arrived.",
+        "kr": "영웅들의 아들들이 도착했습니다."
+      },
+      {
+        "id": 2,
+        "en": "Aeneas, Heracles, Peleus, and many other mighty names walked in.",
+        "kr": "아이네이아스, 헤라클레스, 펠레우스를 비롯한 수많은 위대한 이름들이 들어왔습니다."
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "tag": "P0291",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "And great Cheiron leapt up joyfully, and his hoofs made the cave resound, as they shouted, ‘Come out, Father Cheiron; come out and see our game.’ And one cried, ‘I have killed two deer;’ and another, ‘I took a wild cat among the crags;’ and Heracles dragged a wild goat after him by its horns, for he was as huge as a mountain crag; and Coeneus carried a bear-cub under each arm, and laughed when they scratched and bit, for neither tooth nor steel could wound him.",
+    "is_header": false,
+    "word_count": 87,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The great Chiron leaped up joyfully.",
+        "kr": "위대한 케이론이 기뻐하며 펄쩍 뛰어올랐습니다."
+      },
+      {
+        "id": 2,
+        "en": "His hooves made the cave resound as the boys shouted.",
+        "kr": "그의 발굽 소리가 동굴에 울려 퍼졌고, 소년들은 소리쳤습니다."
+      },
+      {
+        "id": 3,
+        "en": "Come out, Father Chiron! Come out and see our game!",
+        "kr": "아버지 케이론, 나와 보세요! 나와서 우리가 잡은 사냥감을 보세요!"
+      },
+      {
+        "id": 4,
+        "en": "One boy cried out that he had killed two deer.",
+        "kr": "한 소년은 사슴 두 마리를 잡았다고 외쳤습니다."
+      },
+      {
+        "id": 5,
+        "en": "Another claimed he caught a wildcat among the crags.",
+        "kr": "다른 소년은 바위산에서 삵을 잡았다고 자랑했습니다."
+      },
+      {
+        "id": 6,
+        "en": "Heracles dragged a wild goat by its horns.",
+        "kr": "헤라클레스는 야생 염소의 뿔을 잡고 끌고 왔습니다."
+      },
+      {
+        "id": 7,
+        "en": "He was already as huge as a mountain crag himself.",
+        "kr": "그는 이미 산의 바위처럼 거대했습니다."
+      },
+      {
+        "id": 8,
+        "en": "Caeneus carried a bear cub under each arm.",
+        "kr": "카이네우스는 양팔에 곰 새끼를 한 마리씩 끼고 있었습니다."
+      },
+      {
+        "id": 9,
+        "en": "He laughed when they scratched and bit him.",
+        "kr": "그는 곰들이 할퀴고 물어뜯어도 웃기만 했습니다."
+      },
+      {
+        "id": 10,
+        "en": "Neither tooth nor steel could wound him.",
+        "kr": "어떤 이빨이나 강철도 그에게 상처를 입힐 수 없었기 때문입니다."
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "tag": "P0292",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "And Cheiron praised them all, each according to his deserts.",
+    "is_header": false,
+    "word_count": 10,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Chiron praised them all.",
+        "kr": "케이론은 그들 모두를 칭찬했습니다."
+      },
+      {
+        "id": 2,
+        "en": "He gave each boy the exact credit he deserved.",
+        "kr": "그는 각 소년이 이룬 공로에 맞게 정확히 칭찬해 주었습니다."
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "tag": "P0293",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "[Picture: Cheiron]",
+    "is_header": false,
+    "word_count": 2,
+    "translation": [
+      {
+        "id": 1,
+        "en": "[Picture: Chiron]",
+        "kr": "[그림: 케이론]"
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "tag": "P0294",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "Only one walked apart and silent, Asclepius, the too-wise child, with his bosom full of herbs and flowers, and round his wrist a spotted snake; he came with downcast eyes to Cheiron, and whispered how he had watched the snake cast its old skin, and grow young again before his eyes, and how he had gone down into a village in the vale, and cured a dying man with a herb which he had seen a sick goat eat.",
+    "is_header": false,
+    "word_count": 79,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Only Asclepius walked apart in silence.",
+        "kr": "오직 아스클레피오스만이 조용히 떨어져 걸었습니다."
+      },
+      {
+        "id": 2,
+        "en": "He was a child wise beyond his years.",
+        "kr": "그는 나이에 비해 너무나 지혜로운 아이였습니다."
+      },
+      {
+        "id": 3,
+        "en": "His chest was full of herbs and flowers.",
+        "kr": "그의 품은 약초와 꽃으로 가득했습니다."
+      },
+      {
+        "id": 4,
+        "en": "A spotted snake was wrapped around his wrist.",
+        "kr": "그의 손목에는 점박이 뱀이 감겨 있었습니다."
+      },
+      {
+        "id": 5,
+        "en": "He came to Chiron with downcast eyes.",
+        "kr": "그는 눈을 내리깐 채 케이론에게 다가왔습니다."
+      },
+      {
+        "id": 6,
+        "en": "He whispered about watching the snake shed its old skin.",
+        "kr": "그는 뱀이 허물을 벗는 것을 보았다고 속삭였습니다."
+      },
+      {
+        "id": 7,
+        "en": "The snake had grown young again right before his eyes.",
+        "kr": "뱀은 그의 눈앞에서 다시 젊어졌습니다."
+      },
+      {
+        "id": 8,
+        "en": "He also told how he had visited a valley village.",
+        "kr": "그는 또한 계곡 마을에 내려갔던 일도 말했습니다."
+      },
+      {
+        "id": 9,
+        "en": "There, he cured a dying man with a special herb.",
+        "kr": "그곳에서 그는 특별한 약초로 죽어가는 사람을 고쳤습니다."
+      },
+      {
+        "id": 10,
+        "en": "He had discovered it by watching a sick goat eat it.",
+        "kr": "그는 병든 염소가 그 약초를 먹는 것을 보고 그 효능을 알아냈습니다."
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "tag": "P0295",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "And Cheiron smiled, and said, ‘To each Athené and Apollo give some gift, and each is worthy in his place; but to this child they have given an honour beyond all honours, to cure while others kill.’",
+    "is_header": false,
+    "word_count": 37,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Chiron smiled at the young boy.",
+        "kr": "케이론은 어린 소년을 보며 미소 지었습니다."
+      },
+      {
+        "id": 2,
+        "en": "Athena and Apollo give everyone a special gift, he said.",
+        "kr": "아테나와 아폴론은 모두에게 특별한 재능을 주신단다, 그가 말했습니다."
+      },
+      {
+        "id": 3,
+        "en": "Each gift is worthy in its own place.",
+        "kr": "각자의 재능은 제자리에서 가치를 빛낸단다."
+      },
+      {
+        "id": 4,
+        "en": "But they have given this child the greatest honor of all.",
+        "kr": "하지만 신들은 이 아이에게 가장 위대한 영광을 주셨구나."
+      },
+      {
+        "id": 5,
+        "en": "He has the power to cure while others kill.",
+        "kr": "다른 이들이 목숨을 빼앗을 때, 이 아이는 생명을 살리는 능력을 가졌단다."
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "tag": "P0296",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "Then the lads brought in wood, and split it, and lighted a blazing fire; and others skinned the deer and quartered them, and set them to roast before the fire; and while the venison was cooking they bathed in the snow-torrent, and washed away the dust and sweat.",
+    "is_header": false,
+    "word_count": 48,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The boys brought in wood and split it.",
+        "kr": "소년들은 장작을 가져와 쪼갰습니다."
+      },
+      {
+        "id": 2,
+        "en": "They soon lit a blazing fire.",
+        "kr": "그들은 곧 활활 타오르는 불을 피웠습니다."
+      },
+      {
+        "id": 3,
+        "en": "Others skinned and quartered the deer.",
+        "kr": "다른 소년들은 사슴의 가죽을 벗기고 고기를 토막 냈습니다."
+      },
+      {
+        "id": 4,
+        "en": "They set the meat to roast before the fire.",
+        "kr": "그들은 고기를 불 앞에 두고 굽기 시작했습니다."
+      },
+      {
+        "id": 5,
+        "en": "While the venison cooked, they bathed in the icy stream.",
+        "kr": "사슴 고기가 익어가는 동안, 그들은 얼음장 같은 계곡물에 목욕을 했습니다."
+      },
+      {
+        "id": 6,
+        "en": "The boys washed away their dust and sweat.",
+        "kr": "소년들은 먼지와 땀을 말끔히 씻어냈습니다."
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "tag": "P0297",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "And then all ate till they could eat no more (for they had tasted nothing since the dawn), and drank of the clear spring water, for wine is not fit for growing lads.  And when the remnants were put away, they all lay down upon the skins and leaves about the fire, and each took the lyre in turn, and sang and played with all his heart.",
+    "is_header": false,
+    "word_count": 67,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Everyone ate until they could eat no more.",
+        "kr": "모두가 더 이상 먹을 수 없을 때까지 배불리 먹었습니다."
+      },
+      {
+        "id": 2,
+        "en": "They had tasted nothing since dawn.",
+        "kr": "그들은 새벽부터 아무것도 먹지 못했습니다."
+      },
+      {
+        "id": 3,
+        "en": "They drank only clear spring water.",
+        "kr": "그들은 맑은 샘물만 마셨습니다."
+      },
+      {
+        "id": 4,
+        "en": "Wine was not fit for growing boys.",
+        "kr": "포도주는 한창 자라는 소년들에게 어울리지 않았기 때문입니다."
+      },
+      {
+        "id": 5,
+        "en": "Soon, the leftover food was put away.",
+        "kr": "곧 남은 음식이 치워졌습니다."
+      },
+      {
+        "id": 6,
+        "en": "They all lay down on skins and leaves near the fire.",
+        "kr": "그들은 모두 모닥불 근처의 짐승 가죽과 나뭇잎 위에 누웠습니다."
+      },
+      {
+        "id": 7,
+        "en": "Each boy took a turn playing the lyre.",
+        "kr": "소년들은 돌아가며 리라를 연주했습니다."
+      },
+      {
+        "id": 8,
+        "en": "They sang and played with all their hearts.",
+        "kr": "그들은 온 마음을 다해 노래하고 연주했습니다."
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "tag": "P0298",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "And after a while they all went out to a plot of grass at the cave’s mouth, and there they boxed, and ran, and wrestled, and laughed till the stones fell from the cliffs.",
+    "is_header": false,
+    "word_count": 34,
+    "translation": [
+      {
+        "id": 1,
+        "en": "After a while, they went out to a grassy spot.",
+        "kr": "잠시 후, 그들은 동굴 입구의 잔디밭으로 나갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "It was located right at the mouth of the cave.",
+        "kr": "그곳은 바로 동굴 어귀에 있었습니다."
+      },
+      {
+        "id": 3,
+        "en": "There they boxed, ran, and wrestled.",
+        "kr": "그곳에서 그들은 권투를 하고, 달리기와 레슬링을 했습니다."
+      },
+      {
+        "id": 4,
+        "en": "They laughed so loudly that stones fell from the cliffs.",
+        "kr": "그들은 절벽에서 돌이 굴러떨어질 정도로 크게 웃었습니다."
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "tag": "P0299",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "Then Cheiron took his lyre, and all the lads joined hands; and as be played, they danced to his measure, in and out, and round and round. There they danced hand in hand, till the night fell over land and sea, while the black glen shone with their broad white limbs and the gleam of their golden hair.",
+    "is_header": false,
+    "word_count": 58,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Then Chiron took up his lyre.",
+        "kr": "그러자 케이론이 리라를 집어 들었습니다."
+      },
+      {
+        "id": 2,
+        "en": "All the boys joined hands together.",
+        "kr": "모든 소년들이 서로 손을 잡았습니다."
+      },
+      {
+        "id": 3,
+        "en": "As he played, they danced to his rhythm.",
+        "kr": "그의 연주에 맞춰 소년들은 리듬을 타며 춤을 추었습니다."
+      },
+      {
+        "id": 4,
+        "en": "They moved in and out, spinning round and round.",
+        "kr": "그들은 안팎으로 오가며 빙글빙글 돌았습니다."
+      },
+      {
+        "id": 5,
+        "en": "They danced hand in hand until night fell.",
+        "kr": "그들은 밤이 찾아올 때까지 손을 잡고 춤을 추었습니다."
+      },
+      {
+        "id": 6,
+        "en": "The dark glen shone with their broad, pale limbs.",
+        "kr": "어두운 계곡은 그들의 넓고 하얀 팔다리로 빛났습니다."
+      },
+      {
+        "id": 7,
+        "en": "Their golden hair gleamed brightly in the night.",
+        "kr": "그들의 금발 머리가 밤하늘 아래서 밝게 반짝였습니다."
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "tag": "P0300",
+    "chapter_id": "ch_06",
+    "story": "Story II: The Argonauts",
+    "part": "Part I: How the Centaur Trained the Heroes on Pelion",
+    "raw": "And the lad danced with them, delighted, and then slept a wholesome sleep, upon fragrant leaves of bay, and myrtle, and marjoram, and flowers of thyme; and rose at the dawn, and bathed in the torrent, and became a schoolfellow to the heroes’ sons, and forgot Iolcos, and his father, and all his former life.  But he grew strong, and brave and cunning, upon the pleasant downs of Pelion, in the keen hungry mountain air.  And he learnt to wrestle, and to box, and to hunt, and to play upon the harp; and next he learnt to ride, for old Cheiron used to mount him on his back; and he learnt the virtues of all herbs and how to cure all wounds; and Cheiron called him Jason the healer, and that is his name until this day.",
+    "is_header": false,
+    "word_count": 137,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Jason danced with them in sheer delight.",
+        "kr": "이아손은 큰 기쁨에 차서 그들과 함께 춤을 추었습니다."
+      },
+      {
+        "id": 2,
+        "en": "He slept deeply on fragrant leaves and herbs.",
+        "kr": "그는 향긋한 나뭇잎과 약초 위에서 깊은 잠에 빠졌습니다."
+      },
+      {
+        "id": 3,
+        "en": "His bed was made of bay, myrtle, and thyme flowers.",
+        "kr": "그의 잠자리는 월계수, 은매화, 타임 꽃으로 만들어졌습니다."
+      },
+      {
+        "id": 4,
+        "en": "He rose at dawn and bathed in the rushing stream.",
+        "kr": "그는 새벽에 일어나 거센 계곡물에 몸을 씻었습니다."
+      },
+      {
+        "id": 5,
+        "en": "He became a classmate to the sons of heroes.",
+        "kr": "그는 영웅들의 아들들과 함께 배우는 동창생이 되었습니다."
+      },
+      {
+        "id": 6,
+        "en": "He soon forgot Iolcus, his father, and his past life.",
+        "kr": "그는 곧 이올코스와 아버지, 그리고 과거의 삶을 잊었습니다."
+      },
+      {
+        "id": 7,
+        "en": "He grew strong, brave, and clever on Mount Pelion.",
+        "kr": "그는 펠리온 산에서 강하고 용감하며 영리하게 자랐습니다."
+      },
+      {
+        "id": 8,
+        "en": "The sharp, crisp mountain air fueled his hunger.",
+        "kr": "차갑고 상쾌한 산 공기가 그의 식욕을 돋우었습니다."
+      },
+      {
+        "id": 9,
+        "en": "He learned to wrestle, box, hunt, and play the harp.",
+        "kr": "그는 레슬링, 권투, 사냥, 하프 연주를 배웠습니다."
+      },
+      {
+        "id": 10,
+        "en": "Next, he learned to ride a horse.",
+        "kr": "다음으로 그는 말 타는 법을 배웠습니다."
+      },
+      {
+        "id": 11,
+        "en": "Old Chiron used to let the boy ride on his back.",
+        "kr": "늙은 케이론은 종종 소년을 자신의 등에 태워주곤 했습니다."
+      },
+      {
+        "id": 12,
+        "en": "He learned the healing virtues of every herb.",
+        "kr": "그는 모든 약초의 치유 효능을 배웠습니다."
+      },
+      {
+        "id": 13,
+        "en": "He discovered how to cure all kinds of wounds.",
+        "kr": "그는 온갖 상처를 치료하는 방법도 깨우쳤습니다."
+      },
+      {
+        "id": 14,
+        "en": "Chiron named him Jason, which means the healer.",
+        "kr": "케이론은 그에게 치유자라는 뜻의 이아손이라는 이름을 지어주었습니다."
+      },
+      {
+        "id": 15,
+        "en": "That has remained his name to this very day.",
+        "kr": "그 이름은 오늘날까지도 그의 이름으로 남아 있습니다."
+      }
+    ]
+  }
+]

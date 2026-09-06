@@ -1,0 +1,746 @@
+[
+  {
+    "id": 18,
+    "tag": "P0018",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "PART I HOW PERSEUS AND HIS MOTHER CAME TO SERIPHOS",
+    "is_header": true,
+    "word_count": 10,
+    "translation": [
+      {
+        "id": 1,
+        "en": "[Part 1: How Perseus and His Mother Came to Seriphos]",
+        "kr": "[1부: 페르세우스와 그의 어머니가 세리포스 섬에 오다]"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "tag": "P0019",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "Once upon a time there were two princes who were twins.  Their names were Acrisius and Prœtus, and they lived in the pleasant vale of Argos, far away in Hellas.  They had fruitful meadows and vineyards, sheep and oxen, great herds of horses feeding down in Lerna Fen, and all that men could need to make them blest: and yet they were wretched, because they were jealous of each other.  From the moment they were born they began to quarrel; and when they grew up each tried to take away the other’s share of the kingdom, and keep all for himself.  So first Acrisius drove out Prœtus; and he went across the seas, and brought home a foreign princess for his wife, and foreign warriors to help him, who were called Cyclopes; and drove out Acrisius in his turn; and then they fought a long while up and down the land, till the quarrel was settled, and Acrisius took Argos and one half the land, and Prœtus took Tiryns and the other half.  And Prœtus and his Cyclopes built around Tiryns great walls of unhewn stone, which are standing to this day.",
+    "is_header": false,
+    "word_count": 192,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Once upon a time, there were twin princes named Acrisius and Proetus.",
+        "kr": "옛날 옛적에 쌍둥이 왕자 아크리시오스와 프로이토스가 있었습니다."
+      },
+      {
+        "id": 2,
+        "en": "They lived in the pleasant valley of Argos, far away in ancient Greece.",
+        "kr": "그들은 아득히 먼 고대 그리스의 평화로운 아르고스 계곡에 살았습니다."
+      },
+      {
+        "id": 3,
+        "en": "They had fertile meadows, rich vineyards, sheep, oxen, and great herds of horses grazing down in the Lerna Fen.",
+        "kr": "그들에게는 비옥한 목초지와 풍성한 포도원, 양과 소, 그리고 레르나 늪지대에서 풀을 뜯는 엄청난 말 떼가 있었습니다."
+      },
+      {
+        "id": 4,
+        "en": "They had everything a man could need to be happy, yet they were miserable because they were intensely jealous of each other.",
+        "kr": "그들은 사람이 행복해지는 데 필요한 모든 것을 갖추고 있었음에도 불구하고 서로를 몹시 질투했기 때문에 불행했습니다."
+      },
+      {
+        "id": 5,
+        "en": "They began to quarrel from the moment they were born.",
+        "kr": "그들은 태어나는 순간부터 다투기 시작했습니다."
+      },
+      {
+        "id": 6,
+        "en": "When they grew up, each tried to steal the other's share of the kingdom to keep it all for himself.",
+        "kr": "어른이 되자 그들은 왕국을 모두 차지하기 위해 서로의 몫을 빼앗으려 했습니다."
+      },
+      {
+        "id": 7,
+        "en": "First, Acrisius drove Proetus out.",
+        "kr": "먼저 아크리시오스가 프로이토스를 쫓아냈습니다."
+      },
+      {
+        "id": 8,
+        "en": "Proetus fled across the sea and returned with a foreign princess for a wife and an army of massive foreign builders known as Cyclopes.",
+        "kr": "프로이토스는 바다 건너로 달아났다가 외국 공주를 아내로 맞이하고 키클롭스라 불리는 거대한 이방인 건축가들의 군대를 이끌고 돌아왔습니다."
+      },
+      {
+        "id": 9,
+        "en": "Proetus then drove Acrisius out.",
+        "kr": "그러고는 프로이토스가 아크리시오스를 쫓아냈습니다."
+      },
+      {
+        "id": 10,
+        "en": "The two fought back and forth across the land for a long time until they finally settled the quarrel.",
+        "kr": "두 사람은 다툼을 완전히 끝낼 때까지 오랫동안 영토를 오가며 싸웠습니다."
+      },
+      {
+        "id": 11,
+        "en": "Acrisius took the city of Argos and half the land, while Proetus took the city of Tiryns and the other half.",
+        "kr": "마침내 아크리시오스는 아르고스 시와 영토의 절반을 차지했고, 프로이토스는 티린스 시와 나머지 절반을 차지했습니다."
+      },
+      {
+        "id": 12,
+        "en": "Proetus and his giant Cyclopes built massive walls of rough, uncarved stone around Tiryns, which are still standing to this day.",
+        "kr": "프로이토스와 그의 거인 키클롭스들은 티린스 주변에 깎지 않은 거친 돌로 거대한 성벽을 쌓았으며, 그 성벽은 오늘날까지도 남아 있습니다."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "tag": "P0020",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "But there came a prophet to that hard-hearted Acrisius and prophesied against him, and said, ‘Because you have risen up against your own blood, your own blood shall rise up against you; because you have sinned against your kindred, by your kindred you shall be punished.  Your daughter Danae shall bear a son, and by that son’s hands you shall die.  So the Gods have ordained, and it will surely come to pass.’",
+    "is_header": false,
+    "word_count": 73,
+    "translation": [
+      {
+        "id": 1,
+        "en": "One day, a prophet came to the hard-hearted King Acrisius and delivered a dark warning.",
+        "kr": "어느 날, 예언자 한 명이 냉혹한 아크리시오스 왕에게 와서 어두운 경고를 전했습니다."
+      },
+      {
+        "id": 2,
+        "en": "Because you have risen up against your own blood, your own blood shall rise up against you, the prophet said.",
+        "kr": "당신이 자신의 핏줄을 거슬러 일어났으니, 당신의 핏줄이 당신을 거슬러 일어날 것이오, 하고 예언자는 말했습니다."
+      },
+      {
+        "id": 3,
+        "en": "Because you have sinned against your family, your family will punish you.",
+        "kr": "당신이 당신의 가족에게 죄를 지었으니, 당신의 가족이 당신을 벌할 것이오."
+      },
+      {
+        "id": 4,
+        "en": "Your daughter, Danae, will bear a son, and you will die by that boy's hands.",
+        "kr": "당신의 딸 다나에가 아들을 낳을 것이며, 당신은 그 소년의 손에 죽게 될 것이오."
+      },
+      {
+        "id": 5,
+        "en": "The gods have ordained it, and it will surely come to pass.",
+        "kr": "신들께서 그렇게 명하셨으니, 이 일은 반드시 일어날 것이오."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "tag": "P0021",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "And at that Acrisius was very much afraid; but he did not mend his ways. He had been cruel to his own family, and, instead of repenting and being kind to them, he went on to be more cruel than ever: for he shut up his fair daughter Danae in a cavern underground, lined with brass, that no one might come near her.  So he fancied himself more cunning than the Gods: but you will see presently whether he was able to escape them.",
+    "is_header": false,
+    "word_count": 84,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Acrisius was terrified, but he did not change his ways.",
+        "kr": "아크리시오스는 몹시 두려웠지만, 자신의 방식을 고치지는 않았습니다."
+      },
+      {
+        "id": 2,
+        "en": "He had always been cruel to his family, and instead of repenting and showing kindness, he became even more vicious.",
+        "kr": "그는 항상 가족에게 잔인하게 굴었고, 회개하고 다정함을 보여주는 대신 더욱더 악랄해졌습니다."
+      },
+      {
+        "id": 3,
+        "en": "He locked his beautiful daughter, Danae, in an underground cavern lined with solid bronze so that no one could ever come near her.",
+        "kr": "그는 아름다운 딸 다나에를 튼튼한 청동으로 덧댄 지하 동굴에 가두어 아무도 그녀 곁에 갈 수 없게 만들었습니다."
+      },
+      {
+        "id": 4,
+        "en": "He thought he was outsmarting the gods, but you will soon see if anyone can truly escape them.",
+        "kr": "그는 자신이 신들보다 영리하다고 생각했지만, 정말로 신들을 피할 수 있는 사람은 아무도 없다는 것을 여러분은 곧 알게 될 것입니다."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "tag": "P0022",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "Now it came to pass that in time Danae bore a son; so beautiful a babe that any but King Acrisius would have had pity on it.  But he had no pity; for he took Danae and her babe down to the seashore, and put them into a great chest and thrust them out to sea, for the winds and the waves to carry them whithersoever they would.",
+    "is_header": false,
+    "word_count": 68,
+    "translation": [
+      {
+        "id": 1,
+        "en": "In time, Danae gave birth to a son.",
+        "kr": "시간이 흘러 다나에는 아들을 낳았습니다."
+      },
+      {
+        "id": 2,
+        "en": "The baby was so beautiful that anyone but King Acrisius would have felt pity for him.",
+        "kr": "그 아기는 너무나도 아름다워서 아크리시오스 왕만 아니었다면 누구라도 불쌍히 여겼을 것입니다."
+      },
+      {
+        "id": 3,
+        "en": "But the king had no mercy.",
+        "kr": "하지만 왕에게는 자비가 없었습니다."
+      },
+      {
+        "id": 4,
+        "en": "He dragged Danae and her infant down to the seashore, locked them inside a massive wooden chest, and shoved them out to sea.",
+        "kr": "그는 다나에와 아기를 바닷가로 끌고 가 거대한 나무 궤짝 안에 가두고는 바다로 밀어버렸습니다."
+      },
+      {
+        "id": 5,
+        "en": "He left them for the winds and waves to carry wherever they pleased.",
+        "kr": "그는 바람과 파도가 마음대로 그들을 실어가도록 내버려 두었습니다."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "tag": "P0023",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "The north-west wind blew freshly out of the blue mountains, and down the pleasant vale of Argos, and away and out to sea.  And away and out to sea before it floated the mother and her babe, while all who watched them wept, save that cruel father, King Acrisius.",
+    "is_header": false,
+    "word_count": 49,
+    "translation": [
+      {
+        "id": 1,
+        "en": "A brisk northwest wind blew out of the blue mountains, sweeping down the pleasant valley of Argos and out across the water.",
+        "kr": "상쾌한 북서풍이 푸른 산맥에서 불어와 평화로운 아르고스 계곡을 휩쓸고 탁 트인 바다로 빠져나갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "The mother and her baby floated away over the open sea.",
+        "kr": "어머니와 아기는 망망대해 위로 떠내려갔습니다."
+      },
+      {
+        "id": 3,
+        "en": "Everyone who watched them go wept for them, except for that cruel father, King Acrisius.",
+        "kr": "그들이 떠나는 모습을 지켜본 모든 이들이 그들을 위해 눈물을 흘렸지만, 그 잔인한 아버지 아크리시오스 왕만은 예외였습니다."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "tag": "P0024",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "So they floated on and on, and the chest danced up and down upon the billows, and the baby slept upon its mother’s breast: but the poor mother could not sleep, but watched and wept, and she sang to her baby as they floated; and the song which she sang you shall learn yourselves some day.",
+    "is_header": false,
+    "word_count": 56,
+    "translation": [
+      {
+        "id": 1,
+        "en": "They floated on and on.",
+        "kr": "그들은 끊임없이 떠내려갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "The chest danced up and down upon the rolling waves, and the baby slept peacefully against his mother's breast.",
+        "kr": "궤짝은 굽이치는 파도 위에서 위아래로 춤을 추었고, 아기는 어머니의 가슴에 안겨 평화롭게 잠들었습니다."
+      },
+      {
+        "id": 3,
+        "en": "But the poor mother could not sleep.",
+        "kr": "하지만 가엾은 어머니는 잠들 수 없었습니다."
+      },
+      {
+        "id": 4,
+        "en": "She stayed awake, watching the water and weeping.",
+        "kr": "그녀는 깨어난 채로 바다를 바라보며 눈물을 흘렸습니다."
+      },
+      {
+        "id": 5,
+        "en": "As they drifted, she sang a lullaby to her baby—a song you might learn yourselves one day.",
+        "kr": "그들이 떠내려가는 동안 그녀는 아기에게 자장가를 불러주었습니다. 이 노래는 언젠가 여러분도 직접 배우게 될지도 모릅니다."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "tag": "P0025",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "And now they are past the last blue headland, and in the open sea; and there is nothing round them but the waves, and the sky, and the wind. But the waves are gentle, and the sky is clear, and the breeze is tender and low; for these are the days when Halcyone and Ceyx build their nests, and no storms ever ruffle the pleasant summer sea.",
+    "is_header": false,
+    "word_count": 67,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Soon they drifted past the last blue headland and out into the open sea.",
+        "kr": "머지않아 그들은 마지막 푸른 곶을 지나 탁 트인 바다로 나아갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "There was nothing around them but waves, sky, and wind.",
+        "kr": "그들 주위에는 파도와 하늘, 그리고 바람뿐이었습니다."
+      },
+      {
+        "id": 3,
+        "en": "Thankfully, the waves were gentle, the sky was clear, and the breeze was soft.",
+        "kr": "다행히도 파도는 잔잔했고, 하늘은 맑았으며, 산들바람은 부드러웠습니다."
+      },
+      {
+        "id": 4,
+        "en": "These were the calm halcyon days of summer, a time when no storms ever ruffle the pleasant waters of the sea.",
+        "kr": "이때는 어떤 폭풍우도 즐거운 여름 바다를 흔들지 않는, 평온한 할시온 데이즈(할키오네의 날들)였습니다."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "tag": "P0026",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "[Picture: Danae and her babe]",
+    "is_header": false,
+    "word_count": 5,
+    "translation": [
+      {
+        "id": 1,
+        "en": "[Illustration: Danae and her baby adrift in the chest]",
+        "kr": "[삽화: 궤짝에 실려 바다를 떠도는 다나에와 아기]"
+      }
+    ],
+    "image": "images/01_danae_and_baby.jpg"
+  },
+  {
+    "id": 27,
+    "tag": "P0027",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "And who were Halcyone and Ceyx?  You shall hear while the chest floats on.  Halcyone was a fairy maiden, the daughter of the beach and of the wind.  And she loved a sailor-boy, and married him; and none on earth were so happy as they.  But at last Ceyx was wrecked; and before he could swim to the shore the billows swallowed him up.  And Halcyone saw him drowning, and leapt into the sea to him; but in vain.  Then the Immortals took pity on them both, and changed them into two fair sea-birds; and now they build a floating nest every year, and sail up and down happily for ever upon the pleasant seas of Greece.",
+    "is_header": false,
+    "word_count": 117,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Who were Halcyone and Ceyx?",
+        "kr": "할키오네와 케윅스가 누구일까요?"
+      },
+      {
+        "id": 2,
+        "en": "You shall hear their story while the chest floats on.",
+        "kr": "궤짝이 떠내려가는 동안 그들의 이야기를 들려드리겠습니다."
+      },
+      {
+        "id": 3,
+        "en": "Halcyone was a fairy maiden, a daughter of the beach and the wind.",
+        "kr": "할키오네는 해변과 바람의 딸인 요정이었습니다."
+      },
+      {
+        "id": 4,
+        "en": "She fell in love with a young sailor named Ceyx, and they were married.",
+        "kr": "그녀는 케윅스라는 젊은 선원과 사랑에 빠져 그와 결혼했습니다."
+      },
+      {
+        "id": 5,
+        "en": "No one on earth was as happy as they were.",
+        "kr": "이 세상 그 누구도 그들만큼 행복하지 않았습니다."
+      },
+      {
+        "id": 6,
+        "en": "But one day, Ceyx was shipwrecked.",
+        "kr": "하지만 어느 날, 케윅스는 난파를 당했습니다."
+      },
+      {
+        "id": 7,
+        "en": "Before he could swim to shore, the massive waves swallowed him.",
+        "kr": "그가 기슭으로 헤엄쳐 가기도 전에 거대한 파도가 그를 삼켜버렸습니다."
+      },
+      {
+        "id": 8,
+        "en": "Halcyone saw him drowning and leaped into the sea to save him, but it was too late.",
+        "kr": "할키오네는 그가 물에 빠지는 것을 보고 그를 구하기 위해 바다로 뛰어들었지만, 이미 너무 늦고 말았습니다."
+      },
+      {
+        "id": 9,
+        "en": "The gods took pity on the tragic lovers and transformed them into two beautiful sea-birds.",
+        "kr": "신들은 이 비극적인 연인들을 가엾게 여겨 그들을 두 마리의 아름다운 바닷새로 변하게 해주었습니다."
+      },
+      {
+        "id": 10,
+        "en": "Now, they build a floating nest every year and sail happily together forever upon the calm summer seas of Greece.",
+        "kr": "이제 그들은 매년 물에 뜨는 둥지를 짓고 그리스의 잔잔한 여름 바다 위를 영원히 행복하게 항해합니다."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "tag": "P0028",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "So a night passed, and a day, and a long day it was for Danae; and another night and day beside, till Danae was faint with hunger and weeping, and yet no land appeared.  And all the while the babe slept quietly; and at last poor Danae drooped her head and fell asleep likewise with her cheek against the babe’s.",
+    "is_header": false,
+    "word_count": 60,
+    "translation": [
+      {
+        "id": 1,
+        "en": "A night passed, and then a long, exhausting day for Danae.",
+        "kr": "다나에에게는 하룻밤, 그리고 지루하고 고단한 하루가 지나갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "Another night and day went by.",
+        "kr": "또다시 하루와 하룻밤이 지나갔습니다."
+      },
+      {
+        "id": 3,
+        "en": "Danae grew weak and faint from hunger and weeping, yet there was still no land in sight.",
+        "kr": "다나에는 굶주림과 눈물로 쇠약해지고 기절할 지경이 되었지만, 여전히 육지는 보이지 않았습니다."
+      },
+      {
+        "id": 4,
+        "en": "The baby slept quietly through it all.",
+        "kr": "아기는 그 모든 시간 동안 조용히 잠을 잤습니다."
+      },
+      {
+        "id": 5,
+        "en": "Finally, poor Danae let her head droop and fell asleep with her cheek resting against her child's.",
+        "kr": "마침내 가엾은 다나에는 고개를 떨구고 아이의 뺨에 자신의 뺨을 기댄 채 잠이 들었습니다."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "tag": "P0029",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "After a while she was awakened suddenly; for the chest was jarring and grinding, and the air was full of sound.  She looked up, and over her head were mighty cliffs, all red in the setting sun, and around her rocks and breakers, and flying flakes of foam.  She clasped her hands together, and shrieked aloud for help.  And when she cried, help met her: for now there came over the rocks a tall and stately man, and looked down wondering upon poor Danae tossing about in the chest among the waves.",
+    "is_header": false,
+    "word_count": 92,
+    "translation": [
+      {
+        "id": 1,
+        "en": "A sudden, jarring grind woke her.",
+        "kr": "갑작스럽게 삐걱거리는 마찰음이 그녀를 깨웠습니다."
+      },
+      {
+        "id": 2,
+        "en": "The air was filled with a roaring sound.",
+        "kr": "허공에는 굉음이 가득했습니다."
+      },
+      {
+        "id": 3,
+        "en": "She looked up and saw massive cliffs towering over her, glowing red in the setting sun.",
+        "kr": "그녀가 위를 올려다보니, 지는 해에 붉게 물든 거대한 절벽들이 그녀 위로 우뚝 솟아 있었습니다."
+      },
+      {
+        "id": 4,
+        "en": "Around her, the water crashed against jagged rocks, sending flakes of white foam flying through the air.",
+        "kr": "그녀 주위로는 뾰족한 바위들에 부딪힌 물결이 부서지며 하얀 거품 조각들을 공중으로 날려 보냈습니다."
+      },
+      {
+        "id": 5,
+        "en": "She clasped her hands together and screamed for help.",
+        "kr": "그녀는 두 손을 마주 잡고 살려달라고 비명을 질렀습니다."
+      },
+      {
+        "id": 6,
+        "en": "As she cried out, help arrived.",
+        "kr": "그녀가 소리쳤을 때, 도움이 찾아왔습니다."
+      },
+      {
+        "id": 7,
+        "en": "A tall, stately man climbed over the rocks and looked down in wonder at poor Danae tossing in the chest among the waves.",
+        "kr": "키가 크고 기품 있는 한 남자가 바위를 넘어와 파도 사이로 궤짝 안에서 흔들리고 있는 가엾은 다나에를 놀란 눈으로 내려다보았습니다."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "tag": "P0030",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "He wore a rough cloak of frieze, and on his head a broad hat to shade his face; in his hand he carried a trident for spearing fish, and over his shoulder was a casting-net; but Danae could see that he was no common man by his stature, and his walk, and his flowing golden hair and beard; and by the two servants who came behind him, carrying baskets for his fish. But she had hardly time to look at him, before he had laid aside his trident and leapt down the rocks, and thrown his casting-net so surely over Danae and the chest, that he drew it, and her, and the baby, safe upon a ledge of rock.",
+    "is_header": false,
+    "word_count": 119,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He wore a rough woolen cloak and a broad hat to shade his face.",
+        "kr": "그는 거친 양모 망토를 입고 얼굴을 가리기 위해 챙이 넓은 모자를 썼습니다."
+      },
+      {
+        "id": 2,
+        "en": "He carried a heavy, three-pronged trident for spearing fish in one hand, and a casting net hung over his shoulder.",
+        "kr": "그는 한 손에 물고기를 찌르기 위한 무거운 삼지창을 들고 있었고, 어깨에는 투망이 걸려 있었습니다."
+      },
+      {
+        "id": 3,
+        "en": "Two servants followed him, carrying baskets for his catch.",
+        "kr": "두 명의 하인이 그가 잡은 물고기를 담을 바구니를 들고 그의 뒤를 따랐습니다."
+      },
+      {
+        "id": 4,
+        "en": "But Danae could tell from his impressive height, his confident walk, and his flowing golden hair and beard that he was no ordinary man.",
+        "kr": "하지만 다나에는 그의 인상적인 키와 자신감 넘치는 걸음걸이, 그리고 흩날리는 금발 머리와 수염을 보고 그가 평범한 남자가 아니라는 것을 알 수 있었습니다."
+      },
+      {
+        "id": 5,
+        "en": "Before she could even get a good look at him, he dropped his trident, leaped down the rocks, and threw his heavy net perfectly over Danae and the chest.",
+        "kr": "그녀가 그를 제대로 쳐다보기도 전에, 그는 삼지창을 내려놓고 바위 아래로 뛰어내려 다나에와 궤짝 위로 완벽하게 무거운 그물을 던졌습니다."
+      },
+      {
+        "id": 6,
+        "en": "With a mighty pull, he dragged the chest, the mother, and the baby to safety onto a flat ledge of rock.",
+        "kr": "그는 엄청난 힘으로 그물을 당겨 궤짝과 어머니, 아기를 안전한 평평한 바위 턱 위로 끌어올렸습니다."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "tag": "P0031",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "Then the fisherman took Danae by the hand, and lifted her out of the chest, and said—",
+    "is_header": false,
+    "word_count": 17,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The fisherman gently took Danae by the hand, helped her out of the chest, and said,",
+        "kr": "어부는 부드럽게 다나에의 손을 잡아 궤짝 밖으로 나오도록 도와주며 말했습니다."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "tag": "P0032",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "‘O beautiful damsel, what strange chance has brought you to this island in so flail a ship?  Who are you, and whence?  Surely you are some king’s daughter; and this boy has somewhat more than mortal.’",
+    "is_header": false,
+    "word_count": 36,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Beautiful lady, what strange accident has brought you to this island in such a fragile ship?",
+        "kr": "아름다운 여인이여, 무슨 기이한 사고로 이렇게 부서지기 쉬운 배를 타고 이 섬에 오게 되었소?"
+      },
+      {
+        "id": 2,
+        "en": "Who are you, and where did you come from?",
+        "kr": "당신은 누구이며 어디서 왔소?"
+      },
+      {
+        "id": 3,
+        "en": "Surely you must be a king's daughter.",
+        "kr": "틀림없이 당신은 어느 왕의 딸일 것이오."
+      },
+      {
+        "id": 4,
+        "en": "And this boy seems more than just mortal.",
+        "kr": "그리고 이 소년은 그저 평범한 인간 이상인 것 같구려."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "tag": "P0033",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "And as he spoke he pointed to the babe; for its face shone like the morning star.",
+    "is_header": false,
+    "word_count": 17,
+    "translation": [
+      {
+        "id": 1,
+        "en": "As he spoke, he pointed to the baby, whose face shone as brightly as the morning star.",
+        "kr": "이렇게 말하며 그는 샛별처럼 밝게 빛나는 얼굴을 가진 아기를 가리켰습니다."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "tag": "P0034",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "But Danae only held down her head, and sobbed out—",
+    "is_header": false,
+    "word_count": 10,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Danae simply bowed her head and sobbed,",
+        "kr": "다나에는 그저 고개를 숙이고 흐느껴 울며 말했습니다."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "tag": "P0035",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "‘Tell me to what land I have come, unhappy that I am; and among what men I have fallen!’",
+    "is_header": false,
+    "word_count": 19,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Please, tell me what land I have reached, and what kind of men I have found here!",
+        "kr": "제발, 제가 어떤 땅에 도착했는지, 그리고 제가 어떤 분들을 만나게 되었는지 말씀해 주세요!"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "tag": "P0036",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "And he said, ‘This isle is called Seriphos, and I am a Hellen, and dwell in it.  I am the brother of Polydectes the king; and men call me Dictys the netter, because I catch the fish of the shore.’",
+    "is_header": false,
+    "word_count": 40,
+    "translation": [
+      {
+        "id": 1,
+        "en": "This island is called Seriphos,\" he replied. \"I am a Greek, and I live here. I am the brother of King Polydectes. People call me Dictys the Netter, because I catch fish along the shore.",
+        "kr": "그는 대답했습니다. 이 섬은 세리포스라 불린다오. 나는 그리스인이며 여기에 살고 있소. 나는 폴리덱테스 왕의 형제라오. 사람들은 나를 해안가에서 물고기를 잡는다고 해서 '그물 치는 딕티스'라고 부르지."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "tag": "P0037",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "Then Danae fell down at his feet, and embraced his knees, and cried—",
+    "is_header": false,
+    "word_count": 13,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Danae fell to her knees at his feet and cried,",
+        "kr": "다나에는 그의 발밑에 무릎을 꿇고 울부짖었습니다."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "tag": "P0038",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "‘Oh, sir, have pity upon a stranger, whom a cruel doom has driven to your land; and let me live in your house as a servant; but treat me honourably, for I was once a king’s daughter, and this my boy (as you have truly said) is of no common race.  I will not be a charge to you, or eat the bread of idleness; for I am more skilful in weaving and embroidery than all the maidens of my land.’",
+    "is_header": false,
+    "word_count": 81,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Oh, sir, please have pity on a stranger driven to your land by a cruel fate!",
+        "kr": "오, 어르신, 잔인한 운명에 이끌려 당신의 땅으로 오게 된 이방인을 제발 불쌍히 여겨 주세요!"
+      },
+      {
+        "id": 2,
+        "en": "Let me live in your house as a servant, but treat me with honor.",
+        "kr": "저를 당신의 집에 하녀로 살게 해주시되, 저를 명예롭게 대우해 주세요."
+      },
+      {
+        "id": 3,
+        "en": "I was once a king's daughter, and this boy, as you guessed, comes from a noble bloodline.",
+        "kr": "저는 한때 왕의 딸이었고, 이 아이는 당신이 짐작하신 대로 고귀한 핏줄을 타고났습니다."
+      },
+      {
+        "id": 4,
+        "en": "I will not be a burden to you or eat your food without earning it.",
+        "kr": "저는 당신에게 짐이 되거나 일하지 않고 당신의 음식을 먹지는 않을 것입니다."
+      },
+      {
+        "id": 5,
+        "en": "I am more skilled at weaving and embroidery than any maiden in my homeland.",
+        "kr": "저는 제 고향의 어떤 처녀보다 베 짜기와 자수에 능숙합니다."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "tag": "P0039",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "And she was going on; but Dictys stopped her, and raised her up, and said—",
+    "is_header": false,
+    "word_count": 15,
+    "translation": [
+      {
+        "id": 1,
+        "en": "She would have continued, but Dictys gently stopped her. He raised her to her feet and said,",
+        "kr": "그녀가 계속 말하려 했으나, 딕티스가 그녀를 부드럽게 멈춰 세웠습니다. 그는 그녀를 일으켜 세우며 말했습니다."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "tag": "P0040",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "‘My daughter, I am old, and my hairs are growing gray; while I have no children to make my home cheerful.  Come with me then, and you shall be a daughter to me and to my wife, and this babe shall be our grandchild. For I fear the Gods, and show hospitality to all strangers; knowing that good deeds, like evil ones, always return to those who do them.’",
+    "is_header": false,
+    "word_count": 69,
+    "translation": [
+      {
+        "id": 1,
+        "en": "My daughter, I am old and my hair is gray.",
+        "kr": "내 딸이여, 나는 늙었고 머리는 희끗희끗하다오."
+      },
+      {
+        "id": 2,
+        "en": "I have no children of my own to bring joy to my home.",
+        "kr": "내 집을 즐겁게 해줄 내 자식은 없소."
+      },
+      {
+        "id": 3,
+        "en": "Come with me.",
+        "kr": "나와 함께 가시구려."
+      },
+      {
+        "id": 4,
+        "en": "You shall be a daughter to me and my wife, and this baby will be our grandson.",
+        "kr": "당신은 나와 내 아내에게 딸이 될 것이고, 이 아기는 우리의 손자가 될 것이오."
+      },
+      {
+        "id": 5,
+        "en": "I fear the gods and always offer hospitality to strangers.",
+        "kr": "나는 신들을 경외하며 낯선 이들에게 항상 환대를 베푼다오."
+      },
+      {
+        "id": 6,
+        "en": "I know that good deeds, just like evil ones, always return to the people who do them.",
+        "kr": "나는 악한 일과 마찬가지로 선한 일도 항상 그것을 행한 사람에게 돌아간다는 것을 알고 있소."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "tag": "P0041",
+    "chapter_id": "ch_01",
+    "story": "Story I: Perseus",
+    "part": "Part I: How Perseus and His Mother Came to Seriphos",
+    "raw": "So Danae was comforted, and went home with Dictys the good fisherman, and was a daughter to him and to his wife, till fifteen years were past.",
+    "is_header": false,
+    "word_count": 27,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Danae was deeply comforted. She went home with Dictys, the good fisherman, and lived happily as a daughter to him and his wife for fifteen long years.",
+        "kr": "다나에는 깊은 위로를 받았습니다. 그녀는 선량한 어부 딕티스와 함께 집으로 돌아가 그와 그의 아내에게 친딸처럼 지내며 15년이라는 긴 세월 동안 행복하게 살았습니다."
+      }
+    ]
+  }
+]

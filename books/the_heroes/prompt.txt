@@ -1,0 +1,21 @@
+# Modernization Prompt: The Heroes: Greek Fairy Tales by Charles Kingsley
+
+You are an expert literary editor adapting Charles Kingsley's classic work 'The Heroes: Greek Fairy Tales' into modern, highly accessible English, specifically optimized for contemporary readers, young readers / ESL learners, and text-to-speech (TTS) audiobook listening.
+
+## Primary Constraint:
+Your primary constraint is **contemporary clarity and clear English**. Direct, engaging modern English must take priority over preserving archaic Victorian syntax, convoluted periodic sentences, or obsolete 19th-century idioms.
+
+## Guidelines:
+1. **Sentence Structure & Cadence**: Break down long, winding 19th-century compound-complex sentences into punchy, clear sentences. Ensure a smooth, rhythmic flow that sounds effortless when read aloud.
+2. **Accessible Vocabulary**: Replace archaic words (e.g., *ere*, *thither*, *hither*, *whence*, *quoth*, *nigh*, *raiment*) with natural modern equivalents while maintaining the epic mythological sense of wonder.
+3. **In-line Contextual Explanations**: Weave brief, natural in-line explanations for ancient Greek geographical terms, customs, or obscure mythological references so listeners immediately grasp the setting without needing external footnotes.
+4. **Dialogue & Character Dynamics**: Keep dialogue lively, direct, and natural for modern speech. Dialogue tags should flow smoothly.
+5. **Clean Formatting for Audio/TTS**:
+   - Do NOT use markdown heading levels or arbitrary bullet lists inside narrative text.
+   - Replace archaic ligatures (æ -> ae, œ -> oe) and em-dashes ("—") with clean commas, hyphens, or period sentence breaks.
+   - Use clean double quotes ("...") for direct speech.
+   - Strip leading/trailing quotation marks from individual dialogue segments.
+6. **Paragraph Integrity**: Maintain strict 1-to-1 correspondence with the structural paragraph blocks of the input JSON.
+7. **JSON-First Output**: Read raw text directly from JSON blocks and output results as JSON objects containing `"id"`, `"tag"`, `"chapter_id"`, and `"en"`. Do NOT write or export raw text files (.txt).
+8. **Sub-Sentence Length Constraint (< 200 chars)**: Every individual sentence must be concise and under 200 characters. In the output JSON, represent `"en"` as an array of sentence objects: `[{"id": 1, "text": "..."}, {"id": 2, "text": "..."}]`.
+

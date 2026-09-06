@@ -1,0 +1,162 @@
+[
+    {
+        "id": 399,
+        "tag": "P0399",
+        "chapter_id": "ch_09",
+        "story": "Story II: The Argonauts",
+        "part": "Part IV: How the Argonauts Sailed to Colchis",
+        "raw": "Then up rose Zetes and Calais, the winged sons of the North-wind, and said, ?~Do you not know us, Phineus, and these wings which grow upon our backs??T  And Phineus hid his face in terror; but he answered not a word.",
+        "is_header": false,
+        "word_count": 41,
+        "translation": [
+            {
+                "id": 1,
+                "en": "Then Zetes and Calais, the winged sons of the North Wind, stood up.",
+                "kr": "그러자 북풍의 날개 달린 아들들인 제테스와 칼라이스가 일어났습니다."
+            },
+            {
+                "id": 2,
+                "en": "They asked, Do you not know us, Phineus, and these wings on our backs?",
+                "kr": "그들이 물었습니다. 피네우스, 우리와 우리 등에서 자라난 이 날개들을 알아보지 못하시겠습니까?"
+            },
+            {
+                "id": 3,
+                "en": "Phineus hid his face in terror, but he did not answer a word.",
+                "kr": "피네우스는 공포에 질려 얼굴을 숨겼지만, 한마디도 대답하지 못했습니다."
+            }
+        ]
+    },
+    {
+        "id": 400,
+        "tag": "P0400",
+        "chapter_id": "ch_09",
+        "story": "Story II: The Argonauts",
+        "part": "Part IV: How the Argonauts Sailed to Colchis",
+        "raw": "?~Because you have been a traitor, Phineus, the Harpies haunt you night and day.  Where is Cleopatra our sister, your wife, whom you keep in prison? and where are her two children, whom you blinded in your rage, at the bidding of an evil woman, and cast them out upon the rocks?  Swear to us that you will right our sister, and cast out that wicked woman; and then we will free you from your plague, and drive the whirlwind maidens to the south; but if not, we will put out your eyes, as you put out the eyes of your own sons.?T",
+        "is_header": false,
+        "word_count": 103,
+        "translation": [
+            {
+                "id": 1,
+                "en": "Because you have been a traitor, Phineus, the Harpies haunt you night and day.",
+                "kr": "당신이 배신자였기 때문에 하피들이 밤낮으로 당신을 괴롭히는 것입니다, 피네우스."
+            },
+            {
+                "id": 2,
+                "en": "Where is our sister Cleopatra, your wife, whom you keep in prison?",
+                "kr": "당신이 감옥에 가둬둔 당신의 아내이자 우리 누이인 클레오파트라는 어디 있습니까?"
+            },
+            {
+                "id": 3,
+                "en": "Where are her two children, whom you blinded in rage and cast upon the rocks?",
+                "kr": "사악한 여자의 꼬임에 넘어가 분노로 눈을 멀게 하고 바위 위에 내다 버린 두 아이는 어디 있습니까?"
+            },
+            {
+                "id": 4,
+                "en": "Swear that you will restore our sister and banish that wicked woman.",
+                "kr": "우리 누이의 권리를 되찾아 주고 그 사악한 여자를 내쫓겠다고 맹세하십시오."
+            },
+            {
+                "id": 5,
+                "en": "Then we will free you from your plague and drive the winged maidens south.",
+                "kr": "그러면 우리가 당신을 그 재앙에서 구해주고 날개 달린 처녀들을 남쪽으로 쫓아내겠습니다."
+            },
+            {
+                "id": 6,
+                "en": "If not, we will put out your eyes just as you blinded your own sons.",
+                "kr": "만약 그렇지 않으면, 당신이 친아들들의 눈을 멀게 한 것처럼 우리도 당신의 눈을 멀게 할 것입니다."
+            }
+        ]
+    },
+    {
+        "id": 401,
+        "tag": "P0401",
+        "chapter_id": "ch_09",
+        "story": "Story II: The Argonauts",
+        "part": "Part IV: How the Argonauts Sailed to Colchis",
+        "raw": "Then Phineus swore an oath to them, and drove out the wicked woman; and Jason took those two poor children, and cured their eyes with magic herbs.",
+        "is_header": false,
+        "word_count": 27,
+        "translation": [
+            {
+                "id": 1,
+                "en": "Phineus swore an oath to them and drove out the wicked woman.",
+                "kr": "피네우스는 그들에게 맹세하고 사악한 여자를 쫓아냈습니다."
+            },
+            {
+                "id": 2,
+                "en": "Jason took those two poor children and cured their eyes with magic herbs.",
+                "kr": "이아손은 그 두 불쌍한 아이들을 데려와 마법의 약초로 눈을 치료해주었습니다."
+            }
+        ]
+    },
+    {
+        "id": 402,
+        "tag": "P0402",
+        "chapter_id": "ch_09",
+        "story": "Story II: The Argonauts",
+        "part": "Part IV: How the Argonauts Sailed to Colchis",
+        "raw": "But Zetes and Calais rose up sadly and said, ?~Farewell now, heroes all; farewell, our dear companions, with whom we played on Pelion in old times; for a fate is laid upon us, and our day is come at last, in which we must hunt the whirlwinds over land and sea for ever; and if we catch them they die, and if not, we die ourselves.?T",
+        "is_header": false,
+        "word_count": 66,
+        "translation": [
+            {
+                "id": 1,
+                "en": "Zetes and Calais stood up sadly.",
+                "kr": "제테스와 칼라이스는 슬프게 일어났습니다."
+            },
+            {
+                "id": 2,
+                "en": "Farewell now, all you heroes.",
+                "kr": "이제 안녕히 계십시오, 모든 영웅들이여."
+            },
+            {
+                "id": 3,
+                "en": "Farewell, our dear companions, with whom we played on Mount Pelion in the old days.",
+                "kr": "우리가 옛날 펠리온 산에서 함께 놀았던 사랑하는 동료들이여, 안녕히 계십시오."
+            },
+            {
+                "id": 4,
+                "en": "A tragic fate is laid upon us, and our time has finally come.",
+                "kr": "우리에게 비극적인 운명이 주어졌고, 마침내 우리의 때가 왔습니다."
+            },
+            {
+                "id": 5,
+                "en": "We must hunt the whirlwinds over land and sea forever.",
+                "kr": "우리는 영원히 육지와 바다를 넘어 회오리바람을 쫓아야만 합니다."
+            },
+            {
+                "id": 6,
+                "en": "If we catch them, they die, but if we fail, we die ourselves.",
+                "kr": "우리가 그들을 잡으면 그들이 죽지만, 우리가 실패하면 우리 스스로가 죽게 됩니다."
+            }
+        ]
+    },
+    {
+        "id": 403,
+        "tag": "P0403",
+        "chapter_id": "ch_09",
+        "story": "Story II: The Argonauts",
+        "part": "Part IV: How the Argonauts Sailed to Colchis",
+        "raw": "At that all the heroes wept; but the two young men sprang up, and aloft into the air after the Harpies, and the battle of the winds began.",
+        "is_header": false,
+        "word_count": 28,
+        "translation": [
+            {
+                "id": 1,
+                "en": "At that, all the heroes wept.",
+                "kr": "그 말에 모든 영웅들이 눈물을 흘렸습니다."
+            },
+            {
+                "id": 2,
+                "en": "The two young men sprang high into the air to chase the Harpies.",
+                "kr": "두 청년은 하피들을 쫓기 위해 공중으로 높이 뛰어올랐습니다."
+            },
+            {
+                "id": 3,
+                "en": "Thus, the great battle of the winds began.",
+                "kr": "이렇게 하여 바람들의 거대한 전투가 시작되었습니다."
+            }
+        ]
+    }
+]

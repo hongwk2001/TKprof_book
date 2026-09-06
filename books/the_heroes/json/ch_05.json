@@ -1,0 +1,1148 @@
+[
+  {
+    "id": 221,
+    "tag": "P0221",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "PART V HOW PERSEUS CAME HOME AGAIN",
+    "is_header": true,
+    "word_count": 7,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Part V: How Perseus Came Home Again",
+        "kr": "[5부: 페르세우스가 고향으로 돌아오다]"
+      }
+    ]
+  },
+  {
+    "id": 222,
+    "tag": "P0222",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "And when a year was ended Perseus hired Phoenicians from Tyre, and cut down cedars, and built himself a noble galley; and painted its cheeks with vermilion, and pitched its sides with pitch; and in it he put Andromeda, and all her dowry of jewels, and rich shawls, and spices from the East; and great was the weeping when they rowed away.  But the remembrance of his brave deed was left behind; and Andromeda’s rock was shown at Iopa in Palestine till more than a thousand years were past.",
+    "is_header": false,
+    "word_count": 89,
+    "translation": [
+      {
+        "id": 1,
+        "en": "When a year had passed, Perseus hired Phoenicians from Tyre.",
+        "kr": "일 년이 지나자, 페르세우스는 티레에서 페니키아인들을 고용했습니다."
+      },
+      {
+        "id": 2,
+        "en": "He cut down cedars and built himself a noble ship.",
+        "kr": "그는 삼나무를 베어 훌륭한 배를 만들었습니다."
+      },
+      {
+        "id": 3,
+        "en": "He painted its bow with bright red and sealed its sides with pitch.",
+        "kr": "배의 선수에는 밝은 붉은색을 칠하고 측면은 역청으로 막았습니다."
+      },
+      {
+        "id": 4,
+        "en": "Inside, he placed Andromeda with all her dowry of jewels, fine shawls, and Eastern spices.",
+        "kr": "그 안에는 안드로메다와 그녀의 지참금인 보석, 화려한 숄, 동방의 향신료를 실었습니다."
+      },
+      {
+        "id": 5,
+        "en": "There was great weeping when they finally rowed away.",
+        "kr": "그들이 마침내 노를 저어 떠날 때 사람들은 크게 슬퍼하며 울었습니다."
+      },
+      {
+        "id": 6,
+        "en": "But the memory of his brave deed remained.",
+        "kr": "하지만 그의 용감한 업적에 대한 기억은 그곳에 남았습니다."
+      },
+      {
+        "id": 7,
+        "en": "Andromedas rock was shown at Iopa in Palestine for over a thousand years.",
+        "kr": "안드로메다가 묶였던 바위는 천 년이 넘도록 팔레스타인의 이오파 지역에 전시되었습니다."
+      }
+    ]
+  },
+  {
+    "id": 223,
+    "tag": "P0223",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "So Perseus and the Phoenicians rowed to the westward, across the sea of Crete, till they came to the blue Ægean and the pleasant Isles of Hellas, and Seriphos, his ancient home.",
+    "is_header": false,
+    "word_count": 32,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus and the Phoenicians rowed westward across the sea of Crete.",
+        "kr": "페르세우스와 페니키아인들은 크레타 바다를 가로질러 서쪽으로 노를 저었습니다."
+      },
+      {
+        "id": 2,
+        "en": "They sailed until they reached the blue Aegean Sea and the pleasant islands of Hellas.",
+        "kr": "그들은 푸른 에게해와 아름다운 헬라스의 섬들에 도달할 때까지 항해했습니다."
+      },
+      {
+        "id": 3,
+        "en": "Finally, they arrived at Seriphos, his old home.",
+        "kr": "마침내 그들은 그의 옛 고향인 세리포스에 도착했습니다."
+      }
+    ]
+  },
+  {
+    "id": 224,
+    "tag": "P0224",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "Then he left his galley on the beach, and went up as of old; and he embraced his mother, and Dictys his good foster-father, and they wept over each other a long while, for it was seven years and more since they had met.",
+    "is_header": false,
+    "word_count": 44,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He left his ship on the beach and walked up the familiar path.",
+        "kr": "그는 해변에 배를 남겨두고 익숙한 길을 따라 걸어 올라갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "He embraced his mother and Dictys, his good foster-father.",
+        "kr": "그는 어머니와 훌륭한 양아버지 딕티스를 끌어안았습니다."
+      },
+      {
+        "id": 3,
+        "en": "They wept together for a long time.",
+        "kr": "그들은 오랫동안 함께 눈물을 흘렸습니다."
+      },
+      {
+        "id": 4,
+        "en": "It had been more than seven years since they last saw each other.",
+        "kr": "그들이 마지막으로 만난 지 7년이 넘게 지났기 때문입니다."
+      }
+    ]
+  },
+  {
+    "id": 225,
+    "tag": "P0225",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "Then Perseus went out, and up to the hall of Polydectes; and underneath the goat-skin he bore the Gorgon’s head.",
+    "is_header": false,
+    "word_count": 20,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Then Perseus went out and walked up to the hall of Polydectes.",
+        "kr": "그런 다음 페르세우스는 밖으로 나가 폴리덱테스의 궁전으로 향했습니다."
+      },
+      {
+        "id": 2,
+        "en": "Hidden underneath his goat-skin cloak, he carried the Gorgons head.",
+        "kr": "그의 염소 가죽 망토 아래에는 고르곤의 머리가 숨겨져 있었습니다."
+      }
+    ]
+  },
+  {
+    "id": 226,
+    "tag": "P0226",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "And when he came into the hall, Polydectes sat at the table-head, and all his nobles and landowners on either side, each according to his rank, feasting on the fish and the goat’s flesh, and drinking the blood-red wine.  The harpers harped, and the revellers shouted, and the wine-cups rang merrily as they passed from hand to hand, and great was the noise in the hall of Polydectes.",
+    "is_header": false,
+    "word_count": 68,
+    "translation": [
+      {
+        "id": 1,
+        "en": "When he entered the hall, Polydectes was sitting at the head of the table.",
+        "kr": "그가 궁전에 들어섰을 때, 폴리덱테스는 테이블의 상석에 앉아 있었습니다."
+      },
+      {
+        "id": 2,
+        "en": "His nobles and landowners sat on either side according to their rank.",
+        "kr": "그의 귀족들과 지주들은 각자의 지위에 따라 양옆에 앉아 있었습니다."
+      },
+      {
+        "id": 3,
+        "en": "They were feasting on fish and goat meat while drinking blood-red wine.",
+        "kr": "그들은 생선과 염소 고기를 먹으며 핏빛 붉은 포도주를 마시고 있었습니다."
+      },
+      {
+        "id": 4,
+        "en": "The musicians played their harps, and the partygoers shouted loudly.",
+        "kr": "악사들은 하프를 연주했고, 연회에 참석한 사람들은 큰 소리로 떠들었습니다."
+      },
+      {
+        "id": 5,
+        "en": "Wine cups rang merrily as they were passed around.",
+        "kr": "포도주 잔이 이리저리 오가며 경쾌하게 부딪히는 소리가 났습니다."
+      },
+      {
+        "id": 6,
+        "en": "The noise in the hall of Polydectes was incredibly loud.",
+        "kr": "폴리덱테스의 궁전 안은 엄청나게 시끄러웠습니다."
+      }
+    ]
+  },
+  {
+    "id": 227,
+    "tag": "P0227",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "Then Perseus stood upon the threshold, and called to the king by name. But none of the guests knew Perseus, for he was changed by his long journey.  He had gone out a boy, and he was come home a hero; his eye shone like an eagle’s, and his beard was like a lion’s beard, and he stood up like a wild bull in his pride.",
+    "is_header": false,
+    "word_count": 66,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus stood at the entrance and called the king by his name.",
+        "kr": "페르세우스는 입구에 서서 왕의 이름을 불렀습니다."
+      },
+      {
+        "id": 2,
+        "en": "But none of the guests recognized Perseus.",
+        "kr": "하지만 손님들 중 아무도 페르세우스를 알아보지 못했습니다."
+      },
+      {
+        "id": 3,
+        "en": "He had been changed greatly by his long journey.",
+        "kr": "그는 긴 여행을 통해 크게 변해 있었기 때문입니다."
+      },
+      {
+        "id": 4,
+        "en": "He had left as a young boy, but he returned as a true hero.",
+        "kr": "그는 어린 소년으로 떠났지만, 이제는 진정한 영웅이 되어 돌아왔습니다."
+      },
+      {
+        "id": 5,
+        "en": "His eyes shone brightly like an eagles eyes.",
+        "kr": "그의 눈은 독수리의 눈처럼 밝게 빛났습니다."
+      },
+      {
+        "id": 6,
+        "en": "His beard was as thick and fierce as a lions mane.",
+        "kr": "그의 수염은 사자의 갈기처럼 짙고 매서웠습니다."
+      },
+      {
+        "id": 7,
+        "en": "He stood tall and proud, looking as powerful as a wild bull.",
+        "kr": "그는 야생 황소처럼 강인하고 당당한 모습으로 우뚝 서 있었습니다."
+      }
+    ]
+  },
+  {
+    "id": 228,
+    "tag": "P0228",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "But Polydectes the wicked knew him, and hardened his heart still more; and scornfully he called—",
+    "is_header": false,
+    "word_count": 16,
+    "translation": [
+      {
+        "id": 1,
+        "en": "But the wicked Polydectes recognized him immediately.",
+        "kr": "하지만 사악한 폴리덱테스는 그를 즉시 알아보았습니다."
+      },
+      {
+        "id": 2,
+        "en": "The king hardened his heart even more and called out with scorn.",
+        "kr": "왕은 마음을 더욱 모질게 먹고 조롱하듯 소리쳤습니다."
+      }
+    ]
+  },
+  {
+    "id": 229,
+    "tag": "P0229",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "‘Ah, foundling! have you found it more easy to promise than to fulfil?’",
+    "is_header": false,
+    "word_count": 13,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Ah, foundling!",
+        "kr": "아, 고아 녀석!"
+      },
+      {
+        "id": 2,
+        "en": "Have you found it much easier to make promises than to actually keep them?",
+        "kr": "약속을 지키는 것보다 떠벌리는 게 훨씬 쉽다는 걸 깨달았느냐?"
+      }
+    ]
+  },
+  {
+    "id": 230,
+    "tag": "P0230",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "‘Those whom the Gods help fulfil their promises; and those who despise them, reap as they have sown.  Behold the Gorgon’s head!’",
+    "is_header": false,
+    "word_count": 22,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Those whom the gods help will always keep their promises.",
+        "kr": "신들의 도움을 받는 자는 항상 약속을 지킵니다."
+      },
+      {
+        "id": 2,
+        "en": "But those who despise the gods will reap exactly what they have sown.",
+        "kr": "하지만 신들을 경멸하는 자들은 자신이 뿌린 대로 거두게 될 것입니다."
+      },
+      {
+        "id": 3,
+        "en": "Behold the head of the Gorgon!",
+        "kr": "고르곤의 머리를 보십시오!"
+      }
+    ]
+  },
+  {
+    "id": 231,
+    "tag": "P0231",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "Then Perseus drew back the goat-skin, and held aloft the Gorgon’s head.",
+    "is_header": false,
+    "word_count": 12,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus pulled back his goat-skin cloak and held the Gorgons head high in the air.",
+        "kr": "페르세우스는 염소 가죽 망토를 젖히고 고르곤의 머리를 높이 치켜들었습니다."
+      }
+    ]
+  },
+  {
+    "id": 232,
+    "tag": "P0232",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "Pale grew Polydectes and his guests as they looked upon that dreadful face.  They tried to rise up from their seats: but from their seats they never rose, but stiffened, each man where he sat, into a ring of cold gray stones.",
+    "is_header": false,
+    "word_count": 42,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Polydectes and his guests turned pale as they looked at that terrifying face.",
+        "kr": "폴리덱테스와 그의 손님들은 그 끔찍한 얼굴을 보고는 창백해졌습니다."
+      },
+      {
+        "id": 2,
+        "en": "They frantically tried to stand up from their seats.",
+        "kr": "그들은 미친 듯이 자리에서 일어나려 했습니다."
+      },
+      {
+        "id": 3,
+        "en": "But they never rose from their places.",
+        "kr": "하지만 그들은 결코 자리에서 일어나지 못했습니다."
+      },
+      {
+        "id": 4,
+        "en": "Every man stiffened right where he sat.",
+        "kr": "모든 남자가 자신이 앉은 자리에서 굳어버렸습니다."
+      },
+      {
+        "id": 5,
+        "en": "They were all turned into a circle of cold gray stones.",
+        "kr": "그들은 모두 차가운 회색 돌덩어리로 변해버렸습니다."
+      }
+    ]
+  },
+  {
+    "id": 233,
+    "tag": "P0233",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "Then Perseus turned and left them, and went down to his galley in the bay; and he gave the kingdom to good Dictys, and sailed away with his mother and his bride.",
+    "is_header": false,
+    "word_count": 32,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus turned away, left them behind, and went down to his ship in the bay.",
+        "kr": "페르세우스는 돌아서서 그들을 뒤로한 채 만에 있는 자신의 배로 내려갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "He gave the kingdom to the good Dictys.",
+        "kr": "그는 훌륭한 딕티스에게 왕국을 물려주었습니다."
+      },
+      {
+        "id": 3,
+        "en": "Then he sailed away with his mother and his new bride.",
+        "kr": "그리고 어머니와 새로운 신부를 데리고 항해를 떠났습니다."
+      }
+    ]
+  },
+  {
+    "id": 234,
+    "tag": "P0234",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "And Polydectes and his guests sat still, with the wine-cups before them on the board, till the rafters crumbled down above their heads, and the walls behind their backs, and the table crumbled down between them, and the grass sprung up about their feet: but Polydectes and his guests sit on the hillside, a ring of gray stones until this day.",
+    "is_header": false,
+    "word_count": 61,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Polydectes and his guests sat perfectly still.",
+        "kr": "폴리덱테스와 손님들은 미동도 없이 앉아 있었습니다."
+      },
+      {
+        "id": 2,
+        "en": "Their wine cups remained untouched on the table before them.",
+        "kr": "그들 앞의 식탁에는 포도주 잔이 그대로 남아 있었습니다."
+      },
+      {
+        "id": 3,
+        "en": "Over time, the roof rafters crumbled down upon their heads.",
+        "kr": "시간이 지나며 지붕의 서까래가 그들의 머리 위로 무너져 내렸습니다."
+      },
+      {
+        "id": 4,
+        "en": "The walls behind their backs completely collapsed.",
+        "kr": "그들 등 뒤의 벽도 완전히 무너졌습니다."
+      },
+      {
+        "id": 5,
+        "en": "The grand table decayed and crumbled down between them.",
+        "kr": "커다란 식탁은 썩어서 그들 사이로 허물어졌습니다."
+      },
+      {
+        "id": 6,
+        "en": "Wild grass sprang up and grew wildly around their feet.",
+        "kr": "야생 풀이 돋아나 그들의 발 주변에서 무성하게 자랐습니다."
+      },
+      {
+        "id": 7,
+        "en": "To this very day, Polydectes and his guests still sit on the hillside.",
+        "kr": "오늘날까지도 폴리덱테스와 손님들은 언덕 중턱에 앉아 있습니다."
+      },
+      {
+        "id": 8,
+        "en": "They remain forever as a circle of cold gray stones.",
+        "kr": "그들은 영원히 차가운 회색 돌의 원형으로 남아 있습니다."
+      }
+    ]
+  },
+  {
+    "id": 235,
+    "tag": "P0235",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "But Perseus rowed westward toward Argos, and landed, and went up to the town.  And when he came, he found that Acrisius his grandfather had fled. For Proetus his wicked brother had made war against him afresh; and had come across the river from Tiryns, and conquered Argos, and Acrisius had fled to Larissa, in the country of the wild Pelasgi.",
+    "is_header": false,
+    "word_count": 61,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Meanwhile, Perseus rowed westward toward the city of Argos.",
+        "kr": "그동안 페르세우스는 아르고스 도시를 향해 서쪽으로 노를 저어 갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "He landed safely and walked up into the town.",
+        "kr": "그는 무사히 상륙하여 마을 안으로 걸어 들어갔습니다."
+      },
+      {
+        "id": 3,
+        "en": "But when he arrived, he found that his grandfather Acrisius had fled.",
+        "kr": "하지만 도착했을 때, 그는 할아버지인 아크리시오스가 도망쳤다는 것을 알게 되었습니다."
+      },
+      {
+        "id": 4,
+        "en": "Acrisius wicked brother, Proetus, had started a new war against him.",
+        "kr": "아크리시오스의 사악한 형제인 프로이투스가 그를 상대로 새로운 전쟁을 일으켰기 때문입니다."
+      },
+      {
+        "id": 5,
+        "en": "Proetus had crossed the river from Tiryns and completely conquered Argos.",
+        "kr": "프로이투스는 티린스에서 강을 건너와 아르고스를 완전히 정복했습니다."
+      },
+      {
+        "id": 6,
+        "en": "Acrisius had escaped to Larissa, deep in the land of the wild Pelasgi.",
+        "kr": "아크리시오스는 거친 펠라스기인들의 땅 깊숙한 라리사로 피신했습니다."
+      }
+    ]
+  },
+  {
+    "id": 236,
+    "tag": "P0236",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "Then Perseus called the Argives together, and told them who he was, and all the noble deeds which he had done.  And all the nobles and the yeomen made him king, for they saw that he had a royal heart; and they fought with him against Argos, and took it, and killed Proetus, and made the Cyclopes serve them, and build them walls round Argos, like the walls which they had built at Tiryns; and there were great rejoicings in the vale of Argos, because they had got a king from Father Zeus.",
+    "is_header": false,
+    "word_count": 93,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus called the people of Argos together and revealed his true identity.",
+        "kr": "페르세우스는 아르고스 사람들을 불러 모아 자신의 진짜 정체를 밝혔습니다."
+      },
+      {
+        "id": 2,
+        "en": "He shared the stories of all the noble deeds he had accomplished.",
+        "kr": "그는 자신이 이룬 모든 훌륭한 업적에 대한 이야기를 들려주었습니다."
+      },
+      {
+        "id": 3,
+        "en": "Seeing his royal heart, all the nobles and commoners made him their king.",
+        "kr": "그의 왕다운 마음가짐을 본 모든 귀족과 평민들은 그를 왕으로 모셨습니다."
+      },
+      {
+        "id": 4,
+        "en": "Together, they fought valiantly and reclaimed the city of Argos.",
+        "kr": "그들은 함께 용감하게 싸워 아르고스 도시를 되찾았습니다."
+      },
+      {
+        "id": 5,
+        "en": "They killed the wicked Proetus and took control of the land.",
+        "kr": "그들은 사악한 프로이투스를 죽이고 그 땅을 지배했습니다."
+      },
+      {
+        "id": 6,
+        "en": "They commanded the Cyclopes to serve them and build mighty walls.",
+        "kr": "그들은 키클롭스들에게 명령하여 거대한 성벽을 쌓게 했습니다."
+      },
+      {
+        "id": 7,
+        "en": "These walls around Argos were just like the massive walls at Tiryns.",
+        "kr": "아르고스 주변의 이 성벽은 티린스에 있는 거대한 성벽과 똑같았습니다."
+      },
+      {
+        "id": 8,
+        "en": "There was great celebration throughout the valley of Argos.",
+        "kr": "아르고스 계곡 전체에 큰 축하 행사가 벌어졌습니다."
+      },
+      {
+        "id": 9,
+        "en": "The people rejoiced because they finally had a true king sent by Zeus.",
+        "kr": "사람들은 마침내 제우스가 보낸 진정한 왕을 얻었기에 기뻐했습니다."
+      }
+    ]
+  },
+  {
+    "id": 237,
+    "tag": "P0237",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "But Perseus’ heart yearned after his grandfather, and he said, ‘Surely he is my flesh and blood, and he will love me now that I am come home with honour: I will go and find him, and bring him home, and we will reign together in peace.’",
+    "is_header": false,
+    "word_count": 47,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Still, Perseus missed his grandfather deeply.",
+        "kr": "그럼에도 불구하고 페르세우스는 할아버지를 몹시 그리워했습니다."
+      },
+      {
+        "id": 2,
+        "en": "He said, He is my own flesh and blood.",
+        "kr": "그는 말했습니다, 그는 저의 혈육입니다."
+      },
+      {
+        "id": 3,
+        "en": "He will surely love me now that I have returned with such honor.",
+        "kr": "제가 이렇게 명예롭게 돌아왔으니 분명 저를 사랑해 주실 것입니다."
+      },
+      {
+        "id": 4,
+        "en": "I will go find him and bring him safely back home.",
+        "kr": "제가 가서 그분을 찾아 무사히 집으로 모셔 오겠습니다."
+      },
+      {
+        "id": 5,
+        "en": "Then we can rule our kingdom together in total peace.",
+        "kr": "그러면 우리는 함께 평화롭게 왕국을 다스릴 수 있을 것입니다."
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "tag": "P0238",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "So Perseus sailed away with his Phoenicians, round Hydrea and Sunium, past Marathon and the Attic shore, and through Euripus, and up the long Euboean sea, till he came to the town of Larissa, where the wild Pelasgi dwelt.",
+    "is_header": false,
+    "word_count": 39,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus sailed away with his Phoenician crew.",
+        "kr": "페르세우스는 페니키아 선원들과 함께 항해를 떠났습니다."
+      },
+      {
+        "id": 2,
+        "en": "They traveled around Hydrea and Sunium, passing Marathon and the Attic coast.",
+        "kr": "그들은 마라톤과 아티카 해안을 지나 히드레아와 수니움 주변을 항해했습니다."
+      },
+      {
+        "id": 3,
+        "en": "They navigated through Euripus and sailed up the long Euboean Sea.",
+        "kr": "그들은 에우리포스를 통과하여 긴 에우보이아 바다를 따라 올라갔습니다."
+      },
+      {
+        "id": 4,
+        "en": "Finally, they reached the town of Larissa, home of the wild Pelasgi.",
+        "kr": "마침내 그들은 거친 펠라스기인들의 고향인 라리사 마을에 도달했습니다."
+      }
+    ]
+  },
+  {
+    "id": 239,
+    "tag": "P0239",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "And when he came there, all the people were in the fields, and there was feasting, and all kinds of games; for Teutamenes their king wished to honour Acrisius, because he was the king of a mighty land.",
+    "is_header": false,
+    "word_count": 38,
+    "translation": [
+      {
+        "id": 1,
+        "en": "When he arrived, all the local people were gathered out in the fields.",
+        "kr": "그가 도착했을 때, 지역 주민들은 모두 들판에 모여 있었습니다."
+      },
+      {
+        "id": 2,
+        "en": "They were feasting heavily and competing in all kinds of games.",
+        "kr": "그들은 성대하게 연회를 즐기며 온갖 종류의 경기를 벌이고 있었습니다."
+      },
+      {
+        "id": 3,
+        "en": "Their king, Teutamenes, had organized this to honor Acrisius.",
+        "kr": "그들의 왕인 테우타메네스가 아크리시오스를 기리기 위해 이 자리를 마련한 것입니다."
+      },
+      {
+        "id": 4,
+        "en": "He did this because Acrisius was the respected king of a mighty land.",
+        "kr": "아크리시오스가 강력한 국가의 존경받는 왕이었기 때문입니다."
+      }
+    ]
+  },
+  {
+    "id": 240,
+    "tag": "P0240",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "So Perseus did not tell his name, but went up to the games unknown; for he said, ‘If I carry away the prize in the games, my grandfather’s heart will be softened toward me.’",
+    "is_header": false,
+    "word_count": 34,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus chose to keep his identity a secret.",
+        "kr": "페르세우스는 자신의 정체를 비밀로 하기로 했습니다."
+      },
+      {
+        "id": 2,
+        "en": "He entered the public games entirely as an unknown stranger.",
+        "kr": "그는 완전히 낯선 이방인으로서 공개 경기에 참가했습니다."
+      },
+      {
+        "id": 3,
+        "en": "He thought, If I win the grand prize in these games, it will help.",
+        "kr": "그는 생각했습니다, 내가 이 경기에서 큰 상을 타면 도움이 될 것이다."
+      },
+      {
+        "id": 4,
+        "en": "My grandfathers heart will surely soften toward me.",
+        "kr": "할아버지의 마음이 분명 나를 향해 부드러워지실 것이다."
+      }
+    ]
+  },
+  {
+    "id": 241,
+    "tag": "P0241",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "So he threw off his helmet, and his cuirass, and all his clothes, and stood among the youths of Larissa, while all wondered at him, and said, ‘Who is this young stranger, who stands like a wild bull in his pride? Surely he is one of the heroes, the sons of the Immortals, from Olympus.’",
+    "is_header": false,
+    "word_count": 55,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He threw off his helmet, his armor, and all his heavy clothes.",
+        "kr": "그는 투구와 갑옷, 그리고 무거운 옷을 모두 벗어 던졌습니다."
+      },
+      {
+        "id": 2,
+        "en": "He stood proudly among the strong young men of Larissa.",
+        "kr": "그는 라리사의 건장한 청년들 사이에 당당하게 섰습니다."
+      },
+      {
+        "id": 3,
+        "en": "Everyone stared in wonder and asked about him.",
+        "kr": "모든 사람이 놀라움에 가득 차 그를 바라보며 물었습니다."
+      },
+      {
+        "id": 4,
+        "en": "Who is this young stranger standing like a proud, wild bull?",
+        "kr": "거만하고 야생적인 황소처럼 서 있는 저 젊은 이방인은 누구인가?"
+      },
+      {
+        "id": 5,
+        "en": "He must surely be one of the great heroes from Mount Olympus.",
+        "kr": "그는 틀림없이 올림포스 산에서 온 위대한 영웅들 중 한 명일 것이다."
+      },
+      {
+        "id": 6,
+        "en": "He looks just like the immortal sons of the gods!",
+        "kr": "그는 신들의 불멸의 아들들처럼 생겼구나!"
+      }
+    ]
+  },
+  {
+    "id": 242,
+    "tag": "P0242",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "And when the games began, they wondered yet more; for Perseus was the best man of all at running, and leaping, and wrestling and throwing the javelin; and he won four crowns, and took them, and then he said to himself, ‘There is a fifth crown yet to be won: I will win that, and lay them all upon the knees of my grandfather.’",
+    "is_header": false,
+    "word_count": 64,
+    "translation": [
+      {
+        "id": 1,
+        "en": "When the intense games began, the crowd was even more amazed.",
+        "kr": "치열한 경기가 시작되자 군중은 더욱 놀랐습니다."
+      },
+      {
+        "id": 2,
+        "en": "Perseus proved to be the absolute best athlete among them all.",
+        "kr": "페르세우스는 그들 중 절대적으로 최고의 선수임을 증명했습니다."
+      },
+      {
+        "id": 3,
+        "en": "He easily dominated in running, leaping, wrestling, and throwing the javelin.",
+        "kr": "그는 달리기, 도약, 레슬링, 창던지기에서 가볍게 압도했습니다."
+      },
+      {
+        "id": 4,
+        "en": "He quickly won four victory crowns and collected them.",
+        "kr": "그는 순식간에 네 개의 승리 왕관을 획득하여 거두었습니다."
+      },
+      {
+        "id": 5,
+        "en": "Then he told himself, There is still a fifth crown waiting to be won.",
+        "kr": "그러고 나서 그는 다짐했습니다, 아직 차지해야 할 다섯 번째 왕관이 남아 있다."
+      },
+      {
+        "id": 6,
+        "en": "I will win that final prize today.",
+        "kr": "오늘 저 마지막 상을 꼭 따내겠다."
+      },
+      {
+        "id": 7,
+        "en": "Then I will lay them all gently upon my grandfathers knees.",
+        "kr": "그런 다음 할아버지의 무릎 위에 이 모든 것을 고스란히 올려놓아야지."
+      }
+    ]
+  },
+  {
+    "id": 243,
+    "tag": "P0243",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "And as he spoke, he saw where Acrisius sat, by the side of Teutamenes the king, with his white beard flowing down upon his knees, and his royal staff in his hand; and Perseus wept when he looked at him, for his heart yearned after his kin; and he said, ‘Surely he is a kingly old man, yet he need not be ashamed of his grandson.’",
+    "is_header": false,
+    "word_count": 66,
+    "translation": [
+      {
+        "id": 1,
+        "en": "As he spoke, he spotted Acrisius sitting in the crowd.",
+        "kr": "그가 말을 마치며 무리 속에 앉아 있는 아크리시오스를 발견했습니다."
+      },
+      {
+        "id": 2,
+        "en": "His grandfather was seated right beside King Teutamenes.",
+        "kr": "그의 할아버지는 테우타메네스 왕의 바로 곁에 앉아 있었습니다."
+      },
+      {
+        "id": 3,
+        "en": "The old man had a long white beard flowing down to his knees.",
+        "kr": "그 노인은 무릎까지 흘러내리는 긴 흰 수염을 기르고 있었습니다."
+      },
+      {
+        "id": 4,
+        "en": "He was holding his royal staff firmly in his hand.",
+        "kr": "그는 손에 왕의 지팡이를 단단히 쥐고 있었습니다."
+      },
+      {
+        "id": 5,
+        "en": "Perseus wept quietly when he looked at him, longing for his family.",
+        "kr": "페르세우스는 가족을 그리워하며 그를 바라볼 때 조용히 눈물을 흘렸습니다."
+      },
+      {
+        "id": 6,
+        "en": "He thought, He is certainly a noble and kingly old man.",
+        "kr": "그는 생각했습니다, 할아버지는 참으로 고귀하고 왕다운 노인이시다."
+      },
+      {
+        "id": 7,
+        "en": "But he will never need to feel ashamed of his grandson.",
+        "kr": "하지만 그가 자신의 손자를 부끄러워할 일은 결코 없을 것이다."
+      }
+    ]
+  },
+  {
+    "id": 244,
+    "tag": "P0244",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "Then he took the quoits, and hurled them, five fathoms beyond all the rest; and the people shouted, ‘Further yet, brave stranger!  There has never been such a hurler in this land.’",
+    "is_header": false,
+    "word_count": 32,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus picked up the heavy quoits and hurled them with immense power.",
+        "kr": "페르세우스는 무거운 원반을 집어 들고 엄청난 힘으로 던졌습니다."
+      },
+      {
+        "id": 2,
+        "en": "The disc flew five fathoms further than anyone elses throw.",
+        "kr": "원반은 다른 누구의 기록보다 5패덤이나 더 멀리 날아갔습니다."
+      },
+      {
+        "id": 3,
+        "en": "The excited crowd shouted, Throw it even further, brave stranger!",
+        "kr": "흥분한 군중이 소리쳤습니다, 더 멀리 던져보시오, 용감한 이방인이여!"
+      },
+      {
+        "id": 4,
+        "en": "We have never seen such an incredible thrower in this land!",
+        "kr": "이 땅에서 이렇게 대단한 투척자는 본 적이 없소!"
+      }
+    ]
+  },
+  {
+    "id": 245,
+    "tag": "P0245",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "Then Perseus put out all his strength, and hurled.  But a gust of wind came from the sea, and carried the quoit aside, and far beyond all the rest; and it fell on the foot of Acrisius, and he swooned away with the pain.",
+    "is_header": false,
+    "word_count": 44,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus gathered every ounce of his strength and hurled the quoit again.",
+        "kr": "페르세우스는 자신의 모든 힘을 끌어모아 원반을 다시 던졌습니다."
+      },
+      {
+        "id": 2,
+        "en": "But a sudden, strong gust of wind blew in from the sea.",
+        "kr": "하지만 갑자기 바다에서 거센 바람이 불어왔습니다."
+      },
+      {
+        "id": 3,
+        "en": "The wind carried the heavy disc off its path and far into the distance.",
+        "kr": "바람은 무거운 원반의 경로를 벗어나게 하여 아주 멀리 날려버렸습니다."
+      },
+      {
+        "id": 4,
+        "en": "It crashed down directly onto the foot of Acrisius.",
+        "kr": "그것은 아크리시오스의 발 위로 똑바로 떨어져 내렸습니다."
+      },
+      {
+        "id": 5,
+        "en": "The frail old man fainted immediately from the terrible pain.",
+        "kr": "연약한 노인은 끔찍한 고통에 즉시 기절하고 말았습니다."
+      }
+    ]
+  },
+  {
+    "id": 246,
+    "tag": "P0246",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "Perseus shrieked, and ran up to him; but when they lifted the old man up he was dead, for his life was slow and feeble.",
+    "is_header": false,
+    "word_count": 25,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus shrieked in horror and ran straight toward him.",
+        "kr": "페르세우스는 공포에 질려 비명을 지르며 그를 향해 곧장 달려갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "But when they lifted the old man from the ground, he was already dead.",
+        "kr": "하지만 그들이 땅에서 노인을 들어 올렸을 때, 그는 이미 죽어 있었습니다."
+      },
+      {
+        "id": 3,
+        "en": "His old life had simply been too fragile and weak to survive the blow.",
+        "kr": "그의 늙은 생명은 타격을 견뎌내기에는 너무나 연약하고 쇠약했던 것입니다."
+      }
+    ]
+  },
+  {
+    "id": 247,
+    "tag": "P0247",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "Then Perseus rent his clothes, and cast dust upon his head, and wept a long while for his grandfather.  At last he rose, and called to all the people aloud, and said—",
+    "is_header": false,
+    "word_count": 32,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus tore his clothes in deep sorrow and threw dust over his own head.",
+        "kr": "페르세우스는 깊은 슬픔에 옷을 찢고 자신의 머리 위로 먼지를 뿌렸습니다."
+      },
+      {
+        "id": 2,
+        "en": "He wept bitterly for a long time over his fallen grandfather.",
+        "kr": "그는 쓰러진 할아버지를 안고 오랫동안 비통하게 울었습니다."
+      },
+      {
+        "id": 3,
+        "en": "At last, he stood up and called out loudly to the silent crowd.",
+        "kr": "마침내 그는 일어나 침묵하는 군중을 향해 큰 소리로 외쳤습니다."
+      }
+    ]
+  },
+  {
+    "id": 248,
+    "tag": "P0248",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "‘The Gods are true, and what they have ordained must be.  I am Perseus, the grandson of this dead man, the far-famed slayer of the Gorgon.’",
+    "is_header": false,
+    "word_count": 26,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The gods speak the absolute truth, and their decrees cannot be escaped.",
+        "kr": "신들께서는 절대적인 진실을 말씀하시며, 그분들의 뜻은 피할 수 없습니다."
+      },
+      {
+        "id": 2,
+        "en": "I am Perseus, the true grandson of this dead king.",
+        "kr": "저는 이 돌아가신 왕의 진정한 손자인 페르세우스입니다."
+      },
+      {
+        "id": 3,
+        "en": "I am the famous hero who successfully slayed the Gorgon.",
+        "kr": "저는 고르곤을 성공적으로 처치한 그 유명한 영웅입니다."
+      }
+    ]
+  },
+  {
+    "id": 249,
+    "tag": "P0249",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "Then he told them how the prophecy had declared that he should kill his grandfather, and all the story of his life.",
+    "is_header": false,
+    "word_count": 22,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He explained how an ancient prophecy had doomed him from birth.",
+        "kr": "그는 고대의 예언이 어떻게 태어날 때부터 그를 파멸로 이끌었는지 설명했습니다."
+      },
+      {
+        "id": 2,
+        "en": "The gods had declared that he would one day kill his own grandfather.",
+        "kr": "신들은 그가 언젠가 자신의 할아버지를 죽일 것이라고 선언했었습니다."
+      },
+      {
+        "id": 3,
+        "en": "Then he shared the complete story of his entire life with the crowd.",
+        "kr": "그러고 나서 그는 자신의 전체 삶에 대한 이야기를 군중과 나누었습니다."
+      }
+    ]
+  },
+  {
+    "id": 250,
+    "tag": "P0250",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "So they made a great mourning for Acrisius, and burnt him on a right rich pile; and Perseus went to the temple, and was purified from the guilt of the death, because he had done it unknowingly.",
+    "is_header": false,
+    "word_count": 37,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The people held a grand and solemn funeral for Acrisius.",
+        "kr": "사람들은 아크리시오스를 위해 웅장하고 엄숙한 장례식을 치렀습니다."
+      },
+      {
+        "id": 2,
+        "en": "They burned his body honorably on a rich and magnificent pyre.",
+        "kr": "그들은 화려하고 장엄한 장작더미 위에서 그의 시신을 명예롭게 화장했습니다."
+      },
+      {
+        "id": 3,
+        "en": "Afterward, Perseus walked quietly to the sacred temple.",
+        "kr": "그 후 페르세우스는 조용히 신성한 신전으로 걸어갔습니다."
+      },
+      {
+        "id": 4,
+        "en": "He was completely purified from the guilt of the terrible accident.",
+        "kr": "그는 끔찍한 사고로 인한 죄책감에서 완전히 씻겨졌습니다."
+      },
+      {
+        "id": 5,
+        "en": "The priests cleansed him because he had struck the blow unknowingly.",
+        "kr": "제사장들은 그가 고의 없이 일격을 가했기 때문에 그를 정화해 주었습니다."
+      }
+    ]
+  },
+  {
+    "id": 251,
+    "tag": "P0251",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "Then he went home to Argos, and reigned there well with fair Andromeda; and they had four sons and three daughters, and died in a good old age.",
+    "is_header": false,
+    "word_count": 28,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Finally, Perseus returned home to the city of Argos.",
+        "kr": "마침내 페르세우스는 아르고스 도시의 고향으로 돌아왔습니다."
+      },
+      {
+        "id": 2,
+        "en": "He ruled there wisely and justly alongside his beautiful wife, Andromeda.",
+        "kr": "그는 아름다운 아내 안드로메다와 함께 그곳을 지혜롭고 공정하게 다스렸습니다."
+      },
+      {
+        "id": 3,
+        "en": "Together, they raised four strong sons and three lovely daughters.",
+        "kr": "그들은 함께 네 명의 튼튼한 아들과 세 명의 사랑스러운 딸을 키웠습니다."
+      },
+      {
+        "id": 4,
+        "en": "They lived full, happy lives and passed away at a good old age.",
+        "kr": "그들은 풍요롭고 행복한 삶을 살았고, 평안하게 천수를 누리다 세상을 떠났습니다."
+      }
+    ]
+  },
+  {
+    "id": 252,
+    "tag": "P0252",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "And when they died, the ancients say, Athené took them up into the sky, with Cepheus and Cassiopoeia.  And there on starlight nights you may see them shining still; Cepheus with his kingly crown, and Cassiopoeia in her ivory chair, plaiting her star-spangled tresses, and Perseus with the Gorgon’s head, and fair Andromeda beside him, spreading her long white arms across the heaven, as she stood when chained to the stone for the monster.",
+    "is_header": false,
+    "word_count": 74,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The ancients say that when they died, Athena lifted them into the sky.",
+        "kr": "고대인들의 말에 따르면, 그들이 죽었을 때 아테나 여신이 그들을 하늘로 들어 올렸다고 합니다."
+      },
+      {
+        "id": 2,
+        "en": "She placed them there alongside Cepheus and Cassiopeia.",
+        "kr": "여신은 그들을 케페우스, 카시오페이아와 함께 그곳에 배치했습니다."
+      },
+      {
+        "id": 3,
+        "en": "On clear, starlit nights, you can still see them all shining brightly.",
+        "kr": "맑고 별이 빛나는 밤이면, 여러분은 여전히 그들 모두가 밝게 빛나는 것을 볼 수 있습니다."
+      },
+      {
+        "id": 4,
+        "en": "Cepheus proudly wears his glowing kingly crown.",
+        "kr": "케페우스는 빛나는 왕관을 자랑스럽게 쓰고 있습니다."
+      },
+      {
+        "id": 5,
+        "en": "Cassiopeia sits regally in her beautiful ivory chair.",
+        "kr": "카시오페이아는 아름다운 상아 의자에 위엄 있게 앉아 있습니다."
+      },
+      {
+        "id": 6,
+        "en": "She is forever plaiting her brilliant, star-spangled hair.",
+        "kr": "그녀는 영원히 별이 총총한 눈부신 머리를 땋고 있습니다."
+      },
+      {
+        "id": 7,
+        "en": "Perseus stands bravely, holding the terrible Gorgons head.",
+        "kr": "페르세우스는 끔찍한 고르곤의 머리를 쥐고 용감하게 서 있습니다."
+      },
+      {
+        "id": 8,
+        "en": "And the fair Andromeda stays faithfully right beside him.",
+        "kr": "그리고 아름다운 안드로메다는 그의 바로 곁을 충실히 지키고 있습니다."
+      },
+      {
+        "id": 9,
+        "en": "She spreads her long, white arms wide across the vast heavens.",
+        "kr": "그녀는 넓은 하늘을 가로질러 길고 하얀 두 팔을 넓게 벌리고 있습니다."
+      },
+      {
+        "id": 10,
+        "en": "She looks just as she did when chained to the rock for the sea monster.",
+        "kr": "그녀는 바다 괴물에게 제물로 바쳐져 바위에 사슬로 묶였을 때의 모습 그대로입니다."
+      }
+    ]
+  },
+  {
+    "id": 253,
+    "tag": "P0253",
+    "chapter_id": "ch_05",
+    "story": "Story I: Perseus",
+    "part": "Part V: How Perseus Came Home Again",
+    "raw": "All night long, they shine, for a beacon to wandering sailors; but all day they feast with the Gods, on the still blue peaks of Olympus.",
+    "is_header": false,
+    "word_count": 26,
+    "translation": [
+      {
+        "id": 1,
+        "en": "All night long, they shine brightly in the dark sky.",
+        "kr": "밤새도록 그들은 어두운 하늘에서 밝게 빛납니다."
+      },
+      {
+        "id": 2,
+        "en": "They act as a guiding beacon for lost and wandering sailors.",
+        "kr": "그들은 길을 잃고 방황하는 선원들을 위한 길잡이 등대 역할을 합니다."
+      },
+      {
+        "id": 3,
+        "en": "But when the sun rises, they spend their days feasting with the gods.",
+        "kr": "하지만 해가 뜨면, 그들은 신들과 함께 연회를 즐기며 하루를 보냅니다."
+      },
+      {
+        "id": 4,
+        "en": "They rest forever on the still, blue mountain peaks of Mount Olympus.",
+        "kr": "그들은 올림포스 산의 고요하고 푸른 산봉우리에서 영원히 안식을 취합니다."
+      }
+    ]
+  }
+]

@@ -1,0 +1,1542 @@
+[
+  {
+    "id": 104,
+    "tag": "P0104",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "PART III HOW PERSEUS SLEW THE GORGON",
+    "is_header": true,
+    "word_count": 7,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Part 3: How Perseus Slew the Gorgon",
+        "kr": "[3부: 페르세우스가 고르고를 물리치다]"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "tag": "P0105",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "So Perseus started on his journey, going dry-shod over land and sea; and his heart was high and joyful, for the winged sandals bore him each day a seven days’ journey.",
+    "is_header": false,
+    "word_count": 31,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus began his journey, crossing land and sea without getting wet.",
+        "kr": "페르세우스는 바다와 육지를 건너며 발을 적시지 않고 여행을 시작했습니다."
+      },
+      {
+        "id": 2,
+        "en": "His heart was full of joy and courage.",
+        "kr": "그의 마음은 기쁨과 용기로 가득 찼습니다."
+      },
+      {
+        "id": 3,
+        "en": "The winged sandals carried him a seven days' distance in a single day.",
+        "kr": "날개 달린 샌들이 하루 만에 칠 일 거리를 날아갈 수 있게 해주었기 때문입니다."
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "tag": "P0106",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "And he went by Cythnus, and by Ceos, and the pleasant Cyclades to Attica; and past Athens and Thebes, and the Copaic lake, and up the vale of Cephissus, and past the peaks of Œta and Pindus, and over the rich Thessalian plains, till the sunny hills of Greece were behind him, and before him were the wilds of the north.  Then he passed the Thracian mountains, and many a barbarous tribe, Pæons and Dardans and Triballi, till he came to the Ister stream, and the dreary Scythian plains.  And he walked across the Ister dry-shod, and away through the moors and fens, day and night toward the bleak north-west, turning neither to the right hand nor the left, till he came to the Unshapen Land, and the place which has no name.",
+    "is_header": false,
+    "word_count": 133,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He flew past numerous islands, lakes, and valleys.",
+        "kr": "그는 수많은 섬과 호수, 계곡을 지나쳐 날아갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "He crossed over rich plains and towering mountain peaks.",
+        "kr": "풍요로운 평원과 높이 솟은 산봉우리들도 넘어갔습니다."
+      },
+      {
+        "id": 3,
+        "en": "Soon, the sunny hills of Greece were far behind him.",
+        "kr": "머지않아 햇살 가득한 그리스의 언덕들은 그의 뒤편으로 멀어졌습니다."
+      },
+      {
+        "id": 4,
+        "en": "Before him lay the untamed wilderness of the north.",
+        "kr": "이제 그의 앞에는 길들여지지 않은 북쪽의 황야가 펼쳐져 있었습니다."
+      },
+      {
+        "id": 5,
+        "en": "He passed rugged mountains and many fierce tribes.",
+        "kr": "그는 험준한 산맥과 수많은 사나운 부족들을 지나쳤습니다."
+      },
+      {
+        "id": 6,
+        "en": "At last, he reached a broad river and dreary, empty plains.",
+        "kr": "마침내 그는 거대한 강과 쓸쓸하고 텅 빈 평원에 도착했습니다."
+      },
+      {
+        "id": 7,
+        "en": "He walked right over the water without sinking.",
+        "kr": "그는 물에 빠지지 않고 강 위를 걸어서 건넜습니다."
+      },
+      {
+        "id": 8,
+        "en": "He traveled day and night through swamps and marshes.",
+        "kr": "그는 밤낮으로 늪과 습지를 통과하며 이동했습니다."
+      },
+      {
+        "id": 9,
+        "en": "He headed strictly toward the bleak northwest.",
+        "kr": "그는 황량한 북서쪽을 향해 곧장 나아갔습니다."
+      },
+      {
+        "id": 10,
+        "en": "Finally, he arrived at the Unshapen Land, a place with no name.",
+        "kr": "마침내 그는 이름조차 없는 형체 없는 땅에 이르렀습니다."
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "tag": "P0107",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "And seven days he walked through it, on a path which few can tell; for those who have trodden it like least to speak of it, and those who go there again in dreams are glad enough when they awake; till he came to the edge of the everlasting night, where the air was full of feathers, and the soil was hard with ice; and there at last he found the three Gray Sisters, by the shore of the freezing sea, nodding upon a white log of drift-wood, beneath the cold white winter moon; and they chaunted a low song together, ‘Why the old times were better than the new.’",
+    "is_header": false,
+    "word_count": 110,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He walked for seven days along a hidden, terrible path.",
+        "kr": "그는 칠 일 동안 숨겨진 끔찍한 길을 따라 걸었습니다."
+      },
+      {
+        "id": 2,
+        "en": "Those who walk it refuse to speak of it.",
+        "kr": "이 길을 걷는 자들은 그곳에 대해 말하기를 거부합니다."
+      },
+      {
+        "id": 3,
+        "en": "He reached the edge of everlasting night.",
+        "kr": "그는 영원한 밤이 시작되는 끝자락에 다다랐습니다."
+      },
+      {
+        "id": 4,
+        "en": "The air was thick with falling snow, and the ground was frozen hard.",
+        "kr": "공기 중에는 눈보라가 흩날렸고, 땅은 단단하게 얼어붙어 있었습니다."
+      },
+      {
+        "id": 5,
+        "en": "There he found the three Gray Sisters by the freezing sea.",
+        "kr": "그곳 얼어붙은 바닷가에서 그는 세 명의 늙은 자매들을 발견했습니다."
+      },
+      {
+        "id": 6,
+        "en": "They nodded on a white log of driftwood beneath the cold moon.",
+        "kr": "그들은 차가운 달빛 아래 하얀 유목 위에 앉아 꾸벅꾸벅 졸고 있었습니다."
+      },
+      {
+        "id": 7,
+        "en": "They softly chanted a song about how the old times were better.",
+        "kr": "그들은 옛 시절이 더 좋았다는 노래를 나지막이 흥얼거렸습니다."
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "tag": "P0108",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "There was no living thing around them, not a fly, not a moss upon the rocks.  Neither seal nor sea-gull dare come near, lest the ice should clutch them in its claws.  The surge broke up in foam, but it fell again in flakes of snow; and it frosted the hair of the three Gray Sisters, and the bones in the ice-cliff above their heads.  They passed the eye from one to the other, but for all that they could not see; and they passed the tooth from one to the other, but for all that they could not eat; and they sat in the full glare of the moon, but they were none the warmer for her beams.  And Perseus pitied the three Gray Sisters; but they did not pity themselves.",
+    "is_header": false,
+    "word_count": 132,
+    "translation": [
+      {
+        "id": 1,
+        "en": "There was no living thing around them at all.",
+        "kr": "그들 주위에는 살아있는 것이라곤 전혀 없었습니다."
+      },
+      {
+        "id": 2,
+        "en": "No flies buzzed, and no moss grew on the rocks.",
+        "kr": "파리 한 마리 날아다니지 않았고 바위에 이끼조차 없었습니다."
+      },
+      {
+        "id": 3,
+        "en": "Seals and seagulls stayed far away to avoid the freezing ice.",
+        "kr": "물개와 갈매기들도 얼어붙을까 두려워 멀리 떨어져 있었습니다."
+      },
+      {
+        "id": 4,
+        "en": "The waves crashed and turned into falling snow.",
+        "kr": "파도는 부서지며 내리는 눈송이로 변했습니다."
+      },
+      {
+        "id": 5,
+        "en": "The snow covered the sisters' hair and the icy cliffs above.",
+        "kr": "그 눈은 자매들의 머리카락과 머리 위 얼음 절벽을 하얗게 뒤덮었습니다."
+      },
+      {
+        "id": 6,
+        "en": "They passed a single eye back and forth, but they could not see.",
+        "kr": "그들은 단 하나뿐인 눈을 서로 번갈아 가졌지만 앞을 보지 못했습니다."
+      },
+      {
+        "id": 7,
+        "en": "They passed a single tooth back and forth, but they could not eat.",
+        "kr": "단 하나뿐인 치아도 번갈아 가졌지만 아무것도 먹을 수 없었습니다."
+      },
+      {
+        "id": 8,
+        "en": "The bright moon brought them no warmth.",
+        "kr": "밝은 달빛도 그들에게는 어떤 온기도 주지 못했습니다."
+      },
+      {
+        "id": 9,
+        "en": "Perseus felt pity for them, though they felt none for themselves.",
+        "kr": "페르세우스는 그들을 불쌍히 여겼지만, 정작 그들은 스스로를 연민하지 않았습니다."
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "tag": "P0109",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "So he said, ‘Oh, venerable mothers, wisdom is the daughter of old age. You therefore should know many things.  Tell me, if you can, the path to the Gorgon.’",
+    "is_header": false,
+    "word_count": 29,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Venerable mothers, wisdom is the daughter of old age, he said.",
+        "kr": "존경하는 어머니들, 지혜는 노년의 딸과 같습니다, 하고 그가 말했습니다."
+      },
+      {
+        "id": 2,
+        "en": "You must know many things.",
+        "kr": "여러분은 분명 많은 것을 알고 계실 것입니다."
+      },
+      {
+        "id": 3,
+        "en": "Tell me, if you can, the path to the Gorgon.",
+        "kr": "고르고에게 가는 길을 알고 계시다면 제게 알려 주십시오."
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "tag": "P0110",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "Then one cried, ‘Who is this who reproaches us with old age?’  And another, ‘This is the voice of one of the children of men.’",
+    "is_header": false,
+    "word_count": 25,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Who is this that insults us with old age? one cried.",
+        "kr": "누가 감히 우리의 늙은 모습을 모욕하는가? 하고 한 명이 소리쳤습니다."
+      },
+      {
+        "id": 2,
+        "en": "This is the voice of a mortal, another added.",
+        "kr": "이것은 인간의 목소리입니다, 하고 다른 한 명이 덧붙였습니다."
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "tag": "P0111",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "And he, ‘I do not reproach, but honour your old age, and I am one of the sons of men and of the heroes.  The rulers of Olympus have sent me to you to ask the way to the Gorgon.’",
+    "is_header": false,
+    "word_count": 40,
+    "translation": [
+      {
+        "id": 1,
+        "en": "I do not insult you, but honor your age, he replied.",
+        "kr": "저는 모욕하는 것이 아니라 여러분의 연륜을 존중하는 것입니다, 하고 그가 대답했습니다."
+      },
+      {
+        "id": 2,
+        "en": "I am a mortal and a hero.",
+        "kr": "저는 인간이자 영웅입니다."
+      },
+      {
+        "id": 3,
+        "en": "The rulers of Olympus sent me to ask you the way to the Gorgon.",
+        "kr": "올림포스의 지배자들이 제게 고르고에게 가는 길을 물어보라며 이곳으로 보냈습니다."
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "tag": "P0112",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "Then one, ‘There are new rulers in Olympus, and all new things are bad.’ And another, ‘We hate your rulers, and the heroes, and all the children of men.  We are the kindred of the Titans, and the Giants, and the Gorgons, and the ancient monsters of the deep.’  And another, ‘Who is this rash and insolent man who pushes unbidden into our world?’  And the first, ‘There never was such a world as ours, nor will be; if we let him see it, he will spoil it all.’",
+    "is_header": false,
+    "word_count": 89,
+    "translation": [
+      {
+        "id": 1,
+        "en": "There are new rulers in Olympus, and all new things are bad, one said.",
+        "kr": "올림포스에 새로운 지배자들이 생겼지만, 새로운 것은 모두 나쁩니다, 하고 한 명이 말했습니다."
+      },
+      {
+        "id": 2,
+        "en": "We hate your rulers, the heroes, and all mortals, another added.",
+        "kr": "우리는 당신의 지배자들과 영웅들, 그리고 모든 인간을 증오합니다, 하고 다른 한 명이 덧붙였습니다."
+      },
+      {
+        "id": 3,
+        "en": "We are kin to the Titans, Giants, Gorgons, and ancient sea monsters.",
+        "kr": "우리는 티탄, 거인족, 고르고, 그리고 고대 바다 괴물들의 친척입니다."
+      },
+      {
+        "id": 4,
+        "en": "Who is this rude man pushing into our world? asked another.",
+        "kr": "초대받지도 않고 우리 세계에 밀고 들어온 이 무례한 자는 누구인가? 하고 다른 한 명이 물었습니다."
+      },
+      {
+        "id": 5,
+        "en": "If we let him see it, he will ruin it all, said the first.",
+        "kr": "만약 그가 이곳을 보게 내버려 둔다면 그가 모든 것을 망칠 것입니다, 하고 첫 번째 자매가 말했습니다."
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "tag": "P0113",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "Then one cried, ‘Give me the eye, that I may see him;’ and another, ‘Give me the tooth, that I may bite him.’  But Perseus, when he saw that they were foolish and proud, and did not love the children of men, left off pitying them, and said to himself, ‘Hungry men must needs be hasty; if I stay making many words here, I shall be starved.’  Then he stepped close to them, and watched till they passed the eye from hand to hand.  And as they groped about between themselves, he held out his own hand gently, till one of them put the eye into it, fancying that it was the hand of her sister.  Then he sprang back, and laughed, and cried—",
+    "is_header": false,
+    "word_count": 124,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Give me the eye so I can see him, one cried.",
+        "kr": "그자를 볼 수 있게 내게 눈을 주시오, 하고 한 명이 소리쳤습니다."
+      },
+      {
+        "id": 2,
+        "en": "Give me the tooth so I can bite him, said another.",
+        "kr": "그자를 물어뜯을 수 있게 내게 이빨을 주시오, 하고 다른 한 명이 말했습니다."
+      },
+      {
+        "id": 3,
+        "en": "Perseus saw they were foolish, proud, and hated mortals.",
+        "kr": "페르세우스는 그들이 어리석고 교만하며 인간을 미워한다는 것을 알았습니다."
+      },
+      {
+        "id": 4,
+        "en": "He stopped feeling pity for them.",
+        "kr": "그는 그들에 대한 동정심을 거두었습니다."
+      },
+      {
+        "id": 5,
+        "en": "I will starve if I waste time talking here, he thought.",
+        "kr": "여기서 계속 말을 낭비하다가는 내가 먼저 굶어 죽겠군, 하고 그는 생각했습니다."
+      },
+      {
+        "id": 6,
+        "en": "He stepped close and watched them pass the eye hand to hand.",
+        "kr": "그는 가까이 다가가 그들이 손에서 손으로 눈을 건네는 모습을 지켜보았습니다."
+      },
+      {
+        "id": 7,
+        "en": "As they groped around, he gently held out his own hand.",
+        "kr": "그들이 더듬거릴 때, 그는 조용히 자신의 손을 내밀었습니다."
+      },
+      {
+        "id": 8,
+        "en": "One of them placed the eye in his hand, thinking it was her sister's.",
+        "kr": "자매 중 한 명이 자기 자매의 손인 줄 알고 그의 손에 눈을 쥐여 주었습니다."
+      },
+      {
+        "id": 9,
+        "en": "He sprang back and laughed aloud.",
+        "kr": "그는 뒤로 물러서며 크게 웃었습니다."
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "tag": "P0114",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "‘Cruel and proud old women, I have your eye; and I will throw it into the sea, unless you tell me the path to the Gorgon, and swear to me that you tell me right.’",
+    "is_header": false,
+    "word_count": 35,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Cruel and proud old women, I have your eye, he declared.",
+        "kr": "잔인하고 교만한 노파들이여, 내가 당신들의 눈을 가졌습니다, 하고 그가 선언했습니다."
+      },
+      {
+        "id": 2,
+        "en": "I will throw it into the sea unless you tell me the way to the Gorgon.",
+        "kr": "고르고에게 가는 길을 알려주지 않으면 이것을 바다에 던져버리겠습니다."
+      },
+      {
+        "id": 3,
+        "en": "You must swear to tell me the truth.",
+        "kr": "제게 진실만을 말하겠다고 맹세하십시오."
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "tag": "P0115",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "Then they wept, and chattered, and scolded; but in vain.  They were forced to tell the truth, though, when they told it, Perseus could hardly make out the road.",
+    "is_header": false,
+    "word_count": 29,
+    "translation": [
+      {
+        "id": 1,
+        "en": "They wept, chattered, and scolded, but it was useless.",
+        "kr": "그들은 울고 떠들며 욕을 했지만 아무 소용이 없었습니다."
+      },
+      {
+        "id": 2,
+        "en": "They had to tell the truth.",
+        "kr": "그들은 진실을 말할 수밖에 없었습니다."
+      },
+      {
+        "id": 3,
+        "en": "Even then, Perseus could barely understand the directions.",
+        "kr": "그럼에도 페르세우스는 그들이 알려주는 길을 거의 이해할 수 없었습니다."
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "tag": "P0116",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "‘You must go,’ they said, ‘foolish boy, to the southward, into the ugly glare of the sun, till you come to Atlas the Giant, who holds the heaven and the earth apart.  And you must ask his daughters, the Hesperides, who are young and foolish like yourself.  And now give us back our eye, for we have forgotten all the rest.’",
+    "is_header": false,
+    "word_count": 61,
+    "translation": [
+      {
+        "id": 1,
+        "en": "You must go south into the sun's glare, foolish boy, they said.",
+        "kr": "어리석은 소년아, 남쪽의 강렬한 태양 빛 속으로 향해야 한다, 하고 그들이 말했습니다."
+      },
+      {
+        "id": 2,
+        "en": "Keep going until you find Atlas the Giant.",
+        "kr": "거인 아틀라스를 만날 때까지 계속 가거라."
+      },
+      {
+        "id": 3,
+        "en": "He is the one who holds the heaven and earth apart.",
+        "kr": "그는 하늘과 땅을 떨어뜨려 떠받치고 있는 자란다."
+      },
+      {
+        "id": 4,
+        "en": "You must ask his daughters, who are young and foolish like you.",
+        "kr": "너처럼 어리고 어리석은 그의 딸들에게 길을 물어보아라."
+      },
+      {
+        "id": 5,
+        "en": "Now give us back our eye, for we have forgotten the rest.",
+        "kr": "우리는 나머지를 잊어버렸으니 이제 우리 눈을 돌려다오."
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "tag": "P0117",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "So Perseus gave them back their eye; but instead of using it, they nodded and fell fast asleep, and were turned into blocks of ice, till the tide came up and washed them all away.  And now they float up and down like icebergs for ever, weeping whenever they meet the sunshine, and the fruitful summer and the warm south wind, which fill young hearts with joy.",
+    "is_header": false,
+    "word_count": 67,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus gave them back their eye.",
+        "kr": "페르세우스는 그들에게 눈을 돌려주었습니다."
+      },
+      {
+        "id": 2,
+        "en": "Instead of using it, they fell fast asleep.",
+        "kr": "하지만 그들은 눈을 사용하는 대신 곧장 깊은 잠에 빠졌습니다."
+      },
+      {
+        "id": 3,
+        "en": "They turned into blocks of ice until the tide washed them away.",
+        "kr": "그들은 밀물이 들어와 휩쓸어 갈 때까지 거대한 얼음덩어리로 변해버렸습니다."
+      },
+      {
+        "id": 4,
+        "en": "Now they float forever like icebergs.",
+        "kr": "이제 그들은 영원히 빙산처럼 떠돌아다닙니다."
+      },
+      {
+        "id": 5,
+        "en": "They weep whenever they meet sunshine and the warm south wind.",
+        "kr": "햇빛과 따뜻한 남풍을 만날 때마다 그들은 하염없이 눈물을 흘립니다."
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "tag": "P0118",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "But Perseus leaped away to the southward, leaving the snow and the ice behind: past the isle of the Hyperboreans, and the tin isles, and the long Iberian shore, while the sun rose higher day by day upon a bright blue summer sea.  And the terns and the sea-gulls swept laughing round his head, and called to him to stop and play, and the dolphins gambolled up as he passed, and offered to carry him on their backs.  And all night long the sea-nymphs sang sweetly, and the Tritons blew upon their conchs, as they played round Galatæa their queen, in her car of pearled shells. Day by day the sun rose higher, and leaped more swiftly into the sea at night, and more swiftly out of the sea at dawn; while Perseus skimmed over the billows like a sea-gull, and his feet were never wetted; and leapt on from wave to wave, and his limbs were never weary, till he saw far away a mighty mountain, all rose-red in the setting sun.  Its feet were wrapped in forests, and its head in wreaths of cloud; and Perseus knew that it was Atlas, who holds the heavens and the earth apart.",
+    "is_header": false,
+    "word_count": 201,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus leaped southward, leaving the snow and ice behind.",
+        "kr": "페르세우스는 눈과 얼음을 뒤로하고 남쪽을 향해 도약했습니다."
+      },
+      {
+        "id": 2,
+        "en": "He passed islands and long coastlines over a bright blue sea.",
+        "kr": "그는 눈부시게 푸른 바다 위로 수많은 섬과 긴 해안선을 지나쳤습니다."
+      },
+      {
+        "id": 3,
+        "en": "Seagulls swept laughing around his head, calling him to play.",
+        "kr": "갈매기들이 그의 머리 위를 맴돌며 웃으며 놀자고 불렀습니다."
+      },
+      {
+        "id": 4,
+        "en": "Dolphins gamboled as he passed, offering rides on their backs.",
+        "kr": "돌고래들도 그가 지나갈 때 장난을 치며 등 위에 태워주겠다고 다가왔습니다."
+      },
+      {
+        "id": 5,
+        "en": "All night long, the sea-nymphs sang sweetly.",
+        "kr": "밤새도록 바다의 요정들은 달콤한 노래를 불렀습니다."
+      },
+      {
+        "id": 6,
+        "en": "Perseus skimmed over the waves like a seagull, his feet perfectly dry.",
+        "kr": "페르세우스는 갈매기처럼 파도 위를 스치듯 날았고, 그의 발은 전혀 젖지 않았습니다."
+      },
+      {
+        "id": 7,
+        "en": "He leaped from wave to wave without ever growing weary.",
+        "kr": "그는 지칠 줄 모르고 파도에서 파도로 뛰어올랐습니다."
+      },
+      {
+        "id": 8,
+        "en": "Far away, he finally saw a mighty mountain, red in the setting sun.",
+        "kr": "마침내 멀리서 석양에 붉게 물든 거대한 산을 발견했습니다."
+      },
+      {
+        "id": 9,
+        "en": "Its base was wrapped in forests, and its peak was hidden in clouds.",
+        "kr": "산의 밑동은 숲으로 덮여 있었고 꼭대기는 구름에 가려져 있었습니다."
+      },
+      {
+        "id": 10,
+        "en": "He knew it was Atlas, holding the heavens and the earth apart.",
+        "kr": "그는 그것이 하늘과 땅을 떠받치고 있는 아틀라스라는 것을 알았습니다."
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "tag": "P0119",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "He came to the mountain, and leapt on shore, and wandered upward, among pleasant valleys and waterfalls, and tall trees and strange ferns and flowers; but there was no smoke rising from any glen, nor house, nor sign of man.",
+    "is_header": false,
+    "word_count": 40,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He came to the mountain and leaped ashore.",
+        "kr": "그는 산에 다다라 해안으로 뛰어내렸습니다."
+      },
+      {
+        "id": 2,
+        "en": "He wandered upward among pleasant valleys, waterfalls, and tall trees.",
+        "kr": "그는 아름다운 계곡과 폭포, 높은 나무들 사이를 걸어 올라갔습니다."
+      },
+      {
+        "id": 3,
+        "en": "There was no smoke, no house, and no sign of people.",
+        "kr": "그곳에는 연기도, 집도, 사람의 흔적도 없었습니다."
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "tag": "P0120",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "At last he heard sweet voices singing; and he guessed that he was come to the garden of the Nymphs, the daughters of the Evening Star.",
+    "is_header": false,
+    "word_count": 26,
+    "translation": [
+      {
+        "id": 1,
+        "en": "At last, he heard sweet voices singing.",
+        "kr": "마침내 그는 달콤한 노랫소리를 들었습니다."
+      },
+      {
+        "id": 2,
+        "en": "He guessed he had reached the garden of the Nymphs.",
+        "kr": "그는 자신이 요정들의 정원에 도착했음을 직감했습니다."
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "tag": "P0121",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "They sang like nightingales among the thickets, and Perseus stopped to hear their song; but the words which they spoke he could not understand; no, nor no man after him for many a hundred years.  So he stepped forward and saw them dancing, hand in hand around the charmed tree, which bent under its golden fruit; and round the tree-foot was coiled the dragon, old Ladon the sleepless snake, who lies there for ever, listening to the song of the maidens, blinking and watching with dry bright eyes.",
+    "is_header": false,
+    "word_count": 88,
+    "translation": [
+      {
+        "id": 1,
+        "en": "They sang like nightingales among the thickets.",
+        "kr": "그들은 덤불 속에서 나이팅게일처럼 노래했습니다."
+      },
+      {
+        "id": 2,
+        "en": "Perseus stopped to listen, but he could not understand their words.",
+        "kr": "페르세우스는 멈춰 서서 들었지만 그들의 말을 이해할 수 없었습니다."
+      },
+      {
+        "id": 3,
+        "en": "He stepped forward and saw them dancing around a magical tree.",
+        "kr": "그가 앞으로 나아가자, 마법의 나무 주위를 춤추며 도는 그들의 모습이 보였습니다."
+      },
+      {
+        "id": 4,
+        "en": "The tree was heavy with golden fruit.",
+        "kr": "그 나무에는 황금빛 열매가 주렁주렁 매달려 있었습니다."
+      },
+      {
+        "id": 5,
+        "en": "A sleepless dragon was coiled around the base of the tree.",
+        "kr": "잠들지 않는 용 한 마리가 나무 밑동을 칭칭 감고 있었습니다."
+      },
+      {
+        "id": 6,
+        "en": "It lay there forever, blinking and watching with bright, dry eyes.",
+        "kr": "그 용은 영원히 그곳에 머물며 메마르고 빛나는 눈으로 주변을 감시했습니다."
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "tag": "P0122",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "Then Perseus stopped, not because he feared the dragon, but because he was bashful before those fair maids; but when they saw him, they too stopped, and called to him with trembling voices—",
+    "is_header": false,
+    "word_count": 33,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus stopped, feeling shy before the beautiful maidens.",
+        "kr": "페르세우스는 아름다운 소녀들 앞에서 부끄러움을 느껴 멈춰 섰습니다."
+      },
+      {
+        "id": 2,
+        "en": "When they saw him, they stopped and called out with trembling voices.",
+        "kr": "그들도 그를 보자 춤을 멈추고 떨리는 목소리로 외쳤습니다."
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "tag": "P0123",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "‘Who are you?  Are you Heracles the mighty, who will come to rob our garden, and carry off our golden fruit?’  And he answered—",
+    "is_header": false,
+    "word_count": 24,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Who are you? they asked.",
+        "kr": "당신은 누구십니까? 하고 그들이 물었습니다."
+      },
+      {
+        "id": 2,
+        "en": "Are you mighty Heracles, come to steal our golden fruit?",
+        "kr": "우리의 황금 열매를 훔치러 온 위대한 헤라클레스입니까?"
+      }
+    ]
+  },
+  {
+    "id": 124,
+    "tag": "P0124",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "‘I am not Heracles the mighty, and I want none of your golden fruit. Tell me, fair Nymphs, the way which leads to the Gorgon, that I may go on my way and slay her.’",
+    "is_header": false,
+    "word_count": 35,
+    "translation": [
+      {
+        "id": 1,
+        "en": "I am not mighty Heracles, and I do not want your fruit, he answered.",
+        "kr": "저는 헤라클레스가 아니며 당신들의 열매도 원하지 않습니다, 하고 그가 대답했습니다."
+      },
+      {
+        "id": 2,
+        "en": "Tell me the way to the Gorgon so I may slay her.",
+        "kr": "제가 고르고를 물리칠 수 있도록 그곳으로 가는 길을 알려주십시오."
+      }
+    ]
+  },
+  {
+    "id": 125,
+    "tag": "P0125",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "‘Not yet, not yet, fair boy; come dance with us around the tree in the garden which knows no winter, the home of the south wind and the sun. Come hither and play with us awhile; we have danced alone here for a thousand years, and our hearts are weary with longing for a playfellow. So come, come, come!’",
+    "is_header": false,
+    "word_count": 59,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Not yet, fair boy, they pleaded.",
+        "kr": "아직은 안 됩니다, 아름다운 소년이여, 하고 그들이 애원했습니다."
+      },
+      {
+        "id": 2,
+        "en": "Come dance with us around the tree in this endless summer garden.",
+        "kr": "이 영원한 여름의 정원에 있는 나무 주위에서 우리와 함께 춤을 추어요."
+      },
+      {
+        "id": 3,
+        "en": "We have danced alone for a thousand years.",
+        "kr": "우리는 천 년 동안 홀로 춤을 추었습니다."
+      },
+      {
+        "id": 4,
+        "en": "Our hearts ache for a playmate.",
+        "kr": "우리의 마음은 함께 놀 친구를 간절히 원하고 있습니다."
+      }
+    ]
+  },
+  {
+    "id": 126,
+    "tag": "P0126",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "‘I cannot dance with you, fair maidens; for I must do the errand of the Immortals.  So tell me the way to the Gorgon, lest I wander and perish in the waves.’",
+    "is_header": false,
+    "word_count": 32,
+    "translation": [
+      {
+        "id": 1,
+        "en": "I cannot dance with you, he replied.",
+        "kr": "저는 당신들과 춤을 출 수 없습니다, 하고 그가 대답했습니다."
+      },
+      {
+        "id": 2,
+        "en": "I must complete the mission given by the gods.",
+        "kr": "저는 신들이 주신 임무를 완수해야만 합니다."
+      },
+      {
+        "id": 3,
+        "en": "Please tell me the way to the Gorgon.",
+        "kr": "부디 제게 고르고에게 가는 길을 알려주십시오."
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "tag": "P0127",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "Then they sighed and wept; and answered—‘The Gorgon! she will freeze you into stone.’",
+    "is_header": false,
+    "word_count": 14,
+    "translation": [
+      {
+        "id": 1,
+        "en": "They sighed and wept, saying, The Gorgon will freeze you into stone.",
+        "kr": "그들은 한숨을 쉬며 울면서 말했습니다. 고르고는 당신을 돌로 얼려버릴 것입니다."
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "tag": "P0128",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "‘It is better to die like a hero than to live like an ox in a stall.  The Immortals have lent me weapons, and they will give me wit to use them.’",
+    "is_header": false,
+    "word_count": 32,
+    "translation": [
+      {
+        "id": 1,
+        "en": "It is better to die like a hero than to live like an ox, he said.",
+        "kr": "외양간의 황소처럼 사느니 영웅처럼 죽는 것이 낫습니다, 하고 그가 말했습니다."
+      },
+      {
+        "id": 2,
+        "en": "The gods gave me weapons, and they will give me the wits to use them.",
+        "kr": "신들께서 제게 무기를 주셨으니 그것을 사용할 지혜도 주실 것입니다."
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "tag": "P0129",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "Then they sighed again and answered, ‘Fair boy, if you are bent on your own ruin, be it so.  We know not the way to the Gorgon; but we will ask the giant Atlas, above upon the mountain peak, the brother of our father, the silver Evening Star.  He sits aloft and sees across the ocean, and far away into the Unshapen Land.’",
+    "is_header": false,
+    "word_count": 63,
+    "translation": [
+      {
+        "id": 1,
+        "en": "They sighed again and said, If you choose your own ruin, so be it.",
+        "kr": "그들은 다시 한숨을 쉬며 말했습니다. 스스로 파멸을 선택한다면 어쩔 수 없지요."
+      },
+      {
+        "id": 2,
+        "en": "We do not know the way, but we will ask our uncle, Atlas.",
+        "kr": "우리는 길을 모르지만 삼촌인 아틀라스에게 물어보겠습니다."
+      },
+      {
+        "id": 3,
+        "en": "He sits high above and sees far into the Unshapen Land.",
+        "kr": "그는 높은 곳에 앉아 저 멀리 형체 없는 땅까지 내려다보고 계십니다."
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "tag": "P0130",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "So they went up the mountain to Atlas their uncle, and Perseus went up with them.  And they found the giant kneeling, as he held the heavens and the earth apart.",
+    "is_header": false,
+    "word_count": 31,
+    "translation": [
+      {
+        "id": 1,
+        "en": "They went up the mountain to Atlas, and Perseus followed.",
+        "kr": "그들은 산을 올라 아틀라스에게 향했고, 페르세우스도 뒤따랐습니다."
+      },
+      {
+        "id": 2,
+        "en": "They found the giant kneeling, holding the heavens and earth apart.",
+        "kr": "그들은 하늘과 땅을 밀어내며 무릎을 꿇고 있는 거인을 발견했습니다."
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "tag": "P0131",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "They asked him, and he answered mildly, pointing to the sea-board with his mighty hand, ‘I can see the Gorgons lying on an island far away, but this youth can never come near them, unless he has the hat of darkness, which whosoever wears cannot be seen.’",
+    "is_header": false,
+    "word_count": 47,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He pointed to the sea with his massive hand.",
+        "kr": "그는 거대한 손으로 바다를 가리켰습니다."
+      },
+      {
+        "id": 2,
+        "en": "I can see the Gorgons on a distant island, he answered mildly.",
+        "kr": "저 멀리 섬에 고르고들이 있는 것이 보인다, 하고 그가 부드럽게 대답했습니다."
+      },
+      {
+        "id": 3,
+        "en": "But you cannot approach them without the hat of darkness.",
+        "kr": "하지만 어둠의 모자가 없다면 결코 그들에게 다가갈 수 없을 것이다."
+      },
+      {
+        "id": 4,
+        "en": "Whoever wears it becomes completely invisible.",
+        "kr": "그 모자를 쓰면 누구든 완전히 투명해지지."
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "tag": "P0132",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "Then cried Perseus, ‘Where is that hat, that I may find it?’",
+    "is_header": false,
+    "word_count": 12,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Where is that hat, so I may find it? Perseus cried.",
+        "kr": "제가 찾을 수 있도록 그 모자가 어디 있는지 알려주십시오! 하고 페르세우스가 외쳤습니다."
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "tag": "P0133",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "But the giant smiled.  ‘No living mortal can find that hat, for it lies in the depths of Hades, in the regions of the dead.  But my nieces are immortal, and they shall fetch it for you, if you will promise me one thing and keep your faith.’",
+    "is_header": false,
+    "word_count": 48,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The giant smiled and said, No living mortal can find it.",
+        "kr": "거인은 미소를 지으며 말했습니다. 살아있는 인간은 그것을 찾을 수 없다."
+      },
+      {
+        "id": 2,
+        "en": "It lies deep in Hades, in the realm of the dead.",
+        "kr": "그것은 죽은 자들의 영토인 하데스의 깊은 곳에 있단다."
+      },
+      {
+        "id": 3,
+        "en": "But my nieces are immortal and can fetch it for you.",
+        "kr": "하지만 내 조카딸들은 불멸의 존재이니 널 위해 가져올 수 있을 것이다."
+      },
+      {
+        "id": 4,
+        "en": "They will do so if you promise me one thing.",
+        "kr": "네가 내게 한 가지 약속을 지킨다면 말이다."
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "tag": "P0134",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "Then Perseus promised; and the giant said, ‘When you come back with the head of Medusa, you shall show me the beautiful horror, that I may lose my feeling and my breathing, and become a stone for ever; for it is weary labour for me to hold the heavens and the earth apart.’",
+    "is_header": false,
+    "word_count": 53,
+    "translation": [
+      {
+        "id": 1,
+        "en": "When you return with Medusa's head, you must show it to me, he said.",
+        "kr": "네가 메두사의 머리를 가지고 돌아오면 그것을 내게 보여주어야 한다, 하고 그가 말했습니다."
+      },
+      {
+        "id": 2,
+        "en": "I want to become stone forever and lose all feeling.",
+        "kr": "나는 감각을 잃고 영원한 돌이 되고 싶단다."
+      },
+      {
+        "id": 3,
+        "en": "Holding the heavens and the earth apart is a weary labor.",
+        "kr": "하늘과 땅을 떠받치는 이 노동은 너무나도 고통스럽기 때문이지."
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "tag": "P0135",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "Then Perseus promised, and the eldest of the Nymphs went down, and into a dark cavern among the cliffs, out of which came smoke and thunder, for it was one of the mouths of Hell.",
+    "is_header": false,
+    "word_count": 35,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus promised to do so.",
+        "kr": "페르세우스는 그렇게 하겠다고 약속했습니다."
+      },
+      {
+        "id": 2,
+        "en": "The eldest Nymph descended into a dark cavern full of smoke.",
+        "kr": "첫째 요정이 연기가 자욱한 어두운 동굴 속으로 내려갔습니다."
+      },
+      {
+        "id": 3,
+        "en": "It was one of the mouths of Hell.",
+        "kr": "그곳은 지옥으로 통하는 입구 중 하나였습니다."
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "tag": "P0136",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "And Perseus and the Nymphs sat down seven days, and waited trembling, till the Nymph came up again; and her face was pale, and her eyes dazzled with the light, for she had been long in the dreary darkness; but in her hand was the magic hat.",
+    "is_header": false,
+    "word_count": 47,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus and the others waited anxiously for seven days.",
+        "kr": "페르세우스와 다른 이들은 칠 일 동안 초조하게 기다렸습니다."
+      },
+      {
+        "id": 2,
+        "en": "Finally, she emerged, pale and dazzled by the light.",
+        "kr": "마침내 그녀가 창백한 얼굴로 빛에 눈부셔하며 나타났습니다."
+      },
+      {
+        "id": 3,
+        "en": "In her hand, she held the magic hat.",
+        "kr": "그녀의 손에는 마법의 모자가 들려 있었습니다."
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "tag": "P0137",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "Then all the Nymphs kissed Perseus, and wept over him a long while; but he was only impatient to be gone.  And at last they put the hat upon his head, and he vanished out of their sight.",
+    "is_header": false,
+    "word_count": 38,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The Nymphs kissed Perseus and wept over him.",
+        "kr": "요정들은 페르세우스에게 입을 맞추고 눈물을 흘렸습니다."
+      },
+      {
+        "id": 2,
+        "en": "But he was eager to leave.",
+        "kr": "하지만 그는 서둘러 떠나고 싶어 했습니다."
+      },
+      {
+        "id": 3,
+        "en": "They placed the hat on his head, and he vanished from sight.",
+        "kr": "그들이 모자를 그의 머리에 씌워주자, 그는 시야에서 완전히 사라졌습니다."
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "tag": "P0138",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "But Perseus went on boldly, past many an ugly sight, far away into the heart of the Unshapen Land, beyond the streams of Ocean, to the isles where no ship cruises, where is neither night nor day, where nothing is in its right place, and nothing has a name; till he heard the rustle of the Gorgons’ wings and saw the glitter of their brazen talons; and then he knew that it was time to halt, lest Medusa should freeze him into stone.",
+    "is_header": false,
+    "word_count": 83,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus bravely pressed on into the heart of the Unshapen Land.",
+        "kr": "페르세우스는 용감하게 형체 없는 땅의 중심부를 향해 나아갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "He traveled far beyond the endless ocean streams.",
+        "kr": "그는 끝없는 바다의 물결을 지나 멀리 이동했습니다."
+      },
+      {
+        "id": 3,
+        "en": "He reached isolated islands with no day, night, or names.",
+        "kr": "그는 낮도 밤도, 심지어 이름도 없는 고립된 섬들에 도착했습니다."
+      },
+      {
+        "id": 4,
+        "en": "Soon, he heard the rustle of the Gorgons' wings.",
+        "kr": "머지않아 그는 고르고들의 날개가 스치는 소리를 들었습니다."
+      },
+      {
+        "id": 5,
+        "en": "He saw the glitter of their brazen claws and stopped to hide.",
+        "kr": "그들의 놋쇠 발톱이 빛나는 것을 본 그는 숨기 위해 멈춰 섰습니다."
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "tag": "P0139",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "He thought awhile with himself, and remembered Athené’s words.  He rose aloft into the air, and held the mirror of the shield above his head, and looked up into it that he might see all that was below him.",
+    "is_header": false,
+    "word_count": 39,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He paused and remembered Athena's warnings.",
+        "kr": "그는 잠시 멈춰 서서 아테나의 경고를 떠올렸습니다."
+      },
+      {
+        "id": 2,
+        "en": "He rose high into the air and held the mirrored shield above him.",
+        "kr": "그는 공중 높이 솟아올라 거울 방패를 머리 위로 들어 올렸습니다."
+      },
+      {
+        "id": 3,
+        "en": "He looked into it to safely see everything below.",
+        "kr": "그는 아래의 모든 것을 안전하게 보기 위해 방패를 들여다보았습니다."
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "tag": "P0140",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "And he saw the three Gorgons sleeping as huge as elephants.  He knew that they could not see him, because the hat of darkness hid him; and yet he trembled as he sank down near them, so terrible were those brazen claws.",
+    "is_header": false,
+    "word_count": 42,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He saw the three sleeping Gorgons, huge as elephants.",
+        "kr": "그는 코끼리만큼 거대한 세 명의 고르고가 잠들어 있는 것을 보았습니다."
+      },
+      {
+        "id": 2,
+        "en": "He knew the hat of darkness kept him hidden.",
+        "kr": "어둠의 모자 덕분에 자신의 모습이 보이지 않는다는 것을 알았습니다."
+      },
+      {
+        "id": 3,
+        "en": "Yet, he trembled at the sight of their terrifying claws.",
+        "kr": "하지만 그 끔찍한 발톱을 보자 그는 두려움에 떨었습니다."
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "tag": "P0141",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "Two of the Gorgons were foul as swine, and lay sleeping heavily, as swine sleep, with their mighty wings outspread; but Medusa tossed to and fro restlessly, and as she tossed Perseus pitied her, she looked so fair and sad.  Her plumage was like the rainbow, and her face was like the face of a nymph, only her eyebrows were knit, and her lips clenched, with everlasting care and pain; and her long neck gleamed so white in the mirror that Perseus had not the heart to strike, and said, ‘Ah, that it had been either of her sisters!’",
+    "is_header": false,
+    "word_count": 99,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Two of the Gorgons were foul and slept heavily like swine.",
+        "kr": "두 명의 고르고는 더러웠고 돼지처럼 깊이 잠들어 있었습니다."
+      },
+      {
+        "id": 2,
+        "en": "But Medusa tossed restlessly, and Perseus pitied her.",
+        "kr": "하지만 메두사는 불안하게 뒤척였고, 페르세우스는 그녀를 불쌍하게 여겼습니다."
+      },
+      {
+        "id": 3,
+        "en": "She looked incredibly fair but deeply sad.",
+        "kr": "그녀는 믿을 수 없을 만큼 아름다웠지만 깊은 슬픔에 잠겨 있었습니다."
+      },
+      {
+        "id": 4,
+        "en": "Her face was like a nymph's, but filled with endless pain.",
+        "kr": "그녀의 얼굴은 요정 같았으나 끝없는 고통으로 가득 차 있었습니다."
+      },
+      {
+        "id": 5,
+        "en": "Her long white neck gleamed so brightly in the mirror.",
+        "kr": "그녀의 길고 하얀 목이 거울 속에서 너무나도 눈부시게 빛났습니다."
+      },
+      {
+        "id": 6,
+        "en": "Perseus lost his nerve and wished it had been one of her sisters.",
+        "kr": "페르세우스는 용기를 잃고 차라리 그녀의 자매 중 한 명이었기를 바랐습니다."
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "tag": "P0142",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "But as he looked, from among her tresses the vipers’ heads awoke, and peeped up with their bright dry eyes, and showed their fangs, and hissed; and Medusa, as she tossed, threw back her wings and showed her brazen claws; and Perseus saw that, for all her beauty, she was as foul and venomous as the rest.",
+    "is_header": false,
+    "word_count": 57,
+    "translation": [
+      {
+        "id": 1,
+        "en": "But as he watched, the vipers in her hair awoke and hissed.",
+        "kr": "하지만 그가 지켜보는 동안 그녀 머리카락의 독사들이 깨어나 쉭쉭거렸습니다."
+      },
+      {
+        "id": 2,
+        "en": "Medusa tossed, showing her deadly brazen claws.",
+        "kr": "메두사가 뒤척이며 치명적인 놋쇠 발톱을 드러냈습니다."
+      },
+      {
+        "id": 3,
+        "en": "Perseus realized that beneath her beauty, she was foul and venomous.",
+        "kr": "페르세우스는 그녀의 아름다움 아래에 사악하고 맹독을 품은 본성이 있음을 깨달았습니다."
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "tag": "P0143",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "Then he came down and stepped to her boldly, and looked steadfastly on his mirror, and struck with Herpé stoutly once; and he did not need to strike again.",
+    "is_header": false,
+    "word_count": 29,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He stepped down boldly, keeping his eyes fixed on the mirror.",
+        "kr": "그는 방패 거울에 시선을 고정한 채 용감하게 내려갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "He struck once strongly with his sword, and needed no second strike.",
+        "kr": "그는 검으로 강하게 단 한 번 내리쳤고 두 번 칠 필요는 없었습니다."
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "tag": "P0144",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "Then he wrapped the head in the goat-skin, turning away his eyes, and sprang into the air aloft, faster than he ever sprang before.",
+    "is_header": false,
+    "word_count": 24,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Averting his eyes, he wrapped the head in the goatskin.",
+        "kr": "그는 시선을 돌린 채 염소 가죽으로 그 머리를 감쌌습니다."
+      },
+      {
+        "id": 2,
+        "en": "He sprang back into the air faster than ever before.",
+        "kr": "그는 그 어느 때보다 빠르게 공중으로 솟아올랐습니다."
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "tag": "P0145",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "For Medusa’s wings and talons rattled as she sank dead upon the rocks; and her two foul sisters woke, and saw her lying dead.",
+    "is_header": false,
+    "word_count": 24,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Medusa's wings and talons rattled as she fell dead on the rocks.",
+        "kr": "메두사가 바위 위로 쓰러지며 날개와 발톱이 요란한 소리를 냈습니다."
+      },
+      {
+        "id": 2,
+        "en": "Her two foul sisters woke to find her lifeless body.",
+        "kr": "두 명의 사악한 자매가 잠에서 깨어 그녀의 시신을 발견했습니다."
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "tag": "P0146",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "Into the air they sprang yelling and looked for him who had done the deed.  Thrice they swung round and round, like hawks who beat for a partridge; and thrice they snuffed round and round, like hounds who draw upon a deer.  At last they struck upon the scent of the blood, and they checked for a moment to make sure; and then on they rushed with a fearful howl, while the wind rattled hoarse in their wings.",
+    "is_header": false,
+    "word_count": 78,
+    "translation": [
+      {
+        "id": 1,
+        "en": "They sprang into the air yelling, searching for the killer.",
+        "kr": "그들은 비명을 지르며 공중으로 뛰어올라 암살자를 찾았습니다."
+      },
+      {
+        "id": 2,
+        "en": "They swung around like hawks hunting for prey.",
+        "kr": "그들은 먹이를 찾는 매처럼 주위를 빙빙 돌았습니다."
+      },
+      {
+        "id": 3,
+        "en": "They sniffed the air like hounds tracking a deer.",
+        "kr": "그들은 사슴을 추적하는 사냥개처럼 공기 냄새를 맡았습니다."
+      },
+      {
+        "id": 4,
+        "en": "Soon they caught the scent of blood and paused to be sure.",
+        "kr": "머지않아 피 냄새를 맡은 그들은 확신하기 위해 잠시 멈췄습니다."
+      },
+      {
+        "id": 5,
+        "en": "Then they rushed forward with a fearful howl, wings rattling wildly.",
+        "kr": "그러고는 끔찍한 울음소리를 내며 날개를 퍼덕이며 돌진했습니다."
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "tag": "P0147",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "On they rushed, sweeping and flapping, like eagles after a hare; and Perseus’ blood ran cold, for all his courage, as he saw them come howling on his track; and he cried, ‘Bear me well now, brave sandals, for the hounds of Death are at my heels!’",
+    "is_header": false,
+    "word_count": 47,
+    "translation": [
+      {
+        "id": 1,
+        "en": "They swept and flapped after him like eagles hunting a hare.",
+        "kr": "그들은 토끼를 사냥하는 독수리처럼 날개를 퍼덕이며 그를 쫓았습니다."
+      },
+      {
+        "id": 2,
+        "en": "Perseus' blood ran cold as he saw them howling on his track.",
+        "kr": "그들이 울부짖으며 뒤쫓아오는 것을 본 페르세우스는 피가 얼어붙는 듯했습니다."
+      },
+      {
+        "id": 3,
+        "en": "Bear me well, brave sandals, for death is at my heels! he cried.",
+        "kr": "부탁한다, 용감한 샌들이여. 죽음이 내 발끝까지 쫓아왔다! 하고 그가 외쳤습니다."
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "tag": "P0148",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "And well the brave sandals bore him, aloft through cloud and sunshine, across the shoreless sea; and fast followed the hounds of Death, as the roar of their wings came down the wind.  But the roar came down fainter and fainter, and the howl of their voices died away; for the sandals were too swift, even for Gorgons, and by nightfall they were far behind, two black specks in the southern sky, till the sun sank and he saw them no more.",
+    "is_header": false,
+    "word_count": 82,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The sandals bore him swiftly through clouds and across the sea.",
+        "kr": "샌들은 그를 태우고 구름을 뚫고 바다를 건너 빠르게 날았습니다."
+      },
+      {
+        "id": 2,
+        "en": "The roaring wings of the Gorgons followed fast behind him.",
+        "kr": "고르고들의 요란한 날갯짓 소리가 그의 뒤를 바짝 쫓았습니다."
+      },
+      {
+        "id": 3,
+        "en": "But gradually, the roar and their howling voices faded away.",
+        "kr": "하지만 점차 그들의 요란한 소리와 울부짖음은 희미해졌습니다."
+      },
+      {
+        "id": 4,
+        "en": "His sandals were simply too swift, even for the Gorgons.",
+        "kr": "그의 샌들은 고르고들조차 따라잡을 수 없을 만큼 빨랐습니다."
+      },
+      {
+        "id": 5,
+        "en": "By nightfall, they were just two black specks in the sky.",
+        "kr": "밤이 되자 그들은 하늘의 검은 점 두 개로 보일 뿐이었습니다."
+      },
+      {
+        "id": 6,
+        "en": "When the sun sank, they vanished entirely.",
+        "kr": "해가 저물자 그들은 완전히 사라져 보이지 않게 되었습니다."
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "tag": "P0149",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "Then he came again to Atlas, and the garden of the Nymphs; and when the giant heard him coming he groaned, and said, ‘Fulfil thy promise to me.’ Then Perseus held up to him the Gorgon’s head, and he had rest from all his toil; for he became a crag of stone, which sleeps for ever far above the clouds.",
+    "is_header": false,
+    "word_count": 60,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He returned to Atlas and the garden of the Nymphs.",
+        "kr": "그는 아틀라스와 요정들의 정원으로 다시 돌아왔습니다."
+      },
+      {
+        "id": 2,
+        "en": "When the giant heard him, he groaned, Fulfill your promise to me.",
+        "kr": "거인은 그가 오는 소리를 듣고 신음하며 말했습니다. 내게 한 약속을 지켜라."
+      },
+      {
+        "id": 3,
+        "en": "Perseus held up the Gorgon's head, granting him rest.",
+        "kr": "페르세우스가 고르고의 머리를 들어 올리자 그에게 안식이 찾아왔습니다."
+      },
+      {
+        "id": 4,
+        "en": "Atlas became a massive stone crag, sleeping forever above the clouds.",
+        "kr": "아틀라스는 거대한 돌덩이가 되어 구름 위에서 영원히 잠들었습니다."
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "tag": "P0150",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "Then he thanked the Nymphs, and asked them, ‘By what road shall I go homeward again, for I wandered far round in coming hither?’",
+    "is_header": false,
+    "word_count": 24,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Perseus thanked the Nymphs and asked for directions home.",
+        "kr": "페르세우스는 요정들에게 감사 인사를 전하고 집으로 가는 길을 물었습니다."
+      },
+      {
+        "id": 2,
+        "en": "Which way should I go, as I wandered far to get here? he asked.",
+        "kr": "이곳에 오느라 멀리 돌아왔으니 이제 어느 길로 가야 합니까? 하고 그는 물었습니다."
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "tag": "P0151",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "And they wept and cried, ‘Go home no more, but stay and play with us, the lonely maidens, who dwell for ever far away from Gods and men.’",
+    "is_header": false,
+    "word_count": 28,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Do not go home, but stay and play with us, they cried.",
+        "kr": "집에 가지 말고 우리와 함께 놀아요, 하고 그들이 울며 애원했습니다."
+      },
+      {
+        "id": 2,
+        "en": "We are lonely maidens living far away from both gods and men.",
+        "kr": "우리는 신들과 인간 모두에게서 멀리 떨어져 사는 외로운 소녀들입니다."
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "tag": "P0152",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "But he refused, and they told him his road, and said, ‘Take with you this magic fruit, which, if you eat once, you will not hunger for seven days. For you must go eastward and eastward ever, over the doleful Lybian shore, which Poseidon gave to Father Zeus, when he burst open the Bosphorus and the Hellespont, and drowned the fair Lectonian land.  And Zeus took that land in exchange, a fair bargain, much bad ground for a little good, and to this day it lies waste and desert with shingle, and rock, and sand.’",
+    "is_header": false,
+    "word_count": 95,
+    "translation": [
+      {
+        "id": 1,
+        "en": "But he refused, so they told him the way.",
+        "kr": "하지만 그가 거절하자 그들은 길을 알려주었습니다."
+      },
+      {
+        "id": 2,
+        "en": "Take this magic fruit; if you eat it, you won't hunger for seven days.",
+        "kr": "이 마법의 열매를 가져가세요. 한 입만 먹어도 칠 일 동안 배고프지 않을 것입니다."
+      },
+      {
+        "id": 3,
+        "en": "You must fly far eastward over the sad Libyan shore.",
+        "kr": "당신은 저 멀리 슬픈 리비아 해안을 넘어 계속 동쪽으로 날아가야 합니다."
+      },
+      {
+        "id": 4,
+        "en": "Poseidon gave it to Zeus after drowning the beautiful Lectonian land.",
+        "kr": "그곳은 포세이돈이 아름다운 렉토니아 땅을 물에 잠기게 한 뒤 제우스에게 준 곳입니다."
+      },
+      {
+        "id": 5,
+        "en": "Zeus took it in exchange, trading much bad ground for a little good.",
+        "kr": "제우스는 약간의 좋은 땅을 대가로 많은 나쁜 땅을 받는 교환을 수락했습니다."
+      },
+      {
+        "id": 6,
+        "en": "To this day, it remains a wasteland of rock and sand.",
+        "kr": "그곳은 오늘날까지도 바위와 모래뿐인 황무지로 남아있습니다."
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "tag": "P0153",
+    "chapter_id": "ch_03",
+    "story": "Story I: Perseus",
+    "part": "Part III: How Perseus Slew the Gorgon",
+    "raw": "Then they kissed Perseus, and wept over him, and he leapt down the mountain, and went on, lessening and lessening like a sea-gull, away and out to sea.",
+    "is_header": false,
+    "word_count": 28,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The Nymphs kissed him and wept over him one last time.",
+        "kr": "요정들은 마지막으로 그에게 입을 맞추고 눈물을 흘렸습니다."
+      },
+      {
+        "id": 2,
+        "en": "He leaped down the mountain and flew out to sea.",
+        "kr": "그는 산 아래로 뛰어내려 바다를 향해 날아갔습니다."
+      },
+      {
+        "id": 3,
+        "en": "He grew smaller and smaller, fading away like a distant seagull.",
+        "kr": "그는 점점 작아지며 멀리 날아가는 갈매기처럼 시야에서 사라졌습니다."
+      }
+    ]
+  }
+]

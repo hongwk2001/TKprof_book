@@ -1,0 +1,548 @@
+[
+  {
+    "id": 366,
+    "tag": "P0366",
+    "chapter_id": "ch_08",
+    "translation": [
+      {
+        "id": 1,
+        "en": "Part 3: How They Built the Ship Argo in Iolcos",
+        "kr": "[3부: 이올코스에서 아르고 호를 건조하다]"
+      }
+    ]
+  },
+  {
+    "id": 367,
+    "tag": "P0367",
+    "chapter_id": "ch_08",
+    "translation": [
+      {
+        "id": 1,
+        "en": "The heralds went out and called to all the heroes of the Minyans.",
+        "kr": "전령들이 밖으로 나가 미니아이의 모든 영웅들에게 외쳤습니다."
+      },
+      {
+        "id": 2,
+        "en": "Who dares to join the adventure for the golden fleece?",
+        "kr": "누가 황금 양털을 찾는 모험에 나서겠습니까?"
+      }
+    ]
+  },
+  {
+    "id": 368,
+    "tag": "P0368",
+    "chapter_id": "ch_08",
+    "translation": [
+      {
+        "id": 1,
+        "en": "Hera stirred the hearts of all the princes.",
+        "kr": "헤라 여신이 모든 왕자들의 마음을 움직였습니다."
+      },
+      {
+        "id": 2,
+        "en": "They traveled from their valleys to the yellow sands of Pagasae.",
+        "kr": "그들은 각자의 계곡을 떠나 파가사이의 노란 모래밭으로 모여들었습니다."
+      },
+      {
+        "id": 3,
+        "en": "First came mighty Heracles with his lion skin and club.",
+        "kr": "가장 먼저 사자 가죽을 걸치고 몽둥이를 든 강력한 헤라클레스가 왔습니다."
+      },
+      {
+        "id": 4,
+        "en": "Behind him walked his young squire Hylas, carrying his bow and arrows.",
+        "kr": "그 뒤에는 활과 화살을 든 젊은 종자 힐라스가 따랐습니다."
+      },
+      {
+        "id": 5,
+        "en": "Then came Tiphys, the skilled steersman, and Butes, the most handsome of men.",
+        "kr": "노련한 조타수 티피스와 세상에서 가장 잘생긴 사내 부테스도 왔습니다."
+      },
+      {
+        "id": 6,
+        "en": "Castor and Polydeuces arrived, the twin sons of the magic swan.",
+        "kr": "마법의 백조가 낳은 쌍둥이 형제 카스토르와 폴리데우케스도 도착했습니다."
+      },
+      {
+        "id": 7,
+        "en": "Caeneus also joined them, the strongest of all mortals.",
+        "kr": "인간 중 가장 힘이 센 카이네우스도 그들과 합류했습니다."
+      },
+      {
+        "id": 8,
+        "en": "The Centaurs had tried to kill him by burying him under pine trees, but he survived.",
+        "kr": "켄타우로스들이 그를 소나무 몸통 아래 묻어 죽이려 했지만, 그는 살아남았습니다."
+      },
+      {
+        "id": 9,
+        "en": "Zetes and Calais, the winged sons of the North Wind, flew in.",
+        "kr": "북풍의 날개 달린 아들들인 제테스와 칼라이스도 날아왔습니다."
+      },
+      {
+        "id": 10,
+        "en": "Peleus came too. He was the father of Achilles and husband to the sea goddess Thetis.",
+        "kr": "펠레우스도 왔습니다. 그는 아킬레스의 아버지이자 바다의 여신 테티스의 남편이었습니다."
+      },
+      {
+        "id": 11,
+        "en": "Telamon and Oileus arrived, fathers of the two heroes named Ajax who fought at Troy.",
+        "kr": "트로이 평원에서 싸운 두 명의 아이아스의 아버지들, 텔라몬과 오일레우스도 도착했습니다."
+      },
+      {
+        "id": 12,
+        "en": "Mopsus, the wise soothsayer who understood the language of birds, joined them.",
+        "kr": "새들의 언어를 이해하는 지혜로운 예언자 몹소스도 함께했습니다."
+      },
+      {
+        "id": 13,
+        "en": "Idmon also came, gifted by Phoebus with the power to see the future.",
+        "kr": "포이보스로부터 미래를 내다보는 능력을 받은 이드몬도 왔습니다."
+      },
+      {
+        "id": 14,
+        "en": "Ancaeus, who could read the stars and map the heavens, arrived next.",
+        "kr": "별을 읽고 하늘의 지도를 그릴 줄 아는 안카이오스도 다음으로 도착했습니다."
+      },
+      {
+        "id": 15,
+        "en": "Argus, the famous shipbuilder, came alongside many more legendary heroes.",
+        "kr": "유명한 조선공 아르고스도 다른 수많은 전설적인 영웅들과 함께 왔습니다."
+      },
+      {
+        "id": 16,
+        "en": "They wore brass and gold helmets with tall, dyed horsehair crests.",
+        "kr": "그들은 높게 염색된 말갈기 장식이 달린 황동과 황금 투구를 썼습니다."
+      },
+      {
+        "id": 17,
+        "en": "Embroidered linen shirts peeked out from beneath their coats of mail.",
+        "kr": "쇠사슬 갑옷 아래로는 수를 놓은 린넨 셔츠가 보였습니다."
+      },
+      {
+        "id": 18,
+        "en": "Polished tin armor protected their knees for battle.",
+        "kr": "매끄럽게 광을 낸 주석 갑옷이 전투를 위해 그들의 무릎을 보호했습니다."
+      },
+      {
+        "id": 19,
+        "en": "Each man carried a thick bull-hide shield on his shoulder.",
+        "kr": "각자는 튼튼한 황소 가죽으로 만든 두꺼운 방패를 어깨에 멨습니다."
+      },
+      {
+        "id": 20,
+        "en": "Bronze swords hung from their silver-studded belts.",
+        "kr": "은 장식이 박힌 허리띠에는 청동 검이 매달려 있었습니다."
+      },
+      {
+        "id": 21,
+        "en": "In their right hands, they grasped pairs of heavy white ash lances.",
+        "kr": "오른손에는 희고 단단한 물푸레나무로 만든 무거운 창 두 자루씩을 쥐었습니다."
+      }
+    ]
+  },
+  {
+    "id": 369,
+    "tag": "P0369",
+    "chapter_id": "ch_08",
+    "translation": [
+      {
+        "id": 1,
+        "en": "They marched down to Iolcos, and the entire city came out to greet them.",
+        "kr": "그들이 이올코스로 내려가자 온 도시 사람들이 나와 그들을 맞이했습니다."
+      },
+      {
+        "id": 2,
+        "en": "The people could not stop staring at their impressive height and beauty.",
+        "kr": "사람들은 그들의 훤칠한 키와 아름다운 모습에 눈을 떼지 못했습니다."
+      },
+      {
+        "id": 3,
+        "en": "They marveled at their brave postures and the glitter of their decorated weapons.",
+        "kr": "사람들은 그들의 용감한 자태와 화려하게 장식된 무기의 광채에 경탄했습니다."
+      },
+      {
+        "id": 4,
+        "en": "Some people said, Never has there been such a gathering of heroes since the Hellenes conquered the land.",
+        "kr": "어떤 이들은 헬렌 족이 이 땅을 정복한 이래로 이렇게 많은 영웅이 모인 적은 없었다고 말했습니다."
+      },
+      {
+        "id": 5,
+        "en": "But the women sighed as they watched them pass.",
+        "kr": "하지만 여자들은 그들이 지나가는 것을 보며 한숨을 쉬었습니다."
+      },
+      {
+        "id": 6,
+        "en": "Alas! They are all marching straight to their deaths!",
+        "kr": "아아! 저들은 모두 죽음을 향해 걸어가고 있구나!"
+      }
+    ]
+  },
+  {
+    "id": 370,
+    "tag": "P0370",
+    "chapter_id": "ch_08",
+    "translation": [
+      {
+        "id": 1,
+        "en": "The heroes chopped down pine trees on Mount Pelion and shaped them with axes.",
+        "kr": "영웅들은 펠리온 산의 소나무를 베어 도끼로 다듬었습니다."
+      },
+      {
+        "id": 2,
+        "en": "Argus taught them how to build a galley, the first long ship to ever sail the seas.",
+        "kr": "아르고스는 그들에게 바다를 항해하는 최초의 긴 배인 갤리선을 짓는 법을 가르쳤습니다."
+      },
+      {
+        "id": 3,
+        "en": "They carved holes for fifty oars, providing one for every hero in the crew.",
+        "kr": "그들은 쉰 개의 노가 들어갈 구멍을 뚫어, 선원인 모든 영웅에게 노를 하나씩 배정했습니다."
+      },
+      {
+        "id": 4,
+        "en": "The men sealed the hull with coal-black pitch and painted the front bright red.",
+        "kr": "사내들은 선체를 칠흑 같은 타르로 밀봉하고 뱃머리를 밝은 붉은색으로 칠했습니다."
+      },
+      {
+        "id": 5,
+        "en": "They named the ship Argo in honor of Argus and worked on her all day long.",
+        "kr": "그들은 아르고스를 기려 배의 이름을 아르고라 짓고 온종일 배를 만드는 데 매달렸습니다."
+      },
+      {
+        "id": 6,
+        "en": "At night, Pelias threw grand royal feasts for them.",
+        "kr": "밤이 되면 펠리아스는 그들을 위해 성대한 왕실 연회를 열어주었습니다."
+      },
+      {
+        "id": 7,
+        "en": "Afterward, the weary heroes slept soundly on the palace porch.",
+        "kr": "그 후 지친 영웅들은 궁전 현관에서 깊은 잠에 빠졌습니다."
+      }
+    ]
+  },
+  {
+    "id": 371,
+    "tag": "P0371",
+    "chapter_id": "ch_08",
+    "translation": [
+      {
+        "id": 1,
+        "en": "Meanwhile, Jason traveled north into the land of Thrace.",
+        "kr": "한편, 이아손은 북쪽 트라키아 땅으로 향했습니다."
+      },
+      {
+        "id": 2,
+        "en": "He searched until he found Orpheus, the greatest of all musicians.",
+        "kr": "그는 가장 위대한 음악가인 오르페우스를 찾을 때까지 헤매었습니다."
+      },
+      {
+        "id": 3,
+        "en": "Orpheus was living in a cave beneath Mount Rhodope among the wild Cicon tribes.",
+        "kr": "오르페우스는 로도페 산 아래의 동굴에서 거친 키콘 부족과 함께 살고 있었습니다."
+      },
+      {
+        "id": 4,
+        "en": "Jason asked him, Will you leave your mountains, my old friend and fellow student?",
+        "kr": "이아손이 그에게 물었습니다. 나의 옛 친구이자 동학이여, 이 산을 떠나 주시겠소?"
+      },
+      {
+        "id": 5,
+        "en": "Will you cross the river Strymon with me one more time?",
+        "kr": "나와 함께 스트리몬 강을 한 번 더 건너 주시겠소?"
+      },
+      {
+        "id": 6,
+        "en": "Come sail with the Minyan heroes to bring home the golden fleece.",
+        "kr": "미니아이의 영웅들과 함께 항해하여 황금 양털을 집으로 가져옵시다."
+      },
+      {
+        "id": 7,
+        "en": "You can charm men and monsters alike with your magic harp and beautiful songs.",
+        "kr": "당신의 마법 하프와 아름다운 노래라면 인간과 괴물 모두를 매혹할 수 있을 것이오."
+      }
+    ]
+  },
+  {
+    "id": 372,
+    "tag": "P0372",
+    "chapter_id": "ch_08",
+    "translation": [
+      {
+        "id": 1,
+        "en": "Orpheus let out a heavy sigh and replied.",
+        "kr": "오르페우스는 깊은 한숨을 내쉬며 대답했습니다."
+      },
+      {
+        "id": 2,
+        "en": "Have I not endured enough hardship and endless wandering?",
+        "kr": "나는 이미 충분한 고난과 끝없는 방황을 겪지 않았소?"
+      },
+      {
+        "id": 3,
+        "en": "I have traveled far and wide since our days in Cheiron's cave by the sea.",
+        "kr": "바닷가 이올코스의 케이론의 동굴에서 지내던 시절 이후로 나는 참으로 멀고 넓은 세상을 떠돌았소."
+      },
+      {
+        "id": 4,
+        "en": "The skill and voice my goddess mother gave me have brought me no joy.",
+        "kr": "여신 어머니께서 내게 주신 재능과 목소리도 내게는 아무런 기쁨을 주지 못했다오."
+      },
+      {
+        "id": 5,
+        "en": "I have sung and labored to no purpose.",
+        "kr": "나는 헛되이 노래하고 애를 썼소."
+      },
+      {
+        "id": 6,
+        "en": "I even traveled down to the land of the dead and charmed the rulers of Hades.",
+        "kr": "심지어 죽은 자들의 땅으로 내려가 하데스의 지배자들을 매혹하기도 했소."
+      },
+      {
+        "id": 7,
+        "en": "I did it all just to win back my bride, Eurydice.",
+        "kr": "그 모든 것은 오직 나의 신부 에우리디케를 되찾기 위함이었지."
+      },
+      {
+        "id": 8,
+        "en": "I saved my beloved, only to lose her again on the very same day.",
+        "kr": "나는 사랑하는 이를 구했지만, 바로 그날 그녀를 다시 잃고 말았소."
+      },
+      {
+        "id": 9,
+        "en": "Madness drove me across Egypt, the Libyan sands, and countless islands.",
+        "kr": "광기에 사로잡힌 나는 이집트와 리비아의 사막, 그리고 수많은 섬들을 떠돌았지."
+      },
+      {
+        "id": 10,
+        "en": "I was pushed forward relentlessly, singing in vain to men, beasts, and stones.",
+        "kr": "나는 무언가에 쫓기듯 끝없이 나아가며 사람과 짐승, 돌멩이들에게조차 헛된 노래를 불렀다오."
+      },
+      {
+        "id": 11,
+        "en": "My magic harp gave rest to everyone else, but I found no peace for myself.",
+        "kr": "내 마법 하프는 다른 모든 이에게 안식을 주었지만, 정작 나 자신은 어떤 평화도 찾지 못했소."
+      },
+      {
+        "id": 12,
+        "en": "Finally, my mother Calliope rescued me and brought me home in peace.",
+        "kr": "마침내 나의 어머니 칼리오페께서 나를 구해주셨고, 평화롭게 집으로 데려와 주셨지."
+      },
+      {
+        "id": 13,
+        "en": "Now I live here alone, soothing the wild Cicon tribes with music and Zeus's gentle laws.",
+        "kr": "지금 나는 이곳 동굴에 홀로 살며, 음악과 제우스의 온화한 법으로 거친 키콘 부족을 달래고 있소."
+      },
+      {
+        "id": 14,
+        "en": "Yet you ask me to journey again to the edges of the earth and the misty darkness.",
+        "kr": "그런데도 당신은 나에게 세상의 끝, 저 안개 낀 어둠 속 동쪽 바다의 마지막 파도를 향해 다시 떠나자고 하는구려."
+      },
+      {
+        "id": 15,
+        "en": "But I must accept my fate and answer the call of a true friend.",
+        "kr": "하지만 운명은 받아들여야 하고, 진정한 친구의 부름에는 응해야 마땅할 것이오."
+      },
+      {
+        "id": 16,
+        "en": "Prayers are the daughters of Zeus, and whoever honors them honors the gods.",
+        "kr": "간청은 제우스의 딸들이니, 이를 존중하는 자는 곧 신을 존중하는 것이기 때문이지."
+      }
+    ]
+  },
+  {
+    "id": 373,
+    "tag": "P0373",
+    "chapter_id": "ch_08",
+    "translation": [
+      {
+        "id": 1,
+        "en": "Orpheus stood up with another sigh, grabbed his harp, and crossed the river.",
+        "kr": "오르페우스는 다시 한번 한숨을 내쉬며 일어섰고, 하프를 챙겨 강을 건넜습니다."
+      },
+      {
+        "id": 2,
+        "en": "He led Jason southwest along the riverbanks and over the mountain ridges.",
+        "kr": "그는 이아손을 이끌고 강둑을 따라 산등성이를 넘어 남서쪽으로 향했습니다."
+      },
+      {
+        "id": 3,
+        "en": "They reached Dodona, the holy town of Zeus beside the sacred lake.",
+        "kr": "그들은 신성한 호숫가에 자리한 제우스의 거룩한 도시 도도나에 도착했습니다."
+      },
+      {
+        "id": 4,
+        "en": "A fiery fountain burned there in the darkness of the ancient oak forest.",
+        "kr": "그곳의 오래된 참나무 숲의 어둠 속에는 불을 내뿜는 샘이 있었습니다."
+      },
+      {
+        "id": 5,
+        "en": "Orpheus brought Jason to the ancient holy oak tree.",
+        "kr": "오르페우스는 이아손을 아주 오래된 신성한 참나무로 데려갔습니다."
+      },
+      {
+        "id": 6,
+        "en": "A black dove had once rested there, transforming into the priestess of Zeus.",
+        "kr": "옛날에 검은 비둘기 한 마리가 그곳에 앉았다가 제우스의 여사제로 변한 적이 있었습니다."
+      },
+      {
+        "id": 7,
+        "en": "She had spoken wise prophecies to all the surrounding nations.",
+        "kr": "그녀는 주변의 모든 나라에 지혜로운 신탁을 전해주곤 했습니다."
+      },
+      {
+        "id": 8,
+        "en": "Orpheus told Jason to cut down a sturdy branch and offer sacrifices to the gods.",
+        "kr": "오르페우스는 이아손에게 튼튼한 나뭇가지를 꺾어 신들에게 제물을 바치라고 말했습니다."
+      },
+      {
+        "id": 9,
+        "en": "They took the sacred branch back to Iolcos and securely nailed it to the ship's front.",
+        "kr": "그들은 그 신성한 나뭇가지를 이올코스로 가져와 배의 뱃머리에 단단히 못 박았습니다."
+      }
+    ]
+  },
+  {
+    "id": 374,
+    "tag": "P0374",
+    "chapter_id": "ch_08",
+    "translation": [
+      {
+        "id": 1,
+        "en": "At last, the ship was finished, and they tried to push it into the water.",
+        "kr": "마침내 배가 완성되었고, 그들은 배를 물가로 밀어내려 했습니다."
+      },
+      {
+        "id": 2,
+        "en": "But it was incredibly heavy, and the bottom sank deep into the soft sand.",
+        "kr": "하지만 배는 엄청나게 무거웠고, 바닥은 부드러운 모래 속으로 깊이 가라앉고 말았습니다."
+      },
+      {
+        "id": 3,
+        "en": "The mighty heroes looked at one another, blushing in embarrassment.",
+        "kr": "강력한 영웅들은 당황하여 얼굴을 붉힌 채 서로를 쳐다보았습니다."
+      },
+      {
+        "id": 4,
+        "en": "Jason broke the silence and offered a solution.",
+        "kr": "이아손이 침묵을 깨고 해결책을 제시했습니다."
+      },
+      {
+        "id": 5,
+        "en": "Let us ask the magic branch. Perhaps it can help us in our time of need.",
+        "kr": "마법의 나뭇가지에게 물어봅시다. 어쩌면 우리가 도움이 필요할 때 힘이 되어줄지도 모릅니다."
+      }
+    ]
+  },
+  {
+    "id": 375,
+    "tag": "P0375",
+    "chapter_id": "ch_08",
+    "translation": [
+      {
+        "id": 1,
+        "en": "A voice spoke directly from the branch, and Jason listened closely.",
+        "kr": "나뭇가지에서 직접 목소리가 흘러나왔고, 이아손은 귀를 기울였습니다."
+      },
+      {
+        "id": 2,
+        "en": "He told Orpheus to play his harp while the heroes stood by.",
+        "kr": "그는 오르페우스에게 하프를 연주하라고 말하며, 영웅들에게는 대기하라고 지시했습니다."
+      },
+      {
+        "id": 3,
+        "en": "They held the heavy pine-trunk rollers ready to push the ship into the sea.",
+        "kr": "그들은 배를 바다로 밀어넣기 위해 무거운 소나무 통나무 굴림대를 쥐고 준비했습니다."
+      }
+    ]
+  },
+  {
+    "id": 376,
+    "tag": "P0376",
+    "chapter_id": "ch_08",
+    "translation": [
+      {
+        "id": 1,
+        "en": "Orpheus took up his harp and began to sing a powerful, magic song.",
+        "kr": "오르페우스는 하프를 집어 들고 강력한 마법의 노래를 부르기 시작했습니다."
+      },
+      {
+        "id": 2,
+        "en": "How sweet it is to ride the surging waves and leap across the water!",
+        "kr": "요동치는 파도를 타고 물결을 뛰어넘는 것은 얼마나 달콤한가!"
+      },
+      {
+        "id": 3,
+        "en": "The wind sings happily in the ropes while the oars flash through the bright foam.",
+        "kr": "밧줄 사이로 바람이 즐겁게 노래하고, 빛나는 거품 사이로 노가 번쩍이네."
+      },
+      {
+        "id": 4,
+        "en": "How wonderful it is to roam the endless ocean and discover marvelous new lands!",
+        "kr": "끝없는 바다를 누비며 경이롭고 새로운 땅을 발견하는 것은 얼마나 놀라운 일인가!"
+      },
+      {
+        "id": 5,
+        "en": "We will return home burdened with treasure and win eternal glory!",
+        "kr": "우리는 보물을 가득 안고 고향으로 돌아가 영원한 영광을 얻으리라!"
+      }
+    ]
+  },
+  {
+    "id": 377,
+    "tag": "P0377",
+    "chapter_id": "ch_08",
+    "translation": [
+      {
+        "id": 1,
+        "en": "The brave ship Argo heard his music and deeply longed to sail the open sea.",
+        "kr": "용감한 배 아르고가 그의 음악을 듣고는 넓은 바다를 항해하고픈 깊은 열망에 사로잡혔습니다."
+      },
+      {
+        "id": 2,
+        "en": "Every timber in her body stirred, heaving violently from front to back.",
+        "kr": "배를 이루는 모든 목재가 요동치며 앞뒤로 격렬하게 흔들렸습니다."
+      },
+      {
+        "id": 3,
+        "en": "She leaped off the sand onto the rollers, charging forward like a brave warhorse.",
+        "kr": "배는 모래를 박차고 굴림대 위로 뛰어올라, 마치 용감한 군마처럼 앞으로 돌진했습니다."
+      },
+      {
+        "id": 4,
+        "en": "The heroes quickly laid pine trunks in her path as she rushed toward the whispering ocean.",
+        "kr": "영웅들은 배가 속삭이는 바다를 향해 돌진할 때, 그 길을 따라 서둘러 소나무 통나무들을 깔아주었습니다."
+      }
+    ]
+  },
+  {
+    "id": 378,
+    "tag": "P0378",
+    "chapter_id": "ch_08",
+    "translation": [
+      {
+        "id": 1,
+        "en": "The crew loaded the ship with plenty of food and fresh water.",
+        "kr": "선원들은 배에 식량과 신선한 물을 넉넉히 실었습니다."
+      },
+      {
+        "id": 2,
+        "en": "They pulled the boarding ladder up and sat down at their heavy oars.",
+        "kr": "그들은 승선용 사다리를 끌어 올리고 무거운 노 앞에 자리를 잡았습니다."
+      },
+      {
+        "id": 3,
+        "en": "The men rowed in perfect time to the steady rhythm of Orpheus's harp.",
+        "kr": "사내들은 오르페우스의 하프가 만들어내는 일정한 리듬에 맞춰 완벽하게 노를 저었습니다."
+      },
+      {
+        "id": 4,
+        "en": "They headed south across the wide bay as the city's people lined the tall cliffs.",
+        "kr": "도시 사람들이 높은 절벽에 늘어선 가운데, 그들은 넓은 만을 가로질러 남쪽으로 향했습니다."
+      },
+      {
+        "id": 5,
+        "en": "Women wept and men shouted in awe as the brave crew began their great journey.",
+        "kr": "용감한 선원들이 위대한 여정을 시작하자 여자들은 눈물을 흘렸고 남자들은 경외심에 차 환호했습니다."
+      }
+    ]
+  }
+]
