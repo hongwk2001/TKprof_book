@@ -317,7 +317,8 @@
         "kr": "[그림: 전투 중인 전사들]"
       }
     ],
-    "image": "images/08_warriors_fighting.jpg"
+    "image": "images/08_warriors_fighting.jpg",
+    "image_color": "images/08_warriors_fighting_color.jpg"
   },
   {
     "id": 851,

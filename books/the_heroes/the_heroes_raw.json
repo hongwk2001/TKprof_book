@@ -1217,7 +1217,8 @@
               "kr": "[삽화: 궤짝에 실려 바다를 떠도는 다나에와 아기]"
             }
           ],
-          "image": "images/01_danae_and_baby.jpg"
+          "image": "images/01_danae_and_baby.jpg",
+          "image_color": "images/01_danae_and_baby_color.jpg"
         },
         {
           "id": 27,
@@ -6217,7 +6218,8 @@
               "kr": "[그림: 페르세우스와 처녀]"
             }
           ],
-          "image": "images/02_perseus_and_andromeda.jpg"
+          "image": "images/02_perseus_and_andromeda.jpg",
+          "image_color": "images/02_perseus_and_andromeda_color.jpg"
         },
         {
           "id": 183,
@@ -10236,7 +10238,8 @@
               "kr": "[그림: 케이론]"
             }
           ],
-          "image": "images/03_chiron_the_centaur.jpg"
+          "image": "images/03_chiron_the_centaur.jpg",
+          "image_color": "images/03_chiron_the_centaur_color.jpg"
         },
         {
           "id": 293,
@@ -11498,7 +11501,8 @@
               "kr": "[그림: 이아손과 헤라]"
             }
           ],
-          "image": "images/04_jason_and_hera.jpg"
+          "image": "images/04_jason_and_hera.jpg",
+          "image_color": "images/04_jason_and_hera_color.jpg"
         },
         {
           "id": 329,
@@ -17321,7 +17325,8 @@
               "kr": "[그림: 이아손이 양털을 가져가다]"
             }
           ],
-          "image": "images/05_jason_takes_fleece.jpg"
+          "image": "images/05_jason_takes_fleece.jpg",
+          "image_color": "images/05_jason_takes_fleece_color.jpg"
         },
         {
           "id": 481,
@@ -23328,7 +23333,8 @@
               "kr": "[그림: 테세우스와 아이트라]"
             }
           ],
-          "image": "images/06_theseus_and_aithra.jpg"
+          "image": "images/06_theseus_and_aithra.jpg",
+          "image_color": "images/06_theseus_and_aithra_color.jpg"
         },
         {
           "id": 643,
@@ -30506,7 +30512,8 @@
               "kr": "[삽화: 미노타우로스와 싸우는 테세우스]"
             }
           ],
-          "image": "images/07_theseus_and_minotaur.jpg"
+          "image": "images/07_theseus_and_minotaur.jpg",
+          "image_color": "images/07_theseus_and_minotaur_color.jpg"
         },
         {
           "id": 840,
@@ -30953,7 +30960,8 @@
               "kr": "[그림: 전투 중인 전사들]"
             }
           ],
-          "image": "images/08_warriors_fighting.jpg"
+          "image": "images/08_warriors_fighting.jpg",
+          "image_color": "images/08_warriors_fighting_color.jpg"
         },
         {
           "id": 851,
