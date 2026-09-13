@@ -1,0 +1,1100 @@
+[
+  {
+    "id": 41,
+    "tag": "P0041",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "JUNE 16.",
+    "is_header": true,
+    "word_count": 2,
+    "sentence_count": 1,
+    "translation": [
+      {
+        "id": 1,
+        "en": "June 16",
+        "kr": "6월 16일"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "tag": "P0042",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "\"Why do I not write to you?\" You lay claim to learning, and ask such a question. You should have guessed that I am well—that is to say—in a word, I have made an acquaintance who has won my heart: I have—I know not.",
+    "is_header": false,
+    "word_count": 44,
+    "sentence_count": 3,
+    "translation": [
+      {
+        "id": 1,
+        "en": "\"Why do I not write to you?\"",
+        "kr": "\"어찌하여 자네에게 편지를 쓰지 않느냐고?\""
+      },
+      {
+        "id": 2,
+        "en": "And you call yourself learned, and ask a question like that.",
+        "kr": "그러면서 자네는 배운 사람이라 자처하며 그런 것을 묻는군."
+      },
+      {
+        "id": 3,
+        "en": "You should have guessed that I am well — that is to say — in a word, I have made an acquaintance who has taken hold of my heart.",
+        "kr": "내가 잘 지낸다는 것쯤은 짐작했어야지 — 그러니까 — 한마디로, 내 마음을 사로잡은 사람을 알게 되었네."
+      },
+      {
+        "id": 4,
+        "en": "I have — I do not know.",
+        "kr": "나는 — 나도 모르겠네."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "tag": "P0043",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "To give you a regular account of the manner in which I have become acquainted with the most amiable of women would be a difficult task. I am a happy and contented mortal, but a poor historian.",
+    "is_header": false,
+    "word_count": 37,
+    "sentence_count": 2,
+    "translation": [
+      {
+        "id": 1,
+        "en": "To give you an orderly account of how I came to know the most lovable of women would be hard work.",
+        "kr": "세상에서 가장 사랑스러운 여인을 어떻게 알게 되었는지 차근차근 이야기하자면 여간 힘든 일이 아닐 걸세."
+      },
+      {
+        "id": 2,
+        "en": "I am a happy and contented man, and a poor historian.",
+        "kr": "나는 행복하고 만족한 사람이지, 좋은 이야기꾼은 못 되네."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "tag": "P0044",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "An angel! Nonsense! Everybody so describes his mistress; and yet I find it impossible to tell you how perfect she is, or why she is so perfect: suffice it to say she has captivated all my senses.",
+    "is_header": false,
+    "word_count": 37,
+    "sentence_count": 3,
+    "translation": [
+      {
+        "id": 1,
+        "en": "An angel!",
+        "kr": "천사라니!"
+      },
+      {
+        "id": 2,
+        "en": "Nonsense!",
+        "kr": "부질없는 소리!"
+      },
+      {
+        "id": 3,
+        "en": "Everyone describes his mistress that way.",
+        "kr": "누구나 제 연인을 그렇게 말하지."
+      },
+      {
+        "id": 4,
+        "en": "And yet I cannot possibly tell you how perfect she is, or why she is so perfect.",
+        "kr": "그런데도 나는 그 사람이 얼마나 완전한지, 어째서 그토록 완전한지 도무지 말할 수가 없네."
+      },
+      {
+        "id": 5,
+        "en": "Enough to say that she has captured every one of my senses.",
+        "kr": "내 감각이란 감각은 모조리 그 사람에게 사로잡혔다고만 해 두세."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "tag": "P0045",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "So much simplicity with so much understanding—so mild, and yet so resolute—a mind so placid, and a life so active.",
+    "is_header": false,
+    "word_count": 20,
+    "sentence_count": 1,
+    "translation": [
+      {
+        "id": 1,
+        "en": "So much simplicity with so much understanding — so gentle, and yet so firm — a mind so serene, and a life so full of activity.",
+        "kr": "그토록 소박하면서 그토록 총명하고 — 그토록 부드러우면서 그토록 굳세며 — 마음은 그토록 고요하면서 삶은 그토록 활기에 차 있네."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "tag": "P0046",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "But all this is ugly balderdash, which expresses not a single character nor feature. Some other time—but no, not some other time, now, this very instant, will I tell you all about it. Now or never. Well, between ourselves, since I commenced my letter, I have been three times on the point of throwing down my pen, of ordering my horse, and riding out. And yet I vowed this morning that I would not ride to-day, and yet every moment I am rushing to the window to see how high the sun is.",
+    "is_header": false,
+    "word_count": 93,
+    "sentence_count": 5,
+    "translation": [
+      {
+        "id": 1,
+        "en": "But all this is ugly nonsense, and conveys not a single trait of her.",
+        "kr": "그러나 이런 것은 다 볼품없는 헛소리일 뿐, 그 사람의 모습 한 자락도 전하지 못하네."
+      },
+      {
+        "id": 2,
+        "en": "Another time — no, not another time; now, this very instant, I will tell you the whole of it.",
+        "kr": "다음에 — 아니, 다음이 아니라 지금, 바로 이 순간 전부 이야기하겠네."
+      },
+      {
+        "id": 3,
+        "en": "Now or never.",
+        "kr": "지금이 아니면 영영 못 하겠지."
+      },
+      {
+        "id": 4,
+        "en": "Between ourselves, since I began this letter I have three times been on the point of throwing down my pen, ordering my horse, and riding out.",
+        "kr": "우리끼리 말이네만, 이 편지를 쓰기 시작한 뒤로 세 번이나 펜을 내던지고 말을 대령시켜 달려 나갈 뻔했네."
+      },
+      {
+        "id": 5,
+        "en": "And yet I swore this morning that I would not ride today — and yet every moment I am running to the window to see how high the sun is.",
+        "kr": "오늘은 말을 타지 않겠다고 아침에 맹세해 놓고도, 순간순간 창가로 달려가 해가 얼마나 높이 떴는지 살피고 있네."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "tag": "P0047",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "I could not restrain myself—go to her I must. I have just returned, Wilhelm; and whilst I am taking supper I will write to you. What a delight it was for my soul to see her in the midst of her dear, beautiful children,—eight brothers and sisters!",
+    "is_header": false,
+    "word_count": 47,
+    "sentence_count": 3,
+    "translation": [
+      {
+        "id": 1,
+        "en": "I could not hold out. Go to her I must.",
+        "kr": "견딜 수가 없었네. 가야만 했지."
+      },
+      {
+        "id": 2,
+        "en": "I am just back, Wilhelm; and while I take my supper I will write to you.",
+        "kr": "방금 돌아왔네, 빌헬름. 저녁을 먹으면서 자네에게 쓰겠네."
+      },
+      {
+        "id": 3,
+        "en": "What a delight it was to my soul to see her among those dear, beautiful children — eight brothers and sisters!",
+        "kr": "그 사랑스럽고 어여쁜 아이들 사이에 있는 그 사람을 보는 것이 내 영혼에 얼마나 큰 기쁨이었는지 — 형제자매가 여덟일세!"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "tag": "P0048",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "But, if I proceed thus, you will be no wiser at the end of my letter than you were at the beginning. Attend, then, and I will compel myself to give you the details.",
+    "is_header": false,
+    "word_count": 34,
+    "sentence_count": 2,
+    "translation": [
+      {
+        "id": 1,
+        "en": "But if I go on like this, you will be no wiser at the end of my letter than you were at the beginning.",
+        "kr": "그러나 이런 식으로 계속하다가는, 자네는 편지를 다 읽고도 처음보다 나아진 것이 없을 걸세."
+      },
+      {
+        "id": 2,
+        "en": "Listen, then, and I will force myself to give you the details.",
+        "kr": "그러니 들어 보게. 자세히 이야기하도록 나를 다잡아 보겠네."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "tag": "P0049",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "I mentioned to you the other day that I had become acquainted with S—, the district judge, and that he had invited me to go and visit him in his retirement, or rather in his little kingdom. But I neglected going, and perhaps should never have gone, if chance had not discovered to me the treasure which lay concealed in that retired spot. Some of our young people had proposed giving a ball in the country, at which I consented to be present. I offered my hand for the evening to a pretty and agreeable, but rather commonplace, sort of girl from the immediate neighbourhood; and it was agreed that I should engage a carriage, and call upon Charlotte, with my partner and her aunt, to convey them to the ball. My companion informed me, as we drove along through the park to the hunting-lodge, that I should make the acquaintance of a very charming young lady. \"Take care,\" added the aunt, \"that you do not lose your heart.\" \"Why?\" said I. \"Because she is already engaged to a very worthy man,\" she replied, \"who is gone to settle his affairs upon the death of his father, and will succeed to a very considerable inheritance.\" This information possessed no interest for me. When we arrived at the gate, the sun was setting behind the tops of the mountains. The atmosphere was heavy; and the ladies expressed their fears of an approaching storm, as masses of low black clouds were gathering in the horizon. I relieved their anxieties by pretending to be weather-wise, although I myself had some apprehensions lest our pleasure should be interrupted.",
+    "is_header": false,
+    "word_count": 274,
+    "sentence_count": 12,
+    "translation": [
+      {
+        "id": 1,
+        "en": "I told you the other day that I had got to know S—, the district judge, and that he had invited me to visit him in his retreat — or rather in his little kingdom.",
+        "kr": "요전에 이 고을 법관인 S—를 알게 되었고, 그가 자기 은거지 — 아니, 자기의 작은 왕국이라 해야 맞겠지 — 로 나를 초대했다고 자네에게 말했었지."
+      },
+      {
+        "id": 2,
+        "en": "But I put off going, and perhaps would never have gone, if chance had not shown me the treasure hidden away in that quiet place.",
+        "kr": "그런데 가는 것을 미루었고, 우연히 그 조용한 곳에 숨어 있던 보물을 보지 못했다면 아마 영영 가지 않았을 걸세."
+      },
+      {
+        "id": 3,
+        "en": "Some of our young people had got up a ball in the country, and I agreed to go.",
+        "kr": "우리 젊은이들 몇이 시골에서 무도회를 열기로 했고, 나도 가기로 했네."
+      },
+      {
+        "id": 4,
+        "en": "I offered my arm for the evening to a pretty, agreeable, but rather ordinary girl from the neighbourhood.",
+        "kr": "그날 저녁 내 짝으로는 이웃에 사는, 예쁘고 상냥하지만 좀 평범한 처녀에게 팔을 내밀었네."
+      },
+      {
+        "id": 5,
+        "en": "It was settled that I should hire a carriage and call for Charlotte, with my partner and her aunt, to take them all to the ball.",
+        "kr": "내가 마차를 빌려 내 짝과 그 숙모를 태우고 샤를로테를 데리러 갔다가, 다 함께 무도회장으로 가기로 정해졌네."
+      },
+      {
+        "id": 6,
+        "en": "As we drove through the park to the hunting-lodge, my companion told me I was about to meet a very charming young lady.",
+        "kr": "사냥막으로 가는 길에 공원을 지나며, 내 짝이 이제 아주 매력적인 아가씨를 만나게 될 것이라고 일러 주더군."
+      },
+      {
+        "id": 7,
+        "en": "\"Take care,\" the aunt added, \"that you do not lose your heart.\"",
+        "kr": "\"조심하세요.\" 숙모가 덧붙였네. \"마음을 빼앗기지 않도록요.\""
+      },
+      {
+        "id": 8,
+        "en": "\"Why?\" I said.",
+        "kr": "\"어째서요?\" 하고 내가 물었네."
+      },
+      {
+        "id": 9,
+        "en": "\"Because she is already engaged to a very worthy man,\" she answered, \"who has gone to settle his affairs after his father's death, and will come into a considerable inheritance.\"",
+        "kr": "\"벌써 아주 훌륭한 분과 약혼했으니까요.\" 그 부인이 답했네. \"아버지가 돌아가셔서 유산을 정리하러 가 계신데, 상당한 재산을 물려받으실 거예요.\""
+      },
+      {
+        "id": 10,
+        "en": "The information meant nothing to me.",
+        "kr": "그 말은 내게 아무 의미도 없었네."
+      },
+      {
+        "id": 11,
+        "en": "When we reached the gate, the sun was setting behind the tops of the mountains.",
+        "kr": "우리가 문에 이르렀을 때, 해는 산마루 뒤로 지고 있었네."
+      },
+      {
+        "id": 12,
+        "en": "The air was heavy, and the ladies said they feared a storm was coming, since masses of low black cloud were gathering on the horizon.",
+        "kr": "공기가 무거웠고, 검고 낮은 구름이 지평선에 몰려드는 것을 보고 부인들은 폭풍우가 오지 않을까 걱정했네."
+      },
+      {
+        "id": 13,
+        "en": "I calmed them by pretending to know the weather, though I had my own fears that our pleasure would be spoiled.",
+        "kr": "나는 날씨를 아는 체하며 그들을 안심시켰네만, 사실은 나도 이 즐거움이 망쳐질까 은근히 걱정스러웠네."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "tag": "P0050",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "I alighted; and a maid came to the door, and requested us to wait a moment for her mistress. I walked across the court to a well-built house, and, ascending the flight of steps in front, opened the door, and saw before me the most charming spectacle I had ever witnessed. Six children, from eleven to two years old, were running about the hall, and surrounding a lady of middle height, with a lovely figure, dressed in a robe of simple white, trimmed with pink ribbons. She was holding a rye loaf in her hand, and was cutting slices for the little ones all around, in proportion to their age and appetite. She performed her task in a graceful and affectionate manner; each claimant awaiting his turn with outstretched hands, and boisterously shouting his thanks. Some of them ran away at once, to enjoy their evening meal; whilst others, of a gentler disposition, retired to the courtyard to see the strangers, and to survey the carriage in which their Charlotte was to drive away. \"Pray forgive me for giving you the trouble to come for me, and for keeping the ladies waiting: but dressing, and arranging some household duties before I leave, had made me forget my children's supper; and they do not like to take it from any one but me.\" I uttered some indifferent compliment: but my whole soul was absorbed by her air, her voice, her manner; and I had scarcely recovered myself when she ran into her room to fetch her gloves and fan. The young ones threw inquiring glances at me from a distance; whilst I approached the youngest, a most delicious little creature. He drew back; and Charlotte, entering at the very moment, said, \"Louis, shake hands with your cousin.\" The little fellow obeyed willingly; and I could not resist giving him a hearty kiss, notwithstanding his rather dirty face. \"Cousin,\" said I to Charlotte, as I handed her down, \"do you think I deserve the happiness of being related to you?\" She replied, with a ready smile, \"Oh! I have such a number of cousins, that I should be sorry if you were the most undeserving of them.\" In taking leave, she desired her next sister, Sophy, a girl about eleven years old, to take great care of the children, and to say good-bye to papa for her when he came home from his ride. She enjoined to the little ones to obey their sister Sophy as they would herself, upon which some promised that they would; but a little fair-haired girl, about six years old, looked discontented, and said, \"But Sophy is not you, Charlotte; and we like you best.\" The two eldest boys had clambered up the carriage; and, at my request, she permitted them to accompany us a little way through the forest, upon their promising to sit very still, and hold fast.",
+    "is_header": false,
+    "word_count": 483,
+    "sentence_count": 17,
+    "translation": [
+      {
+        "id": 1,
+        "en": "I got down, and a maid came to the door and asked us to wait a moment for her mistress.",
+        "kr": "마차에서 내리자 하녀가 문간으로 나와, 아가씨를 잠시 기다려 달라고 청했네."
+      },
+      {
+        "id": 2,
+        "en": "I walked across the courtyard to a well-built house, went up the flight of steps in front, opened the door, and saw the most charming sight I have ever witnessed.",
+        "kr": "나는 안뜰을 가로질러 잘 지은 집으로 가서, 앞쪽 층계를 올라 문을 열었네. 그리고 내 평생 본 가운데 가장 사랑스러운 광경을 보았네."
+      },
+      {
+        "id": 3,
+        "en": "Six children, from eleven years old down to two, were running about the hall around a lady of middle height with a lovely figure, dressed in plain white with pink ribbons.",
+        "kr": "열한 살부터 두 살까지 아이 여섯이 홀 안을 뛰어다니고, 그 한가운데 중키에 몸매가 고운 아가씨가 있었네. 분홍 리본을 단 소박한 흰옷 차림이었지."
+      },
+      {
+        "id": 4,
+        "en": "She was holding a rye loaf and cutting slices for the little ones around her, each according to age and appetite.",
+        "kr": "호밀빵 한 덩이를 들고, 둘러선 아이들에게 나이와 식성에 맞추어 한 조각씩 잘라 주고 있었네."
+      },
+      {
+        "id": 5,
+        "en": "She did it gracefully and affectionately, and each of them waited for his turn with his hands out, shouting his thanks.",
+        "kr": "그 손길이 어찌나 우아하고 다정한지. 아이들은 저마다 손을 내밀고 제 차례를 기다리다가 큰 소리로 고맙다고 외쳤네."
+      },
+      {
+        "id": 6,
+        "en": "Some ran off at once to enjoy their supper; the gentler ones went out to the courtyard to see the strangers and look over the carriage their Charlotte was to drive away in.",
+        "kr": "몇몇은 저녁을 먹으러 곧장 달려갔고, 얌전한 아이들은 낯선 손님들을 보고 저희 샤를로테가 타고 갈 마차를 구경하려고 안뜰로 나왔네."
+      },
+      {
+        "id": 7,
+        "en": "\"Pray forgive me for making you come for me, and for keeping the ladies waiting,\" she said.",
+        "kr": "\"저를 데리러 오시게 하고 부인들을 기다리게 해서, 부디 용서하세요.\" 그 사람이 말했네."
+      },
+      {
+        "id": 8,
+        "en": "\"Dressing, and settling a few household matters before I go, made me forget my children's supper — and they will not take it from anyone but me.\"",
+        "kr": "\"옷을 갈아입고 나가기 전에 집안일을 좀 챙기느라 아이들 저녁을 깜박했지 뭐예요. 그런데 이 아이들은 저 아니면 받아먹질 않는답니다.\""
+      },
+      {
+        "id": 9,
+        "en": "I made some ordinary compliment, but my whole soul was taken up with her bearing, her voice, her manner.",
+        "kr": "나는 그저 그런 인사치레를 했네만, 내 온 영혼은 그 몸가짐과 목소리와 태도에 붙들려 있었네."
+      },
+      {
+        "id": 10,
+        "en": "I had hardly collected myself when she ran into her room to fetch her gloves and fan.",
+        "kr": "겨우 정신을 차렸을 때 그 사람은 장갑과 부채를 가지러 제 방으로 달려갔네."
+      },
+      {
+        "id": 11,
+        "en": "The children threw curious looks at me from a distance, and I went up to the youngest, a most delicious little creature.",
+        "kr": "아이들이 멀찍이서 호기심 어린 눈길을 던지기에, 나는 가장 어린 아이에게 다가갔네. 더없이 귀여운 녀석이었지."
+      },
+      {
+        "id": 12,
+        "en": "He drew back; and Charlotte, coming in at that very moment, said, \"Louis, shake hands with your cousin.\"",
+        "kr": "그 아이가 뒷걸음질 치는데, 바로 그때 들어온 샤를로테가 말했네. \"루이, 사촌 오라버니에게 손을 드려야지.\""
+      },
+      {
+        "id": 13,
+        "en": "The little fellow did it willingly, and I could not resist giving him a hearty kiss, dirty face and all.",
+        "kr": "꼬마는 순순히 손을 내밀었고, 나는 꾀죄죄한 얼굴에도 아랑곳없이 힘껏 입을 맞추지 않을 수 없었네."
+      },
+      {
+        "id": 14,
+        "en": "\"Cousin,\" I said to Charlotte as I handed her down, \"do you think I deserve the happiness of being related to you?\"",
+        "kr": "\"사촌이라니요.\" 마차에 오르는 것을 거들며 내가 샤를로테에게 말했네. \"제가 당신과 친척이 되는 행운을 누릴 자격이 있을까요?\""
+      },
+      {
+        "id": 15,
+        "en": "She answered with a ready smile, \"Oh! I have such a number of cousins that I should be sorry if you were the least deserving of them.\"",
+        "kr": "그 사람은 선선히 웃으며 답했네. \"어머! 제게는 사촌이 하도 많아서, 그중 당신이 가장 자격 없는 분이라면 서운할 거예요.\""
+      },
+      {
+        "id": 16,
+        "en": "As she left, she told her next sister, Sophy, a girl of about eleven, to take good care of the children and to say goodbye to papa for her when he came home from his ride.",
+        "kr": "떠나면서 그 사람은 열한 살쯤 된 바로 아래 동생 조피에게, 아이들을 잘 돌보고 아버지가 말을 타고 돌아오시거든 대신 인사를 드리라고 일렀네."
+      },
+      {
+        "id": 17,
+        "en": "She told the little ones to obey their sister Sophy as they would obey her.",
+        "kr": "그리고 어린 아이들에게는 언니 조피 말을 제 말처럼 들으라고 했네."
+      },
+      {
+        "id": 18,
+        "en": "Some of them promised they would; but a little fair-haired girl of about six looked discontented and said, \"But Sophy is not you, Charlotte; and we like you best.\"",
+        "kr": "몇몇은 그러겠다고 약속했네만, 여섯 살쯤 된 금발머리 여자아이는 뾰로통해져서 말했네. \"그래도 조피 언니는 언니가 아니잖아, 샤를로테 언니. 우리는 언니가 제일 좋은걸.\""
+      },
+      {
+        "id": 19,
+        "en": "The two eldest boys had climbed up onto the carriage, and at my asking she let them come with us a little way through the forest, on their promise to sit very still and hold on tight.",
+        "kr": "큰 사내아이 둘이 마차 위로 기어올랐기에, 내가 청하자 그 사람은 아주 얌전히 앉아 꼭 붙잡겠다는 약속을 받고 숲까지 조금 따라오게 해 주었네."
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "tag": "P0051",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "We were hardly seated, and the ladies had scarcely exchanged compliments, making the usual remarks upon each other's dress, and upon the company they expected to meet, when Charlotte stopped the carriage, and made her brothers get down. They insisted upon kissing her hands once more; which the eldest did with all the tenderness of a youth of fifteen, but the other in a lighter and more careless manner. She desired them again to give her love to the children, and we drove off.",
+    "is_header": false,
+    "word_count": 84,
+    "sentence_count": 3,
+    "translation": [
+      {
+        "id": 1,
+        "en": "We were hardly seated, and the ladies had barely exchanged compliments about each other's dresses and about the company they expected to meet, when Charlotte stopped the carriage and made her brothers get down.",
+        "kr": "우리가 미처 자리를 잡고, 부인들이 서로의 옷차림과 만나게 될 사람들에 대해 인사말을 주고받기도 전에, 샤를로테는 마차를 세우고 동생들을 내리게 했네."
+      },
+      {
+        "id": 2,
+        "en": "They insisted on kissing her hands once more — the elder with all the tenderness of a boy of fifteen, the other more lightly and carelessly.",
+        "kr": "아이들은 한 번 더 손등에 입을 맞추겠다고 우겼네. 형은 열다섯 살 소년다운 온갖 다정함으로, 동생은 좀 더 가볍고 무심하게."
+      },
+      {
+        "id": 3,
+        "en": "She sent her love to the children again, and we drove off.",
+        "kr": "그 사람은 아이들에게 다시 한 번 안부를 전하게 하고, 우리는 떠났네."
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "tag": "P0052",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "The aunt inquired of Charlotte whether she had finished the book she had last sent her. \"No,\" said Charlotte; \"I did not like it: you can have it again. And the one before was not much better.\" I was surprised, upon asking the title, to hear that it was ____. (We feel obliged to suppress the passage in the letter, to prevent any one from feeling aggrieved; although no author need pay much attention to the opinion of a mere girl, or that of an unsteady young man.)",
+    "is_header": false,
+    "word_count": 88,
+    "sentence_count": 4,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The aunt asked Charlotte whether she had finished the book she had sent her last.",
+        "kr": "숙모가 샤를로테에게 지난번 보내 준 책을 다 읽었느냐고 물었네."
+      },
+      {
+        "id": 2,
+        "en": "\"No,\" said Charlotte. \"I did not like it; you can have it back.\"",
+        "kr": "\"아니요.\" 샤를로테가 답했네. \"마음에 들지 않았어요. 도로 가져가세요.\""
+      },
+      {
+        "id": 3,
+        "en": "\"And the one before it was not much better.\"",
+        "kr": "\"그전 것도 그리 낫지 않았고요.\""
+      },
+      {
+        "id": 4,
+        "en": "I was surprised, when I asked the title, to hear that it was ____.",
+        "kr": "제목을 묻고 나는 놀랐네. 그것이 ____였기 때문일세."
+      },
+      {
+        "id": 5,
+        "en": "(We feel obliged to suppress this passage in the letter, so that no one should feel aggrieved — though no author need pay much heed to the opinion of a mere girl, or of an unsteady young man.)",
+        "kr": "(누구도 마음 상하는 일이 없도록 편지의 이 대목은 부득이 생략한다. 하기야 어떤 작가도 한낱 처녀나 변덕스러운 젊은이의 의견에 크게 마음 쓸 필요는 없겠지만.)"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "tag": "P0053",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "I found penetration and character in everything she said: every expression seemed to brighten her features with new charms,—with new rays of genius,—which unfolded by degrees, as she felt herself understood.",
+    "is_header": false,
+    "word_count": 31,
+    "sentence_count": 1,
+    "translation": [
+      {
+        "id": 1,
+        "en": "I found insight and character in everything she said.",
+        "kr": "그 사람이 하는 말마다 통찰과 개성이 있었네."
+      },
+      {
+        "id": 2,
+        "en": "Every turn of phrase seemed to light up her face with fresh charm, with fresh rays of genius, unfolding by degrees as she felt herself understood.",
+        "kr": "말 한마디 한마디가 그 얼굴을 새로운 매력으로, 새로운 천재의 빛으로 밝혀 주는 듯했네. 자기가 이해받고 있다고 느낄수록 그 빛은 차츰 펼쳐졌지."
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "tag": "P0054",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "\"When I was younger,\" she observed, \"I loved nothing so much as romances. Nothing could equal my delight when, on some holiday, I could settle down quietly in a corner, and enter with my whole heart and soul into the joys or sorrows of some fictitious Leonora. I do not deny that they even possess some charms for me yet. But I read so seldom, that I prefer books suited exactly to my taste. And I like those authors best whose scenes describe my own situation in life,—and the friends who are about me, whose stories touch me with interest, from resembling my own homely existence,—which, without being absolutely paradise, is, on the whole, a source of indescribable happiness.\"",
+    "is_header": false,
+    "word_count": 119,
+    "sentence_count": 5,
+    "translation": [
+      {
+        "id": 1,
+        "en": "\"When I was younger,\" she said, \"I loved nothing so much as novels.\"",
+        "kr": "\"어릴 적에는\" 하고 그 사람이 말했네. \"소설만큼 좋아한 것이 없었어요.\""
+      },
+      {
+        "id": 2,
+        "en": "\"Nothing could equal my delight when, on some holiday, I could settle quietly into a corner and enter with my whole heart and soul into the joys and sorrows of some imaginary Leonora.\"",
+        "kr": "\"쉬는 날이면 구석에 조용히 자리 잡고 앉아, 어느 레오노레의 기쁨과 슬픔에 온 마음과 온 영혼을 담가 놓는 것만큼 즐거운 일이 없었지요.\""
+      },
+      {
+        "id": 3,
+        "en": "\"I will not deny that they still have some charm for me.\"",
+        "kr": "\"지금도 그 매력이 아주 없다고는 하지 않겠어요.\""
+      },
+      {
+        "id": 4,
+        "en": "\"But I read so seldom now that I prefer books exactly suited to my taste.\"",
+        "kr": "\"다만 이제는 책을 워낙 드물게 읽으니, 꼭 제 취향에 맞는 것을 고르게 되네요.\""
+      },
+      {
+        "id": 5,
+        "en": "\"And I like those authors best whose scenes describe my own situation in life, and the people around me — whose stories interest me because they resemble my own homely existence, which, without being paradise, is on the whole a source of indescribable happiness.\"",
+        "kr": "\"그리고 제가 가장 좋아하는 작가는, 제가 사는 처지와 제 둘레 사람들을 그려 내는 이들이에요. 그런 이야기가 제 소박한 삶을 닮아서 마음이 끌리지요. 낙원은 아니어도, 대체로는 이루 말할 수 없는 행복의 샘이니까요.\""
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "tag": "P0055",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "I endeavoured to conceal the emotion which these words occasioned, but it was of slight avail; for, when she had expressed so truly her opinion of \"The Vicar of Wakefield,\" and of other works, the names of which I omit (Though the names are omitted, yet the authors mentioned deserve Charlotte's approbation, and will feel it in their hearts when they read this passage. It concerns no other person.), I could no longer contain myself, but gave full utterance to what I thought of it: and it was not until Charlotte had addressed herself to the two other ladies, that I remembered their presence, and observed them sitting mute with astonishment. The aunt looked at me several times with an air of raillery, which, however, I did not at all mind.",
+    "is_header": false,
+    "word_count": 131,
+    "sentence_count": 3,
+    "translation": [
+      {
+        "id": 1,
+        "en": "I tried to hide the emotion these words stirred in me, but with little success.",
+        "kr": "이 말에 일어난 감동을 감추려 했네만 별 소용이 없었네."
+      },
+      {
+        "id": 2,
+        "en": "When she had spoken so truly about \"The Vicar of Wakefield,\" and about other works whose names I leave out, I could contain myself no longer and gave full utterance to what I thought of them.",
+        "kr": "그 사람이 \"웨이크필드의 목사\"와, 이름은 여기 적지 않겠네만 다른 작품들에 대해 그토록 참되게 말했을 때, 나는 더는 참지 못하고 내 생각을 남김없이 쏟아 놓았네."
+      },
+      {
+        "id": 3,
+        "en": "(Though the names are omitted, the authors mentioned deserve Charlotte's approval, and will feel it in their hearts when they read this passage.",
+        "kr": "(이름은 생략했지만, 여기 언급된 작가들은 샤를로테의 인정을 받을 만하며, 이 대목을 읽으면 마음으로 그것을 느낄 것이다."
+      },
+      {
+        "id": 4,
+        "en": "It concerns no one else.)",
+        "kr": "다른 사람과는 상관없는 일이다.)"
+      },
+      {
+        "id": 5,
+        "en": "It was not until Charlotte turned to the other two ladies that I remembered they were there, and saw them sitting mute with astonishment.",
+        "kr": "샤를로테가 다른 두 부인 쪽으로 돌아앉고 나서야 나는 그들이 거기 있었다는 것을 떠올렸고, 두 사람이 어이없다는 얼굴로 잠자코 앉아 있는 것을 보았네."
+      },
+      {
+        "id": 6,
+        "en": "The aunt looked at me several times with an air of mockery, which I did not mind in the least.",
+        "kr": "숙모는 몇 번이나 비웃는 듯한 눈길로 나를 보았네만, 나는 조금도 개의치 않았네."
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "tag": "P0056",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "We talked of the pleasures of dancing. \"If it is a fault to love it,\" said Charlotte, \"I am ready to confess that I prize it above all other amusements. If anything disturbs me, I go to the piano, play an air to which I have danced, and all goes right again directly.\"",
+    "is_header": false,
+    "word_count": 53,
+    "sentence_count": 3,
+    "translation": [
+      {
+        "id": 1,
+        "en": "We talked about the pleasures of dancing.",
+        "kr": "우리는 춤의 즐거움에 대해 이야기했네."
+      },
+      {
+        "id": 2,
+        "en": "\"If it is a fault to love it,\" said Charlotte, \"then I confess I value it above every other amusement.\"",
+        "kr": "\"춤을 좋아하는 것이 흠이라면\" 하고 샤를로테가 말했네. \"저는 그 어떤 놀이보다 춤을 좋아한다고 고백하겠어요.\""
+      },
+      {
+        "id": 3,
+        "en": "\"If anything troubles me, I go to the piano and play an air I have danced to, and everything comes right again at once.\"",
+        "kr": "\"무언가 마음에 걸리는 일이 있으면 피아노 앞에 앉아 춤추던 곡을 쳐요. 그러면 곧 모든 것이 제자리로 돌아오지요.\""
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "tag": "P0057",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "You, who know me, can fancy how steadfastly I gazed upon her rich dark eyes during these remarks, how my very soul gloated over her warm lips and fresh, glowing cheeks, how I became quite lost in the delightful meaning of her words, so much so, that I scarcely heard the actual expressions. In short, I alighted from the carriage like a person in a dream, and was so lost to the dim world around me, that I scarcely heard the music which resounded from the illuminated ballroom.",
+    "is_header": false,
+    "word_count": 88,
+    "sentence_count": 2,
+    "translation": [
+      {
+        "id": 1,
+        "en": "You, who know me, can imagine how steadily I looked into her rich dark eyes while she said all this.",
+        "kr": "나를 아는 자네라면, 그 사람이 이런 말을 하는 동안 내가 그 짙고 깊은 눈을 얼마나 뚫어지게 바라보았을지 짐작할 걸세."
+      },
+      {
+        "id": 2,
+        "en": "You can imagine how my whole soul feasted on her warm lips and fresh, glowing cheeks, and how completely I was lost in the lovely meaning of her words — so lost that I hardly heard the words themselves.",
+        "kr": "내 온 영혼이 그 따뜻한 입술과 싱싱하게 물든 뺨을 얼마나 탐하듯 바라보았는지, 그 말의 아름다운 뜻에 내가 얼마나 온전히 넋을 잃었는지 — 정작 말 자체는 거의 듣지도 못할 만큼 말일세."
+      },
+      {
+        "id": 3,
+        "en": "In short, I got out of the carriage like a man in a dream, and was so far gone from the dim world around me that I hardly heard the music coming down from the lighted ballroom.",
+        "kr": "요컨대 나는 꿈꾸는 사람처럼 마차에서 내렸고, 둘레의 흐릿한 세상에서 너무 멀리 가 있어서 환한 무도회장에서 흘러나오는 음악조차 거의 듣지 못했네."
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "tag": "P0058",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "The two Messrs. Andran and a certain N. N. (I cannot trouble myself with the names), who were the aunt's and Charlotte's partners, received us at the carriage-door, and took possession of their ladies, whilst I followed with mine.",
+    "is_header": false,
+    "word_count": 39,
+    "sentence_count": 3,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The two Messrs. Andran, and a certain N. N. — I cannot trouble myself with the names — were the aunt's and Charlotte's partners.",
+        "kr": "안드란 형제와 어떤 N. N.이라는 사람 — 이름까지 일일이 신경 쓸 것은 없겠지 — 이 숙모와 샤를로테의 짝이었네."
+      },
+      {
+        "id": 2,
+        "en": "They met us at the carriage door and took charge of their ladies, while I followed with mine.",
+        "kr": "그들이 마차 문 앞에서 우리를 맞아 제 짝을 맡아 갔고, 나는 내 짝과 함께 뒤를 따랐네."
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "tag": "P0059",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "We commenced with a minuet. I led out one lady after another, and precisely those who were the most disagreeable could not bring themselves to leave off. Charlotte and her partner began an English country dance, and you must imagine my delight when it was their turn to dance the figure with us. You should see Charlotte dance. She dances with her whole heart and soul: her figure is all harmony, elegance, and grace, as if she were conscious of nothing else, and had no other thought or feeling; and, doubtless, for the moment, every other sensation is extinct.",
+    "is_header": false,
+    "word_count": 99,
+    "sentence_count": 5,
+    "translation": [
+      {
+        "id": 1,
+        "en": "We began with a minuet.",
+        "kr": "우리는 미뉴에트로 시작했네."
+      },
+      {
+        "id": 2,
+        "en": "I led out one lady after another, and precisely the most disagreeable of them could not bring themselves to stop.",
+        "kr": "나는 부인들을 차례로 이끌어 내었는데, 하필 가장 거북한 이들이 좀처럼 그만두려 하지 않더군."
+      },
+      {
+        "id": 3,
+        "en": "Charlotte and her partner began an English country dance, and you can imagine my delight when their turn came to dance the figure with us.",
+        "kr": "샤를로테와 그 짝이 영국식 사교춤을 시작했는데, 우리와 한 조가 되어 춤출 차례가 왔을 때 내가 얼마나 기뻤을지 짐작할 걸세."
+      },
+      {
+        "id": 4,
+        "en": "You should see Charlotte dance.",
+        "kr": "샤를로테가 춤추는 것을 자네도 보아야 하네."
+      },
+      {
+        "id": 5,
+        "en": "She dances with her whole heart and soul.",
+        "kr": "그 사람은 온 마음과 온 영혼으로 춤을 추네."
+      },
+      {
+        "id": 6,
+        "en": "Her whole figure is harmony, elegance, and grace, as though she were conscious of nothing else and had no other thought or feeling — and no doubt, for that moment, every other sensation is put out.",
+        "kr": "그 몸 전체가 조화이고 우아함이고 기품일세. 마치 다른 것은 아무것도 의식하지 못하고 다른 생각도 다른 느낌도 없는 사람처럼. 정말이지 그 순간만은 다른 모든 감각이 꺼져 버리는 것이겠지."
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "tag": "P0060",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "She was engaged for the second country dance, but promised me the third, and assured me, with the most agreeable freedom, that she was very fond of waltzing. \"It is the custom here,\" she said, \"for the previous partners to waltz together; but my partner is an indifferent waltzer, and will feel delighted if I save him the trouble. Your partner is not allowed to waltz, and, indeed, is equally incapable: but I observed during the country dance that you waltz well; so, if you will waltz with me, I beg you would propose it to my partner, and I will propose it to yours.\" We agreed, and it was arranged that our partners should mutually entertain each other.",
+    "is_header": false,
+    "word_count": 119,
+    "sentence_count": 4,
+    "translation": [
+      {
+        "id": 1,
+        "en": "She was engaged for the second country dance, but promised me the third, and told me with the most agreeable frankness that she loved to waltz.",
+        "kr": "두 번째 사교춤은 이미 약속이 되어 있었지만 세 번째를 내게 주겠다고 했고, 더없이 정겨운 솔직함으로 왈츠를 좋아한다고 말해 주었네."
+      },
+      {
+        "id": 2,
+        "en": "\"It is the custom here,\" she said, \"for the previous partners to waltz together; but my partner waltzes badly, and will be delighted if I spare him the trouble.\"",
+        "kr": "\"여기 풍습으로는\" 하고 그 사람이 말했네. \"앞서 짝이었던 사람끼리 왈츠를 추지요. 그런데 제 짝은 왈츠가 서툴러서, 제가 수고를 덜어 주면 오히려 기뻐할 거예요.\""
+      },
+      {
+        "id": 3,
+        "en": "\"Your partner is not allowed to waltz, and cannot do it either; but I noticed during the country dance that you waltz well.\"",
+        "kr": "\"당신 짝은 왈츠를 추어서는 안 되고, 출 줄도 모르지요. 그런데 아까 사교춤 때 보니 당신은 왈츠를 잘 추시더군요.\""
+      },
+      {
+        "id": 4,
+        "en": "\"So if you will waltz with me, do propose it to my partner, and I will propose it to yours.\"",
+        "kr": "\"그러니 저와 추시겠다면 제 짝에게 그렇게 청해 주세요. 당신 짝에게는 제가 청하지요.\""
+      },
+      {
+        "id": 5,
+        "en": "We agreed, and it was settled that our partners should entertain each other.",
+        "kr": "그렇게 합의가 되었고, 우리 짝들끼리 서로 말동무를 하기로 정해졌네."
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "tag": "P0061",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "We set off, and, at first, delighted ourselves with the usual graceful motions of the arms. With what grace, with what ease, she moved! When the waltz commenced, and the dancers whirled around each other in the giddy maze, there was some confusion, owing to the incapacity of some of the dancers. We judiciously remained still, allowing the others to weary themselves; and, when the awkward dancers had withdrawn, we joined in, and kept it up famously together with one other couple,—Andran and his partner. Never did I dance more lightly. I felt myself more than mortal, holding this loveliest of creatures in my arms, flying, with her as rapidly as the wind, till I lost sight of every other object; and O Wilhelm, I vowed at that moment, that a maiden whom I loved, or for whom I felt the slightest attachment, never, never should waltz with any one else but with me, if I went to perdition for it!—you will understand this.",
+    "is_header": false,
+    "word_count": 164,
+    "sentence_count": 6,
+    "translation": [
+      {
+        "id": 1,
+        "en": "We set off, and at first delighted ourselves with the usual graceful movements of the arms.",
+        "kr": "우리는 춤을 시작했고, 처음에는 여느 때처럼 우아한 팔놀림을 즐겼네."
+      },
+      {
+        "id": 2,
+        "en": "With what grace, with what ease she moved!",
+        "kr": "그 몸짓이 어찌나 우아하고 어찌나 가볍던지!"
+      },
+      {
+        "id": 3,
+        "en": "When the waltz itself began, and the dancers whirled around each other in the giddy maze, there was some confusion, because several of them could not manage it.",
+        "kr": "왈츠가 본격적으로 시작되어 춤추는 이들이 어지러운 소용돌이 속에서 서로를 돌기 시작하자, 제대로 추지 못하는 사람이 여럿이라 좀 어수선해졌네."
+      },
+      {
+        "id": 4,
+        "en": "We were wise and held back, letting the others tire themselves out.",
+        "kr": "우리는 슬기롭게 물러나 다른 이들이 먼저 지치도록 두었네."
+      },
+      {
+        "id": 5,
+        "en": "When the clumsy ones had withdrawn, we joined in and kept it up splendidly, together with one other couple — Andran and his partner.",
+        "kr": "서툰 이들이 빠지고 나서 우리가 들어가, 다른 한 쌍 — 안드란과 그 짝 — 과 함께 멋들어지게 끝까지 추었네."
+      },
+      {
+        "id": 6,
+        "en": "Never have I danced more lightly.",
+        "kr": "그렇게 가볍게 춤춘 적은 없었네."
+      },
+      {
+        "id": 7,
+        "en": "I felt more than mortal, holding the loveliest of creatures in my arms, flying with her as fast as the wind until everything else was lost to sight.",
+        "kr": "더없이 사랑스러운 사람을 품에 안고 바람처럼 그 사람과 함께 날아 다른 모든 것이 눈앞에서 사라질 때까지, 나는 사람 이상이 된 것 같았네."
+      },
+      {
+        "id": 8,
+        "en": "And oh, Wilhelm, I swore at that moment that a girl I loved, or felt the slightest attachment to, should never waltz with anyone but me, if I were damned for it.",
+        "kr": "그리고 아, 빌헬름, 그 순간 나는 맹세했네. 내가 사랑하는 여자, 아니 조금이라도 마음이 가는 여자라면 나 아닌 누구와도 왈츠를 추게 하지 않겠다고. 그 때문에 지옥에 떨어진대도 말일세."
+      },
+      {
+        "id": 9,
+        "en": "You will understand this.",
+        "kr": "자네는 이 말을 알아들을 걸세."
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "tag": "P0062",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "We took a few turns in the room to recover our breath. Charlotte sat down, and felt refreshed by partaking of some oranges which I had had secured,—the only ones that had been left; but at every slice which, from politeness, she offered to her neighbours, I felt as though a dagger went through my heart.",
+    "is_header": false,
+    "word_count": 56,
+    "sentence_count": 2,
+    "translation": [
+      {
+        "id": 1,
+        "en": "We took a few turns about the room to get our breath back.",
+        "kr": "숨을 돌리려고 우리는 방 안을 몇 바퀴 돌았네."
+      },
+      {
+        "id": 2,
+        "en": "Charlotte sat down and refreshed herself with some oranges I had managed to secure — the only ones left.",
+        "kr": "샤를로테는 자리에 앉아, 내가 겨우 구해 둔 오렌지 — 마지막 남은 것이었지 — 로 목을 축였네."
+      },
+      {
+        "id": 3,
+        "en": "But at every slice she politely offered to her neighbours, I felt as though a dagger went through my heart.",
+        "kr": "그러나 예의상 옆 사람들에게 한 조각씩 건넬 때마다, 나는 심장에 칼이 꽂히는 것 같았네."
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "tag": "P0063",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "We were the second couple in the third country dance. As we were going down (and Heaven knows with what ecstasy I gazed at her arms and eyes, beaming with the sweetest feeling of pure and genuine enjoyment), we passed a lady whom I had noticed for her charming expression of countenance; although she was no longer young. She looked at Charlotte with a smile, then, holding up her finger in a threatening attitude, repeated twice in a very significant tone of voice the name of \"Albert.\"",
+    "is_header": false,
+    "word_count": 87,
+    "sentence_count": 3,
+    "translation": [
+      {
+        "id": 1,
+        "en": "We were the second couple in the third country dance.",
+        "kr": "세 번째 사교춤에서 우리는 두 번째 짝이었네."
+      },
+      {
+        "id": 2,
+        "en": "As we were going down the line — and Heaven knows with what ecstasy I looked at her arms and her eyes, shining with the sweetest feeling of pure and genuine enjoyment — we passed a lady whose charming expression I had noticed, though she was no longer young.",
+        "kr": "줄을 따라 내려가는 동안 — 순수하고 참된 즐거움으로 빛나던 그 팔과 눈을 내가 얼마나 황홀하게 바라보았는지는 하늘만이 아시겠지 — 우리는 한 부인 곁을 지나쳤네. 젊지는 않았지만 그 고운 표정이 내 눈에 띄었던 사람이지."
+      },
+      {
+        "id": 3,
+        "en": "She looked at Charlotte with a smile, held up a finger in a threatening way, and said the name \"Albert\" twice, in a very meaningful tone.",
+        "kr": "그 부인은 웃으며 샤를로테를 보더니, 나무라듯 손가락을 들어 보이며 아주 뜻있는 말투로 \"알베르트\"라는 이름을 두 번 되뇌었네."
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "tag": "P0064",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "\"Who is Albert,\" said I to Charlotte, \"if it is not impertinent to ask?\" She was about to answer, when we were obliged to separate, in order to execute a figure in the dance; and, as we crossed over again in front of each other, I perceived she looked somewhat pensive. \"Why need I conceal it from you?\" she said, as she gave me her hand for the promenade. \"Albert is a worthy man, to whom I am engaged.\" Now, there was nothing new to me in this (for the girls had told me of it on the way); but it was so far new that I had not thought of it in connection with her whom, in so short a time, I had learned to prize so highly. Enough, I became confused, got out in the figure, and occasioned general confusion; so that it required all Charlotte's presence of mind to set me right by pulling and pushing me into my proper place.",
+    "is_header": false,
+    "word_count": 164,
+    "sentence_count": 6,
+    "translation": [
+      {
+        "id": 1,
+        "en": "\"Who is Albert,\" I said to Charlotte, \"if it is not impertinent to ask?\"",
+        "kr": "\"알베르트가 누구인가요?\" 내가 샤를로테에게 물었네. \"이렇게 여쭙는 것이 무례가 아니라면요.\""
+      },
+      {
+        "id": 2,
+        "en": "She was about to answer when we had to separate for a figure of the dance; and as we crossed in front of each other again, I thought she looked thoughtful.",
+        "kr": "그 사람이 답하려는데 춤의 한 대목 때문에 우리는 갈라져야 했고, 다시 마주 보며 스칠 때 보니 얼굴에 생각이 어려 있는 듯했네."
+      },
+      {
+        "id": 3,
+        "en": "\"Why should I hide it from you?\" she said, giving me her hand for the promenade.",
+        "kr": "\"제가 굳이 감출 까닭이 있나요?\" 산책 대형으로 내게 손을 주며 그 사람이 말했네."
+      },
+      {
+        "id": 4,
+        "en": "\"Albert is a worthy man, and I am engaged to him.\"",
+        "kr": "\"알베르트는 훌륭한 분이고, 저는 그분과 약혼했어요.\""
+      },
+      {
+        "id": 5,
+        "en": "There was nothing new to me in this — the girls had told me on the way.",
+        "kr": "내게 새로운 소식은 아니었네 — 오는 길에 처녀들이 일러 주었으니."
+      },
+      {
+        "id": 6,
+        "en": "But it was new in this sense: I had not thought of it in connection with her, whom I had come in so short a time to value so highly.",
+        "kr": "그러나 이런 뜻에서는 새로웠네. 그토록 짧은 사이에 그토록 귀히 여기게 된 이 사람과 그 사실을 연결 지어 생각해 본 적이 없었던 것일세."
+      },
+      {
+        "id": 7,
+        "en": "Enough; I became confused, lost my place in the figure, and threw everyone into disorder, so that it took all Charlotte's presence of mind to set me right by pulling and pushing me back where I belonged.",
+        "kr": "여하튼 나는 정신이 아득해져 대열에서 자리를 놓치고 온통 뒤죽박죽을 만들었고, 샤를로테가 침착하게 나를 끌고 밀어 제자리에 돌려놓아야 했네."
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "tag": "P0065",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "The dance was not yet finished when the lightning which had for some time been seen in the horizon, and which I had asserted to proceed entirely from heat, grew more violent; and the thunder was heard above the music. When any distress or terror surprises us in the midst of our amusements, it naturally makes a deeper impression than at other times, either because the contrast makes us more keenly susceptible, or rather perhaps because our senses are then more open to impressions, and the shock is consequently stronger. To this cause I must ascribe the fright and shrieks of the ladies. One sagaciously sat down in a corner with her back to the window, and held her fingers to her ears; a second knelt down before her, and hid her face in her lap; a third threw herself between them, and embraced her sister with a thousand tears; some insisted on going home; others, unconscious of their actions, wanted sufficient presence of mind to repress the impertinence of their young partners, who sought to direct to themselves those sighs which the lips of our agitated beauties intended for heaven. Some of the gentlemen had gone down-stairs to smoke a quiet cigar, and the rest of the company gladly embraced a happy suggestion of the hostess to retire into another room which was provided with shutters and curtains. We had hardly got there, when Charlotte placed the chairs in a circle; and, when the company had sat down in compliance with her request, she forthwith proposed a round game.",
+    "is_header": false,
+    "word_count": 260,
+    "sentence_count": 6,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The dance was not yet over when the lightning, which had been showing on the horizon for some time and which I had insisted was nothing but heat, grew fiercer, and the thunder drowned the music.",
+        "kr": "춤이 채 끝나기도 전에, 아까부터 지평선에서 번쩍이던 — 그리고 내가 그저 마른번개일 뿐이라고 우겼던 — 번개가 사나워지더니 천둥소리가 음악을 삼켜 버렸네."
+      },
+      {
+        "id": 2,
+        "en": "When fear or distress overtakes us in the middle of our amusements, it naturally makes a deeper impression than at other times — either because the contrast makes us more sensitive, or, more likely, because our senses are then wide open and the shock strikes harder.",
+        "kr": "즐거움 한가운데서 두려움이나 근심이 덮쳐 오면, 그것은 여느 때보다 더 깊은 인상을 남기게 마련일세. 대비가 우리를 더 예민하게 만들어서이기도 하고, 아마 더 큰 까닭은 그때 우리 감각이 활짝 열려 있어 충격이 더 세게 꽂히기 때문이겠지."
+      },
+      {
+        "id": 3,
+        "en": "To that I must put down the fright and the shrieking of the ladies.",
+        "kr": "부인들이 놀라 비명을 지른 것도 그 탓이라고 보아야겠네."
+      },
+      {
+        "id": 4,
+        "en": "One sat down shrewdly in a corner with her back to the window and stopped her ears with her fingers.",
+        "kr": "한 사람은 약게도 창을 등지고 구석에 앉아 손가락으로 귀를 막았네."
+      },
+      {
+        "id": 5,
+        "en": "A second knelt in front of her and hid her face in her lap; a third pushed in between them and embraced her sister in floods of tears.",
+        "kr": "또 한 사람은 그 앞에 무릎을 꿇고 그 무릎에 얼굴을 파묻었고, 세 번째 사람은 둘 사이를 비집고 들어가 눈물을 쏟으며 언니를 끌어안았네."
+      },
+      {
+        "id": 6,
+        "en": "Some insisted on going home; others hardly knew what they were doing, and had too little presence of mind to check the impertinence of their young partners, who were busy turning onto themselves the sighs their agitated beauties meant for heaven.",
+        "kr": "집에 가겠다고 우기는 이들도 있었고, 제가 무엇을 하는지도 모르는 이들도 있었네. 정신을 차리지 못해, 겁에 질린 미인들이 하늘을 향해 내쉰 한숨을 제게로 돌리려 드는 젊은 짝들의 무례를 막지도 못했지."
+      },
+      {
+        "id": 7,
+        "en": "Some of the gentlemen had gone downstairs for a quiet cigar, and the rest of the company gladly took up the hostess's happy suggestion of moving into another room that had shutters and curtains.",
+        "kr": "신사들 몇은 조용히 담배를 피우러 아래층으로 내려갔고, 나머지 사람들은 덧문과 커튼이 있는 다른 방으로 옮기자는 안주인의 반가운 제안을 기꺼이 따랐네."
+      },
+      {
+        "id": 8,
+        "en": "We had hardly got there when Charlotte set the chairs in a circle; and when the company had sat down at her request, she proposed a round game.",
+        "kr": "그 방에 들어서자마자 샤를로테는 의자를 둥그렇게 놓았고, 사람들이 그 청에 따라 앉자 놀이를 하나 하자고 했네."
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "tag": "P0066",
+    "chapter_id": "ch_03",
+    "section": "Book I",
+    "letter": "JUNE 16.",
+    "raw": "I noticed some of the company prepare their mouths and draw themselves up at the prospect of some agreeable forfeit. \"Let us play at counting,\" said Charlotte. \"Now, pay attention: I shall go round the circle from right to left; and each person is to count, one after the other, the number that comes to him, and must count fast; whoever stops or mistakes is to have a box on the ear, and so on, till we have counted a thousand.\" It was delightful to see the fun. She went round the circle with upraised arm. \"One,\" said the first; \"two,\" the second; \"three,\" the third; and so on, till Charlotte went faster and faster. One made a mistake, instantly a box on the ear; and, amid the laughter that ensued, came another box; and so on, faster and faster. I myself came in for two. I fancied they were harder than the rest, and felt quite delighted. A general laughter and confusion put an end to the game long before we had counted as far as a thousand. The party broke up into little separate knots: the storm had ceased, and I followed Charlotte into the ballroom. On the way she said, \"The game banished their fears of the storm.\" I could make no reply. \"I myself,\" she continued, \"was as much frightened as any of them; but by affecting courage, to keep up the spirits of the others, I forgot my apprehensions.\" We went to the window. It was still thundering at a distance: a soft rain was pouring down over the country, and filled the air around us with delicious odours. Charlotte leaned forward on her arm; her eyes wandered over the scene; she raised them to the sky, and then turned them upon me; they were moistened with tears; she placed her hand on mine and said, \"Klopstock!\" at once I remembered the magnificent ode which was in her thoughts: I felt oppressed with the weight of my sensations, and sank under them. It was more than I could bear. I bent over her hand, kissed it in a stream of delicious tears, and again looked up to her eyes. Divine Klopstock! why didst thou not see thy apotheosis in those eyes? And thy name so often profaned, would that I never heard it repeated!",
+    "is_header": false,
+    "word_count": 389,
+    "sentence_count": 21,
+    "translation": [
+      {
+        "id": 1,
+        "en": "I noticed some of the company purse their mouths and draw themselves up at the prospect of an agreeable forfeit.",
+        "kr": "즐거운 벌칙을 기대하며 입을 오므리고 몸을 곧추세우는 이들이 몇 보였네."
+      },
+      {
+        "id": 2,
+        "en": "\"Let us play at counting,\" said Charlotte.",
+        "kr": "\"숫자 세기 놀이를 해요.\" 샤를로테가 말했네."
+      },
+      {
+        "id": 3,
+        "en": "\"Now pay attention. I shall go round the circle from right to left, and each person is to count, one after another, the number that falls to him — and you must count fast.\"",
+        "kr": "\"자, 잘 들으세요. 제가 오른쪽에서 왼쪽으로 돌 테니, 차례차례 자기에게 오는 숫자를 세세요. 빨리 세야 해요.\""
+      },
+      {
+        "id": 4,
+        "en": "\"Whoever stops or makes a mistake gets a box on the ear, and so on, until we have counted to a thousand.\"",
+        "kr": "\"멈추거나 틀리는 사람은 귀를 한 대 맞습니다. 그렇게 천까지 세는 거예요.\""
+      },
+      {
+        "id": 5,
+        "en": "It was delightful to watch.",
+        "kr": "보고 있자니 여간 재미있는 것이 아니었네."
+      },
+      {
+        "id": 6,
+        "en": "She went round the circle with her arm raised.",
+        "kr": "그 사람은 팔을 치켜든 채 둥그렇게 돌았네."
+      },
+      {
+        "id": 7,
+        "en": "\"One,\" said the first; \"two,\" the second; \"three,\" the third; and so on, while Charlotte went faster and faster.",
+        "kr": "\"하나\" 하고 첫 사람이, \"둘\" 하고 둘째가, \"셋\" 하고 셋째가 셌고, 샤를로테는 점점 더 빨라졌네."
+      },
+      {
+        "id": 8,
+        "en": "Someone made a mistake, and instantly a box on the ear; and in the laughter that followed, another box; and so on, faster and faster.",
+        "kr": "누군가 틀리자 곧바로 한 대, 그러자 터진 웃음 속에서 또 한 대, 그렇게 점점 더 빨라졌네."
+      },
+      {
+        "id": 9,
+        "en": "I came in for two myself.",
+        "kr": "나도 두 대를 맞았네."
+      },
+      {
+        "id": 10,
+        "en": "I fancied they were harder than the rest, and was quite delighted.",
+        "kr": "남들 것보다 더 세게 맞은 것 같아 나는 아주 흐뭇했네."
+      },
+      {
+        "id": 11,
+        "en": "General laughter and confusion broke up the game long before we had counted as far as a thousand.",
+        "kr": "웃음과 소란이 번져 천까지 세기도 전에 놀이는 끝나 버렸네."
+      },
+      {
+        "id": 12,
+        "en": "The party split into little separate knots.",
+        "kr": "사람들은 삼삼오오 흩어졌네."
+      },
+      {
+        "id": 13,
+        "en": "The storm had passed, and I followed Charlotte into the ballroom.",
+        "kr": "폭풍우는 지나갔고, 나는 샤를로테를 따라 무도회장으로 갔네."
+      },
+      {
+        "id": 14,
+        "en": "On the way she said, \"The game drove away their fear of the storm.\"",
+        "kr": "가는 길에 그 사람이 말했네. \"저 놀이가 폭풍우에 대한 두려움을 쫓아 주었어요.\""
+      },
+      {
+        "id": 15,
+        "en": "I could make no reply.",
+        "kr": "나는 아무 대꾸도 하지 못했네."
+      },
+      {
+        "id": 16,
+        "en": "\"I was as frightened as any of them,\" she went on, \"but by putting on courage to keep the others up, I forgot my own fears.\"",
+        "kr": "\"저도 남들만큼이나 무서웠어요.\" 그 사람이 말을 이었네. \"그런데 다른 사람들 기운을 북돋우려고 용기를 내는 척하다 보니, 제 두려움은 잊어버렸지요.\""
+      },
+      {
+        "id": 17,
+        "en": "We went to the window.",
+        "kr": "우리는 창가로 갔네."
+      },
+      {
+        "id": 18,
+        "en": "It was still thundering in the distance.",
+        "kr": "멀리서 아직 천둥이 울고 있었네."
+      },
+      {
+        "id": 19,
+        "en": "A soft rain was falling over the country and filling the air around us with delicious scents.",
+        "kr": "부드러운 비가 들판 위로 내리며 우리 둘레의 공기를 그윽한 향기로 채웠네."
+      },
+      {
+        "id": 20,
+        "en": "Charlotte leaned forward on her arm, her eyes wandering over the scene.",
+        "kr": "샤를로테는 팔에 몸을 기댄 채 눈길로 그 풍경을 더듬었네."
+      },
+      {
+        "id": 21,
+        "en": "She raised them to the sky, then turned them on me; they were wet with tears.",
+        "kr": "그러다 하늘을 우러러보고는 나를 돌아보았네. 그 눈에 눈물이 어려 있었네."
+      },
+      {
+        "id": 22,
+        "en": "She put her hand on mine and said, \"Klopstock!\"",
+        "kr": "그 사람은 내 손 위에 제 손을 얹고 말했네. \"클롭슈토크!\""
+      },
+      {
+        "id": 23,
+        "en": "At once I remembered the magnificent ode that was in her mind, and I sank under the weight of everything I felt.",
+        "kr": "나는 곧 그 마음속에 있던 그 장엄한 송가를 떠올렸고, 밀려드는 모든 감정의 무게에 가라앉고 말았네."
+      },
+      {
+        "id": 24,
+        "en": "It was more than I could bear.",
+        "kr": "견딜 수 있는 것이 아니었네."
+      },
+      {
+        "id": 25,
+        "en": "I bent over her hand, kissed it in a stream of delicious tears, and looked up into her eyes again.",
+        "kr": "나는 그 손 위로 몸을 숙여 그윽한 눈물 속에 입을 맞추고, 다시 그 눈을 올려다보았네."
+      },
+      {
+        "id": 26,
+        "en": "Divine Klopstock! Why did you not see your apotheosis in those eyes?",
+        "kr": "성스러운 클롭슈토크여! 어찌하여 그대는 그 눈 속에서 그대의 승천을 보지 못했는가?"
+      },
+      {
+        "id": 27,
+        "en": "And your name, so often profaned — would that I might never hear it spoken again!",
+        "kr": "그리고 그토록 자주 더럽혀지는 그대의 이름 — 다시는 그것이 입에 오르는 것을 듣지 않았으면!"
+      }
+    ]
+  }
+]

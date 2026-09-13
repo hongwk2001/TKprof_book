@@ -1,0 +1,1082 @@
+[
+  {
+    "id": 126,
+    "tag": "P0126",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 8.",
+    "raw": "AUGUST 8.",
+    "is_header": true,
+    "word_count": 2,
+    "sentence_count": 1,
+    "translation": [
+      {
+        "id": 1,
+        "en": "August 8",
+        "kr": "8월 8일"
+      }
+    ]
+  },
+  {
+    "id": 127,
+    "tag": "P0127",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 8.",
+    "raw": "Believe me, dear Wilhelm, I did not allude to you when I spoke so severely of those who advise resignation to inevitable fate. I did not think it possible for you to indulge such a sentiment. But in fact you are right. I only suggest one objection. In this world one is seldom reduced to make a selection between two alternatives. There are as many varieties of conduct and opinion as there are turns of feature between an aquiline nose and a flat one.",
+    "is_header": false,
+    "word_count": 84,
+    "sentence_count": 6,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Believe me, dear Wilhelm, I was not thinking of you when I spoke so harshly of people who advise resignation to an inevitable fate.",
+        "kr": "내 말을 믿게, 친애하는 빌헬름. 피할 수 없는 운명에 체념하라고 권하는 사람들을 그토록 모질게 말했을 때, 나는 자네를 두고 한 말이 아니었네."
+      },
+      {
+        "id": 2,
+        "en": "I did not think you capable of such a sentiment.",
+        "kr": "자네가 그런 생각을 할 사람이라고는 여기지 않았네."
+      },
+      {
+        "id": 3,
+        "en": "But in fact you are right.",
+        "kr": "그러나 실은 자네 말이 옳네."
+      },
+      {
+        "id": 4,
+        "en": "I have only one objection to make.",
+        "kr": "다만 한 가지만 따지고 싶네."
+      },
+      {
+        "id": 5,
+        "en": "In this world one is seldom reduced to a choice between two alternatives.",
+        "kr": "이 세상에서 둘 가운데 하나를 고르는 처지에 몰리는 일은 드무네."
+      },
+      {
+        "id": 6,
+        "en": "There are as many varieties of conduct and opinion as there are gradations of feature between an aquiline nose and a flat one.",
+        "kr": "매부리코에서 납작코에 이르기까지 생김새에 온갖 단계가 있듯이, 처신과 견해에도 그만큼 많은 갈래가 있는 법일세."
+      }
+    ]
+  },
+  {
+    "id": 128,
+    "tag": "P0128",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 8.",
+    "raw": "You will, therefore, permit me to concede your entire argument, and yet contrive means to escape your dilemma.",
+    "is_header": false,
+    "word_count": 18,
+    "sentence_count": 1,
+    "translation": [
+      {
+        "id": 1,
+        "en": "So you will allow me to grant your whole argument, and still contrive a way out of your dilemma.",
+        "kr": "그러니 자네 논리를 통째로 받아들이면서도, 자네가 내민 진퇴양난에서 빠져나갈 길을 찾아내는 것을 허락해 주게."
+      }
+    ]
+  },
+  {
+    "id": 129,
+    "tag": "P0129",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 8.",
+    "raw": "Your position is this, I hear you say: \"Either you have hopes of obtaining Charlotte, or you have none. Well, in the first case, pursue your course, and press on to the fulfilment of your wishes. In the second, be a man, and shake off a miserable passion, which will enervate and destroy you.\" My dear friend, this is well and easily said.",
+    "is_header": false,
+    "word_count": 63,
+    "sentence_count": 4,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Your position, as I hear it, is this: \"Either you have hopes of winning Charlotte, or you have none.\"",
+        "kr": "내가 듣기에 자네 주장은 이런 것일세. \"샤를로테를 얻을 가망이 있든지, 없든지 둘 중 하나다.\""
+      },
+      {
+        "id": 2,
+        "en": "\"In the first case, hold your course and press on to the fulfilment of your wishes.\"",
+        "kr": "\"앞의 경우라면 그대로 밀고 나가 네 소원을 이루어라.\""
+      },
+      {
+        "id": 3,
+        "en": "\"In the second, be a man and shake off a miserable passion that will drain you and destroy you.\"",
+        "kr": "\"뒤의 경우라면 사내답게 굴어, 너를 말려 죽일 그 비참한 정념을 떨쳐 버려라.\""
+      },
+      {
+        "id": 4,
+        "en": "My dear friend, that is well said, and easily said.",
+        "kr": "친구여, 말은 잘했고, 또 말하기야 쉽지."
+      }
+    ]
+  },
+  {
+    "id": 130,
+    "tag": "P0130",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 8.",
+    "raw": "But would you require a wretched being, whose life is slowly wasting under a lingering disease, to despatch himself at once by the stroke of a dagger? Does not the very disorder which consumes his strength deprive him of the courage to effect his deliverance?",
+    "is_header": false,
+    "word_count": 45,
+    "sentence_count": 2,
+    "translation": [
+      {
+        "id": 1,
+        "en": "But would you require a wretched creature, whose life is slowly wasting under a lingering disease, to finish himself off at once with a dagger?",
+        "kr": "그러나 오랜 병으로 목숨이 천천히 스러져 가는 가엾은 사람더러, 단검으로 당장 제 목숨을 끊으라고 하겠나?"
+      },
+      {
+        "id": 2,
+        "en": "Does the very disorder that eats away his strength not also rob him of the courage to deliver himself?",
+        "kr": "그 기력을 갉아먹는 바로 그 병이, 스스로를 건져 낼 용기까지 앗아 가지 않겠는가?"
+      }
+    ]
+  },
+  {
+    "id": 131,
+    "tag": "P0131",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 8.",
+    "raw": "You may answer me, if you please, with a similar analogy, \"Who would not prefer the amputation of an arm to the periling of life by doubt and procrastination!\" But I know not if I am right, and let us leave these comparisons.",
+    "is_header": false,
+    "word_count": 43,
+    "sentence_count": 2,
+    "translation": [
+      {
+        "id": 1,
+        "en": "You may answer me, if you like, with an analogy of your own: \"Who would not rather have an arm amputated than risk his life through doubt and delay?\"",
+        "kr": "원한다면 자네도 이런 비유로 답할 수 있겠지. \"망설이고 미루다 목숨을 잃느니, 팔 하나 잘라 내는 편을 누가 마다하겠는가?\""
+      },
+      {
+        "id": 2,
+        "en": "But I do not know whether I am right, and we had better leave these comparisons alone.",
+        "kr": "그러나 내 말이 옳은지는 나도 모르겠으니, 이런 비유는 그만두는 편이 낫겠네."
+      }
+    ]
+  },
+  {
+    "id": 132,
+    "tag": "P0132",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 8.",
+    "raw": "Enough! There are moments, Wilhelm, when I could rise up and shake it all off, and when, if I only knew where to go, I could fly from this place.",
+    "is_header": false,
+    "word_count": 30,
+    "sentence_count": 2,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Enough!",
+        "kr": "그만하세!"
+      },
+      {
+        "id": 2,
+        "en": "There are moments, Wilhelm, when I could get up and shake it all off, and when, if I only knew where to go, I would fly from this place.",
+        "kr": "빌헬름, 자리를 털고 일어나 이 모든 것을 떨쳐 버릴 수 있을 것 같은 순간이 있네. 어디로 가야 할지만 안다면 이곳을 떠나 날아가 버릴 것 같은 순간이."
+      }
+    ]
+  },
+  {
+    "id": 133,
+    "tag": "P0133",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 8.",
+    "raw": "THE SAME EVENING.",
+    "is_header": false,
+    "word_count": 3,
+    "sentence_count": 1,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The same evening.",
+        "kr": "같은 날 저녁."
+      }
+    ]
+  },
+  {
+    "id": 134,
+    "tag": "P0134",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 8.",
+    "raw": "My diary, which I have for some time neglected, came before me today; and I am amazed to see how deliberately I have entangled myself step by step. To have seen my position so clearly, and yet to have acted so like a child! Even still I behold the result plainly, and yet have no thought of acting with greater prudence.",
+    "is_header": false,
+    "word_count": 61,
+    "sentence_count": 3,
+    "translation": [
+      {
+        "id": 1,
+        "en": "My diary, which I have neglected for some time, came before me today; and I am amazed to see how deliberately I have entangled myself, step by step.",
+        "kr": "한동안 들여다보지 않던 일기가 오늘 눈에 띄었네. 내가 얼마나 뻔히 알면서 한 걸음 한 걸음 스스로를 옭아맸는지 보고 놀랐네."
+      },
+      {
+        "id": 2,
+        "en": "To have seen my position so clearly, and yet to have acted so like a child!",
+        "kr": "제 처지를 그토록 똑똑히 보면서도 그토록 어린애처럼 굴었다니!"
+      },
+      {
+        "id": 3,
+        "en": "Even now I see the outcome plainly, and still have no thought of acting with any more prudence.",
+        "kr": "지금도 그 끝이 훤히 보이는데, 조금이라도 더 분별 있게 굴 생각은 여전히 들지 않네."
+      }
+    ]
+  },
+  {
+    "id": 135,
+    "tag": "P0135",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 10.",
+    "raw": "AUGUST 10.",
+    "is_header": true,
+    "word_count": 2,
+    "sentence_count": 1,
+    "translation": [
+      {
+        "id": 1,
+        "en": "August 10",
+        "kr": "8월 10일"
+      }
+    ]
+  },
+  {
+    "id": 136,
+    "tag": "P0136",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 10.",
+    "raw": "If I were not a fool, I could spend the happiest and most delightful life here. So many agreeable circumstances, and of a kind to ensure a worthy man's happiness, are seldom united. Alas! I feel it too sensibly,—the heart alone makes our happiness! To be admitted into this most charming family, to be loved by the father as a son, by the children as a father, and by Charlotte! then the noble Albert, who never disturbs my happiness by any appearance of ill-humour, receiving me with the heartiest affection, and loving me, next to Charlotte, better than all the world! Wilhelm, you would be delighted to hear us in our rambles, and conversations about Charlotte. Nothing in the world can be more absurd than our connection, and yet the thought of it often moves me to tears.",
+    "is_header": false,
+    "word_count": 138,
+    "sentence_count": 7,
+    "translation": [
+      {
+        "id": 1,
+        "en": "If I were not a fool, I could live the happiest and most delightful life here.",
+        "kr": "내가 바보만 아니라면, 여기서 더없이 행복하고 즐거운 삶을 살 수 있을 걸세."
+      },
+      {
+        "id": 2,
+        "en": "So many agreeable circumstances, of the kind that make a worthy man happy, are seldom found together.",
+        "kr": "괜찮은 사람을 행복하게 해 줄 만한 좋은 조건들이 이렇게 한꺼번에 갖추어지는 일은 흔치 않네."
+      },
+      {
+        "id": 3,
+        "en": "Alas!",
+        "kr": "아!"
+      },
+      {
+        "id": 4,
+        "en": "I feel it too keenly — it is the heart alone that makes our happiness.",
+        "kr": "너무나 절실히 느끼네 — 우리를 행복하게 하는 것은 오직 마음뿐이라는 것을."
+      },
+      {
+        "id": 5,
+        "en": "To be taken into this most charming family; to be loved by the father as a son, by the children as a father, and by Charlotte!",
+        "kr": "이 더없이 사랑스러운 집안에 받아들여져, 아버지에게는 아들처럼, 아이들에게는 아버지처럼, 그리고 샤를로테에게는!"
+      },
+      {
+        "id": 6,
+        "en": "And then the noble Albert, who never disturbs my happiness by the least show of ill humour, who receives me with the heartiest affection and loves me, after Charlotte, better than all the world!",
+        "kr": "게다가 저 고결한 알베르트는 언짢은 기색 한 번 내비쳐 내 행복을 흔드는 법이 없고, 더없이 따뜻하게 나를 맞아 주며, 샤를로테 다음으로 세상 누구보다 나를 아껴 주네!"
+      },
+      {
+        "id": 7,
+        "en": "Wilhelm, you would be delighted to hear us on our rambles, talking about Charlotte.",
+        "kr": "빌헬름, 우리가 함께 거닐며 샤를로테 이야기를 하는 것을 자네가 들으면 흐뭇해할 걸세."
+      },
+      {
+        "id": 8,
+        "en": "Nothing in the world could be more absurd than our connection, and yet the thought of it often moves me to tears.",
+        "kr": "세상에 우리 사이만큼 터무니없는 것도 없을 텐데, 그 생각을 하면 자주 눈물이 나네."
+      }
+    ]
+  },
+  {
+    "id": 137,
+    "tag": "P0137",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 10.",
+    "raw": "He tells me sometimes of her excellent mother; how, upon her death-bed, she had committed her house and children to Charlotte, and had given Charlotte herself in charge to him; how, since that time, a new spirit had taken possession of her; how, in care and anxiety for their welfare, she became a real mother to them; how every moment of her time was devoted to some labour of love in their behalf,—and yet her mirth and cheerfulness had never forsaken her. I walk by his side, pluck flowers by the way, arrange them carefully into a nosegay, then fling them into the first stream I pass, and watch them as they float gently away. I forget whether I told you that Albert is to remain here. He has received a government appointment, with a very good salary; and I understand he is in high favour at court. I have met few persons so punctual and methodical in business.",
+    "is_header": false,
+    "word_count": 159,
+    "sentence_count": 5,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He tells me sometimes about her excellent mother.",
+        "kr": "그는 이따금 그 사람의 훌륭했던 어머니 이야기를 들려주네."
+      },
+      {
+        "id": 2,
+        "en": "How, on her deathbed, she gave her house and her children into Charlotte's keeping, and gave Charlotte herself into his.",
+        "kr": "임종의 자리에서 그 어머니가 집과 아이들을 샤를로테에게 맡기고, 샤를로테 자신은 그에게 맡겼다는 이야기 말일세."
+      },
+      {
+        "id": 3,
+        "en": "How, from that time, a new spirit took possession of her; how, in her care and anxiety for their welfare, she became a real mother to them.",
+        "kr": "그때부터 그 사람에게 새로운 정신이 깃들었다는 것, 아이들을 돌보고 걱정하는 가운데 참된 어머니가 되었다는 것."
+      },
+      {
+        "id": 4,
+        "en": "How every moment of her time was given to some labour of love on their behalf — and yet her cheerfulness never deserted her.",
+        "kr": "그 시간의 매 순간이 아이들을 위한 사랑의 수고에 바쳐졌다는 것 — 그러면서도 그 밝음은 한 번도 그 사람을 떠나지 않았다는 것."
+      },
+      {
+        "id": 5,
+        "en": "I walk at his side, pick flowers along the way, arrange them carefully into a nosegay, then throw them into the first stream I pass and watch them float gently away.",
+        "kr": "나는 그의 곁에서 걸으며 길가의 꽃을 꺾어 정성껏 꽃다발을 만들었다가, 지나치는 첫 시내에 던져 넣고 그것이 가만히 떠내려가는 것을 바라보네."
+      },
+      {
+        "id": 6,
+        "en": "I forget whether I told you that Albert is to stay here.",
+        "kr": "알베르트가 여기 머물기로 했다는 이야기를 자네에게 했는지 기억나지 않네."
+      },
+      {
+        "id": 7,
+        "en": "He has been given a government appointment with a very good salary, and I understand he stands high in favour at court.",
+        "kr": "봉급이 아주 좋은 관직을 얻었고, 궁정에서도 신망이 높다고 하네."
+      },
+      {
+        "id": 8,
+        "en": "I have met few people so punctual and methodical in business.",
+        "kr": "일에서 그토록 빈틈없고 꼼꼼한 사람은 나도 별로 보지 못했네."
+      }
+    ]
+  },
+  {
+    "id": 138,
+    "tag": "P0138",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 12.",
+    "raw": "AUGUST 12.",
+    "is_header": true,
+    "word_count": 2,
+    "sentence_count": 1,
+    "translation": [
+      {
+        "id": 1,
+        "en": "August 12",
+        "kr": "8월 12일"
+      }
+    ]
+  },
+  {
+    "id": 139,
+    "tag": "P0139",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 12.",
+    "raw": "Certainly Albert is the best fellow in the world. I had a strange scene with him yesterday. I went to take leave of him; for I took it into my head to spend a few days in these mountains, from where I now write to you. As I was walking up and down his room, my eye fell upon his pistols. \"Lend me those pistols,\" said I, \"for my journey.\" \"By all means,\" he replied, \"if you will take the trouble to load them; for they only hang there for form.\" I took down one of them; and he continued, \"Ever since I was near suffering for my extreme caution, I will have nothing to do with such things.\" I was curious to hear the story. \"I was staying,\" said he, \"some three months ago, at a friend's house in the country. I had a brace of pistols with me, unloaded; and I slept without any anxiety. One rainy afternoon I was sitting by myself, doing nothing, when it occurred to me I do not know how that the house might be attacked, that we might require the pistols, that we might in short, you know how we go on fancying, when we have nothing better to do. I gave the pistols to the servant, to clean and load. He was playing with the maid, and trying to frighten her, when the pistol went off—God knows how!—the ramrod was in the barrel; and it went straight through her right hand, and shattered the thumb. I had to endure all the lamentation, and to pay the surgeon's bill; so, since that time, I have kept all my weapons unloaded. But, my dear friend, what is the use of prudence? We can never be on our guard against all possible dangers. However,\"—now, you must know I can tolerate all men till they come to \"however;\"—for it is self-evident that every universal rule must have its exceptions. But he is so exceedingly accurate, that, if he only fancies he has said a word too precipitate, or too general, or only half true, he never ceases to qualify, to modify, and extenuate, till at last he appears to have said nothing at all. Upon this occasion, Albert was deeply immersed in his subject: I ceased to listen to him, and became lost in reverie. With a sudden motion, I pointed the mouth of the pistol to my forehead, over the right eye. \"What do you mean?\" cried Albert, turning back the pistol. \"It is not loaded,\" said I. \"And even if not,\" he answered with impatience, \"what can you mean? I cannot comprehend how a man can be so mad as to shoot himself, and the bare idea of it shocks me.\"",
+    "is_header": false,
+    "word_count": 458,
+    "sentence_count": 24,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Albert is certainly the best fellow in the world.",
+        "kr": "알베르트는 분명 세상에서 가장 좋은 사람일세."
+      },
+      {
+        "id": 2,
+        "en": "I had a strange scene with him yesterday.",
+        "kr": "어제 그와 묘한 일이 있었네."
+      },
+      {
+        "id": 3,
+        "en": "I went to take my leave of him, having taken it into my head to spend a few days in these mountains, from where I am writing to you now.",
+        "kr": "이 산속에서 며칠 지내 볼 생각이 들어 — 지금 자네에게 쓰고 있는 이곳일세 — 작별 인사를 하러 갔었지."
+      },
+      {
+        "id": 4,
+        "en": "As I walked up and down his room, my eye fell on his pistols.",
+        "kr": "그의 방을 오가다 권총에 눈이 갔네."
+      },
+      {
+        "id": 5,
+        "en": "\"Lend me those pistols,\" I said, \"for my journey.\"",
+        "kr": "\"그 권총 좀 빌려주십시오.\" 내가 말했네. \"여행에 쓰게요.\""
+      },
+      {
+        "id": 6,
+        "en": "\"By all means,\" he replied, \"if you will take the trouble to load them; they only hang there for form.\"",
+        "kr": "\"얼마든지요.\" 그가 답했네. \"장전하는 수고만 하신다면요. 저기 걸려 있는 것은 그저 모양새일 뿐입니다.\""
+      },
+      {
+        "id": 7,
+        "en": "I took one of them down, and he went on: \"Ever since I came near suffering for my own excessive caution, I will have nothing to do with such things.\"",
+        "kr": "내가 하나를 내리자 그가 말을 이었네. \"제가 지나친 조심 때문에 큰일을 겪을 뻔한 뒤로는, 그런 물건과는 아예 상관하지 않으려 합니다.\""
+      },
+      {
+        "id": 8,
+        "en": "I was curious to hear the story.",
+        "kr": "나는 그 이야기가 궁금해졌네."
+      },
+      {
+        "id": 9,
+        "en": "\"About three months ago,\" he said, \"I was staying at a friend's house in the country.\"",
+        "kr": "\"석 달쯤 전에\" 하고 그가 말했네. \"시골 친구 집에 머물고 있었습니다.\""
+      },
+      {
+        "id": 10,
+        "en": "\"I had a brace of pistols with me, unloaded, and I slept without a care.\"",
+        "kr": "\"권총 한 쌍을 가져갔는데 장전은 하지 않았고, 아무 걱정 없이 잠을 잤지요.\""
+      },
+      {
+        "id": 11,
+        "en": "\"One rainy afternoon I was sitting by myself with nothing to do, when it occurred to me — I do not know how — that the house might be attacked, that we might need the pistols; you know how we go on inventing when we have nothing better to do.\"",
+        "kr": "\"어느 비 오는 오후에 할 일 없이 혼자 앉아 있다가 문득 — 어쩌다 그랬는지 모르겠습니다만 — 집이 습격당할 수도 있고 그러면 권총이 필요할지도 모른다는 생각이 들었습니다. 할 일이 없을 때 사람이 어떻게 공상을 부풀리는지 아시지요.\""
+      },
+      {
+        "id": 12,
+        "en": "\"I gave the pistols to the servant to clean and load.\"",
+        "kr": "\"그래서 하인에게 권총을 주며 닦고 장전해 두라고 했습니다.\""
+      },
+      {
+        "id": 13,
+        "en": "\"He was playing with the maid and trying to frighten her, when the pistol went off — God knows how — with the ramrod still in the barrel.\"",
+        "kr": "\"그런데 그자가 하녀와 장난을 치며 겁을 주려다가 총이 나가고 말았습니다 — 어찌 된 영문인지는 하느님만 아시겠지요 — 꽂을대가 총열에 꽂힌 채로요.\""
+      },
+      {
+        "id": 14,
+        "en": "\"It went straight through her right hand and shattered the thumb.\"",
+        "kr": "\"그것이 그 애 오른손을 그대로 뚫고 지나가 엄지를 박살 냈습니다.\""
+      },
+      {
+        "id": 15,
+        "en": "\"I had to endure all the lamentation and pay the surgeon's bill; and since that time I have kept every weapon of mine unloaded.\"",
+        "kr": "\"온갖 울음소리를 다 견디고 외과의 값도 물어야 했지요. 그 뒤로는 제 무기는 하나도 장전해 두지 않습니다.\""
+      },
+      {
+        "id": 16,
+        "en": "\"But, my dear friend, what is the use of prudence?\"",
+        "kr": "\"그런데 말입니다, 조심한다는 것이 다 무슨 소용입니까?\""
+      },
+      {
+        "id": 17,
+        "en": "\"We can never be on our guard against every possible danger.\"",
+        "kr": "\"있을 수 있는 모든 위험에 다 대비할 수는 없는 노릇이지요.\""
+      },
+      {
+        "id": 18,
+        "en": "\"However\" — and you must know that I can put up with any man until he comes to his \"however,\" since it is self-evident that every general rule has its exceptions.",
+        "kr": "\"하지만\" — 그런데 말일세, 나는 어떤 사람이든 그 \"하지만\"이 나오기 전까지는 참아 줄 수 있네. 모든 일반 규칙에는 예외가 있다는 것이야 뻔한 이치이니 말일세."
+      },
+      {
+        "id": 19,
+        "en": "But he is so exceedingly precise that if he only fancies he has said a word too hastily, or too generally, or only half truly, he never stops qualifying and modifying and softening it until at last he seems to have said nothing at all.",
+        "kr": "그러나 그는 어찌나 지나치게 꼼꼼한지, 제 말이 조금이라도 성급했거나 지나치게 뭉뚱그렸거나 반만 참되다 싶으면, 단서를 달고 고치고 누그러뜨리기를 그치지 않아 마침내는 아무 말도 하지 않은 꼴이 되고 마네."
+      },
+      {
+        "id": 20,
+        "en": "On this occasion Albert sank deep into his subject; I stopped listening and fell into a reverie.",
+        "kr": "그날도 알베르트는 제 이야기에 깊이 빠져들었고, 나는 듣기를 그만두고 멍하니 딴생각에 잠겼네."
+      },
+      {
+        "id": 21,
+        "en": "With a sudden movement I put the mouth of the pistol to my forehead, over the right eye.",
+        "kr": "그러다 불쑥 권총 입을 내 이마, 오른쪽 눈 위에 갖다 대었네."
+      },
+      {
+        "id": 22,
+        "en": "\"What do you mean?\" cried Albert, turning the pistol away.",
+        "kr": "\"무슨 짓입니까?\" 알베르트가 소리치며 총구를 돌려놓았네."
+      },
+      {
+        "id": 23,
+        "en": "\"It is not loaded,\" said I.",
+        "kr": "\"장전이 안 되었잖습니까.\" 내가 말했네."
+      },
+      {
+        "id": 24,
+        "en": "\"And even if it is not,\" he answered impatiently, \"what can you mean?\"",
+        "kr": "\"장전이 안 되었다 해도\" 하고 그가 조바심을 내며 답했네. \"대체 무슨 뜻으로 그러시는 겁니까?\""
+      },
+      {
+        "id": 25,
+        "en": "\"I cannot understand how a man can be mad enough to shoot himself; the bare idea of it disgusts me.\"",
+        "kr": "\"사람이 어떻게 제 몸에 총을 쏠 만큼 미칠 수 있는지 저는 도무지 이해가 안 됩니다. 생각만 해도 역겹습니다.\""
+      }
+    ]
+  },
+  {
+    "id": 140,
+    "tag": "P0140",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 12.",
+    "raw": "\"But why should any one,\" said I, \"in speaking of an action, venture to pronounce it mad or wise, or good or bad? What is the meaning of all this? Have you carefully studied the secret motives of our actions? Do you understand—can you explain the causes which occasion them, and make them inevitable? If you can, you will be less hasty with your decision.\"",
+    "is_header": false,
+    "word_count": 65,
+    "sentence_count": 5,
+    "translation": [
+      {
+        "id": 1,
+        "en": "\"But why should anyone,\" I said, \"speaking of an action, venture to call it mad or wise, good or bad?\"",
+        "kr": "\"그런데 어째서\" 하고 내가 말했네. \"어떤 행동을 두고 감히 미쳤다느니 지혜롭다느니, 좋다느니 나쁘다느니 하는 겁니까?\""
+      },
+      {
+        "id": 2,
+        "en": "\"What does any of that mean?\"",
+        "kr": "\"그런 말이 다 무슨 뜻입니까?\""
+      },
+      {
+        "id": 3,
+        "en": "\"Have you carefully studied the secret motives of our actions?\"",
+        "kr": "\"우리 행동의 은밀한 동기를 꼼꼼히 살펴보신 적이 있습니까?\""
+      },
+      {
+        "id": 4,
+        "en": "\"Do you understand — can you explain — the causes that produce them and make them inevitable?\"",
+        "kr": "\"그것을 낳고 또 피할 수 없게 만드는 원인들을 이해하십니까? 설명하실 수 있습니까?\""
+      },
+      {
+        "id": 5,
+        "en": "\"If you can, you will be slower to pass judgment.\"",
+        "kr": "\"그럴 수 있다면, 그렇게 서둘러 판단하지는 않으실 겁니다.\""
+      }
+    ]
+  },
+  {
+    "id": 141,
+    "tag": "P0141",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 12.",
+    "raw": "\"But you will allow,\" said Albert; \"that some actions are criminal, let them spring from whatever motives they may.\" I granted it, and shrugged my shoulders.",
+    "is_header": false,
+    "word_count": 26,
+    "sentence_count": 2,
+    "translation": [
+      {
+        "id": 1,
+        "en": "\"But you will allow,\" said Albert, \"that some actions are criminal, whatever motives they spring from.\"",
+        "kr": "\"그래도 인정하실 겁니다.\" 알베르트가 말했네. \"어떤 동기에서 나왔든 죄가 되는 행동은 있다는 것을요.\""
+      },
+      {
+        "id": 2,
+        "en": "I granted it, and shrugged my shoulders.",
+        "kr": "나는 그것을 인정하고 어깨를 으쓱했네."
+      }
+    ]
+  },
+  {
+    "id": 142,
+    "tag": "P0142",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 12.",
+    "raw": "\"But still, my good friend,\" I continued, \"there are some exceptions here too. Theft is a crime; but the man who commits it from extreme poverty, with no design but to save his family from perishing, is he an object of pity, or of punishment? Who shall throw the first stone at a husband, who, in the heat of just resentment, sacrifices his faithless wife and her perfidious seducer? or at the young maiden, who, in her weak hour of rapture, forgets herself in the impetuous joys of love? Even our laws, cold and cruel as they are, relent in such cases, and withhold their punishment.\"",
+    "is_header": false,
+    "word_count": 106,
+    "sentence_count": 4,
+    "translation": [
+      {
+        "id": 1,
+        "en": "\"But still, my good friend,\" I went on, \"there are exceptions here too.\"",
+        "kr": "\"그렇지만 말입니다.\" 내가 말을 이었네. \"여기에도 예외는 있습니다.\""
+      },
+      {
+        "id": 2,
+        "en": "\"Theft is a crime; but the man who commits it out of extreme poverty, with no design but to save his family from starving — is he an object of pity, or of punishment?\"",
+        "kr": "\"도둑질은 죄입니다. 그러나 식구들을 굶어 죽지 않게 하려는 것 말고 아무 뜻도 없이 지독한 가난 때문에 훔친 사람은, 가엾이 여길 대상입니까, 벌할 대상입니까?\""
+      },
+      {
+        "id": 3,
+        "en": "\"Who will throw the first stone at a husband who, in the heat of just resentment, sacrifices his faithless wife and her treacherous seducer?\"",
+        "kr": "\"의로운 분노에 사로잡혀 부정한 아내와 그 음흉한 유혹자를 죽인 남편에게, 누가 먼저 돌을 던지겠습니까?\""
+      },
+      {
+        "id": 4,
+        "en": "\"Or at the young girl who, in one weak hour of rapture, forgets herself in the headlong joys of love?\"",
+        "kr": "\"또는 한순간의 황홀에 정신을 놓고 사랑의 격정 속에서 자신을 잊은 젊은 처녀에게는요?\""
+      },
+      {
+        "id": 5,
+        "en": "\"Even our laws, cold and cruel as they are, relent in such cases and withhold their punishment.\"",
+        "kr": "\"차갑고 모진 우리 법조차 그런 경우에는 누그러져 벌을 거두지 않습니까.\""
+      }
+    ]
+  },
+  {
+    "id": 143,
+    "tag": "P0143",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 12.",
+    "raw": "\"That is quite another thing,\" said Albert; \"because a man under the influence of violent passion loses all power of reflection, and is regarded as intoxicated or insane.\"",
+    "is_header": false,
+    "word_count": 28,
+    "sentence_count": 1,
+    "translation": [
+      {
+        "id": 1,
+        "en": "\"That is quite another thing,\" said Albert, \"because a man under the influence of a violent passion loses all power of reflection, and is regarded as drunk or insane.\"",
+        "kr": "\"그것은 전혀 다른 이야기입니다.\" 알베르트가 말했네. \"격렬한 정념에 사로잡힌 사람은 생각하는 힘을 다 잃어버려, 취했거나 미친 것으로 보기 때문이지요.\""
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "tag": "P0144",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 12.",
+    "raw": "\"Oh! you people of sound understandings,\" I replied, smiling, \"are ever ready to exclaim 'Extravagance, and madness, and intoxication!' You moral men are so calm and so subdued! You abhor the drunken man, and detest the extravagant; you pass by, like the Levite, and thank God, like the Pharisee, that you are not like one of them. I have been more than once intoxicated, my passions have always bordered on extravagance: I am not ashamed to confess it; for I have learned, by my own experience, that all extraordinary men, who have accomplished great and astonishing actions, have ever been decried by the world as drunken or insane. And in private life, too, is it not intolerable that no one can undertake the execution of a noble or generous deed, without giving rise to the exclamation that the doer is intoxicated or mad? Shame upon you, ye sages!\"",
+    "is_header": false,
+    "word_count": 148,
+    "sentence_count": 5,
+    "translation": [
+      {
+        "id": 1,
+        "en": "\"Oh, you people of sound understanding,\" I replied, smiling, \"are always ready to cry 'Extravagance, and madness, and drunkenness!'\"",
+        "kr": "\"아, 온전한 분별을 지닌 분들께서는\" 하고 나는 웃으며 답했네. \"언제든 '지나치다, 미쳤다, 취했다' 하고 외칠 준비가 되어 있으시군요.\""
+      },
+      {
+        "id": 2,
+        "en": "\"You moral men are so calm and so subdued.\"",
+        "kr": "\"도덕가들은 어찌 그리 차분하고 점잖으신지.\""
+      },
+      {
+        "id": 3,
+        "en": "\"You abhor the drunkard and detest the extravagant; you pass by like the Levite, and thank God like the Pharisee that you are not one of them.\"",
+        "kr": "\"술꾼을 역겨워하고 방탕한 자를 미워하며, 레위 사람처럼 지나쳐 가고, 바리새 사람처럼 나는 저런 자가 아니라고 하느님께 감사드리지요.\""
+      },
+      {
+        "id": 4,
+        "en": "\"I have been drunk more than once; my passions have always bordered on extravagance, and I am not ashamed to confess it.\"",
+        "kr": "\"나는 한두 번 취해 본 것이 아니고, 내 정념은 언제나 지나침에 닿아 있었으며, 그것을 고백하기가 부끄럽지 않습니다.\""
+      },
+      {
+        "id": 5,
+        "en": "\"For I have learned from my own experience that all extraordinary men, who have achieved great and astonishing things, have always been decried by the world as drunk or insane.\"",
+        "kr": "\"내가 겪어 보아 아는 것은, 위대하고 놀라운 일을 이룬 비범한 사람들은 언제나 세상에서 취했다느니 미쳤다느니 하는 소리를 들었다는 것입니다.\""
+      },
+      {
+        "id": 6,
+        "en": "\"And in private life too, is it not intolerable that no one can set about a noble or generous deed without someone exclaiming that the doer is drunk or mad?\"",
+        "kr": "\"그리고 사사로운 삶에서도, 누가 고결하거나 너그러운 일을 하려 들면 반드시 누군가 나서서 저 사람 취했다 미쳤다 하고 떠드니, 이것이 견딜 만한 일입니까?\""
+      },
+      {
+        "id": 7,
+        "en": "\"Shame on you, you wise men!\"",
+        "kr": "\"부끄러운 줄 아십시오, 현명하신 분들!\""
+      }
+    ]
+  },
+  {
+    "id": 145,
+    "tag": "P0145",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 12.",
+    "raw": "\"This is another of your extravagant humours,\" said Albert: \"you always exaggerate a case, and in this matter you are undoubtedly wrong; for we were speaking of suicide, which you compare with great actions, when it is impossible to regard it as anything but a weakness. It is much easier to die than to bear a life of misery with fortitude.\"",
+    "is_header": false,
+    "word_count": 61,
+    "sentence_count": 2,
+    "translation": [
+      {
+        "id": 1,
+        "en": "\"This is another of your extravagant moods,\" said Albert. \"You always overstate a case, and in this matter you are certainly wrong.\"",
+        "kr": "\"또 그 지나친 성미가 나오는군요.\" 알베르트가 말했네. \"당신은 늘 일을 부풀리는데, 이 문제에서는 분명 틀렸습니다.\""
+      },
+      {
+        "id": 2,
+        "en": "\"We were speaking of suicide, which you compare to great actions, when it is impossible to see it as anything but a weakness.\"",
+        "kr": "\"우리가 이야기한 것은 자살입니다. 당신은 그것을 위대한 행동에 견주지만, 그것은 나약함으로밖에는 볼 수 없는 일이지요.\""
+      },
+      {
+        "id": 3,
+        "en": "\"It is far easier to die than to bear a life of misery with fortitude.\"",
+        "kr": "\"비참한 삶을 꿋꿋이 견디는 것보다 죽는 편이 훨씬 쉬우니까요.\""
+      }
+    ]
+  },
+  {
+    "id": 146,
+    "tag": "P0146",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 12.",
+    "raw": "I was on the point of breaking off the conversation, for nothing puts me so completely out of patience as the utterance of a wretched commonplace when I am talking from my inmost heart. However, I composed myself, for I had often heard the same observation with sufficient vexation; and I answered him, therefore, with a little warmth, \"You call this a weakness—beware of being led astray by appearances. When a nation, which has long groaned under the intolerable yoke of a tyrant, rises at last and throws off its chains, do you call that weakness? The man who, to rescue his house from the flames, finds his physical strength redoubled, so that he lifts burdens with ease, which, in the absence of excitement, he could scarcely move; he who, under the rage of an insult, attacks and puts to flight half a score of his enemies, are such persons to be called weak? My good friend, if resistance be strength, how can the highest degree of resistance be a weakness?\"",
+    "is_header": false,
+    "word_count": 171,
+    "sentence_count": 5,
+    "translation": [
+      {
+        "id": 1,
+        "en": "I was on the point of breaking off the conversation, for nothing puts me out of patience so completely as a wretched commonplace uttered while I am speaking from my inmost heart.",
+        "kr": "나는 이야기를 그만두려던 참이었네. 내가 가슴속 깊은 데서 말하고 있는데 상대가 한심한 상투어를 내뱉는 것만큼 내 인내를 바닥내는 일은 없거든."
+      },
+      {
+        "id": 2,
+        "en": "However, I composed myself, having heard the same observation often enough and with sufficient vexation.",
+        "kr": "그러나 마음을 가라앉혔네. 같은 말을 여러 번, 그때마다 지긋지긋하게 들어 온 터였으니."
+      },
+      {
+        "id": 3,
+        "en": "So I answered him with a little warmth: \"You call this a weakness — beware of being led astray by appearances.\"",
+        "kr": "그래서 좀 열을 내어 답했네. \"이것을 나약함이라 하시는군요. 겉모습에 속지 않도록 조심하십시오.\""
+      },
+      {
+        "id": 4,
+        "en": "\"When a nation that has long groaned under the intolerable yoke of a tyrant rises at last and throws off its chains, do you call that weakness?\"",
+        "kr": "\"폭군의 견딜 수 없는 멍에 아래 오래 신음하던 민족이 마침내 일어나 사슬을 끊어 낼 때, 그것을 나약함이라 하시겠습니까?\""
+      },
+      {
+        "id": 5,
+        "en": "\"The man who, to save his house from the flames, finds his strength doubled, so that he lifts with ease burdens he could hardly stir when calm;\"",
+        "kr": "\"불길에서 제 집을 구하려고 힘이 곱절이 되어, 평소라면 꿈쩍도 못 할 짐을 거뜬히 들어 올리는 사람;\""
+      },
+      {
+        "id": 6,
+        "en": "\"the man who, stung by an insult, attacks and puts to flight half a dozen enemies — are such people to be called weak?\"",
+        "kr": "\"모욕에 찔려 적 여섯쯤을 덤벼들어 쫓아 버리는 사람 — 그런 이들을 나약하다 하시겠습니까?\""
+      },
+      {
+        "id": 7,
+        "en": "\"My good friend, if resistance is strength, how can the highest degree of resistance be a weakness?\"",
+        "kr": "\"친구여, 버티는 것이 힘이라면, 가장 극한까지 버티는 것이 어떻게 나약함이 될 수 있습니까?\""
+      }
+    ]
+  },
+  {
+    "id": 147,
+    "tag": "P0147",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 12.",
+    "raw": "Albert looked steadfastly at me, and said, \"Pray forgive me, but I do not see that the examples you have adduced bear any relation to the question.\" \"Very likely,\" I answered; \"for I have often been told that my style of illustration borders a little on the absurd. But let us see if we cannot place the matter in another point of view, by inquiring what can be a man's state of mind who resolves to free himself from the burden of life,—a burden often so pleasant to bear,—for we cannot otherwise reason fairly upon the subject.",
+    "is_header": false,
+    "word_count": 97,
+    "sentence_count": 3,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Albert looked steadily at me and said, \"Pray forgive me, but I do not see that the examples you have brought bear any relation to the question.\"",
+        "kr": "알베르트는 나를 물끄러미 바라보다가 말했네. \"실례지만, 드신 예들이 지금 이야기와 무슨 관계가 있는지 모르겠습니다.\""
+      },
+      {
+        "id": 2,
+        "en": "\"Very likely,\" I answered. \"I have often been told that my way of illustrating a point borders a little on the absurd.\"",
+        "kr": "\"그럴 만도 합니다.\" 내가 답했네. \"내 비유하는 방식이 좀 터무니없다는 말은 여러 번 들었으니까요.\""
+      },
+      {
+        "id": 3,
+        "en": "\"But let us see whether we cannot put the matter in another light, by asking what must be the state of mind of a man who resolves to free himself from the burden of life — a burden so often pleasant to bear.\"",
+        "kr": "\"그러면 이 문제를 다른 쪽에서 보기로 하지요. 삶의 짐을 — 흔히는 지고 가기에 즐겁기도 한 그 짐을 — 벗어 버리기로 마음먹은 사람의 심정이 어떤 것일지 물어보는 겁니다.\""
+      },
+      {
+        "id": 4,
+        "en": "\"We cannot reason fairly on the subject otherwise.\"",
+        "kr": "\"그러지 않고서는 이 문제를 공정하게 따질 수 없습니다.\""
+      }
+    ]
+  },
+  {
+    "id": 148,
+    "tag": "P0148",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 12.",
+    "raw": "\"Human nature,\" I continued, \"has its limits. It is able to endure a certain degree of joy, sorrow, and pain, but becomes annihilated as soon as this measure is exceeded. The question, therefore, is, not whether a man is strong or weak, but whether he is able to endure the measure of his sufferings. The suffering may be moral or physical; and in my opinion it is just as absurd to call a man a coward who destroys himself, as to call a man a coward who dies of a malignant fever.\"",
+    "is_header": false,
+    "word_count": 92,
+    "sentence_count": 4,
+    "translation": [
+      {
+        "id": 1,
+        "en": "\"Human nature,\" I went on, \"has its limits.\"",
+        "kr": "\"사람의 본성에는\" 하고 내가 말을 이었네. \"한계가 있습니다.\""
+      },
+      {
+        "id": 2,
+        "en": "\"It can endure a certain degree of joy, of sorrow, of pain, but it is annihilated as soon as that measure is exceeded.\"",
+        "kr": "\"어느 정도까지는 기쁨도 슬픔도 고통도 견뎌 내지만, 그 한도를 넘어서는 순간 무너져 버립니다.\""
+      },
+      {
+        "id": 3,
+        "en": "\"The question, then, is not whether a man is strong or weak, but whether he can endure the measure of his suffering.\"",
+        "kr": "\"그러니 문제는 그 사람이 강하냐 약하냐가 아니라, 제게 주어진 고통의 양을 견딜 수 있느냐입니다.\""
+      },
+      {
+        "id": 4,
+        "en": "\"The suffering may be moral or physical; and in my opinion it is just as absurd to call a man a coward for destroying himself as to call a man a coward for dying of a malignant fever.\"",
+        "kr": "\"그 고통은 마음의 것일 수도 몸의 것일 수도 있습니다. 그리고 내 생각에는, 스스로 목숨을 끊은 사람을 겁쟁이라 부르는 것은 악성 열병으로 죽은 사람을 겁쟁이라 부르는 것만큼이나 터무니없습니다.\""
+      }
+    ]
+  },
+  {
+    "id": 149,
+    "tag": "P0149",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 12.",
+    "raw": "\"Paradox, all paradox!\" exclaimed Albert. \"Not so paradoxical as you imagine,\" I replied. \"You allow that we designate a disease as mortal when nature is so severely attacked, and her strength so far exhausted, that she cannot possibly recover her former condition under any change that may take place.",
+    "is_header": false,
+    "word_count": 49,
+    "sentence_count": 3,
+    "translation": [
+      {
+        "id": 1,
+        "en": "\"Paradox, all paradox!\" exclaimed Albert.",
+        "kr": "\"궤변입니다, 다 궤변이에요!\" 알베르트가 외쳤네."
+      },
+      {
+        "id": 2,
+        "en": "\"Not so paradoxical as you imagine,\" I replied.",
+        "kr": "\"생각하시는 것만큼 궤변은 아닙니다.\" 내가 답했네."
+      },
+      {
+        "id": 3,
+        "en": "\"You allow that we call a disease mortal when nature is so severely attacked, and her strength so far exhausted, that she cannot possibly recover her former condition by any turn of events.\"",
+        "kr": "\"우리가 병을 죽을병이라 부를 때가 있지요. 자연이 너무 심하게 상하고 그 힘이 너무 다하여, 어떤 변화가 와도 도저히 본래대로 돌아갈 수 없을 때 말입니다. 그 점은 인정하시겠지요.\""
+      }
+    ]
+  },
+  {
+    "id": 150,
+    "tag": "P0150",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 12.",
+    "raw": "\"Now, my good friend, apply this to the mind; observe a man in his natural, isolated condition; consider how ideas work, and how impressions fasten on him, till at length a violent passion seizes him, destroying all his powers of calm reflection, and utterly ruining him.",
+    "is_header": false,
+    "word_count": 46,
+    "sentence_count": 1,
+    "translation": [
+      {
+        "id": 1,
+        "en": "\"Now, my good friend, apply that to the mind.\"",
+        "kr": "\"자, 친구여, 그것을 마음에 그대로 대어 보십시오.\""
+      },
+      {
+        "id": 2,
+        "en": "\"Observe a man in his natural, isolated condition; consider how ideas work on him and how impressions fasten on him, until at last a violent passion seizes him, destroys all his power of calm reflection, and utterly ruins him.\"",
+        "kr": "\"한 사람이 홀로 제 본성대로 있는 것을 보십시오. 온갖 생각이 그를 어떻게 갉아먹고 인상들이 어떻게 그에게 달라붙는지, 그러다 마침내 격렬한 정념이 그를 덮쳐 차분히 생각하는 힘을 다 부수고 그를 아주 망가뜨리는지를 헤아려 보십시오.\""
+      }
+    ]
+  },
+  {
+    "id": 151,
+    "tag": "P0151",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 12.",
+    "raw": "\"It is in vain that a man of sound mind and cool temper understands the condition of such a wretched being, in vain he counsels him. He can no more communicate his own wisdom to him than a healthy man can instil his strength into the invalid, by whose bedside he is seated.\"",
+    "is_header": false,
+    "word_count": 53,
+    "sentence_count": 2,
+    "translation": [
+      {
+        "id": 1,
+        "en": "\"It is in vain that a man of sound mind and cool temper understands the condition of such a wretched creature; in vain that he counsels him.\"",
+        "kr": "\"정신이 온전하고 성미가 차분한 사람이 그 가엾은 이의 처지를 이해한들 헛일이고, 충고를 한들 헛일입니다.\""
+      },
+      {
+        "id": 2,
+        "en": "\"He can no more communicate his own wisdom to him than a healthy man can pour his strength into the invalid at whose bedside he sits.\"",
+        "kr": "\"건강한 사람이 머리맡에 앉아 제 힘을 병자에게 부어 넣을 수 없듯이, 제 지혜를 그에게 옮겨 줄 수도 없습니다.\""
+      }
+    ]
+  },
+  {
+    "id": 152,
+    "tag": "P0152",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 12.",
+    "raw": "Albert thought this too general. I reminded him of a girl who had drowned herself a short time previously, and I related her history.",
+    "is_header": false,
+    "word_count": 24,
+    "sentence_count": 2,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Albert thought this too general.",
+        "kr": "알베르트는 그 말이 너무 두루뭉술하다고 했네."
+      },
+      {
+        "id": 2,
+        "en": "I reminded him of a girl who had drowned herself a short while before, and told him her story.",
+        "kr": "그래서 나는 얼마 전에 물에 빠져 죽은 처녀 이야기를 꺼내어 들려주었네."
+      }
+    ]
+  },
+  {
+    "id": 153,
+    "tag": "P0153",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 12.",
+    "raw": "She was a good creature, who had grown up in the narrow sphere of household industry and weekly appointed labour; one who knew no pleasure beyond indulging in a walk on Sundays, arrayed in her best attire, accompanied by her friends, or perhaps joining in the dance now and then at some festival, and chatting away her spare hours with a neighbour, discussing the scandal or the quarrels of the village, trifles sufficient to occupy her heart. At length the warmth of her nature is influenced by certain new and unknown wishes. Inflamed by the flatteries of men, her former pleasures become by degrees insipid, till at length she meets with a youth to whom she is attracted by an indescribable feeling; upon him she now rests all her hopes; she forgets the world around her; she sees, hears, desires nothing but him, and him only. He alone occupies all her thoughts. Uncorrupted by the idle indulgence of an enervating vanity, her affection moving steadily toward its object, she hopes to become his, and to realise, in an everlasting union with him, all that happiness which she sought, all that bliss for which she longed. His repeated promises confirm her hopes: embraces and endearments, which increase the ardour of her desires, overmaster her soul. She floats in a dim, delusive anticipation of her happiness; and her feelings become excited to their utmost tension. She stretches out her arms finally to embrace the object of all her wishes and her lover forsakes her. Stunned and bewildered, she stands upon a precipice. All is darkness around her. No prospect, no hope, no consolation—forsaken by him in whom her existence was centred! She sees nothing of the wide world before her, thinks nothing of the many individuals who might supply the void in her heart; she feels herself deserted, forsaken by the world; and, blinded and impelled by the agony which wrings her soul, she plunges into the deep, to end her sufferings in the broad embrace of death. See here, Albert, the history of thousands; and tell me, is not this a case of physical infirmity? Nature has no way to escape from the labyrinth: her powers are exhausted: she can contend no longer, and the poor soul must die.",
+    "is_header": false,
+    "word_count": 378,
+    "sentence_count": 14,
+    "translation": [
+      {
+        "id": 1,
+        "en": "She was a good creature who had grown up in the narrow round of household work and the labour appointed for each week.",
+        "kr": "그 여자는 좋은 사람이었네. 집안일과 주마다 정해진 노동이라는 좁은 테두리 안에서 자라난 사람이었지."
+      },
+      {
+        "id": 2,
+        "en": "She knew no pleasure beyond a walk on Sundays in her best clothes with her friends, or joining the dance now and then at some festival, or chatting away her spare hours with a neighbour over the scandal or the quarrels of the village — trifles enough to fill her heart.",
+        "kr": "즐거움이라야 일요일에 나들이옷을 입고 동무들과 거니는 것, 이따금 잔치에서 춤에 끼는 것, 틈나는 시간에 이웃과 마을의 험담이나 다툼을 두고 수다 떠는 것 — 그 마음을 채우기에는 그런 사소한 것들로 충분했네."
+      },
+      {
+        "id": 3,
+        "en": "Then the warmth of her nature is stirred by certain new and unknown wishes.",
+        "kr": "그러다 그 천성의 온기가 낯설고 새로운 바람에 흔들리게 되네."
+      },
+      {
+        "id": 4,
+        "en": "Inflamed by the flatteries of men, her old pleasures grow insipid by degrees, until at last she meets a young man to whom an indescribable feeling draws her.",
+        "kr": "사내들의 아첨에 달아올라 옛 즐거움은 차츰 싱거워지고, 마침내 말로 다 할 수 없는 감정이 그를 끄는 한 젊은이를 만나네."
+      },
+      {
+        "id": 5,
+        "en": "On him she now rests all her hopes; she forgets the world around her; she sees, hears, desires nothing but him, and him only.",
+        "kr": "이제 그 사람에게 모든 희망을 걸고, 둘레의 세상을 잊고, 오직 그만 보고 그만 듣고 그만 바라네."
+      },
+      {
+        "id": 6,
+        "en": "He alone fills all her thoughts.",
+        "kr": "그 사람 하나가 온 생각을 채우네."
+      },
+      {
+        "id": 7,
+        "en": "Uncorrupted by the idle indulgence of a weakening vanity, her affection moving steadily toward its object, she hopes to become his, and to find in an everlasting union with him all the happiness she has sought and all the bliss she has longed for.",
+        "kr": "사람을 무르게 하는 허영의 헛된 놀음에 물들지 않은 채, 그 애정은 한결같이 한 사람을 향해 나아가네. 그 사람의 것이 되어, 영원히 하나로 맺어지는 데서 찾아 헤매던 온 행복과 그리던 온 지복을 얻으리라 바라면서."
+      },
+      {
+        "id": 8,
+        "en": "His repeated promises confirm her hopes; his embraces and endearments, which feed the ardour of her desires, overmaster her soul.",
+        "kr": "거듭되는 약속이 그 희망을 굳혀 주고, 갈망을 부추기는 포옹과 애무가 그 영혼을 사로잡네."
+      },
+      {
+        "id": 9,
+        "en": "She floats in a dim, deluding foretaste of her happiness, and her feelings are strained to their utmost.",
+        "kr": "그 여자는 행복의 어렴풋하고 속이는 예감 속에 떠 있고, 감정은 팽팽할 대로 팽팽해지네."
+      },
+      {
+        "id": 10,
+        "en": "At last she stretches out her arms to embrace the object of all her wishes — and her lover forsakes her.",
+        "kr": "마침내 온 소원의 대상을 끌어안으려 두 팔을 뻗는데 — 그 연인이 그를 버리네."
+      },
+      {
+        "id": 11,
+        "en": "Stunned and bewildered, she stands on a precipice.",
+        "kr": "얼이 빠지고 넋이 나간 채, 그 여자는 벼랑 끝에 서 있네."
+      },
+      {
+        "id": 12,
+        "en": "All is darkness around her.",
+        "kr": "둘레는 온통 어둠일세."
+      },
+      {
+        "id": 13,
+        "en": "No prospect, no hope, no consolation — forsaken by the one man in whom her whole existence was centred.",
+        "kr": "앞날도 없고 희망도 없고 위로도 없네 — 제 온 존재가 걸려 있던 그 한 사람에게 버림받았으니."
+      },
+      {
+        "id": 14,
+        "en": "She sees nothing of the wide world before her, thinks nothing of the many others who might fill the void in her heart; she feels herself deserted, forsaken by everyone.",
+        "kr": "눈앞에 펼쳐진 넓은 세상도 보이지 않고, 그 빈자리를 채워 줄 수 있는 숱한 사람들도 떠오르지 않네. 다만 모두에게 버림받고 홀로 남았다고 느낄 뿐일세."
+      },
+      {
+        "id": 15,
+        "en": "And blinded and driven by the agony that wrings her soul, she plunges into the water to end her suffering in the broad embrace of death.",
+        "kr": "그리고 영혼을 쥐어짜는 고통에 눈이 멀고 내몰려, 죽음의 너른 품에서 고통을 끝내려 물속으로 몸을 던지네."
+      },
+      {
+        "id": 16,
+        "en": "See here, Albert, the history of thousands; and tell me, is this not a case of physical infirmity?",
+        "kr": "보십시오, 알베르트. 이것이 수천 명의 이야기입니다. 그리고 말해 보십시오, 이것이 몸의 병이 아니고 무엇입니까?"
+      },
+      {
+        "id": 17,
+        "en": "Nature has no way out of the labyrinth: her powers are exhausted, she can struggle no longer, and the poor soul must die.",
+        "kr": "자연에는 그 미로에서 빠져나올 길이 없습니다. 그 힘은 다했고, 더는 버틸 수 없으며, 가엾은 영혼은 죽을 수밖에 없습니다."
+      }
+    ]
+  },
+  {
+    "id": 154,
+    "tag": "P0154",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 12.",
+    "raw": "\"Shame upon him who can look on calmly, and exclaim, 'The foolish girl! she should have waited; she should have allowed time to wear off the impression; her despair would have been softened, and she would have found another lover to comfort her.' One might as well say, 'The fool, to die of a fever! why did he not wait till his strength was restored, till his blood became calm? all would then have gone well, and he would have been alive now.'\"",
+    "is_header": false,
+    "word_count": 83,
+    "sentence_count": 1,
+    "translation": [
+      {
+        "id": 1,
+        "en": "\"Shame on the man who can look on calmly and exclaim, 'The foolish girl! She should have waited; she should have let time wear off the impression; her despair would have softened, and she would have found another lover to comfort her.'\"",
+        "kr": "\"태연히 보고 앉아 이렇게 외치는 자는 부끄러운 줄 알아야 합니다. '어리석은 계집! 기다렸어야지. 시간이 그 인상을 지워 주게 두었어야지. 그러면 절망도 누그러지고, 위로해 줄 다른 연인도 만났을 텐데.'\""
+      },
+      {
+        "id": 2,
+        "en": "\"One might as well say, 'The fool, to die of a fever! Why did he not wait until his strength came back and his blood grew calm? All would have gone well, and he would be alive now.'\"",
+        "kr": "\"그런 말은 이런 말이나 마찬가지입니다. '바보 같으니, 열병으로 죽다니! 기운이 돌아오고 피가 가라앉을 때까지 왜 기다리지 않았담? 그랬으면 다 잘되어 지금쯤 살아 있을 것을.'\""
+      }
+    ]
+  },
+  {
+    "id": 155,
+    "tag": "P0155",
+    "chapter_id": "ch_06",
+    "section": "Book I",
+    "letter": "AUGUST 12.",
+    "raw": "Albert, who could not see the justice of the comparison, offered some further objections, and, amongst others, urged that I had taken the case of a mere ignorant girl. But how any man of sense, of more enlarged views and experience, could be excused, he was unable to comprehend. \"My friend!\" I exclaimed, \"man is but man; and, whatever be the extent of his reasoning powers, they are of little avail when passion rages within, and he feels himself confined by the narrow limits of nature. It were better, then—but we will talk of this some other time,\" I said, and caught up my hat. Alas! my heart was full; and we parted without conviction on either side. How rarely in this world do men understand each other!",
+    "is_header": false,
+    "word_count": 128,
+    "sentence_count": 7,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Albert, who could not see the justice of the comparison, made some further objections, and among others urged that I had taken the case of a mere ignorant girl.",
+        "kr": "알베르트는 그 비유가 온당하다고 보지 않아 몇 가지 더 반박했는데, 그중에는 내가 무지한 처녀의 경우를 들었다는 지적도 있었네."
+      },
+      {
+        "id": 2,
+        "en": "How any man of sense, with wider views and more experience, could be excused, he was unable to understand.",
+        "kr": "분별 있는 사람, 더 넓은 견문과 더 많은 경험을 지닌 사람이라면 어떻게 용납될 수 있겠느냐는 것이었지."
+      },
+      {
+        "id": 3,
+        "en": "\"My friend!\" I exclaimed.",
+        "kr": "\"친구여!\" 하고 나는 외쳤네."
+      },
+      {
+        "id": 4,
+        "en": "\"Man is only man; and whatever the extent of his reasoning powers, they are of little use when passion rages within him and he feels himself hemmed in by the narrow limits of nature.\"",
+        "kr": "\"사람은 사람일 뿐입니다. 그 이성의 힘이 아무리 크다 한들, 안에서 정념이 날뛰고 제가 본성의 좁은 울타리에 갇혀 있다고 느낄 때는 아무 소용이 없습니다.\""
+      },
+      {
+        "id": 5,
+        "en": "\"It would be better, then — but we will talk of this another time,\" I said, and caught up my hat.",
+        "kr": "\"차라리 — 아니, 이 이야기는 다음에 하지요.\" 내가 이렇게 말하고 모자를 집어 들었네."
+      },
+      {
+        "id": 6,
+        "en": "Alas, my heart was full; and we parted without convincing each other.",
+        "kr": "아, 내 가슴은 벅찼네. 그리고 우리는 서로를 설득하지 못한 채 헤어졌네."
+      },
+      {
+        "id": 7,
+        "en": "How rarely in this world do people understand one another!",
+        "kr": "이 세상에서 사람이 서로를 이해하는 일이 얼마나 드문지!"
+      }
+    ]
+  }
+]

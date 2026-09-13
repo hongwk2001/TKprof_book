@@ -1,0 +1,1271 @@
+[
+  {
+    "id": 288,
+    "tag": "P0288",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "NOVEMBER 3.",
+    "raw": "NOVEMBER 3.",
+    "is_header": true,
+    "word_count": 2,
+    "sentence_count": 1,
+    "translation": [
+      {
+        "id": 1,
+        "en": "November 3",
+        "kr": "11월 3일"
+      }
+    ]
+  },
+  {
+    "id": 289,
+    "tag": "P0289",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "NOVEMBER 3.",
+    "raw": "Witness, Heaven, how often I lie down in my bed with a wish, and even a hope, that I may never awaken again. And in the morning, when I open my eyes, I behold the sun once more, and am wretched. If I were whimsical, I might blame the weather, or an acquaintance, or some personal disappointment, for my discontented mind; and then this insupportable load of trouble would not rest entirely upon myself. But, alas! I feel it too sadly. I am alone the cause of my own woe, am I not? Truly, my own bosom contains the source of all my sorrow, as it previously contained the source of all my pleasure. Am I not the same being who once enjoyed an excess of happiness, who, at every step, saw paradise open before him, and whose heart was ever expanded toward the whole world? And this heart is now dead, no sentiment can revive it; my eyes are dry; and my senses, no more refreshed by the influence of soft tears, wither and consume my brain. I suffer much, for I have lost the only charm of life: that active, sacred power which created worlds around me,—it is no more. When I look from my window at the distant hills, and behold the morning sun breaking through the mists, and illuminating the country around, which is still wrapped in silence, whilst the soft stream winds gently through the willows, which have shed their leaves; when glorious nature displays all her beauties before me, and her wondrous prospects are ineffectual to extract one tear of joy from my withered heart, I feel that in such a moment I stand like a reprobate before heaven, hardened, insensible, and unmoved. Oftentimes do I then bend my knee to the earth, and implore God for the blessing of tears, as the desponding labourer in some scorching climate prays for the dews of heaven to moisten his parched corn.",
+    "is_header": false,
+    "word_count": 326,
+    "sentence_count": 12,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Witness, Heaven, how often I lie down in my bed with a wish, and even a hope, that I may never wake again.",
+        "kr": "하늘이여, 증인이 되어 주소서. 다시는 깨어나지 않기를 바라며, 아니 바라기까지 하며 잠자리에 드는 밤이 얼마나 많은지."
+      },
+      {
+        "id": 2,
+        "en": "And in the morning, when I open my eyes, I see the sun once more, and I am wretched.",
+        "kr": "그러다 아침에 눈을 뜨면 또 해가 보이고, 나는 비참해지네."
+      },
+      {
+        "id": 3,
+        "en": "If I were whimsical, I might blame the weather, or an acquaintance, or some personal disappointment for my discontent; and then this unbearable load of trouble would not rest entirely on me.",
+        "kr": "내가 변덕스러운 사람이라면 날씨 탓이나 아는 사람 탓, 또는 어떤 개인적인 실망 탓으로 이 불만을 돌릴 수 있을 걸세. 그러면 이 견딜 수 없는 짐이 온전히 내게만 얹히지는 않겠지."
+      },
+      {
+        "id": 4,
+        "en": "But alas, I feel it too sadly.",
+        "kr": "그러나 아, 나는 너무나 서글프게 느끼고 있네."
+      },
+      {
+        "id": 5,
+        "en": "I alone am the cause of my own misery, am I not?",
+        "kr": "내 비참함의 원인은 오직 나 자신이 아닌가?"
+      },
+      {
+        "id": 6,
+        "en": "Truly, my own breast holds the source of all my sorrow, as it once held the source of all my pleasure.",
+        "kr": "참으로 내 슬픔의 샘은 내 가슴속에 있네. 한때 내 온갖 기쁨의 샘이 거기 있었듯이."
+      },
+      {
+        "id": 7,
+        "en": "Am I not the same creature who once enjoyed an excess of happiness, who at every step saw paradise open before him, and whose heart went out to the whole world?",
+        "kr": "한때 넘치는 행복을 누리고, 걸음마다 눈앞에 낙원이 열리는 것을 보았으며, 온 세상을 향해 마음을 활짝 열었던 그 사람이 바로 나 아닌가?"
+      },
+      {
+        "id": 8,
+        "en": "And that heart is dead now; no feeling can revive it.",
+        "kr": "그런데 그 마음은 이제 죽었고, 어떤 감정도 그것을 되살리지 못하네."
+      },
+      {
+        "id": 9,
+        "en": "My eyes are dry; and my senses, no longer refreshed by soft tears, wither and burn up my brain.",
+        "kr": "내 눈은 말랐고, 부드러운 눈물에 더는 씻기지 못하는 내 감각은 시들어 내 머리를 태우네."
+      },
+      {
+        "id": 10,
+        "en": "I suffer greatly, for I have lost the one charm of life: that active, sacred power which created worlds around me is gone.",
+        "kr": "나는 몹시 괴롭네. 삶의 유일한 매력을 잃었으니. 내 둘레에 세계를 지어내던 그 살아 있는 거룩한 힘이 사라져 버렸네."
+      },
+      {
+        "id": 11,
+        "en": "When I look from my window at the distant hills and see the morning sun breaking through the mist and lighting up the country, still wrapped in silence, while the soft stream winds gently through the willows that have shed their leaves;",
+        "kr": "창밖 먼 언덕을 바라보며, 아침 해가 안개를 뚫고 나와 아직 고요에 잠긴 들판을 밝히고, 잎을 다 떨군 버드나무 사이로 부드러운 시내가 가만히 굽이도는 것을 볼 때면,"
+      },
+      {
+        "id": 12,
+        "en": "when glorious nature spreads all her beauties before me, and her wondrous prospects cannot draw one tear of joy from my withered heart, I feel that I stand at such a moment like a reprobate before heaven — hardened, insensible, unmoved.",
+        "kr": "저 눈부신 자연이 온갖 아름다움을 내 앞에 펼쳐 놓아도 그 놀라운 경치가 메마른 내 가슴에서 기쁨의 눈물 한 방울 끌어내지 못할 때면, 나는 그 순간 하늘 앞에 선 버림받은 자처럼 서 있음을 느끼네 — 굳어지고 무디어지고 꿈쩍도 하지 않은 채."
+      },
+      {
+        "id": 13,
+        "en": "Often then I bend my knee to the earth and beg God for the blessing of tears, as a despairing labourer in some scorching country prays for the dews of heaven to wet his parched corn.",
+        "kr": "그럴 때면 나는 자주 땅에 무릎을 꿇고 하느님께 눈물의 은총을 구하네. 뙤약볕 아래 절망한 농부가 메마른 곡식을 적실 하늘의 이슬을 비는 것처럼."
+      }
+    ]
+  },
+  {
+    "id": 290,
+    "tag": "P0290",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "NOVEMBER 3.",
+    "raw": "But I feel that God does not grant sunshine or rain to our importunate entreaties. And oh, those bygone days, whose memory now torments me! why were they so fortunate? Because I then waited with patience for the blessings of the Eternal, and received his gifts with the grateful feelings of a thankful heart.",
+    "is_header": false,
+    "word_count": 54,
+    "sentence_count": 3,
+    "translation": [
+      {
+        "id": 1,
+        "en": "But I feel that God does not grant sunshine or rain to our importunate entreaties.",
+        "kr": "그러나 나는 아네. 하느님은 우리가 아무리 졸라도 볕이나 비를 내려 주시지 않는다는 것을."
+      },
+      {
+        "id": 2,
+        "en": "And oh, those days gone by, whose memory now torments me — why were they so happy?",
+        "kr": "아, 이제는 그 기억이 나를 괴롭히는 지난날들 — 어찌하여 그때는 그토록 행복했던가?"
+      },
+      {
+        "id": 3,
+        "en": "Because I waited then with patience for the blessings of the Eternal, and received his gifts with the gratitude of a thankful heart.",
+        "kr": "그때 나는 참을성 있게 영원하신 분의 복을 기다렸고, 그분이 주시는 것을 감사하는 마음으로 받았기 때문일세."
+      }
+    ]
+  },
+  {
+    "id": 291,
+    "tag": "P0291",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "NOVEMBER 8.",
+    "raw": "NOVEMBER 8.",
+    "is_header": true,
+    "word_count": 2,
+    "sentence_count": 1,
+    "translation": [
+      {
+        "id": 1,
+        "en": "November 8",
+        "kr": "11월 8일"
+      }
+    ]
+  },
+  {
+    "id": 292,
+    "tag": "P0292",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "NOVEMBER 8.",
+    "raw": "Charlotte has reproved me for my excesses, with so much tenderness and goodness! I have lately been in the habit of drinking more wine than heretofore. \"Don't do it,\" she said. \"Think of Charlotte!\" \"Think of you!\" I answered; \"need you bid me do so? Think of you—I do not think of you: you are ever before my soul! This very morning I sat on the spot where, a few days ago, you descended from the carriage, and—\" She immediately changed the subject to prevent me from pursuing it farther. My dear friend, my energies are all prostrated: she can do with me what she pleases.",
+    "is_header": false,
+    "word_count": 106,
+    "sentence_count": 9,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Charlotte has rebuked me for my excesses, and with such tenderness and goodness!",
+        "kr": "샤를로테가 내 지나침을 나무랐네. 그것도 그토록 다정하고 그토록 착하게!"
+      },
+      {
+        "id": 2,
+        "en": "I have lately been drinking more wine than I used to.",
+        "kr": "요즘 나는 전보다 술을 더 많이 마시고 있네."
+      },
+      {
+        "id": 3,
+        "en": "\"Don't do it,\" she said.",
+        "kr": "\"그러지 마세요.\" 그 사람이 말했네."
+      },
+      {
+        "id": 4,
+        "en": "\"Think of Charlotte!\"",
+        "kr": "\"샤를로테를 생각해 주세요!\""
+      },
+      {
+        "id": 5,
+        "en": "\"Think of you!\" I answered. \"Need you tell me to do that?\"",
+        "kr": "\"당신을 생각하라고요!\" 나는 답했네. \"그런 말씀을 굳이 하셔야 합니까?\""
+      },
+      {
+        "id": 6,
+        "en": "\"Think of you — I do not think of you: you are always before my soul.\"",
+        "kr": "\"당신을 생각하라니요 — 나는 당신을 생각하는 것이 아닙니다. 당신은 언제나 내 영혼 앞에 계십니다.\""
+      },
+      {
+        "id": 7,
+        "en": "\"This very morning I sat on the spot where, a few days ago, you stepped down from the carriage, and —\"",
+        "kr": "\"바로 오늘 아침에도 며칠 전 당신이 마차에서 내리시던 그 자리에 앉아 있었고, 그리고 —\""
+      },
+      {
+        "id": 8,
+        "en": "She changed the subject at once, to stop me going any further.",
+        "kr": "그 사람은 내가 더 나아가지 못하도록 곧바로 말머리를 돌렸네."
+      },
+      {
+        "id": 9,
+        "en": "My dear friend, my energies are all laid low: she can do with me whatever she pleases.",
+        "kr": "친구여, 내 기운은 다 꺾였네. 그 사람은 나를 마음대로 할 수 있네."
+      }
+    ]
+  },
+  {
+    "id": 293,
+    "tag": "P0293",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "NOVEMBER 15.",
+    "raw": "NOVEMBER 15.",
+    "is_header": true,
+    "word_count": 2,
+    "sentence_count": 1,
+    "translation": [
+      {
+        "id": 1,
+        "en": "November 15",
+        "kr": "11월 15일"
+      }
+    ]
+  },
+  {
+    "id": 294,
+    "tag": "P0294",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "NOVEMBER 15.",
+    "raw": "I thank you, Wilhelm, for your cordial sympathy, for your excellent advice; and I implore you to be quiet. Leave me to my sufferings. In spite of my wretchedness, I have still strength enough for endurance. I revere religion—you know I do. I feel that it can impart strength to the feeble and comfort to the afflicted, but does it affect all men equally? Consider this vast universe: you will see thousands for whom it has never existed, thousands for whom it will never exist, whether it be preached to them, or not; and must it, then, necessarily exist for me? Does not the Son of God himself say that they are his whom the Father has given to him? Have I been given to him? What if the Father will retain me for himself, as my heart sometimes suggests? I pray you, do not misinterpret this. Do not extract derision from my harmless words. I pour out my whole soul before you. Silence were otherwise preferable to me, but I need not shrink from a subject of which few know more than I do myself. What is the destiny of man, but to fill up the measure of his sufferings, and to drink his allotted cup of bitterness? And if that same cup proved bitter to the God of heaven, under a human form, why should I affect a foolish pride, and call it sweet? Why should I be ashamed of shrinking at that fearful moment, when my whole being will tremble between existence and annihilation, when a remembrance of the past, like a flash of lightning, will illuminate the dark gulf of futurity, when everything shall dissolve around me, and the whole world vanish away? Is not this the voice of a creature oppressed beyond all resource, self-deficient, about to plunge into inevitable destruction, and groaning deeply at its inadequate strength, \"My God! my God! why hast thou forsaken me?\" And should I feel ashamed to utter the same expression? Should I not shudder at a prospect which had its fears, even for him who folds up the heavens like a garment?",
+    "is_header": false,
+    "word_count": 354,
+    "sentence_count": 19,
+    "translation": [
+      {
+        "id": 1,
+        "en": "I thank you, Wilhelm, for your warm sympathy and your excellent advice; and I beg you to be quiet.",
+        "kr": "빌헬름, 자네의 따뜻한 위로와 훌륭한 충고에 고맙네. 그리고 부디 잠자코 있어 주게."
+      },
+      {
+        "id": 2,
+        "en": "Leave me to my sufferings.",
+        "kr": "나를 내 괴로움에 맡겨 두게."
+      },
+      {
+        "id": 3,
+        "en": "In spite of my wretchedness, I still have strength enough to endure.",
+        "kr": "비참한 가운데서도 나는 아직 견딜 힘이 있네."
+      },
+      {
+        "id": 4,
+        "en": "I revere religion — you know I do.",
+        "kr": "나는 신앙을 우러르네 — 자네도 알지 않는가."
+      },
+      {
+        "id": 5,
+        "en": "I feel that it can give strength to the feeble and comfort to the afflicted; but does it affect all men equally?",
+        "kr": "그것이 약한 자에게 힘을 주고 괴로운 자에게 위로를 준다는 것을 나는 느끼네. 그러나 그것이 모든 사람에게 똑같이 작용하는가?"
+      },
+      {
+        "id": 6,
+        "en": "Consider this vast universe: you will see thousands for whom it has never existed, thousands for whom it never will, whether it is preached to them or not.",
+        "kr": "이 광대한 우주를 생각해 보게. 신앙이 한 번도 있어 본 적 없는 수천의 사람, 설교를 듣든 말든 앞으로도 없을 수천의 사람이 보일 걸세."
+      },
+      {
+        "id": 7,
+        "en": "And must it then necessarily exist for me?",
+        "kr": "그렇다면 그것이 내게는 반드시 있어야만 하는가?"
+      },
+      {
+        "id": 8,
+        "en": "Does not the Son of God himself say that those are his whom the Father has given him?",
+        "kr": "하느님의 아드님께서도, 아버지께서 자기에게 주신 자들이 자기 사람이라고 하지 않으셨는가?"
+      },
+      {
+        "id": 9,
+        "en": "What if I have not been given to him?",
+        "kr": "내가 그분께 주어지지 않았다면?"
+      },
+      {
+        "id": 10,
+        "en": "What if the Father means to keep me for himself, as my heart sometimes suggests?",
+        "kr": "내 마음이 이따금 속삭이듯, 아버지께서 나를 당신 곁에 두려 하신다면?"
+      },
+      {
+        "id": 11,
+        "en": "I beg you, do not misread this.",
+        "kr": "부디 이 말을 곡해하지 말아 주게."
+      },
+      {
+        "id": 12,
+        "en": "Do not draw derision out of my harmless words.",
+        "kr": "해롭지 않은 내 말에서 비웃을 거리를 끌어내지 말아 주게."
+      },
+      {
+        "id": 13,
+        "en": "I am pouring out my whole soul before you.",
+        "kr": "나는 자네 앞에 내 온 영혼을 쏟아 놓고 있네."
+      },
+      {
+        "id": 14,
+        "en": "Silence would otherwise be better for me; but I need not shrink from a subject that few know more about than I do myself.",
+        "kr": "그러지 않으려면 잠자코 있는 편이 나았겠지. 그러나 나보다 더 잘 아는 사람이 거의 없는 문제 앞에서 내가 움츠러들 까닭은 없네."
+      },
+      {
+        "id": 15,
+        "en": "What is the destiny of man but to fill up the measure of his sufferings and drink his allotted cup of bitterness?",
+        "kr": "사람의 운명이란 제게 주어진 괴로움의 잔을 가득 채우고 그 쓴 잔을 마시는 것 말고 무엇이겠는가?"
+      },
+      {
+        "id": 16,
+        "en": "And if that same cup was bitter to the God of heaven in human form, why should I put on a foolish pride and call it sweet?",
+        "kr": "그리고 사람의 몸을 입으신 하늘의 하느님께도 그 잔이 썼다면, 어찌하여 내가 어리석은 자존심을 부리며 그것이 달다고 해야 하는가?"
+      },
+      {
+        "id": 17,
+        "en": "Why should I be ashamed of shrinking at that fearful moment, when my whole being will tremble between existence and annihilation;",
+        "kr": "내 온 존재가 있음과 없음 사이에서 떨게 될 그 무서운 순간에 내가 움츠러든들, 어찌하여 부끄러워해야 하는가."
+      },
+      {
+        "id": 18,
+        "en": "when the memory of the past, like a flash of lightning, will light up the dark gulf of what is to come; when everything dissolves around me and the whole world vanishes away?",
+        "kr": "지난날의 기억이 번갯불처럼 앞으로 올 것의 어두운 심연을 밝히고, 둘레의 모든 것이 녹아내리며 온 세상이 사라져 버릴 그 순간에."
+      },
+      {
+        "id": 19,
+        "en": "Is this not the voice of a creature pressed beyond all resource, failing in itself, about to plunge into inevitable destruction, and groaning deeply at its own inadequate strength: \"My God, my God, why hast thou forsaken me?\"",
+        "kr": "이것은 더는 어찌할 도리 없이 내몰리고 제 안에서 무너져, 피할 수 없는 파멸로 곤두박질치면서 제 힘이 모자람을 깊이 신음하는 존재의 목소리가 아니겠는가. \"나의 하느님, 나의 하느님, 어찌하여 나를 버리셨나이까?\""
+      },
+      {
+        "id": 20,
+        "en": "And should I be ashamed to use the same words?",
+        "kr": "그런데 내가 같은 말을 쓰는 것이 부끄러워야 하는가?"
+      },
+      {
+        "id": 21,
+        "en": "Should I not shudder at a prospect that held its fears even for him who folds up the heavens like a garment?",
+        "kr": "하늘을 옷자락처럼 거두시는 그분에게조차 두려움이었던 그 앞날 앞에서, 내가 몸서리치지 말아야 하는가?"
+      }
+    ]
+  },
+  {
+    "id": 295,
+    "tag": "P0295",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "NOVEMBER 21.",
+    "raw": "NOVEMBER 21.",
+    "is_header": true,
+    "word_count": 2,
+    "sentence_count": 1,
+    "translation": [
+      {
+        "id": 1,
+        "en": "November 21",
+        "kr": "11월 21일"
+      }
+    ]
+  },
+  {
+    "id": 296,
+    "tag": "P0296",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "NOVEMBER 21.",
+    "raw": "She does not feel, she does not know, that she is preparing a poison which will destroy us both; and I drink deeply of the draught which is to prove my destruction. What mean those looks of kindness with which she often—often? no, not often, but sometimes, regards me, that complacency with which she hears the involuntary sentiments which frequently escape me, and the tender pity for my sufferings which appears in her countenance?",
+    "is_header": false,
+    "word_count": 74,
+    "sentence_count": 2,
+    "translation": [
+      {
+        "id": 1,
+        "en": "She does not feel, she does not know, that she is preparing a poison which will destroy us both; and I drink deep of the draught that is to be my destruction.",
+        "kr": "그 사람은 느끼지 못하고 알지 못하네. 우리 둘을 다 죽일 독을 제 손으로 빚고 있다는 것을. 그리고 나는 내 파멸이 될 그 잔을 깊이 들이켜고 있네."
+      },
+      {
+        "id": 2,
+        "en": "What is the meaning of those kind looks she so often — often? no, not often, but sometimes — turns on me?",
+        "kr": "그토록 자주 — 자주라고? 아니, 자주는 아니고 이따금 — 내게 던지는 그 다정한 눈길은 무슨 뜻인가?"
+      },
+      {
+        "id": 3,
+        "en": "Or of the complacency with which she hears the involuntary feelings that so often escape me, and the tender pity for my suffering that shows in her face?",
+        "kr": "그토록 자주 새어 나오는 내 걷잡을 수 없는 마음을 들어 주는 그 너그러움, 그 얼굴에 떠오르는 내 괴로움에 대한 애틋한 연민은 또 무슨 뜻인가?"
+      }
+    ]
+  },
+  {
+    "id": 297,
+    "tag": "P0297",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "NOVEMBER 21.",
+    "raw": "Yesterday, when I took leave she seized me by the hand, and said, \"Adieu, dear Werther.\" Dear Werther! It was the first time she ever called me dear: the sound sunk deep into my heart. I have repeated it a hundred times; and last night, on going to bed, and talking to myself of various things, I suddenly said, \"Good night, dear Werther!\" and then could not but laugh at myself.",
+    "is_header": false,
+    "word_count": 71,
+    "sentence_count": 4,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Yesterday, when I took my leave, she seized me by the hand and said, \"Adieu, dear Werther.\"",
+        "kr": "어제 작별을 고할 때 그 사람이 내 손을 잡고 말했네. \"안녕히 가세요, 베르테르 씨.\""
+      },
+      {
+        "id": 2,
+        "en": "Dear Werther!",
+        "kr": "정다운 베르테르라니!"
+      },
+      {
+        "id": 3,
+        "en": "It was the first time she ever called me dear, and the sound sank deep into my heart.",
+        "kr": "그 사람이 나를 그렇게 부른 것은 처음이었고, 그 말소리가 내 가슴 깊이 내려앉았네."
+      },
+      {
+        "id": 4,
+        "en": "I have repeated it a hundred times; and last night, going to bed and talking to myself about this and that, I suddenly said, \"Good night, dear Werther!\" — and then could not help laughing at myself.",
+        "kr": "나는 그 말을 백 번도 더 되뇌었네. 그리고 어젯밤 잠자리에 들며 이런저런 혼잣말을 하다가 문득 이렇게 말하고는, 스스로 웃지 않을 수 없었네. \"잘 자게, 정다운 베르테르!\""
+      }
+    ]
+  },
+  {
+    "id": 298,
+    "tag": "P0298",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "NOVEMBER 22",
+    "raw": "NOVEMBER 22",
+    "is_header": true,
+    "word_count": 2,
+    "sentence_count": 1,
+    "translation": [
+      {
+        "id": 1,
+        "en": "November 22",
+        "kr": "11월 22일"
+      }
+    ]
+  },
+  {
+    "id": 299,
+    "tag": "P0299",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "NOVEMBER 22",
+    "raw": "I cannot pray, \"Leave her to me!\" and yet she often seems to belong to me. I cannot pray, \"Give her to me!\" for she is another's. In this way I affect mirth over my troubles; and, if I had time, I could compose a whole litany of antitheses.",
+    "is_header": false,
+    "word_count": 49,
+    "sentence_count": 3,
+    "translation": [
+      {
+        "id": 1,
+        "en": "I cannot pray, \"Leave her to me!\" — and yet she often seems to belong to me.",
+        "kr": "\"그 사람을 내게 주소서!\" 하고 기도할 수는 없네 — 그런데도 그 사람은 자주 내 사람인 듯 보이네."
+      },
+      {
+        "id": 2,
+        "en": "I cannot pray, \"Give her to me!\" — for she is another man's.",
+        "kr": "\"그 사람을 제게 넘기소서!\" 하고 기도할 수도 없네 — 그 사람은 남의 것이니."
+      },
+      {
+        "id": 3,
+        "en": "In this way I make a joke of my troubles; and if I had the time, I could compose a whole litany of such antitheses.",
+        "kr": "이렇게 나는 내 괴로움을 농담거리로 만드네. 시간만 있으면 이런 대구로 연도 한 편을 지을 수도 있을 걸세."
+      }
+    ]
+  },
+  {
+    "id": 300,
+    "tag": "P0300",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "NOVEMBER 24.",
+    "raw": "NOVEMBER 24.",
+    "is_header": true,
+    "word_count": 2,
+    "sentence_count": 1,
+    "translation": [
+      {
+        "id": 1,
+        "en": "November 24",
+        "kr": "11월 24일"
+      }
+    ]
+  },
+  {
+    "id": 301,
+    "tag": "P0301",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "NOVEMBER 24.",
+    "raw": "She is sensible of my sufferings. This morning her look pierced my very soul. I found her alone, and she was silent: she steadfastly surveyed me. I no longer saw in her face the charms of beauty or the fire of genius: these had disappeared. But I was affected by an expression much more touching, a look of the deepest sympathy and of the softest pity. Why was I afraid to throw myself at her feet? Why did I not dare to take her in my arms, and answer her by a thousand kisses? She had recourse to her piano for relief, and in a low and sweet voice accompanied the music with delicious sounds. Her lips never appeared so lovely: they seemed but just to open, that they might imbibe the sweet tones which issued from the instrument, and return the heavenly vibration from her lovely mouth. Oh! who can express my sensations? I was quite overcome, and, bending down, pronounced this vow: \"Beautiful lips, which the angels guard, never will I seek to profane your purity with a kiss.\" And yet, my friend, oh, I wish—but my heart is darkened by doubt and indecision—could I but taste felicity, and then die to expiate the sin! What sin?",
+    "is_header": false,
+    "word_count": 209,
+    "sentence_count": 13,
+    "translation": [
+      {
+        "id": 1,
+        "en": "She is aware of my sufferings.",
+        "kr": "그 사람은 내 괴로움을 알고 있네."
+      },
+      {
+        "id": 2,
+        "en": "This morning her look pierced my very soul.",
+        "kr": "오늘 아침 그 눈길이 내 영혼을 꿰뚫었네."
+      },
+      {
+        "id": 3,
+        "en": "I found her alone, and she was silent; she looked at me steadily.",
+        "kr": "혼자 있는 것을 보았는데 아무 말이 없었네. 그저 나를 가만히 바라보았네."
+      },
+      {
+        "id": 4,
+        "en": "I no longer saw in her face the charms of beauty or the fire of genius: those had gone.",
+        "kr": "그 얼굴에서 아름다움의 매력도 천재의 불꽃도 더는 보이지 않았네. 그런 것은 사라지고 없었네."
+      },
+      {
+        "id": 5,
+        "en": "But I was struck by an expression far more touching — a look of the deepest sympathy and the softest pity.",
+        "kr": "그러나 훨씬 더 사무치는 표정이 나를 쳤네 — 더없이 깊은 공감과 더없이 부드러운 연민의 눈빛이었네."
+      },
+      {
+        "id": 6,
+        "en": "Why was I afraid to throw myself at her feet?",
+        "kr": "어찌하여 나는 그 발치에 몸을 던지기를 두려워했던가?"
+      },
+      {
+        "id": 7,
+        "en": "Why did I not dare take her in my arms and answer her with a thousand kisses?",
+        "kr": "어찌하여 그 사람을 품에 안고 천 번의 입맞춤으로 답하지 못했던가?"
+      },
+      {
+        "id": 8,
+        "en": "She turned to her piano for relief, and in a low, sweet voice accompanied the music with delicious sounds.",
+        "kr": "그 사람은 마음을 달래려 피아노 앞에 앉아, 낮고 고운 목소리로 가락에 맞추어 그윽한 소리를 얹었네."
+      },
+      {
+        "id": 9,
+        "en": "Her lips never looked so lovely: they seemed just to open, so as to drink in the sweet tones coming from the instrument and send the heavenly vibration back from her lovely mouth.",
+        "kr": "그 입술이 그토록 사랑스러워 보인 적이 없었네. 악기에서 흘러나오는 달콤한 음을 들이마셨다가 그 고운 입으로 하늘 같은 떨림을 되돌려 보내려고, 이제 막 열린 듯한 입술이었네."
+      },
+      {
+        "id": 10,
+        "en": "Oh, who can express what I felt?",
+        "kr": "아, 내가 무엇을 느꼈는지 누가 말로 옮길 수 있겠나?"
+      },
+      {
+        "id": 11,
+        "en": "I was quite overcome, and bending down I made this vow: \"Beautiful lips, which the angels guard, never will I try to profane your purity with a kiss.\"",
+        "kr": "나는 아주 압도되어 몸을 숙이고 이렇게 맹세했네. \"천사들이 지키는 아름다운 입술이여, 나는 결코 입맞춤으로 그 순결을 더럽히려 하지 않겠노라.\""
+      },
+      {
+        "id": 12,
+        "en": "And yet, my friend — oh, I wish — but my heart is darkened with doubt and indecision — if I could only taste that happiness, and then die to atone for the sin!",
+        "kr": "그런데도 친구여 — 아, 나는 바라네 — 그러나 내 마음은 의심과 망설임으로 어두워지네 — 그 행복을 한 번만 맛볼 수 있다면, 그러고 나서 그 죄를 갚아 죽을 수만 있다면!"
+      },
+      {
+        "id": 13,
+        "en": "What sin?",
+        "kr": "무슨 죄 말인가?"
+      }
+    ]
+  },
+  {
+    "id": 302,
+    "tag": "P0302",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "NOVEMBER 26.",
+    "raw": "NOVEMBER 26.",
+    "is_header": true,
+    "word_count": 2,
+    "sentence_count": 1,
+    "translation": [
+      {
+        "id": 1,
+        "en": "November 26",
+        "kr": "11월 26일"
+      }
+    ]
+  },
+  {
+    "id": 303,
+    "tag": "P0303",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "NOVEMBER 26.",
+    "raw": "Oftentimes I say to myself, \"Thou alone art wretched: all other mortals are happy, none are distressed like thee!\" Then I read a passage in an ancient poet, and I seem to understand my own heart. I have so much to endure! Have men before me ever been so wretched?",
+    "is_header": false,
+    "word_count": 50,
+    "sentence_count": 4,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Often I say to myself: \"You alone are wretched; every other mortal is happy, and nobody is distressed as you are.\"",
+        "kr": "나는 자주 스스로에게 말하네. \"비참한 것은 너뿐이다. 다른 사람은 다 행복하고, 너처럼 괴로운 자는 없다.\""
+      },
+      {
+        "id": 2,
+        "en": "Then I read a passage in some ancient poet, and I seem to be reading my own heart.",
+        "kr": "그러다 어느 옛 시인의 한 대목을 읽으면, 내 마음을 그대로 읽고 있는 것만 같네."
+      },
+      {
+        "id": 3,
+        "en": "I have so much to endure!",
+        "kr": "나는 견뎌야 할 것이 너무나 많네!"
+      },
+      {
+        "id": 4,
+        "en": "Have men before me ever been so wretched?",
+        "kr": "나보다 앞선 사람들도 이토록 비참한 적이 있었던가?"
+      }
+    ]
+  },
+  {
+    "id": 304,
+    "tag": "P0304",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "NOVEMBER 30.",
+    "raw": "NOVEMBER 30.",
+    "is_header": true,
+    "word_count": 2,
+    "sentence_count": 1,
+    "translation": [
+      {
+        "id": 1,
+        "en": "November 30",
+        "kr": "11월 30일"
+      }
+    ]
+  },
+  {
+    "id": 305,
+    "tag": "P0305",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "NOVEMBER 30.",
+    "raw": "I shall never be myself again! Wherever I go, some fatality occurs to distract me. Even to-day alas—for our destiny! alas for human nature!",
+    "is_header": false,
+    "word_count": 24,
+    "sentence_count": 3,
+    "translation": [
+      {
+        "id": 1,
+        "en": "I shall never be myself again!",
+        "kr": "나는 다시는 예전의 내가 되지 못할 걸세!"
+      },
+      {
+        "id": 2,
+        "en": "Wherever I go, some fatality happens to distract me.",
+        "kr": "어디를 가나 무슨 일이 일어나 나를 흔들어 놓네."
+      },
+      {
+        "id": 3,
+        "en": "Even today — alas for our destiny, alas for human nature!",
+        "kr": "오늘도 그랬네 — 아, 우리 운명이여, 아, 사람의 본성이여!"
+      }
+    ]
+  },
+  {
+    "id": 306,
+    "tag": "P0306",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "NOVEMBER 30.",
+    "raw": "About dinner-time I went to walk by the river-side, for I had no appetite. Everything around seemed gloomy: a cold and damp easterly wind blew from the mountains, and black, heavy clouds spread over the plain. I observed at a distance a man in a tattered coat: he was wandering among the rocks, and seemed to be looking for plants. When I approached, he turned round at the noise; and I saw that he had an interesting countenance in which a settled melancholy, strongly marked by benevolence, formed the principal feature. His long black hair was divided, and flowed over his shoulders. As his garb betokened a person of the lower order, I thought he would not take it ill if I inquired about his business; and I therefore asked what he was seeking. He replied, with a deep sigh, that he was looking for flowers, and could find none. \"But it is not the season,\" I observed, with a smile. \"Oh, there are so many flowers!\" he answered, as he came nearer to me. \"In my garden there are roses and honeysuckles of two sorts: one sort was given to me by my father! they grow as plentifully as weeds; I have been looking for them these two days, and cannot find them. There are flowers out there, yellow, blue, and red; and that centaury has a very pretty blossom: but I can find none of them.\" I observed his peculiarity, and therefore asked him, with an air of indifference, what he intended to do with his flowers. A strange smile overspread his countenance. Holding his finger to his mouth, he expressed a hope that I would not betray him; and he then informed me that he had promised to gather a nosegay for his mistress. \"That is right,\" said I. \"Oh!\" he replied, \"she possesses many other things as well: she is very rich.\" \"And yet,\" I continued, \"she likes your nosegays.\" \"Oh, she has jewels and crowns!\" he exclaimed. I asked who she was. \"If the states-general would but pay me,\" he added, \"I should be quite another man. Alas! there was a time when I was so happy; but that is past, and I am now—\" He raised his swimming eyes to heaven. \"And you were happy once?\" I observed. \"Ah, would I were so still!\" was his reply. \"I was then as gay and contented as a man can be.\" An old woman, who was coming toward us, now called out, \"Henry, Henry! where are you? We have been looking for you everywhere: come to dinner.\" \"Is he your son?\" I inquired, as I went toward her. \"Yes,\" she said: \"he is my poor, unfortunate son. The Lord has sent me a heavy affliction.\" I asked whether he had been long in this state. She answered, \"He has been as calm as he is at present for about six months. I thank Heaven that he has so far recovered: he was for one whole year quite raving, and chained down in a madhouse. Now he injures no one, but talks of nothing else than kings and queens. He used to be a very good, quiet youth, and helped to maintain me; he wrote a very fine hand; but all at once he became melancholy, was seized with a violent fever, grew distracted, and is now as you see. If I were only to tell you, sir—\" I interrupted her by asking what period it was in which he boasted of having been so happy. \"Poor boy!\" she exclaimed, with a smile of compassion, \"he means the time when he was completely deranged, a time he never ceases to regret, when he was in the madhouse, and unconscious of everything.\" I was thunderstruck: I placed a piece of money in her hand, and hastened away.",
+    "is_header": false,
+    "word_count": 639,
+    "sentence_count": 39,
+    "translation": [
+      {
+        "id": 1,
+        "en": "About dinner time I went to walk by the riverside, having no appetite.",
+        "kr": "저녁때쯤 입맛이 없어 강가로 나가 걸었네."
+      },
+      {
+        "id": 2,
+        "en": "Everything around seemed gloomy; a cold, damp easterly wind blew from the mountains, and black, heavy clouds spread over the plain.",
+        "kr": "둘레가 온통 침침했네. 산에서 차고 축축한 동풍이 불어왔고, 검고 무거운 구름이 들판 위에 퍼져 있었네."
+      },
+      {
+        "id": 3,
+        "en": "At a distance I noticed a man in a tattered coat, wandering among the rocks and seeming to look for plants.",
+        "kr": "멀리 누더기 외투를 걸친 사내 하나가 바위 사이를 헤매며 풀을 찾는 듯한 것이 보였네."
+      },
+      {
+        "id": 4,
+        "en": "When I came nearer he turned round at the noise, and I saw he had an interesting face, whose chief feature was a settled melancholy strongly marked with benevolence.",
+        "kr": "가까이 가자 인기척에 돌아보았는데, 흥미로운 얼굴이었네. 가라앉은 우울에 선한 기색이 짙게 어린 것이 그 두드러진 인상이었지."
+      },
+      {
+        "id": 5,
+        "en": "His long black hair was parted and fell over his shoulders.",
+        "kr": "긴 검은 머리를 가르마 타서 어깨 위로 늘어뜨리고 있었네."
+      },
+      {
+        "id": 6,
+        "en": "As his clothes marked him as a man of the lower orders, I thought he would not take it badly if I asked about his business, and so I asked what he was looking for.",
+        "kr": "옷차림으로 보아 낮은 신분의 사람이었기에, 하는 일을 물어도 언짢아하지 않으리라 여겨 무엇을 찾느냐고 물었네."
+      },
+      {
+        "id": 7,
+        "en": "He answered with a deep sigh that he was looking for flowers, and could find none.",
+        "kr": "그는 깊이 한숨을 쉬며 꽃을 찾는데 하나도 보이지 않는다고 답했네."
+      },
+      {
+        "id": 8,
+        "en": "\"But it is not the season,\" I said, with a smile.",
+        "kr": "\"그러나 철이 아니지 않소.\" 나는 웃으며 말했네."
+      },
+      {
+        "id": 9,
+        "en": "\"Oh, there are so many flowers!\" he answered, coming closer to me.",
+        "kr": "\"아, 꽃은 얼마든지 있습니다!\" 그는 내게 다가오며 답했네."
+      },
+      {
+        "id": 10,
+        "en": "\"In my garden there are roses and honeysuckles of two kinds; one kind my father gave me. They grow as thick as weeds.\"",
+        "kr": "\"우리 뜰에는 장미도 있고 인동덩굴도 두 가지나 있습니다. 한 가지는 아버지가 주신 것이지요. 잡초처럼 빽빽하게 자란답니다.\""
+      },
+      {
+        "id": 11,
+        "en": "\"I have been looking for them these two days, and cannot find them.\"",
+        "kr": "\"이틀째 그것을 찾고 있는데 도무지 찾을 수가 없어요.\""
+      },
+      {
+        "id": 12,
+        "en": "\"There are flowers out there — yellow, blue, and red; and that centaury has a very pretty blossom. But I can find none of them.\"",
+        "kr": "\"저 바깥에도 꽃이 있습니다 — 노랑도 파랑도 빨강도요. 저 쓴풀도 꽃이 아주 예쁘지요. 그런데 하나도 찾을 수가 없군요.\""
+      },
+      {
+        "id": 13,
+        "en": "I noticed his oddity, and so asked him, with an air of indifference, what he meant to do with his flowers.",
+        "kr": "나는 그의 이상함을 알아차리고, 대수롭지 않은 척 그 꽃으로 무엇을 할 참이냐고 물었네."
+      },
+      {
+        "id": 14,
+        "en": "A strange smile spread over his face.",
+        "kr": "그의 얼굴에 묘한 웃음이 번졌네."
+      },
+      {
+        "id": 15,
+        "en": "Holding a finger to his mouth, he expressed a hope that I would not betray him, and then told me he had promised to gather a nosegay for his mistress.",
+        "kr": "그는 입에 손가락을 대며 나더러 발설하지 말아 달라는 뜻을 비치더니, 제 여주인에게 꽃다발을 꺾어 주기로 약속했다고 말했네."
+      },
+      {
+        "id": 16,
+        "en": "\"That is right,\" said I.",
+        "kr": "\"잘하는 일이오.\" 하고 내가 말했네."
+      },
+      {
+        "id": 17,
+        "en": "\"Oh,\" he replied, \"she has many other things besides: she is very rich.\"",
+        "kr": "\"아,\" 그가 답했네. \"그분은 그것 말고도 가진 것이 많습니다. 아주 부자시거든요.\""
+      },
+      {
+        "id": 18,
+        "en": "\"And yet,\" I went on, \"she likes your nosegays.\"",
+        "kr": "\"그런데도\" 하고 내가 말을 이었네. \"당신 꽃다발을 좋아하신단 말이오.\""
+      },
+      {
+        "id": 19,
+        "en": "\"Oh, she has jewels and crowns!\" he exclaimed.",
+        "kr": "\"아, 그분은 보석도 왕관도 가지셨습니다!\" 그가 외쳤네."
+      },
+      {
+        "id": 20,
+        "en": "I asked who she was.",
+        "kr": "나는 그분이 누구냐고 물었네."
+      },
+      {
+        "id": 21,
+        "en": "\"If the states-general would only pay me,\" he added, \"I should be quite another man.\"",
+        "kr": "\"의회가 내 봉급만 내준다면\" 하고 그가 덧붙였네. \"나도 아주 딴사람이 될 텐데요.\""
+      },
+      {
+        "id": 22,
+        "en": "\"Alas, there was a time when I was so happy; but that is past, and now I am —\"",
+        "kr": "\"아, 내가 그토록 행복하던 시절이 있었지요. 그러나 그것은 지나갔고, 이제 나는 —\""
+      },
+      {
+        "id": 23,
+        "en": "He raised his swimming eyes to heaven.",
+        "kr": "그는 눈물 어린 눈을 하늘로 들었네."
+      },
+      {
+        "id": 24,
+        "en": "\"And you were happy once?\" I said.",
+        "kr": "\"전에는 행복했단 말이오?\" 내가 물었네."
+      },
+      {
+        "id": 25,
+        "en": "\"Ah, would I were so still!\" was his answer.",
+        "kr": "\"아, 지금도 그러하면 좋으련만!\" 하는 것이 그의 대답이었네."
+      },
+      {
+        "id": 26,
+        "en": "\"I was as gay and contented then as a man can be.\"",
+        "kr": "\"그때는 사람이 누릴 수 있는 만큼 밝고 흡족했지요.\""
+      },
+      {
+        "id": 27,
+        "en": "An old woman coming toward us now called out, \"Henry, Henry! Where are you?\"",
+        "kr": "그때 이쪽으로 오던 노파 하나가 소리쳤네. \"하인리히, 하인리히! 어디 있니?\""
+      },
+      {
+        "id": 28,
+        "en": "\"We have been looking for you everywhere. Come to dinner.\"",
+        "kr": "\"온 데를 다 찾아다녔다. 밥 먹으러 오너라.\""
+      },
+      {
+        "id": 29,
+        "en": "\"Is he your son?\" I asked, going over to her.",
+        "kr": "\"아드님입니까?\" 나는 그쪽으로 가며 물었네."
+      },
+      {
+        "id": 30,
+        "en": "\"Yes,\" she said, \"he is my poor, unfortunate son.\"",
+        "kr": "\"그렇습니다.\" 노파가 말했네. \"내 가엾고 불행한 자식이지요.\""
+      },
+      {
+        "id": 31,
+        "en": "\"The Lord has sent me a heavy affliction.\"",
+        "kr": "\"주님께서 제게 무거운 짐을 지우셨습니다.\""
+      },
+      {
+        "id": 32,
+        "en": "I asked whether he had been long in this state.",
+        "kr": "나는 저 상태가 오래되었느냐고 물었네."
+      },
+      {
+        "id": 33,
+        "en": "She answered, \"He has been as calm as he is now for about six months.\"",
+        "kr": "노파가 답했네. \"여섯 달쯤은 지금처럼 얌전했습니다.\""
+      },
+      {
+        "id": 34,
+        "en": "\"I thank Heaven that he has come so far: he was raving for a whole year, and chained down in a madhouse.\"",
+        "kr": "\"이만큼이라도 된 것이 하늘의 은혜지요. 꼬박 한 해는 정신을 놓고 미친 집에 사슬로 묶여 있었으니까요.\""
+      },
+      {
+        "id": 35,
+        "en": "\"Now he harms nobody, but talks of nothing except kings and queens.\"",
+        "kr": "\"이제는 아무도 해치지 않고, 다만 왕이니 왕비니 하는 말만 합니다.\""
+      },
+      {
+        "id": 36,
+        "en": "\"He used to be a very good, quiet lad, and helped to keep me; he wrote a very fine hand.\"",
+        "kr": "\"전에는 아주 착하고 얌전한 아이였고 저를 먹여 살렸지요. 글씨도 아주 잘 썼답니다.\""
+      },
+      {
+        "id": 37,
+        "en": "\"But all at once he turned melancholy, was seized with a violent fever, went out of his mind, and is now as you see him.\"",
+        "kr": "\"그런데 어느 날 갑자기 울적해지더니 심한 열병을 앓고 정신이 나가, 지금 보시는 대로가 되었습니다.\""
+      },
+      {
+        "id": 38,
+        "en": "\"If I were only to tell you, sir —\"",
+        "kr": "\"제가 말씀을 다 드리자면요, 나리 —\""
+      },
+      {
+        "id": 39,
+        "en": "I interrupted her by asking what period it was that he boasted of having been so happy in.",
+        "kr": "나는 말을 가로막고, 저 사람이 그토록 행복했다고 자랑하는 때가 언제냐고 물었네."
+      },
+      {
+        "id": 40,
+        "en": "\"Poor boy!\" she cried, with a smile of compassion. \"He means the time when he was completely deranged — a time he never stops regretting, when he was in the madhouse and knew nothing of anything.\"",
+        "kr": "\"가엾은 것!\" 노파가 딱해하는 웃음을 지으며 외쳤네. \"아주 정신이 나가 있던 때를 말하는 겁니다 — 미친 집에 갇혀 아무것도 모르던 그 시절을 두고두고 그리워한답니다.\""
+      },
+      {
+        "id": 41,
+        "en": "I was thunderstruck. I put a piece of money into her hand and hurried away.",
+        "kr": "나는 벼락을 맞은 듯했네. 그 손에 돈을 쥐여 주고 서둘러 자리를 떴네."
+      }
+    ]
+  },
+  {
+    "id": 307,
+    "tag": "P0307",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "NOVEMBER 30.",
+    "raw": "\"You were happy!\" I exclaimed, as I returned quickly to the town, \"'as gay and contented as a man can be!'\" God of heaven! and is this the destiny of man? Is he only happy before he has acquired his reason, or after he has lost it? Unfortunate being! And yet I envy your fate: I envy the delusion to which you are a victim. You go forth with joy to gather flowers for your princess,—in winter,—and grieve when you can find none, and cannot understand why they do not grow. But I wander forth without joy, without hope, without design; and I return as I came. You fancy what a man you would be if the states general paid you. Happy mortal, who can ascribe your wretchedness to an earthly cause! You do not know, you do not feel, that in your own distracted heart and disordered brain dwells the source of that unhappiness which all the potentates on earth cannot relieve.",
+    "is_header": false,
+    "word_count": 163,
+    "sentence_count": 10,
+    "translation": [
+      {
+        "id": 1,
+        "en": "\"You were happy!\" I exclaimed, as I hurried back toward the town. \"As gay and contented as a man can be!\"",
+        "kr": "\"그때는 행복했다!\" 나는 마을로 서둘러 돌아오며 외쳤네. \"사람이 누릴 수 있는 만큼 밝고 흡족했다니!\""
+      },
+      {
+        "id": 2,
+        "en": "God of heaven! Is this the destiny of man?",
+        "kr": "하늘의 하느님이시여! 이것이 사람의 운명입니까?"
+      },
+      {
+        "id": 3,
+        "en": "Is he only happy before he comes to his reason, or after he has lost it?",
+        "kr": "사람은 제정신이 들기 전이거나 그것을 잃은 뒤에만 행복한 것입니까?"
+      },
+      {
+        "id": 4,
+        "en": "Unfortunate creature!",
+        "kr": "가엾은 사람이여!"
+      },
+      {
+        "id": 5,
+        "en": "And yet I envy your fate; I envy the delusion you are the victim of.",
+        "kr": "그런데도 나는 그대의 운명이 부럽네. 그대가 사로잡힌 그 미망이 부럽네."
+      },
+      {
+        "id": 6,
+        "en": "You go out with joy to gather flowers for your princess — in winter — and grieve when you can find none, and cannot understand why they do not grow.",
+        "kr": "그대는 기쁘게 나가 그대의 공주에게 줄 꽃을 꺾고 — 그것도 한겨울에 — 찾지 못하면 슬퍼하면서도, 어째서 꽃이 자라지 않는지는 알지 못하네."
+      },
+      {
+        "id": 7,
+        "en": "But I go out without joy, without hope, without design; and I come back as I went.",
+        "kr": "그러나 나는 기쁨도 희망도 목적도 없이 나갔다가, 나간 그대로 돌아오네."
+      },
+      {
+        "id": 8,
+        "en": "You imagine what a man you would be if the states-general paid you.",
+        "kr": "그대는 의회가 봉급만 내준다면 어떤 사람이 될지를 그려 보네."
+      },
+      {
+        "id": 9,
+        "en": "Happy mortal, who can put his wretchedness down to an earthly cause!",
+        "kr": "제 비참함을 이 땅의 원인 탓으로 돌릴 수 있는 그대는 행복한 사람일세!"
+      },
+      {
+        "id": 10,
+        "en": "You do not know, you do not feel, that in your own distracted heart and disordered brain lies the source of a misery that all the potentates on earth could not relieve.",
+        "kr": "그대는 알지 못하고 느끼지 못하네. 이 땅의 온 권세로도 달래 줄 수 없는 그 비참함의 샘이, 그대 자신의 어지러운 가슴과 헝클어진 머릿속에 있다는 것을."
+      }
+    ]
+  },
+  {
+    "id": 308,
+    "tag": "P0308",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "NOVEMBER 30.",
+    "raw": "Let that man die unconsoled who can deride the invalid for undertaking a journey to distant, healthful springs, where he often finds only a heavier disease and a more painful death, or who can exult over the despairing mind of a sinner, who, to obtain peace of conscience and an alleviation of misery, makes a pilgrimage to the Holy Sepulchre. Each laborious step which galls his wounded feet in rough and untrodden paths pours a drop of balm into his troubled soul, and the journey of many a weary day brings a nightly relief to his anguished heart. Will you dare call this enthusiasm, ye crowd of pompous declaimers? Enthusiasm! O God! thou seest my tears. Thou hast allotted us our portion of misery: must we also have brethren to persecute us, to deprive us of our consolation, of our trust in thee, and in thy love and mercy? For our trust in the virtue of the healing root, or in the strength of the vine, what is it else than a belief in thee from whom all that surrounds us derives its healing and restoring powers? Father, whom I know not,—who wert once wont to fill my soul, but who now hidest thy face from me,—call me back to thee; be silent no longer; thy silence shall not delay a soul which thirsts after thee. What man, what father, could be angry with a son for returning to him suddenly, for falling on his neck, and exclaiming, \"I am here again, my father! forgive me if I have anticipated my journey, and returned before the appointed time! The world is everywhere the same,—a scene of labour and pain, of pleasure and reward; but what does it all avail? I am happy only where thou art, and in thy presence am I content to suffer or enjoy.\" And wouldst thou, heavenly Father, banish such a child from thy presence?",
+    "is_header": false,
+    "word_count": 319,
+    "sentence_count": 12,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Let that man die unconsoled who can mock an invalid for making a journey to distant healing springs, where he often finds only a heavier disease and a more painful death.",
+        "kr": "먼 약수터로 길을 떠나는 병자를 비웃는 자는 위로받지 못한 채 죽을지어다. 그 병자가 거기서 더 무거운 병과 더 괴로운 죽음만을 얻게 되더라도 말일세."
+      },
+      {
+        "id": 2,
+        "en": "Or who can gloat over the despairing mind of a sinner who, to win peace of conscience and some easing of his misery, makes a pilgrimage to the Holy Sepulchre.",
+        "kr": "또한 양심의 평안과 괴로움의 덜어짐을 얻으려 성묘로 순례를 떠나는 죄인의 절망한 마음을 고소해하는 자도 마찬가지일세."
+      },
+      {
+        "id": 3,
+        "en": "Every laborious step that galls his wounded feet on rough and untrodden paths pours a drop of balm into his troubled soul, and each weary day's journey brings his anguished heart a night's relief.",
+        "kr": "거칠고 다져지지 않은 길에서 상한 발을 쓸리게 하는 고된 한 걸음 한 걸음이 그 괴로운 영혼에 향유 한 방울을 부어 주고, 지친 하루하루의 여정이 그 애타는 가슴에 하룻밤의 안식을 가져다주네."
+      },
+      {
+        "id": 4,
+        "en": "Will you dare to call this enthusiasm, you crowd of pompous declaimers?",
+        "kr": "그대들은 감히 이것을 광신이라 부르려는가, 거창하게 떠벌리는 무리여?"
+      },
+      {
+        "id": 5,
+        "en": "Enthusiasm!",
+        "kr": "광신이라니!"
+      },
+      {
+        "id": 6,
+        "en": "O God, you see my tears.",
+        "kr": "아, 하느님, 당신은 제 눈물을 보십니다."
+      },
+      {
+        "id": 7,
+        "en": "You have allotted us our portion of misery: must we have brothers to persecute us as well, to rob us of our consolation, of our trust in you and in your love and mercy?",
+        "kr": "당신은 우리에게 비참함의 몫을 정해 주셨습니다. 그런데 우리를 박해하고, 우리의 위로와 당신과 당신의 사랑과 자비에 대한 믿음마저 빼앗아 갈 형제들까지 있어야 합니까?"
+      },
+      {
+        "id": 8,
+        "en": "For our trust in the virtue of the healing root, or in the strength of the vine — what is it but a belief in you, from whom everything around us draws its healing and restoring power?",
+        "kr": "치유하는 뿌리의 효험을 믿고 포도의 힘을 믿는 것이, 우리 둘레의 모든 것이 치유하고 회복시키는 힘을 길어 오는 당신을 믿는 것 말고 무엇이겠습니까?"
+      },
+      {
+        "id": 9,
+        "en": "Father, whom I do not know, who once used to fill my soul but now hide your face from me — call me back to you; be silent no longer.",
+        "kr": "제가 알지 못하는 아버지, 한때 제 영혼을 채우셨으나 이제는 얼굴을 감추시는 아버지여 — 저를 당신께로 부르소서. 더는 잠잠히 계시지 마소서."
+      },
+      {
+        "id": 10,
+        "en": "Your silence will not hold back a soul that thirsts after you.",
+        "kr": "당신의 침묵이 당신을 목말라하는 영혼을 붙들어 둘 수는 없습니다."
+      },
+      {
+        "id": 11,
+        "en": "What man, what father, could be angry with a son for coming back to him suddenly, for falling on his neck and crying, \"I am here again, my father! Forgive me if I have cut short my journey and come home before the appointed time!\"",
+        "kr": "어느 사람이, 어느 아버지가 갑자기 돌아와 제 목에 매달려 이렇게 외치는 아들에게 노하겠습니까. \"아버지, 제가 돌아왔습니다! 길을 줄여 정한 때보다 일찍 돌아온 것을 용서해 주십시오!\""
+      },
+      {
+        "id": 12,
+        "en": "\"The world is everywhere the same — a scene of labour and pain, of pleasure and reward; but what does all of it come to?\"",
+        "kr": "\"세상은 어디나 똑같습니다 — 수고와 고통, 즐거움과 보상의 무대일 뿐이지요. 그러나 그 모든 것이 무슨 소용입니까?\""
+      },
+      {
+        "id": 13,
+        "en": "\"I am happy only where you are, and in your presence I am content to suffer or enjoy.\"",
+        "kr": "\"저는 오직 당신이 계신 곳에서만 행복하며, 당신 앞에서라면 괴로움도 즐거움도 달게 받겠습니다.\""
+      },
+      {
+        "id": 14,
+        "en": "And would you, heavenly Father, drive such a child from your presence?",
+        "kr": "그런데 하늘에 계신 아버지여, 당신께서 그런 자식을 당신 앞에서 내치시겠습니까?"
+      }
+    ]
+  },
+  {
+    "id": 309,
+    "tag": "P0309",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "DECEMBER 1.",
+    "raw": "DECEMBER 1.",
+    "is_header": true,
+    "word_count": 2,
+    "sentence_count": 1,
+    "translation": [
+      {
+        "id": 1,
+        "en": "December 1",
+        "kr": "12월 1일"
+      }
+    ]
+  },
+  {
+    "id": 310,
+    "tag": "P0310",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "DECEMBER 1.",
+    "raw": "Wilhelm, the man about whom I wrote to you—that man so enviable in his misfortunes—was secretary to Charlotte's father; and an unhappy passion for her which he cherished, concealed, and at length discovered, caused him to be dismissed from his situation. This made him mad. Think, whilst you peruse this plain narration, what an impression the circumstance has made upon me! But it was related to me by Albert with as much calmness as you will probably peruse it.",
+    "is_header": false,
+    "word_count": 79,
+    "sentence_count": 4,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Wilhelm, the man I wrote to you about — the man so enviable in his misfortunes — was secretary to Charlotte's father.",
+        "kr": "빌헬름, 내가 자네에게 써 보낸 그 사람 — 그 불행 속에서 오히려 부러운 그 사람 — 은 샤를로테 아버지의 서기였다네."
+      },
+      {
+        "id": 2,
+        "en": "An unhappy passion for her, which he nursed and hid and at last let show, was what got him dismissed from his post.",
+        "kr": "그 사람을 향한 불행한 연정을 품고 감추다가 마침내 드러내고 만 것이, 그가 자리에서 쫓겨난 까닭이었네."
+      },
+      {
+        "id": 3,
+        "en": "That was what drove him mad.",
+        "kr": "그 일이 그를 미치게 했네."
+      },
+      {
+        "id": 4,
+        "en": "Think, as you read this plain account, what an impression the thing has made on me!",
+        "kr": "이 담담한 이야기를 읽으며, 그것이 내게 어떤 인상을 남겼을지 생각해 보게!"
+      },
+      {
+        "id": 5,
+        "en": "And it was told to me by Albert with as much calmness as you will probably read it with.",
+        "kr": "그리고 이 이야기를 내게 들려준 것은 알베르트였네. 아마 자네가 읽는 것만큼이나 담담하게 말일세."
+      }
+    ]
+  },
+  {
+    "id": 311,
+    "tag": "P0311",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "DECEMBER 4.",
+    "raw": "DECEMBER 4.",
+    "is_header": true,
+    "word_count": 2,
+    "sentence_count": 1,
+    "translation": [
+      {
+        "id": 1,
+        "en": "December 4",
+        "kr": "12월 4일"
+      }
+    ]
+  },
+  {
+    "id": 312,
+    "tag": "P0312",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "DECEMBER 4.",
+    "raw": "I implore your attention. It is all over with me. I can support this state no longer. To-day I was sitting by Charlotte. She was playing upon her piano a succession of delightful melodies, with such intense expression! Her little sister was dressing her doll upon my lap. The tears came into my eyes. I leaned down, and looked intently at her wedding-ring: my tears fell—immediately she began to play that favourite, that divine, air which has so often enchanted me. I felt comfort from a recollection of the past, of those bygone days when that air was familiar to me; and then I recalled all the sorrows and the disappointments which I had since endured. I paced with hasty strides through the room, my heart became convulsed with painful emotions. At length I went up to her, and exclaimed With eagerness, \"For Heaven's sake, play that air no longer!\" She stopped, and looked steadfastly at me. She then said, with a smile which sunk deep into my heart, \"Werther, you are ill: your dearest food is distasteful to you. But go, I entreat you, and endeavour to compose yourself.\" I tore myself away. God, thou seest my torments, and wilt end them!",
+    "is_header": false,
+    "word_count": 203,
+    "sentence_count": 16,
+    "translation": [
+      {
+        "id": 1,
+        "en": "I beg your attention.",
+        "kr": "부디 귀를 기울여 주게."
+      },
+      {
+        "id": 2,
+        "en": "It is all over with me.",
+        "kr": "나는 이제 끝났네."
+      },
+      {
+        "id": 3,
+        "en": "I cannot bear this state any longer.",
+        "kr": "이 상태를 더는 견딜 수 없네."
+      },
+      {
+        "id": 4,
+        "en": "Today I was sitting beside Charlotte.",
+        "kr": "오늘 샤를로테 곁에 앉아 있었네."
+      },
+      {
+        "id": 5,
+        "en": "She was playing a succession of delightful melodies on her piano, with such intense expression!",
+        "kr": "그 사람은 피아노로 아름다운 가락을 잇달아 치고 있었는데, 어찌나 깊은 감정을 담던지!"
+      },
+      {
+        "id": 6,
+        "en": "Her little sister was dressing her doll on my lap.",
+        "kr": "어린 동생은 내 무릎에서 인형에게 옷을 입히고 있었네."
+      },
+      {
+        "id": 7,
+        "en": "The tears came into my eyes.",
+        "kr": "내 눈에 눈물이 고였네."
+      },
+      {
+        "id": 8,
+        "en": "I leaned down and looked hard at her wedding ring; my tears fell — and at once she began to play that favourite, that divine air which has so often enchanted me.",
+        "kr": "몸을 숙여 그 결혼반지를 뚫어지게 바라보는데 눈물이 떨어졌네 — 그러자 그 사람은 곧바로 나를 그토록 자주 홀렸던 그 좋아하는 곡, 그 거룩한 가락을 치기 시작했네."
+      },
+      {
+        "id": 9,
+        "en": "I drew comfort from the memory of the past, of the days gone by when that air was familiar to me; and then I recalled all the sorrows and disappointments I have endured since.",
+        "kr": "그 곡이 낯익던 지난날의 기억에서 위안을 얻다가, 그 뒤로 내가 겪어 온 온갖 슬픔과 실망이 떠올랐네."
+      },
+      {
+        "id": 10,
+        "en": "I paced the room with hasty strides, my heart convulsed with painful feelings.",
+        "kr": "나는 성큼성큼 방 안을 오갔고, 내 가슴은 아픈 감정으로 뒤틀렸네."
+      },
+      {
+        "id": 11,
+        "en": "At length I went up to her and cried out eagerly, \"For Heaven's sake, play that air no longer!\"",
+        "kr": "마침내 나는 그 사람에게 다가가 다급하게 외쳤네. \"제발 부탁입니다, 그 곡은 더 치지 마십시오!\""
+      },
+      {
+        "id": 12,
+        "en": "She stopped and looked steadily at me.",
+        "kr": "그 사람은 손을 멈추고 나를 가만히 바라보았네."
+      },
+      {
+        "id": 13,
+        "en": "Then she said, with a smile that sank deep into my heart, \"Werther, you are ill: your dearest food is distasteful to you.\"",
+        "kr": "그러고는 내 가슴 깊이 내려앉는 웃음을 지으며 말했네. \"베르테르 씨, 당신은 편찮으신 거예요. 가장 좋아하시던 음식이 입에 맞지 않는 것이지요.\""
+      },
+      {
+        "id": 14,
+        "en": "\"But go, I beg you, and try to compose yourself.\"",
+        "kr": "\"그러니 이만 가셔서 마음을 좀 가라앉히세요. 부탁드려요.\""
+      },
+      {
+        "id": 15,
+        "en": "I tore myself away.",
+        "kr": "나는 뿌리치듯 자리를 떴네."
+      },
+      {
+        "id": 16,
+        "en": "God, you see my torments, and you will end them.",
+        "kr": "하느님, 당신은 제 고통을 보고 계시며, 그것을 끝내 주실 것입니다."
+      }
+    ]
+  },
+  {
+    "id": 313,
+    "tag": "P0313",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "DECEMBER 6.",
+    "raw": "DECEMBER 6.",
+    "is_header": true,
+    "word_count": 2,
+    "sentence_count": 1,
+    "translation": [
+      {
+        "id": 1,
+        "en": "December 6",
+        "kr": "12월 6일"
+      }
+    ]
+  },
+  {
+    "id": 314,
+    "tag": "P0314",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "DECEMBER 6.",
+    "raw": "How her image haunts me! Waking or asleep, she fills my entire soul! Soon as I close my eyes, here, in my brain, where all the nerves of vision are concentrated, her dark eyes are imprinted. Here—I do not know how to describe it; but, if I shut my eyes, hers are immediately before me: dark as an abyss they open upon me, and absorb my senses.",
+    "is_header": false,
+    "word_count": 67,
+    "sentence_count": 4,
+    "translation": [
+      {
+        "id": 1,
+        "en": "How her image haunts me!",
+        "kr": "그 모습이 나를 얼마나 따라다니는지!"
+      },
+      {
+        "id": 2,
+        "en": "Waking or sleeping, she fills my whole soul.",
+        "kr": "깨어 있으나 잠들어 있으나 그 사람이 내 온 영혼을 채우네."
+      },
+      {
+        "id": 3,
+        "en": "The moment I close my eyes, here in my brain, where all the nerves of sight come together, her dark eyes are printed.",
+        "kr": "눈을 감는 순간, 여기 온갖 시신경이 모이는 내 머릿속에 그 검은 눈이 새겨지네."
+      },
+      {
+        "id": 4,
+        "en": "Here — I do not know how to describe it; but if I shut my eyes, hers are before me at once, dark as an abyss, opening on me and swallowing my senses.",
+        "kr": "여기 — 어떻게 말해야 할지 모르겠네만, 눈을 감으면 곧바로 그 눈이 내 앞에 있네. 심연처럼 검게, 나를 향해 열리며 내 감각을 삼켜 버리네."
+      }
+    ]
+  },
+  {
+    "id": 315,
+    "tag": "P0315",
+    "chapter_id": "ch_11",
+    "section": "Book II",
+    "letter": "DECEMBER 6.",
+    "raw": "And what is man—that boasted demigod? Do not his powers fail when he most requires their use? And whether he soar in joy, or sink in sorrow, is not his career in both inevitably arrested? And, whilst he fondly dreams that he is grasping at infinity, does he not feel compelled to return to a consciousness of his cold, monotonous existence?",
+    "is_header": false,
+    "word_count": 61,
+    "sentence_count": 4,
+    "translation": [
+      {
+        "id": 1,
+        "en": "And what is man — that boasted demigod?",
+        "kr": "그리고 사람이란 무엇인가 — 저 잘난 반신이란?"
+      },
+      {
+        "id": 2,
+        "en": "Do his powers not fail him just when he most needs to use them?",
+        "kr": "가장 필요한 바로 그때 그 힘이 그를 저버리지 않는가?"
+      },
+      {
+        "id": 3,
+        "en": "And whether he soars in joy or sinks in sorrow, is his flight not stopped in both?",
+        "kr": "기쁨에 솟아오르든 슬픔에 가라앉든, 그 비행은 둘 다 도중에 멈추어 서지 않는가?"
+      },
+      {
+        "id": 4,
+        "en": "And while he fondly dreams he is grasping at infinity, does he not feel himself forced back to a consciousness of his cold, monotonous existence?",
+        "kr": "그리고 무한을 붙잡는다고 흐뭇하게 꿈꾸는 동안에도, 차갑고 단조로운 제 존재의 자각으로 되밀려 오는 것을 느끼지 않는가?"
+      }
+    ]
+  }
+]
