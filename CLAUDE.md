@@ -1,47 +1,123 @@
-# 🏁 TKPROF AI Project Operational Parameters (CLAUDE.md)
+# TKprof_book — Project Instructions
 
-This document outlines the strict operational constraints, commands, and architectural guardrails for AI agents executing tasks in this codebase.
+Public-domain classics reworked into bilingual (English/Korean) EPUBs and
+audiobooks, distributed through Authors Republic, KDP, and Google Play.
 
-## 🛠️ Core Commands & Workflows
-
-### 1. Developer Agent Daemon
-The file-backed mailbox daemon polls for tasks and executes them inside the WSL sandbox:
-* **Run once (Polling):** `node .swarm/agent_daemon.js`
-* **Continuous Loop:** `node .swarm/agent_daemon.js --continuous`
-
-### 2. QA Test Runner (Automated Interception)
-Run any test or command through the QA harness to automatically catch failures and pipe them back to the developer mailbox:
-* **Syntax:** `node .swarm/test_runner.js <command_to_test> [args...]`
-* **Example:** `node .swarm/test_runner.js node test.js`
-* **Failure Output:** Generates a typed `error_<timestamp>.json` inside `.swarm/mailboxes/developer/inbox/` upon non-zero exit codes.
-
-### 3. Triage Cockpit Manual Clearance Gate
-Before writing files, executing builds, or deploying changes that affect the host machine or external state:
-* **Handshake command:** `node .swarm/triage_cockpit.js "<action_name>" "<impact_summary>"`
-* Must receive manual console keyboard input `APPROVE` to proceed (exit code 0).
+> Rewritten 2026-09-14. The previous version of this file was copied verbatim
+> from the `thefirstaicompany` project at the initial commit and described a
+> `.swarm/` agent daemon, a triage-cockpit approval gate, `reels/`, and a `dev`
+> branch convention — none of which have ever existed in this repository.
 
 ---
 
-## 📐 Codebase Directory Map
+## Environment
 
-* `.swarm/` — All autonomous agent orchestration mechanisms.
-  * `mailboxes/developer/inbox/` — Active tasks, incoming failure logs (`error_*.json`).
-  * `mailboxes/developer/processed/` — History of completed task payloads and outputs.
-  * `triage_cockpit.js` — The manual clearance gateway CLI.
-  * `approve_gate.js` — JS module containing `requestClearance(...)` for programmatic gates.
-  * `agent_daemon.js` — Polling mechanism for executing mailbox JSON tasks.
-  * `test_runner.js` — Spawns child processes and logs typed errors back to the mailbox upon crash.
-  * `progress.md` — The global ledger tracking active and finished milestones.
-  * `mcp-filesystem/` — Sandboxed MCP file server for secure LLM file actions.
-* `reels/` — Media automation pipeline (images, audio, FFmpeg stitches).
-* `todo.md` — Active development goals and roadmap checklists.
-* `retro_setup_summary.html` — Main interactive developer retro document.
+**Always use the repo-root venv.** The system Python 3.11 on this machine has
+none of the project dependencies:
+
+```
+venv/Scripts/python.exe        # Python 3.11.9 — numpy, soundfile, kokoro,
+                               # azure-cognitiveservices-speech
+```
+
+`ffmpeg` and `ffprobe` must be on PATH; the whole audio chain shells out to them.
 
 ---
 
-## 🎯 Surgical Edit & Trace-Driven Rules
-1. **Ban Speculative Rewrites:** Never rewrite code files from scratch unless explicitly requested. Every change must be a minimal, surgical diff patch.
-2. **Trace-Driven Debugging:** Only modify the specific functional lines that are throwing exceptions, failing tests, or directly causing runtime errors as flagged in the `error_*.json` report.
-3. **Branch Guardrail:** All modifications, testing, and script trials must strictly happen on the local Git `dev` branch.
-4. **Read-Only Default:** Workflows default to read-only operation unless explicitly authorized by the physical developer via the triage cockpit console.
-5. **Rule Synchronization:** These guidelines are paired with `/mnt/d/git_repo/thefirstaicompany/.cursorrules` which governs real-time Cursor Agent execution. Under no circumstances should an AI override or delete these instruction sets.
+## Layout
+
+* `books/<title>/` — one directory per book, self-contained. Typical contents:
+  * `chapters/`, `scripts/` — source text and per-chapter synthesis scripts (JSON)
+  * `make_epub_*.py`, `make_*_audiobook*.py` — per-book builders
+  * `final_audio*/` — deliverables (`_en`, `_ko`, `_ar_ready` variants)
+  * `temp_audio*/` — WAV masters and scratch; not deliverables
+  * `*_roadmap.md`, `metadata.md` — production status and store metadata
+* `authors_republic_requirements.md` — distributor technical + content spec
+* `check_audio_quality.py` — the QC gate (see below)
+* Repository root also holds a large amount of accumulated scratch (`b1.json`,
+  `all_lines.txt`, one-off `patch_*.py` / `fix_*.py`). Root is **not** curated —
+  do not infer conventions from it, and do not add more to it. Use the
+  session scratchpad for temporary files.
+
+---
+
+## Audiobook QC gate
+
+Every track must pass before any Authors Republic submission:
+
+```bash
+venv/Scripts/python.exe check_audio_quality.py books/<title>/final_audio_en
+```
+
+It checks container specs (192 kbps CBR, 44.1 kHz, peak, RMS, lead/trail
+silence, duration) **and** three narration-content measures added after the
+rejections below:
+
+| Check | Fails when | Why |
+| :--- | :--- | :--- |
+| Source bandwidth | no energy above 13 kHz | a 24 kHz source upsampled to 44.1 kHz; reads as muffled |
+| Silence ratio | above 12% of the narration body | dead air; the rejected build ran 17% |
+| Pause distribution | *warning* above 30% in one 100 ms bucket | fixed pause constants sound mechanical |
+
+The silence and pause measures cover the narration body only, excluding the
+AR-mandated lead/trail padding, and are skipped for tracks with under 30 s of
+body — otherwise a compliant 10 s credits track scores 60% silence and fails.
+The pause threshold is an uncalibrated heuristic — it is a warning, not an
+error. See the caveat comment in the source.
+
+---
+
+## Narration engines — read before building audio
+
+**Kokoro and edge-tts must not be used for Authors Republic audio.** Both render
+at 24 kHz with no SSML and no prosody control. Audiobooks built on them were
+rejected twice:
+
+* **2026-08-17** — Dracula bilingual: muffled, monotone, excessive pausing
+* **2026-09-14** — Dracula English: "monotonous or robotic voice"
+
+The second build had already fixed every *pipeline* defect (dead air, double
+encoding, text normalization, multi-voice casting) and was still refused,
+because the engine itself cannot produce intonation or bandwidth.
+
+Full diagnosis, measurements, and reproduction commands:
+`books/dracula/NARRATION_REJECTION_ANALYSIS.md`
+
+Current replacement path — Azure Neural TTS at 48 kHz with per-sentence SSML
+prosody, reusing the existing pipeline unchanged:
+
+```bash
+cd books/dracula
+AZURE_SPEECH_KEY=<key> AZURE_SPEECH_REGION=<region> \
+  ../../venv/Scripts/python.exe make_english_audiobook_azure.py voices   # casting demo
+```
+
+Then `... 1` for a chapter, `... verify` for the A/B against the Kokoro build.
+Credentials come from the environment and are never committed.
+
+**Render one chapter and listen to it before committing to a full book.** A
+34-hour re-narration is the expensive way to discover the voice is wrong.
+
+---
+
+## Branching
+
+One branch per book: `dracula`, `the_heroes`, `tono_bungay`, `art_of_war`,
+`secret_garden`, `beowulf_kr`. Work on the branch for the book being changed;
+`main` is the integration branch. Cross-cutting tooling changes (for example
+`check_audio_quality.py`) may land on the current book branch and be merged.
+
+---
+
+## Editing rules
+
+1. **Surgical diffs only.** Never rewrite a working file from scratch unless
+   asked. Change the lines that are wrong.
+2. **Trace-driven debugging.** Fix what the failing test, exception, or
+   measurement actually points at — not what looks suspicious nearby.
+3. **Measure before concluding.** This project has a long history of audio
+   problems that are invisible in the container metadata and obvious in a
+   spectral or silence measurement. Numbers in commit messages and analysis
+   documents should be reproducible; include the command.
+4. **Deliverables are large binaries.** `final_audio*/` runs to gigabytes per
+   title. Do not regenerate a full book to test a change — build one chapter.

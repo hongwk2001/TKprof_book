@@ -128,6 +128,92 @@ def analyze_audio_levels_and_silence(filepath, duration):
         print(f"Error analyzing levels/silence for {filepath}: {e}", file=sys.stderr)
         return None
 
+def analyze_narration_content(filepath, duration, lead=0.0, trail=0.0):
+    """
+    Content checks that the container-level checks above cannot see.
+
+    Both Authors Republic rejections (2026-08-17 bilingual, 2026-09-14 English)
+    passed every check in check_file() and were still refused on narration
+    quality. These are the three measurements that would have caught them, per
+    NARRATION_REJECTION_ANALYSIS.md section 5.4.
+
+    Samples a 120s excerpt from the middle of the file: three extra ffmpeg
+    passes over a full 40-minute chapter is too slow to run on every build.
+    """
+    start = max(0.0, duration / 2.0 - 60.0)
+    excerpt = ["-ss", str(start), "-t", "120"]
+
+    def mean_db(af):
+        r = subprocess.run(
+            ["ffmpeg", "-hide_banner"] + excerpt + ["-i", filepath,
+             "-af", af, "-f", "null", "-"],
+            capture_output=True, text=True)
+        m = re.search(r"mean_volume:\s*(-?[\d.]+) dB", r.stderr)
+        return float(m.group(1)) if m else None
+
+    # 1. source bandwidth: a 24 kHz source upsampled to 44.1 kHz has a hard
+    #    ~12 kHz ceiling, which a listener hears as muffled.
+    low = mean_db("highpass=f=8000,lowpass=f=11000,volumedetect")
+    high = mean_db("highpass=f=13000,highpass=f=13000,volumedetect")
+    headroom = (high - low) if (low is not None and high is not None) else None
+
+    # 2 & 3. silence ratio and pause distribution. This is a single cheap pass,
+    # so it gets a wider window than the bandwidth passes above -- 120s yields
+    # too few pauses for the bucket statistic to be stable.
+    #
+    # Measure the BODY only. AR mandates 1-5s of silence at each end, so
+    # including it makes short credits tracks look pathological: a 10s intro
+    # with 4s of required padding scores 60% silence and fails for complying
+    # with the spec. Below 30s of body there is not enough left to measure.
+    body = max(0.0, duration - lead - trail)
+    pause_span = min(300.0, body)
+    pause_start = lead + max(0.0, (body - pause_span) / 2.0)
+    if pause_span < 30.0:
+        return {
+            "band_8_11k_db": low,
+            "band_13k_db": high,
+            "bandwidth_headroom_db": headroom,
+            "silence_ratio_pct": None,
+            "pause_count": None,
+            "top_pause_bucket_pct": None,
+        }
+    r = subprocess.run(
+        ["ffmpeg", "-hide_banner", "-ss", str(pause_start), "-t",
+         str(pause_span), "-i", filepath, "-af",
+         "silencedetect=noise=-40dB:d=0.15", "-f", "null", "-"],
+        capture_output=True, text=True)
+    pauses = [float(x) for x in
+              re.findall(r"silence_duration:\s*([\d.]+)", r.stderr)]
+
+    span = pause_span
+    silence_ratio = 100.0 * sum(pauses) / span if span else 0.0
+
+    # quantization: fixed pause constants pile every gap into one 100 ms
+    # bucket. A human read spreads out with a long tail.
+    #
+    # CAVEAT: the 30% threshold below is a heuristic, not a calibrated figure --
+    # it flags the known-rejected build but has never been checked against a
+    # human-narrated reference, and it is sensitive to bucket width (the same
+    # file scores 39% at 100ms, 27% at 50ms, 18% at 20ms). It is a WARNING, not
+    # an error, for that reason. Recalibrate once a passing build exists.
+    top_bucket_pct = None
+    if len(pauses) >= 20:
+        buckets = {}
+        for p in pauses:
+            b = round(p // 0.1 * 0.1, 1)
+            buckets[b] = buckets.get(b, 0) + 1
+        top_bucket_pct = 100.0 * max(buckets.values()) / len(pauses)
+
+    return {
+        "band_8_11k_db": low,
+        "band_13k_db": high,
+        "bandwidth_headroom_db": headroom,
+        "silence_ratio_pct": silence_ratio,
+        "pause_count": len(pauses),
+        "top_pause_bucket_pct": top_bucket_pct,
+    }
+
+
 def check_file(filepath):
     """
     Checks a single audio file against ACX/Authors Republic standards.
@@ -183,12 +269,34 @@ def check_file(filepath):
     if dur_mins > 120.0:
         errors.append(f"Duration is {dur_mins:.1f} minutes (max limit is 120 minutes).")
         
+    # 7-9. Narration content checks (see analyze_narration_content).
+    content = analyze_narration_content(filepath, fmt["duration"], leading, trailing)
+
+    headroom = content["bandwidth_headroom_db"]
+    if headroom is not None and headroom <= -15.0:
+        errors.append(
+            f"No energy above 13kHz (headroom {headroom:.1f} dB): the source is "
+            f"upsampled, not {fmt['sample_rate']}Hz narration. Reads as muffled."
+        )
+
+    sil_pct = content["silence_ratio_pct"]
+    if sil_pct is not None and sil_pct > 12.0:
+        errors.append(f"Silence is {sil_pct:.1f}% of narration body (max 12%).")
+
+    top = content["top_pause_bucket_pct"]
+    if top is not None and top > 30.0:
+        warnings.append(
+            f"{top:.0f}% of pauses fall in one 100ms bucket: pause lengths are "
+            f"quantized, which sounds mechanical. Vary them."
+        )
+
     status = "FAIL" if errors else "PASS"
-    
+
     return {
         "filename": filename,
         "filepath": filepath,
         "status": status,
+        **content,
         "sample_rate": fmt["sample_rate"],
         "channels": fmt["channels"],
         "duration": fmt["duration"],
@@ -221,7 +329,7 @@ def main():
             if any(part.startswith(".") or part == "venv" for part in root.split(os.sep)):
                 continue
             for file in files:
-                if file.lower().endswith(".mp3"):
+                if file.lower().endswith(".mp3") and not file.startswith("temp_") and not file.endswith(".tmp.mp3"):
                     audio_files.append(os.path.join(root, file))
     else:
         if target_path.lower().endswith(".mp3"):
@@ -272,7 +380,9 @@ def main():
         
         print(f"  Status: {status_str}")
         print(f"  Format: {r['bitrate_kbps']}kbps CBR, {r['sample_rate']}Hz, {r['channels']}ch, {r['duration']/60.0:.2f} mins")
-        print(f"  Levels: Peak = {r['peak_db']:.2f} dB, RMS = {r['rms_db']:.2f} dB")
+        peak_str = f"{r['peak_db']:.2f} dB" if r['peak_db'] is not None else "N/A"
+        rms_str = f"{r['rms_db']:.2f} dB" if r['rms_db'] is not None else "N/A"
+        print(f"  Levels: Peak = {peak_str}, RMS = {rms_str}")
         print(f"  Silence: Leading = {r['leading_silence']:.2f}s (target: 0.5-1.0s), Trailing = {r['trailing_silence']:.2f}s (target: 1.0-5.0s)")
         
         if r["errors"]:
