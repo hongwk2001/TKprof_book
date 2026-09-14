@@ -1,0 +1,175 @@
+{
+ "chapter_id": "ch_09",
+ "model": "gemma4:12b",
+ "seconds": 232.0,
+ "aligned": 10,
+ "total": 10,
+ "items": {
+  "3": {
+   "tag": "P0002",
+   "ko": [
+    "스물다섯 번째는 사륜왕이다. 시호는 진지대왕이다. 성은 김씨였다. 왕의 부인은 우공의 딸로 지도부인이라 불렸다. 대건 여덟 해 병신년에 즉위하여 나라를 다스렸다.",
+    "그가 나라를 다스린 지 나흘 만에 정치가 어지러워지고 백성들이 황폐해졌다. 나라 사람들이 그를 버렸다. 그전까지 사량도에 한 서녀가 있었다. 그녀는 자태가 아름다워 도화녀라 불렸다.",
+    "대왕은 이 소문을 듣고 그녀를 궁중으로 불러들였다. 대왕이 그녀와 동침하려 하자 여인이 말했다.",
+    "\"저는 절개를 지키는 사람이라 두 남자를 섬기지 않습니다. 남편이 있는데 다른 이에게 몸을 내어주지는 않겠습니다. 비록 만 명의 병사로 위협해도 결코 굴복하지 않겠습니다.\"",
+    "대왕이 물었다. \"그럼 죽여야겠소? 여인이 답했다. \"차라리 저를 저잣거리에서 베어 주십시오. 누군가 저를 굴복시키려 한다면 기꺼이 따르겠습니다.",
+    "대왕이 농담으로 \"남편이 없다면 가능하겠소?\"라고 물었다. 여인이 \"그렇습니다\"라고 답했다. 대왕은 그녀를 놓아주고 돌려보냈다. 그해에 대왕은 폐위되고 세상을 떠났다."
+   ],
+   "en": [
+    "The twenty-fifth is King Saryeon. His posthumous title was King Jinji. His surname was Kim. The king's wife was the daughter of Ugong and was called Lady Jido. He ascended the throne in the year Byeongsin of the eighth year of Daegun and ruled the land.",
+    "After he ruled the country for four years, the governance became chaotic and the people were devastated. The people of the land deposed him. Before this, there was a concubine in Saryang-do. She was beautiful in appearance and was called Tohwanyeo.",
+    "The Great King heard of this and summoned her to the palace. When the Great King sought to sleep with her, the woman spoke.",
+    "\"I am a person who keeps my integrity and do not serve two men. Since I have a husband, I will not give my body to another. Even if threatened by ten thousand soldiers, I will never submit.\"",
+    "The King asked, \"Then must I kill you?\" The woman replied, \"Rather cut me down in the marketplace. If someone tries to make me submit, I will willingly comply.\"",
+    "The King asked in jest, \"Would it be possible if you had no husband?\" The woman replied, \"Yes.\" The King released her and sent her away. That year, the King was deposed and passed away."
+   ],
+   "aligned": true
+  },
+  "4": {
+   "tag": "P0003",
+   "ko": [
+    "이듬해에 그 여자의 남편도 죽었다. 어느 날 밤에 진평왕이 여인에게 다가와 말했다. \"그대는 예전에 약속한 것이 있지 않느냐? 이제 네 남편이 없으니 그것을 지킬 수 있겠느냐?\" 여인은 가볍게 약속하지 않았다.",
+    "여인이 부모에게 이 사실을 알렸다. 부모는 \"왕의 가르침을 어찌 피하겠느냐\"라고 말했다. 부모는 딸을 방으로 들여보냈다. 그곳에 일곱 날 동안 머물렀다. 매일 다섯 색깔 구름이 집을 덮었고 향기가 방 안에 가득했다.",
+    "일곱 날이 지난 뒤 왕은 흔적도 없이 사라졌다. 여인은 그 후 아이를 배었다.",
+    "달이 차고 아이를 낳을 때가 되자 하늘과 땅이 흔들렸다. 아들을 낳았는데 이름을 비형이라 하였다. 진평왕은 이 기이한 일을 듣고 아이를 궁중에 데려와 길렀다.",
+    "비형은 열다섯 살에 집사라는 직책을 받았다. 그는 매일 밤 몰래 나가 멀리 유람했다. 왕은 용사 오십 명을 시켜 그를 지키게 했다."
+   ],
+   "en": [
+    "The following year, the woman's husband also died. One night, King Jinpyeong approached the woman and said, \"Did you not have a promise before? Now that your husband is gone, can you keep it?\" The woman did not make promises lightly.",
+    "The woman informed her parents of this matter. Her parents said, \"How can one evade the king's instruction?\" They sent their daughter into the room. He stayed there for seven days. Every day, five-colored clouds covered the house and fragrance filled the room.",
+    "After seven days, the king disappeared without a trace. The woman conceived a child after that.",
+    "When the moon was full and it was time to give birth, the heavens and the earth shook. She gave birth to a son and named him Bihyeong. King Jinpyeong heard of this extraordinary occurrence and brought the child into the palace to raise him.",
+    "Bihyeong received the position of jipsa at the age of fifteen. Every night he secretly went out to travel far away. The king ordered fifty brave warriors to guard him."
+   ],
+   "aligned": true
+  },
+  "5": {
+   "tag": "P0004",
+   "ko": [
+    "귀신들은 매번 월성을 날아 지나갔다. 그들은 서쪽 황천가에서 귀신 무리를 거느리고 노닐었다. 용맹한 무사들은 숲속에 숨어 귀신들을 살폈다.",
+    "그들은 여러 절의 새벽 종소리가 울려 귀신들이 흩어지는 것을 들었다. 비형도 집으로 돌아갔다. 군사들이 이 일을 왕에게 보고했다. 왕은 비형을 불러들였다.",
+    "왕이 \"당신이 귀신들을 거느리고 노니는 것이 사실입니까?\"라고 물었다. 비형이 \"그렇습니다\"라고 대답했다. 왕이 \"그렇다면 귀신들에게 명하여 신원사 북쪽 도랑에 다리를 놓게 하시오\"라고 명령했다.",
+    "비형은 명령을 받들어 부하들과 돌을 깎아 밤사이 큰 다리를 만들었다. 그래서 그 다리를 귀신다리라 불렀다. 왕이 다시 물었다.",
+    "\"귀신들 중에 인간 세상에 나타나 정사를 돕는 자가 있소? 비형이 \"있습니다. 길달이라는 자가 나라 정사를 도울 수 있습니다\"라고 답했다."
+   ],
+   "en": [
+    "The ghosts flew over Wolseong every time. They roamed along the banks of Hwangcheon in the west, leading a host of ghosts. Brave warriors hid in the forest and watched the ghost host.",
+    "They heard the dawn bells of various temples ring, and the ghosts dispersed. Bihyeong also returned home. The soldiers reported this matter to the king. The king summoned Bihyeong.",
+    "The king asked, \"Is it true that you lead and roam with the ghosts?\" Bihyeong replied, \"It is so.\" The king commanded, \"Then command the ghosts to build a bridge across the ditch north of Sinwonsa.\"",
+    "Bihyeong received the command and, with his subordinates, carved stones to build a large bridge overnight. Thus, that bridge was called Gwishidari. The king asked again.",
+    "The King asked, \"Is there among the ghosts one who appears in the human world to assist in state affairs?\" Bihyeong replied, \"There is. One named Gildal can assist in the affairs of the state.\""
+   ],
+   "aligned": true
+  },
+  "6": {
+   "tag": "P0005",
+   "ko": [
+    "왕이 벼슬을 내리며 말하였다. 다음 날 비형과 그 동료가 함께 찾아왔다. 왕은 그들에게 집사라는 작위를 내렸다. 그들의 충성심과 곧은 성품은 누구와도 비교할 수 없었다.",
+    "당시 각간 임종에게는 아들이 없었다. 왕은 그를 후계자로 삼으라고 명령했다. 임종은 길달에게 흥륜사 남쪽에 문을 세우게 했다. 그는 매일 밤 그곳에 머물며 문 위로 올라갔다. 그래서 그곳을 길달문이라 불렀다.",
+    "어느 날 길달이 여우로 변해 달아났다. 비형이 귀신을 불러내어 길달을 죽였다.",
+    "사람들은 비형의 이름을 듣고 겁을 먹어 달아났다. 사람들이 노래를 지어 부르며 귀신들을 쫓았다. 그들은 마을 곳곳에 이 노래를 붙여 귀신을 물리쳤다."
+   ],
+   "en": [
+    "The King bestowed titles and spoke. The next day, Bihyeong and his companions came together to see him. The King conferred upon them the rank of Jipsa. Their loyalty and upright character were unparalleled.",
+    "At that time, Gakgan Imjong had no son. The King ordered him to appoint a successor. Imjong had Gildal build a gate south of Heungnyunsa. He stayed there every night and went up onto the gate. Therefore, it was called Gildamun.",
+    "One day, Gildal transformed into a fox and fled. Bihyeong summoned ghosts and killed Gildal.",
+    "People heard the name Bihyeong and fled in fear. People composed and sang a song to drive away the ghosts. They posted this song in various places throughout the village to ward off the ghosts."
+   ],
+   "aligned": true
+  },
+  "8": {
+   "tag": "P0007",
+   "ko": [
+    "스물여섯 번째는 백정왕이다. 진평대왕이라는 시호를 받았다. 성은 김씨였다. 그는 대건 열한 해 기해년 팔월에 왕위에 올랐다. 그의 키는 열한 자에 달했다.",
+    "그가 하늘의 임금인 제석의 궁전(또는 이름이 천주사이며 왕이 직접 세운 곳이다)에 갈 때 돌계단을 밟았다. 돌들이 모두 부서졌다.",
+    "왕은 좌우 사람들에게 말하기를, \"이 돌을 옮기지 마라. 후세에 보이기 위함이다.\"라고 했다. 이 돌은 성안의 다섯 움직이지 않는 돌 중 하나였다.",
+    "왕이 즉위한 첫해에 천사가 전각 마당으로 내려왔다. 그 천사는 왕에게 말하기를, \"윗분께서 나에게 명령하여 옥띠를 전해주라 하셨다.\"라고 했다. 왕은 직접 받들어 무릎을 꿇고 그것을 받았다. 그 후 사신이 하늘로 올라갔다.",
+    "모든 제사터의 큰 제사에서 이 옥띠를 착용했다. 나중에 고구려왕이 신라를 정벌할 계획을 세우고 말하기를, \"신라에는 세 가지 보물이 있어 범해서는 안 된다.\"라고 했다."
+   ],
+   "en": [
+    "The twenty-sixth is Baekjeongwang. He received the posthumous name Jinpyeongdaewang. His surname was Kim. He ascended to the throne in the eighth month of Gihayeon, the eleventh year of Daegun. His height reached eleven ja.",
+    "When he went to the palace of Jeoseok, the heavenly king (also known as Cheonjusa, which the king founded), he stepped on stone stairs. All the stones broke.",
+    "The king said to those around him, \"Do not move this stone. It is for the sake of later generations.\" This stone was one of the five immovable stones in the city.",
+    "In the first year of his reign, an angel descended into the courtyard of the hall. The angel said to the king, \"The One Above has commanded me to deliver this jade belt to you.\" The king personally received it while kneeling. After that, the messenger ascended to heaven.",
+    "This jade belt was worn during the great sacrifices at all shrines. Later, when the King of Goguryeo planned to conquer Silla, he said, \"Silla has three treasures that must not be violated.\""
+   ],
+   "aligned": true
+  },
+  "9": {
+   "tag": "P0008",
+   "ko": [
+    "무슨 뜻인가를 물었다. 황룡사에 장대비석이 하나 있고, 그 절에 아홉 층짜리 탑이 두 개 있다. 진평왕이 하늘이 내린 옥띠를 받았다는 세 가지 사실을 말하며 그 계획을 끝냈다.",
+    "구름 너머 하늘이 내린 옥띠가 용의 기운을 가두어 아름답게 어우러졌다. 우리 임금은 이제부터 이 몸에 무거운 책임과 약속을 짊어지고 밝은 아침을 위해 철로 만든 기단에 오르려 한다."
+   ],
+   "en": [
+    "He asked what it meant. There is one tall stele at Hwangnyongsa, and there are two nine-story pagodas in that temple. He finished his plan by stating the three facts: that Jinpyeongwang received a jade belt from heaven.",
+    "Beyond the clouds, the jade belt from heaven confined the dragon's energy and harmonized beautifully. From now on, our king shall bear heavy responsibilities and promises upon this body and ascend the iron-made terrace for the bright morning."
+   ],
+   "aligned": true
+  },
+  "11": {
+   "tag": "P0010",
+   "ko": [
+    "스물일곱 번째는 선덕여왕이다. (한자 표기가 만으로도 있다.) 성은 김씨이며 아버지는 진평왕이다. 정관 육년 임진년에 즉위하여 열여섯 해 동안 나라를 다스렸다.",
+    "그녀가 지혜를 발휘한 일이 세 가지가 있다. 먼저 당나라 태종이 세 가지 색의 꽃인 목단을 보내왔다. 붉은색과 보라색, 흰색의 꽃을 각각 한 말씩 보낸 것이다.",
+    "여왕은 그림 속 꽃을 보고 이 꽃은 분명 향기가 없을 것이라고 말했다. 여왕은 정원에 그 꽃을 심으라는 명령을 내렸다. 꽃이 피고 지는 것을 기다려 보니 여왕의 말과 똑같았다.",
+    "영묘에 있는 옥문지에서 겨울달에 개구리들이 모여 사흘이나 울었다. 백성들이 이를 이상하게 여겨 여왕에게 물었다.",
+    "여왕은 급히 각간 알천 필삼 등에게 명령하여 정예 병사 이천 명을 데리고 서쪽 교외의 여근곡으로 가서 반드시 적군이 있는지 확인하게 했다."
+   ],
+   "en": [
+    "The twenty-seventh is Queen Seondeok (some versions write it as Man). Her surname was Kim and her father was King Jinpyeong. She ascended the throne in the year of Imjin in the sixth year of Jeonggwan and ruled the country for sixteen years.",
+    "There were three instances where she displayed her wisdom. First, Emperor Taizong of Tang sent peonies in three colors. He sent one peck each of red, purple, and white flowers.",
+    "The Queen looked at the flowers in the painting and said that these flowers would certainly have no fragrance. She ordered those flowers to be planted in the garden. After waiting for them to bloom and fall, it was exactly as she had said.",
+    "In the Okmunji of Yeongmyo, frogs gathered and croaked for three days during a winter moon. The people found this strange and asked the Queen.",
+    "The Queen hurriedly ordered Gakgan, Alcheon, Pilsam, and others to take two thousand elite soldiers to Yeongeungok in the western outskirts to confirm if there were enemy forces."
+   ],
+   "aligned": true
+  },
+  "12": {
+   "tag": "P0011",
+   "ko": [
+    "적들이 숨어든 곳을 찾아내어 그들을 모두 죽였다. 두 명의 각간이 명령을 받았다. 그들은 각각 천 명씩을 거느리고 서쪽 교외를 물으러 갔다. 부산 아래에 정말로 여근곡이 있었다.",
+    "백제 군사 오백 명이 그곳에 숨어 있었다. 그들은 모두 붙잡혀 죽임을 당했다. 백제 장군인 소소는 남산 봉우리의 바위 위에 숨어 있었다. 적들은 그를 에워싸고 화살을 쏘아 죽였다.",
+    "뒤이어 천이백 명의 군사가 더 몰려왔다. 적들은 그들도 공격하여 모두 죽였다. 단 한 명도 살아남지 못했다. 세 왕이 무사할 때, 왕은 신하들에게 말했다. \"나는 어느 해 어느 달 어느 날에 죽을 것이다.\"",
+    "\"나를 도리천에 장사 지내라.\" 신하들이 어디인지를 묻자, 왕은 낭산 남쪽이라 답했다. 그 날짜가 되자 왕이 정말로 세상을 떠났다. 신하들은 왕을 낭산 양쪽에 장사 지냈다."
+   ],
+   "en": [
+    "They found the places where the enemies had hidden and killed them all. Two Gakgan received orders. They each led a thousand men to scout the western outskirts. Beneath Busan, Yeongeungok indeed existed.",
+    "Five hundred Baekje soldiers were hidden in that place. They were all captured and killed. The Baekje general Soso was hidden on a rock atop Namsan peak. The enemies surrounded him and shot him with arrows until he died.",
+    "Then, one thousand two hundred more soldiers arrived. The enemies attacked and killed them all. Not a single person remained. When the three kings were still alive, the king said to his officials, \"I shall die on such month and day of such year.\"",
+    "\"Bury me in Doricheon.\" When the officials asked where, the king replied it was south of Nangsang. When that date arrived, the king truly passed away. The officials buried him on the sunny side of Nangsang."
+   ],
+   "aligned": true
+  },
+  "13": {
+   "tag": "P0012",
+   "ko": [
+    "열 해 남짓 지난 뒤에 문호 대왕이 왕릉 아래에 사천왕사를 세웠다. 불경에는 사천왕의 하늘 위에 도리천이 있다고 기록되어 있다. 이 기록은 대왕의 영험함을 알게 해 주었다.",
+    "그때 신하들이 대왕에게 물었다. \"어찌하여 꽃과 개구리의 두 가지 일을 그렇게 해석하셨습니까?\" 대왕이 그들에게 대답하였다. \"꽃을 그리는데 나비가 없으니 향기가 없음을 알 수 있다.\"",
+    "\"이는 당나라 황제가 나의 짝이 없음을 업신여긴 것이다.\" 대왕이 말을 이었다. \"개구리에는 화난 군사들의 형상이 있다. 옥문은 여자의 뿌리를 뜻한다. 여자는 음의 기운을 지니며 그 색은 희다.\"",
+    "\"흰색은 서쪽을 의미하니 병력이 서쪽에 있음을 알 수 있다. 대왕이 설명했다.",
+    "\"남성의 뿌리가 여성의 뿌리에 들어가면 반드시 죽게 된다. 이로써 적을 잡기 쉬움을 알 수 있다. 이에 신하들은 모두 대왕의 지혜에 감복하였다."
+   ],
+   "en": [
+    "More than ten years later, King Munho established the Sacheonwangsa Temple below the royal tomb. Buddhist scriptures state that above the Four Heavenly Kings is the Doricheon. This record revealed the spiritual power of the King.",
+    "At that time, the officials asked the Great King, \"How did you interpret these two matters of the flower and the frog in such a way?\" The King answered them, \"Since there is no butterfly in the drawing of the flower, it can be known that there is no fragrance.\"",
+    "\"This is the Tang Emperor despising my lack of a mate,\" the Great King continued. \"The frog contains the image of angry soldiers. The jade gate means the female root. A woman possesses yin energy, and her color is white.\"",
+    "White signifies the west, so it was known that the military forces were in the west. The Great King explained.",
+    "If the male root enters the female root, it will surely die. By this, it was known that the enemy would be easy to capture. At this, all the officials were impressed by the wisdom of the Great King."
+   ],
+   "aligned": true
+  },
+  "14": {
+   "tag": "P0013",
+   "ko": [
+    "꽃이 세 가지 색깔인 것은 신라에 세 명의 여왕이 있었기 때문이다. 그것은 선덕여왕과 진덕여왕 그리고 진성여왕을 가리킨다.",
+    "당나라 황제는 사물의 이치를 밝히는 데 밝았다. 선덕여왕이 영묘사를 세운 일은 양사의 전기에 자세히 기록되어 있다. 이 왕조에서는 돌을 갈아 삼성대를 쌓았다."
+   ],
+   "en": [
+    "The reason flowers have three colors was that there were three queens in Silla. These referred to Seondeok, Jindeok, and Jinseong.",
+    "The Tang emperor was proficient in discerning the principles of things. The fact that Queen Seondeok established Yeongmyosa is recorded in detail in the biography of Yangsa. During this dynasty, they polished stones to build Samseongdae."
+   ],
+   "aligned": true
+  }
+ }
+}

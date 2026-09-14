@@ -1,0 +1,173 @@
+{
+ "batch_id": "ch_15",
+ "chapter_id": "ch_15",
+ "chapter_ko": "수로부인과 헌화가",
+ "chapter_en": "Lady Suro and the Flower Song",
+ "item_count": 13,
+ "hanja": 1361,
+ "items": [
+  {
+   "id": 1,
+   "tag": "H01",
+   "is_header": true,
+   "ko": "수로부인과 헌화가",
+   "en": "Lady Suro and the Flower Song"
+  },
+  {
+   "id": 2,
+   "tag": "S01",
+   "is_header": true,
+   "ko": "수로부인 (헌화가)",
+   "en": "Lady Suro and the Flower Song"
+  },
+  {
+   "id": 3,
+   "tag": "P0002",
+   "is_header": false,
+   "hanmun": "聖德王代。純貞公赴江陵大守（今溟州）行次海汀晝膳。傍有石嶂。如屏臨海。高千丈。上有躑躅花盛開。公之夫人水路見之謂左右曰。折花獻者其誰。從者曰。非人跡所到。皆辭不能傍有老翁牽牸牛而過者。聞夫人言折其花亦作歌詞獻之。其翁不知何許人也。便行二日程。又有臨海亭。晝膳次海龍忽攬夫人入海。公顛倒躄地。計無所出。",
+   "hanja": 130,
+   "target_units": 4
+  },
+  {
+   "id": 4,
+   "tag": "P0003",
+   "is_header": false,
+   "hanmun": "又有一老人告曰。故人有言。眾口鑠金。今海中傍生。何不畏眾口乎。宜進界內民。作歌唱之。以杖打岸。則可見夫人矣。公從之。龍奉夫人出海獻之。公問夫人海中事。四七寶宮殿。所膳甘滑香潔。非人間煙火。此夫人衣襲異香。非世所聞。水路姿容絕代。每經過深山大澤。屢被神物掠攬。眾人唱海歌。",
+   "hanja": 114,
+   "target_units": 3
+  },
+  {
+   "id": 5,
+   "tag": "P0004",
+   "is_header": false,
+   "hanmun": "龜乎龜乎出水路 掠人婦女罪何極汝若㥬逆不出獻 入網捕掠燔之喫",
+   "hanja": 28,
+   "target_units": 1,
+   "verse": "hanmun",
+   "poem_ko": "해가",
+   "poem_en": "The Song of the Sea",
+   "intro": "詞曰：",
+   "gloss_ko": "바닷가 사람들이 용에게 수로부인을 돌려달라며 막대로 언덕을 치면서 부른 노래.",
+   "gloss_en": "The song the people beat out on the shore, demanding the dragon give Lady Suro back."
+  },
+  {
+   "id": 6,
+   "tag": "P0005",
+   "is_header": false,
+   "hanmun": "紫布岩乎過希執音乎手母牛放教遣 吾肹不喻慚肹伊賜等 花肹折叱可獻乎理音如",
+   "hanja": 34,
+   "target_units": 1,
+   "verse": "hyangchal",
+   "poem_ko": "헌화가",
+   "poem_en": "The Flower-Offering Song",
+   "intro": "老人獻花歌曰：",
+   "gloss_ko": "소를 몰던 노인이 수로부인에게 벼랑의 철쭉꽃을 꺾어 바치며 부른 노래.",
+   "gloss_en": "An old herdsman's song as he picks azaleas from a cliff for Lady Suro."
+  },
+  {
+   "id": 7,
+   "tag": "S06",
+   "is_header": true,
+   "ko": "효성왕",
+   "en": "King Hyoseong"
+  },
+  {
+   "id": 8,
+   "tag": "P0007",
+   "is_header": false,
+   "hanmun": "開元十年壬戌十月。始築關門於毛火郡。今毛火村。屬慶州東南境。乃防日本塞垣也。周迴六千七百九十二步五尺。役徒三萬九千二百六十二人。掌員元真角干。開元二十一年癸酉。唐人欲征北犾。請兵新羅。客使六百四人來还國",
+   "hanja": 90,
+   "target_units": 2
+  },
+  {
+   "id": 9,
+   "tag": "S08",
+   "is_header": true,
+   "ko": "경덕왕 · 충담사 · 표훈대덕",
+   "en": "King Gyeongdeok, Master Chungdam, Great Virtue Pyohun"
+  },
+  {
+   "id": 10,
+   "tag": "P0009",
+   "is_header": false,
+   "hanmun": "德經等大王備禮受之。王御國二十四年。五岳三山神等時或現侍於殿庭。三月三日。王御敀正門樓上。謂左右曰。誰能途中得一員榮服僧來。於是適有一大德。威儀鮮潔。徜徉而行。左右望而引見之。王曰。非吾所謂榮僧也。退之。更有一僧。被衲衣負櫻筒（一作荷簣）從南而來。王喜見之。邀致樓上。視其筒中。盛茶具已。曰。汝為誰耶。僧曰志談。曰。",
+   "hanja": 132,
+   "target_units": 4
+  },
+  {
+   "id": 11,
+   "tag": "P0010",
+   "is_header": false,
+   "hanmun": "何所歸來。僧曰。僧每重三重九之日。烹茶饗南山三花嶺彌勒世尊。今茲既獻而還矣。王曰。寡人亦一甌茶有分乎。僧乃煎茶獻之。茶之氣味異常。甌中異香郁烈。王曰。朕嘗聞師讚耆婆郎詞腦歌。其意甚高。是其果乎。對曰然。王曰。然則為朕作理安民歌。僧應時。奉敕歌呈之。王佳之。封王師焉。僧再拜固辭不受。",
+   "hanja": 119,
+   "target_units": 3
+  },
+  {
+   "id": 12,
+   "tag": "P0011",
+   "is_header": false,
+   "hanmun": "君隱父也 臣隱愛賜尸母史也 民焉狂尸恨阿孩古為賜尸知民是愛尸知古如 窟理叱大肹生以支所音物生此肹喰惡支治良羅 此地肹捨遣只於冬是去於丁 為尸知國惡支持以 支知右如後句 君如臣多支民隱如 為內尸等焉國惡太平恨音叱如",
+   "hanja": 98,
+   "target_units": 1,
+   "verse": "hyangchal",
+   "poem_ko": "안민가",
+   "poem_en": "Song for Governing the People",
+   "intro": "安民歌曰：",
+   "gloss_ko": "충담사가 경덕왕의 명을 받아 지은, 임금과 신하와 백성의 도리를 노래한 것.",
+   "gloss_en": "Master Chungdam's song, made at King Gyeongdeok's command, on what a ruler, a minister and a people each owe."
+  },
+  {
+   "id": 13,
+   "tag": "P0012",
+   "is_header": false,
+   "hanmun": "咽嗚爾處米 露曉邪隱月羅理 白雲音逐于浮去隱安支下 沙是八陵隱汀理也中 耆郎矣貌史是史藪邪 逸烏川理叱磧惡希 郎也持以支如賜烏隱心未際叱肹逐內良齊 阿耶 柏史叱枝次高支好 雪是毛冬乃乎尸花判也",
+   "hanja": 87,
+   "target_units": 1,
+   "verse": "hyangchal",
+   "poem_ko": "찬기파랑가",
+   "poem_en": "Song in Praise of Gipa-rang",
+   "intro": "讚耆婆郎歌曰",
+   "gloss_ko": "충담사가 화랑 기파랑의 높은 뜻을 기려 지은 노래.",
+   "gloss_en": "Master Chungdam's song praising the hwarang Gipa-rang, likening him to the moon and to a pine that snow cannot bend."
+  },
+  {
+   "id": 14,
+   "tag": "P0013",
+   "is_header": false,
+   "hanmun": "王玉莖長八寸無子廢之。封沙梁夫人。後妃滿月夫人諡景垂大后。依忠角干之女也。王一日詔表訓大德曰。朕無祐不獲其嗣。願大德請於上帝而有之。訓上告於天帝。還來奏云。帝有言。求女即可。男即不宜。王曰。願轉女成男。訓再上天請之。帝曰。可則可矣。然為男則國殆矣。訓欲下時。帝又召曰。天與人不可亂。今師往來如鄰里。漏洩天機。",
+   "hanja": 131,
+   "target_units": 4
+  },
+  {
+   "id": 15,
+   "tag": "P0014",
+   "is_header": false,
+   "hanmun": "今後宜更不通。訓來以天語諭之。王曰。國雖殆。得男而為嗣足矣。於是滿月王后生太子。王喜甚。至八歲王崩。太子即位。是為惠恭大王。幼沖故大后臨朝。政條不理。盜賊蜂起。不遑備禦。訓師之說驗矣。小帝既女為男故。自期晬至於登位。常為婦女之戲。好佩錦囊。與道流為戲。故國有大亂。修為宣德與金良相所弑。自表訓後。聖人不生於新羅云",
+   "hanja": 133,
+   "target_units": 4
+  },
+  {
+   "id": 16,
+   "tag": "S15",
+   "is_header": true,
+   "ko": "혜공왕",
+   "en": "King Hyegong"
+  },
+  {
+   "id": 17,
+   "tag": "P0016",
+   "is_header": false,
+   "hanmun": "大曆之初。康州官署大堂之東。地漸陷成池（一本大寺東小池）從十三尺。橫七尺。忽有鯉魚五六。相繼而漸大。淵亦隨大。至二年丁未。又天狗墜於東樓南。頭如瓮。尾三尺許。色如烈火。天地亦振。又是年。今浦縣稻田五頃中皆米顆成穗。是年七月。北宮庭中先有二星墜地。又一星墜。三星皆沒入地。先時宮北廁圊中二莖蓮生。又奉聖寺田中生蓮。",
+   "hanja": 133,
+   "target_units": 4
+  },
+  {
+   "id": 18,
+   "tag": "P0017",
+   "is_header": false,
+   "hanmun": "虎入禁城中。追覓失之。角干大恭家梨木上雀集無數。據安國兵法下卷云。天下兵大亂。於是大赦修省。七月三日。大恭角干賊起。王都及五道州郡并九十六角干相戰大亂。大恭角干家亡。輸其家資寶帛于王宮。新城長倉火燒。逆黨之寶穀在沙梁牟梁等里中者。亦輸入王宮。亂彌三朔乃息。被賞者頗多。誅死者無算也。表訓之言國殆是也",
+   "hanja": 132,
+   "target_units": 4
+  }
+ ]
+}

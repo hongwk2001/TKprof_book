@@ -1,0 +1,186 @@
+{
+ "chapter_id": "ch_14",
+ "model": "gemma4:12b",
+ "seconds": 175.6,
+ "aligned": 10,
+ "total": 10,
+ "items": {
+  "3": {
+   "tag": "P0002",
+   "ko": [
+    "서른한 번째 신문왕(神文王). 휘는 정명(政明)이며 김씨이다. 개요 원년 신사년 칠월 칠일에 즉위하였다. 성고 문무대왕을 위하여 동해 변에 감은사(感恩寺)를 창건하였다.",
+    "이듬해 임오년 오월 초하루, (원본에 천수 원년이라 한 것은 잘못이다.) 해관 파진찬(波珍喰) 박숙청(朴夙清)이 아뢰기를, \"동해에 작은 산이 떠와 감은사로 향하며 물결을 따라 오고 가니 대왕께서 이를 기이하게 여기셨습니다. \"라고 하였다.",
+    "대왕이 일관(日官) 김춘질(金春質)(한 곳에는 춘일이라 함)에게 명하여 점을 치게 하였다.",
+    "그가 말하기를, \"성고께서는 이제 바다의 용이 되어 삼한을 진호하시며, 또한 김공 유신은 삼십삼천의 하나인 자로서 이제 대신으로 강림하셨습니다. \"라고 하였다.",
+    "\"두 성현의 덕이 서로 같으십니다.\""
+   ],
+   "en": [
+    "The thirty-first, Sinmunwang. His name was Jeongmyeong and he was of the Kim clan. He ascended the throne on the seventh day of the seventh month in the year Sinsa of the Gaeyo era. He constructed Gamsunsa by the East Sea for Seonggo Munmu Daewang.",
+    "On the first day of the fifth month of the following year, Im-o (the original text's mention of Cheonsu is an error), Haegwan Pajinchan and Pak Sokcheong reported, \"A small mountain floated in the East Sea toward Geumeunsa, coming and going with the waves, and the Great King found it strange.\"",
+    "The Great King ordered the official Kim Chunjil (in one place, Chunil) to perform a divination.",
+    "He said, \"Seonggo has now become a dragon of the sea to protect Samhan, and also Kimgong Yushin, as one of the thirty-three thousand, has now descended as a great minister.\"",
+    "The virtue of the two sages is equal to each other."
+   ],
+   "aligned": true
+  },
+  "4": {
+   "tag": "P0003",
+   "ko": [
+    "성을 지키는 보물을 내놓고자 했다. 만약 폐하께서 바다를 건너 행차하신다면 반드시 값을 매길 수 없는 큰 보물을 얻으실 것이다. 왕희(王喜)는 그달 칠일에 수레를 몰아 이견대(利見臺)로 행차하였다.",
+    "그 산을 바라보고 사자를 보내 조사하게 하였다. 산세가 거북 머리 모양이었으며, 위에는 대나무 한 줄기가 있었다.",
+    "낮에는 둘이 되고 밤에는 하나로 합쳐졌다. (어떤 이는 말하기를, 산 또한 낮과 밤에 대나무처럼 열리고 닫힌다고 하였다.)",
+    "사자가 와서 연주하였다. 왕은 감은사(感恩寺)에서 숙박하였다.",
+    "다음 날 낮 열두 시에 대나무가 하나로 합쳐지자 천지가 진동하였고, 바람과 비가 어두운 가운데 일곱 날 동안 이어졌다. 그달 열여섯 날에 이르러 바람이 걷히고 물결이 평온해졌다.",
+    "왕이 바다를 건너 그 산으로 들어갔다. 용 한 마리가 흑옥대(黑玉帶)를 받들어 들고 와 바쳤다. 용이 맞이하며 함께 앉아 물었다. \"이 산과 대나무는 어찌하여 때로는 갈라지고 때로는 합쳐지는가?\" 용이 말했다."
+   ],
+   "en": [
+    "They intended to reveal the treasure for defending the castle. If His Majesty traveled across the sea, he would surely obtain a priceless great treasure. On the seventh day of that month, Wanghui drove his carriage to Igyeondae.",
+    "He looked at the mountain and sent an envoy to investigate it. The shape of the mountain was like a turtle's head, and there was a stalk of bamboo on top.",
+    "It became two during the day and joined into one at night. (Some said that the mountain also opened and closed like bamboo during the day and night.)",
+    "The envoy came and reported it. The King stayed at Geumunsa.",
+    "At noon the next day, when the bamboo joined into one, heaven and earth shook, and wind and rain continued in darkness for seven days. On the sixteenth day of that month, the wind cleared and the waves became calm.",
+    "The king crossed the sea and entered that mountain. A dragon came holding a black jade belt and presented it. The dragon met him, they sat together, and he asked, \"Why do this mountain and the bamboo sometimes split and sometimes join?\" The dragon replied."
+   ],
+   "aligned": true
+  },
+  "5": {
+   "tag": "P0004",
+   "ko": [
+    "한 손으로 치면 소리가 없고, 다른 한 손으로 치면 소리가 난다. 이 대나무는 물건이 합쳐진 후에야 소리가 난다. 성왕(聖王)은 그 소리를 천하의 상서로움으로 여겼다.",
+    "왕이 이 대나무를 취하여 피리로 만들어 불었더니, 천하가 평화로워졌다.",
+    "이제 왕이 죽어 바다 속의 큰 용이 되고, 유신(庾信)이 다시 천신(天神)이 되었다. 두 성인이 마음을 같이하여 이 값진 보물을 내놓으며 나에게 바치라고 명했다.",
+    "왕은 크게 기뻐하며 오색 비단과 금과 옥으로 그 대가에 맞추어 보답했다. 왕이 사자를 내어 대나무를 베어 바다로 나갈 때, 산과 용이 갑자기 숨어 나타나지 않았다.",
+    "왕은 감은사(感恩寺)에서 열일곱 날을 머물렀다. 지림사(祗林寺) 서쪽 시냇가에 이르러 수레와 낮것을 멈추었다. 태자(太子)는 공경하게 대궐을 지켰다(곧 효소왕(孝昭大王)이다)."
+   ],
+   "en": [
+    "When struck with one hand, there was no sound; when struck with the other hand, there was a sound. This bamboo produced sound only after the objects were joined together. Seongwang regarded that sound as an auspicious omen for the world.",
+    "The King took this bamboo, made a flute from it and blew into it, and the world became peaceful.",
+    "Now the King died and became a great dragon in the sea, and Yushin became a heavenly deity again. The two saints joined their hearts and brought out this priceless treasure, commanding that it be offered to me.",
+    "The King was greatly delighted and rewarded it with five-colored silk, gold, and jade in proportion to its value. When the King sent envoys to cut the bamboo and go out to sea, the mountains and the dragon suddenly hid and did not appear.",
+    "The King stayed at Geuneunsa for seventeen days. Upon reaching the stream west of Jirimsa, he stopped his carriage and lunch. The Crown Prince guarded the palace with reverence (who was King Hyoso)."
+   ],
+   "aligned": true
+  },
+  "6": {
+   "tag": "P0005",
+   "ko": [
+    "이 일을 듣고 말을 달려 와서 축하했다. 서찰(徐察)이 상소하기를 \"이 옥대의 여러 구멍은 모두 진정한 용입니다\"라고 하였다. 왕이 \"그것을 어찌 아는가?\"라고 물었다. 태자(太子)가 한 구멍을 뽑아 물에 담가 보여주었다.",
+    "곧 왼쪽에서 두 번째 구멍을 뽑아 시내에 담갔더니, 곧 용이 되어 하늘로 올라갔다.",
+    "그 자리는 연못이 되었고, 이후 이를 용연이라 불렀다. 수레를 타고 돌아와 그 대나무로 피리를 만들고 월성(月城)의 천존고(天尊庫)에 감추었다.",
+    "이 피리를 불면 병사가 물러나고 병이 나으며, 가뭄에 비가 내리고 비가 그치며, 바람이 멎고 파도가 잔잔해졌다.",
+    "이를 만파식적(萬波息笛)이라 부르고 국보로 삼았다. 효소왕(孝昭) 대왕 때 대천수사 계사년에 예절을 잃은 낭생이 돌아온 이상한 일 때문에,",
+    "그 명칭을 다시 만만파파식적이라 봉했다. 자세한 내용은 그 전에서 보라."
+   ],
+   "en": [
+    "Upon hearing of this matter, they rode horses to offer congratulations. Seochal submitted a memorial saying, \"The various holes in this jade belt are all true dragons.\" The King asked, \"How do you know this?\" The Crown Prince pulled out one hole and dipped it in water to show him.",
+    "He pulled out the second hole from the left and dipped it in a stream; it immediately became a dragon and ascended to the heavens.",
+    "That place became a pond and was thereafter called Yongyeon. Returning by carriage, he made a flute from that bamboo and hid it in the Cheonjonggo of Wolseong.",
+    "When this flute was blown, soldiers retreated and illnesses were cured; during droughts, rain fell, and when it rained, the rain stopped; winds ceased and waves became calm.",
+    "They called this Manpaseokjeok and established it as a national treasure. During the fourth year of Daecheonsusa in the reign of King Hyoso, because of the strange occurrence where Nangsaeng, who had lost his manners, returned,",
+    "Its name was renamed Manmanpapasikjeok. See the biography for further details."
+   ],
+   "aligned": true
+  },
+  "8": {
+   "tag": "P0007",
+   "ko": [
+    "서른두 번째 효소왕(孝昭王) 때의 기록이다. 죽지랑(竹曼郎)의 무리 중에 득오(得烏)(일부에서는 곡이라 한다)라는 아간(阿干)이 있었다.",
+    "그의 이름은 풍류황권에 올라 있었으며, 날마다 나아가며 출세하고자 했다. 열흘 동안 보이지 않자, 지랑이 그의 어머니를 불러 아들이 어디에 있는지 물었다.",
+    "어머니가 말했다. \"당전(幢典)을 맡은 양이라는 자가 익선(益宣)의 아간으로서 내 아들을 부산(富山) 성의 창고로 실어 나르려 한다.\" 그가 곧장 달려가 버렸기에 급히 떠나느라 지랑에게 작별 인사를 할 겨를이 없었다.",
+    "지랑이 말했다. \"네 아들이 만약 사사로운 일로 저곳에 갔다면 찾을 필요가 없었을 것이다. 그러나 공적인 일로 나아갔으니 반드시 돌아와야 한다.\" 그러고는 떡과 빵 한 덩이와 술 한 항아리를 내어주었다.",
+    "그는 곧바로 사람(향촌에서는 모두 말을 알아듣는 노비라고 한다)들을 거느리고 길을 떠났다. 지랑의 무리 백서른일곱 명도 모두 갖추어 그를 수행하였다."
+   ],
+   "en": [
+    "This is a record from the thirty-second year of King Hyoso. Among the followers of Juk-morang, there was an Akan named Deok-o (some say Gok).",
+    "His name was listed in the Pungnyu Hwanggwon, and he sought advancement every day. When he was not seen for ten days, Jirang called his mother and asked where her son was.",
+    "The mother said, \"A man named Yang, who was in charge of the Dangjeon and was an Akan of Ikseon, intended to transport my son to the warehouse of Busanseong.\" He had left immediately, so he did not have time to say farewell to Jirang.",
+    "Jirang said, \"If your son had gone there for private matters, there would have been no need to search for him. However, since he went forward for public affairs, he must return.\" Then he gave her a piece of rice cake and bread and a jar of wine.",
+    "He immediately took the people (in the countryside, they are all said to be slaves who understand speech) and set out. One hundred and thirty-seven of Jirang's followers also prepared themselves and accompanied him."
+   ],
+   "aligned": true
+  },
+  "9": {
+   "tag": "P0008",
+   "ko": [
+    "부산(富山)성에 이르러 관원에게 물으니, 새를 잃은 곳이 어디냐고 물었다. 사람이 대답하기를 \"지금 익선(益宣)의 밭에 있다.",
+    "관례에 따라 부역을 나갔으며, 장군은 돌아와 그곳에 술과 떡을 대접하며 머무르기를 청했다. 그러나 익선이 엄격히 금하여 허락하지 않았다\"라고 하였다.",
+    "그때 사리(使吏) 간진(侃珍)이 추화군(推火郡)의 거두는 일을 맡아, 세금 삼십 석을 절제하여 성안으로 운송할 수 있었다.",
+    "장군의 중시(重士)하는 풍모로 인해 비천한 선비가 몰래 막아서 통과하지 못하게 하자, 그가 소령한 삼십 석을 익선에게 주어 청탁을 도왔으나 여전히 허락하지 않았다.",
+    "그가 다시 간진이 거두는 세금의 사지(舍知)를 맡은 것을 이용하여 말과 안장을 갖추어 그에게 주었다. 그러자 비로소 허락하였다. 조정에서 화물을 주관하는 자가 이 소식을 듣고 사자를 보내 익선을 데려왔다.",
+    "그들은 익선의 더러운 모습을 씻어내고자 하였으나, 익선은 도망쳐 숨어버렸다."
+   ],
+   "en": [
+    "Arriving at Busanseong, he asked an official where the bird was lost. The person replied, \"It is currently in the field of Ikseon.\"",
+    "He went to perform labor according to custom, and the general returned there to offer him wine and rice cakes and requested to stay. However, Ikseon strictly forbade it and did not permit him.",
+    "At that time, the official Ganjin, who was in charge of collecting for Chuhwagun, could transport thirty seok of tax into the city.",
+    "Because of the general's demeanor of honoring scholars, a lowly scholar secretly blocked the way so that he could not pass; however, he gave the thirty stones he had collected to Ikseon to seek favor, but it was still not permitted.",
+    "He then used the fact that Ganjin was in charge of collecting taxes to provide him with a horse and saddle, and only then did Ikseon permit it. The official in charge of goods in the royal court heard of this and sent an envoy to bring Ikseon.",
+    "They sought to wash away the filth of Iksun, but Iksun fled and hid."
+   ],
+   "aligned": true
+  },
+  "10": {
+   "tag": "P0009",
+   "ko": [
+    "그의 장남을 빼앗아 가버렸다. 때마침 겨울이 깊어 매우 추운 날이었다. 성 안의 못에서 목욕을 하다가 얼어 죽었다.",
+    "대왕이 이 소식을 듣고 모량리(牟梁里) 사람 중 관직에 있는 자들을 모두 파면하여 내쫓았으며, 공공기관에도 출입하지 못하게 하고 검은 옷도 입지 못하게 했다.",
+    "만약 승려라면 종고사(鍾鼓寺) 안으로 들어오는 것이 옳지 않다. 사관이 이를 꾸짖었다.",
+    "진자손이 빗질을 하다가 정호손의 표식이 달라지는 것을 보고 이상히 여겼다. 당시 원측 법사(法師)는 해동의 고덕이었다. 모량리 사람이라는 이유로 승려의 직무를 부여받지 못했다.",
+    "처음에 술종공(述宗公)이 삭주도독사로 임명되어 관청으로 돌아가려 할 때, 삼한의 군대가 난을 일으켰다. 기병 삼천을 동원하여 그를 호송하였다. 죽지(竹旨) 고개에 이르렀다."
+   ],
+   "en": [
+    "They took away his eldest son. It was a day of extreme cold in late winter. He died of freezing while bathing in a pond inside the fortress.",
+    "When the Great King heard of this, he dismissed and expelled all those from Muryangni who held official positions, and forbade them from entering public offices or wearing black clothes.",
+    "If he were a monk, it was not proper for him to enter Jonggoseo. The historian rebuked this.",
+    "Jin Jaseon found it strange when he saw the mark of Jeong Hoseon change while he was combing hair. At that time, the monk Woncheuk was a virtuous person of Haedong. Because he was from Muryangri, he was not granted the duties of a monk.",
+    "When Suljonggong was appointed as the Governor of Sakju and attempted to return to his office, the armies of Samhan rose in rebellion. Three thousand cavalry were mobilized to escort him. They reached Jukji Pass."
+   ],
+   "aligned": true
+  },
+  "11": {
+   "tag": "P0010",
+   "ko": [
+    "한 거사(居士)가 그 고개 길을 정비하였다. 공이 그것을 보고 감탄하며 찬양하였다.",
+    "거사 또한 공의 위엄과 기세가 매우 훌륭함을 알고 마음으로 서로 교감하였다. 공은 주를 찾아 떠났고, 한 달이 지난 뒤 꿈속에서 거사가 방 안으로 들어오는 것을 보았다.",
+    "집안사람들도 같은 꿈을 꾸었으며, 모두들 매우 놀라고 이상하게 여겼다. 다음 날 사람을 보내 그 거사의 안부를 물었다.",
+    "사람이 돌아와 그의 죽음을 알리자, 그것은 꿈과 같은 날이었다. 공이 말하기를 \"아마도 거사가 우리 집에서 태어났을 것이다\"라고 하였다.",
+    "그는 군사를 시켜 산 위 북쪽 봉우리에 장례를 치르게 하고, 돌로 만든 미륵(彌勒) 한 구를 만들어 무덤 앞에 안치하였다. 아내는 꿈을 꾼 날부터 회임하였고, 아이가 태어나자 죽을 죽(竹旨)이라 이름 지었다.",
+    "그는 장성하여 관직에 나갔으며, 유신공(庾信公)의 부순으로 삼한을 통솔하였다. 진덕여왕(眞德), 태종, 문무, 신문왕(神文) 네 대가 무덤을 지키며 그 나라를 안정시켰다."
+   ],
+   "en": [
+    "A hermit repaired the road over that pass. The Lord saw it and marveled and praised it.",
+    "The hermit also knew that the lord's dignity and spirit were very magnificent and they shared a mutual feeling in their hearts. The lord went to the capital, and after one month, he saw the hermit entering his room in a dream.",
+    "The household members also had the same dream, and everyone found it very startling and strange. The next day, a person was sent to inquire about the well-being of the resident.",
+    "When the person returned and informed him of the man's death, it was on the same day as the dream. The lord said, \"Perhaps the man was born in my house.\"",
+    "He ordered soldiers to perform the funeral on a northern peak of the mountain and had a stone Maitreya placed before the tomb. His wife became pregnant from the day of the dream, and when the child was born, he named him Jukjuk.",
+    "He grew up and entered government service, and as the deputy commander of Yusin-gong, he ruled the three Han. Four generations—Jindeok, Taejong, Munmu, and Sinmun—guarded the tomb and stabilized the land."
+   ],
+   "aligned": true
+  },
+  "12": {
+   "tag": "P0011",
+   "ko": [
+    "득오가 죽지랑을 그리워하여 지은 노래다. 이미 지나가 버린 봄을 돌이키며, 뵙지 못하는 사이에 고우시던 그 모습도 늙어 가실 것을 슬퍼하고, 눈 돌릴 만한 짧은 동안이나마 다시 뵙기를 바라는 마음을 담았다."
+   ],
+   "en": [
+    "Deugo made this song out of longing for Jukji-rang. It turns back toward a spring already gone, grieves that his lord's face must be growing old while they are kept apart, and wishes for a meeting again, if only for as long as it takes to turn one's eyes."
+   ],
+   "aligned": true,
+   "manual": true
+  },
+  "14": {
+   "tag": "P0013",
+   "ko": [
+    "제삼십삼 성덕왕(聖德王). 신룡 이년 병오년에 곡식이 자라지 않아 백성들이 매우 굶주렸다.",
+    "정미년 정월 초하루부터 칠월 삼십일까지 백성을 구제하고 세금을 감면하였다. 한 입에 하루에 세 되를 주는 것을 법으로 삼았다. 일을 마친 뒤 계산하니 삼십만 오백 석이었다.",
+    "왕은 태종대왕(太宗大王)이 봉덕사(奉德寺)를 세우고 인왕도장(仁王道場)을 설치하였다. 칠일 대사(大赦)를 베풀었다. 처음으로 시중(侍中) 직책이 생겼다(본래는 효성왕(孝成王) 때의 일이다)."
+   ],
+   "en": [
+    "Thirty-three. King Seongdeok. In the second year of Sinnyong, a year of Byeongo, grain did not grow and the people suffered from severe hunger.",
+    "From the first day of the first month of the year Jeongmi until the thirtieth day of the seventh month, he saved the people and reduced taxes. He established a rule to provide three *doe* per person per day. After finishing the task, the calculation was 300,500 *seok*.",
+    "The king established Bongdeoksa and established the Inwangdojang, which King Taejong had established. He granted a general amnesty for seven days. The position of Sijung was first created (it was originally during the reign of King Hyoseong)."
+   ],
+   "aligned": true
+  }
+ }
+}

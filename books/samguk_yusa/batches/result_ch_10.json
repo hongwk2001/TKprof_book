@@ -1,0 +1,129 @@
+{
+ "chapter_id": "ch_10",
+ "model": "gemma4:12b",
+ "seconds": 173.8,
+ "aligned": 7,
+ "total": 7,
+ "items": {
+  "3": {
+   "tag": "P0002",
+   "ko": [
+    "스물여덟, 진덕여왕. 여왕은 즉위하자마자 태평가라는 노래를 지었다. 여왕은 비단을 짜서 그 위에 무늬를 새겼다. 그리고 사신을 보내 당나라에 바치게 했다.",
+    "당나라 황제는 이를 크게 칭찬했다. 황제는 여왕의 봉호를 계림국왕으로 고쳐주었다. 노래 가사는 이러하다. \"대당이 큰 일을 열어 위엄이 높고, 황제의 계획이 번창하니 전쟁의 무기가 멈추고.\"",
+    "\"무용의 위엄이 정해져 문화를 닦으며 백 왕의 뜻을 하나로 모았다.",
+    "하늘의 비가 내리고 만물의 이치를 펼치니, 글귀를 품은 깊은 어짊이 해와 달과 별을 조화롭게 한다. 군대의 기세가 당나라의 깃발 아래 드높으니 그 위용이 얼마나 대단한가.\"",
+    "\"북소리가 울려 퍼지니 그 소리가 참으로 웅장하다. 변방의 무리들이 명령을 어긴 자들을 벌하고, 하늘의 재앙을 막으며 고결한 풍모를 드러내어 길고 가까운 곳에 상서로움을 바친다.",
+    "사계절이 조화롭고 일곱 별이 방위를 돌며 산을 보좌한다. 황제는 충성스러운 이들을 임명하여 다섯과 셋을 하나로 합치니, 그 덕이 우리 당나라 황제의 대를 대신할 알천공과 같다.\""
+   ],
+   "en": [
+    "Twenty-eight, Queen Jindeok. Upon her accession, the queen composed a song called Taepyeongga. She wove silk and embroidered it with patterns. Then she sent envoys to offer it to the Tang Dynasty.",
+    "The Emperor of Tang praised this greatly. The Emperor changed the Queen's title to the King of Gyerim. The lyrics were as follows: \"Great Tang opened great works and its majesty is towering; the Emperor's plans flourish, so the weapons of war have ceased.\"",
+    "The majesty of martial prowess was established as culture was cultivated and the wills of a hundred kings were unified into one.",
+    "The rain of heaven falls and the principles of all things are spread forth, while deep benevolence containing the words harmonizes the sun, moon, and stars. The spirit of the army rises high under the banners of the Great Tang; how magnificent is its majesty?",
+    "The sound of drums resounded and that sound was truly grand. The people of the frontiers punished those who disobeyed orders, averted heavenly calamities, and revealed noble character to offer auspiciousness to both far and near places.",
+    "The four seasons are harmonious and the seven stars rotate through their directions to assist the mountains. The emperor appointed loyal people and unified five and three into one; that virtue is like Alcheon-gong, who succeeded the emperors of our Tang Dynasty."
+   ],
+   "aligned": true
+  },
+  "4": {
+   "tag": "P0003",
+   "ko": [
+    "임종공과 술종공, 호림공(자장 스님의 아버지), 염장공, 그리고 유신공이 남산의 알지암에서 나라의 일을 논의했다. 이때 커다란 호랑이 한 마리가 좌석 사이로 뛰어 들어왔다.",
+    "다른 이들이 깜짝 놀라 일어났으나 알천공은 거의 움직이지 않았다. 그는 웃으며 태연하게 대화에 참여했다. 그러고는 호랑이 꼬리를 붙잡아 땅에 메치며 죽였다. 알천공의 힘이 이토록 대단했다.",
+    "알천공은 자리에 앉아 있었으나, 다른 이들은 모두 유신공의 위엄에 감복했다. 신라에는 사령지라는 네 곳의 성스러운 땅이 있었다. 큰일을 논의할 때 대신들이 반드시 그곳에 모여 도모하면 일이 반드시 이루어졌다.",
+    "동쪽은 청송산이라 부르고, 두 번째는 남알지산이다. 세 번째는 서피전이며, 네 번째는 북금강산이다. 이 땅들은 왕이 새해 첫날의 예법을 시작하고 시랑이라는 관직명을 처음으로 만든 곳들이다."
+   ],
+   "en": [
+    "Imjonggong, Suljonggong, Horimgong (the father of Jajang), Yeomjanggong, and Yusin-gong discussed state affairs at Aljiam in Namsan. At that time, a large tiger leaped into the space among their seats.",
+    "The others jumped up in surprise, but Alcheon-gong hardly moved. He participated in the conversation with a smile and composure. Then he seized the tiger's tail, slammed it to the ground, and killed it. The strength of Alcheon-gong was thus great.",
+    "Alcheon-gong sat in his place, but the others were all impressed by the majesty of Yusin-gong. Silla had four sacred lands called Saryeongji. When ministers gathered at those places to plan great matters, the deeds were bound to succeed.",
+    "The first was called Cheongsongsan, the second was Namaljisan, the third was Seopijeon, and the fourth was Bukgeumgangsan. These were the places where the king first established the New Year's rituals and first created the title of Sirang."
+   ],
+   "aligned": true
+  },
+  "6": {
+   "tag": "P0005",
+   "ko": [
+    "호력이라는 사람의 아들로, 서현이라는 이름의 각간이 있었다. 금씨 가문의 장남은 유신이라 불렀고, 동생은 흠돈이라 불렀다. 누이는 보희라고 불렀으며, 작은 이름은 아해였다. 여동생은 문희라 불렸고, 작은 이름은 아지였다.",
+    "유신은 진평왕 열일곱 해 을묘년에 태어났다. 그는 일곱 행성의 기운을 타고나 등에 일곱 별의 문양이 있었다. 또한 여러 신비한 능력을 갖추었다. 그는 열여덟 살 임신년에 도술을 익혀 나라의 수호자로 임명되었다.",
+    "그때 백석이라는 자가 있었다. 그는 어디서 왔는지 알 수 없었으나 무리 속에 머문 지 오래된 이였다. 유신은 고구려를 정벌할 일을 밤낮으로 깊이 고민했다. 백석은 유신의 계획을 알아차리고 그에게 다가와 말했다.",
+    "\"제가 공과 함께 비밀리에 먼저 적진을 살피고 나서야 계획을 세우는 것이 어떻겠습니까?\"라고 제안했다. 유신은 이 말을 듣고 매우 기뻐했다."
+   ],
+   "en": [
+    "There was a Gakgan named Seohyeon, who was the son of a man named Horyeok. The eldest son of the Kim clan was called Yusin, and his younger brother was called Heumdon. His sister was called Bohee, and her childhood name was Ahae. His younger sister was called Munhui, and her childhood name was Aji.",
+    "Yusin was born in the year of Eulmyo, the seventeenth year of King Jinpyeong. He inherited the energy of the seven planets and had the patterns of seven stars on his back. He also possessed many mysterious abilities. In the year of Imsin, when he was eighteen, he mastered magic and was appointed as a guardian of the state.",
+    "At that time, there was a man named Baekseok. It was unknown where he came from, but he had been among the group for a long time. Yusin pondered deeply day and night on the matter of conquering Goguryeo. Baekseong discerned Yusin's plan and approached him and said.",
+    "\"How about I secretly scout the enemy lines with you first before we devise a plan?\" he suggested. Yushin was very pleased to hear this."
+   ],
+   "aligned": true
+  },
+  "7": {
+   "tag": "P0006",
+   "ko": [
+    "그는 백석을 데리고 밤에 길을 나섰다. 그들은 고개 위에서 잠시 쉬었다. 두 여자가 사내를 따라 함께 이동했다. 골화천에 이르러 머무를 때, 또 다른 한 여자가 갑자기 나타났다.",
+    "공은 세 처녀와 기쁘게 이야기를 나누었다. 처녀들은 맛 좋은 과일을 가져와 그에게 주었다. 사내는 그것을 받아 먹으며 마음속으로 서로 약속했다. 그러고 나서 그는 자신의 사정을 말하였다.",
+    "처녀들은 공이 말한 내용이 이미 명령에 포함되었다고 말했다. 처녀들은 공에게 백석과 작별하고 함께 숲으로 들어가라며 진심을 다시 고했다. 그들은 함께 들어갔다.",
+    "처녀들은 신령스러운 형상을 드러내며 자신들이 나림, 혈례, 골화 등 세 곳을 지키는 수호신이라고 말했다. 적국의 사람이 사내를 유인하여 데려왔는데, 사내는 이를 모르고 길을 나아갔다고 말했다."
+   ],
+   "en": [
+    "He took Baekseok and set out at night. They rested briefly on a ridge. Two women traveled with the man. When they arrived at Golhwacheon and stayed there, another woman suddenly appeared.",
+    "Gong spoke joyfully with the three maidens. The maidens brought delicious fruit and gave it to him. He received and ate it, and they made a promise in their hearts. Then he told them of his circumstances.",
+    "The maidens said that what Gong had spoken was already included in the orders. The maidens urged him once more to bid farewell to Baekseok and enter the forest with them. They entered together.",
+    "The maidens revealed their divine forms and said they were the guardian deities of three places: Narim, Hyeollye, and Golhwa. They said a person from an enemy nation had lured the man and brought him here, but he had proceeded along the path without knowing it."
+   ],
+   "aligned": true
+  },
+  "8": {
+   "tag": "P0007",
+   "ko": [
+    "나는 랑을 데리고 이곳까지 왔다. 말을 마치고 숨어버렸다. 공은 그 말을 듣고 깜짝 놀랐다. 그는 다시 절하며 밖으로 나왔다.",
+    "그는 골화관에서 머물렀다. 그는 백석에게 말했다. \"지금 다른 나라로 돌아가면 중요한 글을 잊게 된다. 그러니 너와 함께 집으로 가서 그것을 가져오자.\"",
+    "그들은 함께 집으로 돌아갔다. 그들은 백석을 결박하고 상황을 물었다. 백석이 대답했다. \"나는 원래 고구려 사람이다.",
+    "우리 나라 신하들이 말하기를, 신라의 유신은 우리 나라 점술가인 추남이라고 했다. (고본은 춘남이나 잘못된 것이다.)",
+    "\"국경에 거꾸로 흐르는 물이 있어 그에게 점을 치게 했다.",
+    "그는 대왕과 부인이 음양의 도를 거슬러 가고 있으니 길조가 이러하다고 보고했다. 대왕은 이를 이상하게 여겼고, 왕비는 크게 노했다. (혹은 웅어라 하며, 특히 뒤바뀐 일을 뜻한다.)"
+   ],
+   "en": [
+    "I brought Rang to this place. After finishing the words, he hid. Gong heard those words and was startled. He bowed again and came out.",
+    "He stayed at Golhwagwan. He said to Baekseok, \"If we return to another country now, the important writings will be forgotten. Therefore, let us go to your home together and bring them back.\"",
+    "They returned home together. They bound Baekseok and questioned him about the situation. Baekseok replied, \"I am originally a person of Goguryeo.\"",
+    "The officials of our country said that the Silla's Yushin was Chunam, a diviner of our country. (The old version is Chunnam, but it is incorrect.)",
+    "There was a river flowing backward at the border, and they had him divine it.",
+    "He reported that because the Great King and his wife were going against the way of Yin and Yang, the auspicious signs were such. The Great King found this strange, and the Queen was greatly enraged. (Or it is called Ungeo, which specifically refers to matters that are reversed.)"
+   ],
+   "aligned": true
+  },
+  "9": {
+   "tag": "P0008",
+   "ko": [
+    "이것은 여우가 하는 말이라고 여겼다. 그들은 이 말을 대왕에게 보고했다. 다른 일로 질문하여 시험했고, 만약 잘못 말하면 형벌을 더 무겁게 내렸다.",
+    "그들은 쥐 한 마리를 주머니 속에 숨겼다. 그리고 이것이 무엇인지 물었다. 그 사람이 \"이것은 분명히 쥐입니다\"라고 대답했다. 쥐의 목숨은 여덟 개였다.",
+    "사람들이 그가 잘못 말한 줄 알고 베어버리려 했다. 그 사람은 죽기 전에 \"내가 죽은 뒤에 장군이 되어 반드시 고구려를 멸하겠다\"고 맹세했다. 곧 그를 처형했다.",
+    "쥐의 배를 갈라 보니 목숨이 일곱 개였다. 이로써 앞선 말이 사실임이 드러났다.",
+    "대왕은 밤낮으로 추남이 신라 서현공 부인의 품에 안기는 꿈을 꾸었다. 이를 신하들에게 알리자, 그들은 모두 \"추남이 죽기 전 맹세한 것이 틀림없으니 반드시 이루어질 것이다\"라고 말했다."
+   ],
+   "en": [
+    "They considered this to be the words of a fox and reported them to the Great King. They tested him with other matters, and if he spoke incorrectly, they imposed a heavier punishment.",
+    "They hid a mouse in a pouch and asked what it was. The man replied, \"It is certainly a mouse.\" The mouse had eight lives.",
+    "They thought he had spoken incorrectly and intended to behead him. Before he died, the man swore, \"After my death, I will become a great general and surely destroy Goguryeo.\" They executed him immediately.",
+    "They cut open the belly of the rat and found seven lives inside. Thus, it was revealed that his previous words were true.",
+    "The Great King dreamed day and night of Chunam being held in the arms of the wife of Seohyeongong of Silla. When he informed his officials, they all said, \"Since Chunnam swore before his death, it is certain to come true.\""
+   ],
+   "aligned": true
+  },
+  "10": {
+   "tag": "P0009",
+   "ko": [
+    "공은 백석을 형벌했다. 공은 백 가지 제물을 준비하여 세 신령에게 제사를 지냈다. 그러자 신령들이 모두 몸을 나타내어 제물을 받았다.",
+    "김씨 종재가 부인의 죽음을 사서 청연 상곡에 장사 지냈다. 이 때문에 그곳을 재매곡이라 불렀다. 매년 봄달이 뜨면 한 종족의 사내와 여인들이 그 골짜기 남쪽 시냇가에서 잔치를 벌였다.",
+    "그때 백 가지 꽃이 활짝 피고 소나무 꽃이 동굴에 가득했다. 숲과 골짜기 입구에 건물을 세워 암자로 삼았다. 이를 송화방이라 불렀으며 나중에 원찰이 되었다. 오십사 년 경명왕은 공을 흥호대왕으로 추봉했다."
+   ],
+   "en": [
+    "The Duke punished Baekseok. The Duke prepared a hundred types of offerings and performed a ritual for the three spirits. Then, the spirits all appeared and accepted the offerings.",
+    "Kim Jongjae of the Kim clan purchased the death of his wife and buried her in Cheongyeon Sanggok. For this reason, the place was called Jaemaegok. Every year when the spring moon rose, the men and women of a clan held a feast at the stream south of that valley.",
+    "At that time, a hundred kinds of flowers bloomed in full and pine flowers filled the cave. A building was erected at the entrance of the forest and valley to serve as a hermitage. It was called Songhwabang and later became a Wonchal. In the fifty-fourth year, King Gyeongmyeong posthumously honored him as Heungho Daewang."
+   ],
+   "aligned": true
+  }
+ }
+}

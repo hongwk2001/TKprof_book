@@ -1,0 +1,131 @@
+
+=== ch_01 나라의 시작: 단군왕검 — 10 items, model=gemma4:12b
+  [ 1/10] P0002  131h   14.7s+ 15.4s  ko=4 en=4 (slot-wise)
+  [ 2/10] P0003   46h    4.7s+  7.2s  ko=2 en=2 (slot-wise)
+  [ 3/10] P0005  105h    6.7s+ 15.8s  ko=4 en=4 (slot-wise)
+  [ 4/10] P0006  134h    7.8s+ 19.0s  ko=5 en=5 (slot-wise)
+  [ 5/10] P0007  126h    7.1s+ 15.7s  ko=4 en=4 (slot-wise)
+  [ 6/10] P0008   60h    4.9s+  7.9s  ko=2 en=2 (slot-wise)
+  [ 7/10] P0010  131h    7.8s+ 18.9s  ko=5 en=5 (slot-wise)
+  [ 8/10] P0011  133h    7.7s+ 16.0s  ko=4 en=4 (slot-wise)
+  [ 9/10] P0012  133h    7.2s+ 15.9s  ko=4 en=4 (slot-wise)
+  [10/10] P0013  158h    7.9s+ 16.6s  ko=4 en=4 (slot-wise)
+  -> result_ch_01.json  10/10 aligned, 3.8 min
+
+=== ch_02 옛 나라들 — 13 items, model=gemma4:12b
+  [ 1/13] P0002  132h    7.2s+ 16.1s  ko=4 en=4 (slot-wise)
+  [ 2/13] P0003   89h    5.5s+  8.3s  ko=2 en=2 (slot-wise)
+  [ 3/13] P0005   48h    4.2s+  4.5s  ko=1 en=1
+  [ 4/13] P0007   52h    4.7s+  7.4s  ko=2 en=2 (slot-wise)
+  [ 5/13] P0009  135h    6.9s+ 16.0s  ko=4 en=4 (slot-wise)
+  [ 6/13] P0010   36h    4.1s+  3.9s  ko=1 en=1
+  [ 7/13] P0012   41h    4.2s+  4.3s  ko=1 en=1
+  [ 8/13] P0014   47h    4.5s+  7.5s  ko=2 en=2 (slot-wise)
+  [ 9/13] P0016  134h    7.4s+ 16.4s  ko=4 en=4 (slot-wise)
+  [10/13] P0017  113h    5.9s+ 12.1s  ko=3 en=3 (slot-wise)
+  [11/13] P0018  143h    7.4s+ 19.3s  ko=5 en=5 (slot-wise)
+  [12/13] P0020   60h    4.7s+  7.7s  ko=2 en=2 (slot-wise)
+  [13/13] P0022   99h    6.2s+ 12.3s  ko=3 en=3 (slot-wise)
+  -> result_ch_02.json  13/13 aligned, 3.5 min
+
+=== ch_03 주몽, 고구려를 세우다 — 8 items, model=gemma4:12b
+  [ 1/8] P0002  101h    6.0s+ 12.0s  ko=3 en=3 (slot-wise)
+  [ 2/8] P0004  132h    7.2s+ 16.0s  ko=4 en=4 (slot-wise)
+  [ 3/8] P0005   43h    4.5s+  4.3s  ko=1 en=1
+  [ 4/8] P0007  115h    6.2s+ 15.3s  ko=4 en=4 (slot-wise)
+  [ 5/8] P0008  132h    7.9s+ 19.2s  ko=5 en=5 (slot-wise)
+  [ 6/8] P0009  133h    7.9s+ 22.9s  ko=6 en=6 (slot-wise)
+  [ 7/8] P0010  129h    7.1s+ 12.7s  ko=3 en=3 (slot-wise)
+  [ 8/8] P0011   83h    5.4s+ 11.4s  ko=3 en=3 (slot-wise)
+  -> result_ch_03.json  8/8 aligned, 2.8 min
+
+=== ch_04 혁거세, 알에서 나다 — 12 items, model=gemma4:12b
+  [ 1/12] P0002  131h    6.4s+ 15.8s  ko=4 en=4 (slot-wise)
+  [ 2/12] P0003   82h    5.2s+  8.0s  ko=2 en=2 (slot-wise)
+  [ 3/12] P0005  113h    6.8s+ 18.2s  ko=5 en=5 (slot-wise)
+  [ 4/12] P0006  206h    8.9s+ 25.3s  ko=6 en=6 (slot-wise)
+  [ 5/12] P0008   43h    4.6s+  7.3s  ko=2 en=2 (slot-wise)
+  [ 6/12] P0010  121h    6.4s+ 15.6s  ko=4 en=4 (slot-wise)
+  [ 7/12] P0011  117h    6.3s+ 12.2s  ko=3 en=3 (slot-wise)
+  [ 8/12] P0012  134h    6.8s+ 18.8s  ko=5 en=5 (slot-wise)
+  [ 9/12] P0013  135h    7.2s+ 16.0s  ko=4 en=4 (slot-wise)
+  [10/12] P0014  123h    6.7s+ 18.1s  ko=5 en=5 (slot-wise)
+  [11/12] P0015  135h    7.5s+ 19.2s  ko=5 en=5 (slot-wise)
+  [12/12] P0016  113h    6.5s+ 15.4s  ko=4 en=4 (slot-wise)
+  -> result_ch_04.json  12/12 aligned, 4.5 min
+
+=== ch_05 탈해, 궤에서 나온 왕 — 9 items, model=gemma4:12b
+  [ 1/9] P0002  133h    6.6s+ 15.6s  ko=4 en=4 (slot-wise)
+  [ 2/9] P0003  130h    7.6s+ 19.2s  ko=5 en=5 (slot-wise)
+  [ 3/9] P0004   89h    5.6s+ 11.6s  ko=3 en=3 (slot-wise)
+  [ 4/9] P0006  127h    6.9s+ 18.7s  ko=5 en=5 (slot-wise)
+  [ 5/9] P0008  128h    6.3s+ 12.3s  ko=3 en=3 (slot-wise)
+  [ 6/9] P0009  135h    6.9s+ 15.6s  ko=4 en=4 (slot-wise)
+  [ 7/9] P0010  135h    7.4s+ 18.6s  ko=5 en=5 (slot-wise)
+  [ 8/9] P0011  134h    7.2s+ 15.5s  ko=4 en=4 (slot-wise)
+  [ 9/9] P0012  148h    7.7s+ 19.3s  ko=5 en=5 (slot-wise)
+  -> result_ch_05.json  9/9 aligned, 3.5 min
+
+=== ch_06 황금 궤와 해와 달 — 7 items, model=gemma4:12b
+  [ 1/7] P0002  134h    7.5s+ 16.1s  ko=4 en=4 (slot-wise)
+  [ 2/7] P0003   63h    5.3s+  7.7s  ko=2 en=2 (slot-wise)
+  [ 3/7] P0005  135h    7.4s+ 19.4s  ko=5 en=5 (slot-wise)
+  [ 4/7] P0006   92h    5.8s+ 14.6s  ko=4 en=4 (slot-wise)
+  [ 5/7] P0008  134h    7.3s+ 19.0s  ko=5 en=5 (slot-wise)
+  [ 6/7] P0009  132h    6.7s+ 18.2s  ko=5 en=5 (slot-wise)
+  [ 7/7] P0010  131h    7.1s+ 16.0s  ko=4 en=4 (slot-wise)
+  -> result_ch_06.json  7/7 aligned, 2.6 min
+
+=== ch_07 김제상의 충절 — 10 items, model=gemma4:12b
+  [ 1/10] P0002  127h    6.6s+ 15.7s  ko=4 en=4 (slot-wise)
+  [ 2/10] P0003  135h    7.5s+ 18.8s  ko=5 en=5 (slot-wise)
+  [ 3/10] P0004  135h    7.4s+ 19.0s  ko=5 en=5 (slot-wise)
+  [ 4/10] P0005  130h    7.5s+ 18.8s  ko=5 en=5 (slot-wise)
+  [ 5/10] P0006  135h    7.3s+ 18.4s  ko=5 en=5 (slot-wise)
+  [ 6/10] P0007  131h    6.9s+ 18.6s  ko=5 en=5 (slot-wise)
+  [ 7/10] P0008  133h    7.2s+ 18.9s  ko=5 en=5 (slot-wise)
+  [ 8/10] P0009  128h    6.5s+ 15.1s  ko=4 en=4 (slot-wise)
+  [ 9/10] P0010  130h    7.0s+ 15.9s  ko=4 en=4 (slot-wise)
+  [10/10] P0011   69h    5.3s+  7.8s  ko=2 en=2 (slot-wise)
+  -> result_ch_07.json  10/10 aligned, 3.9 min
+
+=== ch_08 거문고 갑을 쏘다 — 6 items, model=gemma4:12b
+  [ 1/6] P0002   67h    5.1s+  8.0s  ko=2 en=2 (slot-wise)
+  [ 2/6] P0004  132h    7.5s+ 22.0s  ko=6 en=6 (slot-wise)
+  [ 3/6] P0005  104h    6.7s+ 15.3s  ko=4 en=4 (slot-wise)
+  [ 4/6] P0007  132h    6.9s+ 16.0s  ko=4 en=4 (slot-wise)
+  [ 5/6] P0008  113h    6.3s+ 14.7s  ko=4 en=4 (slot-wise)
+  [ 6/6] P0010  131h    7.0s+ 15.6s  ko=4 en=4 (slot-wise)
+  -> result_ch_08.json  6/6 aligned, 2.2 min
+
+=== ch_09 도화녀와 비형랑 — 10 items, model=gemma4:12b
+  [ 1/10] P0002  133h    8.3s+ 23.0s  ko=6 en=6 (slot-wise)
+  [ 2/10] P0003  134h    7.7s+ 19.0s  ko=5 en=5 (slot-wise)
+  [ 3/10] P0004  132h    7.2s+ 18.7s  ko=5 en=5 (slot-wise)
+  [ 4/10] P0005  117h    6.6s+ 14.9s  ko=4 en=4 (slot-wise)
+  [ 5/10] P0007  133h    7.8s+ 19.1s  ko=5 en=5 (slot-wise)
+  [ 6/10] P0008   60h    5.2s+  7.8s  ko=2 en=2 (slot-wise)
+  [ 7/10] P0010  135h    7.2s+ 18.9s  ko=5 en=5 (slot-wise)
+  [ 8/10] P0011  133h    7.3s+ 15.3s  ko=4 en=4 (slot-wise)
+  [ 9/10] P0012  134h    7.1s+ 19.0s  ko=5 en=5 (slot-wise)
+  [10/10] P0013   60h    4.7s+  7.3s  ko=2 en=2 (slot-wise)
+  -> result_ch_09.json  10/10 aligned, 3.9 min
+
+=== ch_10 김유신 — 7 items, model=gemma4:12b
+  [ 1/7] P0002  147h    8.6s+ 22.9s  ko=6 en=6 (slot-wise)
+  [ 2/7] P0003  142h    7.3s+ 16.2s  ko=4 en=4 (slot-wise)
+  [ 3/7] P0005  133h    7.4s+ 16.2s  ko=4 en=4 (slot-wise)
+  [ 4/7] P0006  129h    6.8s+ 15.3s  ko=4 en=4 (slot-wise)
+  [ 5/7] P0007  135h    7.2s+ 22.1s  ko=6 en=6 (slot-wise)
+  [ 6/7] P0008  135h    7.1s+ 18.6s  ko=5 en=5 (slot-wise)
+  [ 7/7] P0009  106h    6.1s+ 12.1s  ko=3 en=3 (slot-wise)
+  -> result_ch_10.json  7/7 aligned, 2.9 min
+
+=== ch_11 태종 춘추공 (상) — 12 items, model=gemma4:12b
+  [ 1/12] P0001  134h    7.6s+ 19.4s  ko=5 en=5 (slot-wise)
+  [ 2/12] P0002  131h    8.3s+ 19.7s  ko=5 en=5 (slot-wise)
+  [ 3/12] P0003  135h    7.6s+ 16.2s  ko=4 en=4 (slot-wise)
+  [ 4/12] P0004  132h    7.0s+ 16.1s  ko=4 en=4 (slot-wise)
+  [ 5/12] P0005  132h    7.8s+ 16.1s  ko=4 en=4 (slot-wise)
+  [ 6/12] P0006  132h    7.6s+ 19.4s  ko=5 en=5 (slot-wise)
+  [ 7/12] P0007  128h    7.1s+ 15.7s  ko=4 en=4 (slot-wise)

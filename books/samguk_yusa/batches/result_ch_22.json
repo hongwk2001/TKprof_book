@@ -1,0 +1,259 @@
+{
+ "chapter_id": "ch_22",
+ "model": "gemma4:12b",
+ "seconds": 257.0,
+ "aligned": 14,
+ "total": 14,
+ "items": {
+  "2": {
+   "tag": "P0001",
+   "ko": [
+    "왕을 지극히 높이게 하라. 아랫사람이 왕을 발아래에 두는 것은 존비의 질서를 어지럽히는 것이다. 위아래가 함께 걱정하니, 이는 원보(元輔)의 충성심이 순수하지 못하면 어찌 사직을 다시 편안하게 할 수 있겠는가.",
+    "내 마음은 악한 것을 숨기지 않으며 왕을 받드는 뜻이 간절하다. 이를 조정에 보태어 나라와 국가를 돕게 하라.",
+    "그대는 아주 작은 이익을 보고 천지의 두터운 은혜를 잊었으며, 군주를 베고 궁궐을 불사르고 신하들을 모욕하며 백성을 가혹하게 다루었다.",
+    "그들은 사악함이 걸(桀)과 주(紂)에 부풀어 있고, 인색함이 더욱 심하여 악의 끝이 하늘을 무너뜨릴 듯하다. 그 성실함은 날마다 멀어지고, 약속한 행동은 매의 추격과 같았다."
+   ],
+   "en": [
+    "Exalt the king to the highest degree. For a subordinate to place the king beneath their feet is to disturb the order of high and low. Since all are equally concerned, if the loyalty of the Wonbo were not pure, how could the state be made peaceful again?",
+    "My heart does not hide evil, and my intention to revere the king is earnest. Add this to the court so that it may support the land and the nation.",
+    "You saw only a tiny profit and forgot the thick grace of heaven and earth; you slew the monarch, burned the palaces, insulted the ministers, and treated the people harshly.",
+    "Their evil was as great as that of Jie and Zhou, and their stinginess was even more severe so that the end of their wickedness seemed to collapse the heavens. Their sincerity receded day by day, and their promised actions were like the pursuit of a hawk."
+   ],
+   "aligned": true
+  },
+  "3": {
+   "tag": "P0002",
+   "ko": [
+    "개나 말과 같은 몸으로 다시 창을 들어 올렸다. 두 번이나 휘둘러 휘둘렀다.",
+    "땅이 흔들리고 흙이 날리니 마치 천둥이 달리고 번개가 내리치는 듯했다. 물로 공격하니 호랑이가 싸우고 용이 뛰어오르는 듯했다. 움직임은 반드시 성공하였고, 들어 올린 것은 허투루 발사되지 않았다.",
+    "해안에서 윤형(尹卿)을 쫓았다. 갑옷이 산처럼 쌓여 있었다. 새끼 새들이 성벽 근처에 모여 있었고, 쓰러진 시체들이 들판을 가렸다. 연산군(燕山郡) 변에서 길환(吉奐)을 군대 앞에서 베었다.",
+    "말이 날카로웠다(의심건대 이는 산군이다). 성에서 수응(隨晤)을 깃발 아래서 죽였다. 임존(任存, 지금은 대흥군이다)을 뽑아낼 때에 형적 등 수백 명이 목숨을 버렸다. 청천현(상주령내 현명)을 깨뜨릴 때에",
+    "몇몇이 우두머리가 되었다. 동약(지금은 동화사다)에서 깃발을 보고 흩어졌다. 경산(京山)이 구슬을 매달고 항복했다."
+   ],
+   "en": [
+    "With a body like a dog or a horse, he raised the spears again. He swung them twice.",
+    "The ground shook and the dust rose as if thunder were running and lightning were striking. When they attacked with water, it was as if tigers were fighting and dragons were leaping. Every movement succeeded, and nothing that was raised was fired in vain.",
+    "They pursued Yunhyeong at the coast. Armor was piled like mountains. Fledgling birds gathered near the city walls, and fallen corpses covered the fields. At the edge of Yeonsangun, they cut down Gilhwan in front of the army.",
+    "The horse was sharp (it is suspected that this was San-gun). In the fortress, Suseung was killed beneath the banner. When Imjon (now Daeheung-gun) was pulled out, hundreds including Hyeongjeok sacrificed their lives. When Cheongcheonhyeon (a county name within Sangju-ryeong) was broken,",
+    "Several became leaders. At Dongyak (now Donghwasa), they saw the flags and scattered. Gyeongsan surrendered with a bead."
+   ],
+   "aligned": true
+  },
+  "4": {
+   "tag": "P0003",
+   "ko": [
+    "강주(康州)는 남쪽에서 오고 나부(羅府)는 서쪽에서 옮겨와 속하였다. 침공이 이와 같으니, 영요(寧遙)를 되찾으려면 반드시 장수(泜水) 진영에 기약해야 한다.",
+    "영장(靈張)의 천 가지 원한을 풀고, 오강(烏江)가에 한왕(漢王)이 한 번 묶은 마음으로 마침내 풍파를 그치게 하고 온 세상을 맑게 하니, 이는 하늘이 돕는 것이다.",
+    "운명이 어디로 돌아갈지 모르겠으나, 하물며 오월왕(吳越王) 전하께서는 덕이 넓고 황무지를 감싸 안으며 인자함이 깊고 이름이 작으니, 특별히 배의 금제에서 두드러졌고 청구(青丘)에서 어려움을 억제하였다.",
+    "이미 훈계를 받들어 모의하였으니, 어찌 공경하여 받들지 않겠는가.",
+    "만약 귀하께서 지엄한 뜻을 받들어 모든 흉한 기운을 억제한다면, 단지 상국(上國)의 인은에 부응할 뿐만 아니라 동해의 끊어진 맥락을 이어갈 수도 있다. 만약 지나치지 않고 바꿀 수 있다면."
+   ],
+   "en": [
+    "Gangju came from the south and Nabu moved from the west to join it. Since the invasion was of this nature, to reclaim Yeongyo, one must surely make a commitment at the Jangsu camp.",
+    "By resolving the thousand grievances of Yeongjang and having the Han Wang settle his mind once on the banks of Ogang to finally still the waves and clear the entire world, this was the help of heaven.",
+    "It was unknown where fate would turn, but His Highness the King of Wu and Yue possessed broad virtue that embraced the wasteland, and his benevolence was deep while his name was small; he stood out particularly in the prohibitions of the ships and suppressed difficulties at Cheonggu.",
+    "Since the instructions were received and the plan was devised, how could I not respectfully accept them?",
+    "If you receive the solemn command and suppress all ominous signs, you will not only respond to the benevolence of the upper nation but also continue the severed lineage of the East Sea. If it can be changed without passing by."
+   ],
+   "aligned": true
+  },
+  "5": {
+   "tag": "P0004",
+   "ko": [
+    "그 후회는 되돌릴 수 없었다(이 글은 최치원(崔致遠)이 지은 것이다). 장흥(長興) 삼년, 견훤(甄萱)의 신하 공직용(龔直勇)은 용맹하고 지략이 있었다. 그는 태조(太祖)에게 항복하였다.",
+    "견훤은 공직의 두 아들과 한 딸을 사로잡아 다리 힘줄을 끊어버렸다. 가을 아홉 달, 견훤은 한 명의 기사를 보내 뗏목 병력으로 고구려(高麗) 예성강에 들어갔다.",
+    "그곳에 사흘 동안 머물며 염백진 삼주의 배 백 척을 빼앗아 불태우고 떠났다(운운). 청태(清泰) 원년 갑오년, 견훤은 태조가 운주를 집결시킨다는 소식을 듣고 즉시 갑옷을 입은 군사를 거느리고 달려갔다.",
+    "그들이 진영에 도달하기 전, 장군 검필이 기병으로 그들을 공격하였다. 삼천여 명을 베어 죽이고 사로잡았다. 웅진(熊津) 북쪽의 서른여섯 성은 소문을 듣고 스스로 항복하였다."
+   ],
+   "en": [
+    "That regret could not be undone (this text was written by Choe Chiwon). In the third year of Jangheung, Gong Jik-yong, a subordinate of Gyeon Hwon, was brave and possessed strategic wisdom. He surrendered to Taejo.",
+    "Gyeonhwon captured Gong Jik's two sons and one daughter and severed the tendons of their legs. In the ninth month of autumn, Gyeonhwon sent one rider and entered the Yeseonggang of Goryeo with troops on rafts.",
+    "He stayed there for three days, seized one hundred ships from the three regions of Yeombaekjin, burned them, and left (and so on). In the first year of Cheongtae, in the year of Gap-o, Gyeonhwon heard that Taejo was gathering forces at Unju and immediately led soldiers in armor and rushed there.",
+    "Before they reached the camp, General Geompil attacked them with cavalry. He killed and captured over three thousand. The thirty-six fortresses north of Ungjin heard the news and surrendered themselves."
+   ],
+   "aligned": true
+  },
+  "6": {
+   "tag": "P0005",
+   "ko": [
+    "선휘(萱麾) 휘하의 술사 종훈(宗訓), 의사(醫者)의 겸양과 용맹을 갖춘 장상봉(尚逢雀), 필등(弼等)이 태조(太祖)에게 항복하였다. 병신년 정월에 선휘가 아들에게 말했다.",
+    "\"노부는 신라의 끝자락에서 백제(百濟)를 세운 지 오랜 세월이 지났다.",
+    "군사력은 북군(北軍)에 비해 뒤처져 있어 승리하기 어렵다. 아마도 하늘이 손을 빌려주어 고구려(高麗)가 될 것이다. 이는 북왕에게 귀순하여 우두머리를 보존하기 위함이다. \"",
+    "그의 세 아들인 신검(神劍), 용검(龍劍), 양검(良劍) 등 세 명은 모두 응하지 않았다.",
+    "이전(李磾)의 가기(家記)에 이르기를, 선휘에게는 아홉 아들이 있었다. 첫째는 신검(一云甄成)이라 하고, 둘째는 대사(大師) 겸뇌(謙腦)라 하며, 셋째는 좌승(佐承) 용술(龍述)이라 하였다.",
+    "넷째는 대사(大師) 총지(聰智), 다섯째는 대아간(大阿干) 종우(宗祐)이며, 여섯째는 결손되었다."
+   ],
+   "en": [
+    "The sorcerer Jonghun, the physician Sangbong who possessed humility and bravery, and Birdeung surrendered to Taejo under Seonhwi. In the first month of the year Byeongsin, Seonhwi spoke to his son.",
+    "\"This old man has lived for a long time since establishing Baekje at the edge of Silla.\"",
+    "Military strength lagged behind the Northern Army, making victory difficult. Perhaps heaven would lend a hand and it would become Goryeo. This was to preserve leadership by surrendering to the Northern King.",
+    "His three sons, Singeom, Yonggeom, and Yanggeom, all did not respond.",
+    "The Gagi of Ijeon states that Seonhwi had nine sons. The first was called Singeom (one says Jeonseong), the second was Daesa Gyeomnoe, and the third was Jaseong Yongsul.",
+    "The fourth was Dasa Chongji, the fifth was Daagan Jongu, and the sixth was missing."
+   ],
+   "aligned": true
+  },
+  "7": {
+   "tag": "P0006",
+   "ko": [
+    "일곱째 아들 사승이 자리를 이어받아 흥성하였고, 여덟째 아들 스님(大師)은 청구에 머물렀으며, 외딸은 국대부인(國大夫人)이라 불렸다. 이들은 모두 상원부인의 소생이었다.",
+    "현(萱)은 많은 처첩을 두어 아들이 열여섯 명이나 있었다. 넷째 아들 금강(金剛)은 키가 크고 지혜가 많아 현이 특별히 아꼈으며, 그에게 자리를 물려주고자 했다.",
+    "그의 형제인 신검(神劍), 양검(良劍), 용검(龍劍)은 이를 알고 근심하였다. 당시 양검은 강주도독을 맡고 있었고, 용검은 무주도독을 맡았으며, 오직 신검만이 곁에 있었다.",
+    "신검은 능환에게 사람을 보내 강주와 무주로 가게 하여 양검과 모의하였다. 청태 이년 을미년 삼월에 영순 등과 함께 신검을 권하여, 현이 금산(金山) 불사에 머무는 동안 사람을 보내 금강을 죽였다."
+   ],
+   "en": [
+    "The seventh son Saseung inherited the position and flourished, the eighth son Dasim stayed at Cheonggu, and the only daughter was called Gukdaebuin. They were all born to Sangwonbuin.",
+    "Hyeon had many wives and concubines and had more than ten sons. The fourth son, Geumgang, was tall and possessed great wisdom, so Hyeon favored him especially and intended to pass the position to him.",
+    "His brothers Singeom, Yanggeom, and Yonggeom learned of this and worried. At that time, Yanggeom served as the commander of Gangju and Yonggeom served as the commander of Muju, while only Singeom remained by his side.",
+    "Singeom sent people to Gangju and Muju to reach Neunghwan and conspired with Yanggeom. In the third month of the year Eulmi in the second year of Cheongtae, he persuaded Singeom along with Yeongsun and others; while Hyeon stayed at the Geumsan temple, they sent people to kill Geumgang."
+   ],
+   "aligned": true
+  },
+  "8": {
+   "tag": "P0007",
+   "ko": [
+    "신검(神劍)이 스스로를 대왕이라 칭했다. 경내(云云)에서 처음에 현(萱)은 잠에서 깨어나지도 않았다. 멀리서 궁정에서 외치는 소리가 들려왔다. \"이것이 무슨 소리냐?\"라고 물었다.",
+    "아버님께 고하니, \"옥년(玉年)이 군국 정무를 맡아 대왕의 자리를 대신하고 있으며, 장남 신검이 아버지의 왕위를 겸하고 있다\"고 하였다. 이에 여러 장수들이 기뻐하며 환호하는 소리였다.",
+    "곧 아버지를 금산(金山)의 불사(佛宇)로 옮겨서 바다 등 용맹한 장사 삼십 명으로 지키게 했다.",
+    "동요가 이르기를, \"가련한 완산(完山) 아이야, 아버지를 잃어 눈물이 계속 흐른다. \"라고 하였다.",
+    "현과 후궁의 어린 남녀 둘이 시비로 모셨고, 고비녀 내인과 또 다른 남자 등은 사로잡혀 묶여 있었다. 사월에 술을 빚어 마시며 지키는 병사 삼십 명이 취했다."
+   ],
+   "en": [
+    "Singeom called himself the Great King. In the palace grounds, at first, Hyeon had not even awakened from sleep. From afar, the sound of shouting in the royal court reached her. She asked, \"What is this sound?\"",
+    "When she asked her father, he replied, \"Oknyeon is handling the affairs of state and military to act as the Great King, and the eldest son Singeom is concurrently holding his father's throne.\" These were the sounds of the various generals rejoicing and cheering.",
+    "He soon moved his father to a Buddhist temple in Geumsan and had thirty brave warriors, including Bada, guard him.",
+    "Dongyo said, \"Pitiful Wansan child, your tears flow continuously as you have lost your father.\"",
+    "Hyeon and two young boys and girls of the inner palace were served by maids, while Gobunyeo's wife and other men were captured and bound. In the fourth month, the thirty soldiers on guard brewed and drank alcohol and became intoxicated."
+   ],
+   "aligned": true
+  },
+  "9": {
+   "tag": "P0008",
+   "ko": [
+    "그리고 소원보(小元甫)와 향문(香文), 오염충(吳琰忠) 등이 바닷길로 그를 맞이하였다.",
+    "도착하자마자 견훤(甄萱)을 열 해의 장으로 삼고, 존호로 상보(尚父)라 불렀다. 그를 남궁에 안치하고 양주 식읍과 전장, 노비 사십 명, 말 아홉 필을 내렸다.",
+    "그의 나라에서 먼저 항복한 자를 아전으로 삼았다. 견훤의 사위인 장군 영규가 비밀스럽게 그의 아내에게 말했다.",
+    "\"대왕께서 마흔여 년 동안 부지런히 일하셨고 공업이 거의 성취될 즈음에, 단 한 번 가족의 화로 땅을 잃고 고구려(高麗)를 따르셨습니다. \"",
+    "\"정숙한 여자는 두 남편을 사절할 수 없고, 충성스러운 신하는 두 주인을 섬기지 않습니다. 만약 이미 모시던 군주를 버리고 반역자의 아들을 섬긴다면, 어찌 천하의 의사들에게 얼굴을 들고 보일 수 있겠습니까?\"",
+    "그는 이와 같이 말하며 아내에게 고뇌를 털어놓았다."
+   ],
+   "en": [
+    "And Soweonbo, Hyangmun, Oyeomchung, and others met him by sea route.",
+    "Upon arrival, Gyeonhwon was appointed as a general of ten years and given the honorary title Sangbu. He was settled in Namgung, and he was granted the fiefdoms and fields of Yangju, forty slaves, and nine horses.",
+    "The one from his country who had surrendered first was appointed as a chief official. Yeonggyu, the son-in-law of Geonhwon and a general, spoke secretly to his wife.",
+    "The Great King worked diligently for over forty years and his achievements were nearly complete, but because of a single misfortune involving his family, he lost his land and followed Goryeo.",
+    "A chaste woman cannot have two husbands, and a loyal minister does not serve two masters. If one abandons the monarch already served to serve the son of a rebel, how can one face the righteous men of the world?",
+    "He spoke in this way and revealed his distress to his wife."
+   ],
+   "aligned": true
+  },
+  "10": {
+   "tag": "P0009",
+   "ko": [
+    "고구려(高麗)의 왕공이 인후하고 검소함을 들었다. 그로 인해 백성의 마음을 얻었으니 거의 하늘이 내린 일이다.",
+    "반드시 삼한의 주인이 될 것이다. 편지를 써서 우리 왕을 위로하고, 동시에 왕공에게도 정중하게 대하며 훗날의 복을 도모하고자 했다.",
+    "부인이 말했다. \"자네의 말이 나의 뜻과 같소.\" 이에 천복(天福) 원년 병신년 둘째 달에 사람을 보내 태조(太祖)에게 뜻을 전했다. \"임금께서 의로운 깃발을 올리셨으니, 내응이 되어 왕사(王師)를 맞이하게 해 주십시오.\"",
+    "태조는 기뻐하며 사자에게 후하게 하사하고 그를 보냈다. 사영규(謝英規)가 말했다. \"만약 은혜를 입어 막힘이 없다면, 먼저 장군을 찾아뵙고 그 후에 당으로 올라가 부인(夫人)께 절을 올리겠습니다.\"",
+    "형제는 섬기고 자매는 공경하니, 반드시 끝내 후하게 보답할 것이다."
+   ],
+   "en": [
+    "It was heard that the King of Goguryeo was benevolent and frugal. He won the hearts of the people, which was almost a gift from heaven.",
+    "He would surely become the master of Samhan. He intended to write a letter to comfort our king and, at the same time, treat the Wanggong with courtesy to seek future blessings.",
+    "The wife said, \"Your words are the same as my intention.\" Then, in the second month of Byeongsin in the first year of Cheonbok, a person was sent to convey the intent to Taejo: \"Since the King has raised the righteous banner, please allow us to act as internal support to welcome the royal army.\"",
+    "Taejo was pleased, bestowed gifts generously upon the messenger, and sent him away. Sa Yeonggyu said, \"If I receive this favor without any obstacles, I will first visit the general and then go up to the hall to bow before the lady.\"",
+    "Brothers serve and sisters respect; there will surely be a generous repayment in the end."
+   ],
+   "aligned": true
+  },
+  "11": {
+   "tag": "P0010",
+   "ko": [
+    "천하의 귀신들이 모두 이 말을 들었다.",
+    "유월에 현(萱)이 태조(太祖)에게 고하기를, 노신이 전하께 몸을 던진 것은 오직 대왕(大王)의 위엄을 빌려 역적의 자식을 처단하기 위함이다.",
+    "바라건대 대왕께서 신병을 빌려주어 그 적란을 소탕해 주시기를 간절히 바란다. 신은 죽어도 후회가 없다.",
+    "태조가 말하기를, \"그들을 치르지 않으려는 것이 아니라 때를 기다리는 것이다.\"라고 하였다. 먼저 태자(太子)와 정장군(正將軍) 술희(述希)에게 보병과 기병 십만 명을 거느리고 천안부(天安府)로 가게 하였다.",
+    "가을 아홉 달에 태조가 삼군을 거느리고 천안에 이르렀다. 병력을 합쳐 일선으로 나아갔다.",
+    "신검(神劍)은 병사들로 적의 갑오를 가로막았다. 일리천(一利川)을 사이에 두고 마주하였다. 왕사(王師)는 배반(艮)에서 곤(坤)을 향해 진을 쳤다. 태조와 현이 군대를 살폈다."
+   ],
+   "en": [
+    "The ghosts and gods of the world all heard these words.",
+    "In the sixth month, Hyeon reported to Taejo, \"The reason this old official threw himself before Your Majesty was solely to borrow your majesty's might to punish the rebel's son.\"",
+    "I earnestly hope that the Great King will lend divine weapons to purge those rebellious rebels. Even if I die, I have no regrets.",
+    "Taejo said, \"It is not that I do not wish to strike them, but that I am waiting for the right time.\" He first ordered the Crown Prince and the General Jeong, Sulhui, to lead one hundred thousand infantry and cavalry to Cheonanbu.",
+    "In the ninth month of autumn, Taejo arrived at Cheonan leading the three armies. They joined their forces and advanced to the first line.",
+    "Singeom blocked the enemy's Gapo with his soldiers. They faced each other across Ilicheon. The Wangsa army took positions from Baen toward Gon. Taejo and Hyeon surveyed the troops."
+   ],
+   "aligned": true
+  },
+  "12": {
+   "tag": "P0011",
+   "ko": [
+    "갑자기 흰 구름이 칼과 창 모양으로 솟아올랐다. 나의 스승께서 그곳을 향해 가셨다. 이에 북을 치며 나아갔다.",
+    "백제 장군 효봉(孝奉), 덕술(德述), 애명(哀明), 길등(吉等) 등이 병세가 크고 정연함을 보고 갑옷을 버리고 진전에서 항복했다.",
+    "태조(太祖)는 그들을 위로하며 장수들이 어디에 있는지 물었다. 효봉 등은 \"원수 신검(神劍)이 군중에 계신다\"라고 답했다. 태조는 장군 공선(公萱) 등에게 명령하여 삼군이 일제히 나아가 협공하게 했다.",
+    "백제군은 무너져 북쪽 황산(黃山) 탄현(炭峴)까지 달아났다.",
+    "신검과 둘째 아들인 장군 부달(富達), 능환(能奐) 등 마흔여 명이 항복했다. 태조는 그들을 받아들이고 나머지를 모두 위로하며 아내와 함께 경성으로 올라가도록 허락했다. 태조가 능환에게 물었다."
+   ],
+   "en": [
+    "Suddenly white clouds rose in the shape of swords and spears. My teacher went toward that place. Then, they advanced while beating drums.",
+    "Baekje generals Hyobong, Deoksul, Aemyeong, and Gildeung saw that the military force was great and orderly, so they cast off their armor and surrendered in front of the ranks.",
+    "Taejo comforted them and asked where the commanders were located. Hyobong and the others replied, \"The commander Singeom is in the midst of the troops.\" Taejo ordered General Gongseon and the others to advance together with the three armies to launch a pincer attack.",
+    "The Baekje army collapsed and fled north to Tanhyeon in Hwangsan.",
+    "Singeom and the second son, General Budal, Neunghwan, and forty others surrendered. Taejo accepted them and comforted the rest, allowing them to go up to Gyeongseong with their wives. Taejo asked Neunghwan."
+   ],
+   "aligned": true
+  },
+  "13": {
+   "tag": "P0012",
+   "ko": [
+    "처음에 양검(良劍) 등과 함께 대왕(大王)을 가두고 그 아들을 세우는 일을 밀모하였다. 이것이 그대의 계책이냐?",
+    "신하의 의리로는 마땅히 그러해야 하는가? 능환(能奐)은 머리를 들이받으며 말하지 못했다. 이에 그를 처형하라 명했다.",
+    "신검(神劍)이 자리를 찬탈한 것은 남에게 협박을 당한 것이지 그의 본심이 아니었다.",
+    "또한 그는 항복하며 죄를 빌었고, 특별히 그의 죽음을 용서하였다. 견훤(甄萱)은 노여움이 치밀어 올라 병이 생겼고, 며칠 만에 황산(黃山) 불사에서 별세하였다.",
+    "아홉 달 여드레 날이었다. 나이는 일흔이었다. 태조(太祖)의 군령이 엄명하여 군사들이 털끝 하나도 범하지 않았으며, 주현이 평온하였다. 노인과 아이들이 모두 만세를 외쳤다. 영규(英規)가 말하기를,",
+    "\"전 왕은 나라를 잃은 뒤 그 신하나 자식 중 단 한 사람도 위로하는 자가 없었으나, 오직 경의 부부가 천 리 밖에서 소식을 전하여 정성을 다하였다.\"라고 하였다."
+   ],
+   "en": [
+    "At first, he conspired with Yanggeom and others to imprison the Great King and establish his son. Was this your plan?",
+    "Was this the proper way for a subject's loyalty? Neonghwan struck his head and could not speak. Thus, it was ordered that he be executed.",
+    "Singeom's usurpation of the position was due to being threatened by others and was not his true intention.",
+    "Furthermore, he surrendered and begged for mercy, and his death was specially pardoned. Jeonhwon, overcome by anger, fell ill and passed away in the Hwangsan Beoseo in a few days.",
+    "It was the fifteenth day of the ninth month. He was seventy years old. The military orders of Taejo were strict and clear, so the soldiers did not violate even a hair's breadth, and the prefectures and counties were peaceful. Old people and children all shouted \"Long live.\" Yeonggyu said,",
+    "Yeonggyu said, \"After the former king lost his country, not a single one of his subjects or children comforted him, but only your wife and husband sent news from a thousand miles away to show their sincere devotion.\""
+   ],
+   "aligned": true
+  },
+  "14": {
+   "tag": "P0013",
+   "ko": [
+    "그들이 모두 나에게 아름다움을 바쳤다. 그 의리를 잊을 수 없다.",
+    "좌승(左承)의 직책을 허락하고, 천 결의 땅을 내주었다. 가족을 맞이하기 위해 서른다섯 필의 역마를 빌려주는 것을 허락하였다. 그의 두 아들에게 관직을 내주었다.",
+    "견훤(甄萱)은 당나라 경복 원년에 일어나 진(晉) 천복 원년까지 도합 사십오 년을 지냈다. 병신년에 멸사론이 말하기를, 신라가 도를 다하고 길을 잃어 하늘이 돕지 않고 백성이 돌아갈 곳이 없게 되었다.",
+    "그때에 무리한 도적들이 틈을 타서 일어났다. 마치 고슴도치의 가시처럼 날카로웠는데, 그중 극렬한 자는 궁예(弓裔)와 견훤 두 사람뿐이었다.",
+    "궁예는 본래 신라의 왕자였으나 배반하여 나라를 원수로 삼고 선조의 초상화까지 베었다. 그가 인정 없음이 매우 심했다. 견훤은 신라의 백성 출신이었다."
+   ],
+   "en": [
+    "They all offered their loyalty to me. That loyalty cannot be forgotten.",
+    "He granted the position of Jaseung and gave him one thousand *gyeol* of land. He permitted the loan of thirty-five courier horses to welcome his family. He granted official positions to his two sons.",
+    "Gyeonhwon rose in the first year of Gyeongbok of Tang and lived until the first year of Cheonbok of Jin, totaling forty-five years. In the year of Byeongsin, Myeolsaron said that Silla had exhausted its way and lost its path; heaven did not help it, and the people had no place to turn to.",
+    "At that time, a group of bandits took advantage of the opportunity and rose up. They were as sharp as the quills of a porcupine, and among them, only Gungye and Gyeonhwon were extreme.",
+    "Gungye was originally a prince of Silla, but he betrayed the country and turned it into an enemy, even cutting the portrait of his ancestor. His lack of benevolence was extreme. Hyeonhwon was from the people of Silla."
+   ],
+   "aligned": true
+  },
+  "15": {
+   "tag": "P0014",
+   "ko": [
+    "신라의 녹을 취하며 화근을 품고 나라를 위태롭게 하여 도읍을 침범하니, 유(劉)씨 군신이 마치 짐승과 같았다. 실로 천하의 원악이었다.",
+    "그러므로 궁예(弓裔)가 신하들에게 버림받고 견훤(甄萱)이 아들에게 화를 불러들인 것은 모두 스스로 자초한 일이다. 또 누구를 탓하겠는가.",
+    "비록 항우(項羽)나 이밀(李密)의 뛰어난 재주라 할지라도 한나라와 당나라의 흥성함에 맞설 수 없었는데, 하물며 궁예와 견훤 같은 흉악한 자들이 어찌 우리 태조(太祖)와 맞설 수 있겠는가."
+   ],
+   "en": [
+    "They took the riches of Silla, harbored seeds of calamity, endangered the nation, and invaded the capital; the Liu lords and ministers were like beasts. They were truly the primary evils of the world.",
+    "Therefore, the fact that Gungye was abandoned by his subordinates and Gyeonhwon brought calamity upon his son were both things they brought upon themselves. Who else could be blamed?",
+    "Even if Xiangyu or Limil possessed great talents, they could not oppose the rise of Han and Tang; how then could wicked men like Gungye and Gyeonhwon have stood against our Taejo?"
+   ],
+   "aligned": true
+  }
+ }
+}

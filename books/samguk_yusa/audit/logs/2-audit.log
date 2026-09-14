@@ -1,0 +1,96 @@
+
+=== ch_01  model=gemma4:12b  2.9 min  aligned 10/10
+  [high] P0007  ko/en 길이 비율이 2.9배로 흔들림 — 문단이 밀렸을 수 있음 [1.4, 1.93, 4.0, 3.16, 2.09, 2.34]
+
+=== ch_02  model=gemma4:12b  2.5 min  aligned 13/13
+  no findings
+
+=== ch_03  model=gemma4:12b  2.1 min  aligned 8/8
+  [ med] P0009  한문의 弓(궁홀산)가 번역문에 없음
+  -- romanization drift --
+     Jolbonbuyeo(1) / Jolbon Buyeo(1)
+
+=== ch_04  model=gemma4:12b  3.3 min  aligned 12/12
+  [ med] P0016  한문의 五陵(오릉)가 번역문에 없음
+
+=== ch_05  model=gemma4:12b  2.9 min  aligned 9/9
+  [high] P0002  ko/en 길이 비율이 2.6배로 흔들림 — 문단이 밀렸을 수 있음 [1.77, 1.67, 4.27, 2.02, 1.65]
+  [ med] P0006  한문의 尼叱今(이질금)가 번역문에 없음
+  [ med] P0006  한문의 齒理(잇금)가 번역문에 없음
+  [ med] P0012  한문의 髑髏(촉루)가 번역문에 없음
+
+=== ch_06  model=gemma4:12b  2.0 min  aligned 7/7
+  [ med] P0008  한문의 尼叱今(이질금)가 번역문에 없음
+
+=== ch_07  model=gemma4:12b  2.9 min  aligned 10/10
+  no findings
+  -- romanization drift --
+     Japanese king(1) / Japanese King(1)
+
+=== ch_08  model=gemma4:12b  1.6 min  aligned 6/6
+  no findings
+
+=== ch_09  model=gemma4:12b  2.8 min  aligned 10/10
+  [ med] P0008  한문의 天賜玉帶(천사옥대)가 번역문에 없음
+
+=== ch_10  model=gemma4:12b  2.3 min  aligned 7/7
+  no findings
+  -- romanization drift --
+     Yushin(1) / Yusin(1)
+     Chunam(1) / Chunnam(1)
+
+=== ch_11  model=gemma4:12b  3.7 min  aligned 12/12
+  [ med] P0009  한문의 仁問(김인문)가 번역문에 없음
+
+=== ch_12  model=gemma4:12b  4.0 min  aligned 12/12
+  [ med] P0008  한문의 法師(법사)가 번역문에 없음
+  [ med] P0008  한문의 浿江(패강)가 번역문에 없음
+  [ med] P0011  한문의 弓(궁홀산)가 번역문에 없음
+
+=== ch_13  model=gemma4:12b  4.2 min  aligned 14/14
+  [ med] P0012  한문의 法師(법사)가 번역문에 없음
+
+=== ch_14  model=gemma4:12b  2.9 min  aligned 10/10
+  no findings
+
+=== ch_15  model=gemma4:12b  2.8 min  aligned 13/13
+  no findings
+  -- romanization drift --
+     Gaewon(1) / Gae-won(1)
+
+=== ch_16  model=gemma4:12b  3.6 min  aligned 12/12
+  [ med] P0013  한문의 大王(대왕)가 번역문에 없음
+  [ med] P0015  한문의 弓(궁홀산)가 번역문에 없음
+  [ med] P0016  한문의 弓(궁홀산)가 번역문에 없음
+
+=== ch_17  model=gemma4:12b  2.6 min  aligned 10/10
+  [ med] P0010  한문의 東京(동경)가 번역문에 없음
+  [ med] P0010  한문의 烏伊(오이)가 번역문에 없음
+  -- romanization drift --
+     Our king(2) / Our King(1)
+
+=== ch_18  model=gemma4:12b  2.2 min  aligned 8/8
+  [ med] P0005  한문의 弓(궁홀산)가 번역문에 없음
+  [ med] P0010  한문의 弓(궁홀산)가 번역문에 없음
+
+=== ch_19  model=gemma4:12b  3.8 min  aligned 12/12
+  [ low] P0003  EN: preamble left in
+
+=== ch_20  model=gemma4:12b  3.5 min  aligned 13/13
+  no findings
+  -- romanization drift --
+     Buyeo-gun(2) / Buyeogun(1)
+     Jolbonbuyeo(1) / Jolbon Buyeo(1)
+
+=== ch_21  model=gemma4:12b  4.6 min  aligned 14/14
+  [ med] P0004  한문의 弓(궁홀산)가 번역문에 없음
+
+=== ch_22  model=gemma4:12b  4.3 min  aligned 14/14
+  [ med] P0013  한문의 弓(궁홀산)가 번역문에 없음
+  [ med] P0014  한문의 弓(궁홀산)가 번역문에 없음
+
+=== ch_23  model=gemma4:12b  5.3 min  aligned 18/18
+  no findings
+
+=== ch_24  model=gemma4:12b  5.2 min  aligned 17/17
+  [ med] P0004  한문의 弓(궁홀산)가 번역문에 없음

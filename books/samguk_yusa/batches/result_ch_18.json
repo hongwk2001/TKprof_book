@@ -1,0 +1,147 @@
+{
+ "chapter_id": "ch_18",
+ "model": "gemma4:12b",
+ "seconds": 133.9,
+ "aligned": 8,
+ "total": 8,
+ "items": {
+  "3": {
+   "tag": "P0002",
+   "ko": [
+    "쉰한째 진성여왕(眞聖女王). 임금으로서 조정에 머문 지 오래되었다. 유모가 좋지 않은 부인(夫人)으로, 그녀는 남편 위홍(魏弘)과 사간 등 서너 명의 총애받는 신하들과 함께 권력을 휘두르며 정사를 어지럽혔다.",
+    "도둑과 강도가 빈번하게 일어나 나라 사람들이 이를 근심하였다.",
+    "이에 다라니(陀羅尼)를 이용한 은어로 글을 써서 길에 던졌다. 왕과 권신들이 그 글을 얻고는, 이것이 왕거인(王居仁)이 지은 문장이 아니라고 말하며 거인을 옥에 가두었다.",
+    "거인은 시를 지어 하늘에 호소하였다. 그러자 하늘이 그가 갇힌 옥을 흔들어 그를 풀어주었다."
+   ],
+   "en": [
+    "The fifty-first, Queen Jinseong. She had been in the court for many years as queen. Her wet nurse was an unworthy lady, and she, along with her husband Wihong and three or four favored ministers including Sagan, wielded power and disrupted the government.",
+    "Thieves and robbers occurred frequently, and the people of the land worried about it.",
+    "Then someone wrote a text in a secret language using dharani and threw it onto the road. The queen and the powerful ministers found the text and, saying that this was not a composition by Wang Geoin, imprisoned Geoin in a prison.",
+    "Geoin composed a poem to appeal to heaven. Then heaven shook the prison where he was confined and released him."
+   ],
+   "aligned": true
+  },
+  "4": {
+   "tag": "P0003",
+   "ko": [
+    "시(詩)에 이르기를, \"연단(燕丹)이 피눈물을 흘리며 무지개를 뚫고 해를 꿰뚫고, 조연(鄒衍)이 슬픔을 머금은 채 여름에 내리는 서리를 품었도다.",
+    "이제 내가 길을 잃고 돌아오니 옛날과 같구나. 황천은 어찌하여 상서로움을 내리지 않는가. \"",
+    "다라니(陀羅尼)가 이르기를, \"남모망국 사니나제 판니판니소판니. 우우삼아한사이사바하\"라고 하였다.",
+    "말하는 이는 이르기를, \"사니나제란 여주를 말한다. 판니판니소판니는 두 소판을 말한다. 소판은 작명이다. 우우삼아시는 '우우삼아십'이다. 사이는 사호를 말한다. \"",
+    "이 왕은 아신양패(阿飱良貝) 왕의 계자였다. 그는 당나라에 사신으로 가서, 백제 해적이 삼(津)에서 방해하고 있다는 말을 들었다.",
+    "그는 궁홀산(弓忽山)의 사수 오십 명을 선발하여 그를 따르게 하였다."
+   ],
+   "en": [
+    "The poem says: \"Yeondan shed tears of blood and pierced the rainbow and the sun; Juyeon held sorrow and embraced the frost falling in summer.\"",
+    "\"Now I have lost my way and returned, and it is as it was before. Why does the Great Heaven not bestow its auspicious signs?\"",
+    "The Dharani said, \"Namo Manguk Sanninaje Panni Panniso Panni. Uu Samahan Sai Sabaha.\"",
+    "The speaker said, \"Sanninaje means the female ruler. Panninisopanni refers to the two Sopan. Sopan is a title. Uusamasi is 'Uusamsasip'. Sai means Saho.\"",
+    "This king was the nephew of King Asinyangpae. He went to the Tang Dynasty as an envoy and heard that Baekje pirates were obstructing at Sam.",
+    "He selected fifty archers from Gungholsan and had them follow him."
+   ],
+   "aligned": true
+  },
+  "5": {
+   "tag": "P0004",
+   "ko": [
+    "배가 곡도(鵠島, 경운골대도)에 다다르자 바람과 파도가 크게 일었다.",
+    "배가 며칠 동안 머물러야 했기에 공(公)이 이를 걱정하며 사람을 시켜 길을 물었다. 사람들이 말하기를 섬에 신령한 못이 있으니 제사 지내면 좋을 것이라 하였다. 이에 못 위에 정성껏 제물을 차렸다.",
+    "못의 물이 한 길 넘게 솟구쳐 올랐다.",
+    "밤에 꿈속에서 한 노인이 나타나 공에게 말하기를, \"활을 잘 쏘는 한 사람을 이 섬 안에 머물게 하면 바람을 다스릴 수 있다\"라고 하였다.",
+    "공이 깨어나서 이 일을 주변 사람들에게 물으며 \"누구를 머무르게 하면 되겠소? \"라고 하였다.",
+    "사람들이 말하기를 \"나무 조각 쉰 조각에 우리 무리의 이름을 적어 물에 가라앉히고 제비뽑기를 하면 된다\"라고 하였다.",
+    "공이 따랐다. 군사 중에 거타지(居陀知)라는 자가 있었는데 이름이 심중(沈中)이라, 마침 그 사람을 머물게 하였다.",
+    "그러자 바람이 갑자기 일어 배가 막힘없이 나아갔다. 거타지가 섬에 서성이고 있을 때, 갑자기 노인이 나타났다."
+   ],
+   "en": [
+    "When the ship reached Gokdo (Gyeongunggoldaedo), the wind and waves rose greatly.",
+    "Because the ship had to stay for several days, the Gong worried about this and sent someone to ask for directions. People said there was a sacred pond on the island, so it would be good to offer sacrifices. Thus, offerings were prepared with sincerity over the pond.",
+    "The water of the pond surged up more than a *jang*.",
+    "At night, an old man appeared in a dream and said to the Gong, \"If you leave one person who is skilled at archery to remain on this island, you can control the wind.\"",
+    "Upon awakening, the lord consulted those around him regarding this matter and asked, \"Whom should we let remain?\"",
+    "The people said, \"Write the names of our group on fifty wooden slats, sink them in the water, and perform a casting of lots.\"",
+    "He followed this. Among the soldiers was a man named Geotaji, whose name was Simjung, and he happened to let that man remain.",
+    "Then the wind suddenly rose and the ship proceeded without obstruction. While Geotaji was lingering on the island, an old man suddenly appeared."
+   ],
+   "aligned": true
+  },
+  "6": {
+   "tag": "P0005",
+   "ko": [
+    "그가 연못에서 나오며 말하기를, \"나는 서해의 용이다.",
+    "매일 사미(沙彌)가 해 뜰 무렵 하늘에서 내려와 다라니를 외우며 이 연못을 세 번 돌 때마다 나의 부부와 자식들이 모두 물 위로 떠올랐다.",
+    "사미가 내 자손들의 간과 창자를 모두 먹어 치웠고, 오직 우리 부부와 한 어린 딸만이 남았다. 그 사미는 또 올 것이니, 그대가 나를 쏘아 달라. \"고 하였다.",
+    "거타(居陀)가 \"궁술은 내가 잘하는 바이니 명을 받들겠다\"라고 답했다. 노룡이 그에게 고마움을 표하며 사라졌다.",
+    "거타는 숨어서 기다렸다. 다음 날 부상(扶桑)이 동쪽으로 솟아오르자 사미가 정말로 나타났다. 그는 앞서와 같이 주문을 외웠다.",
+    "사미가 노룡의 간을 취하려 할 때, 거타가 그를 쏘았다. 화살에 맞은 사미는 즉시 늙은 여우로 변하여 땅에 떨어져 죽었다.",
+    "(이 대목에서 '거타'는 궁술에 능한 자를 뜻한다.)"
+   ],
+   "en": [
+    "He emerged from the pond and said, \"I am the dragon of the West Sea.\"",
+    "Every day, when the Sami descended from the heavens at sunrise and recited the Dharani while circling this pond three times, my spouse and children all floated to the surface of the water.",
+    "The Sami devoured all the entrails and organs of my children, and only my spouse and one young daughter remained. That Sami will come again, so please shoot me.",
+    "Geota replied, \"Archery is my specialty, so I shall obey your command.\" The old dragon expressed its gratitude and disappeared.",
+    "Geota hid and waited. The next day, when Busan rose in the east, the Sami did appear. He chanted the incantations as before.",
+    "When the Sami tried to take the liver of the old dragon, Geota shot him. Struck by the arrow, the Sami immediately turned into an old fox and fell to the ground and died.",
+    "In this passage, Geota refers to a person skilled in archery."
+   ],
+   "aligned": true
+  },
+  "7": {
+   "tag": "P0006",
+   "ko": [
+    "이에 노인이 나가서 사양하며 말하였다. \"공의 하사품을 받았습니다. 내 목숨을 구해주셨으니, 부디 여자를 아내로 삼게 해주십시오.\" 거다(居陀)가 말했다. \"하사하는 것을 남기지 않으니, 참으로 바라는 바이다.\"",
+    "노인은 그 딸을 한 가지 꽃으로 변화시켜 품속에 넣었다. 또한 두 마리 용에게 명령하여 거다를 태우고 뒤쫓게 했으며, 배에 태워 당나라 경계까지 보호하며 들어가게 했다.",
+    "당나라 사람이 신라의 배에 두 마리 용이 짊어지고 가는 것을 보고 이 일을 상부에 보고하였다.",
+    "황제가 말하기를 \"신라의 사절은 반드시 보통 사람이 아니다\"라고 하며, 연회에서 그를 모든 신하보다 높은 자리에 앉히고 금과 비단으로 후하게 하사했다.",
+    "그가 나라로 돌아오자 거다는 꽃가지를 꺼내어 여인으로 변화시켜 함께 살았다."
+   ],
+   "en": [
+    "Then the old man went out and said while declining, \"I have received your gift. Since you saved my life, please allow me to take a woman as my wife.\" Geoda said, \"Since I am giving it without withholding anything, it is indeed what I desire.\"",
+    "The old man transformed his daughter into a single branch of a flower and put it in his bosom. He also commanded two dragons to carry Geoda and follow behind, and they protected him on a boat as he entered the Tang territory.",
+    "Tang people saw two dragons carrying the Silla boat and reported this matter to their superiors.",
+    "The Emperor said, \"The envoy from Silla is certainly no ordinary person,\" and at the banquet, he seated him in a position higher than all the other officials and generously bestowed gold and silk upon him.",
+    "When he returned to his country, Geoda took out the flower branch, transformed it into a woman, and lived with her."
+   ],
+   "aligned": true
+  },
+  "9": {
+   "tag": "P0008",
+   "ko": [
+    "오십이 효공왕(孝恭王). 광화 열다섯 해 임신(실제는 주나라 양 건화 둘째 해이다)에 봉성사 외문 동서 스물한 칸에 제비집을 만들었다.",
+    "또한 신덕왕(神德王)이 즉위한 지 나흘 된 을해에 효공왕 내행랑에 제비집 서른넷, 까마귀집 마흔을 만들었다. 또한 삼월에 다시 서리가 내렸고, 유월에 참포수와 바닷물이 파도와 사흘 동안 싸웠다."
+   ],
+   "en": [
+    "Fifty-two, King Hyogong. In the year Imsin of the fifteenth year of Gwanghwa (actually the second year of Jianhua in the state of Zhou), swallow nests were built in twenty-one sections east and west of the outer gate of Bongseongsa.",
+    "Also, in the year of Eulhae, four years after King Sinduk ascended the throne, thirty-four swallows' nests and forty crows' nests were made in the inner corridor of King Hyogong. In the third month, frost fell again, and in the sixth month, Champosu and seawater fought against the waves for three days."
+   ],
+   "aligned": true
+  },
+  "11": {
+   "tag": "P0010",
+   "ko": [
+    "쉰네 번째 경명왕(景明王) 대목. 정명(貞明) 오년 무인에 사천왕사(四天王寺) 벽화의 개가 울었다. 경전을 삼일 동안 읊었으나 (그 소리가 그치지 않아) 땅을 파고 들어갔다. 반나절 뒤에 다시 울었다.",
+    "칠 년 경진 이월, 황룡사(皇龍寺) 탑의 그림자가 지금 모사(毛舍知)의 집안에 거꾸로 서 있었다.",
+    "열 달이 지난 후, 사천왕사의 다섯 방향 신궁(神弓) 줄이 모두 끊어졌다. 벽화의 개가 마당으로 뛰쳐나왔다가 다시 벽 속으로 들어갔다."
+   ],
+   "en": [
+    "Fifty-fourth section, King Gyeongmyeong. In the year Muin of Jeongmyeong five, the dog in the wall painting of Sacheonsangsa barked. The sutra was recited for three days, and it burrowed into the ground. After half a day, it barked again.",
+    "In the second month of Gyeongjin in the seventh year, the shadow of the Hwangnyongsa pagoda stood upside down inside the house of the current Mosa.",
+    "Ten months later, the strings of the five divine bows of Sacheonsangsa were all broken. The dog in the mural rushed out into the courtyard and then entered back into the wall."
+   ],
+   "aligned": true
+  },
+  "13": {
+   "tag": "P0012",
+   "ko": [
+    "오십오. 경애왕(景哀王)이 즉위했다. 동광 이년 갑진년 둘째 달 열아흐레이다.",
+    "황룡사(皇龍寺)에서 백좌설을 설하며, 삼백의 선승들이 함께 들었다. 대왕이 친히 향을 올리며 공양을 바쳤다. 이 백좌는 선교의 시작을 통틀어 설명한다."
+   ],
+   "en": [
+    "Fifty-five. Gyeongae-wang ascended the throne on the nineteenth day of the second month of the year Gapjin, the second year of Donggwang.",
+    "The Baekjaseol was preached at Hwangnyongsa, and three hundred Seonsung listened together. The Great King personally offered incense and made an offering. This Baekjaseol explains the beginning of Seongyo in its entirety."
+   ],
+   "aligned": true
+  }
+ }
+}

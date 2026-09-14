@@ -1,0 +1,225 @@
+{
+ "chapter_id": "ch_19",
+ "model": "gemma4:12b",
+ "seconds": 226.2,
+ "aligned": 12,
+ "total": 12,
+ "items": {
+  "3": {
+   "tag": "P0002",
+   "ko": [
+    "쉰여섯 김전(金傳) 대왕. 시호는 경순(敬順)이다. 천성 둘째 해 정해년 아홉 달, 백제 견훤(甄萱)이 군사를 이끌고 고울부까지 침입했다. 경애왕(景哀王)은 우리 태조(太祖)에게 구원을 요청했다.",
+    "태조는 장수에게 일만 명의 강병을 거느리고 가서 그를 구하라고 명했다. 구원군이 도착하지 않은 상황에서, 견훤은 겨울 열한 달에 왕의 도성으로 잠입했다. 왕은 비빈과 종친들과 함께 포석정(鮑石亭)에서 유람하며 즐거워했다.",
+    "그때 군대가 도착했음을 깨닫지 못하고 있었다. 급박한 상황에서 왕과 비는 후궁으로 달아났다.",
+    "종친들과 공경 대부들, 그리고 사녀들은 사방으로 흩어져 달아났으나 적들에게 붙잡혔다. 귀천을 막론하고 그들은 기어 다니며 노비가 되기를 간청했다.",
+    "견훤은 군사들을 풀어 공사의 재물을 약탈하게 했다. 그리고 왕궁에 들어갔다."
+   ],
+   "en": [
+    "Fifty-six King Geumjeon. His posthumous name was Gyeongsun. In the ninth month of the second year of Cheonseong, the year of Jeonghae, Baekje's Gyeonhwon led his troops and invaded up to Goulbu. King Gyeongae requested rescue from our Taejo.",
+    "Taejo ordered a general to lead ten thousand elite soldiers to rescue him. While the relief force had not arrived, Gyeonhwon entered the capital of the king in the eleventh month of winter. The king enjoyed leisure with his consorts and relatives at Boseokjeong.",
+    "They did not notice the arrival of the army. In the urgent situation, the King and his consorts fled into the inner palace.",
+    "The relatives of the king, and the high officials and ministers, along with the women, scattered in all directions to flee but were captured by the enemies. Regardless of their status, they crawled and begged to become slaves.",
+    "Gyeonhwon released his soldiers to plunder public and private property. Then he entered the royal palace."
+   ],
+   "aligned": true
+  },
+  "4": {
+   "tag": "P0003",
+   "ko": [
+    "이에 좌우에게 명하여 왕을 찾게 하였다.",
+    "왕과 왕비 및 몇몇 시녀들이 후궁에 숨어 있었으나, 군사들이 그들을 잡아와 군중 속에 가두고 왕이 스스로 나아오도록 강요하였다. 그리고 강제로 왕비를 욕보였으며, 그 아래에 있는 자들이 비녀들을 어지럽게 하였다.",
+    "그 후 왕의 친족 중 형제 하나를 왕으로 세웠다. 왕은 견훤(甄萱)에 의해 들려 즉위하였다. 이전 왕의 시신은 서당에 안치되었고, 여러 신하와 함께 통곡하였다. 우리 태조(太祖)는 사자를 보내 조문하고 제사를 지냈다.",
+    "다음 해 무자년 삼월, 태조는 쉰 명이 넘는 기병을 거느리고 경기도를 순찰하며 도착했다. 왕과 백관들이 성문 밖에서 마중하였고, 안으로 들어가 서로 대면하였다. 모든 예의를 다하고 임해전(臨海殿)에 연회를 베풀었다.",
+    "술기운이 오르자 왕이 말하기를, \"나는 하늘의 뜻을 받들지 못하여 재앙과 혼란을 초래하였고, 견훤이 방자하게 의롭지 못한 일을 행하여 우리 나라를 망쳤으니, 이를 어찌하겠는가?\"라고 하였다."
+   ],
+   "en": [
+    "He ordered his subordinates to search for the king.",
+    "The king, his queen, and several maids were hidden in the inner palace, but soldiers captured them, confined them among the troops, and forced the king to come forward. They then forcibly violated the queen, and those beneath them despoiled the concubines.",
+    "After that, one of the king's kinsmen and brothers was established as king. The king was lifted and ascended to the throne by Geonhwon. The body of the previous king was enshrined in Seodang, and many subordinates wailed together. Our Taejo sent an envoy to offer condolences and perform a memorial service.",
+    "The following year in the month of March of the year Mujo, Taejo arrived while patrolling Gyeonggido with more than fifty cavalry. The king and the officials met him outside the city gate, and they entered to face each other. After performing all the rites, a banquet was held at Imhaejeon.",
+    "When the alcohol took hold, the king said, \"I failed to follow the will of heaven and brought about calamity and chaos, and Gyeonhwon acted insolently and unjustly, ruining our country; what can be done about this?\""
+   ],
+   "aligned": true
+  },
+  "5": {
+   "tag": "P0004",
+   "ko": [
+    "그들이 슬피 울었다. 좌우 사람들도 모두 흐느꼈다. 태조(太祖) 또한 눈물을 흘렸다. 그 후 몇 주 동안 머물렀다가 행차를 돌이켰다. 호위병들은 엄숙하게 조용했으며, 아주 작은 움직임도 허용하지 않았다.",
+    "백성들과 여인들이 서로 기뻐하며 말했다. \"예전에 진씨(甄氏)가 올 때에는 마치 굶주린 이리나 호랑이를 만난 듯했다. 이제 왕공이 오시니 마치 부모를 뵙는 것과 같다.\"",
+    "여덟째 달에 태조는 사신을 보내 왕의 비단옷과 안장, 말을 남기게 하고, 함께 나누어 관료들과 장수들에게도 차등을 두어 하사하였다.",
+    "청태(淸泰) 이년 을미년 시월, 사방의 땅이 모두 타인의 소유가 되었고 나라가 약해지고 세력이 외로워져 스스로 안심할 수 없게 되었다.",
+    "이에 부하들과 모의하여 땅을 바치고 태조에게 항복하기로 했다. 신하들이 찬성할지 어떨지 의견이 분분하였다. 왕의 태자(太子)가 말했다. \"나라의 존망은 반드시 하늘의 명에 달려 있다. \""
+   ],
+   "en": [
+    "They wept sorrowfully. Those on the left and right also sobbed. Taejo also shed tears. After staying for several weeks, he turned back his procession. The guards were solemnly quiet and allowed not even a hair's breadth of movement.",
+    "The common people and women rejoiced and said, \"When the Jin clan came in the past, it was like encountering hungry wolves or tigers. Now that the royal lord has arrived, it is like seeing one's parents.\"",
+    "In the eighth month, Taejo sent envoys to leave behind the king's silk garments, saddles, and horses, and distributed them among the officials and soldiers according to their ranks.",
+    "In the tenth month of the year Eulmi in the second year of Cheongtae, all the lands of the four directions became the property of others, and the nation grew weak and isolated, making it impossible to feel secure.",
+    "They plotted with their subordinates to surrender the land and submit to Taejo. Opinions among the officials were divided as to whether they should agree or not. The Crown Prince of the King said, \"The survival or destruction of the nation depends surely on the mandate of heaven.\""
+   ],
+   "aligned": true
+  },
+  "6": {
+   "tag": "P0005",
+   "ko": [
+    "충신과 의사들이 마음을 모아야 했다. 힘을 다할 때까지 계속해야 했다. 어찌 천 년의 사직을 가볍게 남에게 줄 수 있겠는가?",
+    "왕이 말했다. \"고립된 처지가 이와 같으니 세력으로 온전히 지킬 수 없다. 강하게 할 수도 없고 약하게 할 수도 없다. \"",
+    "\"무고한 백성들이 간과 내장이 땅에 흩어지는 것을 나는 참을 수 없다.",
+    "\" 그러고는 시랑(侍郞) 김봉휴(金封休)에게 편지를 들려 보내어 태조(太祖, 고려 왕건)에게 항복할 것을 청하게 했다. 태자는 울며 왕을 거절하고 곧장 개산(皆骨山)으로 가서 삼베옷을 입고 풀을 먹으며 몸을 마쳤다.",
+    "계자(季子)는 머리카락을 자르고 화엄(華嚴)을 펴서 부도(浮圖)를 세우고 이름을 범공(梵空)이라 하였다.",
+    "나중에 법수(法水) 해인사(海印寺)에 머물렀다고 전해진다. 태조가 편지를 받고 상서(尙書) 왕철(王鐵)을 보내 그를 맞이하였다.",
+    "왕은 백관을 거느리고 우리 태조에게 돌아왔다."
+   ],
+   "en": [
+    "Loyal officials and righteous men had to unite their hearts. They had to continue until their strength was exhausted. How could they lightly give away the realm of a thousand years to another?",
+    "The King said, \"Our situation is so isolated that we cannot defend it fully with our strength. We can neither remain strong nor become weak.\"",
+    "I cannot endure the innocent people's livers and intestines being scattered on the ground.",
+    "Then he sent a letter with the attendant Simnang Gim Bonghyu to request surrender to Taejo. The Crown Prince refused the King while weeping and went straight to Gaesansan, where he wore hemp clothes and ate grass until his death.",
+    "Gije cut his hair, spread the Huawen, erected a pagoda, and called himself Beonggong.",
+    "It is said that he later stayed at Haeinsa in Beopsu. Taejo received the letter and sent Sangseo Wangcheol to welcome him.",
+    "Wang led the hundreds of officials and returned to our Taejo."
+   ],
+   "aligned": true
+  },
+  "7": {
+   "tag": "P0006",
+   "ko": [
+    "향차와 보마가 삼십여 리를 이어져 있었다. 도로는 가득 메워졌고 구경하는 이들이 마치 막힌 것처럼 몰려들었다. 태조(太祖, 왕건)가 교외로 나가 맞이하며 노고를 치하했다.",
+    "궁궐 동쪽 한 구역(지금은 정승원)을 내어주어 장녀인 낙랑공주(樂浪公主)를 시집보냈다.",
+    "왕과 사가(謝)가 자기 나라에 살며 다른 나라에 머무는 것을 스스로 삼아, 이를 비유하여 이름이 '선'이라 하였기에 호를 신란공주로 고쳤다.",
+    "그녀의 시호를 효목으로 하고 정승(正承)으로 봉했다. 그 지위는 태자보다 높았으며, 한 달에 천 석의 녹봉을 내렸다. 시종과 원장들을 모두 채용하였다. 신라를 경주로 고쳐 공주의 식읍으로 삼았다.",
+    "처음에 왕이 땅을 바치며 항복했을 때, 태조는 매우 기뻐하며 그를 후하게 대접했다. 사신을 보내 알리기를, \"이제 왕이 나라를 나에게 바쳤으니 그 공이 매우 크다. 바라건대 종실과 혼인하게 하라.\"라고 하였다."
+   ],
+   "en": [
+    "Fragrant carriages and precious horses stretched for over thirty li. The roads were packed full, and the spectators crowded together as if blocked. Taejo went out to the outskirts to meet them and praised their efforts.",
+    "He gave a district on the east side of the palace (now Jeongseongwon) and married his eldest daughter, Nakrang Gongju, to him.",
+    "Because Wang and Sa lived in their own country while staying in another country, they took pride in it, and since the name \"Seon\" was used to symbolize this, her title was changed to Sinran Gongju.",
+    "Her posthumous name was Hyomok and she was titled Jeongseong. Her rank was higher than that of the Crown Prince, and she received a stipend of one thousand seok per month. All attendants and officers were employed. Silla was changed to Gyeongju and established as her fiefdom.",
+    "When Wang first surrendered and offered his land, Taejo was very pleased and treated him with great generosity. He sent an envoy to inform him: \"Now that you have given your country to me, your merit is great. I desire that you marry into the royal clan.\""
+   ],
+   "aligned": true
+  },
+  "8": {
+   "tag": "P0007",
+   "ko": [
+    "영신(永甥)의 사촌 형제인 외삼촌이 정성껏 물으매, 왕이 대답했다.",
+    "\"내 백부(伯父) 익렴(億廉)(왕의 부친으로 효종(孝宗)은 각간(角干)으로 추봉되어 신흥대왕의 동생이다)에게 여자가 있었다. 덕과 용모가 모두 아름다워, 만약 이 사람이 없었더라면 내정을 돌볼 수 없었을 것이다. \"",
+    "태조(太祖)는 그녀를 장가들어 신성왕후(神成王后)로 삼았다. 금씨(金氏)인 태조의 손자 경종(景宗)은 주품정승공(奏聘政承公)의 딸을 비로써 맞이하여 현승황후(憲承皇后)로 삼았다. 또한 정승을 상보(尚父)로 봉했다.",
+    "태평흥국(太平興國) 삼 년 무인년에 승하하시니, 시호를 경순왕(敬順王)이라 하였다.",
+    "상보를 봉하는 조서에 이르기를 \"희주(姬周)가 성스러운 것을 처음으로 열고, 한나라 유방이 흥왕의 시작을 알렸으며, 소하(簫何)가 가장 먼저 길을 열었다. \"라고 하였다.",
+    "\"대정(大定)이 환구(寰區)를 정하고, 기틀을 넓게 열어 기반을 확장하였다.\""
+   ],
+   "en": [
+    "When the maternal uncle of Yeongseong's cousin brother asked earnestly, the King answered.",
+    "\"My paternal uncle Iryeom (the father of the King; Hyojong was posthumously titled Gakgan and was the younger brother of King Sinheung) had a woman. Her virtue and appearance were both beautiful, and had she not existed, it would have been impossible to manage internal affairs.\"",
+    "Taejo married her and took her as Queen Sinseong. Gyeongjong, the grandson of Taejo from the Kim clan, took the daughter of Jupumjeongseonggong as a concubine and took her as Empress Hyeonsung. He also titled Jeongseong as Sangbo.",
+    "He passed away in the year Muin of Taepyeongheungguk 3, and his posthumous title was Gyeonsunwang.",
+    "The decree to confer the title of Sangbo stated, \"Jizhou first opened the sacred, Liu Bang of the Han Dynasty heralded the beginning of the great king, and Xiao He was the first to open the path.\"",
+    "Daejeong established the Hwangu and expanded the foundation by opening the framework wide."
+   ],
+   "aligned": true
+  },
+  "9": {
+   "tag": "P0008",
+   "ko": [
+    "용투(龍圖)에서 삼십대를 이어왔고, 기린의 발자취를 따라 사백 년을 지나며 해와 달이 겹쳐 밝아지고 하늘과 땅이 서로 화합하였다. 비록 스스로 무위(無爲)를 주관하였으나, 도리를 펼치는 신하를 내세웠다.",
+    "광명과 순화로 나라를 지킨 공신이자 상주국인 낙랑(樂浪) 왕정은 팔천 호의 토지를 하사받았으며, 김부(金傳)는 대대로 계림(雞林)이라 불리며 왕작을 분배받았다.",
+    "그는 영웅적인 기개로 구름 위를 떨치고 문장으로 땅을 뒤흔드는 재주를 가졌다.",
+    "그는 춘추(春秋)의 덕을 갖추고 초야에 머물렀으며, 여섯 가지 방책과 세 가지 전략을 가슴에 품고 일곱 가지 종횡과 다섯 가지 신통을 손바닥 안에 거머쥐었다.",
+    "우리 태조(太祖)는 화합의 우호를 시작하여 옛 풍속을 일찍이 인정하고 사위와의 인연을 맺어 대의를 보답하였으며, 집과 나라가 마침내 하나로 합쳐졌다."
+   ],
+   "en": [
+    "It continued for thirty generations in Yongtu, and as the sun and moon shone together over four hundred years following the footprints of the Qilin, heaven and earth harmonized. Although he was a ruler of non-action, he promoted ministers who established principles.",
+    "Wangjeong of Nakrang, a meritorious official who defended the nation through enlightenment and transformation and a pillar of state, was granted eight thousand households of land, and Gimjeon was known as Gyerim for generations and received royal titles.",
+    "He possessed a heroic spirit that shook the clouds and a talent for composition that shook the earth.",
+    "He possessed the virtues of Chunchu and lived in seclusion, holding the six tactics and three strategies in his heart, and grasping the seven longitudinals and five transversals within his palm.",
+    "Our Taejo initiated the friendship of harmony, early recognized the old customs, established a connection with the son-in-law to repay the great principle, and finally, home and nation were united as one."
+   ],
+   "aligned": true
+  },
+  "10": {
+   "tag": "P0009",
+   "ko": [
+    "임금과 신하가 화합하여 삼한(三韓)에 널리 이름을 알리고, 빛나고 높으며 아름다운 본보기가 되었다.",
+    "상보(尚父)와 도성령의 봉호를 더할 수 있다. 또한 충성, 신중, 의리, 숭덕, 수절의 공신호(功臣號)를 내리고, 기존의 훈봉을 유지하며 식읍을 이전과 같이 일만 호로 통하게 하였다.",
+    "관청에서 날짜를 택하여 예와 책략을 갖추어 명하였고, 주관자가 이를 시행하였다. 개보 팔년 시월 날짜에 대광내의령 겸 총한림 신혁(申翮)이 선봉하여 행하였다. 봉칙을 위와 같이 받들어 행하였으며, 전령이 도달하여 봉행하였다.",
+    "개보 팔년 시월 날짜에 시중(侍中) 서가 있다. 시중 서가 있다. 내봉령 서가 있다. 군부령은 서가 없다. 병부령은 서가 없다. 병부령 서가 있다. 광평시랑은 서가 없다. 광평시랑 서가 없다."
+   ],
+   "en": [
+    "The monarch and the subjects harmonized to spread their fame throughout Samhan, becoming illustrious, exalted, and a beautiful model.",
+    "The titles of Sangbu and Doseongryeong could be added. Furthermore, the titles of meritorious official for loyalty, prudence, righteousness, virtue, and integrity were bestowed; the existing honors remained as before, and the fief was unified to ten thousand households as previously established.",
+    "The government office selected a date and prepared the rites and records to issue the command, and the person in charge executed it. On a day in the tenth month of the eighth year of Gaebong, Sin Hyeok, the Daegwangnaeryeong and General Hanrim, took the lead in carrying it out. The imperial edict was received and implemented as stated above, and the dispatch arrived and was carried out.",
+    "On the date of the tenth month of Gaebon eight, there was a Sijung office. There was a Sijung office. There was a Naebongryeong office. There was no Gunburyeong office. There was no Byeongburyeong office. There was a Byeongburyeong office. There was no Gwangpyeongsirang office. There was no Gwangpyeongsirang office."
+   ],
+   "aligned": true
+  },
+  "11": {
+   "tag": "P0010",
+   "ko": [
+    "내봉시랑(內奉侍郎)에 관직명이 없으니 내봉시랑관을 두었다. 군부경(軍部卿)에 관직명이 없으니 군부경관을 두었으며, 병부경(兵部卿)에 관직명이 없으니 병부경관을 두었다.",
+    "충성하고 신중하며 의로움과 덕을 숭상하고 절개를 지키며 공을 세운 공신에게 상보(尚父) 도성령을 내렸다. 또한 주국(柱國) 낙랑(樂浪)도왕(都王)으로 삼고, 식읍을 일만 호로 내렸다.",
+    "김전(金傳)이 봉칙을 받들어 이와 같이 행하였으며, 부호가 도착하여 시행하였다. 주사(主事)는 이름이 없으며, 낭중(郎中)도 이름이 없고, 서령사(書令史)와 공목(孔目)도 이름이 없다.",
+    "개보(開寶) 팔 년 열월에 사관이 논하기를, 신라 박씨와 석씨(昔氏)는 모두 알에서 태어났으며, 김씨는 하늘에서 내려와 금궤에 타고 내려왔다고 하였다.",
+    "어떤 이는 금수레를 탔다고 하나 이는 매우 기괴하여 믿기 어렵다. 그러나 세속에서 전해오는 것은 사실이다."
+   ],
+   "en": [
+    "Since there was no official title for Naebongsirang, the office of Naebongsirang was established. Since there was no official title for Geonbu-gyeong, the office of Geonbu-gyeong was established, and since there was no official title for Byeongbu-gyeong, the office of Byeongbu-gyeong was established.",
+    "A decree of Sangbo was issued to the meritorious officials who were loyal, prudent, and upheld righteousness, virtue, and integrity. Furthermore, they were appointed as Juguk Nakrang Dowang and granted a fief of ten thousand households.",
+    "Kim Jeon received and carried out the imperial edict as follows, and the talisman arrived and was implemented. The Jusa had no name, the Nangjung had no name, the Seoryeongsa and Gongmok also had no names.",
+    "In the tenth month of the eighth year of Gaebbo, a historian noted that the Silla Bak clan and Seok clan were both born from eggs, while the Kim clan descended from heaven in a golden chest.",
+    "Some said they rode a golden chariot, but this was very strange and difficult to believe. However, what was passed down in common custom was true."
+   ],
+   "aligned": true
+  },
+  "12": {
+   "tag": "P0011",
+   "ko": [
+    "지금 단지 그 처음을 생각해보라. 위정자는 그 행실이 검소했고, 그 성품은 너그러웠으며, 관직을 세우는 일은 간략하였고, 일을 행함도 소박했다.",
+    "그들은 지극한 정성으로 중국을 섬겼으며, 조공의 사절을 맞이하는 일이 끊이지 않았다. 또한 항상 자제들을 보내어 조정에서 숙위로 머물게 하고, 입학하여 성현의 풍모를 익히고 거친 풍속을 고치며 예의의 나라를 만들었다.",
+    "또한 왕사(王師)의 위엄과 신통함에 의지하여 백제와 고구려(句麗)를 평정하고 그 땅의 군현을 취하였으니, 이를 성대하다 할 수 있다.",
+    "그러나 불교의 법을 받들면서도 그 폐단을 알지 못했다. 이로 인해 마을마다 탑과 절이 비등해지고, 백성들은 속세의 옷을 버리고 떠났으며, 병사와 농민이 줄어들어 나라가 날로 쇠락했다."
+   ],
+   "en": [
+    "Now consider only its beginning. The rulers were frugal in their conduct, generous in their character, simple in establishing offices, and modest in their actions.",
+    "They served China with utmost sincerity, and the reception of tribute envoys was continuous. They also regularly sent their children to remain as guards at the court, where they entered schools to learn the ways of sages, reform crude customs, and establish a land of propriety and righteousness.",
+    "They also relied on the majesty and spiritual power of the Royal Preceptor to subdue Baekje and Goguryeo and took their lands as districts and counties, which could be called prosperous.",
+    "However, while they embraced the laws of Buddhism, they did not know its harms. Because of this, pagodas and temples became common in every village, the people abandoned their worldly clothes, and as soldiers and farmers decreased, the nation declined day by day."
+   ],
+   "aligned": true
+  },
+  "13": {
+   "tag": "P0012",
+   "ko": [
+    "어찌 어지러워 망하지 않겠는가. 이때 경애왕(景哀王)은 방탕한 즐거움을 더하여 궁인들과 좌우를 거느리고 포석정(鮑石亭)에 나가 술로 대접했다.",
+    "견훤(甄萱)이 온 것을 알지 못했고, 문밖의 한고(韓檎)와 호루(虎樓)가 머리 위에서 장려화(張麗華)를 지키는 것과 다름없었다.",
+    "만약 경순왕(敬順王)이 태조(太祖)에게 항복했다면 비록 사로잡히지는 않았더라도 가히 아름다웠을 것이다.",
+    "만약 힘껏 싸우다 죽음을 택하여 왕사(王師)에 저항했다면, 힘이 꺾이고 형세가 궁해졌을 때 반드시 그 가족이 파멸하고 무고한 백성들에게까지 해가 미쳤을 것이다.",
+    "그러므로 항복을 기다리지 않고 관청의 창고를 봉쇄하고 군중을 모아 그를 데려왔다. 그는 조정에 공이 크고 백성들에게 덕이 매우 컸다."
+   ],
+   "en": [
+    "How could it not have become chaotic and led to ruin? At this time, Gyeongae-wang added to his debauchery by taking his palace people and attendants to Poseokjeong to feast with wine.",
+    "They did not know that Gyeonhwon had arrived, and Hango and Horo outside the gate were no different from guarding Jangryehwa above their heads.",
+    "If Gyeongsunwang had surrendered to Taejo, even if he had not been captured, it would have been commendable.",
+    "If he had chosen to fight with all his might and die while resisting the Royal Army, when his strength was broken and his position became desperate, his family would have surely been ruined and harm would have reached the innocent people.",
+    "Therefore, they did not wait for his surrender but sealed the government storehouses and gathered a crowd to bring him in. He had great merit toward the court and great virtue toward the people."
+   ],
+   "aligned": true
+  },
+  "14": {
+   "tag": "P0013",
+   "ko": [
+    "옛날 전민(錢民)이 오월(吳越) 사람으로서 송(宋)나라에 입성하자 소자섬(蘇子贍)은 그를 충신이라 칭하였다.",
+    "지금 신라의 공덕은 저들보다 훨씬 멀다. 우리 태조(太祖)의 비빈이 많고 그 자손도 번성하였으며, 현종(顯宗)이 신라 외손으로서 보위를 이어받았다.",
+    "이후 계통을 잇는 자들은 모두 그의 자손이다. 이것이 음덕이 아니겠는가?",
+    "신라가 토국으로 편입되자 아간(阿干)의 신회(神會)가 폐지되고 외서로 돌아갔다. 도성을 떠나며 서리(黍離)를 보고 탄식하며 노래를 지었으나, 그 노래가 전해지지 않았다."
+   ],
+   "en": [
+    "In the past, when Jeonmin, a man of Wu and Yue, entered Song, So Jaseom called him a loyal minister.",
+    "The merit of Silla is far greater than that of those people. Our Taejo had many wives and concubines, and his descendants flourished, and Hyeonjong inherited the throne as a grandson of Silla.",
+    "Those who succeeded the lineage thereafter were all his descendants. Was this not a result of hidden virtue?",
+    "When Silla was incorporated into the territory of the state, the Sinhoe of Akan was abolished and returned to the outer office. Upon leaving the capital city, he saw the seori and sighed while composing a song, but that song was not passed down."
+   ],
+   "aligned": true
+  }
+ }
+}

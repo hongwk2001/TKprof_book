@@ -1,0 +1,157 @@
+{
+ "chapter_id": "ch_05",
+ "model": "gemma4:12b",
+ "seconds": 208.5,
+ "aligned": 9,
+ "total": 9,
+ "items": {
+  "3": {
+   "tag": "P0002",
+   "ko": [
+    "남해왕은 거서간이라 불렸다. 또한 차차웅이라고도 불렀다. 이는 어른을 높여 부르는 칭호였다.",
+    "이 왕의 아버지는 혁거세였고, 어머니는 알영부인이었다. 왕비는 운제부인이었다. (한 곳에는 운제라고 기록됨. 지금 영일현 서쪽에 운제산 성모가 있어 가뭄에 빌면 응답함)",
+    "한나라 평제 원시 4년 갑자년에 즉위했다. 이 왕은 스물하나 해 동안 다스렸다. 지황 4년 갑신년에 세상을 떠났다. 이 왕은 삼황의 동생이었다.",
+    "어떤 기록은 신라에서 왕을 거서간이라 부르는 것이 진언왕이라는 말이라고 전한다. 어떤 이는 귀한 사람을 부르는 칭호라고 했다. 또 다른 이는 차차웅이라 하였다. 김대문은 차차웅이 무당을 뜻하는 방언이라고 말했다."
+   ],
+   "en": [
+    "The King of Namhae was called Geoseogan. He was also called Chachaung, which was a title used to honor an elder.",
+    "The father of this king was Heokgeose, and his mother was Alyeong Buin. His queen was Unje Buin. (One record states Unje; there is a Seongmo of Unjesan in the west of Yeongil-hyeon who responds when prayed to during droughts.)",
+    "He ascended the throne in the year of Gapsa, the fourth year of Yuanshi under Emperor Ping of Han. This king ruled for twenty-one years and passed away in the year of Gapsin, the fourth year of Dihuang. This king was the younger brother of Samhwang.",
+    "Some records state that calling the king Geoseogan in Silla meant Jin-eonwang. Others said it was a title for a noble person. Another said Chachung. Kim Daemun stated that Chachung was a dialect meaning shaman."
+   ],
+   "aligned": true
+  },
+  "4": {
+   "tag": "P0003",
+   "ko": [
+    "세상 사람들은 무속이나 귀신과 제사를 중히 여겼다. 그래서 이를 두려워하고 공경했다. 이에 어른들을 높여 부르는 말을 자충이라 불렀다.",
+    "어떤 이는 이사금이라는 말이 잇금을 뜻한다고 말했다. 처음에 남해왕이 죽자 노례왕이 탈해왕에게 자리를 양보했다. 탈해왕은 성스러운 지혜를 가진 사람은 잇금이 많다고 들었다고 말했다.",
+    "그는 떡을 깨물어 잇금이 많은 쪽이 임금이 되도록 시험했다. 옛 기록에 전하는 내용이 이러하다. 또 어떤 이는 마립간(마립이 때로는 수로 쓰임)이라는 말에 대해 김대문이 한 말을 인용했다.",
+    "김대문은 마립이라는 말이 방언으로 말뚝을 뜻한다고 했다. 말뚝은 자리를 표시하고 세우는 것이니, 왕의 말뚝을 주된 것으로 삼고 신하의 말뚝을 아래에 늘어놓았다.",
+    "그래서 그 이름을 따랐다. 역사 기록에 따르면 신라는 거서간이라 부른 임금이 하나이고, 차차웅이라 부른 임금은 열여섯이며, 마립간이라 부른 임금은 넷이다."
+   ],
+   "en": [
+    "People of the world regarded shamanism, spirits, and sacrifices as important. Therefore, they feared and revered them. Accordingly, the term used to honor elders was called Jachung.",
+    "Some said that the term Isageum meant many teeth. When Namhaewang died, Noryewang yielded his position to Talhaewang. Talhaewang said he had heard that those with holy wisdom possessed many teeth.",
+    "He bit a rice cake to test who had more teeth, and the one with more teeth became king. This is how it was recorded in ancient texts. Another person cited what Kim Daemun said regarding the term Mallyukgan (where Mallyip was sometimes used as Suro).",
+    "Kim Daemun said that the word Marip meant a stake in dialect. A stake was something used to mark and establish a position; thus, the king's stake was taken as the primary one, while the stakes of the subjects were lined up below it.",
+    "Therefore they followed that name. According to historical records, there was one king of Silla called Geoseogan, sixteen kings called Chachawung, and four kings called Mallyukgan."
+   ],
+   "aligned": true
+  },
+  "5": {
+   "tag": "P0004",
+   "ko": [
+    "신라 말의 이름난 선비 최치원이 제왕연대력을 지었다. 그는 모든 왕을 어떤 왕이라 불렀다. 그는 거서간 같은 칭호를 쓰지 않았다. 그가 그들의 말이 비천하여 부르기에 부족하다고 여겼기 때문이다.",
+    "지금 신라의 일을 기록할 때는 방언도 있는 그대로 적는 것이 마땅하다. 신라인이 사후에 봉호를 내릴 때에는 갈문왕이라 불렀다.",
+    "자세한 내용은 알 수 없다. 이 왕은 낙랑국 사람들과 함께 금성으로 쳐들어왔으나 실패하고 물러났다. 또한 천봉 오년 무인년에 고구려의 부속 일곱 나라가 찾아왔다."
+   ],
+   "en": [
+    "Choe Chiwon, a famous scholar of the late Silla period, compiled the *Jewang Yeondaeryeok*. He called all kings \"Some King.\" He did not use titles such as Geoseogan because he considered their speech lowly and insufficient to be used for such titles.",
+    "When recording the affairs of Silla now, it is proper to record the local terms as they are. When the people of Silla bestowed posthumous titles, they called him Galmunwang.",
+    "Details are unknown. This king, along with people from Nakrangguk, invaded Geumseong but failed and retreated. Also, in the year Muin of Cheonbong five, the seven subordinate states of Goguryeo came to surrender."
+   ],
+   "aligned": true
+  },
+  "7": {
+   "tag": "P0006",
+   "ko": [
+    "노례왕이 이사금이라 불렸다(한 곳에는 유례왕이라 기록됨). 처음에 왕은 매제인 탈해왕에게 자리를 양보했다. 탈해왕은 덕이 있는 사람은 치아가 많으니, 잇금으로 그를 시험해야 한다고 말했다.",
+    "그들은 떡을 물어 이를 시험했다. 왕의 치아가 많았기에 그가 먼저 세워졌고 이사금이라 이름 붙여졌다.",
+    "이사금이라는 칭호는 이때부터 임금이 쓰기 시작했다. 유성공이 다시 시작한 첫해 계미에 즉위했다(연표에는 갑신에 즉위라 함).",
+    "그는 여섯 부의 명칭을 새로 정했다. 또한 여섯 성에게 도솔가라는 노래를 하사했다.",
+    "한탄하는 말과 머리 장식을 만들고, 쟁기와 얼음 창고를 만들었다. 수레를 만들고 호열개년이에 이시국을 정벌하여 멸망시켰다. 그해에 고구려 군대가 쳐들어왔다."
+   ],
+   "en": [
+    "Noryeowang was called Isageum (in one place it is recorded as Yuryeowang). At first, the king yielded his position to his brother-in-law Talhae. Talhae said that those with virtue have many teeth, so he should be tested by biting a piece of rice cake.",
+    "They bit a rice cake to test their teeth. Because the king had many teeth, he was established first and was named Isageum.",
+    "The title Isageum was used by kings from this time forward. He ascended the throne in the year Gye-mi of the first year of the restart of Seongong (the chronological table states he ascended in Gapsin).",
+    "He redefined the names of the six ministries. He also bestowed a song called Dolsoga upon the six clans.",
+    "He made lamenting horses and head ornaments, and he made plows and ice storage. He made carriages and in the year of Hoyeolgae, he conquered and destroyed the state of Isi. In that year, Goguryeo forces invaded."
+   ],
+   "aligned": true
+  },
+  "9": {
+   "tag": "P0008",
+   "ko": [
+    "탈해왕(또는 토해이사금)이 남해왕 시절에 가락국 바다에 배 한 척이 들어와 머물렀다. 그 나라의 수로왕과 신백들이 소리를 지르며 배를 맞이했다. 그들은 배를 붙잡아 두려 했다.",
+    "그러나 배는 날아가듯 멀리 달아났다. 배는 계림 동쪽 아래 서지촌 아진포에 이르렀다. (지금은 위서지 아래서지촌이라는 이름이 있다.) 포구 근처에 한 노파가 살고 있었다.",
+    "그 노파의 이름은 아진의선이었다. 그녀는 왕의 고기잡이 배를 만드는 일을 도왔던 어머니였다. 노파는 바다를 바라보며 말했다. \"바다 가운데 원래 바위가 없는데 어찌 까마귀 떼가 모여 울어대는가.\""
+   ],
+   "en": [
+    "During the time of King Namhae, a ship came and anchored in the sea of Garakguk when Tualhaewang (or Tohae Isageum) was reigning. The Suro-wang and the people of that land shouted and welcomed the ship. They tried to detain it.",
+    "However, the ship fled away as if flying. The ship arrived at Ajinpo in Seojichon, southeast of Gyerim. (Now there is a name called Wiseoji Arae-seojichon.) Near the port, an old woman lived.",
+    "The old woman's name was Ajin Uiseon. She was a mother who had helped build the king's fishing boats. Looking out at the sea, the old woman said, \"There are originally no rocks in the middle of the sea, so why do flocks of crows gather and cry there?\""
+   ],
+   "aligned": true
+  },
+  "10": {
+   "tag": "P0009",
+   "ko": [
+    "배를 끌어와 나무숲 아래에 두었다. 그 안에 있는 것이 불길한지 길한지 알 수 없었다. 하늘을 향해 맹세하고 궤를 열자, 단정한 남자와 일곱 가지 보물을 지키는 노비들이 가득 실려 있었다.",
+    "일곱 날이 지나자 아이가 입을 열어 말했다. \"나는 본래 용성국 사람이다. 우리 나라에는 스물여덟 용왕이 있었으며, 이들은 사람의 태중에서 태어나 다섯 살이나 여섯 살에 왕위에 올랐다.\"",
+    "\"그들은 백성들에게 올바른 삶을 가르쳤다. 그들은 여덟 품계의 성골이었으나, 신분 차별 없이 모두 높은 자리에 올랐다. 내 아버지인 함달파가 적녀국의 왕녀를 후궁으로 맞이했으나 오랫동안 자식이 없었다.\"",
+    "\"그들이 제사를 지내며 빌자 일곱 해 후에 커다란 알 하나가 태어났다. 이에 대왕이 신하들을 모아 물었다.\""
+   ],
+   "en": [
+    "They pulled the boat and placed it under a grove of trees. It was unknown whether what was inside was ominous or auspicious. They swore to heaven and opened the chest; a neat man and slaves guarding seven treasures were fully loaded inside.",
+    "After seven days, the child opened its mouth and spoke. \"I am originally a person of Yongseongguk. In my country, there were twenty-eight Dragon Kings who were born in the wombs of humans and ascended to the throne at the ages of five or six.\"",
+    "They taught the people to correct their lives. They were of the eight ranks of Seonggol, yet without distinction of status, they all ascended to high positions. My father, Hamdalpa, took a princess of Jeoknyeoguk as a concubine, but for a long time, there was no offspring.",
+    "When they performed sacrifices and prayed, a large egg was born after seven years. Then the Great King gathered his officials and asked."
+   ],
+   "aligned": true
+  },
+  "11": {
+   "tag": "P0010",
+   "ko": [
+    "사람이 알에서 태어났다. 옛날이나 지금이나 이런 일은 없었다. 이는 길조가 아니었다. 그들은 나무 상자를 만들고 그 안에 자신을 넣었다. 또한 칠보와 노비들을 배에 실었다.",
+    "그들은 바다에 배를 띄우며 빌었다. 인연이 있는 땅에 닿으면 나라를 세우고 가정을 이루게 해달라고 하였다. 그러자 붉은 용이 나타나 배를 보호하며 이곳까지 데려다주었다.",
+    "말이 끝나자 그 동자는 지팡이를 끌며 두 노비를 데리고 토함산에 올랐다. 그들은 돌무덤을 만들고 일곱 날 동안 머물렀다. 성안에 살 만한 곳이 있는지 살피던 중, 세 개의 달처럼 생긴 봉우리를 발견했다.",
+    "그곳은 오래 머물기에 좋은 곳이었다. 동자는 내려가 그곳을 찾았다. 바로 호공의 집이었다.",
+    "동자는 꾀를 내어 그 옆에 숫돌과 숯을 몰래 묻었다. 아침이 되어 문 앞에 이르러 \"이곳은 우리 조상 대대로 내려온 집이다\"라고 말했다."
+   ],
+   "en": [
+    "A person was born from an egg. Such a thing had never occurred in the past or present. It was not a favorable omen. They made a wooden box and placed themselves inside it. They also loaded seven treasures and slaves onto a ship.",
+    "They set sail on the sea and prayed that if they reached a land of destiny, they might establish a nation and form a family. Then, a red dragon appeared, protected the ship, and brought them to this place.",
+    "When the words ended, the boy dragged his staff and led two slaves up Tohamsan. They built a stone mound and stayed for seven days. While searching for a place to live within the fortress, they discovered a peak that looked like three crescent moons.",
+    "It was a place suitable for staying for a long time. The boy went down and found the place; it was the house of Hogong.",
+    "The boy devised a scheme and secretly buried whetstones and charcoal beside it. When morning came, he arrived at the gate and said, \"This is the house of my ancestors from generations past.\""
+   ],
+   "aligned": true
+  },
+  "12": {
+   "tag": "P0011",
+   "ko": [
+    "관리가 물었다. \"무엇을 보고 네 집이라고 확신했느냐?\" 아이가 대답했다. \"나는 원래 장인이라서 근처 마을에 살았다. 그런데 어떤 사람이 내 집을 빼앗아 갔다. 땅을 파보니 숫돌과 숯이 나왔기에 그곳이 내 집임을 알았다.\"",
+    "남해왕은 탈해왕이 지혜로운 사람임을 알았다. 왕은 장공주를 탈해왕에게 시집보냈다. 그녀는 아니부인이 되었다. 어느 날 토해왕이 동악에 올랐다. 돌아오는 길에 백의에게 물을 떠오라고 명령했다.",
+    "백의가 물을 길어왔다. 백의는 중간에 먼저 맛을 보고 왕에게 바쳤다. 왕은 뿔잔을 입에 대었으나 물이 나오지 않았다. 왕이 잔을 두드리자 그제야 물이 나왔다. 백의는 앞으로 절대 먼저 마시지 않겠다고 맹세했다.",
+    "백의는 그 뒤로 옷차림을 단정히 하고 남을 속이지 않았다. 지금 동악 가운데에 한 우물이 있다."
+   ],
+   "en": [
+    "The official asked, \"By what means did you know this was your house?\" The child replied, \"I was originally a craftsman and lived in a nearby village. However, someone took my house away. When I dug the ground and found whetstones and charcoal, I knew it was my home.\"",
+    "The King of Namhae knew that King Talseong was a wise man. The king married Princess Jang to King Talseong, and she became Lady Ani. One day, King Tohae ascended Dongak. On the way back, he ordered Baekui to fetch water.",
+    "Baekui fetched the water. Baekui tasted it first in the middle and then presented it to the king. The king put the horn cup to his mouth, but no water came out. When the king tapped the cup, only then did the water come out. Baekui swore never to taste it first again.",
+    "Baekui thereafter dressed neatly and did not deceive others. There is now a well in the middle of Dongak."
+   ],
+   "aligned": true
+  },
+  "13": {
+   "tag": "P0012",
+   "ko": [
+    "사람들은 요내정을 이곳이라 불렀다. 노례왕이 세상을 떠나자 광호제 중원 여섯 해 정사년 유월에 왕위에 올랐다. 그가 석씨 성을 쓴 것은 우리 집안이 다른 집안의 것을 취했기 때문이다.",
+    "어떤 이는 까치가 상자를 열었기에 새 이름인 '작'을 버리고 석씨를 썼다고 전한다. 또 어떤 이는 알을 깨고 나왔기에 탈해라는 이름을 얻었다고 한다. 그는 스물세 해 동안 왕위에 머물렀다.",
+    "건초 넷째 해 기묘년에 그가 죽어 소천구에 묻혔다. 이후 신령의 명이 내려와 내 뼈를 정중히 묻으라고 하였다. 그의 해골은 둘레가 삼 척 두 촌이었고, 몸뼈는 길이가 아홉 척 일곱 촌이었다.",
+    "그의 치아는 하나로 뭉쳐 있었고 뼈마디는 모두 이어져 있었다. 세상에 대적할 자가 없는 힘센 장사의 뼈라는 말대로였다.",
+    "그 뼈를 부수어 조각상을 만들어 궁궐 안에 두었다. 신령이 다시 알려주어 내 뼈를 동악에 두라고 하여 그곳에 안치했다."
+   ],
+   "en": [
+    "People called this place Yonaejeong. When King Nore was passed away, he ascended the throne in the sixth month of the year Jeongsa, the sixth year of Gwanghoje's Jungwon era. He used the surname Seok because his family had taken it from another house.",
+    "Some said that because a magpie opened the box, he discarded the bird character and used the surname Seok. Others said that because he broke out of an egg, he received the name Dalhae. He remained on the throne for twenty-three years.",
+    "In the fourth year of Geoncho, in the year Gimyo, he died and was buried in Socheonggu. Later, a divine decree came down, commanding that his bones be buried solemnly. His skull had a circumference of three cheok and two chon, and his body bones were nine cheok and seven chon long.",
+    "His teeth were fused into one and his bone joints were all connected. It was as they said of the bones of a mighty man with no rival in the world.",
+    "They crushed the bones to make a statue and placed it inside the palace. A divine decree then came, saying, \"Place my bones in Dongak,\" so they were enshrined there."
+   ],
+   "aligned": true
+  }
+ }
+}

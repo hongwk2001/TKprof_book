@@ -1,0 +1,210 @@
+{
+ "chapter_id": "ch_15",
+ "model": "gemma4:12b",
+ "seconds": 166.9,
+ "aligned": 13,
+ "total": 13,
+ "items": {
+  "3": {
+   "tag": "P0002",
+   "ko": [
+    "성덕왕(聖德王) 때에 순정공(純貞公)이 강릉(江陵) 대수(현재의 명주)로 가는 길에 해변에서 점심을 먹었다. 곁에는 바다와 맞닿은 듯한 높이가 천 장이나 되는 돌산이 있었다. 그 위에는 철쭉꽃이 활짝 피어 있었다.",
+    "공의 부인이 그것을 보고 좌우에게 말했다. \"꽃을 꺾어 바친 이는 누구인가?\" 수행자가 대답했다. \"사람이 발길이 닿지 않는 곳이라 모두 사양하였다. 다만 곁에 있는 노인 하나가 암소를 끌며 지나가는 것을 보았다.\"",
+    "부인의 말을 듣고 그 꽃을 꺾어 가사를 지어 바쳤다. 그 노인은 누구인지 알 수 없었다. 계속 길을 가니 해룡(海龍)이 있는 해림정(海臨亭)에 이르렀다. 점심을 먹는 사이 해룡이 갑자기 부인을 낚아채 바다로 끌고 들어갔다.",
+    "공은 땅에 엎드려 절하며 아무런 방도가 없음을 탄식했다. (한 노인이 일러 주어 백성을 모아 노래를 부르고 막대로 언덕을 치니 용이 부인을 돌려주었다.)"
+   ],
+   "en": [
+    "During the reign of Seongdeokwang, while Public Noble Sunjeong was traveling to Daesu in Gangnyeong (now Myeongju), he ate lunch on the seashore. Nearby was a rocky cliff that seemed to border the sea and stood a thousand zhang high. On top of it, azaleas were in full bloom.",
+    "The wife of the lord saw them and asked those around her, \"Who is the one who plucked these flowers to offer them?\" A follower replied, \"It is a place where no human footsteps reach, so everyone declined. However, we saw an old man nearby passing by while leading an ox.\"",
+    "Hearing his wife's words, he plucked the flowers and composed a song to offer them. He did not know who that old man was. They continued on their way and arrived at Haerimjeong, where a sea dragon resided. While they were eating lunch, the sea dragon suddenly snatched the wife and dragged her into the sea.",
+    "The Duke fell to the ground and prostrated himself, lamenting that there was no way out. (An old man spoke, and as the people gathered to sing and struck the hill with poles, the dragon returned his wife.)"
+   ],
+   "aligned": true
+  },
+  "4": {
+   "tag": "P0003",
+   "ko": [
+    "또 한 노인이 고하고 말했다. 옛사람이 말하기를 \"여러 사람의 입은 금을 녹인다\"라고 하였다.",
+    "지금 바다 속에 태어난 존재가 어찌 여러 사람의 입을 두려워하지 않겠는가? 마땅히 경계 안의 백성들을 데리고 들어가 노래를 부르게 하고, 지팡이로 해안을 치면 귀부인을 볼 수 있을 것이다.",
+    "공(公)이 그 말을 따랐다. 용이 귀부인을 모시고 바다 밖으로 나와 공에게 바쳤다.",
+    "공이 귀부인에게 바다 속의 일을 물으니, 사(四)칠보(七寶) 궁전이 있고, 마련된 음식은 달고 매끄러우며 향기롭고 깨끗하여 인간 세상의 연기가 아니었다.",
+    "귀부인의 옷은 기이한 향기가 났으며 이는 세상에서 들어본 적 없는 것이었다. 물길을 지나는 자태는 세태를 뛰어넘었으나, 깊은 산과 큰 못을 지날 때마다 자주 신비로운 존재들에게 붙잡혔다. 사람들이 바다 노래를 불렀다."
+   ],
+   "en": [
+    "Another old man reported and said, \"An old saying says, 'The mouths of many people melt gold.'\"",
+    "How could a being born in the sea not fear the mouths of many people? It was proper to take the people within the boundary and have them sing, and if one struck the shore with a staff, one would be able to see the noble lady.",
+    "The Gong followed those words. A dragon brought the lady out of the sea and presented her to him.",
+    "When the Gong asked the lady about matters in the sea, she said there were palaces of four and seven treasures, and the prepared food was sweet, smooth, fragrant, and clean, not of the smoke of the human world.",
+    "The lady's clothes gave off a strange fragrance that had never been heard of in the world. Her appearance while traveling through the waterways was peerless, but whenever she passed through deep mountains and large marshes, she was often seized by divine beings. The people sang sea songs."
+   ],
+   "aligned": true
+  },
+  "5": {
+   "tag": "P0004",
+   "ko": [
+    "아아, 가련하구나. 물길에서 나와서 여인들을 약탈하다니 그 죄가 어디까지 깊으랴. 네가 만약 거스르지 않고 바치러 들어왔다면, 그물에 갇혀 잡히고 구워져 먹히지는 않았을 것이다."
+   ],
+   "en": [
+    "O turtle, oh turtle, you emerged from the waterway and plundered women; how deep is your sin? Had you not rebelled and instead entered to offer yourself, you would not have been caught in a net, roasted, and eaten."
+   ],
+   "aligned": true
+  },
+  "6": {
+   "tag": "P0005",
+   "ko": [
+    "소를 몰고 가던 노인이 수로부인에게 바친 노래다. 붙잡고 있던 암소를 놓아두고 벼랑에 올라, 부인이 자기를 부끄러이 여기지 않으신다면 저 꽃을 꺾어 바치겠다고 했다."
+   ],
+   "en": [
+    "The song an old herdsman offered to Lady Suro. He would let go of the cow he was leading and climb the cliff, and — if she would not think him unworthy — break off that flower and present it to her."
+   ],
+   "aligned": true,
+   "manual": true
+  },
+  "8": {
+   "tag": "P0007",
+   "ko": [
+    "개원 열째 해 임술년 시월에 모화군(毛火郡)에 관문을 처음 쌓았다.",
+    "지금의 모화촌은 경주 동남쪽 경계에 속하며, 이는 일본을 막는 울타리였다. 그 둘레는 육천칠백구십이 걸음 다섯 자였으며, 일꾼 삼만구천이백육십이 명이 동원되었다.",
+    "관문을 주관하는 관원은 원진(元眞) 각간(角干)이었다. 개원 스무한재년 계유에 당나라 사람이 북방을 정벌하려 신라에 병사를 요청하였고, 사절 육백사 사람이 찾아왔다가 돌아갔다."
+   ],
+   "en": [
+    "In the tenth year of Gaewon, in the month of Imsul in the year of Im-sul, they first built a gate at Mohwa-gun.",
+    "The present Mohwa-chon belonged to the southeastern border of Gyeongju, and it was a fence to block Japan. Its circumference was six thousand seven hundred ninety-two paces and five feet, and thirty-nine thousand two hundred sixty-two laborers were mobilized.",
+    "The official in charge of the gate was Wonjin Gakgan. In the year Gye-yu of the twenty-first year of Gae-won, people from the Tang Dynasty requested soldiers from Silla to conquer the north, and a diplomatic mission of six hundred and four people came and returned."
+   ],
+   "aligned": true
+  },
+  "10": {
+   "tag": "P0009",
+   "ko": [
+    "덕경 등은 대왕이 예물을 갖추어 받는 것을 보았다. 왕이 나라를 다스운 지 스무네 번째 해에, 오악과 삼산(三山)의 신들이 때때로 나타나 전각 마당에서 모셨다.",
+    "삼월 삼일, 왕이 정문 누각 위에 올라 곁에 있는 이들에게 말하기를, \"누가 도중에 영복승을 한 명 찾아올 수 있겠는가?\" 하였다. 이때 한 대덕(大德)이 위엄이 맑고 깨끗한 모습으로 노니는 듯 걸어왔다.",
+    "측근들이 그를 바라보고 데려오자, 왕이 말하기를 \"그는 내가 말한 영복승이 아니다. \" 하고 물러나게 했다.",
+    "다시 한 승려가 누더기 옷을 입고 앵통(櫻筒)(한 자는 하선이라 씀)을 등에 메고 남쪽에서 오는 것을 왕이 기쁘게 보았다.",
+    "왕은 그를 불러 누각 위로 데려와 그의 통 안을 살피니 차 도구가 갖춰져 있었다. 왕이 \"그대는 누구인가?\" 물으니, 승려가 지담(志談)이라 답하였다. 왕이 말했다."
+   ],
+   "en": [
+    "Deokgyeong and the others saw the Great King receive the offerings with ceremony. In the twenty-fourth year of the King's rule, the gods of the Five Mountains and Three Mountains appeared from time to time and were served in the courtyard of the hall.",
+    "On the third day of the third month, the King ascended the pavilion above the main gate and said to those beside him, \"Who can find one Yeongbokseung along the way?\" At that moment, a Daedeok who possessed a majestic and pure appearance walked as if strolling.",
+    "When the attendants saw him and brought him forward, the king said, \"He is not the Yeongbokseung I spoke of,\" and sent him away.",
+    "The king was pleased to see another monk wearing tattered clothes and carrying an aengtong (one version reads haseon) on his back, coming from the south.",
+    "The king called him and brought him up to the pavilion and looked into his container, where tea utensils were prepared. The king asked, \"Who are you?\" The monk replied, \"Jidam.\" The king said."
+   ],
+   "aligned": true
+  },
+  "11": {
+   "tag": "P0010",
+   "ko": [
+    "어디로부터 돌아오셨습니까? 스님이 말했다. \"나는 매번 삼층구의 날에 차를 끓여 남산삼화령(三花嶺) 미륵세존(彌勒世尊)께 올립니다. 지금 막 올리고 돌아온 참입니다.\" 왕이 말했다. \"나도 한 잔의 차를 나눌 수 있겠소?\"",
+    "스님은 차를 달여 올렸다. 차의 기운과 맛이 비범하여, 잔 속에 다른 향기가 짙게 배어 나왔다. 왕이 말했다.",
+    "\"짐은 일찍이 스승께서 기파랑(耆婆郎)의 사뇌가(詞腦歌)를 찬양하는 것을 들었소. 그 뜻이 매우 높았소. 그것이 정말입니까? \" 이에 대답하기를 \"그렇습니다\"라고 하였다.",
+    "왕이 말했다. \"그렇다면 짐을 위해 민심을 안심시키는 노래를 지어주시오.\" 스님은 때맞춰 어명을 받들어 노래를 지어 올렸다. 왕이 이를 가히 여겨 그를 왕사(王師)로 봉했다. 스님이 다시 절하며 사양하여 받지 않았다."
+   ],
+   "en": [
+    "\"From where did you return?\" The monk said, \"I brew tea every day of the triple three and nine to offer to Maitreya Seon of Namsansamhwa-ryeong. I have just returned from offering it.\" The king asked, \"May I also share a cup of tea?\"",
+    "The monk brewed the tea and offered it. The energy and flavor of the tea were extraordinary, and a different fragrance permeated deeply within the cup. The King said,",
+    "The King said, \"I have heard before of the Master praising the Sanoega of Kiparang. Its meaning was very high. Is that so?\" The monk replied, \"It is so.\"",
+    "The King said, \"If so, compose a song for me to calm the people's hearts.\" The monk received the royal command and composed a song in due time. The King found it excellent and bestowed upon him the title Wangsa. The monk bowed again and declined to accept it."
+   ],
+   "aligned": true
+  },
+  "12": {
+   "tag": "P0011",
+   "ko": [
+    "충담사가 경덕왕의 명을 받아 지은 노래다. 임금은 아버지요 신하는 사랑을 베푸는 어머니며 백성은 어린아이와 같으니, 임금이 임금답고 신하가 신하답고 백성이 백성다우면 나라가 태평하리라고 노래했다."
+   ],
+   "en": [
+    "Master Chungdam made this song at King Gyeongdeok's command. It calls the ruler a father, the minister a mother who gives love, and the people a small child: if the ruler is truly a ruler, the minister truly a minister, and the people truly a people, then the country will be at peace."
+   ],
+   "aligned": true,
+   "manual": true
+  },
+  "13": {
+   "tag": "P0012",
+   "ko": [
+    "충담사가 화랑 기파랑을 기려 지은 노래다. 흰 구름을 좇아 떠가는 달과 물가의 조약돌에서 기파랑의 모습을 찾으며, 그가 지녔던 높은 뜻을 좇아가겠다고 했다. 끝에 가서는 눈조차 덮지 못할 잣나무 가지 같은 사람이라 기렸다."
+   ],
+   "en": [
+    "Master Chungdam made this song in praise of the hwarang Gipa-rang. It looks for his face in the moon drifting after white clouds and in the pebbles along the stream, and vows to follow the high purpose he held. At its close it praises him as a pine branch that not even snow can bend."
+   ],
+   "aligned": true,
+   "manual": true
+  },
+  "14": {
+   "tag": "P0013",
+   "ko": [
+    "왕옥경(王玉莖)은 키가 여덟 치에 달했으나 아들이 없어서 폐위되었다. 사량(沙梁)의 부인으로 봉해졌다. 이후 비(妃) 만월부인(滿月夫人)이 경떨대후(景垂大后)로 시호되었다. 이는 충(忠)이라는 이름의 각간(角干)의 딸이다.",
+    "왕이 하루는 표훈(表訓)에게 대덕(大德)을 향해 교지를 내렸다. \"짐은 도우심이 없어 후사를 얻지 못했다. 바라건대 대덕이 천제(天帝)께 청하여 (후사를) 얻어 오라.\"",
+    "표훈이 위로 올라가 천제에게 고하자, 돌아와 보고하기를 \"천제께서 말씀하시기를, 여아라면 구할 수 있으나 남아서는 마땅치 않다\"라고 하였다. 왕이 말하기를, \"바라건대 여아를 남자로 바꾸어 달라\"고 하였다.",
+    "표훈이 다시 위로 올라가 천제에게 청하자, 천제가 이르기를 \"허락하면 허락할 것이나, 남자가 되면 나라가 위태롭다\"라고 하였다.",
+    "표훈이 내려가려 할 때, 천제가 다시 불러 이르기를 \"하늘이 내린 것을 사람과 섞어서는 안 된다. 지금 사제들이 왕래함이 이웃처럼 그러하니 하늘의 비밀이 새어 나간다\"라고 하였다."
+   ],
+   "en": [
+    "Wang Okgyeong reached a height of eight inches but was deposed because he had no son. He was titled the wife of Saryang. Later, Lady Manyul, a consort, was posthumously honored as Gyeongteoldaehu. She was the daughter of a Gakgan named Chung.",
+    "One day, the King issued a decree to Pyo-hun regarding Daedeok: \"I have not obtained an heir because I lacked divine help. I desire that Daedeuk request it from the Heavenly Emperor and obtain one.\"",
+    "Byeohun went up and reported to the Heavenly Emperor; upon returning, he reported, \"The Heavenly Emperor said that if it is a girl, it can be obtained, but for a male, it is not appropriate.\" The King said, \"I wish for the girl to be changed into a male.\"",
+    "When Pyo-hun went up again to request of the Heavenly Emperor, the Emperor said, \"If it is permitted, it shall be permitted; however, if it becomes a male, the nation will be in danger.\"",
+    "When Pyo-hun was about to descend, the Heavenly Emperor called him again and said, \"That which is given by heaven must not be mixed with that of man. Now, because priests travel as if they were neighbors, the secrets of heaven are leaking out.\""
+   ],
+   "aligned": true
+  },
+  "15": {
+   "tag": "P0014",
+   "ko": [
+    "이후에 더 이상 통하지 않으니, 표훈(表訓)은 하늘의 말로 그를 훈계하였다.",
+    "대왕이 말씀하시기를, \"나라가 비록 위태롭더라도 아들을 얻어 후사로 삼는 것이 충분하다\"라고 하였다. 이에 보름달이 뜨던 날 왕후가 태자를 낳았다. 왕은 매우 기뻐했다.",
+    "여덟 살에 왕이 승하하자 태자가 즉위하였으니, 이를 혜공왕(惠恭)이라 한다.",
+    "어린 황제가 대왕후를 모시고 조정에 나아갔으나 정사가 제대로 다스려지지 않았다. 도적과 적들이 떼 지어 일어났으나 급히 막아내지 못했다. 표훈이 가르친 말이 증명된 것이다.",
+    "작은 황제는 여아로 태어났으나 남자로 변했기에, 스스로를 아끼며 자라나 자리에 오르는 것을 기대하였다. 늘 부녀자의 놀이를 즐기고 비단 주머니를 차는 것을 좋아했으며 도류와 장난을 쳤다. 이 때문에 나라에 큰 혼란이 생겼다.",
+    "그가 선덕왕(宣德)과 김량의 상소에 의해 살해되었다. 표훈 이후로 성인이 신라에서 태어났다고 전해진다."
+   ],
+   "en": [
+    "Since it no longer communicated, Pyo-hun admonished him with the language of heaven.",
+    "The Great King said, \"Even if the nation is in peril, it is enough to obtain a son to serve as the successor.\" On the day of the full moon, the Queen gave birth to a crown prince. The King rejoiced greatly.",
+    "When the King passed away at the age of eight, the Crown Prince ascended the throne; he is called King Hyegong.",
+    "The young emperor accompanied the Great Queen to the royal court, but state affairs were not properly governed. Thieves and enemies rose in swarms, but they could not be promptly repelled. The words taught by Pyo-hun were proven true.",
+    "The little emperor was born as a girl but became a man, so he grew up cherishing himself and expected to ascend the throne. He always enjoyed women's games, liked wearing a silk pouch, and played around with Doryu. Because of this, the country fell into great turmoil.",
+    "He was killed by the memorial of Seondeok and Kim Ryang. It is said that since Pyo-hun, a sage was born in Silla."
+   ],
+   "aligned": true
+  },
+  "17": {
+   "tag": "P0016",
+   "ko": [
+    "대력(大曆) 초, 강주(康州) 관청의 큰 대당 동쪽에 땅이 점차 꺼져 연못이 되었는데(한 곳은 큰 절 동쪽의 작은 연못이다), 가로 열세 자, 세로 일곱 자였다.",
+    "갑자기 잉어 다섯여섯 마리가 나타나 서로 이어지며 점점 커졌고, 연못 또한 그에 따라 커졌다.",
+    "이년 정미(丁未)에 또 천구(天狗)가 동쪽 누각 남쪽에 떨어졌는데, 머리는 항아리 같고 꼬리는 석 자쯤 되었으며 색은 타오르는 불과 같았다. 하늘과 땅도 함께 떨렸다. 또한 그해였다.",
+    "지금 부현(浦縣)의 벼논 다섯 거기 중 모두 쌀알이 맺혀 이삭이 맺혔다. 이 해 칠월, 북궁(北宮) 마당에 먼저 두 별이 땅에 떨어졌고, 또 한 별이 떨어졌다. 세 별이 모두 땅속으로 사라졌다.",
+    "그때 궁 북쪽 부엌의 흙더미 속에서 두 줄기 연꽃이 자라났고, 또한 봉성사(奉聖寺)의 밭에서도 연꽃이 자랐다."
+   ],
+   "en": [
+    "In the beginning of Daeryeok, the ground to the east of the large hall of the government office in Gangju gradually sank and became a pond (one was a small pond east of a large temple), measuring thirteen feet wide and seven feet long.",
+    "Suddenly five or six carp appeared and grew larger as they followed one another, and the pond also grew larger accordingly.",
+    "In the second year of Jeongmi, a Cheonggu fell to the south of the eastern pavilion; its head was like a jar, its tail was about three feet long, and its color was like blazing fire. Heaven and earth also trembled. It was also that year.",
+    "In the rice fields of Buren, five gyeok among which all formed grains and produced ears. In the seventh month of that year, two stars first fell to the ground in the courtyard of Bukgung, and another star fell. All three stars disappeared into the ground.",
+    "At that time, two stalks of lotus grew from the mound of earth in the kitchen at the north of the palace, and lotus also grew in the field of Bongseongsa."
+   ],
+   "aligned": true
+  },
+  "18": {
+   "tag": "P0017",
+   "ko": [
+    "호랑이가 금성(禁城) 안으로 들어갔다. 뒤쫓아 찾았으나 잃어버렸다. 대공(大恭) 각간(角干)의 집에는 배나무 위에 모인 참새가 무수했다.",
+    "안국병법 하권에 이르기를, \"천하의 병력이 크게 어지러우니, 이때는 크게 사면하고 정비해야 한다\"라고 하였다.",
+    "칠월 스무하루에 대공 각간이 반란을 일으켰다. 왕도와 다섯 도(道)의 주군과 아흔여섯 각간이 서로 싸워 큰 혼란이 일어났다.",
+    "대공 각간의 집이 망하고 그 집안의 재산과 보배로운 비단이 왕궁으로 들어왔다.",
+    "신성 장창이 불탔고, 역당의 보물과 곡식이 사량(沙梁) 모량 등 마을에 있는 것들도 모두 왕궁으로 옮겨졌다.",
+    "소란이 석 달 만에 그쳤으며, 포상받은 자가 많았으나 죽임을 당한 자는 셀 수 없었다. 표훈(表訓)의 말에 국가가 위태로웠다는 것이 이와 같다."
+   ],
+   "en": [
+    "A tiger entered the Geumseong. They pursued and searched for it but lost it. In the house of the Daegong Gakgan, there were countless sparrows gathered on the pear trees.",
+    "The lower volume of the Anguk Byeongbeop stated, \"When the forces of the world are greatly in turmoil, one must grant a great pardon and reorganize at that time.\"",
+    "On the twentieth day of the seventh month, Daegong Gakgan raised a rebellion. The capital, the lords of the five provinces, and ninety-six Gakgan fought one another, and great chaos ensued.",
+    "The house of Daegong Gakgan fell, and the household's property and precious silks entered the royal palace.",
+    "Sinseong Jangchang burned, and the treasures and grains of the rebels located in villages such as Saryang and Moryang were also all moved into the royal palace.",
+    "The turmoil ceased after three months; many were rewarded, but the number of those executed was countless. This is what Byeohun meant when he said the nation was in peril."
+   ],
+   "aligned": true
+  }
+ }
+}

@@ -1,0 +1,52 @@
+{
+  "_doc": "Hand-written items that override whatever the model produces. Applied after generation in translate_local.py, so a rerun can never regress them. Keys are <chapter>/<tag>.",
+  "_why": "The six 향가 went through four glossary cycles and would not settle. Each rerun traded one error for another: 'heather' became 'azalea' but a composer named 'Ji-eun' appeared out of nowhere; 疫神 stopped being a 'servant' but became an untranslated 'Yeoksin'; and 안민가 kept making the king, the minister and the people the singers when 충담사 sang it, even with the gloss saying so outright. Six items out of 271 is the right place to stop automating. These are prose accounts written from the surrounding narrative -- deliberately NOT line-by-line readings, because every published reconstruction (양주동 1942, 김완진 1980) is still in copyright.",
+  "ch_14/P0011": {
+    "ko": [
+      "득오가 죽지랑을 그리워하여 지은 노래다. 이미 지나가 버린 봄을 돌이키며, 뵙지 못하는 사이에 고우시던 그 모습도 늙어 가실 것을 슬퍼하고, 눈 돌릴 만한 짧은 동안이나마 다시 뵙기를 바라는 마음을 담았다."
+    ],
+    "en": [
+      "Deugo made this song out of longing for Jukji-rang. It turns back toward a spring already gone, grieves that his lord's face must be growing old while they are kept apart, and wishes for a meeting again, if only for as long as it takes to turn one's eyes."
+    ]
+  },
+  "ch_15/P0005": {
+    "ko": [
+      "소를 몰고 가던 노인이 수로부인에게 바친 노래다. 붙잡고 있던 암소를 놓아두고 벼랑에 올라, 부인이 자기를 부끄러이 여기지 않으신다면 저 꽃을 꺾어 바치겠다고 했다."
+    ],
+    "en": [
+      "The song an old herdsman offered to Lady Suro. He would let go of the cow he was leading and climb the cliff, and — if she would not think him unworthy — break off that flower and present it to her."
+    ]
+  },
+  "ch_15/P0011": {
+    "ko": [
+      "충담사가 경덕왕의 명을 받아 지은 노래다. 임금은 아버지요 신하는 사랑을 베푸는 어머니며 백성은 어린아이와 같으니, 임금이 임금답고 신하가 신하답고 백성이 백성다우면 나라가 태평하리라고 노래했다."
+    ],
+    "en": [
+      "Master Chungdam made this song at King Gyeongdeok's command. It calls the ruler a father, the minister a mother who gives love, and the people a small child: if the ruler is truly a ruler, the minister truly a minister, and the people truly a people, then the country will be at peace."
+    ]
+  },
+  "ch_17/P0010": {
+    "ko": [
+      "처용이 아내의 자리를 범한 역신을 보고 춤추며 부른 노래다. 서라벌 밝은 달 아래 밤늦도록 놀다가 돌아와 잠자리를 보니 다리가 넷이었다. 둘은 제 아내의 것이지만 둘은 누구의 것인가, 본디 내 것이언마는 빼앗긴 것을 어찌하겠느냐고 노래했다."
+    ],
+    "en": [
+      "The song Cheoyong sang, dancing, when he found the plague spirit in his wife's bed. He had played late beneath the bright moon of Seorabeol; coming home, he saw four legs where two should have been. Two were his wife's — whose were the other two? They had been his own, he sang, but now that they are taken, what is to be done?"
+    ]
+  },
+  "ch_20/P0012": {
+    "ko": [
+      "서동이 아이들에게 부르게 한 노래다. 선화공주가 남몰래 정을 통해 두고 밤이면 서동의 방을 찾아가 안고 간다는 내용으로, 아이들의 입을 빌려 서울 안에 퍼뜨린 것이다."
+    ],
+    "en": [
+      "The rhyme Seodong taught the village children to sing. It says that Princess Seonhwa has secretly taken a lover, and goes by night to Seodong's room to lie with him — a slander he spread through the children's mouths until it filled the capital."
+    ]
+  },
+  "ch_15/P0012": {
+    "ko": [
+      "충담사가 화랑 기파랑을 기려 지은 노래다. 흰 구름을 좇아 떠가는 달과 물가의 조약돌에서 기파랑의 모습을 찾으며, 그가 지녔던 높은 뜻을 좇아가겠다고 했다. 끝에 가서는 눈조차 덮지 못할 잣나무 가지 같은 사람이라 기렸다."
+    ],
+    "en": [
+      "Master Chungdam made this song in praise of the hwarang Gipa-rang. It looks for his face in the moon drifting after white clouds and in the pebbles along the stream, and vows to follow the high purpose he held. At its close it praises him as a pine branch that not even snow can bend."
+    ]
+  }
+}
