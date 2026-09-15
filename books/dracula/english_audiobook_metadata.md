@@ -31,7 +31,7 @@ The existing `google_play_audiobook_metadata.json` describes a different product
 *   **Title:** `Dracula`
 *   **Subtitle:** `Bram Stoker's Gothic Classic` *(no bilingual/영한대역 wording)*
 *   **Author:** `Bram Stoker`
-*   **Narrator:** `Fable AI and Emma AI`
+*   **Narrator:** `Fable AI and Bella AI`
 *   **Language:** `English`
 *   **Publisher:** `TKPROF LLC`
 *   **Duration:** `18:22:45`
@@ -55,17 +55,10 @@ The existing `google_play_audiobook_metadata.json` describes a different product
 
 ## 3. ✅ Narrator name — renamed for the two-voice cast
 
-Renamed 2026-09-15 from `Aiden AI` to `Fable AI and Emma AI`. The book is read
+Renamed 2026-09-15 from `Aiden AI` to `Fable AI and Bella AI`. The book is read
 by two voices — `bm_fable` (male) carries 72.6%, `af_bella` (female) carries
 27.4% (Mina's and Lucy's letters) — so a single male narrator credit no longer
 described it.
-
-**⚠️ The second name does not match its voice.** The female voice is
-`af_bella`, not `bf_emma`. "Emma AI" was the name requested; if the intent was
-the `bf_emma` voice rather than the name, the cast in
-`make_english_audiobook_v2.py` needs changing and the book re-rendering
-(~35 min). If the name is simply a stage name for `af_bella`, nothing more is
-needed — but `Bella AI` would avoid the confusion.
 
 **⚠️ Cover art must be re-lettered** before submission: it still reads
 `Narrated by Aiden AI`, and AR requires an exact match with the audio credit.
@@ -102,7 +95,7 @@ Reuses the existing high-resolution artwork; the old bilingual lettering
 opaque panels — verified with no ghosting — and reset in English only.
 
 Carries: `DRACULA` / `Bram Stoker's Gothic Classic` / `BRAM STOKER` /
-`Narrated by Fable AI and Emma AI` / `TKPROF LLC`. No stickers, no format
+`Narrated by Fable AI and Bella AI` / `TKPROF LLC`. No stickers, no format
 references.
 
 **COVER ART IS NOW STALE** — the artwork still reads `Narrated by Aiden AI`.
