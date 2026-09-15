@@ -60,6 +60,9 @@ ATTRIB = re.compile(
 NORM = [
     (r"\s+-\s+", ", "),            # stray hyphen -> real pause
     (r"[—–]", ", "),     # em/en dash -> pause
+    # a dash straight after terminal punctuation ("Bistritz.—Left Munich")
+    # would otherwise become ".," which reads as a stray comma
+    (r"([.!?]),\s+", r"\1 "),
     (r"\bMr\.", "Mister"),
     (r"\bMrs\.", "Missus"),
     (r"\bDr\.", "Doctor"),

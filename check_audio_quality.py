@@ -128,7 +128,8 @@ def analyze_audio_levels_and_silence(filepath, duration):
         print(f"Error analyzing levels/silence for {filepath}: {e}", file=sys.stderr)
         return None
 
-def analyze_narration_content(filepath, duration, lead=0.0, trail=0.0):
+def analyze_narration_content(filepath, duration, lead=0.0, trail=0.0,
+                              sample_rate=44100):
     """
     Content checks that the container-level checks above cannot see.
 
@@ -153,9 +154,17 @@ def analyze_narration_content(filepath, duration, lead=0.0, trail=0.0):
 
     # 1. source bandwidth: a 24 kHz source upsampled to 44.1 kHz has a hard
     #    ~12 kHz ceiling, which a listener hears as muffled.
-    low = mean_db("highpass=f=8000,lowpass=f=11000,volumedetect")
-    high = mean_db("highpass=f=13000,highpass=f=13000,volumedetect")
-    headroom = (high - low) if (low is not None and high is not None) else None
+    #
+    # Only meaningful when 13 kHz is below Nyquist. On a 24 kHz file (Nyquist
+    # 12 kHz) a highpass at 13 kHz is above the representable band and ffmpeg
+    # returns garbage -- a Kokoro reference clip measured +8.1 dB "headroom",
+    # i.e. more energy above 13 kHz than below it, which is impossible.
+    if sample_rate < 28000:
+        low = high = headroom = None
+    else:
+        low = mean_db("highpass=f=8000,lowpass=f=11000,volumedetect")
+        high = mean_db("highpass=f=13000,highpass=f=13000,volumedetect")
+        headroom = (high - low) if (low is not None and high is not None) else None
 
     # 2 & 3. silence ratio and pause distribution. This is a single cheap pass,
     # so it gets a wider window than the bandwidth passes above -- 120s yields
@@ -214,6 +223,58 @@ def analyze_narration_content(filepath, duration, lead=0.0, trail=0.0):
     }
 
 
+def steady_tone_ratio(filepath, duration):
+    """Fraction of runtime that is a sustained constant-frequency tone.
+
+    Added 2026-09-15 after a batched render shipped audible beeps. Cause: the
+    TTS zero-fills codes after EOS, and decoding a constant token run produces
+    a TONE, not silence -- so it sits above the -40 dB floor and every
+    silence-based check passes it. Chapter 4 measured 14.3% tone against 7.6%
+    for a clean sequential chapter, and a listener heard it immediately while
+    the whole gate said PASS.
+
+    Speech pitch moves constantly; a padding tone holds one frequency. Runs of
+    frames with a near-static peak bin are what separates them.
+    """
+    try:
+        import numpy as np
+    except ImportError:
+        return None
+
+    span = min(120.0, duration)
+    start = max(0.0, duration / 2.0 - span / 2.0)
+    p = subprocess.run(
+        ["ffmpeg", "-v", "error", "-ss", str(start), "-t", str(span),
+         "-i", filepath, "-f", "f32le", "-ac", "1", "-ar", "44100", "-"],
+        capture_output=True)
+    y = np.frombuffer(p.stdout, dtype=np.float32)
+    if y.size < 8192:
+        return None
+
+    win, hop, sr = 2048, 1024, 44100
+    n = (len(y) - win) // hop
+    w = np.hanning(win).astype(np.float32)
+    freqs = np.zeros(n)
+    audible = np.zeros(n, dtype=bool)
+    for i in range(n):
+        seg = y[i * hop:i * hop + win] * w
+        audible[i] = float(np.dot(seg, seg)) > 1e-5
+        spec = np.abs(np.fft.rfft(seg))
+        freqs[i] = int(np.argmax(spec)) * sr / win
+
+    tone_frames, run = 0, 0
+    for i in range(1, n):
+        if audible[i] and audible[i - 1] and abs(freqs[i] - freqs[i - 1]) < 6.0:
+            run += 1
+        else:
+            if run * hop / sr >= 0.25:      # >= 250ms of unchanging pitch
+                tone_frames += run
+            run = 0
+    if run * hop / sr >= 0.25:
+        tone_frames += run
+    return 100.0 * tone_frames * hop / sr / span
+
+
 def check_file(filepath):
     """
     Checks a single audio file against ACX/Authors Republic standards.
@@ -270,10 +331,17 @@ def check_file(filepath):
         errors.append(f"Duration is {dur_mins:.1f} minutes (max limit is 120 minutes).")
         
     # 7-9. Narration content checks (see analyze_narration_content).
-    content = analyze_narration_content(filepath, fmt["duration"], leading, trailing)
+    content = analyze_narration_content(filepath, fmt["duration"], leading,
+                                        trailing, fmt["sample_rate"])
 
+    # Calibrated 2026-09-14 against three measured points:
+    #   -24.4  Kokoro build rejected by Authors Republic  (must fail)
+    #   -14.0  Zonos' own full-band reference recording   (must pass)
+    #   -12.5  Zonos clone from a Kokoro-derived voice     (must pass)
+    # The original -15.0 left real full-band speech passing by 1 dB, which is
+    # no margin at all. -18 sits between the rejected build and genuine speech.
     headroom = content["bandwidth_headroom_db"]
-    if headroom is not None and headroom <= -15.0:
+    if headroom is not None and headroom <= -18.0:
         errors.append(
             f"No energy above 13kHz (headroom {headroom:.1f} dB): the source is "
             f"upsampled, not {fmt['sample_rate']}Hz narration. Reads as muffled."
@@ -282,6 +350,18 @@ def check_file(filepath):
     sil_pct = content["silence_ratio_pct"]
     if sil_pct is not None and sil_pct > 12.0:
         errors.append(f"Silence is {sil_pct:.1f}% of narration body (max 12%).")
+
+    # Calibrated on measured builds: 7.6% on a clean sequential chapter (that
+    # figure is mostly voice fundamental, not artifact), 14.3% on the chapter
+    # a listener rejected for beeps. 12% sits between them.
+    tone = steady_tone_ratio(filepath, fmt["duration"])
+    if tone is not None:
+        content["steady_tone_pct"] = tone
+        if tone > 12.0:
+            errors.append(
+                f"Steady tones are {tone:.1f}% of runtime (max 12%): likely "
+                f"decoder padding, heard as beeps."
+            )
 
     top = content["top_pause_bucket_pct"]
     if top is not None and top > 30.0:

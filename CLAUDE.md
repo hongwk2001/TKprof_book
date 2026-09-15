@@ -83,6 +83,20 @@ because the engine itself cannot produce intonation or bandwidth.
 Full diagnosis, measurements, and reproduction commands:
 `books/dracula/NARRATION_REJECTION_ANALYSIS.md`
 
+### Voice selection
+
+**Do not trust Kokoro's published VOICES.md grades.** They are the model
+author's own subjective ratings, not measurements, and they do not match how
+these voices actually sound on this material. Audition and decide by ear.
+
+* **af_nicole — never use.** Graded B- upstream; sounds like a sick person.
+  Rejected on listening 2026-09-15.
+* Grades rate male voices below female ones, but `bm_fable` was judged the
+  clearest of the auditioned set by ear despite its C grade.
+
+`books/dracula/make_voice_audition.py` renders candidates on the same passage.
+Kokoro is fast enough that auditioning the whole voice set costs minutes.
+
 Current replacement path — Azure Neural TTS at 48 kHz with per-sentence SSML
 prosody, reusing the existing pipeline unchanged:
 
