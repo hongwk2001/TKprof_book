@@ -40,7 +40,9 @@ SPEED = 0.82          # ~158 wpm, audiobook standard
 BITRATE = "192k"      # CBR; must be identical across every track
 TITLE = "Dracula"
 AUTHOR = "Bram Stoker"
-NARRATOR = "Aiden AI"   # must match cover art + metadata EXACTLY
+NARRATOR = "Fable AI and Emma AI"   # must match cover art + metadata EXACTLY
+# Two voices since the 2026-09-15 recast, so the credit names both. "AI" is
+# pinned in KEEP_CAPS below so it reads as letters, not as the word "aid".
 
 # ---- casting: Dracula is epistolary, each narrator gets their own voice -----
 NARRATOR_VOICE = "bm_fable"     # neutral narrator / newspaper cuttings

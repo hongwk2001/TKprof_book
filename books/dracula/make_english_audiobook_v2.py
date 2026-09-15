@@ -374,8 +374,12 @@ def build_credits():
         if clip is None or clip.size == 0:
             print(f"[warn] could not synthesize {name}")
             continue
+        # -13, not -16: AR requires RMS in [-23, -18] and a short track's
+        # mandated lead/trail padding drags the average down. At -16 the
+        # opening credits landed on exactly -23.0 -- inside the window with
+        # zero margin, which AR's own spec warns against for short tracks.
         master([clip], os.path.join(OUT, f"{name}.mp3"),
-               target_i="-16", pad="1200|1200", tail="1.2")
+               target_i="-13", pad="1200|1200", tail="1.2")
         print(f"[done] {name}", flush=True)
 
     # Retail sample from the WAV master: one encode, not two.
