@@ -23,6 +23,12 @@ import re
 import subprocess
 import sys
 
+# Korean titles crash the default cp1252 console on Windows.
+if sys.platform == "win32":
+    import io as _io
+    sys.stdout = _io.TextIOWrapper(sys.stdout.buffer, encoding="utf-8")
+    sys.stderr = _io.TextIOWrapper(sys.stderr.buffer, encoding="utf-8")
+
 PASS, FAIL, WARN = "PASS", "FAIL", "WARN"
 results = []
 
@@ -199,17 +205,24 @@ def main():
           f"{len(trail_bad)} outside: {trail_bad[:3]}" if trail_bad else "all in range")
 
     # ---- section 4: required tracks ---------------------------------------
-    has_open = any("opening_credits" in f for f in mp3s)
-    has_close = any("closing_credits" in f for f in mp3s)
-    sample = [f for f in mp3s if "retail_sample" in f]
+    # Naming conventions differ per title -- Dracula uses opening_credits.mp3 /
+    # dracula_ch_01_en.mp3, The Enchanted April uses final_track_00_intro.mp3 /
+    # final_track_01.mp3. Match on intent, not on one title's filenames.
+    def any_match(pat):
+        return [f for f in mp3s if re.search(pat, f, re.I)]
+
+    has_open = bool(any_match(r"open|intro"))
+    has_close = bool(any_match(r"clos|outro|\bend\b"))
+    sample = any_match(r"sample|retail")
     check("opening credits track present", has_open)
     check("closing credits track present", has_close)
     check("retail sample present", bool(sample))
     if sample:
-        d = info[sample[0]]["duration"]
-        check("retail sample 1-5 min", 60 <= d <= 300, f"{d/60:.1f} min")
+        ok = [f for f in sample if 60 <= info[f]["duration"] <= 300]
+        check("retail sample 1-5 min", bool(ok),
+              ", ".join(f"{f} {info[f]['duration']/60:.1f}min" for f in sample))
 
-    chapters = [f for f in mp3s if re.search(r"ch_?\d+", f)]
+    chapters = [f for f in mp3s if re.search(r"(ch|track)_?\d+", f, re.I)]
     check("chapters are standalone files", len(chapters) >= 1,
           f"{len(chapters)} chapter tracks")
 
