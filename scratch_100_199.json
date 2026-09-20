@@ -1,0 +1,802 @@
+[
+  {
+    "file": "book1_ch_02.json",
+    "id": 81,
+    "prev_context": "Because I\u2019m very quick to make a mistake, and when I do, it\u2019s with a bullet.",
+    "target_en": "So now let\u2019s get a good look at you.\"",
+    "next_context": "A horse and rider slowly emerged through the swirling mist and came up to the side of the mail coach, where the passenger was standing.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 82,
+    "prev_context": "So now let\u2019s get a good look at you.\"",
+    "target_en": "A horse and rider slowly emerged through the swirling mist and came up to the side of the mail coach, where the passenger was standing.",
+    "next_context": "The rider bent down, and, looking up at the guard, handed the passenger a small folded piece of paper.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 83,
+    "prev_context": "A horse and rider slowly emerged through the swirling mist and came up to the side of the mail coach, where the passenger was standing.",
+    "target_en": "The rider bent down, and, looking up at the guard, handed the passenger a small folded piece of paper.",
+    "next_context": "The rider\u2019s horse was winded, and both horse and rider were covered with mud, from the horse\u2019s hooves to the man\u2019s hat.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 84,
+    "prev_context": "The rider bent down, and, looking up at the guard, handed the passenger a small folded piece of paper.",
+    "target_en": "The rider\u2019s horse was winded, and both horse and rider were covered with mud, from the horse\u2019s hooves to the man\u2019s hat.",
+    "next_context": "\"Guard!\" said the passenger, in a quiet, confident, businesslike tone.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 85,
+    "prev_context": "The rider\u2019s horse was winded, and both horse and rider were covered with mud, from the horse\u2019s hooves to the man\u2019s hat.",
+    "target_en": "\"Guard!\" said the passenger, in a quiet, confident, businesslike tone.",
+    "next_context": "The guard kept his right hand on the stock of his raised shotgun. His left hand held the barrel steady. His eyes stayed fixed on the rider. He answered with a single word. \"Sir.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 86,
+    "prev_context": "\"Guard!\" said the passenger, in a quiet, confident, businesslike tone.",
+    "target_en": "The guard kept his right hand on the stock of his raised shotgun. His left hand held the barrel steady. His eyes stayed fixed on the rider. He answered with a single word. \"Sir.\"",
+    "next_context": "\"There\u2019s nothing to worry about.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 87,
+    "prev_context": "The guard kept his right hand on the stock of his raised shotgun. His left hand held the barrel steady. His eyes stayed fixed on the rider. He answered with a single word. \"Sir.\"",
+    "target_en": "\"There\u2019s nothing to worry about.",
+    "next_context": "I work for Tellson\u2019s Bank.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 88,
+    "prev_context": "\"There\u2019s nothing to worry about.",
+    "target_en": "I work for Tellson\u2019s Bank.",
+    "next_context": "You must know Tellson\u2019s Bank in London, right?",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 89,
+    "prev_context": "I work for Tellson\u2019s Bank.",
+    "target_en": "You must know Tellson\u2019s Bank in London, right?",
+    "next_context": "I\u2019m going to Paris on business.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 90,
+    "prev_context": "You must know Tellson\u2019s Bank in London, right?",
+    "target_en": "I\u2019m going to Paris on business.",
+    "next_context": "Here\u2019s a crown for a drink.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 91,
+    "prev_context": "I\u2019m going to Paris on business.",
+    "target_en": "Here\u2019s a crown for a drink.",
+    "next_context": "Can I read this?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 92,
+    "prev_context": "Here\u2019s a crown for a drink.",
+    "target_en": "Can I read this?\"",
+    "next_context": "\"As long as you\u2019re quick about it, sir.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 93,
+    "prev_context": "Can I read this?\"",
+    "target_en": "\"As long as you\u2019re quick about it, sir.\"",
+    "next_context": "He opened it by the light of the coach-lamp on that side, and read it, first to himself and then aloud: \"'Wait at Dover for Mademoiselle.' It\u2019s not long, you see, guard.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 94,
+    "prev_context": "\"As long as you\u2019re quick about it, sir.\"",
+    "target_en": "He opened it by the light of the coach-lamp on that side, and read it, first to himself and then aloud: \"'Wait at Dover for Mademoiselle.' It\u2019s not long, you see, guard.",
+    "next_context": "Jerry, tell them my answer was, RECALLED TO LIFE.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 95,
+    "prev_context": "He opened it by the light of the coach-lamp on that side, and read it, first to himself and then aloud: \"'Wait at Dover for Mademoiselle.' It\u2019s not long, you see, guard.",
+    "target_en": "Jerry, tell them my answer was, RECALLED TO LIFE.\"",
+    "next_context": "Jerry jumped in his saddle. \"That's a really strange answer, too,\" he said, his voice raspy.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 96,
+    "prev_context": "Jerry, tell them my answer was, RECALLED TO LIFE.\"",
+    "target_en": "Jerry jumped in his saddle. \"That's a really strange answer, too,\" he said, his voice raspy.",
+    "next_context": "\"Take that message back, and they'll know I got this, just as if I'd written it myself.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 97,
+    "prev_context": "Jerry jumped in his saddle. \"That's a really strange answer, too,\" he said, his voice raspy.",
+    "target_en": "\"Take that message back, and they'll know I got this, just as if I'd written it myself.",
+    "next_context": "Get going.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 98,
+    "prev_context": "\"Take that message back, and they'll know I got this, just as if I'd written it myself.",
+    "target_en": "Get going.",
+    "next_context": "Good night.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 99,
+    "prev_context": "Get going.",
+    "target_en": "Good night.\"",
+    "next_context": "With those words, the passenger opened the coach door and got in. His fellow travelers didn't help him at all; they had quickly hidden their watches and purses in their boots and were now all pretending to be asleep.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 100,
+    "prev_context": "Good night.\"",
+    "target_en": "With those words, the passenger opened the coach door and got in. His fellow travelers didn't help him at all; they had quickly hidden their watches and purses in their boots and were now all pretending to be asleep.",
+    "next_context": "Their only goal was to avoid having to do anything else.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 101,
+    "prev_context": "With those words, the passenger opened the coach door and got in. His fellow travelers didn't help him at all; they had quickly hidden their watches and purses in their boots and were now all pretending to be asleep.",
+    "target_en": "Their only goal was to avoid having to do anything else.",
+    "next_context": "The coach rumbled on again. Thicker swirls of mist wrapped around it as it started going downhill.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 102,
+    "prev_context": "Their only goal was to avoid having to do anything else.",
+    "target_en": "The coach rumbled on again. Thicker swirls of mist wrapped around it as it started going downhill.",
+    "next_context": "The guard put his shotgun back in the weapons chest. He checked the rest of the chest's contents. Then he checked the extra pistols on his belt. Finally, he checked a smaller chest under his seat. Inside it: a few blacksmith's tools, a couple of torches, and a tinderbox.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 103,
+    "prev_context": "The coach rumbled on again. Thicker swirls of mist wrapped around it as it started going downhill.",
+    "target_en": "The guard put his shotgun back in the weapons chest. He checked the rest of the chest's contents. Then he checked the extra pistols on his belt. Finally, he checked a smaller chest under his seat. Inside it: a few blacksmith's tools, a couple of torches, and a tinderbox.",
+    "next_context": "He was very well-equipped. If the coach lamps blew out in the wind and rain, which sometimes happened, he could handle it. He just had to close himself in, make sure no sparks landed on the straw, and with a bit of luck he could get a light going in about five minutes.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 104,
+    "prev_context": "The guard put his shotgun back in the weapons chest. He checked the rest of the chest's contents. Then he checked the extra pistols on his belt. Finally, he checked a smaller chest under his seat. Inside it: a few blacksmith's tools, a couple of torches, and a tinderbox.",
+    "target_en": "He was very well-equipped. If the coach lamps blew out in the wind and rain, which sometimes happened, he could handle it. He just had to close himself in, make sure no sparks landed on the straw, and with a bit of luck he could get a light going in about five minutes.",
+    "next_context": "\"Tom!\" softly from the coach roof.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 105,
+    "prev_context": "He was very well-equipped. If the coach lamps blew out in the wind and rain, which sometimes happened, he could handle it. He just had to close himself in, make sure no sparks landed on the straw, and with a bit of luck he could get a light going in about five minutes.",
+    "target_en": "\"Tom!\" softly from the coach roof.",
+    "next_context": "\"Hello, Joe.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 106,
+    "prev_context": "\"Tom!\" softly from the coach roof.",
+    "target_en": "\"Hello, Joe.\"",
+    "next_context": "\"Did you hear the message?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 107,
+    "prev_context": "\"Hello, Joe.\"",
+    "target_en": "\"Did you hear the message?\"",
+    "next_context": "\"I did, Joe.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 108,
+    "prev_context": "\"Did you hear the message?\"",
+    "target_en": "\"I did, Joe.\"",
+    "next_context": "\"What did you make of it, Tom?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 109,
+    "prev_context": "\"I did, Joe.\"",
+    "target_en": "\"What did you make of it, Tom?\"",
+    "next_context": "\"Nothing at all, Joe.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 110,
+    "prev_context": "\"What did you make of it, Tom?\"",
+    "target_en": "\"Nothing at all, Joe.\"",
+    "next_context": "The guard thought, \"That's a coincidence, too, because I didn't get anything from it either.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 111,
+    "prev_context": "\"Nothing at all, Joe.\"",
+    "target_en": "The guard thought, \"That's a coincidence, too, because I didn't get anything from it either.\"",
+    "next_context": "Jerry was left alone in the mist and darkness. He got off his horse. He wanted to give the tired animal a rest. He also needed to wipe the mud from his own face. He shook the water out of his hat brim.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 112,
+    "prev_context": "The guard thought, \"That's a coincidence, too, because I didn't get anything from it either.\"",
+    "target_en": "Jerry was left alone in the mist and darkness. He got off his horse. He wanted to give the tired animal a rest. He also needed to wipe the mud from his own face. He shook the water out of his hat brim.",
+    "next_context": "The hat looked like it could hold about half a gallon. After standing with the bridle draped over his heavily-splashed arm until he couldn't hear the mail coach's wheels anymore and the night was completely quiet again, he turned to walk down the hill.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 113,
+    "prev_context": "Jerry was left alone in the mist and darkness. He got off his horse. He wanted to give the tired animal a rest. He also needed to wipe the mud from his own face. He shook the water out of his hat brim.",
+    "target_en": "The hat looked like it could hold about half a gallon. After standing with the bridle draped over his heavily-splashed arm until he couldn't hear the mail coach's wheels anymore and the night was completely quiet again, he turned to walk down the hill.",
+    "next_context": "\"After that gallop from Temple Bar, old lady, I won't trust your front legs until we're on flat ground,\" said the hoarse messenger, glancing at his mare. \"'Recalled to life.' That's a really strange message.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 114,
+    "prev_context": "The hat looked like it could hold about half a gallon. After standing with the bridle draped over his heavily-splashed arm until he couldn't hear the mail coach's wheels anymore and the night was completely quiet again, he turned to walk down the hill.",
+    "target_en": "\"After that gallop from Temple Bar, old lady, I won't trust your front legs until we're on flat ground,\" said the hoarse messenger, glancing at his mare. \"'Recalled to life.' That's a really strange message.",
+    "next_context": "A lot of that wouldn't work out for you, Jerry!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 115,
+    "prev_context": "\"After that gallop from Temple Bar, old lady, I won't trust your front legs until we're on flat ground,\" said the hoarse messenger, glancing at his mare. \"'Recalled to life.' That's a really strange message.",
+    "target_en": "A lot of that wouldn't work out for you, Jerry!",
+    "next_context": "Hey, Jerry!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 116,
+    "prev_context": "A lot of that wouldn't work out for you, Jerry!",
+    "target_en": "Hey, Jerry!",
+    "next_context": "You'd be in a really bad way if bringing people back to life became popular, Jerry!\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_02.json",
+    "id": 117,
+    "prev_context": "Hey, Jerry!",
+    "target_en": "You'd be in a really bad way if bringing people back to life became popular, Jerry!\"",
+    "next_context": "",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 2,
+    "prev_context": "[Chapter 3]",
+    "target_en": "The Night Shadows It is a wonderful thing to think about.",
+    "next_context": "It is a serious thought, when I enter a great city by night, that every one of those dark, clustered houses holds its own secret. Every room inside them holds its own secret, too. And every beating heart, among the hundreds of thousands of people there, holds secrets even from the person closest to them!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 3,
+    "prev_context": "The Night Shadows It is a wonderful thing to think about.",
+    "target_en": "It is a serious thought, when I enter a great city by night, that every one of those dark, clustered houses holds its own secret. Every room inside them holds its own secret, too. And every beating heart, among the hundreds of thousands of people there, holds secrets even from the person closest to them!",
+    "next_context": "Every room in every house holds its own secret.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 4,
+    "prev_context": "It is a serious thought, when I enter a great city by night, that every one of those dark, clustered houses holds its own secret. Every room inside them holds its own secret, too. And every beating heart, among the hundreds of thousands of people there, holds secrets even from the person closest to them!",
+    "target_en": "Every room in every house holds its own secret.",
+    "next_context": "Every beating heart among the hundreds of thousands of people there, in some of its deepest thoughts, is a secret even to the person standing closest to it.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 5,
+    "prev_context": "Every room in every house holds its own secret.",
+    "target_en": "Every beating heart among the hundreds of thousands of people there, in some of its deepest thoughts, is a secret even to the person standing closest to it.",
+    "next_context": "I can no longer look into the depths of this deep, mysterious water, where, by brief flashes of light, I have caught glimpses of buried treasure and other hidden things.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 6,
+    "prev_context": "Every beating heart among the hundreds of thousands of people there, in some of its deepest thoughts, is a secret even to the person standing closest to it.",
+    "target_en": "I can no longer look into the depths of this deep, mysterious water, where, by brief flashes of light, I have caught glimpses of buried treasure and other hidden things.",
+    "next_context": "The pages of a dear book snap shut before we ever finish reading it.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 7,
+    "prev_context": "I can no longer look into the depths of this deep, mysterious water, where, by brief flashes of light, I have caught glimpses of buried treasure and other hidden things.",
+    "target_en": "The pages of a dear book snap shut before we ever finish reading it.",
+    "next_context": "The depths of a beautiful pool freeze over before we can see what lies at the bottom. My friend is dead.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 8,
+    "prev_context": "The pages of a dear book snap shut before we ever finish reading it.",
+    "target_en": "The depths of a beautiful pool freeze over before we can see what lies at the bottom. My friend is dead.",
+    "next_context": "My neighbor is dead. My love, the darling of my soul, is dead. The secret they carried is now sealed forever inside them. And I will carry my own secret until I die.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 9,
+    "prev_context": "The depths of a beautiful pool freeze over before we can see what lies at the bottom. My friend is dead.",
+    "target_en": "My neighbor is dead. My love, the darling of my soul, is dead. The secret they carried is now sealed forever inside them. And I will carry my own secret until I die.",
+    "next_context": "Walking through any cemetery in this city, I have to wonder: are the people sleeping underground truly more mysterious than the people rushing past the gate above them?",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 10,
+    "prev_context": "My neighbor is dead. My love, the darling of my soul, is dead. The secret they carried is now sealed forever inside them. And I will carry my own secret until I die.",
+    "target_en": "Walking through any cemetery in this city, I have to wonder: are the people sleeping underground truly more mysterious than the people rushing past the gate above them?",
+    "next_context": "When it came to this, this natural mystery that no one could take away, the messenger on horseback was equal to the King, the Prime Minister, or the richest merchant in London.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 11,
+    "prev_context": "Walking through any cemetery in this city, I have to wonder: are the people sleeping underground truly more mysterious than the people rushing past the gate above them?",
+    "target_en": "When it came to this, this natural mystery that no one could take away, the messenger on horseback was equal to the King, the Prime Minister, or the richest merchant in London.",
+    "next_context": "The three passengers in that cramped old mail coach were no different. Each was a complete mystery to the others. They might as well each have been riding alone in a private carriage, with an entire county of open road between them.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 12,
+    "prev_context": "When it came to this, this natural mystery that no one could take away, the messenger on horseback was equal to the King, the Prime Minister, or the richest merchant in London.",
+    "target_en": "The three passengers in that cramped old mail coach were no different. Each was a complete mystery to the others. They might as well each have been riding alone in a private carriage, with an entire county of open road between them.",
+    "next_context": "The messenger rode back at an easy trot, stopping pretty often at pubs along the way to drink, but showing a tendency to keep to himself and keep his hat pulled low over his eyes.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 13,
+    "prev_context": "The three passengers in that cramped old mail coach were no different. Each was a complete mystery to the others. They might as well each have been riding alone in a private carriage, with an entire county of open road between them.",
+    "target_en": "The messenger rode back at an easy trot, stopping pretty often at pubs along the way to drink, but showing a tendency to keep to himself and keep his hat pulled low over his eyes.",
+    "next_context": "He had eyes that went well with that look: they were flat black, with no depth in color or shape, and set much too close together, as if they were afraid of being caught doing something separately if they stood too far apart.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 14,
+    "prev_context": "The messenger rode back at an easy trot, stopping pretty often at pubs along the way to drink, but showing a tendency to keep to himself and keep his hat pulled low over his eyes.",
+    "target_en": "He had eyes that went well with that look: they were flat black, with no depth in color or shape, and set much too close together, as if they were afraid of being caught doing something separately if they stood too far apart.",
+    "next_context": "They had a sinister look, hidden under an old cocked hat that looked like a three-cornered spittoon, and above a large scarf for his chin and throat that hung down almost to his knees.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 15,
+    "prev_context": "He had eyes that went well with that look: they were flat black, with no depth in color or shape, and set much too close together, as if they were afraid of being caught doing something separately if they stood too far apart.",
+    "target_en": "They had a sinister look, hidden under an old cocked hat that looked like a three-cornered spittoon, and above a large scarf for his chin and throat that hung down almost to his knees.",
+    "next_context": "When he stopped for a drink, he pulled this scarf away with his left hand only while pouring the alcohol in with his right; as soon as that was done, he wrapped himself back up.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 16,
+    "prev_context": "They had a sinister look, hidden under an old cocked hat that looked like a three-cornered spittoon, and above a large scarf for his chin and throat that hung down almost to his knees.",
+    "target_en": "When he stopped for a drink, he pulled this scarf away with his left hand only while pouring the alcohol in with his right; as soon as that was done, he wrapped himself back up.",
+    "next_context": "\"No, Jerry, no!\" said the messenger, repeating the same idea as he rode. \"It wouldn't work out for you, Jerry.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 17,
+    "prev_context": "When he stopped for a drink, he pulled this scarf away with his left hand only while pouring the alcohol in with his right; as soon as that was done, he wrapped himself back up.",
+    "target_en": "\"No, Jerry, no!\" said the messenger, repeating the same idea as he rode. \"It wouldn't work out for you, Jerry.",
+    "next_context": "Jerry, you honest tradesman, it wouldn't suit your line of work!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 18,
+    "prev_context": "\"No, Jerry, no!\" said the messenger, repeating the same idea as he rode. \"It wouldn't work out for you, Jerry.",
+    "target_en": "Jerry, you honest tradesman, it wouldn't suit your line of work!",
+    "next_context": "Recalled, !",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 19,
+    "prev_context": "Jerry, you honest tradesman, it wouldn't suit your line of work!",
+    "target_en": "Recalled, !",
+    "next_context": "Blow me if I don't think he's been drinking!\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 20,
+    "prev_context": "Recalled, !",
+    "target_en": "Blow me if I don't think he's been drinking!\"",
+    "next_context": "His message confused him so much that he kept having to take off his hat to scratch his head.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 21,
+    "prev_context": "Blow me if I don't think he's been drinking!\"",
+    "target_en": "His message confused him so much that he kept having to take off his hat to scratch his head.",
+    "next_context": "The top of his head was patchily bald. The rest of his hair was stiff, black, and jagged. It grew forward almost to his broad, flat nose.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 22,
+    "prev_context": "His message confused him so much that he kept having to take off his hat to scratch his head.",
+    "target_en": "The top of his head was patchily bald. The rest of his hair was stiff, black, and jagged. It grew forward almost to his broad, flat nose.",
+    "next_context": "It looked less like hair and more like the spikes on top of a stone wall. Even the best leapfrog player in the world would have thought twice before jumping over him.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 23,
+    "prev_context": "The top of his head was patchily bald. The rest of his hair was stiff, black, and jagged. It grew forward almost to his broad, flat nose.",
+    "target_en": "It looked less like hair and more like the spikes on top of a stone wall. Even the best leapfrog player in the world would have thought twice before jumping over him.",
+    "next_context": "As he trotted back to deliver his message, the night shadows played tricks on his mind. He was heading for the night watchman's booth at the door of Tellson's Bank, near Temple Bar. The watchman would pass the message on to the senior officials inside. As Jerry rode, the word \"recalled\" haunted him. Strange shapes formed in the dark.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 24,
+    "prev_context": "It looked less like hair and more like the spikes on top of a stone wall. Even the best leapfrog player in the world would have thought twice before jumping over him.",
+    "target_en": "As he trotted back to deliver his message, the night shadows played tricks on his mind. He was heading for the night watchman's booth at the door of Tellson's Bank, near Temple Bar. The watchman would pass the message on to the senior officials inside. As Jerry rode, the word \"recalled\" haunted him. Strange shapes formed in the dark.",
+    "next_context": "Even his mare seemed nervous, she shied away from every shadow on the road, as if the night were full of things only she could see.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 25,
+    "prev_context": "As he trotted back to deliver his message, the night shadows played tricks on his mind. He was heading for the night watchman's booth at the door of Tellson's Bank, near Temple Bar. The watchman would pass the message on to the senior officials inside. As Jerry rode, the word \"recalled\" haunted him. Strange shapes formed in the dark.",
+    "target_en": "Even his mare seemed nervous, she shied away from every shadow on the road, as if the night were full of things only she could see.",
+    "next_context": "Meanwhile, the mail coach rumbled, jolted, rattled, and bumped along its exhausting path, with its three mysterious passengers inside.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 26,
+    "prev_context": "Even his mare seemed nervous, she shied away from every shadow on the road, as if the night were full of things only she could see.",
+    "target_en": "Meanwhile, the mail coach rumbled, jolted, rattled, and bumped along its exhausting path, with its three mysterious passengers inside.",
+    "next_context": "To them, too, the night shadows showed themselves in whatever shapes their sleepy eyes and wandering thoughts suggested.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 27,
+    "prev_context": "Meanwhile, the mail coach rumbled, jolted, rattled, and bumped along its exhausting path, with its three mysterious passengers inside.",
+    "target_en": "To them, too, the night shadows showed themselves in whatever shapes their sleepy eyes and wandering thoughts suggested.",
+    "next_context": "Tellson's Bank was never far from the banker's thoughts.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 28,
+    "prev_context": "To them, too, the night shadows showed themselves in whatever shapes their sleepy eyes and wandering thoughts suggested.",
+    "target_en": "Tellson's Bank was never far from the banker's thoughts.",
+    "next_context": "He dozed in his seat, his arm hooked through the leather strap overhead to stop himself from slamming into the next passenger every time the coach jolted badly. The dim coach windows, the faint glow of the lamp, and the dark silhouette of the passenger across from him all slowly transformed in his half-sleeping mind into the familiar rooms of the bank.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 29,
+    "prev_context": "Tellson's Bank was never far from the banker's thoughts.",
+    "target_en": "He dozed in his seat, his arm hooked through the leather strap overhead to stop himself from slamming into the next passenger every time the coach jolted badly. The dim coach windows, the faint glow of the lamp, and the dark silhouette of the passenger across from him all slowly transformed in his half-sleeping mind into the familiar rooms of the bank.",
+    "next_context": "The rattling of the harness sounded like the clinking of coins. In his mind, more bank drafts were cashed in five minutes than even Tellson's bank, with all its local and foreign connections, had ever paid out in three times as long.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 30,
+    "prev_context": "He dozed in his seat, his arm hooked through the leather strap overhead to stop himself from slamming into the next passenger every time the coach jolted badly. The dim coach windows, the faint glow of the lamp, and the dark silhouette of the passenger across from him all slowly transformed in his half-sleeping mind into the familiar rooms of the bank.",
+    "target_en": "The rattling of the harness sounded like the clinking of coins. In his mind, more bank drafts were cashed in five minutes than even Tellson's bank, with all its local and foreign connections, had ever paid out in three times as long.",
+    "next_context": "More transactions were processed in five minutes of dreaming than Tellson's had managed in three times that duration in real life. Then the underground vaults opened in his mind. He walked through them with a large ring of keys and a dimly burning candle. He found everything exactly as he had left it: safe, secure, and perfectly quiet.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 31,
+    "prev_context": "The rattling of the harness sounded like the clinking of coins. In his mind, more bank drafts were cashed in five minutes than even Tellson's bank, with all its local and foreign connections, had ever paid out in three times as long.",
+    "target_en": "More transactions were processed in five minutes of dreaming than Tellson's had managed in three times that duration in real life. Then the underground vaults opened in his mind. He walked through them with a large ring of keys and a dimly burning candle. He found everything exactly as he had left it: safe, secure, and perfectly quiet.",
+    "next_context": "But, even though he was constantly thinking about the bank, and even though he was always vaguely aware of the coach (like a dull pain felt through medication), there was another steady stream of thought that never stopped running through his mind all night.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 32,
+    "prev_context": "More transactions were processed in five minutes of dreaming than Tellson's had managed in three times that duration in real life. Then the underground vaults opened in his mind. He walked through them with a large ring of keys and a dimly burning candle. He found everything exactly as he had left it: safe, secure, and perfectly quiet.",
+    "target_en": "But, even though he was constantly thinking about the bank, and even though he was always vaguely aware of the coach (like a dull pain felt through medication), there was another steady stream of thought that never stopped running through his mind all night.",
+    "next_context": "He was on his way to dig someone out of a grave.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 33,
+    "prev_context": "But, even though he was constantly thinking about the bank, and even though he was always vaguely aware of the coach (like a dull pain felt through medication), there was another steady stream of thought that never stopped running through his mind all night.",
+    "target_en": "He was on his way to dig someone out of a grave.",
+    "next_context": "The night shadows refused to show him which face was the true face of that buried person. But every face that appeared was the face of a man around forty-five years old. All the faces were different in expression: some proud, some scornful, some defiant, some broken.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 34,
+    "prev_context": "He was on his way to dig someone out of a grave.",
+    "target_en": "The night shadows refused to show him which face was the true face of that buried person. But every face that appeared was the face of a man around forty-five years old. All the faces were different in expression: some proud, some scornful, some defiant, some broken.",
+    "next_context": "But all of them had sunken cheeks, deathly pale skin, and thin, skeletal hands.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 35,
+    "prev_context": "The night shadows refused to show him which face was the true face of that buried person. But every face that appeared was the face of a man around forty-five years old. All the faces were different in expression: some proud, some scornful, some defiant, some broken.",
+    "target_en": "But all of them had sunken cheeks, deathly pale skin, and thin, skeletal hands.",
+    "next_context": "And every single one of them had hair gone prematurely white.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 36,
+    "prev_context": "But all of them had sunken cheeks, deathly pale skin, and thin, skeletal hands.",
+    "target_en": "And every single one of them had hair gone prematurely white.",
+    "next_context": "A hundred times that night, the dozing passenger asked the ghost the same question:",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 37,
+    "prev_context": "And every single one of them had hair gone prematurely white.",
+    "target_en": "A hundred times that night, the dozing passenger asked the ghost the same question:",
+    "next_context": "\"Buried how long?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 38,
+    "prev_context": "A hundred times that night, the dozing passenger asked the ghost the same question:",
+    "target_en": "\"Buried how long?\"",
+    "next_context": "The answer was always the same: \"Almost eighteen years.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 39,
+    "prev_context": "\"Buried how long?\"",
+    "target_en": "The answer was always the same: \"Almost eighteen years.\"",
+    "next_context": "\"You had given up all hope of being dug out?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 40,
+    "prev_context": "The answer was always the same: \"Almost eighteen years.\"",
+    "target_en": "\"You had given up all hope of being dug out?\"",
+    "next_context": "\"Long ago.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 41,
+    "prev_context": "\"You had given up all hope of being dug out?\"",
+    "target_en": "\"Long ago.\"",
+    "next_context": "\"You know that you are brought back to life?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 42,
+    "prev_context": "\"Long ago.\"",
+    "target_en": "\"You know that you are brought back to life?\"",
+    "next_context": "\"They tell me so.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 43,
+    "prev_context": "\"You know that you are brought back to life?\"",
+    "target_en": "\"They tell me so.\"",
+    "next_context": "\"I hope you care to live?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 44,
+    "prev_context": "\"They tell me so.\"",
+    "target_en": "\"I hope you care to live?\"",
+    "next_context": "\"I can't say.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 45,
+    "prev_context": "\"I hope you care to live?\"",
+    "target_en": "\"I can't say.\"",
+    "next_context": "\"Shall I show her to you?",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 46,
+    "prev_context": "\"I can't say.\"",
+    "target_en": "\"Shall I show her to you?",
+    "next_context": "Will you come and see her?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 47,
+    "prev_context": "\"Shall I show her to you?",
+    "target_en": "Will you come and see her?\"",
+    "next_context": "The answers to this question were different and contradictory.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 48,
+    "prev_context": "Will you come and see her?\"",
+    "target_en": "The answers to this question were different and contradictory.",
+    "next_context": "Sometimes the shaky reply was, \"Wait!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 49,
+    "prev_context": "The answers to this question were different and contradictory.",
+    "target_en": "Sometimes the shaky reply was, \"Wait!",
+    "next_context": "It would kill me if I saw her too soon.\" Sometimes it was spoken through a gentle flow of tears: \"Take me to her.\" Sometimes it was wide-eyed and confused: \"I don't know her.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 50,
+    "prev_context": "Sometimes the shaky reply was, \"Wait!",
+    "target_en": "It would kill me if I saw her too soon.\" Sometimes it was spoken through a gentle flow of tears: \"Take me to her.\" Sometimes it was wide-eyed and confused: \"I don't know her.",
+    "next_context": "I don't understand.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 51,
+    "prev_context": "It would kill me if I saw her too soon.\" Sometimes it was spoken through a gentle flow of tears: \"Take me to her.\" Sometimes it was wide-eyed and confused: \"I don't know her.",
+    "target_en": "I don't understand.\"",
+    "next_context": "After these imagined conversations, the passenger's dream-self would dig. And dig. And dig. Sometimes with a shovel, sometimes with a large key, sometimes with bare hands. The goal was always to pull this miserable creature out of the ground.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 52,
+    "prev_context": "I don't understand.\"",
+    "target_en": "After these imagined conversations, the passenger's dream-self would dig. And dig. And dig. Sometimes with a shovel, sometimes with a large key, sometimes with bare hands. The goal was always to pull this miserable creature out of the ground.",
+    "next_context": "And when he finally did, when the man emerged, covered in dirt, the figure would suddenly crumble into dust.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 53,
+    "prev_context": "After these imagined conversations, the passenger's dream-self would dig. And dig. And dig. Sometimes with a shovel, sometimes with a large key, sometimes with bare hands. The goal was always to pull this miserable creature out of the ground.",
+    "target_en": "And when he finally did, when the man emerged, covered in dirt, the figure would suddenly crumble into dust.",
+    "next_context": "The passenger would then jolt awake. He would roll down the window and press his cheek against the cold, wet mist to feel something real.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 54,
+    "prev_context": "And when he finally did, when the man emerged, covered in dirt, the figure would suddenly crumble into dust.",
+    "target_en": "The passenger would then jolt awake. He would roll down the window and press his cheek against the cold, wet mist to feel something real.",
+    "next_context": "But even with his eyes open, seeing the mist, the moving patch of coach-lamp light, the roadside hedges jerking past, the night shadows outside the coach would always bleed back into the night shadows in his mind.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 55,
+    "prev_context": "The passenger would then jolt awake. He would roll down the window and press his cheek against the cold, wet mist to feel something real.",
+    "target_en": "But even with his eyes open, seeing the mist, the moving patch of coach-lamp light, the roadside hedges jerking past, the night shadows outside the coach would always bleed back into the night shadows in his mind.",
+    "next_context": "The real bank near Temple Bar. The real business from yesterday. The real vaults. The real messenger. The real reply.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 56,
+    "prev_context": "But even with his eyes open, seeing the mist, the moving patch of coach-lamp light, the roadside hedges jerking past, the night shadows outside the coach would always bleed back into the night shadows in his mind.",
+    "target_en": "The real bank near Temple Bar. The real business from yesterday. The real vaults. The real messenger. The real reply.",
+    "next_context": "All of it was there. And right in the middle of it all, the ghostly face would rise again. And he would ask the same question.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 57,
+    "prev_context": "The real bank near Temple Bar. The real business from yesterday. The real vaults. The real messenger. The real reply.",
+    "target_en": "All of it was there. And right in the middle of it all, the ghostly face would rise again. And he would ask the same question.",
+    "next_context": "\"Buried how long?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 58,
+    "prev_context": "All of it was there. And right in the middle of it all, the ghostly face would rise again. And he would ask the same question.",
+    "target_en": "\"Buried how long?\"",
+    "next_context": "\"Almost eighteen years.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 59,
+    "prev_context": "\"Buried how long?\"",
+    "target_en": "\"Almost eighteen years.\"",
+    "next_context": "\"I hope you care to live?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 60,
+    "prev_context": "\"Almost eighteen years.\"",
+    "target_en": "\"I hope you care to live?\"",
+    "next_context": "\"I can't say.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 61,
+    "prev_context": "\"I hope you care to live?\"",
+    "target_en": "\"I can't say.\"",
+    "next_context": "Dig. Dig. Dig. Until one of the other passengers shifted restlessly, snapping him back to reality. He would roll the window back up. He would hook his arm through the strap again. He would try to focus on the two sleeping figures nearby. But soon his mind would drift away. Back to the bank. Back to the grave.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 62,
+    "prev_context": "\"I can't say.\"",
+    "target_en": "Dig. Dig. Dig. Until one of the other passengers shifted restlessly, snapping him back to reality. He would roll the window back up. He would hook his arm through the strap again. He would try to focus on the two sleeping figures nearby. But soon his mind would drift away. Back to the bank. Back to the grave.",
+    "next_context": "\"Buried how long?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 63,
+    "prev_context": "Dig. Dig. Dig. Until one of the other passengers shifted restlessly, snapping him back to reality. He would roll the window back up. He would hook his arm through the strap again. He would try to focus on the two sleeping figures nearby. But soon his mind would drift away. Back to the bank. Back to the grave.",
+    "target_en": "\"Buried how long?\"",
+    "next_context": "\"Almost eighteen years.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_03.json",
+    "id": 64,
+    "prev_context": "\"Buried how long?\"",
+    "target_en": "\"Almost eighteen years.\"",
+    "next_context": "\"You had given up all hope of being dug out?\"",
+    "status": "pending"
+  }
+]

@@ -1,4 +1,4 @@
-# Overnight run — 2026-09-13 22:03
+# Overnight run — 2026-09-14 10:18
 
 model: `gemma4:12b`
 
@@ -6,9 +6,8 @@ model: `gemma4:12b`
 
 | stage | exit | minutes |
 |---|---:|---:|
-| 1-translate | 0 | 77.8 |
 | 2-audit | 0 | 0.0 |
-| 3-llm-audit | 0 | 26.5 |
+| 3-llm-audit | 0 | 26.2 |
 | 4-migrate | 0 | 0.0 |
 
 ## Alignment
@@ -17,15 +16,15 @@ model: `gemma4:12b`
 
 ## Cards (vs werther: ko mean 101 / max 186, en mean 197 / max 300, 0 over 300)
 
-- rows **1245**
-- ko mean 84, max 160
-- en mean 189, max 473
-- en over 300: **41**
+- rows **1103**
+- ko mean 90, max 147
+- en mean 214, max 375
+- en over 300: **58**
 
 ## Findings
 
-- deterministic (`audit/logs/2-audit.log`): **2 high**, 23 med
-- semantic (`audit/problems.md`): **59** — {'EXTRA': 11, 'SHIFTED': 15, 'MISSING': 31, 'OMITTED': 2}
+- deterministic (`audit/logs/2-audit.log`): **10 high**, 44 med
+- semantic (`audit/problems.md`): **93** — {'SHIFTED': 13, 'OMITTED': 28, 'EXTRA': 16, 'MISSING': 36}
 
 ## Read in this order
 

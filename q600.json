@@ -1,0 +1,802 @@
+[
+  {
+    "file": "book1_ch_05.json",
+    "id": 146,
+    "prev_context": "Let's keep moving.\"",
+    "target_en": "This conversation was held in such low whispers that the young lady didn't hear a word.",
+    "next_context": "But by now, she was trembling with emotion, her face showing such deep worry and fear that Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 147,
+    "prev_context": "This conversation was held in such low whispers that the young lady didn't hear a word.",
+    "target_en": "But by now, she was trembling with emotion, her face showing such deep worry and fear that Mr.",
+    "next_context": "Lorry felt he had to offer some comfort.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 148,
+    "prev_context": "But by now, she was trembling with emotion, her face showing such deep worry and fear that Mr.",
+    "target_en": "Lorry felt he had to offer some comfort.",
+    "next_context": "\"Courage, dear miss!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 149,
+    "prev_context": "Lorry felt he had to offer some comfort.",
+    "target_en": "\"Courage, dear miss!",
+    "next_context": "Courage!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 150,
+    "prev_context": "\"Courage, dear miss!",
+    "target_en": "Courage!",
+    "next_context": "Focus on the task!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 151,
+    "prev_context": "Courage!",
+    "target_en": "Focus on the task!",
+    "next_context": "The worst will be over in a moment; once we pass the door, the hardest part is done.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 152,
+    "prev_context": "Focus on the task!",
+    "target_en": "The worst will be over in a moment; once we pass the door, the hardest part is done.",
+    "next_context": "Then, all the help, comfort, and happiness you are bringing to him will begin.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 153,
+    "prev_context": "The worst will be over in a moment; once we pass the door, the hardest part is done.",
+    "target_en": "Then, all the help, comfort, and happiness you are bringing to him will begin.",
+    "next_context": "Let our friend here support you on that side.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 154,
+    "prev_context": "Then, all the help, comfort, and happiness you are bringing to him will begin.",
+    "target_en": "Let our friend here support you on that side.",
+    "next_context": "Thank you, Defarge.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 155,
+    "prev_context": "Let our friend here support you on that side.",
+    "target_en": "Thank you, Defarge.",
+    "next_context": "Come along now.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 156,
+    "prev_context": "Thank you, Defarge.",
+    "target_en": "Come along now.",
+    "next_context": "Let's do this!\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 157,
+    "prev_context": "Come along now.",
+    "target_en": "Let's do this!\"",
+    "next_context": "They went up slowly and quietly.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 158,
+    "prev_context": "Let's do this!\"",
+    "target_en": "They went up slowly and quietly.",
+    "next_context": "The stairs were short, and they quickly reached the top.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 159,
+    "prev_context": "They went up slowly and quietly.",
+    "target_en": "The stairs were short, and they quickly reached the top.",
+    "next_context": "Because the staircase had a sharp turn in it, they suddenly came upon three men standing with their heads close together by a door. They were intently peering into the room through some cracks and holes in the wall.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 160,
+    "prev_context": "The stairs were short, and they quickly reached the top.",
+    "target_en": "Because the staircase had a sharp turn in it, they suddenly came upon three men standing with their heads close together by a door. They were intently peering into the room through some cracks and holes in the wall.",
+    "next_context": "Hearing footsteps, they turned around, showing themselves to be the three \"Jacques\" who had been drinking in the shop downstairs.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 161,
+    "prev_context": "Because the staircase had a sharp turn in it, they suddenly came upon three men standing with their heads close together by a door. They were intently peering into the room through some cracks and holes in the wall.",
+    "target_en": "Hearing footsteps, they turned around, showing themselves to be the three \"Jacques\" who had been drinking in the shop downstairs.",
+    "next_context": "\"I forgot about them in the excitement of your visit,\" Defarge explained. \"Leave us, guys; we have business here.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 162,
+    "prev_context": "Hearing footsteps, they turned around, showing themselves to be the three \"Jacques\" who had been drinking in the shop downstairs.",
+    "target_en": "\"I forgot about them in the excitement of your visit,\" Defarge explained. \"Leave us, guys; we have business here.\"",
+    "next_context": "The three men slipped past them and went quietly downstairs.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 163,
+    "prev_context": "\"I forgot about them in the excitement of your visit,\" Defarge explained. \"Leave us, guys; we have business here.\"",
+    "target_en": "The three men slipped past them and went quietly downstairs.",
+    "next_context": "Since there was no other door on the floor, and the wine shop owner went straight to this one, Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 164,
+    "prev_context": "The three men slipped past them and went quietly downstairs.",
+    "target_en": "Since there was no other door on the floor, and the wine shop owner went straight to this one, Mr.",
+    "next_context": "Lorry asked him in a sharp whisper:",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 165,
+    "prev_context": "Since there was no other door on the floor, and the wine shop owner went straight to this one, Mr.",
+    "target_en": "Lorry asked him in a sharp whisper:",
+    "next_context": "\"Are you turning Monsieur Manette into an exhibit?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 166,
+    "prev_context": "Lorry asked him in a sharp whisper:",
+    "target_en": "\"Are you turning Monsieur Manette into an exhibit?\"",
+    "next_context": "\"I show him to a chosen few, in the way you just saw.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 167,
+    "prev_context": "\"Are you turning Monsieur Manette into an exhibit?\"",
+    "target_en": "\"I show him to a chosen few, in the way you just saw.\"",
+    "next_context": "\"Is that right?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 168,
+    "prev_context": "\"I show him to a chosen few, in the way you just saw.\"",
+    "target_en": "\"Is that right?\"",
+    "next_context": "\"I think it is.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 169,
+    "prev_context": "\"Is that right?\"",
+    "target_en": "\"I think it is.\"",
+    "next_context": "\"Who are these few?",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 170,
+    "prev_context": "\"I think it is.\"",
+    "target_en": "\"Who are these few?",
+    "next_context": "How do you choose them?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 171,
+    "prev_context": "\"Who are these few?",
+    "target_en": "How do you choose them?\"",
+    "next_context": "\"I choose men who share my goal, under the name Jacques, for whom this sight will do some good.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 172,
+    "prev_context": "How do you choose them?\"",
+    "target_en": "\"I choose men who share my goal, under the name Jacques, for whom this sight will do some good.",
+    "next_context": "Anyway, you are English, which is different.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 173,
+    "prev_context": "\"I choose men who share my goal, under the name Jacques, for whom this sight will do some good.",
+    "target_en": "Anyway, you are English, which is different.",
+    "next_context": "Please wait here for a moment.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 174,
+    "prev_context": "Anyway, you are English, which is different.",
+    "target_en": "Please wait here for a moment.\"",
+    "next_context": "Signaling them to stay back, he leaned down and looked through the crack in the wall.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 175,
+    "prev_context": "Please wait here for a moment.\"",
+    "target_en": "Signaling them to stay back, he leaned down and looked through the crack in the wall.",
+    "next_context": "Looking up, he knocked loudly on the door a few times, clearly just to make noise.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 176,
+    "prev_context": "Signaling them to stay back, he leaned down and looked through the crack in the wall.",
+    "target_en": "Looking up, he knocked loudly on the door a few times, clearly just to make noise.",
+    "next_context": "He then scraped the key across the door three or four times before inserting it loudly into the lock and turning it with as much noise as possible.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 177,
+    "prev_context": "Looking up, he knocked loudly on the door a few times, clearly just to make noise.",
+    "target_en": "He then scraped the key across the door three or four times before inserting it loudly into the lock and turning it with as much noise as possible.",
+    "next_context": "The door slowly opened inward, and he looked in and spoke.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 178,
+    "prev_context": "He then scraped the key across the door three or four times before inserting it loudly into the lock and turning it with as much noise as possible.",
+    "target_en": "The door slowly opened inward, and he looked in and spoke.",
+    "next_context": "A weak voice answered back.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 179,
+    "prev_context": "The door slowly opened inward, and he looked in and spoke.",
+    "target_en": "A weak voice answered back.",
+    "next_context": "They only exchanged a syllable or two.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 180,
+    "prev_context": "A weak voice answered back.",
+    "target_en": "They only exchanged a syllable or two.",
+    "next_context": "He looked back over his shoulder and gestured for them to come in.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 181,
+    "prev_context": "They only exchanged a syllable or two.",
+    "target_en": "He looked back over his shoulder and gestured for them to come in.",
+    "next_context": "Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 182,
+    "prev_context": "He looked back over his shoulder and gestured for them to come in.",
+    "target_en": "Mr.",
+    "next_context": "Lorry put his arm securely around the daughter\u2019s waist to support her, feeling that she was about to faint.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 183,
+    "prev_context": "Mr.",
+    "target_en": "Lorry put his arm securely around the daughter\u2019s waist to support her, feeling that she was about to faint.",
+    "next_context": "\"Remember, focus on the task!\" he urged, with a tear running down his cheek that had nothing to do with business. \"Come in, come in!\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 184,
+    "prev_context": "Lorry put his arm securely around the daughter\u2019s waist to support her, feeling that she was about to faint.",
+    "target_en": "\"Remember, focus on the task!\" he urged, with a tear running down his cheek that had nothing to do with business. \"Come in, come in!\"",
+    "next_context": "\"I am afraid of it,\" she whispered, shivering.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 185,
+    "prev_context": "\"Remember, focus on the task!\" he urged, with a tear running down his cheek that had nothing to do with business. \"Come in, come in!\"",
+    "target_en": "\"I am afraid of it,\" she whispered, shivering.",
+    "next_context": "\"Of what?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 186,
+    "prev_context": "\"I am afraid of it,\" she whispered, shivering.",
+    "target_en": "\"Of what?\"",
+    "next_context": "\"I mean of him.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 187,
+    "prev_context": "\"Of what?\"",
+    "target_en": "\"I mean of him.",
+    "next_context": "Of my father.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 188,
+    "prev_context": "\"I mean of him.",
+    "target_en": "Of my father.\"",
+    "next_context": "Feeling desperate because of her state and Defarge's gestures, Mr. Lorry draped her shaking arm over his shoulder, lifted her slightly, and hurried her into the room.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 189,
+    "prev_context": "Of my father.\"",
+    "target_en": "Feeling desperate because of her state and Defarge's gestures, Mr. Lorry draped her shaking arm over his shoulder, lifted her slightly, and hurried her into the room.",
+    "next_context": "He sat her down just inside the door and held her close as she clung to him.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 190,
+    "prev_context": "Feeling desperate because of her state and Defarge's gestures, Mr. Lorry draped her shaking arm over his shoulder, lifted her slightly, and hurried her into the room.",
+    "target_en": "He sat her down just inside the door and held her close as she clung to him.",
+    "next_context": "Defarge pulled out the key. He closed the door and locked it from the inside.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 191,
+    "prev_context": "He sat her down just inside the door and held her close as she clung to him.",
+    "target_en": "Defarge pulled out the key. He closed the door and locked it from the inside.",
+    "next_context": "Then he removed the key again and kept it in his hand.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 192,
+    "prev_context": "Defarge pulled out the key. He closed the door and locked it from the inside.",
+    "target_en": "Then he removed the key again and kept it in his hand.",
+    "next_context": "He did all of this methodically, making as much noise as possible.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 193,
+    "prev_context": "Then he removed the key again and kept it in his hand.",
+    "target_en": "He did all of this methodically, making as much noise as possible.",
+    "next_context": "Finally, he walked slowly across the room to the window, stopped, and turned around to face them.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 194,
+    "prev_context": "He did all of this methodically, making as much noise as possible.",
+    "target_en": "Finally, he walked slowly across the room to the window, stopped, and turned around to face them.",
+    "next_context": "The attic, built as a storage room for firewood, was dim and dark. The window was actually a door in the roof, with a small crane over it to hoist goods from the street. It had no glass and opened in the middle like a double door.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 195,
+    "prev_context": "Finally, he walked slowly across the room to the window, stopped, and turned around to face them.",
+    "target_en": "The attic, built as a storage room for firewood, was dim and dark. The window was actually a door in the roof, with a small crane over it to hoist goods from the street. It had no glass and opened in the middle like a double door.",
+    "next_context": "To keep out the cold, one half of this door was shut tight, and the other was opened only a tiny crack.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 196,
+    "prev_context": "The attic, built as a storage room for firewood, was dim and dark. The window was actually a door in the roof, with a small crane over it to hoist goods from the street. It had no glass and opened in the middle like a double door.",
+    "target_en": "To keep out the cold, one half of this door was shut tight, and the other was opened only a tiny crack.",
+    "next_context": "Very little light came through, making it hard to see anything at first; only long habit could give someone the ability to do fine work in such darkness. Yet that kind of work was being done.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 197,
+    "prev_context": "To keep out the cold, one half of this door was shut tight, and the other was opened only a tiny crack.",
+    "target_en": "Very little light came through, making it hard to see anything at first; only long habit could give someone the ability to do fine work in such darkness. Yet that kind of work was being done.",
+    "next_context": "A white-haired man sat on a low bench, leaning forward, busy making shoes. His back was to the door. His face was turned toward the window where Defarge stood watching.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 198,
+    "prev_context": "Very little light came through, making it hard to see anything at first; only long habit could give someone the ability to do fine work in such darkness. Yet that kind of work was being done.",
+    "target_en": "A white-haired man sat on a low bench, leaning forward, busy making shoes. His back was to the door. His face was turned toward the window where Defarge stood watching.",
+    "next_context": "",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 2,
+    "prev_context": "[Chapter 6] The Shoemaker",
+    "target_en": "\"Good day!\" said Monsieur Defarge, looking down at the white head that was bent low over his shoemaking.",
+    "next_context": "The head was raised for a moment, and a very faint voice responded to the greeting, sounding as if it came from far away:",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 3,
+    "prev_context": "\"Good day!\" said Monsieur Defarge, looking down at the white head that was bent low over his shoemaking.",
+    "target_en": "The head was raised for a moment, and a very faint voice responded to the greeting, sounding as if it came from far away:",
+    "next_context": "\"Good day!\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 4,
+    "prev_context": "The head was raised for a moment, and a very faint voice responded to the greeting, sounding as if it came from far away:",
+    "target_en": "\"Good day!\"",
+    "next_context": "\"You are still working hard, I see?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 5,
+    "prev_context": "\"Good day!\"",
+    "target_en": "\"You are still working hard, I see?\"",
+    "next_context": "After a long silence, the head was lifted for another moment. The voice replied, \"Yes, I am working.\" This time, a pair of exhausted, hollow eyes looked at the questioner. Then the face dropped down again.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 6,
+    "prev_context": "\"You are still working hard, I see?\"",
+    "target_en": "After a long silence, the head was lifted for another moment. The voice replied, \"Yes, I am working.\" This time, a pair of exhausted, hollow eyes looked at the questioner. Then the face dropped down again.",
+    "next_context": "The weakness of the voice was pitiful and sad.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 7,
+    "prev_context": "After a long silence, the head was lifted for another moment. The voice replied, \"Yes, I am working.\" This time, a pair of exhausted, hollow eyes looked at the questioner. Then the face dropped down again.",
+    "target_en": "The weakness of the voice was pitiful and sad.",
+    "next_context": "It was not the weakness of physical illness, though being locked away and eating bad food had certainly played a part.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 8,
+    "prev_context": "The weakness of the voice was pitiful and sad.",
+    "target_en": "It was not the weakness of physical illness, though being locked away and eating bad food had certainly played a part.",
+    "next_context": "Its most tragic feature was that it was the weakness of long loneliness and lack of use.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 9,
+    "prev_context": "It was not the weakness of physical illness, though being locked away and eating bad food had certainly played a part.",
+    "target_en": "Its most tragic feature was that it was the weakness of long loneliness and lack of use.",
+    "next_context": "It sounded like the last faint echo of a sound made a very long time ago.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 10,
+    "prev_context": "Its most tragic feature was that it was the weakness of long loneliness and lack of use.",
+    "target_en": "It sounded like the last faint echo of a sound made a very long time ago.",
+    "next_context": "It had so completely lost the life and fullness of a normal human voice that listening to it felt like looking at a once beautiful color that had faded into a dull, weak stain.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 11,
+    "prev_context": "It sounded like the last faint echo of a sound made a very long time ago.",
+    "target_en": "It had so completely lost the life and fullness of a normal human voice that listening to it felt like looking at a once beautiful color that had faded into a dull, weak stain.",
+    "next_context": "It was so low and muffled that it sounded like a voice coming from deep underground.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 12,
+    "prev_context": "It had so completely lost the life and fullness of a normal human voice that listening to it felt like looking at a once beautiful color that had faded into a dull, weak stain.",
+    "target_en": "It was so low and muffled that it sounded like a voice coming from deep underground.",
+    "next_context": "The voice expressed a sense of a lost and hopeless soul. A starving traveler, wandering alone in a desert, would have heard that tone and remembered home and friends, just before lying down to die.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 13,
+    "prev_context": "It was so low and muffled that it sounded like a voice coming from deep underground.",
+    "target_en": "The voice expressed a sense of a lost and hopeless soul. A starving traveler, wandering alone in a desert, would have heard that tone and remembered home and friends, just before lying down to die.",
+    "next_context": "A few minutes of silent work passed, and the exhausted eyes looked up again. They showed no interest or curiosity, but only a dull, automatic awareness that the spot where his visitor stood was not yet empty.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 14,
+    "prev_context": "The voice expressed a sense of a lost and hopeless soul. A starving traveler, wandering alone in a desert, would have heard that tone and remembered home and friends, just before lying down to die.",
+    "target_en": "A few minutes of silent work passed, and the exhausted eyes looked up again. They showed no interest or curiosity, but only a dull, automatic awareness that the spot where his visitor stood was not yet empty.",
+    "next_context": "\"I want,\" said Defarge, who had not stopped looking at the shoemaker, \"to let a little more light in here.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 15,
+    "prev_context": "A few minutes of silent work passed, and the exhausted eyes looked up again. They showed no interest or curiosity, but only a dull, automatic awareness that the spot where his visitor stood was not yet empty.",
+    "target_en": "\"I want,\" said Defarge, who had not stopped looking at the shoemaker, \"to let a little more light in here.",
+    "next_context": "Can you handle a little more?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 16,
+    "prev_context": "\"I want,\" said Defarge, who had not stopped looking at the shoemaker, \"to let a little more light in here.",
+    "target_en": "Can you handle a little more?\"",
+    "next_context": "The shoemaker stopped his work. He looked blankly at the floor on one side, as if listening. Then he looked the same way at the floor on the other side. Finally, he looked up at the speaker.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 17,
+    "prev_context": "Can you handle a little more?\"",
+    "target_en": "The shoemaker stopped his work. He looked blankly at the floor on one side, as if listening. Then he looked the same way at the floor on the other side. Finally, he looked up at the speaker.",
+    "next_context": "\"What did you say?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 18,
+    "prev_context": "The shoemaker stopped his work. He looked blankly at the floor on one side, as if listening. Then he looked the same way at the floor on the other side. Finally, he looked up at the speaker.",
+    "target_en": "\"What did you say?\"",
+    "next_context": "\"Can you handle a little more light?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 19,
+    "prev_context": "\"What did you say?\"",
+    "target_en": "\"Can you handle a little more light?\"",
+    "next_context": "\"I must handle it, if you let it in.\" He put the faintest hint of emphasis on the second word.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 20,
+    "prev_context": "\"Can you handle a little more light?\"",
+    "target_en": "\"I must handle it, if you let it in.\" He put the faintest hint of emphasis on the second word.",
+    "next_context": "The wooden half-door was opened a little wider and held in place.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 21,
+    "prev_context": "\"I must handle it, if you let it in.\" He put the faintest hint of emphasis on the second word.",
+    "target_en": "The wooden half-door was opened a little wider and held in place.",
+    "next_context": "A wide beam of light shone into the attic room, showing the worker pausing with an unfinished shoe on his lap.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 22,
+    "prev_context": "The wooden half-door was opened a little wider and held in place.",
+    "target_en": "A wide beam of light shone into the attic room, showing the worker pausing with an unfinished shoe on his lap.",
+    "next_context": "His few simple tools and scraps of leather lay at his feet and on his workbench.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 23,
+    "prev_context": "A wide beam of light shone into the attic room, showing the worker pausing with an unfinished shoe on his lap.",
+    "target_en": "His few simple tools and scraps of leather lay at his feet and on his workbench.",
+    "next_context": "He had a messy white beard that was not very long, a hollow face, and extremely bright eyes.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 24,
+    "prev_context": "His few simple tools and scraps of leather lay at his feet and on his workbench.",
+    "target_en": "He had a messy white beard that was not very long, a hollow face, and extremely bright eyes.",
+    "next_context": "The thinness of his face made his eyes look huge under his dark eyebrows and messy white hair, even though they were already naturally large, making them look unnaturally big now.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 25,
+    "prev_context": "He had a messy white beard that was not very long, a hollow face, and extremely bright eyes.",
+    "target_en": "The thinness of his face made his eyes look huge under his dark eyebrows and messy white hair, even though they were already naturally large, making them look unnaturally big now.",
+    "next_context": "His yellow, ragged shirt was open at the neck, showing his thin, worn-out body.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 26,
+    "prev_context": "The thinness of his face made his eyes look huge under his dark eyebrows and messy white hair, even though they were already naturally large, making them look unnaturally big now.",
+    "target_en": "His yellow, ragged shirt was open at the neck, showing his thin, worn-out body.",
+    "next_context": "He, his old canvas jacket, his loose stockings, and all his ragged clothes had faded from being locked away from light and fresh air for so long. Everything had turned the same dull, paper-yellow color, so that it was hard to tell his clothes and his skin apart.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 27,
+    "prev_context": "His yellow, ragged shirt was open at the neck, showing his thin, worn-out body.",
+    "target_en": "He, his old canvas jacket, his loose stockings, and all his ragged clothes had faded from being locked away from light and fresh air for so long. Everything had turned the same dull, paper-yellow color, so that it was hard to tell his clothes and his skin apart.",
+    "next_context": "He held up a hand to shield his eyes from the light, and the bones inside it looked almost transparent.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 28,
+    "prev_context": "He, his old canvas jacket, his loose stockings, and all his ragged clothes had faded from being locked away from light and fresh air for so long. Everything had turned the same dull, paper-yellow color, so that it was hard to tell his clothes and his skin apart.",
+    "target_en": "He held up a hand to shield his eyes from the light, and the bones inside it looked almost transparent.",
+    "next_context": "He sat there, staring blankly, pausing in his work.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 29,
+    "prev_context": "He held up a hand to shield his eyes from the light, and the bones inside it looked almost transparent.",
+    "target_en": "He sat there, staring blankly, pausing in his work.",
+    "next_context": "He never looked at the person standing in front of him without first looking down to one side, then the other. It was as if he had forgotten how to connect sounds with the direction they came from. He never spoke without looking around in this confused way first. Sometimes he forgot to speak at all.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 30,
+    "prev_context": "He sat there, staring blankly, pausing in his work.",
+    "target_en": "He never looked at the person standing in front of him without first looking down to one side, then the other. It was as if he had forgotten how to connect sounds with the direction they came from. He never spoke without looking around in this confused way first. Sometimes he forgot to speak at all.",
+    "next_context": "\"Are you going to finish that pair of shoes today?\" asked Defarge, signaling for Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 31,
+    "prev_context": "He never looked at the person standing in front of him without first looking down to one side, then the other. It was as if he had forgotten how to connect sounds with the direction they came from. He never spoke without looking around in this confused way first. Sometimes he forgot to speak at all.",
+    "target_en": "\"Are you going to finish that pair of shoes today?\" asked Defarge, signaling for Mr.",
+    "next_context": "Lorry to step forward.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 32,
+    "prev_context": "\"Are you going to finish that pair of shoes today?\" asked Defarge, signaling for Mr.",
+    "target_en": "Lorry to step forward.",
+    "next_context": "\"What did you say?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 33,
+    "prev_context": "Lorry to step forward.",
+    "target_en": "\"What did you say?\"",
+    "next_context": "\"Do you plan to finish that pair of shoes today?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 34,
+    "prev_context": "\"What did you say?\"",
+    "target_en": "\"Do you plan to finish that pair of shoes today?\"",
+    "next_context": "\"I can't say that I plan to.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 35,
+    "prev_context": "\"Do you plan to finish that pair of shoes today?\"",
+    "target_en": "\"I can't say that I plan to.",
+    "next_context": "I suppose so.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 36,
+    "prev_context": "\"I can't say that I plan to.",
+    "target_en": "I suppose so.",
+    "next_context": "I don't know.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 37,
+    "prev_context": "I suppose so.",
+    "target_en": "I don't know.\"",
+    "next_context": "But the question reminded him of his work, and he bent over it again.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 38,
+    "prev_context": "I don't know.\"",
+    "target_en": "But the question reminded him of his work, and he bent over it again.",
+    "next_context": "Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 39,
+    "prev_context": "But the question reminded him of his work, and he bent over it again.",
+    "target_en": "Mr.",
+    "next_context": "Lorry walked forward quietly, leaving Lucie by the door.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 40,
+    "prev_context": "Mr.",
+    "target_en": "Lorry walked forward quietly, leaving Lucie by the door.",
+    "next_context": "After he stood next to Defarge for a minute or two, the shoemaker looked up.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 41,
+    "prev_context": "Lorry walked forward quietly, leaving Lucie by the door.",
+    "target_en": "After he stood next to Defarge for a minute or two, the shoemaker looked up.",
+    "next_context": "He did not seem surprised to see another person, but his shaking fingers touched his lips as he looked at him. His lips and fingernails were the same pale, lead-gray color. Then his hand dropped back to his work, and he bent over the shoe again.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 42,
+    "prev_context": "After he stood next to Defarge for a minute or two, the shoemaker looked up.",
+    "target_en": "He did not seem surprised to see another person, but his shaking fingers touched his lips as he looked at him. His lips and fingernails were the same pale, lead-gray color. Then his hand dropped back to his work, and he bent over the shoe again.",
+    "next_context": "The look and the movement took only a second.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 43,
+    "prev_context": "He did not seem surprised to see another person, but his shaking fingers touched his lips as he looked at him. His lips and fingernails were the same pale, lead-gray color. Then his hand dropped back to his work, and he bent over the shoe again.",
+    "target_en": "The look and the movement took only a second.",
+    "next_context": "\"You have a visitor, you see,\" said Monsieur Defarge.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 44,
+    "prev_context": "The look and the movement took only a second.",
+    "target_en": "\"You have a visitor, you see,\" said Monsieur Defarge.",
+    "next_context": "\"What did you say?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 45,
+    "prev_context": "\"You have a visitor, you see,\" said Monsieur Defarge.",
+    "target_en": "\"What did you say?\"",
+    "next_context": "\"Here is a visitor.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 46,
+    "prev_context": "\"What did you say?\"",
+    "target_en": "\"Here is a visitor.\"",
+    "next_context": "The shoemaker looked up as he had before, but without taking his hands off his work.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 47,
+    "prev_context": "\"Here is a visitor.\"",
+    "target_en": "The shoemaker looked up as he had before, but without taking his hands off his work.",
+    "next_context": "\"Come!\" said Defarge. \"Here is a gentleman who knows a good shoe when he sees one.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 48,
+    "prev_context": "The shoemaker looked up as he had before, but without taking his hands off his work.",
+    "target_en": "\"Come!\" said Defarge. \"Here is a gentleman who knows a good shoe when he sees one.",
+    "next_context": "Show him the shoe you are working on.",
+    "status": "pending"
+  }
+]

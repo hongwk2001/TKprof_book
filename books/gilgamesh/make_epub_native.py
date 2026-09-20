@@ -213,9 +213,15 @@ def main():
         
     # Cover image
     has_cover = False
-    cover_src = os.path.join(IMAGES_DIR, "cover.jpg")
-    if os.path.exists(cover_src):
-        images_to_add.append((cover_src, "cover.jpg", "image/jpeg"))
+    cover_en_src = os.path.join(BASE_DIR, "cover_en.jpg")
+    if not os.path.exists(cover_en_src):
+        cover_en_src = os.path.join(IMAGES_DIR, "cover_en.jpg")
+    
+    if os.path.exists(cover_en_src):
+        images_to_add.append((cover_en_src, "cover.jpg", "image/jpeg"))
+        has_cover = True
+    elif os.path.exists(os.path.join(IMAGES_DIR, "cover.jpg")):
+        images_to_add.append((os.path.join(IMAGES_DIR, "cover.jpg"), "cover.jpg", "image/jpeg"))
         has_cover = True
         
     # Build OPF Manifest

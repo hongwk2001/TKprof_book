@@ -1,0 +1,298 @@
+[
+  {
+    "id": 1,
+    "tag": "H001",
+    "raw": "Book the First--Recalled to Life",
+    "en": "Book the First--Recalled to Life",
+    "ko": "[1부: 부활]",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "H002",
+    "raw": "CHAPTER I. The Period",
+    "en": "CHAPTER I. The Period",
+    "ko": "[1장: 시대]",
+    "is_header": true
+  },
+  {
+    "id": 3,
+    "tag": "P003_1",
+    "raw": "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way--in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.",
+    "en": "It was the best of times and the worst of times. It was the age of wisdom and the age of foolishness. It was the century of belief and the century of disbelief. It was the season of light and the season of darkness. It was the spring of hope and the winter of despair. We had everything before us, yet we had nothing. We were all going straight to heaven, yet we were also going straight in the opposite direction. In short, that period was so similar to the present that even the loudest authorities of the time insisted it be judged, for better or worse, only in superlatives.",
+    "ko": "최고의 시절이자 최악의 시절이었다. 지혜의 시대이자 어리석음의 시대였다. 믿음의 세기이자 불신의 세기였다. 빛의 계절이자 어둠의 계절이었다. 희망의 봄이자 절망의 겨울이었다. 우리 앞에는 모든 것이 있었지만 또 아무것도 없었다. 우리 모두 천국으로 곧장 가고 있었지만, 또 반대 방향으로 곧장 가고 있기도 했다. 요컨대, 그 시대는 지금의 시대와 너무도 비슷해서, 당시 가장 목소리 큰 권위자들조차 좋든 나쁘든 오직 최상급으로만 그 시대를 평가해야 한다고 주장했다.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P004_1",
+    "raw": "There were a king with a large jaw and a queen with a plain face, on the throne of England;",
+    "en": "On the throne of England sat a king with a large jaw and a queen with an ordinary face.",
+    "ko": "영국의 왕좌에는 턱이 큰 왕(조지 3세)과 평범한 얼굴의 왕비(샬럿 왕비)가 앉아 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P004_2",
+    "raw": "there were a king with a large jaw and a queen with a fair face, on the throne of France.",
+    "en": "On the throne of France, too, sat a king with a large jaw and a queen with a beautiful face.",
+    "ko": "프랑스의 왕좌에도 턱이 큰 왕(루이 16세)과 아름다운 얼굴의 왕비(마리 앙투아네트)가 앉아 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P004_3",
+    "raw": "In both countries it was clearer than crystal to the lords of the State preserves of loaves and fishes, that things in general were settled for ever.",
+    "en": "In both countries, to the nobles who monopolized national interests like bread and fish, it was crystal clear that the order of the world was settled forever.",
+    "ko": "이 두 나라에서 빵과 물고기처럼 국가의 이권을 독점하던 귀족들에게는 세상만사가 영원히 변치 않고 안정되어 있다는 것이 수정처럼 분명한 사실이었다.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P005_1",
+    "raw": "It was the year of Our Lord one thousand seven hundred and seventy-five.",
+    "en": "The year was 1775 of our Lord.",
+    "ko": "그해는 주후 1775년이었다.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P005_2",
+    "raw": "Spiritual revelations were conceded to England at that favoured period, as at this.",
+    "en": "Spiritual revelations were granted to England in that blessed period, just as they are today.",
+    "ko": "그 축복받은 시절의 영국에도 오늘날처럼 영적인 계시들이 허락되었다.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P005_3",
+    "raw": "Mrs.",
+    "en": "Mrs. Southcott had recently celebrated her blessed 25th birthday,",
+    "ko": "사우스콧 부인이 최근 축복받은 25번째 생일을 맞이했는데,",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P005_4",
+    "raw": "Southcott had recently attained her five-and-twentieth blessed birthday, of whom a prophetic private in the Life Guards had heralded the sublime appearance by announcing that arrangements were made for the swallowing up of London and Westminster.",
+    "en": "and a prophetic private in the Life Guards had heralded her sublime appearance by declaring that preparations were complete for the swallowing up of London and Westminster.",
+    "ko": "근위대의 한 예언자적인 이등병은 그녀의 숭고한 출현을 예고하며 런던과 웨스트민스터를 집어삼킬 준비가 다 되었다고 선포했다.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P005_5",
+    "raw": "Even the Cock-lane ghost had been laid only a round dozen of years, after rapping out its messages, as the spirits of this very year last past (supernaturally deficient in originality) rapped out theirs.",
+    "en": "Even the Cock Lane ghost incident had been suppressed only a dozen years ago, and just as this ghost tapped out its messages, the ghosts of the past year (who were supernaturally deficient in originality) also tapped out theirs.",
+    "ko": "콕레인 유령 사건조차 진압된 지 고작 십여 년밖에 지나지 않았는데, 이 유령이 메시지를 두드려 알린 것처럼 작년의 유령들(초자연적으로 독창성이 떨어지는)도 자신들의 메시지를 두드려 알렸다.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P005_6",
+    "raw": "Mere messages in the earthly order of events had lately come to the English Crown and People, from a congress of British subjects in America:",
+    "en": "Recently, mere messages regarding secular events had arrived for the English king and people from a congress of British subjects in America,",
+    "ko": "최근 아메리카 대륙에 있는 영국 신민들의 의회로부터 영국 왕과 국민들에게 세속적인 사건에 관한 단순한 메시지들이 도착했는데,",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P005_7",
+    "raw": "which, strange to relate, have proved more important to the human race than any communications yet received through any of the chickens of the Cock-lane brood.",
+    "en": "and strangely enough, these messages proved far more important to humanity than any news ever received through any chicks of the Cock Lane ghost gang.",
+    "ko": "이상하게도 이 메시지들은 콕레인 유령 일당의 어떤 병아리들을 통해 받은 그 어떤 소식들보다도 인류에게 훨씬 더 중요하게 작용했다.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P006_1",
+    "raw": "France, less favoured on the whole as to matters spiritual than her sister of the shield and trident, rolled with exceeding smoothness down hill, making paper money and spending it.",
+    "en": "France, less graced in spiritual matters overall than her sister England (represented by the shield and trident), was rolling smoothly downhill, endlessly printing and squandering paper money.",
+    "ko": "전반적으로 영국(방패와 삼지창을 든 브리타니아)보다 영적인 문제에서 은총을 덜 받은 프랑스는, 지폐를 마구 찍어내고 탕진하며 매우 순조롭게 내리막길을 굴러가고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P006_2",
+    "raw": "Under the guidance of her Christian pastors, she entertained herself, besides, with such humane achievements as sentencing a youth to have his hands cut off, his tongue torn out with pincers, and his body burned alive, because he had not kneeled down in the rain to do honour to a dirty procession of monks which passed within his view, at a distance of some fifty or sixty yards.",
+    "en": "Furthermore, under the guidance of Christian pastors, France amused herself with such humane achievements as sentencing a young man to have his hands cut off, his tongue torn out with tongs, and to be burned alive, all for not kneeling in the rain to honor a filthy procession of monks passing some fifty or sixty yards away.",
+    "ko": "게다가 프랑스는 기독교 목자들의 지도 아래 인도적인 업적들을 즐겼는데, 예를 들면 오륙십 야드(약 45~55미터) 떨어진 곳에서 지나가는 지저분한 수도사 행렬에 경의를 표하며 빗속에 무릎을 꿇지 않았다는 이유로 한 젊은이의 두 손을 자르고, 집게로 혀를 뽑은 뒤, 산 채로 화형에 처하는 판결을 내리는 식이었다.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P006_3",
+    "raw": "It is likely enough that, rooted in the woods of France and Norway, there were growing trees, when that sufferer was put to death, already marked by the Woodman, Fate, to come down and be sawn into boards, to make a certain movable framework with a sack and a knife in it, terrible in history.",
+    "en": "Around the time that sufferer was executed, it is highly likely that in the forests of France and Norway, trees were growing that the woodman named 'Fate' had already marked. These trees were to be cut down and sawn into boards to make the movable framework with a sack and a blade (the guillotine), so terrible in history.",
+    "ko": "그 수난자가 처형당할 무렵, 프랑스와 노르웨이의 숲속에는 '운명'이라는 나무꾼이 이미 찍어둔 나무들이 자라고 있었을 가능성이 높다. 이 나무들은 베어지고 판자로 켜져서, 훗날 역사상 그토록 끔찍한 자루와 칼이 달린 움직이는 틀(단두대)을 만드는 데 쓰일 참이었다.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P006_4",
+    "raw": "It is likely enough that in the rough outhouses of some tillers of the heavy lands adjacent to Paris, there were sheltered from the weather that very day, rude carts, bespattered with rustic mire, snuffed about by pigs, and roosted in by poultry, which the Farmer, Death, had already set apart to be his tumbrils of the Revolution.",
+    "en": "That day, in the rough sheds of farmers working the barren lands near Paris, there were likely rude carts sheltered from the weather, bespattered with unpaved mud, sniffed at by pigs, and roosted upon by poultry. The farmer named 'Death' had highly likely already set these carts apart to be the executioner's tumbrils of the Revolution.",
+    "ko": "그날 파리 근교의 척박한 땅을 일구는 농부들의 거친 헛간에는, 비바람을 피해 비포장도로의 진흙투성이가 된 채 돼지들이 킁킁거리고 가금류가 둥지를 튼 투박한 수레들이 있었을 텐데, '죽음'이라는 농부는 이미 이 수레들을 혁명의 사형수 호송차로 점찍어 두었을 가능성도 높다.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P006_5",
+    "raw": "But that Woodman and that Farmer, though they work unceasingly, work silently, and no one heard them as they went about with muffled tread:",
+    "en": "But that woodman and that farmer, though working without rest, worked silently, so no one heard them as they moved about with muffled steps.",
+    "ko": "그러나 그 나무꾼과 그 농부는 쉬지 않고 일하면서도 소리 없이 일했기에, 그들이 발소리를 죽인 채 돌아다녀도 아무도 그 소리를 듣지 못했다.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P006_6",
+    "raw": "the rather, forasmuch as to entertain any suspicion that they were awake, was to be atheistical and traitorous.",
+    "en": "Rather, even entertaining the suspicion that they were awake was considered an atheistic and treasonous act.",
+    "ko": "오히려 그들이 깨어 있다고 의심하는 것조차 무신론적이고 반역적인 행동으로 여겨졌기 때문이다.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P007_1",
+    "raw": "In England, there was scarcely an amount of order and protection to justify much national boasting.",
+    "en": "In England, too, there was scarcely enough order or protection to boast of nationally.",
+    "ko": "영국에도 국가적으로 자랑할 만한 질서나 보호는 거의 없었다.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P007_2",
+    "raw": "Daring burglaries by armed men, and highway robberies, took place in the capital itself every night;",
+    "en": "Daring home invasions by armed men and highway robberies took place even in the capital every night.",
+    "ko": "무장한 자들의 대담한 주거 침입과 노상강도 사건이 수도에서조차 매일 밤 일어났다.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P007_3",
+    "raw": "families were publicly cautioned not to go out of town without removing their furniture to upholsterers’ warehouses for security;",
+    "en": "Families were publicly warned not to leave the city without moving their furniture to furniture warehouses for safety.",
+    "ko": "가족들은 안전을 위해 가구를 가구 창고로 옮기지 않고서는 시외로 나가지 말라는 공개적인 주의를 받았다.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P007_4",
+    "raw": "the highwayman in the dark was a City tradesman in the light, and, being recognised and challenged by his fellow-tradesman whom he stopped in his character of “the Captain,” gallantly shot him through the head and rode away;",
+    "en": "The highwayman in the dark was a city tradesman by day. When he stopped someone posing as 'the Captain' and was recognized by a fellow tradesman, he boldly shot him in the head and rode off.",
+    "ko": "어둠 속의 노상강도는 낮에는 도시의 상인이었고, '대장' 행세를 하며 사람을 막아섰다가 동료 상인에게 정체가 탄로나자 당당하게 그의 머리에 총을 지향하고 쏘고 달아났다.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P007_5",
+    "raw": "the mail was waylaid by seven robbers, and the guard shot three dead, and then got shot dead himself by the other four, “in consequence of the failure of his ammunition:” after which the mail was robbed in peace;",
+    "en": "A mail coach was ambushed by seven robbers; the guard shot three dead, but because he 'ran out of ammunition,' he was killed by the other four, after which the coach was robbed in peace.",
+    "ko": "우편마차가 일곱 명의 강도에게 기습을 당해 경비원이 세 명을 쏴 죽였으나, '탄약이 떨어지는 바람에' 나머지 네 명에게 사살당했고, 그 후 우편마차는 평온하게 털렸다.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P007_6",
+    "raw": "that magnificent potentate, the Lord Mayor of London, was made to stand and deliver on Turnham Green, by one highwayman, who despoiled the illustrious creature in sight of all his retinue;",
+    "en": "Even that great figure, the Lord Mayor of London, was held up for money by a single highwayman at Turnham Green, and the illustrious man was robbed in full view of his entire retinue.",
+    "ko": "런던 시장이라는 거물조차 터넘 그린에서 단 한 명의 노상강도에게 돈을 내놓으라는 협박을 받았고, 그 위대한 인물은 수행원들이 모두 보는 앞에서 약탈당했다.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P007_7",
+    "raw": "prisoners in London gaols fought battles with their turnkeys, and the majesty of the law fired blunderbusses in among them, loaded with rounds of shot and ball;",
+    "en": "Prisoners in London jails brawled with their guards, and the majesty of the law fired blunderbusses loaded with grapeshot and cannonballs into their midst.",
+    "ko": "런던 감옥의 죄수들은 교도관들과 난투극을 벌였고, 법의 권위는 그들을 향해 산탄과 포탄을 장전한 나팔총을 쏘아댔다.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P007_8",
+    "raw": "thieves snipped off diamond crosses from the necks of noble lords at Court drawing-rooms;",
+    "en": "Thieves snipped off diamond crosses from the necks of noble lords in the court drawing rooms.",
+    "ko": "도둑들은 궁정 응접실에서 고귀한 귀족들의 목에 걸린 다이아몬드 십자가를 싹둑 잘라갔다.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P007_9",
+    "raw": "musketeers went into St.",
+    "en": "Musketeers went into St.",
+    "ko": "총사들이 밀수품을 수색하러 세인트",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P007_10",
+    "raw": "Giles’s, to search for contraband goods, and the mob fired on the musketeers, and the musketeers fired on the mob, and nobody thought any of these occurrences much out of the common way.",
+    "en": "Giles's slum to search for contraband, and the mob fired on the musketeers, and the musketeers fired on the mob, yet no one thought any of these events particularly unusual.",
+    "ko": "자일스 빈민가에 들어가자 폭도들이 총사들에게 총을 쏘고, 총사들도 폭도들에게 총을 쏘았지만, 아무도 이런 일들을 대수롭지 않게 여겼다.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P007_11",
+    "raw": "In the midst of them, the hangman, ever busy and ever worse than useless, was in constant requisition;",
+    "en": "In the midst of this chaos, the hangman, always busy and worse than useless, was constantly summoned.",
+    "ko": "이런 혼란 속에서, 늘 바쁘고 있으나 마나 한 것보다 더 해악을 끼치는 교수형 집행인은 끊임없이 호출되었다.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P007_12",
+    "raw": "now, stringing up long rows of miscellaneous criminals;",
+    "en": "One day he was stringing up long rows of miscellaneous criminals;",
+    "ko": "어느 날은 잡다한 범죄자들을 길게 줄지어 매달았고,",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P007_13",
+    "raw": "now, hanging a housebreaker on Saturday who had been taken on Tuesday;",
+    "en": "another day he was hanging on a Saturday a home invader caught on Tuesday;",
+    "ko": "어느 날은 화요일에 잡힌 주거 침입 절도범을 토요일에 교수형에 처했으며,",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P007_14",
+    "raw": "now, burning people in the hand at Newgate by the dozen, and now burning pamphlets at the door of Westminster Hall;",
+    "en": "another day he was branding dozens of people on the hand at Newgate prison, and yet another day he was burning pamphlets at the doors of Westminster Hall.",
+    "ko": "어느 날은 뉴게이트 감옥에서 수십 명의 손에 낙인을 찍고, 또 어느 날은 웨스트민스터 홀 문 앞에서 팸플릿을 불태웠다.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P007_15",
+    "raw": "to-day, taking the life of an atrocious murderer, and to-morrow of a wretched pilferer who had robbed a farmer’s boy of sixpence.",
+    "en": "Today he took the life of a heinous murderer, and tomorrow the life of a wretched petty thief who had stolen sixpence from a farm boy.",
+    "ko": "오늘은 흉악한 살인범의 목숨을 빼앗고, 내일은 농장 소년에게서 6펜스를 훔친 불쌍한 좀도둑의 목숨을 거두었다.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P008_1",
+    "raw": "All these things, and a thousand like them, came to pass in and close upon the dear old year one thousand seven hundred and seventy-five.",
+    "en": "All these things, and thousands of others like them, came to pass in and around the dear old year of 1775.",
+    "ko": "이 모든 일과 그 밖의 수천 가지 비슷한 일들이 친애하는 옛 시절 1775년에, 혹은 그 무렵에 일어났다.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P008_2",
+    "raw": "Environed by them, while the Woodman and the Farmer worked unheeded, those two of the large jaws, and those other two of the plain and the fair faces, trod with stir enough, and carried their divine rights with a high hand.",
+    "en": "Surrounded by these events, while the woodman and the farmer worked unnoticed, those two with the large jaws (the kings of England and France), and those other two with the plain and beautiful faces (the queens of England and France), strutted about quite noisily, arrogantly wielding their divine right of kings.",
+    "ko": "이런 일들에 둘러싸인 채, 나무꾼과 농부가 남몰래 일하는 동안, 턱이 큰 두 사람(영국 왕과 프랑스 왕)과 평범한 얼굴, 아름다운 얼굴을 가진 다른 두 사람(영국 왕비와 프랑스 왕비)은 아주 소란스럽게 활보하며 자신들의 왕권신수설을 거만하게 휘둘렀다.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P008_3",
+    "raw": "Thus did the year one thousand seven hundred and seventy-five conduct their Greatnesses, and myriads of small creatures--the creatures of this chronicle among the rest--along the roads that lay before them.",
+    "en": "Thus the year 1775 led their Greatnesses, and myriads of insignificant creatures—including those in this chronicle—along the roads that lay before them.",
+    "ko": "이리하여 1775년은 그 위대하신 분들과, 이 연대기에 등장하는 사람들을 비롯한 무수히 많은 미물들을 그들 앞에 놓인 길로 이끌어갔다.",
+    "is_header": false
+  }
+]

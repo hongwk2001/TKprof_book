@@ -1,0 +1,834 @@
+[
+  {
+    "id": 1,
+    "tag": "P001",
+    "raw": "CHAPTER XXIII. Fire Rises",
+    "en": "[Chapter 23] Fire Rises",
+    "ko": "",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P002_1",
+    "raw": "There was a change on the village where the fountain fell, and where the mender of roads went forth daily to hammer out of the stones on the highway such morsels of bread as might serve for patches to hold his poor ignorant soul and his poor reduced body together.",
+    "en": "A change came over the village with the fountain, where the road-mender worked every day, breaking stones on the highway just to earn enough bread to keep his poor body and soul together. The prison on the cliff was no longer as powerful as it used to be.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P002_2",
+    "raw": "The prison on the crag was not so dominant as of yore; there were soldiers to guard it, but not many; there were officers to guard the soldiers, but not one of them knew what his men would do--beyond this: that it would probably not be what he was ordered.",
+    "en": "There were soldiers guarding it, but not many, and there were officers to watch the soldiers. However, none of the officers knew what their men would do, except they knew the soldiers probably wouldn't obey orders.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P003_1",
+    "raw": "Far and wide lay a ruined country, yielding nothing but desolation.",
+    "en": "All around, the countryside was ruined and desolate.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P003_2",
+    "raw": "Every green leaf, every blade of grass and blade of grain, was as shrivelled and poor as the miserable people.",
+    "en": "Every green leaf, blade of grass, and stalk of grain was as shriveled and poor as the miserable people themselves.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P003_3",
+    "raw": "Everything was bowed down, dejected, oppressed, and broken.",
+    "en": "Everything was beaten down, depressed, oppressed, and broken.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P003_4",
+    "raw": "Habitations, fences, domesticated animals, men, women, children, and the soil that bore them--all worn out.",
+    "en": "The houses, fences, farm animals, men, women, children, and even the soil they lived on were completely worn out.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P004_1",
+    "raw": "Monseigneur (often a most worthy individual gentleman) was a national blessing, gave a chivalrous tone to things, was a polite example of luxurious and shining life, and a great deal more to equal purpose; nevertheless, Monseigneur as a class had, somehow or other, brought things to this.",
+    "en": "The aristocrats, who were often perfectly nice gentlemen individually, were supposed to be a blessing to the nation, setting a polite example of luxury and fine living. Yet, as a class, they had somehow brought the country to this state.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P004_2",
+    "raw": "Strange that Creation, designed expressly for Monseigneur, should be so soon wrung dry and squeezed out!",
+    "en": "It was strange that the world, which seemed to be made just for them, was so quickly squeezed dry.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P004_3",
+    "raw": "There must be something short-sighted in the eternal arrangements, surely!",
+    "en": "Surely, there must have been some mistake in the universe's design!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P004_4",
+    "raw": "Thus it was, however; and the last drop of blood having been extracted from the flints, and the last screw of the rack having been turned so often that its purchase crumbled, and it now turned and turned with nothing to bite, Monseigneur began to run away from a phenomenon so low and unaccountable.",
+    "en": "But that was the reality. Now that the last drop of blood had been squeezed from the poorest people, and the screws of taxes and oppression could not be tightened any further without breaking, the aristocrats began to run away from this messy, confusing situation.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P005_1",
+    "raw": "But, this was not the change on the village, and on many a village like it.",
+    "en": "But this running away was not the real change in this village, or in the many others like it.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P005_2",
+    "raw": "For scores of years gone by, Monseigneur had squeezed it and wrung it, and had seldom graced it with his presence except for the pleasures of the chase--now, found in hunting the people; now, found in hunting the beasts, for whose preservation Monseigneur made edifying spaces of barbarous and barren wilderness.",
+    "en": "For decades, the aristocrats had squeezed the people dry, rarely visiting except to go hunting, sometimes hunting wild animals, and sometimes hunting the people themselves, keeping large areas of land wild and useless just for their sports.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P005_3",
+    "raw": "No. The change consisted in the appearance of strange faces of low caste, rather than in the disappearance of the high caste, chiselled, and otherwise beautified and beautifying features of Monseigneur.",
+    "en": "No, the real change was the appearance of strange, poor-looking faces in the area, rather than the disappearance of the handsome, elegant faces of the lords.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P006_1",
+    "raw": "For, in these times, as the mender of roads worked, solitary, in the dust, not often troubling himself to reflect that dust he was and to dust he must return, being for the most part too much occupied in thinking how little he had for supper and how much more he would eat if he had it--in these times, as he raised his eyes from his lonely labour, and viewed the prospect, he would see some rough figure approaching on foot, the like of which was once a rarity in those parts, but was now a frequent presence.",
+    "en": "Lately, as the road-mender worked alone in the dust, not thinking about life and death, but mostly about how little he had for dinner and how much more he would eat if he could, he would look up and see a rough traveler approaching on foot. Such travelers used to be rare, but now they were a common sight. As the figure came closer, the road-mender was not surprised to see a tall, shaggy-haired man who looked almost wild.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P006_2",
+    "raw": "As it advanced, the mender of roads would discern without surprise, that it was a shaggy-haired man, of almost barbarian aspect, tall, in wooden shoes that were clumsy even to the eyes of a mender of roads, grim, rough, swart, steeped in the mud and dust of many highways, dank with the marshy moisture of many low grounds, sprinkled with the thorns and leaves and moss of many byways through woods.",
+    "en": "The man wore wooden shoes that looked clumsy even to the road-mender. He was dirty, dark-skinned, covered in the mud and dust of many roads, damp from marshes, and covered in thorns, leaves, and moss from walking through the woods.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P007",
+    "raw": "Such a man came upon him, like a ghost, at noon in the July weather, as he sat on his heap of stones under a bank, taking such shelter as he could get from a shower of hail.",
+    "en": "Such a man walked up to him like a ghost at noon in the hot July weather, while the road-mender sat on his pile of stones under a bank, sheltering as best he could from a sudden hailstorm.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P008_1",
+    "raw": "The man looked at him, looked at the village in the hollow, at the mill, and at the prison on the crag.",
+    "en": "The traveler looked at him, then at the village in the valley, at the mill, and at the prison on the cliff.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P008_2",
+    "raw": "When he had identified these objects in what benighted mind he had, he said, in a dialect that was just intelligible:",
+    "en": "Once he had recognized these landmarks in his simple mind, he spoke in a rough dialect that was barely understandable:",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P009",
+    "raw": "“How goes it, Jacques?”",
+    "en": "“How is it going, Jacques?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P010",
+    "raw": "“All well, Jacques.”",
+    "en": "“All well, Jacques.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P011",
+    "raw": "“Touch then!”",
+    "en": "“Join hands then!”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P012",
+    "raw": "They joined hands, and the man sat down on the heap of stones.",
+    "en": "They shook hands, and the man sat down on the pile of stones.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P013",
+    "raw": "“No dinner?”",
+    "en": "“No lunch?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P014",
+    "raw": "“Nothing but supper now,” said the mender of roads, with a hungry face.",
+    "en": "“Nothing but dinner tonight,” said the road-mender with a hungry look.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P015",
+    "raw": "“It is the fashion,” growled the man. “I meet no dinner anywhere.”",
+    "en": "“That's the style these days,” growled the man. “I don't find lunch anywhere.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P016",
+    "raw": "He took out a blackened pipe, filled it, lighted it with flint and steel, pulled at it until it was in a bright glow: then, suddenly held it from him and dropped something into it from between his finger and thumb, that blazed and went out in a puff of smoke.",
+    "en": "He pulled out a blackened pipe, filled it, lit it with flint and steel, and puffed until it glowed brightly. Then, he held it away and dropped a tiny pinch of something from his fingers into the bowl, which flared up and went out in a puff of smoke.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P017_1",
+    "raw": "“Touch then.” It was the turn of the mender of roads to say it this time, after observing these operations.",
+    "en": "Touch hands then. It was the road mender's turn to say it this time, after watching these actions.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P017_2",
+    "raw": "They again joined hands.",
+    "en": "They shook hands again.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P018",
+    "raw": "“To-night?” said the mender of roads.",
+    "en": "“Tonight?” asked the road-mender.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P019",
+    "raw": "“To-night,” said the man, putting the pipe in his mouth.",
+    "en": "“Tonight,” said the man, putting the pipe back in his mouth.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P020",
+    "raw": "“Where?”",
+    "en": "“Where?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P021",
+    "raw": "“Here.”",
+    "en": "“Here.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P022",
+    "raw": "He and the mender of roads sat on the heap of stones looking silently at one another, with the hail driving in between them like a pigmy charge of bayonets, until the sky began to clear over the village.",
+    "en": "He and the road-mender sat on the pile of stones, staring silently at each other while the hail fell between them like a tiny army of bayonets, until the sky began to clear over the village.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P023",
+    "raw": "“Show me!” said the traveller then, moving to the brow of the hill.",
+    "en": "“Show me!” said the traveler, walking to the edge of the hill.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P024",
+    "raw": "“See!” returned the mender of roads, with extended finger. “You go down here, and straight through the street, and past the fountain--”",
+    "en": "“Look!” the road-mender replied, pointing his finger. “You go down here, straight through the street, and past the fountain, ”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P025_1",
+    "raw": "“To the Devil with all that!” interrupted the other, rolling his eye over the landscape. “_I_ go through no streets and past no fountains.",
+    "en": "“To the devil with all that!” the other interrupted, looking out over the landscape. “_I_ am not going through streets or past fountains.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P025_2",
+    "raw": "Well?”",
+    "en": "What else?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P026",
+    "raw": "“Well! About two leagues beyond the summit of that hill above the village.”",
+    "en": "“Well, it is about six miles past the top of that hill above the village.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P027_1",
+    "raw": "“Good.",
+    "en": "“Good.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P027_2",
+    "raw": "When do you cease to work?”",
+    "en": "When do you finish work?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P028",
+    "raw": "“At sunset.”",
+    "en": "“At sunset.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P029_1",
+    "raw": "“Will you wake me, before departing?",
+    "en": "“Will you wake me before you leave?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P029_2",
+    "raw": "I have walked two nights without resting.",
+    "en": "I have walked for two nights without resting.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P029_3",
+    "raw": "Let me finish my pipe, and I shall sleep like a child.",
+    "en": "Let me finish my pipe, and I will sleep like a baby.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P029_4",
+    "raw": "Will you wake me?”",
+    "en": "Will you wake me?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P030",
+    "raw": "“Surely.”",
+    "en": "“Of course.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P031_1",
+    "raw": "The wayfarer smoked his pipe out, put it in his breast, slipped off his great wooden shoes, and lay down on his back on the heap of stones.",
+    "en": "The traveler finished smoking, put the pipe in his coat, slipped off his heavy wooden shoes, and lay down on his back on the pile of stones.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P031_2",
+    "raw": "He was fast asleep directly.",
+    "en": "He fell fast asleep immediately.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P032_1",
+    "raw": "As the road-mender plied his dusty labour, and the hail-clouds, rolling away, revealed bright bars and streaks of sky which were responded to by silver gleams upon the landscape, the little man (who wore a red cap now, in place of his blue one) seemed fascinated by the figure on the heap of stones.",
+    "en": "As the road-mender continued his dusty work, and the hail-clouds moved away to show bright streaks of sky that lit up the landscape with silver gleams, the little man, who now wore a red cap instead of his blue one, was fascinated by the sleeping figure.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P032_2",
+    "raw": "His eyes were so often turned towards it, that he used his tools mechanically, and, one would have said, to very poor account.",
+    "en": "He looked at the traveler so often that he used his tools automatically and did very little actual work.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P032_3",
+    "raw": "The bronze face, the shaggy black hair and beard, the coarse woollen red cap, the rough medley dress of home-spun stuff and hairy skins of beasts, the powerful frame attenuated by spare living, and the sullen and desperate compression of the lips in sleep, inspired the mender of roads with awe.",
+    "en": "The tanned face, the shaggy black hair and beard, the coarse red wool cap, the rough mixture of homespun clothes and animal skins, the strong body thinned by starvation, and the tight, desperate look of the lips in sleep filled the road-mender with awe.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P032_4",
+    "raw": "The traveller had travelled far, and his feet were footsore, and his ankles chafed and bleeding; his great shoes, stuffed with leaves and grass, had been heavy to drag over the many long leagues, and his clothes were chafed into holes, as he himself was into sores.",
+    "en": "The traveler had walked a long way; his feet were sore, and his ankles were raw and bleeding. His large wooden shoes, packed with leaves and grass, must have been heavy to drag for so many miles, and his clothes were as full of holes as his body was of sores.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P032_5",
+    "raw": "Stooping down beside him, the road-mender tried to get a peep at secret weapons in his breast or where not; but, in vain, for he slept with his arms crossed upon him, and set as resolutely as his lips.",
+    "en": "Bending down next to him, the road-mender tried to peek at any weapons hidden in his coat, but could see nothing because the man slept with his arms crossed tightly over his chest, as firm as his closed mouth.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P032_6",
+    "raw": "Fortified towns with their stockades, guard-houses, gates, trenches, and drawbridges, seemed to the mender of roads, to be so much air as against this figure.",
+    "en": "To the road-mender, fortified towns with their fences, guardhouses, gates, ditches, and drawbridges seemed useless against a man like this.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P032_7",
+    "raw": "And when he lifted his eyes from it to the horizon and looked around, he saw in his small fancy similar figures, stopped by no obstacle, tending to centres all over France.",
+    "en": "And when he looked up from the sleeper to the horizon, he imagined thousands of similar men, stopped by no obstacles, marching toward targets all over France.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P033_1",
+    "raw": "The man slept on, indifferent to showers of hail and intervals of brightness, to sunshine on his face and shadow, to the paltering lumps of dull ice on his body and the diamonds into which the sun changed them, until the sun was low in the west, and the sky was glowing.",
+    "en": "The man slept on, ignoring the hail and the sunshine, the shadows, and the bits of ice on his body that the sun melted into glittering drops, until the sun was low in the west and the sky was glowing.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P033_2",
+    "raw": "Then, the mender of roads having got his tools together and all things ready to go down into the village, roused him.",
+    "en": "Then, the road-mender gathered his tools, got ready to go down to the village, and woke him up.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P034",
+    "raw": "“Good!” said the sleeper, rising on his elbow. “Two leagues beyond the summit of the hill?”",
+    "en": "“Good!” said the sleeper, sitting up on his elbow. “About six miles past the top of the hill?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P035",
+    "raw": "“About.”",
+    "en": "“About that.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P036_1",
+    "raw": "“About.",
+    "en": "“About that.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P036_2",
+    "raw": "Good!”",
+    "en": "Good!”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P037_1",
+    "raw": "The mender of roads went home, with the dust going on before him according to the set of the wind, and was soon at the fountain, squeezing himself in among the lean kine brought there to drink, and appearing even to whisper to them in his whispering to all the village.",
+    "en": "The road-mender walked home, the wind blowing the dust ahead of him. Soon he was at the fountain, squeezing in among the thin cattle brought there to drink, looking as if he were whispering to them just as he was whispering to the rest of the village.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "tag": "P037_2",
+    "raw": "When the village had taken its poor supper, it did not creep to bed, as it usually did, but came out of doors again, and remained there.",
+    "en": "Once the villagers had eaten their poor dinner, they did not go to bed as they usually did, but came back outside and stayed there.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P037_3",
+    "raw": "A curious contagion of whispering was upon it, and also, when it gathered together at the fountain in the dark, another curious contagion of looking expectantly at the sky in one direction only.",
+    "en": "A strange epidemic of whispering spread among them, and as they gathered in the dark around the fountain, another strange urge made them all look at the sky in the same direction.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P037_4",
+    "raw": "Monsieur Gabelle, chief functionary of the place, became uneasy; went out on his house-top alone, and looked in that direction too; glanced down from behind his chimneys at the darkening faces by the fountain below, and sent word to the sacristan who kept the keys of the church, that there might be need to ring the tocsin by-and-bye.",
+    "en": "Monsieur Gabelle, the local official, became nervous. He went out on his rooftop alone and looked in that direction too. He peered down from behind his chimneys at the gloomy faces around the fountain below, and sent a message to the church official who had the keys, telling him they might need to ring the alarm bell soon.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P038_1",
+    "raw": "The night deepened.",
+    "en": "The night grew darker.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "tag": "P038_2",
+    "raw": "The trees environing the old chateau, keeping its solitary state apart, moved in a rising wind, as though they threatened the pile of building massive and dark in the gloom.",
+    "en": "The trees surrounding the old chateau, which stood isolated and grand, swayed in a rising wind as if threatening the massive, dark building.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "tag": "P038_3",
+    "raw": "Up the two terrace flights of steps the rain ran wildly, and beat at the great door, like a swift messenger rousing those within; uneasy rushes of wind went through the hall, among the old spears and knives, and passed lamenting up the stairs, and shook the curtains of the bed where the last Marquis had slept.",
+    "en": "Rain poured down the two stone terraces and beat against the great door like a messenger trying to wake the people inside. Drafts of wind blew through the hall, rattling the old spears and knives, and swept up the stairs, shaking the curtains of the bed where the late Marquis used to sleep.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "tag": "P038_4",
+    "raw": "East, West, North, and South, through the woods, four heavy-treading, unkempt figures crushed the high grass and cracked the branches, striding on cautiously to come together in the courtyard.",
+    "en": "From the East, West, North, and South, through the woods, four rough, messy figures stepped heavily through the high grass and snapped branches, walking cautiously to meet in the courtyard.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "tag": "P038_5",
+    "raw": "Four lights broke out there, and moved away in different directions, and all was black again.",
+    "en": "Four lights suddenly appeared there, moved off in different directions, and then everything went dark again.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "tag": "P039_1",
+    "raw": "But, not for long.",
+    "en": "But not for long.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "tag": "P039_2",
+    "raw": "Presently, the chateau began to make itself strangely visible by some light of its own, as though it were growing luminous.",
+    "en": "Soon, the chateau began to glow with a strange light of its own.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "tag": "P039_3",
+    "raw": "Then, a flickering streak played behind the architecture of the front, picking out transparent places, and showing where balustrades, arches, and windows were.",
+    "en": "A flickering flame danced behind the front of the building, lighting up the arches, balconies, and windows from within.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "tag": "P039_4",
+    "raw": "Then it soared higher, and grew broader and brighter.",
+    "en": "Then the fire rose higher, growing wider and brighter.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "tag": "P039_5",
+    "raw": "Soon, from a score of the great windows, flames burst forth, and the stone faces awakened, stared out of fire.",
+    "en": "Soon, flames burst out of twenty large windows, and the stone faces carved on the walls seemed to wake up and stare out from the fire.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "tag": "P040_1",
+    "raw": "A faint murmur arose about the house from the few people who were left there, and there was a saddling of a horse and riding away.",
+    "en": "A quiet panic arose inside the house among the few servants left behind. A horse was quickly saddled, and someone rode away.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "tag": "P040_2",
+    "raw": "There was spurring and splashing through the darkness, and bridle was drawn in the space by the village fountain, and the horse in a foam stood at Monsieur Gabelle’s door. “Help, Gabelle!",
+    "en": "Spurring the horse through the dark, splashing in the mud, the rider stopped at the village fountain, the sweating horse panting at Monsieur Gabelle's door. “Help, Gabelle!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "tag": "P040_3",
+    "raw": "Help, every one!” The tocsin rang impatiently, but other help (if that were any) there was none.",
+    "en": "Help, everyone!” The church alarm bell began to ring urgently, but no help came.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "tag": "P040_4",
+    "raw": "The mender of roads, and two hundred and fifty particular friends, stood with folded arms at the fountain, looking at the pillar of fire in the sky. “It must be forty feet high,” said they, grimly; and never moved.",
+    "en": "The road-mender and two hundred and fifty of his fellow villagers stood by the fountain with their arms crossed, watching the pillar of fire in the sky. “It must be forty feet high,” they said grimly, and none of them moved a muscle to help.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "tag": "P041_1",
+    "raw": "The rider from the chateau, and the horse in a foam, clattered away through the village, and galloped up the stony steep, to the prison on the crag.",
+    "en": "The rider from the chateau, on his sweating horse, clattered out of the village and galloped up the rocky path to the prison on the cliff.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "tag": "P041_2",
+    "raw": "At the gate, a group of officers were looking at the fire; removed from them, a group of soldiers. “Help, gentlemen--officers!",
+    "en": "At the gate, a group of officers stood watching the fire, and a little distance away, a group of soldiers watched too. “Help, officers!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "tag": "P041_3",
+    "raw": "The chateau is on fire; valuable objects may be saved from the flames by timely aid!",
+    "en": "The chateau is on fire! We can save valuable things if we act now!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "tag": "P041_4",
+    "raw": "Help, help!” The officers looked towards the soldiers who looked at the fire; gave no orders; and answered, with shrugs and biting of lips, “It must burn.”",
+    "en": "Help!” The officers looked at the soldiers, who just stared at the fire. The officers gave no orders and, shrugging their shoulders and biting their lips, replied, “It must burn.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "tag": "P042_1",
+    "raw": "As the rider rattled down the hill again and through the street, the village was illuminating.",
+    "en": "As the rider rode back down the hill and through the street, the village was lighting up in celebration.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "tag": "P042_2",
+    "raw": "The mender of roads, and the two hundred and fifty particular friends, inspired as one man and woman by the idea of lighting up, had darted into their houses, and were putting candles in every dull little pane of glass.",
+    "en": "The road-mender and his two hundred and fifty friends, all sharing the same idea, had run into their houses to put candles in every small window pane.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "tag": "P042_3",
+    "raw": "The general scarcity of everything, occasioned candles to be borrowed in a rather peremptory manner of Monsieur Gabelle; and in a moment of reluctance and hesitation on that functionary’s part, the mender of roads, once so submissive to authority, had remarked that carriages were good to make bonfires with, and that post-horses would roast.",
+    "en": "Because candles were scarce like everything else, they demanded to borrow them from Monsieur Gabelle. When the official hesitated to give them up, the road-mender, who had once been so obedient, remarked that carriages made great bonfires and carriage-horses would roast nicely.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "tag": "P043_1",
+    "raw": "The chateau was left to itself to flame and burn.",
+    "en": "The chateau was left alone to burn.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "tag": "P043_2",
+    "raw": "In the roaring and raging of the conflagration, a red-hot wind, driving straight from the infernal regions, seemed to be blowing the edifice away.",
+    "en": "In the roaring heat of the fire, a scorching wind, looking as if it blew straight from hell, seemed to tear at the building.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "tag": "P043_3",
+    "raw": "With the rising and falling of the blaze, the stone faces showed as if they were in torment.",
+    "en": "As the flames flickered, the stone faces carved on the walls looked as if they were crying out in pain.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "tag": "P043_4",
+    "raw": "When great masses of stone and timber fell, the face with the two dints in the nose became obscured: anon struggled out of the smoke again, as if it were the face of the cruel Marquis, burning at the stake and contending with the fire.",
+    "en": "When huge chunks of stone and wood fell, the face with the two dents in the nose was hidden for a moment, then peeked out of the smoke again, looking like the face of the cruel Marquis himself, burning at the stake and fighting the fire.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "tag": "P044_1",
+    "raw": "The chateau burned; the nearest trees, laid hold of by the fire, scorched and shrivelled; trees at a distance, fired by the four fierce figures, begirt the blazing edifice with a new forest of smoke.",
+    "en": "The chateau burned. The nearest trees caught fire and shriveled up, while trees further away, set on fire by the four mysterious men, surrounded the burning building with a thick forest of smoke.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "tag": "P044_2",
+    "raw": "Molten lead and iron boiled in the marble basin of the fountain; the water ran dry; the extinguisher tops of the towers vanished like ice before the heat, and trickled down into four rugged wells of flame.",
+    "en": "Melted lead and iron bubbled in the marble fountain basin. The water dried up completely. The pointed roofs of the towers melted like ice in the heat, dripping down into four fiery pits.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "tag": "P044_3",
+    "raw": "Great rents and splits branched out in the solid walls, like crystallisation; stupefied birds wheeled about and dropped into the furnace; four fierce figures trudged away, East, West, North, and South, along the night-enshrouded roads, guided by the beacon they had lighted, towards their next destination.",
+    "en": "Giant cracks split the solid walls, birds flew in confused circles before falling into the heat, and the four fierce men walked away to the East, West, North, and South along the dark roads, guided by the massive light they had created.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "tag": "P044_4",
+    "raw": "The illuminated village had seized hold of the tocsin, and, abolishing the lawful ringer, rang for joy.",
+    "en": "In the lit-up village, the people took over the church bell, kicked out the official bell-ringer, and rang the bell in celebration.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "tag": "P045_1",
+    "raw": "Not only that; but the village, light-headed with famine, fire, and bell-ringing, and bethinking itself that Monsieur Gabelle had to do with the collection of rent and taxes--though it was but a small instalment of taxes, and no rent at all, that Gabelle had got in those latter days--became impatient for an interview with him, and, surrounding his house, summoned him to come forth for personal conference.",
+    "en": "Not only that, but the villagers, dizzy from hunger, excitement, and bell-ringing, remembered that Monsieur Gabelle was the one who collected rents and taxes, even though he had collected very little lately. They wanted to speak with him, so they surrounded his house and shouted for him to come out.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "tag": "P045_2",
+    "raw": "Whereupon, Monsieur Gabelle did heavily bar his door, and retire to hold counsel with himself.",
+    "en": "Monsieur Gabelle quickly locked and barred his doors and sat down to think about what to do.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "tag": "P045_3",
+    "raw": "The result of that conference was, that Gabelle again withdrew himself to his housetop behind his stack of chimneys; this time resolved, if his door were broken in (he was a small Southern man of retaliative temperament), to pitch himself head foremost over the parapet, and crush a man or two below.",
+    "en": "His decision was to climb back onto his roof behind the chimneys. He resolved that if the crowd broke down his door, he, being a small man from the south of France with a stubborn streak, would throw himself off the roof to crush one or two of them on his way down.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "tag": "P046_1",
+    "raw": "Probably, Monsieur Gabelle passed a long night up there, with the distant chateau for fire and candle, and the beating at his door, combined with the joy-ringing, for music; not to mention his having an ill-omened lamp slung across the road before his posting-house gate, which the village showed a lively inclination to displace in his favour.",
+    "en": "Monsieur Gabelle spent a very long night up there, using the burning chateau in the distance as his light, and the pounding on his door and the joyous bell-ringing as his music. Outside his gate, a street lantern hung across the road, and the villagers were dropping hints that they would love to hang him from it.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "tag": "P046_2",
+    "raw": "A trying suspense, to be passing a whole summer night on the brink of the black ocean, ready to take that plunge into it upon which Monsieur Gabelle had resolved!",
+    "en": "It was a terrifying way to spend a summer night, standing on the edge of death, ready to jump if he had to.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "tag": "P046_3",
+    "raw": "But, the friendly dawn appearing at last, and the rush-candles of the village guttering out, the people happily dispersed, and Monsieur Gabelle came down bringing his life with him for that while.",
+    "en": "But when morning finally came and the villagers' candles burned out, the crowd dispersed, and Monsieur Gabelle was able to climb down, safe for the moment.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "tag": "P047_1",
+    "raw": "Within a hundred miles, and in the light of other fires, there were other functionaries less fortunate, that night and other nights, whom the rising sun found hanging across once-peaceful streets, where they had been born and bred; also, there were other villagers and townspeople less fortunate than the mender of roads and his fellows, upon whom the functionaries and soldiery turned with success, and whom they strung up in their turn.",
+    "en": "Within a hundred miles, by the light of other fires, other officials were not as lucky. That night and over the next few nights, the morning sun found many of them hanging dead over the streets where they had grown up. On the other side, some villagers were less fortunate than the road-mender and his friends, as soldiers and officials caught them and hanged them instead.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "tag": "P047_2",
+    "raw": "But, the fierce figures were steadily wending East, West, North, and South, be that as it would; and whosoever hung, fire burned.",
+    "en": "But the mysterious men continued their march to the East, West, North, and South.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 104,
+    "tag": "P047_3",
+    "raw": "The altitude of the gallows that would turn to water and quench it, no functionary, by any stretch of mathematics, was able to calculate successfully.",
+    "en": "No matter who was hanged, the fires of rebellion kept burning, and no official could figure out how to put them out.",
+    "ko": "",
+    "is_header": false
+  }
+]

@@ -1,0 +1,730 @@
+[
+    {
+        "id": 1,
+        "tag": "P001",
+        "raw": "CHAPTER XX. A Plea",
+        "en": "[Chapter 20] A Plea",
+        "ko": "",
+        "is_header": true
+    },
+    {
+        "id": 2,
+        "tag": "P002_1",
+        "raw": "When the newly-married pair came home, the first person who appeared, to offer his congratulations, was Sydney Carton.",
+        "en": "When the newly married couple returned home, the first person to offer his congratulations was Sydney Carton.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 3,
+        "tag": "P002_2",
+        "raw": "They had not been at home many hours, when he presented himself.",
+        "en": "They had been home for only a few hours when he arrived.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 4,
+        "tag": "P002_3",
+        "raw": "He was not improved in habits, or in looks, or in manner; but there was a certain rugged air of fidelity about him, which was new to the observation of Charles Darnay.",
+        "en": "He had not improved in his habits, appearance, or manners, but Charles Darnay noticed a new, rugged look of loyalty in him.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 5,
+        "tag": "P003",
+        "raw": "He watched his opportunity of taking Darnay aside into a window, and of speaking to him when no one overheard.",
+        "en": "Carton waited for an opportunity to take Darnay aside by the window, where no one else could hear them speak.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 6,
+        "tag": "P004_1",
+        "raw": "“Mr.",
+        "en": "Carton said, \"Mr.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 7,
+        "tag": "P004_2",
+        "raw": "Darnay,” said Carton, “I wish we might be friends.”",
+        "en": "Darnay, I wish we might be friends.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 8,
+        "tag": "P005",
+        "raw": "“We are already friends, I hope.”",
+        "en": "\"We are already friends, I hope.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 9,
+        "tag": "P006_1",
+        "raw": "“You are good enough to say so, as a fashion of speech; but, I don’t mean any fashion of speech.",
+        "en": "\"You are polite enough to say so as a formality, but I don't mean it as a mere formality.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 10,
+        "tag": "P006_2",
+        "raw": "Indeed, when I say I wish we might be friends, I scarcely mean quite that, either.”",
+        "en": "Indeed, when I say I wish we might be friends, I don't even mean exactly that, either.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 11,
+        "tag": "P007",
+        "raw": "Charles Darnay--as was natural--asked him, in all good-humour and good-fellowship, what he did mean?",
+        "en": "Charles Darnay naturally asked him, in a friendly and good-natured way, what he did mean.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 12,
+        "tag": "P008_1",
+        "raw": "“Upon my life,” said Carton, smiling, “I find that easier to comprehend in my own mind, than to convey to yours.",
+        "en": "Carton said with a smile, \"Honestly, I find that easier to understand in my own mind than to explain to you.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 13,
+        "tag": "P008_2",
+        "raw": "However, let me try.",
+        "en": "But let me try.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 14,
+        "tag": "P008_3",
+        "raw": "You remember a certain famous occasion when I was more drunk than--than usual?”",
+        "en": "You remember a certain occasion when I was more drunk than usual?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 15,
+        "tag": "P009",
+        "raw": "“I remember a certain famous occasion when you forced me to confess that you had been drinking.”",
+        "en": "\"I remember an occasion when you made me admit you had been drinking.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 16,
+        "tag": "P010_1",
+        "raw": "“I remember it too.",
+        "en": "\"I remember it too.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 17,
+        "tag": "P010_2",
+        "raw": "The curse of those occasions is heavy upon me, for I always remember them.",
+        "en": "The regret of those moments weighs heavily on me, because I always remember them.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 18,
+        "tag": "P010_3",
+        "raw": "I hope it may be taken into account one day, when all days are at an end for me!",
+        "en": "I hope that will be taken into account one day when my life is over!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 19,
+        "tag": "P010_4",
+        "raw": "Don’t be alarmed; I am not going to preach.”",
+        "en": "Don't worry; I'm not going to give you a sermon.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 20,
+        "tag": "P011_1",
+        "raw": "“I am not at all alarmed.",
+        "en": "\"I am not worried at all.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 21,
+        "tag": "P011_2",
+        "raw": "Earnestness in you, is anything but alarming to me.”",
+        "en": "Sincerity in you is not alarming to me.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 22,
+        "tag": "P012_1",
+        "raw": "“Ah!” said Carton, with a careless wave of his hand, as if he waved that away. “On the drunken occasion in question (one of a large number, as you know), I was insufferable about liking you, and not liking you.",
+        "en": "\"Ah!\" Carton said, waving his hand as if dismissing the thought. \"On that occasion, one of many, as you know, I was obnoxious about whether I liked you or not.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 23,
+        "tag": "P012_2",
+        "raw": "I wish you would forget it.”",
+        "en": "I wish you would forget it.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 24,
+        "tag": "P013",
+        "raw": "“I forgot it long ago.”",
+        "en": "\"I forgot it long ago.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 25,
+        "tag": "P014_1",
+        "raw": "“Fashion of speech again!",
+        "en": "\"Another polite formality!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 26,
+        "tag": "P014_2",
+        "raw": "But, Mr.",
+        "en": "But, Mr.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 27,
+        "tag": "P014_3",
+        "raw": "Darnay, oblivion is not so easy to me, as you represent it to be to you.",
+        "en": "Darnay, forgetting is not as easy for me as you say it is for you.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 28,
+        "tag": "P014_4",
+        "raw": "I have by no means forgotten it, and a light answer does not help me to forget it.”",
+        "en": "I haven't forgotten it, and a casual reply doesn't help me forget.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 29,
+        "tag": "P015_1",
+        "raw": "“If it was a light answer,” returned Darnay, “I beg your forgiveness for it.",
+        "en": "Darnay said, \"If it was a casual reply, I ask your forgiveness.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 30,
+        "tag": "P015_2",
+        "raw": "I had no other object than to turn a slight thing, which, to my surprise, seems to trouble you too much, aside.",
+        "en": "I only wanted to dismiss a minor thing that seems to worry you too much.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 31,
+        "tag": "P015_3",
+        "raw": "I declare to you, on the faith of a gentleman, that I have long dismissed it from my mind.",
+        "en": "I assure you, on my honor as a gentleman, that I have forgotten it.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 32,
+        "tag": "P015_4",
+        "raw": "Good Heaven, what was there to dismiss! Have I had nothing more important to remember, in the great service you rendered me that day?”",
+        "en": "And really, what was there to dismiss compared to the great help you gave me that day?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 33,
+        "tag": "P016_1",
+        "raw": "“As to the great service,” said Carton, “I am bound to avow to you, when you speak of it in that way, that it was mere professional claptrap, I don’t know that I cared what became of you, when I rendered it.--Mind!",
+        "en": "Carton said, \"As for that help, I must admit that it was just professional legal showmanship. I don't know that I cared what happened to you when I did it.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 34,
+        "tag": "P016_2",
+        "raw": "I say when I rendered it; I am speaking of the past.”",
+        "en": "Remember, I am speaking of the past.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 35,
+        "tag": "P017",
+        "raw": "“You make light of the obligation,” returned Darnay, “but I will not quarrel with _your_ light answer.”",
+        "en": "Darnay replied, \"You make light of the favor, but I won't argue with your reply.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 36,
+        "tag": "P018_1",
+        "raw": "“Genuine truth, Mr.",
+        "en": "\"It's the absolute truth, Mr.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 37,
+        "tag": "P018_2",
+        "raw": "Darnay, trust me!",
+        "en": "Darnay, believe me!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 38,
+        "tag": "P018_3",
+        "raw": "I have gone aside from my purpose; I was speaking about our being friends.",
+        "en": "But I have wandered from my point; I was speaking of our friendship.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 39,
+        "tag": "P018_4",
+        "raw": "Now, you know me; you know I am incapable of all the higher and better flights of men.",
+        "en": "You know me; you know I am incapable of the better qualities of men.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 40,
+        "tag": "P018_5",
+        "raw": "If you doubt it, ask Stryver, and he’ll tell you so.”",
+        "en": "If you doubt it, ask Stryver, and he’ll tell you so.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 41,
+        "tag": "P019",
+        "raw": "“I prefer to form my own opinion, without the aid of his.”",
+        "en": "\"I prefer to form my own opinion, without his help.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 42,
+        "tag": "P020_1",
+        "raw": "“Well!",
+        "en": "\"Well!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 43,
+        "tag": "P020_2",
+        "raw": "At any rate you know me as a dissolute dog, who has never done any good, and never will.”",
+        "en": "At any rate, you know me as a ruined man who has never done any good, and never will.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 44,
+        "tag": "P021",
+        "raw": "“I don’t know that you ‘never will.’”",
+        "en": "\"I don't know that you 'never will.'\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 45,
+        "tag": "P022_1",
+        "raw": "“But I do, and you must take my word for it.",
+        "en": "\"But I do, and you must take my word for it.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 46,
+        "tag": "P022_2",
+        "raw": "Well!",
+        "en": "Well!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 47,
+        "tag": "P022_3",
+        "raw": "If you could endure to have such a worthless fellow, and a fellow of such indifferent reputation, coming and going at odd times, I should ask that I might be permitted to come and go as a privileged person here; that I might be regarded as an useless (and I would add, if it were not for the resemblance I detected between you and me, an unornamental) piece of furniture, tolerated for its old service, and taken no notice of.",
+        "en": "If you can stand having such a worthless guy with a questionable reputation dropping by at random times, I'd like to ask for permission to come and go freely as a privileged guest here. I'd like to be treated like a useless piece of furniture (and I'd say an ugly one, if it weren't for the resemblance I noticed between you and me) that you just keep around out of habit and otherwise completely ignore.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 48,
+        "tag": "P022_4",
+        "raw": "I doubt if I should abuse the permission.",
+        "en": "I would be like a useless piece of furniture, tolerated for past services and ignored.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 49,
+        "tag": "P022_5",
+        "raw": "It is a hundred to one if I should avail myself of it four times in a year.",
+        "en": "I doubt I would abuse the privilege; I probably wouldn't visit more than four times a year.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 50,
+        "tag": "P022_6",
+        "raw": "It would satisfy me, I dare say, to know that I had it.”",
+        "en": "It would simply comfort me to know I had the permission.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 51,
+        "tag": "P023",
+        "raw": "“Will you try?”",
+        "en": "\"Will you try?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 52,
+        "tag": "P024_1",
+        "raw": "“That is another way of saying that I am placed on the footing I have indicated.",
+        "en": "\"That means I am accepted on those terms.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 53,
+        "tag": "P024_2",
+        "raw": "I thank you, Darnay.",
+        "en": "Thank you, Darnay.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 54,
+        "tag": "P024_3",
+        "raw": "I may use that freedom with your name?”",
+        "en": "May I use your first name?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 55,
+        "tag": "P025",
+        "raw": "“I think so, Carton, by this time.”",
+        "en": "\"I think so, Carton, by this time.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 56,
+        "tag": "P026_1",
+        "raw": "They shook hands upon it, and Sydney turned away.",
+        "en": "They shook hands, and Sydney turned away.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 57,
+        "tag": "P026_2",
+        "raw": "Within a minute afterwards, he was, to all outward appearance, as unsubstantial as ever.",
+        "en": "Within a minute, he returned to his usual careless manner.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 58,
+        "tag": "P027_1",
+        "raw": "When he was gone, and in the course of an evening passed with Miss Pross, the Doctor, and Mr.",
+        "en": "When he was gone, during an evening spent with Miss Pross, the Doctor, and Mr.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 59,
+        "tag": "P027_2",
+        "raw": "Lorry, Charles Darnay made some mention of this conversation in general terms, and spoke of Sydney Carton as a problem of carelessness and recklessness.",
+        "en": "Lorry, Charles Darnay mentioned this talk. He described Sydney Carton as a puzzle of carelessness and irresponsibility.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 60,
+        "tag": "P027_3",
+        "raw": "He spoke of him, in short, not bitterly or meaning to bear hard upon him, but as anybody might who saw him as he showed himself.",
+        "en": "He did not speak bitterly, but simply as anyone would who saw Carton as he presented himself.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 61,
+        "tag": "P028",
+        "raw": "He had no idea that this could dwell in the thoughts of his fair young wife; but, when he afterwards joined her in their own rooms, he found her waiting for him with the old pretty lifting of the forehead strongly marked.",
+        "en": "He had no idea that his young wife was thinking deeply about this. But when he joined her in their room later, he found her waiting for him with a serious look on her face.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 62,
+        "tag": "P029",
+        "raw": "“We are thoughtful to-night!” said Darnay, drawing his arm about her.",
+        "en": "\"You look thoughtful tonight!\" Darnay said, putting his arm around her.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 63,
+        "tag": "P030",
+        "raw": "“Yes, dearest Charles,” with her hands on his breast, and the inquiring and attentive expression fixed upon him; “we are rather thoughtful to-night, for we have something on our mind to-night.”",
+        "en": "\"Yes, dearest Charles,\" she said, placing her hands on his chest and looking at him closely. \"I am rather thoughtful tonight, because I have something on my mind.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 64,
+        "tag": "P031",
+        "raw": "“What is it, my Lucie?”",
+        "en": "\"What is it, my Lucie?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 65,
+        "tag": "P032",
+        "raw": "“Will you promise not to press one question on me, if I beg you not to ask it?”",
+        "en": "\"Will you promise not to ask me why, if I beg you not to ask?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 66,
+        "tag": "P033_1",
+        "raw": "“Will I promise?",
+        "en": "\"Will I promise?",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 67,
+        "tag": "P033_2",
+        "raw": "What will I not promise to my Love?”",
+        "en": "What wouldn't I promise to my love?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 68,
+        "tag": "P034",
+        "raw": "What, indeed, with his hand putting aside the golden hair from the cheek, and his other hand against the heart that beat for him!",
+        "en": "He pushed her golden hair back from her cheek, holding her close.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 69,
+        "tag": "P035_1",
+        "raw": "“I think, Charles, poor Mr.",
+        "en": "\"I think, Charles, that poor Mr.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 70,
+        "tag": "P035_2",
+        "raw": "Carton deserves more consideration and respect than you expressed for him to-night.”",
+        "en": "Carton deserves more respect and consideration than you showed for him tonight.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 71,
+        "tag": "P036_1",
+        "raw": "“Indeed, my own?",
+        "en": "\"Really, my love?",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 72,
+        "tag": "P036_2",
+        "raw": "Why so?”",
+        "en": "Why so?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 73,
+        "tag": "P037_1",
+        "raw": "“That is what you are not to ask me.",
+        "en": "\"That is what you must not ask me.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 74,
+        "tag": "P037_2",
+        "raw": "But I think--I know--he does.”",
+        "en": "But I think, I know, he does.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 75,
+        "tag": "P038_1",
+        "raw": "“If you know it, it is enough.",
+        "en": "\"If you know it, that is enough.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 76,
+        "tag": "P038_2",
+        "raw": "What would you have me do, my Life?”",
+        "en": "What do you want me to do, my life?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 77,
+        "tag": "P039_1",
+        "raw": "“I would ask you, dearest, to be very generous with him always, and very lenient on his faults when he is not by.",
+        "en": "\"I ask you, dearest, to always be very generous with him, and very lenient about his faults when he is not here.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 78,
+        "tag": "P039_2",
+        "raw": "I would ask you to believe that he has a heart he very, very seldom reveals, and that there are deep wounds in it.",
+        "en": "I want you to believe that he has a heart he rarely reveals, and that there are deep wounds in it.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 79,
+        "tag": "P039_3",
+        "raw": "My dear, I have seen it bleeding.”",
+        "en": "Dearest, I have seen his heart bleeding.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 80,
+        "tag": "P040_1",
+        "raw": "“It is a painful reflection to me,” said Charles Darnay, quite astounded, “that I should have done him any wrong.",
+        "en": "Charles Darnay said in surprise, \"It makes me sad to think I have wronged him.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 81,
+        "tag": "P040_2",
+        "raw": "I never thought this of him.”",
+        "en": "I never thought this of him.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 82,
+        "tag": "P041_1",
+        "raw": "“My husband, it is so.",
+        "en": "\"My husband, it is true.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 83,
+        "tag": "P041_2",
+        "raw": "I fear he is not to be reclaimed; there is scarcely a hope that anything in his character or fortunes is reparable now.",
+        "en": "I fear he cannot be reformed; there is little hope for his character or future.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 84,
+        "tag": "P041_3",
+        "raw": "But, I am sure that he is capable of good things, gentle things, even magnanimous things.”",
+        "en": "But I am sure he is capable of good, gentle, and noble things.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 85,
+        "tag": "P042",
+        "raw": "She looked so beautiful in the purity of her faith in this lost man, that her husband could have looked at her as she was for hours.",
+        "en": "She looked so beautiful in her faith in this lost man that her husband could have stared at her for hours.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 86,
+        "tag": "P043",
+        "raw": "“And, O my dearest Love!” she urged, clinging nearer to him, laying her head upon his breast, and raising her eyes to his, “remember how strong we are in our happiness, and how weak he is in his misery!”",
+        "en": "\"And, oh my dearest love!\" she urged, clinging closer to him and looking into his eyes. \"Remember how happy and strong we are, and how weak he is in his misery!\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 87,
+        "tag": "P044_1",
+        "raw": "The supplication touched him home. “I will always remember it, dear Heart!",
+        "en": "Her plea touched his heart. \"I will always remember it, my love!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 88,
+        "tag": "P044_2",
+        "raw": "I will remember it as long as I live.”",
+        "en": "I will remember it as long as I live.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 89,
+        "tag": "P045_1",
+        "raw": "He bent over the golden head, and put the rosy lips to his, and folded her in his arms.",
+        "en": "He bent over her, kissing her lips and holding her in his arms.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 90,
+        "tag": "P045_2",
+        "raw": "If one forlorn wanderer then pacing the dark streets, could have heard her innocent disclosure, and could have seen the drops of pity kissed away by her husband from the soft blue eyes so loving of that husband, he might have cried to the night--and the words would not have parted from his lips for the first time--",
+        "en": "If the lonely wanderer walking the dark streets outside could have heard her words and seen her husband kiss away her tears of pity, he might have cried out to the night:",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 91,
+        "tag": "P046",
+        "raw": "“God bless her for her sweet compassion!”",
+        "en": "\"God bless her for her sweet compassion!\"",
+        "ko": "",
+        "is_header": false
+    }
+]

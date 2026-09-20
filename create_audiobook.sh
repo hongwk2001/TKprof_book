@@ -61,8 +61,9 @@ echo "Please select a book to generate audio for:"
 echo "1) The Enchanted April (English)"
 echo "2) The Enchanted April (Korean)"
 echo "3) Scaramouche (English/Korean)"
-echo "4) Exit"
-read -rp "Enter choice [1-4]: " book_choice
+echo "4) Dracula (English / Korean - Qwen 3.5 GPU)"
+echo "5) Exit"
+read -rp "Enter choice [1-5]: " book_choice
 
 case $book_choice in
     1)
@@ -80,16 +81,25 @@ case $book_choice in
         
         if [ "$chap" = "all" ]; then
             echo "Generating all chapters for Scaramouche ($lang)..."
-            # Loop through available script files
             for f in books/scaramouche/chapters/ch_*_${lang}.json; do
                 if [ -f "$f" ]; then
-                    # Extract chapter number from ch_XX_lang.json
                     ch_num=$(basename "$f" | cut -d'_' -f2 | sed 's/^0*//')
                     python books/scaramouche/generate_audio.py "$lang" "$ch_num"
                 fi
             done
         else
             python books/scaramouche/generate_audio.py "$lang" "$chap"
+        fi
+        ;;
+    4)
+        echo "Dracula Audiobook Generation (Qwen 3.5 GPU Engine):"
+        read -rp "Enter language (en/ko/both): " lang
+        read -rp "Enter chapter number (1..27 or 'all'): " chap
+        
+        if [ "$chap" = "all" ]; then
+            python books/dracula/run_all_audio.py "$lang"
+        else
+            python books/dracula/generate_audio_qwen.py "$lang" "$chap"
         fi
         ;;
     *)

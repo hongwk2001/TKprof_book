@@ -1,0 +1,802 @@
+[
+  {
+    "file": "book1_ch_06.json",
+    "id": 2,
+    "prev_context": "[Chapter 6] The Shoemaker",
+    "target_en": "\"Good day!\" said Monsieur Defarge, looking down at the white head that was bent low over his shoemaking.",
+    "next_context": "The head was raised for a moment, and a very faint voice responded to the greeting, sounding as if it came from far away:",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 149,
+    "prev_context": "\"No, no, no. You are too young, too full of life.",
+    "target_en": "It cannot be.",
+    "next_context": "Look at what a prisoner I am.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 150,
+    "prev_context": "It cannot be.",
+    "target_en": "Look at what a prisoner I am.",
+    "next_context": "These are not the hands she knew, this is not the face she knew, and this is not a voice she ever heard.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 151,
+    "prev_context": "Look at what a prisoner I am.",
+    "target_en": "These are not the hands she knew, this is not the face she knew, and this is not a voice she ever heard.",
+    "next_context": "No, no.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 152,
+    "prev_context": "These are not the hands she knew, this is not the face she knew, and this is not a voice she ever heard.",
+    "target_en": "No, no.",
+    "next_context": "She and I existed before the long, slow years in the North Tower, ages ago.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 153,
+    "prev_context": "No, no.",
+    "target_en": "She and I existed before the long, slow years in the North Tower, ages ago.",
+    "next_context": "What is your name, my gentle angel?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 154,
+    "prev_context": "She and I existed before the long, slow years in the North Tower, ages ago.",
+    "target_en": "What is your name, my gentle angel?\"",
+    "next_context": "Grateful for his softer tone and gentle manner, his daughter knelt in front of him, placing her pleading hands on his chest.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 155,
+    "prev_context": "What is your name, my gentle angel?\"",
+    "target_en": "Grateful for his softer tone and gentle manner, his daughter knelt in front of him, placing her pleading hands on his chest.",
+    "next_context": "\"Oh, sir, at another time you will know my name, and who my mother and father were, and why I never knew their sad history.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 156,
+    "prev_context": "Grateful for his softer tone and gentle manner, his daughter knelt in front of him, placing her pleading hands on his chest.",
+    "target_en": "\"Oh, sir, at another time you will know my name, and who my mother and father were, and why I never knew their sad history.",
+    "next_context": "But I cannot tell you now, and I cannot tell you here.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 157,
+    "prev_context": "\"Oh, sir, at another time you will know my name, and who my mother and father were, and why I never knew their sad history.",
+    "target_en": "But I cannot tell you now, and I cannot tell you here.",
+    "next_context": "All I can tell you right here and now is that I beg you to touch me and bless me.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 158,
+    "prev_context": "But I cannot tell you now, and I cannot tell you here.",
+    "target_en": "All I can tell you right here and now is that I beg you to touch me and bless me.",
+    "next_context": "Kiss me, kiss me!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 159,
+    "prev_context": "All I can tell you right here and now is that I beg you to touch me and bless me.",
+    "target_en": "Kiss me, kiss me!",
+    "next_context": "Oh, my dear, my dear father!\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 160,
+    "prev_context": "Kiss me, kiss me!",
+    "target_en": "Oh, my dear, my dear father!\"",
+    "next_context": "His cold white head rested against her bright, golden hair, which seemed to warm and light it up as if the light of freedom itself were shining on him.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 161,
+    "prev_context": "Oh, my dear, my dear father!\"",
+    "target_en": "His cold white head rested against her bright, golden hair, which seemed to warm and light it up as if the light of freedom itself were shining on him.",
+    "next_context": "\"If you hear in my voice, I do not know if it is true, but I hope it is, any sound that reminds you of a voice that was once sweet music to your ears, cry for it, cry for it!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 162,
+    "prev_context": "His cold white head rested against her bright, golden hair, which seemed to warm and light it up as if the light of freedom itself were shining on him.",
+    "target_en": "\"If you hear in my voice, I do not know if it is true, but I hope it is, any sound that reminds you of a voice that was once sweet music to your ears, cry for it, cry for it!",
+    "next_context": "If, in touching my hair, you feel anything that reminds you of a beloved head that lay on your chest when you were young and free, cry for it, cry for it!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 163,
+    "prev_context": "\"If you hear in my voice, I do not know if it is true, but I hope it is, any sound that reminds you of a voice that was once sweet music to your ears, cry for it, cry for it!",
+    "target_en": "If, in touching my hair, you feel anything that reminds you of a beloved head that lay on your chest when you were young and free, cry for it, cry for it!",
+    "next_context": "If, when I talk about the home waiting for us, where I will care for you with all my duty and faithful love, I bring back the memory of a home that was empty for so long while your poor heart suffered, cry for it, cry for it!\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 164,
+    "prev_context": "If, in touching my hair, you feel anything that reminds you of a beloved head that lay on your chest when you were young and free, cry for it, cry for it!",
+    "target_en": "If, when I talk about the home waiting for us, where I will care for you with all my duty and faithful love, I bring back the memory of a home that was empty for so long while your poor heart suffered, cry for it, cry for it!\"",
+    "next_context": "She held him tighter around the neck, rocking him against her chest like a child.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 165,
+    "prev_context": "If, when I talk about the home waiting for us, where I will care for you with all my duty and faithful love, I bring back the memory of a home that was empty for so long while your poor heart suffered, cry for it, cry for it!\"",
+    "target_en": "She held him tighter around the neck, rocking him against her chest like a child.",
+    "next_context": "\"If, when I tell you, my dearest, that your suffering is over, and that I have come to take you away from this place to England where we can live in peace and rest, I make you think of your wasted life and how cruel our native France has been to you, cry for it, cry for it!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 166,
+    "prev_context": "She held him tighter around the neck, rocking him against her chest like a child.",
+    "target_en": "\"If, when I tell you, my dearest, that your suffering is over, and that I have come to take you away from this place to England where we can live in peace and rest, I make you think of your wasted life and how cruel our native France has been to you, cry for it, cry for it!",
+    "next_context": "And if, when I tell you my name and about my father who is alive and my mother who is dead, you learn that I must kneel to my honored father and beg his forgiveness for never working all day, staying awake, and crying all night for his sake, because my mother's love kept his suffering a secret from me, cry for it, cry for it!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 167,
+    "prev_context": "\"If, when I tell you, my dearest, that your suffering is over, and that I have come to take you away from this place to England where we can live in peace and rest, I make you think of your wasted life and how cruel our native France has been to you, cry for it, cry for it!",
+    "target_en": "And if, when I tell you my name and about my father who is alive and my mother who is dead, you learn that I must kneel to my honored father and beg his forgiveness for never working all day, staying awake, and crying all night for his sake, because my mother's love kept his suffering a secret from me, cry for it, cry for it!",
+    "next_context": "Cry for her, then, and for me!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 168,
+    "prev_context": "And if, when I tell you my name and about my father who is alive and my mother who is dead, you learn that I must kneel to my honored father and beg his forgiveness for never working all day, staying awake, and crying all night for his sake, because my mother's love kept his suffering a secret from me, cry for it, cry for it!",
+    "target_en": "Cry for her, then, and for me!",
+    "next_context": "Gentlemen, thank God!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 169,
+    "prev_context": "Cry for her, then, and for me!",
+    "target_en": "Gentlemen, thank God!",
+    "next_context": "I feel his tears on my face, and his sobs touch my heart.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 170,
+    "prev_context": "Gentlemen, thank God!",
+    "target_en": "I feel his tears on my face, and his sobs touch my heart.",
+    "next_context": "Oh, look!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 171,
+    "prev_context": "I feel his tears on my face, and his sobs touch my heart.",
+    "target_en": "Oh, look!",
+    "next_context": "Thank God for us, thank God!\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 172,
+    "prev_context": "Oh, look!",
+    "target_en": "Thank God for us, thank God!\"",
+    "next_context": "He sank into her arms, and his face fell against her chest. It was a sight so touching, yet so terrible because of the great pain and injustice that had caused it, that the two men watching covered their faces.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 173,
+    "prev_context": "Thank God for us, thank God!\"",
+    "target_en": "He sank into her arms, and his face fell against her chest. It was a sight so touching, yet so terrible because of the great pain and injustice that had caused it, that the two men watching covered their faces.",
+    "next_context": "The attic room had been quiet for a long time. His heavy breathing slowed. His trembling body finally calmed down. As always, the storm had ended in quiet peace. The two men came forward to help the father and daughter up.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 174,
+    "prev_context": "He sank into her arms, and his face fell against her chest. It was a sight so touching, yet so terrible because of the great pain and injustice that had caused it, that the two men watching covered their faces.",
+    "target_en": "The attic room had been quiet for a long time. His heavy breathing slowed. His trembling body finally calmed down. As always, the storm had ended in quiet peace. The two men came forward to help the father and daughter up.",
+    "next_context": "He had slowly slipped to the floor and lay there in a deep, exhausted sleep.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 175,
+    "prev_context": "The attic room had been quiet for a long time. His heavy breathing slowed. His trembling body finally calmed down. As always, the storm had ended in quiet peace. The two men came forward to help the father and daughter up.",
+    "target_en": "He had slowly slipped to the floor and lay there in a deep, exhausted sleep.",
+    "next_context": "She had huddled down with him so that his head rested on her arm, and her long hair fell over him like a curtain to block out the light.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 176,
+    "prev_context": "He had slowly slipped to the floor and lay there in a deep, exhausted sleep.",
+    "target_en": "She had huddled down with him so that his head rested on her arm, and her long hair fell over him like a curtain to block out the light.",
+    "next_context": "\"If we can do it without waking him,\" she whispered, raising her hand to Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 177,
+    "prev_context": "She had huddled down with him so that his head rested on her arm, and her long hair fell over him like a curtain to block out the light.",
+    "target_en": "\"If we can do it without waking him,\" she whispered, raising her hand to Mr.",
+    "next_context": "Lorry as he stood over them, blowing his nose repeatedly, \"could we arrange to leave Paris immediately? That way, we can take him directly from this door to the carriage.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 178,
+    "prev_context": "\"If we can do it without waking him,\" she whispered, raising her hand to Mr.",
+    "target_en": "Lorry as he stood over them, blowing his nose repeatedly, \"could we arrange to leave Paris immediately? That way, we can take him directly from this door to the carriage.\"",
+    "next_context": "\"But think about it.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 179,
+    "prev_context": "Lorry as he stood over them, blowing his nose repeatedly, \"could we arrange to leave Paris immediately? That way, we can take him directly from this door to the carriage.\"",
+    "target_en": "\"But think about it.",
+    "next_context": "Is he strong enough to travel?\" asked Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 180,
+    "prev_context": "\"But think about it.",
+    "target_en": "Is he strong enough to travel?\" asked Mr.",
+    "next_context": "Lorry.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 181,
+    "prev_context": "Is he strong enough to travel?\" asked Mr.",
+    "target_en": "Lorry.",
+    "next_context": "\"He is much readier for that, I think, than to stay in this city that has been so terrible to him.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 182,
+    "prev_context": "Lorry.",
+    "target_en": "\"He is much readier for that, I think, than to stay in this city that has been so terrible to him.\"",
+    "next_context": "\"That is true,\" said Defarge, who had knelt down to watch and listen. \"In fact, Monsieur Manette is much better off leaving France entirely.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 183,
+    "prev_context": "\"He is much readier for that, I think, than to stay in this city that has been so terrible to him.\"",
+    "target_en": "\"That is true,\" said Defarge, who had knelt down to watch and listen. \"In fact, Monsieur Manette is much better off leaving France entirely.",
+    "next_context": "Should I go hire a carriage and fresh horses?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 184,
+    "prev_context": "\"That is true,\" said Defarge, who had knelt down to watch and listen. \"In fact, Monsieur Manette is much better off leaving France entirely.",
+    "target_en": "Should I go hire a carriage and fresh horses?\"",
+    "next_context": "\"That is a matter of business,\" said Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 185,
+    "prev_context": "Should I go hire a carriage and fresh horses?\"",
+    "target_en": "\"That is a matter of business,\" said Mr.",
+    "next_context": "Lorry, quickly returning to his organized, professional way of speaking. \"And if business needs to be done, I had better take care of it.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 186,
+    "prev_context": "\"That is a matter of business,\" said Mr.",
+    "target_en": "Lorry, quickly returning to his organized, professional way of speaking. \"And if business needs to be done, I had better take care of it.\"",
+    "next_context": "Miss Manette urged, \"Then please, leave us here for now.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 187,
+    "prev_context": "Lorry, quickly returning to his organized, professional way of speaking. \"And if business needs to be done, I had better take care of it.\"",
+    "target_en": "Miss Manette urged, \"Then please, leave us here for now.",
+    "next_context": "You see how calm he is, and you don't need to worry about leaving him with me.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 188,
+    "prev_context": "Miss Manette urged, \"Then please, leave us here for now.",
+    "target_en": "You see how calm he is, and you don't need to worry about leaving him with me.",
+    "next_context": "Why would you be?",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 189,
+    "prev_context": "You see how calm he is, and you don't need to worry about leaving him with me.",
+    "target_en": "Why would you be?",
+    "next_context": "If you lock the door to make sure no one interrupts us, I am sure you will find him just as quiet when you return.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 190,
+    "prev_context": "Why would you be?",
+    "target_en": "If you lock the door to make sure no one interrupts us, I am sure you will find him just as quiet when you return.",
+    "next_context": "I will watch over him until you get back, and then we can move him immediately.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 191,
+    "prev_context": "If you lock the door to make sure no one interrupts us, I am sure you will find him just as quiet when you return.",
+    "target_en": "I will watch over him until you get back, and then we can move him immediately.\"",
+    "next_context": "Both Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 192,
+    "prev_context": "I will watch over him until you get back, and then we can move him immediately.\"",
+    "target_en": "Both Mr.",
+    "next_context": "Lorry and Defarge were reluctant to do this and preferred to have one of them stay behind.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 193,
+    "prev_context": "Both Mr.",
+    "target_en": "Lorry and Defarge were reluctant to do this and preferred to have one of them stay behind.",
+    "next_context": "They had to arrange for the carriage, horses, and travel papers. Time was running out as the day ended. So they split up the tasks and hurried off to complete them.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 194,
+    "prev_context": "Lorry and Defarge were reluctant to do this and preferred to have one of them stay behind.",
+    "target_en": "They had to arrange for the carriage, horses, and travel papers. Time was running out as the day ended. So they split up the tasks and hurried off to complete them.",
+    "next_context": "Then, as darkness filled the room, the daughter laid her head on the hard floor right next to her father and watched him.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 195,
+    "prev_context": "They had to arrange for the carriage, horses, and travel papers. Time was running out as the day ended. So they split up the tasks and hurried off to complete them.",
+    "target_en": "Then, as darkness filled the room, the daughter laid her head on the hard floor right next to her father and watched him.",
+    "next_context": "The darkness grew deeper and deeper, and they both lay quietly until a light shone through the cracks in the wall.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 196,
+    "prev_context": "Then, as darkness filled the room, the daughter laid her head on the hard floor right next to her father and watched him.",
+    "target_en": "The darkness grew deeper and deeper, and they both lay quietly until a light shone through the cracks in the wall.",
+    "next_context": "Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 197,
+    "prev_context": "The darkness grew deeper and deeper, and they both lay quietly until a light shone through the cracks in the wall.",
+    "target_en": "Mr.",
+    "next_context": "Lorry and Monsieur Defarge had prepared everything for the trip. They brought traveling coats, blankets, bread, meat, wine, and hot coffee.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 198,
+    "prev_context": "Mr.",
+    "target_en": "Lorry and Monsieur Defarge had prepared everything for the trip. They brought traveling coats, blankets, bread, meat, wine, and hot coffee.",
+    "next_context": "Monsieur Defarge placed the food and the lamp he was carrying on the shoemaker's workbench, the only other thing in the room being a simple straw bed.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 199,
+    "prev_context": "Lorry and Monsieur Defarge had prepared everything for the trip. They brought traveling coats, blankets, bread, meat, wine, and hot coffee.",
+    "target_en": "Monsieur Defarge placed the food and the lamp he was carrying on the shoemaker's workbench, the only other thing in the room being a simple straw bed.",
+    "next_context": "Then he and Mr. Lorry woke the prisoner and helped him stand up.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 200,
+    "prev_context": "Monsieur Defarge placed the food and the lamp he was carrying on the shoemaker's workbench, the only other thing in the room being a simple straw bed.",
+    "target_en": "Then he and Mr. Lorry woke the prisoner and helped him stand up.",
+    "next_context": "No one could have understood what was going on in his mind by looking at the scared, blank look on his face.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 201,
+    "prev_context": "Then he and Mr. Lorry woke the prisoner and helped him stand up.",
+    "target_en": "No one could have understood what was going on in his mind by looking at the scared, blank look on his face.",
+    "next_context": "Whether he understood what had happened, remembered what they had said, or even knew he was free were questions that no one could answer.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 202,
+    "prev_context": "No one could have understood what was going on in his mind by looking at the scared, blank look on his face.",
+    "target_en": "Whether he understood what had happened, remembered what they had said, or even knew he was free were questions that no one could answer.",
+    "next_context": "They tried talking to him, but he was so confused and slow to respond that they became worried by his state and decided to leave him alone for the time being.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 203,
+    "prev_context": "Whether he understood what had happened, remembered what they had said, or even knew he was free were questions that no one could answer.",
+    "target_en": "They tried talking to him, but he was so confused and slow to respond that they became worried by his state and decided to leave him alone for the time being.",
+    "next_context": "He had a wild, lost way of holding his head in his hands sometimes, which they had not seen before. Yet, he seemed to find some comfort in the sound of his daughter's voice, and always turned toward her whenever she spoke.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 204,
+    "prev_context": "They tried talking to him, but he was so confused and slow to respond that they became worried by his state and decided to leave him alone for the time being.",
+    "target_en": "He had a wild, lost way of holding his head in his hands sometimes, which they had not seen before. Yet, he seemed to find some comfort in the sound of his daughter's voice, and always turned toward her whenever she spoke.",
+    "next_context": "With the obedient attitude of someone long forced to follow orders, he ate and drank whatever they offered, and put on the coat and blankets they gave him.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 205,
+    "prev_context": "He had a wild, lost way of holding his head in his hands sometimes, which they had not seen before. Yet, he seemed to find some comfort in the sound of his daughter's voice, and always turned toward her whenever she spoke.",
+    "target_en": "With the obedient attitude of someone long forced to follow orders, he ate and drank whatever they offered, and put on the coat and blankets they gave him.",
+    "next_context": "He willingly let his daughter put her arm through his, and took, and held, her hand in both of his.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 206,
+    "prev_context": "With the obedient attitude of someone long forced to follow orders, he ate and drank whatever they offered, and put on the coat and blankets they gave him.",
+    "target_en": "He willingly let his daughter put her arm through his, and took, and held, her hand in both of his.",
+    "next_context": "They began to walk down the stairs, with Monsieur Defarge leading the way with the lamp and Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 207,
+    "prev_context": "He willingly let his daughter put her arm through his, and took, and held, her hand in both of his.",
+    "target_en": "They began to walk down the stairs, with Monsieur Defarge leading the way with the lamp and Mr.",
+    "next_context": "Lorry walking at the end.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 208,
+    "prev_context": "They began to walk down the stairs, with Monsieur Defarge leading the way with the lamp and Mr.",
+    "target_en": "Lorry walking at the end.",
+    "next_context": "They had only gone down a few steps of the long main staircase when the doctor stopped, staring up at the ceiling and around at the walls.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 209,
+    "prev_context": "Lorry walking at the end.",
+    "target_en": "They had only gone down a few steps of the long main staircase when the doctor stopped, staring up at the ceiling and around at the walls.",
+    "next_context": "\"Do you remember this place, father?",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 210,
+    "prev_context": "They had only gone down a few steps of the long main staircase when the doctor stopped, staring up at the ceiling and around at the walls.",
+    "target_en": "\"Do you remember this place, father?",
+    "next_context": "Do you remember coming up here?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 211,
+    "prev_context": "\"Do you remember this place, father?",
+    "target_en": "Do you remember coming up here?\"",
+    "next_context": "\"What did you say?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 212,
+    "prev_context": "Do you remember coming up here?\"",
+    "target_en": "\"What did you say?\"",
+    "next_context": "But before she could repeat the question, he muttered an answer as if she had already done so.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 213,
+    "prev_context": "\"What did you say?\"",
+    "target_en": "But before she could repeat the question, he muttered an answer as if she had already done so.",
+    "next_context": "\"Remember?",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 214,
+    "prev_context": "But before she could repeat the question, he muttered an answer as if she had already done so.",
+    "target_en": "\"Remember?",
+    "next_context": "No, I don't remember.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 215,
+    "prev_context": "\"Remember?",
+    "target_en": "No, I don't remember.",
+    "next_context": "It was so very long ago.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 216,
+    "prev_context": "No, I don't remember.",
+    "target_en": "It was so very long ago.\"",
+    "next_context": "It was clear that he had no memory of being brought from the prison to this house.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 217,
+    "prev_context": "It was so very long ago.\"",
+    "target_en": "It was clear that he had no memory of being brought from the prison to this house.",
+    "next_context": "They heard him mutter, \"One Hundred and Five, North Tower.\" When he looked around, he was clearly looking for the thick fortress walls that had surrounded him for so long.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 218,
+    "prev_context": "It was clear that he had no memory of being brought from the prison to this house.",
+    "target_en": "They heard him mutter, \"One Hundred and Five, North Tower.\" When he looked around, he was clearly looking for the thick fortress walls that had surrounded him for so long.",
+    "next_context": "When they reached the courtyard, he automatically changed his step, expecting to cross a drawbridge. When there was no drawbridge and he saw the carriage waiting in the open street, he let go of his daughter's hand and held his head in his hands again.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 219,
+    "prev_context": "They heard him mutter, \"One Hundred and Five, North Tower.\" When he looked around, he was clearly looking for the thick fortress walls that had surrounded him for so long.",
+    "target_en": "When they reached the courtyard, he automatically changed his step, expecting to cross a drawbridge. When there was no drawbridge and he saw the carriage waiting in the open street, he let go of his daughter's hand and held his head in his hands again.",
+    "next_context": "There was no crowd outside the door. No one looked out from the many windows. Not even a single person walked down the street.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 220,
+    "prev_context": "When they reached the courtyard, he automatically changed his step, expecting to cross a drawbridge. When there was no drawbridge and he saw the carriage waiting in the open street, he let go of his daughter's hand and held his head in his hands again.",
+    "target_en": "There was no crowd outside the door. No one looked out from the many windows. Not even a single person walked down the street.",
+    "next_context": "An unnatural silence and emptiness filled the air.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 221,
+    "prev_context": "There was no crowd outside the door. No one looked out from the many windows. Not even a single person walked down the street.",
+    "target_en": "An unnatural silence and emptiness filled the air.",
+    "next_context": "Only one person was visible. That was Madame Defarge. She leaned against the doorframe, knitting, and appearing to see nothing.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 222,
+    "prev_context": "An unnatural silence and emptiness filled the air.",
+    "target_en": "Only one person was visible. That was Madame Defarge. She leaned against the doorframe, knitting, and appearing to see nothing.",
+    "next_context": "The prisoner climbed into the carriage and his daughter followed him. But just as Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 223,
+    "prev_context": "Only one person was visible. That was Madame Defarge. She leaned against the doorframe, knitting, and appearing to see nothing.",
+    "target_en": "The prisoner climbed into the carriage and his daughter followed him. But just as Mr.",
+    "next_context": "Lorry was stepping in, he stopped on the step because the doctor began pleading sadly for his shoemaking tools and the unfinished shoes.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 224,
+    "prev_context": "The prisoner climbed into the carriage and his daughter followed him. But just as Mr.",
+    "target_en": "Lorry was stepping in, he stopped on the step because the doctor began pleading sadly for his shoemaking tools and the unfinished shoes.",
+    "next_context": "Madame Defarge immediately called out to her husband that she would get them, and walked out of the lamplight, knitting, across the courtyard.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 225,
+    "prev_context": "Lorry was stepping in, he stopped on the step because the doctor began pleading sadly for his shoemaking tools and the unfinished shoes.",
+    "target_en": "Madame Defarge immediately called out to her husband that she would get them, and walked out of the lamplight, knitting, across the courtyard.",
+    "next_context": "She returned quickly and handed the tools into the carriage. Then she went straight back to the doorframe, leaned against it, and went on knitting, appearing to see nothing.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 226,
+    "prev_context": "Madame Defarge immediately called out to her husband that she would get them, and walked out of the lamplight, knitting, across the courtyard.",
+    "target_en": "She returned quickly and handed the tools into the carriage. Then she went straight back to the doorframe, leaned against it, and went on knitting, appearing to see nothing.",
+    "next_context": "Defarge climbed onto the driver's seat and shouted, \"To the city gate!\" The driver cracked his whip, and the carriage clattered away under the dim, hanging streetlamps.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 227,
+    "prev_context": "She returned quickly and handed the tools into the carriage. Then she went straight back to the doorframe, leaned against it, and went on knitting, appearing to see nothing.",
+    "target_en": "Defarge climbed onto the driver's seat and shouted, \"To the city gate!\" The driver cracked his whip, and the carriage clattered away under the dim, hanging streetlamps.",
+    "next_context": "They rode under the hanging streetlamps. The lamps swung brighter in the wealthier streets and dimmer in the poorer ones. They passed lit-up shops, happy crowds, bright cafes, and theater entrances on their way to one of the city gates.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 228,
+    "prev_context": "Defarge climbed onto the driver's seat and shouted, \"To the city gate!\" The driver cracked his whip, and the carriage clattered away under the dim, hanging streetlamps.",
+    "target_en": "They rode under the hanging streetlamps. The lamps swung brighter in the wealthier streets and dimmer in the poorer ones. They passed lit-up shops, happy crowds, bright cafes, and theater entrances on their way to one of the city gates.",
+    "next_context": "Soldiers with lanterns stood at the guardhouse there. \"Your papers, travelers!\" one called out. \"Look here, officer,\" said Defarge, getting down and pulling him aside. \"These are the papers of the gentleman inside with the white hair.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 229,
+    "prev_context": "They rode under the hanging streetlamps. The lamps swung brighter in the wealthier streets and dimmer in the poorer ones. They passed lit-up shops, happy crowds, bright cafes, and theater entrances on their way to one of the city gates.",
+    "target_en": "Soldiers with lanterns stood at the guardhouse there. \"Your papers, travelers!\" one called out. \"Look here, officer,\" said Defarge, getting down and pulling him aside. \"These are the papers of the gentleman inside with the white hair.",
+    "next_context": "He was placed in my care at the, \" He lowered his voice, and there was a stir among the soldiers' lanterns. A uniformed arm reached into the carriage with a light, and the eyes behind the arm stared with a look of deep surprise and curiosity at the white-haired man. \"Everything is in order.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 230,
+    "prev_context": "Soldiers with lanterns stood at the guardhouse there. \"Your papers, travelers!\" one called out. \"Look here, officer,\" said Defarge, getting down and pulling him aside. \"These are the papers of the gentleman inside with the white hair.",
+    "target_en": "He was placed in my care at the, \" He lowered his voice, and there was a stir among the soldiers' lanterns. A uniformed arm reached into the carriage with a light, and the eyes behind the arm stared with a look of deep surprise and curiosity at the white-haired man. \"Everything is in order.",
+    "next_context": "Move along!\" said the soldier. \"Goodbye!\" replied Defarge.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 231,
+    "prev_context": "He was placed in my care at the, \" He lowered his voice, and there was a stir among the soldiers' lanterns. A uniformed arm reached into the carriage with a light, and the eyes behind the arm stared with a look of deep surprise and curiosity at the white-haired man. \"Everything is in order.",
+    "target_en": "Move along!\" said the soldier. \"Goodbye!\" replied Defarge.",
+    "next_context": "And so, they drove under a few last, dim hanging lamps, and out under the vast sky of stars.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 232,
+    "prev_context": "Move along!\" said the soldier. \"Goodbye!\" replied Defarge.",
+    "target_en": "And so, they drove under a few last, dim hanging lamps, and out under the vast sky of stars.",
+    "next_context": "Above them stretched a canopy of quiet, eternal stars. Some are so far away that scientists say their light may not have even reached our small Earth yet, not enough to show a place where people suffer and live. Beneath that canopy, the shadows of the night were wide and dark.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 233,
+    "prev_context": "And so, they drove under a few last, dim hanging lamps, and out under the vast sky of stars.",
+    "target_en": "Above them stretched a canopy of quiet, eternal stars. Some are so far away that scientists say their light may not have even reached our small Earth yet, not enough to show a place where people suffer and live. Beneath that canopy, the shadows of the night were wide and dark.",
+    "next_context": "All through the cold, restless hours of the night until dawn, the same question whispered in the mind of Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 234,
+    "prev_context": "Above them stretched a canopy of quiet, eternal stars. Some are so far away that scientists say their light may not have even reached our small Earth yet, not enough to show a place where people suffer and live. Beneath that canopy, the shadows of the night were wide and dark.",
+    "target_en": "All through the cold, restless hours of the night until dawn, the same question whispered in the mind of Mr.",
+    "next_context": "Jarvis Lorry. He sat opposite the man who had been dug out of his living grave, wondering what parts of his mind were lost forever and what could still be healed:",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 235,
+    "prev_context": "All through the cold, restless hours of the night until dawn, the same question whispered in the mind of Mr.",
+    "target_en": "Jarvis Lorry. He sat opposite the man who had been dug out of his living grave, wondering what parts of his mind were lost forever and what could still be healed:",
+    "next_context": "\"I hope you care to be recalled to life?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 236,
+    "prev_context": "Jarvis Lorry. He sat opposite the man who had been dug out of his living grave, wondering what parts of his mind were lost forever and what could still be healed:",
+    "target_en": "\"I hope you care to be recalled to life?\"",
+    "next_context": "And the old answer:",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 237,
+    "prev_context": "\"I hope you care to be recalled to life?\"",
+    "target_en": "And the old answer:",
+    "next_context": "\"I can't say.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_06.json",
+    "id": 238,
+    "prev_context": "And the old answer:",
+    "target_en": "\"I can't say.\"",
+    "next_context": "The end of the first book.",
+    "status": "pending"
+  },
+  {
+    "file": "book2_ch_01.json",
+    "id": 3,
+    "prev_context": "[Chapter 1] Five Years Later",
+    "target_en": "Tellson\u2019s Bank near Temple Bar was an old-fashioned place, even in the year 1780.",
+    "next_context": "It was very small, very dark, very ugly, and very uncomfortable.",
+    "status": "pending"
+  },
+  {
+    "file": "book2_ch_01.json",
+    "id": 4,
+    "prev_context": "Tellson\u2019s Bank near Temple Bar was an old-fashioned place, even in the year 1780.",
+    "target_en": "It was very small, very dark, very ugly, and very uncomfortable.",
+    "next_context": "Moreover, it was old-fashioned in a very particular way. The bank owners were actually proud of its smallness, its darkness, its ugliness, and its total lack of comfort.",
+    "status": "pending"
+  },
+  {
+    "file": "book2_ch_01.json",
+    "id": 5,
+    "prev_context": "It was very small, very dark, very ugly, and very uncomfortable.",
+    "target_en": "Moreover, it was old-fashioned in a very particular way. The bank owners were actually proud of its smallness, its darkness, its ugliness, and its total lack of comfort.",
+    "next_context": "They even bragged about how extreme these qualities were, believing that if the bank were any cleaner or more convenient, it would somehow be less respectable.",
+    "status": "pending"
+  },
+  {
+    "file": "book2_ch_01.json",
+    "id": 6,
+    "prev_context": "Moreover, it was old-fashioned in a very particular way. The bank owners were actually proud of its smallness, its darkness, its ugliness, and its total lack of comfort.",
+    "target_en": "They even bragged about how extreme these qualities were, believing that if the bank were any cleaner or more convenient, it would somehow be less respectable.",
+    "next_context": "This was not just a quiet belief, but an active argument they used against more modern and convenient businesses.",
+    "status": "pending"
+  },
+  {
+    "file": "book2_ch_01.json",
+    "id": 7,
+    "prev_context": "They even bragged about how extreme these qualities were, believing that if the bank were any cleaner or more convenient, it would somehow be less respectable.",
+    "target_en": "This was not just a quiet belief, but an active argument they used against more modern and convenient businesses.",
+    "next_context": "They would say, \"Tellson's doesn\u2019t need extra space, Tellson's doesn\u2019t need bright light, Tellson's doesn\u2019t need fancy decorations.",
+    "status": "pending"
+  },
+  {
+    "file": "book2_ch_01.json",
+    "id": 8,
+    "prev_context": "This was not just a quiet belief, but an active argument they used against more modern and convenient businesses.",
+    "target_en": "They would say, \"Tellson's doesn\u2019t need extra space, Tellson's doesn\u2019t need bright light, Tellson's doesn\u2019t need fancy decorations.",
+    "next_context": "Other banks might need those things, but Tellson\u2019s, thank Heaven, does not!\"",
+    "status": "pending"
+  },
+  {
+    "file": "book2_ch_01.json",
+    "id": 9,
+    "prev_context": "They would say, \"Tellson's doesn\u2019t need extra space, Tellson's doesn\u2019t need bright light, Tellson's doesn\u2019t need fancy decorations.",
+    "target_en": "Other banks might need those things, but Tellson\u2019s, thank Heaven, does not!\"",
+    "next_context": "Any of these owners would have disowned his own son over the question of rebuilding or modernizing Tellson's Bank.",
+    "status": "pending"
+  },
+  {
+    "file": "book2_ch_01.json",
+    "id": 10,
+    "prev_context": "Other banks might need those things, but Tellson\u2019s, thank Heaven, does not!\"",
+    "target_en": "Any of these owners would have disowned his own son over the question of rebuilding or modernizing Tellson's Bank.",
+    "next_context": "In this regard, the bank was very much like the country itself. England often punished its citizens for suggesting improvements to old laws and customs. Those laws had long been deeply problematic. But they were kept simply because they were old.",
+    "status": "pending"
+  },
+  {
+    "file": "book2_ch_01.json",
+    "id": 11,
+    "prev_context": "Any of these owners would have disowned his own son over the question of rebuilding or modernizing Tellson's Bank.",
+    "target_en": "In this regard, the bank was very much like the country itself. England often punished its citizens for suggesting improvements to old laws and customs. Those laws had long been deeply problematic. But they were kept simply because they were old.",
+    "next_context": "Thus, Tellson\u2019s had become the ultimate example of inconvenience.",
+    "status": "pending"
+  }
+]

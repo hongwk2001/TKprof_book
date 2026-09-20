@@ -87,11 +87,68 @@ BOOK_PRESETS = {
         "categories": ["Fiction / Classics", "Fiction / Action & Adventure", "Fiction / Fantasy / Action & Adventure"],
         "keywords_ko": ["베오울프", "Beowulf", "고전소설", "신화", "액션판타지", "영웅서사시"],
         "keywords_en": ["beowulf", "classic literature", "action fantasy", "epic poetry"],
+    },
+    "scaramouche": {
+        "title_en": "Scaramouche: Spectacular Modern Edition",
+        "title_ko": "스카라무슈 (Scaramouche)",
+        "subtitle_en": "Modern English Edition",
+        "subtitle_ko": "프랑스 혁명과 가면 극단의 명작 서사시 (현대 한국어판)",
+        "author_en": "Rafael Sabatini",
+        "author_ko": "라파엘 사바티니",
+        "publisher": "TKPROF LLC",
+        "explicit_content": False,
+        "content_rating_text": "My book does NOT contain content inappropriate for minors. It is intended for a general audience.",
+        "categories": ["Fiction / Classics", "Fiction / Historical / General", "Fiction / Action & Adventure"],
+        "keywords_ko": ["스카라무슈", "Scaramouche", "라파엘사바티니", "프랑스혁명", "고전소설", "역사모험소설", "펜싱활극", "모험소설"],
+        "keywords_en": ["scaramouche", "rafael sabatini", "french revolution", "classic adventure", "swashbuckler", "fencing"],
+    },
+    "scaramouche_book1": {
+        "title_en": "Scaramouche Vol 1: The Robe",
+        "title_ko": "스카라무슈 1부: 법복 (Scaramouche)",
+        "subtitle_en": "Modern English Edition",
+        "subtitle_ko": "프랑스 혁명과 가면 극단의 명작 서사시 (현대 한국어판)",
+        "author_en": "Rafael Sabatini",
+        "author_ko": "라파엘 사바티니",
+        "publisher": "TKPROF LLC",
+        "explicit_content": False,
+        "content_rating_text": "My book does NOT contain content inappropriate for minors. It is intended for a general audience.",
+        "categories": ["Fiction / Classics", "Fiction / Historical / General", "Fiction / Action & Adventure"],
+        "keywords_ko": ["스카라무슈", "Scaramouche", "라파엘사바티니", "프랑스혁명", "고전소설", "역사모험소설", "1부", "법복"],
+        "keywords_en": ["scaramouche", "rafael sabatini", "french revolution", "classic adventure", "vol 1"],
+    },
+    "scaramouche_book2": {
+        "title_en": "Scaramouche Vol 2: The Buskin",
+        "title_ko": "스카라무슈 2부: 반장화 (Scaramouche)",
+        "subtitle_en": "Modern English Edition",
+        "subtitle_ko": "프랑스 혁명과 가면 극단의 명작 서사시 (현대 한국어판)",
+        "author_en": "Rafael Sabatini",
+        "author_ko": "라파엘 사바티니",
+        "publisher": "TKPROF LLC",
+        "explicit_content": False,
+        "content_rating_text": "My book does NOT contain content inappropriate for minors. It is intended for a general audience.",
+        "categories": ["Fiction / Classics", "Fiction / Historical / General", "Fiction / Action & Adventure"],
+        "keywords_ko": ["스카라무슈", "Scaramouche", "라파엘사바티니", "프랑스혁명", "고전소설", "역사모험소설", "2부", "반장화"],
+        "keywords_en": ["scaramouche", "rafael sabatini", "french revolution", "classic adventure", "vol 2"],
+    },
+    "scaramouche_book3": {
+        "title_en": "Scaramouche Vol 3: The Sword",
+        "title_ko": "스카라무슈 3부: 장검 (Scaramouche)",
+        "subtitle_en": "Modern English Edition",
+        "subtitle_ko": "프랑스 혁명과 가면 극단의 명작 서사시 (현대 한국어판)",
+        "author_en": "Rafael Sabatini",
+        "author_ko": "라파엘 사바티니",
+        "publisher": "TKPROF LLC",
+        "explicit_content": False,
+        "content_rating_text": "My book does NOT contain content inappropriate for minors. It is intended for a general audience.",
+        "categories": ["Fiction / Classics", "Fiction / Historical / General", "Fiction / Action & Adventure"],
+        "keywords_ko": ["스카라무슈", "Scaramouche", "라파엘사바티니", "프랑스혁명", "고전소설", "역사모험소설", "3부", "장검"],
+        "keywords_en": ["scaramouche", "rafael sabatini", "french revolution", "classic adventure", "vol 3"],
     }
 }
 
 def prepare_payload(book_name, lang="ko"):
-    book_path = os.path.join(BASE_DIR, book_name)
+    dir_name = book_name.split("_book")[0] if "_book" in book_name else book_name
+    book_path = os.path.join(BASE_DIR, dir_name)
     if not os.path.exists(book_path):
         print(f"Error: Book directory not found: {book_path}")
         return None
@@ -113,13 +170,14 @@ def prepare_payload(book_name, lang="ko"):
     # 2. Resolve Description
     description_text = ""
     desc_candidates = [
+        os.path.join(book_path, f"overview_{book_name.split('_')[-1]}_{lang}.txt") if "_book" in book_name else "",
         os.path.join(book_path, f"overview_{lang}.txt"),
         os.path.join(book_path, f"introduction_{lang}.txt"),
         os.path.join(book_path, f"copyright_{lang}.txt"),
         os.path.join(book_path, "metadata.md")
     ]
     for path in desc_candidates:
-        if os.path.exists(path):
+        if path and os.path.exists(path):
             with open(path, "r", encoding="utf-8") as f:
                 description_text = f.read().strip()
                 break
@@ -137,6 +195,7 @@ def prepare_payload(book_name, lang="ko"):
             break
 
     cover_candidates = [
+        os.path.join(book_path, f"cover_{book_name.replace('scaramouche_', '')}_{lang}.jpg") if "_book" in book_name else "",
         os.path.join(book_path, f"cover_{lang}.jpg"),
         os.path.join(book_path, f"cover_{lang}.png"),
         os.path.join(book_path, "cover.jpg"),
@@ -145,7 +204,7 @@ def prepare_payload(book_name, lang="ko"):
     ]
     cover_path = ""
     for c_path in cover_candidates:
-        if os.path.exists(c_path):
+        if c_path and os.path.exists(c_path):
             cover_path = c_path
             break
 

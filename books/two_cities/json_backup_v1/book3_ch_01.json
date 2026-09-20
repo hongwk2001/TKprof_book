@@ -1,0 +1,1634 @@
+[
+  {
+    "id": 1,
+    "tag": "P001",
+    "raw": "Book the Third--the Track of a Storm",
+    "en": "[Book 3] [the Track of a Storm]",
+    "ko": "",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P002",
+    "raw": "CHAPTER I. In Secret",
+    "en": "[Chapter 1] In Secret",
+    "ko": "",
+    "is_header": true
+  },
+  {
+    "id": 3,
+    "tag": "P003_1",
+    "raw": "The traveller fared slowly on his way, who fared towards Paris from England in the autumn of the year one thousand seven hundred and ninety-two.",
+    "en": "The traveler made slow progress as he journeyed from England toward Paris in the autumn of 1792.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P003_2",
+    "raw": "More than enough of bad roads, bad equipages, and bad horses, he would have encountered to delay him, though the fallen and unfortunate King of France had been upon his throne in all his glory; but, the changed times were fraught with other obstacles than these.",
+    "en": "Even if the fallen King of France were still on his throne, the bad roads, poor carriages, and weak horses would have delayed him. But the revolutionary times brought far worse obstacles.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P003_3",
+    "raw": "Every town-gate and village taxing-house had its band of citizen-patriots, with their national muskets in a most explosive state of readiness, who stopped all comers and goers, cross-questioned them, inspected their papers, looked for their names in lists of their own, turned them back, or sent them on, or stopped them and laid them in hold, as their capricious judgment or fancy deemed best for the dawning Republic One and Indivisible, of Liberty, Equality, Fraternity, or Death.",
+    "en": "Every town gate and village tollhouse was guarded by a band of citizen-patriots holding loaded muskets, ready to shoot at any moment. They stopped everyone. They cross-examined travelers, checked papers, and searched for names on custom lists. Then they turned people back, sent them forward, or arrested them outright. It all depended on whatever their random judgment decided was best for the new Republic of Liberty, Equality, Fraternity, or Death.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P004_1",
+    "raw": "A very few French leagues of his journey were accomplished, when Charles Darnay began to perceive that for him along these country roads there was no hope of return until he should have been declared a good citizen at Paris.",
+    "en": "After only a few miles in France, Charles Darnay realized that there was no turning back for him along these country roads until he was officially declared a good citizen in Paris.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P004_2",
+    "raw": "Whatever might befall now, he must on to his journey’s end.",
+    "en": "Whatever happened, he had to keep moving forward.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P004_3",
+    "raw": "Not a mean village closed upon him, not a common barrier dropped across the road behind him, but he knew it to be another iron door in the series that was barred between him and England.",
+    "en": "Every small village he passed through and every gate that closed behind him felt like another iron door locking him away from England.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P004_4",
+    "raw": "The universal watchfulness so encompassed him, that if he had been taken in a net, or were being forwarded to his destination in a cage, he could not have felt his freedom more completely gone.",
+    "en": "The constant surveillance surrounded him so completely that he felt as if he were being carried to his destination in a cage.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P005_1",
+    "raw": "This universal watchfulness not only stopped him on the highway twenty times in a stage, but retarded his progress twenty times in a day, by riding after him and taking him back, riding before him and stopping him by anticipation, riding with him and keeping him in charge.",
+    "en": "This constant watchfulness stopped him dozens of times during each leg of the trip. Soldiers would ride after him to bring him back, ride ahead to wait for him, or ride alongside him to keep him under guard.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P005_2",
+    "raw": "He had been days upon his journey in France alone, when he went to bed tired out, in a little town on the high road, still a long way from Paris.",
+    "en": "He had been traveling through France for days when he finally went to bed exhausted in a small town on the highway, still a long way from Paris.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P006_1",
+    "raw": "Nothing but the production of the afflicted Gabelle’s letter from his prison of the Abbaye would have got him on so far.",
+    "en": "Only showing Gabelle's letter from the Abbaye Prison had allowed him to get this far.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P006_2",
+    "raw": "His difficulty at the guard-house in this small place had been such, that he felt his journey to have come to a crisis.",
+    "en": "The trouble he faced at the guardhouse in this small town made him realize that his journey had reached a turning point.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P006_3",
+    "raw": "And he was, therefore, as little surprised as a man could be, to find himself awakened at the small inn to which he had been remitted until morning, in the middle of the night.",
+    "en": "Therefore, he was not surprised when he was awakened in the middle of the night at the small inn where he was being kept until morning.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P007",
+    "raw": "Awakened by a timid local functionary and three armed patriots in rough red caps and with pipes in their mouths, who sat down on the bed.",
+    "en": "He was woken up by a nervous local official and three armed patriots wearing rough red caps, who sat right on his bed with pipes in their mouths.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P008",
+    "raw": "“Emigrant,” said the functionary, “I am going to send you on to Paris, under an escort.”",
+    "en": "“Emigrant,” the official said, “I am sending you to Paris under guard.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P009",
+    "raw": "“Citizen, I desire nothing more than to get to Paris, though I could dispense with the escort.”",
+    "en": "“Citizen, I want nothing more than to get to Paris, though I could do without the guard.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P010",
+    "raw": "“Silence!” growled a red-cap, striking at the coverlet with the butt-end of his musket. “Peace, aristocrat!”",
+    "en": "“Silence!” growled one of the men in a red cap, hitting the bed cover with the butt of his gun. “Quiet, aristocrat!”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P011",
+    "raw": "“It is as the good patriot says,” observed the timid functionary. “You are an aristocrat, and must have an escort--and must pay for it.”",
+    "en": "“It is just as the patriot says,” the nervous official remarked. “You are an aristocrat, so you must have a guard, and you have to pay for it.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P012",
+    "raw": "“I have no choice,” said Charles Darnay.",
+    "en": "“I have no choice,” said Charles Darnay.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P013_1",
+    "raw": "“Choice!",
+    "en": "“Choice!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P013_2",
+    "raw": "Listen to him!” cried the same scowling red-cap. “As if it was not a favour to be protected from the lamp-iron!”",
+    "en": "Listen to him!” cried the scowling patriot. “As if it isn't a favor to be protected from being hanged from a street lamp!”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P014",
+    "raw": "“It is always as the good patriot says,” observed the functionary. “Rise and dress yourself, emigrant.”",
+    "en": "“It is always as the patriot says,” the official observed. “Get up and get dressed, emigrant.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P015_1",
+    "raw": "Darnay complied, and was taken back to the guard-house, where other patriots in rough red caps were smoking, drinking, and sleeping, by a watch-fire.",
+    "en": "Darnay did as he was told and was taken back to the guardhouse, where other patriots in red caps were smoking, drinking, and sleeping by a campfire.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P015_2",
+    "raw": "Here he paid a heavy price for his escort, and hence he started with it on the wet, wet roads at three o’clock in the morning.",
+    "en": "He paid a high price for his guard, and they set out together on the muddy, wet roads at three o'clock in the morning.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P016",
+    "raw": "The escort were two mounted patriots in red caps and tri-coloured cockades, armed with national muskets and sabres, who rode one on either side of him.",
+    "en": "His guard consisted of two mounted patriots wearing red caps and ribbons showing the revolutionary colors, armed with muskets and swords, riding on either side of him.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P017_1",
+    "raw": "The escorted governed his own horse, but a loose line was attached to his bridle, the end of which one of the patriots kept girded round his wrist.",
+    "en": "Darnay controlled his own horse, but a loose rope was tied to his bridle, with the other end wrapped around the wrist of one of the guards.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P017_2",
+    "raw": "In this state they set forth with the sharp rain driving in their faces: clattering at a heavy dragoon trot over the uneven town pavement, and out upon the mire-deep roads.",
+    "en": "In this manner, they set out in the pouring rain, trotting over the bumpy town pavement and out onto the muddy roads.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P017_3",
+    "raw": "In this state they traversed without change, except of horses and pace, all the mire-deep leagues that lay between them and the capital.",
+    "en": "They traveled this way all the miles to Paris, changing only their horses and their speed.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P018_1",
+    "raw": "They travelled in the night, halting an hour or two after daybreak, and lying by until the twilight fell.",
+    "en": "They traveled by night, stopping an hour or two after dawn and hiding out until twilight fell.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P018_2",
+    "raw": "The escort were so wretchedly clothed, that they twisted straw round their bare legs, and thatched their ragged shoulders to keep the wet off.",
+    "en": "The guards were so poorly dressed that they wrapped straw around their bare legs and placed bundles of straw on their shoulders to keep the rain off.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P018_3",
+    "raw": "Apart from the personal discomfort of being so attended, and apart from such considerations of present danger as arose from one of the patriots being chronically drunk, and carrying his musket very recklessly, Charles Darnay did not allow the restraint that was laid upon him to awaken any serious fears in his breast; for, he reasoned with himself that it could have no reference to the merits of an individual case that was not yet stated, and of representations, confirmable by the prisoner in the Abbaye, that were not yet made.",
+    "en": "Despite the discomfort of traveling this way, and the danger of one guard being constantly drunk and carrying his gun carelessly, Darnay did not let himself panic. He reasoned that his specific case had not been heard yet, and the facts, which Gabelle could confirm, had not yet been presented.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P019_1",
+    "raw": "But when they came to the town of Beauvais--which they did at eventide, when the streets were filled with people--he could not conceal from himself that the aspect of affairs was very alarming.",
+    "en": "But when they reached the town of Beauvais in the evening, when the streets were crowded with people, he had to admit that things looked very bad.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P019_2",
+    "raw": "An ominous crowd gathered to see him dismount of the posting-yard, and many voices called out loudly, “Down with the emigrant!”",
+    "en": "An angry crowd gathered to watch him get off his horse at the station, and many voices shouted, “Down with the emigrant!”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P020",
+    "raw": "He stopped in the act of swinging himself out of his saddle, and, resuming it as his safest place, said:",
+    "en": "He paused as he was about to get off his horse and, staying in the saddle as the safest place, said:",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P021_1",
+    "raw": "“Emigrant, my friends!",
+    "en": "“An emigrant, my friends?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P021_2",
+    "raw": "Do you not see me here, in France, of my own will?”",
+    "en": "Don't you see that I came back to France of my own free will?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P022",
+    "raw": "“You are a cursed emigrant,” cried a farrier, making at him in a furious manner through the press, hammer in hand; “and you are a cursed aristocrat!”",
+    "en": "“You are a cursed emigrant,” cried a blacksmith, pushing through the crowd toward him with a hammer in his hand, “and you are a cursed aristocrat!”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P023_1",
+    "raw": "The postmaster interposed himself between this man and the rider’s bridle (at which he was evidently making), and soothingly said, “Let him be; let him be!",
+    "en": "The postmaster stepped between the blacksmith and Darnay's horse, saying calmly, “Leave him alone, leave him alone!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P023_2",
+    "raw": "He will be judged at Paris.”",
+    "en": "He will be judged in Paris.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P024",
+    "raw": "“Judged!” repeated the farrier, swinging his hammer. “Ay! and condemned as a traitor.” At this the crowd roared approval.",
+    "en": "“Judged!” the blacksmith repeated, swinging his hammer. “Yes! And condemned as a traitor!” The crowd roared in agreement.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P025",
+    "raw": "Checking the postmaster, who was for turning his horse’s head to the yard (the drunken patriot sat composedly in his saddle looking on, with the line round his wrist), Darnay said, as soon as he could make his voice heard:",
+    "en": "The postmaster was trying to lead his horse into the yard. The drunken guard watched from his saddle, the rope still wrapped around his wrist. Darnay stepped in and stopped the postmaster. He spoke as loudly as he could:",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P026_1",
+    "raw": "“Friends, you deceive yourselves, or you are deceived.",
+    "en": "“Friends, you are mistaken.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P026_2",
+    "raw": "I am not a traitor.”",
+    "en": "I am not a traitor.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P027_1",
+    "raw": "“He lies!” cried the smith. “He is a traitor since the decree.",
+    "en": "“He lies!” cried the blacksmith. “He is a traitor under the new law.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P027_2",
+    "raw": "His life is forfeit to the people.",
+    "en": "His life belongs to the people.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P027_3",
+    "raw": "His cursed life is not his own!”",
+    "en": "His cursed life is not his own!”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P028_1",
+    "raw": "At the instant when Darnay saw a rush in the eyes of the crowd, which another instant would have brought upon him, the postmaster turned his horse into the yard, the escort rode in close upon his horse’s flanks, and the postmaster shut and barred the crazy double gates.",
+    "en": "Just as Darnay saw the crowd prepare to rush him, the postmaster pulled his horse into the yard, the guards followed close behind, and the postmaster shut and locked the creaky double gates.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P028_2",
+    "raw": "The farrier struck a blow upon them with his hammer, and the crowd groaned; but, no more was done.",
+    "en": "The blacksmith hit the gates with his hammer, and the crowd groaned in disappointment, but they did not try to break in.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P029",
+    "raw": "“What is this decree that the smith spoke of?” Darnay asked the postmaster, when he had thanked him, and stood beside him in the yard.",
+    "en": "“What is this new law the blacksmith mentioned?” Darnay asked the postmaster, after thanking him.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P030",
+    "raw": "“Truly, a decree for selling the property of emigrants.”",
+    "en": "“It is a law to sell the property of all exiles.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P031",
+    "raw": "“When passed?”",
+    "en": "“When was it passed?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P032",
+    "raw": "“On the fourteenth.”",
+    "en": "“On the fourteenth.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P033",
+    "raw": "“The day I left England!”",
+    "en": "“The very day I left England!”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P034_1",
+    "raw": "“Everybody says it is but one of several, and that there will be others--if there are not already--banishing all emigrants, and condemning all to death who return.",
+    "en": "“Everyone says it is just the first of many laws. They say there will be others, if they aren't passed already, banishing all emigrants, and sentencing anyone who returns to death.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P034_2",
+    "raw": "That is what he meant when he said your life was not your own.”",
+    "en": "That is why he said your life is not your own.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P035",
+    "raw": "“But there are no such decrees yet?”",
+    "en": "“But those laws haven't actually been passed yet, have they?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P036_1",
+    "raw": "“What do I know!” said the postmaster, shrugging his shoulders; “there may be, or there will be.",
+    "en": "“How should I know!” the postmaster said, shrugging. “Maybe they have, or maybe they will.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P036_2",
+    "raw": "It is all the same.",
+    "en": "It is all the same.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P036_3",
+    "raw": "What would you have?”",
+    "en": "What can you do?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P037_1",
+    "raw": "They rested on some straw in a loft until the middle of the night, and then rode forward again when all the town was asleep.",
+    "en": "They rested on some straw in a loft until the middle of the night, then rode on while the town was asleep.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P037_2",
+    "raw": "Among the many wild changes observable on familiar things which made this wild ride unreal, not the least was the seeming rarity of sleep.",
+    "en": "Among the strange changes that made this ride feel like a dream, the rarest thing seemed to be sleep.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P037_3",
+    "raw": "After long and lonely spurring over dreary roads, they would come to a cluster of poor cottages, not steeped in darkness, but all glittering with lights, and would find the people, in a ghostly manner in the dead of the night, circling hand in hand round a shrivelled tree of Liberty, or all drawn up together singing a Liberty song.",
+    "en": "After riding for miles over lonely, dark roads, they would come across small villages that were completely lit up. In the middle of the night, they would see groups of villagers holding hands and dancing around a dry \"Liberty Tree\" or gathering to sing revolutionary songs.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "tag": "P037_4",
+    "raw": "Happily, however, there was sleep in Beauvais that night to help them out of it and they passed on once more into solitude and loneliness: jingling through the untimely cold and wet, among impoverished fields that had yielded no fruits of the earth that year, diversified by the blackened remains of burnt houses, and by the sudden emergence from ambuscade, and sharp reining up across their way, of patriot patrols on the watch on all the roads.",
+    "en": "Fortunately, the people of Beauvais were sleeping, allowing them to pass through quietly into the cold, wet night. They rode past barren fields that had grown no food that year, ruined houses blackened by fire, and patrols of patriots who suddenly jumped out to stop them on the road.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P038_1",
+    "raw": "Daylight at last found them before the wall of Paris.",
+    "en": "At dawn, they finally arrived at the gates of Paris.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P038_2",
+    "raw": "The barrier was closed and strongly guarded when they rode up to it.",
+    "en": "The barrier was closed and heavily guarded when they approached.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P039",
+    "raw": "“Where are the papers of this prisoner?” demanded a resolute-looking man in authority, who was summoned out by the guard.",
+    "en": "“Where are this prisoner's papers?” demanded a stern official who came out of the guardhouse.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "tag": "P040",
+    "raw": "Naturally struck by the disagreeable word, Charles Darnay requested the speaker to take notice that he was a free traveller and French citizen, in charge of an escort which the disturbed state of the country had imposed upon him, and which he had paid for.",
+    "en": "The word \"prisoner\" hit Charles Darnay like a blow. He spoke up at once. He was a free traveler, he said, a French citizen. He had paid for the guard himself, because of the chaotic state of the country.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "tag": "P041",
+    "raw": "“Where,” repeated the same personage, without taking any heed of him whatever, “are the papers of this prisoner?”",
+    "en": "“Where,” the official repeated, completely ignoring him, “are this prisoner's papers?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "tag": "P042_1",
+    "raw": "The drunken patriot had them in his cap, and produced them.",
+    "en": "The drunken guard pulled the papers out of his cap and handed them over.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "tag": "P042_2",
+    "raw": "Casting his eyes over Gabelle’s letter, the same personage in authority showed some disorder and surprise, and looked at Darnay with a close attention.",
+    "en": "Reading Gabelle's letter, the official looked surprised and stared closely at Darnay.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "tag": "P043_1",
+    "raw": "He left escort and escorted without saying a word, however, and went into the guard-room; meanwhile, they sat upon their horses outside the gate.",
+    "en": "Without another word, the official went inside the guardroom, leaving them waiting on their horses outside the gate.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "tag": "P043_2",
+    "raw": "Looking about him while in this state of suspense, Charles Darnay observed that the gate was held by a mixed guard of soldiers and patriots, the latter far outnumbering the former; and that while ingress into the city for peasants’ carts bringing in supplies, and for similar traffic and traffickers, was easy enough, egress, even for the homeliest people, was very difficult.",
+    "en": "During this tense wait, Darnay noticed that the gate was guarded by a mix of soldiers and patriots, with the patriots far outnumbering the soldiers. He saw that while it was easy for carts and peasants to enter the city, it was very difficult for anyone to leave.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "tag": "P043_3",
+    "raw": "A numerous medley of men and women, not to mention beasts and vehicles of various sorts, was waiting to issue forth; but, the previous identification was so strict, that they filtered through the barrier very slowly.",
+    "en": "A large crowd of people, animals, and carriages waited to exit, but the security check was so strict that they could only trickle through.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "tag": "P043_4",
+    "raw": "Some of these people knew their turn for examination to be so far off, that they lay down on the ground to sleep or smoke, while others talked together, or loitered about.",
+    "en": "Some people knew they would have to wait so long that they lay down on the ground to sleep or smoke, while others chatted or walked around.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "tag": "P043_5",
+    "raw": "The red cap and tri-colour cockade were universal, both among men and women.",
+    "en": "Everyone, both men and women, wore red caps and revolutionary ribbons.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "tag": "P044_1",
+    "raw": "When he had sat in his saddle some half-hour, taking note of these things, Darnay found himself confronted by the same man in authority, who directed the guard to open the barrier.",
+    "en": "After Darnay had waited in his saddle for about half an hour, the official returned and ordered the guards to open the gate.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "tag": "P044_2",
+    "raw": "Then he delivered to the escort, drunk and sober, a receipt for the escorted, and requested him to dismount.",
+    "en": "He gave the two guards a receipt for Darnay and told Darnay to get off his horse.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "tag": "P044_3",
+    "raw": "He did so, and the two patriots, leading his tired horse, turned and rode away without entering the city.",
+    "en": "He did so, and the two guards took his tired horse, turned around, and rode back without entering Paris.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "tag": "P045_1",
+    "raw": "He accompanied his conductor into a guard-room, smelling of common wine and tobacco, where certain soldiers and patriots, asleep and awake, drunk and sober, and in various neutral states between sleeping and waking, drunkenness and sobriety, were standing and lying about.",
+    "en": "He followed his guide into a guardroom that smelled of cheap wine and tobacco, where soldiers and patriots in various states of sleep and drunkenness were lounging around.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "tag": "P045_2",
+    "raw": "The light in the guard-house, half derived from the waning oil-lamps of the night, and half from the overcast day, was in a correspondingly uncertain condition.",
+    "en": "The light in the room, coming partly from dying oil lamps and partly from the cloudy morning, was dim and gloomy.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "tag": "P045_3",
+    "raw": "Some registers were lying open on a desk, and an officer of a coarse, dark aspect, presided over these.",
+    "en": "Several record books lay open on a desk, where a rough, dark-looking officer sat in charge.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "tag": "P046",
+    "raw": "“Citizen Defarge,” said he to Darnay’s conductor, as he took a slip of paper to write on. “Is this the emigrant Evrémonde?”",
+    "en": "“Citizen Defarge,” the officer said to Darnay's guide, picking up a slip of paper. “Is this the emigrant Evremonde?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "tag": "P047",
+    "raw": "“This is the man.”",
+    "en": "“This is the man.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "tag": "P048",
+    "raw": "“Your age, Evrémonde?”",
+    "en": "“Your age, Evremonde?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "tag": "P049",
+    "raw": "“Thirty-seven.”",
+    "en": "“Thirty-seven.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "tag": "P050",
+    "raw": "“Married, Evrémonde?”",
+    "en": "“Married, Evremonde?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "tag": "P051",
+    "raw": "“Yes.”",
+    "en": "“Yes.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "tag": "P052",
+    "raw": "“Where married?”",
+    "en": "“Where were you married?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "tag": "P053",
+    "raw": "“In England.”",
+    "en": "“In England.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "tag": "P054_1",
+    "raw": "“Without doubt.",
+    "en": "“Of course.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "tag": "P054_2",
+    "raw": "Where is your wife, Evrémonde?”",
+    "en": "Where is your wife, Evremonde?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "tag": "P055",
+    "raw": "“In England.”",
+    "en": "“In England.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "tag": "P056_1",
+    "raw": "“Without doubt.",
+    "en": "“Of course.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "tag": "P056_2",
+    "raw": "You are consigned, Evrémonde, to the prison of La Force.”",
+    "en": "You are sent, Evremonde, to the prison of La Force.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "tag": "P057",
+    "raw": "“Just Heaven!” exclaimed Darnay. “Under what law, and for what offence?”",
+    "en": "“Good heavens!” Darnay exclaimed. “Under what law, and for what crime?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "tag": "P058",
+    "raw": "The officer looked up from his slip of paper for a moment.",
+    "en": "The officer looked up from his paper for a moment.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "tag": "P059",
+    "raw": "“We have new laws, Evrémonde, and new offences, since you were here.” He said it with a hard smile, and went on writing.",
+    "en": "“\"We have new laws, Evremonde, and new crimes, since you were last here,\" he said with a cold smile. Then he went on writing.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "tag": "P060_1",
+    "raw": "“I entreat you to observe that I have come here voluntarily, in response to that written appeal of a fellow-countryman which lies before you.",
+    "en": "“Please understand that I came here voluntarily, responding to the letter of a fellow countryman which you have there.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "tag": "P060_2",
+    "raw": "I demand no more than the opportunity to do so without delay.",
+    "en": "All I want is the chance to explain my case.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "tag": "P060_3",
+    "raw": "Is not that my right?”",
+    "en": "Is that not my right?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "tag": "P061_1",
+    "raw": "“Emigrants have no rights, Evrémonde,” was the stolid reply.",
+    "en": "“\"Emigrants have no rights, Evremonde,\" was the flat reply.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "tag": "P061_2",
+    "raw": "The officer wrote until he had finished, read over to himself what he had written, sanded it, and handed it to Defarge, with the words “In secret.”",
+    "en": "The officer finished writing. He read it over, dried the ink with sand, and handed the paper to Defarge. \"In secret,\" he said.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 104,
+    "tag": "P062_1",
+    "raw": "Defarge motioned with the paper to the prisoner that he must accompany him.",
+    "en": "Defarge gestured with the paper that the prisoner had to follow him.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 105,
+    "tag": "P062_2",
+    "raw": "The prisoner obeyed, and a guard of two armed patriots attended them.",
+    "en": "Darnay obeyed, escorted by two armed patriots.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 106,
+    "tag": "P063",
+    "raw": "“Is it you,” said Defarge, in a low voice, as they went down the guardhouse steps and turned into Paris, “who married the daughter of Doctor Manette, once a prisoner in the Bastille that is no more?”",
+    "en": "“Are you the one,” Defarge asked quietly as they walked down the steps into Paris, “who married the daughter of Doctor Manette, who was once a prisoner in the Bastille?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 107,
+    "tag": "P064",
+    "raw": "“Yes,” replied Darnay, looking at him with surprise.",
+    "en": "“Yes,” Darnay replied, looking at him in surprise.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 108,
+    "tag": "P065_1",
+    "raw": "“My name is Defarge, and I keep a wine-shop in the Quarter Saint Antoine.",
+    "en": "“My name is Defarge. I own a wine shop in the Saint Antoine district.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 109,
+    "tag": "P065_2",
+    "raw": "Possibly you have heard of me.”",
+    "en": "Perhaps you have heard of me.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 110,
+    "tag": "P066_1",
+    "raw": "“My wife came to your house to reclaim her father?",
+    "en": "“My wife came to your shop to find her father?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 111,
+    "tag": "P066_2",
+    "raw": "Yes!”",
+    "en": "Yes!”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 112,
+    "tag": "P067",
+    "raw": "The word “wife” seemed to serve as a gloomy reminder to Defarge, to say with sudden impatience, “In the name of that sharp female newly-born, and called La Guillotine, why did you come to France?”",
+    "en": "The word “wife” seemed to upset Defarge, who said with sudden anger, “In the name of that sharp new machine called the Guillotine, why on earth did you come back to France?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 113,
+    "tag": "P068_1",
+    "raw": "“You heard me say why, a minute ago.",
+    "en": "“You heard me explain why just a minute ago.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 114,
+    "tag": "P068_2",
+    "raw": "Do you not believe it is the truth?”",
+    "en": "Don't you believe it is the truth?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 115,
+    "tag": "P069",
+    "raw": "“A bad truth for you,” said Defarge, speaking with knitted brows, and looking straight before him.",
+    "en": "“It is a bad truth for you,” Defarge said, frowning and looking straight ahead.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 116,
+    "tag": "P070_1",
+    "raw": "“Indeed I am lost here.",
+    "en": "“I am completely lost here.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 117,
+    "tag": "P070_2",
+    "raw": "All here is so unprecedented, so changed, so sudden and unfair, that I am absolutely lost.",
+    "en": "Everything is so different, so sudden, and so unfair.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 118,
+    "tag": "P070_3",
+    "raw": "Will you render me a little help?”",
+    "en": "Will you help me a little?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 119,
+    "tag": "P071",
+    "raw": "“None.” Defarge spoke, always looking straight before him.",
+    "en": "“No.” Defarge spoke without looking at him.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 120,
+    "tag": "P072",
+    "raw": "“Will you answer me a single question?”",
+    "en": "“Will you answer just one question?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 121,
+    "tag": "P073_1",
+    "raw": "“Perhaps. According to its nature.",
+    "en": "“Maybe, depending on what it is.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 122,
+    "tag": "P073_2",
+    "raw": "You can say what it is.”",
+    "en": "Ask it.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 123,
+    "tag": "P074",
+    "raw": "“In this prison that I am going to so unjustly, shall I have some free communication with the world outside?”",
+    "en": "“In this prison where I am being sent so unfairly, will I be allowed to communicate with the outside world?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 124,
+    "tag": "P075",
+    "raw": "“You will see.”",
+    "en": "“You will see.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 125,
+    "tag": "P076",
+    "raw": "“I am not to be buried there, prejudged, and without any means of presenting my case?”",
+    "en": "“I won't be buried there forever without any chance to explain my case, will I?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 126,
+    "tag": "P077_1",
+    "raw": "“You will see.",
+    "en": "“You will see.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 127,
+    "tag": "P077_2",
+    "raw": "But, what then?",
+    "en": "But what of it?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 128,
+    "tag": "P077_3",
+    "raw": "Other people have been similarly buried in worse prisons, before now.”",
+    "en": "Many others have been buried in worse prisons before now.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 129,
+    "tag": "P078",
+    "raw": "“But never by me, Citizen Defarge.”",
+    "en": "“But never by me, Citizen Defarge.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 130,
+    "tag": "P079_1",
+    "raw": "Defarge glanced darkly at him for answer, and walked on in a steady and set silence.",
+    "en": "Defarge gave him a dark look and kept walking in silence.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 131,
+    "tag": "P079_2",
+    "raw": "The deeper he sank into this silence, the fainter hope there was--or so Darnay thought--of his softening in any slight degree.",
+    "en": "As Defarge remained silent, Darnay lost hope of changing his mind.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 132,
+    "tag": "P079_3",
+    "raw": "He, therefore, made haste to say:",
+    "en": "So, he quickly added:",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 133,
+    "tag": "P080_1",
+    "raw": "“It is of the utmost importance to me (you know, Citizen, even better than I, of how much importance), that I should be able to communicate to Mr.",
+    "en": "“It is extremely important, and you must know how important it is, that I let Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 134,
+    "tag": "P080_2",
+    "raw": "Lorry of Tellson’s Bank, an English gentleman who is now in Paris, the simple fact, without comment, that I have been thrown into the prison of La Force.",
+    "en": "Lorry of Tellson's Bank, who is currently in Paris, know that I have been put in La Force prison.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 135,
+    "tag": "P080_3",
+    "raw": "Will you cause that to be done for me?”",
+    "en": "Will you get that message to him?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 136,
+    "tag": "P081_1",
+    "raw": "“I will do,” Defarge doggedly rejoined, “nothing for you. My duty is to my country and the People.",
+    "en": "“I will do nothing for you,” Defarge replied stubbornly. “My duty is to my country and the People.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 137,
+    "tag": "P081_2",
+    "raw": "I am the sworn servant of both, against you.",
+    "en": "I am sworn to serve them against you.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 138,
+    "tag": "P081_3",
+    "raw": "I will do nothing for you.”",
+    "en": "I will do nothing for you.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 139,
+    "tag": "P082_1",
+    "raw": "Charles Darnay felt it hopeless to entreat him further, and his pride was touched besides.",
+    "en": "Darnay knew it was useless to beg, and his pride was hurt as well.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 140,
+    "tag": "P082_2",
+    "raw": "As they walked on in silence, he could not but see how used the people were to the spectacle of prisoners passing along the streets.",
+    "en": "As they walked in silence, he noticed that the citizens were completely used to seeing prisoners led through the streets.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 141,
+    "tag": "P082_3",
+    "raw": "The very children scarcely noticed him.",
+    "en": "Even children barely looked at him.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 142,
+    "tag": "P082_4",
+    "raw": "A few passers turned their heads, and a few shook their fingers at him as an aristocrat; otherwise, that a man in good clothes should be going to prison, was no more remarkable than that a labourer in working clothes should be going to work.",
+    "en": "A few people turned their heads, and some shook their fingers at him for being an aristocrat. Other than that, seeing a well-dressed man going to prison was no more unusual than seeing a laborer in work clothes heading to work.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 143,
+    "tag": "P082_5",
+    "raw": "In one narrow, dark, and dirty street through which they passed, an excited orator, mounted on a stool, was addressing an excited audience on the crimes against the people, of the king and the royal family.",
+    "en": "But otherwise, seeing a well-dressed man going to prison was as ordinary as seeing a worker going to a job.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 144,
+    "tag": "P082_6",
+    "raw": "The few words that he caught from this man’s lips, first made it known to Charles Darnay that the king was in prison, and that the foreign ambassadors had one and all left Paris.",
+    "en": "In a narrow, dirty street, an angry speaker on a stool was shouting to a crowd about the crimes of the king and the royal family.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 145,
+    "tag": "P082_7",
+    "raw": "On the road (except at Beauvais) he had heard absolutely nothing.",
+    "en": "The few words Darnay caught made him realize for the first time that the king had been imprisoned and that all foreign ambassadors had left Paris.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 146,
+    "tag": "P082_8",
+    "raw": "The escort and the universal watchfulness had completely isolated him.",
+    "en": "He had heard nothing on his journey except at Beauvais, because his guards and the security checks had kept him completely isolated.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 147,
+    "tag": "P083_1",
+    "raw": "That he had fallen among far greater dangers than those which had developed themselves when he left England, he of course knew now. That perils had thickened about him fast, and might thicken faster and faster yet, he of course knew now.",
+    "en": "He knew now that he was in far greater danger than he had realized when leaving England, and that the threats around him were growing quickly.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 148,
+    "tag": "P083_2",
+    "raw": "He could not but admit to himself that he might not have made this journey, if he could have foreseen the events of a few days.",
+    "en": "He admitted to himself that he would not have made this trip if he had known what would happen.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 149,
+    "tag": "P083_3",
+    "raw": "And yet his misgivings were not so dark as, imagined by the light of this later time, they would appear.",
+    "en": "Yet, his fears were not as dark as they might seem to us looking back.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 150,
+    "tag": "P083_4",
+    "raw": "Troubled as the future was, it was the unknown future, and in its obscurity there was ignorant hope.",
+    "en": "The future was scary, but it was still unknown, and its mystery left room for hope.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 151,
+    "tag": "P083_5",
+    "raw": "The horrible massacre, days and nights long, which, within a few rounds of the clock, was to set a great mark of blood upon the blessed garnering time of harvest, was as far out of his knowledge as if it had been a hundred thousand years away.",
+    "en": "He had no idea that a horrible massacre, lasting for days and nights, would soon leave a huge bloody mark on this peaceful harvest season within just a few hours. He was as completely unaware of it as if it were a hundred thousand years in the future.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 152,
+    "tag": "P083_6",
+    "raw": "The “sharp female newly-born, and called La Guillotine,” was hardly known to him, or to the generality of people, by name.",
+    "en": "The name of the Guillotine was barely known to him or to most people.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 153,
+    "tag": "P083_7",
+    "raw": "The frightful deeds that were to be soon done, were probably unimagined at that time in the brains of the doers.",
+    "en": "The terrible acts that were about to happen were probably not even imagined yet by the people who would commit them.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 154,
+    "tag": "P083_8",
+    "raw": "How could they have a place in the shadowy conceptions of a gentle mind?",
+    "en": "How could such horrors exist in the mind of a gentle man?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 155,
+    "tag": "P084_1",
+    "raw": "Of unjust treatment in detention and hardship, and in cruel separation from his wife and child, he foreshadowed the likelihood, or the certainty; but, beyond this, he dreaded nothing distinctly.",
+    "en": "He expected unfair treatment, hardships, and the painful separation from his wife and child, but he did not fear anything worse than that.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 156,
+    "tag": "P084_2",
+    "raw": "With this on his mind, which was enough to carry into a dreary prison courtyard, he arrived at the prison of La Force.",
+    "en": "With these heavy thoughts, he arrived at the gates of La Force prison.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 157,
+    "tag": "P085",
+    "raw": "A man with a bloated face opened the strong wicket, to whom Defarge presented “The Emigrant Evrémonde.”",
+    "en": "A man with a red, swollen face opened the small gate, and Defarge announced, “The Emigrant Evremonde.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 158,
+    "tag": "P086_1",
+    "raw": "“What the Devil!",
+    "en": "“What the devil!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 159,
+    "tag": "P086_2",
+    "raw": "How many more of them!” exclaimed the man with the bloated face.",
+    "en": "How many more of them are coming!” exclaimed the bloated man.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 160,
+    "tag": "P087",
+    "raw": "Defarge took his receipt without noticing the exclamation, and withdrew, with his two fellow-patriots.",
+    "en": "Defarge took his receipt without answering the jailer, and left with the two patriots.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 161,
+    "tag": "P088",
+    "raw": "“What the Devil, I say again!” exclaimed the gaoler, left with his wife. “How many more!”",
+    "en": "“What the devil, I say again!” the jailer said to his wife. “How many more!”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 162,
+    "tag": "P089",
+    "raw": "The gaoler’s wife, being provided with no answer to the question, merely replied, “One must have patience, my dear!” Three turnkeys who entered responsive to a bell she rang, echoed the sentiment, and one added, “For the love of Liberty;” which sounded in that place like an inappropriate conclusion.",
+    "en": "His wife had no answer. \"We must be patient, my dear!\" she said. Three assistant jailers came in when she rang a bell. They all agreed. One added, \"For the love of Liberty!\", which sounded very out of place in that grim prison.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 163,
+    "tag": "P090_1",
+    "raw": "The prison of La Force was a gloomy prison, dark and filthy, and with a horrible smell of foul sleep in it.",
+    "en": "La Force was a dark, filthy, and gloomy prison that smelled terribly of sweaty, locked-up bodies.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 164,
+    "tag": "P090_2",
+    "raw": "Extraordinary how soon the noisome flavour of imprisoned sleep, becomes manifest in all such places that are ill cared for!",
+    "en": "It is amazing how quickly the bad smell of crowded prisoners develops in places that are not kept clean.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 165,
+    "tag": "P091",
+    "raw": "“In secret, too,” grumbled the gaoler, looking at the written paper. “As if I was not already full to bursting!”",
+    "en": "“In secret too,” grumbled the jailer, looking at the paper. “As if my prison wasn't already packed to bursting!”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 166,
+    "tag": "P092",
+    "raw": "He stuck the paper on a file, in an ill-humour, and Charles Darnay awaited his further pleasure for half an hour: sometimes, pacing to and fro in the strong arched room: sometimes, resting on a stone seat: in either case detained to be imprinted on the memory of the chief and his subordinates.",
+    "en": "He angrily filed the paper, and Darnay was left waiting for half an hour. Darnay walked back and forth in the arched stone room or rested on a stone bench, while the chief jailer and his assistants stared at him to memorize his face.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 167,
+    "tag": "P093",
+    "raw": "“Come!” said the chief, at length taking up his keys, “come with me, emigrant.”",
+    "en": "“Come!” the chief jailer said finally, taking his keys. “Come with me, emigrant.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 168,
+    "tag": "P094_1",
+    "raw": "Through the dismal prison twilight, his new charge accompanied him by corridor and staircase, many doors clanging and locking behind them, until they came into a large, low, vaulted chamber, crowded with prisoners of both sexes.",
+    "en": "Darnay followed him through the dark prison corridors and up staircases, with many heavy doors slamming and locking behind them. Finally, they entered a large, low room with arched ceilings, crowded with male and female prisoners.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 169,
+    "tag": "P094_2",
+    "raw": "The women were seated at a long table, reading and writing, knitting, sewing, and embroidering; the men were for the most part standing behind their chairs, or lingering up and down the room.",
+    "en": "The women sat at a long table. Some read, some wrote, some knitted, sewed, or embroidered. Most of the men stood behind the chairs or walked around the room.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 170,
+    "tag": "P095_1",
+    "raw": "In the instinctive association of prisoners with shameful crime and disgrace, the new-comer recoiled from this company.",
+    "en": "Thinking that prisoners must be criminals, Darnay shrank back at first.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 171,
+    "tag": "P095_2",
+    "raw": "But the crowning unreality of his long unreal ride, was, their all at once rising to receive him, with every refinement of manner known to the time, and with all the engaging graces and courtesies of life.",
+    "en": "But the strangest part of his journey was that all of them stood up to welcome him with the most polite, elegant manners of high society.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 172,
+    "tag": "P096_1",
+    "raw": "So strangely clouded were these refinements by the prison manners and gloom, so spectral did they become in the inappropriate squalor and misery through which they were seen, that Charles Darnay seemed to stand in a company of the dead.",
+    "en": "These refined manners looked so strange in the dark, dirty prison that Darnay felt as if he were standing among the dead. They seemed like ghosts.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 173,
+    "tag": "P096_2",
+    "raw": "Ghosts all!",
+    "en": "The ghost of beauty.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 174,
+    "tag": "P096_3",
+    "raw": "The ghost of beauty, the ghost of stateliness, the ghost of elegance, the ghost of pride, the ghost of frivolity, the ghost of wit, the ghost of youth, the ghost of age, all waiting their dismissal from the desolate shore, all turning on him eyes that were changed by the death they had died in coming there.",
+    "en": "The ghost of elegance. The ghost of pride, of humor, of youth, of old age. All of them were waiting to be sent away from this miserable shore, and all of them looked at him with eyes changed by their imprisonment.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 175,
+    "tag": "P097_1",
+    "raw": "It struck him motionless.",
+    "en": "He stood frozen.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 176,
+    "tag": "P097_2",
+    "raw": "The gaoler standing at his side, and the other gaolers moving about, who would have been well enough as to appearance in the ordinary exercise of their functions, looked so extravagantly coarse contrasted with sorrowing mothers and blooming daughters who were there--with the apparitions of the coquette, the young beauty, and the mature woman delicately bred--that the inversion of all experience and likelihood which the scene of shadows presented, was heightened to its utmost.",
+    "en": "The jailer standing next to him and the others walking around would have looked normal enough while doing their usual jobs. But they looked incredibly rough and crude compared to the sad mothers and beautiful young daughters who were there. The presence of flirty girls, young beauties, and elegantly raised older women made this bizarre, shadowy scene feel as unnatural and upside-down as possible.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 177,
+    "tag": "P097_3",
+    "raw": "Surely, ghosts all.",
+    "en": "This complete reversal of normal life made the scene feel even more unreal.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 178,
+    "tag": "P097_4",
+    "raw": "Surely, the long unreal ride some progress of disease that had brought him to these gloomy shades!",
+    "en": "Surely they were all ghosts, and his long, strange journey was just a fever dream that had brought him to the underworld.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 179,
+    "tag": "P098_1",
+    "raw": "“In the name of the assembled companions in misfortune,” said a gentleman of courtly appearance and address, coming forward, “I have the honour of giving you welcome to La Force, and of condoling with you on the calamity that has brought you among us.",
+    "en": "“In the name of your fellow prisoners,” said an elegant gentleman, stepping forward, “I have the honor of welcoming you to La Force, and of offering our sympathy for the misfortune that brought you here.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 180,
+    "tag": "P098_2",
+    "raw": "May it soon terminate happily!",
+    "en": "We hope you will be released soon.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 181,
+    "tag": "P098_3",
+    "raw": "It would be an impertinence elsewhere, but it is not so here, to ask your name and condition?”",
+    "en": "It would be rude to ask elsewhere, but here it is normal: what is your name and background?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 182,
+    "tag": "P099",
+    "raw": "Charles Darnay roused himself, and gave the required information, in words as suitable as he could find.",
+    "en": "Charles Darnay shook off his shock and gave them his name and details as politely as he could.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 183,
+    "tag": "P100",
+    "raw": "“But I hope,” said the gentleman, following the chief gaoler with his eyes, who moved across the room, “that you are not in secret?”",
+    "en": "“I hope,” the gentleman said, watching the chief jailer walk across the room, “that you are not placed 'in secret'?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 184,
+    "tag": "P101",
+    "raw": "“I do not understand the meaning of the term, but I have heard them say so.”",
+    "en": "“I don't know what that means, but I heard them use those words.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 185,
+    "tag": "P102_1",
+    "raw": "“Ah, what a pity!",
+    "en": "“\"Ah, what a pity!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 186,
+    "tag": "P102_2",
+    "raw": "We so much regret it!",
+    "en": "We are so sorry to hear that.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 187,
+    "tag": "P102_3",
+    "raw": "But take courage; several members of our society have been in secret, at first, and it has lasted but a short time.” Then he added, raising his voice, “I grieve to inform the society--in secret.”",
+    "en": "But take courage; several of us were kept in solitary confinement at first, and it didn't last long.\" Then he raised his voice and announced to the room: \"I regret to inform everyone, he is in secret.\"”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 188,
+    "tag": "P103_1",
+    "raw": "There was a murmur of commiseration as Charles Darnay crossed the room to a grated door where the gaoler awaited him, and many voices--among which, the soft and compassionate voices of women were conspicuous--gave him good wishes and encouragement.",
+    "en": "A murmur of sympathy spread through the room as Darnay walked toward a barred door where the jailer was waiting. Many voices, especially the gentle voices of the women, offered him encouragement.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 189,
+    "tag": "P103_2",
+    "raw": "He turned at the grated door, to render the thanks of his heart; it closed under the gaoler’s hand; and the apparitions vanished from his sight forever.",
+    "en": "He turned at the door to thank them, but the jailer shut the gate, and the ghostly crowd vanished from his sight forever.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 190,
+    "tag": "P104_1",
+    "raw": "The wicket opened on a stone staircase, leading upward.",
+    "en": "The door opened to a stone staircase going up.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 191,
+    "tag": "P104_2",
+    "raw": "When they had ascended forty steps (the prisoner of half an hour already counted them), the gaoler opened a low black door, and they passed into a solitary cell.",
+    "en": "After climbing forty steps, which Darnay had already counted, the jailer opened a low black door, and they entered a solitary cell.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 192,
+    "tag": "P104_3",
+    "raw": "It struck cold and damp, but was not dark.",
+    "en": "It was cold and damp, but not completely dark.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 193,
+    "tag": "P105",
+    "raw": "“Yours,” said the gaoler.",
+    "en": "“This is yours,” said the jailer.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 194,
+    "tag": "P106",
+    "raw": "“Why am I confined alone?”",
+    "en": "“Why am I locked up alone?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 195,
+    "tag": "P107",
+    "raw": "“How do I know!”",
+    "en": "“How should I know!”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 196,
+    "tag": "P108",
+    "raw": "“I can buy pen, ink, and paper?”",
+    "en": "“Can I buy a pen, ink, and paper?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 197,
+    "tag": "P109_1",
+    "raw": "“Such are not my orders.",
+    "en": "“Those are not my orders.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 198,
+    "tag": "P109_2",
+    "raw": "You will be visited, and can ask then.",
+    "en": "Someone will visit you later, and you can ask then.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 199,
+    "tag": "P109_3",
+    "raw": "At present, you may buy your food, and nothing more.”",
+    "en": "For now, you can buy food and nothing else.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 200,
+    "tag": "P110_1",
+    "raw": "There were in the cell, a chair, a table, and a straw mattress.",
+    "en": "The cell contained a chair, a table, and a straw mattress.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 201,
+    "tag": "P110_2",
+    "raw": "As the gaoler made a general inspection of these objects, and of the four walls, before going out, a wandering fancy wandered through the mind of the prisoner leaning against the wall opposite to him, that this gaoler was so unwholesomely bloated, both in face and person, as to look like a man who had been drowned and filled with water.",
+    "en": "The jailer inspected the room and the walls before leaving. As he did, Darnay leaned against the wall and had a strange thought: the jailer's swollen face and body made him look like a drowned corpse filled with water. The jailer left.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 202,
+    "tag": "P110_3",
+    "raw": "When the gaoler was gone, he thought in the same wandering way, “Now am I left, as if I were dead.” Stopping then, to look down at the mattress, he turned from it with a sick feeling, and thought, “And here in these crawling creatures is the first condition of the body after death.”",
+    "en": "Darnay stood alone. \"Now I am left here as if I were dead,\" he thought. He looked down at the mattress and felt sick. \"And the bugs crawling here are like the worms that eat a body after death.\"”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 203,
+    "tag": "P111_1",
+    "raw": "“Five paces by four and a half, five paces by four and a half, five paces by four and a half.” The prisoner walked to and fro in his cell, counting its measurement, and the roar of the city arose like muffled drums with a wild swell of voices added to them. “He made shoes, he made shoes, he made shoes.” The prisoner counted the measurement again, and paced faster, to draw his mind with him from that latter repetition. “The ghosts that vanished when the wicket closed.",
+    "en": "“\"Five paces by four and a half, five paces by four and a half, five paces by four and a half.\" The prisoner paced back and forth in his cell, measuring the room over and over. Outside, the distant roar of the city sounded like muffled drums mixed with shouting voices. “He made shoes, he made shoes, he made shoes.” Darnay measured the cell again, walking faster to try to block out that repetitive thought. “The ghosts who vanished when the gate shut.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 204,
+    "tag": "P111_2",
+    "raw": "There was one among them, the appearance of a lady dressed in black, who was leaning in the embrasure of a window, and she had a light shining upon her golden hair, and she looked like * * * * Let us ride on again, for God’s sake, through the illuminated villages with the people all awake! * * * * He made shoes, he made shoes, he made shoes. * * * * Five paces by four and a half.” With such scraps tossing and rolling upward from the depths of his mind, the prisoner walked faster and faster, obstinately counting and counting; and the roar of the city changed to this extent--that it still rolled in like muffled drums, but with the wail of voices that he knew, in the swell that rose above them.",
+    "en": "There was one woman dressed in black, leaning near a window, with light shining on her golden hair, and she looked like... Let's ride on again, for God's sake, through the lit-up villages where everyone is awake! He made shoes, he made shoes, he made shoes. Five paces by four and a half.” With these random thoughts spinning in his mind, the prisoner walked faster and faster, stubbornly counting his steps. The roar of the city outside still sounded like muffled drums, but now he imagined hearing the cries of voices he knew in the noise.",
+    "ko": "",
+    "is_header": false
+  }
+]

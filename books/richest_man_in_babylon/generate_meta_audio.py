@@ -4,7 +4,7 @@ import subprocess
 from pydub import AudioSegment
 
 TEMP_DIR = "temp_audio"
-OUTPUT_DIR = "final_audio"
+OUTPUT_DIR = "raw_audio"
 
 if not os.path.exists(TEMP_DIR):
     os.makedirs(TEMP_DIR)

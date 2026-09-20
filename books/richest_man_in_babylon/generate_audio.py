@@ -5,7 +5,7 @@ from pydub import AudioSegment
 
 SCRIPTS_DIR = "scripts"
 TEMP_DIR = "temp_audio"
-OUTPUT_DIR = "final_audio"
+OUTPUT_DIR = "raw_audio"
 
 if not os.path.exists(TEMP_DIR):
     os.makedirs(TEMP_DIR)

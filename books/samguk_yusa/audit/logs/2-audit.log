@@ -1,96 +1,124 @@
 
-=== ch_01  model=gemma4:12b  2.9 min  aligned 10/10
-  [high] P0007  ko/en 길이 비율이 2.9배로 흔들림 — 문단이 밀렸을 수 있음 [1.4, 1.93, 4.0, 3.16, 2.09, 2.34]
+=== ch_01  model=gemma4:12b  3.8 min  aligned 10/10
+  [ med] P0006  한문의 風伯雨師雲師(풍백)가 번역문에 없음
 
-=== ch_02  model=gemma4:12b  2.5 min  aligned 13/13
+=== ch_02  model=gemma4:12b  3.5 min  aligned 13/13
   no findings
 
-=== ch_03  model=gemma4:12b  2.1 min  aligned 8/8
+=== ch_03  model=gemma4:12b  2.8 min  aligned 8/8
+  [high] P0009  ko/en 길이 비율이 3.4배로 흔들림 — 문단이 밀렸을 수 있음 [2.0, 1.63, 2.03, 2.21, 5.58, 2.06]
+  [ med] P0002  한문의 天帝(천제)가 번역문에 없음
+  [ med] P0004  한문의 天帝(천제)가 번역문에 없음
   [ med] P0009  한문의 弓(궁홀산)가 번역문에 없음
+  [ med] P0010  한문의 天帝(천제)가 번역문에 없음
   -- romanization drift --
      Jolbonbuyeo(1) / Jolbon Buyeo(1)
 
-=== ch_04  model=gemma4:12b  3.3 min  aligned 12/12
+=== ch_04  model=gemma4:12b  4.5 min  aligned 12/12
+  [ med] P0008  한문의 大王(대왕)가 번역문에 없음
+  [ med] P0014  한문의 居瑟邯(거슬한)가 번역문에 없음
   [ med] P0016  한문의 五陵(오릉)가 번역문에 없음
 
-=== ch_05  model=gemma4:12b  2.9 min  aligned 9/9
-  [high] P0002  ko/en 길이 비율이 2.6배로 흔들림 — 문단이 밀렸을 수 있음 [1.77, 1.67, 4.27, 2.02, 1.65]
+=== ch_05  model=gemma4:12b  3.5 min  aligned 9/9
   [ med] P0006  한문의 尼叱今(이질금)가 번역문에 없음
-  [ med] P0006  한문의 齒理(잇금)가 번역문에 없음
+  [ med] P0008  한문의 齒叱今(치질금)가 번역문에 없음
+  [ med] P0009  한문의 七寶(칠보)가 번역문에 없음
   [ med] P0012  한문의 髑髏(촉루)가 번역문에 없음
 
-=== ch_06  model=gemma4:12b  2.0 min  aligned 7/7
+=== ch_06  model=gemma4:12b  2.6 min  aligned 7/7
   [ med] P0008  한문의 尼叱今(이질금)가 번역문에 없음
-
-=== ch_07  model=gemma4:12b  2.9 min  aligned 10/10
-  no findings
   -- romanization drift --
-     Japanese king(1) / Japanese King(1)
+     Kim-gong(2) / Kimgong(1)
 
-=== ch_08  model=gemma4:12b  1.6 min  aligned 6/6
+=== ch_07  model=gemma4:12b  3.9 min  aligned 10/10
   no findings
 
-=== ch_09  model=gemma4:12b  2.8 min  aligned 10/10
+=== ch_08  model=gemma4:12b  2.2 min  aligned 6/6
+  [ med] P0005  한문의 烏忌之日(오기일)가 번역문에 없음
+
+=== ch_09  model=gemma4:12b  3.9 min  aligned 10/10
+  [high] P0002  존댓말이 지문에 쓰임 — 지문은 '-했다'체
+  [high] P0004  존댓말이 지문에 쓰임 — 지문은 '-했다'체
   [ med] P0008  한문의 天賜玉帶(천사옥대)가 번역문에 없음
+  [ med] P0010  한문의 大王(대왕)가 번역문에 없음
+  [ low] P0003  EN: preamble left in
 
-=== ch_10  model=gemma4:12b  2.3 min  aligned 7/7
+=== ch_10  model=gemma4:12b  2.9 min  aligned 7/7
   no findings
   -- romanization drift --
-     Yushin(1) / Yusin(1)
+     Yusin was(1) / Yushin was(2)
      Chunam(1) / Chunnam(1)
 
-=== ch_11  model=gemma4:12b  3.7 min  aligned 12/12
-  [ med] P0009  한문의 仁問(김인문)가 번역문에 없음
-
-=== ch_12  model=gemma4:12b  4.0 min  aligned 12/12
-  [ med] P0008  한문의 法師(법사)가 번역문에 없음
-  [ med] P0008  한문의 浿江(패강)가 번역문에 없음
-  [ med] P0011  한문의 弓(궁홀산)가 번역문에 없음
-
-=== ch_13  model=gemma4:12b  4.2 min  aligned 14/14
-  [ med] P0012  한문의 法師(법사)가 번역문에 없음
-
-=== ch_14  model=gemma4:12b  2.9 min  aligned 10/10
-  no findings
-
-=== ch_15  model=gemma4:12b  2.8 min  aligned 13/13
-  no findings
+=== ch_11  model=gemma4:12b  5.3 min  aligned 12/12
+  [ med] P0002  한문의 蹴鞠(축국)가 번역문에 없음
   -- romanization drift --
-     Gaewon(1) / Gae-won(1)
+     Munhui(3) / Mun-hui(1)
 
-=== ch_16  model=gemma4:12b  3.6 min  aligned 12/12
+=== ch_12  model=gemma4:12b  4.8 min  aligned 12/12
+  [high] P0007  EN 문단 3이 0자 — 조각 문단
+  [high] P0007  ko/en 길이 비율이 275.9배로 흔들림 — 문단이 밀렸을 수 있음 [2.11, 2.76, 0.0, 2.37]
+  [ med] P0008  한문의 法師(법사)가 번역문에 없음
+  [ med] P0011  한문의 弓(궁홀산)가 번역문에 없음
+  [ med] P0011  한문의 法師(법사)가 번역문에 없음
+
+=== ch_13  model=gemma4:12b  5.2 min  aligned 14/14
+  [high] P0007  존댓말이 지문에 쓰임 — 지문은 '-했다'체
+  [high] P0013  존댓말이 지문에 쓰임 — 지문은 '-했다'체
+  [ med] P0011  한문의 法師(법사)가 번역문에 없음
+  [ med] P0012  한문의 法師(법사)가 번역문에 없음
+  -- romanization drift --
+     Dano(1) / Dan-o(1)
+
+=== ch_14  model=gemma4:12b  3.7 min  aligned 10/10
+  [ med] P0010  한문의 真德(진덕여왕)가 번역문에 없음
+
+=== ch_15  model=gemma4:12b  4.0 min  aligned 13/13
+  [high] P0010  존댓말이 지문에 쓰임 — 지문은 '-했다'체
+  [ med] P0003  한문의 七寶(칠보)가 번역문에 없음
+
+=== ch_16  model=gemma4:12b  4.6 min  aligned 12/12
+  [high] P0016  존댓말이 지문에 쓰임 — 지문은 '-했다'체
+  [ med] P0002  한문의 金周元(김주원)가 번역문에 없음
+  [ med] P0007  한문의 法師(법사)가 번역문에 없음
   [ med] P0013  한문의 大王(대왕)가 번역문에 없음
-  [ med] P0015  한문의 弓(궁홀산)가 번역문에 없음
   [ med] P0016  한문의 弓(궁홀산)가 번역문에 없음
 
-=== ch_17  model=gemma4:12b  2.6 min  aligned 10/10
+=== ch_17  model=gemma4:12b  3.3 min  aligned 10/10
+  [high] P0002  존댓말이 지문에 쓰임 — 지문은 '-했다'체
   [ med] P0010  한문의 東京(동경)가 번역문에 없음
   [ med] P0010  한문의 烏伊(오이)가 번역문에 없음
-  -- romanization drift --
-     Our king(2) / Our King(1)
 
-=== ch_18  model=gemma4:12b  2.2 min  aligned 8/8
+=== ch_18  model=gemma4:12b  2.7 min  aligned 8/8
   [ med] P0005  한문의 弓(궁홀산)가 번역문에 없음
   [ med] P0010  한문의 弓(궁홀산)가 번역문에 없음
 
-=== ch_19  model=gemma4:12b  3.8 min  aligned 12/12
-  [ low] P0003  EN: preamble left in
+=== ch_19  model=gemma4:12b  4.7 min  aligned 12/12
+  [ med] P0008  한문의 春秋(춘추)가 번역문에 없음
 
-=== ch_20  model=gemma4:12b  3.5 min  aligned 13/13
-  no findings
+=== ch_20  model=gemma4:12b  4.7 min  aligned 13/13
+  [ med] P0004  한문의 太子(태자)가 번역문에 없음
+  [ med] P0015  한문의 夫人(부인)가 번역문에 없음
   -- romanization drift --
-     Buyeo-gun(2) / Buyeogun(1)
      Jolbonbuyeo(1) / Jolbon Buyeo(1)
+     Han-nam(1) / Hannam(1)
+     Yonghwa-san(1) / Yonghwasan(1)
 
-=== ch_21  model=gemma4:12b  4.6 min  aligned 14/14
+=== ch_21  model=gemma4:12b  5.7 min  aligned 14/14
+  [ med] P0001  한문의 大王(대왕)가 번역문에 없음
   [ med] P0004  한문의 弓(궁홀산)가 번역문에 없음
+  [ med] P0011  한문의 弓(궁홀산)가 번역문에 없음
 
-=== ch_22  model=gemma4:12b  4.3 min  aligned 14/14
+=== ch_22  model=gemma4:12b  5.5 min  aligned 14/14
   [ med] P0013  한문의 弓(궁홀산)가 번역문에 없음
   [ med] P0014  한문의 弓(궁홀산)가 번역문에 없음
+  -- romanization drift --
+     Gap-o(1) / Gapo(1)
 
-=== ch_23  model=gemma4:12b  5.3 min  aligned 18/18
-  no findings
+=== ch_23  model=gemma4:12b  6.9 min  aligned 18/18
+  [ med] P0004  KO: 괄호 밖 한자 濸
+  [ med] P0008  한문의 九干(구간)가 번역문에 없음
+  [ med] P0009  한문의 九干(구간)가 번역문에 없음
 
-=== ch_24  model=gemma4:12b  5.2 min  aligned 17/17
+=== ch_24  model=gemma4:12b  6.8 min  aligned 17/17
   [ med] P0004  한문의 弓(궁홀산)가 번역문에 없음
+  [ low] P0015  EN: preamble left in

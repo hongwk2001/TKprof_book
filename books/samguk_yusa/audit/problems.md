@@ -1,421 +1,581 @@
-# LLM audit — 59 problems (gemma4:12b)
+# LLM audit — 93 problems (gemma4:12b)
 
 
-## SHIFTED — 15
+## SHIFTED — 13
+
+### ch_01/P0005 para 2
+
+The English text for [2] includes information from the Korean text of [1] (Muyeopsan/Baegak).
+
+- KO: 백주 땅에 있으며 어떤 이는 개성 동쪽에 있다고 한다. 지금의 백악궁이다)에 도읍을 정하고 나라 이름을 조선이라 세웠다. 이는 요임금과 같은 시대였다.
+- EN: He established the capital at Asadal (the scriptures call it Muyeopsan, and some also call it Baegak; it is in the land of Baekju, while others say it is east of Gaeseong. It is the current Baegakgung
 
 ### ch_01/P0006 para 5
 
-The Korean text says 'twenty days' (二十日), but the English translation says 'twenty-one days'.
+The Korean text says 'twenty days' (二十日), but the English text says 'twenty-one days'.
 
-- KO: 곰과 범은 그것을 얻어 먹고 스무하루 동안을 참았다. 곰은 여자의 몸을 얻었으나, 범은 참지 못하여 사람의 몸을 얻지 못했다.
-- EN: The bear and the tiger obtained and ate them and endured for twenty-one days. The bear obtained a woman's body, but the tiger could not endure and did not obtain a human body.
+- KO: 곰과 범은 그것을 얻어 먹었다. 두 짐승은 스무하루 동안을 참았다. 곰은 여자로 변했다. 그러나 범은 참지 못했다. 그래서 범은 사람의 몸을 얻지 못했다.
+- EN: The bear and the tiger received and ate them. The two beasts endured for twenty-one days. The bear transformed into a woman's body. However, the tiger could not endure. Therefore, the tiger did not ob
 
-### ch_04/P0010 para 3
+### ch_01/P0012 para 3
 
-The Korean text for [3] contains the content of the second village (Dolsan Goheo) and its ancestor's details from the original text '二曰突山高墟村...'. The English translation for [3] correctly reflects the content of the third village's lineage, but the numbering is misaligned with the Korean segments.
+The English 'the messenger' corresponds to the Korean '사자(使者)', but the Korean translation mistakenly uses '사자' as in the animal (lion) or a different context. However, the core content matches.
 
-- KO: 처음 무산(茂山)에 내려왔으며, 이는 사량부(沙梁部)(량은 도라고 읽으며, 혹은 탁(涿)으로 쓰였다. 또한 도로 읽힌다.) 정씨의 조상이다. 지금은 남산부에 속한다.
-- EN: He first descended at Musan and was the ancestor of the Jeong clan of Saryangbu (the character Ryang is read as Do, or it was written as Tak; it is also read as Do). It now belongs to Namsanbu.
+- KO: 한만여 명의 인파가 무기를 들고 패수를 건너고 있었다. 사자와 좌장군은 그들이 변칙을 부리는지 의심했다. 그들은 태자가 이미 복종했으니 무기를 버려야 한다고 말했다.
+- EN: A crowd of ten thousand people carried weapons and was crossing the Paesu. The messenger and the Left General suspected they were attempting a trick. They said that since the Crown Prince had already 
 
-### ch_05/P0002 para 3
+### ch_03/P0009 para 5
 
-The English text includes the parenthetical note about 'Unje' which belongs to Korean segment [2].
+The English text includes the content of Korean segment [6].
 
-- KO: 지금 영일현(迎日縣) 서쪽에 운제산 성모가 있어 가뭄에 빌면 응답이 있다.) 전한 평제 원시사년 갑자년에 즉위하였고, 재위 이십일 년에 지황사년 갑신에 승하하였다.
-- EN: (In one version, it is called Unje. There is a Holy Mother of Unjesan to the west of Yeongil-hyeon; if one prays for relief from drought, there is an answer.) He ascended the throne in the fourth year
+- KO: 왕의 아들들과 신하들이 모여 주몽을 해칠 음모를 꾸몄다. 주몽의 어머니가 이를 알고 아들에게 일러 말했다.
+- EN: The king's sons and the officials gathered to plot to harm Jumong. Jumong's mother learned of this and told her son, "The people are going to harm you. With your talents and strategy, there is nowhere
 
-### ch_05/P0011 para 2
+### ch_06/P0008 para 4
 
-The English text says 'He asked me to dig', but the Korean source implies the child (the speaker) was the one who requested/found it or the context of who asked whom is slightly confused in translation. However, more importantly, the English 'He' refers to a vague person, while the Korean '관원이 따랐더니'
+The English text uses 'Miju-wang' instead of 'Michu-wang'.
 
-- KO: "나는 본래 장인이라서 이웃 마을에서 막 나왔는데, 어떤 사람이 이곳에 거주하고 있었습니다. 땅을 파서 확인해 달라고 청했습니다. " 관원이 따랐더니 정말로 숫돌과 숯(礪炭)이 나왔다. 이에 그것을 거두어 집으로 삼았다.
-- EN: The child replied, "I was originally a craftsman who had just come from a neighboring village, and someone else was living here. He asked me to dig the ground to check it." The official followed him, 
+- KO: 적군이 물러난 뒤 어디로 갔는지 알 수 없었다. 다만 미추왕의 능 앞에 대나뭇잎이 쌓여 있는 것을 보았다. 사람들은 비로소 선왕의 신비로운 힘이 공을 세웠음을 알았다.
+- EN: After the enemy retreated, it was unknown where they went. However, bamboo leaves were seen piled in front of the tomb of Miju-wang. People then realized that the mysterious power of the former king h
 
-### ch_06/P0002 para 1
+### ch_14/P0007 para 2
 
-The English text for [1] contains the content of 'Jungwon is only two years' which belongs to the Korean text of [2].
+The Korean text mentions 'Dangjeon and Ikseon' as the ones taking him, but the original Chinese text lists 'Dangjeon, Muliang, and Ikseon'. Also, the location is 'Busanseong', which is a phonetic translation of 'Fushancheng'.
 
-- KO: 영평(永平) 삼년 경신(庚申)(일설에 중원육년이라 하나, 잘못되었다.
-- EN: Yeongpyeong year three, Gyeongsin (one says Jungwon year six, but this is incorrect; Jungwon is only two years).
-
-### ch_09/P0002 para 2
-
-The Korean text says 'four years' (御國四年), but the English translation says 'four days'.
-
-- KO: 성은 김씨이며, 부인은 우공(烏公)의 딸로 지도부인(知刀夫人)이라 한다. 대건 여덟 해 병신년에 즉위하였고, 나라를 다스린 지 나흘이 되었다. 정치가 어지럽고 황폐해지자 나라 사람들이 그를 폐했다.
-- EN: His surname was Kim, and his wife was the daughter of Ugong, known as Jido Buin. He ascended the throne in the year Byeongsin of Daegun eight, and ruled the country for four days. As governance became
-
-### ch_09/P0002 para 5
-
-The English text includes the King's question 'Then shall I kill you?' which is actually part of the next segment in Korean.
-
-- KO: 남편이 있는데 다른 사람을 가까이하는 것은 비록 만승의 위엄이라 할지라도 결코 허용할 수 없습니다. " 왕이 말했다.
-- EN: "If I have a husband, I cannot allow myself to be near another person, even if it is the majesty of ten thousand chariots." The king asked, "Then shall I kill you?"
-
-### ch_09/P0002 para 6
-
-The English text starts with 'Then shall you be killed?', but this phrase was already included in the previous English segment (5).
-
-- KO: "그렇다면 죽일 것인가? " 여인이 말했다. "차라리 저잣거리에서 베임을 당하겠으나, 누군가 나를 대신해 줄 자는 없습니다. "
-- EN: "Then shall you be killed?" the woman said. "I would rather be beheaded in the marketplace than have someone else take my place."
-
-### ch_11/P0004 para 2
-
-The Korean text mentions 'Mungyeop' (文級) and 'Gwancha' (官車), but the English translation uses 'Mungyeop' for both terms or misinterprets the structure. Specifically, the Korean says 'all of Mungyeop obtained official carriages', while the English simplifies it.
-
-- KO: 서자(庶子)가 말했다. "모두 문급(文級)이 관차(官車)를 얻고, 공이 말을 얻어 아간(阿干)이 되었다." 또한 여인 다섯이 있었다. 왕의 진찬은 하루에 쌀 세 말, 수꿩 아홉 마리였다.
-- EN: Seoja said, "All of them, Mungyeop, obtained official carriages, and the lord obtained horses and became Agan." There were also five women. The royal feast consisted of three measures of rice and nine
-
-### ch_11/P0010 para 2
-
-The English text incorrectly translates '羅人' (Goryeo people) as the ones who would be afraid of Tang losses. The original Chinese says: 'If [the Goryeo people] see the Tang people lose... they will fear.' The English implies the Goryeo people are the ones being warned about their own behavior, but i
-
-- KO: 고려인들은 대국의 원조를 믿고 적을 가볍게 여기는 마음이 있다. 만약 당나라 사람이 손해를 보는 것을 본다면, 반드시 두려워하여 감히 용맹하게 나아가지 못할 것이다. 그러므로 먼저 당나라와 결전을 벌이는 것이 옳다. "
-- EN: The Goryeo people rely on the support of the great nation and have a heart that underestimates the enemy. If they see the Tang people suffering losses, they will surely be terrified and will not dare 
-
-### ch_13/P0014 para 3
-
-The English text for [3] contains the content of 'two wives' (二妻) but the original Chinese text specifies only one wife spoke in this specific turn ('其一妻'). However, since the Korean and English both reflect the same structure of the sentence despite the count discrepancy from the source, it is tech
-
-- KO: "라고 하였다. 두 아내가 말하기를, "함께 살지 않고 어찌 다른 사람과 같은 방에서 숙박하겠습니까? "라고 하였다.
-- EN: He said. Two wives said, "If we do not live together, how can we stay in the same room as another person?"
+- KO: 그가 보름 동안 보이지 않자 죽지랑은 그의 어머니를 불러 아들의 행방을 물었다. 어머니가 대답했다. "당전과 익선이라는 아간이 내 아들을 부산성 창고로 데려가려 합니다. 그들이 급히 가느라 작별 인사도 못 하고 떠났습니다."
+- EN: When he was not seen for fifteen days, Jukji-rang called his mother and asked where her son was. The mother replied, "Two Agans named Dangjeon and Ikseon are taking my son to the Busanseong warehouse.
 
 ### ch_15/P0017 para 3
 
 The Korean text says 'July 3rd' (七月三日), but the English translation says 'the twentieth day of the seventh month'.
 
-- KO: 칠월 스무하루에 대공 각간이 반란을 일으켰다. 왕도와 다섯 도(道)의 주군과 아흔여섯 각간이 서로 싸워 큰 혼란이 일어났다.
-- EN: On the twentieth day of the seventh month, Daegong Gakgan raised a rebellion. The capital, the lords of the five provinces, and ninety-six Gakgan fought one another, and great chaos ensued.
+- KO: 칠월 스무하루에 대공의 집 각간들이 반란을 일으켰다. 왕도와 다섯 도의 고을들에서 아흔여섯 명의 각간이 서로 싸워 크게 어지러웠다.
+- EN: On the twentieth day of the seventh month, the Gakgan of Daegong's house rose in rebellion. In the royal capital and the districts of the five provinces, ninety-six Gakgan fought one another, and the 
 
-### ch_17/P0003 para 5
+### ch_16/P0004 para 3
 
-The Korean text says 'If you marry the younger sibling (弟), I will die... if you marry the older brother/sibling (兄), there will be three beauties.' The English translation incorrectly interprets 'brother' as 'sister' in both cases.
+The first sentence of English [3] contains content that belongs to the list of descendants already included in English [2]. The core meaning of 'body-emptying song' matches.
 
-- KO: " 그러자 형이 말하기를, "네가 만약 동생을 아내로 맞이한다면 나는 반드시 네 앞에서 죽을 것이요, 형을 아내로 맞이하면 반드시 세 가지 아름다움이 있을 것이다.
-- EN: Then the elder brother said, "If you marry my younger sister as your wife, I will surely die before you; if you marry my older sister, there will certainly be three beauties."
+- KO: 그들은 각각 혜충태자, 헌평태자, 예영자간, 대룡부인, 소룡부인이었다. 대왕은 재물과 권세가 넘쳐나면 변고가 생김을 잘 알았다. 그래서 몸을 비우는 노래를 지어 부르셨다.
+- EN: They were respectively Hyechung Taeja, Heonpyeong Taeja, Yeyeong Jagan, Daeryong Buin, and Soryong Buin. The Great King knew well that calamities arise when wealth and power overflow. Therefore, he co
 
-### ch_17/P0006 para 2
+### ch_18/P0005 para 2
 
-The Korean text says 'sent Chimgwon (針卷) to the monk Daego', but the English translation says 'sent Chimgwon to the monk Daego' while treating 'Chimgwon' as a person. However, the core issue is that the Korean text mentions 'Saji' as a title/role for Simi, and the English translates it as an appoint
+KO says 'wife and one daughter', EN says 'child and one daughter'. The original text is '夫婦與一女' (spouse and one daughter).
 
-- KO: 그들은 속으로 임금이 되어 나라를 다스리고자 하는 뜻을 품었다. 이에 세 편의 노래를 지었으며, 심이에게 부탁하여 사지(舍知)로 임명하고 침권(針卷)을 대거 화상에게 보내어 세 곡을 짓게 하였다.
-- EN: They secretly harbored the intention to become monarchs and rule the nation. They then composed three songs, asked Simi to be appointed as Saji, and sent Chimgwon to the monk Daego to have him compose
+- KO: "그런데 어린 중이 내 자식들의 간과 창자를 모두 먹어 치웠다. 오직 나와 아내, 그리고 딸 하나만 살아남았다.
+- EN: However, a young monk devoured all the entrails and intestines of my children. Only my spouse, my child, and one daughter survived.
 
-### ch_21/P0011 para 3
+### ch_18/P0010 para 2
 
-The Korean text says '열흘' (ten days), but the original Chinese is '七日' (seven days).
+The Korean text mentions 'the second month of the seventh year' (七年庚辰二月), but the English translation says 'the tenth month of the seventh year'. The 'tenth month' in the Korean text refers to the next event (又十月).
 
-- KO: 그러나 그로부터 열흘 전에 오월(吳越)국 사신이 반상서(班尚書)에게 이르렀다. 왕의 조서를 전하며, 경(卿)과 고구려(高麗)가 오래도록 화목을 유지하고 함께 이웃한 동맹을 맺어왔음을 알렸다.
-- EN: However, ten days before that, an envoy from the state of Woyeo arrived at Ban Sangseo. He delivered the royal decree, stating that you and Goryeo had maintained harmony for a long time and had formed
+- KO: 칠 년 경진년 시월에 황룡사 탑의 그림자가 지금의 모 사지 집안에 거꾸로 서 있었다. 열 달이 지난 뒤, 사천왕사의 다섯 방위 신궁은 줄이 모두 끊어졌다. 벽화 속 개가 마당으로 뛰쳐나왔다가 다시 벽 안으로 들어갔다.
+- EN: In the tenth month of the seventh year, Gyeongjin, the shadow of the Hwangnyongsa pagoda stood upside down in the household of a certain person in Mosae. Ten months later, the strings of the five dire
+
+### ch_19/P0006 para 1
+
+The Korean text says 'thirty' (三十), but the English translation says 'thirty miles'. The Chinese character '里' refers to a unit of distance, but in this context, it is often interpreted as a count or specific measurement; however, the discrepancy between '30+' and '30 miles' is a mistranslation of t
+
+- KO: 향기로운 수레와 보배로운 말이 서른여섯 마리나 이어져 있었다. 길은 사람들로 가득 메워졌고 구경꾼들이 빽빽하게 몰려들었다. 태조는 성 밖으로 나가 그들을 맞이하며 노고를 치하했다.
+- EN: Fragrant carriages and precious horses were lined up for over thirty miles. The roads were filled with people, and spectators crowded in densely. Taejo went out of the city to welcome them and praised
+
+### ch_20/P0004 para 1
+
+The English version uses 'Liaoyang' instead of 'Yuezhou'.
+
+- KO: 백제는 계루부의 갈래이다. 동쪽으로는 신라와 접하였고, 서쪽은 바다를 건너 요서를 넘었다. 남쪽은 바다를 건너 왜와 고구려에 닿았다. 그 왕이 머무는 곳에는 동서로 두 성이 있었다.
+- EN: Baekje was a branch of the Gyeru tribe. To the east, it bordered Silla; to the west, it crossed the sea and reached Liaoyang. To the south, it crossed the sea and reached Wa and Goguryeo. In the place
+
+### ch_22/P0002 para 4
+
+The Korean text says 'several groups were handed over to the leaders' (授首), but the English translates it as 'surrendered to their leaders'. The original Chinese implies they were captured/beheaded.
+
+- KO: 이산군성에서는 말의 날카로움으로 수응을 깃발 아래서 죽였다. 임존이 뽑힌 날에 형적 등 수백 명이 목숨을 버렸다. 청천현을 무너뜨릴 때에는 여러 무리가 우두머리에게 항복했다.
+- EN: At Isangunseong, Suyeong was killed beneath the banner by the sharpness of a horse's edge. On the day Imjon was removed, hundreds including Hyeongjeok sacrificed their lives. When Cheongcheonhyeon was
 
 
-## MISSING — 31
+## MISSING — 36
 
-### ch_02/P0018 para 3
+### ch_02/P0020 para 2
 
-The Korean text contains '동왈여(東왈여)' which is a typo for '동왈저(東왈저)', but the English translation uses 'Wolje' instead of 'Waljeo'.
+The Korean text includes '현' (Hyeon) which is not in the Chinese source, but more importantly, the English translation misses the specific nuance of '今郡村' (the current village of the district) being part of the location description.
 
-- KO: 온작왕 사십이 년에 남쪽 왈저의 스무여 가구가 투항하였다. 신라 혁거세(赫居世) 오십이 년에 동쪽 왈여가 좋은 말을 바치러 왔다. 그러면 또 동쪽 왈저가 있는 것이다. 지도에 표시하였다.
-- EN: In the forty-second year of Onjak-wang, more than twenty households of South Wolje surrendered. In the fifty-second year of Heukgeose of Silla, East Wolye came to offer good horses. Thus there was als
+- KO: 정관 여섯째 해 임진년에 이서군 지금 마을 영미사에서 땅을 기부했다. 이곳은 지금 군 현 청도 지역이며, 청도군 옛 이서군과 같은 곳이다.
+- EN: In the sixth year of Jeonggwan, in the year of Imjin, land was donated at Yeongmisa in the current village of Iseogun. This location is in the area of Cheongdo-gun, Hyeon, and it is the same place as 
 
-### ch_04/P0015 para 5
+### ch_04/P0005 para 5
 
-The English translation omits the explanation regarding 'Gyeong' (京) being interpreted as 'Byeol' (伐).
+The Korean text includes '漸涿等' (and others like Jeontak), which is missing in the English translation.
 
-- KO: 나라의 이름은 서라벌(徐羅伐)이라 하였으며, 또 서벌(徐伐)(지금 풍속으로 경(京) 자를 해석하여 서벌이라 하니 이 때문이며), 혹은 사라(斯羅)라고도 하였다.
-- EN: The name of the country was called Seorabyeol, or Seobeol (this is because the character Gyeong in current custom is interpreted as Byeol), or Saro.
+- KO: 그들은 사탁이라 불렀다. (나라인 방언으로 탁의 소리를 도라고 읽었으며, 그래서 지금은 때때로 사량이라 쓴다. 사량 역시 도라고 읽는다.) 신라가 전성기를 누리던 시절에 이들이 그 땅을 차지했다.
+- EN: They called it Satak. (In the dialect of the Ranam people, the sound of Tak was read as Do, and thus it is sometimes written as Saryang today. Saryang is also read as Do.) During the period when Silla
 
-### ch_05/P0002 para 5
+### ch_05/P0006 para 5
 
-The English text is missing the phrase 'or it is called Chachaeung' (或云次次雄) which appears at the beginning of the segment.
+The original text mentions 'making carriages' (作車乘) as a separate action or part of the construction, but the Korean translation combines it with the subsequent sentence. More importantly, the term '노래(song)' in the Korean version for 4 is correct, but the specific items like '쟁기(plow)' and '얼음 창고' 
 
-- KO: 또는 차차웅이라 한다. 어떤 곳에서는 자충(慈充)으로 기록하였다. 김대문(金大問)이 말하기를, 차차웅은 방언으로 무당을 뜻하는 것이다.
-- EN: Or it is called Chachung. In some places, it was recorded as Jachung. Kim Daemun said that Chachung meant shaman in dialect.
+- KO: 한탄하는 말과 머리 장식을 만들고, 쟁기와 얼음 창고를 만들었다. 수레를 만들고 호열개년이에 이시국을 정벌하여 멸망시켰다. 그해에 고구려 군대가 쳐들어왔다.
+- EN: He made lamenting horses and head ornaments, and he made plows and ice storage. He made carriages and in the year of Hoyeolgae, he conquered and destroyed the state of Isi. In that year, Goguryeo forc
 
-### ch_05/P0006 para 4
+### ch_05/P0008 para 3
 
-The Korean text includes '사어사사뇌격이' (Saeosasa Noeguk), but the English translation omits the subject name and only mentions the construction of Rideo and Jangbinggo.
+원문의 '孥舡尋之。鵲集一舡上。' (그 배를 찾으니 까마귀 떼가 한 배 위에 모여 있었다.) 내용이 누락됨.
 
-- KO: 또한 여섯 성씨에게 도솔가(兜率歌)를 내리며 처음으로 제작하였고, 사어사사뇌격이 처음으로 리도 및 장빙고를 만들었다. 수레를 만들고, 호십팔년에 이시국을 정벌하여 멸망시켰다. 그해에 고구려 군대가 와서 침범하였다.
-- EN: He also bestowed the Dosolga upon the six clans and produced it for the first time, and Saeosasa Noeguk built the Rideo and Jangbinggo for the first time. He made chariots, and in the eighteenth year 
+- KO: 그 노파의 이름은 아진의선이었다. 그녀는 왕의 고기잡이 배를 만드는 일을 도왔던 어머니였다. 노파는 바다를 바라보며 말했다. "바다 가운데 원래 바위가 없는데 어찌 까마귀 떼가 모여 울어대는가."
+- EN: The old woman's name was Ajin Uiseon. She was a mother who had helped build the king's fishing boats. Looking out at the sea, the old woman said, "There are originally no rocks in the middle of the se
 
-### ch_05/P0008 para 1
+### ch_05/P0010 para 5
 
-The Korean text includes 'Taehae-chijilgeum (one version: Tohae-isageum)', which is missing in the English.
+호공이 '아니오'라고 답했고, 다툼이 해결되지 않아 관가에 고소했다는 내용(瓠公云否。爭訟不決。乃告于官。)이 빠짐.
 
-- KO: 탈해왕(脫解) 치질금(齒叱今)(일자 토해이사금)이 남해왕(南解王) 시절에 가락(駕洛)국 바다에 배 한 척이 들어와 정박했다.
-- EN: During the reign of Namhae-wang, a ship entered and anchored in the sea of Garak-guk.
+- KO: 동자는 꾀를 내어 그 옆에 숫돌과 숯을 몰래 묻었다. 아침이 되어 문 앞에 이르러 "이곳은 우리 조상 대대로 내려온 집이다"라고 말했다.
+- EN: The boy devised a scheme and secretly buried whetstones and charcoal beside it. When morning came, he arrived at the gate and said, "This is the house of my ancestors from generations past."
 
-### ch_05/P0008 para 6
+### ch_07/P0006 para 5
 
-The Korean text specifies 'one nest' (까치집 하나), while the English says 'a magpie nest'. However, the core issue is that the Korean text implies a single nest was found and put on the ship, whereas the English 'ships' (plural) slightly deviates from the singular '舡' in the original.
+The Japanese king's reaction ('倭王信之') is missing from both Korean and English versions.
 
-- KO: " 그러자 배들이 그것을 찾아내어 까치집 하나를 배 위에 올렸다. 배 안에는 한 상자(樻)가 있었는데, 길이는 스무 자이고 너비는 열세 자였다.
-- EN: Then the ships found it and placed a magpie nest on a ship. Inside the ship was a chest that was twenty feet long and thirteen feet wide.
+- KO: 아내가 간절하게 외치며 불렀으나, 제상은 손을 흔들기만 할 뿐 멈추지 않았다. 그는 왜나라에 도착하여 거짓말을 했다. "계림 왕이 내 부모와 형제를 함부로 죽여서 이곳까지 도망쳐 왔다."
+- EN: His wife called out to him earnestly, but Je-sang only waved his hand and did not stop. He arrived in Japan and lied, saying, "The King of Gyerim killed my parents and brothers without cause, so I fle
 
-### ch_06/P0002 para 2
+### ch_07/P0009 para 3
 
-The date 'August 4th' (八月四日) is in the Korean text but missing from the English translation for [2] because it was moved to the next segment or omitted.
+The original text mentions the custom of blood on reeds (今蒹葭上有血痛俗云提上之血), which is omitted in both KO and EN.
 
-- KO: 중원은 단지 이년뿐이다.) 팔월 사일, 호공(호공)이 밤에 월성(月城) 서리에서 길을 가고 있었다. 시림(始林)(일설에 구림(鳩林)이라 한다) 속에서 큰 빛이 보였으며, 하늘에서 땅으로 내려오는 자색 구름이 있었다.
-- EN: (One says it was the sixth year of Jungwon, but this is incorrect; Jungwon was only two years. ) On the fourth day of the eighth month of the third year of Yeongpyeong, Gyeongsin, Hogong was traveling
+- KO: 왕이 노하여 제상의 발밑 피부를 벗기고 말았다. 왕은 갈대와 부들 위에 피를 묻혀 그 위로 달리게 하며 다시 물었다.
+- EN: The king grew angry and stripped the skin from beneath the official's feet. The king smeared blood on the reeds and rushes, made him run over them, and asked again.
 
-### ch_06/P0003 para 3
+### ch_08/P0005 para 4
 
-The Korean text correctly includes the variant reading (一作仇刀), but the English translation 'Gudo (in one version, Gudo)' fails to reflect that the original Chinese characters are different in the two versions.
+The term 'Dalteo' (怛忉) is a phonetic transcription of the original Chinese characters. The Korean translation uses 'Dalteo', but it fails to capture that this is a specific transliteration of the phrase for 'sorrow and distress'.
 
-- KO: 수류는 욱부(郁部)를 낳고, 욱부는 구도(俱道)(일자 구도(仇刀))를 낳았으며, 구도는 미주(未鄒)를 낳았다. 미주가 왕위를 이어받았다. 신라 금씨는 알지부터 시작되었다.
-- EN: Suryu gave birth to Ukbu, and Ukbu gave birth to Gudo (in one version, Gudo), and Gudo gave birth to Miju. Miju inherited the throne. The Silla Kim clan began from Alji.
+- KO: 이 풍습은 지금까지 이어져 온다. 민간에서는 이를 달터라 불렀다. 사람들은 슬프고 괴로운 일로 인해 모든 일을 금한 것이라 말한다. 왕은 그 연못에 서출지라는 이름을 붙였다.
+- EN: This custom has continued until today. In common speech, it was called Dalteo. People said that all things were forbidden due to sorrow and distress. The King named the pond Seochulji.
 
 ### ch_08/P0008 para 2
 
-The distance '周迴二萬六千七百三十步' (circumference of 26,730 paces) is missing from the English translation.
+원문의 '周迴二萬六千七百三十步(둘러보니 2만 6천 7백 30보)'라는 구체적인 거리 정보가 한국어와 영어 모두에서 누락됨.
 
-- KO: 사로주(薩羅州, 지금은 명주)가 동해 가운데에 있다. 곧바람이 이틀 동안 불어 령릉도(嶺陵島, 지금은 우릉이라 한다)에 이르렀다. 섬의 이방인들은 물이 깊음을 믿고 왕의 명령을 거역하며 오만하게 굴었다.
-- EN: Saroju (now Myeongju) was located in the middle of the East Sea. A strong wind blew for two days and reached Yeongneungdo (now called Ureung). The barbarians of the island relied on the depth of the w
+- KO: 사러주(지금은 명주)는 동해 가운데에 있었다. 바람이 이틀 동안 불어 령릉섬(지금은 울릉도라 한다)을 감쌌다. 섬의 원주민들은 물이 깊음을 믿고 왕의 명령을 거역하며 오만하게 굴었다.
+- EN: Saryoju (now Myeongju) was located in the middle of the East Sea. For two days, the wind blew and circled Yeongneungseom (now called Ulleungdo). The islanders, believing the water to be deep, defied t
 
-### ch_10/P0005 para 5
+### ch_08/P0010 para 4
 
-The Korean text mentions 'the matter of conquering Liaoji' (伐麗齊之事), but the English translation replaces it with 'the attack on Goguryeo'.
+The English version omits the specific reason for Baekje's resentment (the fact that Goguryeo and Silla became friendly as a result of Jinheung's words).
 
-- KO: 유신은 고구려를 치는 일을 밤낮으로 깊이 도모했다. 백석은 그의 계획을 알아내어 그에게 말하기를, "제가 공과 밀약하여 먼저 저들을 탐색한 뒤에야 그것을 도모하는 것이 어떻겠습니까? "라고 하였다. 유신은 기뻐했다.
-- EN: Yusin planned the attack on Goguryeo day and night. Baekseok discovered his plan and said to him, "How about I make a secret pact with you and scout them first before we attempt it?" Yushin was please
+- KO: 진흥왕은 이 말을 고구려에 전했다. 고구려는 이 말을 마음에 깊이 새겼다. 고구려는 신라와 서로 친하게 지냈고, 백제는 이를 원망하며 쳐들어왔다.
+- EN: Jinheung transmitted these words to Goguryeo. Goguryeo took these words to heart. Goguryeo and Silla maintained friendly relations, and Baekje, resentful of this, invaded.
 
-### ch_11/P0008 para 4
+### ch_09/P0011 para 4
 
-The Korean text includes '신라가 미약함을 말한다' (meaning Silla is small), but the English translation omits the specific mention of 'Silla' in that phrase, simply saying 'the nation is great and Silla is small' - wait, looking closer: The KO says '국가가 성대하고 신라가 미약함', EN says 'the nation is great and Silla is
+The Korean text says 'on the sunny side of Nangsang' (낭산 양쪽), but the English translation specifies 'on the sunny side' (sunny side of Nangsang). However, the original Chinese '陽' refers to the sunny side/south side. The main issue is that the Korean '양쪽' usually means 'both sides', while the Englis
 
-- KO: 또 어떤 이는 "원월륜은 성대함이고, 신월과 같은 것은 미약함이다. 뜻은 국가가 성대하고 신라가 미약함을 말한다"라고 하였다. 왕이 기뻐하며 태종(太宗)에게 전하니 백제국 안에 괴이한 변화가 많다는 말을 들었다. 오년 경신.
-- EN: Another person said, "The round moon wheel signifies greatness, and the new moon shape signifies smallness. The meaning is that the nation is great and Silla is small." The king was pleased and report
+- KO: "나를 도리천에 장사 지내라." 신하들이 어디인지를 묻자, 왕은 낭산 남쪽이라 답했다. 그 날짜가 되자 왕이 정말로 세상을 떠났다. 신하들은 왕을 낭산 양쪽에 장사 지냈다.
+- EN: "Bury me in Doricheon." When the officials asked where, the king replied it was south of Nangsang. When that date arrived, the king truly passed away. The officials buried him on the sunny side of Nan
 
-### ch_12/P0004 para 3
+### ch_09/P0013 para 2
 
-The Korean text says 'for Mun' (文而), but the English translates it as 'for the sake of peace'. The original character '文' refers to King Munho.
+원문의 '具載良志師傳詳之別記'에서 '양사(良志)'는 인명이나 특정 기록의 명칭으로 보이나, 한국어와 영어 모두 이를 '양사의 전기'로 번역함. 다만 원문은 '양사(良志)의 전기에 상세히 기록된 별기'라는 의미를 담고 있음.
 
-- KO: 먼저 천신과 산천의 신령들에게 제사를 지내고, 그 후에 피를 섞으며 문을 위해 맹세하며 말하기를, "지난날 백제 선왕들이 역순에 미혹되어 이웃과 친하게 지내지 않았고. "
-- EN: First, he offered sacrifices to the heavenly gods and the spirits of the mountains and rivers, and then after mixing blood, he swore an oath for Mun for the sake of peace, saying, "In the past, the fo
+- KO: 당나라 황제는 사물의 이치를 밝히는 데 밝았다. 선덕여왕이 영묘사를 세운 일은 양사의 전기에 자세히 기록되어 있다. 이 왕조에서는 돌을 갈아 삼성대를 쌓았다.
+- EN: The Tang emperor was proficient in discerning the principles of things. The fact that Queen Seondeok established Yeongmyosa is recorded in detail in the biography of Yangsa. During this dynasty, they 
 
-### ch_13/P0004 para 3
+### ch_11/P0004 para 4
 
-The original text says 'Sodong' (蘇) was appointed as the Grand Commander of Paegang Army, but the English translation mistakenly attributes this title to Li Seok.
+The Korean text mentions 'wine' (酒), but the English translation uses 'roosters' instead of 'wine'.
 
-- KO: 당나라의 장수 이적(李勣)이 고장(高臧) 왕을 사로잡아 나라로 데려왔고, 패강(浿江)도 행군대총관에 임명했다. 소정방(定方)은 요동도 대총관이 되었으며, 유백영은 평양도 대총관이 되어 고구려를 정벌하였다.
-- EN: The Tang general Li Seok captured the King of Gojang and brought him back to the country, and was appointed Grand Commander of the Paegang Army. Jeongbang became the Grand Commander of the Liaodong Pr
+- KO: 그렇게 하면 하루에 쌀 여섯 말과 술 여섯 말, 수꿩 열 마리가 필요했다.
+- EN: In that case, six measures of rice, six measures of wine, and ten roosters were required each day.
 
-### ch_13/P0007 para 5
+### ch_11/P0005 para 4
 
-The Korean text mentions '초안하여' (drafting/sketching), but the English translation adds 'straw figures' which is not in the original Chinese or Korean.
+The original text '處上流而迎敵。可以保全' implies that taking a position on high ground is for the purpose of 'preserving/protecting (the state)', which is missing in the English translation.
 
-- KO: 명랑이 대답하기를, "채색 비단으로 가짜 형상을 만드는 것이 마땅합니다. "라고 하였다. 이에 채색 비단으로 사찰을 꾸미고 다섯 방향의 신상들을 초안하여 만들었다.
-- EN: Myeongrang replied, "It is appropriate to create false figures using colored silk." Then, they decorated the temple with colored silk and fashioned straw figures of deities in five directions.
+- KO: 성충은 죽으며 글을 남겼다. 충신은 죽어도 임금을 잊지 않으니, 한 마디 말이라도 전하고 싶었다. 그는 세상의 변화를 살피며 반드시 전쟁이 일어날 것을 알았다. 그는 적을 맞이할 때 높은 곳에 자리를 잡아야 한다고 주장했다.
+- EN: Seongchung left a writing as he died. A loyal minister does not forget his king even in death, so he wanted to convey at least one word. He observed the changes of the times and knew that war would su
 
-### ch_14/P0002 para 2
+### ch_11/P0009 para 3
 
-The Korean text includes the phrase '물결을 따라 오고 가니' (coming and going with the waves), but the English translation omits the specific detail that it was moving towards Gamsunsa in its original phrasing.
+The original text says 'five thousand' (五萬) which is 50,000, but the English translation says 'five thousand'.
 
-- KO: 이듬해 임오년 오월 초하루, (원본에 천수 원년이라 한 것은 잘못이다.) 해관 파진찬(波珍喰) 박숙청(朴夙清)이 아뢰기를, "동해에 작은 산이 떠와 감은사로 향하며 물결을 따라 오고 가니 대왕께서 이를 기이하게 여기셨습니다. "라고 하였다.
-- EN: On the first day of the fifth month of the following year, Im-o (the original text's mention of Cheonsu is an error), Haegwan Pajinchan and Pak Sokcheong reported, "A small mountain floated in the Eas
+- KO: 소정방은 군대를 이끌고 성산에서 바다를 건넜다. 그는 나라의 서쪽인 덕물도에 도착했다. 신라 왕은 장군 김유신에게 정예병 오만 명을 주어 그곳으로 달려가게 했다.
+- EN: So Jeongbang led the troops and crossed the sea from Seongsan. He arrived at Deokmuldo in the west of the land. The Silla king gave General Kim Yusin five thousand elite soldiers and sent him to rush 
 
-### ch_14/P0010 para 5
+### ch_11/P0010 para 2
 
-The Korean text mentions 'making a stone Maitreya' (造石彌勒一軀), but the English translation omits the specific mention of the 'stone' or 'statue' aspect in its phrasing, though it includes the name. However, more importantly, the Korean name '죽을 죽(竹旨)' is slightly different from the original '죽지(竹旨)'. 
+The Korean text says 'Goryeo forces' (羅人) are the ones who underestimate the enemy and would be afraid if they saw Tang losses. The English translation correctly identifies the subjects but the Korean translation mistakenly attributes the 'underestimating' behavior to the Goryeo army instead of the 
 
-- KO: 그는 군사를 시켜 산 위 북쪽 봉우리에 장례를 치르게 하고, 돌로 만든 미륵(彌勒) 한 구를 만들어 무덤 앞에 안치하였다. 아내는 꿈을 꾼 날부터 회임하였고, 아이가 태어나자 죽을 죽(竹旨)이라 이름 지었다.
-- EN: He ordered soldiers to perform the funeral on a northern peak of the mountain and had a stone Maitreya placed before the tomb. His wife became pregnant from the day of the dream, and when the child wa
+- KO: 고려군은 큰 나라의 도움을 믿고 적을 가볍게 여긴다. 만약 당나라군이 불리함을 알게 되면 겁을 먹고 과감히 나아가지 못할 것이다. 그러므로 먼저 당나라군과 결전을 벌이는 것이 옳다.
+- EN: The Goryeo forces relied on the support of a great nation and underestimated the enemy. If they realized the Tang army was at a disadvantage, they would become fearful and not dare to advance boldly. 
 
-### ch_14/P0013 para 3
+### ch_12/P0001 para 2
 
-The Korean text says 'King Taejong established Bongdeuksa', but the English translation implies King Seongdeok established it because King Taejong had. The original text is '王為太宗大王刱奉德寺' which means 'The King (Seongdeok) [did what] King Taejong did: built Bongdeuksa'.
+원문의 '又敗死者萬餘(또한 패사자가 만여 명에 달했다)'는 내용이 한국어와 영어 모두에서 누락됨.
 
-- KO: 왕은 태종대왕(太宗大王)이 봉덕사(奉德寺)를 세우고 인왕도장(仁王道場)을 설치하였다. 칠일 대사(大赦)를 베풀었다. 처음으로 시중(侍中) 직책이 생겼다(본래는 효성왕(孝成王) 때의 일이다).
-- EN: The king established Bongdeoksa and established the Inwangdojang, which King Taejong had established. He granted a general amnesty for seven days. The position of Sijung was first created (it was orig
+- KO: 군사들이 성 안에서 그들을 막아섰으나, 당나라 군사는 승세를 몰아 성을 압박했다. 왕은 자신이 살아남지 못할 것을 알았다. 그는 한탄하며 성충의 말을 듣지 않아 이 지경에 이르렀다고 말했다.
+- EN: Soldiers inside the city blocked them, but the Tang forces pressed the city while riding the momentum of victory. The King knew he would not escape. He lamented that he had reached this point by not f
 
-### ch_16/P0008 para 4
+### ch_12/P0007 para 3
 
-The Korean text includes the phrase '라고 하였다' (He said) which is part of the quote from the official in [3], but the English version merges this into the dialogue structure. However, more importantly, the Korean text contains '단단하고 작은 구슬을 하나 얻었다', while the English says 'a hard, small bead was found'
+The English translation for this section is missing.
 
-- KO: "라고 하였다. 사람을 시켜 뒤져보게 하니, 단단하고 작은 구슬을 하나 얻었다.
-- EN: He said, "A man was sent to search him, and a hard, small bead was found."
+- KO: 왕이 신하들과 모여 물었다. 적국에 들어가서 당나라 군대가 있는 곳까지 가야 한다. 그 기세가 위태롭다. 요청한 왕사들에게 식량을 부족하게 주거나 아예 주지 않는 것도 옳지 않다. 어떻게 할 것인가?
+- EN: 
 
-### ch_17/P0008 para 4
+### ch_16/P0002 para 4
 
-The English text omits 'leading' (率) in the phrase regarding the dragon leading his seven sons.
+The Korean text says 'three others' (三或), but the English translation incorrectly interprets 'or' as part of a place name ('Bonyeongsan'). The original Chinese is '三或本山', meaning 'three [people] from the original mountain'.
 
-- KO: 가까운 경계에 명령이 내려지자 구름이 걷히고 안개가 흩어졌다. 그곳을 개운포라 이름하였다. 동해 용이 기뻐하며 일곱 아들을 거느리고 수레 앞에 나타났다.
-- EN: When the order was issued in the nearby area, the clouds dispersed and the mist scattered. That place was named Gaewunpo. The Dragon of the East Sea rejoiced and appeared before the carriage leading h
+- KO: 이때 이선과 세 사람이 본래 산에서 찾아와 문안했다.
+- EN: At that time, Iseon and three others came from Bonyeongsan to pay their respects.
 
-### ch_18/P0002 para 3
+### ch_16/P0004 para 2
 
-The Korean text says 'it was not Wang Geoin who wrote this' (此非王居仁誰作此文), but the English translation incorrectly states that they said it was NOT a composition by him. Actually, the original implies they *thought* it wasn't his or were questioning its authorship in a way that led to his arrest.
+The English version includes the names of the five descendants (Hyechung Taeja, etc.), which are actually listed in the Korean text for the next section.
 
-- KO: 이에 다라니(陀羅尼)를 이용한 은어로 글을 써서 길에 던졌다. 왕과 권신들이 그 글을 얻고는, 이것이 왕거인(王居仁)이 지은 문장이 아니라고 말하며 거인을 옥에 가두었다.
-- EN: Then someone wrote a text in a secret language using dharani and threw it onto the road. The queen and the powerful ministers found the text and, saying that this was not a composition by Wang Geoin, 
+- KO: 주원은 명주로 물러났고 왕은 최고의 자리에 올랐다. 이때 여산이 세상을 떠났다. 왕은 그의 자손들에게 작위를 내렸다. 왕의 손자 중에는 다섯 명이 있었다.
+- EN: Juwon withdrew to Myeongju, and the King ascended to the highest position. At this time, Yeosan passed away. The King bestowed titles upon his descendants. Among the King's grandsons, there were five:
 
-### ch_18/P0003 para 4
+### ch_17/P0009 para 3
 
-The English translation omits 'Sapan is a title' (소판은 작명이다).
+원문의 '變無人夜至其家(어느 날 밤 아무도 없는 때에 그 집에 이르렀다)'에서 '변(變)'은 '어떤/어느'의 의미이나, 영어에서는 'One night'으로 번역되어 문맥상 큰 차이는 없으나 원문의 '무인(無人)'이 '아무도 없는 상태'를 강조하는 뉘앙스가 생략됨. 그러나 핵심 내용인 '몰래 들어감', '두 명을 봄', '노래와 춤'은 모두 포함됨.
 
-- KO: 말하는 이는 이르기를, "사니나제란 여주를 말한다. 판니판니소판니는 두 소판을 말한다. 소판은 작명이다. 우우삼아시는 '우우삼아십'이다. 사이는 사호를 말한다. "
-- EN: The speaker said, "Sanninaje means the female ruler. Panninisopanni refers to the two Sopan. Sopan is a title. Uusamasi is 'Uusamsasip'. Sai means Saho."
+- KO: 그의 아내는 매우 아름다웠다. 돌림병을 옮기는 귀신인 역신이 그녀를 흠모했다. 어떤 날 밤에 역신이 처용의 집으로 몰래 들어갔다. 그곳에서 두 사람이 잠자고 있는 것을 보았다. 처용은 노래하며 춤을 추고 물러났다.
+- EN: His wife was very beautiful, and the plague god Yeoksin admired her. One night, Yeoksin entered Cheoyong's house secretly. He saw two people sleeping there. Cheoyong sang and danced and then withdrew.
+
+### ch_17/P0012 para 4
+
+The original text mentions 'Dudobodo' (都邑將破) and the specific context of the capital being destroyed, which is partially captured but not fully detailed in the Korean/English translation.
+
+- KO: 어법집에서는 산신이 춤을 올렸다고 기록했다. 노래 가사는 지리나라 사람들이 알아차리고 도망친다는 뜻이다. 나라가 망할 것을 알기에 경고하려 했으나, 백성들은 이를 상서로운 일로 여겨 즐기다가 결국 나라를 망쳤다.
+- EN: The Eobeopjip recorded that the mountain god offered a dance. The lyrics meant that the people of Jiri would realize and flee. Because they knew the land was about to fall, the deity tried to warn the
+
+### ch_18/P0002 para 2
+
+The Korean text says 'This is not written by Wang Geoin' (此非王居仁), but the English translation incorrectly states 'This was not written by Wanggeoin' as a quote from the officials. The original Chinese implies they were questioning/denying it was his, or rather, the logic of the sentence in Korean an
+
+- KO: 도적들이 곳곳에서 들끓어 일어났다. 나라 백성들은 이 상황을 걱정했다. 이에 백성들은 다라니를 적은 비밀 글을 써서 길에 던졌다. 왕과 권신들이 그 글을 발견하였다. 그들은 "이 글은 왕거인이 쓴 것이 아니다"라고 말했다.
+- EN: Thieves rose up in swarms everywhere. The people of the land worried about this situation. Then, the people wrote a secret text containing a Dharani and threw it onto the road. The Queen and the power
 
 ### ch_18/P0008 para 2
 
-한국어 '나흘'은 원문 '四年(4년)'을 잘못 번역한 것이며, 영어는 원문을 정확히 반영함.
+The Korean text says 'four years' (四年) of King Sinduk's reign, but the English translation says 'on the fourth day' (fourth day).
 
-- KO: 또한 신덕왕(神德王)이 즉위한 지 나흘 된 을해에 효공왕 내행랑에 제비집 서른넷, 까마귀집 마흔을 만들었다. 또한 삼월에 다시 서리가 내렸고, 유월에 참포수와 바닷물이 파도와 사흘 동안 싸웠다.
-- EN: Also, in the year of Eulhae, four years after King Sinduk ascended the throne, thirty-four swallows' nests and forty crows' nests were made in the inner corridor of King Hyogong. In the third month, f
+- KO: 신덕왕이 왕위에 오른 지 나흘째 되는 을해년에 효공왕은 안쪽 복도에 서른네 개의 제비집을 만들었다. 까마귀 집은 마흔 개였다. 석 달 뒤에 서리가 다시 내렸다. 유월에 벌판의 물과 바닷물이 서로 맞서며 사흘 동안 싸웠다.
+- EN: In the year of Eulhae, on the fourth year of King Sinduk's reign, King Hyogong made thirty-four swallow nests in the inner corridor. There were forty crow nests. Three months later, frost fell again. 
 
-### ch_21/P0001 para 5
+### ch_19/P0008 para 2
 
-The Korean text says 'the second wife' (第二妻), but the English translation omits the word 'second', making it sound like a single person has two titles or there is an ambiguity in the relationship.
+The titles 'Gwang-gong Sun-hwa Waeguk Gongsin Sangjulguk' (觀光順化衛國功臣上柱國) are omitted in both Korean and English.
 
-- KO: 아자의 동생의 아내는 상원부인이며, 둘째 아내인 남원부인이다.
-- EN: The wife of Aja's younger brother was Sangwonbuin, and the second wife was Namwonbuin.
+- KO: 낙랑왕의 정승으로 팔천 호의 토지를 하사받은 김부는 세상을 이어 계림이라 불렸다. 그는 왕의 작위를 받았으며 뛰어난 기개로 구름 위까지 뻗어 나갔다. 그의 문장은 땅을 뒤흔드는 재주가 넘쳤고, 풍부한 지식과 덕망을 갖추었다.
+- EN: Kim Bu, who was appointed as the chief minister of King Nakrang and granted lands of eight thousand households, was called Gyerim throughout the world. He received a royal title, and his heroic spirit
 
-### ch_21/P0011 para 2
+### ch_20/P0008 para 3
 
-The Korean text incorrectly translates '弓於平壤' (hanging a bow at Pyeongyang) as '궁홀산(弓忽山)'.
+The original text says 'three or four' (三四) boxes, but the Korean translation says 'thirty' (서른).
 
-- KO: 추적한 새의 수가 적지 않았으며, 강하고 약함이 이와 같으니 승패를 알 수 있었다. 기대하는 바는 평양(平壤)의 누각에 궁홀산(弓忽山)을 걸고, 패강(浿江)의 물가에서 말을 마시는 것이었다.
-- EN: The number of pursued birds was not small, and since the strong and weak were as such, the victory or defeat could be known. The expectation was to hang a bow at the pavilion of Pyeongyangseong and dr
+- KO: 어떤 이름은 서른이나 네 상자에 담겨 바위 위에 놓였다. 잠시 후 그것들을 살펴보니, 이름 위에 도장이 찍힌 자를 재상으로 삼았다. 그래서 그곳을 용바위라 불렀다. 사비 강변에도 한 바위가 있었다.
+- EN: Some names were placed in three or four boxes upon a rock. After a moment of inspection, those whose names bore an official seal were appointed as prime ministers. Therefore, the place was called Yong
 
-### ch_22/P0001 para 3
+### ch_21/P0010 para 3
 
-원문의 '葅醢卿佐'와 '賤劉士民'에 해당하는 구체적인 표현(신하들을 모욕하고 백성을 비천하게 다루는 등)이 영어에서 'insulted the ministers, and treated the people harshly'로 뭉뚱그려져 있으며, 특히 '賤'의 의미가 충분히 반영되지 않음.
+The original text says '奉景明王表弟獻康王之外孫' (presented the younger brother of King Gyeongmyeong and the great-grandson of King Gang). The Korean translation incorrectly identifies the brother as a 'cousin' (사촌 동생).
 
-- KO: 그대는 아주 작은 이익을 보고 천지의 두터운 은혜를 잊었으며, 군주를 베고 궁궐을 불사르고 신하들을 모욕하며 백성을 가혹하게 다루었다.
-- EN: You saw only a tiny profit and forgot the thick grace of heaven and earth; you slew the monarch, burned the palaces, insulted the ministers, and treated the people harshly.
+- KO: 나는 경명왕의 사촌 동생을 찾아내어 강왕의 외손자를 바쳤다.
+- EN: I found the cousin of King Gyeongmyeong and presented the great-grandson of King Gang.
+
+### ch_21/P0010 para 4
+
+The English text omits the specific warnings about 'hundred schemes of spying/peeping' (百計窺覦) and 'harassment from many sides' (多方侵擾).
+
+- KO: 나는 그에게 높은 자리를 받아들여 위태로운 나라를 다시 세우라고 권했다. 임금이 죽었으나 후임자가 없었다. 그대는 자세히 따지지 말고 충고를 들으며 헛소문과 방해를 견뎌내라.
+- EN: I urged him to accept the high position and rebuild the endangered nation. The king had died, but there was no successor. You must not question things in detail; listen to the advice and endure the ru
+
+### ch_21/P0013 para 3
+
+원문의 '有以救邦國之災'는 '나라를 구하는 재앙을 막으려 애썼다'로 번역되었으나, 영어 'the disaster of saving the nation'은 원문이 의도한 '국가의 재난(위기)을 구제하다'라는 의미를 정확히 전달하지 못하고 어색하게 표현됨.
+
+- KO: 그는 이 혼란을 잠재우려 노력했다. 나라를 구하는 재앙을 막으려 애썼다. 그는 이웃과 친하게 지내며 화합을 꾀했다. 그 결과 수천 리나 되는 농사터에서 백성들이 즐겁게 일하며 살게 되었다.
+- EN: He tried to calm this turmoil. He strove to avert the disaster of saving the nation. He befriended neighbors and sought harmony. As a result, people lived and worked happily in farming lands spanning 
+
+### ch_22/P0003 para 7
+
+The Korean text '큰 변화를 이룰 수 있다' is a loose translation of '能改', but the English version misses the nuance that it refers to the specific ability to change/rectify the situation.
+
+- KO: 만약 이 일을 그냥 지나치지 않고 바꿀 수만 있다면, 큰 변화를 이룰 수 있다.
+- EN: If this matter is not simply passed over but can be changed, a great transformation can be achieved.
 
 ### ch_22/P0006 para 4
 
-The English text says 'he persuaded Singeom', but the Korean and original Chinese say he (Neunghwan) persuaded Singeom to act.
+The Korean text says 'persuaded Geumgang' (금강을 설득했다), but the original Chinese text is '勸神劍' (urged/advised Singeom). The Korean translation incorrectly identifies the person being persuaded.
 
-- KO: 신검은 능환에게 사람을 보내 강주와 무주로 가게 하여 양검과 모의하였다. 청태 이년 을미년 삼월에 영순 등과 함께 신검을 권하여, 현이 금산(金山) 불사에 머무는 동안 사람을 보내 금강을 죽였다.
-- EN: Singeom sent people to Gangju and Muju to reach Neunghwan and conspired with Yanggeom. In the third month of the year Eulmi in the second year of Cheongtae, he persuaded Singeom along with Yeongsun an
+- KO: 신검은 그곳에서 양검과 공모했다. 청태 이년 을미년 삼월이 되자, 신검은 영순 등과 함께 금강을 설득했다. 그들은 훤을 금산 절에 머물게 했다. 그러고는 사람을 보내 금강을 죽였다.
+- EN: Singeom conspired with Yanggeom there. In the third month of the year Eulmi, the second year of Cheongtae, Singeom and Yeongsun and others persuaded Geumgang. They kept Hyeon in a temple at Geumsan. T
+
+### ch_22/P0007 para 5
+
+The Korean text includes '고비녀 내인' (Gobinyeo and other inner women) which is missing in the English translation.
+
+- KO: "가련한 완산이, 아버지를 잃고 눈물을 흘린다. 어린 여종과 남종들이 시중을 들었고, 다른 남자들은 갇혀 있었다. 사월에 이르러 술을 빚어 마시자 지키던 병사 서른 명이 취했다.
+- EN: Pitiful Wansan shed tears for losing his father. Young female and male servants attended him, while other men were imprisoned. When it reached the fourth month, they brewed wine to drink, and the thir
+
+### ch_22/P0011 para 4
+
+원문의 마지막 문장 '問能奐曰' (능환에게 물으니)'이 한국어와 영어 모두에서 누락됨.
+
+- KO: 신검과 두 동생인 부달, 능환 등 마흔여 명이 항복했다. 태조는 그들을 받아들였다. 태조는 남은 이들을 위로하며 아내와 함께 경성으로 올라가라고 허락했다.
+- EN: Singeom and his two younger brothers Budal, Neunghwan, and forty others surrendered. Taejo accepted them. Taejo comforted the remaining people and permitted them to go up to Gyeongseong with their wiv
 
 ### ch_23/P0003 para 4
 
-The comparison to 'Han's Gaozu' (漢之高祖) is missing in the English translation.
+The descriptions of the children's faces (one like the dragon/Tianyi and one like Emperor Gaozu) are missing in both Korean and English.
 
-- KO: 사람들이 머리 숙여 축하하며 모두 공경하며 멈추었다. 매일 자라나 열 날 남짓한 밤낮이 지나자 키가 아홉 자가 되었고, 얼굴은 용과 같았다.
-- EN: The people bowed their heads to offer congratulations and all stopped in respectful awe. They grew every day, and after more than ten days and nights, they reached a height of nine feet and had faces 
+- KO: 사람들이 머리를 조아려 축하하자 모두가 공경하며 멈추었다. 날마다 아이들이 자라나서 열흘 남짓한 밤낮이 지나자 키가 아홉 자에 달했다.
+- EN: When the people bowed their heads to offer congratulations, everyone stopped in respectful silence. The children grew day by day, and after about ten days and nights, they reached a height of nine fee
 
-### ch_23/P0009 para 3
+### ch_23/P0005 para 4
 
-The content is already included in EN [2] as extra content.
+The construction details (building a city of 1,500 paces with palaces, halls, and storehouses) are missing from the translation.
 
-- KO: 난초 모양의 배를 정비하고 계수나무 노를 들어 그들을 맞이하게 했다.
-- EN: He ordered them to prepare the orchid-shaped boats and raise the catalpa oars to welcome them.
+- KO: 임금이 일을 마치고 궁으로 돌아왔다. 임금은 나라 안의 장정과 기술자들을 불러 모았다. 그들에게 매달 스무 날마다 금양을 주어 일하게 했다.
+- EN: The king finished the work and returned to the palace. He summoned able-bodied men and skilled artisans from within the country. He gave them Geumyang every twentieth day of the month to work.
 
-### ch_23/P0010 para 3
+### ch_23/P0017 para 3
 
-The part '上命有司。引媵臣夫妻曰。' (The King ordered the officials to bring the accompanying officials and their wives forward and said...) is missing from both Korean and English.
+The ritual of '豊潔之奠' (the offering of abundant and pure libations) is missing from the English translation.
 
-- KO: 함께 가져온 비단과 옷감, 금과 은, 구슬과 옥, 그리고 온갖 장식품과 놀이용 기구는 셀 수 없을 정도였다. 왕후가 점차 행차지에 가까워지자 임금이 나가서 맞이했다. 함께 휘장 궁에 들어갔다.
-- EN: The silk and fabrics, gold and silver, beads and jade, and all kinds of ornaments and playthings brought along were so numerous they could not be counted. As the Queen drew closer to the destination, 
-
-### ch_24/P0007 para 2
-
-The original text mentions '置排岸使' (appointed a Paegeonsa) in the year 48, which is missing from the English translation.
-
-- KO: 그 후 이백오십아홉 년에 우리 태조(太祖)가 통합한 이후, 대대로 임해현이 되었다. 사십팔 년에도 그러했다.
-- EN: Two hundred and fifty-nine years later, after our Taejo unified it, it became Imhaehyeon for generations. In the forty-eighth year, it was also so.
-
-### ch_24/P0016 para 2
-
-The Korean text includes '동기탈지이(同氣脫知爾)', but the English translation simplifies it to 'Donggi Tali'.
-
-- KO: 왕은 친위병을 내보냈으나, 저쪽은 많고 우리는 적어 대항하기에 견디지 못했다. 이에 동기탈지이(同氣脫知爾)를 보내라 하고 지금 머물러 있게 하였다. 왕자 상손(上孫)과 졸지공(卒支公) 등이 항복하여 신라로 들어왔다.
-- EN: The king sent out his personal guards, but their numbers were many and ours were few, so it was unbearable to face them in battle. He then ordered that Donggi Tali and ordered him to remain there for 
+- KO: 거등왕의 아들이자 구대손인 구충이 이 묘를 이어받았다. 그는 매년 초봄 삼일과 일곱째 날, 한여름 오월, 가을 초닷새와 열닷새에 제사를 지냈다. 그 제례는 끊이지 않고 계속 이어졌다.
+- EN: Guchung, the son of Geodeungwang and his ninth-generation descendant, inherited this shrine. He offered sacrifices every year on the third and seventh days of early spring, the fifth day of midsummer,
 
 
-## OMITTED — 2
+## OMITTED — 28
+
+### ch_01/P0012
+
+The Korean text '누선장군' is a translation of '樓舡', but the English uses 'General Nuseon'. The content is consistent.
+
+### ch_03/P0002
+
+괄호 안의 지명 설명(在大遼醫州界)이 한국어와 영어 모두에서 생략됨.
 
 ### ch_04/P0010
 
-The Korean translation for [2] misses the specific location of descent (兄山) and the detailed notes about the current affiliation of the second village's ancestor (仇良伐麻等烏道北迴德等南村屬焉). However, these are partially merged into the Korean text of [3].
+仇良伐麻等烏道北迴德等南村屬焉（稱今曰者。大祖所置也。下例知）
 
-### ch_23/P0010
+### ch_04/P0014
 
-상명유사.인수신부부왈. (The King ordered the officials to bring the accompanying officials and their wives forward and said.)
+The specific name 'Geoseogan' (居西干) in the original text is slightly different from the Korean transcription 'Geoseogan' (거서간), but they refer to the same entity. However, the phrase '閼智居西干一起' (the first part of the self-introduction) is partially simplified in both languages.
+
+### ch_05/P0008
+
+배를 찾아보니 까마귀 떼가 한 배 위에 모여 있었다는 내용이 한국어와 영어 모두에서 누락됨.
+
+### ch_05/P0008
+
+배 안에 길이가 20척, 너비가 13척인 큰 나무 상자가 하나 있었다는 내용(舡中有一樻子。長二十尺。廣十三尺。)이 전체 번역에서 누락됨.
+
+### ch_05/P0010
+
+호공의 부정과 다툼의 불성립, 그리고 관가에 고소한 내용
+
+### ch_07/P0006
+
+倭王信之 (The Japanese king believed him)
+
+### ch_07/P0009
+
+The specific cultural note regarding the blood on the reeds (今蒹葭上有血痛俗云提上之血) is missing from both translations.
+
+### ch_08/P0002
+
+恐南平壤也。今楊州 (The parenthetical note regarding the location of Daegyo)
+
+### ch_08/P0008
+
+원문의 '周迴二萬六千七百三十步' (둘러보니 2만 6천 7백 30보)
+
+### ch_09/P0004
+
+원문의 (在京城西), (一作神眾寺。誤一云荒川東深渠) 등의 주석 부분이 생략됨.
+
+### ch_09/P0005
+
+The specific lyrics of the song (聖帝魂生子鼻荊郎室亭飛馳諸鬼眾此處莫留停) are omitted in both Korean and English.
+
+### ch_12/P0001
+
+또한 패사자가 만여 명에 달했다 (又敗死者萬餘)
+
+### ch_14/P0007
+
+The original text mentions 'Muliang' (牟梁) as one of the Agans taking the son, which is missing in both Korean and English.
+
+### ch_18/P0010
+
+The specific mention of 'the second month' (二月) in the original text is missing or incorrectly translated as 'tenth month' in the English version.
+
+### ch_19/P0008
+
+觀光順化衛國功臣上柱國 (Gwang-gong Sun-hwa Waeguk Gongsin Sangjulguk)
+
+### ch_20/P0004
+
+恐後太子所不容 (fear that the crown prince would not tolerate it)
+
+### ch_20/P0009
+
+The name 'Sawi' (沙沸) is translated as 'Sabeol' in Korean and 'Sabeol' in English, but the original text contains a variant reading 'Sa-i' (沙伊).
+
+### ch_20/P0009
+
+The specific detail that the successor king was 'young' (幼少) is omitted in both translations.
+
+### ch_21/P0007
+
+고울부(今蔚州非也)의 '현재 위주가 아님'을 뜻하는 주석 내용이 한국어와 영어 모두에서 생략됨.
+
+### ch_21/P0010
+
+The final sentence '拔僕牛毛' (pulling out the ox hair - a metaphor for taking decisive action or dealing with stubborn problems) is missing from both Korean and English translations.
+
+### ch_22/P0011
+
+問能奐曰
+
+### ch_23/P0003
+
+Then, one face was like the Dragon (Tianyi) and the other was like Emperor Gaozu of Han.
+
+### ch_23/P0004
+
+國稱大駕洛 (The country was also called Daegyalo)
+
+### ch_23/P0005
+
+築置一千五百步周迴羅城。宮禁殿宇。及諸有司屋宇。虎庫倉廩之地。
+
+### ch_23/P0006
+
+탈해의 신체적 특징(키가 삼 척이고 머리가 한 척인 내용)이 한국어와 영어 모두에서 누락됨.
+
+### ch_24/P0011
+
+마지막 문장 '日月雖逝, 規儀不傾' (해와 달이 비록 흘러가도 그 법도는 기울지 않았다)이 한국어와 영어 모두에서 누락됨.
 
 
-## EXTRA — 11
+## EXTRA — 16
 
-### ch_01/P0005 para 3
+### ch_02/P0003 para 2
 
-The English text uses 'Cheuk' instead of 'Cheuk-seok' (帝釋).
+The last sentence 'These were names referring to different ethnicities' is not in the original Chinese text.
 
-- KO: 《고기(古記)》에 이르기를, "옛적에 환인(桓因)(제석(帝釋)을 말한다)의 서자(庶子)인 환웅(桓雄)이 천하를 다스릴 뜻을 품고 인간 세상을 탐내었다."라고 하였다.
-- EN: The *Gogi* states, "Long ago, Hwanwoong, the illegitimate son of Hwanin (referring to Cheuk), conceived the intent to rule the world and desired the human realm."
+- KO: 《동안홍기》에 따르면 아홉 한족은 일본, 중국, 오월, 가라, 앙유, 말갈, 단국, 여진, 해로로 나뉜다. 이들은 각각 다른 민족을 가리키는 이름이다.
+- EN: According to the Donganhonggi, the nine Han peoples were divided into Japan, China, Wu and Yue, Gara, Angyu, Malgal, Dankuk, Yeojin, and Haero. These were names referring to different ethnicities.
 
-### ch_01/P0012 para 5
+### ch_03/P0009 para 6
 
-The Korean text says 'reported to the Emperor' (報天子) regarding the execution of Weisan, but the English translation adds that the Emperor was informed and then executed him.
+The English text contains the same information as Korean segment [5] (the mother's warning part).
 
-- KO: (천자에게 보고하여 위산을 베었다.) 좌장군은 패수 상군을 격파하고 먼저 성 아래에 이르러 그곳의 서북쪽을 포위했다. 누선장군도 남쪽 성에 모여들었다.
-- EN: The Emperor was informed and Weisan was executed. The Left General defeated the upper army of Paesu and arrived first at the foot of the castle, surrounding its northwest side. Noseon also gathered at
+- KO: "사람들이 너를 해치려 한다. 네 재주와 지략으로 어디를 가도 막지 못할 곳이 없다. 속히 대책을 세우거라. 이에 주몽은 오이 등 세 사람과 벗이 되었다.
+- EN: People intend to harm you. With your skills and strategy, there is nowhere you cannot go. Prepare a plan quickly. At this, Jumong became friends with three people, including Oi.
 
-### ch_02/P0007 para 2
+### ch_04/P0006 para 6
 
-The names of the four commanderies (Jinbeon, Imdun, Nakrang, and Hyeondo) are not in the original Chinese text.
+The Korean text repeats '정하택' three times and adds a descriptive sentence about wealthy mansions in bustling streets which is not in the original Chinese.
 
-- KO: 한서(漢書)에 이르기를, 서한이 조선 옛 땅에 처음으로 네 군(진번·임둔·낙랑·현도)을 설치하였다. 이후 두 부를 더 설치하였으나 법령이 점차 번거로워졌고, 일흔여덟 개의 나라로 나뉘어 각각 만 호씩을 거느렸다.
-- EN: The Book of Han stated that the Western Han first established four commanderies (Jinbeon, Imdun, Nakrang, and Hyeondo) in the old lands of Joseon. Later, two prefectures were added, but as the laws an
+- KO: 그 외에도 정하택, 정하택, 정하택 등 여러 집들이 모여 살았다. 이들은 모두 당시 서울의 번화한 거리에 자리 잡은 부유한 자들의 저택이었다.
+- EN: In addition, many houses such as Jeonghataek, Jeonghataek, and Jeonghataek lived together. These were all the mansions of wealthy people located in the bustling streets of Seoul at that time.
 
-### ch_09/P0008 para 1
+### ch_04/P0010 para 4
 
-The English version includes the entire poem (讚), which is also translated in Korean segment [2].
+The Korean text includes a summary sentence ('원문에는 이 세 마을에 대한 기록이 이어지며...') that is not in the Chinese source.
 
-- KO: 무엇을 말하는가. 황룡사(皇龍寺) 장륙존상 하나, 그 사찰의 아홉 층 탑 둘, 진평왕(眞平王)이 하늘이 내린 옥띠를 받은 것 세 가지이다. 이에 그 모의를 멈추고 찬양하였다.
-- EN: What is meant? One was the Jangnyukjonsang of Hwangnyongsa, two were the nine-story pagodas of that temple, and three was the fact that King Jinpyeong received a jade belt from heaven. Thus, he ceased
+- KO: 셋째는 무산 대수 마을이다. 촌장 이름은 구리마(한 자는 구로도 쓰임)라 했다. 원문에는 이 세 마을에 대한 기록이 이어지며, 각 마을의 위치와 조상의 내력이 상세히 전해진다.
+- EN: The third was Musan Daesu Village. The head of the village was called Gurima (in one instance, it is written as Guro). Records for these three villages continue, and the locations and ancestral histor
 
-### ch_11/P0003 para 5
+### ch_08/P0010 para 1
 
-The Korean text says '태자 법민(法敏)은 문무왕이다', but the English translation adds 'is Munmuwang' which is not in the source (the source only mentions his name).
+The English version includes 'Queen Heung', which is not in the original text (the original says she was the daughter of King Heung).
 
-- KO: 왕과 유신이 신묘한 계책으로 힘을 다해 삼한을 하나로 통일하니, 사직에 큰 공이 있었다. 그러므로 사당의 호칭을 태종(太宗)이라 하였다. 태자 법민(法敏)은 문무왕이다.
-- EN: Wang and Yusin unified the Three Han with divine strategies and great effort, achieving great merit for the state. Therefore, the temple name was designated as Taejong. The Crown Prince Beommin is Mun
+- KO: 스물네 번째는 진흥왕이다. 진흥왕은 열다섯 살에 왕위에 올랐다. 태후가 대신 정사를 돌보았다. 태후는 법흥왕의 딸이었으며, 입종이라는 갈문왕의 아내였다.
+- EN: The twenty-fourth is King Jinheung. When he ascended the throne, he was fifteen years old. The Queen Dowager managed the government on his behalf. The Queen Dowager was the daughter of Queen Heung and
 
-### ch_11/P0006 para 2
+### ch_13/P0006 para 3
 
-The English version includes 'also known as Sonnyang' which is not in the Korean text (the Korean text only mentions 'Sonnyang' as a variant of the name).
+원문에서 '원비'는 사람 이름이 아니라 '둥근 문(圓扉)'을 의미하며, 이는 고종의 명령을 전달하거나 관련된 상황을 나타내는 지명 혹은 특정 용어이나 한국어/영어 모두 인명으로 오역함.
 
-- KO: 백제의 요충지이다)을 통과하게 해서는 안 되며, 수군은 기벌포(伎伐浦)(곧 장사이다. 또한 손량, 하나는 지화포라 쓴다.
-- EN: It is a strategic point of Baekje; the navy must not be allowed to enter Gibeolpo (which is Jangsa, also known as Sonnyang, and in one place written as Jihwapo).
+- KO: 고종이 김인문 등을 불러들여 명령했다. "그대들이 내 군대를 빌려 신라를 멸하게 하겠소. 어찌하여 이를 거부하는가?" 그러고는 원비라는 자에게 명을 내려, 오십만 군사를 훈련시켜 대장을 세우고 신라를 치려 했다.
+- EN: Gojong summoned Kim Inmun and the others and commanded them, "You shall borrow my troops to destroy Silla. Why do you refuse?" He then gave orders to a man named Wonbi to train five hundred thousand s
 
-### ch_18/P0003 para 6
+### ch_14/P0008 para 4
 
-The Korean text says '궁홀산(弓忽山)', but the English translation uses 'Gungholsan' which is a phonetic transcription of the Hanja. However, the original Hanja '弓' means bow and '忽' means sudden/suddenness; it is not a mountain name like 'Gung-hol'. The Korean text mistakenly interprets 弓(Bow) as part of
+The Korean text includes '무시했다' (looked down on), which is not in the original Chinese text. The original says '美郎之重士風味', meaning the young man valued the dignity/style of a scholar.
 
-- KO: 그는 궁홀산(弓忽山)의 사수 오십 명을 선발하여 그를 따르게 하였다.
-- EN: He selected fifty archers from Gungholsan and had them follow him.
+- KO: 젊은 사내는 신분이 낮은 익선을 무시했다. 그는 자신이 맡은 세성 삼십 석을 익선에게 주며 도와달라고 청했다.
+- EN: The young man looked down on the lowly Ikseon. He gave the thirty seong of tax grain he was in charge of to Ikseon and asked for his help.
 
-### ch_18/P0005 para 7
+### ch_14/P0010 para 2
 
-The English translation of [7] is an explanatory note not present in the original text.
+The English translation uses 'layer' instead of 'hermit'.
 
-- KO: (이 대목에서 '거타'는 궁술에 능한 자를 뜻한다.)
-- EN: In this passage, Geota refers to a person skilled in archery.
+- KO: 한 달 뒤에 공은 꿈속에서 거사가 방 안으로 들어오는 것을 보았다. 집안 식구들도 똑같이 꿈을 꾸었다. 모두가 매우 놀라고 이상하게 여겼다. 다음 날 사람을 보내 거사의 안부를 물었다.
+- EN: A month later, the lord saw in a dream that the layer entered his room. The family members also had the same dream. Everyone was very surprised and found it strange. The next day, he sent someone to a
 
-### ch_21/P0012 para 7
+### ch_14/P0010 para 5
 
-The Korean text includes a parenthetical explanation '(그것은 칭찬이나 비방이 아니라 정중한 예우를 뜻한다.)' which is not in the original Chinese text.
+The English translation lists 'Munmusang' and 'Sinmunwang', but the original text is 'Munmu-wang' and 'Sinmun-wang'. Also, the Korean translation of '신문왕' is correct, but the English transcription of the names should be checked against standard historical titles.
 
-- KO: 지(芝)를 받들고 검(檢)을 들고도 더욱 감격하였으며, (그것은 칭찬이나 비방이 아니라 정중한 예우를 뜻한다.) 노족의 서신에 담긴 내용과 가르침을 모두 받아들여 깊이 감사하였다.
-- EN: Even while holding the ji and carrying the geom, he was even more deeply moved; having received all the contents and instructions contained in the letter of the Lu jok, he expressed profound gratitude
+- KO: 그는 자라나서 관직에 나갔다. 그는 유신공과 함께 부사관이 되어 삼한을 다스렸다. 진덕태종과 문무왕, 신문왕 네 대가 무덤을 지키며 나라를 안정시켰다.
+- EN: He grew up and entered government service. He served as a deputy commander alongside Gong Yushin and ruled Samhan. Four generations—Jindeok Taejong, Munmuwang, Sinmunwang, and Munmusa—guarded the tomb
 
-### ch_22/P0008 para 6
+### ch_15/P0002 para 5
 
-The phrase '고뇌를 털어놓았다' (revealed his distress) is not in the original text; it is an interpretation of '密語其妻曰'.
+The content of [5] is not in the original Chinese text.
 
-- KO: 그는 이와 같이 말하며 아내에게 고뇌를 털어놓았다.
-- EN: He spoke in this way and revealed his distress to his wife.
+- KO: 한 노인이 앞서 나섰다. 그는 백성들을 모으고 노래를 부르게 했다. 노인은 막대로 언덕을 내리쳤다. 그러자 바다의 용이 귀부인을 다시 돌려주었다.
+- EN: An old man stepped forward. He gathered the people and had them sing a song. The old man struck the hill with a staff. Then, the dragon of the sea returned the lady to him.
 
-### ch_23/P0009 para 2
+### ch_18/P0003 para 4
 
-The English version includes 'prepare orchid-shaped boats and raise catalpa oars', which is the content of KO [3].
+The Korean text includes 'Asinnyangpaewang' (아신양패왕) while the original Chinese text says 'Asin-ryangbae-wang' (阿飱良貝王). The English translation uses 'Asinnyangpaewang'.
 
-- KO: 유천(留天) 일행이 먼저 섬 위에 불을 올리자, 그들이 서로 건너와 육지에 내려서 다투어 달려왔다. 신귀가 그들을 바라보고는 궁궐로 들어가 보고하였다. 임금이 이를 듣고 기뻐하며 곧 구간(九干) 등을 보내어
-- EN: When the party of Yucheon first raised fires on the island, they crossed over and landed on the mainland, rushing forward in a scramble. Singwi saw them, entered the palace, and reported it. The King 
+- KO: 우우삼아시는 열을 뜻하고, 사이는 좋다는 뜻이다. 이 왕은 아신양패왕의 손자였다. 그는 당나라에 사신으로 갔다가 백제 해적이 진사에서 방해한다는 소식을 들었다.
+- EN: Uu-sam-a means ten, and sai means good. This king was the grandson of Asinnyangpaewang. He went to Tang as an envoy and heard that Baekje pirates were obstructing at Jinsa.
+
+### ch_18/P0003 para 5
+
+The Korean and English texts include 'Gungholsan' (궁홀산), but this location is not mentioned in the original Chinese text.
+
+- KO: 그는 궁홀산의 활 쏘는 이들 오십 명을 뽑아 데리고 갔다.
+- EN: He selected fifty archers from Gungholsan and took them with him.
+
+### ch_20/P0004 para 4
+
+The English version includes 'the second was Onjo' which is correct, but the Korean text says '둘째는 온조였다'. However, the original Chinese text contains '恐後太子所不容', which means 'fearing that the crown prince would not tolerate him/it', which is missing in both KO and EN.
+
+- KO: 그 왕은 주몽을 보고 보통 사람이 아님을 알았다. 그는 둘째 딸을 주몽과 혼인시켰다. 얼마 뒤 부여왕이 죽자 주몽이 왕위를 이어받았다. 그는 두 아들을 낳았는데, 첫째는 비류이고 둘째는 온조였다.
+- EN: The king saw that Jumong was no ordinary man. He married his second daughter to Jumong. Not long after, the King of Buyeo died and Jumong inherited the throne. He had two sons; the elder was Biryu and
+
+### ch_22/P0005 para 4
+
+The Korean text includes 'They were some of the many descendants Seonhwi had, and each held different titles and names' which is not in the original Chinese text.
+
+- KO: 여섯째는 이름이 없으며 일곱째부터 아홉째까지의 기록은 남아 있지 않다. 이들은 선휘가 가졌던 많은 자손 중 일부이며, 각각 다른 직함과 이름을 가지고 있었다.
+- EN: The sixth had no name, and the records for the seventh through the ninth did not remain. They were some of the many descendants Seonhwi had, and each held different titles and names.
+
+### ch_23/P0018 para 3
+
+The Korean text includes '(This is the old name of Silla.)' which is not in the original Chinese text.
+
+- KO: "또한 사당 근처의 땅 서른 기를 내어주어 군대를 먹이고 돌보는 비용으로 쓰게 하라. 이 땅을 왕위전이라 부르고 본래의 땅에 속하게 하라." (이곳은 신라의 옛 이름이다.)
+- EN: Furthermore, set aside thirty *gi* of land near the shrine to be used for the costs of feeding and maintaining the army. Call this land Wangwijeon and include it in the original lands. (This is the ol
+
+### ch_24/P0014 para 4
+
+The Korean text includes '하나로 합쳐서 가르칠 자' (the character for teaching combined into one), which is an interpretation of the Chinese characters '吹希', but the English translation adds extra explanatory context not present in the original or the Korean.
+
+- KO: 왕비 도녕은 대아간의 딸 복수였다. 그녀는 아들 취희왕을 낳았고, 그 이름은 하나로 합쳐서 가르칠 자라 썼다.
+- EN: The Queen Consort Doneong was Boksu, the daughter of Daeagan. She gave birth to a son, Chu-huiwang, and his name was written as the character for teaching combined into one.
 

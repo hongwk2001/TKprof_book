@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="3.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="BookId">urn:uuid:ab1e42b7-6678-4bb2-816b-05582a1c5c77</dc:identifier>
+    <dc:title>A Tale of Two Cities</dc:title>
+    <dc:creator>Charles Dickens</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:publisher>TKPROF LLC</dc:publisher>
+    <meta property="dcterms:modified">2026-07-24T15:42:00Z</meta>
+  </metadata>
+  <manifest>
+    <item id="style" href="Styles/main.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+    <item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+    <item id="0403m_color" href="Images/0403m_color.png" media-type="image/png"/>
+    <item id="0404m_color" href="Images/0404m_color.png" media-type="image/png"/>
+    <item id="0414m_color" href="Images/0414m_color.png" media-type="image/png"/>
+    <item id="0442m_color" href="Images/0442m_color.png" media-type="image/png"/>
+    <item id="0465m_color" href="Images/0465m_color.png" media-type="image/png"/>
+    <item id="0471m_color" href="Images/0471m_color.png" media-type="image/png"/>
+    <item id="0496m_color" href="Images/0496m_color.png" media-type="image/png"/>
+    <item id="0524m_color" href="Images/0524m_color.png" media-type="image/png"/>
+    <item id="0535m_color" href="Images/0535m_color.png" media-type="image/png"/>
+    <item id="0544m_color" href="Images/0544m_color.png" media-type="image/png"/>
+    <item id="0576m_color" href="Images/0576m_color.png" media-type="image/png"/>
+    <item id="0592m_color" href="Images/0592m_color.png" media-type="image/png"/>
+    <item id="0616m_color" href="Images/0616m_color.png" media-type="image/png"/>
+    <item id="0649m_color" href="Images/0649m_color.png" media-type="image/png"/>
+    <item id="0653m_color" href="Images/0653m_color.png" media-type="image/png"/>
+    <item id="0686m_color" href="Images/0686m_color.png" media-type="image/png"/>
+    <item id="intro" href="Text/intro.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book1_ch_01" href="Text/book1_ch_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book1_ch_02" href="Text/book1_ch_02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book1_ch_03" href="Text/book1_ch_03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book1_ch_04" href="Text/book1_ch_04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book1_ch_05" href="Text/book1_ch_05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book1_ch_06" href="Text/book1_ch_06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_01" href="Text/book2_ch_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_02" href="Text/book2_ch_02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_03" href="Text/book2_ch_03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_04" href="Text/book2_ch_04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_05" href="Text/book2_ch_05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_06" href="Text/book2_ch_06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_07" href="Text/book2_ch_07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_08" href="Text/book2_ch_08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_09" href="Text/book2_ch_09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_10" href="Text/book2_ch_10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_11" href="Text/book2_ch_11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_12" href="Text/book2_ch_12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_13" href="Text/book2_ch_13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_14" href="Text/book2_ch_14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_15" href="Text/book2_ch_15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_16" href="Text/book2_ch_16.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_17" href="Text/book2_ch_17.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_18" href="Text/book2_ch_18.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_19" href="Text/book2_ch_19.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_20" href="Text/book2_ch_20.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_21" href="Text/book2_ch_21.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_22" href="Text/book2_ch_22.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_23" href="Text/book2_ch_23.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book2_ch_24" href="Text/book2_ch_24.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book3_ch_01" href="Text/book3_ch_01.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book3_ch_02" href="Text/book3_ch_02.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book3_ch_03" href="Text/book3_ch_03.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book3_ch_04" href="Text/book3_ch_04.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book3_ch_05" href="Text/book3_ch_05.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book3_ch_06" href="Text/book3_ch_06.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book3_ch_07" href="Text/book3_ch_07.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book3_ch_08" href="Text/book3_ch_08.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book3_ch_09" href="Text/book3_ch_09.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book3_ch_10" href="Text/book3_ch_10.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book3_ch_11" href="Text/book3_ch_11.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book3_ch_12" href="Text/book3_ch_12.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book3_ch_13" href="Text/book3_ch_13.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book3_ch_14" href="Text/book3_ch_14.xhtml" media-type="application/xhtml+xml"/>
+    <item id="book3_ch_15" href="Text/book3_ch_15.xhtml" media-type="application/xhtml+xml"/>
+    <item id="copyright" href="Text/copyright.xhtml" media-type="application/xhtml+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="intro"/>
+    <itemref idref="book1_ch_01"/>
+    <itemref idref="book1_ch_02"/>
+    <itemref idref="book1_ch_03"/>
+    <itemref idref="book1_ch_04"/>
+    <itemref idref="book1_ch_05"/>
+    <itemref idref="book1_ch_06"/>
+    <itemref idref="book2_ch_01"/>
+    <itemref idref="book2_ch_02"/>
+    <itemref idref="book2_ch_03"/>
+    <itemref idref="book2_ch_04"/>
+    <itemref idref="book2_ch_05"/>
+    <itemref idref="book2_ch_06"/>
+    <itemref idref="book2_ch_07"/>
+    <itemref idref="book2_ch_08"/>
+    <itemref idref="book2_ch_09"/>
+    <itemref idref="book2_ch_10"/>
+    <itemref idref="book2_ch_11"/>
+    <itemref idref="book2_ch_12"/>
+    <itemref idref="book2_ch_13"/>
+    <itemref idref="book2_ch_14"/>
+    <itemref idref="book2_ch_15"/>
+    <itemref idref="book2_ch_16"/>
+    <itemref idref="book2_ch_17"/>
+    <itemref idref="book2_ch_18"/>
+    <itemref idref="book2_ch_19"/>
+    <itemref idref="book2_ch_20"/>
+    <itemref idref="book2_ch_21"/>
+    <itemref idref="book2_ch_22"/>
+    <itemref idref="book2_ch_23"/>
+    <itemref idref="book2_ch_24"/>
+    <itemref idref="book3_ch_01"/>
+    <itemref idref="book3_ch_02"/>
+    <itemref idref="book3_ch_03"/>
+    <itemref idref="book3_ch_04"/>
+    <itemref idref="book3_ch_05"/>
+    <itemref idref="book3_ch_06"/>
+    <itemref idref="book3_ch_07"/>
+    <itemref idref="book3_ch_08"/>
+    <itemref idref="book3_ch_09"/>
+    <itemref idref="book3_ch_10"/>
+    <itemref idref="book3_ch_11"/>
+    <itemref idref="book3_ch_12"/>
+    <itemref idref="book3_ch_13"/>
+    <itemref idref="book3_ch_14"/>
+    <itemref idref="book3_ch_15"/>
+    <itemref idref="copyright"/>
+  </spine>
+</package>

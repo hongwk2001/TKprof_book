@@ -1,0 +1,802 @@
+[
+  {
+    "file": "book1_ch_04.json",
+    "id": 195,
+    "prev_context": "\"You know that your parents had very little money, and that what they did have was secured for your mother and you.",
+    "target_en": "There has been no new discovery of money or property; but, \"",
+    "next_context": "He felt her grip tighten on his wrist, and he stopped.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 196,
+    "prev_context": "There has been no new discovery of money or property; but, \"",
+    "target_en": "He felt her grip tighten on his wrist, and he stopped.",
+    "next_context": "The expression on her forehead, which had caught his attention before and was now frozen, had deepened into a look of pain and horror.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 197,
+    "prev_context": "He felt her grip tighten on his wrist, and he stopped.",
+    "target_en": "The expression on her forehead, which had caught his attention before and was now frozen, had deepened into a look of pain and horror.",
+    "next_context": "\"But he has been, been found.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 198,
+    "prev_context": "The expression on her forehead, which had caught his attention before and was now frozen, had deepened into a look of pain and horror.",
+    "target_en": "\"But he has been, been found.",
+    "next_context": "He is alive.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 199,
+    "prev_context": "\"But he has been, been found.",
+    "target_en": "He is alive.",
+    "next_context": "Highly changed, most likely; perhaps almost a complete wreck, though we will hope for the best.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 200,
+    "prev_context": "He is alive.",
+    "target_en": "Highly changed, most likely; perhaps almost a complete wreck, though we will hope for the best.",
+    "next_context": "Still, he is alive.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 201,
+    "prev_context": "Highly changed, most likely; perhaps almost a complete wreck, though we will hope for the best.",
+    "target_en": "Still, he is alive.",
+    "next_context": "Your father has been taken to the home of an old servant in Paris, and we are going there: I, to identify him if I can; you, to restore him to life, love, work, rest, and comfort.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 202,
+    "prev_context": "Still, he is alive.",
+    "target_en": "Your father has been taken to the home of an old servant in Paris, and we are going there: I, to identify him if I can; you, to restore him to life, love, work, rest, and comfort.\"",
+    "next_context": "A shiver ran through her body, and from her into him.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 203,
+    "prev_context": "Your father has been taken to the home of an old servant in Paris, and we are going there: I, to identify him if I can; you, to restore him to life, love, work, rest, and comfort.\"",
+    "target_en": "A shiver ran through her body, and from her into him.",
+    "next_context": "She said in a low, clear, awestruck voice, as if speaking in a dream:",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 204,
+    "prev_context": "A shiver ran through her body, and from her into him.",
+    "target_en": "She said in a low, clear, awestruck voice, as if speaking in a dream:",
+    "next_context": "\"I am going to see his ghost!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 205,
+    "prev_context": "She said in a low, clear, awestruck voice, as if speaking in a dream:",
+    "target_en": "\"I am going to see his ghost!",
+    "next_context": "It will be his ghost, not him!\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 206,
+    "prev_context": "\"I am going to see his ghost!",
+    "target_en": "It will be his ghost, not him!\"",
+    "next_context": "Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 207,
+    "prev_context": "It will be his ghost, not him!\"",
+    "target_en": "Mr.",
+    "next_context": "Lorry gently rubbed the hands holding his arm. \"There, there, there!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 208,
+    "prev_context": "Mr.",
+    "target_en": "Lorry gently rubbed the hands holding his arm. \"There, there, there!",
+    "next_context": "Look, now!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 209,
+    "prev_context": "Lorry gently rubbed the hands holding his arm. \"There, there, there!",
+    "target_en": "Look, now!",
+    "next_context": "You know the best and the worst of it now.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 210,
+    "prev_context": "Look, now!",
+    "target_en": "You know the best and the worst of it now.",
+    "next_context": "You are on your way to see the poor, wronged gentleman, and after a smooth sea voyage and a land journey, you will soon be by his side.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 211,
+    "prev_context": "You know the best and the worst of it now.",
+    "target_en": "You are on your way to see the poor, wronged gentleman, and after a smooth sea voyage and a land journey, you will soon be by his side.\"",
+    "next_context": "She repeated in the same tone, sinking to a whisper, \"I have been free, I have been happy, yet his ghost has never haunted me!\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 212,
+    "prev_context": "You are on your way to see the poor, wronged gentleman, and after a smooth sea voyage and a land journey, you will soon be by his side.\"",
+    "target_en": "She repeated in the same tone, sinking to a whisper, \"I have been free, I have been happy, yet his ghost has never haunted me!\"",
+    "next_context": "\"Only one more thing,\" said Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 213,
+    "prev_context": "She repeated in the same tone, sinking to a whisper, \"I have been free, I have been happy, yet his ghost has never haunted me!\"",
+    "target_en": "\"Only one more thing,\" said Mr.",
+    "next_context": "Lorry, emphasizing the point to keep her focused: \"He has been found living under another name. His real name has been long forgotten or hidden.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 214,
+    "prev_context": "\"Only one more thing,\" said Mr.",
+    "target_en": "Lorry, emphasizing the point to keep her focused: \"He has been found living under another name. His real name has been long forgotten or hidden.",
+    "next_context": "\"He was found under another name. His true name had been forgotten or hidden long ago.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 215,
+    "prev_context": "Lorry, emphasizing the point to keep her focused: \"He has been found living under another name. His real name has been long forgotten or hidden.",
+    "target_en": "\"He was found under another name. His true name had been forgotten or hidden long ago.",
+    "next_context": "It would be worse than useless to ask any questions now, because it would be dangerous.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 216,
+    "prev_context": "\"He was found under another name. His true name had been forgotten or hidden long ago.",
+    "target_en": "It would be worse than useless to ask any questions now, because it would be dangerous.",
+    "next_context": "It would be even more pointless to find out whether he was deliberately kept prisoner or simply forgotten.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 217,
+    "prev_context": "It would be worse than useless to ask any questions now, because it would be dangerous.",
+    "target_en": "It would be even more pointless to find out whether he was deliberately kept prisoner or simply forgotten.",
+    "next_context": "Even I, safe because I am an Englishman, and even Tellson's Bank, as important as they are to French finances, avoid mentioning the matter.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 218,
+    "prev_context": "It would be even more pointless to find out whether he was deliberately kept prisoner or simply forgotten.",
+    "target_en": "Even I, safe because I am an Englishman, and even Tellson's Bank, as important as they are to French finances, avoid mentioning the matter.",
+    "next_context": "The safest thing is to say nothing about this anywhere, to anyone, and to get him out of France.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 219,
+    "prev_context": "Even I, safe because I am an Englishman, and even Tellson's Bank, as important as they are to French finances, avoid mentioning the matter.",
+    "target_en": "The safest thing is to say nothing about this anywhere, to anyone, and to get him out of France.",
+    "next_context": "Even I, safe as an Englishman, and even Tellson's Bank, as important as we are to French finance, avoid all talk of it.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 220,
+    "prev_context": "The safest thing is to say nothing about this anywhere, to anyone, and to get him out of France.",
+    "target_en": "Even I, safe as an Englishman, and even Tellson's Bank, as important as we are to French finance, avoid all talk of it.",
+    "next_context": "I carry not a single scrap of paper mentioning this mission.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 221,
+    "prev_context": "Even I, safe as an Englishman, and even Tellson's Bank, as important as we are to French finance, avoid all talk of it.",
+    "target_en": "I carry not a single scrap of paper mentioning this mission.",
+    "next_context": "My credentials, notes, and records are summed up in one single phrase: 'Recalled to Life.' But what's wrong?",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 222,
+    "prev_context": "I carry not a single scrap of paper mentioning this mission.",
+    "target_en": "My credentials, notes, and records are summed up in one single phrase: 'Recalled to Life.' But what's wrong?",
+    "next_context": "She isn't hearing a word!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 223,
+    "prev_context": "My credentials, notes, and records are summed up in one single phrase: 'Recalled to Life.' But what's wrong?",
+    "target_en": "She isn't hearing a word!",
+    "next_context": "Miss Manette!\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 224,
+    "prev_context": "She isn't hearing a word!",
+    "target_en": "Miss Manette!\"",
+    "next_context": "Completely still and silent, not even leaning back in her chair, she sat under his touch, totally unconscious. Her eyes were open and fixed on him, and that worried expression looked as if it were carved or branded into her forehead.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 225,
+    "prev_context": "Miss Manette!\"",
+    "target_en": "Completely still and silent, not even leaning back in her chair, she sat under his touch, totally unconscious. Her eyes were open and fixed on him, and that worried expression looked as if it were carved or branded into her forehead.",
+    "next_context": "She held his arm so tightly that he was afraid to pull away in case he hurt her, so he called out loudly for help without moving.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 226,
+    "prev_context": "Completely still and silent, not even leaning back in her chair, she sat under his touch, totally unconscious. Her eyes were open and fixed on him, and that worried expression looked as if it were carved or branded into her forehead.",
+    "target_en": "She held his arm so tightly that he was afraid to pull away in case he hurt her, so he called out loudly for help without moving.",
+    "next_context": "A wild-looking woman came running into the room ahead of the hotel servants.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 227,
+    "prev_context": "She held his arm so tightly that he was afraid to pull away in case he hurt her, so he called out loudly for help without moving.",
+    "target_en": "A wild-looking woman came running into the room ahead of the hotel servants.",
+    "next_context": "Even in his panic, Mr. Lorry noticed her: very red complexion, red hair, a strangely tight dress, and an enormous hat that looked like a wooden bucket or a giant block of Stilton cheese. She quickly solved the problem of freeing his arm by planting a strong, muscular hand flat on his chest and shoving him backwards into the wall.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 228,
+    "prev_context": "A wild-looking woman came running into the room ahead of the hotel servants.",
+    "target_en": "Even in his panic, Mr. Lorry noticed her: very red complexion, red hair, a strangely tight dress, and an enormous hat that looked like a wooden bucket or a giant block of Stilton cheese. She quickly solved the problem of freeing his arm by planting a strong, muscular hand flat on his chest and shoving him backwards into the wall.",
+    "next_context": "\"I really think this must be a man!\" was Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 229,
+    "prev_context": "Even in his panic, Mr. Lorry noticed her: very red complexion, red hair, a strangely tight dress, and an enormous hat that looked like a wooden bucket or a giant block of Stilton cheese. She quickly solved the problem of freeing his arm by planting a strong, muscular hand flat on his chest and shoving him backwards into the wall.",
+    "target_en": "\"I really think this must be a man!\" was Mr.",
+    "next_context": "Lorry's breathless thought as he hit the wall.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 230,
+    "prev_context": "\"I really think this must be a man!\" was Mr.",
+    "target_en": "Lorry's breathless thought as he hit the wall.",
+    "next_context": "\"Look at all of you!\" this woman yelled at the hotel servants. \"Why don't you go and fetch help, instead of standing there staring at me?",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 231,
+    "prev_context": "Lorry's breathless thought as he hit the wall.",
+    "target_en": "\"Look at all of you!\" this woman yelled at the hotel servants. \"Why don't you go and fetch help, instead of standing there staring at me?",
+    "next_context": "I'm not much to look at, am I?",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 232,
+    "prev_context": "\"Look at all of you!\" this woman yelled at the hotel servants. \"Why don't you go and fetch help, instead of standing there staring at me?",
+    "target_en": "I'm not much to look at, am I?",
+    "next_context": "Why don't you go get things?",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 233,
+    "prev_context": "I'm not much to look at, am I?",
+    "target_en": "Why don't you go get things?",
+    "next_context": "I'll show you what's what if you don't bring smelling salts, cold water, and vinegar right now!\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 234,
+    "prev_context": "Why don't you go get things?",
+    "target_en": "I'll show you what's what if you don't bring smelling salts, cold water, and vinegar right now!\"",
+    "next_context": "The servants quickly scattered to get these items, and she gently laid the unconscious girl on a sofa, tending to her with great skill and care. She called her \"my precious!\" and \"my sweet bird!\" and spread her golden hair over her shoulders with pride and tenderness.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 235,
+    "prev_context": "I'll show you what's what if you don't bring smelling salts, cold water, and vinegar right now!\"",
+    "target_en": "The servants quickly scattered to get these items, and she gently laid the unconscious girl on a sofa, tending to her with great skill and care. She called her \"my precious!\" and \"my sweet bird!\" and spread her golden hair over her shoulders with pride and tenderness.",
+    "next_context": "\"And you in brown!\" she said, turning angrily to Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 236,
+    "prev_context": "The servants quickly scattered to get these items, and she gently laid the unconscious girl on a sofa, tending to her with great skill and care. She called her \"my precious!\" and \"my sweet bird!\" and spread her golden hair over her shoulders with pride and tenderness.",
+    "target_en": "\"And you in brown!\" she said, turning angrily to Mr.",
+    "next_context": "Lorry. \"Couldn't you tell her what you had to say without scaring her to death?",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 237,
+    "prev_context": "\"And you in brown!\" she said, turning angrily to Mr.",
+    "target_en": "Lorry. \"Couldn't you tell her what you had to say without scaring her to death?",
+    "next_context": "Look at her, with her pretty pale face and cold hands.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 238,
+    "prev_context": "Lorry. \"Couldn't you tell her what you had to say without scaring her to death?",
+    "target_en": "Look at her, with her pretty pale face and cold hands.",
+    "next_context": "Do you call that being a banker?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 239,
+    "prev_context": "Look at her, with her pretty pale face and cold hands.",
+    "target_en": "Do you call that being a banker?\"",
+    "next_context": "Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 240,
+    "prev_context": "Do you call that being a banker?\"",
+    "target_en": "Mr.",
+    "next_context": "Lorry was so embarrassed by this hard-to-answer question that he could only watch quietly from a distance. Meanwhile, the strong woman chased away the hotel servants. She threatened to \"let them know\" what would happen if they stayed and kept staring. Then she gently helped the young lady recover, encouraging her to lay her head on her shoulder.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 241,
+    "prev_context": "Mr.",
+    "target_en": "Lorry was so embarrassed by this hard-to-answer question that he could only watch quietly from a distance. Meanwhile, the strong woman chased away the hotel servants. She threatened to \"let them know\" what would happen if they stayed and kept staring. Then she gently helped the young lady recover, encouraging her to lay her head on her shoulder.",
+    "next_context": "\"I hope she will be okay now,\" said Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 242,
+    "prev_context": "Lorry was so embarrassed by this hard-to-answer question that he could only watch quietly from a distance. Meanwhile, the strong woman chased away the hotel servants. She threatened to \"let them know\" what would happen if they stayed and kept staring. Then she gently helped the young lady recover, encouraging her to lay her head on her shoulder.",
+    "target_en": "\"I hope she will be okay now,\" said Mr.",
+    "next_context": "Lorry.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 243,
+    "prev_context": "\"I hope she will be okay now,\" said Mr.",
+    "target_en": "Lorry.",
+    "next_context": "\"No thanks to you in brown, if she is.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 244,
+    "prev_context": "Lorry.",
+    "target_en": "\"No thanks to you in brown, if she is.",
+    "next_context": "My darling girl!\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 245,
+    "prev_context": "\"No thanks to you in brown, if she is.",
+    "target_en": "My darling girl!\"",
+    "next_context": "\"I hope,\" said Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 246,
+    "prev_context": "My darling girl!\"",
+    "target_en": "\"I hope,\" said Mr.",
+    "next_context": "Lorry, after another quiet pause, \"that you will be going with Miss Manette to France?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 247,
+    "prev_context": "\"I hope,\" said Mr.",
+    "target_en": "Lorry, after another quiet pause, \"that you will be going with Miss Manette to France?\"",
+    "next_context": "\"As if!\" replied the strong woman. \"If I was ever meant to cross the ocean, do you think God would have had me born on an island?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 248,
+    "prev_context": "Lorry, after another quiet pause, \"that you will be going with Miss Manette to France?\"",
+    "target_en": "\"As if!\" replied the strong woman. \"If I was ever meant to cross the ocean, do you think God would have had me born on an island?\"",
+    "next_context": "This being another question that was hard to answer, Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 249,
+    "prev_context": "\"As if!\" replied the strong woman. \"If I was ever meant to cross the ocean, do you think God would have had me born on an island?\"",
+    "target_en": "This being another question that was hard to answer, Mr.",
+    "next_context": "Jarvis Lorry stepped away to think about it.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_04.json",
+    "id": 250,
+    "prev_context": "This being another question that was hard to answer, Mr.",
+    "target_en": "Jarvis Lorry stepped away to think about it.",
+    "next_context": "",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 2,
+    "prev_context": "[Chapter 5] The Wine-shop",
+    "target_en": "A large barrel of wine had been dropped and broken in the street.",
+    "next_context": "It happened during unloading. The barrel rolled out quickly from the cart. The metal bands burst. It landed on the cobblestones right outside the door of the wine shop, shattered like a walnut shell.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 3,
+    "prev_context": "A large barrel of wine had been dropped and broken in the street.",
+    "target_en": "It happened during unloading. The barrel rolled out quickly from the cart. The metal bands burst. It landed on the cobblestones right outside the door of the wine shop, shattered like a walnut shell.",
+    "next_context": "Everyone nearby stopped whatever they were doing, or not doing, to run to the spot and drink the wine.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 4,
+    "prev_context": "It happened during unloading. The barrel rolled out quickly from the cart. The metal bands burst. It landed on the cobblestones right outside the door of the wine shop, shattered like a walnut shell.",
+    "target_en": "Everyone nearby stopped whatever they were doing, or not doing, to run to the spot and drink the wine.",
+    "next_context": "The rough, uneven stones of the street, pointing in every direction and seeming designed specifically to cripple anyone walking on them, had dammed the wine into little pools. Each pool was surrounded by a crowding group, depending on its size.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 5,
+    "prev_context": "Everyone nearby stopped whatever they were doing, or not doing, to run to the spot and drink the wine.",
+    "target_en": "The rough, uneven stones of the street, pointing in every direction and seeming designed specifically to cripple anyone walking on them, had dammed the wine into little pools. Each pool was surrounded by a crowding group, depending on its size.",
+    "next_context": "Some men knelt down, scooped the wine with their hands, and drank, or helped women leaning over their shoulders to drink before the wine could leak through their fingers.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 6,
+    "prev_context": "The rough, uneven stones of the street, pointing in every direction and seeming designed specifically to cripple anyone walking on them, had dammed the wine into little pools. Each pool was surrounded by a crowding group, depending on its size.",
+    "target_en": "Some men knelt down, scooped the wine with their hands, and drank, or helped women leaning over their shoulders to drink before the wine could leak through their fingers.",
+    "next_context": "Others dipped into the puddles with chipped clay mugs, or even with scarves taken from women's heads, which they squeezed dry into babies' mouths. Some made small mud walls to block the wine as it flowed, while others, directed by neighbors looking out from high windows, ran around to block small streams of wine branching off in new directions. A few focused on the wine-soaked wood from the broken barrel, licking and even chewing the wet, wine-stained fragments with enjoyment.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 7,
+    "prev_context": "Some men knelt down, scooped the wine with their hands, and drank, or helped women leaning over their shoulders to drink before the wine could leak through their fingers.",
+    "target_en": "Others dipped into the puddles with chipped clay mugs, or even with scarves taken from women's heads, which they squeezed dry into babies' mouths. Some made small mud walls to block the wine as it flowed, while others, directed by neighbors looking out from high windows, ran around to block small streams of wine branching off in new directions. A few focused on the wine-soaked wood from the broken barrel, licking and even chewing the wet, wine-stained fragments with enjoyment.",
+    "next_context": "There was no drainage system. So every drop of wine was scooped up. And so much dirt came with it that the street actually looked clean afterward, though nobody who knew the neighborhood would ever expect to see it swept.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 8,
+    "prev_context": "Others dipped into the puddles with chipped clay mugs, or even with scarves taken from women's heads, which they squeezed dry into babies' mouths. Some made small mud walls to block the wine as it flowed, while others, directed by neighbors looking out from high windows, ran around to block small streams of wine branching off in new directions. A few focused on the wine-soaked wood from the broken barrel, licking and even chewing the wet, wine-stained fragments with enjoyment.",
+    "target_en": "There was no drainage system. So every drop of wine was scooped up. And so much dirt came with it that the street actually looked clean afterward, though nobody who knew the neighborhood would ever expect to see it swept.",
+    "next_context": "Loud laughter and cheerful voices of men, women, and children filled the street while this wine hunt lasted.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 9,
+    "prev_context": "There was no drainage system. So every drop of wine was scooped up. And so much dirt came with it that the street actually looked clean afterward, though nobody who knew the neighborhood would ever expect to see it swept.",
+    "target_en": "Loud laughter and cheerful voices of men, women, and children filled the street while this wine hunt lasted.",
+    "next_context": "There was very little roughness in the play, and plenty of fun.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 10,
+    "prev_context": "Loud laughter and cheerful voices of men, women, and children filled the street while this wine hunt lasted.",
+    "target_en": "There was very little roughness in the play, and plenty of fun.",
+    "next_context": "There was a strong sense of community, as everyone wanted to share in the excitement together. The luckier ones broke into happy hugs and toasts. There were handshakes all around. Groups of a dozen people joined hands and danced.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 11,
+    "prev_context": "There was very little roughness in the play, and plenty of fun.",
+    "target_en": "There was a strong sense of community, as everyone wanted to share in the excitement together. The luckier ones broke into happy hugs and toasts. There were handshakes all around. Groups of a dozen people joined hands and danced.",
+    "next_context": "When the wine was gone, and the places where it had pooled were scraped clean down to the dirt by eager fingers, the celebration stopped just as suddenly as it had started. The man who had left his saw in the firewood went back to work.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 12,
+    "prev_context": "There was a strong sense of community, as everyone wanted to share in the excitement together. The luckier ones broke into happy hugs and toasts. There were handshakes all around. Groups of a dozen people joined hands and danced.",
+    "target_en": "When the wine was gone, and the places where it had pooled were scraped clean down to the dirt by eager fingers, the celebration stopped just as suddenly as it had started. The man who had left his saw in the firewood went back to work.",
+    "next_context": "The woman who had left a small pot of hot ashes on a doorstep, trying to warm her own frozen fingers and toes or those of her child, returned to it. Men with bare arms and messy hair walked back down to their rooms. Their faces were pale and ghost-like. They had come up into the winter light from dark cellars, and now they disappeared back into them. A dark gloom settled over the street once more, looking far more natural to the street than sunshine ever did.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 13,
+    "prev_context": "When the wine was gone, and the places where it had pooled were scraped clean down to the dirt by eager fingers, the celebration stopped just as suddenly as it had started. The man who had left his saw in the firewood went back to work.",
+    "target_en": "The woman who had left a small pot of hot ashes on a doorstep, trying to warm her own frozen fingers and toes or those of her child, returned to it. Men with bare arms and messy hair walked back down to their rooms. Their faces were pale and ghost-like. They had come up into the winter light from dark cellars, and now they disappeared back into them. A dark gloom settled over the street once more, looking far more natural to the street than sunshine ever did.",
+    "next_context": "The wine was red, and it stained the ground of the narrow street in the Paris suburb of Saint Antoine where it had spilled.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 14,
+    "prev_context": "The woman who had left a small pot of hot ashes on a doorstep, trying to warm her own frozen fingers and toes or those of her child, returned to it. Men with bare arms and messy hair walked back down to their rooms. Their faces were pale and ghost-like. They had come up into the winter light from dark cellars, and now they disappeared back into them. A dark gloom settled over the street once more, looking far more natural to the street than sunshine ever did.",
+    "target_en": "The wine was red, and it stained the ground of the narrow street in the Paris suburb of Saint Antoine where it had spilled.",
+    "next_context": "It also stained many hands, faces, bare feet, and wooden shoes.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 15,
+    "prev_context": "The wine was red, and it stained the ground of the narrow street in the Paris suburb of Saint Antoine where it had spilled.",
+    "target_en": "It also stained many hands, faces, bare feet, and wooden shoes.",
+    "next_context": "The woodcutter's hands left red marks on every log he cut. The woman nursing her baby had a stained forehead, left there by the dirty red rag she wrapped back around her head.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 16,
+    "prev_context": "It also stained many hands, faces, bare feet, and wooden shoes.",
+    "target_en": "The woodcutter's hands left red marks on every log he cut. The woman nursing her baby had a stained forehead, left there by the dirty red rag she wrapped back around her head.",
+    "next_context": "Those who had licked the barrel wood had a wild, tiger-like red smear around their mouths. One tall, messy man with a long, dirty nightcap on his head dipped his finger in the muddy wine dregs and wrote on a wall, BLOOD.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 17,
+    "prev_context": "The woodcutter's hands left red marks on every log he cut. The woman nursing her baby had a stained forehead, left there by the dirty red rag she wrapped back around her head.",
+    "target_en": "Those who had licked the barrel wood had a wild, tiger-like red smear around their mouths. One tall, messy man with a long, dirty nightcap on his head dipped his finger in the muddy wine dregs and wrote on a wall, BLOOD.",
+    "next_context": "The time was coming when a different kind of red wine would be spilled on these street stones, and its stain would be red on many of the people there.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 18,
+    "prev_context": "Those who had licked the barrel wood had a wild, tiger-like red smear around their mouths. One tall, messy man with a long, dirty nightcap on his head dipped his finger in the muddy wine dregs and wrote on a wall, BLOOD.",
+    "target_en": "The time was coming when a different kind of red wine would be spilled on these street stones, and its stain would be red on many of the people there.",
+    "next_context": "Now that the dark cloud had settled back over Saint Antoine, returning after a brief moment of sunshine, the darkness was incredibly heavy. Cold, dirt, sickness, ignorance, and hunger were the lords who served in this neighborhood—all of them powerful nobles, but hunger most of all.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 19,
+    "prev_context": "The time was coming when a different kind of red wine would be spilled on these street stones, and its stain would be red on many of the people there.",
+    "target_en": "Now that the dark cloud had settled back over Saint Antoine, returning after a brief moment of sunshine, the darkness was incredibly heavy. Cold, dirt, sickness, ignorance, and hunger were the lords who served in this neighborhood—all of them powerful nobles, but hunger most of all.",
+    "next_context": "But poverty ruled most of all. People who had been ground down by life shivered at every corner, walked in and out of doorways, looked from windows, and wore tattered clothes that fluttered in the wind.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 20,
+    "prev_context": "Now that the dark cloud had settled back over Saint Antoine, returning after a brief moment of sunshine, the darkness was incredibly heavy. Cold, dirt, sickness, ignorance, and hunger were the lords who served in this neighborhood—all of them powerful nobles, but hunger most of all.",
+    "target_en": "But poverty ruled most of all. People who had been ground down by life shivered at every corner, walked in and out of doorways, looked from windows, and wore tattered clothes that fluttered in the wind.",
+    "next_context": "The system that ground them down was one that made young people look old. The children had aged faces and serious voices. On every face, carved into every wrinkle of age, was the sign of Hunger.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 21,
+    "prev_context": "But poverty ruled most of all. People who had been ground down by life shivered at every corner, walked in and out of doorways, looked from windows, and wore tattered clothes that fluttered in the wind.",
+    "target_en": "The system that ground them down was one that made young people look old. The children had aged faces and serious voices. On every face, carved into every wrinkle of age, was the sign of Hunger.",
+    "next_context": "It was everywhere.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 22,
+    "prev_context": "The system that ground them down was one that made young people look old. The children had aged faces and serious voices. On every face, carved into every wrinkle of age, was the sign of Hunger.",
+    "target_en": "It was everywhere.",
+    "next_context": "Hunger hung out of the tall houses in the tattered clothes drying on poles. Hunger was patched into the windows with straw, rags, wood, and paper. Hunger was seen in the tiny scraps of firewood the man sawed. Hunger stared down from the smokeless chimneys. It rose from the filthy streets, where there wasn't even a scrap of discarded food to eat.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 23,
+    "prev_context": "It was everywhere.",
+    "target_en": "Hunger hung out of the tall houses in the tattered clothes drying on poles. Hunger was patched into the windows with straw, rags, wood, and paper. Hunger was seen in the tiny scraps of firewood the man sawed. Hunger stared down from the smokeless chimneys. It rose from the filthy streets, where there wasn't even a scrap of discarded food to eat.",
+    "next_context": "Hunger was written on the baker's shelves, in every small, bad loaf left in stock. It was there at the sausage shop too, in the cheap, mystery-meat sausages offered for sale.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 24,
+    "prev_context": "Hunger hung out of the tall houses in the tattered clothes drying on poles. Hunger was patched into the windows with straw, rags, wood, and paper. Hunger was seen in the tiny scraps of firewood the man sawed. Hunger stared down from the smokeless chimneys. It rose from the filthy streets, where there wasn't even a scrap of discarded food to eat.",
+    "target_en": "Hunger was written on the baker's shelves, in every small, bad loaf left in stock. It was there at the sausage shop too, in the cheap, mystery-meat sausages offered for sale.",
+    "next_context": "Hunger rattled like dry bones among the roasting chestnuts in the metal cylinders, and Hunger was chopped into tiny pieces in the cheap bowls of potato scraps fried with a few drops of oil.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 25,
+    "prev_context": "Hunger was written on the baker's shelves, in every small, bad loaf left in stock. It was there at the sausage shop too, in the cheap, mystery-meat sausages offered for sale.",
+    "target_en": "Hunger rattled like dry bones among the roasting chestnuts in the metal cylinders, and Hunger was chopped into tiny pieces in the cheap bowls of potato scraps fried with a few drops of oil.",
+    "next_context": "Its home was suitable in every way.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 26,
+    "prev_context": "Hunger rattled like dry bones among the roasting chestnuts in the metal cylinders, and Hunger was chopped into tiny pieces in the cheap bowls of potato scraps fried with a few drops of oil.",
+    "target_en": "Its home was suitable in every way.",
+    "next_context": "The narrow, winding street was full of trash and bad smells. Other narrow streets branched off from it in every direction. All of them were filled with people wearing rags and nightcaps, smelling of poverty, and looking grim.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 27,
+    "prev_context": "Its home was suitable in every way.",
+    "target_en": "The narrow, winding street was full of trash and bad smells. Other narrow streets branched off from it in every direction. All of them were filled with people wearing rags and nightcaps, smelling of poverty, and looking grim.",
+    "next_context": "Yet in the desperate look of the people, there was still a wild, animal-like thought of fighting back.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 28,
+    "prev_context": "The narrow, winding street was full of trash and bad smells. Other narrow streets branched off from it in every direction. All of them were filled with people wearing rags and nightcaps, smelling of poverty, and looking grim.",
+    "target_en": "Yet in the desperate look of the people, there was still a wild, animal-like thought of fighting back.",
+    "next_context": "Though they looked beaten down, there were still fiery eyes among them, tight lips pressed white from anger, and foreheads wrinkled like the hangman's rope they thought about either escaping or using on their enemies.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 29,
+    "prev_context": "Yet in the desperate look of the people, there was still a wild, animal-like thought of fighting back.",
+    "target_en": "Though they looked beaten down, there were still fiery eyes among them, tight lips pressed white from anger, and foreheads wrinkled like the hangman's rope they thought about either escaping or using on their enemies.",
+    "next_context": "The shop signs were all grim pictures of need.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 30,
+    "prev_context": "Though they looked beaten down, there were still fiery eyes among them, tight lips pressed white from anger, and foreheads wrinkled like the hangman's rope they thought about either escaping or using on their enemies.",
+    "target_en": "The shop signs were all grim pictures of need.",
+    "next_context": "The butcher painted only the leanest, poorest cuts of meat on his sign, and the baker showed only the coarsest, smallest loaves.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 31,
+    "prev_context": "The shop signs were all grim pictures of need.",
+    "target_en": "The butcher painted only the leanest, poorest cuts of meat on his sign, and the baker showed only the coarsest, smallest loaves.",
+    "next_context": "The crude paintings of people drinking in the wine shops showed them huddling over tiny glasses of sour wine and cheap beer, whispering darkly to one another.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 32,
+    "prev_context": "The butcher painted only the leanest, poorest cuts of meat on his sign, and the baker showed only the coarsest, smallest loaves.",
+    "target_en": "The crude paintings of people drinking in the wine shops showed them huddling over tiny glasses of sour wine and cheap beer, whispering darkly to one another.",
+    "next_context": "Nothing was in good condition except for tools and weapons: the knives and axes in the shop windows were sharp and bright, the blacksmith's hammers were heavy, and the gunmaker's weapons looked deadly.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 33,
+    "prev_context": "The crude paintings of people drinking in the wine shops showed them huddling over tiny glasses of sour wine and cheap beer, whispering darkly to one another.",
+    "target_en": "Nothing was in good condition except for tools and weapons: the knives and axes in the shop windows were sharp and bright, the blacksmith's hammers were heavy, and the gunmaker's weapons looked deadly.",
+    "next_context": "The uneven cobblestone streets, full of mud and puddles, had no sidewalks, ending abruptly at the doors of the houses.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 34,
+    "prev_context": "Nothing was in good condition except for tools and weapons: the knives and axes in the shop windows were sharp and bright, the blacksmith's hammers were heavy, and the gunmaker's weapons looked deadly.",
+    "target_en": "The uneven cobblestone streets, full of mud and puddles, had no sidewalks, ending abruptly at the doors of the houses.",
+    "next_context": "The open sewer gutter ran down the middle of the street, when it ran at all, which was only after heavy rains, and then it flooded into the houses.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 35,
+    "prev_context": "The uneven cobblestone streets, full of mud and puddles, had no sidewalks, ending abruptly at the doors of the houses.",
+    "target_en": "The open sewer gutter ran down the middle of the street, when it ran at all, which was only after heavy rains, and then it flooded into the houses.",
+    "next_context": "Across the streets, far apart, single streetlamps were hung by a rope and pulley. At night, the lamplighter made his rounds. He lowered each lamp, lit it, and raised it again. A weak line of dim wicks swung overhead when he was done, looking as if they were on a ship at sea.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 36,
+    "prev_context": "The open sewer gutter ran down the middle of the street, when it ran at all, which was only after heavy rains, and then it flooded into the houses.",
+    "target_en": "Across the streets, far apart, single streetlamps were hung by a rope and pulley. At night, the lamplighter made his rounds. He lowered each lamp, lit it, and raised it again. A weak line of dim wicks swung overhead when he was done, looking as if they were on a ship at sea.",
+    "next_context": "Indeed, they were at sea, and the ship and crew were in danger of a massive storm.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 37,
+    "prev_context": "Across the streets, far apart, single streetlamps were hung by a rope and pulley. At night, the lamplighter made his rounds. He lowered each lamp, lit it, and raised it again. A weak line of dim wicks swung overhead when he was done, looking as if they were on a ship at sea.",
+    "target_en": "Indeed, they were at sea, and the ship and crew were in danger of a massive storm.",
+    "next_context": "The starving people of this area had watched the lamplighter for so long. One day, they would decide to improve on his method. They would hang men from those very ropes and pulleys, to shine a light, they would say, on their miserable lives.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 38,
+    "prev_context": "Indeed, they were at sea, and the ship and crew were in danger of a massive storm.",
+    "target_en": "The starving people of this area had watched the lamplighter for so long. One day, they would decide to improve on his method. They would hang men from those very ropes and pulleys, to shine a light, they would say, on their miserable lives.",
+    "next_context": "But that time had not come yet; and the winds blowing over France shook the rags of the poor in vain, for the wealthy, beautiful aristocrats took no warning.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 39,
+    "prev_context": "The starving people of this area had watched the lamplighter for so long. One day, they would decide to improve on his method. They would hang men from those very ropes and pulleys, to shine a light, they would say, on their miserable lives.",
+    "target_en": "But that time had not come yet; and the winds blowing over France shook the rags of the poor in vain, for the wealthy, beautiful aristocrats took no warning.",
+    "next_context": "The wine shop was on a corner, looking better than most other shops in the area. The owner stood outside in a yellow vest and green pants, watching the struggle for the spilled wine. \"It's not my problem,\" he said with a shrug. \"The market workers dropped it.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 40,
+    "prev_context": "But that time had not come yet; and the winds blowing over France shook the rags of the poor in vain, for the wealthy, beautiful aristocrats took no warning.",
+    "target_en": "The wine shop was on a corner, looking better than most other shops in the area. The owner stood outside in a yellow vest and green pants, watching the struggle for the spilled wine. \"It's not my problem,\" he said with a shrug. \"The market workers dropped it.",
+    "next_context": "Let them bring another one.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 41,
+    "prev_context": "The wine shop was on a corner, looking better than most other shops in the area. The owner stood outside in a yellow vest and green pants, watching the struggle for the spilled wine. \"It's not my problem,\" he said with a shrug. \"The market workers dropped it.",
+    "target_en": "Let them bring another one.\"",
+    "next_context": "Just then, his eyes caught the tall joker writing his graffiti, and he called out to him across the street:",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 42,
+    "prev_context": "Let them bring another one.\"",
+    "target_en": "Just then, his eyes caught the tall joker writing his graffiti, and he called out to him across the street:",
+    "next_context": "\"Hey, Gaspard, what are you doing there?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 43,
+    "prev_context": "Just then, his eyes caught the tall joker writing his graffiti, and he called out to him across the street:",
+    "target_en": "\"Hey, Gaspard, what are you doing there?\"",
+    "next_context": "The man pointed to his writing with great seriousness, as jokers often do.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 44,
+    "prev_context": "\"Hey, Gaspard, what are you doing there?\"",
+    "target_en": "The man pointed to his writing with great seriousness, as jokers often do.",
+    "next_context": "But his joke fell flat, which is also typical.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 45,
+    "prev_context": "The man pointed to his writing with great seriousness, as jokers often do.",
+    "target_en": "But his joke fell flat, which is also typical.",
+    "next_context": "\"What is this?",
+    "status": "pending"
+  }
+]

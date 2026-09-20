@@ -1,0 +1,50 @@
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1em;
+    line-height: 1.6;
+    margin: 1.5em 2em;
+    color: #1a1a1a;
+}
+
+h1 {
+    font-size: 1.6em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 1em;
+    color: #1c2d42;
+}
+
+h2 {
+    font-size: 1.3em;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 1.8em;
+    margin-bottom: 1em;
+    color: #2c425e;
+    text-transform: uppercase;
+}
+
+p {
+    margin: 0 0 1em 0;
+    text-indent: 1.2em;
+}
+
+p.no-indent {
+    text-indent: 0;
+}
+
+.illustration-container {
+    text-align: center;
+    margin: 1.5em 0;
+}
+
+.illustration {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}

@@ -1,0 +1,802 @@
+[
+  {
+    "file": "book1_ch_05.json",
+    "id": 46,
+    "prev_context": "But his joke fell flat, which is also typical.",
+    "target_en": "\"What is this?",
+    "next_context": "Are you crazy?\" said the wine shop owner, crossing the street and wiping out the writing with a handful of mud scooped up from the ground. \"Why are you writing on the public street?",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 47,
+    "prev_context": "\"What is this?",
+    "target_en": "Are you crazy?\" said the wine shop owner, crossing the street and wiping out the writing with a handful of mud scooped up from the ground. \"Why are you writing on the public street?",
+    "next_context": "Isn't there, tell me, any other place to write such words?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 48,
+    "prev_context": "Are you crazy?\" said the wine shop owner, crossing the street and wiping out the writing with a handful of mud scooped up from the ground. \"Why are you writing on the public street?",
+    "target_en": "Isn't there, tell me, any other place to write such words?\"",
+    "next_context": "As he argued, he placed his clean hand, perhaps by accident or perhaps on purpose, over the joker\u2019s heart.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 49,
+    "prev_context": "Isn't there, tell me, any other place to write such words?\"",
+    "target_en": "As he argued, he placed his clean hand, perhaps by accident or perhaps on purpose, over the joker\u2019s heart.",
+    "next_context": "The joker tapped it with his own hand, jumped high in the air, and landed in a dramatic dance pose, holding one of his dirty shoes which he had pulled off his foot.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 50,
+    "prev_context": "As he argued, he placed his clean hand, perhaps by accident or perhaps on purpose, over the joker\u2019s heart.",
+    "target_en": "The joker tapped it with his own hand, jumped high in the air, and landed in a dramatic dance pose, holding one of his dirty shoes which he had pulled off his foot.",
+    "next_context": "He looked like an extremely wild, almost wolfish character.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 51,
+    "prev_context": "The joker tapped it with his own hand, jumped high in the air, and landed in a dramatic dance pose, holding one of his dirty shoes which he had pulled off his foot.",
+    "target_en": "He looked like an extremely wild, almost wolfish character.",
+    "next_context": "\"Put it back on, put it back on,\" said the owner. \"Call wine, wine, and leave it at that.\" With that, he wiped his muddy hand on the joker's tattered clothes. He did it quite deliberately, as if the dirty hand were the joker's fault. Then he crossed the street again and entered his shop.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 52,
+    "prev_context": "He looked like an extremely wild, almost wolfish character.",
+    "target_en": "\"Put it back on, put it back on,\" said the owner. \"Call wine, wine, and leave it at that.\" With that, he wiped his muddy hand on the joker's tattered clothes. He did it quite deliberately, as if the dirty hand were the joker's fault. Then he crossed the street again and entered his shop.",
+    "next_context": "The wine shop owner was a thick-necked, tough-looking man of thirty. He must have had a hot temper, because even though it was a freezing cold day, he wore no coat, carrying it slung over his shoulder instead.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 53,
+    "prev_context": "\"Put it back on, put it back on,\" said the owner. \"Call wine, wine, and leave it at that.\" With that, he wiped his muddy hand on the joker's tattered clothes. He did it quite deliberately, as if the dirty hand were the joker's fault. Then he crossed the street again and entered his shop.",
+    "target_en": "The wine shop owner was a thick-necked, tough-looking man of thirty. He must have had a hot temper, because even though it was a freezing cold day, he wore no coat, carrying it slung over his shoulder instead.",
+    "next_context": "His sleeves were rolled up, leaving his brown arms bare to the elbows.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 54,
+    "prev_context": "The wine shop owner was a thick-necked, tough-looking man of thirty. He must have had a hot temper, because even though it was a freezing cold day, he wore no coat, carrying it slung over his shoulder instead.",
+    "target_en": "His sleeves were rolled up, leaving his brown arms bare to the elbows.",
+    "next_context": "He wore nothing on his head, showing only his short, curly dark hair.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 55,
+    "prev_context": "His sleeves were rolled up, leaving his brown arms bare to the elbows.",
+    "target_en": "He wore nothing on his head, showing only his short, curly dark hair.",
+    "next_context": "He was a dark-complexioned man, with good, wide-set eyes.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 56,
+    "prev_context": "He wore nothing on his head, showing only his short, curly dark hair.",
+    "target_en": "He was a dark-complexioned man, with good, wide-set eyes.",
+    "next_context": "He looked friendly enough on the whole, but also stubborn and unyielding; clearly a man of strong determination and purpose. He was not someone you would want to meet in a tight spot, because nothing could make him back down.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 57,
+    "prev_context": "He was a dark-complexioned man, with good, wide-set eyes.",
+    "target_en": "He looked friendly enough on the whole, but also stubborn and unyielding; clearly a man of strong determination and purpose. He was not someone you would want to meet in a tight spot, because nothing could make him back down.",
+    "next_context": "His wife, Madame Defarge, sat behind the counter as he walked in.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 58,
+    "prev_context": "He looked friendly enough on the whole, but also stubborn and unyielding; clearly a man of strong determination and purpose. He was not someone you would want to meet in a tight spot, because nothing could make him back down.",
+    "target_en": "His wife, Madame Defarge, sat behind the counter as he walked in.",
+    "next_context": "She was a stout woman about his age. Her eyes were watchful and rarely seemed to look directly at anything. Her hands were large and covered in heavy rings.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 59,
+    "prev_context": "His wife, Madame Defarge, sat behind the counter as he walked in.",
+    "target_en": "She was a stout woman about his age. Her eyes were watchful and rarely seemed to look directly at anything. Her hands were large and covered in heavy rings.",
+    "next_context": "Her face was calm, her features strong, and her composure was total. There was a strength about her that suggested she rarely made mistakes in any of her business calculations.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 60,
+    "prev_context": "She was a stout woman about his age. Her eyes were watchful and rarely seemed to look directly at anything. Her hands were large and covered in heavy rings.",
+    "target_en": "Her face was calm, her features strong, and her composure was total. There was a strength about her that suggested she rarely made mistakes in any of her business calculations.",
+    "next_context": "Being sensitive to the cold, she was wrapped in fur and had a bright shawl wrapped around her head, though her large earrings were still visible.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 61,
+    "prev_context": "Her face was calm, her features strong, and her composure was total. There was a strength about her that suggested she rarely made mistakes in any of her business calculations.",
+    "target_en": "Being sensitive to the cold, she was wrapped in fur and had a bright shawl wrapped around her head, though her large earrings were still visible.",
+    "next_context": "Her knitting sat in front of her, but she had laid it down to pick her teeth with a toothpick.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 62,
+    "prev_context": "Being sensitive to the cold, she was wrapped in fur and had a bright shawl wrapped around her head, though her large earrings were still visible.",
+    "target_en": "Her knitting sat in front of her, but she had laid it down to pick her teeth with a toothpick.",
+    "next_context": "In this pose, holding her elbow in her hand, she said nothing when her husband came in, but gave a tiny cough.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 63,
+    "prev_context": "Her knitting sat in front of her, but she had laid it down to pick her teeth with a toothpick.",
+    "target_en": "In this pose, holding her elbow in her hand, she said nothing when her husband came in, but gave a tiny cough.",
+    "next_context": "This, along with a slight raise of her dark eyebrows, signaled to her husband that he should look around at the clients to see if anyone new had arrived while he was outside.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 64,
+    "prev_context": "In this pose, holding her elbow in her hand, she said nothing when her husband came in, but gave a tiny cough.",
+    "target_en": "This, along with a slight raise of her dark eyebrows, signaled to her husband that he should look around at the clients to see if anyone new had arrived while he was outside.",
+    "next_context": "The owner looked around the room until his eyes rested on an older gentleman and a young lady sitting in a corner.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 65,
+    "prev_context": "This, along with a slight raise of her dark eyebrows, signaled to her husband that he should look around at the clients to see if anyone new had arrived while he was outside.",
+    "target_en": "The owner looked around the room until his eyes rested on an older gentleman and a young lady sitting in a corner.",
+    "next_context": "Other customers were there: two playing cards, two playing dominoes, and three standing by the counter nursing their small drinks.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 66,
+    "prev_context": "The owner looked around the room until his eyes rested on an older gentleman and a young lady sitting in a corner.",
+    "target_en": "Other customers were there: two playing cards, two playing dominoes, and three standing by the counter nursing their small drinks.",
+    "next_context": "As he walked behind the counter, he noticed the older gentleman look at the young lady as if to say, \"This is our man.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 67,
+    "prev_context": "Other customers were there: two playing cards, two playing dominoes, and three standing by the counter nursing their small drinks.",
+    "target_en": "As he walked behind the counter, he noticed the older gentleman look at the young lady as if to say, \"This is our man.\"",
+    "next_context": "\"What on earth are you doing here?\" Monsieur Defarge thought to himself. \"I don't know you.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 68,
+    "prev_context": "As he walked behind the counter, he noticed the older gentleman look at the young lady as if to say, \"This is our man.\"",
+    "target_en": "\"What on earth are you doing here?\" Monsieur Defarge thought to himself. \"I don't know you.\"",
+    "next_context": "But he pretended not to notice the two strangers, and started talking to the three customers drinking at the counter.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 69,
+    "prev_context": "\"What on earth are you doing here?\" Monsieur Defarge thought to himself. \"I don't know you.\"",
+    "target_en": "But he pretended not to notice the two strangers, and started talking to the three customers drinking at the counter.",
+    "next_context": "\"How's it going, Jacques?\" one of the three asked Monsieur Defarge. \"Is all the spilled wine gone?\" \"Every drop, Jacques,\" Defarge replied.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 70,
+    "prev_context": "But he pretended not to notice the two strangers, and started talking to the three customers drinking at the counter.",
+    "target_en": "\"How's it going, Jacques?\" one of the three asked Monsieur Defarge. \"Is all the spilled wine gone?\" \"Every drop, Jacques,\" Defarge replied.",
+    "next_context": "When this exchange of the name \"Jacques\" was made, Madame Defarge, still picking her teeth, gave another tiny cough and raised her eyebrows slightly higher.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 71,
+    "prev_context": "\"How's it going, Jacques?\" one of the three asked Monsieur Defarge. \"Is all the spilled wine gone?\" \"Every drop, Jacques,\" Defarge replied.",
+    "target_en": "When this exchange of the name \"Jacques\" was made, Madame Defarge, still picking her teeth, gave another tiny cough and raised her eyebrows slightly higher.",
+    "next_context": "The second customer said to Defarge, \"It is not often that many of these poor beasts taste wine, or anything other than hard black bread and death.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 72,
+    "prev_context": "When this exchange of the name \"Jacques\" was made, Madame Defarge, still picking her teeth, gave another tiny cough and raised her eyebrows slightly higher.",
+    "target_en": "The second customer said to Defarge, \"It is not often that many of these poor beasts taste wine, or anything other than hard black bread and death.",
+    "next_context": "Isn't that right, Jacques?\" \"That's right, Jacques,\" Defarge answered.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 73,
+    "prev_context": "The second customer said to Defarge, \"It is not often that many of these poor beasts taste wine, or anything other than hard black bread and death.",
+    "target_en": "Isn't that right, Jacques?\" \"That's right, Jacques,\" Defarge answered.",
+    "next_context": "At this second exchange of the name, Madame Defarge, still picking her teeth calmly, coughed again and raised her eyebrows a bit more.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 74,
+    "prev_context": "Isn't that right, Jacques?\" \"That's right, Jacques,\" Defarge answered.",
+    "target_en": "At this second exchange of the name, Madame Defarge, still picking her teeth calmly, coughed again and raised her eyebrows a bit more.",
+    "next_context": "The last of the three spoke up, putting down his empty glass and smacking his lips. \"Ah!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 75,
+    "prev_context": "At this second exchange of the name, Madame Defarge, still picking her teeth calmly, coughed again and raised her eyebrows a bit more.",
+    "target_en": "The last of the three spoke up, putting down his empty glass and smacking his lips. \"Ah!",
+    "next_context": "So much the worse!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 76,
+    "prev_context": "The last of the three spoke up, putting down his empty glass and smacking his lips. \"Ah!",
+    "target_en": "So much the worse!",
+    "next_context": "It's a bitter taste these poor people always have in their mouths, and hard lives they live, Jacques.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 77,
+    "prev_context": "So much the worse!",
+    "target_en": "It's a bitter taste these poor people always have in their mouths, and hard lives they live, Jacques.",
+    "next_context": "Am I right, Jacques?\" \"You are right, Jacques,\" Defarge responded.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 78,
+    "prev_context": "It's a bitter taste these poor people always have in their mouths, and hard lives they live, Jacques.",
+    "target_en": "Am I right, Jacques?\" \"You are right, Jacques,\" Defarge responded.",
+    "next_context": "This third exchange of the name was completed just as Madame Defarge put away her toothpick, kept her eyebrows raised, and shifted slightly in her seat.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 79,
+    "prev_context": "Am I right, Jacques?\" \"You are right, Jacques,\" Defarge responded.",
+    "target_en": "This third exchange of the name was completed just as Madame Defarge put away her toothpick, kept her eyebrows raised, and shifted slightly in her seat.",
+    "next_context": "\"Ah, yes!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 80,
+    "prev_context": "This third exchange of the name was completed just as Madame Defarge put away her toothpick, kept her eyebrows raised, and shifted slightly in her seat.",
+    "target_en": "\"Ah, yes!",
+    "next_context": "True!\" muttered her husband. \"Gentlemen, my wife!\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 81,
+    "prev_context": "\"Ah, yes!",
+    "target_en": "True!\" muttered her husband. \"Gentlemen, my wife!\"",
+    "next_context": "The three customers tipped their hats to Madame Defarge with polite bows.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 82,
+    "prev_context": "True!\" muttered her husband. \"Gentlemen, my wife!\"",
+    "target_en": "The three customers tipped their hats to Madame Defarge with polite bows.",
+    "next_context": "She acknowledged their greeting with a nod and a quick look.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 83,
+    "prev_context": "The three customers tipped their hats to Madame Defarge with polite bows.",
+    "target_en": "She acknowledged their greeting with a nod and a quick look.",
+    "next_context": "Then she glanced casually around the shop, picked up her knitting with calm focus, and became absorbed in it.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 84,
+    "prev_context": "She acknowledged their greeting with a nod and a quick look.",
+    "target_en": "Then she glanced casually around the shop, picked up her knitting with calm focus, and became absorbed in it.",
+    "next_context": "\"Gentlemen,\" said her husband, who had been watching her closely, \"good day.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 85,
+    "prev_context": "Then she glanced casually around the shop, picked up her knitting with calm focus, and became absorbed in it.",
+    "target_en": "\"Gentlemen,\" said her husband, who had been watching her closely, \"good day.",
+    "next_context": "The simple room you wanted to see, and were asking about when I went out, is on the fifth floor.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 86,
+    "prev_context": "\"Gentlemen,\" said her husband, who had been watching her closely, \"good day.",
+    "target_en": "The simple room you wanted to see, and were asking about when I went out, is on the fifth floor.",
+    "next_context": "The entrance to the stairs is in the small courtyard to the left,\" he pointed. \"Right near the window of my shop.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 87,
+    "prev_context": "The simple room you wanted to see, and were asking about when I went out, is on the fifth floor.",
+    "target_en": "The entrance to the stairs is in the small courtyard to the left,\" he pointed. \"Right near the window of my shop.",
+    "next_context": "But now that I think of it, one of you has already been up there and can show the way.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 88,
+    "prev_context": "The entrance to the stairs is in the small courtyard to the left,\" he pointed. \"Right near the window of my shop.",
+    "target_en": "But now that I think of it, one of you has already been up there and can show the way.",
+    "next_context": "Goodbye, gentlemen!\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 89,
+    "prev_context": "But now that I think of it, one of you has already been up there and can show the way.",
+    "target_en": "Goodbye, gentlemen!\"",
+    "next_context": "They paid for their wine and left.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 90,
+    "prev_context": "Goodbye, gentlemen!\"",
+    "target_en": "They paid for their wine and left.",
+    "next_context": "Defarge was watching his wife knit when the older gentleman stepped forward from his corner and asked for a quick word.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 91,
+    "prev_context": "They paid for their wine and left.",
+    "target_en": "Defarge was watching his wife knit when the older gentleman stepped forward from his corner and asked for a quick word.",
+    "next_context": "\"Of course, sir,\" Defarge said, walking with him quietly to the door.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 92,
+    "prev_context": "Defarge was watching his wife knit when the older gentleman stepped forward from his corner and asked for a quick word.",
+    "target_en": "\"Of course, sir,\" Defarge said, walking with him quietly to the door.",
+    "next_context": "Their conversation was very short but intense.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 93,
+    "prev_context": "\"Of course, sir,\" Defarge said, walking with him quietly to the door.",
+    "target_en": "Their conversation was very short but intense.",
+    "next_context": "At the very first word, Defarge startled and listened closely.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 94,
+    "prev_context": "Their conversation was very short but intense.",
+    "target_en": "At the very first word, Defarge startled and listened closely.",
+    "next_context": "It didn't take a minute before he nodded and walked out.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 95,
+    "prev_context": "At the very first word, Defarge startled and listened closely.",
+    "target_en": "It didn't take a minute before he nodded and walked out.",
+    "next_context": "The gentleman then signaled to the young lady, and they went out too.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 96,
+    "prev_context": "It didn't take a minute before he nodded and walked out.",
+    "target_en": "The gentleman then signaled to the young lady, and they went out too.",
+    "next_context": "Madame Defarge knitted with fast fingers and calm eyebrows, pretending to see nothing.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 97,
+    "prev_context": "The gentleman then signaled to the young lady, and they went out too.",
+    "target_en": "Madame Defarge knitted with fast fingers and calm eyebrows, pretending to see nothing.",
+    "next_context": "Leaving the wine shop, Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 98,
+    "prev_context": "Madame Defarge knitted with fast fingers and calm eyebrows, pretending to see nothing.",
+    "target_en": "Leaving the wine shop, Mr.",
+    "next_context": "Jarvis Lorry and Miss Manette met Defarge in the doorway he had pointed out to the other men earlier.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 99,
+    "prev_context": "Leaving the wine shop, Mr.",
+    "target_en": "Jarvis Lorry and Miss Manette met Defarge in the doorway he had pointed out to the other men earlier.",
+    "next_context": "It opened into a dirty, smelly little courtyard and served as the public entrance to a large tenement building home to many people.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 100,
+    "prev_context": "Jarvis Lorry and Miss Manette met Defarge in the doorway he had pointed out to the other men earlier.",
+    "target_en": "It opened into a dirty, smelly little courtyard and served as the public entrance to a large tenement building home to many people.",
+    "next_context": "In the gloomy, tile-paved entryway leading to the gloomy, tile-paved staircase, Monsieur Defarge bent down on one knee before his old master's daughter and kissed her hand.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 101,
+    "prev_context": "It opened into a dirty, smelly little courtyard and served as the public entrance to a large tenement building home to many people.",
+    "target_en": "In the gloomy, tile-paved entryway leading to the gloomy, tile-paved staircase, Monsieur Defarge bent down on one knee before his old master's daughter and kissed her hand.",
+    "next_context": "It was a polite action but done with a tense, serious energy; he had completely changed in just a few seconds.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 102,
+    "prev_context": "In the gloomy, tile-paved entryway leading to the gloomy, tile-paved staircase, Monsieur Defarge bent down on one knee before his old master's daughter and kissed her hand.",
+    "target_en": "It was a polite action but done with a tense, serious energy; he had completely changed in just a few seconds.",
+    "next_context": "The friendly look was gone from his face, replaced by a secret, angry, and dangerous expression.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 103,
+    "prev_context": "It was a polite action but done with a tense, serious energy; he had completely changed in just a few seconds.",
+    "target_en": "The friendly look was gone from his face, replaced by a secret, angry, and dangerous expression.",
+    "next_context": "\"It is a long way up, and a bit difficult.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 104,
+    "prev_context": "The friendly look was gone from his face, replaced by a secret, angry, and dangerous expression.",
+    "target_en": "\"It is a long way up, and a bit difficult.",
+    "next_context": "We should start slowly,\" Defarge said sternly to Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 105,
+    "prev_context": "\"It is a long way up, and a bit difficult.",
+    "target_en": "We should start slowly,\" Defarge said sternly to Mr.",
+    "next_context": "Lorry as they began walking up the stairs.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 106,
+    "prev_context": "We should start slowly,\" Defarge said sternly to Mr.",
+    "target_en": "Lorry as they began walking up the stairs.",
+    "next_context": "\"Is he alone?\" Lorry whispered.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 107,
+    "prev_context": "Lorry as they began walking up the stairs.",
+    "target_en": "\"Is he alone?\" Lorry whispered.",
+    "next_context": "\"Alone!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 108,
+    "prev_context": "\"Is he alone?\" Lorry whispered.",
+    "target_en": "\"Alone!",
+    "next_context": "God help him, who else would be with him?\" Defarge replied in the same quiet tone.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 109,
+    "prev_context": "\"Alone!",
+    "target_en": "God help him, who else would be with him?\" Defarge replied in the same quiet tone.",
+    "next_context": "\"Is he always alone, then?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 110,
+    "prev_context": "God help him, who else would be with him?\" Defarge replied in the same quiet tone.",
+    "target_en": "\"Is he always alone, then?\"",
+    "next_context": "\"Yes.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 111,
+    "prev_context": "\"Is he always alone, then?\"",
+    "target_en": "\"Yes.\"",
+    "next_context": "\"By his own choice?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 112,
+    "prev_context": "\"Yes.\"",
+    "target_en": "\"By his own choice?\"",
+    "next_context": "\"Out of necessity.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 113,
+    "prev_context": "\"By his own choice?\"",
+    "target_en": "\"Out of necessity.",
+    "next_context": "He is exactly as he was when I first saw him, after they found me and asked if I would take him in and keep his secret at my own risk. As he was then, he is now.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 114,
+    "prev_context": "\"Out of necessity.",
+    "target_en": "He is exactly as he was when I first saw him, after they found me and asked if I would take him in and keep his secret at my own risk. As he was then, he is now.\"",
+    "next_context": "\"Is he greatly changed?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 115,
+    "prev_context": "He is exactly as he was when I first saw him, after they found me and asked if I would take him in and keep his secret at my own risk. As he was then, he is now.\"",
+    "target_en": "\"Is he greatly changed?\"",
+    "next_context": "\"Changed!\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 116,
+    "prev_context": "\"Is he greatly changed?\"",
+    "target_en": "\"Changed!\"",
+    "next_context": "The wine shop owner stopped, punched the wall with his hand, and swore quietly.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 117,
+    "prev_context": "\"Changed!\"",
+    "target_en": "The wine shop owner stopped, punched the wall with his hand, and swore quietly.",
+    "next_context": "No verbal answer could have been half as powerful.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 118,
+    "prev_context": "The wine shop owner stopped, punched the wall with his hand, and swore quietly.",
+    "target_en": "No verbal answer could have been half as powerful.",
+    "next_context": "Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 119,
+    "prev_context": "No verbal answer could have been half as powerful.",
+    "target_en": "Mr.",
+    "next_context": "Lorry's heart grew heavier as the three of them climbed higher and higher.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 120,
+    "prev_context": "Mr.",
+    "target_en": "Lorry's heart grew heavier as the three of them climbed higher and higher.",
+    "next_context": "Such a staircase in the old, crowded parts of Paris would be bad enough today, but back then, it was absolutely disgusting to anyone not used to it.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 121,
+    "prev_context": "Lorry's heart grew heavier as the three of them climbed higher and higher.",
+    "target_en": "Such a staircase in the old, crowded parts of Paris would be bad enough today, but back then, it was absolutely disgusting to anyone not used to it.",
+    "next_context": "Every small apartment in the building left its garbage right outside its door on the landing, besides throwing other trash out of the windows.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 122,
+    "prev_context": "Such a staircase in the old, crowded parts of Paris would be bad enough today, but back then, it was absolutely disgusting to anyone not used to it.",
+    "target_en": "Every small apartment in the building left its garbage right outside its door on the landing, besides throwing other trash out of the windows.",
+    "next_context": "The resulting pile of rotting waste polluted the air, and combined with the smell of extreme poverty, it made the building almost unlivable.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 123,
+    "prev_context": "Every small apartment in the building left its garbage right outside its door on the landing, besides throwing other trash out of the windows.",
+    "target_en": "The resulting pile of rotting waste polluted the air, and combined with the smell of extreme poverty, it made the building almost unlivable.",
+    "next_context": "They had to climb up through this dark, dirty chimney of filth.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 124,
+    "prev_context": "The resulting pile of rotting waste polluted the air, and combined with the smell of extreme poverty, it made the building almost unlivable.",
+    "target_en": "They had to climb up through this dark, dirty chimney of filth.",
+    "next_context": "Sensing his own growing anxiety and seeing how upset Miss Manette was becoming, Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 125,
+    "prev_context": "They had to climb up through this dark, dirty chimney of filth.",
+    "target_en": "Sensing his own growing anxiety and seeing how upset Miss Manette was becoming, Mr.",
+    "next_context": "Lorry stopped twice to rest.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 126,
+    "prev_context": "Sensing his own growing anxiety and seeing how upset Miss Manette was becoming, Mr.",
+    "target_en": "Lorry stopped twice to rest.",
+    "next_context": "Each time, they stopped near a dirty barred window where any fresh air seemed to escape and bad smells crawled in.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 127,
+    "prev_context": "Lorry stopped twice to rest.",
+    "target_en": "Each time, they stopped near a dirty barred window where any fresh air seemed to escape and bad smells crawled in.",
+    "next_context": "Looking through the rusty bars, they got a sense of the crowded, dirty neighborhood. Nothing they could see held any promise of a healthy or happy life. Nothing, except the distant towers of Notre-Dame Cathedral.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 128,
+    "prev_context": "Each time, they stopped near a dirty barred window where any fresh air seemed to escape and bad smells crawled in.",
+    "target_en": "Looking through the rusty bars, they got a sense of the crowded, dirty neighborhood. Nothing they could see held any promise of a healthy or happy life. Nothing, except the distant towers of Notre-Dame Cathedral.",
+    "next_context": "Finally, they reached the top landing and stopped for a third time.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 129,
+    "prev_context": "Looking through the rusty bars, they got a sense of the crowded, dirty neighborhood. Nothing they could see held any promise of a healthy or happy life. Nothing, except the distant towers of Notre-Dame Cathedral.",
+    "target_en": "Finally, they reached the top landing and stopped for a third time.",
+    "next_context": "There was still a final, steeper, and narrower flight of stairs to climb to reach the attic.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 130,
+    "prev_context": "Finally, they reached the top landing and stopped for a third time.",
+    "target_en": "There was still a final, steeper, and narrower flight of stairs to climb to reach the attic.",
+    "next_context": "Defarge, who had walked slightly ahead on Lorry's side, as if avoiding any questions from the young lady, turned around, reached into the pockets of the coat he carried, and pulled out a key.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 131,
+    "prev_context": "There was still a final, steeper, and narrower flight of stairs to climb to reach the attic.",
+    "target_en": "Defarge, who had walked slightly ahead on Lorry's side, as if avoiding any questions from the young lady, turned around, reached into the pockets of the coat he carried, and pulled out a key.",
+    "next_context": "\"Is the door locked, then?\" Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 132,
+    "prev_context": "Defarge, who had walked slightly ahead on Lorry's side, as if avoiding any questions from the young lady, turned around, reached into the pockets of the coat he carried, and pulled out a key.",
+    "target_en": "\"Is the door locked, then?\" Mr.",
+    "next_context": "Lorry asked, surprised.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 133,
+    "prev_context": "\"Is the door locked, then?\" Mr.",
+    "target_en": "Lorry asked, surprised.",
+    "next_context": "\"Yes, it is,\" Defarge replied grimly.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 134,
+    "prev_context": "Lorry asked, surprised.",
+    "target_en": "\"Yes, it is,\" Defarge replied grimly.",
+    "next_context": "\"Do you think it necessary to keep the poor man locked away like this?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 135,
+    "prev_context": "\"Yes, it is,\" Defarge replied grimly.",
+    "target_en": "\"Do you think it necessary to keep the poor man locked away like this?\"",
+    "next_context": "\"I think it necessary to keep him locked in.\" Defarge whispered this close to Lorry's ear with a heavy frown.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 136,
+    "prev_context": "\"Do you think it necessary to keep the poor man locked away like this?\"",
+    "target_en": "\"I think it necessary to keep him locked in.\" Defarge whispered this close to Lorry's ear with a heavy frown.",
+    "next_context": "\"Why?\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 137,
+    "prev_context": "\"I think it necessary to keep him locked in.\" Defarge whispered this close to Lorry's ear with a heavy frown.",
+    "target_en": "\"Why?\"",
+    "next_context": "\"Why!",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 138,
+    "prev_context": "\"Why?\"",
+    "target_en": "\"Why!",
+    "next_context": "Because he has lived locked up for so long that he would panic, lose his mind, hurt himself, or even die of fright if the door was left open.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 139,
+    "prev_context": "\"Why!",
+    "target_en": "Because he has lived locked up for so long that he would panic, lose his mind, hurt himself, or even die of fright if the door was left open.\"",
+    "next_context": "\"Is that really possible!\" Mr.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 140,
+    "prev_context": "Because he has lived locked up for so long that he would panic, lose his mind, hurt himself, or even die of fright if the door was left open.\"",
+    "target_en": "\"Is that really possible!\" Mr.",
+    "next_context": "Lorry exclaimed.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 141,
+    "prev_context": "\"Is that really possible!\" Mr.",
+    "target_en": "Lorry exclaimed.",
+    "next_context": "\"Is it possible?\" Defarge repeated bitterly.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 142,
+    "prev_context": "Lorry exclaimed.",
+    "target_en": "\"Is it possible?\" Defarge repeated bitterly.",
+    "next_context": "\"Yes. And it's a beautiful world we live in, where such things are not only possible, but actually done to people under the sun every single day.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 143,
+    "prev_context": "\"Is it possible?\" Defarge repeated bitterly.",
+    "target_en": "\"Yes. And it's a beautiful world we live in, where such things are not only possible, but actually done to people under the sun every single day.",
+    "next_context": "Long live the Devil.",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 144,
+    "prev_context": "\"Yes. And it's a beautiful world we live in, where such things are not only possible, but actually done to people under the sun every single day.",
+    "target_en": "Long live the Devil.",
+    "next_context": "Let's keep moving.\"",
+    "status": "pending"
+  },
+  {
+    "file": "book1_ch_05.json",
+    "id": 145,
+    "prev_context": "Long live the Devil.",
+    "target_en": "Let's keep moving.\"",
+    "next_context": "This conversation was held in such low whispers that the young lady didn't hear a word.",
+    "status": "pending"
+  }
+]

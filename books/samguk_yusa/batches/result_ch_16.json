@@ -1,219 +1,205 @@
 {
  "chapter_id": "ch_16",
  "model": "gemma4:12b",
- "seconds": 215.9,
+ "seconds": 277.4,
  "aligned": 12,
  "total": 12,
  "items": {
   "3": {
    "tag": "P0002",
    "ko": [
-    "이선(伊飱)이 김주원(金周元)을 처음으로 상재로 삼았다. 왕(王)은 각간(角干)으로서 두 관직에 머물렀다. 꿈속에서 왕이 갓을 벗고 흰 삿갓을 썼으며, 열두 줄의 거문고를 들고 천관사 우물 속에 넣었다.",
-    "깨어난 뒤 왕은 사람을 시켜 이를 점쳤다.",
-    "점술가는 \"갓을 벗은 것은 직무를 소홀히 할 징조이고, 거문고를 든 것은 멍에를 메울 징조이며, 우물에 들어간 것은 옥에 갇힐 징조\"라고 말했다. 왕은 이를 듣고 매우 걱정하여 문을 걸어 잠그고 나오지 않았다.",
-    "이때 이선이 세 명의 사람과 함께 본산에서 와서 알현하였다.",
-    "왕은 병을 핑계로 거절했으나, 그들이 다시 찾아와 \"한 번만 뵙기를 원한다\"고 말하자 왕이 허락했다.",
-    "이선이 \"공께서 꺼리시는 일이 무엇입니까? \"라고 묻자, 왕이 꿈의 점괘를 말하였다. 이에 이선이 일어나 절하며 \"이것은 길상한 꿈입니다\"라고 말했다."
+    "이선이 처음에는 높은 벼슬을 지냈다. 왕은 각간이 되어 두 관직에 머물렀다. 어느 날 왕이 꿈속에서 관복을 벗고 흰 삿갓을 썼다. 그는 열두 줄짜리 거문고를 천관사 우물 속에 던져 넣었다.",
+    "왕이 잠에서 깨어 사람을 시켜 꿈을 점치게 했다. 점쟁이가 관복을 벗은 것은 직무를 잃을 징조라 말했다.",
+    "거문고를 들고 우물에 넣은 것은 멍에를 매고 감옥에 갇힐 징조라고 했다. 왕은 이 말을 듣고 크게 걱정하며 문을 걸어 잠그고 나오지 않았다.",
+    "이때 이선과 세 사람이 본래 산에서 찾아와 문안했다.",
+    "왕은 몸이 아프다는 핑계로 거절했으나, 그들이 다시 찾아와 한 번만 만나게 해달라고 간청하자 허락했다. 이선이 무엇을 꺼리는지 묻자 왕은 꿈의 점괘를 말했다. 이선은 기뻐하며 절하고 이것은 길한 꿈이라고 말했다."
    ],
    "en": [
-    "Iseon appointed Kim Juwon as the first Sangjae. The King, as Gakgan, held two offices. In a dream, the King took off his gat and wore a white satgat, and he put a twelve-stringed geomungo into the well of Cheongwansa.",
-    "After waking, the King sent someone to divine it.",
-    "The fortuneteller said, \"Removing the hat was a sign of neglecting one's duties, holding the zither was a sign of wearing a yoke, and entering the well was a sign of being imprisoned.\" Hearing this, the King was very worried and locked his door and did not come out.",
-    "At that time, Iseon came from Bonsan with three other people to seek an audience.",
-    "The King refused by citing illness, but when they came again and said, \"We wish to see you just once,\" the King granted it.",
-    "Iseon asked, \"What is the matter that you are reluctant to share?\" and Wang told him of the divination of his dream. At this, Iseon rose and bowed, saying, \"This is an auspicious dream.\""
+    "Iseon first held a high government post. Wang became a Gakgan and held two offices. One day, in a dream, Wang took off his official robe and wore a white bamboo hat. He threw a twelve-stringed geomungo into the well of Cheongwansa.",
+    "When Wang awoke, he had someone interpret his dream. The fortune-teller said that taking off the official robe was a sign of losing one's position.",
+    "The person who interpreted the dream said that putting a zither into a well was a sign of being put in shackles and imprisoned. Wang heard this and worried greatly, locking his door and not coming out.",
+    "At that time, Iseon and three others came from Bonyeongsan to pay their respects.",
+    "Wang refused, claiming he was ill, but when they came again and pleaded to see him just once, he agreed. When Iseon asked what he was avoiding, Wang told him of the dream's divination. Iseon joyfully bowed and said it was an auspicious dream."
    ],
    "aligned": true
   },
   "4": {
    "tag": "P0003",
    "ko": [
-    "만약 그가 높은 자리에 오르면서 나를 버리지 않는다면, 내가 그를 위해 풀이해 주겠다.",
-    "왕은 좌우를 멀리하고 그에게 풀이를 청했다. \"옷머리를 벗은 것은 사람이 윗자리에 머무는 것이고, 흰 갓을 쓴 것은 면사(冕旒)의 징조이다. \"",
-    "\"열두 줄의 거문고를 든 것은 열두 손자가 세상에 이어질 징조이며, 천관정(天官井)에 들어간 것은 궁궐 금제의 상서로운 일이다.",
-    "\" 왕이 말했다. \"위에 주원(周元)이 있으니 어찌 높은 자리에 머무는가? \" 아사(阿飱)가 대답했다.",
-    "\"북천(北川)의 신을 비밀리에 모시면 될 것입니다.\" 왕은 그 말을 따랐다. 얼마 지나지 않아 선덕왕(宣德王)이 승하하자, 나라 사람들은 주원을 왕으로 받들어 궁궐로 맞이하려 했다. 그의 집은 강 북쪽에 있었다.",
-    "갑자기 강물이 불어나 건널 수 없게 되었다. 왕은 먼저 궁에 들어가 자리에 올랐다. 재(宰)의 무리들이 모두 와서 그에게 붙었다."
+    "만약 당신이 높은 자리에 오르면서 나를 내치지 않는다면, 내가 그 뜻을 풀이해 주겠다.",
+    "왕은 좌우를 멀리하고 나에게 풀이를 청했다. \"머리 장식을 벗은 사람은 높은 자리에 머물지 못한다는 뜻이다. 흰 갓을 쓴 것은 관의 장식인 면사로를 상징한다.\"",
+    "\"열두 줄의 거문고를 든 것은 열두 손자가 대대로 이어질 징조다. 천관정에 들어가고 궁궐 금지에 들어간 것은 상서로운 길조다.",
+    "왕이 물었다. \"위에 주원이 있는데 왜 그가 높은 자리에 머무는가? 아사라는 답했다. \"북천의 신을 비밀리에 모시면 됩니다.\"",
+    "왕은 그 말을 따랐다. 얼마 지나지 않아 선덕왕이 세상을 떠났다. 나라 사람들은 주원을 왕으로 받들기로 했다. 그들은 주원을 궁궐로 모셔 가려 했다. 그의 집은 강 북쪽에 있었으나 갑자기 강물이 불어나 건널 수 없게 되었다.",
+    "주원이 먼저 궁에 들어가 자리에 올랐다. 재의를 따르는 무리들이 모두 몰려와 그를 따랐다."
    ],
    "en": [
-    "If he does not abandon me while ascending to the high position, I will interpret it for him.",
-    "The king kept those around him at a distance and asked for an interpretation. \"The removal of the headpiece means that a person will occupy a high position, and the wearing of a white hat is a sign of the miansa.\"",
-    "Holding a twelve-stringed zither was a sign that twelve grandsons would continue through the generations, and entering Cheongwanjeong was an auspicious omen of the palace's restricted area.",
-    "The King said, \"Since Juwon is above, why should he remain in the high position?\" Asam replied.",
-    "\"If you secretly worship the god of Bukcheon, it will be sufficient.\" The king followed those words. Not long after, King Seondeok passed away, and the people of the land sought to escort Juwon as king and welcome him into the palace. His house was located north of the river.",
-    "Suddenly the river water rose and it became impossible to cross. The king entered the palace first and took his position. The followers of the Jae all came and joined him."
+    "If you do not cast me aside while ascending to the high position, I shall interpret its meaning for you.",
+    "The king distanced those around him and asked me to interpret it. \"A person who has removed their headpiece means they cannot remain in a high position. One wearing a white hat symbolizes the mian-saro of a crown.\"",
+    "Holding a twelve-stringed zither was a sign that twelve grandsons would continue the lineage. Entering Cheongwanjeong and entering the palace forbidden zone were auspicious omens.",
+    "The King asked, \"Since Juwon is above, why does he remain in the high position?\" Asara replied, \"It will suffice to secretly worship the god of Bukcheon.\"",
+    "The king followed those words. Not long after, King Seondeok passed away. The people of the land decided to accept Juwon as king. They intended to escort him into the palace. His house was located north of the river, but suddenly the river water rose and it became impossible to cross.",
+    "Juwon entered the palace first and took his position. The crowd of followers of Jae-ui all gathered and followed him."
    ],
    "aligned": true
   },
   "5": {
    "tag": "P0004",
    "ko": [
-    "새로 등극한 이를 축하한다. 이는 원성(元聖)대왕이다. 휘는 경신(敬信)이며 이름은 금무(金武)이다. 이는 두터운 꿈의 응답이다. 주원(周元)이 명주(溟州)로 물러나고 왕이 극에 올랐다.",
-    "그때 여산(餘山)이 이미 세상을 떠났다. 그 자손들을 불러 작위를 내렸다. 왕의 손자가 다섯 명 있었다. 휘충(惠忠)태자, 헌평(憲平)태자, 예영(禮英)좌간(匝干), 대용(大龍)부인, 소용(小龍)부인 등이다.",
-    "대왕은 참으로 궁극에 이르는 변화를 알았다. 그러므로 몸을 비우고 머리를 노래하는 시가 있었다(노래는 전해지지 않음). 왕의 조상인 대각간(大角干) 효양(孝讓)이 조상으로부터 만파식적(萬波息笛)을 전했다.",
-    "그것이 왕에게 전해졌다. 왕은 그것을 얻었다. 그러므로 큰 은혜를 입어 그 덕이 멀리 빛났다. 정원(貞元) 이년 병인 열한 달 열하루."
+    "새로 등극한 분을 축하하며 인사한다. 이분은 원성왕이라 불리는 대왕이다. 그분의 성함은 경신금무였다. 이는 깊은 꿈이 응하여 이루어진 결과였다.",
+    "주원은 명주로 물러났고 왕은 최고의 자리에 올랐다. 이때 여산이 세상을 떠났다. 왕은 그의 자손들에게 작위를 내렸다. 왕의 손자 중에는 다섯 명이 있었다.",
+    "그들은 각각 혜충태자, 헌평태자, 예영자간, 대룡부인, 소룡부인이었다. 대왕은 재물과 권세가 넘쳐나면 변고가 생김을 잘 알았다. 그래서 몸을 비우는 노래를 지어 부르셨다.",
+    "대왕의 아버지인 대각간 효량이 조상으로부터 만파식적을 전해왔다. 왕은 이를 이어받았다. 왕은 하늘의 은혜에 깊이 감사하며 그 덕을 멀리까지 떨쳤다. 정원 이년 병인년 시월 열하루."
    ],
    "en": [
-    "Congratulations to the one who newly ascended. This is King Wonseong. His name was Gyeongsin and his courtesy name was Geummu. This was the response of a thick dream. Juwon retreated to Myeongju, and the king reached the pinnacle.",
-    "At that time, Yeosan had already passed away. He summoned his descendants and bestowed titles upon them. There were five grandchildren of the King: Crown Prince Huichung, Crown Prince Hyeonpyeong, Jagan Yeyeong, Lady Daeryong, and Lady Soryong.",
-    "The Great King truly knew the changes reaching the ultimate. Therefore, there was a song of emptying the body and singing the head (the song is not transmitted). The King's ancestor, Daegakgan Hyoyang, received Manpasikjeok from his ancestors and passed it on.",
-    "That was passed down to the King. The King obtained it. Therefore, he received great grace and his virtue shone far. Jeongwon 2, Byeongin, the eleventh month, the eleventh day."
+    "I congratulate and greet the one who ascended to the throne. This is the Great King called Wonseong. His name was Gyeongsin Geummu. This was a result of a deep dream being fulfilled.",
+    "Juwon withdrew to Myeongju, and the King ascended to the highest position. At this time, Yeosan passed away. The King bestowed titles upon his descendants. Among the King's grandsons, there were five: Hyechung Taeja, Heonpyeong Taeja, Yeyeong Jagan, Daeryong Buin, and Soryong Buin.",
+    "They were respectively Hyechung Taeja, Heonpyeong Taeja, Yeyeong Jagan, Daeryong Buin, and Soryong Buin. The Great King knew well that calamities arise when wealth and power overflow. Therefore, he composed and sang a song of emptying the self.",
+    "The Great King's father, Dae-gakgan Hyoryang, received the Manpasikjeok from the ancestors. The King inherited it. The King deeply thanked the grace of heaven and his virtue spread far. Jeongwon 2, Byeongin year, October 11."
    ],
    "aligned": true
   },
   "6": {
    "tag": "P0005",
    "ko": [
-    "일본왕(日本王) 문경(文慶)이 군사를 일으켜 신라를 치려 했다. 신라에 만파식적(萬波息笛)이 있다는 말을 듣고 군대를 물리고 금 오십 냥으로 사신을 보내 그 피리를 요청했다.",
-    "왕은 사신에게 말하기를, \"짐이 듣기로 상세(上世) 진평왕(眞平王) 때에만 그것이 있었다고 들었으나 지금은 어디에 있는지 알지 못한다.\"라고 하였다.",
-    "다음 해 칠월 칠일, 다시 사신을 보내 금 천 냥으로 요청하며 말하기를, \"과인이 신묘한 물건을 보고 돌려보내고자 한다.\"라고 하였다. 왕 또한 이전에 대답한 것을 거절하고 은 삼천 냥을 사신에게 내주었다.",
-    "사신은 금을 돌려주고 은은 받지 않았다. 팔월에 사신이 돌아오자 그 피리를 내황전(內黃殿)에 감추어 두었다.",
-    "왕이 즉위한 지 열한 해가 되는 을해년(乙亥年)에 당나라 사신이 경성에 왔다가 한 달을 머물고 돌아갔다. 그 다음 날 두 여인이 내정으로 들어왔다."
+    "일본왕 문경이 군대를 일으켜 신라를 치려 했다. 신라에 만파식적이 있다는 소식을 듣고 왕은 군대를 물렸다. 왕은 금 오십 냥을 주며 사신을 보내 그 피리를 요청했다.",
+    "왕은 사신에게 말했다. \"나는 옛날 진평왕 때 이 피리가 있었다고 들었다. 지금은 어디에 있는지 모르겠다.\" 다음 해 칠월 칠일에 왕은 다시 사신을 보내 금 천 냥으로 피리를 청하며 말했다.",
+    "\"나는 신비로운 물건을 보고 돌려보내고 싶다.\" 왕은 앞선 대답을 거절하고 은 삼천 냥을 사신에게 주었다. 사신은 금을 돌려주었으나 은은 받지 않았다. 팔월에 사신이 돌아오자 왕은 피리를 내황전에 감추어 두었다.",
+    "왕이 즉위한 지 열한 해가 되는 을해년이었다. 당나라 사신이 서울에 왔다. 사신은 한 달을 머물고 돌아갔다. 그로부터 하루 뒤에 두 여자가 내정으로 들어왔다."
    ],
    "en": [
-    "King Mungyeong of Japan raised his troops to attack Silla. Hearing that there was a Manpasikjeok in Silla, he withdrew his troops and sent an envoy with fifty taels of gold to request the flute.",
-    "The king said to the envoy, \"I have heard that it existed only during the time of King Jinpyeong in previous generations, but I do not know where it is now.\"",
-    "On the seventh day of the seventh month of the next year, he sent an envoy again and requested it with one thousand taels of gold, saying, \"I wish to see the divine object and then return it.\" The king also rejected his previous answer and gave three thousand taels of silver to the envoy.",
-    "The envoy returned the gold and did not accept the silver. When the envoy returned in August, the king hid the flute in Naehwangjeon.",
-    "In the year of Eulhae, the eleventh year of the king's reign, a Tang envoy came to Gyeongseong, stayed for one month, and departed. The following day, two women entered the inner courtyard."
+    "King Mungyeong of Japan raised an army to attack Silla. Upon hearing that Silla possessed the Manpasikjeok, the king withdrew his troops. The king gave fifty taels of gold and sent an envoy to request the flute.",
+    "The king said to the envoy, \"I heard that this flute existed during the reign of King Jinpyeong in former times. I do not know where it is now.\" On the seventh day of the seventh month of the next year, the king sent an envoy again and requested the flute with one thousand taels of gold, saying, \"I wish to see the divine object and return it.\"",
+    "\"I wish to see the divine object and return it.\" The king rejected the previous answer and gave three thousand taels of silver to the envoy. The envoy returned the gold but did not accept the silver. When the envoy returned in August, the king hid the flute in the Naehwangjeon.",
+    "It was the year of Eulhae, the eleventh year of the king's reign. A Tang envoy came to Seoul. The envoy stayed for one month and left. One day later, two women entered the inner courtyard."
    ],
    "aligned": true
   },
   "7": {
    "tag": "P0006",
    "ko": [
-    "아뢰기를 이르되, \"저희는 동지(東池)와 청지의 두 용의 아내입니다.",
-    "당나라 사신이 하서국(河西國) 사람 둘을 데리고 왔는데, 그들이 제부군인 두 용과 분황사(芬皇寺) 우물의 세 용 등 총 세 용을 저주하여 작은 물고기로 변하게 한 뒤 통에 담아 돌아갔습니다.",
-    "바라건대 폐하께서 두 사람에게 명하여 제 부군들을 남겨두어 나라를 지키는 용으로 삼게 하소서. \"",
-    "왕이 하양관(河陽館)까지 쫓아가 친히 잔치를 베풀고, 하서국 사람들에게 엄중히 말하였다.",
-    "\"너희가 어찌 우리 세 용을 여기까지 잡아왔느냐? 만약 사실대로 고하지 않는다면 반드시 극형에 처할 것이다. \" 그러자 그들이 세 마리의 물고기를 내어왔다.",
-    "그 물고기들을 세 곳에 풀어놓으니, 각각 한 길 남짓한 물이 솟아올랐고 물고기들은 기쁘게 뛰며 사라졌다. 당나라 사람들은 왕의 밝은 성덕에 감복하였다."
+    "그녀가 아뢰었다. \"저희는 동지와 청지의 두 용의 아내입니다. 당나라 사신이 하서국 사람 둘을 데리고 왔습니다.",
+    "그들이 제 남편인 두 용과 분황사 우물에 사는 세 용을 저주했습니다. 그들은 작은 물고기로 변해 항아리에 담겨 돌아갔습니다. 폐하께서 두 사람에게 명령하여 저희 남편들을 풀어주시고 나라를 지키는 용으로 삼아 주십시오.\"",
+    "왕이 하양관까지 쫓아가 직접 성대한 잔치를 베풀었다. 왕은 하서국 사람들에게 엄하게 물었다.",
+    "\"너희가 어찌 우리 세 용을 여기까지 잡아왔느냐? 사실대로 말하지 않으면 반드시 엄중한 벌을 내릴 것이다. 그러자 그들이 세 마리의 물고기를 꺼내어 바쳤다.",
+    "왕이 물고기들을 세 곳에 풀어주었다. 물고기들은 각각 한 길 정도의 물을 뿜으며 기쁘게 뛰어올라 사라졌다. 당나라 사람들은 왕의 밝은 지혜와 성스러움에 감탄하였다."
    ],
    "en": [
-    "They reported, \"We are the wives of the two dragons of Dongji and Cheongji.\"",
-    "The Tang envoy brought two people from the Hexi State, who had cursed my husband's two dragons and the three dragons of the Bunhwangsa Well, turning them into small fish and taking them away in jars.",
-    "\"I pray that Your Majesty commands the two men to leave my husbands behind and let them serve as dragons protecting the nation.\"",
-    "The King pursued them to Hayanggwan, personally hosted a feast, and spoke sternly to the people of Haseoguk.",
-    "\"How did you capture our three dragons and bring them here? If you do not tell the truth, you will surely be punished with the extreme penalty.\" Then they brought out three fish.",
-    "When those fish were released in three places, water surged up about one *jang* at each spot, and the fish leaped joyfully and disappeared. The Tang people were impressed by the king's bright wisdom."
+    "She reported, \"We are the wives of the two dragons of Dongji and Cheongji. A Tang envoy brought two people from the Hexi region.\"",
+    "They cursed my husbands, the two dragons, and the three dragons of the Bunhwangsa well. They turned into small fish and were taken back in jars. I pray that Your Majesty commands those two men to release my husbands and appoint them as dragons who protect the nation.",
+    "The King pursued them to Hayanggwan and personally hosted a grand feast. The King sternly questioned the people from Haseoguk.",
+    "\"How did you capture our three dragons and bring them here? If you do not tell the truth, you will surely be punished severely.\" Then they took out three fish and presented them.",
+    "The king released the fish in three places. Each of them spurted out water about one chang, leaped joyfully, and disappeared. The Tang people admired the king's brightness and holiness."
    ],
    "aligned": true
   },
   "8": {
    "tag": "P0007",
    "ko": [
-    "대왕(大王)이 하루에 황룡사(皇龍寺)(주석: 혹은 본래 화엄사 또는 금강사라고 하며, 향덮개로 인해 절 이름과 경전 이름이 섞인 것이다)의 법사(法師) 지해(智海)를 안으로 청했다. 그는 화엄경을 오십 년 동안 공부하였다.",
-    "사미(沙彌) 묘정(妙正)은 매번 금광정(金光井)(이유는 대현법사가 이름을 얻었기 때문임)가에서 발우를 씻었다. 그곳에는 한 마리의 잉어가 우물 속에 떠오르내리며 있었다.",
-    "사미는 매번 남은 음식으로 잉어를 대접하며 장난을 쳤다. 자리를 정리할 때 사미가 잉어에게 말했다. \"내가 너를 오랫동안 아껴주었는데, 어떻게 보답하겠느냐?\"",
-    "며칠이 지난 후, 잉어가 작은 구슬 하나를 뱉어내어 마치 남겨두고 떠나려는 듯했다. 사미는 그 구슬을 얻어 띠 끝에 매달았다. 그 후로 대왕은 사미를 아끼고 중히 여겨 내전으로 불러들였으며, 그는 항상 곁에 머물렀다."
+    "대왕이 하루는 황룡사(주석: 본래 화엄사 혹은 금강사라고 전해지며, 절 이름과 경전 이름이 겹쳐 혼동된 것이다)의 스님 지해를 불러들였다. 대왕은 그에게 화엄경을 오십 번이나 읽으라고 명했다.",
+    "어린 중인 묘정이 매일 금광정(주석: 대현스님이 이름을 얻은 곳이다)가에서 발을 씻었다. 그곳에는 한 마리의 잉어가 우물 속에 떠오르내리며 살고 있었다.",
+    "묘정은 남은 음식을 던져주며 잉어와 장난을 치곤 했다. 어느 날 묘정이 자리를 정리하며 잉어에게 말했다. \"내가 너를 오랫동안 아껴주었는데, 너는 내게 어떻게 보답하겠느냐?\"",
+    "며칠 뒤에 잉어가 작은 구슬 하나를 뱉어내어 마치 선물이라도 주려는 듯했다. 묘정은 그 구슬을 얻어 띠 끝에 매달았다. 그 후로 대왕은 묘정을 아끼고 중히 여겨 내전으로 불러 곁에 두었다."
    ],
    "en": [
-    "One day, the Great King invited the monk Jihae of Hwangnyongsa (Note: It is possibly originally Hwaeomsa or Geumgangsa; because of the incense cover, the name of the temple and the name of the scripture became mixed) into the inner palace. He had studied the Avatamsaka Sutra for fifty years.",
-    "The Sa-mi Myojeong washed his bowl at Geumgwangjeong (the reason is that the Great Sage Master received his name there) every time. There, a carp floated and sank in the well.",
-    "The Sami Myojeong played with the carp by feeding it leftovers every time. When he finished his meal, the Sami said to the carp, \"I have cherished you for a long time; how will you repay me?\"",
-    "A few days later, the carp spat out a small bead as if it intended to leave it behind. The sami received the bead and hung it at the end of his belt. From then on, the Great King cherished and esteemed the sami, invited him into the inner palace, and he remained by his side at all times."
+    "One day, the Great King summoned the monk Jihae of Hwangnyongsa (Note: It is said that it was originally Hwaeomsa or Geumgangsa; the names of the temple and the scripture were confused). The Great King commanded him to recite the Avatamsaka Sutra fifty times.",
+    "The young monk Myojeong washed his feet every day at Geumgwangjeong (Note: the place where Master Daehyeon received his name), where a carp lived in the well, floating and sinking.",
+    "Myojeong used to play with the carp by tossing it leftover food. One day, as Myojeong was finishing his business, he said to the carp, \"I have cherished you for a long time; how will you repay me?\"",
+    "A few days later, the carp spat out a small bead as if it intended to give it as a gift. Myojeong received the bead and hung it at the end of his belt. From then on, the Great King cherished and esteemed Myojeong, summoned him into the inner palace, and kept him by his side."
    ],
    "aligned": true
   },
   "9": {
    "tag": "P0008",
    "ko": [
-    "당시에 한 사미(沙彌)가 당나라에 사신으로 갔다. 그 또한 사미를 아껴서 함께 데리고 가기를 청하였고, 왕이 허락하였다.",
-    "함께 당나라에 들어갔다. 당제도 사미를 보고 총애하였다. 승상과 신하들이 곁에 있는 이들 모두가 그를 공경하고 믿었다.",
-    "한 상사가 나아가 말하기를, \"이 사미를 자세히 살펴보니 길상한 기운이 하나도 없는데 사람들의 신망을 얻었으니, 반드시 무언가 특별한 물건을 지니고 있을 것입니다.",
-    "\"라고 하였다. 사람을 시켜 뒤져보게 하니, 단단하고 작은 구슬을 하나 얻었다.",
-    "황제가 말하기를, \"짐에게는 여의주 네 개가 있는데 재작년에 하나를 잃어버렸다. 이제 이 구슬을 보니 내가 잃어버린 것이다. \"라고 하였다.",
-    "황제가 사미에게 물으니, 사미가 그 일을 상세히 진술하였다. 황제가 구슬을 잃어버린 날과 사미가 구슬을 얻은 날이 같았다. 황제는 그 구슬을 남겨두고 사미를 보내어 주었다."
+    "당나라에 사신이 가던 때에 한 어린 중이 있었다. 사신은 그 어린 중을 아껴서 함께 데리고 가자고 청했다. 왕은 이를 허락하였다. 두 사람은 함께 당나라에 들어갔다.",
+    "당나라 황제도 이 어린 중을 보고 총애하였다. 재상과 신하들도 모두 그를 공경하고 믿었다.",
+    "한 신하가 말하기를, \"이 어린 중을 자세히 살펴보니 길한 상이 하나도 없는데 사람들이 믿고 공경하니, 반드시 기이한 물건을 지니고 있을 것입니다.\"라고 하였다.",
+    "사람을 시켜 살피게 하니 어린 중이 작은 구슬을 차고 있었다. 황제가 말하기를, \"내게 여의주 네 개가 있는데 재작년에 하나를 잃어버렸다.",
+    "이제 이 구슬을 보니 내가 잃은 것이 맞다.\"라고 하였다. 황제가 물으니 어린 중이 그 일을 상세히 고했다. 황제가 구슬을 잃어버린 날과 어린 중이 구슬을 얻은 날이 같았다. 황제는 구슬을 돌려주고 그를 보내주었다."
    ],
    "en": [
-    "At that time, a Sami went to the Tang Dynasty as an envoy. He also cherished the Sami and requested to take him along, and the king permitted it.",
-    "He entered Tang together with them. The Emperor of Tang also saw the Sami and favored him. All those nearby, including the chancellor and the officials, respected and trusted him.",
-    "One official stepped forward and said, \"Upon examining this Sami closely, he possesses not a single auspicious sign, yet he has gained the trust and respect of others; he must surely possess some extraordinary object.\"",
-    "He said, \"A man was sent to search him, and a hard, small bead was found.\"",
-    "The Emperor said, \"I have four Yeouju beads, and I lost one the year before last. Seeing this bead now, it is the one that I lost.\"",
-    "When the Emperor asked the Sami, the Sami recounted the matter in detail. The day the Emperor lost the bead and the day the Sami obtained the bead were the same. The Emperor left the bead and sent the Sami away."
+    "When an envoy went to Tang, there was a young monk. The envoy cherished the young monk and requested to take him along. The king permitted this. The two entered Tang together.",
+    "The Emperor of Tang also saw the young monk and favored him. The prime ministers and officials all respected and trusted him.",
+    "One official said, \"Upon examining this young monk closely, he possesses not a single auspicious sign, yet people trust and revere him; he must surely possess some extraordinary object.\"",
+    "When people were ordered to search him, they found the young monk wearing a small bead. The Emperor said, \"I have four Yeouiju beads, and I lost one two years ago.\"",
+    "\"Now that I see this bead, it is indeed the one I lost,\" the Emperor said. When the Emperor asked, the young monk explained the matter in detail. The day the Emperor lost the bead and the day the young monk obtained the bead were the same. The Emperor returned the bead to him and sent him away."
    ],
    "aligned": true
   },
   "10": {
    "tag": "P0009",
    "ko": [
-    "후사람들이 이 사미(沙彌)를 믿지 않았다. 대왕의 능이 토함악(吐含岳) 서쪽 동궁사(洞鵠寺, 지금의 숭선사)에 있으며 최치원(崔致遠)이 지은 비석이 있다. 또한 보은사(報恩寺)를 세웠다.",
-    "또한 망덕루(望德樓)에서 조훈을 추봉하여 아간(阿干)으로 삼아 흥평대왕이라 하였다. 증조 의는 관직이 아간이라 신영대왕이라 하였다. 고조 법선은 대아간이라 현성대왕이라 하였다. 현성대왕의 아버지는 곧 마륵차 아간이었다."
+    "후세 사람들은 이 사미를 믿지 않았다. 대왕의 능은 토함악 서쪽 동호사(지금의 숭선사)에 있으며, 최치원이 비석을 세웠다. 또한 보은사를 새로 지었다.",
+    "대왕은 망덕루에서 조훈을 추봉하고 아간으로 삼아 흥평대왕이라 불렀다. 증조는 신영대왕으로, 조부는 법선이라는 이름의 대아간으로 삼아 현성대왕이라 불렀다. 현성대왕의 아버지는 마륵차라는 이름의 아간이었다."
    ],
    "en": [
-    "Later people did not believe this Sami. The Great King's tomb was located at Donggungsa (now Sungseonsa) in the western cave of Tohamak, where a stele written by Choe Chiwon exists. Also, Boeunsa was established.",
-    "Also, at Mangdeokno, Jo Hun was posthumously honored as Akan and titled Heungpyeong Daewang. The great-grandfather Ui held the rank of Akan and was titled Sinyeong Daewang. The great-great-grandfather Beopseon held the rank of Daeagan and was titled Hyeonsung Daewang. The father of Hyeonsung Daewang was Marukcha Akan."
+    "Later people did not believe in this Sami. The Great King's tomb was located at Donghosa (now Sungseonsa) in the western part of Tohamak, and Choe Chiwon erected a stele. Furthermore, Boeunsa was newly built.",
+    "The Great King posthumously honored Johun at Mangdeokru and appointed him as a Dagan, calling him the King of Heungpyeong. The great-grandfather was called the King of Sinyeong, and the grandfather, who was named Beopseon, was appointed as a Daegan and called the King of Hyeonsung. The father of the King of Hyeonsung was a Dagan named Mareukcha."
    ],
    "aligned": true
   },
   "12": {
    "tag": "P0011",
    "ko": [
-    "마흔아홉째 애장왕(哀莊王). 말년 무신년 팔월 열닷새에 눈이 내렸다. 마흔아째 헌덕왕(憲德王).",
-    "원화 십삼년 무술년 삼월 열나흘에 큰 눈이 내렸다. (한 권은 병인이라 되어 있으나 잘못되었다. 원화는 끝까지 열다섯이다. 병인은 없다.)",
-    "마흔여섯째 문성왕(文聖王). 기미년 오월 열아흐레에 큰 눈이 내렸다. 팔월 초하루에 하늘과 땅이 어두워졌다."
+    "마흔아홉째 애장왕의 말년인 무자년 팔월 열닷새에 눈이 내렸다. 마흔열째 헌덕왕 때 원화 십삼년 무술년 삼월 열나흘에 큰눈이 내렸다. (한 권에는 병인이라 되어 있으나 틀렸다. 원화는 모두 열다섯이다. 병인은 없다.)",
+    "마흔여섯째 문성왕 때 기미년 오월 열아흐레에 큰눈이 내렸다. 팔월 초하루에 하늘과 땅이 어둡고 침침해졌다."
    ],
    "en": [
-    "Forty-ninth, King Aejang. In the year of Musin in his final years, on the fifteenth day of the eighth month, snow fell. Fortieth, King Heondeok.",
-    "In the year of Wusul, the thirteenth year of Wonhwa, heavy snow fell on the fourteenth day of the third month. (One edition states it was Byeongin, but this is incorrect. Wonha ends at fifteen; there is no Byeongin.)",
-    "Forty-sixth, King Munseong. On the nineteenth day of the fifth month of the Gimi year, heavy snow fell. On the first day of the eighth month, heaven and earth became dark."
+    "Forty-ninth, in the year of Mujo during the later years of King Aejang, snow fell on the fifteenth day of the eighth month. Fortieth, in the year of Musul of Yuanhwa thirteen during the reign of King Heundeok, heavy snow fell on the fourteenth day of the third month. (One edition says Byeongin, but it is incorrect; Yuanha only goes up to fifteen, and there is no Byeongin.)",
+    "Forty-sixth, during the reign of King Munseong, on the fifteenth day of the fifth month of the year Gimi, a heavy snow fell. On the first day of the eighth month, the heavens and the earth became dark and dim."
    ],
    "aligned": true
   },
   "14": {
    "tag": "P0013",
    "ko": [
-    "마흔두째 흥덕왕(興德王). 보력 이년 병오년에 즉위했다. 얼마 뒤에 어떤 사람이 당나라에 사신으로 가서 앵무새 한 쌍을 데리고 돌아왔다. 얼마 지나지 않아 암컷이 죽었다.",
-    "그러자 수컷이 외로워하며 슬피 우는 소리가 그치지 않았다. 왕은 사람을 시켜 그 앞에 거울을 걸어두게 했다.",
-    "새가 거울 속의 그림자를 보고 짝을 얻은 줄 알았다. 이에 거울을 쪼며 그 그림자를 알아차리고, 슬프게 울다가 죽었다. 왕이 노래를 지었으나, (미상)"
+    "마흔두 번째는 흥덕왕이다. 보력 이년 병오년에 왕위에 올랐다. 얼마 뒤 어떤 사람이 당나라에 사신으로 갔다. 그가 앵무새 한 쌍을 데리고 돌아왔다. 그런데 머지않아 암컷이 죽었다. 수컷은 홀로 남겨져 슬피 울기만 했다.",
+    "왕은 사람을 시켜 수컷 앞에 거울을 매달았다. 새는 거울 속의 그림자를 보고 짝을 찾았다고 여겼다.",
+    "새는 거울을 부리로 쪼으며 그 그림자를 알아차렸다. 새는 슬프게 울다가 죽었다. 왕이 노래를 지었으나, (내용은 알 수 없다.)"
    ],
    "en": [
-    "Forty-second, King Heungdeok. He ascended the throne in the year Boryeok 2, the year of Byeongo. Not long after, a man who had served as an envoy to the Tang Dynasty returned with a pair of parrots. Sortly thereafter, the female died.",
-    "Then the male bird cried sorrowfully in loneliness without ceasing. The king ordered someone to hang a mirror before it.",
-    "The bird saw its shadow in the mirror and thought it had found a mate. It pecked at the mirror to recognize the shadow, wailed in sorrow, and died. The king composed a song, but [incomplete]."
+    "The forty-second is King Heungdeok. He ascended the throne in the year Boryeok 2, the year of Byeong-o. Not long after, a man went to Tang as an envoy. He returned with a pair of parrots. However, before long, the female died. The male was left alone and wailed sorrowfully.",
+    "The king ordered someone to hang a mirror in front of the male bird. The bird saw its reflection in the mirror and thought it had found a mate.",
+    "The bird pecked at the mirror with its beak and recognized its shadow. The bird wailed sorrowfully and died. The king composed a song, but it is not known."
    ],
    "aligned": true
   },
   "16": {
    "tag": "P0015",
    "ko": [
-    "마흔다섯, 신무왕(神武)이 사저에 있을 때 협토 궁파(弓巴)를 불러 말하기를, \"내게 하늘과 다른 원수가 있으니 그대가 나를 위해 이를 제거해 준다면 큰 자리를 내어주겠다.",
-    "그러면 그대의 딸을 왕비로 맞이하겠다. \"라고 하였다.",
-    "궁파가 이를 허락하고 마음을 합치고 힘을 모아 군사를 일으켜 경사를 침범하니, 그 일을 성취할 수 있었다.",
-    "이미 왕위를 찬탈한 후 궁파의 딸을 왕비로 삼으려 하자, 여러 신하가 \"궁파의 세력이 미미하니 그의 딸을 왕비로 삼는 것은 옳지 않다\"라고 간곡히 간언하였다.",
-    "왕은 그 말을 따랐다. 이때 궁파는 청해진(清海鎮)에서 군사를 지키고 있었는데, 왕이 약속을 어긴 것을 원망하며 반란을 꾀하려 하였다.",
-    "이때 장군 염장(閻長)이 이를 듣고 상소하여 말하기를, \"궁파가 불충한 행동을 할 것이니 소신이 그를 제거할 것을 청합니다\"라고 하였다.",
-    "왕은 기뻐하며 이를 허락하였다. 염장이 명을 받들고 청해진으로 돌아갔다."
+    "사십오 신무대왕이 사저에 머물 때 궁홀산의 궁파에게 말했다. \"내게 하늘과도 다른 원한이 있다. 네가 이를 해결해 준다면 큰 자리를 내어주마. 그 자리에 오르면 네 딸을 내 왕비로 맞이하겠다.\"",
+    "궁파는 그 약속을 받아들였다. 그는 마음을 합치고 힘을 모아 군사를 일으켜 경성을 침범했다. 궁파는 일을 성사시켰고 왕위를 찬탈했다. 그는 이제 궁파의 딸을 왕비로 삼으려 했다.",
+    "신하들이 강력히 말렸다. \"궁파의 세력이 미약합니다.\" 왕은 그들의 말을 듣고 딸을 왕비로 삼지 않기로 했다. 왕이 이 뜻을 따르자, 당시 청해진에서 군대를 지키던 궁파는 왕이 약속을 어긴 것을 알고 반란을 꾀했다.",
+    "장군 염장이 이 사실을 전해 올렸다. \"궁파가 충성을 저버릴 준비를 하고 있습니다. 소신이 그를 제거할 것을 청합니다.\" 왕은 기뻐하며 허락했다. 염장은 명령을 받들고 청해진으로 돌아갔다."
    ],
    "en": [
-    "Forty-five. When King Sinmu was in his private residence, he summoned the man from Hyeopto, Gungpa, and said, \"I have an enemy other than heaven; if you remove him for me, I will grant you a high position.\"",
-    "\"Then I will take your daughter as my queen,\" he said.",
-    "Gungpa accepted this and they joined hearts and combined forces to raise troops and invade Gyeongsa, and were able to accomplish the task.",
-    "After he had usurped the throne and sought to take Gungpa's daughter as his queen, many officials earnestly advised him, saying that since Gungpa's power was meager, it was not right to take his daughter as queen.",
-    "The king followed their advice. At that time, Gungpa was guarding the military at Cheonghaejin, and he resented the king for breaking his promise and plotted a rebellion.",
-    "At this time, General Yeomjang heard of this and submitted a memorial, saying, \"Gungpa will act disloyally, so I request to eliminate him.\"",
-    "The king was pleased and granted the permission. Yeomjang received the order and returned to Cheonghaejin."
+    "Forty-five. When King Sinmu stayed at his private residence, he said to Gungpa of Gungholsan, \"I have a resentment that is different from even the heavens. If you can resolve this for me, I will grant you a great position. Once you attain that position, I will take your daughter as my queen.\"",
+    "Gungpa accepted the promise. He joined hearts and gathered strength, raised troops, and invaded Gyeongseong. Gungpa succeeded in his task and usurped the throne. He then sought to take Gungpa's daughter as his queen.",
+    "The officials strongly advised against it, saying, \"Gungpa's power is meager.\" The king heard their words and decided not to take his daughter as a queen. When the king followed this intent, Gungpa, who was guarding the military at Cheonghaejin at that time, learned that the king had broken his promise and plotted a rebellion.",
+    "General Yeomjang reported this fact. \"Gungpa is preparing to betray his loyalty. I request that I remove him.\" The king was pleased and granted permission. Yeomjang accepted the order and returned to Cheonghaejin."
    ],
    "aligned": true
   },
   "17": {
    "tag": "P0016",
    "ko": [
-    "통(通)이 말하기를 \"저에게는 국왕에 대한 작은 원한이 있습니다. 명공(明公)께 몸을 바쳐 목숨을 구하고자 합니다. \"라고 하였다.",
-    "궁파(弓巴)가 이를 듣고 크게 노하며 \"너희 무리가 왕에게 간언하여 내 딸을 폐위시켰다. 어찌 나를 보지 못하는가? \"라고 말했다.",
-    "통이 다시 말하기를 \"이는 백관이 간언한 것이며, 저는 미리 모의하지 않았습니다. 명공께서는 의심하실 것 없습니다.\"라고 하였다. 궁파는 이를 듣고 통을 조정으로 끌고 가 \"그대는 무슨 일로 이곳에 왔는가?\"라고 물었다.",
-    "통이 말하기를 \"왕과 마찰이 있어 막사 아래로 들어가 해를 피하고자 합니다. \"라고 하였다.",
-    "궁파가 \"다행이다\"라며 술을 내어놓고 즐겁게 마셨다. 통은 궁파의 장검을 빼어 그를 베었다. 호위하던 군사들이 놀라 겁에 질려 모두 땅에 엎드렸다.",
-    "통이 그를 도성까지 끌고 가 다시 명령하기를 \"이미 궁파를 베었다.\"라고 하였다. 왕이 기뻐하며 그에게 상을 내리고 아간(阿干)의 작위를 내렸다."
+    "통이 장씨를 찾아가 말했다. \"나는 임금께 원한을 품고 있습니다. 내 몸을 바쳐 명공에게 의탁하고자 합니다.",
+    "궁파가 이 말을 듣고 크게 노하며 소리쳤다. \"너희가 왕에게 간언하여 내 딸을 폐위시켰는데, 어찌 나를 보며 그런 말을 하느냐?\"",
+    "장씨가 다시 대답했다. \"백관이 모두 간언한 일이며 내가 미리 꾸민 일이 아닙니다. 명공은 아무런 관련이 없습니다.",
+    "궁파는 이 말을 듣고 장씨를 조정 안으로 끌고 들어갔다. 그리고 물었다. \"그대는 무슨 일로 여기까지 왔느냐?\"",
+    "장씨가 대답했다. \"임금과 마찰이 있어 당신의 아래에 몸을 숨겨 화를 피하려 합니다.",
+    "궁파는 기뻐하며 술을 내어놓고 즐겁게 마셨다. 그러자 장씨가 궁파의 긴 칼을 빼어 그를 베었다. 곁에 있던 군사들이 깜짝 놀라 모두 땅에 엎드렸다.",
+    "장씨는 궁파를 수도까지 끌고 갔다. 그리고 다시 명령했다. \"궁파를 베었소.\" 임금이 이 일을 기뻐하며 장씨에게 상을 내렸다. 임금은 그에게 아간이라는 작위를 내려 주었다."
    ],
    "en": [
-    "Tong said, \"I have a small grievance against the king. I wish to surrender myself to Myonggong to save my life.\"",
-    "Gungpa heard this and became greatly angry, saying, \"Your group advised the king and deposed my daughter. How could you not see me?\"",
-    "Tong spoke again, \"It was the officials who gave their advice, and I did not conspire beforehand. You have no reason to suspect me, My Lord.\" Gungpa heard this and pulled Tong into the court, asking, \"For what reason have you come here?\"",
-    "Tong said, \"I have had a conflict with the king and wish to enter under your pavilion to avoid harm.\"",
-    "Gungpa said, \"It is fortunate,\" and served wine to drink joyfully. Tong took Gungpa's long sword and cut him down. The escorting soldiers were startled and terrified, and all fell face down on the ground.",
-    "Tong took him to the capital and commanded again, \"I have already beheaded Gungpa.\" The King was pleased, rewarded him, and bestowed upon him the title of Akan."
+    "Tong went to see Jang and said, \"I hold a grudge against the king. I wish to entrust my life to Myunggong.\"",
+    "Gungpa heard these words and shouted in great anger, \"You lot advised the King and deposed my daughter; how can you say such things to me?\"",
+    "Jang answered again, \"It was the matter that all officials advised upon, and not something I planned in advance. My Lord has nothing to do with it.\"",
+    "Gungpa heard these words and pulled Jang into the palace hall. He then asked, \"For what reason have you come here?\"",
+    "Jang answered, \"I have a conflict with the king and intend to hide under your protection to avoid harm.\"",
+    "Gungpa was pleased, set out wine, and drank joyfully. Then Jang took Gungpa's long sword and cut him down. The soldiers nearby were startled and all fell to the ground.",
+    "Jang took Gungpa to the capital and commanded again, \"Gungpa has been beheaded.\" The King was pleased by this and rewarded Jang, bestowing upon him the title of Akan."
    ],
    "aligned": true
   }

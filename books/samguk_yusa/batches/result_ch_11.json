@@ -1,219 +1,215 @@
 {
  "chapter_id": "ch_11",
  "model": "gemma4:12b",
- "seconds": 221.7,
+ "seconds": 316.8,
  "aligned": 12,
  "total": 12,
  "items": {
   "2": {
    "tag": "P0001",
    "ko": [
-    "제이십구대종 대왕(大王). 성명은 춘추(春秋)이며 성은 김씨이다. 용수(龍樹)(일자 용춘)는 각간(角干)으로, 문흥대왕의 아들로 추봉되었다.",
-    "어머님은 진평왕(眞平王)의 딸인 천명부인(天明夫人)이며, 부인은 문명황후(文明皇后) 문희(文姬)이다. 즉, 유신공의 막내누이이다.",
-    "처음에 문희의 언니 보희(寶姬)가 꿈에 서악을 오르며 물을 버렸고, 그 물이 경성에 가득 찼다. 날이 밝아 누이와 꿈 이야기를 나누었다.",
-    "문희가 이를 듣고 말하기를 \"내가 이 꿈을 사겠다\"라고 하였다. 언니가 \"무엇과 바꾸겠느냐? \" 물으니, \"비단치마로 바꿀 수 있겠소? \"라고 하였다.",
-    "언니가 그러자 누이가 품을 열어 그것을 받았고, 언니는 \"예전의 꿈을 네게 넘겨주었으니, 네가 비단치마로 갚았다\"라고 하였다. 그 후 열흘 뒤에 유신과 춘추공이."
+    "스물아홉 번째 큰 조목은 대왕이다. 그의 이름은 춘추이며 성은 김씨였다. 용수(한 곳에는 용춘이라 기록됨)는 각간이었다. 그는 문흥대왕의 아들로 추봉되었다.",
+    "그의 어머니는 진평왕의 딸인 천명부인이었다. 그의 부인은 문명황후로 이름은 문희였다. 그녀는 유신공의 막내동생이었다.",
+    "처음에 문희의 언니 보희가 꿈을 꾸었다. 언니는 서쪽 높은 산에 올라가 물에 빠졌다. 그 물이 도성까지 가득 찼다. 다음 날 아침, 언니는 동생에게 꿈 이야기를 들려주었다.",
+    "문희는 그 말을 듣고 말했다. \"내가 이 꿈을 사겠소. 언니가 물었다. \"무엇과 바꾸겠느냐? 문희가 답했다. \"비단 치마로 바꿀 수 있느냐?",
+    "언니가 그러라고 하자, 동생은 품을 열어 그것을 받았다. 언니는 예전의 꿈을 동생에게 넘겨주었고, 동생은 비단치마로 그 값을 치렀다. 열흘 뒤에 유신과 춘추공이 만났다."
    ],
    "en": [
-    "The twenty-ninth Great King. His name was Chunchu and his surname was Kim. Yongsu (another version reads Yongchun) was of the Gakgan and was posthumously honored as the son of King Munheung.",
-    "Her mother was Cheonmyeong Buin, the daughter of Jinpyeongwang, and his wife was Munmyeong Hwanghu Munhui, who was the younger sister of Yusin-gong.",
-    "At first, Munhui's older sister Bohee climbed Seorak in a dream and poured out water, which filled Gyeongseong. At dawn, she shared the story of her dream with her sister.",
-    "When Munhui heard this, she said, \"I will buy this dream.\" Her sister asked, \"With what will you exchange it?\" She replied, \"Can it be exchanged for a silk skirt?\"",
-    "When the elder sister agreed, the younger sister opened her bosom and received it, and the elder sister said, \"I have passed my former dream to you, and you have repaid me with a silk skirt.\" Ten days later, Yusin and Chunchu-gong."
+    "The twenty-ninth great chapter is about the Great King. His name was Chunchu and his surname was Kim. Yongsu (written in one place as Yongchun) was a Gakgan. He was posthumously honored as the son of King Munheung.",
+    "His mother was Cheonmyeong Buin, the daughter of Jinpyeongwang. His wife was Munmyeong Hwanghu, whose name was Munhui. She was the younger sister of Yusin-gong.",
+    "At first, Munhui's older sister Bohui had a dream. The sister climbed the high western mountain and fell into the water. That water filled up to the capital city. The next morning, the sister told her younger sister about the dream.",
+    "Munhui heard those words and said, \"I will buy this dream.\" Her sister asked, \"With what shall you exchange it?\" Munhui replied, \"Can it be exchanged for a silk skirt?\"",
+    "When the elder sister agreed, the younger sister opened her bosom and received it. The elder sister passed her former dream to the younger sister, and the younger sister paid for it with a silk skirt. Ten days later, Yushin and Chunchu-gong met."
    ],
    "aligned": true
   },
   "3": {
    "tag": "P0002",
    "ko": [
-    "정월 오희일에 유신(庾信)의 집 앞에서 축국(蹴鞠)을 하였다. (나라인들은 축국을 농주라는 놀이로 불렀다.) 그러다 춘추(김춘추)의 치맛자락을 밟았다.",
-    "그녀가 옷깃과 끈이 찢어지자 \"제 집으로 들어와서 이를 꿰매 주십시오\"라고 말했다. 공(公)은 그 말에 따랐다. 유신은 아해(阿海)에게 바늘을 가져오라 명했다.",
-    "아해가 \"어찌 사소한 일로 가까운 귀하신 분을 번거롭게 하십니까?\"라고 말하며 거절하자, 유신은 아지(阿之)를 시켰다. 공은 유신의 뜻을 알고 마침내 그녀를 후하게 대접했다.",
-    "그 후 몇 번이나 왕래가 있었다. 유신이 그녀에게 임신한 것을 알게 되자 꾸짖으며 말했다. \"부모에게 알리지도 않고 임신을 한 이유가 무엇입니까?",
-    "\" 그러고는 이를 나라에 공표하고 그녀의 여동생을 불태우려 했다. 하루 뒤 선덕여왕(善德王)이 남산으로 행차할 때, 마당에 장작을 쌓아두었다. 불을 피워 연기가 일어났다."
+    "정월 오끼날에 사람들이 유신 집 앞에서 공차기 놀이를 했다. (나라인들은 공차기 놀이를 구슬 굴리기 놀이로 불렀다.) 이때 김춘추가 여인의 치맛자락을 밟았다.",
+    "여인의 옷깃과 끈이 찢어지자 그녀는 \"제 집으로 모셔가서 꿰매 주십시오\"라고 말했다. 유신은 그 말에 따랐다. 유신은 보희에게 바늘을 가져오라 명령했다.",
+    "보희는 \"사소한 일로 귀하신 분을 번거롭게 해드려도 되겠습니까?\"라며 거절했다. 그러자 유신은 문희를 시켰다. 김춘추는 유신의 의중을 알아차리고 기꺼이 수락했다.",
+    "그 후 두 사람은 여러 번 왕래했다. 유신은 그녀가 아이를 가졌음을 알게 되었다. 그는 \"부모님께 알리지도 않고 아이를 배어 어찌 된 일이냐\"고 꾸짖었다. 그러고는 이를 온 나라에 알리고 그녀의 여동생을 불태우려 했다.",
+    "하루 뒤 선덕여왕이 남산으로 나들이를 갔다. 유신은 마당에 장작을 쌓아두었다. 그가 불을 지피자 연기가 피어올랐다."
    ],
    "en": [
-    "On the day of Ohui in the first lunar month, Chukuk was played in front of the house of Yusin. (The people of Nara called Chukuk a game of Nongju.) During this, Chunchu's skirt hem was stepped upon.",
-    "When her collar and ties were torn, she said, \"Please come into my house and sew them.\" The nobleman followed her words. Yusin ordered Ahae to bring a needle.",
-    "When Ahae refused, saying, \"How can you trouble a noble person for such a trivial matter?\" Yusin ordered Aji instead. The Duke understood Yusin's intention and finally treated her generously.",
-    "After that, there were several visits between them. When Yusin learned she was pregnant, he rebuked her and said, \"Why did you become pregnant without informing your parents?\"",
-    "Then he proclaimed it in the land and intended to burn her sister. One day later, when Queen Seondeok traveled to Namsan, firewood was piled in the courtyard. A fire was lit and smoke rose."
+    "On the day of Okki in the first lunar month, people played *gongchagi* in front of Yusin's house. (The people of Nara called *gongchagi* the game of rolling beads.) At that time, Kim Chunchu stepped on a woman's skirt.",
+    "When the woman's collar and ties were torn, she said, \"Please take me to your home and sew them.\" Yusin followed her words. Yusin ordered Bohui to bring a needle.",
+    "Bo-hui refused, saying, \"Is it proper to trouble a noble person for such a trivial matter?\" Then Yusin ordered Mun-hui. Kim Chun-chu understood Yusin's intention and accepted willingly.",
+    "After that, the two people met many times. Yusin learned that she was pregnant. He scolded her, saying, \"How could you become pregnant without informing your parents?\" Then he announced it to the entire country and tried to burn her younger sister.",
+    "The next day, Queen Seondeok went on an outing to Namsan. Yusin piled firewood in the courtyard. When he lit a fire, smoke rose."
    ],
    "aligned": true
   },
   "4": {
    "tag": "P0003",
    "ko": [
-    "왕망(王望)이 \"무엇이 연기인가?\"라고 물었다. 좌우가 아뢰기를 \"아마도 유신(庾信)이 누이를 불태운 것이리라.\" 하였다. 왕이 그 이유를 묻자, \"그녀의 누이가 남편이 없는데도 임신하였기 때문\"이라고 답했다.",
-    "왕이 \"이것은 누구의 소행인가? \"라고 물었다. 이때 공(公)이 가까이 모셔져 있었는데 안색이 크게 변하였다.",
-    "왕이 \"이것은 네가 저지른 일이니, 속히 가서 구하라. \"고 명했다. 공은 명을 받들어 말을 달려 선저(宣沮)에 알렸다. 그 후부터 혼례를 치르는 모습이 나타났다.",
-    "진덕여왕(眞德王)이 승하하였다. 영휘(永徽) 오년 갑인에 즉위하였으며, 여덟 해 동안 나라를 다스렸다. 용삭(龍朔) 원년 신유에 승하하였고, 나이는 쉰아홉 살이었다. 애공사(哀公寺) 동쪽에 장사 지내고 비석을 세웠다.",
-    "왕과 유신이 신묘한 계책으로 힘을 다해 삼한을 하나로 통일하니, 사직에 큰 공이 있었다. 그러므로 사당의 호칭을 태종(太宗)이라 하였다. 태자 법민(法敏)은 문무왕이다."
+    "왕망이 연기가 어디서 나는지 물었다. 곁에 있던 이들이 여신이 누이의 집을 태우고 있다고 답했다. 왕이 그 이유를 묻자, 누이가 남편도 없이 아이를 배어 그런 일이 생겼다고 하였다.",
+    "왕이 누구의 짓인지 물었다. 이때 공민이 가까이 모시고 있었는데 안색이 크게 변했다. 왕이 그것이 네가 한 일이라며 어서 가서 구하라고 명했다. 공민은 명령을 받고 말을 달려 선저에게 소식을 전했다.",
+    "그 후로 결혼식이 치러졌다. 진덕여왕이 세상을 떠났다. 영휘 오년 갑인년에 즉위하였다. 여덟 해 동안 나라를 다스웠다. 용삭 원년 신유년에 승하하였으며, 나이는 쉰아홉이었다. 애공사 동쪽에 장사 지내고 비석을 세웠다.",
+    "왕과 여신은 기묘한 계책과 힘을 다해 삼한을 하나로 합쳤다. 나라와 백성을 위해 큰 공을 세웠기에 사당의 이름을 태종이라 하였다. 태자의 이름은 법민이었다."
    ],
    "en": [
-    "Wangmang asked, \"What is that smoke?\" His attendants replied, \"It is likely Yusin burning his sister.\" When Wang asked the reason, they replied, \"Because her sister was pregnant despite having no husband.\"",
-    "Wang asked, \"Whose doing is this?\" At that time, Gong was serving nearby, and his complexion changed greatly.",
-    "Wang ordered, \"This is your doing, so go quickly and rescue her.\" Gong received the command, galloped on his horse, and informed Seonjeo. From then on, scenes of wedding ceremonies appeared.",
-    "Queen Jindeok passed away. She ascended the throne in the year Gapin of Yeonghwi five and ruled the country for eight years. She passed away in the year Sinyu of Yongsak one at the age of fifty-nine. She was buried east of Aegongsa, and a stele was erected.",
-    "Wang and Yusin unified the Three Han with divine strategies and great effort, achieving great merit for the state. Therefore, the temple name was designated as Taejong. The Crown Prince Beommin is Munmuwang."
+    "Wangmang asked where the smoke was coming from. Those beside him replied that Yeosin was burning her sister's house. When Wang asked for the reason, they said it was because the sister had conceived a child without a husband.",
+    "Wang asked who had done it. At that time, Gongmin was attending closely and his complexion changed greatly. Wang said it was your doing and ordered him to go quickly to rescue her. Gongmin received the command, galloped on his horse, and conveyed the news to Seonjeo.",
+    "After that, a wedding ceremony was held. Queen Jindeok passed away. He ascended the throne in the year Gabyin of Yeonghwi five. He ruled the country for eight years. He passed away in the year Sinyu of Yongsak at the age of fifty-nine. He was buried east of Aegongsa, and a stele was erected.",
+    "Wang and Yeosin unified the three Han through ingenious schemes and great effort. Because he achieved great merit for the state and the people, his shrine was named Taejong. The name of the crown prince was Beommin."
    ],
    "aligned": true
   },
   "5": {
    "tag": "P0004",
    "ko": [
-    "각간(角干) 김인문(仁問), 각간 문왕(文王), 각간 노단(老旦), 각간 지경(智鏡), 각간 해원(愷元) 등은 모두 문희(文姬)의 자손들이다. 당시 매몽(買夢)의 징후가 여기에 나타났다.",
-    "서자(庶子)가 말했다. \"모두 문급(文級)이 관차(官車)를 얻고, 공이 말을 얻어 아간(阿干)이 되었다.\" 또한 여인 다섯이 있었다. 왕의 진찬은 하루에 쌀 세 말, 수꿩 아홉 마리였다.",
-    "경신년(庚申年)에 백제(百濟)를 멸한 후에는 낮의 공양을 없애고 오직 아침과 저녁으로만 하였다.",
-    "그러나 계산하면 하루에 쌀 여섯 말, 술 여섯 말, 꿩 열 마리였다. 성 안의 시장 가격은 비 한 필에 세 말 혹은 다섯 말이었다.",
-    "백성들은 이를 성대(聖代)라 불렀다. 동궁에 있을 때 고구려(高麗)를 정벌하고자 병사를 요청하여 당나라로 들어갔다."
+    "각간 김인문과 각간 문왕, 각간 노단, 각간 지경, 각간 해원 등은 모두 문희의 자손들이다. 당시 매몽의 징조가 바로 여기서 나타났다.",
+    "서자가 말했다. \"모두가 문급이 관직을 얻고 차득이 공의 말을 얻어 아간이 된 것을 압니다.\" 또한 여자 다섯 명도 함께 있었다.",
+    "왕은 하루에 쌀 세 말과 수꿩 아홉 마리를 대접했다. 백제를 멸망시킨 경신년 이후에는 낮때의 식사를 없애고 오직 아침과 저녁에만 내놓았다.",
+    "그렇게 하면 하루에 쌀 여섯 말과 술 여섯 말, 수꿩 열 마리가 필요했다.",
+    "성 안의 시장 가격으로 비단 한 필이 서른 말이나 쉰 말이 되었다. 백성들은 이를 성스러운 시대라 불렀다. 동궁에 있을 때 고구려를 정벌하려 했고, 그 때문에 병사를 요청하여 당나라로 들어갔다."
    ],
    "en": [
-    "Gakgan Inmun, Gakgan Munwang, Gakgan Nodean, Gakgan Jigyeong, and Gakgan Haewon were all descendants of Munhui. At that time, the signs of Maemong appeared here.",
-    "Seoja said, \"All of them, Mungyeop, obtained official carriages, and the lord obtained horses and became Agan.\" There were also five women. The royal feast consisted of three measures of rice and nine male pheasants per day.",
-    "After the destruction of Baekje in the year Gyeongsin, the midday offerings were abolished and they provided only morning and evening meals.",
-    "However, when calculated, it was six measures of rice, six measures of wine, and ten pheasants per day. The market price in the city was three or five measures for one bolt of cloth.",
-    "The people called this the era of holiness. When he was in the East Palace, he requested troops to conquer Goryeo and entered Tang."
+    "Gakgan Inmun, Gakgan Munwang, Gakgan Nodean, Gakgan Jigyeong, and Gakgan Haewon were all descendants of Munhui. At that time, the signs of Maemong appeared right here.",
+    "Seoja said, \"Everyone knows that Mungyeup obtained an official position and Chadeuk obtained the master's horse to become Agan.\" There were also five women present.",
+    "The king provided three measures of rice and nine male pheasants daily. After the year Gyeongsin, when Baekje was destroyed, the midday meal was abolished, and food was served only at morning and evening.",
+    "In that case, six measures of rice, six measures of wine, and ten roosters were required each day.",
+    "At the market price in the city, one roll of silk cost thirty or fifty units. The people called this the holy era. While in the East Palace, he intended to conquer Goguryeo and therefore requested troops and entered Tang."
    ],
    "aligned": true
   },
   "6": {
    "tag": "P0005",
    "ko": [
-    "당나라 황제가 그 풍채를 기특하게 여겨 신성한 인물이라 말하며 반드시 곁에 머물게 하려 했다. 그러나 힘써 청하여 그를 돌려보냈다. 당시 백제(百濟)의 마지막 왕인 의자왕(義慈)은 호왕(虎王)의 장남이었다.",
-    "그는 용맹하고 담력이 있었으며, 부모를 섬김에 효성스러웠고 형제와 사귐이 두터웠다. 당시 사람들은 그를 해동증자(海東曾子)라 불렀다. 정관(貞觀) 열다섯 해 신축년에 즉위하였다.",
-    "그는 술과 여색에 빠져 정사를 돌보지 않았고 나라가 위태로워졌다. 백제의 작명인 성충(成忠)이 간곡하게 간언하였으나 듣지 않았다. 그는 옥중에 갇혀 마르고 굶주려 죽음에 이르렀다.",
-    "그가 남긴 글은 이러하다. \"충신은 죽어서도 임금을 잊지 않으니, 한 마디 말이라도 하고 죽기를 원하노라.",
-    "신이 예전의 변란을 살펴보니 반드시 전쟁이 일어날 일이 있도다. 군사를 쓸 때면 그 땅을 잘 살펴서 상류에 자리를 잡고 적을 맞이하면 온전히 보존할 수 있다. \""
+    "당나라 황제는 그의 풍채를 보고 신성한 인물이라 칭찬했다. 황제는 그를 시위로 머무르게 하려 했으나, 사람들이 간곡히 청하여 그를 돌려보냈다. 당시 백제의 마지막 왕인 의자왕은 호왕의 장남이었다.",
+    "그는 용맹하고 담력이 있었으며 부모를 섬기는 데 효성이 깊었다. 그는 형제처럼 동료들과 우애가 깊어 당대에는 해동의 증자로 불렸다. 그는 정관 열다섯 해 신축년에 왕위에 올랐다.",
+    "그러나 그는 술과 여자에 빠져 정사를 돌보지 않았고 나라가 위태로워졌다. 신하 성충이 간곡하게 충고했으나 의자왕은 듣지 않았다. 성충은 옥에 갇혀 굶주림 속에 죽어갔다. (백제 관직명)",
+    "성충은 죽으며 글을 남겼다. 충신은 죽어도 임금을 잊지 않으니, 한 마디 말이라도 전하고 싶었다. 그는 세상의 변화를 살피며 반드시 전쟁이 일어날 것을 알았다. 그는 적을 맞이할 때 높은 곳에 자리를 잡아야 한다고 주장했다."
    ],
    "en": [
-    "The Emperor of Tang admired his appearance and called him a sacred person, and insisted on keeping him as an attendant. However, he pleaded earnestly and sent him back. At that time, the last king of Baekje, Uijawang, was the eldest son of Horwang.",
-    "He was brave and courageous, filial toward his parents, and close with his brothers. People at that time called him Haedong Jeongja. He ascended the throne in the year Xinchu of the fifteenth year of Jeonggwan.",
-    "He indulged in wine and women, neglected state affairs, and the nation became endangered. Seongchung, a title of Baekje, earnestly admonished him, but he did not listen. He was imprisoned in a cell, where he grew thin and starved to death.",
-    "The text he left behind was as follows. \"A loyal minister does not forget his king even in death, so I desire to die after saying but one word.\"",
-    "\"I observed the upheavals of the past, and there will surely be matters that necessitate war. When employing troops, one must examine the land carefully, establish a position in the upper reaches, and meet the enemy; then it can be preserved intact.\""
+    "The Emperor of Tang praised his appearance and called him a sacred person. The Emperor intended to keep him as a guard, but people earnestly requested his return, and he was sent back. At that time, the last king of Baekje, Uijawang, was the eldest son of Horang.",
+    "He was brave and courageous, and he was deeply filial toward his parents. He shared a deep bond with his peers as if they were brothers, and in those days, he was called the Zengzi of Haedong. He ascended the throne in the year Xinchou of the fifteenth year of Zhenguan.",
+    "However, he became addicted to wine and women, neglected the affairs of state, and the nation became endangered. The official Seongchung earnestly advised him, but Uijawang did not listen. Seongchung was imprisoned in a cell and died from starvation. (Baekje title)",
+    "Seongchung left a writing as he died. A loyal minister does not forget his king even in death, so he wanted to convey at least one word. He observed the changes of the times and knew that war would surely occur. He argued that when facing an enemy, one must take a position on high ground."
    ],
    "aligned": true
   },
   "7": {
    "tag": "P0006",
    "ko": [
-    "만약 다른 나라의 군대가 온다면, 육로로는 탄현(炭峴)(하나는 심현이라 한다.",
-    "백제의 요충지이다)을 통과하게 해서는 안 되며, 수군은 기벌포(伎伐浦)(곧 장사이다. 또한 손량, 하나는 지화포라 쓴다.",
-    "또 백강(白江)이다)에 들어오게 해서는 안 된다. 그 험하고 좁은 곳을 근거로 삼아 막아내야 한다. 그래야만 가능하다.",
-    "왕이 살피지 아니하였다. 현재 경성(慶城) 4년 기미년이다. 백제 오회사(烏會寺)(또한 오합사라 한다)에 큰 붉은 말이 있었다. 낮과 밤을 통틀어 여섯 시에 사찰 주위를 돌며 길을 다녔다.",
-    "두 달이 지났을 때, 무리 뭇 여우가 의자왕(義慈王)의 궁중으로 들어왔다. 한 마리 흰 여우가 서평안(書案) 위 옆자리에 앉았다.",
-    "네 달이 지났을 때, 태자(太子)의 궁에 있는 암탉과 작은 참새가 교미하였다. 다섯 달이 지났을 때, 사비(泗泚)(부여강의 이름이다) 강가에서 큰 물고기가 죽은 채로 나왔다. 길이는 세 장이었다."
+    "외국 군대가 오면 육로를 통해 탄현(한 곳은 심현이라 함. 백제의 요충지임)을 통과하게 해서는 안 된다. 수군이 기벌포(즉 장험.",
+    "또 손량. 한 곳은 지화포라 씀. 또 백강)에 들어오는 것도 막아야 한다. 험준하고 좁은 곳을 거점으로 삼아 적을 막아야만 비로소 안전하다.",
+    "왕이 살피지 않자 경흥사 년 기미일에 일이 벌어졌다. 백제의 오회사(또한 오합사라 함)에 큰 붉은 말이 있었다. 이 말은 낮과 밤을 가리지 않고 여섯 시마다 절 주변을 돌며 길을 다녔다.",
+    "두 달이 지났을 때, 무리 지은 여우들이 의자왕의 궁궐 안으로 들어왔다. 그중 한 마리의 흰 여우가 서평안이 놓인 책상 위에 앉았다. 네 달이 지났을 때, 태자의 궁에 있던 암탉과 작은 참새가 서로 짝을 이루어 교미했다.",
+    "다섯 달이 지났을 때, 사비(부여강 이름) 강가에서 큰 물고기가 죽은 채로 나왔다. 그 물고기의 길이는 세 장이나 되었다."
    ],
    "en": [
-    "If the armies of another country came, they must not be allowed to pass through Tanhyeon (one says Simhyeon) by land route.",
-    "It is a strategic point of Baekje; the navy must not be allowed to enter Gibeolpo (which is Jangsa, also known as Sonnyang, and in one place written as Jihwapo).",
-    "They must not be allowed to enter Gibeolpo (which is Jangsa, also Sonnyang, and one version says Jihwapo; it is also Baekgang). They must be blocked by taking those rugged and narrow places as a base. Only then would it be possible.",
-    "The king did not inspect it. It was the year Gimi, the fourth year of Gyeongseong. There was a large red horse at Baekje Ohhoesa (also called Ohhapsa). It traveled the path around the temple for six hours day and night.",
-    "Two months later, a group of foxes entered the palace of Uijawang. One white fox sat beside the seopyeongan.",
-    "Four months later, a hen in the Crown Prince's palace and a small sparrow mated. Five months later, a large fish was found dead on the banks of the Sabi River (the name of the Buyeo River). It was three *jang* long."
+    "If foreign troops came, they must not be allowed to pass Tanhyeon (one place says Simhyeon; it was a strategic point of Baekje) by land, and the navy must not be allowed to enter Gibeolpo (that is Janghyeom.",
+    "Also Sonryang (one place says Jihwapo, also Baekgang) must be blocked from entry by the navy. Only by taking the rugged and narrow places as strongholds to block the enemy would it be safe.",
+    "Because the king did not take heed, events occurred on the day of Gimi in the fourth year of Gyeongheung. At Ohhoesa (also called Ohhapsa) in Baekje, there was a large red horse. This horse traveled along the path around the temple every six hours, regardless of whether it was day or night.",
+    "Two months later, a pack of foxes entered the palace of Uija. Among them, one white fox sat on the desk where the Seopyeongan was placed. Four months later, a hen and a small sparrow in the prince's palace mated.",
+    "In the fifth month, a large fish was found dead on the banks of the Sabi River (the name of the Buyeo River). The length of that fish was three *jang*."
    ],
    "aligned": true
   },
   "8": {
    "tag": "P0007",
    "ko": [
-    "사람이 그것을 먹으면 모두 죽었다. 아홉 달에 궁중의 괴성나무가 사람 울부짖는 소리처럼 울렸다. 밤에 귀신이 궁 남쪽 길에서 울부짖었다.",
-    "다섯 해 경신년 봄, 두 달에 왕도(王都)의 우물물이 핏빛으로 변했다. 서해변의 작은 물고기들이 죽어 나왔으며 백성들이 그것을 다 먹지 못했다. 사비(泗泚)의 물도 핏빛이 되었다.",
-    "네 달에 수만 마리의 새우와 말(蝦蟆)이 나무 위에 모였다. 왕도의 사람들이 아무 이유 없이 놀라 달아났다. 잡으려 시도한 자들 중 백여 명이 놀라 쓰러져 죽었고, 잃어버린 재물은 셀 수 없었다.",
-    "여섯 달에 왕흥사(王興寺)의 승려들이 모두 큰 물이 밀려와 사찰 문으로 들어오는 것을 보았다. 큰 개가 들소처럼 서쪽에서 사비 강변까지 와서 왕궁을 향해 짖더니, 갑자기 어디로 갔는지 알 수 없었다."
+    "사람이 그것을 먹으면 모두 죽었다. 아홉 달에 궁궐 안의 괴화나무가 사람 울음소리처럼 울었다. 밤에는 귀신이 궁남쪽 길에서 울부짖었다.",
+    "다섯 해 경신년 봄, 두 달에 왕도 우물물이 핏빛으로 변했다. 서해변의 작은 물고기들이 죽어 나왔다. 백성들이 그것을 다 먹지 못했다. 사비의 물도 핏빛으로 변했다.",
+    "네 달에 수만 마리의 새우와 개구리가 나무 위에 모였다. 왕도의 사람들이 아무 이유 없이 놀라 달아났다. 누군가 이를 잡으려다 백여 명이 놀라 죽었다. 재물도 셀 수 없이 잃어버렸다.",
+    "여섯 달에 왕흥사 승려들이 모두 큰 물과 함께 밀려오는 배들을 보았다. 커다란 개 한 마리가 들사슴처럼 서쪽에서 사비 강가까지 와서 왕궁을 향해 짖었다. 그러더니 갑자기 어디론가 사라졌다."
    ],
    "en": [
-    "Those who ate it all died. In the ninth month, the locust trees in the palace wailed like people crying. At night, ghosts wailed on the road south of the palace.",
-    "In the spring of the Gyeongsin year of the fifth year, in the second month, the well water of Wangdo turned blood-colored. Small fish from the West Sea shore came out dead, and the people could not consume them all. The water of Sabi also became blood-colored.",
-    "In the fourth month, tens of thousands of shrimp and horses gathered on trees. The people of Wangdo fled in fear for no reason. Among those who tried to capture them, over one hundred died from falling in fright, and the amount of lost property was countless.",
-    "In the sixth month, all the monks of Wangheungsa saw a great flood rush in through the temple gate. A large dog like a wild ox came from the west to the banks of Sabi and barked toward the royal palace, then suddenly vanished into unknown whereabouts."
+    "Everyone who ate it died. In the ninth month, the soot tree in the palace wailed like a human crying. At night, ghosts wailed on the road south of the palace.",
+    "In the spring of the Gyeongsin year of the fifth year, in the second month, the well water of the royal capital turned blood-colored. Small fish washed up dead along the West Sea coast. The people could not finish eating them all. The waters of Sabi also turned blood-colored.",
+    "In the fourth month, tens of thousands of shrimp and frogs gathered on trees. The people of Wangdo fled in fear for no reason. Some tried to capture them and over one hundred died from fright. Countless belongings were lost.",
+    "In the sixth month, the monks of Wangheungsa all saw boats drifting in with the great waters. A large dog, like a wild deer, came from the west to the banks of Sabi and barked toward the royal palace. Then it suddenly disappeared into an unknown place."
    ],
    "aligned": true
   },
   "9": {
    "tag": "P0008",
    "ko": [
-    "성안의 개들이 길에 모여 어떤 것은 짖고 어떤 것은 울었다. 시간이 지나자 흩어졌다. 한 귀신이 궁중으로 들어와 크게 외치기를 \"백제 망했다, 백제 망했다\" 하고 곧 땅속으로 들어갔다.",
-    "왕이 이를 이상하게 여겨 사람을 시켜 땅을 파게 했다. 깊이가 석 자쯤 되자 거북 한 마리가 나왔는데, 그 등에는 문양이 있었다. '백제원월륜(百濟圓月輪)', '신라여신월(新羅如新月)'이었다.",
-    "그것에 대해 묻자 무당이 말하기를 \"원월륜은 가득 찬 것이니 가득 차면 줄어들고, 신월과 같은 것은 아직 차지 않았으니 아직 차지 않으면 점차 채워진다\"라고 하였다. 왕이 노하여 그것을 죽였다.",
-    "또 어떤 이는 \"원월륜은 성대함이고, 신월과 같은 것은 미약함이다. 뜻은 국가가 성대하고 신라가 미약함을 말한다\"라고 하였다. 왕이 기뻐하며 태종(太宗)에게 전하니 백제국 안에 괴이한 변화가 많다는 말을 들었다. 오년 경신."
+    "성안의 개들이 길에 모여들었다. 어떤 개는 짖고 어떤 개는 울부짖었다. 얼마간 시간이 흐른 뒤에 개들은 흩어졌다. 한 귀신이 궁궐 안으로 들어왔다.",
+    "귀신은 크게 소리치며 백제 망했다, 백제 망했다라고 외쳤다. 그러고는 땅속으로 들어갔다. 왕이 이를 이상하게 여겨 사람을 시켜 땅을 파게 했다. 깊이가 석 자 정도 되자 거북 한 마리가 나왔다.",
+    "거북의 등에는 문양이 있었다. 백제는 둥근 달 모양이고 신라는 초승달 모양이었다. 왕이 물으니 무당이 대답했다. 둥근 달은 가득 찬 것이고, 가득 차면 줄어들기 마련이다. 초승달은 아직 차지 않은 것이니 점차 채워질 것이다.",
+    "왕이 화를 내며 무당을 죽였다. 다른 이들은 둥근 달은 성대함을 뜻하고, 초승달은 미약함을 뜻한다고 말했다.",
+    "즉 나라가 번성했다가 신라에 밀려 약해졌다는 뜻이다. 왕은 태종이 백제 땅에서 괴이한 일들이 많다고 들었다는 말을 기뻐했다. 오년 경신년이었다."
    ],
    "en": [
-    "Dogs in the city gathered on the road; some barked and others wailed. After some time, they dispersed. A ghost entered the palace and shouted loudly, \"Baekje is ruined, Baekje is ruined,\" and immediately entered the ground.",
-    "The king found this strange and ordered people to dig the ground. When it reached a depth of about three feet, a turtle emerged with patterns on its back: \"Baekje Wonmullun\" and \"Silla Yeosinwol.\"",
-    "When asked about it, a shaman said, \"The Round Moon Wheel is full, and that which is full wanes; the New Moon-like one is not yet full, and that which is not yet full gradually fills.\" The king grew angry and killed it.",
-    "Another person said, \"The round moon wheel signifies greatness, and the new moon shape signifies smallness. The meaning is that the nation is great and Silla is small.\" The king was pleased and reported this to Taejong, who heard that there were many strange occurrences within the land of Baekje. Year five, Gyeongsin."
+    "Dogs in the city gathered on the road. Some barked and others wailed. After some time, they dispersed. A ghost entered the palace.",
+    "A ghost entered the palace and shouted loudly, \"Baekje is ruined, Baekje is ruined.\" Then it entered the ground. The king found this strange and ordered people to dig the ground. When it reached a depth of about three feet, a turtle emerged.",
+    "There were patterns on the back of the turtle. Baekje was in the shape of a full moon and Silla was in the shape of a crescent moon. When the king asked, the shaman replied: A full moon is one that is full, and once it is full, it is bound to wane. A crescent moon is one that is not yet full, so it will gradually be filled.",
+    "The king grew angry and killed the shaman. Others said that the full moon meant greatness and the crescent moon meant smallness.",
+    "It meant that the nation had flourished and then weakened under the pressure of Silla. The king was pleased to hear that Taejong had heard there were many strange occurrences in the land of Baekje. It was the year Gyeongsin of the fifth year."
    ],
    "aligned": true
   },
   "10": {
    "tag": "P0009",
    "ko": [
-    "인문(仁問)이 사신을 보내 당나라에 병사를 요청했다. 고종(高宗)은 좌호위대장군 경국공 소정방(蘇定方)을 신구도행책총관으로 임명했다.",
-    "소정방은 좌위장군 유백영(劉伯英) 자 인원, 좌호위장군 빙사귀, 좌효위장군 방효공 등을 거느리고 십삼만 병사를 거느리고 와서 신라왕 춘추(春秋)를 소이도행군총관으로 삼아 그 나라의 군대를 거느리고 힘을 합치게 했다.",
-    "소정방은 군사를 이끌고 성산에서 바다를 건너 국의 서쪽인 덕목도에 이르렀다. 신라왕은 장군 김유신(金庾信)에게 정예병 오만 명을 거느리고 그곳으로 가게 했다.",
-    "의자왕(義慈王)은 이 소식을 듣고 여러 신하와 모여 전쟁과 수비의 계책을 논의했다."
+    "김인문이 사신으로 가서 당나라에 군사를 요청했다. 고종은 좌호위 대장군이며 경국공인 소정방을 신구도행책총관으로 임명했다.",
+    "소정방은 좌위 장군 유백영과 좌호위 장군 방사귀, 좌효위 장군 방효공 등을 거느렸다. 그는 삼십삼만 군사를 거느리고 와서 신라 왕 춘추를 도행군 총관으로 삼아 그 나라 군사와 합쳐서 싸우게 했다.",
+    "소정방은 군대를 이끌고 성산에서 바다를 건넜다. 그는 나라의 서쪽인 덕물도에 도착했다. 신라 왕은 장군 김유신에게 정예병 오만 명을 주어 그곳으로 달려가게 했다.",
+    "의자왕은 이 소식을 들었다. 의자왕은 신하들을 불러 모아 전쟁과 수비에 관한 방책을 물었다."
    ],
    "en": [
-    "Inmun sent an envoy to request troops from the Tang Dynasty. Emperor Gaozong appointed So Jeongbang, Grand General of the Left Tiger Guard and Duke of Gyeongguk, as the General of the Singu-dohaeng Strategy.",
-    "So Jeongbang led General of the Left Guard Yu Baekyeong, whose courtesy name was Inwon, General of the Left Tiger Guard Bing Sagwi, General of the Left Fierce Guard Bang Hyogong, and others, and with 130,000 soldiers, he came and appointed the Silla King Chunchu as the Soido Haenggun General to lead that country's troops and joined forces with them.",
-    "So Jeongbang led his troops across the sea from Seongsan and arrived at Deokmokdo in the west of the kingdom. The Silla king ordered General Kim Yusin to lead fifty thousand elite soldiers and go there.",
-    "King Uija heard of this news and gathered with his officials to discuss plans for war and defense."
+    "Kim Inmun went as an envoy and requested troops from the Tang Dynasty. Emperor Gaozong appointed So Jeongbang, the Grand General of the Left Tiger Guard and Duke of Gyeongguk, as the General of the Singu-dohaeng Strategy.",
+    "So Jeongbang led General of the Left Guard Yu Baekyeong, General of the Left Tiger Guard Bang Sagwi, and General of the Left Brave Guard Bang Hyogong. He brought thirty-three thousand soldiers and appointed Silla King Chunchu as the commander of the marching army to combine their forces for the fight.",
+    "So Jeongbang led the troops and crossed the sea from Seongsan. He arrived at Deokmuldo in the west of the land. The Silla king gave General Kim Yusin five thousand elite soldiers and sent him to rush there.",
+    "Uijawang heard of this news. Uijawang gathered his officials and asked for plans regarding war and defense."
    ],
    "aligned": true
   },
   "11": {
    "tag": "P0010",
    "ko": [
-    "좌평(佐平) 의직(義直)이 나아가 말했다. \"당나라 군대는 먼 바다를 건너와 물에 익숙하지 않다.",
-    "고려인들은 대국의 원조를 믿고 적을 가볍게 여기는 마음이 있다. 만약 당나라 사람이 손해를 보는 것을 본다면, 반드시 두려워하여 감히 용맹하게 나아가지 못할 것이다. 그러므로 먼저 당나라와 결전을 벌이는 것이 옳다. \"",
-    "달(達)이 상영(常永) 등에게 말하기를 \"그렇지 않다\"라고 하였다.",
-    "\"당나라 군대는 멀리서 왔으므로 속전속결을 원하며 그 기세가 막기 어렵다. 고려인들은 우리 군대에게 여러 번 패배한 적이 있다. 이제 우리 군대를 바라보고 있으니, 세력상 두려워할 수 없다. \"",
-    "\"오늘의 계책은 당나라인의 길을 막아 사로(師老)를 기다리는 것이 마땅하다.",
-    "먼저 편사(偏師)를 보내 고려인을 공격하여 그 기세를 꺾고, 그 후에 적이 약해진 틈을 노려 합전하면, 모든 군대를 온전히 보존하며 나라를 지킬 수 있다. \""
+    "좌평 의직이 나아가 말했다. 당나라 군대는 먼 바다를 건너와 물길에 익숙하지 않다.",
+    "고려군은 큰 나라의 도움을 믿고 적을 가볍게 여긴다. 만약 당나라군이 불리함을 알게 되면 겁을 먹고 과감히 나아가지 못할 것이다. 그러므로 먼저 당나라군과 결전을 벌이는 것이 옳다.",
+    "달률은 상영 등에게 말하며 그렇지 않다고 답했다. 당나라군은 멀리서 왔기에 속전속결을 원한다. 그 기세는 막아내기 어렵다.",
+    "고려군은 이미 우리 군대에게 여러 번 패배했다. 이제 그들은 우리 군대를 보며 겁을 먹지 않을 것이다.",
+    "오늘의 계책은 당나라군의 길을 막아 사로 장군을 기다리는 것이다.",
+    "먼저 별동대를 보내 고려군을 공격하여 그 기세를 꺾어야 한다. 그러고 나서 적이 약해진 틈을 타서 합세해야 한다. 그러면 군대를 온전히 보존하며 나라를 지킬 수 있다."
    ],
    "en": [
-    "Jwapyeong Uijik stepped forward and said, \"The Tang army crossed the distant sea and is not accustomed to the water.\"",
-    "The Goryeo people rely on the support of the great nation and have a heart that underestimates the enemy. If they see the Tang people suffering losses, they will surely be terrified and will not dare to advance boldly. Therefore, it is right to engage in a decisive battle with the Tang first.",
-    "Dal said to Sangyeong and the others, \"That is not so.\"",
-    "Because the Tang army came from afar, they desired a swift victory and their momentum was difficult to block. The Goryeo people had been defeated by our forces many times. Now that they look upon our troops, they cannot be afraid given the situation.",
-    "Today's plan is to block the path of the Tang forces and wait for Saro.",
-    "\"First, send a flanking force to attack the Goryeo people and break their spirit; then, seize the opportunity when they are weakened to engage them in a joint battle. In doing so, one can preserve the entire army and protect the nation.\""
+    "General Uijik stepped forward and said, \"The Tang army crossed the distant sea and is not familiar with the waterways.\"",
+    "The Goryeo forces relied on the support of a great nation and underestimated the enemy. If they realized the Tang army was at a disadvantage, they would become fearful and not dare to advance boldly. Therefore, it was right to engage the Tang army in a decisive battle first.",
+    "Dallul replied to Sangyeong and the others that it was not so. Because the Tang army had come from afar, they desired a swift victory. Their momentum was difficult to withstand.",
+    "The Goryeo forces had already been defeated by our army several times. Now, they would not be intimidated upon seeing our troops.",
+    "Today's plan was to block the path of the Tang army and wait for General Saro.",
+    "First, a detached force must be sent to attack the Goryeo army to break their momentum. Then, taking advantage of the moment when the enemy is weakened, they should join in battle. In this way, the army could be preserved intact and the country protected."
    ],
    "aligned": true
   },
   "12": {
    "tag": "P0011",
    "ko": [
-    "왕유(王猶)는 어디로 가야 할지 갈피를 잡지 못했다. 이때 조평을 돕던 흥수(興首)가 죄를 지어 고마조현에 유배되어 있었다. 사람을 보내 물으니, \"상황이 급하니 어찌하면 좋겠소?\"라고 물었다.",
-    "흥수가 대답하기를, \"대체로 조평이 성충(成忠)의 말을 따르는 것과 같소.\"라고 하였다. 대신들은 믿지 않으며 말하기를, \"흥수는 곤경에 처해 왕을 원망하고 나라를 사랑하지 않으니 그 말이 쓸 수 없소.\"라고 하였다.",
-    "\"차라리 당나라 군대를 백강(白江, 즉 기벌포)으로 들여보내 흐름을 따라가게 하여 방주를 얻지 못하게 하고, 로(羅)나라 군대는 탄현(炭峴)에 오르게 하여 좁은 길로 가게 하여 말들을 함께 몰지 못하게 하는 것이 낫소.\"",
-    "\"그때에 병사를 풀어 공격하면 마치 우리에 갇힌 닭이나 그물에 걸린 물고기와 같을 것이오.\"라고 하였다. 왕이 \"그러하구료\"라고 답했다. 또한 당나라와 로나라의 군대가 이미 백강과 탄현을 지났다는 소식을 들었다."
+    "왕유는 어디로 가야 할지 갈피를 잡지 못했다. 그때 조평을 돕던 흥수가 죄를 지어 고마조현으로 쫓겨났다. 왕유가 사람을 보내 물었다. \"상황이 급하다. 어찌하면 좋겠느냐?\"",
+    "흥수는 대답했다. \"대체로 조평이 성충의 말을 따르는 것과 같다.\" 그러나 대신들은 믿지 않았다. 그들은 \"흥수가 막다른 처지에 놓여 임금을 원망하고 나라를 사랑하지 않으니, 그의 말은 쓸 수 없다\"고 말했다.",
+    "그들은 다른 방책을 내놓았다. \"당나라 군대가 백강(곧 기벌포)으로 들어오게 하여 강물을 따라 흐르게 하면 배를 얻지 못할 것이다. 로군이 탄현에 오르면 좁은 길로 오느라 말들을 한데 모으지 못할 것이다.\"",
+    "그들은 이어 말했다. \"그때 군사를 풀어 공격하면, 마치 우리에 갇힌 닭이나 그물에 걸린 물고기처럼 될 것이다.\" 왕유가 \"그렇다\"라고 답했다. 또한 당나라와 로군의 병사가 이미 백강과 탄현을 지났다는 소식을 들었다."
    ],
    "en": [
-    "Wang Yu did not know what to do. At this time, Heungsu, who had assisted Jo-pyeong, was in exile at Goma-jo-hyeon after committing a crime. When someone was sent to ask him, they asked, \"The situation is urgent; what should be done?\"",
-    "Heungsu replied, \"It is generally the same as Jo-pyeong following the words of Seongchung.\" The ministers did not believe him and said, \"Heungsu is in a predicament, resenting the king and not loving the country, so his words cannot be used.\"",
-    "\"It is better to let the Tang army enter Baekgang (that is, Gibeolpo) and follow the current so they cannot obtain boats, and have the Luo army ascend Tanhyeon and pass through a narrow path so they cannot drive their horses together.\"",
-    "\"At that time, if we release the soldiers to attack them, they will be like chickens trapped in a cage or fish caught in a net,\" he said. The King replied, \"That is so.\" Furthermore, news arrived that the Tang and Luo armies had already passed Baekgang and Tanhyeon."
+    "Wang Yu did not know what to do. At that time, Heungsu, who had assisted Jo-pyeong, was exiled to Goma-jo-hyeon for committing a crime. Wang Yu sent someone to ask him, \"The situation is urgent. What should be done?\"",
+    "Heungsu replied, \"It is generally the same as Jo-pyeong following the words of Seong-chung.\" However, the ministers did not believe him. They said, \"Since Heungsu is in a desperate situation and resents the king while not loving the country, his words cannot be used.\"",
+    "They proposed another measure. \"If we let the Tang army enter Baekgang (that is, Gibeolpo) and flow along the river, they will not be able to obtain boats. When the Luo army reaches Tanhyeon, they will be unable to gather their horses because of the narrow paths.\"",
+    "They continued, \"When we release the soldiers to attack at that moment, they will be like chickens trapped in a cage or fish caught in a net.\" Wangyu replied, \"That is correct.\" He also heard news that the Tang and Luo troops had already passed Baekgang and Tanhyeon."
    ],
    "aligned": true
   },
   "13": {
    "tag": "P0012",
    "ko": [
-    "장군 계백(偕伯)이 사사로운 용기를 가진 군사 오천 명을 거느리고 황산(黃山)에서 나갔다. 로병과 싸워 네 번 합쳐 싸운 데 모두 승리하였다. 그러나 병력이 적고 힘이 다하여 결국 패배하였으며, 계백도 그 과정에서 죽었다.",
-    "군대를 전진시켜 합병과 맞붙어 진천구에 도달했다. 강가 근처에 군사를 주둔시키자, 갑자기 새 한 마리가 소정방(定方)의 진영 위를 맴돌며 날아다녔다. 사람을 시켜 그것을 점쳐보니 반드시 원수를 해칠 것이라고 하였다.",
-    "소정방은 두려워하며 군대를 물러나게 하여 멈추려 했다.",
-    "이때 유신(庾信)이 소정방에게 말하기를, \"어찌 날아다니는 새의 기이함으로 하늘의 때를 거스르겠는가? 하늘에 응하고 사람에게 순응하며, 인도하지 못하는 자를 치는 데 어찌 불길한 일이 있겠는가? \"라고 하였다.",
-    "그리고 소정방은 신전(神釰)을 뽑아 그 새를 잡아내어, 토막 내어 잘라 좌석 앞에 떨어뜨렸다. 이에 소정방이 왼쪽 언덕과 산을 내려다보며 진을 쳤다. 그와 싸워 백제군이 크게 패배하였다."
+    "계백은 죽음을 각오한 군사 오천 명을 거느리고 황산에서 나왔다. 그는 나제 군대와 싸웠고 네 번의 합전에서 모두 승리했다. 그러나 계백의 병력은 적어 힘이 다했고 결국 패배했다. 그 싸움에서 계백은 죽었다.",
+    "나제군이 군대를 전진시켜 합병과 맞붙었다. 그들은 진구에 도달하여 강가에 군사를 배치했다. 그때 갑자기 새 한 마리가 소정방의 진영 위를 맴돌며 날아다녔다. 병사들이 그 새의 길흉을 점쳤다.",
+    "점술가는 원수에게 반드시 해가 올 것이라고 말했다. 소정방은 겁이 나서 군대를 물리고 멈추려 했다. 이때 유신이 소정방에게 말했다.",
+    "\"어찌 날아다니는 새의 기이한 움직임으로 하늘의 때를 거스르겠소? 하늘에 응하고 사람을 따르는 자가 인색함을 버린다면 어찌 불길함이 있겠소?\"",
+    "유신은 신종을 뽑아 그 새를 낚아챘다. 그는 새를 베고 찢어 소정방의 앞좌석에 떨어뜨렸다. 그러자 소정방은 왼쪽 언덕과 산기슭에 진을 치고 싸웠다. 이 싸움에서 백제 군대는 크게 패배했다."
    ],
    "en": [
-    "General Gyebaek led five thousand soldiers of private courage out from Hwangsan. He fought the Luo-byeong and won in all four engagements. However, because his forces were few and his strength was exhausted, he was ultimately defeated, and Gyebaek died in the process.",
-    "The army advanced to confront Hapbyeong and reached Jincheongu. When the troops were stationed near the river, a bird suddenly flew and circled over Jeongbang's camp. Someone was sent to divine it, and it was said that it would surely harm the commander.",
-    "Jeongbang feared and tried to withdraw his troops to stop.",
-    "At this time, Yusin said to Jeongbang, \"How can the strangeness of a flying bird defy the timing of heaven? If one responds to heaven and follows the people, how can there be any ill omen in striking those who cannot be guided?\"",
-    "Then So Jeongbang drew his divine bow to catch the bird, cut it into pieces, and dropped them before his seat. Then So Jeongbang set up his camp looking down at the left hill and mountain. He fought him, and the Baekje army suffered a great defeat."
+    "Gyebaek led five thousand death-defying soldiers out from Hwangsan. He fought the Naje army and won in all four engagements. However, his forces were few and his strength was exhausted, and he eventually lost. In that battle, Gyebaek died.",
+    "The forces of Na-je advanced and confronted Hapbyeong. They reached Jingu and stationed their troops along the river. At that moment, a bird suddenly flew and circled over So Jeongbang's camp. Soldiers divined the omen of the bird.",
+    "The diviner told the commander that harm would surely come to him. Sojeongbang became afraid and tried to withdraw his troops and stop. At this moment, Yushin spoke to Sojeongbang.",
+    "\"How can one defy the timing of heaven because of the strange movements of a flying bird? If one who responds to heaven and follows people abandons selfishness, how can there be any ill omen?\"",
+    "Yusin drew his sword and snatched the bird. He cut and tore it, dropping it before So Jeongbang's seat. Then So Jeongbang took a position at the left slope and the foot of the mountain and fought. In this battle, the Baekje army suffered a great defeat."
    ],
    "aligned": true
   }

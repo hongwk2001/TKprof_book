@@ -9,7 +9,7 @@ from pydub import AudioSegment
 
 SCRIPTS_DIR = "scripts"
 TEMP_DIR = "temp_audio"
-OUTPUT_DIR = "final_audio"
+OUTPUT_DIR = "raw_audio"
 
 def remix_chapter(ch_num):
     script_file = os.path.join(SCRIPTS_DIR, f"script_ch_{ch_num}.json")

@@ -17,8 +17,6 @@ OUTPUT_FILE   = os.path.join(BASE_DIR, "odyssey_en.epub")
 
 # ── CSS Style ─────────────────────────────────────────────────────────────────
 STYLE = """
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display:ital,wght@0,700;1,700&display=swap');
-
 body {
     font-family: 'Lora', Georgia, serif;
     font-size: 1em;

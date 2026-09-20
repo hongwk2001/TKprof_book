@@ -16,7 +16,7 @@ All scripts in this project are run natively on Windows using **Git Bash** or **
 1. Open Git Bash terminal.
 2. Navigate to the project root:
    ```bash
-   cd /d/git_repo/TKprof_book
+   cd /c/git_repo/TKprof_book
    ```
 3. Create the virtual environment (named `venv`):
    ```bash

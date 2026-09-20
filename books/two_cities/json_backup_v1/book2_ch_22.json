@@ -1,0 +1,666 @@
+[
+    {
+        "id": 1,
+        "tag": "P001",
+        "raw": "CHAPTER XXII. The Sea Still Rises",
+        "en": "[Chapter 22] The Sea Still Rises",
+        "ko": "",
+        "is_header": true
+    },
+    {
+        "id": 2,
+        "tag": "P002_1",
+        "raw": "Haggard Saint Antoine had had only one exultant week, in which to soften his modicum of hard and bitter bread to such extent as he could, with the relish of fraternal embraces and congratulations, when Madame Defarge sat at her counter, as usual, presiding over the customers.",
+        "en": "The starving people of Saint Antoine had only one week of celebration, softening their hard bread with hugs and congratulations, before Madame Defarge sat at her counter as usual, presiding over her customers.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 3,
+        "tag": "P002_2",
+        "raw": "Madame Defarge wore no rose in her head, for the great brotherhood of Spies had become, even in one short week, extremely chary of trusting themselves to the saint’s mercies.",
+        "en": "Madame Defarge wore no rose in her headdress now, for the spies had become very cautious about coming into the neighborhood.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 4,
+        "tag": "P002_3",
+        "raw": "The lamps across his streets had a portentously elastic swing with them.",
+        "en": "The street lamps had an ominous swing to them.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 5,
+        "tag": "P003_1",
+        "raw": "Madame Defarge, with her arms folded, sat in the morning light and heat, contemplating the wine-shop and the street.",
+        "en": "Madame Defarge sat in the morning light with her arms folded, watching the shop and the street.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 6,
+        "tag": "P003_2",
+        "raw": "In both, there were several knots of loungers, squalid and miserable, but now with a manifest sense of power enthroned on their distress.",
+        "en": "In both, there were groups of poor, dirty people, but they now felt a new sense of power.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 7,
+        "tag": "P003_3",
+        "raw": "The raggedest nightcap, awry on the wretchedest head, had this crooked significance in it: “I know how hard it has grown for me, the wearer of this, to support life in myself; but do you know how easy it has grown for me, the wearer of this, to destroy life in you?” Every lean bare arm, that had been without work before, had this work always ready for it now, that it could strike.",
+        "en": "The raggedest nightcap worn by the poorest man seemed to say: \"It has been hard for me to survive, but it has become very easy for me to kill you.\" Every lean arm that had been jobless before now had work always ready, to strike.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 8,
+        "tag": "P003_4",
+        "raw": "The fingers of the knitting women were vicious, with the experience that they could tear.",
+        "en": "The fingers of the knitting women were sharp and dangerous.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 9,
+        "tag": "P003_5",
+        "raw": "There was a change in the appearance of Saint Antoine; the image had been hammering into this for hundreds of years, and the last finishing blows had told mightily on the expression.",
+        "en": "There was a change in Saint Antoine; the neighborhood had been prepared for this for hundreds of years, and the final blows had changed its face.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 10,
+        "tag": "P004_1",
+        "raw": "Madame Defarge sat observing it, with such suppressed approval as was to be desired in the leader of the Saint Antoine women.",
+        "en": "Madame Defarge watched with quiet approval, as a leader of the women should.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 11,
+        "tag": "P004_2",
+        "raw": "One of her sisterhood knitted beside her.",
+        "en": "Another woman knitted beside her: the short, plump wife of a grocer, who was also a mother of two.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 12,
+        "tag": "P004_3",
+        "raw": "The short, rather plump wife of a starved grocer, and the mother of two children withal, this lieutenant had already earned the complimentary name of The Vengeance.",
+        "en": "As the short, somewhat plump wife of a starving grocer and the mother of two children, this lieutenant had already earned the complimentary nickname of \"The Vengeance.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 13,
+        "tag": "P005_1",
+        "raw": "“Hark!” said The Vengeance. “Listen, then!",
+        "en": "\"Listen!\" said The Vengeance.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 14,
+        "tag": "P005_2",
+        "raw": "Who comes?”",
+        "en": "\"Who is coming?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 15,
+        "tag": "P006",
+        "raw": "As if a train of powder laid from the outermost bound of Saint Antoine Quarter to the wine-shop door, had been suddenly fired, a fast-spreading murmur came rushing along.",
+        "en": "A fast-spreading murmur came down the street, like a lit fuse rushing toward the shop.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 16,
+        "tag": "P007",
+        "raw": "“It is Defarge,” said madame. “Silence, patriots!”",
+        "en": "\"It is Defarge,\" madame said. \"Silence, patriots!\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 17,
+        "tag": "P008",
+        "raw": "Defarge came in breathless, pulled off a red cap he wore, and looked around him! “Listen, everywhere!” said madame again. “Listen to him!”  Defarge stood, panting, against a background of eager eyes and open mouths, formed outside the door; all those within the wine-shop had sprung to their feet.",
+        "en": "Defarge entered out of breath, pulled off his red cap, and looked around. \"Listen!\" madame ordered. \"Listen to him!\" Defarge stood panting, surrounded by eager faces at the door, while everyone in the shop stood up.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 18,
+        "tag": "P009_1",
+        "raw": "“Say then, my husband.",
+        "en": "\"Tell us, husband.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 19,
+        "tag": "P009_2",
+        "raw": "What is it?”",
+        "en": "What is it?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 20,
+        "tag": "P010",
+        "raw": "“News from the other world!”",
+        "en": "\"News from the other world!\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 21,
+        "tag": "P011",
+        "raw": "“How, then?” cried madame, contemptuously. “The other world?”",
+        "en": "\"What?\" madame asked contemptuously. \"The other world?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 22,
+        "tag": "P012",
+        "raw": "“Does everybody here recall old Foulon, who told the famished people that they might eat grass, and who died, and went to Hell?”",
+        "en": "\"Does everyone remember old Foulon, who told the starving people they could eat grass, and who died and went to hell?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 23,
+        "tag": "P013",
+        "raw": "“Everybody!” from all throats.",
+        "en": "\"Everyone!\" the crowd shouted.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 24,
+        "tag": "P014_1",
+        "raw": "“The news is of him.",
+        "en": "\"The news is about him.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 25,
+        "tag": "P014_2",
+        "raw": "He is among us!”",
+        "en": "He is here among us!\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 26,
+        "tag": "P015",
+        "raw": "“Among us!” from the universal throat again. “And dead?”",
+        "en": "\"Among us!\" the crowd shouted. \"And not dead?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 27,
+        "tag": "P016_1",
+        "raw": "“Not dead!",
+        "en": "\"Not dead!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 28,
+        "tag": "P016_2",
+        "raw": "He feared us so much--and with reason--that he caused himself to be represented as dead, and had a grand mock-funeral.",
+        "en": "He feared us so much that he pretended to be dead and had a fake funeral.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 29,
+        "tag": "P016_3",
+        "raw": "But they have found him alive, hiding in the country, and have brought him in.",
+        "en": "But they found him alive, hiding in the country, and have brought him in.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 30,
+        "tag": "P016_4",
+        "raw": "I have seen him but now, on his way to the Hotel de Ville, a prisoner.",
+        "en": "I just saw him on his way to the City Hall, a prisoner.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 31,
+        "tag": "P016_5",
+        "raw": "I have said that he had reason to fear us.",
+        "en": "I said he had reason to fear us.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 32,
+        "tag": "P016_6",
+        "raw": "Say all! _Had_ he reason?”",
+        "en": "Am I right?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 33,
+        "tag": "P017",
+        "raw": "Wretched old sinner of more than threescore years and ten, if he had never known it yet, he would have known it in his heart of hearts if he could have heard the answering cry.",
+        "en": "If the wicked old man of seventy-four had never known it, he would have known it in his heart if he could have heard the crowd's response.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 34,
+        "tag": "P018_1",
+        "raw": "A moment of profound silence followed.",
+        "en": "A deep silence followed.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 35,
+        "tag": "P018_2",
+        "raw": "Defarge and his wife looked steadfastly at one another.",
+        "en": "Defarge and his wife looked at each other.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 36,
+        "tag": "P018_3",
+        "raw": "The Vengeance stooped, and the jar of a drum was heard as she moved it at her feet behind the counter.",
+        "en": "The Vengeance reached down and pulled a drum to her feet behind the counter.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 37,
+        "tag": "P019",
+        "raw": "“Patriots!” said Defarge, in a determined voice, “are we ready?”",
+        "en": "\"Patriots!\" Defarge said firmly. \"Are we ready?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 38,
+        "tag": "P020",
+        "raw": "Instantly Madame Defarge’s knife was in her girdle; the drum was beating in the streets, as if it and a drummer had flown together by magic; and The Vengeance, uttering terrific shrieks, and flinging her arms about her head like all the forty Furies at once, was tearing from house to house, rousing the women.",
+        "en": "Instantly, Madame Defarge put her knife in her belt, the drum began beating in the street, and The Vengeance ran screaming from house to house to rouse the women.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 39,
+        "tag": "P021_1",
+        "raw": "The men were terrible, in the bloody-minded anger with which they looked from windows, caught up what arms they had, and came pouring down into the streets; but, the women were a sight to chill the boldest.",
+        "en": "The men looked out of their windows with bloody anger, grabbed whatever weapons they had, and poured into the streets.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 40,
+        "tag": "P021_2",
+        "raw": "From such household occupations as their bare poverty yielded, from their children, from their aged and their sick crouching on the bare ground famished and naked, they ran out with streaming hair, urging one another, and themselves, to madness with the wildest cries and actions.",
+        "en": "Abandoning the few household chores their severe poverty required, and leaving their children, sick, and elderly crouching starved and naked on the bare ground, the women ran out with their hair streaming. They urged each other into a frenzy with wild cries and frantic movements.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 41,
+        "tag": "P021_3",
+        "raw": "Villain Foulon taken, my sister!",
+        "en": "Leaving their poor chores, their children, and their sick, they ran out with messy hair, screaming and driving one another to madness.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 42,
+        "tag": "P021_4",
+        "raw": "Old Foulon taken, my mother!",
+        "en": "\"Foulon is caught, sister!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 43,
+        "tag": "P021_5",
+        "raw": "Miscreant Foulon taken, my daughter!",
+        "en": "Old Foulon is caught, mother!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 44,
+        "tag": "P021_6",
+        "raw": "Then, a score of others ran into the midst of these, beating their breasts, tearing their hair, and screaming, Foulon alive!",
+        "en": "Foulon is caught, daughter!\" Others ran into the crowd, screaming: \"Foulon is alive!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 45,
+        "tag": "P021_7",
+        "raw": "Foulon who told the starving people they might eat grass!",
+        "en": "Foulon who told the starving people to eat grass!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 46,
+        "tag": "P021_8",
+        "raw": "Foulon who told my old father that he might eat grass, when I had no bread to give him!",
+        "en": "Foulon who told my old father to eat grass when I had no bread!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 47,
+        "tag": "P021_9",
+        "raw": "Foulon who told my baby it might suck grass, when these breasts were dry with want!",
+        "en": "Foulon who told my baby to suck grass when my breasts were dry!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 48,
+        "tag": "P021_10",
+        "raw": "O mother of God, this Foulon! O Heaven our suffering!",
+        "en": "I swear on my knees to avenge you on Foulon!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 49,
+        "tag": "P021_11",
+        "raw": "Hear me, my dead baby and my withered father: I swear on my knees, on these stones, to avenge you on Foulon!",
+        "en": "Hear me, my dead baby and my frail father: I swear on my knees, upon these very stones, to avenge you by punishing Foulon!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 50,
+        "tag": "P021_12",
+        "raw": "Husbands, and brothers, and young men, Give us the blood of Foulon, Give us the head of Foulon, Give us the heart of Foulon, Give us the body and soul of Foulon, Rend Foulon to pieces, and dig him into the ground, that grass may grow from him! With these cries, numbers of the women, lashed into blind frenzy, whirled about, striking and tearing at their own friends until they dropped into a passionate swoon, and were only saved by the men belonging to them from being trampled under foot.",
+        "en": "Husbands, brothers, and young men, give us the blood of Foulon, give us the head of Foulon, give us the heart of Foulon, give us the body and soul of Foulon! Tear Foulon to pieces, and bury him in the ground so that grass can grow from him! Shouting these cries, many of the women were driven into a blind frenzy. They spun around, striking and scratching at their own friends until they collapsed in an exhausted faint, only saved from being trampled by the men who cared for them.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 51,
+        "tag": "P022_1",
+        "raw": "Nevertheless, not a moment was lost; not a moment!",
+        "en": "Nevertheless, not a single moment was lost!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 52,
+        "tag": "P022_2",
+        "raw": "This Foulon was at the Hotel de Ville, and might be loosed.",
+        "en": "Foulon was at the City Hall and might be released.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 53,
+        "tag": "P022_3",
+        "raw": "Never, if Saint Antoine knew his own sufferings, insults, and wrongs!",
+        "en": "Never, if Saint Antoine could help it!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 54,
+        "tag": "P022_4",
+        "raw": "Armed men and women flocked out of the Quarter so fast, and drew even these last dregs after them with such a force of suction, that within a quarter of an hour there was not a human creature in Saint Antoine’s bosom but a few old crones and the wailing children.",
+        "en": "Armed men and women poured out of the neighborhood so fast, pulling even the stragglers along with such force, that within fifteen minutes, there wasn't a single person left in the heart of Saint Antoine except for a few old women and crying children.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 55,
+        "tag": "P023_1",
+        "raw": "No. They were all by that time choking the Hall of Examination where this old man, ugly and wicked, was, and overflowing into the adjacent open space and streets.",
+        "en": "The crowd packed the examination room where the wicked old man was held, overflowing into the streets.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 56,
+        "tag": "P023_2",
+        "raw": "The Defarges, husband and wife, The Vengeance, and Jacques Three, were in the first press, and at no great distance from him in the Hall.",
+        "en": "The Defarges, The Vengeance, and Jacques Three were in the front of the crowd, close to him.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 57,
+        "tag": "P024_1",
+        "raw": "“See!” cried madame, pointing with her knife. “See the old villain bound with ropes.",
+        "en": "\"Look!\" cried Madame, pointing with her knife. \"Look at the old villain tied up with ropes.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 58,
+        "tag": "P024_2",
+        "raw": "That was well done to tie a bunch of grass upon his back.",
+        "en": "\"See the old villain tied with ropes.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 59,
+        "tag": "P024_3",
+        "raw": "Ha, ha!",
+        "en": "They tied a bunch of grass to his back!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 60,
+        "tag": "P024_4",
+        "raw": "That was well done.",
+        "en": "That was well done.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 61,
+        "tag": "P024_5",
+        "raw": "Let him eat it now!” Madame put her knife under her arm, and clapped her hands as at a play.",
+        "en": "Let him eat it now!\" Madame put her knife under her arm and clapped her hands as if watching a play.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 62,
+        "tag": "P025_1",
+        "raw": "The people immediately behind Madame Defarge, explaining the cause of her satisfaction to those behind them, and those again explaining to others, and those to others, the neighbouring streets resounded with the clapping of hands.",
+        "en": "The people behind her explained her reaction to those behind them, and soon the streets clapped in response.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 63,
+        "tag": "P025_2",
+        "raw": "Similarly, during two or three hours of drawl, and the winnowing of many bushels of words, Madame Defarge’s frequent expressions of impatience were taken up, with marvellous quickness, at a distance: the more readily, because certain men who had by some wonderful exercise of agility climbed up the external architecture to look in from the windows, knew Madame Defarge well, and acted as a telegraph between her and the crowd outside the building.",
+        "en": "Similarly, during two or three hours of slow talking and sifting through countless words, Madame Defarge's frequent shows of impatience were picked up surprisingly quickly by people far away. This happened easily because certain men had agilely climbed the outside of the building to look in through the windows. These men knew Madame Defarge well and acted as a living telegraph, passing her signals to the crowd outside.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 64,
+        "tag": "P026_1",
+        "raw": "At length the sun rose so high that it struck a kindly ray as of hope or protection, directly down upon the old prisoner’s head.",
+        "en": "Finally, the sun rose high enough that it shone a gentle ray directly down onto the old prisoner's head, like a symbol of hope or protection.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 65,
+        "tag": "P026_2",
+        "raw": "The favour was too much to bear; in an instant the barrier of dust and chaff that had stood surprisingly long, went to the winds, and Saint Antoine had got him!",
+        "en": "The crowd could wait no longer. In an instant, the guards were pushed aside, and Saint Antoine grabbed him!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 66,
+        "tag": "P027_1",
+        "raw": "It was known directly, to the furthest confines of the crowd.",
+        "en": "The news was instantly known all the way to the very edges of the crowd.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 67,
+        "tag": "P027_2",
+        "raw": "Defarge had but sprung over a railing and a table, and folded the miserable wretch in a deadly embrace--Madame Defarge had but followed and turned her hand in one of the ropes with which he was tied--The Vengeance and Jacques Three were not yet up with them, and the men at the windows had not yet swooped into the Hall, like birds of prey from their high perches--when the cry seemed to go up, all over the city, “Bring him out!",
+        "en": "Defarge had just jumped over a railing and a table to grab the miserable wretch in a deadly hug. Madame Defarge had just followed and twisted her hand into one of the ropes tying him. The Vengeance and Jacques Three hadn't even reached them yet, and the men at the windows hadn't yet swooped into the Hall like birds of prey from their high perches, when the cry seemed to echo all over the city: \"Bring him out!\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 68,
+        "tag": "P027_3",
+        "raw": "Bring him to the lamp!”",
+        "en": "To the lamp post!\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 69,
+        "tag": "P028_1",
+        "raw": "Down, and up, and head foremost on the steps of the building; now, on his knees; now, on his feet; now, on his back; dragged, and struck at, and stifled by the bunches of grass and straw that were thrust into his face by hundreds of hands; torn, bruised, panting, bleeding, yet always entreating and beseeching for mercy; now full of vehement agony of action, with a small clear space about him as the people drew one another back that they might see; now, a log of dead wood drawn through a forest of legs; he was hauled to the nearest street corner where one of the fatal lamps swung, and there Madame Defarge let him go--as a cat might have done to a mouse--and silently and composedly looked at him while they made ready, and while he besought her: the women passionately screeching at him all the time, and the men sternly calling out to have him killed with grass in his mouth.",
+        "en": "Dragged up and down the steps, now on his knees, now on his back, beaten and choked with grass and straw stuffed into his face, the old man begged for mercy. The crowd drew back to watch him struggle. They dragged him to the nearest street corner where a lamp post hung. Madame Defarge let him go like a cat releasing a mouse, watching quietly while they prepared the rope, as he begged her for help. The women screamed at him, and the men called for him to be hanged with grass in his mouth.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 70,
+        "tag": "P028_2",
+        "raw": "Once, he went aloft, and the rope broke, and they caught him shrieking; twice, he went aloft, and the rope broke, and they caught him shrieking; then, the rope was merciful, and held him, and his head was soon upon a pike, with grass enough in the mouth for all Saint Antoine to dance at the sight of.",
+        "en": "Twice they hoisted him up, and twice the rope broke, dropping him screaming to the ground. The third time, the rope held him, and his head was soon placed on a pike with grass stuffed in his mouth, while Saint Antoine danced around it.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 71,
+        "tag": "P029_1",
+        "raw": "Nor was this the end of the day’s bad work, for Saint Antoine so shouted and danced his angry blood up, that it boiled again, on hearing when the day closed in that the son-in-law of the despatched, another of the people’s enemies and insulters, was coming into Paris under a guard five hundred strong, in cavalry alone.",
+        "en": "This was not the end of the day's violence. The crowd danced until they heard that Foulon's son-in-law, another enemy of the people, was being brought to Paris under a guard of five hundred cavalry.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 72,
+        "tag": "P029_2",
+        "raw": "Saint Antoine wrote his crimes on flaring sheets of paper, seized him--would have torn him out of the breast of an army to bear Foulon company--set his head and heart on pikes, and carried the three spoils of the day, in Wolf-procession through the streets.",
+        "en": "The mob wrote his crimes on paper, seized him from the soldiers, cut off his head and heart, and carried the three bloody trophies on pikes through the streets.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 73,
+        "tag": "P030_1",
+        "raw": "Not before dark night did the men and women come back to the children, wailing and breadless.",
+        "en": "Only at dark did the men and women return to their hungry children.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 74,
+        "tag": "P030_2",
+        "raw": "Then, the miserable bakers’ shops were beset by long files of them, patiently waiting to buy bad bread; and while they waited with stomachs faint and empty, they beguiled the time by embracing one another on the triumphs of the day, and achieving them again in gossip.",
+        "en": "They stood in long lines at the bakeries to buy bad bread. As they waited with empty stomachs, they comforted themselves by talking about the day's triumphs.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 75,
+        "tag": "P030_3",
+        "raw": "Gradually, these strings of ragged people shortened and frayed away; and then poor lights began to shine in high windows, and slender fires were made in the streets, at which neighbours cooked in common, afterwards supping at their doors.",
+        "en": "Gradually, the lines disappeared, and small fires were lit in the streets where neighbors cooked and ate together at their doors.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 76,
+        "tag": "P031_1",
+        "raw": "Scanty and insufficient suppers those, and innocent of meat, as of most other sauce to wretched bread.",
+        "en": "It was a poor supper with no meat, but sharing it brought some comfort and cheer.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 77,
+        "tag": "P031_2",
+        "raw": "Yet, human fellowship infused some nourishment into the flinty viands, and struck some sparks of cheerfulness out of them. Fathers and mothers who had had their full share in the worst of the day, played gently with their meagre children; and lovers, with such a world around them and before them, loved and hoped.",
+        "en": "Still, human companionship brought a little comfort to their hard, stale food and sparked some cheerfulness among them. Fathers and mothers who had endured the absolute worst of the day played gently with their skinny children; and lovers, despite the harsh world around them and ahead of them, continued to love and hope.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 78,
+        "tag": "P032",
+        "raw": "It was almost morning, when Defarge’s wine-shop parted with its last knot of customers, and Monsieur Defarge said to madame his wife, in husky tones, while fastening the door:",
+        "en": "It was almost morning when the last customers left Defarge’s shop. Monsieur Defarge closed the door and said quietly to his wife:",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 79,
+        "tag": "P033",
+        "raw": "“At last it is come, my dear!”",
+        "en": "\"At last it is here, my dear!\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 80,
+        "tag": "P034",
+        "raw": "“Eh well!” returned madame. “Almost.”",
+        "en": "Madame replied, \"Well, almost.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 81,
+        "tag": "P035_1",
+        "raw": "Saint Antoine slept, the Defarges slept: even The Vengeance slept with her starved grocer, and the drum was at rest.",
+        "en": "Saint Antoine went to sleep, and the drum was quiet.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 82,
+        "tag": "P035_2",
+        "raw": "The drum’s was the only voice in Saint Antoine that blood and hurry had not changed.",
+        "en": "The drum was the only thing in the neighborhood that the violence had not changed; its sound was the same as before the Bastille fell.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 83,
+        "tag": "P035_3",
+        "raw": "The Vengeance, as custodian of the drum, could have wakened him up and had the same speech out of him as before the Bastille fell, or old Foulon was seized; not so with the hoarse tones of the men and women in Saint Antoine’s bosom.",
+        "en": "The Vengeance, as the keeper of the drum, could have easily woken him up and gotten the same response from him as she did before the Bastille fell or old Foulon was captured; but the harsh, raspy voices of the men and women in the heart of Saint Antoine could no longer be quieted so easily.",
+        "ko": "",
+        "is_header": false
+    }
+]

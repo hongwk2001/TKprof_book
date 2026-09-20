@@ -1,0 +1,902 @@
+[
+  {
+    "filename": "closing.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\closing.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 134.348821,
+    "bitrate_kbps": 256,
+    "peak_db": -0.2,
+    "rms_db": -17.5,
+    "leading_silence": 0.211338,
+    "trailing_silence": 0.0,
+    "errors": [
+      "Peak level is -0.2 dB (must be under -3.0 dB).",
+      "RMS is -17.5 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.21s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.00s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_00_intro.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_00_intro.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 126.031814,
+    "bitrate_kbps": 256,
+    "peak_db": -2.2,
+    "rms_db": -17.4,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.903243,
+    "errors": [
+      "Peak level is -2.2 dB (must be under -3.0 dB).",
+      "RMS is -17.4 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.90s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_01.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_01.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 317.674558,
+    "bitrate_kbps": 256,
+    "peak_db": -2.9,
+    "rms_db": -17.7,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.909206,
+    "errors": [
+      "Peak level is -2.9 dB (must be under -3.0 dB).",
+      "RMS is -17.7 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.91s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_02.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_02.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 416.763061,
+    "bitrate_kbps": 256,
+    "peak_db": -3.1,
+    "rms_db": -17.7,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.921497,
+    "errors": [
+      "RMS is -17.7 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.92s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_03.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_03.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 628.277642,
+    "bitrate_kbps": 256,
+    "peak_db": -2.9,
+    "rms_db": -17.9,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.915306,
+    "errors": [
+      "Peak level is -2.9 dB (must be under -3.0 dB).",
+      "RMS is -17.9 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.92s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_04.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_04.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 302.354218,
+    "bitrate_kbps": 256,
+    "peak_db": -3.2,
+    "rms_db": -17.8,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.889705,
+    "errors": [
+      "RMS is -17.8 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.89s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_05.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_05.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 529.086145,
+    "bitrate_kbps": 256,
+    "peak_db": -2.9,
+    "rms_db": -18.6,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.867052,
+    "errors": [
+      "Peak level is -2.9 dB (must be under -3.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.87s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_06.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_06.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 657.129229,
+    "bitrate_kbps": 256,
+    "peak_db": -3.0,
+    "rms_db": -17.7,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.907234,
+    "errors": [
+      "RMS is -17.7 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.91s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_07.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_07.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 772.614989,
+    "bitrate_kbps": 256,
+    "peak_db": -2.8,
+    "rms_db": -18.0,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.91551,
+    "errors": [
+      "Peak level is -2.8 dB (must be under -3.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.92s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_08.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_08.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 601.416395,
+    "bitrate_kbps": 256,
+    "peak_db": -3.0,
+    "rms_db": -17.9,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.911837,
+    "errors": [
+      "RMS is -17.9 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.91s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_09.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_09.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 572.256145,
+    "bitrate_kbps": 256,
+    "peak_db": -2.6,
+    "rms_db": -17.9,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.904989,
+    "errors": [
+      "Peak level is -2.6 dB (must be under -3.0 dB).",
+      "RMS is -17.9 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.90s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_10.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_10.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 661.922313,
+    "bitrate_kbps": 256,
+    "peak_db": -2.6,
+    "rms_db": -17.8,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.865442,
+    "errors": [
+      "Peak level is -2.6 dB (must be under -3.0 dB).",
+      "RMS is -17.8 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.87s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_11.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_11.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 2230.535805,
+    "bitrate_kbps": 256,
+    "peak_db": -2.8,
+    "rms_db": -18.6,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.917279,
+    "errors": [
+      "Peak level is -2.8 dB (must be under -3.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.92s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_12.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_12.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 270.519433,
+    "bitrate_kbps": 256,
+    "peak_db": -3.2,
+    "rms_db": -17.9,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.845805,
+    "errors": [
+      "RMS is -17.9 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.85s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_13.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_13.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 442.055556,
+    "bitrate_kbps": 256,
+    "peak_db": -3.2,
+    "rms_db": -18.1,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.915215,
+    "errors": [
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.92s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_14.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_14.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 1116.591383,
+    "bitrate_kbps": 256,
+    "peak_db": -2.8,
+    "rms_db": -18.4,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.886712,
+    "errors": [
+      "Peak level is -2.8 dB (must be under -3.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.89s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_15.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_15.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 631.680136,
+    "bitrate_kbps": 256,
+    "peak_db": -3.1,
+    "rms_db": -19.1,
+    "leading_silence": 0.0,
+    "trailing_silence": 1.273197,
+    "errors": [
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_16.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_16.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 404.161905,
+    "bitrate_kbps": 256,
+    "peak_db": -2.6,
+    "rms_db": -17.8,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.914331,
+    "errors": [
+      "Peak level is -2.6 dB (must be under -3.0 dB).",
+      "RMS is -17.8 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.91s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_17.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_17.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 623.839819,
+    "bitrate_kbps": 256,
+    "peak_db": -2.9,
+    "rms_db": -18.1,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.90839,
+    "errors": [
+      "Peak level is -2.9 dB (must be under -3.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.91s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_18.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_18.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 992.181973,
+    "bitrate_kbps": 256,
+    "peak_db": -2.9,
+    "rms_db": -17.9,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.882721,
+    "errors": [
+      "Peak level is -2.9 dB (must be under -3.0 dB).",
+      "RMS is -17.9 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.88s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_19.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_19.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 1141.616893,
+    "bitrate_kbps": 256,
+    "peak_db": -3.0,
+    "rms_db": -18.8,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.876689,
+    "errors": [
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.88s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_20.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_20.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 1523.845306,
+    "bitrate_kbps": 256,
+    "peak_db": -2.6,
+    "rms_db": -17.9,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.92195,
+    "errors": [
+      "Peak level is -2.6 dB (must be under -3.0 dB).",
+      "RMS is -17.9 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.92s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_21.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_21.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 1215.446803,
+    "bitrate_kbps": 256,
+    "peak_db": -2.6,
+    "rms_db": -18.2,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.884603,
+    "errors": [
+      "Peak level is -2.6 dB (must be under -3.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.88s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_22.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_22.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 336.138821,
+    "bitrate_kbps": 256,
+    "peak_db": -2.9,
+    "rms_db": -17.8,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.912177,
+    "errors": [
+      "Peak level is -2.9 dB (must be under -3.0 dB).",
+      "RMS is -17.8 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.91s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_23.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_23.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 653.520567,
+    "bitrate_kbps": 256,
+    "peak_db": -2.8,
+    "rms_db": -18.4,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.882676,
+    "errors": [
+      "Peak level is -2.8 dB (must be under -3.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.88s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_24.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_24.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 542.60551,
+    "bitrate_kbps": 256,
+    "peak_db": -3.0,
+    "rms_db": -17.7,
+    "leading_silence": 0.0,
+    "trailing_silence": 1.198345,
+    "errors": [
+      "RMS is -17.7 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_25.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_25.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 808.574014,
+    "bitrate_kbps": 256,
+    "peak_db": -2.7,
+    "rms_db": -18.7,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.932948,
+    "errors": [
+      "Peak level is -2.7 dB (must be under -3.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.93s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_26.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_26.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 860.429819,
+    "bitrate_kbps": 256,
+    "peak_db": -2.3,
+    "rms_db": -18.2,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.89449,
+    "errors": [
+      "Peak level is -2.3 dB (must be under -3.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.89s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_27.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_27.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 2070.737551,
+    "bitrate_kbps": 256,
+    "peak_db": -2.6,
+    "rms_db": -18.5,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.867778,
+    "errors": [
+      "Peak level is -2.6 dB (must be under -3.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.87s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_28.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_28.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 684.928322,
+    "bitrate_kbps": 256,
+    "peak_db": -2.7,
+    "rms_db": -17.8,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.932336,
+    "errors": [
+      "Peak level is -2.7 dB (must be under -3.0 dB).",
+      "RMS is -17.8 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.93s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_29.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_29.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 710.399637,
+    "bitrate_kbps": 256,
+    "peak_db": -3.1,
+    "rms_db": -18.0,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.866576,
+    "errors": [
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.87s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_30.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_30.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 602.745986,
+    "bitrate_kbps": 256,
+    "peak_db": -2.8,
+    "rms_db": -17.7,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.895397,
+    "errors": [
+      "Peak level is -2.8 dB (must be under -3.0 dB).",
+      "RMS is -17.7 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.90s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_31.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_31.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 1043.070454,
+    "bitrate_kbps": 256,
+    "peak_db": -2.8,
+    "rms_db": -17.7,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.882404,
+    "errors": [
+      "Peak level is -2.8 dB (must be under -3.0 dB).",
+      "RMS is -17.7 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.88s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_32.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_32.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 675.64576,
+    "bitrate_kbps": 256,
+    "peak_db": -3.1,
+    "rms_db": -17.7,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.849138,
+    "errors": [
+      "RMS is -17.7 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.85s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_33.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_33.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 352.17805,
+    "bitrate_kbps": 256,
+    "peak_db": -3.0,
+    "rms_db": -17.8,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.911655,
+    "errors": [
+      "RMS is -17.8 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.91s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_34.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_34.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 588.840227,
+    "bitrate_kbps": 256,
+    "peak_db": -3.1,
+    "rms_db": -18.2,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.887596,
+    "errors": [
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.89s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_35.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_35.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 639.322154,
+    "bitrate_kbps": 256,
+    "peak_db": -3.0,
+    "rms_db": -17.8,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.888209,
+    "errors": [
+      "RMS is -17.8 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.89s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_36.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_36.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 273.891814,
+    "bitrate_kbps": 256,
+    "peak_db": -3.2,
+    "rms_db": -17.8,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.870159,
+    "errors": [
+      "RMS is -17.8 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.87s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_37.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_37.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 636.99907,
+    "bitrate_kbps": 256,
+    "peak_db": -2.9,
+    "rms_db": -19.6,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.889433,
+    "errors": [
+      "Peak level is -2.9 dB (must be under -3.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.89s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_38.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_38.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 1965.84873,
+    "bitrate_kbps": 256,
+    "peak_db": -2.7,
+    "rms_db": -19.2,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.885782,
+    "errors": [
+      "Peak level is -2.7 dB (must be under -3.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.89s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_39.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_39.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 525.978821,
+    "bitrate_kbps": 256,
+    "peak_db": -2.8,
+    "rms_db": -17.7,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.9139,
+    "errors": [
+      "Peak level is -2.8 dB (must be under -3.0 dB).",
+      "RMS is -17.7 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.91s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_40.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_40.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 1235.216145,
+    "bitrate_kbps": 256,
+    "peak_db": -2.5,
+    "rms_db": -18.8,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.874603,
+    "errors": [
+      "Peak level is -2.5 dB (must be under -3.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.87s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_41.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_41.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 360.019569,
+    "bitrate_kbps": 256,
+    "peak_db": -2.9,
+    "rms_db": -17.7,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.870839,
+    "errors": [
+      "Peak level is -2.9 dB (must be under -3.0 dB).",
+      "RMS is -17.7 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.87s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_42.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_42.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 1642.370227,
+    "bitrate_kbps": 256,
+    "peak_db": -3.0,
+    "rms_db": -18.4,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.926281,
+    "errors": [
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.93s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_43.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_43.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 285.757347,
+    "bitrate_kbps": 256,
+    "peak_db": -2.9,
+    "rms_db": -18.6,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.835215,
+    "errors": [
+      "Peak level is -2.9 dB (must be under -3.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.84s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_44.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_44.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 186.24322,
+    "bitrate_kbps": 256,
+    "peak_db": -3.1,
+    "rms_db": -17.9,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.906825,
+    "errors": [
+      "RMS is -17.9 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.91s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  },
+  {
+    "filename": "final_track_45.mp3",
+    "filepath": "C:\\git_repo\\TKprof_book\\books\\blue_castle\\final_audio_ko\\final_track_45.mp3",
+    "status": "FAIL",
+    "sample_rate": 44100,
+    "channels": 2,
+    "duration": 106.795556,
+    "bitrate_kbps": 256,
+    "peak_db": -3.6,
+    "rms_db": -17.7,
+    "leading_silence": 0.0,
+    "trailing_silence": 0.862086,
+    "errors": [
+      "RMS is -17.7 dB (must be between -23.0 dB and -18.0 dB).",
+      "Leading silence is 0.00s (must be between 1.0s and 5.0s).",
+      "Trailing silence is 0.86s (must be between 1.0s and 5.0s)."
+    ],
+    "warnings": []
+  }
+]

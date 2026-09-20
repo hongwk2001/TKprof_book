@@ -1,0 +1,82 @@
+{
+  "project": "Dracula - English Audiobook (Authors Republic resubmission)",
+  "google_play_identifier": null,
+  "_note_identifier": "New product. Do NOT reuse GGKEY:F6NQC8Z61C6 - that is the bilingual edition.",
+  "metadata": {
+    "title": "Dracula",
+    "subtitle": "Bram Stoker's Gothic Classic",
+    "format": "Audiobook",
+    "language": "English",
+    "publisher": "TKPROF LLC",
+    "duration": "18:34:52",
+    "abridged": false,
+    "for_mature_audiences": false,
+    "public_domain": true
+  },
+  "contributors": {
+    "authors": [
+      "Bram Stoker"
+    ],
+    "narrators": [
+      "Aiden AI"
+    ],
+    "publisher_editor": "TKPROF LLC"
+  },
+  "narration": {
+    "ai_generated": true,
+    "engine": "Kokoro-82M (local)",
+    "voice_casting": "Six voices cast by epistolary narrator (Harker, Mina, Lucy, Seward, Van Helsing, Holmwood)",
+    "_note": "Authors Republic accepts AI narration subject to a quality bar. Disclose if asked."
+  },
+  "genres_bisac": [
+    "FICTION / Classics",
+    "FICTION / Horror",
+    "FICTION / Gothic"
+  ],
+  "description": {
+    "english_blurb": "Bram Stoker's 1897 masterpiece of Gothic horror, presented unabridged.\n\nTold through the journals, letters and diaries of those who hunted him, Dracula follows solicitor Jonathan Harker from a remote Transylvanian castle to the streets of London, where Mina Harker, Dr. John Seward and Professor Van Helsing race to stop a predator who has crossed the sea to find them.\n\nThis recording gives each narrator their own distinct voice, so the novel's overlapping accounts read as the chorus of testimony Stoker intended."
+  },
+  "assets": {
+    "cover_image": "C:\\git_repo\\TKprof_book\\books\\dracula\\cover_en_2400.jpg",
+    "cover_specs": "2400x2400 px, RGB JPEG",
+    "audio_tracks_directory": "C:\\git_repo\\TKprof_book\\books\\dracula\\final_audio_en",
+    "total_audio_tracks": 29,
+    "audio_format": "192 kbps CBR, 44,100 Hz, Mono MP3 (ACX / Authors Republic compliant)",
+    "retail_sample": "dracula_retail_sample.mp3",
+    "tracks": [
+      "opening_credits.mp3",
+      "dracula_ch_01_en.mp3",
+      "dracula_ch_02_en.mp3",
+      "dracula_ch_03_en.mp3",
+      "dracula_ch_04_en.mp3",
+      "dracula_ch_05_en.mp3",
+      "dracula_ch_06_en.mp3",
+      "dracula_ch_07_en.mp3",
+      "dracula_ch_08_en.mp3",
+      "dracula_ch_09_en.mp3",
+      "dracula_ch_10_en.mp3",
+      "dracula_ch_11_en.mp3",
+      "dracula_ch_12_en.mp3",
+      "dracula_ch_13_en.mp3",
+      "dracula_ch_14_en.mp3",
+      "dracula_ch_15_en.mp3",
+      "dracula_ch_16_en.mp3",
+      "dracula_ch_17_en.mp3",
+      "dracula_ch_18_en.mp3",
+      "dracula_ch_19_en.mp3",
+      "dracula_ch_20_en.mp3",
+      "dracula_ch_21_en.mp3",
+      "dracula_ch_22_en.mp3",
+      "dracula_ch_23_en.mp3",
+      "dracula_ch_24_en.mp3",
+      "dracula_ch_25_en.mp3",
+      "dracula_ch_26_en.mp3",
+      "dracula_ch_27_en.mp3",
+      "closing_credits.mp3"
+    ]
+  },
+  "pricing": {
+    "list_price_usd": 14.99,
+    "territories": "WORLD"
+  }
+}

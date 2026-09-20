@@ -8,9 +8,9 @@
 ## 📝 Listing Information (English Edition)
 
 **Title:** The Enchanted April
-**Subtitle:** A Modernized Classic for Casual Listeners and ESL Learners
+**Subtitle:** Modern English Edition
 **Author:** Elizabeth von Arnim
-**Narrator:** Ryan
+**Narrator:** TKPROF AI
 **Target Genres:** Classic Fiction, Women's Literature, Humorous Fiction, Romance
 
 **Description:**
