@@ -33,65 +33,98 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "The clock struck nine when I did send the Nurse,\nIn half an hour she promised to return.\nPerchance she cannot meet him. That’s not so.\nO, she is lame. Love’s heralds should be thoughts,\nWhich ten times faster glides than the sun’s beams,\nDriving back shadows over lowering hills:\nTherefore do nimble-pinion’d doves draw love,\nAnd therefore hath the wind-swift Cupid wings.\nNow is the sun upon the highmost hill\nOf this day’s journey, and from nine till twelve\nIs three long hours, yet she is not come.\nHad she affections and warm youthful blood,\nShe’d be as swift in motion as a ball;\nMy words would bandy her to my sweet love,\nAnd his to me.\nBut old folks, many feign as they were dead;\nUnwieldy, slow, heavy and pale as lead.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "The clock struck nine when I sent the Nurse."
-    },
-    {
-     "en": "She promised to return in half an hour."
-    },
-    {
-     "en": "Maybe she cannot meet him."
-    },
-    {
-     "en": "No, that is not true."
-    },
-    {
-     "en": "Oh, she is slow."
-    },
-    {
-     "en": "Thoughts of love should be the messengers."
-    },
-    {
-     "en": "They move ten times faster than the sun's rays."
-    },
-    {
-     "en": "They drive back shadows over low hills."
-    },
-    {
-     "en": "Therefore, small birds with fast wings carry love."
-    },
-    {
-     "en": "And that is why the wind-swift Cupid has wings."
-    },
-    {
-     "en": "Now the sun is on the highest hill of this day's journey."
-    },
-    {
-     "en": "From nine until twelve are three long hours."
-    },
-    {
-     "en": "Yet she has not come."
-    },
-    {
-     "en": "If she had feelings and warm young blood, she would be as fast as a ball."
-    },
-    {
-     "en": "My words would carry her to my sweet love."
-    },
-    {
-     "en": "And his words would come to me."
-    },
-    {
-     "en": "But old people often pretend they are dead."
-    },
-    {
-     "en": "They are clumsy, slow, sad, and pale like lead."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "The clock struck nine when I sent the Nurse.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "She promised to return in half an hour.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Maybe she cannot meet him.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "No, that is not true.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Oh, she is slow.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Thoughts of love should be the messengers.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "They move ten times faster than the sun's rays.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "They drive back shadows over low hills.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "That is why quick-winged doves pull love's chariot.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "And that is why the wind-swift Cupid has wings.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "Now the sun is on the highest hill of this day's journey.",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "From nine until twelve are three long hours.",
+    "ko": ""
+   },
+   {
+    "n": 13,
+    "en": "Yet she has not come.",
+    "ko": ""
+   },
+   {
+    "n": 14,
+    "en": "If she had feelings and warm young blood, she would be as fast as a ball.",
+    "ko": ""
+   },
+   {
+    "n": 15,
+    "en": "My words would carry her to my sweet love.",
+    "ko": ""
+   },
+   {
+    "n": 16,
+    "en": "And his words would come to me.",
+    "ko": ""
+   },
+   {
+    "n": 17,
+    "en": "But many old people act as if they were already dead.",
+    "ko": ""
+   },
+   {
+    "n": 18,
+    "en": "They are clumsy, slow, heavy, and pale like lead.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 503,
@@ -115,23 +148,28 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "O God, she comes. O honey Nurse, what news?\nHast thou met with him? Send thy man away.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Oh God, she comes."
-    },
-    {
-     "en": "Oh dear Nurse, what news?"
-    },
-    {
-     "en": "Have you met him?"
-    },
-    {
-     "en": "Send your man away."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh God, she comes.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Oh dear Nurse, what news?",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Have you met him?",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Send your man away.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 505,
@@ -143,14 +181,13 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "Peter, stay at the gate.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Peter, stay at the gate."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Peter, stay at the gate.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 506,
@@ -174,26 +211,33 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Now, good sweet Nurse,—O Lord, why look’st thou sad?\nThough news be sad, yet tell them merrily;\nIf good, thou sham’st the music of sweet news\nBy playing it to me with so sour a face.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Now, good sweet Nurse."
-    },
-    {
-     "en": "Oh Lord, why do you look sad?"
-    },
-    {
-     "en": "Even if the news is sad, tell it happily."
-    },
-    {
-     "en": "If it is good news, you ruin the music of the news."
-    },
-    {
-     "en": "You are playing it to me with such a sour face."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Now, good sweet Nurse.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Oh Lord, why do you look sad?",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Even if the news is sad, tell it happily.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "If it is good news, you ruin the music of the news.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "You are playing it to me with such a sour face.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 508,
@@ -205,23 +249,28 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "I am aweary, give me leave awhile;\nFie, how my bones ache! What a jaunt have I had!",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "I am tired."
-    },
-    {
-     "en": "Give me leave for a while."
-    },
-    {
-     "en": "Shame on you, how my bones ache!"
-    },
-    {
-     "en": "What a long trip I have had!"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I am tired.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Leave me alone for a moment.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Ugh, how my bones ache!",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "What a long trip I have had!",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 509,
@@ -233,20 +282,23 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "I would thou hadst my bones, and I thy news:\nNay come, I pray thee speak; good, good Nurse, speak.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "I wish you had my bones and I had your news."
-    },
-    {
-     "en": "No, come, I pray you speak."
-    },
-    {
-     "en": "Good, good Nurse, speak."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I wish you had my bones and I had your news.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Come on, please speak.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Good, good Nurse, speak.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 510,
@@ -258,20 +310,23 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "Jesu, what haste? Can you not stay a while? Do you not see that I am\nout of breath?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Jesus, why the hurry?"
-    },
-    {
-     "en": "Can you not stay a while?"
-    },
-    {
-     "en": "Do you not see that I am out of breath?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Jesus, why the hurry?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Can you not stay a while?",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Do you not see that I am out of breath?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 511,
@@ -283,32 +338,43 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "How art thou out of breath, when thou hast breath\nTo say to me that thou art out of breath?\nThe excuse that thou dost make in this delay\nIs longer than the tale thou dost excuse.\nIs thy news good or bad? Answer to that;\nSay either, and I’ll stay the circumstance.\nLet me be satisfied, is’t good or bad?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "How are you out of breath?"
-    },
-    {
-     "en": "You have enough breath to tell me that you are out of breath."
-    },
-    {
-     "en": "The excuse you make for this delay is longer than the story you are telling."
-    },
-    {
-     "en": "Is your news good or bad?"
-    },
-    {
-     "en": "Answer that question."
-    },
-    {
-     "en": "Say either, and I will listen to the details."
-    },
-    {
-     "en": "Let me be satisfied, is it good or bad?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "How are you out of breath?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "You have enough breath to tell me that you are out of breath.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "The excuse you make for this delay is longer than the story you are telling.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Is your news good or bad?",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Answer that question.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Say either, and I will listen to the details.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Let me be satisfied, is it good or bad?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 512,
@@ -320,47 +386,63 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "Well, you have made a simple choice; you know not how to choose a man.\nRomeo? No, not he. Though his face be better than any man’s, yet his\nleg excels all men’s, and for a hand and a foot, and a body, though\nthey be not to be talked on, yet they are past compare. He is not the\nflower of courtesy, but I’ll warrant him as gentle as a lamb. Go thy\nways, wench, serve God. What, have you dined at home?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Well, you made a simple choice."
-    },
-    {
-     "en": "You do not know how to choose a man."
-    },
-    {
-     "en": "Romeo? No, not him."
-    },
-    {
-     "en": "His face is better than any man's face."
-    },
-    {
-     "en": "His leg is better than all men's legs."
-    },
-    {
-     "en": "His hands and feet are also very good."
-    },
-    {
-     "en": "They are not easy to talk about."
-    },
-    {
-     "en": "However, they are beyond comparison."
-    },
-    {
-     "en": "He is not the best at being polite."
-    },
-    {
-     "en": "But I promise he is as gentle as a lamb."
-    },
-    {
-     "en": "Go your way, girl, and serve God."
-    },
-    {
-     "en": "What, did you eat at home?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Well, you made a foolish choice.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "You do not know how to choose a man.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Romeo? No, not him.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "His face is better than any man's face.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "His leg is better than all men's legs.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "His hands and feet are also very good.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "They are nothing special to talk about, but still they are the best.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "He is not the best at being polite.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "But I promise he is as gentle as a lamb.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "Go your way, girl, and serve God.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "What, did you eat at home?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 513,
@@ -372,23 +454,28 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "No, no. But all this did I know before.\nWhat says he of our marriage? What of that?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "No, no."
-    },
-    {
-     "en": "I knew all of this before."
-    },
-    {
-     "en": "What does he say about our marriage?"
-    },
-    {
-     "en": "What about that?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "No, no.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I knew all of this before.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "What does he say about our marriage?",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "What about that?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 514,
@@ -400,32 +487,38 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "Lord, how my head aches! What a head have I!\nIt beats as it would fall in twenty pieces.\nMy back o’ t’other side,—O my back, my back!\nBeshrew your heart for sending me about\nTo catch my death with jauncing up and down.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Lord, how my head aches!"
-    },
-    {
-     "en": "What a head I have!"
-    },
-    {
-     "en": "It feels like it will fall into twenty pieces."
-    },
-    {
-     "en": "My back is on the other side."
-    },
-    {
-     "en": "Oh, my back, my back!"
-    },
-    {
-     "en": "May your heart be cursed for making me run."
-    },
-    {
-     "en": "I had to go up and down to catch my death."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Lord, how my head aches!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "What a head I have!",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "It feels like it will fall into twenty pieces.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "And my back, on the other side!",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Oh, my back, my back!",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "May your heart be cursed for sending me running up and down until I nearly died!",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 515,
@@ -437,20 +530,23 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "I’faith, I am sorry that thou art not well.\nSweet, sweet, sweet Nurse, tell me, what says my love?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "I am sorry that you are not well."
-    },
-    {
-     "en": "Sweet, sweet, sweet Nurse, tell me."
-    },
-    {
-     "en": "What does my love say?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I am sorry that you are not well.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Sweet, sweet, sweet Nurse, tell me.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "What does my love say?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 516,
@@ -462,26 +558,33 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "Your love says like an honest gentleman,\nAnd a courteous, and a kind, and a handsome,\nAnd I warrant a virtuous,—Where is your mother?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Your love speaks like an honest gentleman."
-    },
-    {
-     "en": "He is courteous and kind."
-    },
-    {
-     "en": "He is handsome."
-    },
-    {
-     "en": "I promise he is virtuous."
-    },
-    {
-     "en": "Where is your mother?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Your love speaks like an honest gentleman.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "He is courteous and kind.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "He is handsome.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "I promise he is virtuous.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Where is your mother?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 517,
@@ -493,29 +596,33 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Where is my mother? Why, she is within.\nWhere should she be? How oddly thou repliest.\n‘Your love says, like an honest gentleman,\n‘Where is your mother?’",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Where is my mother?"
-    },
-    {
-     "en": "She is inside."
-    },
-    {
-     "en": "Where should she be?"
-    },
-    {
-     "en": "You answered very strangely."
-    },
-    {
-     "en": "Your love said, 'Where is your mother?'"
-    },
-    {
-     "en": "He spoke like an honest gentleman."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Where is my mother?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "She is inside.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Where else would she be?",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "You answered very strangely.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "'Your love says, like an honest gentleman, where is your mother?'",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 518,
@@ -527,26 +634,33 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "O God’s lady dear,\nAre you so hot? Marry, come up, I trow.\nIs this the poultice for my aching bones?\nHenceforward do your messages yourself.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Oh, dear lady of God."
-    },
-    {
-     "en": "Are you so hot?"
-    },
-    {
-     "en": "Indeed, come up."
-    },
-    {
-     "en": "Is this the medicine for my aching bones?"
-    },
-    {
-     "en": "From now on, deliver your messages yourself."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh, Holy Mary!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Are you so impatient?",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Well, well, calm down!",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Is this the cure for my aching bones?",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "From now on, deliver your messages yourself.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 519,
@@ -558,17 +672,18 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Here’s such a coil. Come, what says Romeo?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "This is such a mess."
-    },
-    {
-     "en": "Come, what does Romeo say?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "This is such a mess.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Come, what does Romeo say?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 520,
@@ -580,14 +695,13 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "Have you got leave to go to shrift today?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Do you have permission to go to confession today?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Do you have permission to go to confession today?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 521,
@@ -599,14 +713,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "I have.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "I do."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I have.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 522,
@@ -618,50 +731,73 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "Then hie you hence to Friar Lawrence’ cell;\nThere stays a husband to make you a wife.\nNow comes the wanton blood up in your cheeks,\nThey’ll be in scarlet straight at any news.\nHie you to church. I must another way,\nTo fetch a ladder by the which your love\nMust climb a bird’s nest soon when it is dark.\nI am the drudge, and toil in your delight;\nBut you shall bear the burden soon at night.\nGo. I’ll to dinner; hie you to the cell.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Then hurry away to Friar Lawrence's small room."
-    },
-    {
-     "en": "A husband stays there to make you a wife."
-    },
-    {
-     "en": "Now the blood of a spoiled child rises in your cheeks."
-    },
-    {
-     "en": "They will turn red at any news."
-    },
-    {
-     "en": "Hurry to the church."
-    },
-    {
-     "en": "I must go another way."
-    },
-    {
-     "en": "I must get a ladder."
-    },
-    {
-     "en": "Your love must climb it like a bird's nest soon when it is dark."
-    },
-    {
-     "en": "I am the servant, and I work for your pleasure."
-    },
-    {
-     "en": "But you will bear the burden soon at night."
-    },
-    {
-     "en": "Go."
-    },
-    {
-     "en": "I will go to dinner."
-    },
-    {
-     "en": "Hurry to the cell."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Then hurry away to Friar Lawrence's small room.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "A husband is waiting there to make you a wife.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Now the excited blood rushes to your cheeks.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "They will turn red at any news.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Hurry to the church.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "I must go another way.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "I must get a ladder.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Your love will use it to climb up to your bird's nest when it is dark.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "I am the servant, and I work for your pleasure.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "But tonight you will be the one carrying the weight.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "Go.",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "I will go to dinner.",
+    "ko": ""
+   },
+   {
+    "n": 13,
+    "en": "Hurry to the cell.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 523,
@@ -673,17 +809,18 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Hie to high fortune! Honest Nurse, farewell.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Hurry to high fortune!"
-    },
-    {
-     "en": "Honest Nurse, goodbye."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Hurry to high fortune!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Honest Nurse, goodbye.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 524,
