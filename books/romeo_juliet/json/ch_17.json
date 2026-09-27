@@ -33,17 +33,18 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "On Thursday, sir? The time is very short.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "On Thursday, sir?"
-    },
-    {
-     "en": "The time is very short."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "On Thursday, sir?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "The time is very short.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 791,
@@ -55,17 +56,18 @@
   "speaker": "PARIS",
   "delivery": null,
   "raw": "My father Capulet will have it so;\nAnd I am nothing slow to slack his haste.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "My father Capulet wants it this way."
-    },
-    {
-     "en": "I am not slow to follow his plan."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "My father Capulet wants it this way.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "And I will not slow him down.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 792,
@@ -77,20 +79,23 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "You say you do not know the lady’s mind.\nUneven is the course; I like it not.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "You say you do not know the lady's mind."
-    },
-    {
-     "en": "The situation is uncertain."
-    },
-    {
-     "en": "I do not like it."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "You say you do not know the lady's mind.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "This is not the right way to do things.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I do not like it.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 793,
@@ -102,38 +107,53 @@
   "speaker": "PARIS",
   "delivery": null,
   "raw": "Immoderately she weeps for Tybalt’s death,\nAnd therefore have I little talk’d of love;\nFor Venus smiles not in a house of tears.\nNow, sir, her father counts it dangerous\nThat she do give her sorrow so much sway;\nAnd in his wisdom, hastes our marriage,\nTo stop the inundation of her tears,\nWhich, too much minded by herself alone,\nMay be put from her by society.\nNow do you know the reason of this haste.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "She cries too much for Tybalt's death."
-    },
-    {
-     "en": "Therefore, I have hardly talked about love."
-    },
-    {
-     "en": "Love does not smile in a house of tears."
-    },
-    {
-     "en": "Now, sir, her father thinks it is dangerous."
-    },
-    {
-     "en": "He thinks she lets her sadness control her too much."
-    },
-    {
-     "en": "In his wisdom, he hurries our marriage."
-    },
-    {
-     "en": "He wants to stop the flow of her tears."
-    },
-    {
-     "en": "She might stop crying if she spends time with others."
-    },
-    {
-     "en": "Now do you know the reason for this haste?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "She cries too much for Tybalt's death.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Therefore, I have hardly talked about love.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Love does not smile in a house of tears.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Now, sir, her father thinks it is dangerous.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "He thinks she lets her sadness control her too much.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "In his wisdom, he hurries our marriage.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "He wants to stop the flow of her tears.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Alone, she thinks about it too much; with company, she may forget it.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "Now do you know the reason for this haste?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 794,
@@ -145,17 +165,18 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": "Aside",
   "raw": "I would I knew not why it should be slow’d.—\nLook, sir, here comes the lady toward my cell.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "I wish I did not know why it should be delayed."
-    },
-    {
-     "en": "Look, sir, here comes the lady toward my cell."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I wish I did not know why it should be delayed.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Look, sir, here comes the lady toward my cell.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 795,
@@ -179,14 +200,13 @@
   "speaker": "PARIS",
   "delivery": null,
   "raw": "Happily met, my lady and my wife!",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "I am happy to meet you, my lady and my wife!"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I am happy to meet you, my lady and my wife!",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 797,
@@ -198,14 +218,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "That may be, sir, when I may be a wife.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "That may be true, sir, when I am a wife."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "That may be true, sir, when I am a wife.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 798,
@@ -217,14 +236,13 @@
   "speaker": "PARIS",
   "delivery": null,
   "raw": "That may be, must be, love, on Thursday next.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "That may be, it must be, love, next Thursday."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "That may be, it must be, love, next Thursday.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 799,
@@ -236,14 +254,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "What must be shall be.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "What must happen will happen."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "What must happen will happen.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 800,
@@ -255,14 +272,13 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "That’s a certain text.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "That is a certain statement."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "That is certainly true.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 801,
@@ -274,14 +290,13 @@
   "speaker": "PARIS",
   "delivery": null,
   "raw": "Come you to make confession to this father?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Do you come to confess to this priest?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Do you come to confess to this priest?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 802,
@@ -293,14 +308,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "To answer that, I should confess to you.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "To answer that, I would have to confess to you."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "To answer that, I would have to confess to you.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 803,
@@ -312,14 +326,13 @@
   "speaker": "PARIS",
   "delivery": null,
   "raw": "Do not deny to him that you love me.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Do not deny your love for me to him."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Do not deny your love for me to him.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 804,
@@ -331,14 +344,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "I will confess to you that I love him.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "I will tell you that I love him."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I will confess to you that I love him.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 805,
@@ -350,14 +362,13 @@
   "speaker": "PARIS",
   "delivery": null,
   "raw": "So will ye, I am sure, that you love me.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "I am sure you will say that you love me."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I am sure you will say that you love me.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 806,
@@ -369,17 +380,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "If I do so, it will be of more price,\nBeing spoke behind your back than to your face.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "If I do so, it will be more valuable."
-    },
-    {
-     "en": "It would be said behind your back instead of to your face."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "If I do, it will be worth more if I say it behind your back than to your face.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 807,
@@ -391,17 +398,18 @@
   "speaker": "PARIS",
   "delivery": null,
   "raw": "Poor soul, thy face is much abus’d with tears.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Poor soul."
-    },
-    {
-     "en": "Your face is ruined by many tears."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Poor soul.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Your face is badly hurt by tears.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 808,
@@ -413,17 +421,18 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "The tears have got small victory by that;\nFor it was bad enough before their spite.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "The tears have not won a small victory over that."
-    },
-    {
-     "en": "It was already bad enough before their spite."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "The tears have won only a small victory.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "My face was ugly enough before they attacked it.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 809,
@@ -435,14 +444,13 @@
   "speaker": "PARIS",
   "delivery": null,
   "raw": "Thou wrong’st it more than tears with that report.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "You hurt it more with that report than the tears do."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "You insult your face more than the tears do by saying that.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 810,
@@ -454,17 +462,18 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "That is no slander, sir, which is a truth,\nAnd what I spake, I spake it to my face.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "That is not slander, sir, because it is the truth."
-    },
-    {
-     "en": "And I spoke it to your face."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "That is not slander, sir, because it is the truth.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "And what I said, I said about my own face.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 811,
@@ -476,17 +485,18 @@
   "speaker": "PARIS",
   "delivery": null,
   "raw": "Thy face is mine, and thou hast slander’d it.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Your face is mine."
-    },
-    {
-     "en": "And you have insulted it."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Your face is mine.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "And you have insulted it.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 812,
@@ -498,20 +508,23 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "It may be so, for it is not mine own.\nAre you at leisure, holy father, now,\nOr shall I come to you at evening mass?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "It may be so, for it is not my own."
-    },
-    {
-     "en": "Are you free now, holy father?"
-    },
-    {
-     "en": "Or should I come to you at the evening mass?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "It may be so, for it is not my own.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Are you free now, holy father?",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Or should I come to you at the evening mass?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 813,
@@ -523,17 +536,18 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "My leisure serves me, pensive daughter, now.—\nMy lord, we must entreat the time alone.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "I am free now, my thoughtful daughter."
-    },
-    {
-     "en": "My lord, we must talk alone for a moment."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I am free now, my thoughtful daughter.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "My lord, we must talk alone for a moment.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 814,
@@ -545,23 +559,28 @@
   "speaker": "PARIS",
   "delivery": null,
   "raw": "God shield I should disturb devotion!—\nJuliet, on Thursday early will I rouse ye,\nTill then, adieu; and keep this holy kiss.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "God forbid that I should disturb your prayers!"
-    },
-    {
-     "en": "Juliet, I will wake you early on Thursday."
-    },
-    {
-     "en": "Until then, goodbye."
-    },
-    {
-     "en": "And keep this holy kiss."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "God forbid that I should disturb your prayers!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Juliet, I will wake you early on Thursday.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Until then, goodbye.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "And keep this holy kiss.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 815,
@@ -585,26 +604,33 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "O shut the door, and when thou hast done so,\nCome weep with me, past hope, past cure, past help!",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Oh, shut the door."
-    },
-    {
-     "en": "When you have done that, come and cry with me."
-    },
-    {
-     "en": "My situation is hopeless."
-    },
-    {
-     "en": "It cannot be cured."
-    },
-    {
-     "en": "No one can help me!"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh, shut the door.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "When you have done that, come and cry with me.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "My situation is hopeless.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "It cannot be cured.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "No one can help me!",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 817,
@@ -616,26 +642,33 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "O Juliet, I already know thy grief;\nIt strains me past the compass of my wits.\nI hear thou must, and nothing may prorogue it,\nOn Thursday next be married to this County.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Oh Juliet, I already know your grief."
-    },
-    {
-     "en": "It is more than my mind can handle."
-    },
-    {
-     "en": "I hear that you must marry the Count."
-    },
-    {
-     "en": "You must do it this coming Thursday."
-    },
-    {
-     "en": "Nothing can stop it."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh Juliet, I already know your grief.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "It is more than my mind can handle.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I hear that you must marry the Count.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "You must do it this coming Thursday.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Nothing can stop it.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 818,
@@ -647,56 +680,73 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Tell me not, Friar, that thou hear’st of this,\nUnless thou tell me how I may prevent it.\nIf in thy wisdom, thou canst give no help,\nDo thou but call my resolution wise,\nAnd with this knife I’ll help it presently.\nGod join’d my heart and Romeo’s, thou our hands;\nAnd ere this hand, by thee to Romeo’s seal’d,\nShall be the label to another deed,\nOr my true heart with treacherous revolt\nTurn to another, this shall slay them both.\nTherefore, out of thy long-experienc’d time,\nGive me some present counsel, or behold\n’Twixt my extremes and me this bloody knife\nShall play the empire, arbitrating that\nWhich the commission of thy years and art\nCould to no issue of true honour bring.\nBe not so long to speak. I long to die,\nIf what thou speak’st speak not of remedy.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Do not tell me about this, Friar, unless you tell me how I can stop it."
-    },
-    {
-     "en": "If your wisdom gives no help, just call my decision wise."
-    },
-    {
-     "en": "I will use this knife to help it right now."
-    },
-    {
-     "en": "God joined my heart and Romeo's."
-    },
-    {
-     "en": "He joined our hands."
-    },
-    {
-     "en": "Before this hand is joined to Romeo's, it will be the label for another deed."
-    },
-    {
-     "en": "Or if my true heart turns to another because of a betrayal, this knife will kill both of them."
-    },
-    {
-     "en": "Therefore, use your long experience."
-    },
-    {
-     "en": "Give me some immediate advice."
-    },
-    {
-     "en": "Look at my two choices."
-    },
-    {
-     "en": "This bloody knife will decide for me."
-    },
-    {
-     "en": "Your years and wisdom could not find a way to keep my honor."
-    },
-    {
-     "en": "Do not take a long time to speak."
-    },
-    {
-     "en": "I want to die."
-    },
-    {
-     "en": "Unless what you say offers a cure."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Do not tell me about this, Friar, unless you tell me how I can stop it.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "If your wisdom gives no help, just call my decision wise.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I will use this knife to help it right now.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "God joined my heart and Romeo's.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "You joined our hands.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "This hand, which you joined to Romeo's, will never sign another marriage.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "If it tries, or if my true heart betrays him for another man, this knife will kill both hand and heart.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Therefore, use your long experience.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "Give me some immediate advice.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "If you cannot help, this bloody knife will judge between me and my terrible choice.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "It will settle what your years and skill could not settle with honor.",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "Do not take a long time to speak.",
+    "ko": ""
+   },
+   {
+    "n": 13,
+    "en": "I long to die if what you say is not a cure.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 819,
@@ -708,35 +758,48 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "Hold, daughter. I do spy a kind of hope,\nWhich craves as desperate an execution\nAs that is desperate which we would prevent.\nIf, rather than to marry County Paris\nThou hast the strength of will to slay thyself,\nThen is it likely thou wilt undertake\nA thing like death to chide away this shame,\nThat cop’st with death himself to scape from it.\nAnd if thou dar’st, I’ll give thee remedy.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Wait, daughter."
-    },
-    {
-     "en": "I see a kind of hope."
-    },
-    {
-     "en": "It requires a desperate action."
-    },
-    {
-     "en": "That action is as desperate as the one we want to prevent."
-    },
-    {
-     "en": "If you have the will to kill yourself instead of marrying Count Paris, then it is likely you will try something like death."
-    },
-    {
-     "en": "You do this to escape this shame."
-    },
-    {
-     "en": "You would risk death to avoid it."
-    },
-    {
-     "en": "And if you dare, I will give you a remedy."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Wait, daughter.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I see a kind of hope.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "It requires a desperate action.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "That action is as desperate as the one we want to prevent.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "You would rather kill yourself than marry Count Paris.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "So you will likely dare to do something like death to escape this shame.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "After all, you are ready to face death itself to escape it.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "And if you dare, I will give you a remedy.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 820,
@@ -748,50 +811,68 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "O, bid me leap, rather than marry Paris,\nFrom off the battlements of yonder tower,\nOr walk in thievish ways, or bid me lurk\nWhere serpents are. Chain me with roaring bears;\nOr hide me nightly in a charnel-house,\nO’er-cover’d quite with dead men’s rattling bones,\nWith reeky shanks and yellow chapless skulls.\nOr bid me go into a new-made grave,\nAnd hide me with a dead man in his shroud;\nThings that, to hear them told, have made me tremble,\nAnd I will do it without fear or doubt,\nTo live an unstain’d wife to my sweet love.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Oh, tell me to jump instead of marrying Paris."
-    },
-    {
-     "en": "I could jump from the walls of that tower over there."
-    },
-    {
-     "en": "Or I could live like a thief."
-    },
-    {
-     "en": "Or I could hide where snakes are."
-    },
-    {
-     "en": "Chain me with roaring bears."
-    },
-    {
-     "en": "Or hide me every night in a house for dead bodies."
-    },
-    {
-     "en": "Cover me with the bones of dead men."
-    },
-    {
-     "en": "I would be covered in old bones and skulls."
-    },
-    {
-     "en": "Or tell me to go into a new grave."
-    },
-    {
-     "en": "Hide me with a dead man in his shroud."
-    },
-    {
-     "en": "These things make me tremble when I hear them."
-    },
-    {
-     "en": "But I will do them without fear or doubt."
-    },
-    {
-     "en": "I will do them to be an honest wife to my sweet love."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh, tell me to jump instead of marrying Paris.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I could jump from the walls of that tower over there.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Or tell me to walk on roads full of thieves.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Or I could hide where snakes are.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Chain me with roaring bears.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Or hide me every night in a house for dead bodies.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Cover me with dead men's rattling bones, stinking legs, and yellow jawless skulls.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Or tell me to go into a new grave.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "Hide me with a dead man in his shroud.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "These things make me tremble when I hear them.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "But I will do them without fear or doubt.",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "I will do them to stay a faithful, pure wife to my sweet love.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 821,
@@ -803,101 +884,153 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "Hold then. Go home, be merry, give consent\nTo marry Paris. Wednesday is tomorrow;\nTomorrow night look that thou lie alone,\nLet not thy Nurse lie with thee in thy chamber.\nTake thou this vial, being then in bed,\nAnd this distilled liquor drink thou off,\nWhen presently through all thy veins shall run\nA cold and drowsy humour; for no pulse\nShall keep his native progress, but surcease.\nNo warmth, no breath shall testify thou livest,\nThe roses in thy lips and cheeks shall fade\nTo paly ashes; thy eyes’ windows fall,\nLike death when he shuts up the day of life.\nEach part depriv’d of supple government,\nShall stiff and stark and cold appear like death.\nAnd in this borrow’d likeness of shrunk death\nThou shalt continue two and forty hours,\nAnd then awake as from a pleasant sleep.\nNow when the bridegroom in the morning comes\nTo rouse thee from thy bed, there art thou dead.\nThen as the manner of our country is,\nIn thy best robes, uncover’d, on the bier,\nThou shalt be borne to that same ancient vault\nWhere all the kindred of the Capulets lie.\nIn the meantime, against thou shalt awake,\nShall Romeo by my letters know our drift,\nAnd hither shall he come, and he and I\nWill watch thy waking, and that very night\nShall Romeo bear thee hence to Mantua.\nAnd this shall free thee from this present shame,\nIf no inconstant toy nor womanish fear\nAbate thy valour in the acting it.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Wait then."
-    },
-    {
-     "en": "Go home and be happy."
-    },
-    {
-     "en": "Agree to marry Paris."
-    },
-    {
-     "en": "Wednesday is tomorrow."
-    },
-    {
-     "en": "Tomorrow night, make sure you lie alone."
-    },
-    {
-     "en": "Do not let your Nurse stay in your room with you."
-    },
-    {
-     "en": "Take this small bottle while you are in bed."
-    },
-    {
-     "en": "Drink all of this liquid."
-    },
-    {
-     "en": "A cold and sleepy feeling will move through your veins."
-    },
-    {
-     "en": "Your pulse will stop."
-    },
-    {
-     "en": "No warmth or breath will show that you live."
-    },
-    {
-     "en": "The color in your lips and cheeks will fade to gray."
-    },
-    {
-     "en": "Your eyes will close."
-    },
-    {
-     "en": "It will look like death has closed the day of life."
-    },
-    {
-     "en": "Every part of you will become stiff and cold."
-    },
-    {
-     "en": "You will look like death."
-    },
-    {
-     "en": "In this appearance of death, you will stay for forty-eight hours."
-    },
-    {
-     "en": "Then you will wake up as if from a pleasant sleep."
-    },
-    {
-     "en": "When the groom comes in the morning to wake you, you will appear to be dead."
-    },
-    {
-     "en": "Because of our local customs, you will be dressed in your best clothes."
-    },
-    {
-     "en": "You will be uncovered on a coffin."
-    },
-    {
-     "en": "You will be carried to that old vault."
-    },
-    {
-     "en": "All your relatives, the Capulets, lie there."
-    },
-    {
-     "en": "In the meantime, you will wake up."
-    },
-    {
-     "en": "Romeo will know our plan from my letters."
-    },
-    {
-     "en": "He will come here."
-    },
-    {
-     "en": "He and I will watch you wake up."
-    },
-    {
-     "en": "That same night, Romeo will take you to Mantua."
-    },
-    {
-     "en": "This will free you from this shame."
-    },
-    {
-     "en": "Unless your fear or lack of courage stops you from acting bravely."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Wait then.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Go home and be happy.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Agree to marry Paris.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Wednesday is tomorrow.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Tomorrow night, make sure you lie alone.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Do not let your Nurse stay in your room with you.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Take this small bottle while you are in bed.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Drink all of this liquid.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "A cold and sleepy feeling will move through your veins.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "Your pulse will stop.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "No warmth or breath will show that you live.",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "The color in your lips and cheeks will fade to gray.",
+    "ko": ""
+   },
+   {
+    "n": 13,
+    "en": "Your eyes will close.",
+    "ko": ""
+   },
+   {
+    "n": 14,
+    "en": "It will look like death has closed the day of life.",
+    "ko": ""
+   },
+   {
+    "n": 15,
+    "en": "Every part of you will become stiff and cold.",
+    "ko": ""
+   },
+   {
+    "n": 16,
+    "en": "You will look like death.",
+    "ko": ""
+   },
+   {
+    "n": 17,
+    "en": "In this appearance of death, you will stay for forty-eight hours.",
+    "ko": ""
+   },
+   {
+    "n": 18,
+    "en": "Then you will wake up as if from a pleasant sleep.",
+    "ko": ""
+   },
+   {
+    "n": 19,
+    "en": "When the groom comes in the morning to wake you, you will appear to be dead.",
+    "ko": ""
+   },
+   {
+    "n": 20,
+    "en": "Because of our local customs, you will be dressed in your best clothes.",
+    "ko": ""
+   },
+   {
+    "n": 21,
+    "en": "Your face will be uncovered on an open coffin.",
+    "ko": ""
+   },
+   {
+    "n": 22,
+    "en": "You will be carried to that old vault.",
+    "ko": ""
+   },
+   {
+    "n": 23,
+    "en": "All your relatives, the Capulets, lie there.",
+    "ko": ""
+   },
+   {
+    "n": 24,
+    "en": "Before you wake up, Romeo will know our plan from my letters.",
+    "ko": ""
+   },
+   {
+    "n": 25,
+    "en": "He will come here.",
+    "ko": ""
+   },
+   {
+    "n": 26,
+    "en": "He and I will watch you wake up.",
+    "ko": ""
+   },
+   {
+    "n": 27,
+    "en": "That same night, Romeo will take you to Mantua.",
+    "ko": ""
+   },
+   {
+    "n": 28,
+    "en": "This will free you from this shame.",
+    "ko": ""
+   },
+   {
+    "n": 29,
+    "en": "It will work if no silly whim or womanish fear weakens your courage.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 822,
@@ -909,17 +1042,18 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Give me, give me! O tell not me of fear!",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Give it to me, give it to me!"
-    },
-    {
-     "en": "Do not tell me about fear!"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Give it to me, give it to me!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Do not tell me about fear!",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 823,
@@ -931,26 +1065,33 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "Hold; get you gone, be strong and prosperous\nIn this resolve. I’ll send a friar with speed\nTo Mantua, with my letters to thy lord.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Wait."
-    },
-    {
-     "en": "Go now."
-    },
-    {
-     "en": "Be strong and successful in this decision."
-    },
-    {
-     "en": "I will send a monk quickly to Mantua."
-    },
-    {
-     "en": "I will give him my letters for your lord."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Wait.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Go now.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Be strong and successful in this decision.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "I will send a monk quickly to Mantua.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "I will give him my letters for your lord.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 824,
@@ -962,20 +1103,23 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Love give me strength, and strength shall help afford.\nFarewell, dear father.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Love, give me strength."
-    },
-    {
-     "en": "Strength will provide what I need."
-    },
-    {
-     "en": "Goodbye, dear father."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Love, give me strength.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Strength will provide what I need.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Goodbye, dear father.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 825,
