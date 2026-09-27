@@ -33,19 +33,13 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "He jests at scars that never felt a wound.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "He jokes about scars that never felt a wound."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "He jokes about scars that never felt a wound."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "He jokes about scars that never felt a wound.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 312,
@@ -57,19 +51,13 @@
   "speaker": null,
   "delivery": null,
   "raw": "Juliet appears above at a window.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Juliet appears at a window above."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Juliet appears at a window above."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Juliet appears at a window above.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 313,
@@ -81,145 +69,113 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "But soft, what light through yonder window breaks?\nIt is the east, and Juliet is the sun!\nArise fair sun and kill the envious moon,\nWho is already sick and pale with grief,\nThat thou her maid art far more fair than she.\nBe not her maid since she is envious;\nHer vestal livery is but sick and green,\nAnd none but fools do wear it; cast it off.\nIt is my lady, O it is my love!\nO, that she knew she were!\nShe speaks, yet she says nothing. What of that?\nHer eye discourses, I will answer it.\nI am too bold, ’tis not to me she speaks.\nTwo of the fairest stars in all the heaven,\nHaving some business, do entreat her eyes\nTo twinkle in their spheres till they return.\nWhat if her eyes were there, they in her head?\nThe brightness of her cheek would shame those stars,\nAs daylight doth a lamp; her eyes in heaven\nWould through the airy region stream so bright\nThat birds would sing and think it were not night.\nSee how she leans her cheek upon her hand.\nO that I were a glove upon that hand,\nThat I might touch that cheek.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "But wait, what light breaks through that window?"
-    },
-    {
-     "en": "It is the east, and Juliet is the sun!"
-    },
-    {
-     "en": "Rise, beautiful sun, and kill the envious moon."
-    },
-    {
-     "en": "The moon is already sick and pale with grief."
-    },
-    {
-     "en": "It is sad because you are much more beautiful than she."
-    },
-    {
-     "en": "Do not be her servant since she is jealous."
-    },
-    {
-     "en": "Her special uniform is only sick and green."
-    },
-    {
-     "en": "Only fools wear it, so throw it off."
-    },
-    {
-     "en": "It is my lady. Oh, it is my love!"
-    },
-    {
-     "en": "Oh, I wish she knew that I knew."
-    },
-    {
-     "en": "She speaks, but she says nothing. What does that mean?"
-    },
-    {
-     "en": "Her eyes speak to me, and I will answer them."
-    },
-    {
-     "en": "I am too bold. She is not speaking to me."
-    },
-    {
-     "en": "Two of the most beautiful stars in heaven are busy."
-    },
-    {
-     "en": "They ask her eyes to shine in their places until they return."
-    },
-    {
-     "en": "What if her eyes were there and those stars were in her head?"
-    },
-    {
-     "en": "The brightness of her cheek would shame those stars."
-    },
-    {
-     "en": "It is like how daylight makes a lamp look dull."
-    },
-    {
-     "en": "Her eyes in heaven would shine so brightly through the air."
-    },
-    {
-     "en": "Birds would sing and think it was not night."
-    },
-    {
-     "en": "Look at how she leans her cheek on her hand."
-    },
-    {
-     "en": "Oh, I wish I were a glove on that hand."
-    },
-    {
-     "en": "Then I could touch that cheek."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Wait, what light breaks through that window over there?"
-    },
-    {
-     "en": "It is the east, and Juliet is the sun!"
-    },
-    {
-     "en": "Rise, fair sun, and kill the envious moon."
-    },
-    {
-     "en": "The moon is already sick and pale with grief."
-    },
-    {
-     "en": "She is sad because you are much more beautiful than she is."
-    },
-    {
-     "en": "Do not be her servant since she is jealous."
-    },
-    {
-     "en": "Her uniform of virginity is only sick and green."
-    },
-    {
-     "en": "Only fools wear it; throw it off."
-    },
-    {
-     "en": "It is my lady. Oh, it is my love!"
-    },
-    {
-     "en": "Oh, if only she knew she was my love!"
-    },
-    {
-     "en": "She speaks, yet she says nothing. What of that?"
-    },
-    {
-     "en": "Her eyes communicate, and I will answer them."
-    },
-    {
-     "en": "I am too bold. She is not speaking to me."
-    },
-    {
-     "en": "Two of the most beautiful stars in all heaven have some business."
-    },
-    {
-     "en": "They ask her eyes to shine in their places until they return."
-    },
-    {
-     "en": "What if her eyes were there and those stars were in her head?"
-    },
-    {
-     "en": "The brightness of her cheek would shame those stars, just as daylight shames a lamp."
-    },
-    {
-     "en": "Her eyes in heaven would shine so brightly through the air that birds would sing and think it was not night."
-    },
-    {
-     "en": "See how she leans her cheek on her hand."
-    },
-    {
-     "en": "Oh, I wish I were a glove on that hand."
-    },
-    {
-     "en": "Then I could touch that cheek."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Wait, what light breaks through that window over there?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "It is the east, and Juliet is the sun!",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Rise, fair sun, and kill the envious moon.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "The moon is already sick and pale with grief.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "She is jealous because you, her servant, are far more beautiful than she is.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Do not be her servant since she is jealous.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Her uniform of virginity is only sick and green.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Only fools wear it; throw it off.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "It is my lady. Oh, it is my love!",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "Oh, if only she knew she was my love!",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "She speaks, yet she says nothing. What of that?",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "Her eyes communicate, and I will answer them.",
+    "ko": ""
+   },
+   {
+    "n": 13,
+    "en": "I am too bold. She is not speaking to me.",
+    "ko": ""
+   },
+   {
+    "n": 14,
+    "en": "Two of the most beautiful stars in all heaven have some business.",
+    "ko": ""
+   },
+   {
+    "n": 15,
+    "en": "They ask her eyes to shine in their places until they return.",
+    "ko": ""
+   },
+   {
+    "n": 16,
+    "en": "What if her eyes were there and those stars were in her head?",
+    "ko": ""
+   },
+   {
+    "n": 17,
+    "en": "The brightness of her cheek would shame those stars, just as daylight shames a lamp.",
+    "ko": ""
+   },
+   {
+    "n": 18,
+    "en": "Her eyes in heaven would shine so brightly through the air that birds would sing and think it was not night.",
+    "ko": ""
+   },
+   {
+    "n": 19,
+    "en": "See how she leans her cheek on her hand.",
+    "ko": ""
+   },
+   {
+    "n": 20,
+    "en": "Oh, I wish I were a glove on that hand.",
+    "ko": ""
+   },
+   {
+    "n": 21,
+    "en": "Then I could touch that cheek.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 314,
@@ -231,19 +187,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Ay me.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Oh, dear me."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Yes, me."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh, dear me.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 315,
@@ -255,58 +205,38 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "She speaks.\nO speak again bright angel, for thou art\nAs glorious to this night, being o’er my head,\nAs is a winged messenger of heaven\nUnto the white-upturned wondering eyes\nOf mortals that fall back to gaze on him\nWhen he bestrides the lazy-puffing clouds\nAnd sails upon the bosom of the air.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "She speaks."
-    },
-    {
-     "en": "Oh, speak again, bright angel."
-    },
-    {
-     "en": "You are as glorious to this night as a messenger from heaven."
-    },
-    {
-     "en": "You are like a heavenly messenger for the wide eyes of humans."
-    },
-    {
-     "en": "Humans look up in wonder at him."
-    },
-    {
-     "en": "He rides over the slow-moving clouds."
-    },
-    {
-     "en": "He sails across the air."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "She speaks."
-    },
-    {
-     "en": "Oh, speak again, bright angel."
-    },
-    {
-     "en": "You are as glorious to this night above my head."
-    },
-    {
-     "en": "You are like a winged messenger from heaven."
-    },
-    {
-     "en": "You appear before the wide and wondering eyes of humans."
-    },
-    {
-     "en": "These people look back in surprise as they watch you."
-    },
-    {
-     "en": "You ride on the slow-moving clouds."
-    },
-    {
-     "en": "You sail across the chest of the air."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "She speaks.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Oh, speak again, bright angel.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Up above my head tonight, you shine like an angel from heaven.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "People fall back and stare up at such an angel with wide, wondering eyes.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "He rides on the lazy, drifting clouds.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "He sails through the air.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 316,
@@ -318,37 +248,28 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "O Romeo, Romeo, wherefore art thou Romeo?\nDeny thy father and refuse thy name.\nOr if thou wilt not, be but sworn my love,\nAnd I’ll no longer be a Capulet.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Oh Romeo, Romeo, why are you Romeo?"
-    },
-    {
-     "en": "Give up your father and refuse your name."
-    },
-    {
-     "en": "Or if you will not, just promise to love me."
-    },
-    {
-     "en": "Then I will no longer be a Capulet."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Oh Romeo, Romeo, why are you Romeo?"
-    },
-    {
-     "en": "Deny your father and refuse your name."
-    },
-    {
-     "en": "Or if you will not, just swear that you love me."
-    },
-    {
-     "en": "Then I will no longer be a Capulet."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh Romeo, Romeo, why are you Romeo?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Deny your father and refuse your name.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Or if you will not, just swear that you love me.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Then I will no longer be a Capulet.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 317,
@@ -360,19 +281,13 @@
   "speaker": "ROMEO",
   "delivery": "Aside",
   "raw": "Shall I hear more, or shall I speak at this?",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Should I listen more, or should I speak now?"
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Shall I hear more, or shall I speak now?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Shall I hear more, or shall I speak now?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 318,
@@ -384,88 +299,63 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "’Tis but thy name that is my enemy;\nThou art thyself, though not a Montague.\nWhat’s Montague? It is nor hand nor foot,\nNor arm, nor face, nor any other part\nBelonging to a man. O be some other name.\nWhat’s in a name? That which we call a rose\nBy any other name would smell as sweet;\nSo Romeo would, were he not Romeo call’d,\nRetain that dear perfection which he owes\nWithout that title. Romeo, doff thy name,\nAnd for thy name, which is no part of thee,\nTake all myself.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "It is only your name that is my enemy."
-    },
-    {
-     "en": "You are yourself, even if you are not a Montague."
-    },
-    {
-     "en": "What is a Montague?"
-    },
-    {
-     "en": "It is not a hand or a foot."
-    },
-    {
-     "en": "It is not an arm, a face, or any other part of a man."
-    },
-    {
-     "en": "Oh, have some other name."
-    },
-    {
-     "en": "What is in a name?"
-    },
-    {
-     "en": "A rose would smell as sweet if we called it by another name."
-    },
-    {
-     "en": "Romeo would still be perfect if he were not called Romeo."
-    },
-    {
-     "en": "He would keep his perfection without that title."
-    },
-    {
-     "en": "Romeo, take off your name."
-    },
-    {
-     "en": "Take me instead of your name."
-    },
-    {
-     "en": "Your name is not a part of you."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "It is only your name that is my enemy."
-    },
-    {
-     "en": "You are yourself, even if you are not a Montague."
-    },
-    {
-     "en": "What is a Montague? It is not a hand or a foot."
-    },
-    {
-     "en": "It is not an arm, a face, or any other part of a man."
-    },
-    {
-     "en": "Oh, take some other name."
-    },
-    {
-     "en": "What is in a name?"
-    },
-    {
-     "en": "A rose would smell as sweet if we called it by another name."
-    },
-    {
-     "en": "So Romeo would keep his perfection if he were not called Romeo."
-    },
-    {
-     "en": "He would have that quality without the title."
-    },
-    {
-     "en": "Romeo, throw off your name."
-    },
-    {
-     "en": "Take all of me instead of your name."
-    },
-    {
-     "en": "Your name is not a part of you."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "It is only your name that is my enemy.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "You are yourself, even if you are not a Montague.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "What is a Montague? It is not a hand or a foot.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "It is not an arm, a face, or any other part of a man.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Oh, take some other name.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "What is in a name?",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "A rose would smell as sweet if we called it by another name.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "So Romeo would keep his perfection if he were not called Romeo.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "He would have that quality without the title.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "Romeo, throw off your name.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "Instead of your name, which is no part of you, take all of me.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 319,
@@ -477,31 +367,23 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "I take thee at thy word.\nCall me but love, and I’ll be new baptis’d;\nHenceforth I never will be Romeo.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "I believe what you say."
-    },
-    {
-     "en": "Just call me love, and I will be baptized again."
-    },
-    {
-     "en": "From now on, I will never be Romeo."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "I accept your promise."
-    },
-    {
-     "en": "Just call me love, and I will be baptized again."
-    },
-    {
-     "en": "From now on, I will never be Romeo."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I accept your promise.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Just call me love, and I will be baptized again.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "From now on, I will never be Romeo.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 320,
@@ -513,31 +395,23 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "What man art thou that, thus bescreen’d in night\nSo stumblest on my counsel?",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Who are you?"
-    },
-    {
-     "en": "Why do you hide in the night?"
-    },
-    {
-     "en": "Why do you ignore my advice?"
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "What man are you?"
-    },
-    {
-     "en": "You are hidden in the night."
-    },
-    {
-     "en": "How did you happen to overhear my private thoughts?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "What man are you?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "You are hidden in the night.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "How did you happen to overhear my private thoughts?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 321,
@@ -549,37 +423,28 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "By a name\nI know not how to tell thee who I am:\nMy name, dear saint, is hateful to myself,\nBecause it is an enemy to thee.\nHad I it written, I would tear the word.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "I do not know how to tell you who I am because of a name."
-    },
-    {
-     "en": "My name, dear saint, is hateful to me."
-    },
-    {
-     "en": "It is because it is an enemy to you."
-    },
-    {
-     "en": "If I had it written down, I would tear the word away."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "I do not know how to tell you who I am because of a name."
-    },
-    {
-     "en": "My name, dear saint, is hateful to me."
-    },
-    {
-     "en": "It is because it is an enemy to you."
-    },
-    {
-     "en": "If I had it written down, I would tear the word away."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I do not know how to tell you who I am because of a name.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "My name, dear saint, is hateful to me.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "It is because it is an enemy to you.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "If I had it written down, I would tear the word away.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 322,
@@ -591,31 +456,23 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "My ears have yet not drunk a hundred words\nOf thy tongue’s utterance, yet I know the sound.\nArt thou not Romeo, and a Montague?",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "I have not heard a hundred words from your mouth yet."
-    },
-    {
-     "en": "However, I know the sound of your voice."
-    },
-    {
-     "en": "Are you not Romeo and a Montague?"
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "I have not heard a hundred words from your mouth yet."
-    },
-    {
-     "en": "Still, I know the sound of your voice."
-    },
-    {
-     "en": "Are you not Romeo and a Montague?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I have not heard a hundred words from your mouth yet.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Still, I know the sound of your voice.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Are you not Romeo and a Montague?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 323,
@@ -627,19 +484,13 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "Neither, fair maid, if either thee dislike.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "I am neither, beautiful girl, if you dislike either of those things."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "I am neither, beautiful girl, if you dislike either of those things."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I am neither, beautiful girl, if you dislike either of those things.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 324,
@@ -651,37 +502,23 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "How cam’st thou hither, tell me, and wherefore?\nThe orchard walls are high and hard to climb,\nAnd the place death, considering who thou art,\nIf any of my kinsmen find thee here.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Tell me how you came here and why you are here."
-    },
-    {
-     "en": "The orchard walls are high and hard to climb."
-    },
-    {
-     "en": "This place is dangerous because of who you are."
-    },
-    {
-     "en": "It is dangerous if any of my relatives find you here."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Tell me how you came here and why."
-    },
-    {
-     "en": "The orchard walls are high and hard to climb."
-    },
-    {
-     "en": "This place is dangerous because of who you are."
-    },
-    {
-     "en": "It is dangerous if any of my relatives find you here."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Tell me how you came here and why.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "The orchard walls are high and hard to climb.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Because of who you are, this place means death if any of my relatives find you here.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 325,
@@ -693,37 +530,28 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "With love’s light wings did I o’erperch these walls,\nFor stony limits cannot hold love out,\nAnd what love can do, that dares love attempt:\nTherefore thy kinsmen are no stop to me.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "I flew over these walls on the wings of love."
-    },
-    {
-     "en": "Stone walls cannot stop love."
-    },
-    {
-     "en": "Anything that love tries to do will succeed."
-    },
-    {
-     "en": "Therefore, your relatives are not a stop for me."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "I flew over these walls on love's light wings."
-    },
-    {
-     "en": "Stone walls cannot keep love out."
-    },
-    {
-     "en": "What love can do, anything that dares love attempt."
-    },
-    {
-     "en": "Therefore, your relatives are no stop to me."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I flew over these walls on love's light wings.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Stone walls cannot keep love out.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Whatever love can do, love dares to try.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Therefore, your relatives are no stop to me.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 326,
@@ -735,19 +563,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "If they do see thee, they will murder thee.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "If they see you, they will kill you."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "If they see you, they will murder you."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "If they see you, they will murder you.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 327,
@@ -759,31 +581,18 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "Alack, there lies more peril in thine eye\nThan twenty of their swords. Look thou but sweet,\nAnd I am proof against their enmity.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Alas, there is more danger in your eyes."
-    },
-    {
-     "en": "There is more danger than twenty of their swords."
-    },
-    {
-     "en": "Just look sweet and beautiful."
-    },
-    {
-     "en": "Then I am safe from their hatred."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Oh no, there is more danger in your eyes than in twenty of their swords."
-    },
-    {
-     "en": "Just look sweet, and I will be protected from their hatred."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh no, there is more danger in your eyes than in twenty of their swords.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Just look sweet, and I will be protected from their hatred.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 328,
@@ -795,19 +604,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "I would not for the world they saw thee here.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "I would not want them to see you here for anything in the world."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "I would not let them see you here for anything."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I would not let them see you here for anything.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 329,
@@ -819,34 +622,23 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "I have night’s cloak to hide me from their eyes,\nAnd but thou love me, let them find me here.\nMy life were better ended by their hate\nThan death prorogued, wanting of thy love.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "I have the night's cloak to hide me from their eyes."
-    },
-    {
-     "en": "If you love me, let them find me here."
-    },
-    {
-     "en": "My life would be better ended by their hate."
-    },
-    {
-     "en": "It is better than living longer without your love."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "I have the night's cloak to hide me from their eyes."
-    },
-    {
-     "en": "And if you love me, let them find me here."
-    },
-    {
-     "en": "My life would be better ended by their hate than delayed without your love."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I have the night's cloak to hide me from their eyes.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "And if you love me, let them find me here.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "My life would be better ended by their hate than delayed without your love.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 330,
@@ -858,19 +650,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "By whose direction found’st thou out this place?",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Who told you about this place?"
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Who told you how to find this place?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Who told you how to find this place?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 331,
@@ -882,37 +668,28 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "By love, that first did prompt me to enquire;\nHe lent me counsel, and I lent him eyes.\nI am no pilot; yet wert thou as far\nAs that vast shore wash’d with the farthest sea,\nI should adventure for such merchandise.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Love first led me to ask about this place."
-    },
-    {
-     "en": "Love gave me advice, and I gave it my eyes."
-    },
-    {
-     "en": "I am not a pilot."
-    },
-    {
-     "en": "Even if you were as far away as that distant shore across the sea, I would risk everything for such precious goods."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Love first prompted me to ask."
-    },
-    {
-     "en": "It gave me advice, and I gave it eyes."
-    },
-    {
-     "en": "I am not a pilot."
-    },
-    {
-     "en": "Yet if you were as far as that vast shore washed by the distant sea, I would take the risk for such a prize."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Love first prompted me to ask.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "It gave me advice, and I gave it eyes.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I am not a pilot.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Yet if you were as far as that vast shore washed by the distant sea, I would take the risk for such a prize.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 332,
@@ -924,136 +701,108 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Thou knowest the mask of night is on my face,\nElse would a maiden blush bepaint my cheek\nFor that which thou hast heard me speak tonight.\nFain would I dwell on form, fain, fain deny\nWhat I have spoke; but farewell compliment.\nDost thou love me? I know thou wilt say Ay,\nAnd I will take thy word. Yet, if thou swear’st,\nThou mayst prove false. At lovers’ perjuries,\nThey say Jove laughs. O gentle Romeo,\nIf thou dost love, pronounce it faithfully.\nOr if thou thinkest I am too quickly won,\nI’ll frown and be perverse, and say thee nay,\nSo thou wilt woo. But else, not for the world.\nIn truth, fair Montague, I am too fond;\nAnd therefore thou mayst think my ’haviour light:\nBut trust me, gentleman, I’ll prove more true\nThan those that have more cunning to be strange.\nI should have been more strange, I must confess,\nBut that thou overheard’st, ere I was ’ware,\nMy true-love passion; therefore pardon me,\nAnd not impute this yielding to light love,\nWhich the dark night hath so discovered.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "You know the mask of night is on my face."
-    },
-    {
-     "en": "Otherwise, a girl's blush would be on my cheek because of what you heard me say tonight."
-    },
-    {
-     "en": "I would like to stay formal."
-    },
-    {
-     "en": "I would really like to deny what I said."
-    },
-    {
-     "en": "But I cannot keep up appearances anymore."
-    },
-    {
-     "en": "Do you love me?"
-    },
-    {
-     "en": "I know you will say yes, and I will believe your word."
-    },
-    {
-     "en": "However, if you swear it, you might prove false."
-    },
-    {
-     "en": "They say Jove laughs at the lies of lovers."
-    },
-    {
-     "en": "Oh gentle Romeo, if you love me, say it faithfully."
-    },
-    {
-     "en": "Or, if you think I fell for you too quickly, I will frown and be difficult."
-    },
-    {
-     "en": "I will say no so that you can try to win me over."
-    },
-    {
-     "en": "But otherwise, I would not do that for the world."
-    },
-    {
-     "en": "In truth, fair Montague, I am too fond of you."
-    },
-    {
-     "en": "Therefore, you might think my behavior is light."
-    },
-    {
-     "en": "But trust me, gentleman, I will prove more true than those who try to act strange."
-    },
-    {
-     "en": "I should have been more careful, I must admit."
-    },
-    {
-     "en": "You heard my true love before I was aware of it."
-    },
-    {
-     "en": "Please forgive me."
-    },
-    {
-     "en": "Do not think my easy surrender means I have light feelings."
-    },
-    {
-     "en": "The dark night just revealed them."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "You know the mask of night is on my face."
-    },
-    {
-     "en": "Otherwise, a maiden's blush would color my cheek for what you heard me say tonight."
-    },
-    {
-     "en": "I would gladly follow form."
-    },
-    {
-     "en": "I would gladly, gladly deny what I said."
-    },
-    {
-     "en": "But I give up polite behavior."
-    },
-    {
-     "en": "Do you love me?"
-    },
-    {
-     "en": "I know you will say yes, and I will take your word."
-    },
-    {
-     "en": "Yet, if you swear it, you might prove false."
-    },
-    {
-     "en": "They say Jove laughs at lovers' broken promises."
-    },
-    {
-     "en": "Oh gentle Romeo, if you love me, say it faithfully."
-    },
-    {
-     "en": "Or if you think I am too easily won, I will frown and be stubborn."
-    },
-    {
-     "en": "I will say no, so that you will try to win my love."
-    },
-    {
-     "en": "But otherwise, not for the world."
-    },
-    {
-     "en": "In truth, fair Montague, I am loving you too much."
-    },
-    {
-     "en": "Therefore you might think my behavior is not serious."
-    },
-    {
-     "en": "But trust me, gentleman, I will prove more true than those who are skilled at pretending not to care."
-    },
-    {
-     "en": "I should have been more distant, I must confess."
-    },
-    {
-     "en": "But you overheard my true love passion before I was aware."
-    },
-    {
-     "en": "Therefore forgive me."
-    },
-    {
-     "en": "Do not think this easy yielding is a light love, which the dark night has revealed."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "You know the mask of night is on my face.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Otherwise, a maiden's blush would color my cheek for what you heard me say tonight.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I would gladly act properly and politely.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "I would gladly, gladly deny what I said.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "But I give up polite behavior.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Do you love me?",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "I know you will say yes, and I will take your word.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Yet, if you swear it, you might prove false.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "They say Jove laughs at lovers' broken promises.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "Oh gentle Romeo, if you love me, say it faithfully.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "Or if you think I am too easily won, I will frown and be stubborn.",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "I will say no, so that you will try to win my love.",
+    "ko": ""
+   },
+   {
+    "n": 13,
+    "en": "But otherwise, not for the world.",
+    "ko": ""
+   },
+   {
+    "n": 14,
+    "en": "In truth, fair Montague, I love you too much.",
+    "ko": ""
+   },
+   {
+    "n": 15,
+    "en": "Therefore you might think my behavior is not serious.",
+    "ko": ""
+   },
+   {
+    "n": 16,
+    "en": "But trust me, gentleman, I will prove more true than those who are skilled at pretending not to care.",
+    "ko": ""
+   },
+   {
+    "n": 17,
+    "en": "I should have been more distant, I must confess.",
+    "ko": ""
+   },
+   {
+    "n": 18,
+    "en": "But you overheard my true love passion before I was aware.",
+    "ko": ""
+   },
+   {
+    "n": 19,
+    "en": "Therefore forgive me.",
+    "ko": ""
+   },
+   {
+    "n": 20,
+    "en": "Do not blame my quick yes on a light love; the dark night revealed it.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 333,
@@ -1065,22 +814,13 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "Lady, by yonder blessed moon I vow,\nThat tips with silver all these fruit-tree tops,—",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Lady, I swear by that blessed moon over there."
-    },
-    {
-     "en": "It covers all these fruit-tree tops with silver."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Lady, by that blessed moon over there I vow, that tips all these fruit-tree tops with silver—"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Lady, by that blessed moon over there I vow, that tips all these fruit-tree tops with silver—",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 334,
@@ -1092,37 +832,28 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "O swear not by the moon, th’inconstant moon,\nThat monthly changes in her circled orb,\nLest that thy love prove likewise variable.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Oh, do not swear by the moon."
-    },
-    {
-     "en": "The moon is inconsistent."
-    },
-    {
-     "en": "It changes its shape every month."
-    },
-    {
-     "en": "I do not want your love to change in the same way."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Oh, do not swear by the moon."
-    },
-    {
-     "en": "The moon is inconsistent."
-    },
-    {
-     "en": "It changes every month in its circle."
-    },
-    {
-     "en": "Lest your love prove just as changeable."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh, do not swear by the moon.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "The moon is always changing.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "It changes every month in its circle.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "I do not want your love to change like that.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 335,
@@ -1134,19 +865,13 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "What shall I swear by?",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "What should I swear by?"
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "What should I swear by?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "What should I swear by?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 336,
@@ -1158,37 +883,28 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Do not swear at all.\nOr if thou wilt, swear by thy gracious self,\nWhich is the god of my idolatry,\nAnd I’ll believe thee.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Do not swear at all."
-    },
-    {
-     "en": "Or if you want to, swear by yourself."
-    },
-    {
-     "en": "You are the god of my worship."
-    },
-    {
-     "en": "Then I will believe you."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Do not swear at all."
-    },
-    {
-     "en": "Or if you want to, swear by your gracious self."
-    },
-    {
-     "en": "You are the god of my worship."
-    },
-    {
-     "en": "Then I will believe you."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Do not swear at all.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Or if you want to, swear by your gracious self.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "You are the god of my worship.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Then I will believe you.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 337,
@@ -1200,19 +916,13 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "If my heart’s dear love,—",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "If my heart's dear love—"
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "If my heart's dear love—"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "If my heart's dear love—",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 338,
@@ -1224,88 +934,58 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Well, do not swear. Although I joy in thee,\nI have no joy of this contract tonight;\nIt is too rash, too unadvis’d, too sudden,\nToo like the lightning, which doth cease to be\nEre one can say “It lightens.” Sweet, good night.\nThis bud of love, by summer’s ripening breath,\nMay prove a beauteous flower when next we meet.\nGood night, good night. As sweet repose and rest\nCome to thy heart as that within my breast.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Well, do not swear."
-    },
-    {
-     "en": "I am happy with you."
-    },
-    {
-     "en": "However, I do not enjoy this agreement tonight."
-    },
-    {
-     "en": "It is too fast and not planned well."
-    },
-    {
-     "en": "It is too sudden."
-    },
-    {
-     "en": "It is like lightning."
-    },
-    {
-     "en": "Lightning disappears before someone can say 'It is lightning.'"
-    },
-    {
-     "en": "Good night."
-    },
-    {
-     "en": "This bud of love may become a beautiful flower."
-    },
-    {
-     "en": "It will happen when we meet next time."
-    },
-    {
-     "en": "Good night, good night."
-    },
-    {
-     "en": "May your heart find sweet rest."
-    },
-    {
-     "en": "May my heart also find sweet rest."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Well, do not swear."
-    },
-    {
-     "en": "Although I find joy in you, I have no joy in this contract tonight."
-    },
-    {
-     "en": "It is too rash and not thought through."
-    },
-    {
-     "en": "It is too sudden."
-    },
-    {
-     "en": "It is like lightning."
-    },
-    {
-     "en": "Lightning stops before one can say 'It lightens'."
-    },
-    {
-     "en": "Good night."
-    },
-    {
-     "en": "This bud of love may become a beautiful flower."
-    },
-    {
-     "en": "It will happen when we meet next time."
-    },
-    {
-     "en": "Good night, good night."
-    },
-    {
-     "en": "May peaceful rest come to your heart."
-    },
-    {
-     "en": "It comes to my heart as well."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Well, do not swear.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Although I find joy in you, I have no joy in this contract tonight.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "It is too rash and not thought through.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "It is too sudden.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "It is like lightning.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Lightning stops before one can say 'It lightens'.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Good night.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "With summer's warm breath, this bud of love may be a beautiful flower when we next meet.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "Good night, good night.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "May the same sweet peace that is in my heart come to your heart.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 339,
@@ -1317,19 +997,13 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "O wilt thou leave me so unsatisfied?",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Oh, will you leave me so unsatisfied?"
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Oh, will you leave me so unsatisfied?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh, will you leave me so unsatisfied?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 340,
@@ -1341,19 +1015,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "What satisfaction canst thou have tonight?",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "What satisfaction can you have tonight?"
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "What satisfaction can you have tonight?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "What satisfaction can you have tonight?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 341,
@@ -1365,19 +1033,13 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "Th’exchange of thy love’s faithful vow for mine.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "I want your faithful promise of love in exchange for mine."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "The exchange of your faithful vow for mine."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "The exchange of your faithful vow for mine.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 342,
@@ -1389,25 +1051,18 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "I gave thee mine before thou didst request it;\nAnd yet I would it were to give again.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "I gave you my promise before you even asked for it."
-    },
-    {
-     "en": "And yet, I wish I could give it to you again."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "I gave you mine before you asked for it."
-    },
-    {
-     "en": "And yet I wish I could give it again."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I gave you mine before you asked for it.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "And yet I wish I could give it again.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 343,
@@ -1419,25 +1074,18 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "Would’st thou withdraw it? For what purpose, love?",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Would you take it back?"
-    },
-    {
-     "en": "For what reason, my love?"
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Would you take it back?"
-    },
-    {
-     "en": "For what reason, my love?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Would you take it back?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "For what reason, my love?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 344,
@@ -1449,61 +1097,48 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "But to be frank and give it thee again.\nAnd yet I wish but for the thing I have;\nMy bounty is as boundless as the sea,\nMy love as deep; the more I give to thee,\nThe more I have, for both are infinite.\nI hear some noise within. Dear love, adieu.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "I want to be honest and give it to you again."
-    },
-    {
-     "en": "However, I only want the thing I already have."
-    },
-    {
-     "en": "My generosity is as endless as the sea."
-    },
-    {
-     "en": "My love is just as deep."
-    },
-    {
-     "en": "The more I give to you, the more I have."
-    },
-    {
-     "en": "Both are infinite."
-    },
-    {
-     "en": "I hear some noise inside."
-    },
-    {
-     "en": "My dear love, goodbye."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "I want to be generous and give it to you again."
-    },
-    {
-     "en": "Yet I only want the thing I already have."
-    },
-    {
-     "en": "My generosity is as boundless as the sea."
-    },
-    {
-     "en": "My love is just as deep."
-    },
-    {
-     "en": "The more I give to you, the more I have."
-    },
-    {
-     "en": "Both are infinite."
-    },
-    {
-     "en": "I hear some noise from inside."
-    },
-    {
-     "en": "My dear love, goodbye."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I want to be generous and give it to you again.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Yet I only want the thing I already have.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "My generosity is as boundless as the sea.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "My love is just as deep.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "The more I give to you, the more I have.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Both are infinite.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "I hear some noise from inside.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "My dear love, goodbye.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 345,
@@ -1515,19 +1150,13 @@
   "speaker": null,
   "delivery": null,
   "raw": "Nurse calls within.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "The Nurse calls from inside."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "The Nurse calls from inside."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "The Nurse calls from inside.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 346,
@@ -1539,37 +1168,28 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Anon, good Nurse!—Sweet Montague be true.\nStay but a little, I will come again.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Come quickly, good Nurse!"
-    },
-    {
-     "en": "Sweet Montague, be true."
-    },
-    {
-     "en": "Wait just a little bit."
-    },
-    {
-     "en": "I will come back again."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Coming, good Nurse!"
-    },
-    {
-     "en": "Sweet Montague, be true."
-    },
-    {
-     "en": "Wait just a little."
-    },
-    {
-     "en": "I will come back again."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Coming, good Nurse!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Sweet Montague, be true.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Wait just a little.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "I will come back again.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 347,
@@ -1593,34 +1213,28 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "O blessed, blessed night. I am afeard,\nBeing in night, all this is but a dream,\nToo flattering sweet to be substantial.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Oh, blessed, blessed night."
-    },
-    {
-     "en": "I am afraid that this is only a dream because it is night."
-    },
-    {
-     "en": "It is too sweet to be real."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Oh, blessed, blessed night."
-    },
-    {
-     "en": "I am afraid."
-    },
-    {
-     "en": "Since it is night, all of this might be a dream."
-    },
-    {
-     "en": "It is too sweet to be real."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh, blessed, blessed night.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I am afraid.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Since it is night, all of this might be a dream.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "It is too sweet to be real.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 349,
@@ -1632,19 +1246,13 @@
   "speaker": null,
   "delivery": null,
   "raw": "Enter Juliet above.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Juliet enters above."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Juliet enters above."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Juliet comes back to the window.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 350,
@@ -1656,49 +1264,38 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Three words, dear Romeo, and good night indeed.\nIf that thy bent of love be honourable,\nThy purpose marriage, send me word tomorrow,\nBy one that I’ll procure to come to thee,\nWhere and what time thou wilt perform the rite,\nAnd all my fortunes at thy foot I’ll lay\nAnd follow thee my lord throughout the world.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Three words, dear Romeo, and it is truly good night."
-    },
-    {
-     "en": "If your love is honorable and your plan is marriage, send me word tomorrow."
-    },
-    {
-     "en": "I will find someone to come to you."
-    },
-    {
-     "en": "They will tell you where and at what time you will perform the ceremony."
-    },
-    {
-     "en": "I will give all my fortune at your feet."
-    },
-    {
-     "en": "I will follow you as my lord throughout the world."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Three words, dear Romeo, and good night indeed."
-    },
-    {
-     "en": "If your love is honorable, and your plan is marriage, send me word tomorrow."
-    },
-    {
-     "en": "I will find someone to come to you."
-    },
-    {
-     "en": "They will tell me where and what time you will perform the wedding."
-    },
-    {
-     "en": "I will give all my fortunes at your feet."
-    },
-    {
-     "en": "I will follow you as my lord throughout the world."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Three words, dear Romeo, and good night indeed.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "If your love is honorable, and your plan is marriage, send me word tomorrow.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I will find someone to come to you.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Through that person, tell me where and at what time we will marry.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "I will give all my fortunes at your feet.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "I will follow you as my lord throughout the world.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 351,
@@ -1710,19 +1307,13 @@
   "speaker": "NURSE",
   "delivery": "Within",
   "raw": "Madam.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Madam."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Madam."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Madam.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 352,
@@ -1734,25 +1325,18 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "I come, anon.— But if thou meanest not well,\nI do beseech thee,—",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "I am coming soon."
-    },
-    {
-     "en": "But if you do not mean well, I beg you."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "I am coming right away."
-    },
-    {
-     "en": "But if you do not mean well, I beg you—"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I am coming right away.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "But if you do not mean well, I beg you—",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 353,
@@ -1764,19 +1348,13 @@
   "speaker": "NURSE",
   "delivery": "Within",
   "raw": "Madam.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Madam."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Madam."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Madam.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 354,
@@ -1788,31 +1366,23 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "By and by I come—\nTo cease thy strife and leave me to my grief.\nTomorrow will I send.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "I will come in a moment."
-    },
-    {
-     "en": "Stop your arguing and leave me to my sadness."
-    },
-    {
-     "en": "I will send word tomorrow."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "I will come in a moment."
-    },
-    {
-     "en": "Stop your fighting and leave me to my sadness."
-    },
-    {
-     "en": "I will send word tomorrow."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I will come in a moment.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Stop trying, and leave me to my sadness.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I will send word tomorrow.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 355,
@@ -1824,19 +1394,13 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "So thrive my soul,—",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "May my soul be blessed."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "May my soul thrive."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "As I hope for heaven—",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 356,
@@ -1848,19 +1412,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "A thousand times good night.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Good night a thousand times."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Good night a thousand times."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Good night a thousand times.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 357,
@@ -1884,31 +1442,23 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "A thousand times the worse, to want thy light.\nLove goes toward love as schoolboys from their books,\nBut love from love, towards school with heavy looks.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "It is a thousand times worse to lose your light."
-    },
-    {
-     "en": "Love moves toward love like schoolboys leaving their books."
-    },
-    {
-     "en": "But love from love moves toward school with sad faces."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "It is a thousand times worse to lose your light."
-    },
-    {
-     "en": "Love moves toward love like schoolboys leave their books."
-    },
-    {
-     "en": "But love from love moves toward school with sad looks."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "It is a thousand times worse without your light.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Love goes toward love as happily as schoolboys leave their books.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "But love leaves love as sadly as schoolboys go to school.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 359,
@@ -1920,19 +1470,13 @@
   "speaker": null,
   "delivery": null,
   "raw": "Retiring slowly.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Romeo leaves slowly."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Romeo and Juliet leave slowly."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Romeo moves away slowly.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 360,
@@ -1944,19 +1488,13 @@
   "speaker": null,
   "delivery": null,
   "raw": "Re-enter Juliet, above.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Juliet enters above."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Juliet enters above."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Juliet comes back to the window.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 361,
@@ -1968,58 +1506,43 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Hist! Romeo, hist! O for a falconer’s voice\nTo lure this tassel-gentle back again.\nBondage is hoarse and may not speak aloud,\nElse would I tear the cave where Echo lies,\nAnd make her airy tongue more hoarse than mine\nWith repetition of my Romeo’s name.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Listen!"
-    },
-    {
-     "en": "Romeo, listen!"
-    },
-    {
-     "en": "Oh, I wish I had a falconer's voice."
-    },
-    {
-     "en": "I want to call this gentle man back."
-    },
-    {
-     "en": "A prisoner is hoarse and cannot speak loudly."
-    },
-    {
-     "en": "If I could speak loudly, I would destroy the cave where Echo lives."
-    },
-    {
-     "en": "I would make her thin voice even more hoarse than mine."
-    },
-    {
-     "en": "This is because of how many times I repeat your name, Romeo."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Listen! Romeo, listen!"
-    },
-    {
-     "en": "Oh, I wish for a falconer's voice."
-    },
-    {
-     "en": "I want to call this male falcon back again."
-    },
-    {
-     "en": "I am not free and cannot speak loudly."
-    },
-    {
-     "en": "If I could speak loudly, I would destroy the cave where Echo lives."
-    },
-    {
-     "en": "I would make her thin voice even more hoarse than mine."
-    },
-    {
-     "en": "She is always repeating my Romeo's name."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Psst! Romeo, psst!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Oh, I wish for a falconer's voice.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I want to call this male falcon back again.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "I am not free and cannot speak loudly.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "If I could speak loudly, I would destroy the cave where Echo lives.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "I would make her thin voice even more hoarse than mine.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "I would do it by making her repeat my Romeo's name over and over.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 362,
@@ -2031,31 +1554,23 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "It is my soul that calls upon my name.\nHow silver-sweet sound lovers’ tongues by night,\nLike softest music to attending ears.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "It is my soul that calls out your name."
-    },
-    {
-     "en": "How sweet and clear lovers' voices sound at night."
-    },
-    {
-     "en": "They sound like soft music to the ears that listen."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "It is my soul that calls out your name."
-    },
-    {
-     "en": "How sweet lovers' voices sound at night."
-    },
-    {
-     "en": "They sound like soft music to the ears of those listening."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "It is my soul that calls my name.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "How sweet lovers' voices sound at night.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "They sound like soft music to the ears of those listening.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 363,
@@ -2067,19 +1582,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Romeo.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Romeo."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Romeo."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Romeo.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 364,
@@ -2091,19 +1600,13 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "My dear?",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "My dear?"
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "My dear?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "My dear?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 365,
@@ -2115,19 +1618,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "What o’clock tomorrow\nShall I send to thee?",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "What time tomorrow should I send for you?"
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "What time tomorrow should I send for you?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "What time tomorrow should I send for you?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 366,
@@ -2139,19 +1636,13 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "By the hour of nine.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "At nine o'clock."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "At nine o'clock."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "At nine o'clock.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 367,
@@ -2163,31 +1654,23 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "I will not fail. ’Tis twenty years till then.\nI have forgot why I did call thee back.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "I will not fail."
-    },
-    {
-     "en": "It is twenty years until then."
-    },
-    {
-     "en": "I forgot why I called you back."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "I will not fail."
-    },
-    {
-     "en": "It is twenty years until then."
-    },
-    {
-     "en": "I have forgotten why I called you back."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I will not fail.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "It is twenty years until then.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I have forgotten why I called you back.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 368,
@@ -2199,19 +1682,13 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "Let me stand here till thou remember it.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Let me stand here until you remember it."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Let me stand here until you remember it."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Let me stand here until you remember it.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 369,
@@ -2223,31 +1700,18 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "I shall forget, to have thee still stand there,\nRemembering how I love thy company.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "I will forget."
-    },
-    {
-     "en": "I want you to stay here."
-    },
-    {
-     "en": "I remember how much I love your company."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "I will forget."
-    },
-    {
-     "en": "I want you to stay here."
-    },
-    {
-     "en": "I remember how much I love your company."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I will keep forgetting, so that you stay there.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I will only remember how much I love being with you.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 370,
@@ -2259,31 +1723,18 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "And I’ll still stay, to have thee still forget,\nForgetting any other home but this.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "And I will stay."
-    },
-    {
-     "en": "I want you to forget."
-    },
-    {
-     "en": "I will forget any other home but this place."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "And I will stay."
-    },
-    {
-     "en": "I want you to forget everything else."
-    },
-    {
-     "en": "I will forget any other home but this place."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "And I will stay, so that you keep forgetting.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I will forget any home but this one.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 371,
@@ -2295,55 +1746,38 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "’Tis almost morning; I would have thee gone,\nAnd yet no farther than a wanton’s bird,\nThat lets it hop a little from her hand,\nLike a poor prisoner in his twisted gyves,\nAnd with a silk thread plucks it back again,\nSo loving-jealous of his liberty.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "It is almost morning."
-    },
-    {
-     "en": "I want you to leave now."
-    },
-    {
-     "en": "However, you are like a bird of a woman."
-    },
-    {
-     "en": "The bird hops a little from her hand."
-    },
-    {
-     "en": "It is like a poor prisoner in twisted chains."
-    },
-    {
-     "en": "A silk thread pulls it back again."
-    },
-    {
-     "en": "The owner is jealous of its freedom."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "It is almost morning."
-    },
-    {
-     "en": "I want you to leave now."
-    },
-    {
-     "en": "Yet you are like a bird in the hand of a woman."
-    },
-    {
-     "en": "The bird hops a little from her hand."
-    },
-    {
-     "en": "It is like a poor prisoner in his twisted chains."
-    },
-    {
-     "en": "A silk thread pulls it back again."
-    },
-    {
-     "en": "The owner is jealous of its freedom."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "It is almost morning.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I want you to go.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "But no farther than a spoiled child's pet bird.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "She lets it hop a little from her hand, like a poor prisoner in chains.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Then she pulls it back again with a silk thread.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "She loves it too much to let it be free.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 372,
@@ -2355,19 +1789,13 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "I would I were thy bird.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "I wish I were your bird."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "I wish I were your bird."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I wish I were your bird.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 373,
@@ -2379,43 +1807,33 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Sweet, so would I:\nYet I should kill thee with much cherishing.\nGood night, good night. Parting is such sweet sorrow\nThat I shall say good night till it be morrow.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "Sweet, I would too."
-    },
-    {
-     "en": "But I would kill you if I held you too close."
-    },
-    {
-     "en": "Good night, good night."
-    },
-    {
-     "en": "Parting is such sweet sorrow."
-    },
-    {
-     "en": "I will say good night until tomorrow."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "Sweet, I would too."
-    },
-    {
-     "en": "But I would kill you if I held you too closely."
-    },
-    {
-     "en": "Good night, good night."
-    },
-    {
-     "en": "Parting is such sweet sorrow."
-    },
-    {
-     "en": "I will say good night until tomorrow."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Sweet, I would too.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "But I would kill you if I held you too closely.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Good night, good night.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Parting is such sweet sorrow.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "I could keep saying good night until morning.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 374,
@@ -2439,46 +1857,28 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "Sleep dwell upon thine eyes, peace in thy breast.\nWould I were sleep and peace, so sweet to rest.\nHence will I to my ghostly Sire’s cell,\nHis help to crave and my dear hap to tell.",
-  "sentences": [],
-  "drafts": {
-   "gemma4": [
-    {
-     "en": "May sleep stay on your eyes."
-    },
-    {
-     "en": "May peace be in your chest."
-    },
-    {
-     "en": "I wish I were sleep and peace."
-    },
-    {
-     "en": "I would be so sweet to rest."
-    },
-    {
-     "en": "Now I go to my father's grave."
-    },
-    {
-     "en": "I will ask for his help."
-    },
-    {
-     "en": "I will tell him of my good luck."
-    }
-   ],
-   "gemma4_gloss": [
-    {
-     "en": "May sleep fall on your eyes and peace be in your breast."
-    },
-    {
-     "en": "I wish I were sleep and peace to give you such a sweet rest."
-    },
-    {
-     "en": "I must go now to my priest's small room."
-    },
-    {
-     "en": "I will ask for his help and tell him my good fortune."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "May sleep fall on your eyes and peace be in your breast.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I wish I were sleep and peace to give you such a sweet rest.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I must go now to my priest's small room.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "I will ask for his help and tell him my good fortune.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 376,
