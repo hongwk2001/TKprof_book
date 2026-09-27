@@ -33,17 +33,18 @@
   "speaker": "FRIAR JOHN",
   "delivery": null,
   "raw": "Holy Franciscan Friar! Brother, ho!",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Holy Franciscan Friar!"
-    },
-    {
-     "en": "Brother, hello!"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Holy Franciscan Friar!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Brother, hello!",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 974,
@@ -67,23 +68,28 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "This same should be the voice of Friar John.\nWelcome from Mantua. What says Romeo?\nOr, if his mind be writ, give me his letter.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "This should be the voice of Friar John."
-    },
-    {
-     "en": "Welcome from Mantua."
-    },
-    {
-     "en": "What does Romeo say?"
-    },
-    {
-     "en": "Or, if he has written his thoughts, give me his letter."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "This should be the voice of Friar John.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Welcome from Mantua.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "What does Romeo say?",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Or, if he has written his thoughts, give me his letter.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 976,
@@ -95,35 +101,33 @@
   "speaker": "FRIAR JOHN",
   "delivery": null,
   "raw": "Going to find a barefoot brother out,\nOne of our order, to associate me,\nHere in this city visiting the sick,\nAnd finding him, the searchers of the town,\nSuspecting that we both were in a house\nWhere the infectious pestilence did reign,\nSeal’d up the doors, and would not let us forth,\nSo that my speed to Mantua there was stay’d.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "I went to find a barefoot brother."
-    },
-    {
-     "en": "He was one of our order."
-    },
-    {
-     "en": "He was here in this city visiting the sick."
-    },
-    {
-     "en": "The town officials found us."
-    },
-    {
-     "en": "They suspected that we were both in a house."
-    },
-    {
-     "en": "A deadly disease was there."
-    },
-    {
-     "en": "They locked the doors and would not let us out."
-    },
-    {
-     "en": "Therefore, my trip to Mantua was stopped."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I went to find another barefoot friar of our order to go with me.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "He was here in this city visiting the sick.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "When I found him, the town health officers thought we had both been in a house where the plague was spreading.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "They sealed the doors and would not let us out.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "So my trip to Mantua was stopped.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 977,
@@ -135,14 +139,13 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "Who bare my letter then to Romeo?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Who will carry my letter to Romeo?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Then who carried my letter to Romeo?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 978,
@@ -154,23 +157,28 @@
   "speaker": "FRIAR JOHN",
   "delivery": null,
   "raw": "I could not send it,—here it is again,—\nNor get a messenger to bring it thee,\nSo fearful were they of infection.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "I could not send it."
-    },
-    {
-     "en": "Here it is now."
-    },
-    {
-     "en": "I could not find a messenger to bring it to you."
-    },
-    {
-     "en": "They were very afraid of the infection."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I could not send it.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Here it is now.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I could not find a messenger to bring it to you.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "They were very afraid of the infection.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 979,
@@ -182,32 +190,43 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "Unhappy fortune! By my brotherhood,\nThe letter was not nice, but full of charge,\nOf dear import, and the neglecting it\nMay do much danger. Friar John, go hence,\nGet me an iron crow and bring it straight\nUnto my cell.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Unfortunate luck!"
-    },
-    {
-     "en": "By my brotherhood, the letter was not simple."
-    },
-    {
-     "en": "It was full of important instructions."
-    },
-    {
-     "en": "Ignoring it may cause much danger."
-    },
-    {
-     "en": "Friar John, go away from here."
-    },
-    {
-     "en": "Get me an iron crow."
-    },
-    {
-     "en": "Bring it straight to my cell."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Unfortunate luck!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "By my brotherhood, the letter was not simple.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "It was full of important instructions.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Ignoring it may cause much danger.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Friar John, go now.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Get me an iron crowbar.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Bring it straight to my cell.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 980,
@@ -219,14 +238,13 @@
   "speaker": "FRIAR JOHN",
   "delivery": null,
   "raw": "Brother, I’ll go and bring it thee.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Brother, I will go and bring it to you."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Brother, I will go and bring it to you.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 981,
@@ -250,29 +268,38 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "Now must I to the monument alone.\nWithin this three hours will fair Juliet wake.\nShe will beshrew me much that Romeo\nHath had no notice of these accidents;\nBut I will write again to Mantua,\nAnd keep her at my cell till Romeo come.\nPoor living corse, clos’d in a dead man’s tomb.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Now I must go to the monument alone."
-    },
-    {
-     "en": "Juliet will wake in three hours."
-    },
-    {
-     "en": "She will scold me because Romeo did not know about these events."
-    },
-    {
-     "en": "But I will write to Mantua again."
-    },
-    {
-     "en": "I will keep her in my cell until Romeo comes."
-    },
-    {
-     "en": "Poor living body, trapped in a dead man's tomb."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Now I must go to the monument alone.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Juliet will wake in three hours.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "She will scold me because Romeo did not know about these events.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "But I will write to Mantua again.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "I will keep her in my cell until Romeo comes.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Poor living body, trapped in a dead man's tomb.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 983,
