@@ -21,14 +21,13 @@
   "speaker": null,
   "delivery": null,
   "raw": "Enter Capulet, Lady Capulet, Nurse and Servants.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Capulet, Lady Capulet, the Nurse, and Servants enter."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Capulet, Lady Capulet, the Nurse, and Servants enter.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 828,
@@ -40,14 +39,13 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "So many guests invite as here are writ.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Invite as many guests as are written here."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Invite as many guests as are written here.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 829,
@@ -71,14 +69,13 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "Sirrah, go hire me twenty cunning cooks.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "You there, go hire twenty skilled cooks for me."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "You there, go hire twenty skilled cooks for me.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 831,
@@ -90,17 +87,18 @@
   "speaker": "SECOND SERVANT",
   "delivery": null,
   "raw": "You shall have none ill, sir; for I’ll try if they can lick their\nfingers.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "You will not have any bad ones, sir."
-    },
-    {
-     "en": "I will check if they can lick their fingers."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "You will not have any bad ones, sir.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I will check if they can lick their fingers.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 832,
@@ -112,14 +110,13 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "How canst thou try them so?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "How can you test them like that?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "How can you test them like that?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 833,
@@ -131,17 +128,18 @@
   "speaker": "SECOND SERVANT",
   "delivery": null,
   "raw": "Marry, sir, ’tis an ill cook that cannot lick his own fingers;\ntherefore he that cannot lick his fingers goes not with me.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Indeed, sir, it is a bad cook who cannot lick his own fingers."
-    },
-    {
-     "en": "Therefore, anyone who cannot lick their fingers will not come with me."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Well, sir, it is a bad cook who cannot lick his own fingers.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Therefore, anyone who cannot lick their fingers will not come with me.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 834,
@@ -153,14 +151,13 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "Go, begone.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Go away."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Go away.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 835,
@@ -184,17 +181,18 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "We shall be much unfurnish’d for this time.\nWhat, is my daughter gone to Friar Lawrence?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "We will be very short of staff for this event."
-    },
-    {
-     "en": "Has my daughter gone to Friar Lawrence?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "We will be very short of staff for this event.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Has my daughter gone to Friar Lawrence?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 837,
@@ -206,14 +204,13 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "Ay, forsooth.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Yes, truly."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Yes, truly.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 838,
@@ -225,17 +222,18 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "Well, he may chance to do some good on her.\nA peevish self-will’d harlotry it is.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Well, he might do some good for her."
-    },
-    {
-     "en": "It is just a stubborn and selfish behavior."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Well, he might do her some good.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "She is a stubborn, spoiled, selfish girl.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 839,
@@ -259,14 +257,13 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "See where she comes from shrift with merry look.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Look, she is coming from confession with a happy look."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Look, she is coming from confession with a happy look.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 841,
@@ -278,17 +275,18 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "How now, my headstrong. Where have you been gadding?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "How now, my headstrong girl."
-    },
-    {
-     "en": "Where have you been wandering?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Well, my stubborn girl!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Where have you been running around?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 842,
@@ -300,29 +298,38 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Where I have learnt me to repent the sin\nOf disobedient opposition\nTo you and your behests; and am enjoin’d\nBy holy Lawrence to fall prostrate here,\nTo beg your pardon. Pardon, I beseech you.\nHenceforward I am ever rul’d by you.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "I have learned to repent for my sin."
-    },
-    {
-     "en": "I disobeyed you and your orders."
-    },
-    {
-     "en": "Holy Lawrence told me to fall here before you."
-    },
-    {
-     "en": "I am asking for your pardon."
-    },
-    {
-     "en": "Please forgive me."
-    },
-    {
-     "en": "From now on, I will always obey you."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I have learned to repent for my sin.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I disobeyed you and your orders.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Holy Lawrence told me to fall here before you.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "I am asking for your pardon.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Please forgive me.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "From now on, I will always obey you.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 843,
@@ -334,17 +341,18 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "Send for the County, go tell him of this.\nI’ll have this knot knit up tomorrow morning.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Send for the Count and tell him about this."
-    },
-    {
-     "en": "I will have this matter settled tomorrow morning."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Send for the Count and tell him about this.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I will have this wedding knot tied tomorrow morning.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 844,
@@ -356,20 +364,23 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "I met the youthful lord at Lawrence’ cell,\nAnd gave him what becomed love I might,\nNot stepping o’er the bounds of modesty.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "I met the young lord at Lawrence's room."
-    },
-    {
-     "en": "I showed him love in a proper way."
-    },
-    {
-     "en": "I did not go beyond the limits of modesty."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I met the young lord at Lawrence's cell.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I showed him love in a proper way.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I did not go beyond the limits of modesty.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 845,
@@ -381,35 +392,48 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "Why, I am glad on’t. This is well. Stand up.\nThis is as’t should be. Let me see the County.\nAy, marry. Go, I say, and fetch him hither.\nNow afore God, this reverend holy Friar,\nAll our whole city is much bound to him.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "I am glad about this."
-    },
-    {
-     "en": "This is good."
-    },
-    {
-     "en": "Stand up."
-    },
-    {
-     "en": "This is how it should be."
-    },
-    {
-     "en": "Let me see the Count."
-    },
-    {
-     "en": "Yes, indeed."
-    },
-    {
-     "en": "Go and fetch him here."
-    },
-    {
-     "en": "Before God, our whole city owes much to this holy Friar."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I am glad about this.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "This is good.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Stand up.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "This is how it should be.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Let me see the Count.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Yes, yes.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Go and fetch him here.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Before God, our whole city owes much to this holy Friar.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 846,
@@ -421,20 +445,23 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Nurse, will you go with me into my closet,\nTo help me sort such needful ornaments\nAs you think fit to furnish me tomorrow?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Nurse, will you go into my room with me?"
-    },
-    {
-     "en": "You can help me choose the necessary jewelry."
-    },
-    {
-     "en": "Choose the items that you think are right for me to wear tomorrow."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Nurse, will you go into my room with me?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "You can help me choose the necessary jewelry.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Choose the items that you think are right for me to wear tomorrow.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 847,
@@ -446,17 +473,18 @@
   "speaker": "LADY CAPULET",
   "delivery": null,
   "raw": "No, not till Thursday. There is time enough.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "No, not until Thursday."
-    },
-    {
-     "en": "There is enough time."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "No, not until Thursday.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "There is enough time.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 848,
@@ -468,17 +496,18 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "Go, Nurse, go with her. We’ll to church tomorrow.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Go, Nurse, go with her."
-    },
-    {
-     "en": "We will go to church tomorrow."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Go, Nurse, go with her.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "We will go to church tomorrow.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 849,
@@ -502,17 +531,18 @@
   "speaker": "LADY CAPULET",
   "delivery": null,
   "raw": "We shall be short in our provision,\n’Tis now near night.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "We will not have enough supplies."
-    },
-    {
-     "en": "It is almost night."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "We will not have enough supplies.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "It is almost night.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 851,
@@ -524,41 +554,58 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "Tush, I will stir about,\nAnd all things shall be well, I warrant thee, wife.\nGo thou to Juliet, help to deck up her.\nI’ll not to bed tonight, let me alone.\nI’ll play the housewife for this once.—What, ho!—\nThey are all forth: well, I will walk myself\nTo County Paris, to prepare him up\nAgainst tomorrow. My heart is wondrous light\nSince this same wayward girl is so reclaim’d.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Hush, I will take care of things."
-    },
-    {
-     "en": "Everything will be fine, I promise you, wife."
-    },
-    {
-     "en": "Go to Juliet and help her get dressed."
-    },
-    {
-     "en": "I will not go to bed tonight."
-    },
-    {
-     "en": "Leave me alone."
-    },
-    {
-     "en": "I will do the housework just this once."
-    },
-    {
-     "en": "They are all out."
-    },
-    {
-     "en": "Well, I will walk to County Paris."
-    },
-    {
-     "en": "I will prepare him for tomorrow."
-    },
-    {
-     "en": "My heart is light because this stubborn girl has changed her ways."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Nonsense, I will take care of things.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Everything will be fine, I promise you, wife.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Go to Juliet and help her get dressed.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "I will not go to bed tonight.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Leave me alone.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "I will do the housework just this once.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "They are all out.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Well, I will walk to Count Paris myself.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "I will prepare him for tomorrow.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "My heart is light because this stubborn girl has changed her ways.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 852,
