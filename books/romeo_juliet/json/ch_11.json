@@ -1,0 +1,327 @@
+[
+ {
+  "id": 525,
+  "tag": "P0525",
+  "chapter_id": "ch_11",
+  "act": 2,
+  "scene": 6,
+  "type": "header",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Act 2, Scene 6 — Friar Lawrence’s Cell",
+  "sentences": []
+ },
+ {
+  "id": 526,
+  "tag": "P0526",
+  "chapter_id": "ch_11",
+  "act": 2,
+  "scene": 6,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Friar Lawrence and Romeo.",
+  "sentences": []
+ },
+ {
+  "id": 527,
+  "tag": "P0527",
+  "chapter_id": "ch_11",
+  "act": 2,
+  "scene": 6,
+  "type": "speech",
+  "speaker": "FRIAR LAWRENCE",
+  "delivery": null,
+  "raw": "So smile the heavens upon this holy act\nThat after-hours with sorrow chide us not.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "May heaven smile on this holy act."
+    },
+    {
+     "en": "May it not cause us sorrow later."
+    }
+   ]
+  }
+ },
+ {
+  "id": 528,
+  "tag": "P0528",
+  "chapter_id": "ch_11",
+  "act": 2,
+  "scene": 6,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Amen, amen, but come what sorrow can,\nIt cannot countervail the exchange of joy\nThat one short minute gives me in her sight.\nDo thou but close our hands with holy words,\nThen love-devouring death do what he dare,\nIt is enough I may but call her mine.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Amen, amen."
+    },
+    {
+     "en": "Whatever sorrow may come, it cannot overcome the joy I feel."
+    },
+    {
+     "en": "I feel this joy in one short minute when I see her."
+    },
+    {
+     "en": "Just join our hands with holy words."
+    },
+    {
+     "en": "Then let death do what it dares."
+    },
+    {
+     "en": "It is enough that I can call her mine."
+    }
+   ]
+  }
+ },
+ {
+  "id": 529,
+  "tag": "P0529",
+  "chapter_id": "ch_11",
+  "act": 2,
+  "scene": 6,
+  "type": "speech",
+  "speaker": "FRIAR LAWRENCE",
+  "delivery": null,
+  "raw": "These violent delights have violent ends,\nAnd in their triumph die; like fire and powder,\nWhich as they kiss consume. The sweetest honey\nIs loathsome in his own deliciousness,\nAnd in the taste confounds the appetite.\nTherefore love moderately: long love doth so;\nToo swift arrives as tardy as too slow.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "These violent delights have violent ends."
+    },
+    {
+     "en": "They die in their triumph."
+    },
+    {
+     "en": "They are like fire and powder."
+    },
+    {
+     "en": "They destroy each other as they touch."
+    },
+    {
+     "en": "The sweetest honey is disgusting because of its own deliciousness."
+    },
+    {
+     "en": "Its taste ruins the appetite."
+    },
+    {
+     "en": "Therefore, love moderately."
+    },
+    {
+     "en": "Long love does so."
+    },
+    {
+     "en": "Too fast is as late as too slow."
+    }
+   ]
+  }
+ },
+ {
+  "id": 530,
+  "tag": "P0530",
+  "chapter_id": "ch_11",
+  "act": 2,
+  "scene": 6,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Juliet.",
+  "sentences": []
+ },
+ {
+  "id": 531,
+  "tag": "P0531",
+  "chapter_id": "ch_11",
+  "act": 2,
+  "scene": 6,
+  "type": "speech",
+  "speaker": "FRIAR LAWRENCE",
+  "delivery": null,
+  "raw": "Here comes the lady. O, so light a foot\nWill ne’er wear out the everlasting flint.\nA lover may bestride the gossamers\nThat idles in the wanton summer air\nAnd yet not fall; so light is vanity.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Here comes the lady."
+    },
+    {
+     "en": "Such a light foot will never wear out the everlasting flint."
+    },
+    {
+     "en": "A lover may ride on the gossamers that float in the playful summer air."
+    },
+    {
+     "en": "He does not fall."
+    },
+    {
+     "en": "Vanity is just as light."
+    }
+   ]
+  }
+ },
+ {
+  "id": 532,
+  "tag": "P0532",
+  "chapter_id": "ch_11",
+  "act": 2,
+  "scene": 6,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Good even to my ghostly confessor.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Good evening to my spiritual confessor."
+    }
+   ]
+  }
+ },
+ {
+  "id": 533,
+  "tag": "P0533",
+  "chapter_id": "ch_11",
+  "act": 2,
+  "scene": 6,
+  "type": "speech",
+  "speaker": "FRIAR LAWRENCE",
+  "delivery": null,
+  "raw": "Romeo shall thank thee, daughter, for us both.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Romeo will thank you, daughter, for both of us."
+    }
+   ]
+  }
+ },
+ {
+  "id": 534,
+  "tag": "P0534",
+  "chapter_id": "ch_11",
+  "act": 2,
+  "scene": 6,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "As much to him, else is his thanks too much.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "He owes me as much."
+    },
+    {
+     "en": "Otherwise, his thanks would be too much."
+    }
+   ]
+  }
+ },
+ {
+  "id": 535,
+  "tag": "P0535",
+  "chapter_id": "ch_11",
+  "act": 2,
+  "scene": 6,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Ah, Juliet, if the measure of thy joy\nBe heap’d like mine, and that thy skill be more\nTo blazon it, then sweeten with thy breath\nThis neighbour air, and let rich music’s tongue\nUnfold the imagin’d happiness that both\nReceive in either by this dear encounter.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Ah, Juliet."
+    },
+    {
+     "en": "If your joy is as great as mine, and if you are better at showing it, then sweeten this air with your breath."
+    },
+    {
+     "en": "Let the music of rich words tell our story."
+    },
+    {
+     "en": "Let it show the happiness we both feel from this dear meeting."
+    }
+   ]
+  }
+ },
+ {
+  "id": 536,
+  "tag": "P0536",
+  "chapter_id": "ch_11",
+  "act": 2,
+  "scene": 6,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Conceit more rich in matter than in words,\nBrags of his substance, not of ornament.\nThey are but beggars that can count their worth;\nBut my true love is grown to such excess,\nI cannot sum up sum of half my wealth.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "My feelings are more rich in meaning than in words."
+    },
+    {
+     "en": "They show my true feelings instead of just using fancy words."
+    },
+    {
+     "en": "Other people are like beggars who can only count their small wealth."
+    },
+    {
+     "en": "But my true love has grown so much."
+    },
+    {
+     "en": "I cannot even describe half of the amount of my love."
+    }
+   ]
+  }
+ },
+ {
+  "id": 537,
+  "tag": "P0537",
+  "chapter_id": "ch_11",
+  "act": 2,
+  "scene": 6,
+  "type": "speech",
+  "speaker": "FRIAR LAWRENCE",
+  "delivery": null,
+  "raw": "Come, come with me, and we will make short work,\nFor, by your leaves, you shall not stay alone\nTill holy church incorporate two in one.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Come with me now."
+    },
+    {
+     "en": "We will finish this quickly."
+    },
+    {
+     "en": "You must not stay alone."
+    },
+    {
+     "en": "The church must join you two together as one."
+    }
+   ]
+  }
+ },
+ {
+  "id": 538,
+  "tag": "P0538",
+  "chapter_id": "ch_11",
+  "act": 2,
+  "scene": 6,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt.",
+  "sentences": []
+ }
+]

@@ -1,0 +1,320 @@
+{
+ "_note": "Draft — review before the pilot. `speakers` is keyed by the parsed speaker label; `en` is how the narrator names them mid-sentence, `ko` the Korean name, `g` m/f/n for himself/herself. Names in stage directions are looked up by upper-casing them, so 'Lady Capulet' finds LADY CAPULET.",
+ "speakers": {
+  "ROMEO": {
+   "en": "Romeo",
+   "ko": "로미오",
+   "g": "m"
+  },
+  "JULIET": {
+   "en": "Juliet",
+   "ko": "줄리엣",
+   "g": "f"
+  },
+  "NURSE": {
+   "en": "the Nurse",
+   "ko": "유모",
+   "g": "f"
+  },
+  "BENVOLIO": {
+   "en": "Benvolio",
+   "ko": "벤볼리오",
+   "g": "m"
+  },
+  "MERCUTIO": {
+   "en": "Mercutio",
+   "ko": "머큐쇼",
+   "g": "m"
+  },
+  "FRIAR LAWRENCE": {
+   "en": "Friar Lawrence",
+   "ko": "로런스 신부",
+   "g": "m"
+  },
+  "CAPULET": {
+   "en": "Capulet",
+   "ko": "캐퓰릿",
+   "g": "m"
+  },
+  "LADY CAPULET": {
+   "en": "Lady Capulet",
+   "ko": "캐퓰릿 부인",
+   "g": "f"
+  },
+  "PARIS": {
+   "en": "Paris",
+   "ko": "패리스",
+   "g": "m"
+  },
+  "SAMPSON": {
+   "en": "Sampson",
+   "ko": "샘슨",
+   "g": "m"
+  },
+  "GREGORY": {
+   "en": "Gregory",
+   "ko": "그레고리",
+   "g": "m"
+  },
+  "TYBALT": {
+   "en": "Tybalt",
+   "ko": "티볼트",
+   "g": "m"
+  },
+  "PRINCE": {
+   "en": "the Prince",
+   "ko": "영주",
+   "g": "m"
+  },
+  "PETER": {
+   "en": "Peter",
+   "ko": "피터",
+   "g": "m"
+  },
+  "BALTHASAR": {
+   "en": "Balthasar",
+   "ko": "발타자르",
+   "g": "m"
+  },
+  "MONTAGUE": {
+   "en": "Montague",
+   "ko": "몬태규",
+   "g": "m"
+  },
+  "LADY MONTAGUE": {
+   "en": "Lady Montague",
+   "ko": "몬태규 부인",
+   "g": "f"
+  },
+  "ABRAM": {
+   "en": "Abram",
+   "ko": "에이브럼",
+   "g": "m"
+  },
+  "FRIAR JOHN": {
+   "en": "Friar John",
+   "ko": "존 신부",
+   "g": "m"
+  },
+  "APOTHECARY": {
+   "en": "the apothecary",
+   "ko": "약제사",
+   "g": "m"
+  },
+  "PAGE": {
+   "en": "the page",
+   "ko": "시동",
+   "g": "m"
+  },
+  "CHORUS": {
+   "en": "the Chorus",
+   "ko": "코러스",
+   "g": "n"
+  },
+  "SERVANT": {
+   "en": "the servant",
+   "ko": "하인",
+   "g": "m"
+  },
+  "FIRST SERVANT": {
+   "en": "the first servant",
+   "ko": "첫째 하인",
+   "g": "m"
+  },
+  "SECOND SERVANT": {
+   "en": "the second servant",
+   "ko": "둘째 하인",
+   "g": "m"
+  },
+  "FIRST MUSICIAN": {
+   "en": "the first musician",
+   "ko": "첫째 악사",
+   "g": "m"
+  },
+  "SECOND MUSICIAN": {
+   "en": "the second musician",
+   "ko": "둘째 악사",
+   "g": "m"
+  },
+  "THIRD MUSICIAN": {
+   "en": "the third musician",
+   "ko": "셋째 악사",
+   "g": "m"
+  },
+  "FIRST WATCH": {
+   "en": "the first watchman",
+   "ko": "첫째 야경꾼",
+   "g": "m"
+  },
+  "SECOND WATCH": {
+   "en": "the second watchman",
+   "ko": "둘째 야경꾼",
+   "g": "m"
+  },
+  "FIRST CITIZEN": {
+   "en": "the first citizen",
+   "ko": "첫째 시민",
+   "g": "m"
+  },
+  "CAPULET'S COUSIN": {
+   "en": "Capulet's cousin",
+   "ko": "캐퓰릿의 사촌",
+   "g": "m"
+  }
+ },
+ "names": {
+  "Escalus": "에스컬러스",
+  "Rosaline": "로잘린",
+  "Verona": "베로나",
+  "Mantua": "만토바"
+ },
+ "_gloss_note": "Shakespeare word meanings for Stage 4. simplify.py adds an entry to the prompt only when its key appears in the raw text of the chunk (whole word, case-insensitive, ’ = '). Keys may be phrases. Fix a recurring misreading by adding or sharpening an entry here, never by editing drafts. Explain single words only; never paraphrase a famous line here (the model will swap the explanation in and lose the line).",
+ "gloss": {
+  "anon": "'coming!' or 'right away' (a reply to someone calling), or 'soon'",
+  "by and by": "in a moment",
+  "i come": "I'm coming",
+  "within": "(of a voice or noise) from inside, offstage",
+  "counsel": "advice (only in the phrase 'stumblest on my counsel' does it mean private thoughts)",
+  "stumblest on my counsel": "happen to overhear my private thoughts",
+  "bescreen'd": "hidden",
+  "wherefore": "why (never 'where')",
+  "art": "are (as in 'thou art' = 'you are')",
+  "thou art": "you are",
+  "wilt": "will",
+  "wert": "were",
+  "dost": "do",
+  "hast": "have",
+  "fain": "gladly; would like to",
+  "'haviour": "behaviour",
+  "light": "(of a woman or love) not serious, too easily won; also: weightless",
+  "strange": "distant, reserved, playing hard to get",
+  "cunning to be strange": "skill at pretending not to care",
+  "fond": "foolish; also: loving too much",
+  "owes": "owns, has",
+  "doff": "take off, throw away",
+  "o'erperch": "fly over",
+  "prorogued": "postponed, delayed",
+  "wanting": "lacking, without",
+  "perjuries": "broken promises, lies under oath",
+  "jove": "Jupiter, king of the Roman gods",
+  "idolatry": "worship",
+  "unadvis'd": "not thought through, rash",
+  "repose": "peaceful rest",
+  "as sweet repose and rest come to thy heart as that within my breast": "may the same sweet peace that is in my heart come to your heart",
+  "maid": "an unmarried girl; also a servant. The moon goddess Diana protects unmarried girls, so a virgin is 'the moon's maid'",
+  "vestal": "virgin, as in the priestesses of Diana",
+  "livery": "uniform worn by servants",
+  "vestal livery": "the uniform of virginity that the moon gives her servants",
+  "envious": "jealous",
+  "that she knew she were": "that she knew she was (my love)",
+  "sphere": "the orbit of a star or planet",
+  "discourses": "speaks, communicates",
+  "bestrides": "rides on, sits astride",
+  "adventure": "take a risk, dare the journey",
+  "merchandise": "a precious prize (Juliet is compared to treasure worth sailing for)",
+  "kinsmen": "relatives",
+  "enmity": "hatred",
+  "proof against": "protected from",
+  "compliment": "polite formal behaviour",
+  "frank": "generous",
+  "bounty": "generosity",
+  "perverse": "stubborn, difficult",
+  "woo": "court, try to win someone's love",
+  "afeard": "afraid",
+  "substantial": "real, solid",
+  "rite": "ceremony (here: the wedding)",
+  "tassel-gentle": "a male falcon; she wants to call Romeo back like a falconer calls a hawk",
+  "bondage is hoarse": "someone who is not free (watched by family) must whisper",
+  "echo": "the nymph Echo of the old story, who could only repeat others' words",
+  "nyas": "a young hawk",
+  "wanton": "a playful, spoiled child",
+  "gyves": "chains, shackles",
+  "ghostly": "spiritual (a 'ghostly father' / 'ghostly sire' is a priest)",
+  "sire": "father",
+  "cell": "a friar's small room",
+  "friar": "a monk, a Catholic brother",
+  "shrift": "confession to a priest (and the forgiveness that follows)",
+  "shrive": "hear confession and forgive",
+  "ay": "yes",
+  "nay": "no",
+  "ere": "before",
+  "e'er": "ever",
+  "ne'er": "never",
+  "o'er": "over",
+  "'tis": "it is",
+  "'twere": "it would be",
+  "hence": "from here; away",
+  "hither": "here, to this place",
+  "thither": "there, to that place",
+  "whither": "where to",
+  "yonder": "over there",
+  "alack": "alas, oh no",
+  "adieu": "goodbye",
+  "prithee": "please",
+  "marry": "indeed, by the Virgin Mary (a mild oath, not the verb)",
+  "methinks": "I think",
+  "an": "(at the start of a condition) if",
+  "coz": "cousin; friend, relative",
+  "sirrah": "you there (to a servant or inferior)",
+  "wench": "girl, young woman",
+  "ope": "open",
+  "soft": "wait, quiet",
+  "but soft": "wait, quiet",
+  "mark": "notice, pay attention to",
+  "saint": "holy person; a lover's word for a beloved woman",
+  "pilgrim": "a traveller to a holy place",
+  "palmer": "a pilgrim",
+  "star-cross'd": "doomed by the stars, unlucky",
+  "mutiny": "fighting, riot",
+  "civil": "of citizens; also: polite",
+  "grudge": "old hatred",
+  "choler": "anger",
+  "colliers": "coal sellers (an insult)",
+  "carry coals": "put up with insults",
+  "bite my thumb": "an insulting gesture",
+  "buckler": "a small shield",
+  "partisan": "a long spear",
+  "rapier": "a thin sword",
+  "fray": "a fight",
+  "heavy": "sad",
+  "humour": "mood, temper",
+  "posting": "hurrying",
+  "sojourn": "stay for a while",
+  "exile": "being forced to leave home forever",
+  "banished": "sent away forever by law",
+  "apothecary": "a man who makes and sells medicines",
+  "vial": "a small bottle",
+  "distilling liquor": "a potion that spreads through the body",
+  "dram": "a small amount of liquid",
+  "shroud": "cloth wrapped around a dead body",
+  "vault": "an underground tomb",
+  "monument": "the family tomb",
+  "sepulchre": "tomb",
+  "county": "count (a nobleman's title; Paris is 'the County')",
+  "the county": "Count Paris",
+  "mistress": "lady, woman in charge",
+  "wit": "intelligence, cleverness",
+  "fie": "shame on you",
+  "zounds": "by God's wounds (a curse)",
+  "'zounds": "by God's wounds (a curse)",
+  "gossip": "friend, old woman friend",
+  "god-den": "good evening / good afternoon",
+  "good-den": "good evening / good afternoon",
+  "god gi' good-e'en": "God give you good evening",
+  "good morrow": "good morning",
+  "morrow": "morning; tomorrow",
+  "tidings": "news",
+  "hie": "hurry",
+  "hie you": "hurry",
+  "lammas-tide": "the harvest festival on August 1",
+  "dug": "breast (of a nurse)",
+  "wormwood": "a bitter plant, put on the breast to wean a baby",
+  "queen mab": "the fairy queen who brings people dreams",
+  "visor": "a mask",
+  "maskers": "people in masks at a party",
+  "torch-bearer": "a man who carries a torch (and does not dance)",
+  "prick-song": "printed music, sung exactly",
+  "pox": "a disease; used as a curse",
+  "fain would i": "I would gladly"
+ }
+}

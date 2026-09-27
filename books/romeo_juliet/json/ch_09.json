@@ -1,0 +1,2278 @@
+[
+ {
+  "id": 401,
+  "tag": "P0401",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "header",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Act 2, Scene 4 — A Street",
+  "sentences": []
+ },
+ {
+  "id": 402,
+  "tag": "P0402",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Benvolio and Mercutio.",
+  "sentences": []
+ },
+ {
+  "id": 403,
+  "tag": "P0403",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Where the devil should this Romeo be? Came he not home tonight?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Where could this Romeo be?"
+    },
+    {
+     "en": "Did he not come home tonight?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 404,
+  "tag": "P0404",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Not to his father’s; I spoke with his man.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "He did not go to his father's house."
+    },
+    {
+     "en": "I spoke with his servant."
+    }
+   ]
+  }
+ },
+ {
+  "id": 405,
+  "tag": "P0405",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Why, that same pale hard-hearted wench, that Rosaline, torments him so\nthat he will sure run mad.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "That same pale and hard-hearted girl, Rosaline, torments him so much."
+    },
+    {
+     "en": "She will surely make him go mad."
+    }
+   ]
+  }
+ },
+ {
+  "id": 406,
+  "tag": "P0406",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Tybalt, the kinsman to old Capulet, hath sent a letter to his father’s\nhouse.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Tybalt, the relative of old Capulet, sent a letter to his father's house."
+    }
+   ]
+  }
+ },
+ {
+  "id": 407,
+  "tag": "P0407",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "A challenge, on my life.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "It is a challenge, I swear it on my life."
+    }
+   ]
+  }
+ },
+ {
+  "id": 408,
+  "tag": "P0408",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Romeo will answer it.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Romeo will answer it."
+    }
+   ]
+  }
+ },
+ {
+  "id": 409,
+  "tag": "P0409",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Any man that can write may answer a letter.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Any man who can write can answer a letter."
+    }
+   ]
+  }
+ },
+ {
+  "id": 410,
+  "tag": "P0410",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Nay, he will answer the letter’s master, how he dares, being dared.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "No, he will answer the master of the letter."
+    },
+    {
+     "en": "He will respond to how the man dared to challenge him."
+    }
+   ]
+  }
+ },
+ {
+  "id": 411,
+  "tag": "P0411",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Alas poor Romeo, he is already dead, stabbed with a white wench’s black\neye; run through the ear with a love song, the very pin of his heart\ncleft with the blind bow-boy’s butt-shaft. And is he a man to encounter\nTybalt?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Alas, poor Romeo."
+    },
+    {
+     "en": "He is already dead."
+    },
+    {
+     "en": "He was stabbed by a young woman's dark eyes."
+    },
+    {
+     "en": "A love song pierced his ears."
+    },
+    {
+     "en": "The blind bow-boy's arrow split his heart."
+    },
+    {
+     "en": "Is he a man who can face Tybalt?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 412,
+  "tag": "P0412",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Why, what is Tybalt?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "What is Tybalt?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 413,
+  "tag": "P0413",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "More than Prince of cats. O, he’s the courageous captain of\ncompliments. He fights as you sing prick-song, keeps time, distance,\nand proportion. He rests his minim rest, one, two, and the third in\nyour bosom: the very butcher of a silk button, a duellist, a duellist;\na gentleman of the very first house, of the first and second cause. Ah,\nthe immortal passado, the punto reverso, the hay.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "He is more than just a prince of cats."
+    },
+    {
+     "en": "Oh, he is the brave captain of compliments."
+    },
+    {
+     "en": "He fights as you sing music exactly from the page."
+    },
+    {
+     "en": "He keeps time and distance and proportion."
+    },
+    {
+     "en": "He rests his medicine rest, one, two, and the third in your bosom."
+    },
+    {
+     "en": "He is a butcher of a silk button."
+    },
+    {
+     "en": "He is a skilled fighter."
+    },
+    {
+     "en": "He is a duellist."
+    },
+    {
+     "en": "He is a gentleman of the first house."
+    },
+    {
+     "en": "He is of the first and second cause."
+    },
+    {
+     "en": "Ah, the immortal passado, the punto reverso, the hay."
+    }
+   ]
+  }
+ },
+ {
+  "id": 414,
+  "tag": "P0414",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "The what?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "The what?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 415,
+  "tag": "P0415",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "The pox of such antic lisping, affecting phantasies; these new tuners\nof accent. By Jesu, a very good blade, a very tall man, a very good\nwhore. Why, is not this a lamentable thing, grandsire, that we should\nbe thus afflicted with these strange flies, these fashion-mongers,\nthese pardon-me’s, who stand so much on the new form that they cannot\nsit at ease on the old bench? O their bones, their bones!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I hate this strange talking and these fake ideas."
+    },
+    {
+     "en": "These are just new people who try to use fancy words."
+    },
+    {
+     "en": "By Jesus, he is a very good sword."
+    },
+    {
+     "en": "He is a very tall man."
+    },
+    {
+     "en": "He is a very good woman."
+    },
+    {
+     "en": "Is it not sad, grandfather?"
+    },
+    {
+     "en": "We are troubled by these distant people."
+    },
+    {
+     "en": "These are just people who follow new fashions."
+    },
+    {
+     "en": "They say 'pardon me' so much."
+    },
+    {
+     "en": "They care so much about the new style that they cannot sit comfortably on the old bench."
+    },
+    {
+     "en": "Oh, their bones, their bones!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 416,
+  "tag": "P0416",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Romeo.",
+  "sentences": []
+ },
+ {
+  "id": 417,
+  "tag": "P0417",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Here comes Romeo, here comes Romeo!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Here comes Romeo!"
+    },
+    {
+     "en": "Here comes Romeo!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 418,
+  "tag": "P0418",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Without his roe, like a dried herring. O flesh, flesh, how art thou\nfishified! Now is he for the numbers that Petrarch flowed in. Laura, to\nhis lady, was but a kitchen wench,—marry, she had a better love to\nberhyme her: Dido a dowdy; Cleopatra a gypsy; Helen and Hero hildings\nand harlots; Thisbe a grey eye or so, but not to the purpose. Signior\nRomeo, bonjour! There’s a French salutation to your French slop. You\ngave us the counterfeit fairly last night.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "He looks like a dried fish without his roe."
+    },
+    {
+     "en": "Oh, flesh, how are you turned into fish!"
+    },
+    {
+     "en": "Now he is looking for the poems that Petrarch wrote."
+    },
+    {
+     "en": "Laura was just a kitchen girl to his lady."
+    },
+    {
+     "en": "Indeed, she had a better love to write poems about her."
+    },
+    {
+     "en": "Dido was a plain woman."
+    },
+    {
+     "en": "Cleopatra was a gypsy."
+    },
+    {
+     "en": "Helen and Hero were common women."
+    },
+    {
+     "en": "Thisbe was a gray eye or something like that."
+    },
+    {
+     "en": "But it was not the right thing."
+    },
+    {
+     "en": "Signior Romeo, good morning!"
+    },
+    {
+     "en": "There is a French greeting for your French mess."
+    },
+    {
+     "en": "You gave us the fake version last night."
+    }
+   ]
+  }
+ },
+ {
+  "id": 419,
+  "tag": "P0419",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Good morrow to you both. What counterfeit did I give you?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Good morning to you both."
+    },
+    {
+     "en": "What fake version did I give you?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 420,
+  "tag": "P0420",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "The slip sir, the slip; can you not conceive?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "The slip, sir, the slip."
+    },
+    {
+     "en": "Can you not understand?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 421,
+  "tag": "P0421",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Pardon, good Mercutio, my business was great, and in such a case as\nmine a man may strain courtesy.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Forgive me, good Mercutio."
+    },
+    {
+     "en": "My business was very important."
+    },
+    {
+     "en": "In a case like mine, a man can be extra polite."
+    }
+   ]
+  }
+ },
+ {
+  "id": 422,
+  "tag": "P0422",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "That’s as much as to say, such a case as yours constrains a man to bow\nin the hams.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "That is like saying your situation forces a man to bow in the hips."
+    }
+   ]
+  }
+ },
+ {
+  "id": 423,
+  "tag": "P0423",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Meaning, to curtsy.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Meaning, to curtsy."
+    }
+   ]
+  }
+ },
+ {
+  "id": 424,
+  "tag": "P0424",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Thou hast most kindly hit it.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "You hit the mark perfectly."
+    }
+   ]
+  }
+ },
+ {
+  "id": 425,
+  "tag": "P0425",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "A most courteous exposition.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "That was a very polite explanation."
+    }
+   ]
+  }
+ },
+ {
+  "id": 426,
+  "tag": "P0426",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Nay, I am the very pink of courtesy.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "No, I am the very best of courtesy."
+    }
+   ]
+  }
+ },
+ {
+  "id": 427,
+  "tag": "P0427",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Pink for flower.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Pink for flower."
+    }
+   ]
+  }
+ },
+ {
+  "id": 428,
+  "tag": "P0428",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Right.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Right."
+    }
+   ]
+  }
+ },
+ {
+  "id": 429,
+  "tag": "P0429",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Why, then is my pump well flowered.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Then my pump is well decorated with flowers."
+    }
+   ]
+  }
+ },
+ {
+  "id": 430,
+  "tag": "P0430",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Sure wit, follow me this jest now, till thou hast worn out thy pump,\nthat when the single sole of it is worn, the jest may remain after the\nwearing, solely singular.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "You are clever."
+    },
+    {
+     "en": "Follow this joke with me now."
+    },
+    {
+     "en": "Continue it until you have worn out your pump."
+    },
+    {
+     "en": "When the single sole of it is worn, the joke will remain."
+    },
+    {
+     "en": "It will be unique and special."
+    }
+   ]
+  }
+ },
+ {
+  "id": 431,
+  "tag": "P0431",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "O single-soled jest, solely singular for the singleness!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh, single-soled joke!"
+    },
+    {
+     "en": "It is uniquely singular for its singleness!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 432,
+  "tag": "P0432",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Come between us, good Benvolio; my wits faint.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Come between us, good Benvolio."
+    },
+    {
+     "en": "My intelligence is failing."
+    }
+   ]
+  }
+ },
+ {
+  "id": 433,
+  "tag": "P0433",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Swits and spurs, swits and spurs; or I’ll cry a match.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Swits and spurs, swits and spurs!"
+    },
+    {
+     "en": "Or I will call for a match."
+    }
+   ]
+  }
+ },
+ {
+  "id": 434,
+  "tag": "P0434",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Nay, if thy wits run the wild-goose chase, I am done. For thou hast\nmore of the wild-goose in one of thy wits, than I am sure, I have in my\nwhole five. Was I with you there for the goose?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "No, if your thoughts are chasing wild geese, I am finished."
+    },
+    {
+     "en": "You have more of the wild goose in one of your wits."
+    },
+    {
+     "en": "I am not sure I have any in my whole five."
+    },
+    {
+     "en": "Was I with you for the goose?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 435,
+  "tag": "P0435",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Thou wast never with me for anything, when thou wast not there for the\ngoose.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "You were never with me for anything."
+    },
+    {
+     "en": "That was when you were not there for the goose."
+    }
+   ]
+  }
+ },
+ {
+  "id": 436,
+  "tag": "P0436",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "I will bite thee by the ear for that jest.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I will bite your ear for that joke."
+    }
+   ]
+  }
+ },
+ {
+  "id": 437,
+  "tag": "P0437",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Nay, good goose, bite not.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "No, good goose, do not bite."
+    }
+   ]
+  }
+ },
+ {
+  "id": 438,
+  "tag": "P0438",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Thy wit is a very bitter sweeting, it is a most sharp sauce.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Your wit is a very bitter sweet."
+    },
+    {
+     "en": "It is a very sharp sauce."
+    }
+   ]
+  }
+ },
+ {
+  "id": 439,
+  "tag": "P0439",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "And is it not then well served in to a sweet goose?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Is it not served well to a sweet goose?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 440,
+  "tag": "P0440",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "O here’s a wit of cheveril, that stretches from an inch narrow to an\nell broad.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh, here is a wit of cheveril."
+    },
+    {
+     "en": "It stretches from an inch narrow to an ell broad."
+    }
+   ]
+  }
+ },
+ {
+  "id": 441,
+  "tag": "P0441",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "I stretch it out for that word broad, which added to the goose, proves\nthee far and wide a broad goose.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I stretch it out for that word broad."
+    },
+    {
+     "en": "When added to the goose, it proves you are a broad goose far and wide."
+    }
+   ]
+  }
+ },
+ {
+  "id": 442,
+  "tag": "P0442",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Why, is not this better now than groaning for love? Now art thou\nsociable, now art thou Romeo; now art thou what thou art, by art as\nwell as by nature. For this drivelling love is like a great natural,\nthat runs lolling up and down to hide his bauble in a hole.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Why, is this not better than groaning for love?"
+    },
+    {
+     "en": "Now you are sociable."
+    },
+    {
+     "en": "Now you are Romeo."
+    },
+    {
+     "en": "Now you are what you are."
+    },
+    {
+     "en": "You are this by art as well as by nature."
+    },
+    {
+     "en": "For this foolish love is like a great natural."
+    },
+    {
+     "en": "He runs lolling up and down to hide his bauble in a hole."
+    }
+   ]
+  }
+ },
+ {
+  "id": 443,
+  "tag": "P0443",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Stop there, stop there.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Stop there, stop there."
+    }
+   ]
+  }
+ },
+ {
+  "id": 444,
+  "tag": "P0444",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Thou desirest me to stop in my tale against the hair.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "You want me to stop my story at the very end."
+    },
+    {
+     "en": "You want me to stop right now."
+    }
+   ]
+  }
+ },
+ {
+  "id": 445,
+  "tag": "P0445",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Thou wouldst else have made thy tale large.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "You would have made your story much longer."
+    }
+   ]
+  }
+ },
+ {
+  "id": 446,
+  "tag": "P0446",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "O, thou art deceived; I would have made it short, for I was come to the\nwhole depth of my tale, and meant indeed to occupy the argument no\nlonger.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh, you are mistaken."
+    },
+    {
+     "en": "I wanted to make it short."
+    },
+    {
+     "en": "I had reached the deepest part of my story."
+    },
+    {
+     "en": "I really intended to stop talking about this topic."
+    }
+   ]
+  }
+ },
+ {
+  "id": 447,
+  "tag": "P0447",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Nurse and Peter.",
+  "sentences": []
+ },
+ {
+  "id": 448,
+  "tag": "P0448",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Here’s goodly gear!\nA sail, a sail!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Look at this great equipment!"
+    },
+    {
+     "en": "A sail, a sail!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 449,
+  "tag": "P0449",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Two, two; a shirt and a smock.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Two, two; a shirt and a smock."
+    }
+   ]
+  }
+ },
+ {
+  "id": 450,
+  "tag": "P0450",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Peter!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Peter!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 451,
+  "tag": "P0451",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "PETER",
+  "delivery": null,
+  "raw": "Anon.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Coming!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 452,
+  "tag": "P0452",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "My fan, Peter.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "My fan, Peter."
+    }
+   ]
+  }
+ },
+ {
+  "id": 453,
+  "tag": "P0453",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Good Peter, to hide her face; for her fan’s the fairer face.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Good Peter, hide her face."
+    },
+    {
+     "en": "Her fan is the prettier face."
+    }
+   ]
+  }
+ },
+ {
+  "id": 454,
+  "tag": "P0454",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "God ye good morrow, gentlemen.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Good morning to you, gentlemen."
+    }
+   ]
+  }
+ },
+ {
+  "id": 455,
+  "tag": "P0455",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "God ye good-den, fair gentlewoman.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Good evening, beautiful lady."
+    }
+   ]
+  }
+ },
+ {
+  "id": 456,
+  "tag": "P0456",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Is it good-den?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Is it evening?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 457,
+  "tag": "P0457",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "’Tis no less, I tell ye; for the bawdy hand of the dial is now upon the\nprick of noon.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "It is not less."
+    },
+    {
+     "en": "I tell you."
+    },
+    {
+     "en": "The clock shows the time."
+    },
+    {
+     "en": "It is exactly noon."
+    }
+   ]
+  }
+ },
+ {
+  "id": 458,
+  "tag": "P0458",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Out upon you! What a man are you?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Be quiet!"
+    },
+    {
+     "en": "What kind of man are you?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 459,
+  "tag": "P0459",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "One, gentlewoman, that God hath made for himself to mar.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I am a man whom God made for himself to ruin."
+    }
+   ]
+  }
+ },
+ {
+  "id": 460,
+  "tag": "P0460",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "By my troth, it is well said; for himself to mar, quoth a? Gentlemen,\ncan any of you tell me where I may find the young Romeo?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Truly, that is well said."
+    },
+    {
+     "en": "He says it is for himself to ruin."
+    },
+    {
+     "en": "Gentlemen, can any of you tell me where I can find the young Romeo?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 461,
+  "tag": "P0461",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "I can tell you: but young Romeo will be older when you have found him\nthan he was when you sought him. I am the youngest of that name, for\nfault of a worse.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I can tell you."
+    },
+    {
+     "en": "But young Romeo will be older when you find him."
+    },
+    {
+     "en": "He will be older than he was when you looked for him."
+    },
+    {
+     "en": "I am the youngest of that name."
+    },
+    {
+     "en": "It is because of a worse fault."
+    }
+   ]
+  }
+ },
+ {
+  "id": 462,
+  "tag": "P0462",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "You say well.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "You say it well."
+    }
+   ]
+  }
+ },
+ {
+  "id": 463,
+  "tag": "P0463",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Yea, is the worst well? Very well took, i’faith; wisely, wisely.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Yes, is the worst well?"
+    },
+    {
+     "en": "Well taken, I believe."
+    },
+    {
+     "en": "Wisely, very wisely."
+    }
+   ]
+  }
+ },
+ {
+  "id": 464,
+  "tag": "P0464",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "If you be he, sir, I desire some confidence with you.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "If you are he, sir, I want some confidence with you."
+    }
+   ]
+  }
+ },
+ {
+  "id": 465,
+  "tag": "P0465",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "She will endite him to some supper.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "She will invite him to some supper."
+    }
+   ]
+  }
+ },
+ {
+  "id": 466,
+  "tag": "P0466",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "A bawd, a bawd, a bawd! So ho!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "A bawd, a bawd, a bawd!"
+    },
+    {
+     "en": "So ho!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 467,
+  "tag": "P0467",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "What hast thou found?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "What have you found?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 468,
+  "tag": "P0468",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "No hare, sir; unless a hare, sir, in a lenten pie, that is something\nstale and hoar ere it be spent.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "No hare, sir."
+    },
+    {
+     "en": "Unless it is a hare in a lenten pie."
+    },
+    {
+     "en": "That would be something old and white before it is used up."
+    }
+   ]
+  }
+ },
+ {
+  "id": 469,
+  "tag": "P0469",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Sings.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Mercutio sings."
+    }
+   ]
+  }
+ },
+ {
+  "id": 470,
+  "tag": "P0470",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "An old hare hoar,\nAnd an old hare hoar,\nIs very good meat in Lent;\nBut a hare that is hoar\nIs too much for a score\nWhen it hoars ere it be spent.\nRomeo, will you come to your father’s? We’ll to dinner thither.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "An old hare that is stale is very good meat in Lent."
+    },
+    {
+     "en": "But a hare that becomes stale before it is eaten is not good for many people."
+    },
+    {
+     "en": "Romeo, will you go to your father's house?"
+    },
+    {
+     "en": "We will go there for dinner."
+    }
+   ]
+  }
+ },
+ {
+  "id": 471,
+  "tag": "P0471",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "I will follow you.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I will follow you."
+    }
+   ]
+  }
+ },
+ {
+  "id": 472,
+  "tag": "P0472",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Farewell, ancient lady; farewell, lady, lady, lady.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Goodbye, old lady."
+    },
+    {
+     "en": "Goodbye, lady, lady, lady."
+    }
+   ]
+  }
+ },
+ {
+  "id": 473,
+  "tag": "P0473",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt Mercutio and Benvolio.",
+  "sentences": []
+ },
+ {
+  "id": 474,
+  "tag": "P0474",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "I pray you, sir, what saucy merchant was this that was so full of his\nropery?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Please tell me, sir, what rude merchant was this?"
+    },
+    {
+     "en": "He was very full of his own tricks."
+    }
+   ]
+  }
+ },
+ {
+  "id": 475,
+  "tag": "P0475",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "A gentleman, Nurse, that loves to hear himself talk, and will speak\nmore in a minute than he will stand to in a month.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "He is a gentleman, Nurse."
+    },
+    {
+     "en": "He loves to hear himself talk."
+    },
+    {
+     "en": "He will say more in one minute than he can stand for in a month."
+    }
+   ]
+  }
+ },
+ {
+  "id": 476,
+  "tag": "P0476",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "And a speak anything against me, I’ll take him down, and a were lustier\nthan he is, and twenty such Jacks. And if I cannot, I’ll find those\nthat shall. Scurvy knave! I am none of his flirt-gills; I am none of\nhis skains-mates.—And thou must stand by too and suffer every knave to\nuse me at his pleasure!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "If he says anything against me, I will take him down."
+    },
+    {
+     "en": "If I were stronger than he is, I would fight him and twenty others like him."
+    },
+    {
+     "en": "And if I cannot, I will find people who can."
+    },
+    {
+     "en": "You scoundrel!"
+    },
+    {
+     "en": "I am not one of his friends."
+    },
+    {
+     "en": "I am not one of his partners."
+    },
+    {
+     "en": "And you must stand by and let every man use me as he likes!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 477,
+  "tag": "P0477",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "PETER",
+  "delivery": null,
+  "raw": "I saw no man use you at his pleasure; if I had, my weapon should\nquickly have been out. I warrant you, I dare draw as soon as another\nman, if I see occasion in a good quarrel, and the law on my side.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I did not see any man use you at his pleasure."
+    },
+    {
+     "en": "If I had, my weapon would have come out quickly."
+    },
+    {
+     "en": "I promise you, I dare to draw as soon as another man does."
+    },
+    {
+     "en": "I do this if I see a chance in a good fight and the law is on my side."
+    }
+   ]
+  }
+ },
+ {
+  "id": 478,
+  "tag": "P0478",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Now, afore God, I am so vexed that every part about me quivers. Scurvy\nknave. Pray you, sir, a word: and as I told you, my young lady bid me\nenquire you out; what she bade me say, I will keep to myself. But first\nlet me tell ye, if ye should lead her in a fool’s paradise, as they\nsay, it were a very gross kind of behaviour, as they say; for the\ngentlewoman is young. And therefore, if you should deal double with\nher, truly it were an ill thing to be offered to any gentlewoman, and\nvery weak dealing.\nROMEO. Nurse, commend me to thy lady and mistress. I protest unto\nthee,—",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Now, before God, I am so annoyed that every part of me shakes."
+    },
+    {
+     "en": "You mean man!"
+    },
+    {
+     "en": "Please, sir, listen to me for a moment."
+    },
+    {
+     "en": "As I told you, my young lady asked me to talk to you."
+    },
+    {
+     "en": "I will keep what she told me to say to myself."
+    },
+    {
+     "en": "But first let me tell you something."
+    },
+    {
+     "en": "If you lead her into a fool's paradise, as they say, it would be very bad behavior."
+    },
+    {
+     "en": "People say so because the lady is young."
+    },
+    {
+     "en": "Therefore, if you treat her poorly, it would be a very bad thing to offer any lady."
+    },
+    {
+     "en": "It would be a very weak way of acting."
+    },
+    {
+     "en": "Nurse, give my regards to your lady and mistress."
+    },
+    {
+     "en": "I promise you."
+    }
+   ]
+  }
+ },
+ {
+  "id": 479,
+  "tag": "P0479",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Good heart, and i’faith I will tell her as much. Lord, Lord, she will\nbe a joyful woman.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "You are kind."
+    },
+    {
+     "en": "And I promise I will tell her that much."
+    },
+    {
+     "en": "Lord, she will be a happy woman."
+    }
+   ]
+  }
+ },
+ {
+  "id": 480,
+  "tag": "P0480",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "What wilt thou tell her, Nurse? Thou dost not mark me.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "What will you tell her, Nurse?"
+    },
+    {
+     "en": "You are not paying attention to me."
+    }
+   ]
+  }
+ },
+ {
+  "id": 481,
+  "tag": "P0481",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "I will tell her, sir, that you do protest, which, as I take it, is a\ngentlemanlike offer.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I will tell her, sir, that you make a promise."
+    },
+    {
+     "en": "I think this is a gentlemanly offer."
+    }
+   ]
+  }
+ },
+ {
+  "id": 482,
+  "tag": "P0482",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Bid her devise\nSome means to come to shrift this afternoon,\nAnd there she shall at Friar Lawrence’ cell\nBe shriv’d and married. Here is for thy pains.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Tell her to find a way to come for confession this afternoon."
+    },
+    {
+     "en": "There she will be confessed and married at Friar Lawrence's cell."
+    },
+    {
+     "en": "Here is a coin for your trouble."
+    }
+   ]
+  }
+ },
+ {
+  "id": 483,
+  "tag": "P0483",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "No truly, sir; not a penny.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "No, truly, sir; not a penny."
+    }
+   ]
+  }
+ },
+ {
+  "id": 484,
+  "tag": "P0484",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Go to; I say you shall.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Stop it. I say you shall."
+    }
+   ]
+  }
+ },
+ {
+  "id": 485,
+  "tag": "P0485",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "This afternoon, sir? Well, she shall be there.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "This afternoon, sir?"
+    },
+    {
+     "en": "Well, she will be there."
+    }
+   ]
+  }
+ },
+ {
+  "id": 486,
+  "tag": "P0486",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "And stay, good Nurse, behind the abbey wall.\nWithin this hour my man shall be with thee,\nAnd bring thee cords made like a tackled stair,\nWhich to the high topgallant of my joy\nMust be my convoy in the secret night.\nFarewell, be trusty, and I’ll quit thy pains;\nFarewell; commend me to thy mistress.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "And stay behind the wall of the church, dear Nurse."
+    },
+    {
+     "en": "My man will come to you within this hour."
+    },
+    {
+     "en": "He will bring ropes that look like a ladder."
+    },
+    {
+     "en": "These will be my escort in the secret night."
+    },
+    {
+     "en": "They will lead me to the high top of my joy."
+    },
+    {
+     "en": "Goodbye. Be trustworthy, and I will end your work."
+    },
+    {
+     "en": "Goodbye. Give my regards to your mistress."
+    }
+   ]
+  }
+ },
+ {
+  "id": 487,
+  "tag": "P0487",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Now God in heaven bless thee. Hark you, sir.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "May God in heaven bless you."
+    },
+    {
+     "en": "Listen to me, sir."
+    }
+   ]
+  }
+ },
+ {
+  "id": 488,
+  "tag": "P0488",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "What say’st thou, my dear Nurse?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "What do you say, my dear Nurse?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 489,
+  "tag": "P0489",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Is your man secret? Did you ne’er hear say,\nTwo may keep counsel, putting one away?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Is your man secret?"
+    },
+    {
+     "en": "Have you never heard the saying?"
+    },
+    {
+     "en": "Two people can keep a secret by not telling anyone else."
+    }
+   ]
+  }
+ },
+ {
+  "id": 490,
+  "tag": "P0490",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "I warrant thee my man’s as true as steel.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I promise you that my man is as true as steel."
+    }
+   ]
+  }
+ },
+ {
+  "id": 491,
+  "tag": "P0491",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Well, sir, my mistress is the sweetest lady. Lord, Lord! When ’twas a\nlittle prating thing,—O, there is a nobleman in town, one Paris, that\nwould fain lay knife aboard; but she, good soul, had as lief see a\ntoad, a very toad, as see him. I anger her sometimes, and tell her that\nParis is the properer man, but I’ll warrant you, when I say so, she\nlooks as pale as any clout in the versal world. Doth not rosemary and\nRomeo begin both with a letter?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Well, sir, my mistress is the sweetest lady."
+    },
+    {
+     "en": "Lord, Lord!"
+    },
+    {
+     "en": "When she was a small child, she was a cute thing."
+    },
+    {
+     "en": "Oh, there is a nobleman in town named Paris."
+    },
+    {
+     "en": "He would like to marry her."
+    },
+    {
+     "en": "But she, dear soul, would rather see a toad."
+    },
+    {
+     "en": "She would rather see a real toad than see him."
+    },
+    {
+     "en": "I make her angry sometimes."
+    },
+    {
+     "en": "I tell her that Paris is the better man for her."
+    },
+    {
+     "en": "But I promise you, when I say this, she looks very pale."
+    },
+    {
+     "en": "She looks as pale as any cloth in the world."
+    },
+    {
+     "en": "Do not rosemary and Romeo not both begin with a letter?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 492,
+  "tag": "P0492",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Ay, Nurse; what of that? Both with an R.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Yes, Nurse; what about that?"
+    },
+    {
+     "en": "Both start with an R."
+    }
+   ]
+  }
+ },
+ {
+  "id": 493,
+  "tag": "P0493",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Ah, mocker! That’s the dog’s name. R is for the—no, I know it begins\nwith some other letter, and she hath the prettiest sententious of it,\nof you and rosemary, that it would do you good to hear it.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Ah, you mocker!"
+    },
+    {
+     "en": "That is the dog's name."
+    },
+    {
+     "en": "R is for the—no, I know it begins with another letter."
+    },
+    {
+     "en": "She has the most beautiful way of saying it."
+    },
+    {
+     "en": "It would do you good to hear it."
+    },
+    {
+     "en": "It is for you and rosemary."
+    }
+   ]
+  }
+ },
+ {
+  "id": 494,
+  "tag": "P0494",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Commend me to thy lady.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Give my regards to your lady."
+    }
+   ]
+  }
+ },
+ {
+  "id": 495,
+  "tag": "P0495",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Ay, a thousand times. Peter!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Yes, a thousand times."
+    },
+    {
+     "en": "Peter!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 496,
+  "tag": "P0496",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exit Romeo.",
+  "sentences": []
+ },
+ {
+  "id": 497,
+  "tag": "P0497",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "PETER",
+  "delivery": null,
+  "raw": "Anon.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Coming!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 498,
+  "tag": "P0498",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Before and apace.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Quickly and immediately."
+    }
+   ]
+  }
+ },
+ {
+  "id": 499,
+  "tag": "P0499",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt.",
+  "sentences": []
+ }
+]

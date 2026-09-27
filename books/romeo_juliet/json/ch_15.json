@@ -1,0 +1,301 @@
+[
+ {
+  "id": 697,
+  "tag": "P0697",
+  "chapter_id": "ch_15",
+  "act": 3,
+  "scene": 4,
+  "type": "header",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Act 3, Scene 4 — A Room in Capulet’s House",
+  "sentences": []
+ },
+ {
+  "id": 698,
+  "tag": "P0698",
+  "chapter_id": "ch_15",
+  "act": 3,
+  "scene": 4,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Capulet, Lady Capulet and Paris.",
+  "sentences": []
+ },
+ {
+  "id": 699,
+  "tag": "P0699",
+  "chapter_id": "ch_15",
+  "act": 3,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Things have fallen out, sir, so unluckily\nThat we have had no time to move our daughter.\nLook you, she lov’d her kinsman Tybalt dearly,\nAnd so did I. Well, we were born to die.\n’Tis very late; she’ll not come down tonight.\nI promise you, but for your company,\nI would have been abed an hour ago.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Things have happened badly, sir."
+    },
+    {
+     "en": "We did not have enough time to move our daughter."
+    },
+    {
+     "en": "Look, she loved her kinsman Tybalt dearly."
+    },
+    {
+     "en": "And so did I."
+    },
+    {
+     "en": "Well, we were born to die."
+    },
+    {
+     "en": "It is very late."
+    },
+    {
+     "en": "She will not come down tonight."
+    },
+    {
+     "en": "I promise you that only because of your company."
+    },
+    {
+     "en": "I would have been in bed an hour ago."
+    }
+   ]
+  }
+ },
+ {
+  "id": 700,
+  "tag": "P0700",
+  "chapter_id": "ch_15",
+  "act": 3,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "PARIS",
+  "delivery": null,
+  "raw": "These times of woe afford no tune to woo.\nMadam, good night. Commend me to your daughter.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "These sad times are not good for courting."
+    },
+    {
+     "en": "Good night, Madam."
+    },
+    {
+     "en": "Give my regards to your daughter."
+    }
+   ]
+  }
+ },
+ {
+  "id": 701,
+  "tag": "P0701",
+  "chapter_id": "ch_15",
+  "act": 3,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "I will, and know her mind early tomorrow;\nTonight she’s mew’d up to her heaviness.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I will do that and find out her thoughts early tomorrow."
+    },
+    {
+     "en": "Tonight she is locked away in her sadness."
+    }
+   ]
+  }
+ },
+ {
+  "id": 702,
+  "tag": "P0702",
+  "chapter_id": "ch_15",
+  "act": 3,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Sir Paris, I will make a desperate tender\nOf my child’s love. I think she will be rul’d\nIn all respects by me; nay more, I doubt it not.\nWife, go you to her ere you go to bed,\nAcquaint her here of my son Paris’ love,\nAnd bid her, mark you me, on Wednesday next,\nBut, soft, what day is this?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Sir Paris, I will make a desperate offer of my child's love."
+    },
+    {
+     "en": "I think she will be ruled by me in all respects."
+    },
+    {
+     "en": "No, I do not doubt it."
+    },
+    {
+     "en": "Wife, go to her before you go to bed."
+    },
+    {
+     "en": "Tell her about my son Paris's love."
+    },
+    {
+     "en": "And tell her, pay attention to me, on Wednesday next."
+    },
+    {
+     "en": "But, wait, what day is this?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 703,
+  "tag": "P0703",
+  "chapter_id": "ch_15",
+  "act": 3,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "PARIS",
+  "delivery": null,
+  "raw": "Monday, my lord.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Monday, my lord."
+    }
+   ]
+  }
+ },
+ {
+  "id": 704,
+  "tag": "P0704",
+  "chapter_id": "ch_15",
+  "act": 3,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Monday! Ha, ha! Well, Wednesday is too soon,\nA Thursday let it be; a Thursday, tell her,\nShe shall be married to this noble earl.\nWill you be ready? Do you like this haste?\nWe’ll keep no great ado,—a friend or two,\nFor, hark you, Tybalt being slain so late,\nIt may be thought we held him carelessly,\nBeing our kinsman, if we revel much.\nTherefore we’ll have some half a dozen friends,\nAnd there an end. But what say you to Thursday?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Monday! Ha, ha!"
+    },
+    {
+     "en": "Well, Wednesday is too soon."
+    },
+    {
+     "en": "Let it be a Thursday."
+    },
+    {
+     "en": "Tell her it is a Thursday."
+    },
+    {
+     "en": "She shall be married to this noble earl."
+    },
+    {
+     "en": "Will you be ready?"
+    },
+    {
+     "en": "Do you like this haste?"
+    },
+    {
+     "en": "We will not have a big celebration."
+    },
+    {
+     "en": "Only one or two friends will come."
+    },
+    {
+     "en": "Because Tybalt was killed so late, people might think we did not care about him."
+    },
+    {
+     "en": "They might think we were careless because he was our kinsman if we celebrate too much."
+    },
+    {
+     "en": "Therefore, we will have about six friends."
+    },
+    {
+     "en": "And that is the end of it."
+    },
+    {
+     "en": "But what do you say to Thursday?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 705,
+  "tag": "P0705",
+  "chapter_id": "ch_15",
+  "act": 3,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "PARIS",
+  "delivery": null,
+  "raw": "My lord, I would that Thursday were tomorrow.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "My lord, I wish that Thursday were tomorrow."
+    }
+   ]
+  }
+ },
+ {
+  "id": 706,
+  "tag": "P0706",
+  "chapter_id": "ch_15",
+  "act": 3,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Well, get you gone. A Thursday be it then.\nGo you to Juliet ere you go to bed,\nPrepare her, wife, against this wedding day.\nFarewell, my lord.—Light to my chamber, ho!\nAfore me, it is so very very late that we\nMay call it early by and by. Good night.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Well, go now."
+    },
+    {
+     "en": "Let it be a Thursday then."
+    },
+    {
+     "en": "Go to Juliet before you go to bed."
+    },
+    {
+     "en": "Prepare her, wife, for this wedding day."
+    },
+    {
+     "en": "Goodbye, my lord."
+    },
+    {
+     "en": "Bring a light to my chamber!"
+    },
+    {
+     "en": "It is so very late that we can call it early in a moment."
+    },
+    {
+     "en": "Good night."
+    }
+   ]
+  }
+ },
+ {
+  "id": 707,
+  "tag": "P0707",
+  "chapter_id": "ch_15",
+  "act": 3,
+  "scene": 4,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt.",
+  "sentences": []
+ }
+]

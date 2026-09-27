@@ -1,0 +1,2834 @@
+[
+ {
+  "id": 539,
+  "tag": "P0539",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "header",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Act 3, Scene 1 — A public Place",
+  "sentences": []
+ },
+ {
+  "id": 540,
+  "tag": "P0540",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Mercutio, Benvolio, Page and Servants.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Mercutio, Benvolio, a Page, and Servants enter."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Mercutio, Benvolio, a Page, and Servants enter."
+    }
+   ]
+  }
+ },
+ {
+  "id": 541,
+  "tag": "P0541",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "I pray thee, good Mercutio, let’s retire:\nThe day is hot, the Capulets abroad,\nAnd if we meet, we shall not scape a brawl,\nFor now these hot days, is the mad blood stirring.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "I pray you, good Mercutio, let us go inside."
+    },
+    {
+     "en": "The day is hot."
+    },
+    {
+     "en": "The Capulets are outside."
+    },
+    {
+     "en": "If we meet them, we will not escape a fight."
+    },
+    {
+     "en": "These hot days make people's blood boil and make them angry."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "I pray you, good Mercutio, let us go inside."
+    },
+    {
+     "en": "The day is hot."
+    },
+    {
+     "en": "The Capulets are outside."
+    },
+    {
+     "en": "If we meet them, we will not escape a fight."
+    },
+    {
+     "en": "These hot days make people's blood boil and make them angry."
+    }
+   ]
+  }
+ },
+ {
+  "id": 542,
+  "tag": "P0542",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Thou art like one of these fellows that, when he enters the confines of\na tavern, claps me his sword upon the table, and says ‘God send me no\nneed of thee!’ and by the operation of the second cup draws him on the\ndrawer, when indeed there is no need.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "You are like one of those men who enters a tavern."
+    },
+    {
+     "en": "He puts his sword on the table."
+    },
+    {
+     "en": "He says, 'God send me no need of you!'"
+    },
+    {
+     "en": "After the second drink, he draws his sword."
+    },
+    {
+     "en": "He does this even when there is no need for it."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "You are like one of those men."
+    },
+    {
+     "en": "When they enter a tavern, they put their sword on the table."
+    },
+    {
+     "en": "They say, 'God send me no need of you!'"
+    },
+    {
+     "en": "After drinking a second cup, they draw their sword."
+    },
+    {
+     "en": "They do this even when there is no need for it."
+    }
+   ]
+  }
+ },
+ {
+  "id": 543,
+  "tag": "P0543",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Am I like such a fellow?",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Am I like such a man?"
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Am I like such a man?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 544,
+  "tag": "P0544",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Come, come, thou art as hot a Jack in thy mood as any in Italy; and as\nsoon moved to be moody, and as soon moody to be moved.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Come on, you are as hot-headed as any man in Italy."
+    },
+    {
+     "en": "You get angry very quickly."
+    },
+    {
+     "en": "And you become calm just as quickly."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Come, come, you are as hot-headed as any man in Italy."
+    },
+    {
+     "en": "You get angry very quickly."
+    },
+    {
+     "en": "And you become calm just as quickly."
+    }
+   ]
+  }
+ },
+ {
+  "id": 545,
+  "tag": "P0545",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "And what to?",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "And what of it?"
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "And what of it?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 546,
+  "tag": "P0546",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Nay, an there were two such, we should have none shortly, for one would\nkill the other. Thou? Why, thou wilt quarrel with a man that hath a\nhair more or a hair less in his beard than thou hast. Thou wilt quarrel\nwith a man for cracking nuts, having no other reason but because thou\nhast hazel eyes. What eye but such an eye would spy out such a quarrel?\nThy head is as full of quarrels as an egg is full of meat, and yet thy\nhead hath been beaten as addle as an egg for quarrelling. Thou hast\nquarrelled with a man for coughing in the street, because he hath\nwakened thy dog that hath lain asleep in the sun. Didst thou not fall\nout with a tailor for wearing his new doublet before Easter? with\nanother for tying his new shoes with an old riband? And yet thou wilt\ntutor me from quarrelling!",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "If there were two such men, we would have none left soon."
+    },
+    {
+     "en": "One would kill the other."
+    },
+    {
+     "en": "You? You would fight a man because he has one more hair in his beard than you."
+    },
+    {
+     "en": "You would fight a man for cracking nuts."
+    },
+    {
+     "en": "You would do this just because he has hazel eyes."
+    },
+    {
+     "en": "What kind of eye would look for such a fight?"
+    },
+    {
+     "en": "Your head is full of fights like an egg is full of meat."
+    },
+    {
+     "en": "Yet your head has been beaten as soft as an egg from fighting."
+    },
+    {
+     "en": "You fought a man for coughing in the street."
+    },
+    {
+     "en": "He woke up your dog that was sleeping in the sun."
+    },
+    {
+     "en": "Did you not fight with a tailor for wearing his new jacket before Easter?"
+    },
+    {
+     "en": "Did you not fight with another for tying his new shoes with an old ribbon?"
+    },
+    {
+     "en": "And yet you want to teach me about not fighting!"
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "No, if there were two such men, we would have none of them soon."
+    },
+    {
+     "en": "One would kill the other."
+    },
+    {
+     "en": "You? You would fight a man who has one hair more or less in his beard than you."
+    },
+    {
+     "en": "You would fight a man for cracking nuts."
+    },
+    {
+     "en": "You would do this for no reason other than because you have hazel eyes."
+    },
+    {
+     "en": "What eye but such an eye would find such a fight?"
+    },
+    {
+     "en": "Your head is as full of fights as an egg is full of meat."
+    },
+    {
+     "en": "Yet your head has been beaten as soft as an egg from fighting."
+    },
+    {
+     "en": "You fought a man for coughing in the street."
+    },
+    {
+     "en": "He had woken up your dog that was sleeping in the sun."
+    },
+    {
+     "en": "Did you not fight with a tailor for wearing his new jacket before Easter?"
+    },
+    {
+     "en": "Did you not fight with another for tying his new shoes with an old ribbon?"
+    },
+    {
+     "en": "And yet you want to tell me not to fight!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 547,
+  "tag": "P0547",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "And I were so apt to quarrel as thou art, any man should buy the fee\nsimple of my life for an hour and a quarter.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "I am just as likely to fight as you are."
+    },
+    {
+     "en": "Any man could buy my life for an hour and a quarter."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "If I were as ready to fight as you are, any man could buy my life for an hour and a quarter."
+    }
+   ]
+  }
+ },
+ {
+  "id": 548,
+  "tag": "P0548",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "The fee simple! O simple!",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "The fee simple!"
+    },
+    {
+     "en": "Oh, how simple!"
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "The fee simple!"
+    },
+    {
+     "en": "Oh, simple!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 549,
+  "tag": "P0549",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Tybalt and others.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Tybalt and others enter."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Tybalt and others enter."
+    }
+   ]
+  }
+ },
+ {
+  "id": 550,
+  "tag": "P0550",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "By my head, here comes the Capulets.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "I swear by my head."
+    },
+    {
+     "en": "Here come the Capulets."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "I swear by my head."
+    },
+    {
+     "en": "Here come the Capulets."
+    }
+   ]
+  }
+ },
+ {
+  "id": 551,
+  "tag": "P0551",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "By my heel, I care not.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "I do not care."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "I do not care."
+    }
+   ]
+  }
+ },
+ {
+  "id": 552,
+  "tag": "P0552",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "TYBALT",
+  "delivery": null,
+  "raw": "Follow me close, for I will speak to them.\nGentlemen, good-den: a word with one of you.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Follow me closely."
+    },
+    {
+     "en": "I will speak to them."
+    },
+    {
+     "en": "Good evening, gentlemen."
+    },
+    {
+     "en": "I want to say one word to one of you."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Follow me closely."
+    },
+    {
+     "en": "I will speak to them."
+    },
+    {
+     "en": "Good evening, gentlemen."
+    },
+    {
+     "en": "I want a word with one of you."
+    }
+   ]
+  }
+ },
+ {
+  "id": 553,
+  "tag": "P0553",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "And but one word with one of us? Couple it with something; make it a\nword and a blow.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Only one word with one of us?"
+    },
+    {
+     "en": "Add something else to it."
+    },
+    {
+     "en": "Make it a word and a blow."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Only one word with one of us?"
+    },
+    {
+     "en": "Add something else to it."
+    },
+    {
+     "en": "Make it a word and a blow."
+    }
+   ]
+  }
+ },
+ {
+  "id": 554,
+  "tag": "P0554",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "TYBALT",
+  "delivery": null,
+  "raw": "You shall find me apt enough to that, sir, and you will give me\noccasion.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "You will find me ready for that, sir."
+    },
+    {
+     "en": "You will give me a reason."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "You will find me ready for that, sir."
+    },
+    {
+     "en": "You will give me a reason."
+    }
+   ]
+  }
+ },
+ {
+  "id": 555,
+  "tag": "P0555",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Could you not take some occasion without giving?",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Could you not take some opportunity without giving one?"
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Could you not take some opportunity without giving one?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 556,
+  "tag": "P0556",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "TYBALT",
+  "delivery": null,
+  "raw": "Mercutio, thou consortest with Romeo.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Mercutio, you are hanging out with Romeo."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Mercutio, you are spending time with Romeo."
+    }
+   ]
+  }
+ },
+ {
+  "id": 557,
+  "tag": "P0557",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Consort? What, dost thou make us minstrels? And thou make minstrels of\nus, look to hear nothing but discords. Here’s my fiddlestick, here’s\nthat shall make you dance. Zounds, consort!",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Hang out? What, do you think we are musicians?"
+    },
+    {
+     "en": "You make us look like musicians."
+    },
+    {
+     "en": "Listen to nothing but bad music."
+    },
+    {
+     "en": "Here is my fiddle."
+    },
+    {
+     "en": "Here is what will make you dance."
+    },
+    {
+     "en": "Good heavens, hang out!"
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Spend time? What, do you think we are musicians?"
+    },
+    {
+     "en": "And you make us musicians."
+    },
+    {
+     "en": "You will only hear unpleasant sounds."
+    },
+    {
+     "en": "Here is my fiddle stick."
+    },
+    {
+     "en": "Here is what will make you dance."
+    },
+    {
+     "en": "By God's wounds, spend time!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 558,
+  "tag": "P0558",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "We talk here in the public haunt of men.\nEither withdraw unto some private place,\nAnd reason coldly of your grievances,\nOr else depart; here all eyes gaze on us.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "We are talking in a public place for men."
+    },
+    {
+     "en": "Either go to a private place."
+    },
+    {
+     "en": "Talk about your problems calmly there."
+    },
+    {
+     "en": "Or leave now."
+    },
+    {
+     "en": "Everyone is looking at us here."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "We are talking here in a public place."
+    },
+    {
+     "en": "Either go to a private place."
+    },
+    {
+     "en": "Talk about your problems calmly there."
+    },
+    {
+     "en": "Or leave now."
+    },
+    {
+     "en": "Everyone is looking at us here."
+    }
+   ]
+  }
+ },
+ {
+  "id": 559,
+  "tag": "P0559",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Men’s eyes were made to look, and let them gaze.\nI will not budge for no man’s pleasure, I.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Men's eyes were made to look."
+    },
+    {
+     "en": "Let them look."
+    },
+    {
+     "en": "I will not move for any man's pleasure."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Men's eyes were made to look."
+    },
+    {
+     "en": "Let them look."
+    },
+    {
+     "en": "I will not move for any man's pleasure."
+    }
+   ]
+  }
+ },
+ {
+  "id": 560,
+  "tag": "P0560",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Romeo.",
+  "sentences": []
+ },
+ {
+  "id": 561,
+  "tag": "P0561",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "TYBALT",
+  "delivery": null,
+  "raw": "Well, peace be with you, sir, here comes my man.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Well, peace be with you, sir."
+    },
+    {
+     "en": "Here comes my man."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Well, peace be with you, sir."
+    },
+    {
+     "en": "Here comes my man."
+    }
+   ]
+  }
+ },
+ {
+  "id": 562,
+  "tag": "P0562",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "But I’ll be hanged, sir, if he wear your livery.\nMarry, go before to field, he’ll be your follower;\nYour worship in that sense may call him man.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "But I swear, he is not wearing your uniform."
+    },
+    {
+     "en": "He will follow you."
+    },
+    {
+     "en": "You can call him your man in that way."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "But I will be hanged if he wears your uniform."
+    },
+    {
+     "en": "Indeed, go ahead of him."
+    },
+    {
+     "en": "He will follow you."
+    },
+    {
+     "en": "In that sense, you may call him a man."
+    }
+   ]
+  }
+ },
+ {
+  "id": 563,
+  "tag": "P0563",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "TYBALT",
+  "delivery": null,
+  "raw": "Romeo, the love I bear thee can afford\nNo better term than this: Thou art a villain.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Romeo, the love I have for you allows no better word than this."
+    },
+    {
+     "en": "You are a villain."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Romeo, the love I have for you allows no better word than this."
+    },
+    {
+     "en": "You are a villain."
+    }
+   ]
+  }
+ },
+ {
+  "id": 564,
+  "tag": "P0564",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Tybalt, the reason that I have to love thee\nDoth much excuse the appertaining rage\nTo such a greeting. Villain am I none;\nTherefore farewell; I see thou know’st me not.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Tybalt, the reason why I must love you makes your anger very understandable."
+    },
+    {
+     "en": "I am not a villain at all."
+    },
+    {
+     "en": "Therefore, goodbye."
+    },
+    {
+     "en": "I see that you do not know me."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Tybalt, the reason that I have to love you makes your anger very understandable."
+    },
+    {
+     "en": "I am not a villain."
+    },
+    {
+     "en": "Therefore goodbye."
+    },
+    {
+     "en": "I see that you do not know me."
+    }
+   ]
+  }
+ },
+ {
+  "id": 565,
+  "tag": "P0565",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "TYBALT",
+  "delivery": null,
+  "raw": "Boy, this shall not excuse the injuries\nThat thou hast done me, therefore turn and draw.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Boy, this will not excuse the injuries you have done to me."
+    },
+    {
+     "en": "Therefore, turn and draw your sword."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Boy, this will not excuse the injuries you have done to me."
+    },
+    {
+     "en": "Therefore turn and draw your sword."
+    }
+   ]
+  }
+ },
+ {
+  "id": 566,
+  "tag": "P0566",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "I do protest I never injur’d thee,\nBut love thee better than thou canst devise\nTill thou shalt know the reason of my love.\nAnd so good Capulet, which name I tender\nAs dearly as mine own, be satisfied.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "I protest that I never hurt you."
+    },
+    {
+     "en": "I love you more than you can imagine."
+    },
+    {
+     "en": "You will see this once you know the reason for my love."
+    },
+    {
+     "en": "And since I value the name Capulet as much as my own, be satisfied."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "I protest that I never hurt you."
+    },
+    {
+     "en": "I love you more than you can imagine."
+    },
+    {
+     "en": "You will see this when you know the reason for my love."
+    },
+    {
+     "en": "And since I value the name Capulet as much as my own, be satisfied."
+    }
+   ]
+  }
+ },
+ {
+  "id": 567,
+  "tag": "P0567",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "O calm, dishonourable, vile submission!",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Oh, what a calm, dishonorable, and vile submission!"
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Oh, what a calm, dishonorable, and vile submission!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 568,
+  "tag": "P0568",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Draws.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Mercutio draws his sword."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "They draw their swords."
+    }
+   ]
+  }
+ },
+ {
+  "id": 569,
+  "tag": "P0569",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Alla stoccata carries it away.\nTybalt, you rat-catcher, will you walk?",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "A direct strike finishes it."
+    },
+    {
+     "en": "Tybalt, you rat-catcher, do you want to fight?"
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "A direct thrust finishes it."
+    },
+    {
+     "en": "Tybalt, you rat-catcher, will you fight?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 570,
+  "tag": "P0570",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "TYBALT",
+  "delivery": null,
+  "raw": "What wouldst thou have with me?",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "What do you want from me?"
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "What do you want from me?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 571,
+  "tag": "P0571",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Good King of Cats, nothing but one of your nine lives; that I mean to\nmake bold withal, and, as you shall use me hereafter, dry-beat the rest\nof the eight. Will you pluck your sword out of his pilcher by the ears?\nMake haste, lest mine be about your ears ere it be out.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Good King of Cats, I will take one of your nine lives."
+    },
+    {
+     "en": "I mean to be bold with it."
+    },
+    {
+     "en": "And I will beat the other eight as you treat me later."
+    },
+    {
+     "en": "Will you pull your sword out of his body by the ears?"
+    },
+    {
+     "en": "Hurry up."
+    },
+    {
+     "en": "My sword might hit your head before yours comes out."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Good King of Cats, I only need one of your nine lives."
+    },
+    {
+     "en": "I intend to be bold with it."
+    },
+    {
+     "en": "And then I will beat the other eight out of you."
+    },
+    {
+     "en": "Will you pull your sword out of his body by the ears?"
+    },
+    {
+     "en": "Hurry up, before my sword is near your head before yours is out."
+    }
+   ]
+  }
+ },
+ {
+  "id": 572,
+  "tag": "P0572",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Drawing.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Mercutio and Tybalt draw their swords."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Mercutio and Tybalt draw their swords."
+    }
+   ]
+  }
+ },
+ {
+  "id": 573,
+  "tag": "P0573",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "TYBALT",
+  "delivery": null,
+  "raw": "I am for you.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "I am ready for you."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "I am ready to fight you."
+    }
+   ]
+  }
+ },
+ {
+  "id": 574,
+  "tag": "P0574",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Gentle Mercutio, put thy rapier up.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Gentle Mercutio, put your sword away."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Gentle Mercutio, put your sword away."
+    }
+   ]
+  }
+ },
+ {
+  "id": 575,
+  "tag": "P0575",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Come, sir, your passado.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Come, sir, show me your skill."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Come, sir, show me your skill."
+    }
+   ]
+  }
+ },
+ {
+  "id": 576,
+  "tag": "P0576",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "They fight.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "They fight."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "They fight."
+    }
+   ]
+  }
+ },
+ {
+  "id": 577,
+  "tag": "P0577",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Draw, Benvolio; beat down their weapons.\nGentlemen, for shame, forbear this outrage,\nTybalt, Mercutio, the Prince expressly hath\nForbid this bandying in Verona streets.\nHold, Tybalt! Good Mercutio!",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Draw, Benvolio."
+    },
+    {
+     "en": "Beat down their weapons."
+    },
+    {
+     "en": "Gentlemen, stop this violence for shame."
+    },
+    {
+     "en": "Tybalt, Mercutio, the Prince has strictly forbidden fighting in the streets of Verona."
+    },
+    {
+     "en": "Stop, Tybalt!"
+    },
+    {
+     "en": "Good Mercutio!"
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Draw, Benvolio."
+    },
+    {
+     "en": "Beat down their weapons."
+    },
+    {
+     "en": "Gentlemen, stop this violence for shame."
+    },
+    {
+     "en": "Tybalt, Mercutio, the Prince has strictly forbidden fighting in the streets of Verona."
+    },
+    {
+     "en": "Stop, Tybalt!"
+    },
+    {
+     "en": "Good Mercutio!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 578,
+  "tag": "P0578",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt Tybalt with his Partizans.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Tybalt leaves with his weapons."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Tybalt leaves with his weapons."
+    }
+   ]
+  }
+ },
+ {
+  "id": 579,
+  "tag": "P0579",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "I am hurt.\nA plague o’ both your houses. I am sped.\nIs he gone, and hath nothing?",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "I am hurt."
+    },
+    {
+     "en": "A plague on both of your houses."
+    },
+    {
+     "en": "I am finished."
+    },
+    {
+     "en": "Is he gone, and did he get nothing?"
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "I am hurt."
+    },
+    {
+     "en": "A plague on both your houses."
+    },
+    {
+     "en": "I am dying."
+    },
+    {
+     "en": "Is he gone, and did he get nothing?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 580,
+  "tag": "P0580",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "What, art thou hurt?",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "What, are you hurt?"
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "What, are you hurt?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 581,
+  "tag": "P0581",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Ay, ay, a scratch, a scratch. Marry, ’tis enough.\nWhere is my page? Go villain, fetch a surgeon.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Yes, yes, it is just a scratch."
+    },
+    {
+     "en": "It is enough."
+    },
+    {
+     "en": "Where is my servant?"
+    },
+    {
+     "en": "Go, villain, and get a doctor."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Yes, yes, it is just a scratch."
+    },
+    {
+     "en": "It is enough."
+    },
+    {
+     "en": "Where is my servant?"
+    },
+    {
+     "en": "Go, villain, and get a doctor."
+    }
+   ]
+  }
+ },
+ {
+  "id": 582,
+  "tag": "P0582",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exit Page.",
+  "sentences": []
+ },
+ {
+  "id": 583,
+  "tag": "P0583",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Courage, man; the hurt cannot be much.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Be brave, man."
+    },
+    {
+     "en": "The injury cannot be very bad."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Be brave, man."
+    },
+    {
+     "en": "The injury cannot be very bad."
+    }
+   ]
+  }
+ },
+ {
+  "id": 584,
+  "tag": "P0584",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "No, ’tis not so deep as a well, nor so wide as a church door, but ’tis\nenough, ’twill serve. Ask for me tomorrow, and you shall find me a\ngrave man. I am peppered, I warrant, for this world. A plague o’ both\nyour houses. Zounds, a dog, a rat, a mouse, a cat, to scratch a man to\ndeath. A braggart, a rogue, a villain, that fights by the book of\narithmetic!—Why the devil came you between us? I was hurt under your\narm.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "No, it is not as deep as a well."
+    },
+    {
+     "en": "It is not as wide as a church door."
+    },
+    {
+     "en": "But it is enough."
+    },
+    {
+     "en": "It will do."
+    },
+    {
+     "en": "Ask for me tomorrow."
+    },
+    {
+     "en": "You will find me a dead man."
+    },
+    {
+     "en": "I am full of wounds in this world."
+    },
+    {
+     "en": "A plague on both your houses."
+    },
+    {
+     "en": "By God, a dog, a rat, a mouse, or a cat could scratch a man to death."
+    },
+    {
+     "en": "He is a braggart and a rogue."
+    },
+    {
+     "en": "He is a villain who fights by the rules!"
+    },
+    {
+     "en": "Why did you come between us?"
+    },
+    {
+     "en": "I was hurt under your arm."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "No, it is not as deep as a well."
+    },
+    {
+     "en": "It is not as wide as a church door."
+    },
+    {
+     "en": "But it is enough."
+    },
+    {
+     "en": "It will do."
+    },
+    {
+     "en": "Ask for me tomorrow."
+    },
+    {
+     "en": "You will find me a dead man."
+    },
+    {
+     "en": "I am full of wounds in this world."
+    },
+    {
+     "en": "A plague on both your houses."
+    },
+    {
+     "en": "By God, a dog, a rat, a mouse, or a cat scratched me to death."
+    },
+    {
+     "en": "He is a braggart and a rogue."
+    },
+    {
+     "en": "He is a villain who fights by the rules!"
+    },
+    {
+     "en": "Why did you come between us?"
+    },
+    {
+     "en": "I was hurt under your arm."
+    }
+   ]
+  }
+ },
+ {
+  "id": 585,
+  "tag": "P0585",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "I thought all for the best.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "I thought it was for the best."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "I thought it was for the best."
+    }
+   ]
+  }
+ },
+ {
+  "id": 586,
+  "tag": "P0586",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Help me into some house, Benvolio,\nOr I shall faint. A plague o’ both your houses.\nThey have made worms’ meat of me.\nI have it, and soundly too. Your houses!",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Help me into a house, Benvolio."
+    },
+    {
+     "en": "Or I will faint."
+    },
+    {
+     "en": "A plague on both your houses."
+    },
+    {
+     "en": "They have made me food for worms."
+    },
+    {
+     "en": "I feel it clearly."
+    },
+    {
+     "en": "Your houses!"
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Help me into a house, Benvolio."
+    },
+    {
+     "en": "Or I will faint."
+    },
+    {
+     "en": "A plague on both your houses."
+    },
+    {
+     "en": "They have made me food for worms."
+    },
+    {
+     "en": "I feel it deeply."
+    },
+    {
+     "en": "Your houses!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 587,
+  "tag": "P0587",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt Mercutio and Benvolio.",
+  "sentences": []
+ },
+ {
+  "id": 588,
+  "tag": "P0588",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "This gentleman, the Prince’s near ally,\nMy very friend, hath got his mortal hurt\nIn my behalf; my reputation stain’d\nWith Tybalt’s slander,—Tybalt, that an hour\nHath been my cousin. O sweet Juliet,\nThy beauty hath made me effeminate\nAnd in my temper soften’d valour’s steel.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "This gentleman is a close friend of the Prince."
+    },
+    {
+     "en": "He is my very friend."
+    },
+    {
+     "en": "He was hurt for my sake."
+    },
+    {
+     "en": "My reputation is ruined by Tybalt's lies."
+    },
+    {
+     "en": "Tybalt has been my cousin for an hour."
+    },
+    {
+     "en": "Oh sweet Juliet, your beauty has made me weak."
+    },
+    {
+     "en": "It softened my brave spirit."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "This gentleman is a close ally of the Prince."
+    },
+    {
+     "en": "He is my very friend."
+    },
+    {
+     "en": "He suffered a fatal injury for me."
+    },
+    {
+     "en": "My reputation is ruined by Tybalt's lies."
+    },
+    {
+     "en": "Tybalt was my cousin for an hour."
+    },
+    {
+     "en": "Oh sweet Juliet, your beauty has made me weak."
+    },
+    {
+     "en": "It softened my brave spirit."
+    }
+   ]
+  }
+ },
+ {
+  "id": 589,
+  "tag": "P0589",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Re-enter Benvolio.",
+  "sentences": []
+ },
+ {
+  "id": 590,
+  "tag": "P0590",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "O Romeo, Romeo, brave Mercutio’s dead,\nThat gallant spirit hath aspir’d the clouds,\nWhich too untimely here did scorn the earth.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "O Romeo, Romeo, brave Mercutio is dead."
+    },
+    {
+     "en": "His brave spirit has gone to the clouds."
+    },
+    {
+     "en": "He left the earth too soon."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Oh Romeo, Romeo, brave Mercutio is dead."
+    },
+    {
+     "en": "His brave spirit has gone to the clouds."
+    },
+    {
+     "en": "He did not want to stay on the earth."
+    }
+   ]
+  }
+ },
+ {
+  "id": 591,
+  "tag": "P0591",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "This day’s black fate on mo days doth depend;\nThis but begins the woe others must end.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "The bad fate of this day depends on my actions."
+    },
+    {
+     "en": "This only begins the sadness that others must end."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "The bad fate of this day depends on my actions."
+    },
+    {
+     "en": "This only begins the sadness that others must end."
+    }
+   ]
+  }
+ },
+ {
+  "id": 592,
+  "tag": "P0592",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Re-enter Tybalt.",
+  "sentences": []
+ },
+ {
+  "id": 593,
+  "tag": "P0593",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Here comes the furious Tybalt back again.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "The angry Tybalt is coming back here."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "The angry Tybalt is coming back here."
+    }
+   ]
+  }
+ },
+ {
+  "id": 594,
+  "tag": "P0594",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Again in triumph, and Mercutio slain?\nAway to heaven respective lenity,\nAnd fire-ey’d fury be my conduct now!\nNow, Tybalt, take the ‘villain’ back again\nThat late thou gav’st me, for Mercutio’s soul\nIs but a little way above our heads,\nStaying for thine to keep him company.\nEither thou or I, or both, must go with him.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Are you celebrating again because Mercutio is killed?"
+    },
+    {
+     "en": "I will not be gentle anymore."
+    },
+    {
+     "en": "I will fight with great anger now!"
+    },
+    {
+     "en": "Now, Tybalt, take back the 'villain' title."
+    },
+    {
+     "en": "You gave me that title recently."
+    },
+    {
+     "en": "Mercutio's soul is just above our heads."
+    },
+    {
+     "en": "He is waiting for your soul to join him."
+    },
+    {
+     "en": "Either you or I, or both of us, must go with him."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Are you celebrating again because Mercutio is killed?"
+    },
+    {
+     "en": "I will not be gentle now."
+    },
+    {
+     "en": "I will act with fire and anger!"
+    },
+    {
+     "en": "Now, Tybalt, take back the 'villain' title."
+    },
+    {
+     "en": "You gave me that name recently."
+    },
+    {
+     "en": "Mercutio's soul is just above our heads."
+    },
+    {
+     "en": "He is waiting for your soul to join him."
+    },
+    {
+     "en": "Either you or I, or both of us, must go with him."
+    }
+   ]
+  }
+ },
+ {
+  "id": 595,
+  "tag": "P0595",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "TYBALT",
+  "delivery": null,
+  "raw": "Thou wretched boy, that didst consort him here,\nShalt with him hence.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "You miserable boy."
+    },
+    {
+     "en": "You were with him here."
+    },
+    {
+     "en": "You will go away with him."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "You miserable boy."
+    },
+    {
+     "en": "You were with him here."
+    },
+    {
+     "en": "You will go away with him."
+    }
+   ]
+  }
+ },
+ {
+  "id": 596,
+  "tag": "P0596",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "This shall determine that.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "This will decide that."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "This will decide that."
+    }
+   ]
+  }
+ },
+ {
+  "id": 597,
+  "tag": "P0597",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "They fight; Tybalt falls.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "They fight."
+    },
+    {
+     "en": "Tybalt falls."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "They fight."
+    },
+    {
+     "en": "Tybalt falls."
+    }
+   ]
+  }
+ },
+ {
+  "id": 598,
+  "tag": "P0598",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Romeo, away, be gone!\nThe citizens are up, and Tybalt slain.\nStand not amaz’d. The Prince will doom thee death\nIf thou art taken. Hence, be gone, away!",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Romeo, go away now!"
+    },
+    {
+     "en": "The people are coming up."
+    },
+    {
+     "en": "Tybalt is killed."
+    },
+    {
+     "en": "Do not stand there in shock."
+    },
+    {
+     "en": "The Prince will sentence you to death if you are caught."
+    },
+    {
+     "en": "Go away now!"
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Romeo, go away!"
+    },
+    {
+     "en": "The people are waking up."
+    },
+    {
+     "en": "Tybalt is killed."
+    },
+    {
+     "en": "Do not stand there in shock."
+    },
+    {
+     "en": "The Prince will sentence you to death if he catches you."
+    },
+    {
+     "en": "Go away now!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 599,
+  "tag": "P0599",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "O, I am fortune’s fool!",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Oh, I am a fool of fortune!"
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Oh, I am a fool of fortune!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 600,
+  "tag": "P0600",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Why dost thou stay?",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Why do you stay?"
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Why do you stay?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 601,
+  "tag": "P0601",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exit Romeo.",
+  "sentences": []
+ },
+ {
+  "id": 602,
+  "tag": "P0602",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Citizens.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Citizens enter."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Citizens enter."
+    }
+   ]
+  }
+ },
+ {
+  "id": 603,
+  "tag": "P0603",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "FIRST CITIZEN",
+  "delivery": null,
+  "raw": "Which way ran he that kill’d Mercutio?\nTybalt, that murderer, which way ran he?",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "In which direction did the man who killed Mercutio run?"
+    },
+    {
+     "en": "Tybalt is a murderer. In which direction did he run?"
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "In which direction did the man who killed Mercutio run?"
+    },
+    {
+     "en": "Tybalt is a murderer. In which direction did he run?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 604,
+  "tag": "P0604",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "There lies that Tybalt.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "That Tybalt lies there."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "That is Tybalt lying there."
+    }
+   ]
+  }
+ },
+ {
+  "id": 605,
+  "tag": "P0605",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "FIRST CITIZEN",
+  "delivery": null,
+  "raw": "Up, sir, go with me.\nI charge thee in the Prince’s name obey.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Get up, sir."
+    },
+    {
+     "en": "Come with me."
+    },
+    {
+     "en": "I command you in the Prince's name to obey."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Get up, sir."
+    },
+    {
+     "en": "Come with me."
+    },
+    {
+     "en": "I command you in the Prince's name to obey."
+    }
+   ]
+  }
+ },
+ {
+  "id": 606,
+  "tag": "P0606",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Prince, attended; Montague, Capulet, their Wives and others.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "The Prince enters with his followers."
+    },
+    {
+     "en": "Montague, Capulet, their wives, and others enter."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "The Prince enters with his followers."
+    },
+    {
+     "en": "Montague, Capulet, their wives, and others enter."
+    }
+   ]
+  }
+ },
+ {
+  "id": 607,
+  "tag": "P0607",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "PRINCE",
+  "delivery": null,
+  "raw": "Where are the vile beginners of this fray?",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Where are the people who started this fight?"
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Where are the people who started this fight?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 608,
+  "tag": "P0608",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "O noble Prince, I can discover all\nThe unlucky manage of this fatal brawl.\nThere lies the man, slain by young Romeo,\nThat slew thy kinsman, brave Mercutio.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "O noble Prince, I can explain everything about this fatal fight."
+    },
+    {
+     "en": "The man lies there."
+    },
+    {
+     "en": "He was killed by young Romeo."
+    },
+    {
+     "en": "Romeo killed your kinsman, brave Mercutio."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "O noble Prince, I can explain everything."
+    },
+    {
+     "en": "I can tell you how this fatal fight happened."
+    },
+    {
+     "en": "The man lies there."
+    },
+    {
+     "en": "He was killed by young Romeo."
+    },
+    {
+     "en": "Romeo killed your kinsman, brave Mercutio."
+    }
+   ]
+  }
+ },
+ {
+  "id": 609,
+  "tag": "P0609",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "Tybalt, my cousin! O my brother’s child!\nO Prince! O husband! O, the blood is spill’d\nOf my dear kinsman! Prince, as thou art true,\nFor blood of ours shed blood of Montague.\nO cousin, cousin.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Tybalt is my cousin!"
+    },
+    {
+     "en": "He is my brother's child!"
+    },
+    {
+     "en": "O Prince! O husband!"
+    },
+    {
+     "en": "The blood of my dear kinsman is spilled!"
+    },
+    {
+     "en": "Prince, you are a fair man."
+    },
+    {
+     "en": "A Montague killed our relative."
+    },
+    {
+     "en": "Oh, cousin, cousin."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Tybalt is my cousin!"
+    },
+    {
+     "en": "He is my brother's child!"
+    },
+    {
+     "en": "O Prince! O husband!"
+    },
+    {
+     "en": "The blood of my dear kinsman is spilled!"
+    },
+    {
+     "en": "Prince, because you are true, the blood of a Montague was shed for our blood."
+    },
+    {
+     "en": "O cousin, cousin."
+    }
+   ]
+  }
+ },
+ {
+  "id": 610,
+  "tag": "P0610",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "PRINCE",
+  "delivery": null,
+  "raw": "Benvolio, who began this bloody fray?",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Benvolio, who started this bloody fight?"
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Benvolio, who started this bloody fight?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 611,
+  "tag": "P0611",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Tybalt, here slain, whom Romeo’s hand did slay;\nRomeo, that spoke him fair, bid him bethink\nHow nice the quarrel was, and urg’d withal\nYour high displeasure. All this uttered\nWith gentle breath, calm look, knees humbly bow’d\nCould not take truce with the unruly spleen\nOf Tybalt, deaf to peace, but that he tilts\nWith piercing steel at bold Mercutio’s breast,\nWho, all as hot, turns deadly point to point,\nAnd, with a martial scorn, with one hand beats\nCold death aside, and with the other sends\nIt back to Tybalt, whose dexterity\nRetorts it. Romeo he cries aloud,\n‘Hold, friends! Friends, part!’ and swifter than his tongue,\nHis agile arm beats down their fatal points,\nAnd ’twixt them rushes; underneath whose arm\nAn envious thrust from Tybalt hit the life\nOf stout Mercutio, and then Tybalt fled.\nBut by and by comes back to Romeo,\nWho had but newly entertain’d revenge,\nAnd to’t they go like lightning; for, ere I\nCould draw to part them was stout Tybalt slain;\nAnd as he fell did Romeo turn and fly.\nThis is the truth, or let Benvolio die.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Tybalt lies here dead."
+    },
+    {
+     "en": "Romeo killed him with his own hands."
+    },
+    {
+     "en": "Romeo spoke to him kindly."
+    },
+    {
+     "en": "He told Tybalt the fight was bad."
+    },
+    {
+     "en": "He warned him about your anger, Prince."
+    },
+    {
+     "en": "Romeo spoke with a soft voice and a calm look."
+    },
+    {
+     "en": "He stayed on his knees in a humble way."
+    },
+    {
+     "en": "But Tybalt would not listen to peace."
+    },
+    {
+     "en": "Tybalt was angry and ignored the words of peace."
+    },
+    {
+     "en": "He attacked Mercutio with a sharp sword."
+    },
+    {
+     "en": "Mercutio was also very angry."
+    },
+    {
+     "en": "Mercutio fought back with his sword."
+    },
+    {
+     "en": "They fought with great skill."
+    },
+    {
+     "en": "Romeo shouted to his friends to stop."
+    },
+    {
+     "en": "He told them to move apart."
+    },
+    {
+     "en": "His arm moved faster than his words."
+    },
+    {
+     "en": "He pushed their swords down."
+    },
+    {
+     "en": "He ran between the two men."
+    },
+    {
+     "en": "Tybalt hit Mercutio under Romeo's arm."
+    },
+    {
+     "en": "This strike killed Mercutio."
+    },
+    {
+     "en": "Then Tybalt ran away."
+    },
+    {
+     "en": "But he soon came back to Romeo."
+    },
+    {
+     "en": "Romeo was ready to take his revenge."
+    },
+    {
+     "en": "They fought like lightning."
+    },
+    {
+     "en": "Before I could move to separate them, Tybalt was killed."
+    },
+    {
+     "en": "Romeo turned and ran away immediately after."
+    },
+    {
+     "en": "This is the truth."
+    },
+    {
+     "en": "If it is not true, let me die."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Tybalt is lying here."
+    },
+    {
+     "en": "Romeo's hand killed him."
+    },
+    {
+     "en": "Romeo spoke to him nicely."
+    },
+    {
+     "en": "He told Tybalt how bad the fight was."
+    },
+    {
+     "en": "He warned him about your anger."
+    },
+    {
+     "en": "Romeo said this with a gentle voice and a calm look."
+    },
+    {
+     "en": "He stayed on his knees in a humble way."
+    },
+    {
+     "en": "But Tybalt did not listen to peace."
+    },
+    {
+     "en": "Tybalt had an angry temper."
+    },
+    {
+     "en": "He attacked Mercutio's chest with a sharp sword."
+    },
+    {
+     "en": "Mercutio was also very angry."
+    },
+    {
+     "en": "He fought back with his sword."
+    },
+    {
+     "en": "He pushed death away with one hand."
+    },
+    {
+     "en": "He sent the attack back to Tybalt with the other hand."
+    },
+    {
+     "en": "Tybalt blocked the move skillfully."
+    },
+    {
+     "en": "Romeo shouted out loudly."
+    },
+    {
+     "en": "He told his friends to stop and stay apart."
+    },
+    {
+     "en": "His arm moved faster than his words."
+    },
+    {
+     "en": "He pushed their swords down."
+    },
+    {
+     "en": "He ran between them."
+    },
+    {
+     "en": "A jealous strike from Tybalt hit Mercutio's heart."
+    },
+    {
+     "en": "Mercutio was strong, but he died."
+    },
+    {
+     "en": "Then Tybalt ran away."
+    },
+    {
+     "en": "But in a moment, Tybalt came back to Romeo."
+    },
+    {
+     "en": "Romeo had just started to seek revenge."
+    },
+    {
+     "en": "They fought like lightning."
+    },
+    {
+     "en": "Before I could move to separate them, Tybalt was killed."
+    },
+    {
+     "en": "As he fell, Romeo turned and ran away."
+    },
+    {
+     "en": "This is the truth."
+    },
+    {
+     "en": "If it is not true, let me die."
+    }
+   ]
+  }
+ },
+ {
+  "id": 612,
+  "tag": "P0612",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "He is a kinsman to the Montague.\nAffection makes him false, he speaks not true.\nSome twenty of them fought in this black strife,\nAnd all those twenty could but kill one life.\nI beg for justice, which thou, Prince, must give;\nRomeo slew Tybalt, Romeo must not live.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "He is a relative of the Montague family."
+    },
+    {
+     "en": "Love makes him dishonest."
+    },
+    {
+     "en": "He is not telling the truth."
+    },
+    {
+     "en": "About twenty people fought in this terrible fight."
+    },
+    {
+     "en": "All those twenty people only killed one person."
+    },
+    {
+     "en": "I ask for justice, which you must give, Prince."
+    },
+    {
+     "en": "Romeo killed Tybalt."
+    },
+    {
+     "en": "Romeo must not live."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "He is a relative of the Montague family."
+    },
+    {
+     "en": "Love makes him dishonest."
+    },
+    {
+     "en": "He does not speak the truth."
+    },
+    {
+     "en": "About twenty people fought in this terrible fight."
+    },
+    {
+     "en": "All those twenty people could only kill one person."
+    },
+    {
+     "en": "I ask for justice."
+    },
+    {
+     "en": "You must give justice, Prince."
+    },
+    {
+     "en": "Romeo killed Tybalt."
+    },
+    {
+     "en": "Romeo must not live."
+    }
+   ]
+  }
+ },
+ {
+  "id": 613,
+  "tag": "P0613",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "PRINCE",
+  "delivery": null,
+  "raw": "Romeo slew him, he slew Mercutio.\nWho now the price of his dear blood doth owe?",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Romeo killed him."
+    },
+    {
+     "en": "He killed Mercutio."
+    },
+    {
+     "en": "Who now owes the price for his dear blood?"
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Romeo killed him."
+    },
+    {
+     "en": "He killed Mercutio."
+    },
+    {
+     "en": "Who now owes the price for his dear blood?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 614,
+  "tag": "P0614",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MONTAGUE",
+  "delivery": null,
+  "raw": "Not Romeo, Prince, he was Mercutio’s friend;\nHis fault concludes but what the law should end,\nThe life of Tybalt.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "Not Romeo, Prince."
+    },
+    {
+     "en": "He was a friend of Mercutio."
+    },
+    {
+     "en": "His crime is only what the law should end."
+    },
+    {
+     "en": "That is the life of Tybalt."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "Not Romeo, Prince."
+    },
+    {
+     "en": "He was a friend of Mercutio."
+    },
+    {
+     "en": "His crime is only what the law should end."
+    },
+    {
+     "en": "That is the life of Tybalt."
+    }
+   ]
+  }
+ },
+ {
+  "id": 615,
+  "tag": "P0615",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "PRINCE",
+  "delivery": null,
+  "raw": "And for that offence\nImmediately we do exile him hence.\nI have an interest in your hate’s proceeding,\nMy blood for your rude brawls doth lie a-bleeding.\nBut I’ll amerce you with so strong a fine\nThat you shall all repent the loss of mine.\nI will be deaf to pleading and excuses;\nNor tears nor prayers shall purchase out abuses.\nTherefore use none. Let Romeo hence in haste,\nElse, when he is found, that hour is his last.\nBear hence this body, and attend our will.\nMercy but murders, pardoning those that kill.",
+  "sentences": [],
+  "drafts": {
+   "gemma4": [
+    {
+     "en": "For that crime, we will exile him immediately."
+    },
+    {
+     "en": "I have a reason to hate your actions."
+    },
+    {
+     "en": "My blood is bleeding because of your rude fighting."
+    },
+    {
+     "en": "But I will fine you so much money that you will regret the loss of my safety."
+    },
+    {
+     "en": "I will not listen to any pleas or excuses."
+    },
+    {
+     "en": "Neither tears nor prayers will change the punishment."
+    },
+    {
+     "en": "Therefore, do not use them."
+    },
+    {
+     "en": "Let Romeo leave here quickly."
+    },
+    {
+     "en": "If he is found here, that hour will be his last."
+    },
+    {
+     "en": "Take this body away."
+    },
+    {
+     "en": "Follow my orders."
+    },
+    {
+     "en": "Mercy only helps murderers by pardoning those who kill."
+    }
+   ],
+   "gemma4_gloss": [
+    {
+     "en": "For that crime, we will exile him from here immediately."
+    },
+    {
+     "en": "I have a reason to hate your actions."
+    },
+    {
+     "en": "My blood is bleeding because of your rude fight."
+    },
+    {
+     "en": "But I will fine you so much money that you will all regret the loss of my safety."
+    },
+    {
+     "en": "I will not listen to pleas or excuses."
+    },
+    {
+     "en": "Neither tears nor prayers will change the punishment."
+    },
+    {
+     "en": "So do not use them."
+    },
+    {
+     "en": "Let Romeo leave here quickly."
+    },
+    {
+     "en": "If he is found, that hour will be his last."
+    },
+    {
+     "en": "Take this body away."
+    },
+    {
+     "en": "Follow my orders."
+    },
+    {
+     "en": "Mercy only helps murderers by forgiving those who kill."
+    }
+   ]
+  }
+ },
+ {
+  "id": 616,
+  "tag": "P0616",
+  "chapter_id": "ch_12",
+  "act": 3,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt.",
+  "sentences": []
+ }
+]

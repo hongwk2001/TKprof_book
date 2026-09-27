@@ -1,0 +1,1444 @@
+[
+ {
+  "id": 890,
+  "tag": "P0890",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "header",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Act 4, Scene 5 — Juliet’s Chamber; Juliet on the bed",
+  "sentences": []
+ },
+ {
+  "id": 891,
+  "tag": "P0891",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Nurse.",
+  "sentences": []
+ },
+ {
+  "id": 892,
+  "tag": "P0892",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Mistress! What, mistress! Juliet! Fast, I warrant her, she.\nWhy, lamb, why, lady, fie, you slug-abed!\nWhy, love, I say! Madam! Sweetheart! Why, bride!\nWhat, not a word? You take your pennyworths now.\nSleep for a week; for the next night, I warrant,\nThe County Paris hath set up his rest\nThat you shall rest but little. God forgive me!\nMarry and amen. How sound is she asleep!\nI needs must wake her. Madam, madam, madam!\nAy, let the County take you in your bed,\nHe’ll fright you up, i’faith. Will it not be?\nWhat, dress’d, and in your clothes, and down again?\nI must needs wake you. Lady! Lady! Lady!\nAlas, alas! Help, help! My lady’s dead!\nO, well-a-day that ever I was born.\nSome aqua vitae, ho! My lord! My lady!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Madam!"
+    },
+    {
+     "en": "What, madam!"
+    },
+    {
+     "en": "Juliet!"
+    },
+    {
+     "en": "I promise you, she is awake."
+    },
+    {
+     "en": "Why, lamb, why, lady, shame on you, you lazy sleeper!"
+    },
+    {
+     "en": "Why, love, I say!"
+    },
+    {
+     "en": "Madam!"
+    },
+    {
+     "en": "Sweetheart!"
+    },
+    {
+     "en": "Why, bride!"
+    },
+    {
+     "en": "What, not a word?"
+    },
+    {
+     "en": "You will take your coins now."
+    },
+    {
+     "en": "Sleep for a week."
+    },
+    {
+     "en": "For the next night, I promise, count Paris has prepared his place of rest that you will rest very little."
+    },
+    {
+     "en": "God forgive me!"
+    },
+    {
+     "en": "Indeed and amen."
+    },
+    {
+     "en": "How deeply she is asleep!"
+    },
+    {
+     "en": "I must wake her."
+    },
+    {
+     "en": "Madam, madam, madam!"
+    },
+    {
+     "en": "Yes, let the Count take you in your bed."
+    },
+    {
+     "en": "He will frighten you awake, I believe."
+    },
+    {
+     "en": "Will it not be?"
+    },
+    {
+     "en": "What, dressed and in your clothes, and then back down again?"
+    },
+    {
+     "en": "I must wake you."
+    },
+    {
+     "en": "Lady!"
+    },
+    {
+     "en": "Lady!"
+    },
+    {
+     "en": "Lady!"
+    },
+    {
+     "en": "Alas, alas!"
+    },
+    {
+     "en": "Help, help!"
+    },
+    {
+     "en": "My lady is dead!"
+    },
+    {
+     "en": "Oh, what a day it is that I was ever born."
+    },
+    {
+     "en": "Some strong wine, quickly!"
+    },
+    {
+     "en": "My lord!"
+    },
+    {
+     "en": "My lady!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 893,
+  "tag": "P0893",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Lady Capulet.",
+  "sentences": []
+ },
+ {
+  "id": 894,
+  "tag": "P0894",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "What noise is here?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "What noise is here?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 895,
+  "tag": "P0895",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "O lamentable day!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh, what a sad day!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 896,
+  "tag": "P0896",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "What is the matter?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "What is the matter?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 897,
+  "tag": "P0897",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Look, look! O heavy day!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Look, look!"
+    },
+    {
+     "en": "Oh, what a sad day!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 898,
+  "tag": "P0898",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "O me, O me! My child, my only life.\nRevive, look up, or I will die with thee.\nHelp, help! Call help.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh me, oh me!"
+    },
+    {
+     "en": "My child, my only life."
+    },
+    {
+     "en": "Wake up, look up, or I will die with you."
+    },
+    {
+     "en": "Help, help!"
+    },
+    {
+     "en": "Call for help."
+    }
+   ]
+  }
+ },
+ {
+  "id": 899,
+  "tag": "P0899",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Capulet.",
+  "sentences": []
+ },
+ {
+  "id": 900,
+  "tag": "P0900",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "For shame, bring Juliet forth, her lord is come.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "For shame, bring Juliet out."
+    },
+    {
+     "en": "Her lord has arrived."
+    }
+   ]
+  }
+ },
+ {
+  "id": 901,
+  "tag": "P0901",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "She’s dead, deceas’d, she’s dead; alack the day!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "She is dead, deceased, she is dead."
+    },
+    {
+     "en": "Oh no, what a day!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 902,
+  "tag": "P0902",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "Alack the day, she’s dead, she’s dead, she’s dead!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh no, the day!"
+    },
+    {
+     "en": "She is dead."
+    },
+    {
+     "en": "She is dead."
+    },
+    {
+     "en": "She is dead!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 903,
+  "tag": "P0903",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Ha! Let me see her. Out alas! She’s cold,\nHer blood is settled and her joints are stiff.\nLife and these lips have long been separated.\nDeath lies on her like an untimely frost\nUpon the sweetest flower of all the field.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Ha!"
+    },
+    {
+     "en": "Let me see her."
+    },
+    {
+     "en": "Oh no!"
+    },
+    {
+     "en": "She is cold."
+    },
+    {
+     "en": "Her blood has stopped moving and her joints are stiff."
+    },
+    {
+     "en": "Life and these lips have been apart for a long time."
+    },
+    {
+     "en": "Death lies on her like an early frost."
+    },
+    {
+     "en": "It is like frost on the sweetest flower in the field."
+    }
+   ]
+  }
+ },
+ {
+  "id": 904,
+  "tag": "P0904",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "O lamentable day!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh, what a sad day!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 905,
+  "tag": "P0905",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "O woful time!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh, what a miserable time!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 906,
+  "tag": "P0906",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Death, that hath ta’en her hence to make me wail,\nTies up my tongue and will not let me speak.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Death took her away to make me cry."
+    },
+    {
+     "en": "But death ties my tongue and will not let me speak."
+    }
+   ]
+  }
+ },
+ {
+  "id": 907,
+  "tag": "P0907",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Friar Lawrence and Paris with Musicians.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Friar Lawrence and Paris enter with musicians."
+    }
+   ]
+  }
+ },
+ {
+  "id": 908,
+  "tag": "P0908",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "FRIAR LAWRENCE",
+  "delivery": null,
+  "raw": "Come, is the bride ready to go to church?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Come, is the bride ready to go to church?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 909,
+  "tag": "P0909",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Ready to go, but never to return.\nO son, the night before thy wedding day\nHath death lain with thy bride. There she lies,\nFlower as she was, deflowered by him.\nDeath is my son-in-law, death is my heir;\nMy daughter he hath wedded. I will die\nAnd leave him all; life, living, all is death’s.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "She is ready to go, but she will never return."
+    },
+    {
+     "en": "Oh son, death stayed with your bride the night before your wedding day."
+    },
+    {
+     "en": "There she lies."
+    },
+    {
+     "en": "She was like a flower, and he has ruined her."
+    },
+    {
+     "en": "Death is my son-in-law."
+    },
+    {
+     "en": "Death is my heir."
+    },
+    {
+     "en": "He has married my daughter."
+    },
+    {
+     "en": "I will die and leave everything to him."
+    },
+    {
+     "en": "Life, living, and all things belong to death."
+    }
+   ]
+  }
+ },
+ {
+  "id": 910,
+  "tag": "P0910",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "PARIS",
+  "delivery": null,
+  "raw": "Have I thought long to see this morning’s face,\nAnd doth it give me such a sight as this?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Have I waited a long time to see this morning's face?"
+    },
+    {
+     "en": "Does it give me such a sight as this?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 911,
+  "tag": "P0911",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "Accurs’d, unhappy, wretched, hateful day.\nMost miserable hour that e’er time saw\nIn lasting labour of his pilgrimage.\nBut one, poor one, one poor and loving child,\nBut one thing to rejoice and solace in,\nAnd cruel death hath catch’d it from my sight.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Accursed, unhappy, wretched, hateful day."
+    },
+    {
+     "en": "This is the most miserable hour that time has ever seen."
+    },
+    {
+     "en": "But one, poor one, one poor and loving child."
+    },
+    {
+     "en": "There was only one thing to rejoice in and find comfort in."
+    },
+    {
+     "en": "Cruel death has taken it from my sight."
+    }
+   ]
+  }
+ },
+ {
+  "id": 912,
+  "tag": "P0912",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "O woe! O woeful, woeful, woeful day.\nMost lamentable day, most woeful day\nThat ever, ever, I did yet behold!\nO day, O day, O day, O hateful day.\nNever was seen so black a day as this.\nO woeful day, O woeful day.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh woe! Oh woeful, woeful, woeful day."
+    },
+    {
+     "en": "Most lamentable day, most woeful day!"
+    },
+    {
+     "en": "I have never seen such a sad day before."
+    },
+    {
+     "en": "Oh day, oh day, oh day, oh hateful day."
+    },
+    {
+     "en": "Never was such a black day seen as this."
+    },
+    {
+     "en": "Oh woeful day, oh woeful day."
+    }
+   ]
+  }
+ },
+ {
+  "id": 913,
+  "tag": "P0913",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "PARIS",
+  "delivery": null,
+  "raw": "Beguil’d, divorced, wronged, spited, slain.\nMost detestable death, by thee beguil’d,\nBy cruel, cruel thee quite overthrown.\nO love! O life! Not life, but love in death!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Betrayed, separated, wronged, insulted, killed."
+    },
+    {
+     "en": "Most detestable death, you have betrayed me."
+    },
+    {
+     "en": "Cruel, cruel death has completely overthrown me."
+    },
+    {
+     "en": "Oh love! Oh life!"
+    },
+    {
+     "en": "Not life, but love in death!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 914,
+  "tag": "P0914",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Despis’d, distressed, hated, martyr’d, kill’d.\nUncomfortable time, why cam’st thou now\nTo murder, murder our solemnity?\nO child! O child! My soul, and not my child,\nDead art thou. Alack, my child is dead,\nAnd with my child my joys are buried.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Despised, distressed, hated, martyred, killed."
+    },
+    {
+     "en": "Uncomfortable time, why did you come now?"
+    },
+    {
+     "en": "Why do you murder our solemnity?"
+    },
+    {
+     "en": "Oh child! Oh child!"
+    },
+    {
+     "en": "My soul, and not my child, is dead."
+    },
+    {
+     "en": "Oh no, my child is dead."
+    },
+    {
+     "en": "My joys are buried with my child."
+    }
+   ]
+  }
+ },
+ {
+  "id": 915,
+  "tag": "P0915",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "FRIAR LAWRENCE",
+  "delivery": null,
+  "raw": "Peace, ho, for shame. Confusion’s cure lives not\nIn these confusions. Heaven and yourself\nHad part in this fair maid, now heaven hath all,\nAnd all the better is it for the maid.\nYour part in her you could not keep from death,\nBut heaven keeps his part in eternal life.\nThe most you sought was her promotion,\nFor ’twas your heaven she should be advanc’d,\nAnd weep ye now, seeing she is advanc’d\nAbove the clouds, as high as heaven itself?\nO, in this love, you love your child so ill\nThat you run mad, seeing that she is well.\nShe’s not well married that lives married long,\nBut she’s best married that dies married young.\nDry up your tears, and stick your rosemary\nOn this fair corse, and, as the custom is,\nAnd in her best array bear her to church;\nFor though fond nature bids us all lament,\nYet nature’s tears are reason’s merriment.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Peace, stop this. Confusion does not cure confusion."
+    },
+    {
+     "en": "Heaven and you both had a part in this fair maid."
+    },
+    {
+     "en": "Now heaven has everything."
+    },
+    {
+     "en": "It is better for the maid this way."
+    },
+    {
+     "en": "You could not keep your part in her from death."
+    },
+    {
+     "en": "But heaven keeps its part in eternal life."
+    },
+    {
+     "en": "The most you wanted was her promotion."
+    },
+    {
+     "en": "She should have been promoted to heaven."
+    },
+    {
+     "en": "Why do you weep now that she is advanced?"
+    },
+    {
+     "en": "She is above the clouds, as high as heaven itself."
+    },
+    {
+     "en": "In this love, you love your child so poorly."
+    },
+    {
+     "en": "You are running mad because you see that she is well."
+    },
+    {
+     "en": "She is not well married if she lives married long."
+    },
+    {
+     "en": "But she is best married if she dies married young."
+    },
+    {
+     "en": "Dry your tears."
+    },
+    {
+     "en": "Put your rosemary on this fair body."
+    },
+    {
+     "en": "Follow the custom and carry her to church in her best clothes."
+    },
+    {
+     "en": "Although foolish nature tells us all to lament, nature's tears are reason's joy."
+    }
+   ]
+  }
+ },
+ {
+  "id": 916,
+  "tag": "P0916",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "All things that we ordained festival\nTurn from their office to black funeral:\nOur instruments to melancholy bells,\nOur wedding cheer to a sad burial feast;\nOur solemn hymns to sullen dirges change;\nOur bridal flowers serve for a buried corse,\nAnd all things change them to the contrary.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "All things that we planned as a festival turn into a black funeral."
+    },
+    {
+     "en": "Our instruments become melancholy bells."
+    },
+    {
+     "en": "Our wedding cheer becomes a sad burial feast."
+    },
+    {
+     "en": "Our solemn hymns change to sad songs for the dead."
+    },
+    {
+     "en": "Our bridal flowers are used for a buried body."
+    },
+    {
+     "en": "Everything has changed to the opposite."
+    }
+   ]
+  }
+ },
+ {
+  "id": 917,
+  "tag": "P0917",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "FRIAR LAWRENCE",
+  "delivery": null,
+  "raw": "Sir, go you in, and, madam, go with him,\nAnd go, Sir Paris, everyone prepare\nTo follow this fair corse unto her grave.\nThe heavens do lower upon you for some ill;\nMove them no more by crossing their high will.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Sir, go in."
+    },
+    {
+     "en": "Madam, go with him."
+    },
+    {
+     "en": "Sir Paris, everyone prepare to follow this fair body to her grave."
+    },
+    {
+     "en": "The heavens are lowering upon you for some evil."
+    },
+    {
+     "en": "Do not move them more by going against their high will."
+    }
+   ]
+  }
+ },
+ {
+  "id": 918,
+  "tag": "P0918",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt Capulet, Lady Capulet, Paris and Friar.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Capulet, Lady Capulet, Paris, and the Friar leave."
+    }
+   ]
+  }
+ },
+ {
+  "id": 919,
+  "tag": "P0919",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "FIRST MUSICIAN",
+  "delivery": null,
+  "raw": "Faith, we may put up our pipes and be gone.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I believe we can stop playing our pipes and leave now."
+    }
+   ]
+  }
+ },
+ {
+  "id": 920,
+  "tag": "P0920",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Honest good fellows, ah, put up, put up,\nFor well you know this is a pitiful case.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Good men, please stop."
+    },
+    {
+     "en": "Stop now."
+    },
+    {
+     "en": "You know well that this is a sad case."
+    }
+   ]
+  }
+ },
+ {
+  "id": 921,
+  "tag": "P0921",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "FIRST MUSICIAN",
+  "delivery": null,
+  "raw": "Ay, by my troth, the case may be amended.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Yes, I believe the situation can be improved."
+    }
+   ]
+  }
+ },
+ {
+  "id": 922,
+  "tag": "P0922",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exit Nurse.",
+  "sentences": []
+ },
+ {
+  "id": 923,
+  "tag": "P0923",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Peter.",
+  "sentences": []
+ },
+ {
+  "id": 924,
+  "tag": "P0924",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "PETER",
+  "delivery": null,
+  "raw": "Musicians, O, musicians, ‘Heart’s ease,’ ‘Heart’s ease’, O, and you\nwill have me live, play ‘Heart’s ease.’",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Musicians, oh, musicians!"
+    },
+    {
+     "en": "Play 'Heart's ease'."
+    },
+    {
+     "en": "Play 'Heart's ease'!"
+    },
+    {
+     "en": "You will let me live."
+    },
+    {
+     "en": "Play 'Heart's ease'."
+    }
+   ]
+  }
+ },
+ {
+  "id": 925,
+  "tag": "P0925",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "FIRST MUSICIAN",
+  "delivery": null,
+  "raw": "Why ‘Heart’s ease’?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Why 'Heart's ease'?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 926,
+  "tag": "P0926",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "PETER",
+  "delivery": null,
+  "raw": "O musicians, because my heart itself plays ‘My heart is full’. O play\nme some merry dump to comfort me.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh musicians, because my heart plays 'My heart is full'."
+    },
+    {
+     "en": "Play some happy music to comfort me."
+    }
+   ]
+  }
+ },
+ {
+  "id": 927,
+  "tag": "P0927",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "FIRST MUSICIAN",
+  "delivery": null,
+  "raw": "Not a dump we, ’tis no time to play now.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "We will not play a dance."
+    },
+    {
+     "en": "It is not the time to play now."
+    }
+   ]
+  }
+ },
+ {
+  "id": 928,
+  "tag": "P0928",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "PETER",
+  "delivery": null,
+  "raw": "You will not then?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Will you not then?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 929,
+  "tag": "P0929",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "FIRST MUSICIAN",
+  "delivery": null,
+  "raw": "No.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "No."
+    }
+   ]
+  }
+ },
+ {
+  "id": 930,
+  "tag": "P0930",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "PETER",
+  "delivery": null,
+  "raw": "I will then give it you soundly.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I will give it to you strongly then."
+    }
+   ]
+  }
+ },
+ {
+  "id": 931,
+  "tag": "P0931",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "FIRST MUSICIAN",
+  "delivery": null,
+  "raw": "What will you give us?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "What will you give us?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 932,
+  "tag": "P0932",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "PETER",
+  "delivery": null,
+  "raw": "No money, on my faith, but the gleek! I will give you the minstrel.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I have no money, I promise."
+    },
+    {
+     "en": "But I will give you the gleek!"
+    },
+    {
+     "en": "I will give you the minstrel."
+    }
+   ]
+  }
+ },
+ {
+  "id": 933,
+  "tag": "P0933",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "FIRST MUSICIAN",
+  "delivery": null,
+  "raw": "Then will I give you the serving-creature.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Then I will give you the servant."
+    }
+   ]
+  }
+ },
+ {
+  "id": 934,
+  "tag": "P0934",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "PETER",
+  "delivery": null,
+  "raw": "Then will I lay the serving-creature’s dagger on your pate. I will\ncarry no crotchets. I’ll re you, I’ll fa you. Do you note me?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Then I will put the servant's dagger on your head."
+    },
+    {
+     "en": "I do not carry any notes."
+    },
+    {
+     "en": "I will play you. I will strike you."
+    },
+    {
+     "en": "Do you understand me?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 935,
+  "tag": "P0935",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "FIRST MUSICIAN",
+  "delivery": null,
+  "raw": "And you re us and fa us, you note us.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "And you play us and strike us."
+    },
+    {
+     "en": "You understand us."
+    }
+   ]
+  }
+ },
+ {
+  "id": 936,
+  "tag": "P0936",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "SECOND MUSICIAN",
+  "delivery": null,
+  "raw": "Pray you put up your dagger, and put out your wit.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Please put away your dagger."
+    },
+    {
+     "en": "Stop using your cleverness."
+    }
+   ]
+  }
+ },
+ {
+  "id": 937,
+  "tag": "P0937",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "PETER",
+  "delivery": null,
+  "raw": "Then have at you with my wit. I will dry-beat you with an iron wit, and\nput up my iron dagger. Answer me like men.\n‘When griping griefs the heart doth wound,\nAnd doleful dumps the mind oppress,\nThen music with her silver sound’—\nWhy ‘silver sound’? Why ‘music with her silver sound’? What say you,\nSimon Catling?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Then use your intelligence against me."
+    },
+    {
+     "en": "I will beat you with an iron wit."
+    },
+    {
+     "en": "I will put away my iron dagger."
+    },
+    {
+     "en": "Answer me like men."
+    },
+    {
+     "en": "When painful sorrows wound the heart, and sad feelings weigh down the mind, then music with her silver sound why 'silver sound'?"
+    },
+    {
+     "en": "Why 'music with her silver sound'?"
+    },
+    {
+     "en": "What do you say, Simon Catling?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 938,
+  "tag": "P0938",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "FIRST MUSICIAN",
+  "delivery": null,
+  "raw": "Marry, sir, because silver hath a sweet sound.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Indeed, sir, because silver has a sweet sound."
+    }
+   ]
+  }
+ },
+ {
+  "id": 939,
+  "tag": "P0939",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "PETER",
+  "delivery": null,
+  "raw": "Prates. What say you, Hugh Rebeck?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "You are just talking. What do you say, Hugh Rebeck?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 940,
+  "tag": "P0940",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "SECOND MUSICIAN",
+  "delivery": null,
+  "raw": "I say ‘silver sound’ because musicians sound for silver.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I say 'silver sound' because musicians play for silver."
+    }
+   ]
+  }
+ },
+ {
+  "id": 941,
+  "tag": "P0941",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "PETER",
+  "delivery": null,
+  "raw": "Prates too! What say you, James Soundpost?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "You are also just talking! What do you say, James Soundpost?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 942,
+  "tag": "P0942",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "THIRD MUSICIAN",
+  "delivery": null,
+  "raw": "Faith, I know not what to say.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Truly, I do not know what to say."
+    }
+   ]
+  }
+ },
+ {
+  "id": 943,
+  "tag": "P0943",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "PETER",
+  "delivery": null,
+  "raw": "O, I cry you mercy, you are the singer. I will say for you. It is\n‘music with her silver sound’ because musicians have no gold for\nsounding.\n‘Then music with her silver sound\nWith speedy help doth lend redress.’",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh, I beg your mercy."
+    },
+    {
+     "en": "You are the singer."
+    },
+    {
+     "en": "I will speak for you."
+    },
+    {
+     "en": "It is 'music with her silver sound' because musicians have no gold for playing."
+    },
+    {
+     "en": "Then music with her silver sound with speedy help gives relief."
+    }
+   ]
+  }
+ },
+ {
+  "id": 944,
+  "tag": "P0944",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exit.",
+  "sentences": []
+ },
+ {
+  "id": 945,
+  "tag": "P0945",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "FIRST MUSICIAN",
+  "delivery": null,
+  "raw": "What a pestilent knave is this same!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "What a disgusting man this one is!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 946,
+  "tag": "P0946",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "SECOND MUSICIAN",
+  "delivery": null,
+  "raw": "Hang him, Jack. Come, we’ll in here, tarry for the mourners, and stay\ndinner.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Hang him, Jack."
+    },
+    {
+     "en": "Come, let's go inside."
+    },
+    {
+     "en": "We will wait for the mourners."
+    },
+    {
+     "en": "And we will stay for dinner."
+    }
+   ]
+  }
+ },
+ {
+  "id": 947,
+  "tag": "P0947",
+  "chapter_id": "ch_21",
+  "act": 4,
+  "scene": 5,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt.",
+  "sentences": []
+ }
+]

@@ -1,0 +1,520 @@
+[
+ {
+  "id": 865,
+  "tag": "P0865",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "header",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Act 4, Scene 4 — Hall in Capulet’s House",
+  "sentences": []
+ },
+ {
+  "id": 866,
+  "tag": "P0866",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Lady Capulet and Nurse.",
+  "sentences": []
+ },
+ {
+  "id": 867,
+  "tag": "P0867",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "Hold, take these keys and fetch more spices, Nurse.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Stop."
+    },
+    {
+     "en": "Take these keys."
+    },
+    {
+     "en": "Go and get more spices, Nurse."
+    }
+   ]
+  }
+ },
+ {
+  "id": 868,
+  "tag": "P0868",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "They call for dates and quinces in the pastry.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "They want dates and quinces in the pastry."
+    }
+   ]
+  }
+ },
+ {
+  "id": 869,
+  "tag": "P0869",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Capulet.",
+  "sentences": []
+ },
+ {
+  "id": 870,
+  "tag": "P0870",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Come, stir, stir, stir! The second cock hath crow’d,\nThe curfew bell hath rung, ’tis three o’clock.\nLook to the bak’d meats, good Angelica;\nSpare not for cost.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Come, stir, stir, stir!"
+    },
+    {
+     "en": "The second rooster has crowed."
+    },
+    {
+     "en": "The curfew bell has rung."
+    },
+    {
+     "en": "It is three o'clock."
+    },
+    {
+     "en": "Look at the baked meats, Angelica."
+    },
+    {
+     "en": "Do not worry about the cost."
+    }
+   ]
+  }
+ },
+ {
+  "id": 871,
+  "tag": "P0871",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Go, you cot-quean, go,\nGet you to bed; faith, you’ll be sick tomorrow\nFor this night’s watching.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Go, you lazy person, go."
+    },
+    {
+     "en": "Go to bed."
+    },
+    {
+     "en": "I promise you will be sick tomorrow."
+    },
+    {
+     "en": "You will be sick from staying awake tonight."
+    }
+   ]
+  }
+ },
+ {
+  "id": 872,
+  "tag": "P0872",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "No, not a whit. What! I have watch’d ere now\nAll night for lesser cause, and ne’er been sick.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "No, not at all."
+    },
+    {
+     "en": "What!"
+    },
+    {
+     "en": "I have watched all night before for smaller reasons."
+    },
+    {
+     "en": "I was never sick then."
+    }
+   ]
+  }
+ },
+ {
+  "id": 873,
+  "tag": "P0873",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "Ay, you have been a mouse-hunt in your time;\nBut I will watch you from such watching now.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Yes, you used to hunt mice in your time."
+    },
+    {
+     "en": "But I will stop you from watching now."
+    }
+   ]
+  }
+ },
+ {
+  "id": 874,
+  "tag": "P0874",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt Lady Capulet and Nurse.",
+  "sentences": []
+ },
+ {
+  "id": 875,
+  "tag": "P0875",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "A jealous-hood, a jealous-hood!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "A jealous person!"
+    },
+    {
+     "en": "A jealous-hood!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 876,
+  "tag": "P0876",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Servants, with spits, logs and baskets.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Servants enter with spits, logs, and baskets."
+    }
+   ]
+  }
+ },
+ {
+  "id": 877,
+  "tag": "P0877",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Now, fellow, what’s there?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Now, man, what is that?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 878,
+  "tag": "P0878",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "FIRST SERVANT",
+  "delivery": null,
+  "raw": "Things for the cook, sir; but I know not what.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "These are things for the cook, sir."
+    },
+    {
+     "en": "But I do not know what they are."
+    }
+   ]
+  }
+ },
+ {
+  "id": 879,
+  "tag": "P0879",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Make haste, make haste.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Hurry up. Move faster."
+    }
+   ]
+  }
+ },
+ {
+  "id": 880,
+  "tag": "P0880",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exit First Servant.",
+  "sentences": []
+ },
+ {
+  "id": 881,
+  "tag": "P0881",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "—Sirrah, fetch drier logs.\nCall Peter, he will show thee where they are.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "You there, go get drier logs."
+    },
+    {
+     "en": "Call Peter."
+    },
+    {
+     "en": "He will show you where they are."
+    }
+   ]
+  }
+ },
+ {
+  "id": 882,
+  "tag": "P0882",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "SECOND SERVANT",
+  "delivery": null,
+  "raw": "I have a head, sir, that will find out logs\nAnd never trouble Peter for the matter.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I have a head, sir."
+    },
+    {
+     "en": "I can find the logs myself."
+    },
+    {
+     "en": "I will not trouble Peter for it."
+    }
+   ]
+  }
+ },
+ {
+  "id": 883,
+  "tag": "P0883",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exit.",
+  "sentences": []
+ },
+ {
+  "id": 884,
+  "tag": "P0884",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Mass and well said; a merry whoreson, ha.\nThou shalt be loggerhead.—Good faith, ’tis day.\nThe County will be here with music straight,\nFor so he said he would. I hear him near.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Mass and well said."
+    },
+    {
+     "en": "You are a funny man."
+    },
+    {
+     "en": "It is day."
+    },
+    {
+     "en": "The Count will be here with music soon."
+    },
+    {
+     "en": "He said he would come."
+    },
+    {
+     "en": "I hear him nearby."
+    }
+   ]
+  }
+ },
+ {
+  "id": 885,
+  "tag": "P0885",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Play music.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "The musicians play music."
+    }
+   ]
+  }
+ },
+ {
+  "id": 886,
+  "tag": "P0886",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Nurse! Wife! What, ho! What, Nurse, I say!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Nurse! Wife!"
+    },
+    {
+     "en": "What, I say?"
+    },
+    {
+     "en": "Nurse, I am speaking to you!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 887,
+  "tag": "P0887",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Re-enter Nurse.",
+  "sentences": []
+ },
+ {
+  "id": 888,
+  "tag": "P0888",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Go waken Juliet, go and trim her up.\nI’ll go and chat with Paris. Hie, make haste,\nMake haste; the bridegroom he is come already.\nMake haste I say.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Go wake Juliet."
+    },
+    {
+     "en": "Go and help her get ready."
+    },
+    {
+     "en": "I will go and talk with Paris."
+    },
+    {
+     "en": "Hurry, move fast."
+    },
+    {
+     "en": "Move fast."
+    },
+    {
+     "en": "The groom has already arrived."
+    },
+    {
+     "en": "I say, hurry."
+    }
+   ]
+  }
+ },
+ {
+  "id": 889,
+  "tag": "P0889",
+  "chapter_id": "ch_20",
+  "act": 4,
+  "scene": 4,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt.",
+  "sentences": []
+ }
+]

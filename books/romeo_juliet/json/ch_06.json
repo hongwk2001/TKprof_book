@@ -1,0 +1,470 @@
+[
+ {
+  "id": 291,
+  "tag": "P0291",
+  "chapter_id": "ch_06",
+  "act": 2,
+  "scene": 1,
+  "type": "header",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Act 2, Scene 1 — An open place adjoining Capulet’s Garden",
+  "sentences": []
+ },
+ {
+  "id": 292,
+  "tag": "P0292",
+  "chapter_id": "ch_06",
+  "act": 2,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Chorus.",
+  "sentences": []
+ },
+ {
+  "id": 293,
+  "tag": "P0293",
+  "chapter_id": "ch_06",
+  "act": 2,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "CHORUS",
+  "delivery": null,
+  "raw": "Now old desire doth in his deathbed lie,\nAnd young affection gapes to be his heir;\nThat fair for which love groan’d for and would die,\nWith tender Juliet match’d, is now not fair.\nNow Romeo is belov’d, and loves again,\nAlike bewitched by the charm of looks;\nBut to his foe suppos’d he must complain,\nAnd she steal love’s sweet bait from fearful hooks:\nBeing held a foe, he may not have access\nTo breathe such vows as lovers use to swear;\nAnd she as much in love, her means much less\nTo meet her new beloved anywhere.\nBut passion lends them power, time means, to meet,\nTempering extremities with extreme sweet.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Now old desire lies in its deathbed."
+    },
+    {
+     "en": "Young affection is ready to take its place."
+    },
+    {
+     "en": "The beautiful thing for which love groaned and would die is no longer fair."
+    },
+    {
+     "en": "It is now matched with the tender Juliet."
+    },
+    {
+     "en": "Now Romeo is loved, and he loves again."
+    },
+    {
+     "en": "He is enchanted by the charm of looks."
+    },
+    {
+     "en": "But he must complain because she is considered his enemy."
+    },
+    {
+     "en": "She steals love's sweet bait from fearful hooks."
+    },
+    {
+     "en": "Because he considers her an enemy, he cannot have access to her."
+    },
+    {
+     "en": "He cannot say the vows that lovers usually swear."
+    },
+    {
+     "en": "She is just as much in love."
+    },
+    {
+     "en": "But she has much less way to meet her new beloved anywhere."
+    },
+    {
+     "en": "But passion gives them power and time to meet."
+    },
+    {
+     "en": "It mixes extreme danger with extreme sweetness."
+    }
+   ]
+  }
+ },
+ {
+  "id": 294,
+  "tag": "P0294",
+  "chapter_id": "ch_06",
+  "act": 2,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exit.",
+  "sentences": []
+ },
+ {
+  "id": 295,
+  "tag": "P0295",
+  "chapter_id": "ch_06",
+  "act": 2,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Romeo.",
+  "sentences": []
+ },
+ {
+  "id": 296,
+  "tag": "P0296",
+  "chapter_id": "ch_06",
+  "act": 2,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Can I go forward when my heart is here?\nTurn back, dull earth, and find thy centre out.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Can I move forward when my heart is here?"
+    },
+    {
+     "en": "Turn back, dull earth, and find your center out."
+    }
+   ]
+  }
+ },
+ {
+  "id": 297,
+  "tag": "P0297",
+  "chapter_id": "ch_06",
+  "act": 2,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "He climbs the wall and leaps down within it.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "He climbs the wall."
+    },
+    {
+     "en": "He jumps down inside it."
+    }
+   ]
+  }
+ },
+ {
+  "id": 298,
+  "tag": "P0298",
+  "chapter_id": "ch_06",
+  "act": 2,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Benvolio and Mercutio.",
+  "sentences": []
+ },
+ {
+  "id": 299,
+  "tag": "P0299",
+  "chapter_id": "ch_06",
+  "act": 2,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Romeo! My cousin Romeo! Romeo!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Romeo!"
+    },
+    {
+     "en": "My cousin Romeo!"
+    },
+    {
+     "en": "Romeo!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 300,
+  "tag": "P0300",
+  "chapter_id": "ch_06",
+  "act": 2,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "He is wise,\nAnd on my life hath stol’n him home to bed.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "He is wise."
+    },
+    {
+     "en": "And I swear on my life that he has gone home to bed."
+    }
+   ]
+  }
+ },
+ {
+  "id": 301,
+  "tag": "P0301",
+  "chapter_id": "ch_06",
+  "act": 2,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "He ran this way, and leap’d this orchard wall:\nCall, good Mercutio.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "He ran this way."
+    },
+    {
+     "en": "He jumped over this orchard wall."
+    },
+    {
+     "en": "Call out, good Mercutio."
+    }
+   ]
+  }
+ },
+ {
+  "id": 302,
+  "tag": "P0302",
+  "chapter_id": "ch_06",
+  "act": 2,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Nay, I’ll conjure too.\nRomeo! Humours! Madman! Passion! Lover!\nAppear thou in the likeness of a sigh,\nSpeak but one rhyme, and I am satisfied;\nCry but ‘Ah me!’ Pronounce but Love and dove;\nSpeak to my gossip Venus one fair word,\nOne nickname for her purblind son and heir,\nYoung Abraham Cupid, he that shot so trim\nWhen King Cophetua lov’d the beggar-maid.\nHe heareth not, he stirreth not, he moveth not;\nThe ape is dead, and I must conjure him.\nI conjure thee by Rosaline’s bright eyes,\nBy her high forehead and her scarlet lip,\nBy her fine foot, straight leg, and quivering thigh,\nAnd the demesnes that there adjacent lie,\nThat in thy likeness thou appear to us.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "No, I will try to summon him."
+    },
+    {
+     "en": "Romeo! Moods! Madman! Passion! Lover!"
+    },
+    {
+     "en": "Appear in the form of a sigh."
+    },
+    {
+     "en": "Speak just one rhyme and I will be satisfied."
+    },
+    {
+     "en": "Cry out 'Ah me!'"
+    },
+    {
+     "en": "Say only Love and dove."
+    },
+    {
+     "en": "Tell my friend Venus one fair word."
+    },
+    {
+     "en": "Give one nickname to her blind son and heir."
+    },
+    {
+     "en": "Young Abraham Cupid shot so well when King Cophetua loved the beggar-maid."
+    },
+    {
+     "en": "He does not hear."
+    },
+    {
+     "en": "He does not move."
+    },
+    {
+     "en": "He does not stir."
+    },
+    {
+     "en": "The ape is dead, and I must summon him."
+    },
+    {
+     "en": "I summon you by Rosaline's bright eyes."
+    },
+    {
+     "en": "By her high forehead and her red lip."
+    },
+    {
+     "en": "By her fine foot, straight leg, and shaking thigh."
+    },
+    {
+     "en": "And the areas near them."
+    },
+    {
+     "en": "Appear to us in your likeness."
+    }
+   ]
+  }
+ },
+ {
+  "id": 303,
+  "tag": "P0303",
+  "chapter_id": "ch_06",
+  "act": 2,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "An if he hear thee, thou wilt anger him.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "If he hears you, you will make him angry."
+    }
+   ]
+  }
+ },
+ {
+  "id": 304,
+  "tag": "P0304",
+  "chapter_id": "ch_06",
+  "act": 2,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "This cannot anger him. ’Twould anger him\nTo raise a spirit in his mistress’ circle,\nOf some strange nature, letting it there stand\nTill she had laid it, and conjur’d it down;\nThat were some spite. My invocation\nIs fair and honest, and, in his mistress’ name,\nI conjure only but to raise up him.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "This cannot make him angry."
+    },
+    {
+     "en": "It would only anger him if I caused a spirit of a strange nature to appear in his mistress's circle."
+    },
+    {
+     "en": "That spirit would stay there until she had laid it and sent it away."
+    },
+    {
+     "en": "That would be mean."
+    },
+    {
+     "en": "My request is fair and honest."
+    },
+    {
+     "en": "I am using her name only to make him appear."
+    }
+   ]
+  }
+ },
+ {
+  "id": 305,
+  "tag": "P0305",
+  "chapter_id": "ch_06",
+  "act": 2,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Come, he hath hid himself among these trees\nTo be consorted with the humorous night.\nBlind is his love, and best befits the dark.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Come, he has hidden himself among these trees."
+    },
+    {
+     "en": "He wants to be with the moody night."
+    },
+    {
+     "en": "His love is blind."
+    },
+    {
+     "en": "It is best for his love to stay in the dark."
+    }
+   ]
+  }
+ },
+ {
+  "id": 306,
+  "tag": "P0306",
+  "chapter_id": "ch_06",
+  "act": 2,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "If love be blind, love cannot hit the mark.\nNow will he sit under a medlar tree,\nAnd wish his mistress were that kind of fruit\nAs maids call medlars when they laugh alone.\nO Romeo, that she were, O that she were\nAn open-arse and thou a poperin pear!\nRomeo, good night. I’ll to my truckle-bed.\nThis field-bed is too cold for me to sleep.\nCome, shall we go?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "If love is blind, love cannot hit the mark."
+    },
+    {
+     "en": "Now he will sit under a medlar tree."
+    },
+    {
+     "en": "He will wish his mistress were that kind of fruit."
+    },
+    {
+     "en": "Maidens call medlars when they laugh alone."
+    },
+    {
+     "en": "Oh Romeo, I wish she were like that."
+    },
+    {
+     "en": "I wish you were a poperin pear!"
+    },
+    {
+     "en": "Romeo, good night."
+    },
+    {
+     "en": "I will go to my own bed."
+    },
+    {
+     "en": "This field-bed is too cold for me to sleep."
+    },
+    {
+     "en": "Come, shall we go?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 307,
+  "tag": "P0307",
+  "chapter_id": "ch_06",
+  "act": 2,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Go then; for ’tis in vain\nTo seek him here that means not to be found.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Go then."
+    },
+    {
+     "en": "It is useless to look for him here."
+    },
+    {
+     "en": "He does not want to be found."
+    }
+   ]
+  }
+ },
+ {
+  "id": 308,
+  "tag": "P0308",
+  "chapter_id": "ch_06",
+  "act": 2,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt.",
+  "sentences": []
+ }
+]

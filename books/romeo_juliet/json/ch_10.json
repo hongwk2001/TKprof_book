@@ -1,0 +1,700 @@
+[
+ {
+  "id": 500,
+  "tag": "P0500",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "header",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Act 2, Scene 5 — Capulet’s Garden",
+  "sentences": []
+ },
+ {
+  "id": 501,
+  "tag": "P0501",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Juliet.",
+  "sentences": []
+ },
+ {
+  "id": 502,
+  "tag": "P0502",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "The clock struck nine when I did send the Nurse,\nIn half an hour she promised to return.\nPerchance she cannot meet him. That’s not so.\nO, she is lame. Love’s heralds should be thoughts,\nWhich ten times faster glides than the sun’s beams,\nDriving back shadows over lowering hills:\nTherefore do nimble-pinion’d doves draw love,\nAnd therefore hath the wind-swift Cupid wings.\nNow is the sun upon the highmost hill\nOf this day’s journey, and from nine till twelve\nIs three long hours, yet she is not come.\nHad she affections and warm youthful blood,\nShe’d be as swift in motion as a ball;\nMy words would bandy her to my sweet love,\nAnd his to me.\nBut old folks, many feign as they were dead;\nUnwieldy, slow, heavy and pale as lead.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "The clock struck nine when I sent the Nurse."
+    },
+    {
+     "en": "She promised to return in half an hour."
+    },
+    {
+     "en": "Maybe she cannot meet him."
+    },
+    {
+     "en": "No, that is not true."
+    },
+    {
+     "en": "Oh, she is slow."
+    },
+    {
+     "en": "Thoughts of love should be the messengers."
+    },
+    {
+     "en": "They move ten times faster than the sun's rays."
+    },
+    {
+     "en": "They drive back shadows over low hills."
+    },
+    {
+     "en": "Therefore, small birds with fast wings carry love."
+    },
+    {
+     "en": "And that is why the wind-swift Cupid has wings."
+    },
+    {
+     "en": "Now the sun is on the highest hill of this day's journey."
+    },
+    {
+     "en": "From nine until twelve are three long hours."
+    },
+    {
+     "en": "Yet she has not come."
+    },
+    {
+     "en": "If she had feelings and warm young blood, she would be as fast as a ball."
+    },
+    {
+     "en": "My words would carry her to my sweet love."
+    },
+    {
+     "en": "And his words would come to me."
+    },
+    {
+     "en": "But old people often pretend they are dead."
+    },
+    {
+     "en": "They are clumsy, slow, sad, and pale like lead."
+    }
+   ]
+  }
+ },
+ {
+  "id": 503,
+  "tag": "P0503",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Nurse and Peter.",
+  "sentences": []
+ },
+ {
+  "id": 504,
+  "tag": "P0504",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "O God, she comes. O honey Nurse, what news?\nHast thou met with him? Send thy man away.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh God, she comes."
+    },
+    {
+     "en": "Oh dear Nurse, what news?"
+    },
+    {
+     "en": "Have you met him?"
+    },
+    {
+     "en": "Send your man away."
+    }
+   ]
+  }
+ },
+ {
+  "id": 505,
+  "tag": "P0505",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Peter, stay at the gate.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Peter, stay at the gate."
+    }
+   ]
+  }
+ },
+ {
+  "id": 506,
+  "tag": "P0506",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exit Peter.",
+  "sentences": []
+ },
+ {
+  "id": 507,
+  "tag": "P0507",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Now, good sweet Nurse,—O Lord, why look’st thou sad?\nThough news be sad, yet tell them merrily;\nIf good, thou sham’st the music of sweet news\nBy playing it to me with so sour a face.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Now, good sweet Nurse."
+    },
+    {
+     "en": "Oh Lord, why do you look sad?"
+    },
+    {
+     "en": "Even if the news is sad, tell it happily."
+    },
+    {
+     "en": "If it is good news, you ruin the music of the news."
+    },
+    {
+     "en": "You are playing it to me with such a sour face."
+    }
+   ]
+  }
+ },
+ {
+  "id": 508,
+  "tag": "P0508",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "I am aweary, give me leave awhile;\nFie, how my bones ache! What a jaunt have I had!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I am tired."
+    },
+    {
+     "en": "Give me leave for a while."
+    },
+    {
+     "en": "Shame on you, how my bones ache!"
+    },
+    {
+     "en": "What a long trip I have had!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 509,
+  "tag": "P0509",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "I would thou hadst my bones, and I thy news:\nNay come, I pray thee speak; good, good Nurse, speak.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I wish you had my bones and I had your news."
+    },
+    {
+     "en": "No, come, I pray you speak."
+    },
+    {
+     "en": "Good, good Nurse, speak."
+    }
+   ]
+  }
+ },
+ {
+  "id": 510,
+  "tag": "P0510",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Jesu, what haste? Can you not stay a while? Do you not see that I am\nout of breath?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Jesus, why the hurry?"
+    },
+    {
+     "en": "Can you not stay a while?"
+    },
+    {
+     "en": "Do you not see that I am out of breath?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 511,
+  "tag": "P0511",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "How art thou out of breath, when thou hast breath\nTo say to me that thou art out of breath?\nThe excuse that thou dost make in this delay\nIs longer than the tale thou dost excuse.\nIs thy news good or bad? Answer to that;\nSay either, and I’ll stay the circumstance.\nLet me be satisfied, is’t good or bad?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "How are you out of breath?"
+    },
+    {
+     "en": "You have enough breath to tell me that you are out of breath."
+    },
+    {
+     "en": "The excuse you make for this delay is longer than the story you are telling."
+    },
+    {
+     "en": "Is your news good or bad?"
+    },
+    {
+     "en": "Answer that question."
+    },
+    {
+     "en": "Say either, and I will listen to the details."
+    },
+    {
+     "en": "Let me be satisfied, is it good or bad?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 512,
+  "tag": "P0512",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Well, you have made a simple choice; you know not how to choose a man.\nRomeo? No, not he. Though his face be better than any man’s, yet his\nleg excels all men’s, and for a hand and a foot, and a body, though\nthey be not to be talked on, yet they are past compare. He is not the\nflower of courtesy, but I’ll warrant him as gentle as a lamb. Go thy\nways, wench, serve God. What, have you dined at home?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Well, you made a simple choice."
+    },
+    {
+     "en": "You do not know how to choose a man."
+    },
+    {
+     "en": "Romeo? No, not him."
+    },
+    {
+     "en": "His face is better than any man's face."
+    },
+    {
+     "en": "His leg is better than all men's legs."
+    },
+    {
+     "en": "His hands and feet are also very good."
+    },
+    {
+     "en": "They are not easy to talk about."
+    },
+    {
+     "en": "However, they are beyond comparison."
+    },
+    {
+     "en": "He is not the best at being polite."
+    },
+    {
+     "en": "But I promise he is as gentle as a lamb."
+    },
+    {
+     "en": "Go your way, girl, and serve God."
+    },
+    {
+     "en": "What, did you eat at home?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 513,
+  "tag": "P0513",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "No, no. But all this did I know before.\nWhat says he of our marriage? What of that?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "No, no."
+    },
+    {
+     "en": "I knew all of this before."
+    },
+    {
+     "en": "What does he say about our marriage?"
+    },
+    {
+     "en": "What about that?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 514,
+  "tag": "P0514",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Lord, how my head aches! What a head have I!\nIt beats as it would fall in twenty pieces.\nMy back o’ t’other side,—O my back, my back!\nBeshrew your heart for sending me about\nTo catch my death with jauncing up and down.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Lord, how my head aches!"
+    },
+    {
+     "en": "What a head I have!"
+    },
+    {
+     "en": "It feels like it will fall into twenty pieces."
+    },
+    {
+     "en": "My back is on the other side."
+    },
+    {
+     "en": "Oh, my back, my back!"
+    },
+    {
+     "en": "May your heart be cursed for making me run."
+    },
+    {
+     "en": "I had to go up and down to catch my death."
+    }
+   ]
+  }
+ },
+ {
+  "id": 515,
+  "tag": "P0515",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "I’faith, I am sorry that thou art not well.\nSweet, sweet, sweet Nurse, tell me, what says my love?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I am sorry that you are not well."
+    },
+    {
+     "en": "Sweet, sweet, sweet Nurse, tell me."
+    },
+    {
+     "en": "What does my love say?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 516,
+  "tag": "P0516",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Your love says like an honest gentleman,\nAnd a courteous, and a kind, and a handsome,\nAnd I warrant a virtuous,—Where is your mother?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Your love speaks like an honest gentleman."
+    },
+    {
+     "en": "He is courteous and kind."
+    },
+    {
+     "en": "He is handsome."
+    },
+    {
+     "en": "I promise he is virtuous."
+    },
+    {
+     "en": "Where is your mother?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 517,
+  "tag": "P0517",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Where is my mother? Why, she is within.\nWhere should she be? How oddly thou repliest.\n‘Your love says, like an honest gentleman,\n‘Where is your mother?’",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Where is my mother?"
+    },
+    {
+     "en": "She is inside."
+    },
+    {
+     "en": "Where should she be?"
+    },
+    {
+     "en": "You answered very strangely."
+    },
+    {
+     "en": "Your love said, 'Where is your mother?'"
+    },
+    {
+     "en": "He spoke like an honest gentleman."
+    }
+   ]
+  }
+ },
+ {
+  "id": 518,
+  "tag": "P0518",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "O God’s lady dear,\nAre you so hot? Marry, come up, I trow.\nIs this the poultice for my aching bones?\nHenceforward do your messages yourself.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh, dear lady of God."
+    },
+    {
+     "en": "Are you so hot?"
+    },
+    {
+     "en": "Indeed, come up."
+    },
+    {
+     "en": "Is this the medicine for my aching bones?"
+    },
+    {
+     "en": "From now on, deliver your messages yourself."
+    }
+   ]
+  }
+ },
+ {
+  "id": 519,
+  "tag": "P0519",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Here’s such a coil. Come, what says Romeo?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "This is such a mess."
+    },
+    {
+     "en": "Come, what does Romeo say?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 520,
+  "tag": "P0520",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Have you got leave to go to shrift today?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Do you have permission to go to confession today?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 521,
+  "tag": "P0521",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "I have.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I do."
+    }
+   ]
+  }
+ },
+ {
+  "id": 522,
+  "tag": "P0522",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Then hie you hence to Friar Lawrence’ cell;\nThere stays a husband to make you a wife.\nNow comes the wanton blood up in your cheeks,\nThey’ll be in scarlet straight at any news.\nHie you to church. I must another way,\nTo fetch a ladder by the which your love\nMust climb a bird’s nest soon when it is dark.\nI am the drudge, and toil in your delight;\nBut you shall bear the burden soon at night.\nGo. I’ll to dinner; hie you to the cell.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Then hurry away to Friar Lawrence's small room."
+    },
+    {
+     "en": "A husband stays there to make you a wife."
+    },
+    {
+     "en": "Now the blood of a spoiled child rises in your cheeks."
+    },
+    {
+     "en": "They will turn red at any news."
+    },
+    {
+     "en": "Hurry to the church."
+    },
+    {
+     "en": "I must go another way."
+    },
+    {
+     "en": "I must get a ladder."
+    },
+    {
+     "en": "Your love must climb it like a bird's nest soon when it is dark."
+    },
+    {
+     "en": "I am the servant, and I work for your pleasure."
+    },
+    {
+     "en": "But you will bear the burden soon at night."
+    },
+    {
+     "en": "Go."
+    },
+    {
+     "en": "I will go to dinner."
+    },
+    {
+     "en": "Hurry to the cell."
+    }
+   ]
+  }
+ },
+ {
+  "id": 523,
+  "tag": "P0523",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Hie to high fortune! Honest Nurse, farewell.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Hurry to high fortune!"
+    },
+    {
+     "en": "Honest Nurse, goodbye."
+    }
+   ]
+  }
+ },
+ {
+  "id": 524,
+  "tag": "P0524",
+  "chapter_id": "ch_10",
+  "act": 2,
+  "scene": 5,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt.",
+  "sentences": []
+ }
+]

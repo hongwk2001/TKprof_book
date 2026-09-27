@@ -1,0 +1,991 @@
+[
+ {
+  "id": 617,
+  "tag": "P0617",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "header",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Act 3, Scene 2 — A Room in Capulet’s House",
+  "sentences": []
+ },
+ {
+  "id": 618,
+  "tag": "P0618",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Juliet.",
+  "sentences": []
+ },
+ {
+  "id": 619,
+  "tag": "P0619",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Gallop apace, you fiery-footed steeds,\nTowards Phoebus’ lodging. Such a waggoner\nAs Phaeton would whip you to the west\nAnd bring in cloudy night immediately.\nSpread thy close curtain, love-performing night,\nThat runaway’s eyes may wink, and Romeo\nLeap to these arms, untalk’d of and unseen.\nLovers can see to do their amorous rites\nBy their own beauties: or, if love be blind,\nIt best agrees with night. Come, civil night,\nThou sober-suited matron, all in black,\nAnd learn me how to lose a winning match,\nPlay’d for a pair of stainless maidenhoods.\nHood my unmann’d blood, bating in my cheeks,\nWith thy black mantle, till strange love, grow bold,\nThink true love acted simple modesty.\nCome, night, come Romeo; come, thou day in night;\nFor thou wilt lie upon the wings of night\nWhiter than new snow upon a raven’s back.\nCome gentle night, come loving black-brow’d night,\nGive me my Romeo, and when I shall die,\nTake him and cut him out in little stars,\nAnd he will make the face of heaven so fine\nThat all the world will be in love with night,\nAnd pay no worship to the garish sun.\nO, I have bought the mansion of a love,\nBut not possess’d it; and though I am sold,\nNot yet enjoy’d. So tedious is this day\nAs is the night before some festival\nTo an impatient child that hath new robes\nAnd may not wear them. O, here comes my Nurse,\nAnd she brings news, and every tongue that speaks\nBut Romeo’s name speaks heavenly eloquence.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Gallop fast, you fiery-footed horses."
+    },
+    {
+     "en": "Go toward the home of the sun."
+    },
+    {
+     "en": "A driver like Phaeton would whip you west."
+    },
+    {
+     "en": "He would bring in a cloudy night immediately."
+    },
+    {
+     "en": "Spread your close curtain, love-performing night."
+    },
+    {
+     "en": "Let the eyes of this runaway wink."
+    },
+    {
+     "en": "Romeo may leap into these arms."
+    },
+    {
+     "en": "It will be unspoken of and unseen."
+    },
+    {
+     "en": "Lovers can perform their romantic acts by their own beauty."
+    },
+    {
+     "en": "Or, if love is blind, it fits best with the night."
+    },
+    {
+     "en": "Come, polite night."
+    },
+    {
+     "en": "You are a sober-suited matron dressed in black."
+    },
+    {
+     "en": "Teach me how to lose a winning match."
+    },
+    {
+     "en": "It was played for a pair of pure maidenhoods."
+    },
+    {
+     "en": "Cover my unmann'd blood that beats in my cheeks."
+    },
+    {
+     "en": "Use your black cloak."
+    },
+    {
+     "en": "Do this until strange love grows bold."
+    },
+    {
+     "en": "Let it think true love acts with simple modesty."
+    },
+    {
+     "en": "Come, night, come Romeo."
+    },
+    {
+     "en": "Come, you day in the night."
+    },
+    {
+     "en": "You will lie on the wings of night."
+    },
+    {
+     "en": "You will be whiter than new snow on a raven's back."
+    },
+    {
+     "en": "Come gentle night, come loving black-brow'd night."
+    },
+    {
+     "en": "Give me my Romeo."
+    },
+    {
+     "en": "And when I die, take him."
+    },
+    {
+     "en": "Cut him into little stars."
+    },
+    {
+     "en": "He will make the face of heaven so fine."
+    },
+    {
+     "en": "All the world will be in love with the night."
+    },
+    {
+     "en": "No one will worship the bright sun."
+    },
+    {
+     "en": "Oh, I have bought the house of a love."
+    },
+    {
+     "en": "But I do not possess it yet."
+    },
+    {
+     "en": "Even though I am sold, I have not enjoyed it yet."
+    },
+    {
+     "en": "This day is as tedious as the night before a festival."
+    },
+    {
+     "en": "It is like an impatient child with new clothes."
+    },
+    {
+     "en": "The child cannot wear them yet."
+    },
+    {
+     "en": "Oh, here comes my Nurse."
+    },
+    {
+     "en": "She brings news."
+    },
+    {
+     "en": "Every tongue that speaks except Romeo's name speaks with heavenly eloquence."
+    }
+   ]
+  }
+ },
+ {
+  "id": 620,
+  "tag": "P0620",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Nurse, with cords.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "The Nurse enters with cords."
+    }
+   ]
+  }
+ },
+ {
+  "id": 621,
+  "tag": "P0621",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Now, Nurse, what news? What hast thou there?\nThe cords that Romeo bid thee fetch?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Now, Nurse, what news?"
+    },
+    {
+     "en": "What do you have there?"
+    },
+    {
+     "en": "Are these the cords that Romeo told you to fetch?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 622,
+  "tag": "P0622",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Ay, ay, the cords.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Yes, yes, the cords."
+    }
+   ]
+  }
+ },
+ {
+  "id": 623,
+  "tag": "P0623",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Throws them down.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "The Nurse throws them down."
+    }
+   ]
+  }
+ },
+ {
+  "id": 624,
+  "tag": "P0624",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Ay me, what news? Why dost thou wring thy hands?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh me, what news?"
+    },
+    {
+     "en": "Why do you wring your hands?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 625,
+  "tag": "P0625",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Ah, well-a-day, he’s dead, he’s dead, he’s dead!\nWe are undone, lady, we are undone.\nAlack the day, he’s gone, he’s kill’d, he’s dead.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh, no, he is dead."
+    },
+    {
+     "en": "He is dead, he is dead!"
+    },
+    {
+     "en": "We are ruined, lady, we are ruined."
+    },
+    {
+     "en": "Alas, the day, he is gone."
+    },
+    {
+     "en": "He is killed, he is dead."
+    }
+   ]
+  }
+ },
+ {
+  "id": 626,
+  "tag": "P0626",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Can heaven be so envious?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Can heaven be so jealous?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 627,
+  "tag": "P0627",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Romeo can,\nThough heaven cannot. O Romeo, Romeo.\nWho ever would have thought it? Romeo!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Romeo can, even though heaven cannot."
+    },
+    {
+     "en": "Oh Romeo, Romeo."
+    },
+    {
+     "en": "Who ever would have thought it?"
+    },
+    {
+     "en": "Romeo!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 628,
+  "tag": "P0628",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "What devil art thou, that dost torment me thus?\nThis torture should be roar’d in dismal hell.\nHath Romeo slain himself? Say thou but Ay,\nAnd that bare vowel I shall poison more\nThan the death-darting eye of cockatrice.\nI am not I if there be such an I;\nOr those eyes shut that make thee answer Ay.\nIf he be slain, say Ay; or if not, No.\nBrief sounds determine of my weal or woe.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "What devil are you that you torment me like this?"
+    },
+    {
+     "en": "This torture should be shouted in dismal hell."
+    },
+    {
+     "en": "Has Romeo killed himself?"
+    },
+    {
+     "en": "Say only 'Yes' to me."
+    },
+    {
+     "en": "That one word will poison me more than the deadly eye of a monster."
+    },
+    {
+     "en": "I am not myself if there is such a person as I."
+    },
+    {
+     "en": "Or my eyes are closed so that I cannot hear your answer."
+    },
+    {
+     "en": "If he is killed, say 'Yes'."
+    },
+    {
+     "en": "If he is not, say 'No'."
+    },
+    {
+     "en": "Short sounds decide my happiness or my sadness."
+    }
+   ]
+  }
+ },
+ {
+  "id": 629,
+  "tag": "P0629",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "I saw the wound, I saw it with mine eyes,\nGod save the mark!—here on his manly breast.\nA piteous corse, a bloody piteous corse;\nPale, pale as ashes, all bedaub’d in blood,\nAll in gore-blood. I swounded at the sight.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I saw the wound."
+    },
+    {
+     "en": "I saw it with my own eyes."
+    },
+    {
+     "en": "God save me!"
+    },
+    {
+     "en": "It was here on his manly chest."
+    },
+    {
+     "en": "A pitiful body, a bloody and pitiful body."
+    },
+    {
+     "en": "He was pale as ashes."
+    },
+    {
+     "en": "He was covered in blood."
+    },
+    {
+     "en": "He was all in gore-blood."
+    },
+    {
+     "en": "I fainted at the sight."
+    }
+   ]
+  }
+ },
+ {
+  "id": 630,
+  "tag": "P0630",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "O, break, my heart. Poor bankrout, break at once.\nTo prison, eyes; ne’er look on liberty.\nVile earth to earth resign; end motion here,\nAnd thou and Romeo press one heavy bier.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh, break my heart."
+    },
+    {
+     "en": "Poor bankrupt, break at once."
+    },
+    {
+     "en": "To prison, eyes; never look on liberty."
+    },
+    {
+     "en": "Give your body to the earth."
+    },
+    {
+     "en": "Stop moving here."
+    },
+    {
+     "en": "And you and Romeo press one sad coffin."
+    }
+   ]
+  }
+ },
+ {
+  "id": 631,
+  "tag": "P0631",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "O Tybalt, Tybalt, the best friend I had.\nO courteous Tybalt, honest gentleman!\nThat ever I should live to see thee dead.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh Tybalt, Tybalt, the best friend I had."
+    },
+    {
+     "en": "Oh courteous Tybalt, honest gentleman!"
+    },
+    {
+     "en": "That I should live to see you dead."
+    }
+   ]
+  }
+ },
+ {
+  "id": 632,
+  "tag": "P0632",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "What storm is this that blows so contrary?\nIs Romeo slaughter’d and is Tybalt dead?\nMy dearest cousin, and my dearer lord?\nThen dreadful trumpet sound the general doom,\nFor who is living, if those two are gone?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "What storm is this that blows so strangely?"
+    },
+    {
+     "en": "Is Romeo killed and is Tybalt dead?"
+    },
+    {
+     "en": "My dearest cousin and my dearer lord?"
+    },
+    {
+     "en": "Then let the terrible trumpet sound the final doom."
+    },
+    {
+     "en": "For who is living if those two are gone?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 633,
+  "tag": "P0633",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Tybalt is gone, and Romeo banished,\nRomeo that kill’d him, he is banished.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Tybalt is gone, and Romeo is banished."
+    },
+    {
+     "en": "Romeo killed him, and he is banished."
+    }
+   ]
+  }
+ },
+ {
+  "id": 634,
+  "tag": "P0634",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "O God! Did Romeo’s hand shed Tybalt’s blood?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh God!"
+    },
+    {
+     "en": "Did Romeo's hand shed Tybalt's blood?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 635,
+  "tag": "P0635",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "It did, it did; alas the day, it did.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "It did. It really happened."
+    },
+    {
+     "en": "Alas, it happened on this day."
+    }
+   ]
+  }
+ },
+ {
+  "id": 636,
+  "tag": "P0636",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "O serpent heart, hid with a flowering face!\nDid ever dragon keep so fair a cave?\nBeautiful tyrant, fiend angelical,\nDove-feather’d raven, wolvish-ravening lamb!\nDespised substance of divinest show!\nJust opposite to what thou justly seem’st,\nA damned saint, an honourable villain!\nO nature, what hadst thou to do in hell\nWhen thou didst bower the spirit of a fiend\nIn mortal paradise of such sweet flesh?\nWas ever book containing such vile matter\nSo fairly bound? O, that deceit should dwell\nIn such a gorgeous palace.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh, you have a snake's heart hidden by a beautiful face!"
+    },
+    {
+     "en": "Did a dragon ever keep such a beautiful cave?"
+    },
+    {
+     "en": "You are a beautiful tyrant."
+    },
+    {
+     "en": "You are an angelic fiend."
+    },
+    {
+     "en": "You are a dove-feathered raven."
+    },
+    {
+     "en": "You are a wolf-like lamb!"
+    },
+    {
+     "en": "You are a hated thing hidden in a divine show!"
+    },
+    {
+     "en": "You are the opposite of what you seem to be."
+    },
+    {
+     "en": "You are a damned saint."
+    },
+    {
+     "en": "You are an honorable villain!"
+    },
+    {
+     "en": "Oh, nature, why did you put the spirit of a demon in this mortal paradise of such sweet flesh?"
+    },
+    {
+     "en": "Was there ever a book with such bad content bound so beautifully?"
+    },
+    {
+     "en": "Oh, that such a lie should live in such a beautiful palace."
+    }
+   ]
+  }
+ },
+ {
+  "id": 637,
+  "tag": "P0637",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "There’s no trust,\nNo faith, no honesty in men. All perjur’d,\nAll forsworn, all naught, all dissemblers.\nAh, where’s my man? Give me some aqua vitae.\nThese griefs, these woes, these sorrows make me old.\nShame come to Romeo.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "There is no trust."
+    },
+    {
+     "en": "There is no faith or honesty in men."
+    },
+    {
+     "en": "All are liars."
+    },
+    {
+     "en": "All have broken their promises."
+    },
+    {
+     "en": "All are worthless."
+    },
+    {
+     "en": "All are pretending to be something they are not."
+    },
+    {
+     "en": "Oh, where is my man?"
+    },
+    {
+     "en": "Give me some strong alcohol."
+    },
+    {
+     "en": "These problems and sorrows make me old."
+    },
+    {
+     "en": "Shame on Romeo."
+    }
+   ]
+  }
+ },
+ {
+  "id": 638,
+  "tag": "P0638",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Blister’d be thy tongue\nFor such a wish! He was not born to shame.\nUpon his brow shame is asham’d to sit;\nFor ’tis a throne where honour may be crown’d\nSole monarch of the universal earth.\nO, what a beast was I to chide at him!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "May your tongue be blistered for such a wish!"
+    },
+    {
+     "en": "He was not born to feel shame."
+    },
+    {
+     "en": "Shame is afraid to sit on his forehead."
+    },
+    {
+     "en": "It is a throne where honor can be crowned as the only ruler of the whole world."
+    },
+    {
+     "en": "Oh, what a beast was I to scold him!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 639,
+  "tag": "P0639",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Will you speak well of him that kill’d your cousin?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Will you speak well of the man who killed your cousin?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 640,
+  "tag": "P0640",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Shall I speak ill of him that is my husband?\nAh, poor my lord, what tongue shall smooth thy name,\nWhen I thy three-hours’ wife have mangled it?\nBut wherefore, villain, didst thou kill my cousin?\nThat villain cousin would have kill’d my husband.\nBack, foolish tears, back to your native spring,\nYour tributary drops belong to woe,\nWhich you mistaking offer up to joy.\nMy husband lives, that Tybalt would have slain,\nAnd Tybalt’s dead, that would have slain my husband.\nAll this is comfort; wherefore weep I then?\nSome word there was, worser than Tybalt’s death,\nThat murder’d me. I would forget it fain,\nBut O, it presses to my memory\nLike damned guilty deeds to sinners’ minds.\nTybalt is dead, and Romeo banished.\nThat ‘banished,’ that one word ‘banished,’\nHath slain ten thousand Tybalts. Tybalt’s death\nWas woe enough, if it had ended there.\nOr if sour woe delights in fellowship,\nAnd needly will be rank’d with other griefs,\nWhy follow’d not, when she said Tybalt’s dead,\nThy father or thy mother, nay or both,\nWhich modern lamentation might have mov’d?\nBut with a rear-ward following Tybalt’s death,\n‘Romeo is banished’—to speak that word\nIs father, mother, Tybalt, Romeo, Juliet,\nAll slain, all dead. Romeo is banished,\nThere is no end, no limit, measure, bound,\nIn that word’s death, no words can that woe sound.\nWhere is my father and my mother, Nurse?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Should I speak badly of him who is my husband?"
+    },
+    {
+     "en": "Oh, poor my lord."
+    },
+    {
+     "en": "What tongue can make your name sound good?"
+    },
+    {
+     "en": "I have ruined it as your wife of three hours."
+    },
+    {
+     "en": "But why, villain, did you kill my cousin?"
+    },
+    {
+     "en": "That villain cousin would have killed my husband."
+    },
+    {
+     "en": "Go away, foolish tears."
+    },
+    {
+     "en": "Go back to your source."
+    },
+    {
+     "en": "Your drops belong to sadness."
+    },
+    {
+     "en": "You offer them to joy by mistake."
+    },
+    {
+     "en": "My husband lives, and Tybalt would have killed him."
+    },
+    {
+     "en": "Tybalt is dead, and he would have killed my husband."
+    },
+    {
+     "en": "All of this is comfort."
+    },
+    {
+     "en": "Why do I weep then?"
+    },
+    {
+     "en": "Some word was worse than the death of Tybalt."
+    },
+    {
+     "en": "That word murdered me."
+    },
+    {
+     "en": "I would like to forget it."
+    },
+    {
+     "en": "But oh, it stays in my memory."
+    },
+    {
+     "en": "It feels like guilty deeds to the minds of sinners."
+    },
+    {
+     "en": "Tybalt is dead, and Romeo is banished."
+    },
+    {
+     "en": "That one word 'banished' has killed ten thousand Tybalts."
+    },
+    {
+     "en": "Tybalt's death was enough sadness if it had ended there."
+    },
+    {
+     "en": "Does sadness enjoy joining with other sorrows?"
+    },
+    {
+     "en": "Does it want to be joined with other griefs?"
+    },
+    {
+     "en": "Why did your father or mother not follow the news of Tybalt's death?"
+    },
+    {
+     "en": "Perhaps both of them would have cried at that news."
+    },
+    {
+     "en": "But because you followed Tybalt's death with 'Romeo is banished', speaking that word means everyone is killed."
+    },
+    {
+     "en": "Father, mother, Tybalt, Romeo, and Juliet are all dead."
+    },
+    {
+     "en": "Romeo is banished."
+    },
+    {
+     "en": "There is no end or limit to the death in that word."
+    },
+    {
+     "en": "No words can describe that sadness."
+    },
+    {
+     "en": "Where are my father and my mother, Nurse?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 641,
+  "tag": "P0641",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Weeping and wailing over Tybalt’s corse.\nWill you go to them? I will bring you thither.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "They are crying over Tybalt's body."
+    },
+    {
+     "en": "Will you go to them?"
+    },
+    {
+     "en": "I will bring you there."
+    }
+   ]
+  }
+ },
+ {
+  "id": 642,
+  "tag": "P0642",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Wash they his wounds with tears. Mine shall be spent,\nWhen theirs are dry, for Romeo’s banishment.\nTake up those cords. Poor ropes, you are beguil’d,\nBoth you and I; for Romeo is exil’d.\nHe made you for a highway to my bed,\nBut I, a maid, die maiden-widowed.\nCome cords, come Nurse, I’ll to my wedding bed,\nAnd death, not Romeo, take my maidenhead.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "They wash his wounds with tears."
+    },
+    {
+     "en": "Mine will be spent when theirs are dry, because of Romeo's banishment."
+    },
+    {
+     "en": "Take up those cords."
+    },
+    {
+     "en": "Poor ropes, you are tricked."
+    },
+    {
+     "en": "Both you and I are tricked."
+    },
+    {
+     "en": "Because Romeo is exiled."
+    },
+    {
+     "en": "You were made for the path to my bed."
+    },
+    {
+     "en": "But I, a girl, die a widow even though I never married."
+    },
+    {
+     "en": "Come cords, come Nurse."
+    },
+    {
+     "en": "I will go to my wedding bed."
+    },
+    {
+     "en": "And death, not Romeo, will take my virginity."
+    }
+   ]
+  }
+ },
+ {
+  "id": 643,
+  "tag": "P0643",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Hie to your chamber. I’ll find Romeo\nTo comfort you. I wot well where he is.\nHark ye, your Romeo will be here at night.\nI’ll to him, he is hid at Lawrence’ cell.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Hurry to your room."
+    },
+    {
+     "en": "I will find Romeo to comfort you."
+    },
+    {
+     "en": "I know well where he is."
+    },
+    {
+     "en": "Listen, your Romeo will be here tonight."
+    },
+    {
+     "en": "I will go to him."
+    },
+    {
+     "en": "He is hiding in Lawrence's small room."
+    }
+   ]
+  }
+ },
+ {
+  "id": 644,
+  "tag": "P0644",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "O find him, give this ring to my true knight,\nAnd bid him come to take his last farewell.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh, find him."
+    },
+    {
+     "en": "Give this ring to my true knight."
+    },
+    {
+     "en": "Tell him to come and say his last goodbye."
+    }
+   ]
+  }
+ },
+ {
+  "id": 645,
+  "tag": "P0645",
+  "chapter_id": "ch_13",
+  "act": 3,
+  "scene": 2,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt.",
+  "sentences": []
+ }
+]

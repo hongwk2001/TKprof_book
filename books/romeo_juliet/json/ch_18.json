@@ -1,0 +1,575 @@
+[
+ {
+  "id": 826,
+  "tag": "P0826",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "header",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Act 4, Scene 2 — Hall in Capulet’s House",
+  "sentences": []
+ },
+ {
+  "id": 827,
+  "tag": "P0827",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Capulet, Lady Capulet, Nurse and Servants.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Capulet, Lady Capulet, the Nurse, and Servants enter."
+    }
+   ]
+  }
+ },
+ {
+  "id": 828,
+  "tag": "P0828",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "So many guests invite as here are writ.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Invite as many guests as are written here."
+    }
+   ]
+  }
+ },
+ {
+  "id": 829,
+  "tag": "P0829",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exit first Servant.",
+  "sentences": []
+ },
+ {
+  "id": 830,
+  "tag": "P0830",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Sirrah, go hire me twenty cunning cooks.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "You there, go hire twenty skilled cooks for me."
+    }
+   ]
+  }
+ },
+ {
+  "id": 831,
+  "tag": "P0831",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "SECOND SERVANT",
+  "delivery": null,
+  "raw": "You shall have none ill, sir; for I’ll try if they can lick their\nfingers.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "You will not have any bad ones, sir."
+    },
+    {
+     "en": "I will check if they can lick their fingers."
+    }
+   ]
+  }
+ },
+ {
+  "id": 832,
+  "tag": "P0832",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "How canst thou try them so?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "How can you test them like that?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 833,
+  "tag": "P0833",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "SECOND SERVANT",
+  "delivery": null,
+  "raw": "Marry, sir, ’tis an ill cook that cannot lick his own fingers;\ntherefore he that cannot lick his fingers goes not with me.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Indeed, sir, it is a bad cook who cannot lick his own fingers."
+    },
+    {
+     "en": "Therefore, anyone who cannot lick their fingers will not come with me."
+    }
+   ]
+  }
+ },
+ {
+  "id": 834,
+  "tag": "P0834",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Go, begone.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Go away."
+    }
+   ]
+  }
+ },
+ {
+  "id": 835,
+  "tag": "P0835",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exit second Servant.",
+  "sentences": []
+ },
+ {
+  "id": 836,
+  "tag": "P0836",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "We shall be much unfurnish’d for this time.\nWhat, is my daughter gone to Friar Lawrence?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "We will be very short of staff for this event."
+    },
+    {
+     "en": "Has my daughter gone to Friar Lawrence?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 837,
+  "tag": "P0837",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Ay, forsooth.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Yes, truly."
+    }
+   ]
+  }
+ },
+ {
+  "id": 838,
+  "tag": "P0838",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Well, he may chance to do some good on her.\nA peevish self-will’d harlotry it is.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Well, he might do some good for her."
+    },
+    {
+     "en": "It is just a stubborn and selfish behavior."
+    }
+   ]
+  }
+ },
+ {
+  "id": 839,
+  "tag": "P0839",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Juliet.",
+  "sentences": []
+ },
+ {
+  "id": 840,
+  "tag": "P0840",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "See where she comes from shrift with merry look.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Look, she is coming from confession with a happy look."
+    }
+   ]
+  }
+ },
+ {
+  "id": 841,
+  "tag": "P0841",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "How now, my headstrong. Where have you been gadding?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "How now, my headstrong girl."
+    },
+    {
+     "en": "Where have you been wandering?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 842,
+  "tag": "P0842",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Where I have learnt me to repent the sin\nOf disobedient opposition\nTo you and your behests; and am enjoin’d\nBy holy Lawrence to fall prostrate here,\nTo beg your pardon. Pardon, I beseech you.\nHenceforward I am ever rul’d by you.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I have learned to repent for my sin."
+    },
+    {
+     "en": "I disobeyed you and your orders."
+    },
+    {
+     "en": "Holy Lawrence told me to fall here before you."
+    },
+    {
+     "en": "I am asking for your pardon."
+    },
+    {
+     "en": "Please forgive me."
+    },
+    {
+     "en": "From now on, I will always obey you."
+    }
+   ]
+  }
+ },
+ {
+  "id": 843,
+  "tag": "P0843",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Send for the County, go tell him of this.\nI’ll have this knot knit up tomorrow morning.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Send for the Count and tell him about this."
+    },
+    {
+     "en": "I will have this matter settled tomorrow morning."
+    }
+   ]
+  }
+ },
+ {
+  "id": 844,
+  "tag": "P0844",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "I met the youthful lord at Lawrence’ cell,\nAnd gave him what becomed love I might,\nNot stepping o’er the bounds of modesty.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I met the young lord at Lawrence's room."
+    },
+    {
+     "en": "I showed him love in a proper way."
+    },
+    {
+     "en": "I did not go beyond the limits of modesty."
+    }
+   ]
+  }
+ },
+ {
+  "id": 845,
+  "tag": "P0845",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Why, I am glad on’t. This is well. Stand up.\nThis is as’t should be. Let me see the County.\nAy, marry. Go, I say, and fetch him hither.\nNow afore God, this reverend holy Friar,\nAll our whole city is much bound to him.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I am glad about this."
+    },
+    {
+     "en": "This is good."
+    },
+    {
+     "en": "Stand up."
+    },
+    {
+     "en": "This is how it should be."
+    },
+    {
+     "en": "Let me see the Count."
+    },
+    {
+     "en": "Yes, indeed."
+    },
+    {
+     "en": "Go and fetch him here."
+    },
+    {
+     "en": "Before God, our whole city owes much to this holy Friar."
+    }
+   ]
+  }
+ },
+ {
+  "id": 846,
+  "tag": "P0846",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Nurse, will you go with me into my closet,\nTo help me sort such needful ornaments\nAs you think fit to furnish me tomorrow?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Nurse, will you go into my room with me?"
+    },
+    {
+     "en": "You can help me choose the necessary jewelry."
+    },
+    {
+     "en": "Choose the items that you think are right for me to wear tomorrow."
+    }
+   ]
+  }
+ },
+ {
+  "id": 847,
+  "tag": "P0847",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "No, not till Thursday. There is time enough.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "No, not until Thursday."
+    },
+    {
+     "en": "There is enough time."
+    }
+   ]
+  }
+ },
+ {
+  "id": 848,
+  "tag": "P0848",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Go, Nurse, go with her. We’ll to church tomorrow.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Go, Nurse, go with her."
+    },
+    {
+     "en": "We will go to church tomorrow."
+    }
+   ]
+  }
+ },
+ {
+  "id": 849,
+  "tag": "P0849",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt Juliet and Nurse.",
+  "sentences": []
+ },
+ {
+  "id": 850,
+  "tag": "P0850",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "We shall be short in our provision,\n’Tis now near night.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "We will not have enough supplies."
+    },
+    {
+     "en": "It is almost night."
+    }
+   ]
+  }
+ },
+ {
+  "id": 851,
+  "tag": "P0851",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Tush, I will stir about,\nAnd all things shall be well, I warrant thee, wife.\nGo thou to Juliet, help to deck up her.\nI’ll not to bed tonight, let me alone.\nI’ll play the housewife for this once.—What, ho!—\nThey are all forth: well, I will walk myself\nTo County Paris, to prepare him up\nAgainst tomorrow. My heart is wondrous light\nSince this same wayward girl is so reclaim’d.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Hush, I will take care of things."
+    },
+    {
+     "en": "Everything will be fine, I promise you, wife."
+    },
+    {
+     "en": "Go to Juliet and help her get dressed."
+    },
+    {
+     "en": "I will not go to bed tonight."
+    },
+    {
+     "en": "Leave me alone."
+    },
+    {
+     "en": "I will do the housework just this once."
+    },
+    {
+     "en": "They are all out."
+    },
+    {
+     "en": "Well, I will walk to County Paris."
+    },
+    {
+     "en": "I will prepare him for tomorrow."
+    },
+    {
+     "en": "My heart is light because this stubborn girl has changed her ways."
+    }
+   ]
+  }
+ },
+ {
+  "id": 852,
+  "tag": "P0852",
+  "chapter_id": "ch_18",
+  "act": 4,
+  "scene": 2,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt.",
+  "sentences": []
+ }
+]

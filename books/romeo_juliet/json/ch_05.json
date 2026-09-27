@@ -1,0 +1,1659 @@
+[
+ {
+  "id": 226,
+  "tag": "P0226",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "header",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Act 1, Scene 5 — A Hall in Capulet’s House",
+  "sentences": []
+ },
+ {
+  "id": 227,
+  "tag": "P0227",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Musicians waiting. Enter Servants.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Musicians are waiting."
+    },
+    {
+     "en": "Servants enter."
+    }
+   ]
+  }
+ },
+ {
+  "id": 228,
+  "tag": "P0228",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "FIRST SERVANT",
+  "delivery": null,
+  "raw": "Where’s Potpan, that he helps not to take away?\nHe shift a trencher! He scrape a trencher!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Where is Potpan?"
+    },
+    {
+     "en": "He does not help to take things away."
+    },
+    {
+     "en": "He moves a plate!"
+    },
+    {
+     "en": "He cleans a plate!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 229,
+  "tag": "P0229",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "SECOND SERVANT",
+  "delivery": null,
+  "raw": "When good manners shall lie all in one or two men’s hands, and they\nunwash’d too, ’tis a foul thing.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "It is a bad thing when one or two men have all the good manners."
+    },
+    {
+     "en": "It is also bad if they do not wash their hands."
+    }
+   ]
+  }
+ },
+ {
+  "id": 230,
+  "tag": "P0230",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "FIRST SERVANT",
+  "delivery": null,
+  "raw": "Away with the join-stools, remove the court-cupboard, look to the\nplate. Good thou, save me a piece of marchpane; and as thou loves me,\nlet the porter let in Susan Grindstone and Nell. Antony and Potpan!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Take away the small stools."
+    },
+    {
+     "en": "Move the cupboard for the court."
+    },
+    {
+     "en": "Watch the plates."
+    },
+    {
+     "en": "Please, save a piece of marzipan for me."
+    },
+    {
+     "en": "Since you love me, tell the guard to let in Susan Grindstone and Nell."
+    },
+    {
+     "en": "Antony and Potpan!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 231,
+  "tag": "P0231",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "SECOND SERVANT",
+  "delivery": null,
+  "raw": "Ay, boy, ready.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Yes, boy, get ready."
+    }
+   ]
+  }
+ },
+ {
+  "id": 232,
+  "tag": "P0232",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "FIRST SERVANT",
+  "delivery": null,
+  "raw": "You are looked for and called for, asked for and sought for, in the\ngreat chamber.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "You are expected and called for."
+    },
+    {
+     "en": "People are asking for you."
+    },
+    {
+     "en": "They are looking for you in the great chamber."
+    }
+   ]
+  }
+ },
+ {
+  "id": 233,
+  "tag": "P0233",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "SECOND SERVANT",
+  "delivery": null,
+  "raw": "We cannot be here and there too. Cheerly, boys. Be brisk awhile, and\nthe longer liver take all.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "We cannot be in two places at once."
+    },
+    {
+     "en": "Hurry up, boys."
+    },
+    {
+     "en": "Be quick for a while."
+    },
+    {
+     "en": "The person who lives longest should take all."
+    }
+   ]
+  }
+ },
+ {
+  "id": 234,
+  "tag": "P0234",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt.",
+  "sentences": []
+ },
+ {
+  "id": 235,
+  "tag": "P0235",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Capulet, &c. with the Guests and Gentlewomen to the Maskers.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Capulet enters with the guests and ladies."
+    },
+    {
+     "en": "They go to the people in masks."
+    }
+   ]
+  }
+ },
+ {
+  "id": 236,
+  "tag": "P0236",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Welcome, gentlemen, ladies that have their toes\nUnplagu’d with corns will have a bout with you.\nAh my mistresses, which of you all\nWill now deny to dance? She that makes dainty,\nShe I’ll swear hath corns. Am I come near ye now?\nWelcome, gentlemen! I have seen the day\nThat I have worn a visor, and could tell\nA whispering tale in a fair lady’s ear,\nSuch as would please; ’tis gone, ’tis gone, ’tis gone,\nYou are welcome, gentlemen! Come, musicians, play.\nA hall, a hall, give room! And foot it, girls.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Welcome, gentlemen."
+    },
+    {
+     "en": "Ladies, if your feet are healthy, you can dance with the men."
+    },
+    {
+     "en": "My dear ladies, which of you will refuse to dance?"
+    },
+    {
+     "en": "If a lady acts shy, I swear she has painful feet."
+    },
+    {
+     "en": "Am I near you now?"
+    },
+    {
+     "en": "Welcome, gentlemen!"
+    },
+    {
+     "en": "I remember the day I wore a mask."
+    },
+    {
+     "en": "I could whisper a pleasant story into a beautiful lady's ear."
+    },
+    {
+     "en": "That time is gone."
+    },
+    {
+     "en": "It is gone."
+    },
+    {
+     "en": "It is gone."
+    },
+    {
+     "en": "You are welcome, gentlemen!"
+    },
+    {
+     "en": "Come, musicians, play."
+    },
+    {
+     "en": "Make a path, make a path, give some room!"
+    },
+    {
+     "en": "Dance now, girls."
+    }
+   ]
+  }
+ },
+ {
+  "id": 237,
+  "tag": "P0237",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Music plays, and they dance.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Music plays and they dance."
+    }
+   ]
+  }
+ },
+ {
+  "id": 238,
+  "tag": "P0238",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "More light, you knaves; and turn the tables up,\nAnd quench the fire, the room is grown too hot.\nAh sirrah, this unlook’d-for sport comes well.\nNay sit, nay sit, good cousin Capulet,\nFor you and I are past our dancing days;\nHow long is’t now since last yourself and I\nWere in a mask?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Give me more light, you servants."
+    },
+    {
+     "en": "Turn the tables over."
+    },
+    {
+     "en": "Put out the fire because the room is too hot."
+    },
+    {
+     "en": "Oh you there, this unexpected fun is going well."
+    },
+    {
+     "en": "No, sit down, sit down, dear cousin Capulet."
+    },
+    {
+     "en": "You and I are past our dancing days."
+    },
+    {
+     "en": "How long has it been since we both wore masks?"
+    },
+    {
+     "en": "How long ago did we last wear a mask?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 239,
+  "tag": "P0239",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "CAPULET'S COUSIN",
+  "delivery": null,
+  "raw": "By’r Lady, thirty years.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "By my lady, thirty years."
+    }
+   ]
+  }
+ },
+ {
+  "id": 240,
+  "tag": "P0240",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "What, man, ’tis not so much, ’tis not so much:\n’Tis since the nuptial of Lucentio,\nCome Pentecost as quickly as it will,\nSome five and twenty years; and then we mask’d.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "No, man, it is not that many."
+    },
+    {
+     "en": "It has been since the wedding of Lucentio."
+    },
+    {
+     "en": "It was as soon as Pentecost arrived."
+    },
+    {
+     "en": "It was about twenty-five years ago."
+    },
+    {
+     "en": "We wore masks then."
+    }
+   ]
+  }
+ },
+ {
+  "id": 241,
+  "tag": "P0241",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "CAPULET'S COUSIN",
+  "delivery": null,
+  "raw": "’Tis more, ’tis more, his son is elder, sir;\nHis son is thirty.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "It is more."
+    },
+    {
+     "en": "It is more."
+    },
+    {
+     "en": "His son is older, sir."
+    },
+    {
+     "en": "His son is thirty."
+    }
+   ]
+  }
+ },
+ {
+  "id": 242,
+  "tag": "P0242",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Will you tell me that?\nHis son was but a ward two years ago.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Will you tell me that?"
+    },
+    {
+     "en": "His son was only a ward two years ago."
+    }
+   ]
+  }
+ },
+ {
+  "id": 243,
+  "tag": "P0243",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "What lady is that, which doth enrich the hand\nOf yonder knight?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "What lady is that?"
+    },
+    {
+     "en": "She is holding the hand of that knight over there."
+    }
+   ]
+  }
+ },
+ {
+  "id": 244,
+  "tag": "P0244",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "SERVANT",
+  "delivery": null,
+  "raw": "I know not, sir.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I do not know, sir."
+    }
+   ]
+  }
+ },
+ {
+  "id": 245,
+  "tag": "P0245",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "O, she doth teach the torches to burn bright!\nIt seems she hangs upon the cheek of night\nAs a rich jewel in an Ethiop’s ear;\nBeauty too rich for use, for earth too dear!\nSo shows a snowy dove trooping with crows\nAs yonder lady o’er her fellows shows.\nThe measure done, I’ll watch her place of stand,\nAnd touching hers, make blessed my rude hand.\nDid my heart love till now? Forswear it, sight!\nFor I ne’er saw true beauty till this night.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh, she teaches the torches to burn bright!"
+    },
+    {
+     "en": "She seems to hang on the cheek of night."
+    },
+    {
+     "en": "She looks like a rich jewel in an Ethiopian's ear."
+    },
+    {
+     "en": "Her beauty is too great for use."
+    },
+    {
+     "en": "It is too precious for this earth!"
+    },
+    {
+     "en": "A white dove looks different among crows."
+    },
+    {
+     "en": "That lady looks special among her friends."
+    },
+    {
+     "en": "When the music ends, I will watch where she stands."
+    },
+    {
+     "en": "I will touch her hand."
+    },
+    {
+     "en": "I will make my rough hand blessed by her touch."
+    },
+    {
+     "en": "Did my heart love before now?"
+    },
+    {
+     "en": "Deny it, sight!"
+    },
+    {
+     "en": "I never saw true beauty until tonight."
+    }
+   ]
+  }
+ },
+ {
+  "id": 246,
+  "tag": "P0246",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "TYBALT",
+  "delivery": null,
+  "raw": "This by his voice, should be a Montague.\nFetch me my rapier, boy. What, dares the slave\nCome hither, cover’d with an antic face,\nTo fleer and scorn at our solemnity?\nNow by the stock and honour of my kin,\nTo strike him dead I hold it not a sin.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "By his voice, he must be a Montague."
+    },
+    {
+     "en": "Get me my thin sword, boy."
+    },
+    {
+     "en": "Does the slave dare to come here?"
+    },
+    {
+     "en": "He is wearing a mask."
+    },
+    {
+     "en": "He comes to mock and insult our ceremony."
+    },
+    {
+     "en": "I swear by my family's honor."
+    },
+    {
+     "en": "I do not think it is a sin to strike him dead."
+    }
+   ]
+  }
+ },
+ {
+  "id": 247,
+  "tag": "P0247",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Why how now, kinsman!\nWherefore storm you so?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Why are you shouting, relative?"
+    },
+    {
+     "en": "Why are you so angry?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 248,
+  "tag": "P0248",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "TYBALT",
+  "delivery": null,
+  "raw": "Uncle, this is a Montague, our foe;\nA villain that is hither come in spite,\nTo scorn at our solemnity this night.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Uncle, this is a Montague."
+    },
+    {
+     "en": "He is our enemy."
+    },
+    {
+     "en": "He is a villain who came here to cause trouble."
+    },
+    {
+     "en": "He comes to mock our ceremony tonight."
+    }
+   ]
+  }
+ },
+ {
+  "id": 249,
+  "tag": "P0249",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Young Romeo, is it?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Young Romeo, is it?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 250,
+  "tag": "P0250",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "TYBALT",
+  "delivery": null,
+  "raw": "’Tis he, that villain Romeo.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "It is him, that villain Romeo."
+    }
+   ]
+  }
+ },
+ {
+  "id": 251,
+  "tag": "P0251",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Content thee, gentle coz, let him alone,\nA bears him like a portly gentleman;\nAnd, to say truth, Verona brags of him\nTo be a virtuous and well-govern’d youth.\nI would not for the wealth of all the town\nHere in my house do him disparagement.\nTherefore be patient, take no note of him,\nIt is my will; the which if thou respect,\nShow a fair presence and put off these frowns,\nAn ill-beseeming semblance for a feast.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Be calm, my dear relative."
+    },
+    {
+     "en": "Leave him alone."
+    },
+    {
+     "en": "He looks like a wealthy gentleman."
+    },
+    {
+     "en": "To tell the truth, Verona praises him."
+    },
+    {
+     "en": "They say he is a virtuous and well-behaved youth."
+    },
+    {
+     "en": "I would not insult him in my house for all the wealth of the town."
+    },
+    {
+     "en": "Therefore be patient."
+    },
+    {
+     "en": "Do not pay him any attention."
+    },
+    {
+     "en": "That is my wish."
+    },
+    {
+     "en": "If you follow my wish, show a pleasant face."
+    },
+    {
+     "en": "Stop making these faces."
+    },
+    {
+     "en": "They do not look good for a feast."
+    }
+   ]
+  }
+ },
+ {
+  "id": 252,
+  "tag": "P0252",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "TYBALT",
+  "delivery": null,
+  "raw": "It fits when such a villain is a guest:\nI’ll not endure him.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "It is fitting when such a villain is a guest."
+    },
+    {
+     "en": "I will not tolerate him."
+    }
+   ]
+  }
+ },
+ {
+  "id": 253,
+  "tag": "P0253",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "He shall be endur’d.\nWhat, goodman boy! I say he shall, go to;\nAm I the master here, or you? Go to.\nYou’ll not endure him! God shall mend my soul,\nYou’ll make a mutiny among my guests!\nYou will set cock-a-hoop, you’ll be the man!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "He shall be tolerated."
+    },
+    {
+     "en": "What, boy! I say he shall, go on."
+    },
+    {
+     "en": "Am I the master here, or are you?"
+    },
+    {
+     "en": "Go on."
+    },
+    {
+     "en": "You will not tolerate him!"
+    },
+    {
+     "en": "God will forgive me if you start a riot among my guests!"
+    },
+    {
+     "en": "You will cause a scene."
+    },
+    {
+     "en": "You will be the one to do it!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 254,
+  "tag": "P0254",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "TYBALT",
+  "delivery": null,
+  "raw": "Why, uncle, ’tis a shame.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Well, uncle, it is a shame."
+    }
+   ]
+  }
+ },
+ {
+  "id": 255,
+  "tag": "P0255",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Go to, go to!\nYou are a saucy boy. Is’t so, indeed?\nThis trick may chance to scathe you, I know what.\nYou must contrary me! Marry, ’tis time.\nWell said, my hearts!—You are a princox; go:\nBe quiet, or—More light, more light!—For shame!\nI’ll make you quiet. What, cheerly, my hearts.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Go on, go on!"
+    },
+    {
+     "en": "You are a rude boy."
+    },
+    {
+     "en": "Is that true, indeed?"
+    },
+    {
+     "en": "This behavior might hurt you, I know it."
+    },
+    {
+     "en": "You must disagree with me!"
+    },
+    {
+     "en": "Indeed, it is time."
+    },
+    {
+     "en": "Well said, my friends!"
+    },
+    {
+     "en": "You are a bold boy; go."
+    },
+    {
+     "en": "Be quiet, or—"
+    },
+    {
+     "en": "More light, more light!"
+    },
+    {
+     "en": "Shame on you!"
+    },
+    {
+     "en": "I will make you quiet."
+    },
+    {
+     "en": "Yes, quickly, my friends."
+    }
+   ]
+  }
+ },
+ {
+  "id": 256,
+  "tag": "P0256",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "TYBALT",
+  "delivery": null,
+  "raw": "Patience perforce with wilful choler meeting\nMakes my flesh tremble in their different greeting.\nI will withdraw: but this intrusion shall,\nNow seeming sweet, convert to bitter gall.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Patience and intentional anger meeting makes me tremble."
+    },
+    {
+     "en": "I will leave now."
+    },
+    {
+     "en": "But this intrusion will seem sweet now."
+    },
+    {
+     "en": "It will turn into bitter poison later."
+    }
+   ]
+  }
+ },
+ {
+  "id": 257,
+  "tag": "P0257",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exit.",
+  "sentences": []
+ },
+ {
+  "id": 258,
+  "tag": "P0258",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": "To Juliet",
+  "raw": "If I profane with my unworthiest hand\nThis holy shrine, the gentle sin is this,\nMy lips, two blushing pilgrims, ready stand\nTo smooth that rough touch with a tender kiss.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "If I make this holy shrine dirty with my unworthy hand, the gentle sin is this."
+    },
+    {
+     "en": "My lips are like two blushing pilgrims."
+    },
+    {
+     "en": "They are ready to smooth that rough touch with a tender kiss."
+    }
+   ]
+  }
+ },
+ {
+  "id": 259,
+  "tag": "P0259",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Good pilgrim, you do wrong your hand too much,\nWhich mannerly devotion shows in this;\nFor saints have hands that pilgrims’ hands do touch,\nAnd palm to palm is holy palmers’ kiss.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Good pilgrim, you blame your hand too much."
+    },
+    {
+     "en": "This shows a polite devotion."
+    },
+    {
+     "en": "Saints have hands that pilgrims' hands touch."
+    },
+    {
+     "en": "And palm to palm is the holy kiss of pilgrims."
+    }
+   ]
+  }
+ },
+ {
+  "id": 260,
+  "tag": "P0260",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Have not saints lips, and holy palmers too?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Do not saints have lips?"
+    },
+    {
+     "en": "And do holy pilgrims not have lips too?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 261,
+  "tag": "P0261",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Ay, pilgrim, lips that they must use in prayer.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Yes, pilgrim."
+    },
+    {
+     "en": "They must use their lips in prayer."
+    }
+   ]
+  }
+ },
+ {
+  "id": 262,
+  "tag": "P0262",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "O, then, dear saint, let lips do what hands do:\nThey pray, grant thou, lest faith turn to despair.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh, then, dear saint."
+    },
+    {
+     "en": "Let your lips do what hands do."
+    },
+    {
+     "en": "They pray."
+    },
+    {
+     "en": "Please grant this."
+    },
+    {
+     "en": "Otherwise faith will turn to despair."
+    }
+   ]
+  }
+ },
+ {
+  "id": 263,
+  "tag": "P0263",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Saints do not move, though grant for prayers’ sake.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Saints do not move."
+    },
+    {
+     "en": "Even if they grant the prayers."
+    }
+   ]
+  }
+ },
+ {
+  "id": 264,
+  "tag": "P0264",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Then move not while my prayer’s effect I take.\nThus from my lips, by thine my sin is purg’d.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Then do not move while I receive the effect of my prayer."
+    },
+    {
+     "en": "My sin is washed away by your lips."
+    },
+    {
+     "en": "It is removed from my lips by yours."
+    }
+   ]
+  }
+ },
+ {
+  "id": 265,
+  "tag": "P0265",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Kissing her.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Romeo kisses her."
+    }
+   ]
+  }
+ },
+ {
+  "id": 266,
+  "tag": "P0266",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Then have my lips the sin that they have took.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Then my lips have the sin that they took."
+    }
+   ]
+  }
+ },
+ {
+  "id": 267,
+  "tag": "P0267",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Sin from my lips? O trespass sweetly urg’d!\nGive me my sin again.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Sin from my lips?"
+    },
+    {
+     "en": "Oh, this is a sweet trespass!"
+    },
+    {
+     "en": "Give me my sin again."
+    }
+   ]
+  }
+ },
+ {
+  "id": 268,
+  "tag": "P0268",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "You kiss by the book.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "You kiss according to the rules."
+    }
+   ]
+  }
+ },
+ {
+  "id": 269,
+  "tag": "P0269",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Madam, your mother craves a word with you.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Madam, your mother wants to speak with you."
+    }
+   ]
+  }
+ },
+ {
+  "id": 270,
+  "tag": "P0270",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "What is her mother?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Who is her mother?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 271,
+  "tag": "P0271",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Marry, bachelor,\nHer mother is the lady of the house,\nAnd a good lady, and a wise and virtuous.\nI nurs’d her daughter that you talk’d withal.\nI tell you, he that can lay hold of her\nShall have the chinks.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Indeed, bachelor."
+    },
+    {
+     "en": "Her mother is the lady of the house."
+    },
+    {
+     "en": "She is a good lady."
+    },
+    {
+     "en": "She is wise and virtuous."
+    },
+    {
+     "en": "I nursed the daughter that you are talking about."
+    },
+    {
+     "en": "I tell you, the man who can win her will get the prize."
+    }
+   ]
+  }
+ },
+ {
+  "id": 272,
+  "tag": "P0272",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Is she a Capulet?\nO dear account! My life is my foe’s debt.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Is she a Capulet?"
+    },
+    {
+     "en": "Oh, what a terrible thought!"
+    },
+    {
+     "en": "My life is a debt to my enemy."
+    }
+   ]
+  }
+ },
+ {
+  "id": 273,
+  "tag": "P0273",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Away, be gone; the sport is at the best.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Go away."
+    },
+    {
+     "en": "Leave now."
+    },
+    {
+     "en": "The fun is at its best."
+    }
+   ]
+  }
+ },
+ {
+  "id": 274,
+  "tag": "P0274",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Ay, so I fear; the more is my unrest.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Yes, I fear that."
+    },
+    {
+     "en": "It makes me more uneasy."
+    }
+   ]
+  }
+ },
+ {
+  "id": 275,
+  "tag": "P0275",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "Nay, gentlemen, prepare not to be gone,\nWe have a trifling foolish banquet towards.\nIs it e’en so? Why then, I thank you all;\nI thank you, honest gentlemen; good night.\nMore torches here! Come on then, let’s to bed.\nAh, sirrah, by my fay, it waxes late,\nI’ll to my rest.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "No, gentlemen, do not get ready to leave."
+    },
+    {
+     "en": "We have a small and silly banquet ahead."
+    },
+    {
+     "en": "Is it really so?"
+    },
+    {
+     "en": "Then I thank you all."
+    },
+    {
+     "en": "I thank you, honest gentlemen."
+    },
+    {
+     "en": "Good night."
+    },
+    {
+     "en": "Bring more torches here!"
+    },
+    {
+     "en": "Come on then, let us go to bed."
+    },
+    {
+     "en": "Ah, you there, by my faith, it is getting late."
+    },
+    {
+     "en": "I will go to my rest."
+    }
+   ]
+  }
+ },
+ {
+  "id": 276,
+  "tag": "P0276",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt all but Juliet and Nurse.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Everyone leaves except Juliet and the Nurse."
+    }
+   ]
+  }
+ },
+ {
+  "id": 277,
+  "tag": "P0277",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Come hither, Nurse. What is yond gentleman?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Come here, Nurse."
+    },
+    {
+     "en": "Who is that gentleman over there?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 278,
+  "tag": "P0278",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "The son and heir of old Tiberio.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "He is the son and heir of old Tiberio."
+    }
+   ]
+  }
+ },
+ {
+  "id": 279,
+  "tag": "P0279",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "What’s he that now is going out of door?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Who is that man going out of the door now?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 280,
+  "tag": "P0280",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Marry, that I think be young Petruchio.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Indeed, I think he is young Petruchio."
+    }
+   ]
+  }
+ },
+ {
+  "id": 281,
+  "tag": "P0281",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "What’s he that follows here, that would not dance?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Who is that man following here who does not want to dance?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 282,
+  "tag": "P0282",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "I know not.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I do not know."
+    }
+   ]
+  }
+ },
+ {
+  "id": 283,
+  "tag": "P0283",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Go ask his name. If he be married,\nMy grave is like to be my wedding bed.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Go and ask his name."
+    },
+    {
+     "en": "If he is married, my grave will be like my wedding bed."
+    }
+   ]
+  }
+ },
+ {
+  "id": 284,
+  "tag": "P0284",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "His name is Romeo, and a Montague,\nThe only son of your great enemy.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "His name is Romeo."
+    },
+    {
+     "en": "He is a Montague."
+    },
+    {
+     "en": "He is the only son of your great enemy."
+    }
+   ]
+  }
+ },
+ {
+  "id": 285,
+  "tag": "P0285",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "My only love sprung from my only hate!\nToo early seen unknown, and known too late!\nProdigious birth of love it is to me,\nThat I must love a loathed enemy.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "My only love comes from my only hate!"
+    },
+    {
+     "en": "I saw him too early as a stranger."
+    },
+    {
+     "en": "I know him too late now."
+    },
+    {
+     "en": "This is a huge birth of love for me."
+    },
+    {
+     "en": "I must love an enemy that I hate."
+    }
+   ]
+  }
+ },
+ {
+  "id": 286,
+  "tag": "P0286",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "What’s this? What’s this?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "What is this?"
+    },
+    {
+     "en": "What is this?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 287,
+  "tag": "P0287",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "A rhyme I learn’d even now\nOf one I danc’d withal.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I just learned a rhyme now."
+    },
+    {
+     "en": "It is about the man I danced with."
+    }
+   ]
+  }
+ },
+ {
+  "id": 288,
+  "tag": "P0288",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "One calls within, ‘Juliet’.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Someone calls from inside for Juliet."
+    },
+    {
+     "en": "The Nurse hears it."
+    }
+   ]
+  }
+ },
+ {
+  "id": 289,
+  "tag": "P0289",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Anon, anon!\nCome let’s away, the strangers all are gone.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Coming, coming!"
+    },
+    {
+     "en": "Come, let us go away."
+    },
+    {
+     "en": "All the strangers are gone."
+    }
+   ]
+  }
+ },
+ {
+  "id": 290,
+  "tag": "P0290",
+  "chapter_id": "ch_05",
+  "act": 1,
+  "scene": 5,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt.",
+  "sentences": []
+ }
+]

@@ -1,0 +1,2959 @@
+[
+ {
+  "id": 984,
+  "tag": "P0984",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "header",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Act 5, Scene 3 — A churchyard; in it a Monument belonging to the Capulets",
+  "sentences": []
+ },
+ {
+  "id": 985,
+  "tag": "P0985",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Paris, and his Page bearing flowers and a torch.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Paris enters."
+    },
+    {
+     "en": "His Page carries flowers and a torch."
+    }
+   ]
+  }
+ },
+ {
+  "id": 986,
+  "tag": "P0986",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "PARIS",
+  "delivery": null,
+  "raw": "Give me thy torch, boy. Hence and stand aloof.\nYet put it out, for I would not be seen.\nUnder yond yew tree lay thee all along,\nHolding thy ear close to the hollow ground;\nSo shall no foot upon the churchyard tread,\nBeing loose, unfirm, with digging up of graves,\nBut thou shalt hear it. Whistle then to me,\nAs signal that thou hear’st something approach.\nGive me those flowers. Do as I bid thee, go.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Give me your torch, boy."
+    },
+    {
+     "en": "Go away and stand far apart."
+    },
+    {
+     "en": "Put it out because I do not want to be seen."
+    },
+    {
+     "en": "Lie under that yew tree all the time."
+    },
+    {
+     "en": "Hold your ear close to the ground."
+    },
+    {
+     "en": "No foot will walk in this churchyard."
+    },
+    {
+     "en": "The ground is loose and not firm."
+    },
+    {
+     "en": "Digging up graves makes it unstable."
+    },
+    {
+     "en": "But you will hear it if something moves."
+    },
+    {
+     "en": "Whistle to me then."
+    },
+    {
+     "en": "Whistle as a signal that you hear something coming."
+    },
+    {
+     "en": "Give me those flowers."
+    },
+    {
+     "en": "Do what I tell you and go."
+    }
+   ]
+  }
+ },
+ {
+  "id": 987,
+  "tag": "P0987",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "PAGE",
+  "delivery": "Aside",
+  "raw": "I am almost afraid to stand alone\nHere in the churchyard; yet I will adventure.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I am almost afraid to stand alone here in the churchyard."
+    },
+    {
+     "en": "Still, I will take the risk."
+    }
+   ]
+  }
+ },
+ {
+  "id": 988,
+  "tag": "P0988",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Retires.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "The page leaves."
+    }
+   ]
+  }
+ },
+ {
+  "id": 989,
+  "tag": "P0989",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "PARIS",
+  "delivery": null,
+  "raw": "Sweet flower, with flowers thy bridal bed I strew.\nO woe, thy canopy is dust and stones,\nWhich with sweet water nightly I will dew,\nOr wanting that, with tears distill’d by moans.\nThe obsequies that I for thee will keep,\nNightly shall be to strew thy grave and weep.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Sweet flower, I scatter flowers on your wedding bed."
+    },
+    {
+     "en": "Oh woe, your canopy is only dust and stones."
+    },
+    {
+     "en": "I will water it with sweet water every night."
+    },
+    {
+     "en": "If I lack that, I will use tears from my crying."
+    },
+    {
+     "en": "The ceremonies I will keep for you will be to scatter flowers on your grave and weep every night."
+    }
+   ]
+  }
+ },
+ {
+  "id": 990,
+  "tag": "P0990",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "The Page whistles.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "The Page whistles."
+    }
+   ]
+  }
+ },
+ {
+  "id": 991,
+  "tag": "P0991",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "PARIS",
+  "delivery": null,
+  "raw": "The boy gives warning something doth approach.\nWhat cursed foot wanders this way tonight,\nTo cross my obsequies and true love’s rite?\nWhat, with a torch! Muffle me, night, awhile.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "The boy signals that something is coming."
+    },
+    {
+     "en": "What cursed foot wanders this way tonight?"
+    },
+    {
+     "en": "It interrupts my prayers and the ceremony of true love."
+    },
+    {
+     "en": "What? It has a torch!"
+    },
+    {
+     "en": "Night, hide me for a while."
+    }
+   ]
+  }
+ },
+ {
+  "id": 992,
+  "tag": "P0992",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Retires.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Paris leaves."
+    }
+   ]
+  }
+ },
+ {
+  "id": 993,
+  "tag": "P0993",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Romeo and Balthasar with a torch, mattock, &c.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Romeo and Balthasar enter with a torch and a tool."
+    }
+   ]
+  }
+ },
+ {
+  "id": 994,
+  "tag": "P0994",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Give me that mattock and the wrenching iron.\nHold, take this letter; early in the morning\nSee thou deliver it to my lord and father.\nGive me the light; upon thy life I charge thee,\nWhate’er thou hear’st or seest, stand all aloof\nAnd do not interrupt me in my course.\nWhy I descend into this bed of death\nIs partly to behold my lady’s face,\nBut chiefly to take thence from her dead finger\nA precious ring, a ring that I must use\nIn dear employment. Therefore hence, be gone.\nBut if thou jealous dost return to pry\nIn what I further shall intend to do,\nBy heaven I will tear thee joint by joint,\nAnd strew this hungry churchyard with thy limbs.\nThe time and my intents are savage-wild;\nMore fierce and more inexorable far\nThan empty tigers or the roaring sea.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Give me that tool and the iron bar."
+    },
+    {
+     "en": "Wait, take this letter."
+    },
+    {
+     "en": "Deliver it to my lord and father early in the morning."
+    },
+    {
+     "en": "Give me the light."
+    },
+    {
+     "en": "I charge you on your life."
+    },
+    {
+     "en": "Whatever you hear or see, stay away."
+    },
+    {
+     "en": "Do not stop me from what I am doing."
+    },
+    {
+     "en": "I go into this bed of death partly to see my lady's face."
+    },
+    {
+     "en": "But mostly I want to take a precious ring from her dead finger."
+    },
+    {
+     "en": "I must use this ring for an important task."
+    },
+    {
+     "en": "Therefore, go away now."
+    },
+    {
+     "en": "If you are curious and try to find out what I plan to do next, I swear by heaven that I will tear you apart."
+    },
+    {
+     "en": "I will scatter your body parts across this hungry churchyard."
+    },
+    {
+     "en": "The time and my plans are wild."
+    },
+    {
+     "en": "They are much more fierce and unstoppable than tigers or the roaring sea."
+    }
+   ]
+  }
+ },
+ {
+  "id": 995,
+  "tag": "P0995",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "BALTHASAR",
+  "delivery": null,
+  "raw": "I will be gone, sir, and not trouble you.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I will leave now, sir, and not bother you."
+    }
+   ]
+  }
+ },
+ {
+  "id": 996,
+  "tag": "P0996",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "So shalt thou show me friendship. Take thou that.\nLive, and be prosperous, and farewell, good fellow.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "That is how you show me friendship."
+    },
+    {
+     "en": "Take that."
+    },
+    {
+     "en": "Live and be successful, and goodbye, good fellow."
+    }
+   ]
+  }
+ },
+ {
+  "id": 997,
+  "tag": "P0997",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "BALTHASAR",
+  "delivery": null,
+  "raw": "For all this same, I’ll hide me hereabout.\nHis looks I fear, and his intents I doubt.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I will hide nearby for all these reasons."
+    },
+    {
+     "en": "I fear his look and I doubt his intentions."
+    }
+   ]
+  }
+ },
+ {
+  "id": 998,
+  "tag": "P0998",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Retires",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Balthasar leaves."
+    }
+   ]
+  }
+ },
+ {
+  "id": 999,
+  "tag": "P0999",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Thou detestable maw, thou womb of death,\nGorg’d with the dearest morsel of the earth,\nThus I enforce thy rotten jaws to open,",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "You disgusting mouth, you womb of death, you are full of the most precious thing on earth."
+    },
+    {
+     "en": "I force your rotten jaws to open like this."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1000,
+  "tag": "P1000",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Breaking open the door of the monument.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Romeo breaks open the door of the monument."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1001,
+  "tag": "P1001",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "And in despite, I’ll cram thee with more food.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "And despite your feelings, I will fill you with more food."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1002,
+  "tag": "P1002",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "PARIS",
+  "delivery": null,
+  "raw": "This is that banish’d haughty Montague\nThat murder’d my love’s cousin,—with which grief,\nIt is supposed, the fair creature died,—\nAnd here is come to do some villainous shame\nTo the dead bodies. I will apprehend him.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "This is that banished and proud Montague."
+    },
+    {
+     "en": "He murdered my love's cousin."
+    },
+    {
+     "en": "It is said that she died from that grief."
+    },
+    {
+     "en": "He has come here to do something shameful to the dead bodies."
+    },
+    {
+     "en": "I will arrest him."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1003,
+  "tag": "P1003",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Advances.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Paris moves forward."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1004,
+  "tag": "P1004",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "PARIS",
+  "delivery": null,
+  "raw": "Stop thy unhallow’d toil, vile Montague.\nCan vengeance be pursu’d further than death?\nCondemned villain, I do apprehend thee.\nObey, and go with me, for thou must die.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Stop your unholy work, vile Montague."
+    },
+    {
+     "en": "Can revenge be pursued further than death?"
+    },
+    {
+     "en": "You condemned villain, I arrest you."
+    },
+    {
+     "en": "Obey me and come with me, for you must die."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1005,
+  "tag": "P1005",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "I must indeed; and therefore came I hither.\nGood gentle youth, tempt not a desperate man.\nFly hence and leave me. Think upon these gone;\nLet them affright thee. I beseech thee, youth,\nPut not another sin upon my head\nBy urging me to fury. O be gone.\nBy heaven I love thee better than myself;\nFor I come hither arm’d against myself.\nStay not, be gone, live, and hereafter say,\nA madman’s mercy bid thee run away.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I must do it; that is why I came here."
+    },
+    {
+     "en": "Good young man, do not tempt a desperate man."
+    },
+    {
+     "en": "Run away and leave me."
+    },
+    {
+     "en": "Think about those who are gone."
+    },
+    {
+     "en": "Let them frighten you."
+    },
+    {
+     "en": "I beg you, young man, do not add another sin to my head by making me angry."
+    },
+    {
+     "en": "Oh, go away."
+    },
+    {
+     "en": "By heaven, I love you more than myself."
+    },
+    {
+     "en": "I came here armed against myself."
+    },
+    {
+     "en": "Do not stay. Go away and live."
+    },
+    {
+     "en": "Later, tell others that a madman's mercy told you to run away."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1006,
+  "tag": "P1006",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "PARIS",
+  "delivery": null,
+  "raw": "I do defy thy conjuration,\nAnd apprehend thee for a felon here.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I ignore your request."
+    },
+    {
+     "en": "I arrest you as a criminal here."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1007,
+  "tag": "P1007",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Wilt thou provoke me? Then have at thee, boy!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Will you provoke me?"
+    },
+    {
+     "en": "Then come at me, boy!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 1008,
+  "tag": "P1008",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "They fight.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "They fight."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1009,
+  "tag": "P1009",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "PAGE",
+  "delivery": null,
+  "raw": "O lord, they fight! I will go call the watch.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh lord, they are fighting!"
+    },
+    {
+     "en": "I will go call the watch."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1010,
+  "tag": "P1010",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exit.",
+  "sentences": []
+ },
+ {
+  "id": 1011,
+  "tag": "P1011",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "PARIS",
+  "delivery": null,
+  "raw": "O, I am slain!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh, I am killed!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 1012,
+  "tag": "P1012",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Falls.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Paris falls."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1013,
+  "tag": "P1013",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "PARIS",
+  "delivery": null,
+  "raw": "If thou be merciful,\nOpen the tomb, lay me with Juliet.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "If you are merciful, open the tomb."
+    },
+    {
+     "en": "Put me with Juliet."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1014,
+  "tag": "P1014",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Dies.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Romeo dies."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1015,
+  "tag": "P1015",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "In faith, I will. Let me peruse this face.\nMercutio’s kinsman, noble County Paris!\nWhat said my man, when my betossed soul\nDid not attend him as we rode? I think\nHe told me Paris should have married Juliet.\nSaid he not so? Or did I dream it so?\nOr am I mad, hearing him talk of Juliet,\nTo think it was so? O, give me thy hand,\nOne writ with me in sour misfortune’s book.\nI’ll bury thee in a triumphant grave.\nA grave? O no, a lantern, slaught’red youth,\nFor here lies Juliet, and her beauty makes\nThis vault a feasting presence full of light.\nDeath, lie thou there, by a dead man interr’d.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I will do that."
+    },
+    {
+     "en": "Let me look at this face."
+    },
+    {
+     "en": "Mercutio's relative, the noble County Paris!"
+    },
+    {
+     "en": "What did my man say when my lost soul did not listen to him while we rode?"
+    },
+    {
+     "en": "I think he told me Paris should have married Juliet."
+    },
+    {
+     "en": "Did he not say that?"
+    },
+    {
+     "en": "Or did I dream it?"
+    },
+    {
+     "en": "Or am I mad for hearing him talk of Juliet and thinking it was true?"
+    },
+    {
+     "en": "Oh, give me your hand."
+    },
+    {
+     "en": "It is written with me in the book of bad luck."
+    },
+    {
+     "en": "I will bury you in a triumphant grave."
+    },
+    {
+     "en": "A grave? Oh no, a lantern."
+    },
+    {
+     "en": "You are a slaughtered youth."
+    },
+    {
+     "en": "Juliet lies here."
+    },
+    {
+     "en": "Her beauty makes this vault a feast full of light."
+    },
+    {
+     "en": "Death, stay there, buried by a dead man."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1016,
+  "tag": "P1016",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Laying Paris in the monument.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Romeo is laying Paris in the monument."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1017,
+  "tag": "P1017",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "How oft when men are at the point of death\nHave they been merry! Which their keepers call\nA lightning before death. O, how may I\nCall this a lightning? O my love, my wife,\nDeath that hath suck’d the honey of thy breath,\nHath had no power yet upon thy beauty.\nThou art not conquer’d. Beauty’s ensign yet\nIs crimson in thy lips and in thy cheeks,\nAnd death’s pale flag is not advanced there.\nTybalt, liest thou there in thy bloody sheet?\nO, what more favour can I do to thee\nThan with that hand that cut thy youth in twain\nTo sunder his that was thine enemy?\nForgive me, cousin. Ah, dear Juliet,\nWhy art thou yet so fair? Shall I believe\nThat unsubstantial death is amorous;\nAnd that the lean abhorred monster keeps\nThee here in dark to be his paramour?\nFor fear of that I still will stay with thee,\nAnd never from this palace of dim night\nDepart again. Here, here will I remain\nWith worms that are thy chambermaids. O, here\nWill I set up my everlasting rest;\nAnd shake the yoke of inauspicious stars\nFrom this world-wearied flesh. Eyes, look your last.\nArms, take your last embrace! And, lips, O you\nThe doors of breath, seal with a righteous kiss\nA dateless bargain to engrossing death.\nCome, bitter conduct, come, unsavoury guide.\nThou desperate pilot, now at once run on\nThe dashing rocks thy sea-sick weary bark.\nHere’s to my love!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "How often have men been happy at the moment of death!"
+    },
+    {
+     "en": "Their keepers call this a flash before death."
+    },
+    {
+     "en": "Oh, how can I call this a flash?"
+    },
+    {
+     "en": "Oh my love, my wife, death has taken the honey from your breath."
+    },
+    {
+     "en": "But death has no power over your beauty yet."
+    },
+    {
+     "en": "You are not conquered."
+    },
+    {
+     "en": "The sign of beauty is still red in your lips and cheeks."
+    },
+    {
+     "en": "Death's pale flag is not there."
+    },
+    {
+     "en": "Tybalt, do you lie there in your bloody sheet?"
+    },
+    {
+     "en": "Oh, what more can I do for you?"
+    },
+    {
+     "en": "I will use the hand that cut your life in two to separate his hand from yours."
+    },
+    {
+     "en": "Forgive me, cousin."
+    },
+    {
+     "en": "Ah, dear Juliet, why are you still so beautiful?"
+    },
+    {
+     "en": "Should I believe that weak death is in love?"
+    },
+    {
+     "en": "And that the thin, hated monster keeps you here in the dark as his lover?"
+    },
+    {
+     "en": "Because of that fear, I will stay with you."
+    },
+    {
+     "en": "I will never leave this palace of dark night."
+    },
+    {
+     "en": "Here, I will stay with the worms that are your maids."
+    },
+    {
+     "en": "Oh, here I will set up my forever rest."
+    },
+    {
+     "en": "I will shake the weight of unlucky stars from this tired body."
+    },
+    {
+     "en": "Eyes, look for the last time."
+    },
+    {
+     "en": "Arms, give your last embrace!"
+    },
+    {
+     "en": "And lips, oh you doors of breath, seal with a holy kiss a deal with death that never ends."
+    },
+    {
+     "en": "Come, bitter journey, come, unpleasant guide."
+    },
+    {
+     "en": "You desperate pilot, now sail at once on the rocks."
+    },
+    {
+     "en": "Your sea-sick weary boat is hitting them."
+    },
+    {
+     "en": "Here is to my love!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 1018,
+  "tag": "P1018",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Drinks.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Romeo drinks."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1019,
+  "tag": "P1019",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "O true apothecary!\nThy drugs are quick. Thus with a kiss I die.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh, true apothecary!"
+    },
+    {
+     "en": "Your drugs work quickly."
+    },
+    {
+     "en": "I die with a kiss."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1020,
+  "tag": "P1020",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Dies.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Romeo dies."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1021,
+  "tag": "P1021",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter, at the other end of the Churchyard, Friar Lawrence, with a lantern, crow, and spade.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Friar Lawrence enters at the other end of the churchyard."
+    },
+    {
+     "en": "He carries a lantern, a crow, and a spade."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1022,
+  "tag": "P1022",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "FRIAR LAWRENCE",
+  "delivery": null,
+  "raw": "Saint Francis be my speed. How oft tonight\nHave my old feet stumbled at graves? Who’s there?\nWho is it that consorts, so late, the dead?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "May Saint Francis help me move quickly."
+    },
+    {
+     "en": "How many times tonight have my old feet tripped over graves?"
+    },
+    {
+     "en": "Who is there?"
+    },
+    {
+     "en": "Who is with the dead so late?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 1023,
+  "tag": "P1023",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "BALTHASAR",
+  "delivery": null,
+  "raw": "Here’s one, a friend, and one that knows you well.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Here is a friend."
+    },
+    {
+     "en": "He knows you well."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1024,
+  "tag": "P1024",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "FRIAR LAWRENCE",
+  "delivery": null,
+  "raw": "Bliss be upon you. Tell me, good my friend,\nWhat torch is yond that vainly lends his light\nTo grubs and eyeless skulls? As I discern,\nIt burneth in the Capels’ monument.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "May happiness be upon you."
+    },
+    {
+     "en": "Tell me, my friend, what torch is over there?"
+    },
+    {
+     "en": "It gives light to worms and eyeless skulls."
+    },
+    {
+     "en": "I see it burning in the Capels' monument."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1025,
+  "tag": "P1025",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "BALTHASAR",
+  "delivery": null,
+  "raw": "It doth so, holy sir, and there’s my master,\nOne that you love.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "It is doing that, holy sir."
+    },
+    {
+     "en": "And there is my master."
+    },
+    {
+     "en": "He is someone you love."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1026,
+  "tag": "P1026",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "FRIAR LAWRENCE",
+  "delivery": null,
+  "raw": "Who is it?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Who is it?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 1027,
+  "tag": "P1027",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "BALTHASAR",
+  "delivery": null,
+  "raw": "Romeo.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Romeo."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1028,
+  "tag": "P1028",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "FRIAR LAWRENCE",
+  "delivery": null,
+  "raw": "How long hath he been there?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "How long has he been there?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 1029,
+  "tag": "P1029",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "BALTHASAR",
+  "delivery": null,
+  "raw": "Full half an hour.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "For half an hour."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1030,
+  "tag": "P1030",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "FRIAR LAWRENCE",
+  "delivery": null,
+  "raw": "Go with me to the vault.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Go with me to the vault."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1031,
+  "tag": "P1031",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "BALTHASAR",
+  "delivery": null,
+  "raw": "I dare not, sir;\nMy master knows not but I am gone hence,\nAnd fearfully did menace me with death\nIf I did stay to look on his intents.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I do not dare, sir."
+    },
+    {
+     "en": "My master does not know that I am going away."
+    },
+    {
+     "en": "He threatened me with death."
+    },
+    {
+     "en": "He said this if I stayed to watch what he was doing."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1032,
+  "tag": "P1032",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "FRIAR LAWRENCE",
+  "delivery": null,
+  "raw": "Stay then, I’ll go alone. Fear comes upon me.\nO, much I fear some ill unlucky thing.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Stay then, I will go alone."
+    },
+    {
+     "en": "Fear comes over me."
+    },
+    {
+     "en": "Oh, I fear many bad things might happen."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1033,
+  "tag": "P1033",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "BALTHASAR",
+  "delivery": null,
+  "raw": "As I did sleep under this yew tree here,\nI dreamt my master and another fought,\nAnd that my master slew him.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "While I slept under this yew tree, I dreamed my master and another person fought."
+    },
+    {
+     "en": "In my dream, my master killed him."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1034,
+  "tag": "P1034",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "FRIAR LAWRENCE",
+  "delivery": null,
+  "raw": "Romeo!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Romeo!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 1035,
+  "tag": "P1035",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Advances.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Friar Lawrence moves forward."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1036,
+  "tag": "P1036",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "FRIAR LAWRENCE",
+  "delivery": null,
+  "raw": "Alack, alack, what blood is this which stains\nThe stony entrance of this sepulchre?\nWhat mean these masterless and gory swords\nTo lie discolour’d by this place of peace?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh no, oh no."
+    },
+    {
+     "en": "What blood is this?"
+    },
+    {
+     "en": "It stains the stone entrance of this tomb."
+    },
+    {
+     "en": "Why are these bloody swords lying here?"
+    },
+    {
+     "en": "They have no owner."
+    },
+    {
+     "en": "They look ugly in this peaceful place."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1037,
+  "tag": "P1037",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enters the monument.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Friar Lawrence enters the family tomb."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1038,
+  "tag": "P1038",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "FRIAR LAWRENCE",
+  "delivery": null,
+  "raw": "Romeo! O, pale! Who else? What, Paris too?\nAnd steep’d in blood? Ah what an unkind hour\nIs guilty of this lamentable chance?\nThe lady stirs.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Romeo!"
+    },
+    {
+     "en": "Oh, he is pale!"
+    },
+    {
+     "en": "Who else?"
+    },
+    {
+     "en": "Is it Paris too?"
+    },
+    {
+     "en": "Are they both covered in blood?"
+    },
+    {
+     "en": "What cruel hour caused this sad event?"
+    },
+    {
+     "en": "The lady moves."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1039,
+  "tag": "P1039",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Juliet wakes and stirs.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Juliet wakes and moves."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1040,
+  "tag": "P1040",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "O comfortable Friar, where is my lord?\nI do remember well where I should be,\nAnd there I am. Where is my Romeo?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh, kind Friar."
+    },
+    {
+     "en": "Where is my lord?"
+    },
+    {
+     "en": "I remember well where I should be."
+    },
+    {
+     "en": "And I am there."
+    },
+    {
+     "en": "Where is my Romeo?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 1041,
+  "tag": "P1041",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Noise within.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "There is a noise from inside."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1042,
+  "tag": "P1042",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "FRIAR LAWRENCE",
+  "delivery": null,
+  "raw": "I hear some noise. Lady, come from that nest\nOf death, contagion, and unnatural sleep.\nA greater power than we can contradict\nHath thwarted our intents. Come, come away.\nThy husband in thy bosom there lies dead;\nAnd Paris too. Come, I’ll dispose of thee\nAmong a sisterhood of holy nuns.\nStay not to question, for the watch is coming.\nCome, go, good Juliet. I dare no longer stay.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I hear some noise."
+    },
+    {
+     "en": "My lady, come out from that nest of death, sickness, and unnatural sleep."
+    },
+    {
+     "en": "A greater power than we can resist has stopped our plans."
+    },
+    {
+     "en": "Come, let us leave now."
+    },
+    {
+     "en": "Your husband lies dead in your arms."
+    },
+    {
+     "en": "Paris is also dead."
+    },
+    {
+     "en": "Come, I will take you to a group of holy nuns."
+    },
+    {
+     "en": "Do not stop to ask questions."
+    },
+    {
+     "en": "The guards are coming."
+    },
+    {
+     "en": "Come, go, good Juliet."
+    },
+    {
+     "en": "I dare not stay any longer."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1043,
+  "tag": "P1043",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Go, get thee hence, for I will not away.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Go away now, for I will not leave."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1044,
+  "tag": "P1044",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exit Friar Lawrence.",
+  "sentences": []
+ },
+ {
+  "id": 1045,
+  "tag": "P1045",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "What’s here? A cup clos’d in my true love’s hand?\nPoison, I see, hath been his timeless end.\nO churl. Drink all, and left no friendly drop\nTo help me after? I will kiss thy lips.\nHaply some poison yet doth hang on them,\nTo make me die with a restorative.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "What is here?"
+    },
+    {
+     "en": "Is this a cup in my true love's hand?"
+    },
+    {
+     "en": "I see that poison was his final end."
+    },
+    {
+     "en": "You are so mean."
+    },
+    {
+     "en": "You drank everything and left no drop for me to drink after you."
+    },
+    {
+     "en": "I will kiss your lips."
+    },
+    {
+     "en": "Perhaps some poison is still on them."
+    },
+    {
+     "en": "It might make me die with a medicine."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1046,
+  "tag": "P1046",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Kisses him.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Juliet kisses him."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1047,
+  "tag": "P1047",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Thy lips are warm!",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Your lips are warm!"
+    }
+   ]
+  }
+ },
+ {
+  "id": 1048,
+  "tag": "P1048",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "FIRST WATCH",
+  "delivery": "Within",
+  "raw": "Lead, boy. Which way?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Lead the way, boy."
+    },
+    {
+     "en": "Which way?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 1049,
+  "tag": "P1049",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Yea, noise? Then I’ll be brief. O happy dagger.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Yes, I hear noise?"
+    },
+    {
+     "en": "Then I will be quick."
+    },
+    {
+     "en": "Oh happy dagger."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1050,
+  "tag": "P1050",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Snatching Romeo’s dagger.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Juliet grabs Romeo's dagger."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1051,
+  "tag": "P1051",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "This is thy sheath.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "This is your sheath."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1052,
+  "tag": "P1052",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "stabs herself",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Juliet stabs herself."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1053,
+  "tag": "P1053",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "There rest, and let me die.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Rest there, and let me die."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1054,
+  "tag": "P1054",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Falls on Romeo’s body and dies.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Juliet falls on Romeo's body and dies."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1055,
+  "tag": "P1055",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Watch with the Page of Paris.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Watch enters with the Page of Paris."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1056,
+  "tag": "P1056",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "PAGE",
+  "delivery": null,
+  "raw": "This is the place. There, where the torch doth burn.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "This is the place."
+    },
+    {
+     "en": "It is there, where the torch burns."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1057,
+  "tag": "P1057",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "FIRST WATCH",
+  "delivery": null,
+  "raw": "The ground is bloody. Search about the churchyard.\nGo, some of you, whoe’er you find attach.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "The ground is bloody."
+    },
+    {
+     "en": "Search around the churchyard."
+    },
+    {
+     "en": "Go, some of you."
+    },
+    {
+     "en": "Attach whoever you find."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1058,
+  "tag": "P1058",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt some of the Watch.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Some of the Watch leave."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1059,
+  "tag": "P1059",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "FIRST WATCH",
+  "delivery": null,
+  "raw": "Pitiful sight! Here lies the County slain,\nAnd Juliet bleeding, warm, and newly dead,\nWho here hath lain this two days buried.\nGo tell the Prince; run to the Capulets.\nRaise up the Montagues, some others search.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "What a sad sight!"
+    },
+    {
+     "en": "The Count lies here killed."
+    },
+    {
+     "en": "Juliet is bleeding and warm."
+    },
+    {
+     "en": "She is newly dead."
+    },
+    {
+     "en": "She has been buried here for two days."
+    },
+    {
+     "en": "Go tell the Prince."
+    },
+    {
+     "en": "Run to the Capulets."
+    },
+    {
+     "en": "Wake up the Montagues."
+    },
+    {
+     "en": "Some others search the area."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1060,
+  "tag": "P1060",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt others of the Watch.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Other members of the Watch leave."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1061,
+  "tag": "P1061",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "FIRST WATCH",
+  "delivery": null,
+  "raw": "We see the ground whereon these woes do lie,\nBut the true ground of all these piteous woes\nWe cannot without circumstance descry.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "We see the ground where these tragedies happen."
+    },
+    {
+     "en": "But we cannot see the real reason for all this sadness."
+    },
+    {
+     "en": "We cannot know the cause without more information."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1062,
+  "tag": "P1062",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Re-enter some of the Watch with Balthasar.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Some members of the Watch re-enter with Balthasar."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1063,
+  "tag": "P1063",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "SECOND WATCH",
+  "delivery": null,
+  "raw": "Here’s Romeo’s man. We found him in the churchyard.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Here is Romeo's man."
+    },
+    {
+     "en": "We found him in the churchyard."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1064,
+  "tag": "P1064",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "FIRST WATCH",
+  "delivery": null,
+  "raw": "Hold him in safety till the Prince come hither.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Keep him safe until the Prince comes here."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1065,
+  "tag": "P1065",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Re-enter others of the Watch with Friar Lawrence.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Other members of the Watch re-enter with Friar Lawrence."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1066,
+  "tag": "P1066",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "FIRST WATCH",
+  "delivery": null,
+  "raw": "THIRD WATCH. Here is a Friar that trembles, sighs, and weeps.\nWe took this mattock and this spade from him\nAs he was coming from this churchyard side.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "THIRD WATCH."
+    },
+    {
+     "en": "Here is a monk who trembles, sighs, and weeps."
+    },
+    {
+     "en": "We took this mattock and this spade from him."
+    },
+    {
+     "en": "He was coming from this side of the churchyard."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1067,
+  "tag": "P1067",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "FIRST WATCH",
+  "delivery": null,
+  "raw": "A great suspicion. Stay the Friar too.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "This is very suspicious."
+    },
+    {
+     "en": "Keep the monk here too."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1068,
+  "tag": "P1068",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter the Prince and Attendants.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "The Prince and his attendants enter."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1069,
+  "tag": "P1069",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "PRINCE",
+  "delivery": null,
+  "raw": "What misadventure is so early up,\nThat calls our person from our morning’s rest?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "What accident has happened so early?"
+    },
+    {
+     "en": "It woke us from our morning rest."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1070,
+  "tag": "P1070",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Capulet, Lady Capulet and others.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Capulet, Lady Capulet, and others enter."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1071,
+  "tag": "P1071",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "What should it be that they so shriek abroad?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Why are they screaming outside?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 1072,
+  "tag": "P1072",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "O the people in the street cry Romeo,\nSome Juliet, and some Paris, and all run\nWith open outcry toward our monument.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "The people in the street are crying out."
+    },
+    {
+     "en": "Some shout Romeo."
+    },
+    {
+     "en": "Some shout Juliet."
+    },
+    {
+     "en": "Some shout Paris."
+    },
+    {
+     "en": "They all run toward our family tomb with loud cries."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1073,
+  "tag": "P1073",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "PRINCE",
+  "delivery": null,
+  "raw": "What fear is this which startles in our ears?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "What fear is this that startles our ears?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 1074,
+  "tag": "P1074",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "FIRST WATCH",
+  "delivery": null,
+  "raw": "Sovereign, here lies the County Paris slain,\nAnd Romeo dead, and Juliet, dead before,\nWarm and new kill’d.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Your Highness, Count Paris lies here killed."
+    },
+    {
+     "en": "Romeo is dead too."
+    },
+    {
+     "en": "Juliet is also dead."
+    },
+    {
+     "en": "She was killed recently and her body is still warm."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1075,
+  "tag": "P1075",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "PRINCE",
+  "delivery": null,
+  "raw": "Search, seek, and know how this foul murder comes.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Search and find out how this terrible murder happened."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1076,
+  "tag": "P1076",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "FIRST WATCH",
+  "delivery": null,
+  "raw": "Here is a Friar, and slaughter’d Romeo’s man,\nWith instruments upon them fit to open\nThese dead men’s tombs.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Here is a monk."
+    },
+    {
+     "en": "Romeo's man is also killed here."
+    },
+    {
+     "en": "They have tools to open the tombs of these dead men."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1077,
+  "tag": "P1077",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "O heaven! O wife, look how our daughter bleeds!\nThis dagger hath mista’en, for lo, his house\nIs empty on the back of Montague,\nAnd it mis-sheathed in my daughter’s bosom.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh heaven!"
+    },
+    {
+     "en": "My wife, look at how our daughter bleeds!"
+    },
+    {
+     "en": "This dagger missed its mark."
+    },
+    {
+     "en": "It did not hit the back of Montague's house."
+    },
+    {
+     "en": "Instead, it was stuck in my daughter's chest."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1078,
+  "tag": "P1078",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "O me! This sight of death is as a bell\nThat warns my old age to a sepulchre.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh me!"
+    },
+    {
+     "en": "This sight of death is like a bell."
+    },
+    {
+     "en": "It warns me that my old age is near the tomb."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1079,
+  "tag": "P1079",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Montague and others.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Montague and others enter."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1080,
+  "tag": "P1080",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "PRINCE",
+  "delivery": null,
+  "raw": "Come, Montague, for thou art early up,\nTo see thy son and heir more early down.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Come, Montague."
+    },
+    {
+     "en": "You are up early."
+    },
+    {
+     "en": "You see your son and heir who is down even earlier."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1081,
+  "tag": "P1081",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "MONTAGUE",
+  "delivery": null,
+  "raw": "Alas, my liege, my wife is dead tonight.\nGrief of my son’s exile hath stopp’d her breath.\nWhat further woe conspires against mine age?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Alas, my lord."
+    },
+    {
+     "en": "My wife died tonight."
+    },
+    {
+     "en": "The grief of my son's exile stopped her breath."
+    },
+    {
+     "en": "What other sadness will happen to me in my old age?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 1082,
+  "tag": "P1082",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "PRINCE",
+  "delivery": null,
+  "raw": "Look, and thou shalt see.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Look, and you will see."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1083,
+  "tag": "P1083",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "MONTAGUE",
+  "delivery": null,
+  "raw": "O thou untaught! What manners is in this,\nTo press before thy father to a grave?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh, you uneducated person!"
+    },
+    {
+     "en": "What is the meaning of this?"
+    },
+    {
+     "en": "Why are you pushing your father toward a grave?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 1084,
+  "tag": "P1084",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "PRINCE",
+  "delivery": null,
+  "raw": "Seal up the mouth of outrage for a while,\nTill we can clear these ambiguities,\nAnd know their spring, their head, their true descent,\nAnd then will I be general of your woes,\nAnd lead you even to death. Meantime forbear,\nAnd let mischance be slave to patience.\nBring forth the parties of suspicion.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Stop all shouting for a moment."
+    },
+    {
+     "en": "We need to clear up these confusing facts."
+    },
+    {
+     "en": "We must find the source and the cause of this crime."
+    },
+    {
+     "en": "Then I will take responsibility for your problems."
+    },
+    {
+     "en": "I will lead you even to death."
+    },
+    {
+     "en": "In the meantime, be patient."
+    },
+    {
+     "en": "Let luck wait for patience."
+    },
+    {
+     "en": "Bring out the people involved in this suspicion."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1085,
+  "tag": "P1085",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "FRIAR LAWRENCE",
+  "delivery": null,
+  "raw": "I am the greatest, able to do least,\nYet most suspected, as the time and place\nDoth make against me, of this direful murder.\nAnd here I stand, both to impeach and purge\nMyself condemned and myself excus’d.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I am a man of high status, but I can do very little."
+    },
+    {
+     "en": "However, I am the most suspected person because of the time and place of this terrible murder."
+    },
+    {
+     "en": "I stand here both to accuse others and to defend myself."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1086,
+  "tag": "P1086",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "PRINCE",
+  "delivery": null,
+  "raw": "Then say at once what thou dost know in this.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Then tell me at once what you know about this."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1087,
+  "tag": "P1087",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "FRIAR LAWRENCE",
+  "delivery": null,
+  "raw": "I will be brief, for my short date of breath\nIs not so long as is a tedious tale.\nRomeo, there dead, was husband to that Juliet,\nAnd she, there dead, that Romeo’s faithful wife.\nI married them; and their stol’n marriage day\nWas Tybalt’s doomsday, whose untimely death\nBanish’d the new-made bridegroom from this city;\nFor whom, and not for Tybalt, Juliet pin’d.\nYou, to remove that siege of grief from her,\nBetroth’d, and would have married her perforce\nTo County Paris. Then comes she to me,\nAnd with wild looks, bid me devise some means\nTo rid her from this second marriage,\nOr in my cell there would she kill herself.\nThen gave I her, so tutored by my art,\nA sleeping potion, which so took effect\nAs I intended, for it wrought on her\nThe form of death. Meantime I writ to Romeo\nThat he should hither come as this dire night\nTo help to take her from her borrow’d grave,\nBeing the time the potion’s force should cease.\nBut he which bore my letter, Friar John,\nWas stay’d by accident; and yesternight\nReturn’d my letter back. Then all alone\nAt the prefixed hour of her waking\nCame I to take her from her kindred’s vault,\nMeaning to keep her closely at my cell\nTill I conveniently could send to Romeo.\nBut when I came, some minute ere the time\nOf her awaking, here untimely lay\nThe noble Paris and true Romeo dead.\nShe wakes; and I entreated her come forth\nAnd bear this work of heaven with patience.\nBut then a noise did scare me from the tomb;\nAnd she, too desperate, would not go with me,\nBut, as it seems, did violence on herself.\nAll this I know; and to the marriage\nHer Nurse is privy. And if ought in this\nMiscarried by my fault, let my old life\nBe sacrific’d, some hour before his time,\nUnto the rigour of severest law.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I will be brief."
+    },
+    {
+     "en": "My short life is not long enough for a boring story."
+    },
+    {
+     "en": "Romeo, dead there, was the husband of that Juliet."
+    },
+    {
+     "en": "And she, dead there, was Romeo's faithful wife."
+    },
+    {
+     "en": "I married them."
+    },
+    {
+     "en": "Their secret wedding day was Tybalt's last day."
+    },
+    {
+     "en": "His early death forced the new groom to leave this city."
+    },
+    {
+     "en": "She loved him, not Tybalt."
+    },
+    {
+     "en": "You promised her to remove her sadness."
+    },
+    {
+     "en": "You betrothed her and wanted to marry her to County Paris."
+    },
+    {
+     "en": "Then she came to me."
+    },
+    {
+     "en": "With a wild look, she asked me to find a way to stop this second marriage."
+    },
+    {
+     "en": "She said she would kill herself in my cell if I did not help."
+    },
+    {
+     "en": "Then I gave her a sleeping potion as I had taught her."
+    },
+    {
+     "en": "It worked exactly as I planned."
+    },
+    {
+     "en": "It made her look like death."
+    },
+    {
+     "en": "Meanwhile, I wrote to Romeo."
+    },
+    {
+     "en": "I told him to come here tonight."
+    },
+    {
+     "en": "He was to take her from her borrowed grave."
+    },
+    {
+     "en": "He was to arrive when the potion's power ended."
+    },
+    {
+     "en": "But Friar John, who carried my letter, was stopped by an accident."
+    },
+    {
+     "en": "He returned my letter last night."
+    },
+    {
+     "en": "Then I came alone at the planned time."
+    },
+    {
+     "en": "I came to take her from her family's vault."
+    },
+    {
+     "en": "I planned to keep her in my cell until I could send word to Romeo."
+    },
+    {
+     "en": "But when I arrived, just before she woke up, the noble Paris and true Romeo lay here dead."
+    },
+    {
+     "en": "She wakes now."
+    },
+    {
+     "en": "I asked her to come out."
+    },
+    {
+     "en": "I told her to accept this act of heaven with patience."
+    },
+    {
+     "en": "But then a noise scared me away from the tomb."
+    },
+    {
+     "en": "She was desperate and would not go with me."
+    },
+    {
+     "en": "It seems she hurt herself."
+    },
+    {
+     "en": "I know all of this."
+    },
+    {
+     "en": "Her Nurse knows about the marriage."
+    },
+    {
+     "en": "If anything went wrong because of my fault, let my old life be sacrificed to the harshest law."
+    },
+    {
+     "en": "Let it happen sooner than its time."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1088,
+  "tag": "P1088",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "PRINCE",
+  "delivery": null,
+  "raw": "We still have known thee for a holy man.\nWhere’s Romeo’s man? What can he say to this?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "We have always known you as a holy man."
+    },
+    {
+     "en": "Where is Romeo's man?"
+    },
+    {
+     "en": "What can he say about this?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 1089,
+  "tag": "P1089",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "BALTHASAR",
+  "delivery": null,
+  "raw": "I brought my master news of Juliet’s death,\nAnd then in post he came from Mantua\nTo this same place, to this same monument.\nThis letter he early bid me give his father,\nAnd threaten’d me with death, going in the vault,\nIf I departed not, and left him there.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "I brought my master news of Juliet's death."
+    },
+    {
+     "en": "Then he came from Mantua to this place."
+    },
+    {
+     "en": "He came to this same monument."
+    },
+    {
+     "en": "He told me to give this letter to his father early."
+    },
+    {
+     "en": "He threatened me with death if I left him alone in the vault."
+    },
+    {
+     "en": "He told me not to leave him there."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1090,
+  "tag": "P1090",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "PRINCE",
+  "delivery": null,
+  "raw": "Give me the letter, I will look on it.\nWhere is the County’s Page that rais’d the watch?\nSirrah, what made your master in this place?",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Give me the letter. I will look at it."
+    },
+    {
+     "en": "Where is the County's Page who kept watch?"
+    },
+    {
+     "en": "You there, why did your master come to this place?"
+    }
+   ]
+  }
+ },
+ {
+  "id": 1091,
+  "tag": "P1091",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "PAGE",
+  "delivery": null,
+  "raw": "He came with flowers to strew his lady’s grave,\nAnd bid me stand aloof, and so I did.\nAnon comes one with light to ope the tomb,\nAnd by and by my master drew on him,\nAnd then I ran away to call the watch.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "He came with flowers to scatter on his lady's grave."
+    },
+    {
+     "en": "He told me to stand away, and I did so."
+    },
+    {
+     "en": "Someone is coming soon with a light to open the tomb."
+    },
+    {
+     "en": "In a moment, my master moved toward him."
+    },
+    {
+     "en": "Then I ran away to call the guards."
+    },
+    {
+     "en": "I am coming right away."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1092,
+  "tag": "P1092",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "PRINCE",
+  "delivery": null,
+  "raw": "This letter doth make good the Friar’s words,\nTheir course of love, the tidings of her death.\nAnd here he writes that he did buy a poison\nOf a poor ’pothecary, and therewithal\nCame to this vault to die, and lie with Juliet.\nWhere be these enemies? Capulet, Montague,\nSee what a scourge is laid upon your hate,\nThat heaven finds means to kill your joys with love!\nAnd I, for winking at your discords too,\nHave lost a brace of kinsmen. All are punish’d.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "This letter confirms the Friar's words."
+    },
+    {
+     "en": "It tells of their love and the news of her death."
+    },
+    {
+     "en": "He writes here that he bought poison from a poor medicine seller."
+    },
+    {
+     "en": "He came to this vault to die and lie with Juliet."
+    },
+    {
+     "en": "Where are these enemies? Capulet, Montague."
+    },
+    {
+     "en": "Look at what a punishment is placed on your hatred."
+    },
+    {
+     "en": "Heaven found a way to kill your joys with love!"
+    },
+    {
+     "en": "And I, for ignoring your fights, have lost two relatives."
+    },
+    {
+     "en": "All are punished."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1093,
+  "tag": "P1093",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "O brother Montague, give me thy hand.\nThis is my daughter’s jointure, for no more\nCan I demand.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Oh brother Montague, give me your hand."
+    },
+    {
+     "en": "This is my daughter's jointure."
+    },
+    {
+     "en": "I can demand no more."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1094,
+  "tag": "P1094",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "MONTAGUE",
+  "delivery": null,
+  "raw": "But I can give thee more,\nFor I will raise her statue in pure gold,\nThat whiles Verona by that name is known,\nThere shall no figure at such rate be set\nAs that of true and faithful Juliet.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "But I can give you more."
+    },
+    {
+     "en": "I will make her statue out of pure gold."
+    },
+    {
+     "en": "As long as Verona is known by that name, no other statue will be so valuable."
+    },
+    {
+     "en": "No figure will be set as great as the one of true and faithful Juliet."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1095,
+  "tag": "P1095",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "As rich shall Romeo’s by his lady’s lie,\nPoor sacrifices of our enmity.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "Romeo's shall be just as rich as his lady's."
+    },
+    {
+     "en": "They are poor sacrifices of our hatred."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1096,
+  "tag": "P1096",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "PRINCE",
+  "delivery": null,
+  "raw": "A glooming peace this morning with it brings;\nThe sun for sorrow will not show his head.\nGo hence, to have more talk of these sad things.\nSome shall be pardon’d, and some punished,\nFor never was a story of more woe\nThan this of Juliet and her Romeo.",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
+    {
+     "en": "This morning brings a gloomy peace."
+    },
+    {
+     "en": "The sun will not show its face because of the sadness."
+    },
+    {
+     "en": "Go away to talk more about these sad things."
+    },
+    {
+     "en": "Some will be pardoned, and some punished."
+    },
+    {
+     "en": "No story was ever sadder than this story of Juliet and her Romeo."
+    }
+   ]
+  }
+ },
+ {
+  "id": 1097,
+  "tag": "P1097",
+  "chapter_id": "ch_24",
+  "act": 5,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt.",
+  "sentences": []
+ }
+]
