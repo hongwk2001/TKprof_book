@@ -33,17 +33,18 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "So smile the heavens upon this holy act\nThat after-hours with sorrow chide us not.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "May heaven smile on this holy act."
-    },
-    {
-     "en": "May it not cause us sorrow later."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "May heaven smile on this holy act.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "May it not cause us sorrow later.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 528,
@@ -55,29 +56,33 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "Amen, amen, but come what sorrow can,\nIt cannot countervail the exchange of joy\nThat one short minute gives me in her sight.\nDo thou but close our hands with holy words,\nThen love-devouring death do what he dare,\nIt is enough I may but call her mine.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Amen, amen."
-    },
-    {
-     "en": "Whatever sorrow may come, it cannot overcome the joy I feel."
-    },
-    {
-     "en": "I feel this joy in one short minute when I see her."
-    },
-    {
-     "en": "Just join our hands with holy words."
-    },
-    {
-     "en": "Then let death do what it dares."
-    },
-    {
-     "en": "It is enough that I can call her mine."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Amen, amen.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Whatever sorrow may come, it cannot outweigh the joy that one short minute with her gives me.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Just join our hands with holy words.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Then let death do what it dares.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "It is enough that I can call her mine.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 529,
@@ -89,38 +94,48 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "These violent delights have violent ends,\nAnd in their triumph die; like fire and powder,\nWhich as they kiss consume. The sweetest honey\nIs loathsome in his own deliciousness,\nAnd in the taste confounds the appetite.\nTherefore love moderately: long love doth so;\nToo swift arrives as tardy as too slow.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "These violent delights have violent ends."
-    },
-    {
-     "en": "They die in their triumph."
-    },
-    {
-     "en": "They are like fire and powder."
-    },
-    {
-     "en": "They destroy each other as they touch."
-    },
-    {
-     "en": "The sweetest honey is disgusting because of its own deliciousness."
-    },
-    {
-     "en": "Its taste ruins the appetite."
-    },
-    {
-     "en": "Therefore, love moderately."
-    },
-    {
-     "en": "Long love does so."
-    },
-    {
-     "en": "Too fast is as late as too slow."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "These violent delights have violent ends.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "They die in their triumph.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "They are like fire and gunpowder, which explode as they kiss.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Even the sweetest honey becomes sickening when you have too much.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Its taste ruins the appetite.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Therefore, love moderately.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "That is how love lasts.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Going too fast gets you there as late as going too slow.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 530,
@@ -144,26 +159,28 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "Here comes the lady. O, so light a foot\nWill ne’er wear out the everlasting flint.\nA lover may bestride the gossamers\nThat idles in the wanton summer air\nAnd yet not fall; so light is vanity.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Here comes the lady."
-    },
-    {
-     "en": "Such a light foot will never wear out the everlasting flint."
-    },
-    {
-     "en": "A lover may ride on the gossamers that float in the playful summer air."
-    },
-    {
-     "en": "He does not fall."
-    },
-    {
-     "en": "Vanity is just as light."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Here comes the lady.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Her step is so light it would never wear down the hard stone path.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "A lover could walk on the spider threads that float in the summer air and not fall.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Earthly joy is that light.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 532,
@@ -175,14 +192,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Good even to my ghostly confessor.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Good evening to my spiritual confessor."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Good evening, Father.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 533,
@@ -194,14 +210,13 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "Romeo shall thank thee, daughter, for us both.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Romeo will thank you, daughter, for both of us."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Romeo will thank you, daughter, for both of us.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 534,
@@ -213,17 +228,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "As much to him, else is his thanks too much.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "He owes me as much."
-    },
-    {
-     "en": "Otherwise, his thanks would be too much."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Then I give him the same thanks, or his thanks would be too much.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 535,
@@ -235,23 +246,28 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "Ah, Juliet, if the measure of thy joy\nBe heap’d like mine, and that thy skill be more\nTo blazon it, then sweeten with thy breath\nThis neighbour air, and let rich music’s tongue\nUnfold the imagin’d happiness that both\nReceive in either by this dear encounter.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Ah, Juliet."
-    },
-    {
-     "en": "If your joy is as great as mine, and if you are better at showing it, then sweeten this air with your breath."
-    },
-    {
-     "en": "Let the music of rich words tell our story."
-    },
-    {
-     "en": "Let it show the happiness we both feel from this dear meeting."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Ah, Juliet.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "If your joy is as great as mine, and if you are better at showing it, then sweeten this air with your breath.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Let the music of rich words tell our story.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Let it show the happiness we both feel from this dear meeting.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 536,
@@ -263,26 +279,28 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Conceit more rich in matter than in words,\nBrags of his substance, not of ornament.\nThey are but beggars that can count their worth;\nBut my true love is grown to such excess,\nI cannot sum up sum of half my wealth.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "My feelings are more rich in meaning than in words."
-    },
-    {
-     "en": "They show my true feelings instead of just using fancy words."
-    },
-    {
-     "en": "Other people are like beggars who can only count their small wealth."
-    },
-    {
-     "en": "But my true love has grown so much."
-    },
-    {
-     "en": "I cannot even describe half of the amount of my love."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "My feelings are richer in meaning than in words.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "They show my true feelings instead of just using fancy words.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Only beggars can count how much they have.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "But my true love has grown so rich that I cannot count even half of my wealth.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 537,
@@ -294,23 +312,23 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "Come, come with me, and we will make short work,\nFor, by your leaves, you shall not stay alone\nTill holy church incorporate two in one.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Come with me now."
-    },
-    {
-     "en": "We will finish this quickly."
-    },
-    {
-     "en": "You must not stay alone."
-    },
-    {
-     "en": "The church must join you two together as one."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Come with me now.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "We will finish this quickly.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "You will not be left alone together until the church joins you two as one.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 538,
