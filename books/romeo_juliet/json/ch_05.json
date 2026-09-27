@@ -21,17 +21,18 @@
   "speaker": null,
   "delivery": null,
   "raw": "Musicians waiting. Enter Servants.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Musicians are waiting."
-    },
-    {
-     "en": "Servants enter."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Musicians are waiting.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Servants enter.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 228,
@@ -43,23 +44,23 @@
   "speaker": "FIRST SERVANT",
   "delivery": null,
   "raw": "Where’s Potpan, that he helps not to take away?\nHe shift a trencher! He scrape a trencher!",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Where is Potpan?"
-    },
-    {
-     "en": "He does not help to take things away."
-    },
-    {
-     "en": "He moves a plate!"
-    },
-    {
-     "en": "He cleans a plate!"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Where is Potpan?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Why is he not helping to clear the tables?",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Him, carry a plate? Him, scrape a plate? Never!",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 229,
@@ -71,17 +72,18 @@
   "speaker": "SECOND SERVANT",
   "delivery": null,
   "raw": "When good manners shall lie all in one or two men’s hands, and they\nunwash’d too, ’tis a foul thing.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "It is a bad thing when one or two men have all the good manners."
-    },
-    {
-     "en": "It is also bad if they do not wash their hands."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "It is a bad thing when one or two men have all the good manners.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "It is also bad if they do not wash their hands.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 230,
@@ -93,29 +95,38 @@
   "speaker": "FIRST SERVANT",
   "delivery": null,
   "raw": "Away with the join-stools, remove the court-cupboard, look to the\nplate. Good thou, save me a piece of marchpane; and as thou loves me,\nlet the porter let in Susan Grindstone and Nell. Antony and Potpan!",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Take away the small stools."
-    },
-    {
-     "en": "Move the cupboard for the court."
-    },
-    {
-     "en": "Watch the plates."
-    },
-    {
-     "en": "Please, save a piece of marzipan for me."
-    },
-    {
-     "en": "Since you love me, tell the guard to let in Susan Grindstone and Nell."
-    },
-    {
-     "en": "Antony and Potpan!"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Take away the small stools.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Move the sideboard.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Watch the plates.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Please, save a piece of marzipan for me.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "If you love me, tell the doorkeeper to let in Susan Grindstone and Nell.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Antony and Potpan!",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 231,
@@ -127,14 +138,13 @@
   "speaker": "SECOND SERVANT",
   "delivery": null,
   "raw": "Ay, boy, ready.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Yes, boy, get ready."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Yes, boy, I am ready.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 232,
@@ -146,20 +156,23 @@
   "speaker": "FIRST SERVANT",
   "delivery": null,
   "raw": "You are looked for and called for, asked for and sought for, in the\ngreat chamber.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "You are expected and called for."
-    },
-    {
-     "en": "People are asking for you."
-    },
-    {
-     "en": "They are looking for you in the great chamber."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "You are expected and called for.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "People are asking for you.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "They are looking for you in the great chamber.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 233,
@@ -171,23 +184,28 @@
   "speaker": "SECOND SERVANT",
   "delivery": null,
   "raw": "We cannot be here and there too. Cheerly, boys. Be brisk awhile, and\nthe longer liver take all.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "We cannot be in two places at once."
-    },
-    {
-     "en": "Hurry up, boys."
-    },
-    {
-     "en": "Be quick for a while."
-    },
-    {
-     "en": "The person who lives longest should take all."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "We cannot be in two places at once.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Hurry up, boys.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Be quick for a while.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "The person who lives longest should take all.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 234,
@@ -211,17 +229,18 @@
   "speaker": null,
   "delivery": null,
   "raw": "Enter Capulet, &c. with the Guests and Gentlewomen to the Maskers.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Capulet enters with the guests and ladies."
-    },
-    {
-     "en": "They go to the people in masks."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Capulet enters with the guests and ladies.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "They greet the masked guests.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 236,
@@ -233,56 +252,83 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "Welcome, gentlemen, ladies that have their toes\nUnplagu’d with corns will have a bout with you.\nAh my mistresses, which of you all\nWill now deny to dance? She that makes dainty,\nShe I’ll swear hath corns. Am I come near ye now?\nWelcome, gentlemen! I have seen the day\nThat I have worn a visor, and could tell\nA whispering tale in a fair lady’s ear,\nSuch as would please; ’tis gone, ’tis gone, ’tis gone,\nYou are welcome, gentlemen! Come, musicians, play.\nA hall, a hall, give room! And foot it, girls.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Welcome, gentlemen."
-    },
-    {
-     "en": "Ladies, if your feet are healthy, you can dance with the men."
-    },
-    {
-     "en": "My dear ladies, which of you will refuse to dance?"
-    },
-    {
-     "en": "If a lady acts shy, I swear she has painful feet."
-    },
-    {
-     "en": "Am I near you now?"
-    },
-    {
-     "en": "Welcome, gentlemen!"
-    },
-    {
-     "en": "I remember the day I wore a mask."
-    },
-    {
-     "en": "I could whisper a pleasant story into a beautiful lady's ear."
-    },
-    {
-     "en": "That time is gone."
-    },
-    {
-     "en": "It is gone."
-    },
-    {
-     "en": "It is gone."
-    },
-    {
-     "en": "You are welcome, gentlemen!"
-    },
-    {
-     "en": "Come, musicians, play."
-    },
-    {
-     "en": "Make a path, make a path, give some room!"
-    },
-    {
-     "en": "Dance now, girls."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Welcome, gentlemen.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Ladies, if your feet are healthy, you can dance with the men.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "My dear ladies, which of you will refuse to dance?",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "If a lady acts shy, I swear she has painful feet.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Have I hit a sore spot?",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Welcome, gentlemen!",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "I remember the day I wore a mask.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "I could whisper a pleasant story into a beautiful lady's ear.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "That time is gone.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "It is gone.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "It is gone.",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "You are welcome, gentlemen!",
+    "ko": ""
+   },
+   {
+    "n": 13,
+    "en": "Come, musicians, play.",
+    "ko": ""
+   },
+   {
+    "n": 14,
+    "en": "Clear the hall, clear the hall, give us room!",
+    "ko": ""
+   },
+   {
+    "n": 15,
+    "en": "Dance now, girls.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 237,
@@ -294,14 +340,13 @@
   "speaker": null,
   "delivery": null,
   "raw": "Music plays, and they dance.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Music plays and they dance."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Music plays and they dance.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 238,
@@ -313,35 +358,43 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "More light, you knaves; and turn the tables up,\nAnd quench the fire, the room is grown too hot.\nAh sirrah, this unlook’d-for sport comes well.\nNay sit, nay sit, good cousin Capulet,\nFor you and I are past our dancing days;\nHow long is’t now since last yourself and I\nWere in a mask?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Give me more light, you servants."
-    },
-    {
-     "en": "Turn the tables over."
-    },
-    {
-     "en": "Put out the fire because the room is too hot."
-    },
-    {
-     "en": "Oh you there, this unexpected fun is going well."
-    },
-    {
-     "en": "No, sit down, sit down, dear cousin Capulet."
-    },
-    {
-     "en": "You and I are past our dancing days."
-    },
-    {
-     "en": "How long has it been since we both wore masks?"
-    },
-    {
-     "en": "How long ago did we last wear a mask?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Give me more light, you servants.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Fold up the tables.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Put out the fire because the room is too hot.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Oh you there, this surprise party turned out well.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "No, sit down, sit down, dear cousin Capulet.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "You and I are past our dancing days.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "How long has it been since we both wore masks?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 239,
@@ -353,14 +406,13 @@
   "speaker": "CAPULET'S COUSIN",
   "delivery": null,
   "raw": "By’r Lady, thirty years.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "By my lady, thirty years."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "By the Virgin Mary, thirty years.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 240,
@@ -372,26 +424,28 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "What, man, ’tis not so much, ’tis not so much:\n’Tis since the nuptial of Lucentio,\nCome Pentecost as quickly as it will,\nSome five and twenty years; and then we mask’d.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "No, man, it is not that many."
-    },
-    {
-     "en": "It has been since the wedding of Lucentio."
-    },
-    {
-     "en": "It was as soon as Pentecost arrived."
-    },
-    {
-     "en": "It was about twenty-five years ago."
-    },
-    {
-     "en": "We wore masks then."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "No, man, it is not that long.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "It has been since Lucentio's wedding.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "When Pentecost comes, it will be about twenty-five years.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "We wore masks then.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 241,
@@ -403,23 +457,28 @@
   "speaker": "CAPULET'S COUSIN",
   "delivery": null,
   "raw": "’Tis more, ’tis more, his son is elder, sir;\nHis son is thirty.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "It is more."
-    },
-    {
-     "en": "It is more."
-    },
-    {
-     "en": "His son is older, sir."
-    },
-    {
-     "en": "His son is thirty."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "It is more.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "It is more.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "His son is older, sir.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "His son is thirty.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 242,
@@ -431,17 +490,18 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "Will you tell me that?\nHis son was but a ward two years ago.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Will you tell me that?"
-    },
-    {
-     "en": "His son was only a ward two years ago."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Will you tell me that?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "His son was still a child under a guardian two years ago.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 243,
@@ -453,17 +513,13 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "What lady is that, which doth enrich the hand\nOf yonder knight?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "What lady is that?"
-    },
-    {
-     "en": "She is holding the hand of that knight over there."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "What lady is that, dancing with that knight over there?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 244,
@@ -475,14 +531,13 @@
   "speaker": "SERVANT",
   "delivery": null,
   "raw": "I know not, sir.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "I do not know, sir."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I do not know, sir.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 245,
@@ -494,50 +549,68 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "O, she doth teach the torches to burn bright!\nIt seems she hangs upon the cheek of night\nAs a rich jewel in an Ethiop’s ear;\nBeauty too rich for use, for earth too dear!\nSo shows a snowy dove trooping with crows\nAs yonder lady o’er her fellows shows.\nThe measure done, I’ll watch her place of stand,\nAnd touching hers, make blessed my rude hand.\nDid my heart love till now? Forswear it, sight!\nFor I ne’er saw true beauty till this night.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Oh, she teaches the torches to burn bright!"
-    },
-    {
-     "en": "She seems to hang on the cheek of night."
-    },
-    {
-     "en": "She looks like a rich jewel in an Ethiopian's ear."
-    },
-    {
-     "en": "Her beauty is too great for use."
-    },
-    {
-     "en": "It is too precious for this earth!"
-    },
-    {
-     "en": "A white dove looks different among crows."
-    },
-    {
-     "en": "That lady looks special among her friends."
-    },
-    {
-     "en": "When the music ends, I will watch where she stands."
-    },
-    {
-     "en": "I will touch her hand."
-    },
-    {
-     "en": "I will make my rough hand blessed by her touch."
-    },
-    {
-     "en": "Did my heart love before now?"
-    },
-    {
-     "en": "Deny it, sight!"
-    },
-    {
-     "en": "I never saw true beauty until tonight."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh, she teaches the torches to burn bright!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "She seems to hang on the cheek of night.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "She looks like a rich jewel in an Ethiopian's ear.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Her beauty is too great for use.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "It is too precious for this earth!",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "She stands out from the other ladies like a white dove among crows.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "When the music ends, I will watch where she stands.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "I will touch her hand.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "I will make my rough hand blessed by her touch.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "Did my heart love before now?",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "Deny it, sight!",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "I never saw true beauty until tonight.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 246,
@@ -549,32 +622,43 @@
   "speaker": "TYBALT",
   "delivery": null,
   "raw": "This by his voice, should be a Montague.\nFetch me my rapier, boy. What, dares the slave\nCome hither, cover’d with an antic face,\nTo fleer and scorn at our solemnity?\nNow by the stock and honour of my kin,\nTo strike him dead I hold it not a sin.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "By his voice, he must be a Montague."
-    },
-    {
-     "en": "Get me my thin sword, boy."
-    },
-    {
-     "en": "Does the slave dare to come here?"
-    },
-    {
-     "en": "He is wearing a mask."
-    },
-    {
-     "en": "He comes to mock and insult our ceremony."
-    },
-    {
-     "en": "I swear by my family's honor."
-    },
-    {
-     "en": "I do not think it is a sin to strike him dead."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "By his voice, he must be a Montague.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Get me my thin sword, boy.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Does the slave dare to come here?",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "He is wearing a mask.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "He comes to mock and insult our celebration.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "I swear by my family's honor.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "I do not think it is a sin to strike him dead.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 247,
@@ -586,17 +670,18 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "Why how now, kinsman!\nWherefore storm you so?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Why are you shouting, relative?"
-    },
-    {
-     "en": "Why are you so angry?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Why are you shouting, relative?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Why are you so angry?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 248,
@@ -608,23 +693,28 @@
   "speaker": "TYBALT",
   "delivery": null,
   "raw": "Uncle, this is a Montague, our foe;\nA villain that is hither come in spite,\nTo scorn at our solemnity this night.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Uncle, this is a Montague."
-    },
-    {
-     "en": "He is our enemy."
-    },
-    {
-     "en": "He is a villain who came here to cause trouble."
-    },
-    {
-     "en": "He comes to mock our ceremony tonight."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Uncle, this is a Montague.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "He is our enemy.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "He is a villain who came here to cause trouble.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "He comes to mock our ceremony tonight.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 249,
@@ -636,14 +726,13 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "Young Romeo, is it?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Young Romeo, is it?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Young Romeo, is it?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 250,
@@ -655,14 +744,13 @@
   "speaker": "TYBALT",
   "delivery": null,
   "raw": "’Tis he, that villain Romeo.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "It is him, that villain Romeo."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "It is him, that villain Romeo.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 251,
@@ -674,47 +762,68 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "Content thee, gentle coz, let him alone,\nA bears him like a portly gentleman;\nAnd, to say truth, Verona brags of him\nTo be a virtuous and well-govern’d youth.\nI would not for the wealth of all the town\nHere in my house do him disparagement.\nTherefore be patient, take no note of him,\nIt is my will; the which if thou respect,\nShow a fair presence and put off these frowns,\nAn ill-beseeming semblance for a feast.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Be calm, my dear relative."
-    },
-    {
-     "en": "Leave him alone."
-    },
-    {
-     "en": "He looks like a wealthy gentleman."
-    },
-    {
-     "en": "To tell the truth, Verona praises him."
-    },
-    {
-     "en": "They say he is a virtuous and well-behaved youth."
-    },
-    {
-     "en": "I would not insult him in my house for all the wealth of the town."
-    },
-    {
-     "en": "Therefore be patient."
-    },
-    {
-     "en": "Do not pay him any attention."
-    },
-    {
-     "en": "That is my wish."
-    },
-    {
-     "en": "If you follow my wish, show a pleasant face."
-    },
-    {
-     "en": "Stop making these faces."
-    },
-    {
-     "en": "They do not look good for a feast."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Be calm, my dear relative.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Leave him alone.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "He behaves like a well-mannered gentleman.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "To tell the truth, Verona praises him.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "They say he is a virtuous and well-behaved youth.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "I would not insult him in my house for all the wealth of the town.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Therefore be patient.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Do not pay him any attention.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "That is my wish.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "If you follow my wish, show a pleasant face.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "Stop making these faces.",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "They do not look good for a feast.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 252,
@@ -726,17 +835,18 @@
   "speaker": "TYBALT",
   "delivery": null,
   "raw": "It fits when such a villain is a guest:\nI’ll not endure him.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "It is fitting when such a villain is a guest."
-    },
-    {
-     "en": "I will not tolerate him."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "These frowns fit when such a villain is a guest.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I will not tolerate him.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 253,
@@ -748,35 +858,48 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "He shall be endur’d.\nWhat, goodman boy! I say he shall, go to;\nAm I the master here, or you? Go to.\nYou’ll not endure him! God shall mend my soul,\nYou’ll make a mutiny among my guests!\nYou will set cock-a-hoop, you’ll be the man!",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "He shall be tolerated."
-    },
-    {
-     "en": "What, boy! I say he shall, go on."
-    },
-    {
-     "en": "Am I the master here, or are you?"
-    },
-    {
-     "en": "Go on."
-    },
-    {
-     "en": "You will not tolerate him!"
-    },
-    {
-     "en": "God will forgive me if you start a riot among my guests!"
-    },
-    {
-     "en": "You will cause a scene."
-    },
-    {
-     "en": "You will be the one to do it!"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "He shall be tolerated.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "What, boy! I say he shall. Enough!",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Am I the master here, or are you?",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Enough!",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "You will not tolerate him!",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "God save my soul, you will start a riot among my guests!",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "You will make trouble.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "You want to play the big man!",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 254,
@@ -788,14 +911,13 @@
   "speaker": "TYBALT",
   "delivery": null,
   "raw": "Why, uncle, ’tis a shame.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Well, uncle, it is a shame."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Well, uncle, it is a shame.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 255,
@@ -807,50 +929,73 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "Go to, go to!\nYou are a saucy boy. Is’t so, indeed?\nThis trick may chance to scathe you, I know what.\nYou must contrary me! Marry, ’tis time.\nWell said, my hearts!—You are a princox; go:\nBe quiet, or—More light, more light!—For shame!\nI’ll make you quiet. What, cheerly, my hearts.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Go on, go on!"
-    },
-    {
-     "en": "You are a rude boy."
-    },
-    {
-     "en": "Is that true, indeed?"
-    },
-    {
-     "en": "This behavior might hurt you, I know it."
-    },
-    {
-     "en": "You must disagree with me!"
-    },
-    {
-     "en": "Indeed, it is time."
-    },
-    {
-     "en": "Well said, my friends!"
-    },
-    {
-     "en": "You are a bold boy; go."
-    },
-    {
-     "en": "Be quiet, or—"
-    },
-    {
-     "en": "More light, more light!"
-    },
-    {
-     "en": "Shame on you!"
-    },
-    {
-     "en": "I will make you quiet."
-    },
-    {
-     "en": "Yes, quickly, my friends."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Enough, enough!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "You are a rude boy.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Is that true, indeed?",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "This behavior might hurt you, I know it.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "You must disagree with me!",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Well, it is time you learned!",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Well said, my friends!",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "You are a bold boy; go.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "Be quiet, or—",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "More light, more light!",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "Shame on you!",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "I will make you quiet.",
+    "ko": ""
+   },
+   {
+    "n": 13,
+    "en": "Cheer up, my friends!",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 256,
@@ -862,23 +1007,28 @@
   "speaker": "TYBALT",
   "delivery": null,
   "raw": "Patience perforce with wilful choler meeting\nMakes my flesh tremble in their different greeting.\nI will withdraw: but this intrusion shall,\nNow seeming sweet, convert to bitter gall.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Patience and intentional anger meeting makes me tremble."
-    },
-    {
-     "en": "I will leave now."
-    },
-    {
-     "en": "But this intrusion will seem sweet now."
-    },
-    {
-     "en": "It will turn into bitter poison later."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Forced patience meeting my strong anger makes me shake.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I will leave now.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "But this intrusion will seem sweet now.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "It will turn into bitter poison later.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 257,
@@ -902,20 +1052,23 @@
   "speaker": "ROMEO",
   "delivery": "To Juliet",
   "raw": "If I profane with my unworthiest hand\nThis holy shrine, the gentle sin is this,\nMy lips, two blushing pilgrims, ready stand\nTo smooth that rough touch with a tender kiss.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "If I make this holy shrine dirty with my unworthy hand, the gentle sin is this."
-    },
-    {
-     "en": "My lips are like two blushing pilgrims."
-    },
-    {
-     "en": "They are ready to smooth that rough touch with a tender kiss."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "If I make this holy shrine dirty with my unworthy hand, the gentle sin is this.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "My lips are like two blushing pilgrims.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "They are ready to smooth that rough touch with a tender kiss.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 259,
@@ -927,23 +1080,28 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Good pilgrim, you do wrong your hand too much,\nWhich mannerly devotion shows in this;\nFor saints have hands that pilgrims’ hands do touch,\nAnd palm to palm is holy palmers’ kiss.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Good pilgrim, you blame your hand too much."
-    },
-    {
-     "en": "This shows a polite devotion."
-    },
-    {
-     "en": "Saints have hands that pilgrims' hands touch."
-    },
-    {
-     "en": "And palm to palm is the holy kiss of pilgrims."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Good pilgrim, you blame your hand too much.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "This shows a polite devotion.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Saints have hands that pilgrims' hands touch.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "And palm to palm is the holy kiss of pilgrims.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 260,
@@ -955,17 +1113,18 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "Have not saints lips, and holy palmers too?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Do not saints have lips?"
-    },
-    {
-     "en": "And do holy pilgrims not have lips too?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Do not saints have lips?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "And do holy pilgrims not have lips too?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 261,
@@ -977,17 +1136,18 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Ay, pilgrim, lips that they must use in prayer.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Yes, pilgrim."
-    },
-    {
-     "en": "They must use their lips in prayer."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Yes, pilgrim.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "They must use their lips in prayer.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 262,
@@ -999,26 +1159,33 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "O, then, dear saint, let lips do what hands do:\nThey pray, grant thou, lest faith turn to despair.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Oh, then, dear saint."
-    },
-    {
-     "en": "Let your lips do what hands do."
-    },
-    {
-     "en": "They pray."
-    },
-    {
-     "en": "Please grant this."
-    },
-    {
-     "en": "Otherwise faith will turn to despair."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh, then, dear saint.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Let your lips do what hands do.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "They pray.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Please grant this.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Otherwise faith will turn to despair.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 263,
@@ -1030,17 +1197,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Saints do not move, though grant for prayers’ sake.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Saints do not move."
-    },
-    {
-     "en": "Even if they grant the prayers."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Saints do not move, even when they grant prayers.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 264,
@@ -1052,20 +1215,18 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "Then move not while my prayer’s effect I take.\nThus from my lips, by thine my sin is purg’d.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Then do not move while I receive the effect of my prayer."
-    },
-    {
-     "en": "My sin is washed away by your lips."
-    },
-    {
-     "en": "It is removed from my lips by yours."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Then do not move while I receive the effect of my prayer.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "So your lips wash the sin from my lips.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 265,
@@ -1077,14 +1238,13 @@
   "speaker": null,
   "delivery": null,
   "raw": "Kissing her.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Romeo kisses her."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Romeo kisses her.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 266,
@@ -1096,14 +1256,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Then have my lips the sin that they have took.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Then my lips have the sin that they took."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Then my lips have the sin that they took.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 267,
@@ -1115,20 +1274,23 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "Sin from my lips? O trespass sweetly urg’d!\nGive me my sin again.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Sin from my lips?"
-    },
-    {
-     "en": "Oh, this is a sweet trespass!"
-    },
-    {
-     "en": "Give me my sin again."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Sin from my lips?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Oh, this is a sweet trespass!",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Give me my sin again.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 268,
@@ -1140,14 +1302,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "You kiss by the book.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "You kiss according to the rules."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "You kiss according to the rules.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 269,
@@ -1159,14 +1320,13 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "Madam, your mother craves a word with you.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Madam, your mother wants to speak with you."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Madam, your mother wants to speak with you.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 270,
@@ -1178,14 +1338,13 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "What is her mother?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Who is her mother?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Who is her mother?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 271,
@@ -1197,29 +1356,38 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "Marry, bachelor,\nHer mother is the lady of the house,\nAnd a good lady, and a wise and virtuous.\nI nurs’d her daughter that you talk’d withal.\nI tell you, he that can lay hold of her\nShall have the chinks.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Indeed, bachelor."
-    },
-    {
-     "en": "Her mother is the lady of the house."
-    },
-    {
-     "en": "She is a good lady."
-    },
-    {
-     "en": "She is wise and virtuous."
-    },
-    {
-     "en": "I nursed the daughter that you are talking about."
-    },
-    {
-     "en": "I tell you, the man who can win her will get the prize."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Indeed, bachelor.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Her mother is the lady of the house.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "She is a good lady.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "She is wise and virtuous.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "I nursed the daughter that you are talking about.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "I tell you, the man who can win her will get lots of money.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 272,
@@ -1231,20 +1399,23 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "Is she a Capulet?\nO dear account! My life is my foe’s debt.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Is she a Capulet?"
-    },
-    {
-     "en": "Oh, what a terrible thought!"
-    },
-    {
-     "en": "My life is a debt to my enemy."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Is she a Capulet?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Oh, what a costly thing to learn!",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "My life is now in my enemy's hands.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 273,
@@ -1256,20 +1427,18 @@
   "speaker": "BENVOLIO",
   "delivery": null,
   "raw": "Away, be gone; the sport is at the best.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Go away."
-    },
-    {
-     "en": "Leave now."
-    },
-    {
-     "en": "The fun is at its best."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Come, let us go.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "The fun is at its best, so it is a good time to leave.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 274,
@@ -1281,17 +1450,18 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "Ay, so I fear; the more is my unrest.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Yes, I fear that."
-    },
-    {
-     "en": "It makes me more uneasy."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Yes, I fear that.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "It makes me more uneasy.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 275,
@@ -1303,41 +1473,58 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "Nay, gentlemen, prepare not to be gone,\nWe have a trifling foolish banquet towards.\nIs it e’en so? Why then, I thank you all;\nI thank you, honest gentlemen; good night.\nMore torches here! Come on then, let’s to bed.\nAh, sirrah, by my fay, it waxes late,\nI’ll to my rest.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "No, gentlemen, do not get ready to leave."
-    },
-    {
-     "en": "We have a small and silly banquet ahead."
-    },
-    {
-     "en": "Is it really so?"
-    },
-    {
-     "en": "Then I thank you all."
-    },
-    {
-     "en": "I thank you, honest gentlemen."
-    },
-    {
-     "en": "Good night."
-    },
-    {
-     "en": "Bring more torches here!"
-    },
-    {
-     "en": "Come on then, let us go to bed."
-    },
-    {
-     "en": "Ah, you there, by my faith, it is getting late."
-    },
-    {
-     "en": "I will go to my rest."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "No, gentlemen, do not get ready to leave.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "We have a small and silly banquet ahead.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Is it really so?",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Then I thank you all.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "I thank you, honest gentlemen.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Good night.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Bring more torches here!",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Come on then, let us go to bed.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "Ah, you there, by my faith, it is getting late.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "I will go to my rest.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 276,
@@ -1349,14 +1536,13 @@
   "speaker": null,
   "delivery": null,
   "raw": "Exeunt all but Juliet and Nurse.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Everyone leaves except Juliet and the Nurse."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Everyone leaves except Juliet and the Nurse.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 277,
@@ -1368,17 +1554,18 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Come hither, Nurse. What is yond gentleman?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Come here, Nurse."
-    },
-    {
-     "en": "Who is that gentleman over there?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Come here, Nurse.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Who is that gentleman over there?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 278,
@@ -1390,14 +1577,13 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "The son and heir of old Tiberio.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "He is the son and heir of old Tiberio."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "He is the son and heir of old Tiberio.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 279,
@@ -1409,14 +1595,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "What’s he that now is going out of door?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Who is that man going out of the door now?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Who is that man going out of the door now?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 280,
@@ -1428,14 +1613,13 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "Marry, that I think be young Petruchio.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Indeed, I think he is young Petruchio."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Indeed, I think he is young Petruchio.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 281,
@@ -1447,14 +1631,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "What’s he that follows here, that would not dance?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Who is that man following here who does not want to dance?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Who is that man following here who does not want to dance?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 282,
@@ -1466,14 +1649,13 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "I know not.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "I do not know."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I do not know.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 283,
@@ -1485,17 +1667,18 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Go ask his name. If he be married,\nMy grave is like to be my wedding bed.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Go and ask his name."
-    },
-    {
-     "en": "If he is married, my grave will be like my wedding bed."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Go and ask his name.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "If he is married, my grave will be like my wedding bed.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 284,
@@ -1507,20 +1690,23 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "His name is Romeo, and a Montague,\nThe only son of your great enemy.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "His name is Romeo."
-    },
-    {
-     "en": "He is a Montague."
-    },
-    {
-     "en": "He is the only son of your great enemy."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "His name is Romeo.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "He is a Montague.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "He is the only son of your great enemy.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 285,
@@ -1532,26 +1718,33 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "My only love sprung from my only hate!\nToo early seen unknown, and known too late!\nProdigious birth of love it is to me,\nThat I must love a loathed enemy.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "My only love comes from my only hate!"
-    },
-    {
-     "en": "I saw him too early as a stranger."
-    },
-    {
-     "en": "I know him too late now."
-    },
-    {
-     "en": "This is a huge birth of love for me."
-    },
-    {
-     "en": "I must love an enemy that I hate."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "My only love comes from my only hate!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I saw him too early as a stranger.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I know him too late now.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "It is a strange and frightening birth of love.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "I must love an enemy that I hate.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 286,
@@ -1563,17 +1756,18 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "What’s this? What’s this?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "What is this?"
-    },
-    {
-     "en": "What is this?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "What is this?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "What is this?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 287,
@@ -1585,17 +1779,18 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "A rhyme I learn’d even now\nOf one I danc’d withal.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "I just learned a rhyme now."
-    },
-    {
-     "en": "It is about the man I danced with."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I just learned a rhyme now.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "It is about the man I danced with.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 288,
@@ -1607,17 +1802,13 @@
   "speaker": null,
   "delivery": null,
   "raw": "One calls within, ‘Juliet’.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Someone calls from inside for Juliet."
-    },
-    {
-     "en": "The Nurse hears it."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Someone calls from inside for Juliet.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 289,
@@ -1629,20 +1820,23 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "Anon, anon!\nCome let’s away, the strangers all are gone.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Coming, coming!"
-    },
-    {
-     "en": "Come, let us go away."
-    },
-    {
-     "en": "All the strangers are gone."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Coming, coming!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Come, let us go away.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "All the strangers are gone.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 290,
