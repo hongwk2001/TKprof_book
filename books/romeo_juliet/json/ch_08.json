@@ -21,14 +21,13 @@
   "speaker": null,
   "delivery": null,
   "raw": "Enter Friar Lawrence with a basket.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Friar Lawrence enters with a basket."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Friar Lawrence enters with a basket.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 379,
@@ -40,68 +39,103 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "The grey-ey’d morn smiles on the frowning night,\nChequering the eastern clouds with streaks of light;\nAnd fleckled darkness like a drunkard reels\nFrom forth day’s pathway, made by Titan’s fiery wheels\nNow, ere the sun advance his burning eye,\nThe day to cheer, and night’s dank dew to dry,\nI must upfill this osier cage of ours\nWith baleful weeds and precious-juiced flowers.\nThe earth that’s nature’s mother, is her tomb;\nWhat is her burying grave, that is her womb:\nAnd from her womb children of divers kind\nWe sucking on her natural bosom find.\nMany for many virtues excellent,\nNone but for some, and yet all different.\nO, mickle is the powerful grace that lies\nIn plants, herbs, stones, and their true qualities.\nFor naught so vile that on the earth doth live\nBut to the earth some special good doth give;\nNor aught so good but, strain’d from that fair use,\nRevolts from true birth, stumbling on abuse.\nVirtue itself turns vice being misapplied,\nAnd vice sometime’s by action dignified.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "The grey-eyed morning smiles on the frowning night."
-    },
-    {
-     "en": "It marks the eastern clouds with streaks of light."
-    },
-    {
-     "en": "And darkness like a drunkard reels from the day's path."
-    },
-    {
-     "en": "This path was made by the fire wheels of a giant."
-    },
-    {
-     "en": "Before the sun moves forward with its burning eye, I must fill this basket of ours."
-    },
-    {
-     "en": "I will use harmful weeds and flowers with precious juice."
-    },
-    {
-     "en": "The earth is nature's mother, but it is also her grave."
-    },
-    {
-     "en": "What is her burial place is also her womb."
-    },
-    {
-     "en": "From her womb, we find children of many kinds."
-    },
-    {
-     "en": "We find them by nursing from her natural breast."
-    },
-    {
-     "en": "Many things have many excellent virtues."
-    },
-    {
-     "en": "None are for everyone, and yet all are different."
-    },
-    {
-     "en": "Oh, there is a great power in plants, herbs, and stones."
-    },
-    {
-     "en": "They have their own true qualities."
-    },
-    {
-     "en": "Nothing living on earth is so bad that it gives no good."
-    },
-    {
-     "en": "Everything gives some special benefit to the earth."
-    },
-    {
-     "en": "Nothing good becomes bad if it is used incorrectly."
-    },
-    {
-     "en": "Good things turn into bad things when they are misused."
-    },
-    {
-     "en": "Bad things can sometimes be made honorable by their use."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "The grey-eyed morning smiles on the frowning night.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "It marks the eastern clouds with streaks of light.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "And darkness like a drunkard reels from the day's path.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "That path is made by the fiery wheels of the sun god's chariot.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Before the sun moves forward with its burning eye, I must fill this basket of ours.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "I will use harmful weeds and flowers with precious juice.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "The earth is nature's mother, but it is also her grave.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "What is her burial place is also her womb.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "From her womb, we find children of many kinds.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "We find them by nursing from her natural breast.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "Many plants have many excellent powers.",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "Every one is good for something, and each is different.",
+    "ko": ""
+   },
+   {
+    "n": 13,
+    "en": "Oh, there is a great power in plants, herbs, and stones.",
+    "ko": ""
+   },
+   {
+    "n": 14,
+    "en": "They have their own true qualities.",
+    "ko": ""
+   },
+   {
+    "n": 15,
+    "en": "Nothing living on earth is so bad that it gives no good.",
+    "ko": ""
+   },
+   {
+    "n": 16,
+    "en": "Everything gives some special benefit to the earth.",
+    "ko": ""
+   },
+   {
+    "n": 17,
+    "en": "And nothing is so good that it cannot turn bad when it is misused.",
+    "ko": ""
+   },
+   {
+    "n": 18,
+    "en": "Good things turn into bad things when they are misused.",
+    "ko": ""
+   },
+   {
+    "n": 19,
+    "en": "Bad things can sometimes be made honorable by their use.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 380,
@@ -125,29 +159,38 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "Within the infant rind of this weak flower\nPoison hath residence, and medicine power:\nFor this, being smelt, with that part cheers each part;\nBeing tasted, slays all senses with the heart.\nTwo such opposed kings encamp them still\nIn man as well as herbs,—grace and rude will;\nAnd where the worser is predominant,\nFull soon the canker death eats up that plant.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Inside the small skin of this weak flower poison lives, and medicine has power."
-    },
-    {
-     "en": "Because it is mixed, each part helps the other."
-    },
-    {
-     "en": "When tasted, it kills all senses in the heart."
-    },
-    {
-     "en": "Two such opposite kings still live in man as well as in herbs."
-    },
-    {
-     "en": "These are grace and wild will."
-    },
-    {
-     "en": "And when the worse one is stronger, death quickly eats up that plant."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Inside the small skin of this weak flower poison lives, and medicine has power.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "When you smell it, it refreshes every part of the body.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "When you taste it, it stops the heart and kills all the senses.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Two such opposite kings still live in man as well as in herbs.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "These are goodness and wild desire.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "And when the worse one is stronger, death quickly eats up that plant.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 382,
@@ -159,14 +202,13 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "Good morrow, father.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Good morning, father."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Good morning, father.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 383,
@@ -178,38 +220,48 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "Benedicite!\nWhat early tongue so sweet saluteth me?\nYoung son, it argues a distemper’d head\nSo soon to bid good morrow to thy bed.\nCare keeps his watch in every old man’s eye,\nAnd where care lodges sleep will never lie;\nBut where unbruised youth with unstuff’d brain\nDoth couch his limbs, there golden sleep doth reign.\nTherefore thy earliness doth me assure\nThou art uprous’d with some distemperature;\nOr if not so, then here I hit it right,\nOur Romeo hath not been in bed tonight.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Bless you!"
-    },
-    {
-     "en": "What early voice so sweet greets me?"
-    },
-    {
-     "en": "Young son, your words show a troubled mind."
-    },
-    {
-     "en": "You are awake too early to say good morning to your bed."
-    },
-    {
-     "en": "Worry keeps watch in every old man's eye."
-    },
-    {
-     "en": "Where worry stays, sleep will never stay."
-    },
-    {
-     "en": "But where young youth with an empty head rests his body, there golden sleep reigns."
-    },
-    {
-     "en": "Therefore your early rising tells me you are troubled by some illness."
-    },
-    {
-     "en": "Or if not that, then I am right about this: our Romeo has not been in bed tonight."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Bless you!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "What early voice so sweet greets me?",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Young son, getting out of bed so early shows a troubled mind.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Worry keeps watch in every old man's eye.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Where worry stays, sleep will never stay.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "But where a young man with no worries rests his body, golden sleep rules.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Therefore your early rising tells me you are troubled by some illness.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Or if not that, then I am right about this: our Romeo has not been in bed tonight.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 384,
@@ -221,14 +273,13 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "That last is true; the sweeter rest was mine.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "That last one is true; the sweeter rest was mine."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "That last one is true; the sweeter rest was mine.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 385,
@@ -240,14 +291,18 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "God pardon sin. Wast thou with Rosaline?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "God pardon my sin. Were you with Rosaline?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "God forgive sin!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Were you with Rosaline?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 386,
@@ -259,17 +314,18 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "With Rosaline, my ghostly father? No.\nI have forgot that name, and that name’s woe.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "With Rosaline, my spiritual father? No."
-    },
-    {
-     "en": "I have forgotten that name and the sadness of that name."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "With Rosaline, my spiritual father? No.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I have forgotten that name and the sadness of that name.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 387,
@@ -281,17 +337,18 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "That’s my good son. But where hast thou been then?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "That is my good son."
-    },
-    {
-     "en": "But where have you been then?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "That is my good son.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "But where have you been then?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 388,
@@ -303,32 +360,43 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "I’ll tell thee ere thou ask it me again.\nI have been feasting with mine enemy,\nWhere on a sudden one hath wounded me\nThat’s by me wounded. Both our remedies\nWithin thy help and holy physic lies.\nI bear no hatred, blessed man; for lo,\nMy intercession likewise steads my foe.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "I will tell you before you ask me again."
-    },
-    {
-     "en": "I have been feasting with my enemy."
-    },
-    {
-     "en": "Suddenly, someone wounded me there."
-    },
-    {
-     "en": "That person is also wounded by me."
-    },
-    {
-     "en": "Both of our remedies lie in your help and holy medicine."
-    },
-    {
-     "en": "I bear no hatred, blessed man."
-    },
-    {
-     "en": "Because my help also helps my foe."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I will tell you before you ask me again.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I have been feasting with my enemy.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Suddenly, someone wounded me there.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "That person is also wounded by me.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Both of our remedies lie in your help and holy medicine.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "I bear no hatred, blessed man.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Look, my request helps my enemy too.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 389,
@@ -340,20 +408,23 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "Be plain, good son, and homely in thy drift;\nRiddling confession finds but riddling shrift.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Be clear, good son."
-    },
-    {
-     "en": "Speak simply about your meaning."
-    },
-    {
-     "en": "A confusing confession finds only a confusing confession to a priest."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Be clear, good son.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Speak simply about your meaning.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "A confession in riddles gets only forgiveness in riddles.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 390,
@@ -365,35 +436,38 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "Then plainly know my heart’s dear love is set\nOn the fair daughter of rich Capulet.\nAs mine on hers, so hers is set on mine;\nAnd all combin’d, save what thou must combine\nBy holy marriage. When, and where, and how\nWe met, we woo’d, and made exchange of vow,\nI’ll tell thee as we pass; but this I pray,\nThat thou consent to marry us today.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Then I tell you clearly that my heart's dear love is set."
-    },
-    {
-     "en": "She is the beautiful daughter of rich Capulet."
-    },
-    {
-     "en": "Just as my love is for her, her love is for me."
-    },
-    {
-     "en": "Everything is combined."
-    },
-    {
-     "en": "Except what you must combine by holy marriage."
-    },
-    {
-     "en": "When, where, and how we met, how we wooed, and made exchange of vows, I will tell you as we pass."
-    },
-    {
-     "en": "But this I pray."
-    },
-    {
-     "en": "Please agree to marry us today."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Then I tell you clearly that my heart's dear love is set on the beautiful daughter of rich Capulet.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Just as my love is for her, her love is for me.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "We are joined in every way, except the way you must join us by holy marriage.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "When, where, and how we met, how we wooed, and made exchange of vows, I will tell you as we pass.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "But this I pray.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Please agree to marry us today.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 391,
@@ -405,56 +479,83 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "Holy Saint Francis! What a change is here!\nIs Rosaline, that thou didst love so dear,\nSo soon forsaken? Young men’s love then lies\nNot truly in their hearts, but in their eyes.\nJesu Maria, what a deal of brine\nHath wash’d thy sallow cheeks for Rosaline!\nHow much salt water thrown away in waste,\nTo season love, that of it doth not taste.\nThe sun not yet thy sighs from heaven clears,\nThy old groans yet ring in mine ancient ears.\nLo here upon thy cheek the stain doth sit\nOf an old tear that is not wash’d off yet.\nIf ere thou wast thyself, and these woes thine,\nThou and these woes were all for Rosaline,\nAnd art thou chang’d? Pronounce this sentence then,\nWomen may fall, when there’s no strength in men.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Holy Saint Francis!"
-    },
-    {
-     "en": "What a change is here!"
-    },
-    {
-     "en": "Is Rosaline, whom you loved so dearly, so soon abandoned?"
-    },
-    {
-     "en": "Young men's love then lies not truly in their hearts."
-    },
-    {
-     "en": "It lies only in their eyes."
-    },
-    {
-     "en": "Jesus Mary, how much salt water has washed your pale cheeks for Rosaline!"
-    },
-    {
-     "en": "How much salt water was wasted, to season a love that does not taste like anything."
-    },
-    {
-     "en": "The sun has not yet cleared your sighs from heaven."
-    },
-    {
-     "en": "Your old groans still ring in my old ears."
-    },
-    {
-     "en": "Look here, the stain of an old tear is still on your cheek."
-    },
-    {
-     "en": "It is not washed off yet."
-    },
-    {
-     "en": "If you were yourself before, and these sorrows were yours, then you and these sorrows were all for Rosaline."
-    },
-    {
-     "en": "And have you changed?"
-    },
-    {
-     "en": "Give me your answer then."
-    },
-    {
-     "en": "Women may fall when there is no strength in men."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Holy Saint Francis!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "What a change is here!",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Is Rosaline, whom you loved so dearly, so soon abandoned?",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Young men's love then lies not truly in their hearts.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "It lies only in their eyes.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Jesus Mary, how much salt water has washed your pale cheeks for Rosaline!",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "How much salt water was wasted, to season a love that does not taste like anything.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "The sun has not yet cleared your sighs from heaven.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "Your old groans still ring in my old ears.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "Look here, the stain of an old tear is still on your cheek.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "It is not washed off yet.",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "If you were yourself before, and these sorrows were yours, then you and these sorrows were all for Rosaline.",
+    "ko": ""
+   },
+   {
+    "n": 13,
+    "en": "And have you changed?",
+    "ko": ""
+   },
+   {
+    "n": 14,
+    "en": "Then repeat this saying after me.",
+    "ko": ""
+   },
+   {
+    "n": 15,
+    "en": "Women may fall when there is no strength in men.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 392,
@@ -466,14 +567,13 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "Thou chidd’st me oft for loving Rosaline.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "You often scolded me for loving Rosaline."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "You often scolded me for loving Rosaline.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 393,
@@ -485,14 +585,13 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "For doting, not for loving, pupil mine.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "For doting, not for loving, my student."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "For doting, not for loving, my student.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 394,
@@ -504,14 +603,13 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "And bad’st me bury love.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "And you blamed me for burying love."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "And you told me to bury love.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 395,
@@ -523,17 +621,18 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "Not in a grave\nTo lay one in, another out to have.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "You do not put one person in a grave to take another out."
-    },
-    {
-     "en": "It is not a matter of burying one love to have another."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "You do not put one person in a grave to take another out.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "It is not a matter of burying one love to have another.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 396,
@@ -545,23 +644,23 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "I pray thee chide me not, her I love now\nDoth grace for grace and love for love allow.\nThe other did not so.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Please do not scold me."
-    },
-    {
-     "en": "I love her now."
-    },
-    {
-     "en": "This love allows grace for grace and love for love."
-    },
-    {
-     "en": "The other love did not do that."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Please do not scold me.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "The girl I love now returns kindness for kindness and love for love.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "The other did not.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 397,
@@ -573,35 +672,38 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "O, she knew well\nThy love did read by rote, that could not spell.\nBut come young waverer, come go with me,\nIn one respect I’ll thy assistant be;\nFor this alliance may so happy prove,\nTo turn your households’ rancour to pure love.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Oh, she knew well."
-    },
-    {
-     "en": "She knew your love was just by memory."
-    },
-    {
-     "en": "It could not even spell the words."
-    },
-    {
-     "en": "But come, young waverer."
-    },
-    {
-     "en": "Come and go with me."
-    },
-    {
-     "en": "I will help you in one way."
-    },
-    {
-     "en": "This marriage may prove very happy."
-    },
-    {
-     "en": "It can turn your families' hatred into pure love."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh, she knew well that your love was like a child reciting words it cannot spell.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "But come, young waverer.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Come and go with me.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "I will help you in one way.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "This marriage may prove very happy.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "It can turn your families' hatred into pure love.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 398,
@@ -613,17 +715,18 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "O let us hence; I stand on sudden haste.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Oh, let us leave now."
-    },
-    {
-     "en": "I am in a great hurry."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh, let us leave now.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I am in a great hurry.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 399,
@@ -635,17 +738,18 @@
   "speaker": "FRIAR LAWRENCE",
   "delivery": null,
   "raw": "Wisely and slow; they stumble that run fast.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Act wisely and slowly."
-    },
-    {
-     "en": "Those who run too fast often stumble."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Act wisely and slowly.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Those who run too fast often stumble.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 400,
