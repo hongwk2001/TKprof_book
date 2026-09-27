@@ -36,6 +36,8 @@ JSON_DIR = os.path.join(BASE_DIR, "json")
 
 ROMAN = {"I": 1, "II": 2, "III": 3, "IV": 4, "V": 5, "VI": 6}
 SPEAKER_RE = re.compile(r"^([A-Z][A-Z’' ]+)\.$")
+# a label run into its speech on the same line ("ROMEO. Nurse, commend me…")
+SPEAKER_INLINE_RE = re.compile(r"^([A-Z][A-Z’']+(?: [A-Z][A-Z’']+)*)\. ([A-Z‘’\[_].*)$")
 ACT_RE = re.compile(r"^ACT ([IVX]+)$")
 SCENE_RE = re.compile(r"^SCENE ([IVX]+)\. (.+)$")
 INLINE_DIR_RE = re.compile(r"\s*\[_(.+?)_?\]\s*")
@@ -117,6 +119,12 @@ def parse():
             speaker = m.group(1).replace("’", "'")
             started = False
             continue
+        m = SPEAKER_INLINE_RE.match(line)
+        if m and len(m.group(1)) >= 4:
+            flush()
+            speaker = m.group(1).replace("’", "'")
+            started = False
+            line = m.group(2)
         if is_direction_line(line):
             # an indented direction may wrap onto further indented lines
             d = [line.strip()]

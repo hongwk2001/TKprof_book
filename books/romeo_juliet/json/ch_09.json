@@ -1745,7 +1745,7 @@
   "type": "speech",
   "speaker": "NURSE",
   "delivery": null,
-  "raw": "Now, afore God, I am so vexed that every part about me quivers. Scurvy\nknave. Pray you, sir, a word: and as I told you, my young lady bid me\nenquire you out; what she bade me say, I will keep to myself. But first\nlet me tell ye, if ye should lead her in a fool’s paradise, as they\nsay, it were a very gross kind of behaviour, as they say; for the\ngentlewoman is young. And therefore, if you should deal double with\nher, truly it were an ill thing to be offered to any gentlewoman, and\nvery weak dealing.\nROMEO. Nurse, commend me to thy lady and mistress. I protest unto\nthee,—",
+  "raw": "Now, afore God, I am so vexed that every part about me quivers. Scurvy\nknave. Pray you, sir, a word: and as I told you, my young lady bid me\nenquire you out; what she bade me say, I will keep to myself. But first\nlet me tell ye, if ye should lead her in a fool’s paradise, as they\nsay, it were a very gross kind of behaviour, as they say; for the\ngentlewoman is young. And therefore, if you should deal double with\nher, truly it were an ill thing to be offered to any gentlewoman, and\nvery weak dealing.",
   "sentences": [],
   "drafts": {
    "gemma4_gloss": [
@@ -1778,12 +1778,28 @@
     },
     {
      "en": "It would be a very weak way of acting."
-    },
+    }
+   ]
+  }
+ },
+ {
+  "id": 478,
+  "tag": "P0478b",
+  "chapter_id": "ch_09",
+  "act": 2,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Nurse, commend me to thy lady and mistress. I protest unto\nthee,—",
+  "sentences": [],
+  "drafts": {
+   "gemma4_gloss": [
     {
      "en": "Nurse, give my regards to your lady and mistress."
     },
     {
-     "en": "I promise you."
+     "en": "I promise you—"
     }
    ]
   }

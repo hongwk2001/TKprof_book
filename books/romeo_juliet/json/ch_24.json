@@ -2053,15 +2053,12 @@
   "act": 5,
   "scene": 3,
   "type": "speech",
-  "speaker": "FIRST WATCH",
+  "speaker": "THIRD WATCH",
   "delivery": null,
-  "raw": "THIRD WATCH. Here is a Friar that trembles, sighs, and weeps.\nWe took this mattock and this spade from him\nAs he was coming from this churchyard side.",
+  "raw": "Here is a Friar that trembles, sighs, and weeps.\nWe took this mattock and this spade from him\nAs he was coming from this churchyard side.",
   "sentences": [],
   "drafts": {
    "gemma4_gloss": [
-    {
-     "en": "THIRD WATCH."
-    },
     {
      "en": "Here is a monk who trembles, sighs, and weeps."
     },
