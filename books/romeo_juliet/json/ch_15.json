@@ -33,38 +33,48 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "Things have fallen out, sir, so unluckily\nThat we have had no time to move our daughter.\nLook you, she lov’d her kinsman Tybalt dearly,\nAnd so did I. Well, we were born to die.\n’Tis very late; she’ll not come down tonight.\nI promise you, but for your company,\nI would have been abed an hour ago.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Things have happened badly, sir."
-    },
-    {
-     "en": "We did not have enough time to move our daughter."
-    },
-    {
-     "en": "Look, she loved her kinsman Tybalt dearly."
-    },
-    {
-     "en": "And so did I."
-    },
-    {
-     "en": "Well, we were born to die."
-    },
-    {
-     "en": "It is very late."
-    },
-    {
-     "en": "She will not come down tonight."
-    },
-    {
-     "en": "I promise you that only because of your company."
-    },
-    {
-     "en": "I would have been in bed an hour ago."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Things have happened badly, sir.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "We have had no time to persuade our daughter.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Look, she loved her kinsman Tybalt dearly.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "And so did I.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Well, we were born to die.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "It is very late.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "She will not come down tonight.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "I promise you, if you were not here, I would have been in bed an hour ago.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 700,
@@ -76,20 +86,23 @@
   "speaker": "PARIS",
   "delivery": null,
   "raw": "These times of woe afford no tune to woo.\nMadam, good night. Commend me to your daughter.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "These sad times are not good for courting."
-    },
-    {
-     "en": "Good night, Madam."
-    },
-    {
-     "en": "Give my regards to your daughter."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "These sad times are not good for courting.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Good night, Madam.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Give my regards to your daughter.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 701,
@@ -101,17 +114,18 @@
   "speaker": "LADY CAPULET",
   "delivery": null,
   "raw": "I will, and know her mind early tomorrow;\nTonight she’s mew’d up to her heaviness.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "I will do that and find out her thoughts early tomorrow."
-    },
-    {
-     "en": "Tonight she is locked away in her sadness."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I will do that and find out her thoughts early tomorrow.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Tonight she is locked away in her sadness.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 702,
@@ -123,32 +137,43 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "Sir Paris, I will make a desperate tender\nOf my child’s love. I think she will be rul’d\nIn all respects by me; nay more, I doubt it not.\nWife, go you to her ere you go to bed,\nAcquaint her here of my son Paris’ love,\nAnd bid her, mark you me, on Wednesday next,\nBut, soft, what day is this?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Sir Paris, I will make a desperate offer of my child's love."
-    },
-    {
-     "en": "I think she will be ruled by me in all respects."
-    },
-    {
-     "en": "No, I do not doubt it."
-    },
-    {
-     "en": "Wife, go to her before you go to bed."
-    },
-    {
-     "en": "Tell her about my son Paris's love."
-    },
-    {
-     "en": "And tell her, pay attention to me, on Wednesday next."
-    },
-    {
-     "en": "But, wait, what day is this?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Sir Paris, I will make a bold promise of my child's love.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I think she will be ruled by me in all respects.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "No, more than that, I am sure of it.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Wife, go to her before you go to bed.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Tell her about my son Paris's love.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "And tell her, listen, that next Wednesday—",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "But, wait, what day is this?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 703,
@@ -160,14 +185,13 @@
   "speaker": "PARIS",
   "delivery": null,
   "raw": "Monday, my lord.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Monday, my lord."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Monday, my lord.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 704,
@@ -179,53 +203,73 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "Monday! Ha, ha! Well, Wednesday is too soon,\nA Thursday let it be; a Thursday, tell her,\nShe shall be married to this noble earl.\nWill you be ready? Do you like this haste?\nWe’ll keep no great ado,—a friend or two,\nFor, hark you, Tybalt being slain so late,\nIt may be thought we held him carelessly,\nBeing our kinsman, if we revel much.\nTherefore we’ll have some half a dozen friends,\nAnd there an end. But what say you to Thursday?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Monday! Ha, ha!"
-    },
-    {
-     "en": "Well, Wednesday is too soon."
-    },
-    {
-     "en": "Let it be a Thursday."
-    },
-    {
-     "en": "Tell her it is a Thursday."
-    },
-    {
-     "en": "She shall be married to this noble earl."
-    },
-    {
-     "en": "Will you be ready?"
-    },
-    {
-     "en": "Do you like this haste?"
-    },
-    {
-     "en": "We will not have a big celebration."
-    },
-    {
-     "en": "Only one or two friends will come."
-    },
-    {
-     "en": "Because Tybalt was killed so late, people might think we did not care about him."
-    },
-    {
-     "en": "They might think we were careless because he was our kinsman if we celebrate too much."
-    },
-    {
-     "en": "Therefore, we will have about six friends."
-    },
-    {
-     "en": "And that is the end of it."
-    },
-    {
-     "en": "But what do you say to Thursday?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Monday! Ha, ha!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Well, Wednesday is too soon.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Let it be Thursday.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Tell her that on Thursday she will marry this noble earl.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Will you be ready?",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Do you like this haste?",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "We will not have a big celebration.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Only one or two friends will come.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "Tybalt was killed so recently.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "If we celebrate too much, people might think we did not care about our own relative.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "Therefore, we will have about six friends.",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "And that is the end of it.",
+    "ko": ""
+   },
+   {
+    "n": 13,
+    "en": "But what do you say to Thursday?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 705,
@@ -237,14 +281,13 @@
   "speaker": "PARIS",
   "delivery": null,
   "raw": "My lord, I would that Thursday were tomorrow.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "My lord, I wish that Thursday were tomorrow."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "My lord, I wish that Thursday were tomorrow.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 706,
@@ -256,35 +299,48 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "Well, get you gone. A Thursday be it then.\nGo you to Juliet ere you go to bed,\nPrepare her, wife, against this wedding day.\nFarewell, my lord.—Light to my chamber, ho!\nAfore me, it is so very very late that we\nMay call it early by and by. Good night.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Well, go now."
-    },
-    {
-     "en": "Let it be a Thursday then."
-    },
-    {
-     "en": "Go to Juliet before you go to bed."
-    },
-    {
-     "en": "Prepare her, wife, for this wedding day."
-    },
-    {
-     "en": "Goodbye, my lord."
-    },
-    {
-     "en": "Bring a light to my chamber!"
-    },
-    {
-     "en": "It is so very late that we can call it early in a moment."
-    },
-    {
-     "en": "Good night."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Well, go now.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Let it be a Thursday then.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Go to Juliet before you go to bed.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Prepare her, wife, for this wedding day.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Goodbye, my lord.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Bring a light to my chamber!",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "My goodness, it is so late that soon we can call it early.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Good night.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 707,
