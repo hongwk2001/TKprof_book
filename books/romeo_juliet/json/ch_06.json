@@ -191,17 +191,7 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Romeo!",
-    "ko": ""
-   },
-   {
-    "n": 2,
-    "en": "My cousin Romeo!",
-    "ko": ""
-   },
-   {
-    "n": 3,
-    "en": "Romeo!",
+    "en": "Romeo! My cousin Romeo! Romeo!",
     "ko": ""
    }
   ]
@@ -242,17 +232,7 @@
   "sentences": [
    {
     "n": 1,
-    "en": "He ran this way.",
-    "ko": ""
-   },
-   {
-    "n": 2,
-    "en": "He jumped over this orchard wall.",
-    "ko": ""
-   },
-   {
-    "n": 3,
-    "en": "Call out, good Mercutio.",
+    "en": "He ran this way and jumped over this orchard wall, so call out, good Mercutio.",
     "ko": ""
    }
   ]
@@ -315,46 +295,26 @@
    },
    {
     "n": 10,
-    "en": "He does not hear.",
+    "en": "He does not hear, he does not move, and he does not stir.",
     "ko": ""
    },
    {
     "n": 11,
-    "en": "He does not move.",
-    "ko": ""
-   },
-   {
-    "n": 12,
-    "en": "He does not stir.",
-    "ko": ""
-   },
-   {
-    "n": 13,
     "en": "The monkey is playing dead, so I must call him up with magic.",
     "ko": ""
    },
    {
+    "n": 12,
+    "en": "I call you up by Rosaline's bright eyes, by her high forehead and her red lip.",
+    "ko": ""
+   },
+   {
+    "n": 13,
+    "en": "By her fine foot, straight leg, and shaking thigh, and by the parts that lie near them.",
+    "ko": ""
+   },
+   {
     "n": 14,
-    "en": "I call you up by Rosaline's bright eyes.",
-    "ko": ""
-   },
-   {
-    "n": 15,
-    "en": "By her high forehead and her red lip.",
-    "ko": ""
-   },
-   {
-    "n": 16,
-    "en": "By her fine foot, straight leg, and shaking thigh.",
-    "ko": ""
-   },
-   {
-    "n": 17,
-    "en": "And by the parts that lie near them.",
-    "ko": ""
-   },
-   {
-    "n": 18,
     "en": "Appear to us in your likeness.",
     "ko": ""
    }

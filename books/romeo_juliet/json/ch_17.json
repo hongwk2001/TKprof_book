@@ -607,27 +607,12 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Oh, shut the door.",
+    "en": "Oh, shut the door and come to cry with me.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "When you have done that, come and cry with me.",
-    "ko": ""
-   },
-   {
-    "n": 3,
-    "en": "My situation is hopeless.",
-    "ko": ""
-   },
-   {
-    "n": 4,
-    "en": "It cannot be cured.",
-    "ko": ""
-   },
-   {
-    "n": 5,
-    "en": "No one can help me!",
+    "en": "My situation is hopeless; it cannot be cured, and no one can help me!",
     "ko": ""
    }
   ]
@@ -761,42 +746,27 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Wait, daughter.",
+    "en": "Wait, daughter, for I see a kind of hope.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "I see a kind of hope.",
+    "en": "It requires a desperate action, just as desperate as the one we want to prevent.",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "It requires a desperate action.",
-    "ko": ""
-   },
-   {
-    "n": 4,
-    "en": "That action is as desperate as the one we want to prevent.",
-    "ko": ""
-   },
-   {
-    "n": 5,
     "en": "You would rather kill yourself than marry Count Paris.",
     "ko": ""
    },
    {
-    "n": 6,
+    "n": 4,
     "en": "So you will likely dare to do something like death to escape this shame.",
     "ko": ""
    },
    {
-    "n": 7,
-    "en": "After all, you are ready to face death itself to escape it.",
-    "ko": ""
-   },
-   {
-    "n": 8,
-    "en": "And if you dare, I will give you a remedy.",
+    "n": 5,
+    "en": "Since you are ready to face death itself to escape it, I will give you a remedy if you dare.",
     "ko": ""
    }
   ]
@@ -887,147 +857,82 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Wait then.",
+    "en": "Wait then. Go home, be happy, and agree to marry Paris.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "Go home and be happy.",
+    "en": "Wednesday is tomorrow, so make sure you lie alone tomorrow night.",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "Agree to marry Paris.",
-    "ko": ""
-   },
-   {
-    "n": 4,
-    "en": "Wednesday is tomorrow.",
-    "ko": ""
-   },
-   {
-    "n": 5,
-    "en": "Tomorrow night, make sure you lie alone.",
-    "ko": ""
-   },
-   {
-    "n": 6,
     "en": "Do not let your Nurse stay in your room with you.",
     "ko": ""
    },
    {
+    "n": 4,
+    "en": "Take this small bottle while you are in bed and drink all of this liquid.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "A cold and sleepy feeling will move through your veins until your pulse stops.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "No warmth or breath will show that you live, and the color in your lips and cheeks will fade to gray.",
+    "ko": ""
+   },
+   {
     "n": 7,
-    "en": "Take this small bottle while you are in bed.",
+    "en": "Your eyes will close as if death has closed the day of life.",
     "ko": ""
    },
    {
     "n": 8,
-    "en": "Drink all of this liquid.",
+    "en": "Every part of you will become stiff and cold so you look like death.",
     "ko": ""
    },
    {
     "n": 9,
-    "en": "A cold and sleepy feeling will move through your veins.",
-    "ko": ""
-   },
-   {
-    "n": 10,
-    "en": "Your pulse will stop.",
-    "ko": ""
-   },
-   {
-    "n": 11,
-    "en": "No warmth or breath will show that you live.",
-    "ko": ""
-   },
-   {
-    "n": 12,
-    "en": "The color in your lips and cheeks will fade to gray.",
-    "ko": ""
-   },
-   {
-    "n": 13,
-    "en": "Your eyes will close.",
-    "ko": ""
-   },
-   {
-    "n": 14,
-    "en": "It will look like death has closed the day of life.",
-    "ko": ""
-   },
-   {
-    "n": 15,
-    "en": "Every part of you will become stiff and cold.",
-    "ko": ""
-   },
-   {
-    "n": 16,
-    "en": "You will look like death.",
-    "ko": ""
-   },
-   {
-    "n": 17,
     "en": "In this appearance of death, you will stay for forty-eight hours.",
     "ko": ""
    },
    {
-    "n": 18,
+    "n": 10,
     "en": "Then you will wake up as if from a pleasant sleep.",
     "ko": ""
    },
    {
-    "n": 19,
+    "n": 11,
     "en": "When the groom comes in the morning to wake you, you will appear to be dead.",
     "ko": ""
    },
    {
-    "n": 20,
-    "en": "Because of our local customs, you will be dressed in your best clothes.",
+    "n": 12,
+    "en": "Because of our local customs, you will be dressed in your best clothes and your face will be uncovered on an open coffin.",
     "ko": ""
    },
    {
-    "n": 21,
-    "en": "Your face will be uncovered on an open coffin.",
+    "n": 13,
+    "en": "You will be carried to that old vault where all your relatives, the Capulets, lie.",
     "ko": ""
    },
    {
-    "n": 22,
-    "en": "You will be carried to that old vault.",
+    "n": 14,
+    "en": "Before you wake up, Romeo will know our plan from my letters and he will come here.",
     "ko": ""
    },
    {
-    "n": 23,
-    "en": "All your relatives, the Capulets, lie there.",
+    "n": 15,
+    "en": "He and I will watch you wake up, and that same night, Romeo will take you to Mantua.",
     "ko": ""
    },
    {
-    "n": 24,
-    "en": "Before you wake up, Romeo will know our plan from my letters.",
-    "ko": ""
-   },
-   {
-    "n": 25,
-    "en": "He will come here.",
-    "ko": ""
-   },
-   {
-    "n": 26,
-    "en": "He and I will watch you wake up.",
-    "ko": ""
-   },
-   {
-    "n": 27,
-    "en": "That same night, Romeo will take you to Mantua.",
-    "ko": ""
-   },
-   {
-    "n": 28,
-    "en": "This will free you from this shame.",
-    "ko": ""
-   },
-   {
-    "n": 29,
-    "en": "It will work if no silly whim or womanish fear weakens your courage.",
+    "n": 16,
+    "en": "This will free you from this shame if no silly whim or womanish fear weakens your courage.",
     "ko": ""
    }
   ]
@@ -1106,16 +1011,11 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Love, give me strength.",
+    "en": "Love, give me strength, because strength will provide what I need.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "Strength will provide what I need.",
-    "ko": ""
-   },
-   {
-    "n": 3,
     "en": "Goodbye, dear father.",
     "ko": ""
    }

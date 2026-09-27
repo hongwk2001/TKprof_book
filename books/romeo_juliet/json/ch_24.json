@@ -599,7 +599,7 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Yes, I must die; that is why I came here.",
+    "en": "Yes, I must die, and that is why I came here.",
     "ko": ""
    },
    {
@@ -614,41 +614,36 @@
    },
    {
     "n": 4,
-    "en": "Think about these dead people.",
+    "en": "Think about these dead people and let them frighten you.",
     "ko": ""
    },
    {
     "n": 5,
-    "en": "Let them frighten you.",
-    "ko": ""
-   },
-   {
-    "n": 6,
     "en": "I beg you, young man, do not add another sin to my head by making me angry.",
     "ko": ""
    },
    {
-    "n": 7,
+    "n": 6,
     "en": "Oh, go away.",
     "ko": ""
    },
    {
-    "n": 8,
+    "n": 7,
     "en": "By heaven, I love you more than myself.",
     "ko": ""
    },
    {
-    "n": 9,
+    "n": 8,
     "en": "I came here armed against myself.",
     "ko": ""
    },
    {
-    "n": 10,
-    "en": "Do not stay. Go away and live.",
+    "n": 9,
+    "en": "Do not stay; go away and live.",
     "ko": ""
    },
    {
-    "n": 11,
+    "n": 10,
     "en": "Later, tell others that a madman's mercy told you to run away.",
     "ko": ""
    }
@@ -838,76 +833,66 @@
   "sentences": [
    {
     "n": 1,
-    "en": "I will do that.",
+    "en": "I will do that. Let me look at this face.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "Let me look at this face.",
-    "ko": ""
-   },
-   {
-    "n": 3,
     "en": "Mercutio's relative, the noble Count Paris!",
     "ko": ""
    },
    {
-    "n": 4,
+    "n": 3,
     "en": "What did my man say when my lost soul did not listen to him while we rode?",
     "ko": ""
    },
    {
-    "n": 5,
+    "n": 4,
     "en": "I think he told me Paris should have married Juliet.",
     "ko": ""
    },
    {
+    "n": 5,
+    "en": "Did he not say that, or did I dream it?",
+    "ko": ""
+   },
+   {
     "n": 6,
-    "en": "Did he not say that?",
-    "ko": ""
-   },
-   {
-    "n": 7,
-    "en": "Or did I dream it?",
-    "ko": ""
-   },
-   {
-    "n": 8,
     "en": "Or am I mad for hearing him talk of Juliet and thinking it was true?",
     "ko": ""
    },
    {
-    "n": 9,
+    "n": 7,
     "en": "Oh, give me your hand.",
     "ko": ""
    },
    {
-    "n": 10,
+    "n": 8,
     "en": "Your name is written with mine in the book of bad luck.",
     "ko": ""
    },
    {
-    "n": 11,
+    "n": 9,
     "en": "I will bury you in a triumphant grave.",
     "ko": ""
    },
    {
-    "n": 12,
+    "n": 10,
     "en": "A grave? Oh no, a lantern, murdered young man.",
     "ko": ""
    },
    {
-    "n": 13,
+    "n": 11,
     "en": "Juliet lies here.",
     "ko": ""
    },
    {
-    "n": 14,
+    "n": 12,
     "en": "Her beauty makes this vault a party hall full of light.",
     "ko": ""
    },
    {
-    "n": 15,
+    "n": 13,
     "en": "Death, stay there, buried by a dead man.",
     "ko": ""
    }
@@ -1105,16 +1090,11 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Oh, honest apothecary!",
+    "en": "Oh, honest apothecary, your drugs work quickly.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "Your drugs work quickly.",
-    "ko": ""
-   },
-   {
-    "n": 3,
     "en": "So, with a kiss, I die.",
     "ko": ""
    }
@@ -1532,36 +1512,26 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Romeo!",
+    "en": "Romeo! Oh, he is pale!",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "Oh, he is pale!",
+    "en": "Who else? Is it Paris too?",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "Who else?",
-    "ko": ""
-   },
-   {
-    "n": 4,
-    "en": "Is it Paris too?",
-    "ko": ""
-   },
-   {
-    "n": 5,
     "en": "Are they both covered in blood?",
     "ko": ""
    },
    {
-    "n": 6,
+    "n": 4,
     "en": "What cruel hour caused this sad event?",
     "ko": ""
    },
    {
-    "n": 7,
+    "n": 5,
     "en": "The lady is waking.",
     "ko": ""
    }
@@ -1664,47 +1634,27 @@
    },
    {
     "n": 3,
-    "en": "A greater power than we can resist has stopped our plans.",
+    "en": "A greater power than we can resist has stopped our plans, so come, let us leave now.",
     "ko": ""
    },
    {
     "n": 4,
-    "en": "Come, let us leave now.",
+    "en": "Your husband lies dead in your arms and Paris is also dead.",
     "ko": ""
    },
    {
     "n": 5,
-    "en": "Your husband lies dead in your arms.",
-    "ko": ""
-   },
-   {
-    "n": 6,
-    "en": "Paris is also dead.",
-    "ko": ""
-   },
-   {
-    "n": 7,
     "en": "Come, I will take you to a group of holy nuns.",
     "ko": ""
    },
    {
-    "n": 8,
-    "en": "Do not stop to ask questions.",
+    "n": 6,
+    "en": "Do not stop to ask questions because the guards are coming.",
     "ko": ""
    },
    {
-    "n": 9,
-    "en": "The guards are coming.",
-    "ko": ""
-   },
-   {
-    "n": 10,
-    "en": "Come, go, good Juliet.",
-    "ko": ""
-   },
-   {
-    "n": 11,
-    "en": "I dare not stay any longer.",
+    "n": 7,
+    "en": "Come, go, good Juliet, as I dare not stay any longer.",
     "ko": ""
    }
   ]
@@ -1864,17 +1814,7 @@
   "sentences": [
    {
     "n": 1,
-    "en": "What, a noise?",
-    "ko": ""
-   },
-   {
-    "n": 2,
-    "en": "Then I will be quick.",
-    "ko": ""
-   },
-   {
-    "n": 3,
-    "en": "Oh, happy dagger!",
+    "en": "What, a noise? Then I will be quick. Oh, happy dagger!",
     "ko": ""
    }
   ]
@@ -2069,46 +2009,26 @@
   "sentences": [
    {
     "n": 1,
-    "en": "What a sad sight!",
+    "en": "What a sad sight! The Count lies here killed.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "The Count lies here killed.",
+    "en": "Juliet is bleeding and warm, and she is newly dead.",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "Juliet is bleeding and warm.",
-    "ko": ""
-   },
-   {
-    "n": 4,
-    "en": "She is newly dead.",
-    "ko": ""
-   },
-   {
-    "n": 5,
     "en": "She has been buried here for two days.",
     "ko": ""
    },
    {
-    "n": 6,
-    "en": "Go tell the Prince.",
+    "n": 4,
+    "en": "Go tell the Prince, run to the Capulets, and wake up the Montagues.",
     "ko": ""
    },
    {
-    "n": 7,
-    "en": "Run to the Capulets.",
-    "ko": ""
-   },
-   {
-    "n": 8,
-    "en": "Wake up the Montagues.",
-    "ko": ""
-   },
-   {
-    "n": 9,
+    "n": 5,
     "en": "Some others search the area.",
     "ko": ""
    }
@@ -2373,26 +2293,11 @@
   "sentences": [
    {
     "n": 1,
-    "en": "The people in the street are crying out.",
+    "en": "The people in the street are crying out, some shouting Romeo, some Juliet, and some Paris.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "Some shout Romeo.",
-    "ko": ""
-   },
-   {
-    "n": 3,
-    "en": "Some shout Juliet.",
-    "ko": ""
-   },
-   {
-    "n": 4,
-    "en": "Some shout Paris.",
-    "ko": ""
-   },
-   {
-    "n": 5,
     "en": "They all run toward our family tomb with loud cries.",
     "ko": ""
    }
@@ -2679,41 +2584,26 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Stop all shouting for a moment.",
+    "en": "Stop all shouting for a moment because we need to clear up these confusing facts.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "We need to clear up these confusing facts.",
-    "ko": ""
-   },
-   {
-    "n": 3,
     "en": "We must find the source and the cause of this crime.",
     "ko": ""
    },
    {
+    "n": 3,
+    "en": "Then I will lead you in your mourning, even to death.",
+    "ko": ""
+   },
+   {
     "n": 4,
-    "en": "Then I will lead you in your mourning.",
+    "en": "In the meantime, be patient and let patience control this bad luck.",
     "ko": ""
    },
    {
     "n": 5,
-    "en": "I will lead you even to death.",
-    "ko": ""
-   },
-   {
-    "n": 6,
-    "en": "In the meantime, be patient.",
-    "ko": ""
-   },
-   {
-    "n": 7,
-    "en": "Let patience control this bad luck.",
-    "ko": ""
-   },
-   {
-    "n": 8,
     "en": "Bring out the suspects.",
     "ko": ""
    }
@@ -2778,181 +2668,111 @@
   "sentences": [
    {
     "n": 1,
-    "en": "I will be brief.",
+    "en": "I will be brief, because my short life is not long enough for a boring story.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "My short life is not long enough for a boring story.",
+    "en": "Romeo, dead there, was the husband of that Juliet, and she, dead there, was Romeo's faithful wife.",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "Romeo, dead there, was the husband of that Juliet.",
+    "en": "I married them, and their secret wedding day was Tybalt's last day.",
     "ko": ""
    },
    {
     "n": 4,
-    "en": "And she, dead there, was Romeo's faithful wife.",
-    "ko": ""
-   },
-   {
-    "n": 5,
-    "en": "I married them.",
-    "ko": ""
-   },
-   {
-    "n": 6,
-    "en": "Their secret wedding day was Tybalt's last day.",
-    "ko": ""
-   },
-   {
-    "n": 7,
     "en": "His early death forced the new groom to leave this city.",
     "ko": ""
    },
    {
-    "n": 8,
+    "n": 5,
     "en": "Juliet grieved for him, not for Tybalt.",
     "ko": ""
    },
    {
-    "n": 9,
-    "en": "To cure her grief, you promised her to Count Paris.",
+    "n": 6,
+    "en": "To cure her grief, you promised her to Count Paris and would have forced her to marry him.",
     "ko": ""
    },
    {
-    "n": 10,
-    "en": "You would have forced her to marry him.",
+    "n": 7,
+    "en": "Then she came to me with a wild look, asking me to find a way to stop this second marriage.",
     "ko": ""
    },
    {
-    "n": 11,
-    "en": "Then she came to me.",
-    "ko": ""
-   },
-   {
-    "n": 12,
-    "en": "With a wild look, she asked me to find a way to stop this second marriage.",
-    "ko": ""
-   },
-   {
-    "n": 13,
+    "n": 8,
     "en": "She said she would kill herself in my cell if I did not help.",
     "ko": ""
    },
    {
+    "n": 9,
+    "en": "Then, using my knowledge of plants, I gave her a sleeping potion that worked exactly as I planned.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "It made her look like death while I wrote to Romeo.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "I told him to come here tonight to take her from her borrowed grave when the potion's power ended.",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "But Friar John, who carried my letter, was stopped by an accident and returned it last night.",
+    "ko": ""
+   },
+   {
+    "n": 13,
+    "en": "Then I came alone at the planned time to take her from her family's vault.",
+    "ko": ""
+   },
+   {
     "n": 14,
-    "en": "Then, using my knowledge of plants, I gave her a sleeping potion.",
-    "ko": ""
-   },
-   {
-    "n": 15,
-    "en": "It worked exactly as I planned.",
-    "ko": ""
-   },
-   {
-    "n": 16,
-    "en": "It made her look like death.",
-    "ko": ""
-   },
-   {
-    "n": 17,
-    "en": "Meanwhile, I wrote to Romeo.",
-    "ko": ""
-   },
-   {
-    "n": 18,
-    "en": "I told him to come here tonight.",
-    "ko": ""
-   },
-   {
-    "n": 19,
-    "en": "He was to take her from her borrowed grave.",
-    "ko": ""
-   },
-   {
-    "n": 20,
-    "en": "He was to arrive when the potion's power ended.",
-    "ko": ""
-   },
-   {
-    "n": 21,
-    "en": "But Friar John, who carried my letter, was stopped by an accident.",
-    "ko": ""
-   },
-   {
-    "n": 22,
-    "en": "He returned my letter last night.",
-    "ko": ""
-   },
-   {
-    "n": 23,
-    "en": "Then I came alone at the planned time.",
-    "ko": ""
-   },
-   {
-    "n": 24,
-    "en": "I came to take her from her family's vault.",
-    "ko": ""
-   },
-   {
-    "n": 25,
     "en": "I planned to keep her in my cell until I could send word to Romeo.",
     "ko": ""
    },
    {
-    "n": 26,
-    "en": "But when I arrived, just before she woke up, the noble Paris and true Romeo lay here dead.",
+    "n": 15,
+    "en": "But when I arrived just before she woke up, the noble Paris and true Romeo lay here dead.",
     "ko": ""
    },
    {
-    "n": 27,
-    "en": "She woke.",
+    "n": 16,
+    "en": "She woke, and I asked her to come out and accept this act of heaven with patience.",
     "ko": ""
    },
    {
-    "n": 28,
-    "en": "I asked her to come out.",
+    "n": 17,
+    "en": "But then a noise scared me away from the tomb, and she was too desperate to go with me.",
     "ko": ""
    },
    {
-    "n": 29,
-    "en": "I told her to accept this act of heaven with patience.",
+    "n": 18,
+    "en": "It seems she killed herself.",
     "ko": ""
    },
    {
-    "n": 30,
-    "en": "But then a noise scared me away from the tomb.",
+    "n": 19,
+    "en": "That is all I know.",
     "ko": ""
    },
    {
-    "n": 31,
-    "en": "She was desperate and would not go with me.",
-    "ko": ""
-   },
-   {
-    "n": 32,
-    "en": "It seems she hurt herself.",
-    "ko": ""
-   },
-   {
-    "n": 33,
-    "en": "I know all of this.",
-    "ko": ""
-   },
-   {
-    "n": 34,
+    "n": 20,
     "en": "Her Nurse knows about the marriage.",
     "ko": ""
    },
    {
-    "n": 35,
+    "n": 21,
     "en": "If anything went wrong because of my fault, let my old life be sacrificed to the harshest law.",
     "ko": ""
    },
    {
-    "n": 36,
+    "n": 22,
     "en": "Let it happen sooner than its time.",
     "ko": ""
    }

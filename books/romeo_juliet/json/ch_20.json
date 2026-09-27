@@ -84,32 +84,17 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Come, stir, stir, stir!",
+    "en": "Come, stir, stir, stir, because the second rooster has crowed!",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "The second rooster has crowed.",
+    "en": "The curfew bell has rung and it is three o'clock.",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "The curfew bell has rung.",
-    "ko": ""
-   },
-   {
-    "n": 4,
-    "en": "It is three o'clock.",
-    "ko": ""
-   },
-   {
-    "n": 5,
-    "en": "Check on the baked meats, Angelica.",
-    "ko": ""
-   },
-   {
-    "n": 6,
-    "en": "Do not worry about the cost.",
+    "en": "Check on the baked meats, Angelica, and do not worry about the cost.",
     "ko": ""
    }
   ]
@@ -504,37 +489,22 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Go wake Juliet.",
+    "en": "Go wake Juliet and help her get ready.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "Go and help her get ready.",
+    "en": "I will go and talk with Paris while you move fast.",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "I will go and talk with Paris.",
+    "en": "Move fast; the groom has already arrived.",
     "ko": ""
    },
    {
     "n": 4,
-    "en": "Hurry, move fast.",
-    "ko": ""
-   },
-   {
-    "n": 5,
-    "en": "Move fast.",
-    "ko": ""
-   },
-   {
-    "n": 6,
-    "en": "The groom has already arrived.",
-    "ko": ""
-   },
-   {
-    "n": 7,
-    "en": "I say, hurry.",
+    "en": "I say, hurry!",
     "ko": ""
    }
   ]

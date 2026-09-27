@@ -1214,27 +1214,17 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Get clubs and spears!",
+    "en": "Get clubs and spears and strike!",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "Strike!",
-    "ko": ""
-   },
-   {
-    "n": 3,
     "en": "Beat them down!",
     "ko": ""
    },
    {
-    "n": 4,
-    "en": "Down with the Capulets!",
-    "ko": ""
-   },
-   {
-    "n": 5,
-    "en": "Down with the Montagues!",
+    "n": 3,
+    "en": "Down with the Capulets and down with the Montagues!",
     "ko": ""
    }
   ]
@@ -1367,17 +1357,7 @@
   "sentences": [
    {
     "n": 1,
-    "en": "You villain Capulet!",
-    "ko": ""
-   },
-   {
-    "n": 2,
-    "en": "Do not hold me.",
-    "ko": ""
-   },
-   {
-    "n": 3,
-    "en": "Let me go.",
+    "en": "You villain Capulet, do not hold me and let me go.",
     "ko": ""
    }
   ]
@@ -1552,12 +1532,7 @@
    },
    {
     "n": 2,
-    "en": "Speak, nephew.",
-    "ko": ""
-   },
-   {
-    "n": 3,
-    "en": "Were you here when it began?",
+    "en": "Speak, nephew; were you here when it began?",
     "ko": ""
    }
   ]
@@ -1851,36 +1826,31 @@
    },
    {
     "n": 3,
-    "en": "He is very private to himself.",
+    "en": "He is very private to himself, and I will not say how true it is.",
     "ko": ""
    },
    {
     "n": 4,
-    "en": "I will not say how true it is.",
+    "en": "He is so secret and so close to himself.",
     "ko": ""
    },
    {
     "n": 5,
-    "en": "But he is so secret and so close to himself.",
-    "ko": ""
-   },
-   {
-    "n": 6,
     "en": "He is far from sharing his thoughts or being discovered.",
     "ko": ""
    },
    {
-    "n": 7,
+    "n": 6,
     "en": "He is like a bud bitten by an envious worm before it can open its sweet leaves to the air.",
     "ko": ""
    },
    {
-    "n": 8,
+    "n": 7,
     "en": "Or show its beauty to the sun.",
     "ko": ""
    },
    {
-    "n": 9,
+    "n": 8,
     "en": "If we could learn why he is sad, we would cure him as gladly as we would learn the cause.",
     "ko": ""
    }
@@ -2212,81 +2182,76 @@
    },
    {
     "n": 6,
-    "en": "There is much to do with hate.",
+    "en": "There is much to do with hate, but there is even more to do with love.",
     "ko": ""
    },
    {
     "n": 7,
-    "en": "But there is even more to do with love.",
-    "ko": ""
-   },
-   {
-    "n": 8,
     "en": "Why, then, oh fighting love!",
     "ko": ""
    },
    {
-    "n": 9,
+    "n": 8,
     "en": "Oh loving hate!",
     "ko": ""
    },
    {
-    "n": 10,
+    "n": 9,
     "en": "Oh anything created from nothing!",
     "ko": ""
    },
    {
-    "n": 11,
+    "n": 10,
     "en": "Oh heavy lightness!",
     "ko": ""
    },
    {
-    "n": 12,
+    "n": 11,
     "en": "Serious vanity!",
     "ko": ""
    },
    {
-    "n": 13,
+    "n": 12,
     "en": "A misshapen chaos of beautiful forms!",
     "ko": ""
    },
    {
-    "n": 14,
+    "n": 13,
     "en": "A feather of lead.",
     "ko": ""
    },
    {
-    "n": 15,
+    "n": 14,
     "en": "Bright smoke.",
     "ko": ""
    },
    {
-    "n": 16,
+    "n": 15,
     "en": "Cold fire.",
     "ko": ""
    },
    {
-    "n": 17,
+    "n": 16,
     "en": "Sick health!",
     "ko": ""
    },
    {
-    "n": 18,
+    "n": 17,
     "en": "A sleep that stays awake.",
     "ko": ""
    },
    {
-    "n": 19,
+    "n": 18,
     "en": "It is not what it seems!",
     "ko": ""
    },
    {
-    "n": 20,
+    "n": 19,
     "en": "I feel this love, but I feel no love in this.",
     "ko": ""
    },
    {
-    "n": 21,
+    "n": 20,
     "en": "Do you not laugh?",
     "ko": ""
    }
@@ -2404,16 +2369,11 @@
    },
    {
     "n": 10,
-    "en": "It is a bitter poison.",
+    "en": "It is a bitter poison and a preserving sweetness.",
     "ko": ""
    },
    {
     "n": 11,
-    "en": "And it is a preserving sweetness.",
-    "ko": ""
-   },
-   {
-    "n": 12,
     "en": "Goodbye, my friend.",
     "ko": ""
    }
@@ -2478,27 +2438,12 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Tut!",
+    "en": "Tut! I have lost myself and I am not here.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "I have lost myself.",
-    "ko": ""
-   },
-   {
-    "n": 3,
-    "en": "I am not here.",
-    "ko": ""
-   },
-   {
-    "n": 4,
-    "en": "This is not Romeo.",
-    "ko": ""
-   },
-   {
-    "n": 5,
-    "en": "He is somewhere else.",
+    "en": "This is not Romeo, he is somewhere else.",
     "ko": ""
    }
   ]
@@ -2657,51 +2602,36 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Actually, you missed that point.",
+    "en": "Actually, you missed that point because she will not be hit by Cupid's arrow.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "She will not be hit by Cupid's arrow.",
-    "ko": ""
-   },
-   {
-    "n": 3,
     "en": "She thinks like Diana, the goddess who never falls in love.",
     "ko": ""
    },
    {
+    "n": 3,
+    "en": "She is well protected to keep her purity and is not affected by the weak arrows of love.",
+    "ko": ""
+   },
+   {
     "n": 4,
-    "en": "She is well protected to keep her purity.",
+    "en": "She will not give in to romantic words or look at men who stare at her with desire.",
     "ko": ""
    },
    {
     "n": 5,
-    "en": "She is not affected by the weak arrows of love.",
-    "ko": ""
-   },
-   {
-    "n": 6,
-    "en": "She will not give in to romantic words.",
-    "ko": ""
-   },
-   {
-    "n": 7,
-    "en": "She will not look at men who stare at her with desire.",
-    "ko": ""
-   },
-   {
-    "n": 8,
     "en": "She will not give herself to a man's gold.",
     "ko": ""
    },
    {
-    "n": 9,
+    "n": 6,
     "en": "She is very rich in beauty.",
     "ko": ""
    },
    {
-    "n": 10,
+    "n": 7,
     "en": "However, she is poor because her beauty will disappear when she dies.",
     "ko": ""
    }

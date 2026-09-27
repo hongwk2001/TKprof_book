@@ -395,41 +395,21 @@
   "sentences": [
    {
     "n": 1,
-    "en": "I am glad about this.",
+    "en": "I am glad about this and it is good.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "This is good.",
+    "en": "Stand up. This is how it should be.",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "Stand up.",
+    "en": "Let me see the Count, so go and fetch him here.",
     "ko": ""
    },
    {
     "n": 4,
-    "en": "This is how it should be.",
-    "ko": ""
-   },
-   {
-    "n": 5,
-    "en": "Let me see the Count.",
-    "ko": ""
-   },
-   {
-    "n": 6,
-    "en": "Yes, yes.",
-    "ko": ""
-   },
-   {
-    "n": 7,
-    "en": "Go and fetch him here.",
-    "ko": ""
-   },
-   {
-    "n": 8,
     "en": "Before God, our whole city owes much to this holy Friar.",
     "ko": ""
    }
@@ -557,51 +537,36 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Nonsense, I will take care of things.",
+    "en": "Nonsense, I will take care of things and everything will be fine, I promise you, wife.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "Everything will be fine, I promise you, wife.",
-    "ko": ""
-   },
-   {
-    "n": 3,
     "en": "Go to Juliet and help her get dressed.",
     "ko": ""
    },
    {
+    "n": 3,
+    "en": "I will not go to bed tonight, so leave me alone.",
+    "ko": ""
+   },
+   {
     "n": 4,
-    "en": "I will not go to bed tonight.",
-    "ko": ""
-   },
-   {
-    "n": 5,
-    "en": "Leave me alone.",
-    "ko": ""
-   },
-   {
-    "n": 6,
     "en": "I will do the housework just this once.",
     "ko": ""
    },
    {
-    "n": 7,
-    "en": "They are all out.",
+    "n": 5,
+    "en": "They are all out, so I will walk to Count Paris myself.",
     "ko": ""
    },
    {
-    "n": 8,
-    "en": "Well, I will walk to Count Paris myself.",
-    "ko": ""
-   },
-   {
-    "n": 9,
+    "n": 6,
     "en": "I will prepare him for tomorrow.",
     "ko": ""
    },
    {
-    "n": 10,
+    "n": 7,
     "en": "My heart is light because this stubborn girl has changed her ways.",
     "ko": ""
    }

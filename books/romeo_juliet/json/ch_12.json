@@ -355,22 +355,12 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Follow me closely.",
+    "en": "Follow me closely because I will speak to them.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "I will speak to them.",
-    "ko": ""
-   },
-   {
-    "n": 3,
-    "en": "Good evening, gentlemen.",
-    "ko": ""
-   },
-   {
-    "n": 4,
-    "en": "I want a word with one of you.",
+    "en": "Good evening, gentlemen; I want a word with one of you.",
     "ko": ""
    }
   ]
@@ -964,32 +954,22 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Draw, Benvolio.",
+    "en": "Draw, Benvolio, and beat down their weapons.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "Beat down their weapons.",
+    "en": "Gentlemen, stop this violence for shame!",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "Gentlemen, stop this violence for shame.",
-    "ko": ""
-   },
-   {
-    "n": 4,
     "en": "Tybalt, Mercutio, the Prince has strictly forbidden fighting in the streets of Verona.",
     "ko": ""
    },
    {
-    "n": 5,
-    "en": "Stop, Tybalt!",
-    "ko": ""
-   },
-   {
-    "n": 6,
-    "en": "Good Mercutio!",
+    "n": 4,
+    "en": "Stop, Tybalt! Good Mercutio!",
     "ko": ""
    }
   ]
@@ -1025,22 +1005,12 @@
   "sentences": [
    {
     "n": 1,
-    "en": "I am hurt.",
+    "en": "I am hurt. A plague on both your houses.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "A plague on both your houses.",
-    "ko": ""
-   },
-   {
-    "n": 3,
-    "en": "I am dying.",
-    "ko": ""
-   },
-   {
-    "n": 4,
-    "en": "Is he gone without a scratch?",
+    "en": "I am dying. Is he gone without a scratch?",
     "ko": ""
    }
   ]
@@ -1076,22 +1046,12 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Yes, yes, it is just a scratch.",
+    "en": "Yes, yes, it is just a scratch; it is enough.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "It is enough.",
-    "ko": ""
-   },
-   {
-    "n": 3,
-    "en": "Where is my servant?",
-    "ko": ""
-   },
-   {
-    "n": 4,
-    "en": "Go, boy, and get a doctor.",
+    "en": "Where is my servant? Go, boy, and get a doctor.",
     "ko": ""
    }
   ]
@@ -1144,67 +1104,37 @@
   "sentences": [
    {
     "n": 1,
-    "en": "No, it is not as deep as a well.",
+    "en": "No, it is not as deep as a well or as wide as a church door.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "It is not as wide as a church door.",
+    "en": "But it is enough; it will do.",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "But it is enough.",
+    "en": "Ask for me tomorrow, and you will find me a grave man lying in my grave.",
     "ko": ""
    },
    {
     "n": 4,
-    "en": "It will do.",
+    "en": "I am finished in this world, I promise. A plague on both your houses.",
     "ko": ""
    },
    {
     "n": 5,
-    "en": "Ask for me tomorrow.",
+    "en": "To think a dog, a rat, a mouse, or a cat could scratch a man to death!",
     "ko": ""
    },
    {
     "n": 6,
-    "en": "You will find me a grave man, lying in my grave.",
+    "en": "He is a braggart and a rogue; he is a villain who fights by a math textbook!",
     "ko": ""
    },
    {
     "n": 7,
-    "en": "I am finished in this world, I promise.",
-    "ko": ""
-   },
-   {
-    "n": 8,
-    "en": "A plague on both your houses.",
-    "ko": ""
-   },
-   {
-    "n": 9,
-    "en": "To think a dog, a rat, a mouse, a cat could scratch a man to death!",
-    "ko": ""
-   },
-   {
-    "n": 10,
-    "en": "He is a braggart and a rogue.",
-    "ko": ""
-   },
-   {
-    "n": 11,
-    "en": "He is a villain who fights by a math textbook!",
-    "ko": ""
-   },
-   {
-    "n": 12,
-    "en": "Why did you come between us?",
-    "ko": ""
-   },
-   {
-    "n": 13,
-    "en": "I was hurt under your arm.",
+    "en": "Why did you come between us? I was hurt under your arm.",
     "ko": ""
    }
   ]
@@ -1240,31 +1170,26 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Help me into a house, Benvolio.",
+    "en": "Help me into a house, Benvolio, or I will faint.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "Or I will faint.",
+    "en": "A plague on both your houses!",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "A plague on both your houses.",
-    "ko": ""
-   },
-   {
-    "n": 4,
     "en": "They have made me food for worms.",
     "ko": ""
    },
    {
-    "n": 5,
+    "n": 4,
     "en": "I have got it, and badly too.",
     "ko": ""
    },
    {
-    "n": 6,
+    "n": 5,
     "en": "Your houses!",
     "ko": ""
    }
@@ -1553,31 +1478,21 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Romeo, go away!",
+    "en": "Romeo, go away! The citizens are up in arms.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "The citizens are up in arms.",
+    "en": "Tybalt is killed, so do not stand there in shock.",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "Tybalt is killed.",
-    "ko": ""
-   },
-   {
-    "n": 4,
-    "en": "Do not stand there in shock.",
-    "ko": ""
-   },
-   {
-    "n": 5,
     "en": "The Prince will sentence you to death if he catches you.",
     "ko": ""
    },
    {
-    "n": 6,
+    "n": 4,
     "en": "Go away now!",
     "ko": ""
    }
@@ -1805,31 +1720,21 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Tybalt, my nephew!",
+    "en": "Tybalt, my nephew! He is my brother's child!",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "He is my brother's child!",
+    "en": "O Prince! O husband! The blood of my dear relative is spilled!",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "O Prince! O husband!",
-    "ko": ""
-   },
-   {
-    "n": 4,
-    "en": "The blood of my dear relative is spilled!",
-    "ko": ""
-   },
-   {
-    "n": 5,
     "en": "Prince, if you are fair, shed Montague blood for ours.",
     "ko": ""
    },
    {
-    "n": 6,
+    "n": 4,
     "en": "O cousin, cousin.",
     "ko": ""
    }
@@ -1866,142 +1771,77 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Tybalt is lying here.",
+    "en": "Tybalt is lying here, and Romeo's hand killed him.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "Romeo's hand killed him.",
+    "en": "Romeo spoke to him nicely and told Tybalt how bad the fight was.",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "Romeo spoke to him nicely.",
+    "en": "He warned him about your anger with a gentle voice and a calm look.",
     "ko": ""
    },
    {
     "n": 4,
-    "en": "He told Tybalt how bad the fight was.",
+    "en": "He even bowed humbly, but Tybalt did not listen to peace.",
     "ko": ""
    },
    {
     "n": 5,
-    "en": "He warned him about your anger.",
+    "en": "Tybalt had an angry temper and attacked Mercutio's chest with a sharp sword.",
     "ko": ""
    },
    {
     "n": 6,
-    "en": "Romeo said this with a gentle voice and a calm look.",
+    "en": "Mercutio was also very angry, so he fought back with his sword.",
     "ko": ""
    },
    {
     "n": 7,
-    "en": "He even bowed humbly.",
+    "en": "He pushed death away with one hand and sent the attack back to Tybalt with the other.",
     "ko": ""
    },
    {
     "n": 8,
-    "en": "But Tybalt did not listen to peace.",
+    "en": "Tybalt blocked the move skillfully while Romeo shouted, 'Stop, friends! Friends, break it up!'",
     "ko": ""
    },
    {
     "n": 9,
-    "en": "Tybalt had an angry temper.",
+    "en": "His arm moved faster than his words as he pushed their swords down.",
     "ko": ""
    },
    {
     "n": 10,
-    "en": "He attacked Mercutio's chest with a sharp sword.",
+    "en": "He ran between them, but under his arm, a sneaky thrust from Tybalt struck brave Mercutio.",
     "ko": ""
    },
    {
     "n": 11,
-    "en": "Mercutio was also very angry.",
+    "en": "Then Tybalt ran away, but in a moment, he came back to Romeo.",
     "ko": ""
    },
    {
     "n": 12,
-    "en": "He fought back with his sword.",
+    "en": "Romeo had just started to seek revenge, and they fought like lightning.",
     "ko": ""
    },
    {
     "n": 13,
-    "en": "He pushed death away with one hand.",
-    "ko": ""
-   },
-   {
-    "n": 14,
-    "en": "He sent the attack back to Tybalt with the other hand.",
-    "ko": ""
-   },
-   {
-    "n": 15,
-    "en": "Tybalt blocked the move skillfully.",
-    "ko": ""
-   },
-   {
-    "n": 16,
-    "en": "Romeo shouted, 'Stop, friends! Friends, break it up!'",
-    "ko": ""
-   },
-   {
-    "n": 17,
-    "en": "His arm moved faster than his words.",
-    "ko": ""
-   },
-   {
-    "n": 18,
-    "en": "He pushed their swords down.",
-    "ko": ""
-   },
-   {
-    "n": 19,
-    "en": "He ran between them.",
-    "ko": ""
-   },
-   {
-    "n": 20,
-    "en": "Under Romeo's arm, a sneaky thrust from Tybalt struck brave Mercutio.",
-    "ko": ""
-   },
-   {
-    "n": 21,
-    "en": "Then Tybalt ran away.",
-    "ko": ""
-   },
-   {
-    "n": 22,
-    "en": "But in a moment, Tybalt came back to Romeo.",
-    "ko": ""
-   },
-   {
-    "n": 23,
-    "en": "Romeo had just started to seek revenge.",
-    "ko": ""
-   },
-   {
-    "n": 24,
-    "en": "They fought like lightning.",
-    "ko": ""
-   },
-   {
-    "n": 25,
     "en": "Before I could move to separate them, Tybalt was killed.",
     "ko": ""
    },
    {
-    "n": 26,
+    "n": 14,
     "en": "As he fell, Romeo turned and ran away.",
     "ko": ""
    },
    {
-    "n": 27,
-    "en": "This is the truth.",
-    "ko": ""
-   },
-   {
-    "n": 28,
-    "en": "If it is not true, let me die.",
+    "n": 15,
+    "en": "This is the truth; if it is not true, let me die.",
     "ko": ""
    }
   ]
@@ -2024,42 +1864,22 @@
    },
    {
     "n": 2,
-    "en": "Love makes him dishonest.",
+    "en": "Love makes him dishonest, so he does not speak the truth.",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "He does not speak the truth.",
+    "en": "About twenty people fought in this terrible fight, but they could only kill one person.",
     "ko": ""
    },
    {
     "n": 4,
-    "en": "About twenty people fought in this terrible fight.",
+    "en": "I ask for justice, which you must give, Prince.",
     "ko": ""
    },
    {
     "n": 5,
-    "en": "All those twenty people could only kill one person.",
-    "ko": ""
-   },
-   {
-    "n": 6,
-    "en": "I ask for justice.",
-    "ko": ""
-   },
-   {
-    "n": 7,
-    "en": "You must give justice, Prince.",
-    "ko": ""
-   },
-   {
-    "n": 8,
-    "en": "Romeo killed Tybalt.",
-    "ko": ""
-   },
-   {
-    "n": 9,
-    "en": "Romeo must not live.",
+    "en": "Romeo killed Tybalt, so Romeo must not live.",
     "ko": ""
    }
   ]

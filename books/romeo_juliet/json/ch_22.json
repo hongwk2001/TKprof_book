@@ -121,27 +121,12 @@
    },
    {
     "n": 4,
-    "en": "How is my lady?",
+    "en": "How is my lady and is my father well?",
     "ko": ""
    },
    {
     "n": 5,
-    "en": "Is my father well?",
-    "ko": ""
-   },
-   {
-    "n": 6,
-    "en": "How is my Juliet?",
-    "ko": ""
-   },
-   {
-    "n": 7,
-    "en": "I ask again.",
-    "ko": ""
-   },
-   {
-    "n": 8,
-    "en": "Nothing can be bad if she is well.",
+    "en": "How is my Juliet? I ask again because nothing can be bad if she is well.",
     "ko": ""
    }
   ]
@@ -207,32 +192,17 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Is it really so?",
+    "en": "Is it really so? Then I defy the stars!",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "Then I defy the stars!",
+    "en": "You know where I am staying, so get me ink and paper.",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "You know where I am staying.",
-    "ko": ""
-   },
-   {
-    "n": 4,
-    "en": "Get me ink and paper.",
-    "ko": ""
-   },
-   {
-    "n": 5,
-    "en": "And hire fast horses.",
-    "ko": ""
-   },
-   {
-    "n": 6,
-    "en": "I will leave from here tonight.",
+    "en": "Hire fast horses because I will leave from here tonight.",
     "ko": ""
    }
   ]
@@ -329,21 +299,11 @@
   "sentences": [
    {
     "n": 1,
-    "en": "It does not matter.",
+    "en": "It does not matter. Go away now and hire those horses.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "Go away now.",
-    "ko": ""
-   },
-   {
-    "n": 3,
-    "en": "And hire those horses.",
-    "ko": ""
-   },
-   {
-    "n": 4,
     "en": "I will be with you immediately.",
     "ko": ""
    }
@@ -527,41 +487,26 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Come here, man.",
+    "en": "Come here, man. I see that you are poor.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "I see that you are poor.",
-    "ko": ""
-   },
-   {
-    "n": 3,
     "en": "Wait, here are forty ducats.",
     "ko": ""
    },
    {
+    "n": 3,
+    "en": "Give me a small amount of poison that must work quickly.",
+    "ko": ""
+   },
+   {
     "n": 4,
-    "en": "Give me a small amount of poison.",
+    "en": "It must spread through all the veins so the person who takes it falls dead immediately.",
     "ko": ""
    },
    {
     "n": 5,
-    "en": "It must work quickly.",
-    "ko": ""
-   },
-   {
-    "n": 6,
-    "en": "It must spread through all the veins.",
-    "ko": ""
-   },
-   {
-    "n": 7,
-    "en": "The person who takes it should fall dead immediately.",
-    "ko": ""
-   },
-   {
-    "n": 8,
     "en": "It must empty the body of breath as violently as gunpowder bursts out of a cannon.",
     "ko": ""
    }
@@ -715,57 +660,32 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Here is your gold.",
+    "en": "Here is your gold, which is a worse poison to people's souls.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "This gold is a worse poison to people's souls.",
+    "en": "It causes more death in this hateful world than these poor mixtures that you are not allowed to sell.",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "It causes more death in this hateful world.",
+    "en": "I am selling you poison, but you have sold me none.",
     "ko": ""
    },
    {
     "n": 4,
-    "en": "It kills more than these poor mixtures that you are not allowed to sell.",
+    "en": "Goodbye. Buy some food and make yourself healthy.",
     "ko": ""
    },
    {
     "n": 5,
-    "en": "I am selling you poison.",
-    "ko": ""
-   },
-   {
-    "n": 6,
-    "en": "You have sold me none.",
-    "ko": ""
-   },
-   {
-    "n": 7,
-    "en": "Goodbye.",
-    "ko": ""
-   },
-   {
-    "n": 8,
-    "en": "Buy some food and make yourself healthy.",
-    "ko": ""
-   },
-   {
-    "n": 9,
     "en": "Come, you are a medicine, not a poison.",
     "ko": ""
    },
    {
-    "n": 10,
-    "en": "Go with me to Juliet's grave.",
-    "ko": ""
-   },
-   {
-    "n": 11,
-    "en": "I must use it there.",
+    "n": 6,
+    "en": "Go with me to Juliet's grave because I must use it there.",
     "ko": ""
    }
   ]

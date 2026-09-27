@@ -98,31 +98,26 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Take away the small stools.",
+    "en": "Take away the small stools and move the sideboard.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "Move the sideboard.",
-    "ko": ""
-   },
-   {
-    "n": 3,
     "en": "Watch the plates.",
     "ko": ""
    },
    {
-    "n": 4,
-    "en": "Please, save a piece of marzipan for me.",
+    "n": 3,
+    "en": "Please save a piece of marzipan for me.",
     "ko": ""
    },
    {
-    "n": 5,
+    "n": 4,
     "en": "If you love me, tell the doorkeeper to let in Susan Grindstone and Nell.",
     "ko": ""
    },
    {
-    "n": 6,
+    "n": 5,
     "en": "Antony and Potpan!",
     "ko": ""
    }
@@ -285,46 +280,31 @@
    },
    {
     "n": 7,
-    "en": "I remember the day I wore a mask.",
+    "en": "I remember the day I wore a mask and could whisper a pleasant story into a beautiful lady's ear.",
     "ko": ""
    },
    {
     "n": 8,
-    "en": "I could whisper a pleasant story into a beautiful lady's ear.",
+    "en": "That time is gone, it is gone, it is gone.",
     "ko": ""
    },
    {
     "n": 9,
-    "en": "That time is gone.",
-    "ko": ""
-   },
-   {
-    "n": 10,
-    "en": "It is gone.",
-    "ko": ""
-   },
-   {
-    "n": 11,
-    "en": "It is gone.",
-    "ko": ""
-   },
-   {
-    "n": 12,
     "en": "You are welcome, gentlemen!",
     "ko": ""
    },
    {
-    "n": 13,
+    "n": 10,
     "en": "Come, musicians, play.",
     "ko": ""
    },
    {
-    "n": 14,
-    "en": "Clear the hall, clear the hall, give us room!",
+    "n": 11,
+    "en": "Clear the hall and give us room!",
     "ko": ""
    },
    {
-    "n": 15,
+    "n": 12,
     "en": "Dance now, girls.",
     "ko": ""
    }
@@ -460,22 +440,12 @@
   "sentences": [
    {
     "n": 1,
-    "en": "It is more.",
+    "en": "It is more, it is more.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "It is more.",
-    "ko": ""
-   },
-   {
-    "n": 3,
-    "en": "His son is older, sir.",
-    "ko": ""
-   },
-   {
-    "n": 4,
-    "en": "His son is thirty.",
+    "en": "His son is older, sir, because his son is thirty.",
     "ko": ""
    }
   ]
@@ -765,62 +735,42 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Be calm, my dear relative.",
+    "en": "Be calm, my dear relative, and leave him alone.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "Leave him alone.",
-    "ko": ""
-   },
-   {
-    "n": 3,
     "en": "He behaves like a well-mannered gentleman.",
     "ko": ""
    },
    {
+    "n": 3,
+    "en": "To tell the truth, Verona praises him as a virtuous and well-behaved youth.",
+    "ko": ""
+   },
+   {
     "n": 4,
-    "en": "To tell the truth, Verona praises him.",
-    "ko": ""
-   },
-   {
-    "n": 5,
-    "en": "They say he is a virtuous and well-behaved youth.",
-    "ko": ""
-   },
-   {
-    "n": 6,
     "en": "I would not insult him in my house for all the wealth of the town.",
     "ko": ""
    },
    {
-    "n": 7,
-    "en": "Therefore be patient.",
+    "n": 5,
+    "en": "Therefore be patient and do not pay him any attention.",
     "ko": ""
    },
    {
-    "n": 8,
-    "en": "Do not pay him any attention.",
-    "ko": ""
-   },
-   {
-    "n": 9,
+    "n": 6,
     "en": "That is my wish.",
     "ko": ""
    },
    {
-    "n": 10,
+    "n": 7,
     "en": "If you follow my wish, show a pleasant face.",
     "ko": ""
    },
    {
-    "n": 11,
-    "en": "Stop making these faces.",
-    "ko": ""
-   },
-   {
-    "n": 12,
-    "en": "They do not look good for a feast.",
+    "n": 8,
+    "en": "Stop making these faces because they do not look good for a feast.",
     "ko": ""
    }
   ]
@@ -932,66 +882,36 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Enough, enough!",
+    "en": "Enough, enough! You are a rude boy.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "You are a rude boy.",
+    "en": "Is that so? This behavior might hurt you, I know it.",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "Is that so?",
+    "en": "You must disagree with me, but it is time you learned!",
     "ko": ""
    },
    {
     "n": 4,
-    "en": "This behavior might hurt you, I know it.",
+    "en": "Well said, my friends! You are a bold boy; go.",
     "ko": ""
    },
    {
     "n": 5,
-    "en": "You must disagree with me!",
+    "en": "Be quiet, or—More light, more light!",
     "ko": ""
    },
    {
     "n": 6,
-    "en": "Well, it is time you learned!",
+    "en": "Shame on you! I will make you quiet.",
     "ko": ""
    },
    {
     "n": 7,
-    "en": "Well said, my friends!",
-    "ko": ""
-   },
-   {
-    "n": 8,
-    "en": "You are a bold boy; go.",
-    "ko": ""
-   },
-   {
-    "n": 9,
-    "en": "Be quiet, or—",
-    "ko": ""
-   },
-   {
-    "n": 10,
-    "en": "More light, more light!",
-    "ko": ""
-   },
-   {
-    "n": 11,
-    "en": "Shame on you!",
-    "ko": ""
-   },
-   {
-    "n": 12,
-    "en": "I will make you quiet.",
-    "ko": ""
-   },
-   {
-    "n": 13,
     "en": "Cheer up, my friends!",
     "ko": ""
    }
@@ -1162,26 +1082,16 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Oh, then, dear saint.",
+    "en": "Oh, then, dear saint, let your lips do what hands do.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "Let your lips do what hands do.",
+    "en": "They pray, so please grant this.",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "They pray.",
-    "ko": ""
-   },
-   {
-    "n": 4,
-    "en": "Please grant this.",
-    "ko": ""
-   },
-   {
-    "n": 5,
     "en": "Otherwise faith will turn to despair.",
     "ko": ""
    }
@@ -1277,17 +1187,7 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Sin from my lips?",
-    "ko": ""
-   },
-   {
-    "n": 2,
-    "en": "Oh, this is a sweet trespass!",
-    "ko": ""
-   },
-   {
-    "n": 3,
-    "en": "Give me my sin again.",
+    "en": "Sin from my lips? Oh, this is a sweet trespass, so give me my sin again.",
     "ko": ""
    }
   ]
@@ -1476,52 +1376,27 @@
   "sentences": [
    {
     "n": 1,
-    "en": "No, gentlemen, do not get ready to leave.",
+    "en": "No, gentlemen, do not get ready to leave because we have a small and silly banquet ahead.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "We have a small and silly banquet ahead.",
+    "en": "Is it really so? Then I thank you all and I thank you, honest gentlemen.",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "Is it really so?",
+    "en": "Good night. Bring more torches here!",
     "ko": ""
    },
    {
     "n": 4,
-    "en": "Then I thank you all.",
-    "ko": ""
-   },
-   {
-    "n": 5,
-    "en": "I thank you, honest gentlemen.",
-    "ko": ""
-   },
-   {
-    "n": 6,
-    "en": "Good night.",
-    "ko": ""
-   },
-   {
-    "n": 7,
-    "en": "Bring more torches here!",
-    "ko": ""
-   },
-   {
-    "n": 8,
     "en": "Come on then, let us go to bed.",
     "ko": ""
    },
    {
-    "n": 9,
-    "en": "Ah, you there, by my faith, it is getting late.",
-    "ko": ""
-   },
-   {
-    "n": 10,
-    "en": "I will go to my rest.",
+    "n": 5,
+    "en": "Ah, you there, by my faith, it is getting late, so I will go to my rest.",
     "ko": ""
    }
   ]
@@ -1823,17 +1698,7 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Coming, coming!",
-    "ko": ""
-   },
-   {
-    "n": 2,
-    "en": "Come, let us go away.",
-    "ko": ""
-   },
-   {
-    "n": 3,
-    "en": "All the strangers are gone.",
+    "en": "Coming, coming! Come, let us go away because all the strangers are gone.",
     "ko": ""
    }
   ]

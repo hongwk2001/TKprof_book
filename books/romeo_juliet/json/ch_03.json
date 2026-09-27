@@ -69,17 +69,7 @@
    },
    {
     "n": 3,
-    "en": "God forbid!",
-    "ko": ""
-   },
-   {
-    "n": 4,
-    "en": "Where is this girl?",
-    "ko": ""
-   },
-   {
-    "n": 5,
-    "en": "Juliet!",
+    "en": "God forbid! Where is this girl? Juliet!",
     "ko": ""
    }
   ]
@@ -173,26 +163,21 @@
    },
    {
     "n": 2,
-    "en": "Nurse, leave us for a moment.",
+    "en": "Nurse, leave us for a moment because we must talk in secret.",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "We must talk in secret.",
-    "ko": ""
-   },
-   {
-    "n": 4,
     "en": "Nurse, come back again.",
     "ko": ""
    },
    {
-    "n": 5,
-    "en": "I have changed my mind: you should hear our private talk.",
+    "n": 4,
+    "en": "I have changed my mind and you should hear our private talk.",
     "ko": ""
    },
    {
-    "n": 6,
+    "n": 5,
     "en": "You know my daughter is getting quite grown up.",
     "ko": ""
    }
@@ -943,42 +928,32 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Madam, the guests have arrived.",
+    "en": "Madam, the guests have arrived and supper is served.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "Supper is served.",
-    "ko": ""
-   },
-   {
-    "n": 3,
     "en": "You called for me.",
     "ko": ""
    },
    {
-    "n": 4,
+    "n": 3,
     "en": "Everyone is asking for my young lady.",
     "ko": ""
    },
    {
-    "n": 5,
+    "n": 4,
     "en": "The Nurse was scolded in the pantry.",
     "ko": ""
    },
    {
-    "n": 6,
+    "n": 5,
     "en": "Everything is in a crazy rush.",
     "ko": ""
    },
    {
-    "n": 7,
-    "en": "I must leave now.",
-    "ko": ""
-   },
-   {
-    "n": 8,
-    "en": "Please follow me immediately.",
+    "n": 6,
+    "en": "I must leave now, so please follow me immediately.",
     "ko": ""
    }
   ]
