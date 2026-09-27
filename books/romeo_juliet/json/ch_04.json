@@ -1,0 +1,1094 @@
+[
+ {
+  "id": 193,
+  "tag": "P0193",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "header",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Act 1, Scene 4 — A Street",
+  "sentences": []
+ },
+ {
+  "id": 194,
+  "tag": "P0194",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Romeo, Mercutio, Benvolio, with five or six Maskers; Torch-bearers and others.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Romeo, Mercutio, and Benvolio enter.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "They are with five or six people in masks.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "There are also torch-bearers and others.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 195,
+  "tag": "P0195",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "What, shall this speech be spoke for our excuse?\nOr shall we on without apology?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Will we use this speech as our excuse?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Or should we just go on without an apology?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 196,
+  "tag": "P0196",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "The date is out of such prolixity:\nWe’ll have no Cupid hoodwink’d with a scarf,\nBearing a Tartar’s painted bow of lath,\nScaring the ladies like a crow-keeper;\nNor no without-book prologue, faintly spoke\nAfter the prompter, for our entrance:\nBut let them measure us by what they will,\nWe’ll measure them a measure, and be gone.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Such long speeches are out of fashion.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "We will not have a boy dressed as a blindfolded Cupid.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "He would carry a painted wooden bow.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "He would scare the ladies like a scarecrow.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "We do not need a prologue read softly after a prompter for our entrance.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Let them judge us however they want.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "We will dance one dance with them and then leave.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 197,
+  "tag": "P0197",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Give me a torch, I am not for this ambling;\nBeing but heavy I will bear the light.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Give me a torch.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I am not in the mood for dancing.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Since I am sad, I will carry the light.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 198,
+  "tag": "P0198",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Nay, gentle Romeo, we must have you dance.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "No, gentle Romeo, we must have you dance.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 199,
+  "tag": "P0199",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Not I, believe me, you have dancing shoes,\nWith nimble soles, I have a soul of lead\nSo stakes me to the ground I cannot move.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Believe me, I will not dance.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "You have dancing shoes with thin soles.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I have a soul of lead.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "It holds me to the ground so I cannot move.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 200,
+  "tag": "P0200",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "You are a lover, borrow Cupid’s wings,\nAnd soar with them above a common bound.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "You are a lover.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Borrow Cupid's wings.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Fly higher than ordinary men.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 201,
+  "tag": "P0201",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "I am too sore enpierced with his shaft\nTo soar with his light feathers, and so bound,\nI cannot bound a pitch above dull woe.\nUnder love’s heavy burden do I sink.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I am hurt too much by his arrow.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I cannot fly with his light feathers.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I am bound so tightly that I cannot jump above dull sadness.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "I sink under the heavy burden of love.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 202,
+  "tag": "P0202",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "And, to sink in it, should you burden love;\nToo great oppression for a tender thing.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "If you sink into love, you will be a heavy weight on it.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "It is too heavy a burden for such a delicate thing.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 203,
+  "tag": "P0203",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Is love a tender thing? It is too rough,\nToo rude, too boisterous; and it pricks like thorn.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Is love a delicate thing?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "No, it is too rough.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "It is too wild and loud.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "It pricks like a thorn.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 204,
+  "tag": "P0204",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "If love be rough with you, be rough with love;\nPrick love for pricking, and you beat love down.\nGive me a case to put my visage in:",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "If love is rough with you, be rough with love.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Prick love back for pricking you.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Beat love down.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Give me a mask to hide my face in.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 205,
+  "tag": "P0205",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Putting on a mask.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Mercutio puts on a mask.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 206,
+  "tag": "P0206",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "A visor for a visor. What care I\nWhat curious eye doth quote deformities?\nHere are the beetle-brows shall blush for me.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "A mask for a mask.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I do not care what eyes see my flaws.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "This mask with its big eyebrows will blush for me.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 207,
+  "tag": "P0207",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Come, knock and enter; and no sooner in\nBut every man betake him to his legs.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Come, knock and enter.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "As soon as we are inside, every man should start dancing.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 208,
+  "tag": "P0208",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "A torch for me: let wantons, light of heart,\nTickle the senseless rushes with their heels;\nFor I am proverb’d with a grandsire phrase,\nI’ll be a candle-holder and look on,\nThe game was ne’er so fair, and I am done.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Give me a torch.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Let the light-hearted people dance on the rushes on the floor.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I am following an old saying.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "I will be a candle-holder and watch.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "It is best to quit while the game is good, so I am done.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 209,
+  "tag": "P0209",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Tut, dun’s the mouse, the constable’s own word:\nIf thou art dun, we’ll draw thee from the mire\nOr save your reverence love, wherein thou stickest\nUp to the ears. Come, we burn daylight, ho.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Be quiet as a mouse, as the police say.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "If you are stuck, we will pull you from the mud.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Or, to be polite, we will pull you out of the love you are stuck in.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Come, we are wasting daylight.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 210,
+  "tag": "P0210",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Nay, that’s not so.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "No, that is not true.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 211,
+  "tag": "P0211",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "I mean sir, in delay\nWe waste our lights in vain, light lights by day.\nTake our good meaning, for our judgment sits\nFive times in that ere once in our five wits.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I mean, sir, we waste our energy by waiting.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "We are wasting our light in the daytime.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Take what I mean, not my word games.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Good sense is found more in what we mean than in our clever words.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 212,
+  "tag": "P0212",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "And we mean well in going to this mask;\nBut ’tis no wit to go.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "We mean well by going to this masked party.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "But it is not smart to go.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 213,
+  "tag": "P0213",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "Why, may one ask?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "May one ask why?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 214,
+  "tag": "P0214",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "I dreamt a dream tonight.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I had a dream tonight.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 215,
+  "tag": "P0215",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "And so did I.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "So did I.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 216,
+  "tag": "P0216",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Well what was yours?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Well, what was your dream?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 217,
+  "tag": "P0217",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "That dreamers often lie.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "That dreamers often lie.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 218,
+  "tag": "P0218",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "In bed asleep, while they do dream things true.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "They lie in bed asleep, while they dream true things.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 219,
+  "tag": "P0219",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "O, then, I see Queen Mab hath been with you.\nShe is the fairies’ midwife, and she comes\nIn shape no bigger than an agate-stone\nOn the fore-finger of an alderman,\nDrawn with a team of little atomies\nOver men’s noses as they lie asleep:\nHer waggon-spokes made of long spinners’ legs;\nThe cover, of the wings of grasshoppers;\nHer traces, of the smallest spider’s web;\nThe collars, of the moonshine’s watery beams;\nHer whip of cricket’s bone; the lash, of film;\nHer waggoner, a small grey-coated gnat,\nNot half so big as a round little worm\nPrick’d from the lazy finger of a maid:\nHer chariot is an empty hazelnut,\nMade by the joiner squirrel or old grub,\nTime out o’ mind the fairies’ coachmakers.\nAnd in this state she gallops night by night\nThrough lovers’ brains, and then they dream of love;\nO’er courtiers’ knees, that dream on curtsies straight;\nO’er lawyers’ fingers, who straight dream on fees;\nO’er ladies’ lips, who straight on kisses dream,\nWhich oft the angry Mab with blisters plagues,\nBecause their breaths with sweetmeats tainted are:\nSometime she gallops o’er a courtier’s nose,\nAnd then dreams he of smelling out a suit;\nAnd sometime comes she with a tithe-pig’s tail,\nTickling a parson’s nose as a lies asleep,\nThen dreams he of another benefice:\nSometime she driveth o’er a soldier’s neck,\nAnd then dreams he of cutting foreign throats,\nOf breaches, ambuscados, Spanish blades,\nOf healths five fathom deep; and then anon\nDrums in his ear, at which he starts and wakes;\nAnd, being thus frighted, swears a prayer or two,\nAnd sleeps again. This is that very Mab\nThat plats the manes of horses in the night;\nAnd bakes the elf-locks in foul sluttish hairs,\nWhich, once untangled, much misfortune bodes:\nThis is the hag, when maids lie on their backs,\nThat presses them, and learns them first to bear,\nMaking them women of good carriage:\nThis is she,—",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh, then I see Queen Mab has been with you.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "She is the midwife of the fairies.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "She is no bigger than the small stone in a ring on an old councilman's finger.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "She is pulled by a team of tiny creatures.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "They pull her over men's noses while they sleep.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Her wagon wheels are made of long spiders' legs.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "The cover is made of grasshopper wings.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Her reins are made of the smallest spider's web.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "The collars are made of moonbeams.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "Her whip is made of cricket bone.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "The lash is made of thin film.",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "Her driver is a small grey-coated gnat.",
+    "ko": ""
+   },
+   {
+    "n": 13,
+    "en": "He is not even as big as a round little worm.",
+    "ko": ""
+   },
+   {
+    "n": 14,
+    "en": "The worm was pricked from the lazy finger of an unmarried girl.",
+    "ko": ""
+   },
+   {
+    "n": 15,
+    "en": "Her chariot is an empty hazelnut.",
+    "ko": ""
+   },
+   {
+    "n": 16,
+    "en": "It was made by a squirrel or a bug.",
+    "ko": ""
+   },
+   {
+    "n": 17,
+    "en": "They have been the fairies' coachmakers since ancient times.",
+    "ko": ""
+   },
+   {
+    "n": 18,
+    "en": "In this state, she gallops night by night through lovers' brains.",
+    "ko": ""
+   },
+   {
+    "n": 19,
+    "en": "Then they dream of love.",
+    "ko": ""
+   },
+   {
+    "n": 20,
+    "en": "She rides over courtiers' knees.",
+    "ko": ""
+   },
+   {
+    "n": 21,
+    "en": "They dream of bowing to others.",
+    "ko": ""
+   },
+   {
+    "n": 22,
+    "en": "She rides over lawyers' fingers.",
+    "ko": ""
+   },
+   {
+    "n": 23,
+    "en": "They dream about their fees.",
+    "ko": ""
+   },
+   {
+    "n": 24,
+    "en": "She rides over ladies' lips.",
+    "ko": ""
+   },
+   {
+    "n": 25,
+    "en": "They dream of kisses.",
+    "ko": ""
+   },
+   {
+    "n": 26,
+    "en": "The angry Mab often punishes them with blisters.",
+    "ko": ""
+   },
+   {
+    "n": 27,
+    "en": "This is because their breath smells like sweets.",
+    "ko": ""
+   },
+   {
+    "n": 28,
+    "en": "Sometimes she gallops over a courtier's nose.",
+    "ko": ""
+   },
+   {
+    "n": 29,
+    "en": "Then he dreams of someone who will pay him for a favor.",
+    "ko": ""
+   },
+   {
+    "n": 30,
+    "en": "Sometimes she comes with a pig's tail.",
+    "ko": ""
+   },
+   {
+    "n": 31,
+    "en": "She tickles a priest's nose while he sleeps.",
+    "ko": ""
+   },
+   {
+    "n": 32,
+    "en": "Then he dreams of another church job with more pay.",
+    "ko": ""
+   },
+   {
+    "n": 33,
+    "en": "Sometimes she rides over a soldier's neck.",
+    "ko": ""
+   },
+   {
+    "n": 34,
+    "en": "Then he dreams of cutting foreign throats.",
+    "ko": ""
+   },
+   {
+    "n": 35,
+    "en": "He dreams of battles and Spanish blades.",
+    "ko": ""
+   },
+   {
+    "n": 36,
+    "en": "He dreams of drinking huge toasts.",
+    "ko": ""
+   },
+   {
+    "n": 37,
+    "en": "Then suddenly drums sound in his ear.",
+    "ko": ""
+   },
+   {
+    "n": 38,
+    "en": "He starts and wakes up.",
+    "ko": ""
+   },
+   {
+    "n": 39,
+    "en": "Because he is scared, he says a prayer or two.",
+    "ko": ""
+   },
+   {
+    "n": 40,
+    "en": "Then he falls asleep again.",
+    "ko": ""
+   },
+   {
+    "n": 41,
+    "en": "This is the same Mab who braids horse hair at night.",
+    "ko": ""
+   },
+   {
+    "n": 42,
+    "en": "She tangles dirty hair into knots called elf-locks.",
+    "ko": ""
+   },
+   {
+    "n": 43,
+    "en": "If that hair is untangled, it means bad luck.",
+    "ko": ""
+   },
+   {
+    "n": 44,
+    "en": "This is the hag who visits unmarried girls while they lie on their backs.",
+    "ko": ""
+   },
+   {
+    "n": 45,
+    "en": "She presses down on them and teaches them to bear a man's weight.",
+    "ko": ""
+   },
+   {
+    "n": 46,
+    "en": "That makes them women who will carry children well.",
+    "ko": ""
+   },
+   {
+    "n": 47,
+    "en": "This is she—",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 220,
+  "tag": "P0220",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Peace, peace, Mercutio, peace,\nThou talk’st of nothing.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Peace, peace, Mercutio, peace.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "You are talking about nothing.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 221,
+  "tag": "P0221",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "MERCUTIO",
+  "delivery": null,
+  "raw": "True, I talk of dreams,\nWhich are the children of an idle brain,\nBegot of nothing but vain fantasy,\nWhich is as thin of substance as the air,\nAnd more inconstant than the wind, who woos\nEven now the frozen bosom of the north,\nAnd, being anger’d, puffs away from thence,\nTurning his side to the dew-dropping south.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "True, I talk of dreams.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Dreams are the children of an idle brain.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "They come from nothing but useless fantasy.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Fantasy is as thin as the air.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "It is more unstable than the wind.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "The wind tries to kiss the frozen heart of the north.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Then, getting angry, it blows away from there.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "It turns toward the wet south.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 222,
+  "tag": "P0222",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "This wind you talk of blows us from ourselves:\nSupper is done, and we shall come too late.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "This wind you talk about distracts us.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Dinner is finished.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "We will arrive too late.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 223,
+  "tag": "P0223",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "I fear too early: for my mind misgives\nSome consequence yet hanging in the stars,\nShall bitterly begin his fearful date\nWith this night’s revels; and expire the term\nOf a despised life, clos’d in my breast\nBy some vile forfeit of untimely death.\nBut he that hath the steerage of my course\nDirect my suit. On, lusty gentlemen!",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I fear it is too early.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "My mind fears a consequence in the stars.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "It may start with this night's party.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "It might end my life quickly.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Death could take my life before its time.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "But let him who controls my path guide me.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Let us go, brave gentlemen!",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 224,
+  "tag": "P0224",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Strike, drum.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Beat the drum.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 225,
+  "tag": "P0225",
+  "chapter_id": "ch_04",
+  "act": 1,
+  "scene": 4,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt.",
+  "sentences": []
+ }
+]

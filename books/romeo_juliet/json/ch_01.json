@@ -1,0 +1,2923 @@
+[
+ {
+  "id": 1,
+  "tag": "P0001",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "header",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Act 1, Scene 1 — A public place",
+  "sentences": []
+ },
+ {
+  "id": 2,
+  "tag": "P0002",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Chorus.",
+  "sentences": []
+ },
+ {
+  "id": 3,
+  "tag": "P0003",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "CHORUS",
+  "delivery": null,
+  "raw": "Two households, both alike in dignity,\nIn fair Verona, where we lay our scene,\nFrom ancient grudge break to new mutiny,\nWhere civil blood makes civil hands unclean.\nFrom forth the fatal loins of these two foes\nA pair of star-cross’d lovers take their life;\nWhose misadventur’d piteous overthrows\nDoth with their death bury their parents’ strife.\nThe fearful passage of their death-mark’d love,\nAnd the continuance of their parents’ rage,\nWhich, but their children’s end, nought could remove,\nIs now the two hours’ traffic of our stage;\nThe which, if you with patient ears attend,\nWhat here shall miss, our toil shall strive to mend.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Two families, both equally respected, live in lovely Verona, where our play takes place.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "An old hatred between them breaks out into new fighting.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Citizens' blood makes citizens' hands dirty.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "From these two enemy families, two unlucky lovers are born.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "The stars are against them.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Their sad, unlucky deaths finally bury their parents' fight.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Their doomed love, and their parents' endless anger, is the story of our stage for the next two hours.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Only their children's deaths could end that anger.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "If you listen patiently, we will work hard to fix anything we get wrong.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "tag": "P0004",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exit.",
+  "sentences": []
+ },
+ {
+  "id": 5,
+  "tag": "P0005",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Sampson and Gregory armed with swords and bucklers.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Sampson and Gregory enter with swords and shields.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "tag": "P0006",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "SAMPSON",
+  "delivery": null,
+  "raw": "Gregory, on my word, we’ll not carry coals.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Gregory, I promise we will not put up with insults.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "tag": "P0007",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "GREGORY",
+  "delivery": null,
+  "raw": "No, for then we should be colliers.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "No, because then we would be coal sellers.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "tag": "P0008",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "SAMPSON",
+  "delivery": null,
+  "raw": "I mean, if we be in choler, we’ll draw.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I mean, if we are angry, we will fight.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "tag": "P0009",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "GREGORY",
+  "delivery": null,
+  "raw": "Ay, while you live, draw your neck out o’ the collar.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Yes, while you live, pull your neck out of the collar.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "tag": "P0010",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "SAMPSON",
+  "delivery": null,
+  "raw": "I strike quickly, being moved.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I strike quickly when I am moved.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "tag": "P0011",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "GREGORY",
+  "delivery": null,
+  "raw": "But thou art not quickly moved to strike.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "But you are not quickly moved to strike.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "tag": "P0012",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "SAMPSON",
+  "delivery": null,
+  "raw": "A dog of the house of Montague moves me.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "A dog from the house of Montague makes me move.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "tag": "P0013",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "GREGORY",
+  "delivery": null,
+  "raw": "To move is to stir; and to be valiant is to stand: therefore, if thou\nart moved, thou runn’st away.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "To move means to stir.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "To be brave is to stand your ground.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "If you are moved, it means you run away.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "tag": "P0014",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "SAMPSON",
+  "delivery": null,
+  "raw": "A dog of that house shall move me to stand.\nI will take the wall of any man or maid of Montague’s.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "A dog of that house will make me stand.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I will push any Montague man or woman off the wall side of the street.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "tag": "P0015",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "GREGORY",
+  "delivery": null,
+  "raw": "That shows thee a weak slave, for the weakest goes to the wall.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "That makes you look like a weak slave.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "The weakest person is always pushed to the wall.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "tag": "P0016",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "SAMPSON",
+  "delivery": null,
+  "raw": "True, and therefore women, being the weaker vessels, are ever thrust to\nthe wall: therefore I will push Montague’s men from the wall, and\nthrust his maids to the wall.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "That is true.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Women are weaker, so they are always pushed to the wall.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Therefore, I will push Montague's men away from the wall.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "I will push his maids to the wall.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "tag": "P0017",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "GREGORY",
+  "delivery": null,
+  "raw": "The quarrel is between our masters and us their men.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "The fight is only between our masters and us, their men.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "tag": "P0018",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "SAMPSON",
+  "delivery": null,
+  "raw": "’Tis all one, I will show myself a tyrant: when I have fought with the\nmen I will be civil with the maids, I will cut off their heads.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "It is all the same.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I will act like a tyrant.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "When I have fought with the men, I will be polite to the maids.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "I will cut off their heads.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "tag": "P0019",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "GREGORY",
+  "delivery": null,
+  "raw": "The heads of the maids?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "The heads of the maids?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "tag": "P0020",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "SAMPSON",
+  "delivery": null,
+  "raw": "Ay, the heads of the maids, or their maidenheads; take it in what sense\nthou wilt.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Yes, the heads of the maids.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Or their virginity.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Take it in whatever sense you want.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "tag": "P0021",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "GREGORY",
+  "delivery": null,
+  "raw": "They must take it in sense that feel it.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "They must take it in the sense that they feel it.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "tag": "P0022",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "SAMPSON",
+  "delivery": null,
+  "raw": "Me they shall feel while I am able to stand: and ’tis known I am a\npretty piece of flesh.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "They will feel me while I am able to stand.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "It is known that I am a handsome piece of flesh.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "tag": "P0023",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "GREGORY",
+  "delivery": null,
+  "raw": "’Tis well thou art not fish; if thou hadst, thou hadst been poor John.\nDraw thy tool; here comes of the house of Montagues.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "It is good that you are not a fish.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "If you were a fish, you would be a dried, salted fish.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Draw your weapon.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Here come some men from the house of Montagues.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "tag": "P0024",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Abram and Balthasar.",
+  "sentences": []
+ },
+ {
+  "id": 25,
+  "tag": "P0025",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "SAMPSON",
+  "delivery": null,
+  "raw": "My naked weapon is out: quarrel, I will back thee.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "My naked weapon is out.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Start a fight, and I will back you up.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "tag": "P0026",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "GREGORY",
+  "delivery": null,
+  "raw": "How? Turn thy back and run?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "How?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Will you turn your back and run?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "tag": "P0027",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "SAMPSON",
+  "delivery": null,
+  "raw": "Fear me not.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Do not fear me.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "tag": "P0028",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "GREGORY",
+  "delivery": null,
+  "raw": "No, marry; I fear thee!",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "No, indeed.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I fear you!",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "tag": "P0029",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "SAMPSON",
+  "delivery": null,
+  "raw": "Let us take the law of our sides; let them begin.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Let us keep the law on our side.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Let them start first.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "tag": "P0030",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "GREGORY",
+  "delivery": null,
+  "raw": "I will frown as I pass by, and let them take it as they list.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I will frown as I walk past.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "They can take it however they want.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "tag": "P0031",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "SAMPSON",
+  "delivery": null,
+  "raw": "Nay, as they dare. I will bite my thumb at them, which is disgrace to\nthem if they bear it.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "No, if they dare.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I will bite my thumb at them.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "It is an insult to them if they accept it.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "tag": "P0032",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ABRAM",
+  "delivery": null,
+  "raw": "Do you bite your thumb at us, sir?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Do you bite your thumb at us, sir?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "tag": "P0033",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "SAMPSON",
+  "delivery": null,
+  "raw": "I do bite my thumb, sir.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I do bite my thumb, sir.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "tag": "P0034",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ABRAM",
+  "delivery": null,
+  "raw": "Do you bite your thumb at us, sir?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Do you bite your thumb at us, sir?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "tag": "P0035",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "SAMPSON",
+  "delivery": null,
+  "raw": "Is the law of our side if I say ay?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Is the law on our side if I say yes?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "tag": "P0036",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "GREGORY",
+  "delivery": null,
+  "raw": "No.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "No.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "tag": "P0037",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "SAMPSON",
+  "delivery": null,
+  "raw": "No sir, I do not bite my thumb at you, sir; but I bite my thumb, sir.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "No sir.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I do not bite my thumb at you, sir.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "But I bite my thumb, sir.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "tag": "P0038",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "GREGORY",
+  "delivery": null,
+  "raw": "Do you quarrel, sir?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Do you quarrel, sir?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "tag": "P0039",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ABRAM",
+  "delivery": null,
+  "raw": "Quarrel, sir? No, sir.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Quarrel, sir?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "No, sir.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "tag": "P0040",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "SAMPSON",
+  "delivery": null,
+  "raw": "But if you do, sir, I am for you. I serve as good a man as you.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "But if you do, sir, I am for you.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I serve as good a master as you do.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "tag": "P0041",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ABRAM",
+  "delivery": null,
+  "raw": "No better.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "No better.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "tag": "P0042",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "SAMPSON",
+  "delivery": null,
+  "raw": "Well, sir.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Well, sir.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "tag": "P0043",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Benvolio.",
+  "sentences": []
+ },
+ {
+  "id": 44,
+  "tag": "P0044",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "GREGORY",
+  "delivery": null,
+  "raw": "Say better; here comes one of my master’s kinsmen.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Say better.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "One of my master's relatives is coming here.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "tag": "P0045",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "SAMPSON",
+  "delivery": null,
+  "raw": "Yes, better, sir.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Yes, better, sir.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "tag": "P0046",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ABRAM",
+  "delivery": null,
+  "raw": "You lie.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "You are lying.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "tag": "P0047",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "SAMPSON",
+  "delivery": null,
+  "raw": "Draw, if you be men. Gregory, remember thy washing blow.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Draw your weapons if you are men.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Gregory, remember to hit him hard.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "tag": "P0048",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "They fight.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "They fight.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "tag": "P0049",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Part, fools! put up your swords, you know not what you do.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Stop it, fools!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Put away your swords.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "You do not know what you are doing.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "tag": "P0050",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Beats down their swords.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Benvolio beats down their swords.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "tag": "P0051",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Tybalt.",
+  "sentences": []
+ },
+ {
+  "id": 52,
+  "tag": "P0052",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "TYBALT",
+  "delivery": null,
+  "raw": "What, art thou drawn among these heartless hinds?\nTurn thee Benvolio, look upon thy death.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "What, have you drawn your sword among these cowardly servants?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Turn around, Benvolio.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Look at your death.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 53,
+  "tag": "P0053",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "I do but keep the peace, put up thy sword,\nOr manage it to part these men with me.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I am only trying to keep the peace.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Put away your sword.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Or use it to separate these men with me.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 54,
+  "tag": "P0054",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "TYBALT",
+  "delivery": null,
+  "raw": "What, drawn, and talk of peace? I hate the word\nAs I hate hell, all Montagues, and thee:\nHave at thee, coward.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "You have your sword out, and you talk of peace?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I hate that word as much as I hate hell.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I hate all Montagues and I hate you.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Fight me, coward.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 55,
+  "tag": "P0055",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "They fight.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "They fight.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 56,
+  "tag": "P0056",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter three or four Citizens with clubs.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Three or four citizens enter with clubs.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 57,
+  "tag": "P0057",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "FIRST CITIZEN",
+  "delivery": null,
+  "raw": "Clubs, bills and partisans! Strike! Beat them down!\nDown with the Capulets! Down with the Montagues!",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Get clubs and spears!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Strike!",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Beat them down!",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Down with the Capulets!",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Down with the Montagues!",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 58,
+  "tag": "P0058",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Capulet in his gown, and Lady Capulet.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Capulet enters in his gown.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Lady Capulet enters.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 59,
+  "tag": "P0059",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "What noise is this? Give me my long sword, ho!",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "What noise is this?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Give me my long sword!",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 60,
+  "tag": "P0060",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "A crutch, a crutch! Why call you for a sword?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "A crutch, a crutch!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Why do you call for a sword?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 61,
+  "tag": "P0061",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "My sword, I say! Old Montague is come,\nAnd flourishes his blade in spite of me.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "My sword, I say!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Old Montague has come.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "He waves his blade in spite of me.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 62,
+  "tag": "P0062",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Montague and his Lady Montague.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Montague and Lady Montague enter.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 63,
+  "tag": "P0063",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MONTAGUE",
+  "delivery": null,
+  "raw": "Thou villain Capulet! Hold me not, let me go.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "You villain Capulet!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Do not hold me.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Let me go.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 64,
+  "tag": "P0064",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "LADY MONTAGUE",
+  "delivery": null,
+  "raw": "Thou shalt not stir one foot to seek a foe.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "You shall not move one foot to look for an enemy.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 65,
+  "tag": "P0065",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Prince Escalus, with Attendants.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Prince Escalus enters with his attendants.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 66,
+  "tag": "P0066",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "PRINCE",
+  "delivery": null,
+  "raw": "Rebellious subjects, enemies to peace,\nProfaners of this neighbour-stained steel,—\nWill they not hear? What, ho! You men, you beasts,\nThat quench the fire of your pernicious rage\nWith purple fountains issuing from your veins,\nOn pain of torture, from those bloody hands\nThrow your mistemper’d weapons to the ground\nAnd hear the sentence of your moved prince.\nThree civil brawls, bred of an airy word,\nBy thee, old Capulet, and Montague,\nHave thrice disturb’d the quiet of our streets,\nAnd made Verona’s ancient citizens\nCast by their grave beseeming ornaments,\nTo wield old partisans, in hands as old,\nCanker’d with peace, to part your canker’d hate.\nIf ever you disturb our streets again,\nYour lives shall pay the forfeit of the peace.\nFor this time all the rest depart away:\nYou, Capulet, shall go along with me,\nAnd Montague, come you this afternoon,\nTo know our farther pleasure in this case,\nTo old Free-town, our common judgement-place.\nOnce more, on pain of death, all men depart.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "You are rebellious subjects.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "You are enemies of peace.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "You stain your steel in this fight.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Will you not listen?",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "You men, you beasts!",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "You quench the fire of your harmful rage with purple fountains coming from your veins.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Under pain of torture, throw your angry weapons to the ground.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Listen to the sentence of your prince.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "Three street fights, started by a careless word from you, old Capulet, and you, Montague, have broken the peace of our streets.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "They have made Verona's old citizens put aside their dignified clothes.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "They had to pick up old spears, rusty from years of peace, to stop your poisonous hatred.",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "If you ever disturb our streets again, your lives will be the price for the peace.",
+    "ko": ""
+   },
+   {
+    "n": 13,
+    "en": "Now, everyone else leave.",
+    "ko": ""
+   },
+   {
+    "n": 14,
+    "en": "You, Capulet, will go with me.",
+    "ko": ""
+   },
+   {
+    "n": 15,
+    "en": "And Montague, come this afternoon to hear our further decision in this case, to old Free-town, our common place of judgment.",
+    "ko": ""
+   },
+   {
+    "n": 16,
+    "en": "Once more, under pain of death, everyone leave.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 67,
+  "tag": "P0067",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt Prince and Attendants; Capulet, Lady Capulet, Tybalt, Citizens and Servants.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Prince and his attendants leave.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Capulet, Lady Capulet, Tybalt, citizens, and servants also leave.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 68,
+  "tag": "P0068",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MONTAGUE",
+  "delivery": null,
+  "raw": "Who set this ancient quarrel new abroach?\nSpeak, nephew, were you by when it began?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Who started this old fight again?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Speak, nephew.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Were you here when it began?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 69,
+  "tag": "P0069",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Here were the servants of your adversary\nAnd yours, close fighting ere I did approach.\nI drew to part them, in the instant came\nThe fiery Tybalt, with his sword prepar’d,\nWhich, as he breath’d defiance to my ears,\nHe swung about his head, and cut the winds,\nWho nothing hurt withal, hiss’d him in scorn.\nWhile we were interchanging thrusts and blows\nCame more and more, and fought on part and part,\nTill the Prince came, who parted either part.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "The servants of your enemy and yours were here.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "They were fighting closely before I came near.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I stepped in to separate them.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "In that moment, the angry Tybalt came.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "He had his sword ready.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "As he shouted defiance at my ears, he swung it over his head and cut the air.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "The wind was not hurt by it.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "The wind hissed at him in scorn.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "While we were trading hits and blows, more people came and fought on different sides.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "Until the Prince came and separated both sides.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 70,
+  "tag": "P0070",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "LADY MONTAGUE",
+  "delivery": null,
+  "raw": "O where is Romeo, saw you him today?\nRight glad I am he was not at this fray.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh, where is Romeo?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Did you see him today?",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I am very glad he was not at this fight.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 71,
+  "tag": "P0071",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Madam, an hour before the worshipp’d sun\nPeer’d forth the golden window of the east,\nA troubled mind drave me to walk abroad,\nWhere underneath the grove of sycamore\nThat westward rooteth from this city side,\nSo early walking did I see your son.\nTowards him I made, but he was ware of me,\nAnd stole into the covert of the wood.\nI, measuring his affections by my own,\nWhich then most sought where most might not be found,\nBeing one too many by my weary self,\nPursu’d my humour, not pursuing his,\nAnd gladly shunn’d who gladly fled from me.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Madam, an hour before the sun rose and appeared through the golden window of the east, a troubled mind forced me to walk outside.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I walked under the grove of sycamore trees.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Those trees grow toward the west from this side of the city.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "I saw your son walking very early.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "I moved toward him, but he noticed me.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "He hid in the thick part of the woods.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "I measured his feelings by my own feelings.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "I wanted to be where no one could find me.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "Even my own company was too much for me.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "I followed my own mood instead of following his.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "I happily avoided him, and he gladly fled from me.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 72,
+  "tag": "P0072",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MONTAGUE",
+  "delivery": null,
+  "raw": "Many a morning hath he there been seen,\nWith tears augmenting the fresh morning’s dew,\nAdding to clouds more clouds with his deep sighs;\nBut all so soon as the all-cheering sun\nShould in the farthest east begin to draw\nThe shady curtains from Aurora’s bed,\nAway from light steals home my heavy son,\nAnd private in his chamber pens himself,\nShuts up his windows, locks fair daylight out\nAnd makes himself an artificial night.\nBlack and portentous must this humour prove,\nUnless good counsel may the cause remove.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "He has been seen there many mornings.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "His tears added to the fresh morning dew.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "His deep sighs added more clouds to the sky.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "But as soon as the cheerful sun begins to open the curtains of the morning, my sad son leaves the light and goes home.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "He stays in his room alone.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "He shuts his windows and locks out the daylight.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "He makes himself an artificial night.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "This mood will lead to something dark and bad, unless good advice can remove its cause.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 73,
+  "tag": "P0073",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "My noble uncle, do you know the cause?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "My noble uncle, do you know the cause?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 74,
+  "tag": "P0074",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MONTAGUE",
+  "delivery": null,
+  "raw": "I neither know it nor can learn of him.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I do not know it and I cannot learn from him.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 75,
+  "tag": "P0075",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Have you importun’d him by any means?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Have you tried to talk to him in any way?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 76,
+  "tag": "P0076",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MONTAGUE",
+  "delivery": null,
+  "raw": "Both by myself and many other friends;\nBut he, his own affections’ counsellor,\nIs to himself—I will not say how true—\nBut to himself so secret and so close,\nSo far from sounding and discovery,\nAs is the bud bit with an envious worm\nEre he can spread his sweet leaves to the air,\nOr dedicate his beauty to the sun.\nCould we but learn from whence his sorrows grow,\nWe would as willingly give cure as know.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Both I and many other friends have tried.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "But he is the only counselor of his own feelings.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "He is very private to himself.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "I will not say how true it is.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "But he is so secret and so close to himself.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "He is far from sharing his thoughts or being discovered.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "He is like a bud bitten by an envious worm before it can open its sweet leaves to the air.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Or show its beauty to the sun.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "If we could learn why he is sad, we would cure him as gladly as we would learn the cause.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 77,
+  "tag": "P0077",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Romeo.",
+  "sentences": []
+ },
+ {
+  "id": 78,
+  "tag": "P0078",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "See, where he comes. So please you step aside;\nI’ll know his grievance or be much denied.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Look, here he comes.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Please step aside.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I will find out what is wrong, unless he flatly refuses to tell me.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 79,
+  "tag": "P0079",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "MONTAGUE",
+  "delivery": null,
+  "raw": "I would thou wert so happy by thy stay\nTo hear true shrift. Come, madam, let’s away,",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I wish you luck in staying to hear the truth from him.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Come, madam, let us go.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 80,
+  "tag": "P0080",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt Montague and Lady Montague.",
+  "sentences": []
+ },
+ {
+  "id": 81,
+  "tag": "P0081",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Good morrow, cousin.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Good morning, cousin.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 82,
+  "tag": "P0082",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Is the day so young?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Is the day so young?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 83,
+  "tag": "P0083",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "But new struck nine.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "It is only nine o'clock.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 84,
+  "tag": "P0084",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Ay me, sad hours seem long.\nWas that my father that went hence so fast?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh, sad hours seem long.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Was that my father who left so quickly?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 85,
+  "tag": "P0085",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "It was. What sadness lengthens Romeo’s hours?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "It was.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "What sadness makes Romeo's hours feel long?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 86,
+  "tag": "P0086",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Not having that which, having, makes them short.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I do not have the thing that makes time pass quickly.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 87,
+  "tag": "P0087",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "In love?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "In love?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 88,
+  "tag": "P0088",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Out.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Out.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 89,
+  "tag": "P0089",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Of love?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Out of love?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 90,
+  "tag": "P0090",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Out of her favour where I am in love.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I am out of favor with the woman I love.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 91,
+  "tag": "P0091",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Alas that love so gentle in his view,\nShould be so tyrannous and rough in proof.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Love looks so gentle.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "It is sad that it is so cruel and rough in real life.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 92,
+  "tag": "P0092",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Alas that love, whose view is muffled still,\nShould, without eyes, see pathways to his will!\nWhere shall we dine? O me! What fray was here?\nYet tell me not, for I have heard it all.\nHere’s much to do with hate, but more with love:\nWhy, then, O brawling love! O loving hate!\nO anything, of nothing first create!\nO heavy lightness! serious vanity!\nMisshapen chaos of well-seeming forms!\nFeather of lead, bright smoke, cold fire, sick health!\nStill-waking sleep, that is not what it is!\nThis love feel I, that feel no love in this.\nDost thou not laugh?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "It is sad that love is blindfolded, yet it can still find its way to what it wants!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Where shall we eat?",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Oh me!",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "What fight was here?",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Do not tell me, for I have heard it all.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "There is much to do with hate.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "But there is even more to do with love.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Why, then, oh fighting love!",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "Oh loving hate!",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "Oh anything created from nothing!",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "Oh heavy lightness!",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "Serious vanity!",
+    "ko": ""
+   },
+   {
+    "n": 13,
+    "en": "A misshapen chaos of beautiful forms!",
+    "ko": ""
+   },
+   {
+    "n": 14,
+    "en": "A feather of lead.",
+    "ko": ""
+   },
+   {
+    "n": 15,
+    "en": "Bright smoke.",
+    "ko": ""
+   },
+   {
+    "n": 16,
+    "en": "Cold fire.",
+    "ko": ""
+   },
+   {
+    "n": 17,
+    "en": "Sick health!",
+    "ko": ""
+   },
+   {
+    "n": 18,
+    "en": "A sleep that stays awake.",
+    "ko": ""
+   },
+   {
+    "n": 19,
+    "en": "It is not what it seems!",
+    "ko": ""
+   },
+   {
+    "n": 20,
+    "en": "I feel this love, but I feel no love in this.",
+    "ko": ""
+   },
+   {
+    "n": 21,
+    "en": "Do you not laugh?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 93,
+  "tag": "P0093",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "No coz, I rather weep.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "No friend, I would rather cry.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 94,
+  "tag": "P0094",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Good heart, at what?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Good heart, at what?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 95,
+  "tag": "P0095",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "At thy good heart’s oppression.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "At your good heart's suffering.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 96,
+  "tag": "P0096",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Why such is love’s transgression.\nGriefs of mine own lie heavy in my breast,\nWhich thou wilt propagate to have it prest\nWith more of thine. This love that thou hast shown\nDoth add more grief to too much of mine own.\nLove is a smoke made with the fume of sighs;\nBeing purg’d, a fire sparkling in lovers’ eyes;\nBeing vex’d, a sea nourish’d with lovers’ tears:\nWhat is it else? A madness most discreet,\nA choking gall, and a preserving sweet.\nFarewell, my coz.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "That is how love breaks the rules.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "My own sorrows weigh heavily in my chest.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "You will add your own sadness to them and make them heavier.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "But the love you have shown adds more grief to my many problems.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Love is a smoke made from the smoke of sighs.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "When it is clear, it is a fire sparkling in lovers' eyes.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "When it is troubled, it is a sea fed by lovers' tears.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "What else is it?",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "It is a very careful madness.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "It is a bitter poison.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "And it is a preserving sweetness.",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "Goodbye, my friend.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 97,
+  "tag": "P0097",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Going.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Romeo starts to leave.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 98,
+  "tag": "P0098",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Soft! I will go along:\nAnd if you leave me so, you do me wrong.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Wait!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I will go with you.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "If you leave me alone, you do me wrong.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 99,
+  "tag": "P0099",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Tut! I have lost myself; I am not here.\nThis is not Romeo, he’s some other where.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Tut!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I have lost myself.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I am not here.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "This is not Romeo.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "He is somewhere else.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 100,
+  "tag": "P0100",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Tell me in sadness who is that you love?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Tell me seriously, who do you love?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 101,
+  "tag": "P0101",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "What, shall I groan and tell thee?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "What, should I groan and tell you?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 102,
+  "tag": "P0102",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Groan! Why, no; but sadly tell me who.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Groan? No.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "But tell me seriously who it is.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 103,
+  "tag": "P0103",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Bid a sick man in sadness make his will,\nA word ill urg’d to one that is so ill.\nIn sadness, cousin, I do love a woman.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Asking a sick man to seriously make his will is a cruel thing to say to someone so ill.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Seriously, cousin, I love a woman.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 104,
+  "tag": "P0104",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "I aim’d so near when I suppos’d you lov’d.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I guessed correctly when I thought you were in love.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 105,
+  "tag": "P0105",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "A right good markman, and she’s fair I love.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "You are a very good shot.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "And the woman I love is beautiful.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 106,
+  "tag": "P0106",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "A right fair mark, fair coz, is soonest hit.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "A beautiful target is the easiest to hit, my friend.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 107,
+  "tag": "P0107",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Well, in that hit you miss: she’ll not be hit\nWith Cupid’s arrow, she hath Dian’s wit;\nAnd in strong proof of chastity well arm’d,\nFrom love’s weak childish bow she lives uncharm’d.\nShe will not stay the siege of loving terms\nNor bide th’encounter of assailing eyes,\nNor ope her lap to saint-seducing gold:\nO she’s rich in beauty, only poor\nThat when she dies, with beauty dies her store.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Actually, you missed that point.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "She will not be hit by Cupid's arrow.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "She thinks like Diana, the goddess who never falls in love.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "She is well protected to keep her purity.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "She is not affected by the weak arrows of love.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "She will not give in to romantic words.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "She will not look at men who stare at her with desire.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "She will not give herself to a man's gold.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "She is very rich in beauty.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "However, she is poor because her beauty will disappear when she dies.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 108,
+  "tag": "P0108",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Then she hath sworn that she will still live chaste?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "So she has promised to stay pure forever?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 109,
+  "tag": "P0109",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "She hath, and in that sparing makes huge waste;\nFor beauty starv’d with her severity,\nCuts beauty off from all posterity.\nShe is too fair, too wise; wisely too fair,\nTo merit bliss by making me despair.\nShe hath forsworn to love, and in that vow\nDo I live dead, that live to tell it now.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "She has made that promise.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "But her strictness wastes her beauty.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Her behavior stops her beauty from being passed on to the next generation.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "She is too beautiful and too wise to win heaven by making me miserable.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "She has promised not to love anyone.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Because of that promise, I feel like a dead man.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "I am alive only to tell people about my pain.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 110,
+  "tag": "P0110",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Be rul’d by me, forget to think of her.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Listen to me.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Forget about her.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 111,
+  "tag": "P0111",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "O teach me how I should forget to think.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh, teach me how to forget to think of her.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 112,
+  "tag": "P0112",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "By giving liberty unto thine eyes;\nExamine other beauties.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Let your eyes look freely.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Look at other beautiful women.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 113,
+  "tag": "P0113",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "’Tis the way\nTo call hers, exquisite, in question more.\nThese happy masks that kiss fair ladies’ brows,\nBeing black, puts us in mind they hide the fair;\nHe that is strucken blind cannot forget\nThe precious treasure of his eyesight lost.\nShow me a mistress that is passing fair,\nWhat doth her beauty serve but as a note\nWhere I may read who pass’d that passing fair?\nFarewell, thou canst not teach me to forget.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "That would only make me think more about how beautiful she is.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "These happy masks kiss the foreheads of beautiful ladies.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "The masks are black.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "They remind us that they hide something beautiful.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "A man who is struck blind cannot forget the precious treasure of his lost sight.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Show me a woman who is very beautiful.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Her beauty would only remind me of the woman who is even more beautiful.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Goodbye, you cannot teach me how to forget.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 114,
+  "tag": "P0114",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "I’ll pay that doctrine, or else die in debt.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I will teach you that lesson, or die trying.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 115,
+  "tag": "P0115",
+  "chapter_id": "ch_01",
+  "act": 1,
+  "scene": 1,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt.",
+  "sentences": []
+ }
+]

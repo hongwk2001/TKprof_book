@@ -1,0 +1,1069 @@
+[
+ {
+  "id": 116,
+  "tag": "P0116",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "header",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Act 1, Scene 2 — A Street",
+  "sentences": []
+ },
+ {
+  "id": 117,
+  "tag": "P0117",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Capulet, Paris and Servant.",
+  "sentences": []
+ },
+ {
+  "id": 118,
+  "tag": "P0118",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "But Montague is bound as well as I,\nIn penalty alike; and ’tis not hard, I think,\nFor men so old as we to keep the peace.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "But Montague is bound by the same penalty as I am.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I think it is not hard for men our age to keep the peace.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 119,
+  "tag": "P0119",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "PARIS",
+  "delivery": null,
+  "raw": "Of honourable reckoning are you both,\nAnd pity ’tis you liv’d at odds so long.\nBut now my lord, what say you to my suit?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "You are both highly respected men.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "It is a pity that you fought for so long.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "But now, my lord, what do you say to my request?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 120,
+  "tag": "P0120",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "But saying o’er what I have said before.\nMy child is yet a stranger in the world,\nShe hath not seen the change of fourteen years;\nLet two more summers wither in their pride\nEre we may think her ripe to be a bride.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I am only repeating what I said before.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "My child is still new to the world.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "She has not seen fourteen years pass.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Let two more summers pass.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Then we can think she is ready to be a bride.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 121,
+  "tag": "P0121",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "PARIS",
+  "delivery": null,
+  "raw": "Younger than she are happy mothers made.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Girls younger than her are already happy mothers.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 122,
+  "tag": "P0122",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "And too soon marr’d are those so early made.\nThe earth hath swallowed all my hopes but she,\nShe is the hopeful lady of my earth:\nBut woo her, gentle Paris, get her heart,\nMy will to her consent is but a part;\nAnd she agree, within her scope of choice\nLies my consent and fair according voice.\nThis night I hold an old accustom’d feast,\nWhereto I have invited many a guest,\nSuch as I love, and you among the store,\nOne more, most welcome, makes my number more.\nAt my poor house look to behold this night\nEarth-treading stars that make dark heaven light:\nSuch comfort as do lusty young men feel\nWhen well apparell’d April on the heel\nOf limping winter treads, even such delight\nAmong fresh female buds shall you this night\nInherit at my house. Hear all, all see,\nAnd like her most whose merit most shall be:\nWhich, on more view of many, mine, being one,\nMay stand in number, though in reckoning none.\nCome, go with me. Go, sirrah, trudge about\nThrough fair Verona; find those persons out\nWhose names are written there,",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Those who marry too early are often unhappy.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "The earth has taken all my hopes except for her.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "She is the only hope I have left in this world.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "But woo her, gentle Paris.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Win her heart.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "My wishes matter less than her own consent.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "If she agrees, I will gladly agree with her choice.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "I am holding an old traditional feast tonight.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "I have invited many guests to it.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "I like them all, and you are among them.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "One more welcome guest makes my group even better.",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "At my house tonight, look for girls like stars walking on earth, lighting up the dark sky.",
+    "ko": ""
+   },
+   {
+    "n": 13,
+    "en": "Young men feel great joy when beautiful April follows winter.",
+    "ko": ""
+   },
+   {
+    "n": 14,
+    "en": "You will find a similar delight with young women at my house tonight.",
+    "ko": ""
+   },
+   {
+    "n": 15,
+    "en": "Hear all and see all.",
+    "ko": ""
+   },
+   {
+    "n": 16,
+    "en": "Choose the one whose merit is greatest.",
+    "ko": ""
+   },
+   {
+    "n": 17,
+    "en": "After you see many girls, my daughter will be just one of them.",
+    "ko": ""
+   },
+   {
+    "n": 18,
+    "en": "She may not stand out among them.",
+    "ko": ""
+   },
+   {
+    "n": 19,
+    "en": "Come, go with me.",
+    "ko": ""
+   },
+   {
+    "n": 20,
+    "en": "Go, you there, walk through beautiful Verona.",
+    "ko": ""
+   },
+   {
+    "n": 21,
+    "en": "Find the people whose names are written here.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 123,
+  "tag": "P0123",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "gives a paper",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Capulet gives the servant a paper.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 124,
+  "tag": "P0124",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "CAPULET",
+  "delivery": null,
+  "raw": "and to them say,\nMy house and welcome on their pleasure stay.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Tell them that my house is open and they are welcome to come.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 125,
+  "tag": "P0125",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt Capulet and Paris.",
+  "sentences": []
+ },
+ {
+  "id": 126,
+  "tag": "P0126",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "SERVANT",
+  "delivery": null,
+  "raw": "Find them out whose names are written here! It is written that the\nshoemaker should meddle with his yard and the tailor with his last, the\nfisher with his pencil, and the painter with his nets; but I am sent to\nfind those persons whose names are here writ, and can never find what\nnames the writing person hath here writ. I must to the learned. In good\ntime!",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Find the people whose names are written here!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "It says that the shoemaker should work with his yard.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "The tailor should work with his last.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "The fisher should work with his pencil.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "And the painter should work with his nets.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "But I am sent to find the people whose names are here.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "I cannot know what names the writer put here.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "I must go to the learned person.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "Here comes someone just in time!",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 127,
+  "tag": "P0127",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Benvolio and Romeo.",
+  "sentences": []
+ },
+ {
+  "id": 128,
+  "tag": "P0128",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Tut, man, one fire burns out another’s burning,\nOne pain is lessen’d by another’s anguish;\nTurn giddy, and be holp by backward turning;\nOne desperate grief cures with another’s languish:\nTake thou some new infection to thy eye,\nAnd the rank poison of the old will die.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Listen, man.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "One fire puts out another's burning.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "One pain is lessened by another's suffering.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "If you are dizzy from turning, turning the other way will help.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "One deep sadness can be cured with another's misery.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Get a new sickness in your eye.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Then the old poison will die.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 129,
+  "tag": "P0129",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Your plantain leaf is excellent for that.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Your plantain leaf is excellent for that.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 130,
+  "tag": "P0130",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "For what, I pray thee?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "For what, may I ask?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 131,
+  "tag": "P0131",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "For your broken shin.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "For your broken shin.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 132,
+  "tag": "P0132",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Why, Romeo, art thou mad?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Why, Romeo, are you mad?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 133,
+  "tag": "P0133",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Not mad, but bound more than a madman is:\nShut up in prison, kept without my food,\nWhipp’d and tormented and—God-den, good fellow.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I am not mad.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I am bound more than a madman is.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I am locked in prison without my food.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "I am whipped and tormented and—good evening, good fellow.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 134,
+  "tag": "P0134",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "SERVANT",
+  "delivery": null,
+  "raw": "God gi’ go-den. I pray, sir, can you read?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Good evening.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Please, sir, can you read?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 135,
+  "tag": "P0135",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Ay, mine own fortune in my misery.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Yes, I can read my own fortune in my misery.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 136,
+  "tag": "P0136",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "SERVANT",
+  "delivery": null,
+  "raw": "Perhaps you have learned it without book.\nBut I pray, can you read anything you see?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Perhaps you learned it without a book.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "But I ask, can you read anything you see?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 137,
+  "tag": "P0137",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Ay, If I know the letters and the language.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Yes, if I know the letters and the language.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 138,
+  "tag": "P0138",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "SERVANT",
+  "delivery": null,
+  "raw": "Ye say honestly, rest you merry!",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "You speak honestly.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Have a good day!",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 139,
+  "tag": "P0139",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Stay, fellow; I can read.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Wait, friend; I can read.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 140,
+  "tag": "P0140",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "He reads the letter.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Romeo reads the letter.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 141,
+  "tag": "P0141",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "_Signior Martino and his wife and daughters;\nCounty Anselmo and his beauteous sisters;\nThe lady widow of Utruvio;\nSignior Placentio and his lovely nieces;\nMercutio and his brother Valentine;\nMine uncle Capulet, his wife, and daughters;\nMy fair niece Rosaline and Livia;\nSignior Valentio and his cousin Tybalt;\nLucio and the lively Helena. _\nA fair assembly.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Signior Martino and his wife and daughters.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Count Anselmo and his beautiful sisters.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "The lady widow of Utruvio.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Signior Placentio and his lovely nieces.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Mercutio and his brother Valentine.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "My uncle Capulet, his wife, and daughters.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "My fair niece Rosaline and Livia.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Signior Valentio and his cousin Tybalt.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "Lucio and the lively Helena.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "A beautiful gathering.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 142,
+  "tag": "P0142",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Gives back the paper",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Romeo gives back the paper.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 143,
+  "tag": "P0143",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Whither should they come?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Where should they come to?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 144,
+  "tag": "P0144",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "SERVANT",
+  "delivery": null,
+  "raw": "Up.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Up.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 145,
+  "tag": "P0145",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Whither to supper?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Where is the dinner?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 146,
+  "tag": "P0146",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "SERVANT",
+  "delivery": null,
+  "raw": "To our house.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "To our house.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 147,
+  "tag": "P0147",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Whose house?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Whose house?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 148,
+  "tag": "P0148",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "SERVANT",
+  "delivery": null,
+  "raw": "My master’s.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "My master's.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 149,
+  "tag": "P0149",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "Indeed I should have ask’d you that before.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I should have asked you that before.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 150,
+  "tag": "P0150",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "SERVANT",
+  "delivery": null,
+  "raw": "Now I’ll tell you without asking. My master is the great rich Capulet,\nand if you be not of the house of Montagues, I pray come and crush a\ncup of wine. Rest you merry.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Now I will tell you without being asked.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "My master is the wealthy Capulet.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "If you are not from the house of Montagues, please come and drink a cup of wine.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Have a good day.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 151,
+  "tag": "P0151",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exit.",
+  "sentences": []
+ },
+ {
+  "id": 152,
+  "tag": "P0152",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "At this same ancient feast of Capulet’s\nSups the fair Rosaline whom thou so lov’st;\nWith all the admired beauties of Verona.\nGo thither and with unattainted eye,\nCompare her face with some that I shall show,\nAnd I will make thee think thy swan a crow.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "The beautiful Rosaline, whom you love so much, will eat at this same old feast of Capulet's.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "She will be there with all the famous beauties of Verona.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Go there and look at her with fresh eyes.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Compare her face with another face that I will show you.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "I will make you think your swan is a crow.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 153,
+  "tag": "P0153",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "When the devout religion of mine eye\nMaintains such falsehood, then turn tears to fire;\nAnd these who, often drown’d, could never die,\nTransparent heretics, be burnt for liars.\nOne fairer than my love? The all-seeing sun\nNe’er saw her match since first the world begun.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "When the faith of my eyes believes such a lie, then let tears turn into fire.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "My eyes have drowned in tears many times but never died.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "If they lie, let them be burned like heretics.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Is there someone more beautiful than my love?",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "The all-seeing sun has never seen anyone equal to her since the world began.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 154,
+  "tag": "P0154",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "BENVOLIO",
+  "delivery": null,
+  "raw": "Tut, you saw her fair, none else being by,\nHerself pois’d with herself in either eye:\nBut in that crystal scales let there be weigh’d\nYour lady’s love against some other maid\nThat I will show you shining at this feast,\nAnd she shall scant show well that now shows best.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Well, you saw her beauty because no one else was around.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "You only saw her in your own eyes.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "But let us weigh your lady's love on a crystal scale against another girl.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "I will show you another girl who shines at this feast.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Then the girl who looks best to you now will hardly look good at all.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 155,
+  "tag": "P0155",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "speech",
+  "speaker": "ROMEO",
+  "delivery": null,
+  "raw": "I’ll go along, no such sight to be shown,\nBut to rejoice in splendour of my own.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I will go along.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "But not to see any such girl.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I will go only to enjoy the beauty of my own love.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 156,
+  "tag": "P0156",
+  "chapter_id": "ch_02",
+  "act": 1,
+  "scene": 2,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt.",
+  "sentences": []
+ }
+]

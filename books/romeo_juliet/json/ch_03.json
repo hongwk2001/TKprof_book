@@ -1,0 +1,1069 @@
+[
+ {
+  "id": 157,
+  "tag": "P0157",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "header",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Act 1, Scene 3 — Room in Capulet’s House",
+  "sentences": []
+ },
+ {
+  "id": 158,
+  "tag": "P0158",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Lady Capulet and Nurse.",
+  "sentences": []
+ },
+ {
+  "id": 159,
+  "tag": "P0159",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "Nurse, where’s my daughter? Call her forth to me.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Nurse, where is my daughter?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Call her to me.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 160,
+  "tag": "P0160",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Now, by my maidenhead, at twelve year old,\nI bade her come. What, lamb! What ladybird!\nGod forbid! Where’s this girl? What, Juliet!",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I swear by the virginity I had at twelve years old, I told her to come.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Come, my lamb! Come, my ladybird!",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "God forbid!",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Where is this girl?",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Juliet!",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 161,
+  "tag": "P0161",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter Juliet.",
+  "sentences": []
+ },
+ {
+  "id": 162,
+  "tag": "P0162",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "How now, who calls?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Who is calling me?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 163,
+  "tag": "P0163",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Your mother.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Your mother.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 164,
+  "tag": "P0164",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "Madam, I am here. What is your will?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Madam, I am here.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "What would you like?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 165,
+  "tag": "P0165",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "This is the matter. Nurse, give leave awhile,\nWe must talk in secret. Nurse, come back again,\nI have remember’d me, thou’s hear our counsel.\nThou knowest my daughter’s of a pretty age.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "This is the matter.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Nurse, leave us for a moment.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "We must talk in secret.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Nurse, come back again.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "I have changed my mind: you should hear our private talk.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "You know my daughter is getting quite grown up.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 166,
+  "tag": "P0166",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Faith, I can tell her age unto an hour.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I can tell her age to the hour.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 167,
+  "tag": "P0167",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "She’s not fourteen.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "She is not fourteen.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 168,
+  "tag": "P0168",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "I’ll lay fourteen of my teeth,\nAnd yet, to my teen be it spoken, I have but four,\nShe is not fourteen. How long is it now\nTo Lammas-tide?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I would bet fourteen of my teeth that she is not fourteen.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Sadly, I have only four teeth.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "How long is it until the harvest festival?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 169,
+  "tag": "P0169",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "A fortnight and odd days.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "It is about two weeks and a few days.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 170,
+  "tag": "P0170",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Even or odd, of all days in the year,\nCome Lammas Eve at night shall she be fourteen.\nSusan and she,—God rest all Christian souls!—\nWere of an age. Well, Susan is with God;\nShe was too good for me. But as I said,\nOn Lammas Eve at night shall she be fourteen;\nThat shall she, marry; I remember it well.\n’Tis since the earthquake now eleven years;\nAnd she was wean’d,—I never shall forget it—,\nOf all the days of the year, upon that day:\nFor I had then laid wormwood to my dug,\nSitting in the sun under the dovehouse wall;\nMy lord and you were then at Mantua:\nNay, I do bear a brain. But as I said,\nWhen it did taste the wormwood on the nipple\nOf my dug and felt it bitter, pretty fool,\nTo see it tetchy, and fall out with the dug!\nShake, quoth the dovehouse: ’twas no need, I trow,\nTo bid me trudge.\nAnd since that time it is eleven years;\nFor then she could stand alone; nay, by th’rood\nShe could have run and waddled all about;\nFor even the day before she broke her brow,\nAnd then my husband,—God be with his soul!\nA was a merry man,—took up the child:\n‘Yea,’ quoth he, ‘dost thou fall upon thy face?\nThou wilt fall backward when thou hast more wit;\nWilt thou not, Jule?’ and, by my holidame,\nThe pretty wretch left crying, and said ‘Ay’.\nTo see now how a jest shall come about.\nI warrant, and I should live a thousand years,\nI never should forget it. ‘Wilt thou not, Jule?’ quoth he;\nAnd, pretty fool, it stinted, and said ‘Ay.’",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Whether it is an even or odd day, she will be fourteen on the night before the harvest festival.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Susan and she were the same age.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "God rest all Christian souls!",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Susan is with God now.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "She was too good for me.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "But as I said, she will be fourteen on that night.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Indeed, I remember it well.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "It has been eleven years since the earthquake.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "That was the day she stopped breastfeeding.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "I will never forget it.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "I had put a bitter plant on my breast to stop her nursing.",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "I sat in the sun under the wall of the dovehouse.",
+    "ko": ""
+   },
+   {
+    "n": 13,
+    "en": "You and your husband were in Mantua then.",
+    "ko": ""
+   },
+   {
+    "n": 14,
+    "en": "No, I have a good memory.",
+    "ko": ""
+   },
+   {
+    "n": 15,
+    "en": "But as I said, she tasted the bitter plant on my breast.",
+    "ko": ""
+   },
+   {
+    "n": 16,
+    "en": "The sweet little fool found it bitter.",
+    "ko": ""
+   },
+   {
+    "n": 17,
+    "en": "She got cross and pushed my breast away!",
+    "ko": ""
+   },
+   {
+    "n": 18,
+    "en": "Then the dovehouse shook from the earthquake.",
+    "ko": ""
+   },
+   {
+    "n": 19,
+    "en": "Nobody needed to tell me to run!",
+    "ko": ""
+   },
+   {
+    "n": 20,
+    "en": "And since that time, eleven years have passed.",
+    "ko": ""
+   },
+   {
+    "n": 21,
+    "en": "She could stand alone then.",
+    "ko": ""
+   },
+   {
+    "n": 22,
+    "en": "No, by the cross, she could run and walk around.",
+    "ko": ""
+   },
+   {
+    "n": 23,
+    "en": "Just the day before, she fell and cut her forehead.",
+    "ko": ""
+   },
+   {
+    "n": 24,
+    "en": "Then my husband, God be with his soul!",
+    "ko": ""
+   },
+   {
+    "n": 25,
+    "en": "He was a happy man.",
+    "ko": ""
+   },
+   {
+    "n": 26,
+    "en": "He picked up the child.",
+    "ko": ""
+   },
+   {
+    "n": 27,
+    "en": "He asked, 'Yes, did you fall on your face?'",
+    "ko": ""
+   },
+   {
+    "n": 28,
+    "en": "He said, 'You will fall backward when you are older.'",
+    "ko": ""
+   },
+   {
+    "n": 29,
+    "en": "He asked, 'Will you not, Jule?'",
+    "ko": ""
+   },
+   {
+    "n": 30,
+    "en": "The poor little thing stopped crying and said, 'Yes.'",
+    "ko": ""
+   },
+   {
+    "n": 31,
+    "en": "Look how that joke turned out.",
+    "ko": ""
+   },
+   {
+    "n": 32,
+    "en": "I promise I would never forget it even if I lived a thousand years.",
+    "ko": ""
+   },
+   {
+    "n": 33,
+    "en": "He asked, 'Will you not, Jule?'",
+    "ko": ""
+   },
+   {
+    "n": 34,
+    "en": "And the sweet little fool stopped crying and said, 'Yes.'",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 171,
+  "tag": "P0171",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "Enough of this; I pray thee hold thy peace.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "That is enough.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Please be quiet.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 172,
+  "tag": "P0172",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Yes, madam, yet I cannot choose but laugh,\nTo think it should leave crying, and say ‘Ay’;\nAnd yet I warrant it had upon it brow\nA bump as big as a young cockerel’s stone;\nA perilous knock, and it cried bitterly.\n‘Yea,’ quoth my husband, ‘fall’st upon thy face?\nThou wilt fall backward when thou comest to age;\nWilt thou not, Jule?’ it stinted, and said ‘Ay’.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Yes, madam.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "But I cannot help laughing.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I laugh to think she stopped crying and said 'Yes'.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "She had a bump on her head as big as a young rooster's testicle.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "It was a hard hit, and she cried bitterly.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "My husband asked, 'Yes, did you fall on your face?'",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "He said, 'You will fall backward when you are older.'",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "He asked, 'Will you not, Jule?'",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "She stopped crying and said, 'Yes.'",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 173,
+  "tag": "P0173",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "And stint thou too, I pray thee, Nurse, say I.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Please be quiet now too, Nurse.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "That is what I say.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 174,
+  "tag": "P0174",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Peace, I have done. God mark thee to his grace\nThou wast the prettiest babe that e’er I nurs’d:\nAnd I might live to see thee married once, I have my wish.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Peace, I am finished.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "May God bless you.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "You were the prettiest baby that I ever nursed.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "I hope to live long enough to see you married once.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 175,
+  "tag": "P0175",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "Marry, that marry is the very theme\nI came to talk of. Tell me, daughter Juliet,\nHow stands your disposition to be married?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Indeed, marriage is the very topic I came to talk about.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Tell me, daughter Juliet, how do you feel about getting married?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 176,
+  "tag": "P0176",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "It is an honour that I dream not of.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "It is an honor that I do not dream of.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 177,
+  "tag": "P0177",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "An honour! Were not I thine only nurse,\nI would say thou hadst suck’d wisdom from thy teat.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "An honor!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "If I were not your only nurse, I would say you drank wisdom from my breast.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 178,
+  "tag": "P0178",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "Well, think of marriage now: younger than you,\nHere in Verona, ladies of esteem,\nAre made already mothers. By my count\nI was your mother much upon these years\nThat you are now a maid. Thus, then, in brief;\nThe valiant Paris seeks you for his love.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Well, think about marriage now.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "In Verona, many respected ladies younger than you are already mothers.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I was your mother at about the same age that you are now as a girl.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "So, in short, the brave Paris seeks you for his love.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 179,
+  "tag": "P0179",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "A man, young lady! Lady, such a man\nAs all the world—why he’s a man of wax.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "A man, young lady!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Lady, such a man that the whole world—",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Why, he is as perfect as a wax statue.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 180,
+  "tag": "P0180",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "Verona’s summer hath not such a flower.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Verona's summer does not have such a flower.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 181,
+  "tag": "P0181",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Nay, he’s a flower, in faith a very flower.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "No, he is a flower. Truly, he is a very beautiful flower.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 182,
+  "tag": "P0182",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "What say you, can you love the gentleman?\nThis night you shall behold him at our feast;\nRead o’er the volume of young Paris’ face,\nAnd find delight writ there with beauty’s pen.\nExamine every married lineament,\nAnd see how one another lends content;\nAnd what obscur’d in this fair volume lies,\nFind written in the margent of his eyes.\nThis precious book of love, this unbound lover,\nTo beautify him, only lacks a cover:\nThe fish lives in the sea; and ’tis much pride\nFor fair without the fair within to hide.\nThat book in many’s eyes doth share the glory,\nThat in gold clasps locks in the golden story;\nSo shall you share all that he doth possess,\nBy having him, making yourself no less.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "What do you say? Can you love the gentleman?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "You will see him at our feast tonight.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Read the book of young Paris's face.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Find beauty written there.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Look at every feature of his face.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "See how each part fits together perfectly.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Look for what is hidden in this beautiful book.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Find it written in the edges of his eyes.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "This precious book of love, this unbound lover, only needs a cover to be beautiful.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "A fish lives in the sea.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "It is a fine thing when a beautiful cover holds a beautiful story inside.",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "Many people see the glory of a story locked in gold clasps.",
+    "ko": ""
+   },
+   {
+    "n": 13,
+    "en": "You will share everything that he has.",
+    "ko": ""
+   },
+   {
+    "n": 14,
+    "en": "By having him, you will not become less important.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 183,
+  "tag": "P0183",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "No less, nay bigger. Women grow by men.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Not less, no, much more.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Women grow by being with men.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 184,
+  "tag": "P0184",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "Speak briefly, can you like of Paris’ love?",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Speak briefly.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Can you accept Paris's love?",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 185,
+  "tag": "P0185",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "JULIET",
+  "delivery": null,
+  "raw": "I’ll look to like, if looking liking move:\nBut no more deep will I endart mine eye\nThan your consent gives strength to make it fly.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I will try to like him if looking at him makes me like him.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "But I will not look deeper than your permission allows.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I will only go as far as your consent lets me.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 186,
+  "tag": "P0186",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Enter a Servant.",
+  "sentences": []
+ },
+ {
+  "id": 187,
+  "tag": "P0187",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "SERVANT",
+  "delivery": null,
+  "raw": "Madam, the guests are come, supper served up, you called, my young lady\nasked for, the Nurse cursed in the pantry, and everything in extremity.\nI must hence to wait, I beseech you follow straight.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Madam, the guests have arrived.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Supper is served.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "You called for me.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Everyone is asking for my young lady.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "The Nurse was scolded in the pantry.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Everything is in a crazy rush.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "I must leave now.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Please follow me immediately.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 188,
+  "tag": "P0188",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "We follow thee.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "We are following you.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 189,
+  "tag": "P0189",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exit Servant.",
+  "sentences": []
+ },
+ {
+  "id": 190,
+  "tag": "P0190",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "LADY CAPULET",
+  "delivery": null,
+  "raw": "Juliet, the County stays.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Juliet, Count Paris is waiting.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 191,
+  "tag": "P0191",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "speech",
+  "speaker": "NURSE",
+  "delivery": null,
+  "raw": "Go, girl, seek happy nights to happy days.",
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Go, girl.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Go and find happy nights to go with your happy days.",
+    "ko": ""
+   }
+  ]
+ },
+ {
+  "id": 192,
+  "tag": "P0192",
+  "chapter_id": "ch_03",
+  "act": 1,
+  "scene": 3,
+  "type": "direction",
+  "speaker": null,
+  "delivery": null,
+  "raw": "Exeunt.",
+  "sentences": []
+ }
+]
