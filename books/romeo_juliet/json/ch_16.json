@@ -33,26 +33,33 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Wilt thou be gone? It is not yet near day.\nIt was the nightingale, and not the lark,\nThat pierc’d the fearful hollow of thine ear;\nNightly she sings on yond pomegranate tree.\nBelieve me, love, it was the nightingale.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Will you leave?"
-    },
-    {
-     "en": "It is not near day yet."
-    },
-    {
-     "en": "It was the nightingale, and not the lark, that entered your fearful ear."
-    },
-    {
-     "en": "She sings every night on that pomegranate tree over there."
-    },
-    {
-     "en": "Believe me, love, it was the nightingale."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Will you leave?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "It is not near day yet.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "It was the nightingale, and not the lark, that entered your fearful ear.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "She sings every night on that pomegranate tree over there.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Believe me, love, it was the nightingale.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 711,
@@ -64,26 +71,33 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "It was the lark, the herald of the morn,\nNo nightingale. Look, love, what envious streaks\nDo lace the severing clouds in yonder east.\nNight’s candles are burnt out, and jocund day\nStands tiptoe on the misty mountain tops.\nI must be gone and live, or stay and die.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "It was the lark, the herald of the morning, not a nightingale."
-    },
-    {
-     "en": "Look, love, at the jealous streaks that cross the clouds in the east over there."
-    },
-    {
-     "en": "The candles of night are burned out."
-    },
-    {
-     "en": "And the happy day stands on tiptoe on the misty mountain tops."
-    },
-    {
-     "en": "I must leave and live, or stay and die."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "It was the lark, the herald of the morning, not a nightingale.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Look, love, at the spiteful streaks of light breaking through the clouds in the east.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "The candles of night are burned out.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "And the happy day stands on tiptoe on the misty mountain tops.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "I must leave and live, or stay and die.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 712,
@@ -95,26 +109,33 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Yond light is not daylight, I know it, I.\nIt is some meteor that the sun exhales\nTo be to thee this night a torchbearer\nAnd light thee on thy way to Mantua.\nTherefore stay yet, thou need’st not to be gone.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "That light is not daylight, I know it."
-    },
-    {
-     "en": "It is some meteor that the sun breathes out."
-    },
-    {
-     "en": "It is to be a torchbearer for you tonight."
-    },
-    {
-     "en": "It will light your way to Mantua."
-    },
-    {
-     "en": "Therefore stay now. You do not need to leave."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "That light is not daylight, I know it.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "It is some meteor that the sun breathes out.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "It will be a torch for you tonight.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "It will light your way to Mantua.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Therefore stay now. You do not need to leave.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 713,
@@ -126,38 +147,53 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "Let me be ta’en, let me be put to death,\nI am content, so thou wilt have it so.\nI’ll say yon grey is not the morning’s eye,\n’Tis but the pale reflex of Cynthia’s brow.\nNor that is not the lark whose notes do beat\nThe vaulty heaven so high above our heads.\nI have more care to stay than will to go.\nCome, death, and welcome. Juliet wills it so.\nHow is’t, my soul? Let’s talk. It is not day.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Let me be caught. Let me be put to death."
-    },
-    {
-     "en": "I am content, if you want it that way."
-    },
-    {
-     "en": "I will say that gray light is not the morning's eye."
-    },
-    {
-     "en": "It is only the pale reflection of Cynthia's brow."
-    },
-    {
-     "en": "That is not the lark whose notes beat the high vault of heaven above our heads."
-    },
-    {
-     "en": "I care more to stay than I want to go."
-    },
-    {
-     "en": "Come, death, and welcome me. Juliet wants it so."
-    },
-    {
-     "en": "How are you, my soul? Let's talk."
-    },
-    {
-     "en": "It is not day."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Let me be caught. Let me be put to death.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I am content, if you want it that way.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I will say that gray light is not the morning's eye.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "It is only the pale light of Cynthia, the moon goddess.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "That is not the lark whose notes beat the high vault of heaven above our heads.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "I want to stay more than I want to go.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Come, death, and welcome me. Juliet wants it so.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "How are you, my soul? Let's talk.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "It is not day.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 714,
@@ -169,44 +205,63 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "It is, it is! Hie hence, be gone, away.\nIt is the lark that sings so out of tune,\nStraining harsh discords and unpleasing sharps.\nSome say the lark makes sweet division;\nThis doth not so, for she divideth us.\nSome say the lark and loathed toad change eyes.\nO, now I would they had chang’d voices too,\nSince arm from arm that voice doth us affray,\nHunting thee hence with hunt’s-up to the day.\nO now be gone, more light and light it grows.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "It is, it is!"
-    },
-    {
-     "en": "Hurry away! Go now!"
-    },
-    {
-     "en": "It is the lark that sings out of tune."
-    },
-    {
-     "en": "It makes harsh sounds and unpleasant notes."
-    },
-    {
-     "en": "Some say the lark makes sweet music."
-    },
-    {
-     "en": "This does not do so, because she separates us."
-    },
-    {
-     "en": "Some say the lark and the hated toad change eyes."
-    },
-    {
-     "en": "Oh, I wish they had changed voices too."
-    },
-    {
-     "en": "That voice scares us apart from arm to arm."
-    },
-    {
-     "en": "It hunts you away toward the day."
-    },
-    {
-     "en": "Oh, now go. The light is growing more and more."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "It is, it is!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Hurry away! Go now!",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "It is the lark that sings out of tune.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "It makes harsh sounds and unpleasant notes.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Some say the lark makes sweet music.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "This one does not, because she divides us.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Some say the lark and the ugly toad swapped eyes.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Oh, I wish they had changed voices too.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "That voice frightens us out of each other's arms.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "It chases you away with a morning wake-up song.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "Oh, now go. The light is growing more and more.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 715,
@@ -218,14 +273,13 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "More light and light, more dark and dark our woes.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "More light and light, more dark and dark our woes."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "The lighter it gets, the darker our sorrows become.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 716,
@@ -249,14 +303,13 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "Madam.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Madam."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Madam.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 718,
@@ -268,14 +321,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Nurse?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Nurse?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Nurse?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 719,
@@ -287,20 +339,23 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "Your lady mother is coming to your chamber.\nThe day is broke, be wary, look about.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Your mother is coming to your room."
-    },
-    {
-     "en": "The day has started."
-    },
-    {
-     "en": "Be careful and look around."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Your mother is coming to your room.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "The day has started.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Be careful and look around.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 720,
@@ -324,17 +379,18 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Then, window, let day in, and let life out.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Then, window, let the day in."
-    },
-    {
-     "en": "Let life go out."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Then, window, let the day in.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Let life go out.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 722,
@@ -346,20 +402,18 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "Farewell, farewell, one kiss, and I’ll descend.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Goodbye."
-    },
-    {
-     "en": "Give me one kiss."
-    },
-    {
-     "en": "Then I will go down."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Goodbye, goodbye.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "One kiss, and I will climb down.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 723,
@@ -371,14 +425,13 @@
   "speaker": null,
   "delivery": null,
   "raw": "Descends.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Romeo descends."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Romeo climbs down.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 724,
@@ -390,23 +443,28 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Art thou gone so? Love, lord, ay husband, friend,\nI must hear from thee every day in the hour,\nFor in a minute there are many days.\nO, by this count I shall be much in years\nEre I again behold my Romeo.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Are you gone so soon?"
-    },
-    {
-     "en": "My love, my lord, my husband, and my friend, I must hear from you every day in the hour."
-    },
-    {
-     "en": "Because there are many days in a single minute."
-    },
-    {
-     "en": "By this count, I will be much older before I see my Romeo again."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Are you gone so soon?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "My love, my lord, my husband, and my friend, I must hear from you every hour of every day.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Every minute apart will feel like many days.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "By this count, I will be much older before I see my Romeo again.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 725,
@@ -418,17 +476,18 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "Farewell!\nI will omit no opportunity\nThat may convey my greetings, love, to thee.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Goodbye!"
-    },
-    {
-     "en": "I will not miss any chance to send my greetings and my love to you."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Goodbye!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I will not miss any chance to send my greetings and my love to you.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 726,
@@ -440,14 +499,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "O thinkest thou we shall ever meet again?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Do you think we will ever meet again?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Do you think we will ever meet again?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 727,
@@ -459,17 +517,18 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "I doubt it not, and all these woes shall serve\nFor sweet discourses in our time to come.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "I do not doubt it."
-    },
-    {
-     "en": "All these sorrows will serve as sweet stories for us to tell in the future."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I do not doubt it.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "All these sorrows will serve as sweet stories for us to tell in the future.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 728,
@@ -481,29 +540,28 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "O God! I have an ill-divining soul!\nMethinks I see thee, now thou art so low,\nAs one dead in the bottom of a tomb.\nEither my eyesight fails, or thou look’st pale.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Oh God!"
-    },
-    {
-     "en": "I have a soul that predicts bad things."
-    },
-    {
-     "en": "I think I see you now."
-    },
-    {
-     "en": "You are so low."
-    },
-    {
-     "en": "You look like someone dead at the bottom of a tomb."
-    },
-    {
-     "en": "Either my eyesight is failing, or you look pale."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh God!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I have a soul that predicts bad things.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Now that you are down there, you look like someone dead at the bottom of a tomb.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Either my eyesight is failing, or you look pale.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 729,
@@ -515,23 +573,28 @@
   "speaker": "ROMEO",
   "delivery": null,
   "raw": "And trust me, love, in my eye so do you.\nDry sorrow drinks our blood. Adieu, adieu.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Trust me, love."
-    },
-    {
-     "en": "You look that way in my eyes too."
-    },
-    {
-     "en": "Dry sorrow drinks our blood."
-    },
-    {
-     "en": "Goodbye, goodbye."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Trust me, love.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "You look that way in my eyes too.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Dry sorrow drinks our blood.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Goodbye, goodbye.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 730,
@@ -543,14 +606,13 @@
   "speaker": null,
   "delivery": null,
   "raw": "Exit below.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Romeo exits below."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Romeo goes down and away.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 731,
@@ -562,32 +624,38 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "O Fortune, Fortune! All men call thee fickle,\nIf thou art fickle, what dost thou with him\nThat is renown’d for faith? Be fickle, Fortune;\nFor then, I hope thou wilt not keep him long\nBut send him back.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Oh Fortune, Fortune!"
-    },
-    {
-     "en": "All men call you fickle."
-    },
-    {
-     "en": "If you are fickle, what do you do with him?"
-    },
-    {
-     "en": "He is famous for his faith."
-    },
-    {
-     "en": "Be fickle, Fortune."
-    },
-    {
-     "en": "Then, I hope you will not keep him long."
-    },
-    {
-     "en": "I hope you send him back."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh Fortune, Fortune!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "All men call you fickle.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "If you are fickle, why would you bother with him, when he is known for being faithful?",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Be fickle, Fortune.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Then, I hope you will not keep him long.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "I hope you send him back.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 732,
@@ -599,14 +667,13 @@
   "speaker": "LADY CAPULET",
   "delivery": "Within",
   "raw": "Ho, daughter, are you up?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Hey, daughter, are you awake?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Hey, daughter, are you awake?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 733,
@@ -618,23 +685,28 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Who is’t that calls? Is it my lady mother?\nIs she not down so late, or up so early?\nWhat unaccustom’d cause procures her hither?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Who is calling?"
-    },
-    {
-     "en": "Is it my lady mother?"
-    },
-    {
-     "en": "Is she not down so late or up so early?"
-    },
-    {
-     "en": "What unusual reason brings her here?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Who is calling?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Is it my lady mother?",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Has she not gone to bed yet, or is she up so early?",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "What unusual reason brings her here?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 734,
@@ -658,14 +730,13 @@
   "speaker": "LADY CAPULET",
   "delivery": null,
   "raw": "Why, how now, Juliet?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Well, how are you now, Juliet?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "What is the matter, Juliet?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 736,
@@ -677,14 +748,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Madam, I am not well.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Madam, I am not well."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Madam, I am not well.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 737,
@@ -696,29 +766,38 @@
   "speaker": "LADY CAPULET",
   "delivery": null,
   "raw": "Evermore weeping for your cousin’s death?\nWhat, wilt thou wash him from his grave with tears?\nAnd if thou couldst, thou couldst not make him live.\nTherefore have done: some grief shows much of love,\nBut much of grief shows still some want of wit.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Are you still crying for your cousin's death?"
-    },
-    {
-     "en": "Will you wash him from his grave with your tears?"
-    },
-    {
-     "en": "Even if you could, you could not make him live."
-    },
-    {
-     "en": "Stop now."
-    },
-    {
-     "en": "Some grief shows a lot of love."
-    },
-    {
-     "en": "But too much grief shows a lack of intelligence."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Are you still crying for your cousin's death?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Will you wash him from his grave with your tears?",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Even if you could, you could not make him live.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Stop now.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Some grief shows a lot of love.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "But too much grief shows a lack of sense.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 738,
@@ -730,14 +809,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Yet let me weep for such a feeling loss.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Still, let me weep for such a great loss."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Still, let me weep for such a great loss.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 739,
@@ -749,17 +827,13 @@
   "speaker": "LADY CAPULET",
   "delivery": null,
   "raw": "So shall you feel the loss, but not the friend\nWhich you weep for.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "You will feel the loss."
-    },
-    {
-     "en": "But you are not crying for the friend."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "That way you will feel the loss, but not bring back the friend you cry for.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 740,
@@ -771,14 +845,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Feeling so the loss,\nI cannot choose but ever weep the friend.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Because I feel this loss, I cannot help but always weep for my friend."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Because I feel this loss, I cannot help but always weep for my friend.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 741,
@@ -790,17 +863,18 @@
   "speaker": "LADY CAPULET",
   "delivery": null,
   "raw": "Well, girl, thou weep’st not so much for his death\nAs that the villain lives which slaughter’d him.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Well, girl, you do not cry so much for his death."
-    },
-    {
-     "en": "You cry because the villain who killed him is still alive."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Well, girl, you do not cry so much for his death.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "You cry because the villain who killed him is still alive.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 742,
@@ -812,14 +886,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "What villain, madam?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "What villain, madam?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "What villain, madam?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 743,
@@ -831,14 +904,13 @@
   "speaker": "LADY CAPULET",
   "delivery": null,
   "raw": "That same villain Romeo.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "That same villain, Romeo."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "That same villain, Romeo.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 744,
@@ -850,23 +922,28 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Villain and he be many miles asunder.\nGod pardon him. I do, with all my heart.\nAnd yet no man like he doth grieve my heart.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "He is a villain and he is many miles away."
-    },
-    {
-     "en": "God forgive him."
-    },
-    {
-     "en": "I forgive him with all my heart."
-    },
-    {
-     "en": "And yet no man causes me more pain than he does."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "'Villain' and he are many miles apart.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "God forgive him.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I forgive him with all my heart.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "And yet no man hurts my heart like he does.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 745,
@@ -878,14 +955,13 @@
   "speaker": "LADY CAPULET",
   "delivery": null,
   "raw": "That is because the traitor murderer lives.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "That is because the traitor and murderer is still alive."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "That is because the traitor and murderer is still alive.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 746,
@@ -897,17 +973,18 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Ay madam, from the reach of these my hands.\nWould none but I might venge my cousin’s death.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Yes, madam, I cannot reach him with my hands."
-    },
-    {
-     "en": "I wish only I could take revenge for my cousin's death."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Yes, madam, far from the reach of my hands.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I wish no one but me could take revenge for my cousin's death.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 747,
@@ -919,32 +996,43 @@
   "speaker": "LADY CAPULET",
   "delivery": null,
   "raw": "We will have vengeance for it, fear thou not.\nThen weep no more. I’ll send to one in Mantua,\nWhere that same banish’d runagate doth live,\nShall give him such an unaccustom’d dram\nThat he shall soon keep Tybalt company:\nAnd then I hope thou wilt be satisfied.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "We will have revenge for it. Do not fear."
-    },
-    {
-     "en": "Stop crying now."
-    },
-    {
-     "en": "I will send a message to someone in Mantua."
-    },
-    {
-     "en": "That banished criminal lives there."
-    },
-    {
-     "en": "He will give him a strange drink."
-    },
-    {
-     "en": "It will make him join Tybalt in death soon."
-    },
-    {
-     "en": "Then I hope you will be satisfied."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "We will have revenge for it. Do not fear.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Stop crying now.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I will send a message to someone in Mantua.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "That banished criminal lives there.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Someone there will give him a strong dose of poison.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "It will make him join Tybalt in death soon.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Then I hope you will be satisfied.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 748,
@@ -956,35 +1044,48 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Indeed I never shall be satisfied\nWith Romeo till I behold him—dead—\nIs my poor heart so for a kinsman vex’d.\nMadam, if you could find out but a man\nTo bear a poison, I would temper it,\nThat Romeo should upon receipt thereof,\nSoon sleep in quiet. O, how my heart abhors\nTo hear him nam’d, and cannot come to him,\nTo wreak the love I bore my cousin\nUpon his body that hath slaughter’d him.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "I will never be satisfied with Romeo until I see him dead."
-    },
-    {
-     "en": "Is my poor heart so upset for a relative?"
-    },
-    {
-     "en": "Madam, if you could find just one man to carry a poison, I would mix it."
-    },
-    {
-     "en": "Romeo would fall asleep forever as soon as he received it."
-    },
-    {
-     "en": "Oh, how much I hate to hear his name."
-    },
-    {
-     "en": "I cannot reach him."
-    },
-    {
-     "en": "I want to take my love for my cousin out on his body."
-    },
-    {
-     "en": "He is the one who killed him."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Indeed, I will never be satisfied with Romeo until I see him—",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Dead is my poor heart, so hurt for a relative.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Madam, if you could find just one man to carry a poison, I would mix it.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Then Romeo would soon sleep in peace after he received it.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Oh, how much I hate to hear his name.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "I cannot reach him.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "I want to take my love for my cousin out on his body.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "He is the one who killed him.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 749,
@@ -996,17 +1097,18 @@
   "speaker": "LADY CAPULET",
   "delivery": null,
   "raw": "Find thou the means, and I’ll find such a man.\nBut now I’ll tell thee joyful tidings, girl.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "If you find a way, I will find such a man."
-    },
-    {
-     "en": "But now I have happy news for you, girl."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "If you find a way, I will find such a man.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "But now I have happy news for you, girl.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 750,
@@ -1018,17 +1120,18 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "And joy comes well in such a needy time.\nWhat are they, I beseech your ladyship?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Joy comes at a good time during such a sad time."
-    },
-    {
-     "en": "What is the news, I beg of your ladyship?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Joy comes at a good time during such a sad time.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "What is the news, I beg of your ladyship?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 751,
@@ -1040,20 +1143,23 @@
   "speaker": "LADY CAPULET",
   "delivery": null,
   "raw": "Well, well, thou hast a careful father, child;\nOne who to put thee from thy heaviness,\nHath sorted out a sudden day of joy,\nThat thou expects not, nor I look’d not for.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Well, you have a very caring father, child."
-    },
-    {
-     "en": "He has planned a sudden day of joy to cheer you up."
-    },
-    {
-     "en": "You did not expect it, and I did not expect it either."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Well, you have a very caring father, child.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "He has planned a sudden day of joy to cheer you up.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "You did not expect it, and I did not expect it either.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 752,
@@ -1065,14 +1171,18 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Madam, in happy time, what day is that?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Madam, in such happy times, what day is it?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Madam, how lucky!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "What day is that?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 753,
@@ -1084,20 +1194,23 @@
   "speaker": "LADY CAPULET",
   "delivery": null,
   "raw": "Marry, my child, early next Thursday morn\nThe gallant, young, and noble gentleman,\nThe County Paris, at Saint Peter’s Church,\nShall happily make thee there a joyful bride.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Yes, my child."
-    },
-    {
-     "en": "Early next Thursday morning, the brave and noble young man, count Paris, will marry you at Saint Peter's Church."
-    },
-    {
-     "en": "He will make you a happy bride there."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Well, my child.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Early next Thursday morning, the brave and noble young man, Count Paris, will marry you at Saint Peter's Church.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "He will make you a happy bride there.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 754,
@@ -1109,41 +1222,58 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Now by Saint Peter’s Church, and Peter too,\nHe shall not make me there a joyful bride.\nI wonder at this haste, that I must wed\nEre he that should be husband comes to woo.\nI pray you tell my lord and father, madam,\nI will not marry yet; and when I do, I swear\nIt shall be Romeo, whom you know I hate,\nRather than Paris. These are news indeed.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "I swear by Saint Peter's Church and by Saint Peter himself."
-    },
-    {
-     "en": "He will not make me a happy bride."
-    },
-    {
-     "en": "I am surprised by this hurry."
-    },
-    {
-     "en": "I must marry before the man who should be my husband can try to win my love."
-    },
-    {
-     "en": "Please tell my father, madam."
-    },
-    {
-     "en": "I will not marry yet."
-    },
-    {
-     "en": "When I do marry, I promise it will be Romeo."
-    },
-    {
-     "en": "You know that I hate him."
-    },
-    {
-     "en": "I would rather marry him than Paris."
-    },
-    {
-     "en": "This is truly news."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I swear by Saint Peter's Church and by Saint Peter himself.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "He will not make me a happy bride.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I am surprised by this hurry.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "I must marry before the man who should be my husband can try to win my love.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Please tell my father, madam.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "I will not marry yet.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "When I do marry, I promise it will be Romeo.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "You know that I hate him.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "I would rather marry him than Paris.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "That is news for you!",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 755,
@@ -1155,20 +1285,23 @@
   "speaker": "LADY CAPULET",
   "delivery": null,
   "raw": "Here comes your father, tell him so yourself,\nAnd see how he will take it at your hands.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Your father is coming here."
-    },
-    {
-     "en": "Tell him the truth yourself."
-    },
-    {
-     "en": "See how he reacts to your words."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Your father is coming here.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Tell him the truth yourself.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "See how he reacts to your words.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 756,
@@ -1192,62 +1325,88 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "When the sun sets, the air doth drizzle dew;\nBut for the sunset of my brother’s son\nIt rains downright.\nHow now? A conduit, girl? What, still in tears?\nEvermore showering? In one little body\nThou counterfeits a bark, a sea, a wind.\nFor still thy eyes, which I may call the sea,\nDo ebb and flow with tears; the bark thy body is,\nSailing in this salt flood, the winds, thy sighs,\nWho raging with thy tears and they with them,\nWithout a sudden calm will overset\nThy tempest-tossed body. How now, wife?\nHave you deliver’d to her our decree?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "When the sun sets, the air produces dew."
-    },
-    {
-     "en": "But for the sunset of my brother's son, it rains heavily."
-    },
-    {
-     "en": "What is it, girl?"
-    },
-    {
-     "en": "Are you holding a container?"
-    },
-    {
-     "en": "Are you still crying?"
-    },
-    {
-     "en": "Are you always crying?"
-    },
-    {
-     "en": "In your small body, you act like a boat, a sea, and a wind."
-    },
-    {
-     "en": "Your eyes are like the sea."
-    },
-    {
-     "en": "They flow with tears."
-    },
-    {
-     "en": "Your body is like a boat."
-    },
-    {
-     "en": "It sails in this salty flood of tears."
-    },
-    {
-     "en": "Your sighs are like the winds."
-    },
-    {
-     "en": "The winds rage with your tears."
-    },
-    {
-     "en": "The tears move with the wind."
-    },
-    {
-     "en": "Without a sudden calm, the storm will sink your body."
-    },
-    {
-     "en": "What is it, wife?"
-    },
-    {
-     "en": "Have you told her our decision?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "When the sun sets, the air produces dew.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "But for the sunset of my brother's son, it rains heavily.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "What is it, girl?",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Are you a fountain, girl?",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Are you still crying?",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Are you always crying?",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "In your small body, you act like a boat, a sea, and a wind.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Your eyes are like the sea.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "They flow with tears.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "Your body is like a boat.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "It sails in this salty flood of tears.",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "Your sighs are like the winds.",
+    "ko": ""
+   },
+   {
+    "n": 13,
+    "en": "The winds and tears rage together.",
+    "ko": ""
+   },
+   {
+    "n": 14,
+    "en": "Without a sudden calm, the storm will sink your body.",
+    "ko": ""
+   },
+   {
+    "n": 15,
+    "en": "What is it, wife?",
+    "ko": ""
+   },
+   {
+    "n": 16,
+    "en": "Have you told her our decision?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 758,
@@ -1259,23 +1418,18 @@
   "speaker": "LADY CAPULET",
   "delivery": null,
   "raw": "Ay, sir; but she will none, she gives you thanks.\nI would the fool were married to her grave.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Yes, sir."
-    },
-    {
-     "en": "But she refuses."
-    },
-    {
-     "en": "She gives you thanks."
-    },
-    {
-     "en": "I wish the fool were married to her grave."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Yes, sir, but she refuses, thank you very much.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I wish the fool were married to her grave.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 759,
@@ -1287,32 +1441,33 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "Soft. Take me with you, take me with you, wife.\nHow, will she none? Doth she not give us thanks?\nIs she not proud? Doth she not count her blest,\nUnworthy as she is, that we have wrought\nSo worthy a gentleman to be her bridegroom?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Wait."
-    },
-    {
-     "en": "Take me with you, wife."
-    },
-    {
-     "en": "How? She refuses?"
-    },
-    {
-     "en": "Does she not thank us?"
-    },
-    {
-     "en": "Is she not proud?"
-    },
-    {
-     "en": "Does she not count her blessings?"
-    },
-    {
-     "en": "Even though she is unworthy, we found such a worthy gentleman to be her groom?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Wait, explain that to me, wife.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "What, she refuses?",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Does she not thank us?",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Is she not proud?",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Does she not feel lucky, unworthy as she is, that we found such a worthy gentleman for her?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 760,
@@ -1324,23 +1479,23 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Not proud you have, but thankful that you have.\nProud can I never be of what I hate;\nBut thankful even for hate that is meant love.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "She is not proud."
-    },
-    {
-     "en": "She is thankful for what you have."
-    },
-    {
-     "en": "I can never be proud of what I hate."
-    },
-    {
-     "en": "But I am thankful even for hate that means love."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I am not proud that you have found him, but I am thankful that you tried.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I can never be proud of what I hate.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "But I am thankful even for hate that is meant as love.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 761,
@@ -1352,47 +1507,68 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "How now, how now, chopp’d logic? What is this?\nProud, and, I thank you, and I thank you not;\nAnd yet not proud. Mistress minion you,\nThank me no thankings, nor proud me no prouds,\nBut fettle your fine joints ’gainst Thursday next\nTo go with Paris to Saint Peter’s Church,\nOr I will drag thee on a hurdle thither.\nOut, you green-sickness carrion! Out, you baggage!\nYou tallow-face!",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "What is this?"
-    },
-    {
-     "en": "This logic is confusing."
-    },
-    {
-     "en": "You are proud, and you thank me, and you do not thank me."
-    },
-    {
-     "en": "And yet you are not proud."
-    },
-    {
-     "en": "You are my favorite lady."
-    },
-    {
-     "en": "Do not thank me for being proud or not being proud."
-    },
-    {
-     "en": "Prepare your fine clothes for next Thursday."
-    },
-    {
-     "en": "Go with Paris to Saint Peter's Church."
-    },
-    {
-     "en": "Or I will drag you there on a litter."
-    },
-    {
-     "en": "Get out, you sickly corpse!"
-    },
-    {
-     "en": "You are just baggage!"
-    },
-    {
-     "en": "You fat-faced woman!"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "What is this?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "This logic is confusing.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "You are proud, and you thank me, and you do not thank me.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "And yet you are not proud.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "You spoiled little madam!",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Don't 'thank' me, and don't 'proud' me.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Get your fine body ready for next Thursday.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Go with Paris to Saint Peter's Church.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "Or I will drag you there on a prisoner's cart.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "Get out, you pale, sick piece of rotten meat!",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "Get out, you worthless girl!",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "You candle-faced thing!",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 762,
@@ -1404,20 +1580,18 @@
   "speaker": "LADY CAPULET",
   "delivery": null,
   "raw": "Fie, fie! What, are you mad?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Shame on you!"
-    },
-    {
-     "en": "Shame on you!"
-    },
-    {
-     "en": "Are you mad?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Stop, stop!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Are you mad?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 763,
@@ -1429,20 +1603,23 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Good father, I beseech you on my knees,\nHear me with patience but to speak a word.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Good father, I beg you on my knees."
-    },
-    {
-     "en": "Listen to me patiently."
-    },
-    {
-     "en": "Let me speak just one word."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Good father, I beg you on my knees.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Listen to me patiently.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Let me speak just one word.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 764,
@@ -1454,47 +1631,68 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "Hang thee young baggage, disobedient wretch!\nI tell thee what,—get thee to church a Thursday,\nOr never after look me in the face.\nSpeak not, reply not, do not answer me.\nMy fingers itch. Wife, we scarce thought us blest\nThat God had lent us but this only child;\nBut now I see this one is one too much,\nAnd that we have a curse in having her.\nOut on her, hilding.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Hang you, you disobedient girl!"
-    },
-    {
-     "en": "I tell you what."
-    },
-    {
-     "en": "Go to church this Thursday."
-    },
-    {
-     "en": "Or never look at my face again."
-    },
-    {
-     "en": "Do not speak."
-    },
-    {
-     "en": "Do not reply."
-    },
-    {
-     "en": "Do not answer me."
-    },
-    {
-     "en": "My fingers itch."
-    },
-    {
-     "en": "Wife, we were lucky that God gave us this only child."
-    },
-    {
-     "en": "But now I see she is too much for us."
-    },
-    {
-     "en": "Having her is a curse."
-    },
-    {
-     "en": "Get out of my way, girl."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Hang you, you disobedient girl!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "I tell you what.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Go to church this Thursday.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Or never look at my face again.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Do not speak.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Do not reply.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Do not answer me.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "My fingers itch.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "Wife, we felt unlucky that God gave us only one child.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "But now I see she is too much for us.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "Having her is a curse.",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "Curse her, the worthless girl!",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 765,
@@ -1506,17 +1704,18 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "God in heaven bless her.\nYou are to blame, my lord, to rate her so.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "May God in heaven bless her."
-    },
-    {
-     "en": "You are to blame, my lord, for speaking to her so harshly."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "May God in heaven bless her.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "You are to blame, my lord, for speaking to her so harshly.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 766,
@@ -1528,20 +1727,23 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "And why, my lady wisdom? Hold your tongue,\nGood prudence; smatter with your gossips, go.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "And why, my lady wisdom?"
-    },
-    {
-     "en": "Hold your tongue, good prudence."
-    },
-    {
-     "en": "Go talk with your friends."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "And why, my lady wisdom?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Hold your tongue, Miss Know-it-all.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Go chatter with your gossip friends.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 767,
@@ -1553,14 +1755,13 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "I speak no treason.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "I am not saying anything rebellious."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "I am not saying anything wrong.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 768,
@@ -1572,14 +1773,13 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "O God ye good-en!",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Oh God, you are kind!"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh, for God's sake, go away!",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 769,
@@ -1591,14 +1791,13 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "May not one speak?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "May I not speak?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "May I not speak?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 770,
@@ -1610,20 +1809,23 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "Peace, you mumbling fool!\nUtter your gravity o’er a gossip’s bowl,\nFor here we need it not.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Be quiet, you foolish person!"
-    },
-    {
-     "en": "Say your serious words over a gossip's bowl."
-    },
-    {
-     "en": "We do not need them here."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Be quiet, you foolish person!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Save your wise words for your gossip friends over a drink.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "We do not need them here.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 771,
@@ -1635,14 +1837,13 @@
   "speaker": "LADY CAPULET",
   "delivery": null,
   "raw": "You are too hot.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "You are being too angry."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "You are being too angry.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 772,
@@ -1654,71 +1855,103 @@
   "speaker": "CAPULET",
   "delivery": null,
   "raw": "God’s bread, it makes me mad!\nDay, night, hour, ride, time, work, play,\nAlone, in company, still my care hath been\nTo have her match’d, and having now provided\nA gentleman of noble parentage,\nOf fair demesnes, youthful, and nobly allied,\nStuff’d, as they say, with honourable parts,\nProportion’d as one’s thought would wish a man,\nAnd then to have a wretched puling fool,\nA whining mammet, in her fortune’s tender,\nTo answer, ‘I’ll not wed, I cannot love,\nI am too young, I pray you pardon me.’\nBut, and you will not wed, I’ll pardon you.\nGraze where you will, you shall not house with me.\nLook to’t, think on’t, I do not use to jest.\nThursday is near; lay hand on heart, advise.\nAnd you be mine, I’ll give you to my friend;\nAnd you be not, hang, beg, starve, die in the streets,\nFor by my soul, I’ll ne’er acknowledge thee,\nNor what is mine shall never do thee good.\nTrust to’t, bethink you, I’ll not be forsworn.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Oh, this makes me mad!"
-    },
-    {
-     "en": "Day, night, hour, ride, time, work, play."
-    },
-    {
-     "en": "Alone or in company, my only concern has been to find her a husband."
-    },
-    {
-     "en": "I have now found a gentleman of noble parents."
-    },
-    {
-     "en": "He is handsome, young, and from a good family."
-    },
-    {
-     "en": "He has many honorable qualities."
-    },
-    {
-     "en": "He is exactly the kind of man I wanted."
-    },
-    {
-     "en": "And then to have a foolish girl crying like a baby."
-    },
-    {
-     "en": "She acts like a whining doll in her early life."
-    },
-    {
-     "en": "She says, 'I will not marry, I cannot love.'"
-    },
-    {
-     "en": "She says, 'I am too young, please forgive me.'"
-    },
-    {
-     "en": "But if you will not marry, I will forgive you."
-    },
-    {
-     "en": "Go where you want, but you will not live with me."
-    },
-    {
-     "en": "Think about it. I am not joking."
-    },
-    {
-     "en": "Thursday is near. Put your hand on your heart and decide."
-    },
-    {
-     "en": "If you are mine, I will give you to my friend."
-    },
-    {
-     "en": "If you are not mine, hang, beg, starve, or die in the streets."
-    },
-    {
-     "en": "I swear by my soul that I will never acknowledge you."
-    },
-    {
-     "en": "Nothing of mine will ever help you."
-    },
-    {
-     "en": "Trust me. Think about it. I will not break my promise."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh, this makes me mad!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Day and night, working or playing, alone or with others, my only concern has been to find her a husband.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I have now found a gentleman of noble parents.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "He has fine lands, he is young, and he is from a noble family.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "He has many honorable qualities.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "He is exactly the kind of man I wanted.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "And then to have a foolish girl crying like a baby.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "She is a whining puppet who says no when good luck is offered.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "She says, 'I will not marry, I cannot love.'",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "She says, 'I am too young, please forgive me.'",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "But if you will not marry, I will 'forgive' you all right.",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "Go where you want, but you will not live with me.",
+    "ko": ""
+   },
+   {
+    "n": 13,
+    "en": "Think about it. I am not joking.",
+    "ko": ""
+   },
+   {
+    "n": 14,
+    "en": "Thursday is near. Put your hand on your heart and decide.",
+    "ko": ""
+   },
+   {
+    "n": 15,
+    "en": "If you are mine, I will give you to my friend.",
+    "ko": ""
+   },
+   {
+    "n": 16,
+    "en": "If you are not mine, hang, beg, starve, or die in the streets.",
+    "ko": ""
+   },
+   {
+    "n": 17,
+    "en": "I swear by my soul that I will never acknowledge you.",
+    "ko": ""
+   },
+   {
+    "n": 18,
+    "en": "Nothing of mine will ever help you.",
+    "ko": ""
+   },
+   {
+    "n": 19,
+    "en": "Trust me. Think about it. I will not break my promise.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 773,
@@ -1742,26 +1975,33 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Is there no pity sitting in the clouds,\nThat sees into the bottom of my grief?\nO sweet my mother, cast me not away,\nDelay this marriage for a month, a week,\nOr, if you do not, make the bridal bed\nIn that dim monument where Tybalt lies.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Is there no pity in the clouds?"
-    },
-    {
-     "en": "Does anyone see how sad I am?"
-    },
-    {
-     "en": "Oh sweet mother, do not cast me away."
-    },
-    {
-     "en": "Delay this marriage for a month or a week."
-    },
-    {
-     "en": "Or, if you do not, make the wedding bed in that dark monument where Tybalt lies."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Is there no pity in the clouds?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Does anyone see how sad I am?",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Oh sweet mother, do not cast me away.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Delay this marriage for a month or a week.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Or, if you do not, make the wedding bed in that dark monument where Tybalt lies.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 775,
@@ -1773,17 +2013,18 @@
   "speaker": "LADY CAPULET",
   "delivery": null,
   "raw": "Talk not to me, for I’ll not speak a word.\nDo as thou wilt, for I have done with thee.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Do not talk to me. I will not say a word."
-    },
-    {
-     "en": "Do what you want. I am finished with you."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Do not talk to me. I will not say a word.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Do what you want. I am finished with you.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 776,
@@ -1807,38 +2048,48 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "O God! O Nurse, how shall this be prevented?\nMy husband is on earth, my faith in heaven.\nHow shall that faith return again to earth,\nUnless that husband send it me from heaven\nBy leaving earth? Comfort me, counsel me.\nAlack, alack, that heaven should practise stratagems\nUpon so soft a subject as myself.\nWhat say’st thou? Hast thou not a word of joy?\nSome comfort, Nurse.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Oh God! Oh Nurse, how can we stop this?"
-    },
-    {
-     "en": "My husband is on earth, and my faith is in heaven."
-    },
-    {
-     "en": "How will that faith return to earth?"
-    },
-    {
-     "en": "Unless that husband sends it to me from heaven by leaving earth?"
-    },
-    {
-     "en": "Comfort me. Give me advice."
-    },
-    {
-     "en": "Oh no, that heaven should use tricks on a person as gentle as myself."
-    },
-    {
-     "en": "What do you say?"
-    },
-    {
-     "en": "Do you not have a word of joy?"
-    },
-    {
-     "en": "Give me some comfort, Nurse."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Oh God! Oh Nurse, how can we stop this?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "My husband is on earth, and my faith is in heaven.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "How can I take back that vow unless my husband dies and sends it back to me from heaven?",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Comfort me. Give me advice.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Oh no, that heaven should use tricks on a person as gentle as myself.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "What do you say?",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Do you not have a word of joy?",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "Give me some comfort, Nurse.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 778,
@@ -1850,50 +2101,68 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "Faith, here it is.\nRomeo is banished; and all the world to nothing\nThat he dares ne’er come back to challenge you.\nOr if he do, it needs must be by stealth.\nThen, since the case so stands as now it doth,\nI think it best you married with the County.\nO, he’s a lovely gentleman.\nRomeo’s a dishclout to him. An eagle, madam,\nHath not so green, so quick, so fair an eye\nAs Paris hath. Beshrew my very heart,\nI think you are happy in this second match,\nFor it excels your first: or if it did not,\nYour first is dead, or ’twere as good he were,\nAs living here and you no use of him.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Well, here it is."
-    },
-    {
-     "en": "Romeo is banished."
-    },
-    {
-     "en": "The whole world means nothing if he dares never come back to challenge you."
-    },
-    {
-     "en": "Or if he does, it must be in secret."
-    },
-    {
-     "en": "Since the situation is as it is now, I think it is best that you marry the County."
-    },
-    {
-     "en": "Oh, he is a lovely gentleman."
-    },
-    {
-     "en": "Romeo is nothing compared to him."
-    },
-    {
-     "en": "An eagle does not have such green, quick, and beautiful eyes as Paris has."
-    },
-    {
-     "en": "Curse my heart!"
-    },
-    {
-     "en": "I think you will be happy in this second marriage."
-    },
-    {
-     "en": "It is better than your first one."
-    },
-    {
-     "en": "If it is not, your first husband is dead."
-    },
-    {
-     "en": "It would be just as good if he were alive here and you did not use him."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Well, here it is.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Romeo is banished.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I would bet the whole world that he will never dare come back to claim you.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Or if he does, it must be in secret.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Since the situation is as it is now, I think it is best that you marry the County.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "Oh, he is a lovely gentleman.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "Romeo is a dishrag next to him.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "An eagle does not have such green, quick, and beautiful eyes as Paris has.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "Upon my heart, I think you will be happy in this second marriage.",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "It is better than your first one.",
+    "ko": ""
+   },
+   {
+    "n": 11,
+    "en": "If it is not, your first husband is dead.",
+    "ko": ""
+   },
+   {
+    "n": 12,
+    "en": "Or he is as good as dead, since he lives far away and is no use to you.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 779,
@@ -1905,14 +2174,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Speakest thou from thy heart?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Do you speak from your heart?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Do you speak from your heart?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 780,
@@ -1924,17 +2192,18 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "And from my soul too,\nOr else beshrew them both.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "And I speak from my soul."
-    },
-    {
-     "en": "Otherwise, may they both be cursed."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "And I speak from my soul.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Otherwise, may they both be cursed.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 781,
@@ -1946,14 +2215,13 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Amen.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Amen."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Amen.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 782,
@@ -1965,14 +2233,13 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "What?",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "What?"
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "What?",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 783,
@@ -1984,26 +2251,33 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Well, thou hast comforted me marvellous much.\nGo in, and tell my lady I am gone,\nHaving displeas’d my father, to Lawrence’ cell,\nTo make confession and to be absolv’d.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Well, you have comforted me very much."
-    },
-    {
-     "en": "Go in and tell my lady that I am gone."
-    },
-    {
-     "en": "I have upset my father."
-    },
-    {
-     "en": "I am going to Lawrence's cell."
-    },
-    {
-     "en": "I must go to confess and be absolved."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Well, you have comforted me very much.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Go in and tell my lady that I am gone.",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "I have upset my father.",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "I am going to Lawrence's cell.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "I must go to confess and be forgiven.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 784,
@@ -2015,17 +2289,18 @@
   "speaker": "NURSE",
   "delivery": null,
   "raw": "Marry, I will; and this is wisely done.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Indeed, I will do that."
-    },
-    {
-     "en": "This is a wise thing to do."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Of course I will.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "This is a wise thing to do.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 785,
@@ -2049,41 +2324,48 @@
   "speaker": "JULIET",
   "delivery": null,
   "raw": "Ancient damnation! O most wicked fiend!\nIs it more sin to wish me thus forsworn,\nOr to dispraise my lord with that same tongue\nWhich she hath prais’d him with above compare\nSo many thousand times? Go, counsellor.\nThou and my bosom henceforth shall be twain.\nI’ll to the Friar to know his remedy.\nIf all else fail, myself have power to die.",
-  "sentences": [],
-  "drafts": {
-   "gemma4_gloss": [
-    {
-     "en": "Ancient damnation!"
-    },
-    {
-     "en": "Oh, you wicked fiend!"
-    },
-    {
-     "en": "Is it a greater sin for me to break my promise?"
-    },
-    {
-     "en": "Or is it worse to speak badly of my lord?"
-    },
-    {
-     "en": "I use the same tongue that she used to praise him."
-    },
-    {
-     "en": "She praised him more than anyone else many times."
-    },
-    {
-     "en": "Go, counselor."
-    },
-    {
-     "en": "From now on, you and my heart will be two different things."
-    },
-    {
-     "en": "I will go to the Friar to find his remedy."
-    },
-    {
-     "en": "If everything else fails, I have the power to die."
-    }
-   ]
-  }
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Damned old woman!",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Oh, you wicked fiend!",
+    "ko": ""
+   },
+   {
+    "n": 3,
+    "en": "Is it a worse sin to want me to break my marriage vow?",
+    "ko": ""
+   },
+   {
+    "n": 4,
+    "en": "Or to insult my husband with the same tongue that praised him thousands of times?",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Go, adviser.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "I will never share my secrets with you again.",
+    "ko": ""
+   },
+   {
+    "n": 7,
+    "en": "I will go to the Friar to find his remedy.",
+    "ko": ""
+   },
+   {
+    "n": 8,
+    "en": "If everything else fails, I have the power to die.",
+    "ko": ""
+   }
+  ]
  },
  {
   "id": 787,
