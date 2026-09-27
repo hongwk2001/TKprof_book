@@ -39,7 +39,7 @@ Simplifying and splitting are one step. A separate splitting pass would have to 
 - Without the gloss, gemma writes good plain English but misreads roughly 1 line in 10, e.g. "stumblest on my counsel" became "ignore my advice", and "Anon, good Nurse!" became "Come quickly".
 - The gloss fixed most of those. But explaining a *famous line* in the gloss made gemma swap the explanation in ("A plague o' both your houses" became "A curse on…"). **The gloss explains single words only.**
 - Shakespeare's "and"/"an" meaning "if" is a prompt rule, not a gloss entry: "and" is too common to gloss.
-- About 2–4 misreadings per scene remain even with the gloss (e.g. Juliet's "As sweet repose and rest…"). A clean check is **not** a correct translation, so Stage 6 reads every scene.
+- **Measured over the whole play (Stage 6):** about 45% of the 1,011 model-written items needed a fix (~480 items). The rate ran from about 25% in plain scenes (4.3, 5.2) to 45–50% in wordplay scenes (1.4, 2.4, 5.3). Typical misses were old usage ("Fast" = fast asleep, "doom" = sentence, "partizans" = followers), reversed sense ("Romeo dies" where Paris dies, a threat turned the wrong way) and literal puns. A clean check is **not** a correct translation: every scene was read against Shakespeare.
 - Mechanical repairs are made before checking, never by the model: an entry ending in a comma is joined to the next one (lowercased unless "I" or a name), and a speaker cut off mid-line ends on "—".
 - Retries keep the items that passed, re-ask only the failing ones, and tell the model what was wrong. The same prompt at low temperature gives the same answer.
 
@@ -159,9 +159,9 @@ Scenes range from 222 to 2,483 words. They stay unmerged because a scene is the 
 | 2 | Source download | ✅ `raw/pg1513.txt` |
 | 3 | Parse into speech / direction / header | ✅ 24 chapters, 1,097 items, 11 delivery notes |
 | 3c | Narration builder + preview | ✅ `narrate.py` (prints only; no files) |
-| 4 | Simplified English | ✅ drafts: all 24 scenes in `drafts.gemma4_gloss` (3,641 sentences, avg 7 words). Not yet promoted: Stage 6 reading first |
+| 4 | Simplified English | ✅ gemma4 + gloss, all 24 scenes |
 | 5 | Korean | ⬜ glossary drafted; register table TODO |
-| 6 | Audit + human read | ⬜ |
+| 6 | Audit + human read | ✅ English: every scene read against Shakespeare, fixes applied by tag, promoted to `sentences` (3,486 sentences, 1,250 cards, none over 300 chars). One commit per scene. Korean still to do after Stage 5 |
 | 7 | EPUB | ⬜ optional |
 | 8 | App module + migrate + `_source.json` guard | ⬜ |
 | 9 | Icon, theme, store assets | ⬜ |
