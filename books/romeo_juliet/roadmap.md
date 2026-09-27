@@ -44,6 +44,7 @@ Simplifying and splitting are one step. A separate splitting pass would have to 
 - Retries keep the items that passed, re-ask only the failing ones, and tell the model what was wrong. The same prompt at low temperature gives the same answer.
 
 ### Stage 4 rules (simplified English)
+- **Readability for ESL learners comes first**, above closeness to Shakespeare's wording. An old joke or rude pun becomes a modern equivalent the reader can follow (e.g. the medlar/"open-arse" joke becomes "that bottom-shaped fruit… a long, pointed pear"), never a vague stand-in like "a rude name".
 - Target reading level B1 (intermediate): common words, active voice, at most ~20 words per sentence.
 - No thou / thee / thy / art / doth / 'tis / wherefore / ere / nay / ay. Enforced by a check, not just the prompt.
 - Keep meaning, not wordplay. When a pun can't survive, keep the plain sense and drop the joke.
