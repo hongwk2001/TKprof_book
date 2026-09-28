@@ -9,10 +9,16 @@
   "speaker": null,
   "delivery": null,
   "raw": "Act 4, Scene 3 — Juliet’s Chamber",
-  "sentences": [],
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Juliet’s Chamber",
+    "ko": "줄리엣의 방"
+   }
+  ],
   "summary": {
    "en": "Alone in her room, Juliet is afraid, but she drinks the potion.",
-   "ko": ""
+   "ko": "방에 홀로 남은 줄리엣은 두려워하지만 물약을 마신다."
   }
  },
  {
@@ -41,27 +47,27 @@
    {
     "n": 1,
     "en": "Yes, those clothes are best.",
-    "ko": ""
+    "ko": "그래, 그 옷이 제일 좋겠어."
    },
    {
     "n": 2,
     "en": "But, dear Nurse, please leave me alone tonight.",
-    "ko": ""
+    "ko": "하지만 유모, 오늘 밤은 나를 혼자 있게 해줘."
    },
    {
     "n": 3,
     "en": "I need many prayers.",
-    "ko": ""
+    "ko": "많은 기도가 필요해."
    },
    {
     "n": 4,
     "en": "These prayers will move heaven to smile on my situation.",
-    "ko": ""
+    "ko": "하늘이 내 처지에 미소 짓도록 말이야."
    },
    {
     "n": 5,
     "en": "You know well that my situation is difficult and full of sin.",
-    "ko": ""
+    "ko": "내 상황이 어렵고 죄로 가득 차 있다는 걸 잘 알잖아."
    }
   ]
  },
@@ -91,12 +97,12 @@
    {
     "n": 1,
     "en": "What, are you busy?",
-    "ko": ""
+    "ko": "뭐야, 바쁘니?"
    },
    {
     "n": 2,
     "en": "Do you need my help?",
-    "ko": ""
+    "ko": "내가 도와줄까?"
    }
   ]
  },
@@ -114,27 +120,27 @@
    {
     "n": 1,
     "en": "No, madam.",
-    "ko": ""
+    "ko": "어머니, 아니에요."
    },
    {
     "n": 2,
     "en": "We have gathered the things we need for tomorrow.",
-    "ko": ""
+    "ko": "내일 필요한 것들을 다 챙겼어요."
    },
    {
     "n": 3,
     "en": "So please let me be alone now.",
-    "ko": ""
+    "ko": "그러니 이제 저를 혼자 있게 해주세요."
    },
    {
     "n": 4,
     "en": "Let the nurse stay up with you tonight.",
-    "ko": ""
+    "ko": "오늘 밤은 유모를 어머니 곁에 두세요."
    },
    {
     "n": 5,
     "en": "I am sure you are very busy with this sudden business.",
-    "ko": ""
+    "ko": "갑작스러운 일 때문에 아주 바쁘시다는 걸 알아요."
    }
   ]
  },
@@ -152,12 +158,12 @@
    {
     "n": 1,
     "en": "Good night.",
-    "ko": ""
+    "ko": "잘 자거라."
    },
    {
     "n": 2,
     "en": "Go to bed and rest, for you need it.",
-    "ko": ""
+    "ko": "가서 쉬어라, 네게 휴식이 필요하단다."
    }
   ]
  },
@@ -187,57 +193,57 @@
    {
     "n": 1,
     "en": "Goodbye, and God knows when we will meet again.",
-    "ko": ""
+    "ko": "안녕히. 언제 다시 만날지는 하나님만 아신다."
    },
    {
     "n": 2,
     "en": "I have a faint cold fear moving through my veins that almost freezes the heat of life.",
-    "ko": ""
+    "ko": "생명의 온기를 얼려버릴 듯한 희미하고 차가운 공포가 혈관을 타고 흐른다."
    },
    {
     "n": 3,
     "en": "I will call them back to comfort me.",
-    "ko": ""
+    "ko": "나를 위로해 줄 그들을 불러야 한다."
    },
    {
     "n": 4,
     "en": "Nurse!—What should she do here?",
-    "ko": ""
+    "ko": "유모!—유모가 여기서 뭘 하겠어?"
    },
    {
     "n": 5,
     "en": "I must act out my sad scene alone.",
-    "ko": ""
+    "ko": "슬픈 장면을 혼자 연기해야 한다."
    },
    {
     "n": 6,
     "en": "Come, small bottle.",
-    "ko": ""
+    "ko": "이리 오너라, 작은 병아."
    },
    {
     "n": 7,
     "en": "What if this mixture does not work at all?",
-    "ko": ""
+    "ko": "만약 이 약이 전혀 효과가 없다면 어쩌지?"
    },
    {
     "n": 8,
     "en": "Will I be married tomorrow morning then?",
-    "ko": ""
+    "ko": "그러면 내일 아침에 결혼하게 되는 걸까?"
    },
    {
     "n": 9,
     "en": "No, no!",
-    "ko": ""
+    "ko": "안 돼, 안 돼!"
    },
    {
     "n": 10,
     "en": "This will stop that from happening.",
-    "ko": ""
+    "ko": "이것이 막아 줄 거야."
    },
    {
     "n": 11,
     "en": "Lie there.",
-    "ko": ""
+    "ko": "거기 놓여 있어라."
    }
   ]
  },
@@ -255,7 +261,7 @@
    {
     "n": 1,
     "en": "Juliet puts down her dagger, a short knife.",
-    "ko": ""
+    "ko": "줄리엣이 짧은 칼인 단검을 내려놓는다."
    }
   ]
  },
@@ -273,192 +279,192 @@
    {
     "n": 1,
     "en": "What if it is a poison?",
-    "ko": ""
+    "ko": "이게 만약 독이라면?"
    },
    {
     "n": 2,
     "en": "Maybe the friar gave it to me secretly.",
-    "ko": ""
+    "ko": "신부가 몰래 준 것일지도 모른다."
    },
    {
     "n": 3,
     "en": "He might want me to die.",
-    "ko": ""
+    "ko": "그가 내 죽음을 바라는 걸지도 모른다."
    },
    {
     "n": 4,
     "en": "He might fear being dishonored because he married me to Romeo before.",
-    "ko": ""
+    "ko": "나를 로미오와 결혼시킨 일로 명예를 잃을까 봐 두려워하는 걸지도 모른다."
    },
    {
     "n": 5,
     "en": "I fear it is poison.",
-    "ko": ""
+    "ko": "독일지도 모른다는 생각이 든다."
    },
    {
     "n": 6,
     "en": "But I think it cannot be.",
-    "ko": ""
+    "ko": "하지만 그럴 리 없다고 생각한다."
    },
    {
     "n": 7,
     "en": "He has always been a holy man.",
-    "ko": ""
+    "ko": "그는 언제나 성스러운 분이었다."
    },
    {
     "n": 8,
     "en": "What if I wake up in the tomb?",
-    "ko": ""
+    "ko": "무덤에서 깨어나면 어쩌지?"
    },
    {
     "n": 9,
     "en": "What if I wake before Romeo comes to save me?",
-    "ko": ""
+    "ko": "로미오가 구하러 오기 전에 깨어나면 어떡하지?"
    },
    {
     "n": 10,
     "en": "That is a scary possibility!",
-    "ko": ""
+    "ko": "그건 정말 무서운 일이다!"
    },
    {
     "n": 11,
     "en": "Will I not be suffocated in the vault?",
-    "ko": ""
+    "ko": "지하 묘실에서 숨이 막혀 죽지 않을까?"
    },
    {
     "n": 12,
     "en": "No fresh air enters that dirty place.",
-    "ko": ""
+    "ko": "그 더러운 곳에는 신선한 공기가 들어오지 않는다."
    },
    {
     "n": 13,
     "en": "Will I die strangled before my Romeo arrives?",
-    "ko": ""
+    "ko": "로미오가 오기 전에 숨이 막혀 죽지 않을까?"
    },
    {
     "n": 14,
     "en": "Or, if I live, what then?",
-    "ko": ""
+    "ko": "아니면, 살아남는다면 어떻게 될까?"
    },
    {
     "n": 15,
     "en": "The terrible idea of death and night is very scary.",
-    "ko": ""
+    "ko": "죽음과 밤이라는 끔찍한 생각이 너무나 두렵다."
    },
    {
     "n": 16,
     "en": "The location itself is terrifying.",
-    "ko": ""
+    "ko": "장소 자체가 공포스럽다."
    },
    {
     "n": 17,
     "en": "It is an ancient vault for the dead.",
-    "ko": ""
+    "ko": "그곳은 죽은 자들을 위한 오래된 지하 묘실이다."
    },
    {
     "n": 18,
     "en": "For hundreds of years, the bones of my ancestors have been packed there.",
-    "ko": ""
+    "ko": "수백 년 동안 조상들의 유골이 그곳에 쌓여 있다."
    },
    {
     "n": 19,
     "en": "Bloody Tybalt lies there in his shroud.",
-    "ko": ""
+    "ko": "피투성이인 티볼트가 수의를 입고 누워 있다."
    },
    {
     "n": 20,
     "en": "His body is still fresh in the ground.",
-    "ko": ""
+    "ko": "그는 땅에 묻힌 지 얼마 되지 않았다."
    },
    {
     "n": 21,
     "en": "He is rotting in his cloth.",
-    "ko": ""
+    "ko": "수의 속에서 썩어 가고 있다."
    },
    {
     "n": 22,
     "en": "They say that spirits visit this place at some hours of the night.",
-    "ko": ""
+    "ko": "밤의 어느 시간대에 영혼들이 이곳을 찾아온다고 한다."
    },
    {
     "n": 23,
     "en": "Alas, oh no!",
-    "ko": ""
+    "ko": "아, 안 돼!"
    },
    {
     "n": 24,
     "en": "Waking so early, won't I go mad?",
-    "ko": ""
+    "ko": "너무 일찍 깨어나면 미치지 않을까?"
    },
    {
     "n": 25,
     "en": "I would wake early and smell the terrible odors.",
-    "ko": ""
+    "ko": "일찍 깨어나서 끔찍한 악취를 맡게 될 것이다."
    },
    {
     "n": 26,
     "en": "I would hear screams like mandrakes torn from the earth.",
-    "ko": ""
+    "ko": "땅에서 뽑힌 맨드레이크 같은 비명 소리를 듣게 될 것이다."
    },
    {
     "n": 27,
     "en": "Living people go mad when they hear those sounds.",
-    "ko": ""
+    "ko": "사람들은 그 소리를 들으면 미쳐버린다."
    },
    {
     "n": 28,
     "en": "Oh, if I wake, will I not be terrified?",
-    "ko": ""
+    "ko": "오, 만약 깨어난다면 너무 무섭지 않을까?"
    },
    {
     "n": 29,
     "en": "I will be surrounded by all these hideous fears.",
-    "ko": ""
+    "ko": "이 모든 끔찍한 공포에 둘러싸일 것이다."
    },
    {
     "n": 30,
     "en": "Will I play with my ancestors' bones in a mad way?",
-    "ko": ""
+    "ko": "미친 듯이 조상들의 유골을 가지고 놀게 될까?"
    },
    {
     "n": 31,
     "en": "Will I pull the mangled Tybalt from his shroud?",
-    "ko": ""
+    "ko": "갈기갈기 찢긴 티볼트를 수의에서 끌어낼까?"
    },
    {
     "n": 32,
     "en": "And in this rage, will I use a relative's bone as a club?",
-    "ko": ""
+    "ko": "그리고 분노에 차서 친척의 뼈를 몽둥이로 쓰게 될까?"
    },
    {
     "n": 33,
     "en": "Will I smash out my own brains with it?",
-    "ko": ""
+    "ko": "그것으로 내 머리까지 부숴버릴까?"
    },
    {
     "n": 34,
     "en": "Oh look, I think I see my cousin's ghost.",
-    "ko": ""
+    "ko": "오 봐, 사촌의 유령이 보이는 것 같다."
    },
    {
     "n": 35,
     "en": "He is looking for Romeo, who ran his body through with a sword.",
-    "ko": ""
+    "ko": "자기 몸을 칼로 꿰뚫은 로미오를 찾고 있다."
    },
    {
     "n": 36,
     "en": "Stay, Tybalt, stay!",
-    "ko": ""
+    "ko": "멈춰, 티볼트, 멈춰!"
    },
    {
     "n": 37,
     "en": "Romeo, Romeo, Romeo, here is drink!",
-    "ko": ""
+    "ko": "로미오, 로미오, 로미오, 여기 약이 있어!"
    },
    {
     "n": 38,
     "en": "I drink to you.",
-    "ko": ""
+    "ko": "그대를 위해 마신다."
    }
   ]
  },
@@ -476,7 +482,7 @@
    {
     "n": 1,
     "en": "Juliet throws herself on the bed.",
-    "ko": ""
+    "ko": "줄리엣이 침대 위로 몸을 던진다."
    }
   ]
  }
