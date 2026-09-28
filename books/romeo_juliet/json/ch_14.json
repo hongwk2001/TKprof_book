@@ -9,10 +9,16 @@
   "speaker": null,
   "delivery": null,
   "raw": "Act 3, Scene 3 — Friar Lawrence’s cell",
-  "sentences": [],
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Friar Lawrence’s cell",
+    "ko": "로런스 신부의 수도실"
+   }
+  ],
   "summary": {
    "en": "Romeo hides at the Friar's cell, in despair about his banishment. The Friar makes a plan: Romeo will spend the night with Juliet, then go to Mantua.",
-   "ko": ""
+   "ko": "로미오는 신부의 수도실에 숨어 추방 소식에 절망한다. 신부는 계획을 세운다. 로미오는 줄리엣과 밤을 보낸 뒤 만토바로 떠날 것이다."
   }
  },
  {
@@ -41,22 +47,22 @@
    {
     "n": 1,
     "en": "Romeo, come forward.",
-    "ko": ""
+    "ko": "로미오, 앞으로 나오너라."
    },
    {
     "n": 2,
     "en": "Come forward, you fearful man.",
-    "ko": ""
+    "ko": "이 겁먹은 녀석아, 나오너라."
    },
    {
     "n": 3,
     "en": "Trouble has fallen in love with you.",
-    "ko": ""
+    "ko": "고난이 네 몸에 반했구나."
    },
    {
     "n": 4,
     "en": "You are married to disaster.",
-    "ko": ""
+    "ko": "너는 재앙과 결혼한 셈이다."
    }
   ]
  },
@@ -86,17 +92,17 @@
    {
     "n": 1,
     "en": "Father, what is the news?",
-    "ko": ""
+    "ko": "신부님, 소식이 있나요?"
    },
    {
     "n": 2,
     "en": "What is the Prince's sentence?",
-    "ko": ""
+    "ko": "영주님의 판결은 무엇인가요?"
    },
    {
     "n": 3,
     "en": "What new sorrow wants to meet me that I do not know yet?",
-    "ko": ""
+    "ko": "제가 아직 모르는 어떤 슬픔이 저를 찾아오려는 거죠?"
    }
   ]
  },
@@ -114,12 +120,12 @@
    {
     "n": 1,
     "en": "My dear son is too close with such bad company.",
-    "ko": ""
+    "ko": "내 아들이 그런 쓰라린 친구들과 너무 가까이 지내는구나."
    },
    {
     "n": 2,
     "en": "I bring you news of the Prince's sentence.",
-    "ko": ""
+    "ko": "영주님의 판결에 대한 소식을 가져왔다."
    }
   ]
  },
@@ -137,7 +143,7 @@
    {
     "n": 1,
     "en": "Is the Prince's sentence anything less than death?",
-    "ko": ""
+    "ko": "영주님의 판결이 죽음보다 가벼운 건가요?"
    }
   ]
  },
@@ -155,17 +161,17 @@
    {
     "n": 1,
     "en": "He gave a gentler sentence.",
-    "ko": ""
+    "ko": "그분은 더 자비로운 판결을 내리셨다."
    },
    {
     "n": 2,
     "en": "It is not death of the body.",
-    "ko": ""
+    "ko": "육체의 죽음은 아니다."
    },
    {
     "n": 3,
     "en": "It is only banishment of the body.",
-    "ko": ""
+    "ko": "단지 육체의 추방일 뿐이다."
    }
   ]
  },
@@ -183,22 +189,22 @@
    {
     "n": 1,
     "en": "Ha, banishment?",
-    "ko": ""
+    "ko": "하, 추방이라뇨?"
    },
    {
     "n": 2,
     "en": "Be kind and say death.",
-    "ko": ""
+    "ko": "차라리 죽음이라고 말씀하세요."
    },
    {
     "n": 3,
     "en": "Exile looks much more terrifying than death.",
-    "ko": ""
+    "ko": "추방은 죽음보다 훨씬 더 무서운 일이에요."
    },
    {
     "n": 4,
     "en": "Do not say banishment.",
-    "ko": ""
+    "ko": "추방이라는 말은 하지 마세요."
    }
   ]
  },
@@ -216,12 +222,12 @@
    {
     "n": 1,
     "en": "You are banished from Verona.",
-    "ko": ""
+    "ko": "너는 베로나에서 추방되었다."
    },
    {
     "n": 2,
     "en": "Be patient, for the world is broad and wide.",
-    "ko": ""
+    "ko": "인내심을 가져라, 세상은 넓고도 광활하다."
    }
   ]
  },
@@ -239,37 +245,37 @@
    {
     "n": 1,
     "en": "There is no world outside the walls of Verona.",
-    "ko": ""
+    "ko": "베로나 성벽 밖에는 아무런 세상도 없어요."
    },
    {
     "n": 2,
     "en": "It is only purgatory, torture, and hell itself.",
-    "ko": ""
+    "ko": "그곳은 그저 연옥이자 고문이며 지옥 그 자체예요."
    },
    {
     "n": 3,
     "en": "To be banished is to be removed from the world.",
-    "ko": ""
+    "ko": "추방은 세상에서 쫓겨나는 거예요."
    },
    {
     "n": 4,
     "en": "And exile from the world is death.",
-    "ko": ""
+    "ko": "그리고 세상으로부터의 추방은 곧 죽음이에요."
    },
    {
     "n": 5,
     "en": "Then banishment is just another word for death.",
-    "ko": ""
+    "ko": "그러니 추방이라는 말은 죽음을 뜻하는 또 다른 말일 뿐이에요."
    },
    {
     "n": 6,
     "en": "By calling death 'banished', you cut off my head with a golden axe.",
-    "ko": ""
+    "ko": "죽음을 '추방'이라 부르는 건, 황금 도끼로 제 머리를 베는 것과 같아요."
    },
    {
     "n": 7,
     "en": "You smile at the strike that kills me.",
-    "ko": ""
+    "ko": "신부님은 저를 죽이는 일격에 미소 짓고 계세요."
    }
   ]
  },
@@ -287,42 +293,42 @@
    {
     "n": 1,
     "en": "Oh, what a deadly sin!",
-    "ko": ""
+    "ko": "오, 이 얼마나 치명적인 죄인가!"
    },
    {
     "n": 2,
     "en": "You are so ungrateful!",
-    "ko": ""
+    "ko": "정말 배은망덕하구나!"
    },
    {
     "n": 3,
     "en": "Our law calls your crime death.",
-    "ko": ""
+    "ko": "우리 법은 네 죄를 사형으로 규정했다."
    },
    {
     "n": 4,
     "en": "But the kind Prince takes your side.",
-    "ko": ""
+    "ko": "하지만 자비로운 영주께서 네 편을 들어주셨다."
    },
    {
     "n": 5,
     "en": "He ignored the law.",
-    "ko": ""
+    "ko": "법을 옆으로 밀어 두셨지."
    },
    {
     "n": 6,
     "en": "He changed that dark word 'death' to 'banishment'.",
-    "ko": ""
+    "ko": "그분이 그 어두운 단어 '죽음'을 '추방'으로 바꾸어 주셨단 말이다."
    },
    {
     "n": 7,
     "en": "This is a great mercy.",
-    "ko": ""
+    "ko": "이것은 큰 은혜다."
    },
    {
     "n": 8,
     "en": "You do not see it.",
-    "ko": ""
+    "ko": "너는 그것을 보지 못하는구나."
    }
   ]
  },
@@ -340,117 +346,117 @@
    {
     "n": 1,
     "en": "It is torture, not mercy.",
-    "ko": ""
+    "ko": "그건 자비가 아니라 고문이에요."
    },
    {
     "n": 2,
     "en": "Heaven is here where Juliet lives, and every cat and dog lives here in heaven.",
-    "ko": ""
+    "ko": "줄리엣이 사는 이곳이 바로 천국이고, 모든 고양이와 개도 이 천국에 살고 있어요."
    },
    {
     "n": 3,
     "en": "Every little mouse and every unworthy thing lives here in heaven.",
-    "ko": ""
+    "ko": "모든 작은 생쥐와 가치 없는 것들도 모두 이 천국에 살고 있고요."
    },
    {
     "n": 4,
     "en": "They can all look at her, but Romeo cannot.",
-    "ko": ""
+    "ko": "그들은 모두 그녀를 바라볼 수 있지만, 로미오는 그럴 수 없어요."
    },
    {
     "n": 5,
     "en": "Even the flies on dead meat have more worth than Romeo.",
-    "ko": ""
+    "ko": "죽은 고기 위의 파리조차 로미오보다 더 가치 있는 존재예요."
    },
    {
     "n": 6,
     "en": "They have more honor and more chance to court her.",
-    "ko": ""
+    "ko": "그들이 더 명예롭고 그녀에게 구애할 기회도 더 많아요."
    },
    {
     "n": 7,
     "en": "They can grab the white wonder of Juliet's hand.",
-    "ko": ""
+    "ko": "그들은 줄리엣의 하얀 손을 잡을 수도 있고요."
    },
    {
     "n": 8,
     "en": "They can steal an immortal blessing from her lips.",
-    "ko": ""
+    "ko": "그녀의 입술에서 영원한 축복을 훔칠 수도 있어요."
    },
    {
     "n": 9,
     "en": "Her lips are so pure that they still blush.",
-    "ko": ""
+    "ko": "그녀의 입술은 너무 순결해서 늘 붉어져요."
    },
    {
     "n": 10,
     "en": "They think even touching each other is a sin.",
-    "ko": ""
+    "ko": "그들은 서로를 만지는 것조차 죄라고 생각해요."
    },
    {
     "n": 11,
     "en": "But Romeo cannot do this because he is banished.",
-    "ko": ""
+    "ko": "하지만 로미오는 추방당했기 때문에 이럴 수 없어요."
    },
    {
     "n": 12,
     "en": "Flies can do this, while I must fly away.",
-    "ko": ""
+    "ko": "파리들은 할 수 있는데, 저는 도망치듯 날아가야 해요."
    },
    {
     "n": 13,
     "en": "They are free, but I am banished.",
-    "ko": ""
+    "ko": "그놈들은 자유로운데, 저는 추방당했어요."
    },
    {
     "n": 14,
     "en": "Do you still say that exile is not death?",
-    "ko": ""
+    "ko": "여전히 추방이 죽음이 아니라고 말씀하시나요?"
    },
    {
     "n": 15,
     "en": "Did you have no poison, no sharp knife, or no quick way to kill me except 'banished'?",
-    "ko": ""
+    "ko": "저를 죽일 독약도, 날카로운 칼도, 아무리 천한 방법이라도 '추방' 말고 다른 방법은 없었나요?"
    },
    {
     "n": 16,
     "en": "Banished?",
-    "ko": ""
+    "ko": "추방이라니요?"
    },
    {
     "n": 17,
     "en": "Oh Friar, the damned souls in hell use that word.",
-    "ko": ""
+    "ko": "오 신부님, 지옥의 저주받은 영혼들이 쓰는 단어예요."
    },
    {
     "n": 18,
     "en": "Howling follows that word.",
-    "ko": ""
+    "ko": "그 말이 나오면 울부짖음이 뒤따라요."
    },
    {
     "n": 19,
     "en": "How can you have such a heart?",
-    "ko": ""
+    "ko": "어떻게 그렇게 모진 마음을 가지실 수 있어요?"
    },
    {
     "n": 20,
     "en": "You are a holy man and a spiritual priest.",
-    "ko": ""
+    "ko": "신부님은 거룩한 분이시고, 영혼을 돌보는 분이시잖아요."
    },
    {
     "n": 21,
     "en": "You are a person who forgives sins.",
-    "ko": ""
+    "ko": "죄를 사해 주시는 분이고요."
    },
    {
     "n": 22,
     "en": "You are my declared friend.",
-    "ko": ""
+    "ko": "제 친구라고 하셨잖아요."
    },
    {
     "n": 23,
     "en": "How can you hurt me with that word 'banished'?",
-    "ko": ""
+    "ko": "어떻게 '추방'이라는 그 말로 저를 아프게 할 수 있나요?"
    }
   ]
  },
@@ -468,7 +474,7 @@
    {
     "n": 1,
     "en": "You foolish mad man, listen to me speak for a moment.",
-    "ko": ""
+    "ko": "이 어리석은 미친 녀석, 내 말 좀 들어 봐라."
    }
   ]
  },
@@ -486,7 +492,7 @@
    {
     "n": 1,
     "en": "You will speak of banishment again.",
-    "ko": ""
+    "ko": "또 추방 얘기를 하시겠죠."
    }
   ]
  },
@@ -504,17 +510,17 @@
    {
     "n": 1,
     "en": "I will give you armor to protect you from that word.",
-    "ko": ""
+    "ko": "그 말로부터 너를 지켜줄 갑옷을 입혀주마."
    },
    {
     "n": 2,
     "en": "Philosophy is the sweet milk of hard times.",
-    "ko": ""
+    "ko": "철학은 역경 속의 달콤한 젖이다."
    },
    {
     "n": 3,
     "en": "It will comfort you, even though you are banished.",
-    "ko": ""
+    "ko": "비록 추방당할지라도 그것이 네게 위안이 될 거야."
    }
   ]
  },
@@ -532,32 +538,32 @@
    {
     "n": 1,
     "en": "Still banished?",
-    "ko": ""
+    "ko": "아직도 추방이에요?"
    },
    {
     "n": 2,
     "en": "Stop talking about philosophy.",
-    "ko": ""
+    "ko": "철학 따윈 집어치우세요."
    },
    {
     "n": 3,
     "en": "Can philosophy create a Juliet, or move a town, or change a Prince's judgment?",
-    "ko": ""
+    "ko": "철학이 줄리엣을 만들거나, 도시를 옮기거나, 영주님의 판결을 뒤집을 수 있나요?"
    },
    {
     "n": 4,
     "en": "If not, it does not help.",
-    "ko": ""
+    "ko": "그렇지 않다면 아무런 도움이 되지 않아요."
    },
    {
     "n": 5,
     "en": "It does not work.",
-    "ko": ""
+    "ko": "소용없어요."
    },
    {
     "n": 6,
     "en": "Do not talk about it anymore.",
-    "ko": ""
+    "ko": "더 이상 그 얘기는 하지 마세요."
    }
   ]
  },
@@ -575,7 +581,7 @@
    {
     "n": 1,
     "en": "I see that mad men have no ears.",
-    "ko": ""
+    "ko": "미친 자에게는 귀가 없다는 걸 알겠구나."
    }
   ]
  },
@@ -593,7 +599,7 @@
    {
     "n": 1,
     "en": "How could they, when wise men have no eyes?",
-    "ko": ""
+    "ko": "현명한 분들이 눈이 없는데, 미친 사람이 귀가 있을 리 있나요?"
    }
   ]
  },
@@ -611,7 +617,7 @@
    {
     "n": 1,
     "en": "Let me argue with you about your situation.",
-    "ko": ""
+    "ko": "네 처지에 대해 따져 보자."
    }
   ]
  },
@@ -629,37 +635,37 @@
    {
     "n": 1,
     "en": "You cannot speak of what you do not feel.",
-    "ko": ""
+    "ko": "느끼지 못하는 것을 말할 수는 없어요."
    },
    {
     "n": 2,
     "en": "Imagine that you were as young as I and Juliet was your love.",
-    "ko": ""
+    "ko": "신부님이 저처럼 젊고, 줄리엣이 신부님의 사랑이라고 상상해 보세요."
    },
    {
     "n": 3,
     "en": "Imagine you had been married for only one hour and Tybalt was murdered.",
-    "ko": ""
+    "ko": "결혼한 지 겨우 한 시간 만에 티볼트가 살해되었다고 상상해 보세요."
    },
    {
     "n": 4,
     "en": "Imagine you were obsessed with her like me and also sent away forever by law.",
-    "ko": ""
+    "ko": "신부님도 저처럼 그녀에게 빠져 있는데 영원히 추방당했다고 상상해 보세요."
    },
    {
     "n": 5,
     "en": "Then you could speak about it and pull your hair out.",
-    "ko": ""
+    "ko": "그러면 신부님도 말할 수 있을 거예요. 머리카락을 쥐어뜯으면서요."
    },
    {
     "n": 6,
     "en": "You would fall to the ground like I am doing now.",
-    "ko": ""
+    "ko": "지금의 저처럼 바닥에 쓰러질 수도 있겠지요."
    },
    {
     "n": 7,
     "en": "You would be measuring your own grave.",
-    "ko": ""
+    "ko": "아직 파지 않은 자기 무덤의 크기를 재면서요."
    }
   ]
  },
@@ -677,7 +683,7 @@
    {
     "n": 1,
     "en": "Someone knocks at the door.",
-    "ko": ""
+    "ko": "문 밖에서 누군가 두드린다."
    }
   ]
  },
@@ -695,7 +701,7 @@
    {
     "n": 1,
     "en": "Get up. Someone is knocking. Good Romeo, hide yourself.",
-    "ko": ""
+    "ko": "일어나라. 누군가 문을 두드리고 있다. 착한 로미오, 몸을 숨겨라."
    }
   ]
  },
@@ -713,12 +719,12 @@
    {
     "n": 1,
     "en": "I will not.",
-    "ko": ""
+    "ko": "싫어요."
    },
    {
     "n": 2,
     "en": "Unless the breath of sad groans covers me like mist from the eyes of others.",
-    "ko": ""
+    "ko": "비탄에 젖은 신음의 숨결이 안개처럼 저를 감싸 사람들 눈에서 가려 준다면 모를까요."
    }
   ]
  },
@@ -736,7 +742,7 @@
    {
     "n": 1,
     "en": "Someone knocks.",
-    "ko": ""
+    "ko": "누군가 문을 두드린다."
    }
   ]
  },
@@ -754,19 +760,20 @@
    {
     "n": 1,
     "en": "Listen, how they knock! Who is there?",
-    "ko": ""
+    "ko": "저 두드리는 소리 좀 들어 봐! 누구요?"
    },
    {
     "n": 2,
     "en": "Romeo, get up. You will be caught.",
-    "ko": ""
+    "ko": "로미오, 일어나. 들키고 말 거야."
    },
    {
     "n": 3,
     "en": "Wait a moment. Stand up.",
-    "ko": ""
+    "ko": "잠깐만요! 일어서라."
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 672,
@@ -782,7 +789,7 @@
    {
     "n": 1,
     "en": "Someone knocks.",
-    "ko": ""
+    "ko": "누군가 문을 두드린다."
    }
   ]
  },
@@ -800,24 +807,25 @@
    {
     "n": 1,
     "en": "Run to my study.",
-    "ko": ""
+    "ko": "내 서재로 달려가라."
    },
    {
     "n": 2,
     "en": "I am coming.",
-    "ko": ""
+    "ko": "곧 가요!"
    },
    {
     "n": 3,
     "en": "Good God, how foolish you are being!",
-    "ko": ""
+    "ko": "맙소사, 이게 무슨 어리석은 짓이냐!"
    },
    {
     "n": 4,
     "en": "I am coming.",
-    "ko": ""
+    "ko": "갑니다, 가요."
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 674,
@@ -833,7 +841,7 @@
    {
     "n": 1,
     "en": "Someone knocks.",
-    "ko": ""
+    "ko": "누군가 문을 두드린다."
    }
   ]
  },
@@ -851,9 +859,10 @@
    {
     "n": 1,
     "en": "Who knocks so hard? Where do you come from and what is your purpose?",
-    "ko": ""
+    "ko": "누가 이렇게 세게 두드리시오? 어디서 왔고 무슨 일이오?"
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 676,
@@ -869,12 +878,12 @@
    {
     "n": 1,
     "en": "Let me come in so that you will know my reason.",
-    "ko": ""
+    "ko": "들여보내 주시면 용건을 말씀드릴게요."
    },
    {
     "n": 2,
     "en": "I come from Lady Juliet.",
-    "ko": ""
+    "ko": "줄리엣 아가씨가 보내서 왔어요."
    }
   ]
  },
@@ -892,7 +901,7 @@
    {
     "n": 1,
     "en": "Welcome then.",
-    "ko": ""
+    "ko": "그럼 어서 들어오게."
    }
   ]
  },
@@ -922,12 +931,12 @@
    {
     "n": 1,
     "en": "O holy Friar, tell me, holy Friar, where is my lady's lord?",
-    "ko": ""
+    "ko": "오, 거룩하신 신부님, 말씀해 주세요. 우리 아가씨의 신랑은 어디 계세요?"
    },
    {
     "n": 2,
     "en": "Where is Romeo?",
-    "ko": ""
+    "ko": "로미오는 어디에 있나요?"
    }
   ]
  },
@@ -945,12 +954,12 @@
    {
     "n": 1,
     "en": "He is there on the ground.",
-    "ko": ""
+    "ko": "저기 바닥에 있네."
    },
    {
     "n": 2,
     "en": "He is drunk from his own tears.",
-    "ko": ""
+    "ko": "제 눈물에 취해 있지."
    }
   ]
  },
@@ -968,44 +977,45 @@
    {
     "n": 1,
     "en": "He is in the same state as my young lady.",
-    "ko": ""
+    "ko": "그도 우리 아가씨와 같은 상태예요."
    },
    {
     "n": 2,
     "en": "He is exactly in her situation!",
-    "ko": ""
+    "ko": "정확히 똑같은 상황이라니까요!"
    },
    {
     "n": 3,
     "en": "What a sad sympathy and a pitiful situation.",
-    "ko": ""
+    "ko": "이 무슨 슬픈 닮은꼴이람! 가련한 처지예요."
    },
    {
     "n": 4,
     "en": "She is just like that, crying and sobbing.",
-    "ko": ""
+    "ko": "아가씨는 지금 울고 또 울고 있어요."
    },
    {
     "n": 5,
     "en": "She is crying and blubbering.",
-    "ko": ""
+    "ko": "훌쩍이고 엉엉 울고 있어요."
    },
    {
     "n": 6,
     "en": "Stand up and be a man.",
-    "ko": ""
+    "ko": "일어나세요, 남자라면 일어나세요."
    },
    {
     "n": 7,
     "en": "For Juliet's sake, for her sake, rise and stand.",
-    "ko": ""
+    "ko": "줄리엣을 위해서라도, 그녀를 생각해서라도 일어나세요."
    },
    {
     "n": 8,
     "en": "Why fall into such deep despair?",
-    "ko": ""
+    "ko": "왜 그렇게 깊은 절망에 빠지세요?"
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 682,
@@ -1021,7 +1031,7 @@
    {
     "n": 1,
     "en": "Nurse.",
-    "ko": ""
+    "ko": "유모."
    }
   ]
  },
@@ -1039,7 +1049,7 @@
    {
     "n": 1,
     "en": "Oh sir, death ends everything.",
-    "ko": ""
+    "ko": "아이고 도련님, 죽으면 다 끝이지요."
    }
   ]
  },
@@ -1057,37 +1067,37 @@
    {
     "n": 1,
     "en": "Are you talking about Juliet?",
-    "ko": ""
+    "ko": "줄리엣에 대해 말하는 건가요?"
    },
    {
     "n": 2,
     "en": "How is she doing?",
-    "ko": ""
+    "ko": "그녀는 어떻게 지내고 있나요?"
    },
    {
     "n": 3,
     "en": "Does she think I am a murderer?",
-    "ko": ""
+    "ko": "그녀도 나를 살인자로 생각할까요?"
    },
    {
     "n": 4,
     "en": "I have stained our young joy with blood from her own family.",
-    "ko": ""
+    "ko": "나는 우리 기쁨이 이제 막 피어날 때, 그녀 집안의 피로 더럽혔어요."
    },
    {
     "n": 5,
     "en": "Where is she?",
-    "ko": ""
+    "ko": "그녀는 어디에 있나요?"
    },
    {
     "n": 6,
     "en": "How is she feeling?",
-    "ko": ""
+    "ko": "지금 마음은 어떤가요?"
    },
    {
     "n": 7,
     "en": "What does my secret wife say about our ruined love?",
-    "ko": ""
+    "ko": "몰래 결혼한 내 아내는 깨져 버린 우리 사랑에 대해 뭐라고 하나요?"
    }
   ]
  },
@@ -1105,22 +1115,22 @@
    {
     "n": 1,
     "en": "She says nothing, sir, but she only cries and cries.",
-    "ko": ""
+    "ko": "아무 말도 안 하시고, 그저 울고 또 울기만 해요."
    },
    {
     "n": 2,
     "en": "Now she falls on her bed and then gets up.",
-    "ko": ""
+    "ko": "침대에 쓰러졌다가 다시 일어나기도 하고요."
    },
    {
     "n": 3,
     "en": "She calls out 'Tybalt' and then cries out for Romeo.",
-    "ko": ""
+    "ko": "'티볼트'를 부르다가, 또 로미오를 부르며 울부짖어요."
    },
    {
     "n": 4,
     "en": "Then she falls down again.",
-    "ko": ""
+    "ko": "그러고는 다시 쓰러지곤 해요."
    }
   ]
  },
@@ -1138,27 +1148,27 @@
    {
     "n": 1,
     "en": "It is as if that name hit her like a bullet from a gun.",
-    "ko": ""
+    "ko": "마치 그 이름이 총구에서 발사된 총알처럼 그녀를 죽인 것 같아요."
    },
    {
     "n": 2,
     "en": "That name killed her, just as its cursed hand killed her relative.",
-    "ko": ""
+    "ko": "그 이름의 저주받은 손이 그녀의 친척을 죽였듯이."
    },
    {
     "n": 3,
     "en": "Tell me, Friar.",
-    "ko": ""
+    "ko": "말씀해 주세요, 신부님."
    },
    {
     "n": 4,
     "en": "Tell me where my name stays in this body.",
-    "ko": ""
+    "ko": "제 이름이 이 몸 어디에 들어앉아 있는지 말씀해 주세요."
    },
    {
     "n": 5,
     "en": "Tell me so I can remove that hateful part.",
-    "ko": ""
+    "ko": "그 증오스러운 집을 부숴 버리게요."
    }
   ]
  },
@@ -1176,7 +1186,7 @@
    {
     "n": 1,
     "en": "Romeo draws his sword.",
-    "ko": ""
+    "ko": "로미오가 칼을 뽑는다."
    }
   ]
  },
@@ -1194,279 +1204,280 @@
    {
     "n": 1,
     "en": "Stop your desperate hand.",
-    "ko": ""
+    "ko": "무모한 손을 멈춰라!"
    },
    {
     "n": 2,
     "en": "Are you a man?",
-    "ko": ""
+    "ko": "네가 남자냐?"
    },
    {
     "n": 3,
     "en": "Your body looks like a man's, but your tears are like a woman's.",
-    "ko": ""
+    "ko": "몸은 남자의 형상이지만, 네 눈물은 여자의 것과 같구나."
    },
    {
     "n": 4,
     "en": "Your wild actions show the anger of a beast.",
-    "ko": ""
+    "ko": "너의 거친 행동은 짐승의 분노를 보여준다."
    },
    {
     "n": 5,
     "en": "You look like a shameful woman in a man's body.",
-    "ko": ""
+    "ko": "너는 남자의 몸을 한 부끄러운 여자처럼 보인다."
    },
    {
     "n": 6,
     "en": "You look like a bad beast in both forms!",
-    "ko": ""
+    "ko": "두 모습 모두에서 너는 나쁜 짐승처럼 보이는구나!"
    },
    {
     "n": 7,
     "en": "You have shocked me because I thought you had a calmer nature.",
-    "ko": ""
+    "ko": "나는 네가 더 침착한 줄 알았는데, 놀랐다."
    },
    {
     "n": 8,
     "en": "Did you kill Tybalt?",
-    "ko": ""
+    "ko": "네가 티볼트를 죽였느냐?"
    },
    {
     "n": 9,
     "en": "Do you want to kill yourself?",
-    "ko": ""
+    "ko": "네가 스스로를 죽이고 싶어 하느냐?"
    },
    {
     "n": 10,
     "en": "And would you kill your lady who is the life of your life?",
-    "ko": ""
+    "ko": "네 목숨 안에 사는 네 여인까지 죽이려느냐?"
    },
    {
     "n": 11,
     "en": "Would you do such a hateful thing to yourself?",
-    "ko": ""
+    "ko": "너 자신에게 그런 끔찍한 짓을 하려는 것이냐?"
    },
    {
     "n": 12,
     "en": "Why are you complaining about your birth, heaven, and earth?",
-    "ko": ""
+    "ko": "왜 네 태생과 하늘과 땅을 원망하느냐?"
    },
    {
     "n": 13,
     "en": "Birth, heaven, and earth all meet in you at once.",
-    "ko": ""
+    "ko": "태생과 하늘, 땅이 모두 너에게 한꺼번에 모여 있다."
    },
    {
     "n": 14,
     "en": "You would lose all three at once.",
-    "ko": ""
+    "ko": "그것들을 한꺼번에 모두 잃게 될 것이다."
    },
    {
     "n": 15,
     "en": "Shame on you!",
-    "ko": ""
+    "ko": "부끄러운 줄 알아라!"
    },
    {
     "n": 16,
     "en": "You shame your body, your love, and your mind.",
-    "ko": ""
+    "ko": "너는 네 몸과 사랑, 그리고 정신을 부끄럽게 만든다."
    },
    {
     "n": 17,
     "en": "Like a greedy moneylender, you have plenty of all three.",
-    "ko": ""
+    "ko": "탐욕스러운 고리대금업자처럼 너는 그 세 가지를 모두 풍족하게 가졌다."
    },
    {
     "n": 18,
     "en": "But you do not use them correctly.",
-    "ko": ""
+    "ko": "하지만 그것들을 제대로 사용하지 못하고 있다."
    },
    {
     "n": 19,
     "en": "Your noble body is just a form of wax.",
-    "ko": ""
+    "ko": "너의 고귀한 몸은 단지 밀랍 같은 형상일 뿐이다."
    },
    {
     "n": 20,
     "en": "It does not show the strength of a man.",
-    "ko": ""
+    "ko": "그것은 남자의 힘을 보여주지 못한다."
    },
    {
     "n": 21,
     "en": "Your dear love is just a hollow lie.",
-    "ko": ""
+    "ko": "네 소중한 사랑은 공허한 거짓말에 불과하다."
    },
    {
     "n": 22,
     "en": "It kills the love that you promised to protect.",
-    "ko": ""
+    "ko": "그것은 네가 지키겠다고 약속한 사랑을 죽이고 있다."
    },
    {
     "n": 23,
     "en": "Your intelligence should be a decoration for your body and love.",
-    "ko": ""
+    "ko": "너의 지성은 몸과 사랑을 꾸미는 장식품이 되어야 한다."
    },
    {
     "n": 24,
     "en": "But it is shaped wrongly in how you act.",
-    "ko": ""
+    "ko": "하지만 네 행동 속에서 그것은 잘못된 모양으로 빚어졌다."
    },
    {
     "n": 25,
     "en": "It is like powder in an unskilled soldier's flask.",
-    "ko": ""
+    "ko": "서툰 병사의 화약통에 든 화약 같다."
    },
    {
     "n": 26,
     "en": "It is set on fire by your own ignorance.",
-    "ko": ""
+    "ko": "그것은 너의 무지함에 의해 불이 붙었다."
    },
    {
     "n": 27,
     "en": "And you are hurt by your own defense.",
-    "ko": ""
+    "ko": "그리고 너는 네 무기에 네가 찢기는구나."
    },
    {
     "n": 28,
     "en": "Wake up, man.",
-    "ko": ""
+    "ko": "깨어나라, 사내여."
    },
    {
     "n": 29,
     "en": "Your Juliet is alive.",
-    "ko": ""
+    "ko": "너의 줄리엣은 살아 있다."
    },
    {
     "n": 30,
     "en": "Just now you wanted to die for her sake.",
-    "ko": ""
+    "ko": "방금 너는 그녀를 위해 죽고 싶어 했다."
    },
    {
     "n": 31,
     "en": "You are lucky there.",
-    "ko": ""
+    "ko": "그 점에서는 네가 운이 좋다."
    },
    {
     "n": 32,
     "en": "Tybalt would kill you, but you killed Tybalt.",
-    "ko": ""
+    "ko": "티볼트가 너를 죽였겠지만, 너는 티볼트를 죽였다."
    },
    {
     "n": 33,
     "en": "You are lucky there.",
-    "ko": ""
+    "ko": "그 점에서는 네가 운이 좋다."
    },
    {
     "n": 34,
     "en": "The law that threatened death changed it to exile.",
-    "ko": ""
+    "ko": "죽음으로 위협하던 법은 추방으로 바뀌었다."
    },
    {
     "n": 35,
     "en": "You are lucky there.",
-    "ko": ""
+    "ko": "그 점에서도 네가 운이 좋다."
    },
    {
     "n": 36,
     "en": "Many blessings are on your back.",
-    "ko": ""
+    "ko": "축복이 한 보따리 네 등에 내려앉았다."
    },
    {
     "n": 37,
     "en": "Happiness is courting you in her best clothes.",
-    "ko": ""
+    "ko": "행복이 가장 멋진 옷을 입고 너에게 구애하고 있다."
    },
    {
     "n": 38,
     "en": "But like a sulky, bad-tempered girl, you push away your luck and love.",
-    "ko": ""
+    "ko": "하지만 성질 나쁘고 심술궂은 소녀처럼, 너는 행운과 사랑을 밀어내고 있다."
    },
    {
     "n": 39,
     "en": "Be careful.",
-    "ko": ""
+    "ko": "조심해라."
    },
    {
     "n": 40,
     "en": "People who do this die miserably.",
-    "ko": ""
+    "ko": "이렇게 행동하는 자들은 비참하게 죽는다."
    },
    {
     "n": 41,
     "en": "Go to your love as was planned.",
-    "ko": ""
+    "ko": "계획대로 네 사랑에게 가거라."
    },
    {
     "n": 42,
     "en": "Go up to her room.",
-    "ko": ""
+    "ko": "그녀의 방으로 올라가라."
    },
    {
     "n": 43,
     "en": "Go there now and comfort her.",
-    "ko": ""
+    "ko": "지금 가서 그녀를 위로해라."
    },
    {
     "n": 44,
     "en": "But do not stay until the guards are set.",
-    "ko": ""
+    "ko": "하지만 야경꾼들이 배치될 때까지 머물러서는 안 된다."
    },
    {
     "n": 45,
     "en": "Then you cannot go to Mantua.",
-    "ko": ""
+    "ko": "그러면 너는 만토바로 갈 수 없다."
    },
    {
     "n": 46,
     "en": "You will live there until we find a time.",
-    "ko": ""
+    "ko": "그곳에서 때를 기다리며 지내거라."
    },
    {
     "n": 47,
     "en": "We will announce your marriage.",
-    "ko": ""
+    "ko": "우리는 네 결혼을 발표할 것이다."
    },
    {
     "n": 48,
     "en": "We will make your friends agree again.",
-    "ko": ""
+    "ko": "우리는 친구들의 동의를 다시 얻어낼 것이다."
    },
    {
     "n": 49,
     "en": "We will ask for forgiveness from the Prince.",
-    "ko": ""
+    "ko": "우리는 영주에게 용서를 구할 것이다."
    },
    {
     "n": 50,
     "en": "We will bring you back with much more joy than when you left in sadness.",
-    "ko": ""
+    "ko": "네가 슬픔 속에 떠날 때보다 훨씬 더 큰 기쁨과 함께 너를 데려올 것이다."
    },
    {
     "n": 51,
     "en": "Go now, Nurse.",
-    "ko": ""
+    "ko": "이제 가거라, 유모."
    },
    {
     "n": 52,
     "en": "Give my regards to your lady.",
-    "ko": ""
+    "ko": "아가씨에게 내 안부를 전하게."
    },
    {
     "n": 53,
     "en": "Tell her to hurry everyone in the house to bed.",
-    "ko": ""
+    "ko": "집안사람들을 모두 서둘러 재우라고 하게."
    },
    {
     "n": 54,
     "en": "They are tired from their sad feelings.",
-    "ko": ""
+    "ko": "다들 슬픔에 지쳐 잠들기 쉬울 테니."
    },
    {
     "n": 55,
     "en": "Romeo is coming.",
-    "ko": ""
+    "ko": "로미오가 오고 있다."
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 689,
@@ -1482,24 +1493,25 @@
    {
     "n": 1,
     "en": "Lord, I could have stayed here all night.",
-    "ko": ""
+    "ko": "아이고, 여기서 밤새도록 좋은 말씀을 듣고 싶네요."
    },
    {
     "n": 2,
     "en": "I could have heard good advice.",
-    "ko": ""
+    "ko": "좋은 가르침을 들을 수 있었을 텐데."
    },
    {
     "n": 3,
     "en": "What great learning there is!",
-    "ko": ""
+    "ko": "배움이란 참 대단하네요!"
    },
    {
     "n": 4,
     "en": "My lord, I will tell my lady that you are coming.",
-    "ko": ""
+    "ko": "도련님, 아가씨께 오신다고 전할게요."
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 690,
@@ -1515,7 +1527,7 @@
    {
     "n": 1,
     "en": "Do that, and tell my sweet love to get ready to scold me.",
-    "ko": ""
+    "ko": "그렇게 해주세요, 그리고 내 사랑에게 나를 꾸짖을 준비를 하라고 전해주세요."
    }
   ]
  },
@@ -1533,17 +1545,17 @@
    {
     "n": 1,
     "en": "Here is a ring she told me to give you.",
-    "ko": ""
+    "ko": "아가씨가 드리라고 한 반지예요."
    },
    {
     "n": 2,
     "en": "Hurry, go now.",
-    "ko": ""
+    "ko": "서둘러요, 지금 가세요."
    },
    {
     "n": 3,
     "en": "It is getting very late.",
-    "ko": ""
+    "ko": "시간이 아주 늦어지고 있어요."
    }
   ]
  },
@@ -1573,12 +1585,12 @@
    {
     "n": 1,
     "en": "This gives me great comfort.",
-    "ko": ""
+    "ko": "이게 저에게 큰 위안이 돼요."
    },
    {
     "n": 2,
     "en": "It makes me feel better.",
-    "ko": ""
+    "ko": "마음이 훨씬 편해지네요."
    }
   ]
  },
@@ -1596,42 +1608,42 @@
    {
     "n": 1,
     "en": "Go away now. Good night.",
-    "ko": ""
+    "ko": "이제 그만 가거라. 잘 자거라."
    },
    {
     "n": 2,
     "en": "Everything depends on this.",
-    "ko": ""
+    "ko": "모든 것이 이것에 달려 있다."
    },
    {
     "n": 3,
     "en": "Either leave before the guards are set, or leave at dawn in disguise.",
-    "ko": ""
+    "ko": "야경꾼들이 배치되기 전에 떠나거나, 새벽에 변장을 하고 떠나라."
    },
    {
     "n": 4,
     "en": "Stay for a while in Mantua.",
-    "ko": ""
+    "ko": "만토바에서 당분간 머물러라."
    },
    {
     "n": 5,
     "en": "I will find your man.",
-    "ko": ""
+    "ko": "네 하인을 찾아 두겠다."
    },
    {
     "n": 6,
     "en": "He will tell you of every good thing that happens here.",
-    "ko": ""
+    "ko": "그가 이곳에서 일어나는 모든 좋은 일들을 알려줄 것이다."
    },
    {
     "n": 7,
     "en": "Give me your hand.",
-    "ko": ""
+    "ko": "내 손을 잡아라."
    },
    {
     "n": 8,
     "en": "It is late. Goodbye. Good night.",
-    "ko": ""
+    "ko": "늦었다. 잘 가라. 잘 자거라."
    }
   ]
  },
@@ -1649,17 +1661,17 @@
    {
     "n": 1,
     "en": "A joy greater than all joys is calling me.",
-    "ko": ""
+    "ko": "모든 기쁨보다 더 큰 기쁨이 저를 부르고 있어요."
    },
    {
     "n": 2,
     "en": "If it were not, it would be sad to leave you so quickly.",
-    "ko": ""
+    "ko": "그게 아니라면, 이렇게 빨리 신부님과 헤어지는 게 슬펐을 거예요."
    },
    {
     "n": 3,
     "en": "Goodbye.",
-    "ko": ""
+    "ko": "안녕히 계세요."
    }
   ]
  },
