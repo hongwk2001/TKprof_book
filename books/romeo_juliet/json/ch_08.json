@@ -123,7 +123,7 @@
    {
     "n": 15,
     "en": "Nothing living on earth is so bad that it gives no good.",
-    "ko": "지구상의 살아있는 것 중 아무리 나쁜 것도 아무런 이로움이 없는 것은 없다."
+    "ko": "땅 위에 사는 것 중 아무리 나쁜 것도 쓸모가 없는 것은 없다."
    },
    {
     "n": 16,
@@ -173,7 +173,7 @@
    {
     "n": 1,
     "en": "Inside the small skin of this weak flower poison lives, and medicine has power.",
-    "ko": "이 약한 꽃의 작은 껍질 안에는 독이 있고, 약초는 힘을 가진다."
+    "ko": "이 약한 꽃의 어린 껍질 속에는 독도 있고 약효도 있다."
    },
    {
     "n": 2,
@@ -188,7 +188,7 @@
    {
     "n": 4,
     "en": "Two such opposite kings still live in man as well as in herbs.",
-    "ko": "이런 두 가지 상반된 왕이 약초뿐만 아니라 인간 안에도 공존한다."
+    "ko": "이처럼 상반된 두 왕이 약초에도, 사람에게도 늘 진을 치고 있다."
    },
    {
     "n": 5,
@@ -217,7 +217,7 @@
    {
     "n": 1,
     "en": "Good morning, father.",
-    "ko": "좋은 아침입니다, 신부님."
+    "ko": "좋은 아침이에요, 신부님."
    }
   ]
  },
@@ -240,12 +240,12 @@
    {
     "n": 2,
     "en": "What early voice so sweet greets me?",
-    "ko": "이렇게 이른 시간에 어떤 달콤한 목소리가 나를 반기는가?"
+    "ko": "누구의 목소리가 이리 이른 아침에 다정하게 나를 부르는가?"
    },
    {
     "n": 3,
     "en": "Young son, getting out of bed so early shows a troubled mind.",
-    "ko": "어린 아들아, 이렇게 일찍 침대에서 나오는 것은 마음이 괴롭다는 증거다."
+    "ko": "얘야, 이렇게 일찍 잠자리를 떠난 걸 보니 마음이 어지러운 모양이구나."
    },
    {
     "n": 4,
@@ -265,12 +265,12 @@
    {
     "n": 7,
     "en": "Therefore your early rising tells me you are troubled by some illness.",
-    "ko": "그러므로 네가 일찍 일어난 것은 어떤 병으로 고통받고 있다는 뜻이다."
+    "ko": "그러니 네가 일찍 일어난 걸 보면 무슨 탈이 난 게 분명하다."
    },
    {
     "n": 8,
     "en": "Or if not that, then I am right about this: our Romeo has not been in bed tonight.",
-    "ko": "아니면 그것이 아니라면, 내 말이 맞다. 우리의 로미오는 오늘 밤 침대에 있지 않았다."
+    "ko": "그게 아니라면, 내 짐작이 맞겠지. 우리 로미오는 어젯밤 잠자리에 들지 않았구나."
    }
   ]
  },
@@ -288,7 +288,7 @@
    {
     "n": 1,
     "en": "That last one is true; the sweeter rest was mine.",
-    "ko": "마지막 말씀이 맞습니다. 더 달콤한 휴식은 제 것이었습니다."
+    "ko": "마지막 말씀이 맞아요. 더 달콤한 휴식을 취했거든요."
    }
   ]
  },
@@ -306,14 +306,15 @@
    {
     "n": 1,
     "en": "God forgive sin!",
-    "ko": "신께서 내 죄를 용서하시길!"
+    "ko": "주여, 죄를 용서하소서!"
    },
    {
     "n": 2,
     "en": "Were you with Rosaline?",
     "ko": "로잘린과 함께 있었느냐?"
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 386,
@@ -329,7 +330,7 @@
    {
     "n": 1,
     "en": "With Rosaline, my spiritual father? No.",
-    "ko": "제 영적 스승인 로잘린 말인가요? 아니요."
+    "ko": "로잘린이요, 신부님? 아니에요."
    },
    {
     "n": 2,
@@ -400,7 +401,7 @@
    {
     "n": 6,
     "en": "I bear no hatred, blessed man.",
-    "ko": "축복받은 분이여, 저는 증오심이 없어요."
+    "ko": "거룩하신 신부님, 저는 아무도 미워하지 않아요."
    },
    {
     "n": 7,
@@ -423,7 +424,7 @@
    {
     "n": 1,
     "en": "Be clear, good son.",
-    "ko": "똑바로 말해라, 착한 아들아."
+    "ko": "분명하게 말해라, 얘야."
    },
    {
     "n": 2,
@@ -476,7 +477,7 @@
    {
     "n": 6,
     "en": "But this I pray.",
-    "ko": "하지만 이것만은 빌어요."
+    "ko": "하지만 이것만은 부탁드려요."
    },
    {
     "n": 7,
@@ -504,22 +505,22 @@
    {
     "n": 2,
     "en": "What a change is here!",
-    "ko": "어쩜 이렇게 변했나!"
+    "ko": "이게 웬 변화냐!"
    },
    {
     "n": 3,
     "en": "Is Rosaline, whom you loved so dearly, so soon abandoned?",
-    "ko": "그토록 아끼던 로잘린을 벌써 버린 건가?"
+    "ko": "그토록 사랑하던 로잘린을 이렇게 빨리 버렸단 말이냐?"
    },
    {
     "n": 4,
     "en": "Young men's love then lies not truly in their hearts.",
-    "ko": "젊은이들의 사랑은 진심으로 마음에서 나오는 게 아니야."
+    "ko": "그렇다면 젊은이들의 사랑은 진정 마음에 있는 게 아니로구나."
    },
    {
     "n": 5,
     "en": "It lies only in their eyes.",
-    "ko": "그건 단지 눈에만 머무는 거지."
+    "ko": "그저 눈에 있을 뿐이야."
    },
    {
     "n": 6,
@@ -529,7 +530,7 @@
    {
     "n": 7,
     "en": "How much salt water was wasted, to season a love that does not taste like anything.",
-    "ko": "아무 맛도 없는 사랑을 위해 그 많은 눈물을 낭비하다니."
+    "ko": "맛도 없는 사랑에 간을 하느라 그 많은 소금물을 낭비하다니."
    },
    {
     "n": 8,
@@ -564,7 +565,7 @@
    {
     "n": 14,
     "en": "And have you changed?",
-    "ko": "그런데 이제 변했나?"
+    "ko": "그런데 변했단 말이냐?"
    },
    {
     "n": 15,
@@ -574,7 +575,7 @@
    {
     "n": 16,
     "en": "Women may fall when there is no strength in men.",
-    "ko": "남자의 힘이 없을 때 여자는 쓰러질 수도 있다."
+    "ko": "남자가 이리 약하니 여자가 변심해도 탓할 수 없겠구나."
    }
   ]
  },
@@ -592,7 +593,7 @@
    {
     "n": 1,
     "en": "You often scolded me for loving Rosaline.",
-    "ko": "로잘린을 사랑한다고 제가 꾸중을 들었잖아요."
+    "ko": "로잘린을 사랑한다고 저를 자주 꾸짖으셨잖아요."
    }
   ]
  },
@@ -646,7 +647,7 @@
    {
     "n": 1,
     "en": "You do not put one person in a grave to take another out.",
-    "ko": "한 사람을 꺼내기 위해 다른 사람을 무덤에 넣는 게 아니야."
+    "ko": "하나를 묻고 다른 하나를 꺼내라는 뜻은 아니었다."
    },
    {
     "n": 2,
@@ -697,7 +698,7 @@
    {
     "n": 1,
     "en": "She knew well that your love was like a child reciting words it cannot spell.",
-    "ko": "그녀는 네 사랑이 글자도 못 읽는 아이가 말을 읊는 것과 같다는 걸 잘 알고 있었어."
+    "ko": "그 아가씨는 네 사랑이 글자도 모르면서 외워서 읊는 아이 같다는 걸 알았던 게지."
    },
    {
     "n": 2,
@@ -712,7 +713,7 @@
    {
     "n": 4,
     "en": "I will help you in one way.",
-    "ko": "내가 한 가지 방법으로 도와주마."
+    "ko": "한 가지 이유로 너를 돕겠다."
    },
    {
     "n": 5,
@@ -740,7 +741,7 @@
    {
     "n": 1,
     "en": "Come, let us leave now.",
-    "ko": "어서요, 이제 가요."
+    "ko": "어서요, 가요."
    },
    {
     "n": 2,
@@ -763,7 +764,7 @@
    {
     "n": 1,
     "en": "Act wisely and slowly.",
-    "ko": "현명하고 신중하게 행동해라."
+    "ko": "천천히, 지혜롭게 해라."
    },
    {
     "n": 2,
