@@ -9,10 +9,16 @@
   "speaker": null,
   "delivery": null,
   "raw": "Act 5, Scene 2 — Friar Lawrence’s Cell",
-  "sentences": [],
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Friar Lawrence’s Cell",
+    "ko": "로런스 신부의 수도실"
+   }
+  ],
   "summary": {
    "en": "Friar Lawrence learns that his letter to Romeo never arrived. He hurries to the tomb.",
-   "ko": ""
+   "ko": "로런스 신부는 로미오에게 보낸 편지가 전해지지 않았다는 것을 알게 된다. 그는 서둘러 무덤으로 간다."
   }
  },
  {
@@ -41,14 +47,15 @@
    {
     "n": 1,
     "en": "Holy Franciscan Friar!",
-    "ko": ""
+    "ko": "거룩한 프란치스코회 형제여!"
    },
    {
     "n": 2,
     "en": "Brother, hello!",
-    "ko": ""
+    "ko": "형제여, 계십니까!"
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 974,
@@ -76,22 +83,22 @@
    {
     "n": 1,
     "en": "This should be the voice of Friar John.",
-    "ko": ""
+    "ko": "존 신부 목소리로군."
    },
    {
     "n": 2,
     "en": "Welcome from Mantua.",
-    "ko": ""
+    "ko": "만토바에서 잘 돌아왔네."
    },
    {
     "n": 3,
     "en": "What does Romeo say?",
-    "ko": ""
+    "ko": "로미오는 뭐라던가?"
    },
    {
     "n": 4,
     "en": "Or, if he has written his thoughts, give me his letter.",
-    "ko": ""
+    "ko": "생각을 편지로 적었다면 그 편지를 주게."
    }
   ]
  },
@@ -109,32 +116,32 @@
    {
     "n": 1,
     "en": "I went to find another barefoot friar of our order to go with me.",
-    "ko": ""
+    "ko": "저와 함께 갈 우리 수도회의 다른 맨발 신부를 찾으러 갔어요."
    },
    {
     "n": 2,
     "en": "He was here in this city visiting the sick.",
-    "ko": ""
+    "ko": "그분은 병자들을 돌보러 이 도시에 와 계셨죠."
    },
    {
     "n": 3,
     "en": "When I found him, the town health officers stopped us.",
-    "ko": ""
+    "ko": "그분을 찾았을 때, 마을 보건 관리인들이 우리를 막아 세웠어요."
    },
    {
     "n": 4,
     "en": "They thought we had both been in a house where the plague was spreading.",
-    "ko": ""
+    "ko": "그들은 우리가 역병이 퍼진 집에 함께 있었던 것으로 생각했거든요."
    },
    {
     "n": 5,
     "en": "They sealed the doors and would not let us out.",
-    "ko": ""
+    "ko": "그들은 문을 봉쇄하고 우리를 내보내 주지 않았어요."
    },
    {
     "n": 6,
     "en": "So my trip to Mantua was stopped.",
-    "ko": ""
+    "ko": "그래서 만토바로 가는 제 여정이 중단되었어요."
    }
   ]
  },
@@ -152,7 +159,7 @@
    {
     "n": 1,
     "en": "Then who carried my letter to Romeo?",
-    "ko": ""
+    "ko": "그럼 누가 내 편지를 로미오에게 가져갔나?"
    }
   ]
  },
@@ -170,22 +177,22 @@
    {
     "n": 1,
     "en": "I could not send it.",
-    "ko": ""
+    "ko": "보낼 수가 없었어요."
    },
    {
     "n": 2,
     "en": "Here it is now.",
-    "ko": ""
+    "ko": "여기 그대로 있어요."
    },
    {
     "n": 3,
     "en": "I could not find a messenger to bring it to you.",
-    "ko": ""
+    "ko": "신부님께 도로 가져다줄 사람도 찾을 수 없었어요."
    },
    {
     "n": 4,
     "en": "They were very afraid of the infection.",
-    "ko": ""
+    "ko": "다들 전염병을 너무 무서워했거든요."
    }
   ]
  },
@@ -203,27 +210,27 @@
    {
     "n": 1,
     "en": "Unfortunate luck!",
-    "ko": ""
+    "ko": "운도 없지!"
    },
    {
     "n": 2,
     "en": "By my brotherhood, the letter was not simple but full of important instructions.",
-    "ko": ""
+    "ko": "우리 형제의 의리를 걸고 말하지만, 그 편지는 예사 편지가 아니라 중요한 지시가 가득했네."
    },
    {
     "n": 3,
     "en": "Ignoring it may cause much danger.",
-    "ko": ""
+    "ko": "그걸 전하지 못하면 큰 위험이 생길 수 있네."
    },
    {
     "n": 4,
     "en": "Friar John, go now and get me an iron crowbar.",
-    "ko": ""
+    "ko": "존 신부, 지금 가서 쇠지렛대를 하나 구해 주게."
    },
    {
     "n": 5,
     "en": "Bring it straight to my cell.",
-    "ko": ""
+    "ko": "곧장 내 수도실로 가져오게."
    }
   ]
  },
@@ -241,7 +248,7 @@
    {
     "n": 1,
     "en": "Brother, I will go and bring it to you.",
-    "ko": ""
+    "ko": "형제님, 가서 가져올게요."
    }
   ]
  },
@@ -271,32 +278,32 @@
    {
     "n": 1,
     "en": "Now I must go to the tomb alone.",
-    "ko": ""
+    "ko": "이제 혼자 무덤으로 가야 한다."
    },
    {
     "n": 2,
     "en": "Juliet will wake in three hours.",
-    "ko": ""
+    "ko": "줄리엣은 세 시간 안에 깨어날 것이다."
    },
    {
     "n": 3,
     "en": "She will scold me because Romeo did not know about these events.",
-    "ko": ""
+    "ko": "로미오가 이 일을 모른다는 걸 알면 그 애는 나를 원망하겠지."
    },
    {
     "n": 4,
     "en": "But I will write to Mantua again.",
-    "ko": ""
+    "ko": "하지만 만토바에 다시 편지를 쓰겠다."
    },
    {
     "n": 5,
     "en": "I will keep her in my cell until Romeo comes.",
-    "ko": ""
+    "ko": "로미오가 올 때까지 그 애를 내 수도실에 숨겨 두겠다."
    },
    {
     "n": 6,
     "en": "Poor living body, trapped in a dead man's tomb.",
-    "ko": ""
+    "ko": "죽은 자의 무덤에 갇힌 가여운 산 몸이여."
    }
   ]
  },
