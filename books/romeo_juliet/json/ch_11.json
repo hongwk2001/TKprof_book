@@ -9,10 +9,16 @@
   "speaker": null,
   "delivery": null,
   "raw": "Act 2, Scene 6 — Friar Lawrence’s Cell",
-  "sentences": [],
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Friar Lawrence’s Cell",
+    "ko": "로런스 신부의 수도실"
+   }
+  ],
   "summary": {
    "en": "Romeo and Juliet meet at Friar Lawrence's cell, and he marries them in secret.",
-   "ko": ""
+   "ko": "로미오와 줄리엣이 로런스 신부의 수도실에서 만나고, 신부는 두 사람을 몰래 결혼시킨다."
   }
  },
  {
@@ -41,12 +47,12 @@
    {
     "n": 1,
     "en": "May heaven smile on this holy act.",
-    "ko": ""
+    "ko": "하늘이 이 거룩한 예식에 미소 지어 주시길."
    },
    {
     "n": 2,
     "en": "May it not cause us sorrow later.",
-    "ko": ""
+    "ko": "훗날 슬픔으로 우리를 꾸짖지 않으시길."
    }
   ]
  },
@@ -64,27 +70,27 @@
    {
     "n": 1,
     "en": "Amen, amen.",
-    "ko": ""
+    "ko": "아멘, 아멘."
    },
    {
     "n": 2,
     "en": "Whatever sorrow may come, it cannot outweigh the joy that one short minute with her gives me.",
-    "ko": ""
+    "ko": "어떤 슬픔이 와도, 그녀와 함께하는 짧은 1분의 기쁨보다 클 수는 없어요."
    },
    {
     "n": 3,
     "en": "Just join our hands with holy words.",
-    "ko": ""
+    "ko": "성스러운 말로 우리의 손을 묶어주세요."
    },
    {
     "n": 4,
     "en": "Then let death do what it dares.",
-    "ko": ""
+    "ko": "그다음엔 죽음이 무슨 짓을 하든 상관없어요."
    },
    {
     "n": 5,
     "en": "It is enough that I can call her mine.",
-    "ko": ""
+    "ko": "그녀를 내 사람이라 부를 수 있다는 것만으로도 충분해요."
    }
   ]
  },
@@ -102,32 +108,32 @@
    {
     "n": 1,
     "en": "These violent delights have violent ends and die in their triumph.",
-    "ko": ""
+    "ko": "격렬한 기쁨은 격렬한 결말을 맞이하고 승리의 순간에 사라진다."
    },
    {
     "n": 2,
     "en": "They are like fire and gunpowder, which explode as they kiss.",
-    "ko": ""
+    "ko": "그것들은 입맞추는 순간 터져 버리는 불과 화약 같다."
    },
    {
     "n": 3,
     "en": "Even the sweetest honey becomes sickening when you have too much.",
-    "ko": ""
+    "ko": "가장 달콤한 꿀이라도 너무 많이 먹으면 역겨워지는 법이다."
    },
    {
     "n": 4,
     "en": "Its taste ruins the appetite, so love moderately.",
-    "ko": ""
+    "ko": "그 맛은 식욕을 망치니, 사랑도 적당히 해야 한다."
    },
    {
     "n": 5,
     "en": "That is how love lasts.",
-    "ko": ""
+    "ko": "그래야 사랑이 오래 지속된다."
    },
    {
     "n": 6,
     "en": "Going too fast gets you there as late as going too slow.",
-    "ko": ""
+    "ko": "너무 빨리 서두르는 것은 너무 느리게 가는 것만큼이나 늦게 도착하게 만든다."
    }
   ]
  },
@@ -157,22 +163,22 @@
    {
     "n": 1,
     "en": "Here comes the lady.",
-    "ko": ""
+    "ko": "아가씨가 오는구나."
    },
    {
     "n": 2,
     "en": "Her step is so light it would never wear down the hard stone path.",
-    "ko": ""
+    "ko": "그녀의 발걸음은 매우 가벼워 딱딱한 돌길을 전혀 닳게 하지 않는다."
    },
    {
     "n": 3,
     "en": "A lover could walk on the spider threads that float in the summer air and not fall.",
-    "ko": ""
+    "ko": "연인은 여름 공중에 떠다니는 거미줄 위를 걸어도 떨어지지 않을 것이다."
    },
    {
     "n": 4,
     "en": "Earthly joy is that light.",
-    "ko": ""
+    "ko": "세상의 기쁨이란 그렇게 가벼운 것이다."
    }
   ]
  },
@@ -190,7 +196,7 @@
    {
     "n": 1,
     "en": "Good evening, Father.",
-    "ko": ""
+    "ko": "안녕하세요, 신부님."
    }
   ]
  },
@@ -208,7 +214,7 @@
    {
     "n": 1,
     "en": "Romeo will thank you, daughter, for both of us.",
-    "ko": ""
+    "ko": "딸아, 로미오가 우리 둘 몫까지 네게 인사할 게다."
    }
   ]
  },
@@ -226,7 +232,7 @@
    {
     "n": 1,
     "en": "Then I give him the same thanks, or his thanks would be too much.",
-    "ko": ""
+    "ko": "그럼 저도 로미오에게 똑같이 인사해야죠. 안 그러면 그의 인사가 과분하니까요."
    }
   ]
  },
@@ -244,27 +250,27 @@
    {
     "n": 1,
     "en": "Ah, Juliet.",
-    "ko": ""
+    "ko": "아, 줄리엣."
    },
    {
     "n": 2,
     "en": "Your joy may be as great as mine, and you may be better at showing it.",
-    "ko": ""
+    "ko": "당신의 기쁨도 나만큼 크고, 표현하는 솜씨는 더 좋을 거예요."
    },
    {
     "n": 3,
     "en": "Then sweeten this air with your breath.",
-    "ko": ""
+    "ko": "그럼 당신의 숨결로 이 공기를 달콤하게 채워주세요."
    },
    {
     "n": 4,
     "en": "Let the music of rich words tell our story.",
-    "ko": ""
+    "ko": "아름다운 말들의 선율이 우리의 이야기를 들려주게 하세요."
    },
    {
     "n": 5,
     "en": "Let it show the happiness we both feel from this dear meeting.",
-    "ko": ""
+    "ko": "이 소중한 만남에서 우리 둘이 느끼는 행복을 보여주세요."
    }
   ]
  },
@@ -282,22 +288,22 @@
    {
     "n": 1,
     "en": "My feelings are richer in meaning than in words.",
-    "ko": ""
+    "ko": "제 감정은 화려한 말보다 더 깊은 의미를 담고 있어요."
    },
    {
     "n": 2,
     "en": "They show my true feelings instead of just using fancy words.",
-    "ko": ""
+    "ko": "그저 멋진 말을 쓰는 대신 제 진심을 보여주는 것이니까요."
    },
    {
     "n": 3,
     "en": "Only beggars can count how much they have.",
-    "ko": ""
+    "ko": "자기 재산을 셀 수 있는 사람은 거지뿐이에요."
    },
    {
     "n": 4,
     "en": "But my true love has grown so rich that I cannot count even half of my wealth.",
-    "ko": ""
+    "ko": "하지만 내 진실한 사랑은 너무 커져서, 그 절반도 셀 수 없어요."
    }
   ]
  },
@@ -315,17 +321,17 @@
    {
     "n": 1,
     "en": "Come with me now.",
-    "ko": ""
+    "ko": "이제 나를 따라와라."
    },
    {
     "n": 2,
     "en": "We will finish this quickly.",
-    "ko": ""
+    "ko": "이 일을 빨리 끝내도록 하자."
    },
    {
     "n": 3,
     "en": "You will not be left alone together until the church joins you two as one.",
-    "ko": ""
+    "ko": "교회가 너희 둘을 하나로 맺어 줄 때까지 너희끼리만 두지는 않겠다."
    }
   ]
  },
