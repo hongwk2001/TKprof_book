@@ -160,8 +160,8 @@ Scenes range from 222 to 2,483 words. They stay unmerged because a scene is the 
 | 3 | Parse into speech / direction / header | ✅ 24 chapters, 1,097 items, 11 delivery notes |
 | 3c | Narration builder + preview | ✅ `narrate.py` (prints only; no files) |
 | 4 | Simplified English | ✅ gemma4 + gloss, all 24 scenes |
-| 5 | Korean | ⬜ glossary drafted; register table TODO |
-| 6 | Audit + human read | ✅ English: every scene read against Shakespeare, fixes applied by tag, promoted to `sentences` (3,486 sentences, 1,250 cards, none over 300 chars). One commit per scene. Korean still to do after Stage 5 |
+| 5 | Korean | ✅ gemma4 + glossary + register table, all 24 scenes (3,236 sentences, 0 missing) |
+| 6 | Audit + human read | ✅ English: every scene read against Shakespeare, fixes applied by tag, promoted to `sentences` (3,486 sentences, 1,250 cards, none over 300 chars). One commit per scene. Korean: every scene read against the English and Shakespeare. 581 of 988 items (1,339 sentences) were corrected, not counting 2.2, which was reviewed while building `translate.py`. Most fixes were who a line is spoken to (asides, soliloquies, speeches to the dead) and the speech level that follows from that. All checks pass on the whole play. One commit per scene |
 | 7 | EPUB | ⬜ optional |
 | 8 | App module + migrate + `_source.json` guard | ⬜ |
 | 9 | Icon, theme, store assets | ⬜ |
