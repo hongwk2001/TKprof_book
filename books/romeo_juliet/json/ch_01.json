@@ -9,10 +9,16 @@
   "speaker": null,
   "delivery": null,
   "raw": "Act 1, Scene 1 — A public place",
-  "sentences": [],
+  "sentences": [
+   {
+    "n": 1,
+    "en": "A public place",
+    "ko": "광장"
+   }
+  ],
   "summary": {
    "en": "Two families, the Montagues and the Capulets, hate each other. Their servants start a street fight, and the Prince warns everyone. Romeo is sad because Rosaline does not love him.",
-   "ko": ""
+   "ko": "몬태규 가문과 캐퓰릿 가문은 서로 미워한다. 두 집안의 하인들이 거리에서 싸움을 일으키고, 영주가 모두에게 경고한다. 로미오는 로잘린이 자신을 사랑하지 않아 슬퍼한다."
   }
  },
  {
@@ -41,54 +47,55 @@
    {
     "n": 1,
     "en": "Two families, both equally respected, live in lovely Verona, where our play takes place.",
-    "ko": ""
+    "ko": "우리 극의 무대인 아름다운 베로나에, 똑같이 존경받는 두 가문이 살고 있습니다."
    },
    {
     "n": 2,
     "en": "An old hatred between them breaks out into new fighting.",
-    "ko": ""
+    "ko": "그들 사이의 오랜 증오가 새로운 싸움으로 터져 나옵니다."
    },
    {
     "n": 3,
     "en": "Citizens' blood makes citizens' hands dirty.",
-    "ko": ""
+    "ko": "시민들의 피가 시민들의 손을 더럽힙니다."
    },
    {
     "n": 4,
     "en": "From these two enemy families, two unlucky lovers are born.",
-    "ko": ""
+    "ko": "원수인 이 두 가문에서 불운한 연인 한 쌍이 태어납니다."
    },
    {
     "n": 5,
     "en": "The stars are against them.",
-    "ko": ""
+    "ko": "별들이 그들의 편이 아닙니다."
    },
    {
     "n": 6,
     "en": "Their sad, unlucky deaths finally bury their parents' fight.",
-    "ko": ""
+    "ko": "그들의 슬프고 불운한 죽음이 마침내 부모들의 싸움을 묻어 버립니다."
    },
    {
     "n": 7,
     "en": "Their doomed love and their parents' endless anger are our story.",
-    "ko": ""
+    "ko": "그들의 비극적인 사랑과 부모들의 끝없는 분노가 우리의 이야기입니다."
    },
    {
     "n": 8,
     "en": "We will show it on our stage for the next two hours.",
-    "ko": ""
+    "ko": "앞으로 두 시간 동안 이 무대에서 그 이야기를 보여 드리겠습니다."
    },
    {
     "n": 9,
     "en": "Only their children's deaths could end that anger.",
-    "ko": ""
+    "ko": "자식들의 죽음만이 그 분노를 끝낼 수 있었습니다."
    },
    {
     "n": 10,
     "en": "If you listen patiently, we will work hard to fix anything we get wrong.",
-    "ko": ""
+    "ko": "참을성 있게 들어 주신다면, 부족한 점은 열심히 채우겠습니다."
    }
-  ]
+  ],
+  "level": "hasipsio"
  },
  {
   "id": 4,
@@ -116,7 +123,7 @@
    {
     "n": 1,
     "en": "Sampson and Gregory enter with swords and shields.",
-    "ko": ""
+    "ko": "샘슨과 그레고리가 칼과 방패를 들고 등장한다."
    }
   ]
  },
@@ -134,7 +141,7 @@
    {
     "n": 1,
     "en": "Gregory, I promise we will not put up with insults.",
-    "ko": ""
+    "ko": "그레고리, 모욕을 참지 않겠다고 약속하마."
    }
   ]
  },
@@ -152,7 +159,7 @@
    {
     "n": 1,
     "en": "No, because then we would be coal sellers.",
-    "ko": ""
+    "ko": "아니, 그러면 우린 석탄 장수가 되는 거잖아."
    }
   ]
  },
@@ -170,7 +177,7 @@
    {
     "n": 1,
     "en": "I mean, if we are angry, we will fight.",
-    "ko": ""
+    "ko": "내 말은, 화가 나면 싸우겠다는 뜻이야."
    }
   ]
  },
@@ -188,7 +195,7 @@
    {
     "n": 1,
     "en": "Yes, while you live, pull your neck out of the collar.",
-    "ko": ""
+    "ko": "그래, 살아 있는 동안 목이 밧줄에 걸리지 않게 조심해."
    }
   ]
  },
@@ -206,7 +213,7 @@
    {
     "n": 1,
     "en": "I strike quickly when I am moved.",
-    "ko": ""
+    "ko": "나는 자극을 받으면 바로 행동해."
    }
   ]
  },
@@ -224,7 +231,7 @@
    {
     "n": 1,
     "en": "But you are not quickly moved to strike.",
-    "ko": ""
+    "ko": "하지만 넌 그렇게 빨리 움직이지 않잖아."
    }
   ]
  },
@@ -242,7 +249,7 @@
    {
     "n": 1,
     "en": "A dog from the house of Montague makes me move.",
-    "ko": ""
+    "ko": "몬태규 집안 개 한 마리만 봐도 나는 움직여."
    }
   ]
  },
@@ -260,17 +267,17 @@
    {
     "n": 1,
     "en": "To move means to stir.",
-    "ko": ""
+    "ko": "움직인다는 건 동요한다는 뜻이야."
    },
    {
     "n": 2,
     "en": "To be brave is to stand your ground.",
-    "ko": ""
+    "ko": "용감하다는 건 자리를 지키는 거야."
    },
    {
     "n": 3,
     "en": "If you are moved, it means you run away.",
-    "ko": ""
+    "ko": "네가 움직인다는 건 겁을 먹고 도망친다는 뜻이고."
    }
   ]
  },
@@ -288,12 +295,12 @@
    {
     "n": 1,
     "en": "A dog of that house will make me stand.",
-    "ko": ""
+    "ko": "그 집안 개라면 나를 버티고 서게 만들지."
    },
    {
     "n": 2,
     "en": "I will push any Montague man or woman off the wall side of the street.",
-    "ko": ""
+    "ko": "몬태규 가문 남자든 여자든 길가 벽 쪽으로 밀어버릴 거야."
    }
   ]
  },
@@ -311,12 +318,12 @@
    {
     "n": 1,
     "en": "That makes you look like a weak slave.",
-    "ko": ""
+    "ko": "그건 네가 약한 노예라는 걸 보여 주는 거야."
    },
    {
     "n": 2,
     "en": "The weakest person is always pushed to the wall.",
-    "ko": ""
+    "ko": "제일 약한 놈이 항상 벽으로 밀려나는 법이야."
    }
   ]
  },
@@ -334,22 +341,22 @@
    {
     "n": 1,
     "en": "That is true.",
-    "ko": ""
+    "ko": "그 말이 맞아."
    },
    {
     "n": 2,
     "en": "Women are weaker, so they are always pushed to the wall.",
-    "ko": ""
+    "ko": "여자는 약하니까 항상 벽 쪽으로 밀려나지."
    },
    {
     "n": 3,
     "en": "Therefore, I will push Montague's men away from the wall.",
-    "ko": ""
+    "ko": "그러니 몬태규 가문 남자들은 벽에서 멀리 밀어버릴 거야."
    },
    {
     "n": 4,
     "en": "I will push his maids to the wall.",
-    "ko": ""
+    "ko": "그들의 하녀들은 벽으로 밀어버릴 거고."
    }
   ]
  },
@@ -367,7 +374,7 @@
    {
     "n": 1,
     "en": "The fight is only between our masters and us, their men.",
-    "ko": ""
+    "ko": "싸움은 우리 주인들, 그리고 우리 하인들끼리의 일이야."
    }
   ]
  },
@@ -385,22 +392,22 @@
    {
     "n": 1,
     "en": "It is all the same.",
-    "ko": ""
+    "ko": "다 똑같은 거지."
    },
    {
     "n": 2,
     "en": "I will act like a tyrant.",
-    "ko": ""
+    "ko": "난 폭군처럼 행동할 거야."
    },
    {
     "n": 3,
     "en": "When I have fought with the men, I will be polite to the maids.",
-    "ko": ""
+    "ko": "남자들과 싸운 뒤에는 하녀들에게 예의를 갖춰줄게."
    },
    {
     "n": 4,
     "en": "I will cut off their heads.",
-    "ko": ""
+    "ko": "그들의 머리를 잘라버릴 거니까."
    }
   ]
  },
@@ -418,7 +425,7 @@
    {
     "n": 1,
     "en": "The heads of the maids?",
-    "ko": ""
+    "ko": "하녀들의 머리라고?"
    }
   ]
  },
@@ -436,17 +443,17 @@
    {
     "n": 1,
     "en": "Yes, the heads of the maids.",
-    "ko": ""
+    "ko": "그래, 하녀들의 머리 말이야."
    },
    {
     "n": 2,
     "en": "Or their virginity.",
-    "ko": ""
+    "ko": "아니면 그들의 순결이거나."
    },
    {
     "n": 3,
     "en": "Take it in whatever sense you want.",
-    "ko": ""
+    "ko": "네가 원하는 대로 해석해."
    }
   ]
  },
@@ -464,7 +471,7 @@
    {
     "n": 1,
     "en": "They must take it in the sense that they feel it.",
-    "ko": ""
+    "ko": "그들이 느끼는 대로 받아들여야지."
    }
   ]
  },
@@ -482,12 +489,12 @@
    {
     "n": 1,
     "en": "They will feel me while I am able to stand.",
-    "ko": ""
+    "ko": "내가 서 있는 동안 사람들은 나를 주목할 거야."
    },
    {
     "n": 2,
     "en": "It is known that I am a handsome piece of flesh.",
-    "ko": ""
+    "ko": "내 몸이 아주 멋지다는 건 누구나 아는 사실이지."
    }
   ]
  },
@@ -505,22 +512,22 @@
    {
     "n": 1,
     "en": "It is good that you are not a fish.",
-    "ko": ""
+    "ko": "네가 물고기가 아니라서 다행이네."
    },
    {
     "n": 2,
     "en": "If you were a fish, you would be a dried, salted fish.",
-    "ko": ""
+    "ko": "물고기였다면 말린 소금물고기가 됐을 거야."
    },
    {
     "n": 3,
     "en": "Draw your weapon.",
-    "ko": ""
+    "ko": "무기를 꺼내."
    },
    {
     "n": 4,
     "en": "Here come some men from the house of Montagues.",
-    "ko": ""
+    "ko": "몬태규 가문 사람들이 오고 있어."
    }
   ]
  },
@@ -550,12 +557,12 @@
    {
     "n": 1,
     "en": "My naked weapon is out.",
-    "ko": ""
+    "ko": "내 칼은 이미 뽑혔어."
    },
    {
     "n": 2,
     "en": "Start a fight, and I will back you up.",
-    "ko": ""
+    "ko": "네가 싸움을 시작하면 내가 도와줄게."
    }
   ]
  },
@@ -573,12 +580,12 @@
    {
     "n": 1,
     "en": "How?",
-    "ko": ""
+    "ko": "뭐라고?"
    },
    {
     "n": 2,
     "en": "Will you turn your back and run?",
-    "ko": ""
+    "ko": "등을 돌리고 도망이라도 갈 거야?"
    }
   ]
  },
@@ -596,7 +603,7 @@
    {
     "n": 1,
     "en": "Do not fear me.",
-    "ko": ""
+    "ko": "내 걱정은 마."
    }
   ]
  },
@@ -614,12 +621,12 @@
    {
     "n": 1,
     "en": "No way!",
-    "ko": ""
+    "ko": "말도 안 돼!"
    },
    {
     "n": 2,
     "en": "I am so scared of you!",
-    "ko": ""
+    "ko": "난 네가 너무 무서워!"
    }
   ]
  },
@@ -637,12 +644,12 @@
    {
     "n": 1,
     "en": "Let us keep the law on our side.",
-    "ko": ""
+    "ko": "법이 우리 편에 있게 하자."
    },
    {
     "n": 2,
     "en": "Let them start first.",
-    "ko": ""
+    "ko": "그들이 먼저 시작하게 두자."
    }
   ]
  },
@@ -660,12 +667,12 @@
    {
     "n": 1,
     "en": "I will frown as I walk past.",
-    "ko": ""
+    "ko": "지나갈 때 인상을 써버릴 거야."
    },
    {
     "n": 2,
     "en": "They can take it however they want.",
-    "ko": ""
+    "ko": "그들이 어떻게 반응하든 상관없어."
    }
   ]
  },
@@ -683,17 +690,17 @@
    {
     "n": 1,
     "en": "No, if they dare.",
-    "ko": ""
+    "ko": "아니, 그들이 감히 그런다면."
    },
    {
     "n": 2,
     "en": "I will bite my thumb at them.",
-    "ko": ""
+    "ko": "난 그들에게 엄지손가락을 깨물어 보일 거야."
    },
    {
     "n": 3,
     "en": "It is an insult to them if they accept it.",
-    "ko": ""
+    "ko": "그걸 참고 넘기면 그들에겐 모욕이지."
    }
   ]
  },
@@ -711,7 +718,7 @@
    {
     "n": 1,
     "en": "Do you bite your thumb at us, sir?",
-    "ko": ""
+    "ko": "당신이 우리에게 엄지손가락을 깨물어 보였소?"
    }
   ]
  },
@@ -729,7 +736,7 @@
    {
     "n": 1,
     "en": "I do bite my thumb, sir.",
-    "ko": ""
+    "ko": "그래, 내 엄지손가락을 깨물었어."
    }
   ]
  },
@@ -747,7 +754,7 @@
    {
     "n": 1,
     "en": "Do you bite your thumb at us, sir?",
-    "ko": ""
+    "ko": "당신이 우리에게 엄지손가락을 깨물어 보였소?"
    }
   ]
  },
@@ -765,7 +772,7 @@
    {
     "n": 1,
     "en": "Is the law on our side if I say yes?",
-    "ko": ""
+    "ko": "내가 그렇다고 하면 법이 우리 편이 될까?"
    }
   ]
  },
@@ -783,7 +790,7 @@
    {
     "n": 1,
     "en": "No.",
-    "ko": ""
+    "ko": "아니."
    }
   ]
  },
@@ -801,17 +808,17 @@
    {
     "n": 1,
     "en": "No sir.",
-    "ko": ""
+    "ko": "아니야."
    },
    {
     "n": 2,
     "en": "I do not bite my thumb at you, sir.",
-    "ko": ""
+    "ko": "너를 보고 엄지손가락을 깨문 게 아니야."
    },
    {
     "n": 3,
     "en": "But I bite my thumb, sir.",
-    "ko": ""
+    "ko": "그냥 엄지손가락을 깨물었을 뿐이야."
    }
   ]
  },
@@ -829,7 +836,7 @@
    {
     "n": 1,
     "en": "Do you quarrel, sir?",
-    "ko": ""
+    "ko": "싸우려는 거야?"
    }
   ]
  },
@@ -847,12 +854,12 @@
    {
     "n": 1,
     "en": "Quarrel, sir?",
-    "ko": ""
+    "ko": "싸움이라니?"
    },
    {
     "n": 2,
     "en": "No, sir.",
-    "ko": ""
+    "ko": "아니, 안 해."
    }
   ]
  },
@@ -870,12 +877,12 @@
    {
     "n": 1,
     "en": "But if you do, sir, I am for you.",
-    "ko": ""
+    "ko": "하지만 싸우겠다면 상대해 주지."
    },
    {
     "n": 2,
     "en": "I serve as good a master as you do.",
-    "ko": ""
+    "ko": "우리 주인도 너희 주인만큼 훌륭해."
    }
   ]
  },
@@ -893,7 +900,7 @@
    {
     "n": 1,
     "en": "No better.",
-    "ko": ""
+    "ko": "더 낫지는 않지."
    }
   ]
  },
@@ -911,7 +918,7 @@
    {
     "n": 1,
     "en": "Well, sir.",
-    "ko": ""
+    "ko": "글쎄."
    }
   ]
  },
@@ -941,12 +948,12 @@
    {
     "n": 1,
     "en": "Say better.",
-    "ko": ""
+    "ko": "더 낫다고 말해."
    },
    {
     "n": 2,
     "en": "One of my master's relatives is coming here.",
-    "ko": ""
+    "ko": "내 주인의 친척 중 한 명이 여기 오고 있어."
    }
   ]
  },
@@ -964,7 +971,7 @@
    {
     "n": 1,
     "en": "Yes, better, sir.",
-    "ko": ""
+    "ko": "그래, 더 낫지."
    }
   ]
  },
@@ -982,7 +989,7 @@
    {
     "n": 1,
     "en": "You are lying.",
-    "ko": ""
+    "ko": "거짓말 마."
    }
   ]
  },
@@ -1000,12 +1007,12 @@
    {
     "n": 1,
     "en": "Draw your weapons if you are men.",
-    "ko": ""
+    "ko": "남자라면 무기를 꺼내."
    },
    {
     "n": 2,
     "en": "Gregory, remember to hit him hard.",
-    "ko": ""
+    "ko": "그레고리, 녀석을 세게 때려라."
    }
   ]
  },
@@ -1023,7 +1030,7 @@
    {
     "n": 1,
     "en": "They fight.",
-    "ko": ""
+    "ko": "그들이 싸운다."
    }
   ]
  },
@@ -1041,17 +1048,17 @@
    {
     "n": 1,
     "en": "Stop it, fools!",
-    "ko": ""
+    "ko": "그만해, 바보들아!"
    },
    {
     "n": 2,
     "en": "Put away your swords.",
-    "ko": ""
+    "ko": "칼을 집어넣어."
    },
    {
     "n": 3,
     "en": "You do not know what you are doing.",
-    "ko": ""
+    "ko": "너희가 무슨 짓을 하는지 모르고 있구나."
    }
   ]
  },
@@ -1069,7 +1076,7 @@
    {
     "n": 1,
     "en": "Benvolio beats down their swords.",
-    "ko": ""
+    "ko": "벤볼리오가 그들의 칼을 쳐내며 제압한다."
    }
   ]
  },
@@ -1099,17 +1106,17 @@
    {
     "n": 1,
     "en": "What, have you drawn your sword among these cowardly servants?",
-    "ko": ""
+    "ko": "뭐야, 이 겁쟁이 하인들 사이에서 칼을 뽑아든 거야?"
    },
    {
     "n": 2,
     "en": "Turn around, Benvolio.",
-    "ko": ""
+    "ko": "돌아서라, 벤볼리오."
    },
    {
     "n": 3,
     "en": "Look at your death.",
-    "ko": ""
+    "ko": "네 죽음을 똑똑히 봐라."
    }
   ]
  },
@@ -1127,17 +1134,17 @@
    {
     "n": 1,
     "en": "I am only trying to keep the peace.",
-    "ko": ""
+    "ko": "나는 그저 평화를 지키려는 것뿐이야."
    },
    {
     "n": 2,
     "en": "Put away your sword.",
-    "ko": ""
+    "ko": "칼을 집어넣어."
    },
    {
     "n": 3,
     "en": "Or use it to separate these men with me.",
-    "ko": ""
+    "ko": "아니면 그 칼로 나와 함께 이 사람들을 떼어놓든가."
    }
   ]
  },
@@ -1155,22 +1162,22 @@
    {
     "n": 1,
     "en": "You have your sword out, and you talk of peace?",
-    "ko": ""
+    "ko": "칼을 뽑아 들고서 평화를 말해?"
    },
    {
     "n": 2,
     "en": "I hate that word as much as I hate hell.",
-    "ko": ""
+    "ko": "나는 지옥만큼이나 그 단어를 싫어해."
    },
    {
     "n": 3,
     "en": "I hate all Montagues and I hate you.",
-    "ko": ""
+    "ko": "난 모든 몬태규를 증오하고 너도 증오해."
    },
    {
     "n": 4,
     "en": "Fight me, coward.",
-    "ko": ""
+    "ko": "싸워라, 겁쟁아."
    }
   ]
  },
@@ -1188,7 +1195,7 @@
    {
     "n": 1,
     "en": "They fight.",
-    "ko": ""
+    "ko": "그들이 싸운다."
    }
   ]
  },
@@ -1206,7 +1213,7 @@
    {
     "n": 1,
     "en": "Three or four citizens enter with clubs.",
-    "ko": ""
+    "ko": "몽둥이를 든 시민 세네 명이 들어온다."
    }
   ]
  },
@@ -1224,19 +1231,20 @@
    {
     "n": 1,
     "en": "Get clubs and spears and strike!",
-    "ko": ""
+    "ko": "몽둥이와 창을 가져와 쳐라!"
    },
    {
     "n": 2,
     "en": "Beat them down!",
-    "ko": ""
+    "ko": "때려눕혀라!"
    },
    {
     "n": 3,
     "en": "Down with the Capulets and down with the Montagues!",
-    "ko": ""
+    "ko": "캐퓰릿도 몬태규도 모두 쓰러뜨려라!"
    }
-  ]
+  ],
+  "level": "banmal"
  },
  {
   "id": 58,
@@ -1252,12 +1260,12 @@
    {
     "n": 1,
     "en": "Capulet enters in his gown.",
-    "ko": ""
+    "ko": "캐퓰릿이 실내복 차림으로 들어온다."
    },
    {
     "n": 2,
     "en": "Lady Capulet enters.",
-    "ko": ""
+    "ko": "캐퓰릿 부인이 들어온다."
    }
   ]
  },
@@ -1275,12 +1283,12 @@
    {
     "n": 1,
     "en": "What noise is this?",
-    "ko": ""
+    "ko": "무슨 소란이냐?"
    },
    {
     "n": 2,
     "en": "Give me my long sword!",
-    "ko": ""
+    "ko": "내 긴 칼을 내놔라!"
    }
   ]
  },
@@ -1298,12 +1306,12 @@
    {
     "n": 1,
     "en": "A crutch, a crutch!",
-    "ko": ""
+    "ko": "목발이나 드세요, 목발!"
    },
    {
     "n": 2,
     "en": "Why do you call for a sword?",
-    "ko": ""
+    "ko": "왜 칼을 찾으시는 거예요?"
    }
   ]
  },
@@ -1321,17 +1329,17 @@
    {
     "n": 1,
     "en": "My sword, I say!",
-    "ko": ""
+    "ko": "내 칼을 내놔!"
    },
    {
     "n": 2,
     "en": "Old Montague has come.",
-    "ko": ""
+    "ko": "늙은 몬태규가 왔다."
    },
    {
     "n": 3,
     "en": "He waves his blade in spite of me.",
-    "ko": ""
+    "ko": "그자가 날 약 올리려고 칼을 휘두르고 있어."
    }
   ]
  },
@@ -1349,7 +1357,7 @@
    {
     "n": 1,
     "en": "Montague and Lady Montague enter.",
-    "ko": ""
+    "ko": "몬태규와 몬태규 부인이 들어온다."
    }
   ]
  },
@@ -1367,7 +1375,7 @@
    {
     "n": 1,
     "en": "You villain Capulet, do not hold me and let me go.",
-    "ko": ""
+    "ko": "이 악당 캐퓰릿! 날 붙잡지 마, 놓으라고."
    }
   ]
  },
@@ -1385,7 +1393,7 @@
    {
     "n": 1,
     "en": "You shall not move one foot to look for an enemy.",
-    "ko": ""
+    "ko": "적을 찾으러 한 발짝도 움직이면 안 돼요."
    }
   ]
  },
@@ -1403,7 +1411,7 @@
    {
     "n": 1,
     "en": "Prince Escalus enters with his attendants.",
-    "ko": ""
+    "ko": "에스컬러스 영주가 수행원들과 함께 들어온다."
    }
   ]
  },
@@ -1421,92 +1429,92 @@
    {
     "n": 1,
     "en": "You are rebellious subjects.",
-    "ko": ""
+    "ko": "너희는 반역자들이다."
    },
    {
     "n": 2,
     "en": "You are enemies of peace.",
-    "ko": ""
+    "ko": "너희는 평화의 적이다."
    },
    {
     "n": 3,
     "en": "You stain your steel in this fight.",
-    "ko": ""
+    "ko": "이 싸움으로 칼을 더럽히고 있다."
    },
    {
     "n": 4,
     "en": "Will you not listen?",
-    "ko": ""
+    "ko": "내 말을 듣지 않겠느냐?"
    },
    {
     "n": 5,
     "en": "You men, you beasts!",
-    "ko": ""
+    "ko": "인간도 아닌 짐승 같은 자들아!"
    },
    {
     "n": 6,
     "en": "You put out the fire of your harmful rage with purple fountains coming from your veins.",
-    "ko": ""
+    "ko": "너희는 혈관에서 뿜어져 나오는 보랏빛 분수로 파괴적인 분노를 끄고 있다."
    },
    {
     "n": 7,
     "en": "Under pain of torture, throw your angry weapons to the ground.",
-    "ko": ""
+    "ko": "고문을 당하기 싫거든 성난 무기를 땅에 던져라."
    },
    {
     "n": 8,
     "en": "Listen to the sentence of your prince.",
-    "ko": ""
+    "ko": "영주의 판결을 들어라."
    },
    {
     "n": 9,
     "en": "Old Capulet and Montague, a careless word from you has started three street fights.",
-    "ko": ""
+    "ko": "늙은 캐퓰릿과 몬태규, 너희의 부주의한 말 한마디가 세 건의 거리 싸움을 불러일으켰다."
    },
    {
     "n": 10,
     "en": "They have broken the peace of our streets.",
-    "ko": ""
+    "ko": "그들은 우리 거리의 평화를 깨뜨렸다."
    },
    {
     "n": 11,
     "en": "They have made Verona's old citizens put aside their dignified clothes.",
-    "ko": ""
+    "ko": "그들 때문에 베로나의 노인들이 품위 있는 옷을 벗어 던져야 했다."
    },
    {
     "n": 12,
     "en": "They had to pick up old spears, rusty from years of peace, to stop your poisonous hatred.",
-    "ko": ""
+    "ko": "너희의 독 같은 증오를 막기 위해 그들은 오랜 평화로 녹슨 옛 창을 집어 들어야만 했다."
    },
    {
     "n": 13,
     "en": "If you ever disturb our streets again, your lives will be the price for the peace.",
-    "ko": ""
+    "ko": "다시 거리를 어지럽힌다면, 평화를 깬 대가로 너희 목숨을 내놓게 될 것이다."
    },
    {
     "n": 14,
     "en": "Now, everyone else leave.",
-    "ko": ""
+    "ko": "이제 다른 사람들은 모두 물러나라."
    },
    {
     "n": 15,
     "en": "You, Capulet, will go with me.",
-    "ko": ""
+    "ko": "캐퓰릿, 너는 나와 함께 가라."
    },
    {
     "n": 16,
     "en": "And Montague, come this afternoon to hear my decision in this case.",
-    "ko": ""
+    "ko": "몬태규, 오늘 오후에 내 결정을 들으러 오너라."
    },
    {
     "n": 17,
     "en": "Come to old Free-town, our court of judgment.",
-    "ko": ""
+    "ko": "우리의 재판소가 있는 옛 프리타운으로 오너라."
    },
    {
     "n": 18,
     "en": "Once more, under pain of death, everyone leave.",
-    "ko": ""
+    "ko": "다시 말하노니, 죽고 싶지 않거든 모두 물러가라."
    }
   ]
  },
@@ -1524,12 +1532,12 @@
    {
     "n": 1,
     "en": "Prince and his attendants leave.",
-    "ko": ""
+    "ko": "영주와 수행원들이 떠난다."
    },
    {
     "n": 2,
     "en": "Capulet, Lady Capulet, Tybalt, citizens, and servants also leave.",
-    "ko": ""
+    "ko": "캐퓰릿, 캐퓰릿 부인, 티볼트, 시민들, 그리고 하인들도 모두 떠난다."
    }
   ]
  },
@@ -1547,14 +1555,15 @@
    {
     "n": 1,
     "en": "Who started this old fight again?",
-    "ko": ""
+    "ko": "누가 이 오래된 싸움을 다시 시작했느냐?"
    },
    {
     "n": 2,
     "en": "Speak, nephew; were you here when it began?",
-    "ko": ""
+    "ko": "말해 보거라, 조카야. 싸움이 시작될 때 여기 있었느냐?"
    }
-  ]
+  ],
+  "to": "BENVOLIO"
  },
  {
   "id": 69,
@@ -1570,52 +1579,52 @@
    {
     "n": 1,
     "en": "The servants of your enemy and yours were here.",
-    "ko": ""
+    "ko": "숙부님 댁 하인들과 적의 하인들이 여기 있었어요."
    },
    {
     "n": 2,
     "en": "They were fighting closely before I came near.",
-    "ko": ""
+    "ko": "제가 다가가기 전부터 그들은 맞붙어 싸우고 있었어요."
    },
    {
     "n": 3,
     "en": "I stepped in to separate them.",
-    "ko": ""
+    "ko": "저는 그들을 떼어놓으려고 끼어들었고요."
    },
    {
     "n": 4,
     "en": "In that moment, the angry Tybalt came.",
-    "ko": ""
+    "ko": "그때 화가 난 티볼트가 나타났어요."
    },
    {
     "n": 5,
     "en": "He had his sword ready.",
-    "ko": ""
+    "ko": "그는 칼을 뽑아 들고 있었어요."
    },
    {
     "n": 6,
     "en": "As he shouted defiance at my ears, he swung it over his head and cut the air.",
-    "ko": ""
+    "ko": "그는 제 귀에 대고 도전의 말을 외치며, 머리 위로 칼을 휘둘러 공기를 갈랐어요."
    },
    {
     "n": 7,
     "en": "The wind was not hurt by it.",
-    "ko": ""
+    "ko": "바람은 그 칼에 상처를 입지 않았고요."
    },
    {
     "n": 8,
     "en": "The wind hissed at him in scorn.",
-    "ko": ""
+    "ko": "바람은 비웃듯 그에게 소리를 냈어요."
    },
    {
     "n": 9,
     "en": "While we were trading hits and blows, more people came and fought on different sides.",
-    "ko": ""
+    "ko": "우리가 서로 치고받는 동안, 더 많은 사람들이 몰려와 각자 다른 쪽에서 싸웠어요."
    },
    {
     "n": 10,
     "en": "Until the Prince came and separated both sides.",
-    "ko": ""
+    "ko": "영주께서 오셔서 양측을 갈라놓으실 때까지요."
    }
   ]
  },
@@ -1633,17 +1642,17 @@
    {
     "n": 1,
     "en": "Where is Romeo?",
-    "ko": ""
+    "ko": "로미오는 어디 있니?"
    },
    {
     "n": 2,
     "en": "Did you see him today?",
-    "ko": ""
+    "ko": "오늘 그를 봤어?"
    },
    {
     "n": 3,
     "en": "I am very glad he was not at this fight.",
-    "ko": ""
+    "ko": "그가 이 싸움에 없었다니 정말 다행이야."
    }
   ]
  },
@@ -1661,62 +1670,62 @@
    {
     "n": 1,
     "en": "Madam, it was an hour before the sun rose in the golden window of the east.",
-    "ko": ""
+    "ko": "숙모님, 동쪽의 황금빛 창문으로 해가 뜨기 한 시간 전이었어요."
    },
    {
     "n": 2,
     "en": "A troubled mind forced me to walk outside.",
-    "ko": ""
+    "ko": "불안한 마음 때문에 밖을 걸어 다니게 되었고요."
    },
    {
     "n": 3,
     "en": "I walked under the grove of sycamore trees.",
-    "ko": ""
+    "ko": "저는 플라타너스 숲 아래를 걸었어요."
    },
    {
     "n": 4,
     "en": "Those trees grow toward the west from this side of the city.",
-    "ko": ""
+    "ko": "그 숲은 도시 이쪽에서 서쪽으로 뻗어 있어요."
    },
    {
     "n": 5,
     "en": "I saw your son walking very early.",
-    "ko": ""
+    "ko": "아주 이른 새벽에 숙모님의 아드님이 걷는 것을 보았어요."
    },
    {
     "n": 6,
     "en": "I moved toward him, but he noticed me.",
-    "ko": ""
+    "ko": "제가 다가갔지만, 그는 저를 알아챘어요."
    },
    {
     "n": 7,
     "en": "He hid in the thick part of the woods.",
-    "ko": ""
+    "ko": "그는 숲이 우거진 곳으로 숨어버렸고요."
    },
    {
     "n": 8,
     "en": "I measured his feelings by my own feelings.",
-    "ko": ""
+    "ko": "저는 제 기분에 비추어 그의 마음을 짐작했어요."
    },
    {
     "n": 9,
     "en": "I wanted to be where no one could find me.",
-    "ko": ""
+    "ko": "저는 아무도 찾지 못할 곳에 있고 싶었거든요."
    },
    {
     "n": 10,
     "en": "Even my own company was too much for me.",
-    "ko": ""
+    "ko": "심지어 혼자 있는 것조차 버거웠어요."
    },
    {
     "n": 11,
     "en": "I followed my own mood instead of following his.",
-    "ko": ""
+    "ko": "저는 그를 따라가지 않고 제 기분을 따랐어요."
    },
    {
     "n": 12,
     "en": "I happily avoided him, and he gladly fled from me.",
-    "ko": ""
+    "ko": "저는 기꺼이 그를 피했고, 그도 기꺼이 저를 피해 달아났어요."
    }
   ]
  },
@@ -1734,47 +1743,47 @@
    {
     "n": 1,
     "en": "He has been seen there many mornings.",
-    "ko": ""
+    "ko": "그는 많은 아침에 그곳에서 목격되곤 했다."
    },
    {
     "n": 2,
     "en": "His tears added to the fresh morning dew.",
-    "ko": ""
+    "ko": "그의 눈물은 아침 이슬과 섞였고."
    },
    {
     "n": 3,
     "en": "His deep sighs added more clouds to the sky.",
-    "ko": ""
+    "ko": "그의 깊은 한숨은 하늘에 구름을 더 얹었지."
    },
    {
     "n": 4,
     "en": "But the cheerful sun soon begins to open the curtains of the morning.",
-    "ko": ""
+    "ko": "하지만 밝은 태양은 곧 아침의 커튼을 열기 시작한다."
    },
    {
     "n": 5,
     "en": "Then my sad son leaves the light and goes home.",
-    "ko": ""
+    "ko": "그러면 내 슬픈 아들은 빛을 떠나 집으로 돌아간다."
    },
    {
     "n": 6,
     "en": "He stays in his room alone.",
-    "ko": ""
+    "ko": "그는 방 안에 혼자 머문다."
    },
    {
     "n": 7,
     "en": "He shuts his windows and locks out the daylight.",
-    "ko": ""
+    "ko": "그는 창문을 닫고 햇빛을 차단한다."
    },
    {
     "n": 8,
     "en": "He makes himself an artificial night.",
-    "ko": ""
+    "ko": "그는 스스로를 가짜 밤 속에 가둔다."
    },
    {
     "n": 9,
     "en": "This mood will lead to something dark and bad, unless good advice can remove its cause.",
-    "ko": ""
+    "ko": "좋은 조언이 그 원인을 없애주지 않는다면, 이 기분은 어둡고 나쁜 일로 이어질 것이다."
    }
   ]
  },
@@ -1792,7 +1801,7 @@
    {
     "n": 1,
     "en": "My noble uncle, do you know the cause?",
-    "ko": ""
+    "ko": "숙부님, 그 이유를 아세요?"
    }
   ]
  },
@@ -1810,7 +1819,7 @@
    {
     "n": 1,
     "en": "I do not know it and I cannot learn from him.",
-    "ko": ""
+    "ko": "나는 모르고 그에게 물어볼 수도 없어."
    }
   ]
  },
@@ -1828,7 +1837,7 @@
    {
     "n": 1,
     "en": "Have you tried to talk to him in any way?",
-    "ko": ""
+    "ko": "어떤 방식으로든 대화를 시도해 보셨나요?"
    }
   ]
  },
@@ -1846,52 +1855,52 @@
    {
     "n": 1,
     "en": "Both I and many other friends have tried.",
-    "ko": ""
+    "ko": "나를 포함한 많은 친구가 시도해 봤어."
    },
    {
     "n": 2,
     "en": "But he is the only counselor of his own feelings.",
-    "ko": ""
+    "ko": "하지만 그 애는 자기 마음을 혼자서만 의논하는 아이야."
    },
    {
     "n": 3,
     "en": "He is very private to himself, and I will not say how true it is.",
-    "ko": ""
+    "ko": "그 애는 자기 속을 드러내지 않아. 얼마나 그러는지는 말도 못 할 정도지."
    },
    {
     "n": 4,
     "en": "He is so secret and so close to himself.",
-    "ko": ""
+    "ko": "그는 자신만의 세계에 갇혀 있어."
    },
    {
     "n": 5,
     "en": "He is far from sharing his thoughts or being discovered.",
-    "ko": ""
+    "ko": "생각을 나누거나 남에게 들키는 걸 싫어해."
    },
    {
     "n": 6,
     "en": "He is like a bud bitten by an envious worm.",
-    "ko": ""
+    "ko": "그는 질투심 많은 벌레에게 물린 꽃봉오리 같아."
    },
    {
     "n": 7,
     "en": "It dies before it can open its sweet leaves to the air.",
-    "ko": ""
+    "ko": "달콤한 잎을 공기 중에 펼치기도 전에 시들어버리지."
    },
    {
     "n": 8,
     "en": "Or show its beauty to the sun.",
-    "ko": ""
+    "ko": "태양에게 아름다움을 보여주지도 못하고 말이야."
    },
    {
     "n": 9,
     "en": "If only we could learn why he is sad!",
-    "ko": ""
+    "ko": "그가 왜 슬퍼하는지 알 수만 있다면!"
    },
    {
     "n": 10,
     "en": "We would cure him as gladly as we would learn the cause.",
-    "ko": ""
+    "ko": "원인을 알아내는 것만큼이나 기쁘게 그를 고쳐줄 텐데."
    }
   ]
  },
@@ -1921,17 +1930,17 @@
    {
     "n": 1,
     "en": "Look, here he comes.",
-    "ko": ""
+    "ko": "보세요, 저기 오고 있어요."
    },
    {
     "n": 2,
     "en": "Please step aside.",
-    "ko": ""
+    "ko": "옆으로 비켜주세요."
    },
    {
     "n": 3,
     "en": "I will find out what is wrong, unless he flatly refuses to tell me.",
-    "ko": ""
+    "ko": "그가 단호하게 거절하지 않는다면 제가 무슨 문제가 있는지 알아낼게요."
    }
   ]
  },
@@ -1949,12 +1958,12 @@
    {
     "n": 1,
     "en": "I wish you luck in staying to hear the truth from him.",
-    "ko": ""
+    "ko": "네가 그 애에게서 진실을 듣기를 바란다."
    },
    {
     "n": 2,
     "en": "Come, madam, let us go.",
-    "ko": ""
+    "ko": "자, 부인, 이제 갑시다."
    }
   ]
  },
@@ -1984,7 +1993,7 @@
    {
     "n": 1,
     "en": "Good morning, cousin.",
-    "ko": ""
+    "ko": "좋은 아침이야, 사촌."
    }
   ]
  },
@@ -2002,7 +2011,7 @@
    {
     "n": 1,
     "en": "Is the day so young?",
-    "ko": ""
+    "ko": "아직 이른 아침인가?"
    }
   ]
  },
@@ -2020,7 +2029,7 @@
    {
     "n": 1,
     "en": "It is only nine o'clock.",
-    "ko": ""
+    "ko": "이제 겨우 아홉 시야."
    }
   ]
  },
@@ -2038,12 +2047,12 @@
    {
     "n": 1,
     "en": "Oh, sad hours seem long.",
-    "ko": ""
+    "ko": "오, 슬픈 시간은 길게만 느껴져."
    },
    {
     "n": 2,
     "en": "Was that my father who left so quickly?",
-    "ko": ""
+    "ko": "그렇게 빨리 떠난 사람이 내 아버지였나?"
    }
   ]
  },
@@ -2061,12 +2070,12 @@
    {
     "n": 1,
     "en": "It was.",
-    "ko": ""
+    "ko": "맞아."
    },
    {
     "n": 2,
     "en": "What sadness makes Romeo's hours feel long?",
-    "ko": ""
+    "ko": "무슨 슬픔이 로미오의 시간을 이토록 길게 느끼게 하는 거지?"
    }
   ]
  },
@@ -2084,7 +2093,7 @@
    {
     "n": 1,
     "en": "I do not have the thing that makes time pass quickly.",
-    "ko": ""
+    "ko": "시간을 빨리 가게 할 무언가가 내겐 없어."
    }
   ]
  },
@@ -2102,7 +2111,7 @@
    {
     "n": 1,
     "en": "In love?",
-    "ko": ""
+    "ko": "사랑 때문에?"
    }
   ]
  },
@@ -2120,7 +2129,7 @@
    {
     "n": 1,
     "en": "Out.",
-    "ko": ""
+    "ko": "밖이야."
    }
   ]
  },
@@ -2138,7 +2147,7 @@
    {
     "n": 1,
     "en": "Out of love?",
-    "ko": ""
+    "ko": "사랑 밖이라고?"
    }
   ]
  },
@@ -2156,7 +2165,7 @@
    {
     "n": 1,
     "en": "I am out of favor with the woman I love.",
-    "ko": ""
+    "ko": "내가 사랑하는 여인의 마음 밖에 있어."
    }
   ]
  },
@@ -2174,12 +2183,12 @@
    {
     "n": 1,
     "en": "Love looks so gentle.",
-    "ko": ""
+    "ko": "사랑은 참 부드러워 보이는데."
    },
    {
     "n": 2,
     "en": "It is sad that it is so cruel and rough in real life.",
-    "ko": ""
+    "ko": "실제로는 그렇게 잔인하고 거칠다니 슬프구나."
    }
   ]
  },
@@ -2197,102 +2206,102 @@
    {
     "n": 1,
     "en": "It is sad that love is blindfolded, yet it can still find its way to what it wants!",
-    "ko": ""
+    "ko": "사랑은 눈이 가려져 있는데도 원하는 곳은 잘도 찾아가니 슬픈 일이야!"
    },
    {
     "n": 2,
     "en": "Where shall we eat?",
-    "ko": ""
+    "ko": "어디서 먹을까?"
    },
    {
     "n": 3,
     "en": "Oh me!",
-    "ko": ""
+    "ko": "아, 내 신세야!"
    },
    {
     "n": 4,
     "en": "What fight was here?",
-    "ko": ""
+    "ko": "여기서 무슨 싸움이 있었지?"
    },
    {
     "n": 5,
     "en": "Do not tell me, for I have heard it all.",
-    "ko": ""
+    "ko": "말하지 마, 이미 다 들었으니까."
    },
    {
     "n": 6,
     "en": "There is much to do with hate, but there is even more to do with love.",
-    "ko": ""
+    "ko": "증오에 관한 일도 많지만, 사랑에 관한 일은 훨씬 더 많아."
    },
    {
     "n": 7,
     "en": "Why, then, oh fighting love!",
-    "ko": ""
+    "ko": "그러니 오, 싸우는 사랑이여!"
    },
    {
     "n": 8,
     "en": "Oh loving hate!",
-    "ko": ""
+    "ko": "오 사랑스러운 증오여!"
    },
    {
     "n": 9,
     "en": "Oh anything created from nothing!",
-    "ko": ""
+    "ko": "오 아무것도 없는 데서 태어난 모든 것이여!"
    },
    {
     "n": 10,
     "en": "Oh heavy lightness!",
-    "ko": ""
+    "ko": "오 무거운 가벼움이여!"
    },
    {
     "n": 11,
     "en": "Serious vanity!",
-    "ko": ""
+    "ko": "진지한 허영심이여!"
    },
    {
     "n": 12,
     "en": "A misshapen chaos of beautiful forms!",
-    "ko": ""
+    "ko": "아름다운 형상들이 뒤섞인 기형적인 혼돈이여!"
    },
    {
     "n": 13,
     "en": "A feather of lead.",
-    "ko": ""
+    "ko": "납으로 만든 깃털."
    },
    {
     "n": 14,
     "en": "Bright smoke.",
-    "ko": ""
+    "ko": "밝게 빛나는 연기."
    },
    {
     "n": 15,
     "en": "Cold fire.",
-    "ko": ""
+    "ko": "차가운 불꽃."
    },
    {
     "n": 16,
     "en": "Sick health!",
-    "ko": ""
+    "ko": "병든 건강함!"
    },
    {
     "n": 17,
     "en": "A sleep that stays awake.",
-    "ko": ""
+    "ko": "깨어 있는 채로 잠드는 것."
    },
    {
     "n": 18,
     "en": "It is not what it seems!",
-    "ko": ""
+    "ko": "겉모습과 다른 것이야!"
    },
    {
     "n": 19,
     "en": "I feel this love, but I feel no love in this.",
-    "ko": ""
+    "ko": "이 사랑을 느끼지만, 이 안에서 사랑은 느껴지지 않아."
    },
    {
     "n": 20,
     "en": "Do you not laugh?",
-    "ko": ""
+    "ko": "너는 웃음이 나지 않니?"
    }
   ]
  },
@@ -2310,7 +2319,7 @@
    {
     "n": 1,
     "en": "No friend, I would rather cry.",
-    "ko": ""
+    "ko": "아니 친구야, 차라리 울고 말겠다."
    }
   ]
  },
@@ -2328,7 +2337,7 @@
    {
     "n": 1,
     "en": "Good heart, at what?",
-    "ko": ""
+    "ko": "착한 친구야, 무엇 때문에?"
    }
   ]
  },
@@ -2346,7 +2355,7 @@
    {
     "n": 1,
     "en": "At your good heart's suffering.",
-    "ko": ""
+    "ko": "네 착한 마음이 겪는 고통 때문이지."
    }
   ]
  },
@@ -2364,57 +2373,57 @@
    {
     "n": 1,
     "en": "That is how love breaks the rules.",
-    "ko": ""
+    "ko": "사랑은 원래 규칙을 깨뜨리는 법이야."
    },
    {
     "n": 2,
     "en": "My own sorrows weigh heavily in my chest.",
-    "ko": ""
+    "ko": "내 슬픔이 가슴 속에 무겁게 짓누르고 있어."
    },
    {
     "n": 3,
     "en": "You will add your own sadness to them and make them heavier.",
-    "ko": ""
+    "ko": "네가 네 슬픔을 더하면 내 슬픔은 더 무거워질 거야."
    },
    {
     "n": 4,
     "en": "But the love you have shown adds more grief to my many problems.",
-    "ko": ""
+    "ko": "하지만 네가 보여준 사랑은 나의 수많은 문제에 비탄을 더할 뿐이야."
    },
    {
     "n": 5,
     "en": "Love is a smoke made from the smoke of sighs.",
-    "ko": ""
+    "ko": "사랑은 한숨의 김으로 피어오른 연기야."
    },
    {
     "n": 6,
     "en": "When it is clear, it is a fire sparkling in lovers' eyes.",
-    "ko": ""
+    "ko": "그것이 선명해지면 연인들의 눈 속에서 반짝이는 불꽃이 되지."
    },
    {
     "n": 7,
     "en": "When it is troubled, it is a sea fed by lovers' tears.",
-    "ko": ""
+    "ko": "그것이 요동치면 연인들의 눈물로 채워지는 바다가 돼."
    },
    {
     "n": 8,
     "en": "What else is it?",
-    "ko": ""
+    "ko": "그거 말고 또 무엇이겠어?"
    },
    {
     "n": 9,
     "en": "It is a very careful madness.",
-    "ko": ""
+    "ko": "그건 아주 조심스러운 광기야."
    },
    {
     "n": 10,
     "en": "It is a bitter poison and a preserving sweetness.",
-    "ko": ""
+    "ko": "그건 쓴 독약이자 보존되는 달콤함이지."
    },
    {
     "n": 11,
     "en": "Goodbye, my friend.",
-    "ko": ""
+    "ko": "잘 가라, 내 친구야."
    }
   ]
  },
@@ -2432,7 +2441,7 @@
    {
     "n": 1,
     "en": "Romeo starts to leave.",
-    "ko": ""
+    "ko": "로미오가 떠나려 한다."
    }
   ]
  },
@@ -2450,17 +2459,17 @@
    {
     "n": 1,
     "en": "Wait!",
-    "ko": ""
+    "ko": "기다려!"
    },
    {
     "n": 2,
     "en": "I will go with you.",
-    "ko": ""
+    "ko": "내가 함께 가겠어."
    },
    {
     "n": 3,
     "en": "If you leave me alone, you do me wrong.",
-    "ko": ""
+    "ko": "네가 나를 혼자 두고 가면, 내게 잘못을 저지르는 거야."
    }
   ]
  },
@@ -2478,12 +2487,12 @@
    {
     "n": 1,
     "en": "Tut! I have lost myself and I am not here.",
-    "ko": ""
+    "ko": "쳇! 난 넋이 나갔어. 난 여기 없어."
    },
    {
     "n": 2,
     "en": "This is not Romeo, he is somewhere else.",
-    "ko": ""
+    "ko": "이건 로미오가 아니야, 그는 다른 곳에 있어."
    }
   ]
  },
@@ -2501,7 +2510,7 @@
    {
     "n": 1,
     "en": "Tell me seriously, who do you love?",
-    "ko": ""
+    "ko": "진지하게 말해봐, 넌 누구를 사랑해?"
    }
   ]
  },
@@ -2519,7 +2528,7 @@
    {
     "n": 1,
     "en": "What, should I groan and tell you?",
-    "ko": ""
+    "ko": "뭐라고, 한탄하며 말해주기라도 해야 하나?"
    }
   ]
  },
@@ -2537,12 +2546,12 @@
    {
     "n": 1,
     "en": "Groan? No.",
-    "ko": ""
+    "ko": "한탄이라니? 아니."
    },
    {
     "n": 2,
     "en": "But tell me seriously who it is.",
-    "ko": ""
+    "ko": "하지만 진지하게 그게 누구인지 말해봐."
    }
   ]
  },
@@ -2560,17 +2569,17 @@
    {
     "n": 1,
     "en": "You are asking a sick man to seriously make his will.",
-    "ko": ""
+    "ko": "병든 사람에게 유언을 남기라고 진지하게 묻는구나."
    },
    {
     "n": 2,
     "en": "That is a cruel thing to say to someone so ill.",
-    "ko": ""
+    "ko": "그렇게 아픈 사람에게는 잔인한 말이야."
    },
    {
     "n": 3,
     "en": "Seriously, cousin, I love a woman.",
-    "ko": ""
+    "ko": "진심으로 말하자면, 사촌아, 난 한 여자를 사랑해."
    }
   ]
  },
@@ -2588,7 +2597,7 @@
    {
     "n": 1,
     "en": "I guessed correctly when I thought you were in love.",
-    "ko": ""
+    "ko": "네가 사랑에 빠졌다고 생각했을 때 내 예상이 맞았군."
    }
   ]
  },
@@ -2606,12 +2615,12 @@
    {
     "n": 1,
     "en": "You are a very good shot.",
-    "ko": ""
+    "ko": "너 정말 명사수구나."
    },
    {
     "n": 2,
     "en": "And the woman I love is beautiful.",
-    "ko": ""
+    "ko": "그리고 내가 사랑하는 여자는 아름다워."
    }
   ]
  },
@@ -2629,7 +2638,7 @@
    {
     "n": 1,
     "en": "A beautiful target is the easiest to hit, my friend.",
-    "ko": ""
+    "ko": "내 친구야, 아름다운 목표물은 맞히기가 가장 쉽단다."
    }
   ]
  },
@@ -2647,37 +2656,37 @@
    {
     "n": 1,
     "en": "Actually, you missed that point because she will not be hit by Cupid's arrow.",
-    "ko": ""
+    "ko": "사실 네 말은 틀렸어. 그녀는 큐피드의 화살에 맞지 않거든."
    },
    {
     "n": 2,
     "en": "She thinks like Diana, the goddess who never falls in love.",
-    "ko": ""
+    "ko": "그녀는 절대 사랑에 빠지지 않는 여신 디아나처럼 생각하니까."
    },
    {
     "n": 3,
     "en": "She is well protected to keep her purity and is not affected by the weak arrows of love.",
-    "ko": ""
+    "ko": "그녀는 순결을 지키기 위해 잘 보호받고 있어서, 약한 사랑의 화살이 통하지 않아."
    },
    {
     "n": 4,
     "en": "She will not give in to romantic words or look at men who stare at her with desire.",
-    "ko": ""
+    "ko": "그녀는 로맨틱한 말이나 자신을 갈망하는 눈빛으로 바라보는 남자들에게도 흔들리지 않아."
    },
    {
     "n": 5,
     "en": "She will not give herself to a man's gold.",
-    "ko": ""
+    "ko": "그녀는 남자의 황금에 자신을 팔지도 않아."
    },
    {
     "n": 6,
     "en": "She is very rich in beauty.",
-    "ko": ""
+    "ko": "그녀는 아름다움이 매우 풍부해."
    },
    {
     "n": 7,
     "en": "However, she is poor because her beauty will disappear when she dies.",
-    "ko": ""
+    "ko": "하지만 그녀는 가난해. 죽으면 그 아름다움도 함께 사라지니까."
    }
   ]
  },
@@ -2695,7 +2704,7 @@
    {
     "n": 1,
     "en": "So she has promised to stay pure forever?",
-    "ko": ""
+    "ko": "그럼 그녀가 영원히 순결을 지키겠다고 약속한 거야?"
    }
   ]
  },
@@ -2713,37 +2722,37 @@
    {
     "n": 1,
     "en": "She has made that promise.",
-    "ko": ""
+    "ko": "그녀는 그런 약속을 했어."
    },
    {
     "n": 2,
     "en": "But her strictness wastes her beauty.",
-    "ko": ""
+    "ko": "하지만 그 엄격함이 그녀의 아름다움을 낭비하게 만들지."
    },
    {
     "n": 3,
     "en": "Her behavior stops her beauty from being passed on to the next generation.",
-    "ko": ""
+    "ko": "그녀의 행동은 그녀의 아름다움이 다음 세대로 이어지는 것을 막아."
    },
    {
     "n": 4,
     "en": "She is too beautiful and too wise to win heaven by making me miserable.",
-    "ko": ""
+    "ko": "그녀는 너무 아름답고 현명해서, 나를 불행하게 하며 천국을 얻으려 해."
    },
    {
     "n": 5,
     "en": "She has promised not to love anyone.",
-    "ko": ""
+    "ko": "그녀는 누구도 사랑하지 않겠다고 약속했어."
    },
    {
     "n": 6,
     "en": "Because of that promise, I feel like a dead man.",
-    "ko": ""
+    "ko": "그 약속 때문에 나는 죽은 사람처럼 느껴져."
    },
    {
     "n": 7,
     "en": "I am alive only to tell people about my pain.",
-    "ko": ""
+    "ko": "나는 그저 내 고통을 사람들에게 알리기 위해 살아있을 뿐이야."
    }
   ]
  },
@@ -2761,12 +2770,12 @@
    {
     "n": 1,
     "en": "Listen to me.",
-    "ko": ""
+    "ko": "내 말을 들어."
    },
    {
     "n": 2,
     "en": "Forget about her.",
-    "ko": ""
+    "ko": "그녀는 잊어버려."
    }
   ]
  },
@@ -2784,7 +2793,7 @@
    {
     "n": 1,
     "en": "Then teach me how to forget to think of her.",
-    "ko": ""
+    "ko": "그녀를 잊고 생각하지 않는 법을 가르쳐줘."
    }
   ]
  },
@@ -2802,12 +2811,12 @@
    {
     "n": 1,
     "en": "Let your eyes look freely.",
-    "ko": ""
+    "ko": "눈이 가는 대로 마음껏 봐."
    },
    {
     "n": 2,
     "en": "Look at other beautiful women.",
-    "ko": ""
+    "ko": "다른 아름다운 여인들을 봐."
    }
   ]
  },
@@ -2825,42 +2834,42 @@
    {
     "n": 1,
     "en": "That would only make me think more about how beautiful she is.",
-    "ko": ""
+    "ko": "그건 그녀가 얼마나 아름다운지 더 생각나게 할 뿐이야."
    },
    {
     "n": 2,
     "en": "These happy masks kiss the foreheads of beautiful ladies.",
-    "ko": ""
+    "ko": "이 화려한 가면들이 아름다운 여인들의 이마에 닿아."
    },
    {
     "n": 3,
     "en": "The masks are black.",
-    "ko": ""
+    "ko": "가면은 검은색이야."
    },
    {
     "n": 4,
     "en": "They remind us that they hide something beautiful.",
-    "ko": ""
+    "ko": "그것들은 무언가 아름다운 것을 숨기고 있다는 걸 상기시켜 주지."
    },
    {
     "n": 5,
     "en": "A man who is struck blind cannot forget the precious treasure of his lost sight.",
-    "ko": ""
+    "ko": "눈이 먼 사람은 잃어버린 시력이라는 소중한 보물을 잊을 수 없어."
    },
    {
     "n": 6,
     "en": "Show me a woman who is very beautiful.",
-    "ko": ""
+    "ko": "정말 아름다운 여자를 한 명 보여줘 봐."
    },
    {
     "n": 7,
     "en": "Her beauty would only remind me of the woman who is even more beautiful.",
-    "ko": ""
+    "ko": "그녀의 아름다움은 훨씬 더 아름다운 여자를 떠올리게 할 뿐이야."
    },
    {
     "n": 8,
     "en": "Goodbye, you cannot teach me how to forget.",
-    "ko": ""
+    "ko": "안녕, 넌 내가 잊는 법을 가르쳐줄 수 없어."
    }
   ]
  },
@@ -2878,7 +2887,7 @@
    {
     "n": 1,
     "en": "I will teach you that lesson, or die trying.",
-    "ko": ""
+    "ko": "그 가르침을 꼭 해 주겠어, 못 하면 죽어도 좋아."
    }
   ]
  },
