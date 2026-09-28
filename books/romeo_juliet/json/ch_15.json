@@ -9,10 +9,16 @@
   "speaker": null,
   "delivery": null,
   "raw": "Act 3, Scene 4 — A Room in Capulet’s House",
-  "sentences": [],
+  "sentences": [
+   {
+    "n": 1,
+    "en": "A Room in Capulet’s House",
+    "ko": "캐퓰릿 집의 방"
+   }
+  ],
   "summary": {
    "en": "Capulet decides that Juliet will marry Paris in three days.",
-   "ko": ""
+   "ko": "캐퓰릿은 줄리엣을 사흘 뒤 패리스와 결혼시키기로 한다."
   }
  },
  {
@@ -41,27 +47,27 @@
    {
     "n": 1,
     "en": "Things have happened so badly, sir, that we have had no time to persuade our daughter.",
-    "ko": ""
+    "ko": "상황이 너무 안 좋게 돌아가서, 우리 딸을 설득할 겨를이 없었어요."
    },
    {
     "n": 2,
     "en": "Look, she loved her cousin Tybalt dearly, and so did I.",
-    "ko": ""
+    "ko": "보시다시피 그 애는 사촌 티볼트를 무척 아꼈고, 나도 그랬어요."
    },
    {
     "n": 3,
     "en": "Well, we were born to die.",
-    "ko": ""
+    "ko": "뭐, 우리는 죽기 위해 태어난 존재니까요."
    },
    {
     "n": 4,
     "en": "It is very late, so she will not come down tonight.",
-    "ko": ""
+    "ko": "이미 늦은 시간이라 오늘 밤에는 내려오지 않을 거예요."
    },
    {
     "n": 5,
     "en": "I promise you that if you were not here, I would have been in bed an hour ago.",
-    "ko": ""
+    "ko": "정말이지, 백작이 계시지 않았다면 나는 한 시간 전에 잠자리에 들었을 거예요."
    }
   ]
  },
@@ -79,17 +85,17 @@
    {
     "n": 1,
     "en": "These sad times are not good for courting.",
-    "ko": ""
+    "ko": "이런 슬픈 시기에는 구애하기가 좋지 않네요."
    },
    {
     "n": 2,
     "en": "Good night, Madam.",
-    "ko": ""
+    "ko": "안녕히 주무십시오, 부인."
    },
    {
     "n": 3,
     "en": "Give my regards to your daughter.",
-    "ko": ""
+    "ko": "따님께도 안부 전해 주세요."
    }
   ]
  },
@@ -107,12 +113,12 @@
    {
     "n": 1,
     "en": "I will do that and find out her thoughts early tomorrow.",
-    "ko": ""
+    "ko": "그러지요. 내일 아침 일찍 그 애의 마음을 알아볼게요."
    },
    {
     "n": 2,
     "en": "Tonight she is locked away in her sadness.",
-    "ko": ""
+    "ko": "오늘 밤 그 애는 슬픔에 갇혀 있답니다."
    }
   ]
  },
@@ -130,39 +136,40 @@
    {
     "n": 1,
     "en": "Sir Paris, I will make a bold promise of my child's love.",
-    "ko": ""
+    "ko": "패리스 백작, 내 딸의 사랑은 내가 과감히 약속하리다."
    },
    {
     "n": 2,
     "en": "I think she will be ruled by me in all respects.",
-    "ko": ""
+    "ko": "그 애는 모든 일에 내 뜻을 따를 거요."
    },
    {
     "n": 3,
     "en": "No, more than that, I am sure of it.",
-    "ko": ""
+    "ko": "아니, 틀림없소."
    },
    {
     "n": 4,
     "en": "Wife, go to her before you go to bed.",
-    "ko": ""
+    "ko": "부인, 자기 전에 그 애한테 가 보시오."
    },
    {
     "n": 5,
     "en": "Tell her about my son Paris's love.",
-    "ko": ""
+    "ko": "내 아들 같은 패리스의 사랑을 그 애에게 알려 주시오."
    },
    {
     "n": 6,
     "en": "And tell her, listen, that next Wednesday—",
-    "ko": ""
+    "ko": "그리고 잘 들으라고 하시오. 다음 수요일에—"
    },
    {
     "n": 7,
     "en": "But, wait, what day is this?",
-    "ko": ""
+    "ko": "가만, 오늘이 무슨 요일이지?"
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 703,
@@ -178,7 +185,7 @@
    {
     "n": 1,
     "en": "Monday, my lord.",
-    "ko": ""
+    "ko": "월요일입니다, 어르신."
    }
   ]
  },
@@ -196,49 +203,50 @@
    {
     "n": 1,
     "en": "Monday! Ha, ha!",
-    "ko": ""
+    "ko": "월요일이라! 하하!"
    },
    {
     "n": 2,
     "en": "Well, Wednesday is too soon, so let it be Thursday.",
-    "ko": ""
+    "ko": "음, 수요일은 너무 빠르니 목요일로 해요."
    },
    {
     "n": 3,
     "en": "Tell her that on Thursday she will marry this noble earl.",
-    "ko": ""
+    "ko": "목요일에 이 고귀한 백작과 결혼한다고 그 애에게 말하시오."
    },
    {
     "n": 4,
     "en": "Will you be ready? Do you like this haste?",
-    "ko": ""
+    "ko": "준비되시겠어요? 이렇게 서두르는 게 괜찮으세요?"
    },
    {
     "n": 5,
     "en": "We will not have a big celebration, just one or two friends.",
-    "ko": ""
+    "ko": "큰 잔치는 열지 않고, 한두 명의 친구만 부를 거예요."
    },
    {
     "n": 6,
     "en": "Tybalt was killed so recently.",
-    "ko": ""
+    "ko": "티볼트가 죽은 지 얼마 되지 않았으니까요."
    },
    {
     "n": 7,
     "en": "If we celebrate too much, people might think we did not care about our own relative.",
-    "ko": ""
+    "ko": "너무 크게 축하하면 사람들이 우리 친척을 아끼지 않는다고 생각할지도 몰라요."
    },
    {
     "n": 8,
     "en": "Therefore, we will have about six friends, and that is the end of it.",
-    "ko": ""
+    "ko": "그러니 친구 대여섯만 부르고 그걸로 끝내겠어요."
    },
    {
     "n": 9,
     "en": "But what do you say to Thursday?",
-    "ko": ""
+    "ko": "하지만 목요일은 어떠신가요?"
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 705,
@@ -254,7 +262,7 @@
    {
     "n": 1,
     "en": "My lord, I wish that Thursday were tomorrow.",
-    "ko": ""
+    "ko": "어르신, 목요일이 내일이면 좋겠어요."
    }
   ]
  },
@@ -272,44 +280,45 @@
    {
     "n": 1,
     "en": "Well, go now.",
-    "ko": ""
+    "ko": "자, 그럼 가 보세요."
    },
    {
     "n": 2,
     "en": "Let it be a Thursday then.",
-    "ko": ""
+    "ko": "그럼 목요일로 하죠."
    },
    {
     "n": 3,
     "en": "Go to Juliet before you go to bed.",
-    "ko": ""
+    "ko": "부인, 자기 전에 줄리엣에게 가서"
    },
    {
     "n": 4,
     "en": "Prepare her, wife, for this wedding day.",
-    "ko": ""
+    "ko": "결혼식 준비를 시키시오."
    },
    {
     "n": 5,
     "en": "Goodbye, my lord.",
-    "ko": ""
+    "ko": "안녕히 가시오, 백작."
    },
    {
     "n": 6,
     "en": "Bring a light to my chamber!",
-    "ko": ""
+    "ko": "내 방에 불을 가져와라!"
    },
    {
     "n": 7,
     "en": "My goodness, it is so late that soon we can call it early.",
-    "ko": ""
+    "ko": "원, 이렇게 늦었으니 곧 이르다고 해야겠군."
    },
    {
     "n": 8,
     "en": "Good night.",
-    "ko": ""
+    "ko": "잘 자요."
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 707,
