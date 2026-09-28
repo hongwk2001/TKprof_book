@@ -9,10 +9,16 @@
   "speaker": null,
   "delivery": null,
   "raw": "Act 1, Scene 3 — Room in Capulet’s House",
-  "sentences": [],
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Room in Capulet’s House",
+    "ko": "캐퓰릿 집의 방"
+   }
+  ],
   "summary": {
    "en": "Lady Capulet and the Nurse tell Juliet that Paris wants to marry her. Juliet agrees to look at him at the party.",
-   "ko": ""
+   "ko": "캐퓰릿 부인과 유모가 줄리엣에게 패리스가 청혼했다고 알린다. 줄리엣은 잔치에서 그를 한번 보겠다고 한다."
   }
  },
  {
@@ -41,12 +47,12 @@
    {
     "n": 1,
     "en": "Nurse, where is my daughter?",
-    "ko": ""
+    "ko": "유모, 내 딸은 어디 있니?"
    },
    {
     "n": 2,
     "en": "Call her to me.",
-    "ko": ""
+    "ko": "내게 오라고 불러라."
    }
   ]
  },
@@ -64,19 +70,20 @@
    {
     "n": 1,
     "en": "I swear by the virginity I had at twelve years old, I told her to come.",
-    "ko": ""
+    "ko": "열두 살 때 제 순결을 걸고 말씀드리는데, 오라고 했어요."
    },
    {
     "n": 2,
     "en": "Come, my lamb! Come, my ladybird!",
-    "ko": ""
+    "ko": "이리 오렴, 우리 어린 양! 우리 무당벌레 아가씨!"
    },
    {
     "n": 3,
     "en": "God forbid! Where is this girl? Juliet!",
-    "ko": ""
+    "ko": "어머나! 얘가 어디 갔담? 줄리엣!"
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 161,
@@ -104,7 +111,7 @@
    {
     "n": 1,
     "en": "Who is calling me?",
-    "ko": ""
+    "ko": "누가 나를 부르는 거야?"
    }
   ]
  },
@@ -122,7 +129,7 @@
    {
     "n": 1,
     "en": "Your mother.",
-    "ko": ""
+    "ko": "네 어머니셔."
    }
   ]
  },
@@ -140,14 +147,15 @@
    {
     "n": 1,
     "en": "Madam, I am here.",
-    "ko": ""
+    "ko": "어머니, 저 여기 있어요."
    },
    {
     "n": 2,
     "en": "What would you like?",
-    "ko": ""
+    "ko": "무슨 일이세요?"
    }
-  ]
+  ],
+  "to": "LADY CAPULET"
  },
  {
   "id": 165,
@@ -163,29 +171,30 @@
    {
     "n": 1,
     "en": "This is the matter.",
-    "ko": ""
+    "ko": "일이란 이런 거야."
    },
    {
     "n": 2,
     "en": "Nurse, leave us for a moment because we must talk in secret.",
-    "ko": ""
+    "ko": "유모, 비밀로 이야기해야 하니 잠시 자리를 비켜줘."
    },
    {
     "n": 3,
     "en": "Nurse, come back again.",
-    "ko": ""
+    "ko": "유모, 다시 이리 와."
    },
    {
     "n": 4,
     "en": "I have changed my mind and you should hear our private talk.",
-    "ko": ""
+    "ko": "생각해 보니 유모도 우리 이야기를 들어야겠어."
    },
    {
     "n": 5,
     "en": "You know my daughter is getting quite grown up.",
-    "ko": ""
+    "ko": "유모도 알다시피 내 딸이 이제 꽤 컸잖아."
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 166,
@@ -201,7 +210,7 @@
    {
     "n": 1,
     "en": "I can tell her age to the hour.",
-    "ko": ""
+    "ko": "정확히 몇 살인지 말씀드릴 수 있어요."
    }
   ]
  },
@@ -219,7 +228,7 @@
    {
     "n": 1,
     "en": "She is not fourteen.",
-    "ko": ""
+    "ko": "열네 살이 아니야."
    }
   ]
  },
@@ -237,17 +246,17 @@
    {
     "n": 1,
     "en": "I would bet fourteen of my teeth that she is not fourteen.",
-    "ko": ""
+    "ko": "제 이빨 열네 개를 걸고 말하는데, 그 애는 아직 열네 살이 안 됐어요."
    },
    {
     "n": 2,
     "en": "Sadly, I have only four teeth.",
-    "ko": ""
+    "ko": "안타깝게도 제 이빨은 네 개뿐이지만요."
    },
    {
     "n": 3,
     "en": "How long is it until the harvest festival?",
-    "ko": ""
+    "ko": "추수 축제까지 얼마나 남았죠?"
    }
   ]
  },
@@ -265,7 +274,7 @@
    {
     "n": 1,
     "en": "It is about two weeks and a few days.",
-    "ko": ""
+    "ko": "대략 2주하고도 며칠 정도 남았어."
    }
   ]
  },
@@ -283,177 +292,177 @@
    {
     "n": 1,
     "en": "Even day or odd day, she will be fourteen.",
-    "ko": ""
+    "ko": "홀수일이든 짝수일이든, 그날이면 정확히 열네 살이 돼요."
    },
    {
     "n": 2,
     "en": "It will be on the night before the harvest festival.",
-    "ko": ""
+    "ko": "추수 축제 전날 밤이 될 거예요."
    },
    {
     "n": 3,
     "en": "Susan and she were the same age.",
-    "ko": ""
+    "ko": "수잔과 아이는 나이가 같았어요."
    },
    {
     "n": 4,
     "en": "God rest all Christian souls!",
-    "ko": ""
+    "ko": "하나님께서 모든 그리스도인의 영혼을 돌보시길!"
    },
    {
     "n": 5,
     "en": "Susan is with God now.",
-    "ko": ""
+    "ko": "수잔은 이제 하나님 곁에 있어요."
    },
    {
     "n": 6,
     "en": "She was too good for me.",
-    "ko": ""
+    "ko": "그 애는 저한테는 과분한 아이였죠."
    },
    {
     "n": 7,
     "en": "But as I said, she will be fourteen on that night.",
-    "ko": ""
+    "ko": "하지만 말씀드린 대로, 그날 밤이면 열네 살이 돼요."
    },
    {
     "n": 8,
     "en": "Yes, I remember it well.",
-    "ko": ""
+    "ko": "네, 아주 잘 기억하고 있어요."
    },
    {
     "n": 9,
     "en": "It has been eleven years since the earthquake.",
-    "ko": ""
+    "ko": "지진이 일어난 지 벌써 11년이나 지났어요."
    },
    {
     "n": 10,
     "en": "That was the day she stopped breastfeeding.",
-    "ko": ""
+    "ko": "그날은 아이가 젖을 떼던 날이었죠."
    },
    {
     "n": 11,
     "en": "I will never forget it.",
-    "ko": ""
+    "ko": "절대 잊지 못할 거예요."
    },
    {
     "n": 12,
     "en": "I had put a bitter plant on my breast to stop her nursing.",
-    "ko": ""
+    "ko": "아이가 젖을 떼게 하려고 제 가슴에 쓴 약초를 올려두었거든요."
    },
    {
     "n": 13,
     "en": "I sat in the sun under the wall of the pigeon house.",
-    "ko": ""
+    "ko": "비둘기 집 담벼락 아래 햇볕을 받으며 앉아 있었어요."
    },
    {
     "n": 14,
     "en": "You and your husband were in Mantua, a nearby city, then.",
-    "ko": ""
+    "ko": "그때 마님과 주인님은 근처 도시인 만토바에 계셨죠."
    },
    {
     "n": 15,
     "en": "No, I have a good memory.",
-    "ko": ""
+    "ko": "아니, 제 기억력은 아주 좋다니까요."
    },
    {
     "n": 16,
     "en": "But as I said, she tasted the bitter plant on my breast.",
-    "ko": ""
+    "ko": "하지만 말씀드렸듯이, 아이는 제 가슴에서 쓴 약초 맛을 보았어요."
    },
    {
     "n": 17,
     "en": "The sweet little fool found it bitter.",
-    "ko": ""
+    "ko": "그 귀여운 바보가 그게 쓰다고 느낀 거죠."
    },
    {
     "n": 18,
     "en": "She got cross and pushed my breast away!",
-    "ko": ""
+    "ko": "아이는 화를 내며 제 가슴을 밀쳐냈어요!"
    },
    {
     "n": 19,
     "en": "Then the pigeon house shook from the earthquake.",
-    "ko": ""
+    "ko": "그때 지진으로 비둘기 집이 흔들렸죠."
    },
    {
     "n": 20,
     "en": "Nobody needed to tell me to run!",
-    "ko": ""
+    "ko": "누가 말해주지 않아도 도망쳐야 한다는 걸 알았어요!"
    },
    {
     "n": 21,
     "en": "And since that time, eleven years have passed.",
-    "ko": ""
+    "ko": "그때부터 11년이 흘렀어요."
    },
    {
     "n": 22,
     "en": "She could stand alone then.",
-    "ko": ""
+    "ko": "그때 아이는 혼자 설 수 있었어요."
    },
    {
     "n": 23,
     "en": "No, by the cross, she could run and walk around.",
-    "ko": ""
+    "ko": "아니요, 십자가를 걸고 맹세코, 아이는 뛰고 걸어 다닐 수 있었어요."
    },
    {
     "n": 24,
     "en": "Just the day before, she fell and cut her forehead.",
-    "ko": ""
+    "ko": "바로 전날엔 넘어져서 이마를 다쳤거든요."
    },
    {
     "n": 25,
     "en": "Then my husband, God be with his soul!",
-    "ko": ""
+    "ko": "그때 제 남편이, 하늘에서 편히 쉬기를!"
    },
    {
     "n": 26,
     "en": "He was a happy man.",
-    "ko": ""
+    "ko": "그 사람은 참 유쾌한 사람이었죠."
    },
    {
     "n": 27,
     "en": "He picked up the child.",
-    "ko": ""
+    "ko": "그 사람이 아이를 안아 올렸어요."
    },
    {
     "n": 28,
     "en": "He asked, 'Yes, did you fall on your face?'",
-    "ko": ""
+    "ko": "그러고는 '그래, 얼굴부터 넘어졌니?'라고 물었죠."
    },
    {
     "n": 29,
     "en": "He said, 'You will fall backward when you are older.'",
-    "ko": ""
+    "ko": "그분은 '네가 더 크면 뒤로 넘어지게 될 거야'라고 말씀하셨어요."
    },
    {
     "n": 30,
     "en": "He asked, 'Will you not, Jule?'",
-    "ko": ""
+    "ko": "그러고는 '안 그럴 거니, 줄리?'라고 물었죠."
    },
    {
     "n": 31,
     "en": "The poor little thing stopped crying and said, 'Yes.'",
-    "ko": ""
+    "ko": "불쌍한 어린아이는 울음을 그치고 '네'라고 대답했어요."
    },
    {
     "n": 32,
     "en": "Look how that joke turned out.",
-    "ko": ""
+    "ko": "농담이 이렇게 맞아떨어지다니요."
    },
    {
     "n": 33,
     "en": "I promise I would never forget it even if I lived a thousand years.",
-    "ko": ""
+    "ko": "천 년을 산다 해도 절대 잊지 못할 거예요."
    },
    {
     "n": 34,
     "en": "He asked, 'Will you not, Jule?'",
-    "ko": ""
+    "ko": "그 사람이 '안 그럴 거니, 줄리?'라고 물었죠."
    },
    {
     "n": 35,
     "en": "And the sweet little fool stopped crying and said, 'Yes.'",
-    "ko": ""
+    "ko": "그리고 그 귀여운 어린아이는 울음을 그치고 '네'라고 대답했어요."
    }
   ]
  },
@@ -471,12 +480,12 @@
    {
     "n": 1,
     "en": "That is enough.",
-    "ko": ""
+    "ko": "그만하면 됐다."
    },
    {
     "n": 2,
     "en": "Please be quiet.",
-    "ko": ""
+    "ko": "제발 좀 조용히 해."
    }
   ]
  },
@@ -494,47 +503,47 @@
    {
     "n": 1,
     "en": "Yes, madam.",
-    "ko": ""
+    "ko": "네, 마님."
    },
    {
     "n": 2,
     "en": "But I cannot help laughing.",
-    "ko": ""
+    "ko": "하지만 웃음을 참을 수가 없네요."
    },
    {
     "n": 3,
     "en": "I laugh to think she stopped crying and said 'Yes'.",
-    "ko": ""
+    "ko": "아이가 울음을 그치고 '네'라고 대답한 게 생각나서 웃음이 나요."
    },
    {
     "n": 4,
     "en": "She had a bump on her head as big as a young rooster's testicle.",
-    "ko": ""
+    "ko": "머리에 어린 수탉의 고환만큼이나 큰 혹이 났었거든요."
    },
    {
     "n": 5,
     "en": "It was a hard hit, and she cried bitterly.",
-    "ko": ""
+    "ko": "세게 부딪힌 거라 아이가 아주 서럽게 울었죠."
    },
    {
     "n": 6,
     "en": "My husband asked, 'Yes, did you fall on your face?'",
-    "ko": ""
+    "ko": "제 남편이 '그래, 얼굴부터 넘어졌니?'라고 물었어요."
    },
    {
     "n": 7,
     "en": "He said, 'You will fall backward when you are older.'",
-    "ko": ""
+    "ko": "그는 '네가 더 크면 뒤로 넘어지게 될 거야'라고 말했고요."
    },
    {
     "n": 8,
     "en": "He asked, 'Will you not, Jule?'",
-    "ko": ""
+    "ko": "그러고는 '안 그럴 거니, 줄리?'라고 물었죠."
    },
    {
     "n": 9,
     "en": "She stopped crying and said, 'Yes.'",
-    "ko": ""
+    "ko": "아이는 울음을 멈추고 '네'라고 대답했어요."
    }
   ]
  },
@@ -552,12 +561,12 @@
    {
     "n": 1,
     "en": "Please be quiet now too, Nurse.",
-    "ko": ""
+    "ko": "유모, 이제 조용히 해."
    },
    {
     "n": 2,
     "en": "That is what I say.",
-    "ko": ""
+    "ko": "나도 그렇게 말하는 거야."
    }
   ]
  },
@@ -575,22 +584,22 @@
    {
     "n": 1,
     "en": "Peace, I am finished.",
-    "ko": ""
+    "ko": "이제 그만할게."
    },
    {
     "n": 2,
     "en": "May God bless you.",
-    "ko": ""
+    "ko": "하나님의 은총이 너와 함께하길."
    },
    {
     "n": 3,
     "en": "You were the prettiest baby that I ever nursed.",
-    "ko": ""
+    "ko": "너는 내가 돌본 아이들 중 가장 예쁜 아기였단다."
    },
    {
     "n": 4,
     "en": "I hope to live long enough to see you married once.",
-    "ko": ""
+    "ko": "네가 결혼하는 걸 한 번이라도 볼 수 있을 만큼 오래 살고 싶구나."
    }
   ]
  },
@@ -608,14 +617,15 @@
    {
     "n": 1,
     "en": "Well, marriage is exactly what I came to talk about.",
-    "ko": ""
+    "ko": "그래, 바로 그 결혼 얘기를 하러 왔단다."
    },
    {
     "n": 2,
     "en": "Tell me, daughter Juliet, how do you feel about getting married?",
-    "ko": ""
+    "ko": "말해 보렴, 줄리엣, 결혼에 대해 어떻게 생각하니?"
    }
-  ]
+  ],
+  "to": "JULIET"
  },
  {
   "id": 176,
@@ -631,7 +641,7 @@
    {
     "n": 1,
     "en": "It is an honor that I do not dream of.",
-    "ko": ""
+    "ko": "꿈도 꾸지 못할 영광이에요."
    }
   ]
  },
@@ -649,12 +659,12 @@
    {
     "n": 1,
     "en": "An honor!",
-    "ko": ""
+    "ko": "영광이라니!"
    },
    {
     "n": 2,
     "en": "If I were not your only nurse, I would say you drank wisdom from my breast.",
-    "ko": ""
+    "ko": "내가 네 유모가 아니었다면, 네가 내 젖을 통해 지혜를 마셨다고 말했을 거야."
    }
   ]
  },
@@ -672,24 +682,25 @@
    {
     "n": 1,
     "en": "Well, think about marriage now.",
-    "ko": ""
+    "ko": "자, 이제 결혼에 대해 생각해 보렴."
    },
    {
     "n": 2,
     "en": "In Verona, many respected ladies younger than you are already mothers.",
-    "ko": ""
+    "ko": "베로나에서는 너보다 어린 많은 귀부인들이 이미 어머니가 되었단다."
    },
    {
     "n": 3,
     "en": "I was your mother at about the same age that you are now as a girl.",
-    "ko": ""
+    "ko": "나도 네 나이 때 어머니가 되었어."
    },
    {
     "n": 4,
     "en": "So, in short, the brave Paris seeks you for his love.",
-    "ko": ""
+    "ko": "그러니까 한마디로, 용감한 패리스가 너에게 청혼했어."
    }
-  ]
+  ],
+  "to": "JULIET"
  },
  {
   "id": 179,
@@ -705,19 +716,20 @@
    {
     "n": 1,
     "en": "A man, young lady!",
-    "ko": ""
+    "ko": "남자라니, 아가씨!"
    },
    {
     "n": 2,
     "en": "Lady, such a man that the whole world—",
-    "ko": ""
+    "ko": "아가씨, 온 세상이 다—"
    },
    {
     "n": 3,
     "en": "Why, he is as perfect as a wax statue.",
-    "ko": ""
+    "ko": "그래, 그분은 밀랍 인형처럼 완벽해."
    }
-  ]
+  ],
+  "to": "JULIET"
  },
  {
   "id": 180,
@@ -733,7 +745,7 @@
    {
     "n": 1,
     "en": "Verona's summer does not have such a flower.",
-    "ko": ""
+    "ko": "베로나의 여름에도 그런 꽃은 없어."
    }
   ]
  },
@@ -751,7 +763,7 @@
    {
     "n": 1,
     "en": "No, he is a flower. Truly, he is a very beautiful flower.",
-    "ko": ""
+    "ko": "아니요, 그는 꽃이에요. 정말로 아주 아름다운 꽃이죠."
    }
   ]
  },
@@ -769,74 +781,75 @@
    {
     "n": 1,
     "en": "What do you say? Can you love the gentleman?",
-    "ko": ""
+    "ko": "어떻게 생각하니? 이 신사를 사랑할 수 있겠니?"
    },
    {
     "n": 2,
     "en": "You will see him at our feast tonight.",
-    "ko": ""
+    "ko": "오늘 밤 우리 잔치에서 그를 보게 될 거야."
    },
    {
     "n": 3,
     "en": "Read the book of young Paris's face.",
-    "ko": ""
+    "ko": "젊은 패리스의 얼굴이라는 책을 읽어보렴."
    },
    {
     "n": 4,
     "en": "Find beauty written there.",
-    "ko": ""
+    "ko": "거기에 쓰인 아름다움을 찾아내 봐."
    },
    {
     "n": 5,
     "en": "Look at every feature of his face.",
-    "ko": ""
+    "ko": "그의 얼굴에 있는 모든 특징을 살펴보렴."
    },
    {
     "n": 6,
     "en": "See how each part fits together perfectly.",
-    "ko": ""
+    "ko": "각 부분이 얼마나 완벽하게 어우러지는지 봐라."
    },
    {
     "n": 7,
     "en": "Look for what is hidden in this beautiful book.",
-    "ko": ""
+    "ko": "이 아름다운 책 속에 숨겨진 것을 찾아봐."
    },
    {
     "n": 8,
     "en": "Find it written in the edges of his eyes.",
-    "ko": ""
+    "ko": "그것은 그의 눈가에 쓰여 있을 거야."
    },
    {
     "n": 9,
     "en": "This precious book of love, this unbound lover, only needs a cover to be beautiful.",
-    "ko": ""
+    "ko": "이 소중한 사랑의 책, 아직 묶이지 않은 이 연인에게는 표지만 있으면 돼."
    },
    {
     "n": 10,
     "en": "A fish lives in the sea.",
-    "ko": ""
+    "ko": "물고기가 바다에 살듯이 말이야."
    },
    {
     "n": 11,
     "en": "It is a fine thing when a beautiful cover holds a beautiful story inside.",
-    "ko": ""
+    "ko": "아름다운 표지가 아름다운 이야기를 담고 있으면 정말 멋진 일이지."
    },
    {
     "n": 12,
     "en": "Many people see the glory of a story locked in gold clasps.",
-    "ko": ""
+    "ko": "많은 사람들은 금 걸쇠로 잠긴 황금빛 이야기를 칭송한단다."
    },
    {
     "n": 13,
     "en": "You will share everything that he has.",
-    "ko": ""
+    "ko": "너는 그가 가진 모든 것을 공유하게 될 거야."
    },
    {
     "n": 14,
     "en": "By having him, you will not become less important.",
-    "ko": ""
+    "ko": "그와 함께함으로써 네 가치가 낮아지는 일은 없을 거야."
    }
-  ]
+  ],
+  "to": "JULIET"
  },
  {
   "id": 183,
@@ -852,12 +865,12 @@
    {
     "n": 1,
     "en": "Not less, no, much more.",
-    "ko": ""
+    "ko": "낮아지기는커녕, 훨씬 더 높아질 거예요."
    },
    {
     "n": 2,
     "en": "Women grow by being with men.",
-    "ko": ""
+    "ko": "여자는 남자를 만나면 커지는 법이니까요."
    }
   ]
  },
@@ -875,14 +888,15 @@
    {
     "n": 1,
     "en": "Speak briefly.",
-    "ko": ""
+    "ko": "간단히 말해 봐."
    },
    {
     "n": 2,
     "en": "Can you accept Paris's love?",
-    "ko": ""
+    "ko": "패리스의 사랑을 받아들일 수 있겠니?"
    }
-  ]
+  ],
+  "to": "JULIET"
  },
  {
   "id": 185,
@@ -898,17 +912,17 @@
    {
     "n": 1,
     "en": "I will try to like him if looking at him makes me like him.",
-    "ko": ""
+    "ko": "그를 보고 호감이 생긴다면 좋아해 볼게요."
    },
    {
     "n": 2,
     "en": "But I will not look deeper than your permission allows.",
-    "ko": ""
+    "ko": "하지만 허락하신 범위 이상으로는 깊이 보지 않을게요."
    },
    {
     "n": 3,
     "en": "I will only go as far as your consent lets me.",
-    "ko": ""
+    "ko": "허락해주시는 만큼만 나아갈게요."
    }
   ]
  },
@@ -938,34 +952,35 @@
    {
     "n": 1,
     "en": "Madam, the guests have arrived and supper is served.",
-    "ko": ""
+    "ko": "마님, 손님들이 도착하셨고 저녁 식사가 준비되었습니다."
    },
    {
     "n": 2,
     "en": "You called for me.",
-    "ko": ""
+    "ko": "마님을 찾으십니다."
    },
    {
     "n": 3,
     "en": "Everyone is asking for my young lady.",
-    "ko": ""
+    "ko": "모두가 아가씨를 찾고 있습니다."
    },
    {
     "n": 4,
     "en": "The Nurse was scolded in the pantry.",
-    "ko": ""
+    "ko": "유모는 식료품실에서 욕을 먹고 있습니다."
    },
    {
     "n": 5,
     "en": "Everything is in a crazy rush.",
-    "ko": ""
+    "ko": "모든 게 난리입니다."
    },
    {
     "n": 6,
     "en": "I must leave now, so please follow me immediately.",
-    "ko": ""
+    "ko": "지금 바로 가야 하니 즉시 저를 따라오십시오."
    }
-  ]
+  ],
+  "to": "LADY CAPULET"
  },
  {
   "id": 188,
@@ -981,7 +996,7 @@
    {
     "n": 1,
     "en": "We are following you.",
-    "ko": ""
+    "ko": "곧 따라가마."
    }
   ]
  },
@@ -1011,9 +1026,10 @@
    {
     "n": 1,
     "en": "Juliet, Count Paris is waiting.",
-    "ko": ""
+    "ko": "줄리엣, 패리스 백작이 기다리고 있단다."
    }
-  ]
+  ],
+  "to": "JULIET"
  },
  {
   "id": 191,
@@ -1029,14 +1045,15 @@
    {
     "n": 1,
     "en": "Go, girl.",
-    "ko": ""
+    "ko": "가거라, 아가."
    },
    {
     "n": 2,
     "en": "Go and find happy nights to go with your happy days.",
-    "ko": ""
+    "ko": "가서 행복한 낮에 어울리는 행복한 밤을 찾으렴."
    }
-  ]
+  ],
+  "to": "JULIET"
  },
  {
   "id": 192,
