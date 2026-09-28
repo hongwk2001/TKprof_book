@@ -9,10 +9,16 @@
   "speaker": null,
   "delivery": null,
   "raw": "Act 2, Scene 1 — An open place adjoining Capulet’s Garden",
-  "sentences": [],
+  "sentences": [
+   {
+    "n": 1,
+    "en": "An open place adjoining Capulet’s Garden",
+    "ko": "캐퓰릿 집 정원 옆의 빈터"
+   }
+  ],
   "summary": {
    "en": "After the party, Romeo climbs into the Capulet garden. His friends look for him and joke about his love for Rosaline.",
-   "ko": ""
+   "ko": "잔치가 끝난 뒤 로미오는 담을 넘어 캐퓰릿 가의 정원으로 들어간다. 친구들은 그를 찾으며 로잘린을 향한 그의 사랑을 놀린다."
   }
  },
  {
@@ -41,69 +47,70 @@
    {
     "n": 1,
     "en": "Now old desire lies in its deathbed.",
-    "ko": ""
+    "ko": "이제 옛 욕망은 임종의 자리에 누웠습니다."
    },
    {
     "n": 2,
     "en": "Young affection is ready to take its place.",
-    "ko": ""
+    "ko": "젊은 사랑이 그 자리를 이으려 합니다."
    },
    {
     "n": 3,
     "en": "The beauty Romeo once longed for and would die for now seems plain next to tender Juliet.",
-    "ko": ""
+    "ko": "로미오가 한때 목숨까지 바치려던 그 아름다움도, 이제 어여쁜 줄리엣 곁에서는 평범해 보입니다."
    },
    {
     "n": 4,
     "en": "Now Romeo is loved, and he loves again.",
-    "ko": ""
+    "ko": "이제 로미오는 사랑받고, 또 사랑합니다."
    },
    {
     "n": 5,
     "en": "Both are enchanted by each other's looks.",
-    "ko": ""
+    "ko": "두 사람은 서로의 모습에 반했습니다."
    },
    {
     "n": 6,
     "en": "But he must tell his love to a girl from his enemy's family.",
-    "ko": ""
+    "ko": "하지만 그는 원수 집안의 딸에게 사랑을 고백해야 합니다."
    },
    {
     "n": 7,
     "en": "And she must take love's sweet bait from a dangerous hook.",
-    "ko": ""
+    "ko": "그녀는 위험한 낚싯바늘에서 사랑의 달콤한 미끼를 물어야 합니다."
    },
    {
     "n": 8,
     "en": "Because he is seen as an enemy, he cannot visit her.",
-    "ko": ""
+    "ko": "원수로 여겨지기에 그는 그녀를 찾아갈 수 없습니다."
    },
    {
     "n": 9,
     "en": "He cannot say the vows that lovers usually swear.",
-    "ko": ""
+    "ko": "연인들이 흔히 하는 맹세도 할 수 없습니다."
    },
    {
     "n": 10,
     "en": "She is just as much in love.",
-    "ko": ""
+    "ko": "그녀도 그만큼 사랑에 빠졌습니다."
    },
    {
     "n": 11,
     "en": "But she has even fewer ways to meet her new love.",
-    "ko": ""
+    "ko": "하지만 그녀에게는 새 연인을 만날 길이 더욱 없습니다."
    },
    {
     "n": 12,
     "en": "But passion gives them power, and time gives them chances to meet.",
-    "ko": ""
+    "ko": "그러나 열정은 그들에게 힘을 주고, 시간은 만날 기회를 줍니다."
    },
    {
     "n": 13,
     "en": "It mixes extreme danger with extreme sweetness.",
-    "ko": ""
+    "ko": "극한의 위험에 극한의 달콤함을 섞어서 말입니다."
    }
-  ]
+  ],
+  "level": "hasipsio"
  },
  {
   "id": 294,
@@ -143,17 +150,17 @@
    {
     "n": 1,
     "en": "Can I move forward when my heart is here?",
-    "ko": ""
+    "ko": "내 마음이 여기 있는데 내가 앞으로 나아갈 수 있을까?"
    },
    {
     "n": 2,
     "en": "My heart is here, in this house.",
-    "ko": ""
+    "ko": "내 마음은 이 집 안에 있다."
    },
    {
     "n": 3,
     "en": "Turn back, dull body, and go to it.",
-    "ko": ""
+    "ko": "무딘 몸아, 뒤로 돌아 저곳으로 가거라."
    }
   ]
  },
@@ -171,7 +178,7 @@
    {
     "n": 1,
     "en": "Romeo climbs the wall and jumps down inside it.",
-    "ko": ""
+    "ko": "로미오가 담을 타고 올라가 안으로 뛰어내린다."
    }
   ]
  },
@@ -201,7 +208,7 @@
    {
     "n": 1,
     "en": "Romeo! My cousin Romeo! Romeo!",
-    "ko": ""
+    "ko": "로미오! 내 사촌 로미오! 로미오!"
    }
   ]
  },
@@ -219,12 +226,12 @@
    {
     "n": 1,
     "en": "He is wise.",
-    "ko": ""
+    "ko": "그 녀석은 영리해."
    },
    {
     "n": 2,
     "en": "And I swear on my life that he has gone home to bed.",
-    "ko": ""
+    "ko": "그리고 그가 집으로 돌아가 잠들었다고 내 목숨을 걸고 장담해."
    }
   ]
  },
@@ -242,7 +249,7 @@
    {
     "n": 1,
     "en": "He ran this way and jumped over this orchard wall, so call out, good Mercutio.",
-    "ko": ""
+    "ko": "그가 이쪽으로 달려와 과수원 담장을 넘어왔으니, 소리쳐 불러봐, 좋은 친구 머큐쇼."
    }
   ]
  },
@@ -260,72 +267,72 @@
    {
     "n": 1,
     "en": "No, I will call him up like a magician too.",
-    "ko": ""
+    "ko": "아니, 나도 마법사처럼 그를 불러내겠어."
    },
    {
     "n": 2,
     "en": "Romeo! Moods! Madman! Passion! Lover!",
-    "ko": ""
+    "ko": "로미오! 변덕쟁이! 미치광이! 열정! 연인이여!"
    },
    {
     "n": 3,
     "en": "Appear in the form of a sigh.",
-    "ko": ""
+    "ko": "한숨의 형상으로 나타나라."
    },
    {
     "n": 4,
     "en": "Speak just one rhyme and I will be satisfied.",
-    "ko": ""
+    "ko": "단 한 줄의 운문만이라도 말하면 만족할 거야."
    },
    {
     "n": 5,
     "en": "Cry out 'Ah me!'",
-    "ko": ""
+    "ko": "'아, 슬프다!'라고 외쳐라."
    },
    {
     "n": 6,
     "en": "Say only Love and dove.",
-    "ko": ""
+    "ko": "'사랑'과 '비둘기'라는 말만이라도 해."
    },
    {
     "n": 7,
     "en": "Tell my friend Venus one fair word.",
-    "ko": ""
+    "ko": "내 수다쟁이 친구 비너스에게 좋은 말 한마디 해 줘."
    },
    {
     "n": 8,
     "en": "Give one nickname to her blind son and heir.",
-    "ko": ""
+    "ko": "그녀의 눈먼 아들이자 후계자에게 별명을 하나 붙여줘라."
    },
    {
     "n": 9,
     "en": "Young Cupid shot so well when King Cophetua loved the beggar girl.",
-    "ko": ""
+    "ko": "코페투아 왕이 거지 소녀를 사랑할 때 큐피드가 아주 잘 쏘았지."
    },
    {
     "n": 10,
     "en": "He does not hear, he does not move, and he does not stir.",
-    "ko": ""
+    "ko": "그는 듣지도, 움직이지도, 꿈쩍도 하지 않아."
    },
    {
     "n": 11,
     "en": "The monkey is playing dead, so I must call him up with magic.",
-    "ko": ""
+    "ko": "원숭이가 죽은 척하니, 주문으로 불러내야겠군."
    },
    {
     "n": 12,
     "en": "I call you up by Rosaline's bright eyes, by her high forehead and her red lip.",
-    "ko": ""
+    "ko": "로잘린의 빛나는 눈과 높은 이마, 그리고 붉은 입술로 너를 부른다."
    },
    {
     "n": 13,
     "en": "By her fine foot, straight leg, and shaking thigh, and by the parts that lie near them.",
-    "ko": ""
+    "ko": "그녀의 아름다운 발과 곧은 다리, 흔들리는 허벅지, 그리고 그 근처에 있는 부분들로 말이야."
    },
    {
     "n": 14,
     "en": "Appear to us in your likeness.",
-    "ko": ""
+    "ko": "너의 본모습으로 우리 앞에 나타나라."
    }
   ]
  },
@@ -343,7 +350,7 @@
    {
     "n": 1,
     "en": "If he hears you, you will make him angry.",
-    "ko": ""
+    "ko": "네가 그렇게 부르면 그가 화를 낼 거야."
    }
   ]
  },
@@ -361,32 +368,32 @@
    {
     "n": 1,
     "en": "This cannot make him angry.",
-    "ko": ""
+    "ko": "이건 그를 화나게 하지 않아."
    },
    {
     "n": 2,
     "en": "It would only anger him if I made a strange spirit rise up in his girlfriend's magic circle.",
-    "ko": ""
+    "ko": "애인의 마법진 안에 이상한 영혼을 세워 놓는다면 그야 화를 내겠지."
    },
    {
     "n": 3,
     "en": "That spirit would stay there until she had laid it and sent it away.",
-    "ko": ""
+    "ko": "그녀가 그걸 눕혀서 가라앉힐 때까지 말이야."
    },
    {
     "n": 4,
     "en": "That would be mean.",
-    "ko": ""
+    "ko": "그건 너무 심한 일이지."
    },
    {
     "n": 5,
     "en": "My request is fair and honest.",
-    "ko": ""
+    "ko": "내 요청은 공정하고 정직해."
    },
    {
     "n": 6,
     "en": "I am using her name only to make him appear.",
-    "ko": ""
+    "ko": "나는 단지 그를 나타나게 하려고 그녀의 이름을 쓰는 것뿐이야."
    }
   ]
  },
@@ -404,22 +411,22 @@
    {
     "n": 1,
     "en": "Come, he has hidden himself among these trees.",
-    "ko": ""
+    "ko": "이리 와, 그는 이 나무들 사이에 숨어 있어."
    },
    {
     "n": 2,
     "en": "He wants to be with the moody night.",
-    "ko": ""
+    "ko": "그는 축축하고 변덕스러운 밤과 함께 있고 싶은 거야."
    },
    {
     "n": 3,
     "en": "His love is blind.",
-    "ko": ""
+    "ko": "그의 사랑은 눈이 멀었어."
    },
    {
     "n": 4,
     "en": "It is best for his love to stay in the dark.",
-    "ko": ""
+    "ko": "그의 사랑에는 어둠이 제일 어울려."
    }
   ]
  },
@@ -437,47 +444,47 @@
    {
     "n": 1,
     "en": "If love is blind, love cannot hit the mark.",
-    "ko": ""
+    "ko": "사랑이 눈이 멀었다면, 목표를 맞출 수도 없겠지."
    },
    {
     "n": 2,
     "en": "Now he will sit under a medlar tree.",
-    "ko": ""
+    "ko": "이제 그는 서양모과 나무 아래 앉아 있겠지."
    },
    {
     "n": 3,
     "en": "He will wish his girl were a medlar.",
-    "ko": ""
+    "ko": "자기 여자가 서양모과였으면 하고 바라겠지."
    },
    {
     "n": 4,
     "en": "Girls laugh that the medlar looks like a bottom.",
-    "ko": ""
+    "ko": "여자애들은 서양모과가 엉덩이처럼 생겼다며 낄낄대."
    },
    {
     "n": 5,
     "en": "Oh Romeo, I wish she were that bottom-shaped fruit, and you a long, pointed pear!",
-    "ko": ""
+    "ko": "오 로미오, 그녀가 그 엉덩이 모양 과일이고 네가 길쭉하고 뾰족한 배라면 좋을 텐데!"
    },
    {
     "n": 6,
     "en": "Romeo, good night.",
-    "ko": ""
+    "ko": "로미오, 잘 자라."
    },
    {
     "n": 7,
     "en": "I will go to my own bed.",
-    "ko": ""
+    "ko": "나는 내 침대로 갈 거야."
    },
    {
     "n": 8,
     "en": "This field-bed is too cold for me to sleep.",
-    "ko": ""
+    "ko": "이런 맨땅 침대는 너무 추워서 잘 수가 없어."
    },
    {
     "n": 9,
     "en": "Come, shall we go?",
-    "ko": ""
+    "ko": "자, 이제 가자."
    }
   ]
  },
@@ -495,17 +502,17 @@
    {
     "n": 1,
     "en": "Go then.",
-    "ko": ""
+    "ko": "그럼 가자."
    },
    {
     "n": 2,
     "en": "It is useless to look for him here.",
-    "ko": ""
+    "ko": "여기서 그를 찾는 건 소용없어."
    },
    {
     "n": 3,
     "en": "He does not want to be found.",
-    "ko": ""
+    "ko": "그는 발견되기를 원치 않아."
    }
   ]
  },
