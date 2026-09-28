@@ -9,10 +9,16 @@
   "speaker": null,
   "delivery": null,
   "raw": "Act 4, Scene 5 — Juliet’s Chamber; Juliet on the bed",
-  "sentences": [],
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Juliet’s Chamber; Juliet on the bed",
+    "ko": "줄리엣의 방, 침대 위의 줄리엣"
+   }
+  ],
   "summary": {
    "en": "The Nurse finds Juliet and thinks she is dead. The family mourns, and the wedding becomes a funeral.",
-   "ko": ""
+   "ko": "유모가 줄리엣을 발견하고 죽었다고 생각한다. 가족은 슬픔에 잠기고, 결혼식은 장례식이 된다."
   }
  },
  {
@@ -41,99 +47,100 @@
    {
     "n": 1,
     "en": "Madam! What, madam!",
-    "ko": ""
+    "ko": "아가씨! 아이고, 아가씨!"
    },
    {
     "n": 2,
     "en": "Juliet! I bet she is fast asleep.",
-    "ko": ""
+    "ko": "줄리엣! 곯아떨어졌나 보네."
    },
    {
     "n": 3,
     "en": "Why, lamb, why, lady, shame on you, you lazy sleeper!",
-    "ko": ""
+    "ko": "아가, 아가씨, 이 게으름뱅이 잠꾸러기야!"
    },
    {
     "n": 4,
     "en": "Why, love, I say! Madam! Sweetheart! Why, bride!",
-    "ko": ""
+    "ko": "우리 예쁜이, 아가씨! 우리 새색시!"
    },
    {
     "n": 5,
     "en": "What, not a word?",
-    "ko": ""
+    "ko": "뭐야, 대답도 없어?"
    },
    {
     "n": 6,
     "en": "Get your little bits of sleep now and sleep for a week.",
-    "ko": ""
+    "ko": "지금 실컷 자 둬, 일주일치라도."
    },
    {
     "n": 7,
     "en": "Because tomorrow night, I promise, Count Paris plans to make sure you get very little rest.",
-    "ko": ""
+    "ko": "내일 밤엔 패리스 백작님이 푹 자게 두지 않을 테니까."
    },
    {
     "n": 8,
     "en": "God forgive me! Yes, and amen.",
-    "ko": ""
+    "ko": "하나님 용서하소서! 아이고, 아멘."
    },
    {
     "n": 9,
     "en": "How deeply she is asleep, so I must wake her.",
-    "ko": ""
+    "ko": "아이고, 곯아떨어졌네. 깨워야지."
    },
    {
     "n": 10,
     "en": "Madam, madam, madam!",
-    "ko": ""
+    "ko": "아가씨, 아가씨, 아가씨!"
    },
    {
     "n": 11,
     "en": "Yes, let the Count take you in your bed; he will frighten you awake, I believe.",
-    "ko": ""
+    "ko": "그래, 백작님이 침대에서 데려가시라지. 그럼 깜짝 놀라 깨겠지."
    },
    {
     "n": 12,
     "en": "Won't you wake up?",
-    "ko": ""
+    "ko": "안 일어날 거야?"
    },
    {
     "n": 13,
     "en": "What, dressed and in your clothes, and then back down again?",
-    "ko": ""
+    "ko": "뭐야, 옷을 다 입고 다시 누웠네?"
    },
    {
     "n": 14,
     "en": "I must wake you. Lady! Lady! Lady!",
-    "ko": ""
+    "ko": "깨워야겠다. 아가씨! 아가씨! 아가씨!"
    },
    {
     "n": 15,
     "en": "Alas, alas! Help, help!",
-    "ko": ""
+    "ko": "아이고, 아이고! 사람 살려!"
    },
    {
     "n": 16,
     "en": "My lady is dead!",
-    "ko": ""
+    "ko": "우리 아가씨가 죽었어요!"
    },
    {
     "n": 17,
     "en": "Oh, I wish I had never been born!",
-    "ko": ""
+    "ko": "아이고, 차라리 내가 태어나지 말았어야지!"
    },
    {
     "n": 18,
     "en": "Some brandy, quick!",
-    "ko": ""
+    "ko": "브랜디, 어서!"
    },
    {
     "n": 19,
     "en": "My lord! My lady!",
-    "ko": ""
+    "ko": "주인어른! 마님!"
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 893,
@@ -161,7 +168,7 @@
    {
     "n": 1,
     "en": "What noise is here?",
-    "ko": ""
+    "ko": "무슨 소란이냐?"
    }
   ]
  },
@@ -179,7 +186,7 @@
    {
     "n": 1,
     "en": "Oh, what a sad day!",
-    "ko": ""
+    "ko": "오, 정말 슬픈 날이네요!"
    }
   ]
  },
@@ -197,7 +204,7 @@
    {
     "n": 1,
     "en": "What is the matter?",
-    "ko": ""
+    "ko": "무슨 일이야?"
    }
   ]
  },
@@ -215,12 +222,12 @@
    {
     "n": 1,
     "en": "Look, look!",
-    "ko": ""
+    "ko": "보세요, 보세요!"
    },
    {
     "n": 2,
     "en": "Oh, what a sad day!",
-    "ko": ""
+    "ko": "오, 정말 슬픈 날이에요!"
    }
   ]
  },
@@ -238,27 +245,27 @@
    {
     "n": 1,
     "en": "Oh me, oh me!",
-    "ko": ""
+    "ko": "아이고, 아이고!"
    },
    {
     "n": 2,
     "en": "My child, my only life.",
-    "ko": ""
+    "ko": "내 아이야, 나의 유일한 생명아."
    },
    {
     "n": 3,
     "en": "Wake up, look up, or I will die with you.",
-    "ko": ""
+    "ko": "깨어나, 눈을 떠 봐, 안 그러면 나도 너와 함께 죽겠다."
    },
    {
     "n": 4,
     "en": "Help, help!",
-    "ko": ""
+    "ko": "도와줘, 도와줘!"
    },
    {
     "n": 5,
     "en": "Call for help.",
-    "ko": ""
+    "ko": "사람을 불러라."
    }
   ]
  },
@@ -288,12 +295,12 @@
    {
     "n": 1,
     "en": "For shame, bring Juliet out.",
-    "ko": ""
+    "ko": "이런, 줄리엣을 데려와라."
    },
    {
     "n": 2,
     "en": "Her lord has arrived.",
-    "ko": ""
+    "ko": "신랑이 왔다."
    }
   ]
  },
@@ -311,12 +318,12 @@
    {
     "n": 1,
     "en": "She is dead, deceased, she is dead.",
-    "ko": ""
+    "ko": "돌아가셨어요, 숨을 거두셨어요, 돌아가셨어요."
    },
    {
     "n": 2,
     "en": "Oh no, what a day!",
-    "ko": ""
+    "ko": "아이고, 이게 무슨 날이람!"
    }
   ]
  },
@@ -334,7 +341,7 @@
    {
     "n": 1,
     "en": "Oh, what a day! She is dead. She is dead. She is dead!",
-    "ko": ""
+    "ko": "아, 이게 무슨 날이야! 죽었어. 죽었어. 죽었어!"
    }
   ]
  },
@@ -352,27 +359,27 @@
    {
     "n": 1,
     "en": "Ha! Let me see her.",
-    "ko": ""
+    "ko": "뭐라고! 어디 보자."
    },
    {
     "n": 2,
     "en": "Oh no! She is cold.",
-    "ko": ""
+    "ko": "안 돼! 몸이 차갑구나."
    },
    {
     "n": 3,
     "en": "Her blood has stopped moving and her joints are stiff.",
-    "ko": ""
+    "ko": "피가 멈췄고 관절도 굳었어."
    },
    {
     "n": 4,
     "en": "Life and these lips have been apart for a long time.",
-    "ko": ""
+    "ko": "생명이 이 입술을 떠난 지 오래구나."
    },
    {
     "n": 5,
     "en": "Death lies on her like an early frost, like frost on the sweetest flower in the field.",
-    "ko": ""
+    "ko": "죽음이 때 이른 서리처럼, 들판에서 가장 고운 꽃에 내린 서리처럼 그 애를 덮었구나."
    }
   ]
  },
@@ -390,7 +397,7 @@
    {
     "n": 1,
     "en": "Oh, what a sad day!",
-    "ko": ""
+    "ko": "오, 정말 슬픈 날이에요!"
    }
   ]
  },
@@ -408,7 +415,7 @@
    {
     "n": 1,
     "en": "Oh, what a miserable time!",
-    "ko": ""
+    "ko": "오, 이 얼마나 비참한 시간인가!"
    }
   ]
  },
@@ -426,12 +433,12 @@
    {
     "n": 1,
     "en": "Death took her away to make me cry.",
-    "ko": ""
+    "ko": "나를 울리려고 그 애를 데려간 죽음이"
    },
    {
     "n": 2,
     "en": "But death ties my tongue and will not let me speak.",
-    "ko": ""
+    "ko": "내 혀를 묶어 말도 못 하게 하는구나."
    }
   ]
  },
@@ -449,7 +456,7 @@
    {
     "n": 1,
     "en": "Friar Lawrence and Paris enter with musicians.",
-    "ko": ""
+    "ko": "로런스 신부와 패리스가 연주자들과 함께 들어온다."
    }
   ]
  },
@@ -467,7 +474,7 @@
    {
     "n": 1,
     "en": "Come, is the bride ready to go to church?",
-    "ko": ""
+    "ko": "자, 신부는 성당에 갈 준비가 되었나요?"
    }
   ]
  },
@@ -485,34 +492,35 @@
    {
     "n": 1,
     "en": "She is ready to go, but she will never return.",
-    "ko": ""
+    "ko": "갈 준비는 됐지만, 다시는 돌아오지 못한다."
    },
    {
     "n": 2,
     "en": "Oh son, death stayed with your bride the night before your wedding day.",
-    "ko": ""
+    "ko": "아들아, 죽음이 결혼식 전날 밤 네 신부와 함께 머물렀다."
    },
    {
     "n": 3,
     "en": "There she lies. She was a flower, and he has taken her virginity.",
-    "ko": ""
+    "ko": "저기 누워 있다. 꽃 같던 아이였는데, 죽음이 그 순결을 가져갔구나."
    },
    {
     "n": 4,
     "en": "Death is my son-in-law and death is my heir.",
-    "ko": ""
+    "ko": "죽음이 내 사위이며 죽음이 나의 후계자다."
    },
    {
     "n": 5,
     "en": "He has married my daughter, so I will die and leave everything to him.",
-    "ko": ""
+    "ko": "그가 내 딸을 아내로 삼았으니, 나는 죽어서 모든 걸 그에게 물려주겠다."
    },
    {
     "n": 6,
     "en": "Life, living, and all things belong to death.",
-    "ko": ""
+    "ko": "삶과 생명, 그리고 모든 것은 죽음의 것이다."
    }
-  ]
+  ],
+  "level": "banmal"
  },
  {
   "id": 910,
@@ -528,12 +536,12 @@
    {
     "n": 1,
     "en": "Have I waited a long time to see this morning's face?",
-    "ko": ""
+    "ko": "오늘 아침을 그렇게 오래 기다렸는데"
    },
    {
     "n": 2,
     "en": "Does it give me such a sight as this?",
-    "ko": ""
+    "ko": "이런 광경을 보여 주다니요?"
    }
   ]
  },
@@ -551,27 +559,27 @@
    {
     "n": 1,
     "en": "Cursed, unhappy, miserable, hateful day.",
-    "ko": ""
+    "ko": "저주받고 불행하고 비참하며 가증스러운 날이네요."
    },
    {
     "n": 2,
     "en": "This is the most miserable hour that time has ever seen.",
-    "ko": ""
+    "ko": "이것은 시간이 존재한 이래 가장 비참한 시간이에요."
    },
    {
     "n": 3,
     "en": "I had only one, one poor and loving child.",
-    "ko": ""
+    "ko": "내게는 단 하나, 가엾고 사랑스러운 아이 하나뿐이었어요."
    },
    {
     "n": 4,
     "en": "There was only one thing to rejoice in and find comfort in.",
-    "ko": ""
+    "ko": "기뻐하고 위안을 삼을 수 있는 것도 오직 그것뿐이었어요."
    },
    {
     "n": 5,
     "en": "Cruel death has taken it from my sight.",
-    "ko": ""
+    "ko": "잔인한 죽음이 그 애를 내 눈앞에서 앗아 갔어요."
    }
   ]
  },
@@ -589,32 +597,32 @@
    {
     "n": 1,
     "en": "Oh no! Oh terrible, terrible, terrible day.",
-    "ko": ""
+    "ko": "아이고! 끔찍하고, 끔찍하고, 끔찍한 날이에요."
    },
    {
     "n": 2,
     "en": "Most terrible day, most terrible day!",
-    "ko": ""
+    "ko": "이렇게 끔찍한 날, 이렇게 끔찍한 날이!"
    },
    {
     "n": 3,
     "en": "I have never seen such a sad day before.",
-    "ko": ""
+    "ko": "이렇게 슬픈 날은 한 번도 본 적이 없어요."
    },
    {
     "n": 4,
     "en": "Oh day, oh day, oh day, oh hateful day.",
-    "ko": ""
+    "ko": "아이고 이 날, 이 날, 이 날, 원수 같은 날."
    },
    {
     "n": 5,
     "en": "Never was such a black day seen as this.",
-    "ko": ""
+    "ko": "이렇게 어두운 날은 전에도 본 적이 없어요."
    },
    {
     "n": 6,
     "en": "Oh terrible day, oh terrible day.",
-    "ko": ""
+    "ko": "아이고 끔찍한 날, 끔찍한 날."
    }
   ]
  },
@@ -632,29 +640,30 @@
    {
     "n": 1,
     "en": "Betrayed, separated, wronged, insulted, killed.",
-    "ko": ""
+    "ko": "배신당하고, 헤어지고, 억울하게 당하고, 모욕당하고, 죽임을 당했소."
    },
    {
     "n": 2,
     "en": "Most hateful death, you have betrayed me.",
-    "ko": ""
+    "ko": "가장 가증스러운 죽음아, 네가 나를 속였구나."
    },
    {
     "n": 3,
     "en": "Cruel, cruel death has completely overthrown me.",
-    "ko": ""
+    "ko": "잔인한 죽음이 나를 완전히 무너뜨렸소."
    },
    {
     "n": 4,
     "en": "Oh love! Oh life!",
-    "ko": ""
+    "ko": "오 사랑이여! 오 생명이여!"
    },
    {
     "n": 5,
     "en": "Not life, but love in death!",
-    "ko": ""
+    "ko": "생명이 아니라, 죽어서도 남은 사랑이여!"
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 914,
@@ -670,39 +679,40 @@
    {
     "n": 1,
     "en": "Despised, distressed, hated, martyred, killed.",
-    "ko": ""
+    "ko": "멸시당하고, 고통받고, 증오받고, 희생되고, 살해당했다."
    },
    {
     "n": 2,
     "en": "Cruel time, why did you come now?",
-    "ko": ""
+    "ko": "잔인한 시간아, 왜 지금 나타났느냐?"
    },
    {
     "n": 3,
     "en": "Why do you murder our celebration?",
-    "ko": ""
+    "ko": "왜 우리의 잔치를 망치러 왔느냐?"
    },
    {
     "n": 4,
     "en": "Oh child! Oh child!",
-    "ko": ""
+    "ko": "오 아이야! 오 내 아이야!"
    },
    {
     "n": 5,
     "en": "My soul, and not my child, is dead.",
-    "ko": ""
+    "ko": "내 아이, 아니 내 영혼이 죽었다."
    },
    {
     "n": 6,
     "en": "Oh no, my child is dead.",
-    "ko": ""
+    "ko": "안 돼, 내 아이가 죽었다."
    },
    {
     "n": 7,
     "en": "My joys are buried with my child.",
-    "ko": ""
+    "ko": "내 기쁨도 아이와 함께 묻혔다."
    }
-  ]
+  ],
+  "level": "plain"
  },
  {
   "id": 915,
@@ -718,87 +728,87 @@
    {
     "n": 1,
     "en": "Quiet, for shame! Screaming will not cure this disaster.",
-    "ko": ""
+    "ko": "조용히 하세요, 부끄러운 줄 아세요! 비명으로 이 비극을 막을 수는 없어요."
    },
    {
     "n": 2,
     "en": "Heaven and you both had a part in this fair maid.",
-    "ko": ""
+    "ko": "이 고운 처녀는 하늘과 두 분이 함께 나누어 가졌지요."
    },
    {
     "n": 3,
     "en": "Now heaven has everything.",
-    "ko": ""
+    "ko": "이제는 하늘이 모두 가졌어요."
    },
    {
     "n": 4,
     "en": "It is better for the maid this way.",
-    "ko": ""
+    "ko": "처녀에게는 그게 더 나아요."
    },
    {
     "n": 5,
     "en": "You could not keep your part in her from death.",
-    "ko": ""
+    "ko": "두 분의 몫은 죽음에서 지켜 내지 못했지만"
    },
    {
     "n": 6,
     "en": "But heaven keeps its part in eternal life.",
-    "ko": ""
+    "ko": "하늘은 제 몫을 영원한 생명 속에 지켜요."
    },
    {
     "n": 7,
     "en": "What you wanted most was for her to rise in the world.",
-    "ko": ""
+    "ko": "두 분이 가장 바란 건 그 애의 출세였지요."
    },
    {
     "n": 8,
     "en": "It was your heaven to see her rise.",
-    "ko": ""
+    "ko": "그 애가 높이 오르는 게 두 분의 천국이었고요."
    },
    {
     "n": 9,
     "en": "Why do you cry now that she is advanced?",
-    "ko": ""
+    "ko": "이제 그 애가 높이 올랐는데 왜 우시나요?"
    },
    {
     "n": 10,
     "en": "She is above the clouds, as high as heaven itself.",
-    "ko": ""
+    "ko": "그녀는 구름 위, 하늘만큼 높은 곳으로 올라갔어요."
    },
    {
     "n": 11,
     "en": "You love your child so badly that you go mad when you see she is well.",
-    "ko": ""
+    "ko": "그 애가 잘된 걸 보고도 미친 듯이 우시다니, 그건 자식을 잘못 사랑하는 거예요."
    },
    {
     "n": 12,
     "en": "She is not well married if she lives married long.",
-    "ko": ""
+    "ko": "오래 산 결혼이 좋은 결혼은 아니에요."
    },
    {
     "n": 13,
     "en": "But she is best married if she dies married young.",
-    "ko": ""
+    "ko": "젊어서 결혼한 채 죽는 것이 가장 좋은 결혼이지요."
    },
    {
     "n": 14,
     "en": "Dry your tears.",
-    "ko": ""
+    "ko": "눈물을 닦으세요."
    },
    {
     "n": 15,
     "en": "Put your rosemary on this fair body.",
-    "ko": ""
+    "ko": "이 고운 시신에 로즈메리를 꽂으세요."
    },
    {
     "n": 16,
     "en": "Follow the custom and carry her to church in her best clothes.",
-    "ko": ""
+    "ko": "관습대로 가장 좋은 옷을 입혀 성당으로 모시세요."
    },
    {
     "n": 17,
     "en": "Our loving nature tells us to cry, but reason laughs at those tears.",
-    "ko": ""
+    "ko": "정 많은 본성은 우리에게 울라고 하지만, 이성은 그 눈물을 웃음거리로 여기지요."
    }
   ]
  },
@@ -816,32 +826,32 @@
    {
     "n": 1,
     "en": "All things that we planned as a festival turn into a black funeral.",
-    "ko": ""
+    "ko": "축제로 계획했던 모든 것들이 검은 장례식으로 변해버렸어요."
    },
    {
     "n": 2,
     "en": "Our instruments become sad bells.",
-    "ko": ""
+    "ko": "우리의 악기들은 슬픈 종소리가 되었고."
    },
    {
     "n": 3,
     "en": "Our wedding cheer becomes a sad burial feast.",
-    "ko": ""
+    "ko": "잔치 음식은 장례 음식이 되었어요."
    },
    {
     "n": 4,
     "en": "Our serious hymns change to sad songs for the dead.",
-    "ko": ""
+    "ko": "우리의 엄숙한 찬송가는 죽은 자를 위한 슬픈 노래로 바뀌었고요."
    },
    {
     "n": 5,
     "en": "Our bridal flowers are used for a buried body.",
-    "ko": ""
+    "ko": "신부의 꽃들은 무덤에 들어갈 시신을 위해 쓰이게 되었어요."
    },
    {
     "n": 6,
     "en": "Everything has changed to the opposite.",
-    "ko": ""
+    "ko": "모든 것이 정반대로 변해버렸어요."
    }
   ]
  },
@@ -859,27 +869,27 @@
    {
     "n": 1,
     "en": "Sir, go in.",
-    "ko": ""
+    "ko": "캐퓰릿 경, 들어가세요."
    },
    {
     "n": 2,
     "en": "Madam, go with him.",
-    "ko": ""
+    "ko": "부인도 함께 가세요."
    },
    {
     "n": 3,
     "en": "Sir Paris, everyone prepare to follow this fair body to her grave.",
-    "ko": ""
+    "ko": "패리스 백작님, 모두 이 고운 시신을 무덤까지 따를 준비를 하세요."
    },
    {
     "n": 4,
     "en": "Heaven frowns on you for some sin.",
-    "ko": ""
+    "ko": "하늘이 어떤 죄 때문에 여러분께 노하셨어요."
    },
    {
     "n": 5,
     "en": "Do not anger heaven more by going against its will.",
-    "ko": ""
+    "ko": "하늘의 뜻을 거슬러 더 노하게 하지 마세요."
    }
   ]
  },
@@ -897,7 +907,7 @@
    {
     "n": 1,
     "en": "Capulet, Lady Capulet, Paris, and the Friar leave.",
-    "ko": ""
+    "ko": "캐퓰릿, 캐퓰릿 부인, 패리스, 그리고 신부가 떠난다."
    }
   ]
  },
@@ -915,9 +925,10 @@
    {
     "n": 1,
     "en": "I believe we can stop playing our pipes and leave now.",
-    "ko": ""
+    "ko": "이제 피리는 집어넣고 가도 되겠네."
    }
-  ]
+  ],
+  "to": "SECOND MUSICIAN"
  },
  {
   "id": 920,
@@ -933,12 +944,12 @@
    {
     "n": 1,
     "en": "Good men, put your instruments away, put them away.",
-    "ko": ""
+    "ko": "착한 양반들, 악기 집어넣어, 집어넣어."
    },
    {
     "n": 2,
     "en": "You know well that this is a sad case.",
-    "ko": ""
+    "ko": "다들 알다시피 참 딱한 사정이잖아."
    }
   ]
  },
@@ -956,7 +967,7 @@
    {
     "n": 1,
     "en": "Yes, truly, and my instrument case could use a repair too.",
-    "ko": ""
+    "ko": "그렇고말고요, 제 악기 케이스도 좀 고쳐야 하고요."
    }
   ]
  },
@@ -998,17 +1009,17 @@
    {
     "n": 1,
     "en": "Musicians, oh, musicians!",
-    "ko": ""
+    "ko": "음악가들이여, 오, 음악가들아!"
    },
    {
     "n": 2,
     "en": "Play 'Heart's Ease', 'Heart's Ease'!",
-    "ko": ""
+    "ko": "'마음의 평온'을 연주해라, '마음의 평온'을!"
    },
    {
     "n": 3,
     "en": "If you want me to live, play 'Heart's Ease'.",
-    "ko": ""
+    "ko": "내가 살길 원한다면 '마음의 평온'을 연주해라."
    }
   ]
  },
@@ -1026,7 +1037,7 @@
    {
     "n": 1,
     "en": "Why 'Heart's ease'?",
-    "ko": ""
+    "ko": "왜 '마음의 평온'이지?"
    }
   ]
  },
@@ -1044,12 +1055,12 @@
    {
     "n": 1,
     "en": "Musicians, because my heart itself is playing 'My heart is full of sorrow'.",
-    "ko": ""
+    "ko": "악사 양반들, 내 마음이 '내 마음은 슬픔으로 가득해'를 연주하고 있거든."
    },
    {
     "n": 2,
     "en": "Play me a happy sad song to comfort me.",
-    "ko": ""
+    "ko": "나를 위로할 즐거운 슬픈 노래를 한 곡 해 줘."
    }
   ]
  },
@@ -1067,12 +1078,12 @@
    {
     "n": 1,
     "en": "We will not play a sad song.",
-    "ko": ""
+    "ko": "슬픈 노래는 안 해."
    },
    {
     "n": 2,
     "en": "It is not the time to play now.",
-    "ko": ""
+    "ko": "지금은 그런 곡을 연주할 때가 아니야."
    }
   ]
  },
@@ -1090,7 +1101,7 @@
    {
     "n": 1,
     "en": "Will you not then?",
-    "ko": ""
+    "ko": "그래도 안 해줄 거야?"
    }
   ]
  },
@@ -1108,7 +1119,7 @@
    {
     "n": 1,
     "en": "No.",
-    "ko": ""
+    "ko": "안 해."
    }
   ]
  },
@@ -1126,7 +1137,7 @@
    {
     "n": 1,
     "en": "Then I will give it to you, and hard.",
-    "ko": ""
+    "ko": "그럼 호되게 한 방 먹여 주지."
    }
   ]
  },
@@ -1144,7 +1155,7 @@
    {
     "n": 1,
     "en": "What will you give us?",
-    "ko": ""
+    "ko": "뭘 먹여 주겠다는 거야?"
    }
   ]
  },
@@ -1162,12 +1173,12 @@
    {
     "n": 1,
     "en": "No money, I promise, but I will give you a sneer!",
-    "ko": ""
+    "ko": "돈은 무슨, 비웃음이나 한 방 먹여 주지!"
    },
    {
     "n": 2,
     "en": "I will call you a cheap street musician.",
-    "ko": ""
+    "ko": "너희를 싸구려 떠돌이 악사라고 불러 주겠어."
    }
   ]
  },
@@ -1185,7 +1196,7 @@
    {
     "n": 1,
     "en": "Then I will call you a servant-creature.",
-    "ko": ""
+    "ko": "그럼 난 너를 하인 나부랭이라고 부르지."
    }
   ]
  },
@@ -1203,22 +1214,22 @@
    {
     "n": 1,
     "en": "Then I will bring the servant's dagger down on your head.",
-    "ko": ""
+    "ko": "그럼 하인의 단검을 네 정수리에 내리꽂아 주지."
    },
    {
     "n": 2,
     "en": "I will not put up with your musical nonsense.",
-    "ko": ""
+    "ko": "네 음악적 헛소리는 참아줄 수 없어."
    },
    {
     "n": 3,
     "en": "I will 're' you, and I will 'fa' you.",
-    "ko": ""
+    "ko": "'레'로 한 대, '파'로 한 대 먹여 주마."
    },
    {
     "n": 4,
     "en": "Do you note that?",
-    "ko": ""
+    "ko": "알아들었어?"
    }
   ]
  },
@@ -1236,7 +1247,7 @@
    {
     "n": 1,
     "en": "If you 're' us and 'fa' us, you are the one making music.",
-    "ko": ""
+    "ko": "네가 우리를 '레'하고 '파'하면, 음악을 하는 건 너잖아."
    }
   ]
  },
@@ -1254,9 +1265,10 @@
    {
     "n": 1,
     "en": "Please put away your dagger, and bring out your wit instead.",
-    "ko": ""
+    "ko": "제발 단검은 넣고, 재치나 꺼내 봐."
    }
-  ]
+  ],
+  "to": "PETER"
  },
  {
   "id": 937,
@@ -1272,32 +1284,32 @@
    {
     "n": 1,
     "en": "Then have at you with my wit.",
-    "ko": ""
+    "ko": "그럼 내 재치 맛 좀 봐라."
    },
    {
     "n": 2,
     "en": "I will beat you with an iron wit and put away my iron dagger.",
-    "ko": ""
+    "ko": "쇠 같은 재치로 흠씬 두들겨 주고, 쇠 단검은 넣어 두지."
    },
    {
     "n": 3,
     "en": "Answer me like men.",
-    "ko": ""
+    "ko": "사내답게 대답해 봐."
    },
    {
     "n": 4,
     "en": "'When painful sorrows wound the heart, and sad feelings weigh down the mind, then music with her silver sound—'",
-    "ko": ""
+    "ko": "'고통스러운 슬픔이 마음을 할퀴고, 슬픈 감정이 정신을 짓누를 때, 은빛 소리를 내는 음악이—'"
    },
    {
     "n": 5,
     "en": "Why 'silver sound'? Why 'music with her silver sound'?",
-    "ko": ""
+    "ko": "왜 '은빛 소리'라고 했지? 왜 '은빛 소리를 내는 음악'이라고 한 거야?"
    },
    {
     "n": 6,
     "en": "What do you say, Simon Catling?",
-    "ko": ""
+    "ko": "사이먼 캐틀링, 어떻게 생각해?"
    }
   ]
  },
@@ -1315,7 +1327,7 @@
    {
     "n": 1,
     "en": "Well, sir, because silver has a sweet sound.",
-    "ko": ""
+    "ko": "글쎄, 은은 소리가 고우니까 그렇지."
    }
   ]
  },
@@ -1333,12 +1345,12 @@
    {
     "n": 1,
     "en": "Silly answer!",
-    "ko": ""
+    "ko": "헛소리!"
    },
    {
     "n": 2,
     "en": "What do you say, Hugh Rebeck?",
-    "ko": ""
+    "ko": "휴 레벡, 넌 뭐라고 할 거야?"
    }
   ]
  },
@@ -1356,7 +1368,7 @@
    {
     "n": 1,
     "en": "I say 'silver sound' because musicians play for silver.",
-    "ko": ""
+    "ko": "악사들은 은화를 받고 연주하니까 '은빛 소리'라고 하는 거지."
    }
   ]
  },
@@ -1374,12 +1386,12 @@
    {
     "n": 1,
     "en": "Silly answer too!",
-    "ko": ""
+    "ko": "그것도 헛소리!"
    },
    {
     "n": 2,
     "en": "What do you say, James Soundpost?",
-    "ko": ""
+    "ko": "자, 제임스 사운드포스트, 네 생각은 어떠냐?"
    }
   ]
  },
@@ -1397,7 +1409,7 @@
    {
     "n": 1,
     "en": "Truly, I do not know what to say.",
-    "ko": ""
+    "ko": "나 참, 뭐라고 해야 할지 모르겠네."
    }
   ]
  },
@@ -1415,22 +1427,22 @@
    {
     "n": 1,
     "en": "Excuse me.",
-    "ko": ""
+    "ko": "아, 실례."
    },
    {
     "n": 2,
     "en": "You are the singer, so I will speak for you.",
-    "ko": ""
+    "ko": "네가 가수니까 내가 대신 말해줄게."
    },
    {
     "n": 3,
     "en": "It is 'music with her silver sound' because musicians have no gold for playing.",
-    "ko": ""
+    "ko": "악사들은 연주해도 금화를 못 받으니까 '은빛 소리'라고 하는 거야."
    },
    {
     "n": 4,
     "en": "'Then music with her silver sound quickly brings relief.'",
-    "ko": ""
+    "ko": "'그때 은빛 소리의 음악이 금세 위안을 주노라.'"
    }
   ]
  },
@@ -1460,7 +1472,7 @@
    {
     "n": 1,
     "en": "What an annoying pest he is!",
-    "ko": ""
+    "ko": "정말 성가신 놈이군!"
    }
   ]
  },
@@ -1478,22 +1490,22 @@
    {
     "n": 1,
     "en": "Hang him, Jack.",
-    "ko": ""
+    "ko": "잭, 내버려 둬."
    },
    {
     "n": 2,
     "en": "Come, let's go inside.",
-    "ko": ""
+    "ko": "자, 안으로 들어가자."
    },
    {
     "n": 3,
     "en": "We will wait for the mourners.",
-    "ko": ""
+    "ko": "조문객들 올 때까지 기다렸다가"
    },
    {
     "n": 4,
     "en": "And we will stay for dinner.",
-    "ko": ""
+    "ko": "저녁이나 얻어먹자."
    }
   ]
  },
