@@ -9,10 +9,16 @@
   "speaker": null,
   "delivery": null,
   "raw": "Act 5, Scene 1 — Mantua. A Street",
-  "sentences": [],
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Mantua. A Street",
+    "ko": "만토바의 거리"
+   }
+  ],
   "summary": {
    "en": "In Mantua, Romeo hears that Juliet is dead. He buys poison and goes back to Verona to die beside her.",
-   "ko": ""
+   "ko": "만토바에서 로미오는 줄리엣이 죽었다는 소식을 듣는다. 그는 독약을 사서 줄리엣 곁에서 죽으려고 베로나로 돌아간다."
   }
  },
  {
@@ -41,47 +47,47 @@
    {
     "n": 1,
     "en": "If I can trust the sweet promises of sleep, my dreams tell me happy news is coming.",
-    "ko": ""
+    "ko": "잠이 주는 달콤한 약속을 믿어도 된다면, 내 꿈은 곧 기쁜 소식이 온다고 말해 준다."
    },
    {
     "n": 2,
     "en": "My heart feels light today.",
-    "ko": ""
+    "ko": "오늘 내 마음은 가볍다."
    },
    {
     "n": 3,
     "en": "And all day long, a new feeling lifts me up with happy thoughts.",
-    "ko": ""
+    "ko": "온종일 새로운 기분이 즐거운 생각으로 나를 들뜨게 한다."
    },
    {
     "n": 4,
     "en": "I dreamed my lady came and found me dead.",
-    "ko": ""
+    "ko": "내 사랑이 찾아와 죽어 있는 나를 발견하는 꿈을 꾸었다."
    },
    {
     "n": 5,
     "en": "Strange dream, where a dead man can still think!",
-    "ko": ""
+    "ko": "죽은 자가 생각할 수 있다니, 참으로 묘한 꿈이다!"
    },
    {
     "n": 6,
     "en": "She breathed life into my lips with kisses.",
-    "ko": ""
+    "ko": "그녀는 입맞춤으로 내 입술에 생명을 불어넣었다."
    },
    {
     "n": 7,
     "en": "Then I came back to life.",
-    "ko": ""
+    "ko": "그러자 나는 다시 살아났다."
    },
    {
     "n": 8,
     "en": "And I was an emperor.",
-    "ko": ""
+    "ko": "그리고 나는 황제가 되었다."
    },
    {
     "n": 9,
     "en": "Oh, how sweet love itself is, when even the shadows of love are so full of joy.",
-    "ko": ""
+    "ko": "오, 사랑의 그림자조차 이토록 기쁨으로 가득하니, 사랑 그 자체가 얼마나 달콤한가."
    }
   ]
  },
@@ -111,27 +117,27 @@
    {
     "n": 1,
     "en": "News from Verona!",
-    "ko": ""
+    "ko": "베로나에서 온 소식이다!"
    },
    {
     "n": 2,
     "en": "Hello, Balthasar!",
-    "ko": ""
+    "ko": "어서 와, 발타자르!"
    },
    {
     "n": 3,
     "en": "Do you not bring me letters from the friar?",
-    "ko": ""
+    "ko": "신부님이 보내신 편지는 없느냐?"
    },
    {
     "n": 4,
     "en": "How is my lady and is my father well?",
-    "ko": ""
+    "ko": "내 사랑은 어떠냐? 아버지는 안녕하시냐?"
    },
    {
     "n": 5,
     "en": "How is my Juliet? I ask again because nothing can be bad if she is well.",
-    "ko": ""
+    "ko": "내 줄리엣은 어떠냐? 다시 묻는 건, 그녀만 무사하면 나쁜 일이 있을 리 없기 때문이다."
    }
   ]
  },
@@ -149,37 +155,37 @@
    {
     "n": 1,
     "en": "Then she is well, and nothing can be ill.",
-    "ko": ""
+    "ko": "그렇다면 아가씨는 무사하시니, 나쁜 일은 없는 것입니다."
    },
    {
     "n": 2,
     "en": "Her body sleeps in her family's tomb.",
-    "ko": ""
+    "ko": "아가씨의 몸은 가문의 무덤에 잠들어 계십니다."
    },
    {
     "n": 3,
     "en": "And her immortal soul lives with angels.",
-    "ko": ""
+    "ko": "그리고 영원한 영혼은 천사들과 함께 계십니다."
    },
    {
     "n": 4,
     "en": "I saw her laid low in her family's vault.",
-    "ko": ""
+    "ko": "아가씨께서 가문의 묘실에 누이시는 것을 제 눈으로 보았습니다."
    },
    {
     "n": 5,
     "en": "I rode here at once to tell you.",
-    "ko": ""
+    "ko": "이 소식을 전하기 위해 즉시 이곳으로 달려왔습니다."
    },
    {
     "n": 6,
     "en": "Please forgive me for bringing this bad news.",
-    "ko": ""
+    "ko": "이 나쁜 소식을 전하게 된 것을 용서해 주십시오."
    },
    {
     "n": 7,
     "en": "You left it to my duty to tell you, sir.",
-    "ko": ""
+    "ko": "주인님께서 소식을 전하는 일을 제게 맡기셨으니까요."
    }
   ]
  },
@@ -197,17 +203,17 @@
    {
     "n": 1,
     "en": "Is it really so? Then I defy the stars!",
-    "ko": ""
+    "ko": "정말 그러한가? 그렇다면 나는 운명에 맞서겠다!"
    },
    {
     "n": 2,
     "en": "You know where I am staying, so get me ink and paper.",
-    "ko": ""
+    "ko": "내가 묵는 곳을 알지? 잉크와 종이를 가져와라."
    },
    {
     "n": 3,
     "en": "Hire fast horses because I will leave from here tonight.",
-    "ko": ""
+    "ko": "오늘 밤 여기를 떠날 테니 빠른 말을 구해라."
    }
   ]
  },
@@ -225,17 +231,17 @@
    {
     "n": 1,
     "en": "I beg you, sir, have patience.",
-    "ko": ""
+    "ko": "주인님, 부디 진정하십시오."
    },
    {
     "n": 2,
     "en": "Your face looks pale and wild.",
-    "ko": ""
+    "ko": "주인님 얼굴이 창백하고 사나워 보이십니다."
    },
    {
     "n": 3,
     "en": "It shows that something bad has happened.",
-    "ko": ""
+    "ko": "무슨 나쁜 일이 일어났다는 표시입니다."
    }
   ]
  },
@@ -253,22 +259,22 @@
    {
     "n": 1,
     "en": "No, you are mistaken.",
-    "ko": ""
+    "ko": "아니, 네가 틀렸다."
    },
    {
     "n": 2,
     "en": "Leave me.",
-    "ko": ""
+    "ko": "물러가라."
    },
    {
     "n": 3,
     "en": "Do the thing I told you to do.",
-    "ko": ""
+    "ko": "내가 시킨 일을 해라."
    },
    {
     "n": 4,
     "en": "Do you not have any letters for me from the friar?",
-    "ko": ""
+    "ko": "신부님이 보내신 편지는 하나도 없는 것이냐?"
    }
   ]
  },
@@ -286,7 +292,7 @@
    {
     "n": 1,
     "en": "No, my good lord.",
-    "ko": ""
+    "ko": "아닙니다, 주인님."
    }
   ]
  },
@@ -304,12 +310,12 @@
    {
     "n": 1,
     "en": "It does not matter. Go away now and hire those horses.",
-    "ko": ""
+    "ko": "상관없다. 이제 가서 그 말들을 구해라."
    },
    {
     "n": 2,
     "en": "I will be with you immediately.",
-    "ko": ""
+    "ko": "나도 곧 뒤따라가겠다."
    }
   ]
  },
@@ -339,117 +345,117 @@
    {
     "n": 1,
     "en": "Well, Juliet, I will lie with you tonight.",
-    "ko": ""
+    "ko": "그래, 줄리엣, 오늘 밤 너와 나란히 눕겠다."
    },
    {
     "n": 2,
     "en": "Let me think how.",
-    "ko": ""
+    "ko": "어떻게 할지 생각해보자."
    },
    {
     "n": 3,
     "en": "Evil is quick to enter the thoughts of desperate men.",
-    "ko": ""
+    "ko": "절망에 빠진 자의 마음에는 악한 생각이 빠르게 스며든다."
    },
    {
     "n": 4,
     "en": "I remember an apothecary, a man who sells medicines.",
-    "ko": ""
+    "ko": "약제사, 그러니까 약을 파는 사람이 하나 기억난다."
    },
    {
     "n": 5,
     "en": "He lives near here.",
-    "ko": ""
+    "ko": "그는 이 근처에 산다."
    },
    {
     "n": 6,
     "en": "I saw him recently in torn clothes and with heavy eyebrows.",
-    "ko": ""
+    "ko": "얼마 전에 그를 보았는데, 해진 옷에 눈썹을 잔뜩 찌푸리고 있었다."
    },
    {
     "n": 7,
     "en": "He was gathering simple herbs.",
-    "ko": ""
+    "ko": "약초를 캐고 있었다."
    },
    {
     "n": 8,
     "en": "He looked very poor.",
-    "ko": ""
+    "ko": "매우 가난해 보였다."
    },
    {
     "n": 9,
     "en": "Hard misery had worn him to the bones.",
-    "ko": ""
+    "ko": "지독한 비참함이 그를 뼈만 남게 만들었다."
    },
    {
     "n": 10,
     "en": "A tortoise hung in his poor shop.",
-    "ko": ""
+    "ko": "그의 초라한 가게에는 거북 등딱지가 매달려 있었다."
    },
    {
     "n": 11,
     "en": "There was also a stuffed alligator.",
-    "ko": ""
+    "ko": "박제된 악어도 있었다."
    },
    {
     "n": 12,
     "en": "Other skins of ugly fish were there too.",
-    "ko": ""
+    "ko": "흉측한 물고기 가죽들도 있었다."
    },
    {
     "n": 13,
     "en": "Empty boxes were on his shelves.",
-    "ko": ""
+    "ko": "선반 위에는 빈 상자들이 놓여 있었다."
    },
    {
     "n": 14,
     "en": "There were green clay pots, bladders, and musty seeds.",
-    "ko": ""
+    "ko": "초록색 흙 항아리, 짐승 오줌보, 곰팡내 나는 씨앗들이 있었다."
    },
    {
     "n": 15,
     "en": "Remnants of packthread and old cakes of roses were scattered to make a show.",
-    "ko": ""
+    "ko": "쓰다 남은 노끈과 오래된 장미 꽃잎 덩어리가 구색을 맞추려고 여기저기 놓여 있었다."
    },
    {
     "n": 16,
     "en": "I saw how poor he was.",
-    "ko": ""
+    "ko": "그가 얼마나 가난한지 알 수 있었다."
    },
    {
     "n": 17,
     "en": "I thought, if a man needed poison now, this man would sell it to him.",
-    "ko": ""
+    "ko": "만약 누군가 지금 독이 필요하다면, 이 자가 그것을 팔 것이라 생각했다."
    },
    {
     "n": 18,
     "en": "Selling it in Mantua means instant death.",
-    "ko": ""
+    "ko": "만토바에서 독을 팔면 곧바로 사형이다."
    },
    {
     "n": 19,
     "en": "I did not know then that I would be the one who needed it.",
-    "ko": ""
+    "ko": "그때 내가 그것을 필요로 할 사람이 될 줄은 몰랐다."
    },
    {
     "n": 20,
     "en": "This same needy man must sell it to me.",
-    "ko": ""
+    "ko": "바로 이 궁핍한 자가 내게 그것을 팔아야 한다."
    },
    {
     "n": 21,
     "en": "As I remember, this should be the house.",
-    "ko": ""
+    "ko": "내 기억으로는 이 집이다."
    },
    {
     "n": 22,
     "en": "It is a holiday, so the beggar's shop is closed.",
-    "ko": ""
+    "ko": "공휴일이라 이 가난뱅이의 가게는 문을 닫았다."
    },
    {
     "n": 23,
     "en": "Hello there! Apothecary!",
-    "ko": ""
+    "ko": "여봐라! 약제사!"
    }
   ]
  },
@@ -479,7 +485,7 @@
    {
     "n": 1,
     "en": "Who calls so loud?",
-    "ko": ""
+    "ko": "누가 그렇게 크게 부릅니까?"
    }
   ]
  },
@@ -497,27 +503,27 @@
    {
     "n": 1,
     "en": "Come here, man. I see that you are poor.",
-    "ko": ""
+    "ko": "이리 오게, 이 사람아. 자네가 가난한 걸 알겠네."
    },
    {
     "n": 2,
     "en": "Wait, here are forty gold coins.",
-    "ko": ""
+    "ko": "잠깐, 여기 금화 사십 개가 있네."
    },
    {
     "n": 3,
     "en": "Give me a small amount of poison that must work quickly.",
-    "ko": ""
+    "ko": "빨리 듣는 독약을 조금만 주게."
    },
    {
     "n": 4,
     "en": "It must spread through all the veins so the person who takes it falls dead immediately.",
-    "ko": ""
+    "ko": "마신 사람이 그 자리에서 쓰러져 죽도록 온 핏줄에 퍼지는 것이어야 하네."
    },
    {
     "n": 5,
     "en": "It must empty the body of breath as violently as gunpowder bursts out of a cannon.",
-    "ko": ""
+    "ko": "대포에서 화약이 터져 나가듯 몸에서 숨을 거칠게 비워 내야 하네."
    }
   ]
  },
@@ -535,12 +541,12 @@
    {
     "n": 1,
     "en": "I have such deadly drugs.",
-    "ko": ""
+    "ko": "그런 치명적인 약들이 있습니다."
    },
    {
     "n": 2,
     "en": "But Mantua's law says death to anyone who sells them.",
-    "ko": ""
+    "ko": "하지만 만토바 법에 따르면 그것을 파는 자는 사형입니다."
    }
   ]
  },
@@ -558,37 +564,37 @@
    {
     "n": 1,
     "en": "Are you so poor and full of misery that you are afraid to die?",
-    "ko": ""
+    "ko": "그렇게 가난하고 비참하면서 죽는 게 두려운가?"
    },
    {
     "n": 2,
     "en": "Hunger is in your cheeks.",
-    "ko": ""
+    "ko": "자네 뺨에는 굶주림이 배어 있네."
    },
    {
     "n": 3,
     "en": "Need and oppression starve your eyes.",
-    "ko": ""
+    "ko": "궁핍과 억압이 자네 눈을 굶주리게 하네."
    },
    {
     "n": 4,
     "en": "Contempt and poverty hang on your back.",
-    "ko": ""
+    "ko": "멸시와 가난이 자네 등에 매달려 있네."
    },
    {
     "n": 5,
     "en": "The world is not your friend, nor is the law of the world.",
-    "ko": ""
+    "ko": "세상은 자네 편이 아니고, 세상의 법도 마찬가지네."
    },
    {
     "n": 6,
     "en": "The world offers no law to make you rich.",
-    "ko": ""
+    "ko": "세상에는 자네를 부자로 만들어 줄 법이 없네."
    },
    {
     "n": 7,
     "en": "Then do not be poor. Break the law and take this.",
-    "ko": ""
+    "ko": "그러니 가난하게 살지 말게. 법을 어기고 이걸 받게."
    }
   ]
  },
@@ -606,7 +612,7 @@
    {
     "n": 1,
     "en": "My poverty agrees, but my will does not.",
-    "ko": ""
+    "ko": "제 가난은 동의하지만, 제 의지는 그렇지 않습니다."
    }
   ]
  },
@@ -624,7 +630,7 @@
    {
     "n": 1,
     "en": "I am paying your poverty, not your will.",
-    "ko": ""
+    "ko": "나는 자네 의지가 아니라 자네 가난에 돈을 치르는 걸세."
    }
   ]
  },
@@ -642,17 +648,17 @@
    {
     "n": 1,
     "en": "Put this in any liquid.",
-    "ko": ""
+    "ko": "이것을 아무 액체에나 타십시오."
    },
    {
     "n": 2,
     "en": "Then drink it.",
-    "ko": ""
+    "ko": "그리고 그것을 마십시오."
    },
    {
     "n": 3,
     "en": "If you had the strength of twenty men, it would kill you instantly.",
-    "ko": ""
+    "ko": "손님께 스무 사람의 힘이 있다 해도 곧바로 숨이 끊어질 것입니다."
    }
   ]
  },
@@ -670,37 +676,37 @@
    {
     "n": 1,
     "en": "Here is your gold, which is a worse poison to people's souls.",
-    "ko": ""
+    "ko": "여기 자네 금화일세. 사람의 영혼에는 이게 더 지독한 독이지."
    },
    {
     "n": 2,
     "en": "It causes more death in this hateful world.",
-    "ko": ""
+    "ko": "이 증오스러운 세상에서 더 많은 죽음을 부르네."
    },
    {
     "n": 3,
     "en": "It kills more than these poor mixtures that you are not allowed to sell.",
-    "ko": ""
+    "ko": "자네가 팔지 못하게 금지된 이 초라한 약보다 더 많은 사람을 죽이지."
    },
    {
     "n": 4,
     "en": "I am selling you poison, but you have sold me none.",
-    "ko": ""
+    "ko": "독을 파는 건 나일세. 자네는 내게 아무것도 팔지 않았네."
    },
    {
     "n": 5,
     "en": "Goodbye. Buy some food and make yourself healthy.",
-    "ko": ""
+    "ko": "잘 있게. 먹을 것을 사서 살 좀 찌우게."
    },
    {
     "n": 6,
     "en": "Come, you are a medicine, not a poison.",
-    "ko": ""
+    "ko": "자, 너는 독이 아니라 약이로구나."
    },
    {
     "n": 7,
     "en": "Go with me to Juliet's grave because I must use it there.",
-    "ko": ""
+    "ko": "나와 함께 줄리엣의 무덤으로 가자. 거기서 너를 써야 하니까."
    }
   ]
  },
