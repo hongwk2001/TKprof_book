@@ -9,10 +9,16 @@
   "speaker": null,
   "delivery": null,
   "raw": "Act 3, Scene 1 — A public Place",
-  "sentences": [],
+  "sentences": [
+   {
+    "n": 1,
+    "en": "A public Place",
+    "ko": "광장"
+   }
+  ],
   "summary": {
    "en": "Tybalt wants to fight Romeo, but Romeo refuses. Mercutio fights instead and is killed. Romeo kills Tybalt, and the Prince banishes Romeo.",
-   "ko": ""
+   "ko": "티볼트가 로미오와 싸우려 하지만 로미오는 거절한다. 대신 머큐쇼가 싸우다 죽는다. 로미오는 티볼트를 죽이고, 영주는 로미오를 추방한다."
   }
  },
  {
@@ -29,7 +35,7 @@
    {
     "n": 1,
     "en": "Mercutio, Benvolio, a Page, and Servants enter.",
-    "ko": ""
+    "ko": "머큐쇼, 벤볼리오, 시동, 그리고 하인들이 들어온다."
    }
   ]
  },
@@ -47,27 +53,27 @@
    {
     "n": 1,
     "en": "Please, good Mercutio, let us go home.",
-    "ko": ""
+    "ko": "머큐쇼, 제발 이제 들어가자."
    },
    {
     "n": 2,
     "en": "The day is hot.",
-    "ko": ""
+    "ko": "날씨가 너무 덥네."
    },
    {
     "n": 3,
     "en": "The Capulets are out and about.",
-    "ko": ""
+    "ko": "캐퓰릿 사람들이 나돌아 다녀."
    },
    {
     "n": 4,
     "en": "If we meet them, we will not escape a fight.",
-    "ko": ""
+    "ko": "그들과 마주치면 싸움을 피할 수 없을 거야."
    },
    {
     "n": 5,
     "en": "These hot days make people's blood boil and make them angry.",
-    "ko": ""
+    "ko": "이 더운 날씨는 사람들의 피를 끓게 하고 화나게 만든단 말이야."
    }
   ]
  },
@@ -85,27 +91,27 @@
    {
     "n": 1,
     "en": "You are like one of those men.",
-    "ko": ""
+    "ko": "너는 딱 그런 녀석들 같아."
    },
    {
     "n": 2,
     "en": "When they enter a tavern, they put their sword on the table.",
-    "ko": ""
+    "ko": "그들은 술집에 들어오면 탁자 위에 칼을 올려놓지."
    },
    {
     "n": 3,
     "en": "They say, 'God send me no need of you!'",
-    "ko": ""
+    "ko": "'하나님, 이 칼 쓸 일이 없게 해 주소서!'라고 하지."
    },
    {
     "n": 4,
     "en": "After the second drink, they draw their sword on the barman.",
-    "ko": ""
+    "ko": "두 잔째 마시고는 술집 주인한테 칼을 뽑지."
    },
    {
     "n": 5,
     "en": "They do this even when there is no need for it.",
-    "ko": ""
+    "ko": "꼭 필요하지 않은 상황에서도 그러는 거야."
    }
   ]
  },
@@ -123,7 +129,7 @@
    {
     "n": 1,
     "en": "Am I like such a man?",
-    "ko": ""
+    "ko": "내가 그런 사람 같다고?"
    }
   ]
  },
@@ -141,17 +147,17 @@
    {
     "n": 1,
     "en": "Come, come, you are as hot-headed as any man in Italy.",
-    "ko": ""
+    "ko": "자, 자, 넌 이탈리아에서 제일가는 성질 급한 놈이야."
    },
    {
     "n": 2,
     "en": "You get angry very quickly.",
-    "ko": ""
+    "ko": "너는 아주 금방 화를 내지."
    },
    {
     "n": 3,
     "en": "And you become calm just as quickly.",
-    "ko": ""
+    "ko": "그리고 똑같이 빨리 진정하기도 하고."
    }
   ]
  },
@@ -169,7 +175,7 @@
    {
     "n": 1,
     "en": "Moved to what?",
-    "ko": ""
+    "ko": "무엇 때문에 움직인다는 거야?"
    }
   ]
  },
@@ -187,67 +193,67 @@
    {
     "n": 1,
     "en": "No, if there were two such men, we would have none of them soon.",
-    "ko": ""
+    "ko": "아니, 그런 놈이 둘이면 곧 하나도 안 남겠지."
    },
    {
     "n": 2,
     "en": "One would kill the other.",
-    "ko": ""
+    "ko": "한 명이 다른 한 명을 죽일 테니까."
    },
    {
     "n": 3,
     "en": "You? You would fight a man who has one hair more or less in his beard than you.",
-    "ko": ""
+    "ko": "너 말이야? 턱수염이 너보다 한 가닥 많거나 적다는 이유로도 싸움을 벌이는 놈이잖아."
    },
    {
     "n": 4,
     "en": "You would fight a man for cracking nuts.",
-    "ko": ""
+    "ko": "호두를 깐다는 이유로도 싸우겠지."
    },
    {
     "n": 5,
     "en": "You would do this for no reason other than because you have hazel eyes.",
-    "ko": ""
+    "ko": "네 눈이 호두색이라는 이유 하나로 말이야."
    },
    {
     "n": 6,
     "en": "What eye but such an eye would find such a fight?",
-    "ko": ""
+    "ko": "그런 눈이 아니면 누가 이런 싸움을 찾겠어?"
    },
    {
     "n": 7,
     "en": "Your head is as full of fights as an egg is full of meat.",
-    "ko": ""
+    "ko": "네 머리엔 달걀에 속이 꽉 찬 것처럼 싸움이 꽉 차 있어."
    },
    {
     "n": 8,
     "en": "Yet your head has been beaten as soft as an egg from fighting.",
-    "ko": ""
+    "ko": "하지만 그 머리는 너무 많이 싸우는 바람에 달걀처럼 말랑해졌고."
    },
    {
     "n": 9,
     "en": "You fought a man for coughing in the street.",
-    "ko": ""
+    "ko": "거리에서 기침했다고 사람하고 싸운 적도 있잖아."
    },
    {
     "n": 10,
     "en": "He had woken up your dog that was sleeping in the sun.",
-    "ko": ""
+    "ko": "그 사람이 햇볕 아래 자고 있던 네 개를 깨웠기 때문이지."
    },
    {
     "n": 11,
     "en": "Did you not fight with a tailor for wearing his new jacket before Easter?",
-    "ko": ""
+    "ko": "부활절도 되기 전에 새 옷을 입었다고 재단사와 싸우지 않았어?"
    },
    {
     "n": 12,
     "en": "Did you not fight with another for tying his new shoes with an old ribbon?",
-    "ko": ""
+    "ko": "새 신발을 낡은 리본으로 묶었다는 이유로 다른 사람과 싸우지도 않았고."
    },
    {
     "n": 13,
     "en": "And yet you want to tell me not to fight!",
-    "ko": ""
+    "ko": "그런데 이제 나더러 싸우지 말라고 하겠다니!"
    }
   ]
  },
@@ -265,12 +271,12 @@
    {
     "n": 1,
     "en": "Suppose I were as ready to fight as you are.",
-    "ko": ""
+    "ko": "내가 너만큼 싸울 준비가 되어 있다고 가정해 봐."
    },
    {
     "n": 2,
     "en": "Then any man could buy full ownership of my life for an hour and a quarter.",
-    "ko": ""
+    "ko": "그럼 누구든 한 시간 십오 분이면 내 목숨을 통째로 살 수 있겠지."
    }
   ]
  },
@@ -288,12 +294,12 @@
    {
     "n": 1,
     "en": "Full ownership!",
-    "ko": ""
+    "ko": "통째로라니!"
    },
    {
     "n": 2,
     "en": "How simple-minded!",
-    "ko": ""
+    "ko": "참 단순하기도 하지!"
    }
   ]
  },
@@ -311,7 +317,7 @@
    {
     "n": 1,
     "en": "Tybalt and others enter.",
-    "ko": ""
+    "ko": "티볼트와 다른 이들이 들어온다."
    }
   ]
  },
@@ -329,7 +335,7 @@
    {
     "n": 1,
     "en": "By my head, here come the Capulets.",
-    "ko": ""
+    "ko": "맹세코, 캐퓰릿 놈들이 온다."
    }
   ]
  },
@@ -347,7 +353,7 @@
    {
     "n": 1,
     "en": "By my heel, I do not care.",
-    "ko": ""
+    "ko": "맹세코, 난 상관없어."
    }
   ]
  },
@@ -365,14 +371,15 @@
    {
     "n": 1,
     "en": "Follow me closely because I will speak to them.",
-    "ko": ""
+    "ko": "바짝 따라와라. 내가 저들에게 말을 걸 테니."
    },
    {
     "n": 2,
     "en": "Good evening, gentlemen; I want a word with one of you.",
-    "ko": ""
+    "ko": "안녕하시오, 신사분들. 한 사람에게 할 말이 있소."
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 553,
@@ -388,17 +395,17 @@
    {
     "n": 1,
     "en": "Only one word with one of us?",
-    "ko": ""
+    "ko": "우리 중 한 명과 단 한 마디라니?"
    },
    {
     "n": 2,
     "en": "Add something else to it.",
-    "ko": ""
+    "ko": "거기에 다른 것도 좀 얹어봐."
    },
    {
     "n": 3,
     "en": "Make it a word and a blow.",
-    "ko": ""
+    "ko": "말 한마디에 한 방을 곁들여."
    }
   ]
  },
@@ -416,7 +423,7 @@
    {
     "n": 1,
     "en": "You will find me ready enough for that, sir, if you give me a reason.",
-    "ko": ""
+    "ko": "이유만 대준다면 나도 기꺼이 응해주지."
    }
   ]
  },
@@ -434,7 +441,7 @@
    {
     "n": 1,
     "en": "Could you not take a reason without being given one?",
-    "ko": ""
+    "ko": "이유를 받지 않고는 못 찾아내나?"
    }
   ]
  },
@@ -452,7 +459,7 @@
    {
     "n": 1,
     "en": "Mercutio, you are spending time with Romeo.",
-    "ko": ""
+    "ko": "머큐쇼, 넌 로미오와 한패로 어울리는군."
    }
   ]
  },
@@ -470,32 +477,32 @@
    {
     "n": 1,
     "en": "Spend time? What, do you think we are musicians?",
-    "ko": ""
+    "ko": "한패? 뭐야, 우릴 악단으로 아나?"
    },
    {
     "n": 2,
     "en": "If you make us musicians, expect to hear only bad notes.",
-    "ko": ""
+    "ko": "우리를 음악가로 취급한다면 엉망인 연주를 듣게 될 거다."
    },
    {
     "n": 3,
     "en": "You will only hear unpleasant sounds.",
-    "ko": ""
+    "ko": "불쾌한 소리만 들릴 뿐이지."
    },
    {
     "n": 4,
     "en": "This sword is my fiddle stick.",
-    "ko": ""
+    "ko": "이 칼이 내 바이올린 활이다."
    },
    {
     "n": 5,
     "en": "Here is what will make you dance.",
-    "ko": ""
+    "ko": "자, 이제 네가 춤을 추게 될 거다."
    },
    {
     "n": 6,
     "en": "Damn it, 'spend time'!",
-    "ko": ""
+    "ko": "빌어먹을, '한패'라니!"
    }
   ]
  },
@@ -513,27 +520,27 @@
    {
     "n": 1,
     "en": "We are talking here in a public place.",
-    "ko": ""
+    "ko": "우리는 지금 공공장소에 있어."
    },
    {
     "n": 2,
     "en": "Either go to a private place.",
-    "ko": ""
+    "ko": "사적인 장소로 가든가."
    },
    {
     "n": 3,
     "en": "Talk about your problems calmly there.",
-    "ko": ""
+    "ko": "거기서 차분하게 따지든가."
    },
    {
     "n": 4,
     "en": "Or leave now.",
-    "ko": ""
+    "ko": "아니면 지금 떠나고."
    },
    {
     "n": 5,
     "en": "Everyone is looking at us here.",
-    "ko": ""
+    "ko": "모두가 우리를 보고 있어."
    }
   ]
  },
@@ -551,17 +558,17 @@
    {
     "n": 1,
     "en": "Men's eyes were made to look.",
-    "ko": ""
+    "ko": "사람 눈은 보라고 있는 거야."
    },
    {
     "n": 2,
     "en": "Let them look.",
-    "ko": ""
+    "ko": "그들이 보게 내버려 둬."
    },
    {
     "n": 3,
     "en": "I will not move for any man's pleasure.",
-    "ko": ""
+    "ko": "누가 뭐래도 난 한 발짝도 안 움직여."
    }
   ]
  },
@@ -591,12 +598,12 @@
    {
     "n": 1,
     "en": "Well, peace be with you, sir.",
-    "ko": ""
+    "ko": "좋아, 너와는 이만."
    },
    {
     "n": 2,
     "en": "Here comes my man.",
-    "ko": ""
+    "ko": "내 상대가 온다."
    }
   ]
  },
@@ -614,22 +621,22 @@
    {
     "n": 1,
     "en": "But I will be hanged if he wears your uniform.",
-    "ko": ""
+    "ko": "그놈이 네 하인 옷을 입었다면 내 목을 매달겠다."
    },
    {
     "n": 2,
     "en": "But go to the dueling field first.",
-    "ko": ""
+    "ko": "먼저 결투장으로 가 봐."
    },
    {
     "n": 3,
     "en": "He will follow you there.",
-    "ko": ""
+    "ko": "그가 거기로 따라올 테니까."
    },
    {
     "n": 4,
     "en": "Only in that sense can you call him your man.",
-    "ko": ""
+    "ko": "그런 뜻에서라면 그를 네 '사람'이라 부를 수 있겠지."
    }
   ]
  },
@@ -647,12 +654,12 @@
    {
     "n": 1,
     "en": "Romeo, the love I have for you allows no better word than this.",
-    "ko": ""
+    "ko": "로미오, 너에 대한 내 사랑으론 이 말밖에 할 말이 없다."
    },
    {
     "n": 2,
     "en": "You are a villain.",
-    "ko": ""
+    "ko": "너는 악당이야."
    }
   ]
  },
@@ -670,27 +677,27 @@
    {
     "n": 1,
     "en": "Tybalt, I have a reason to love you.",
-    "ko": ""
+    "ko": "티볼트, 내가 너를 사랑하는 이유가 있어."
    },
    {
     "n": 2,
     "en": "It lets me forgive the anger I should feel at such a greeting.",
-    "ko": ""
+    "ko": "그 덕분에 이런 인사에 느껴야 할 분노를 용서할 수 있어."
    },
    {
     "n": 3,
     "en": "I am not a villain.",
-    "ko": ""
+    "ko": "나는 악당이 아니야."
    },
    {
     "n": 4,
     "en": "Therefore goodbye.",
-    "ko": ""
+    "ko": "그러니 잘 가라."
    },
    {
     "n": 5,
     "en": "I see that you do not know me.",
-    "ko": ""
+    "ko": "넌 나를 모르는구나."
    }
   ]
  },
@@ -708,12 +715,12 @@
    {
     "n": 1,
     "en": "Boy, this will not excuse the injuries you have done to me.",
-    "ko": ""
+    "ko": "이 녀석, 그런다고 네가 내게 준 모욕이 용서되진 않아."
    },
    {
     "n": 2,
     "en": "Therefore turn and draw your sword.",
-    "ko": ""
+    "ko": "그러니 몸을 돌려 칼을 뽑아라."
    }
   ]
  },
@@ -731,22 +738,22 @@
    {
     "n": 1,
     "en": "I protest that I never hurt you.",
-    "ko": ""
+    "ko": "맹세코 난 널 모욕한 적이 없어."
    },
    {
     "n": 2,
     "en": "I love you more than you can imagine.",
-    "ko": ""
+    "ko": "네가 상상하는 것보다 훨씬 더 너를 아껴."
    },
    {
     "n": 3,
     "en": "You will see this when you know the reason for my love.",
-    "ko": ""
+    "ko": "내 사랑의 이유를 알게 되면 이해할 거야."
    },
    {
     "n": 4,
     "en": "And since I value the name Capulet as much as my own, be satisfied.",
-    "ko": ""
+    "ko": "그러니 캐퓰릿, 내 이름만큼 소중한 그 이름을 생각해서, 이만 참아 줘."
    }
   ]
  },
@@ -764,7 +771,7 @@
    {
     "n": 1,
     "en": "Oh, what a calm, dishonorable, and vile submission!",
-    "ko": ""
+    "ko": "오, 이 얌전하고, 비겁하고, 비굴한 굴복이라니!"
    }
   ]
  },
@@ -782,7 +789,7 @@
    {
     "n": 1,
     "en": "Mercutio draws his sword.",
-    "ko": ""
+    "ko": "머큐쇼가 칼을 뽑는다."
    }
   ]
  },
@@ -800,12 +807,12 @@
    {
     "n": 1,
     "en": "So this fancy fighting man wins, does he?",
-    "ko": ""
+    "ko": "결국 칼솜씨 뽐내는 놈이 이긴단 말이지?"
    },
    {
     "n": 2,
     "en": "Tybalt, you rat-catcher, will you come and fight?",
-    "ko": ""
+    "ko": "티볼트, 이 쥐잡이 녀석아, 나랑 한판 붙을래?"
    }
   ]
  },
@@ -823,7 +830,7 @@
    {
     "n": 1,
     "en": "What do you want from me?",
-    "ko": ""
+    "ko": "나한테 원하는 게 뭐야?"
    }
   ]
  },
@@ -841,27 +848,27 @@
    {
     "n": 1,
     "en": "Good King of Cats, I only need one of your nine lives.",
-    "ko": ""
+    "ko": "고양이 왕 나으리, 네 목숨 아홉 개 중 하나만 받아 가면 돼."
    },
    {
     "n": 2,
     "en": "I intend to be bold with it.",
-    "ko": ""
+    "ko": "그걸로 용감하게 승부할 생각이야."
    },
    {
     "n": 3,
     "en": "And then I will beat the other eight out of you.",
-    "ko": ""
+    "ko": "그러고 나서 나머지 여덟 개를 다 뺏어버릴 거야."
    },
    {
     "n": 4,
     "en": "Will you pull your sword out of its case by the ears?",
-    "ko": ""
+    "ko": "칼집에서 칼을 귀 잡고 끌어낼 참이야?"
    },
    {
     "n": 5,
     "en": "Hurry, or my sword will be around your ears before yours is out.",
-    "ko": ""
+    "ko": "서둘러, 안 그러면 네 칼이 나오기도 전에 내 칼이 네 귀를 스칠 거다."
    }
   ]
  },
@@ -879,7 +886,7 @@
    {
     "n": 1,
     "en": "Tybalt draws his sword.",
-    "ko": ""
+    "ko": "티볼트가 칼을 뽑는다."
    }
   ]
  },
@@ -897,7 +904,7 @@
    {
     "n": 1,
     "en": "I am ready to fight you.",
-    "ko": ""
+    "ko": "상대해 주마."
    }
   ]
  },
@@ -915,9 +922,10 @@
    {
     "n": 1,
     "en": "Gentle Mercutio, put your sword away.",
-    "ko": ""
+    "ko": "다정한 머큐쇼, 칼을 집어넣어."
    }
-  ]
+  ],
+  "to": "MERCUTIO"
  },
  {
   "id": 575,
@@ -933,7 +941,7 @@
    {
     "n": 1,
     "en": "Come, sir, show me your fancy move.",
-    "ko": ""
+    "ko": "자, 네 그 멋진 찌르기를 보여 줘 봐."
    }
   ]
  },
@@ -951,7 +959,7 @@
    {
     "n": 1,
     "en": "They fight.",
-    "ko": ""
+    "ko": "그들이 싸운다."
    }
   ]
  },
@@ -969,22 +977,22 @@
    {
     "n": 1,
     "en": "Draw, Benvolio, and beat down their weapons.",
-    "ko": ""
+    "ko": "벤볼리오, 칼을 뽑아 저들의 칼을 쳐 내!"
    },
    {
     "n": 2,
     "en": "Gentlemen, stop this violence for shame!",
-    "ko": ""
+    "ko": "신사들, 창피하지도 않나, 이 난동을 멈춰!"
    },
    {
     "n": 3,
     "en": "Tybalt, Mercutio, the Prince has strictly forbidden fighting in the streets of Verona.",
-    "ko": ""
+    "ko": "티볼트, 머큐쇼, 영주께서 베로나 거리에서의 싸움을 엄격히 금지하셨다."
    },
    {
     "n": 4,
     "en": "Stop, Tybalt! Good Mercutio!",
-    "ko": ""
+    "ko": "멈춰, 티볼트! 머큐쇼!"
    }
   ]
  },
@@ -1002,7 +1010,7 @@
    {
     "n": 1,
     "en": "Tybalt runs off with his followers.",
-    "ko": ""
+    "ko": "티볼트가 부하들과 함께 달려 나간다."
    }
   ]
  },
@@ -1020,12 +1028,12 @@
    {
     "n": 1,
     "en": "I am hurt. A plague on both your houses.",
-    "ko": ""
+    "ko": "찔렸어. 너희 두 집안 모두 염병에나 걸려라!"
    },
    {
     "n": 2,
     "en": "I am dying. Is he gone without a scratch?",
-    "ko": ""
+    "ko": "난 끝났어. 그놈은 상처 하나 없이 갔나?"
    }
   ]
  },
@@ -1043,7 +1051,7 @@
    {
     "n": 1,
     "en": "What, are you hurt?",
-    "ko": ""
+    "ko": "뭐라고, 너 다쳤어?"
    }
   ]
  },
@@ -1061,12 +1069,12 @@
    {
     "n": 1,
     "en": "Yes, yes, it is just a scratch; it is enough.",
-    "ko": ""
+    "ko": "그래, 그래, 살짝 긁힌 것뿐이야. 이 정도면 충분해."
    },
    {
     "n": 2,
     "en": "Where is my servant? Go, boy, and get a doctor.",
-    "ko": ""
+    "ko": "내 시동은 어디 있지? 얘야, 가서 의사를 불러와."
    }
   ]
  },
@@ -1096,12 +1104,12 @@
    {
     "n": 1,
     "en": "Be brave, man.",
-    "ko": ""
+    "ko": "힘내, 친구."
    },
    {
     "n": 2,
     "en": "The injury cannot be very bad.",
-    "ko": ""
+    "ko": "상처가 그리 심각하진 않을 거야."
    }
   ]
  },
@@ -1119,37 +1127,37 @@
    {
     "n": 1,
     "en": "No, it is not as deep as a well or as wide as a church door.",
-    "ko": ""
+    "ko": "아니, 우물처럼 깊지도 교회 문처럼 넓지도 않아."
    },
    {
     "n": 2,
     "en": "But it is enough; it will do.",
-    "ko": ""
+    "ko": "하지만 충분해, 이 정도면 됐어."
    },
    {
     "n": 3,
     "en": "Ask for me tomorrow, and you will find me a grave man lying in my grave.",
-    "ko": ""
+    "ko": "내일 나를 찾아봐. 무덤 속의 점잖은 사람이 되어 있을 테니."
    },
    {
     "n": 4,
     "en": "I am finished in this world, I promise. A plague on both your houses.",
-    "ko": ""
+    "ko": "난 이 세상에선 끝났어. 너희 두 집안 모두 염병에나 걸려라!"
    },
    {
     "n": 5,
     "en": "To think a dog, a rat, a mouse, or a cat could scratch a man to death!",
-    "ko": ""
+    "ko": "개나 쥐, 생쥐, 혹은 고양이가 사람을 할퀴어 죽일 수도 있다니!"
    },
    {
     "n": 6,
     "en": "He is a show-off and a rogue; he is a villain who fights by a math textbook!",
-    "ko": ""
+    "ko": "그놈은 허풍쟁이에 악당이고, 산수책대로 칼질하는 놈이야!"
    },
    {
     "n": 7,
     "en": "Why did you come between us? I was hurt under your arm.",
-    "ko": ""
+    "ko": "넌 왜 끼어들었어? 네 팔 밑으로 찔렸잖아."
    }
   ]
  },
@@ -1167,7 +1175,7 @@
    {
     "n": 1,
     "en": "I thought it was for the best.",
-    "ko": ""
+    "ko": "그게 최선이라고 생각했어."
    }
   ]
  },
@@ -1185,27 +1193,27 @@
    {
     "n": 1,
     "en": "Help me into a house, Benvolio, or I will faint.",
-    "ko": ""
+    "ko": "벤볼리오, 나를 집 안으로 옮겨줘, 아니면 쓰러질 것 같아."
    },
    {
     "n": 2,
     "en": "A plague on both your houses!",
-    "ko": ""
+    "ko": "너희 두 집안 모두 염병에나 걸려라!"
    },
    {
     "n": 3,
     "en": "They have made me food for worms.",
-    "ko": ""
+    "ko": "그들이 날 벌레들의 먹이로 만들었어."
    },
    {
     "n": 4,
     "en": "I have got it, and badly too.",
-    "ko": ""
+    "ko": "제대로 당했어, 아주 지독하게."
    },
    {
     "n": 5,
     "en": "Your houses!",
-    "ko": ""
+    "ko": "너희 집안들!"
    }
   ]
  },
@@ -1235,39 +1243,40 @@
    {
     "n": 1,
     "en": "This gentleman is the Prince's close relative.",
-    "ko": ""
+    "ko": "이분은 영주님의 가까운 친척이다."
    },
    {
     "n": 2,
     "en": "He is my very friend.",
-    "ko": ""
+    "ko": "그는 나의 아주 소중한 친구다."
    },
    {
     "n": 3,
     "en": "He suffered a fatal injury for me.",
-    "ko": ""
+    "ko": "그는 나를 위해 치명적인 상처를 입었다."
    },
    {
     "n": 4,
     "en": "My reputation is ruined by Tybalt's lies.",
-    "ko": ""
+    "ko": "티볼트의 거짓말 때문에 내 명예가 더럽혀졌다."
    },
    {
     "n": 5,
     "en": "Tybalt has been my cousin for only an hour!",
-    "ko": ""
+    "ko": "티볼트는 겨우 한 시간 전에 내 사촌이 되었는데!"
    },
    {
     "n": 6,
     "en": "Oh sweet Juliet, your beauty has made me weak.",
-    "ko": ""
+    "ko": "오 사랑스러운 줄리엣, 그대의 아름다움이 나를 나약하게 만들었다."
    },
    {
     "n": 7,
     "en": "It softened my brave spirit.",
-    "ko": ""
+    "ko": "내 용기의 칼날을 무디게 했다."
    }
-  ]
+  ],
+  "to": null
  },
  {
   "id": 589,
@@ -1295,17 +1304,17 @@
    {
     "n": 1,
     "en": "Oh Romeo, Romeo, brave Mercutio is dead.",
-    "ko": ""
+    "ko": "오 로미오, 로미오, 용감한 머큐쇼가 죽었어."
    },
    {
     "n": 2,
     "en": "His brave spirit has gone up to the clouds.",
-    "ko": ""
+    "ko": "그의 용감한 영혼은 구름 위로 올라갔어."
    },
    {
     "n": 3,
     "en": "He left the earth far too early.",
-    "ko": ""
+    "ko": "그는 너무 일찍 이 세상을 떠났어."
    }
   ]
  },
@@ -1323,12 +1332,12 @@
    {
     "n": 1,
     "en": "This day's dark fate will hang over more days to come.",
-    "ko": ""
+    "ko": "오늘의 어두운 운명이 앞으로 올 날들까지 덮칠 거야."
    },
    {
     "n": 2,
     "en": "This only begins the sadness that others must end.",
-    "ko": ""
+    "ko": "이건 다른 날들이 끝맺어야 할 비극의 시작일 뿐이야."
    }
   ]
  },
@@ -1358,7 +1367,7 @@
    {
     "n": 1,
     "en": "The angry Tybalt is coming back here.",
-    "ko": ""
+    "ko": "화가 난 티볼트가 이쪽으로 오고 있어."
    }
   ]
  },
@@ -1376,42 +1385,42 @@
    {
     "n": 1,
     "en": "He is alive and winning, and Mercutio is dead?",
-    "ko": ""
+    "ko": "그놈은 살아남아 승리했는데, 머큐쇼는 죽었다고?"
    },
    {
     "n": 2,
     "en": "I will not be gentle now.",
-    "ko": ""
+    "ko": "이제 너그러움은 하늘로 가 버려라."
    },
    {
     "n": 3,
     "en": "I will act with fire and anger!",
-    "ko": ""
+    "ko": "불타는 분노여, 나를 이끌어라!"
    },
    {
     "n": 4,
     "en": "Now, Tybalt, take back the 'villain' title.",
-    "ko": ""
+    "ko": "자, 티볼트, 이제 '악당'이라는 칭호를 네가 가져가라."
    },
    {
     "n": 5,
     "en": "You gave me that name recently.",
-    "ko": ""
+    "ko": "네가 얼마 전에 나에게 그 이름을 붙여줬지."
    },
    {
     "n": 6,
     "en": "Mercutio's soul is just above our heads.",
-    "ko": ""
+    "ko": "머큐쇼의 영혼이 바로 우리 머리 위에 있어."
    },
    {
     "n": 7,
     "en": "He is waiting for your soul to join him.",
-    "ko": ""
+    "ko": "네 영혼이 함께 가 주기를 기다리고 있다."
    },
    {
     "n": 8,
     "en": "Either you or I, or both of us, must go with him.",
-    "ko": ""
+    "ko": "너나 나, 혹은 우리 둘 다 그와 함께 가야 해."
    }
   ]
  },
@@ -1429,12 +1438,12 @@
    {
     "n": 1,
     "en": "You miserable boy, you were his friend here.",
-    "ko": ""
+    "ko": "이 비참한 녀석, 여기서 그놈과 어울렸으니"
    },
    {
     "n": 2,
     "en": "So you will go with him to death.",
-    "ko": ""
+    "ko": "그놈과 함께 저승으로 가라."
    }
   ]
  },
@@ -1452,7 +1461,7 @@
    {
     "n": 1,
     "en": "This will decide that.",
-    "ko": ""
+    "ko": "이 칼이 정해 줄 거다."
    }
   ]
  },
@@ -1470,12 +1479,12 @@
    {
     "n": 1,
     "en": "They fight.",
-    "ko": ""
+    "ko": "그들이 싸운다."
    },
    {
     "n": 2,
     "en": "Tybalt falls.",
-    "ko": ""
+    "ko": "티볼트가 쓰러진다."
    }
   ]
  },
@@ -1493,22 +1502,22 @@
    {
     "n": 1,
     "en": "Romeo, go away! The citizens are up in arms.",
-    "ko": ""
+    "ko": "로미오, 도망쳐! 시민들이 들고일어났어."
    },
    {
     "n": 2,
     "en": "Tybalt is killed, so do not stand there in shock.",
-    "ko": ""
+    "ko": "티볼트가 죽었으니 멍하니 서 있지 마."
    },
    {
     "n": 3,
     "en": "The Prince will sentence you to death if he catches you.",
-    "ko": ""
+    "ko": "영주가 너를 발견하면 사형에 처할 거야."
    },
    {
     "n": 4,
     "en": "Go away now!",
-    "ko": ""
+    "ko": "당장 여기서 떠나!"
    }
   ]
  },
@@ -1526,7 +1535,7 @@
    {
     "n": 1,
     "en": "Oh, I am a plaything of fate!",
-    "ko": ""
+    "ko": "아, 나는 운명의 노리개구나!"
    }
   ]
  },
@@ -1544,7 +1553,7 @@
    {
     "n": 1,
     "en": "Why do you stay?",
-    "ko": ""
+    "ko": "왜 아직 여기 있어?"
    }
   ]
  },
@@ -1574,7 +1583,7 @@
    {
     "n": 1,
     "en": "Citizens enter.",
-    "ko": ""
+    "ko": "시민들이 들어온다."
    }
   ]
  },
@@ -1592,12 +1601,12 @@
    {
     "n": 1,
     "en": "In which direction did the man who killed Mercutio run?",
-    "ko": ""
+    "ko": "머큐쇼를 죽인 자가 어느 방향으로 도망쳤습니까?"
    },
    {
     "n": 2,
     "en": "Tybalt, that murderer, which way did he run?",
-    "ko": ""
+    "ko": "그 살인자 티볼트 말입니다, 어느 쪽으로 도망갔습니까?"
    }
   ]
  },
@@ -1615,7 +1624,7 @@
    {
     "n": 1,
     "en": "That is Tybalt lying there.",
-    "ko": ""
+    "ko": "저기 쓰러져 있는 게 바로 티볼트야."
    }
   ]
  },
@@ -1633,17 +1642,17 @@
    {
     "n": 1,
     "en": "Get up, sir.",
-    "ko": ""
+    "ko": "일어나십시오."
    },
    {
     "n": 2,
     "en": "Come with me.",
-    "ko": ""
+    "ko": "저와 함께 가시지요."
    },
    {
     "n": 3,
     "en": "I command you in the Prince's name to obey.",
-    "ko": ""
+    "ko": "영주님의 이름으로 명령하니 따르십시오."
    }
   ]
  },
@@ -1661,12 +1670,12 @@
    {
     "n": 1,
     "en": "The Prince enters with his followers.",
-    "ko": ""
+    "ko": "영주가 부하들과 함께 들어온다."
    },
    {
     "n": 2,
     "en": "Montague, Capulet, their wives, and others enter.",
-    "ko": ""
+    "ko": "몬태규, 캐퓰릿, 그들의 아내들, 그리고 다른 이들이 들어온다."
    }
   ]
  },
@@ -1684,7 +1693,7 @@
    {
     "n": 1,
     "en": "Where are the people who started this fight?",
-    "ko": ""
+    "ko": "이 싸움을 시작한 자들이 어디 있느냐?"
    }
   ]
  },
@@ -1702,22 +1711,22 @@
    {
     "n": 1,
     "en": "Noble Prince, I can explain everything.",
-    "ko": ""
+    "ko": "고귀하신 영주님, 제가 모든 것을 설명할 수 있습니다."
    },
    {
     "n": 2,
     "en": "I can tell you how this deadly fight happened.",
-    "ko": ""
+    "ko": "이 치명적인 싸움이 어떻게 일어났는지 말씀드릴 수 있습니다."
    },
    {
     "n": 3,
     "en": "There lies the man who killed your relative, brave Mercutio.",
-    "ko": ""
+    "ko": "저기 영주님의 친척, 용감한 머큐쇼를 죽인 자가 누워 있습니다."
    },
    {
     "n": 4,
     "en": "Young Romeo killed him.",
-    "ko": ""
+    "ko": "젊은 로미오가 그자를 죽였습니다."
    }
   ]
  },
@@ -1735,24 +1744,25 @@
    {
     "n": 1,
     "en": "Tybalt, my nephew! He is my brother's child!",
-    "ko": ""
+    "ko": "티볼트, 내 조카! 오라버니의 아들이!"
    },
    {
     "n": 2,
     "en": "O Prince! O husband! The blood of my dear relative is spilled!",
-    "ko": ""
+    "ko": "오, 영주님! 오, 여보! 소중한 우리 친척의 피가 흘렀어요!"
    },
    {
     "n": 3,
     "en": "Prince, if you are fair, shed Montague blood for ours.",
-    "ko": ""
+    "ko": "영주님, 공정하시다면 우리 피의 대가로 몬태규의 피를 흘리게 해 주세요."
    },
    {
     "n": 4,
     "en": "O cousin, cousin.",
-    "ko": ""
+    "ko": "아, 조카야, 조카야."
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 610,
@@ -1768,7 +1778,7 @@
    {
     "n": 1,
     "en": "Benvolio, who started this bloody fight?",
-    "ko": ""
+    "ko": "벤볼리오, 이 피비린내 나는 싸움을 누가 시작했느냐?"
    }
   ]
  },
@@ -1786,77 +1796,77 @@
    {
     "n": 1,
     "en": "Tybalt is lying here, and Romeo's hand killed him.",
-    "ko": ""
+    "ko": "티볼트가 여기 누워 있으며, 로미오의 손에 죽었습니다."
    },
    {
     "n": 2,
     "en": "Romeo spoke to him nicely and told Tybalt how bad the fight was.",
-    "ko": ""
+    "ko": "로미오는 그에게 친절하게 말하며 싸움이 얼마나 험악한지 티볼트에게 말했습니다."
    },
    {
     "n": 3,
     "en": "He warned him about your anger with a gentle voice and a calm look.",
-    "ko": ""
+    "ko": "부드러운 목소리와 차분한 얼굴로 영주님의 노여움을 상기시켰습니다."
    },
    {
     "n": 4,
     "en": "He even bowed humbly, but Tybalt did not listen to peace.",
-    "ko": ""
+    "ko": "그는 겸허하게 고개까지 숙였으나, 티볼트는 화해의 말을 듣지 않았습니다."
    },
    {
     "n": 5,
     "en": "Tybalt had an angry temper and attacked Mercutio's chest with a sharp sword.",
-    "ko": ""
+    "ko": "티볼트는 성격이 급해 날카로운 칼로 머큐쇼의 가슴을 공격했습니다."
    },
    {
     "n": 6,
     "en": "Mercutio was also very angry, so he fought back with his sword.",
-    "ko": ""
+    "ko": "머큐쇼도 매우 화가 나서 칼로 맞서 싸웠습니다."
    },
    {
     "n": 7,
     "en": "He pushed death away with one hand and sent the attack back to Tybalt with the other.",
-    "ko": ""
+    "ko": "그는 한 손으로 죽음을 막아내고 다른 손으로 티볼트에게 반격했습니다."
    },
    {
     "n": 8,
     "en": "Tybalt blocked the move skillfully while Romeo shouted, 'Stop, friends! Friends, break it up!'",
-    "ko": ""
+    "ko": "로미오가 '멈춰라, 친구들아! 친구들아, 그만해!'라고 외치는 동안 티볼트는 기술적으로 그 공격을 막았습니다."
    },
    {
     "n": 9,
     "en": "His arm moved faster than his words as he pushed their swords down.",
-    "ko": ""
+    "ko": "말보다 빠르게 팔을 뻗어 두 사람의 칼을 쳐 내렸습니다."
    },
    {
     "n": 10,
     "en": "He ran between them, but under his arm, a sneaky thrust from Tybalt struck brave Mercutio.",
-    "ko": ""
+    "ko": "그러고는 둘 사이로 뛰어들었는데, 그의 팔 밑으로 티볼트의 비겁한 찌르기가 용감한 머큐쇼를 찔렀습니다."
    },
    {
     "n": 11,
     "en": "Then Tybalt ran away, but in a moment, he came back to Romeo.",
-    "ko": ""
+    "ko": "그러고는 티볼트가 도망쳤다가, 곧 로미오에게 되돌아왔습니다."
    },
    {
     "n": 12,
     "en": "Romeo had just started to seek revenge, and they fought like lightning.",
-    "ko": ""
+    "ko": "로미오가 막 복수를 시작하려던 찰나, 그들은 번개처럼 싸웠습니다."
    },
    {
     "n": 13,
     "en": "Before I could move to separate them, Tybalt was killed.",
-    "ko": ""
+    "ko": "제가 그들을 떼어놓기 위해 움직이기 전에 티볼트가 죽었습니다."
    },
    {
     "n": 14,
     "en": "As he fell, Romeo turned and ran away.",
-    "ko": ""
+    "ko": "티볼트가 쓰러지자 로미오는 돌아서서 달아났습니다."
    },
    {
     "n": 15,
     "en": "This is the truth; if it is not true, let me die.",
-    "ko": ""
+    "ko": "이것이 진실입니다. 만약 사실이 아니라면 저를 죽여 주십시오."
    }
   ]
  },
@@ -1874,29 +1884,30 @@
    {
     "n": 1,
     "en": "He is a relative of the Montague family.",
-    "ko": ""
+    "ko": "저 아이는 몬태규 집안의 친척입니다."
    },
    {
     "n": 2,
     "en": "Love makes him dishonest, so he does not speak the truth.",
-    "ko": ""
+    "ko": "정에 끌려 거짓을 말하니, 진실이 아닙니다."
    },
    {
     "n": 3,
     "en": "About twenty people fought in this terrible fight, but they could only kill one person.",
-    "ko": ""
+    "ko": "스무 명쯤이 이 끔찍한 싸움에 가담했는데, 겨우 한 사람만 죽였단 말입니까."
    },
    {
     "n": 4,
     "en": "I ask for justice, which you must give, Prince.",
-    "ko": ""
+    "ko": "영주님, 정의를 구합니다. 반드시 내려 주십시오."
    },
    {
     "n": 5,
     "en": "Romeo killed Tybalt, so Romeo must not live.",
-    "ko": ""
+    "ko": "로미오가 티볼트를 죽였으니, 로미오도 살려 두어서는 안 됩니다."
    }
-  ]
+  ],
+  "to": "PRINCE"
  },
  {
   "id": 613,
@@ -1912,17 +1923,17 @@
    {
     "n": 1,
     "en": "Romeo killed him.",
-    "ko": ""
+    "ko": "로미오가 그를 죽였다."
    },
    {
     "n": 2,
     "en": "He killed Mercutio.",
-    "ko": ""
+    "ko": "그는 머큐쇼를 죽였다."
    },
    {
     "n": 3,
     "en": "Who now owes the price for his dear blood?",
-    "ko": ""
+    "ko": "이제 누가 그의 소중한 피에 대한 대가를 치러야 하는가?"
    }
   ]
  },
@@ -1940,17 +1951,17 @@
    {
     "n": 1,
     "en": "Not Romeo, Prince.",
-    "ko": ""
+    "ko": "영주님, 로미오가 아닙니다."
    },
    {
     "n": 2,
     "en": "He was Mercutio's friend.",
-    "ko": ""
+    "ko": "그는 머큐쇼의 친구였습니다."
    },
    {
     "n": 3,
     "en": "His crime only ended what the law would have ended anyway: Tybalt's life.",
-    "ko": ""
+    "ko": "그 애의 죄는 법이 어차피 끝냈을 티볼트의 목숨을 끝낸 것뿐입니다."
    }
   ]
  },
@@ -1968,62 +1979,62 @@
    {
     "n": 1,
     "en": "For that crime, we exile him: he must leave this city at once.",
-    "ko": ""
+    "ko": "그 죄로 우리는 그를 추방한다. 그는 즉시 이 도시를 떠나야 한다."
    },
    {
     "n": 2,
     "en": "Your hatred has hurt me personally.",
-    "ko": ""
+    "ko": "너희의 증오가 나에게 직접적인 상처를 입혔다."
    },
    {
     "n": 3,
     "en": "My blood is bleeding because of your rude fight.",
-    "ko": ""
+    "ko": "너희의 무도한 싸움 때문에 내 핏줄이 피를 흘리고 있다."
    },
    {
     "n": 4,
     "en": "But I will fine you so heavily that you will all be sorry for my loss.",
-    "ko": ""
+    "ko": "그러나 무거운 벌금을 물려, 너희 모두 내 혈육을 잃게 한 것을 후회하게 하겠다."
    },
    {
     "n": 5,
     "en": "I will not listen to pleas or excuses.",
-    "ko": ""
+    "ko": "나는 애원이나 변명을 듣지 않겠다."
    },
    {
     "n": 6,
     "en": "Neither tears nor prayers will change the punishment.",
-    "ko": ""
+    "ko": "눈물도 기도도 형벌을 바꾸지 못할 것이다."
    },
    {
     "n": 7,
     "en": "So do not use them.",
-    "ko": ""
+    "ko": "그러니 그것들을 쓰지 마라."
    },
    {
     "n": 8,
     "en": "Let Romeo leave here quickly.",
-    "ko": ""
+    "ko": "로미오는 서둘러 이곳을 떠나게 하라."
    },
    {
     "n": 9,
     "en": "If he is found, that hour will be his last.",
-    "ko": ""
+    "ko": "그가 발견된다면, 그 시간은 그의 마지막이 될 것이다."
    },
    {
     "n": 10,
     "en": "Take this body away.",
-    "ko": ""
+    "ko": "이 시신을 치워라."
    },
    {
     "n": 11,
     "en": "Follow my orders.",
-    "ko": ""
+    "ko": "내 명령을 따르라."
    },
    {
     "n": 12,
     "en": "Mercy that forgives killers only causes more murder.",
-    "ko": ""
+    "ko": "살인자를 용서하는 자비는 더 많은 살인만을 불러올 뿐이다."
    }
   ]
  },
