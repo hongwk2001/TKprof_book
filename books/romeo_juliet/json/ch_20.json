@@ -9,10 +9,16 @@
   "speaker": null,
   "delivery": null,
   "raw": "Act 4, Scene 4 — Hall in Capulet’s House",
-  "sentences": [],
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Hall in Capulet’s House",
+    "ko": "캐퓰릿 집의 홀"
+   }
+  ],
   "summary": {
    "en": "Early in the morning, the Capulet house gets ready for the wedding.",
-   "ko": ""
+   "ko": "이른 아침, 캐퓰릿 집안은 결혼식 준비로 바쁘다."
   }
  },
  {
@@ -41,7 +47,7 @@
    {
     "n": 1,
     "en": "Here, take these keys and get more spices, Nurse.",
-    "ko": ""
+    "ko": "여기 이 열쇠를 가지고 가서 향신료를 더 가져오너라, 유모."
    }
   ]
  },
@@ -59,7 +65,7 @@
    {
     "n": 1,
     "en": "They want dates and quinces in the pastry.",
-    "ko": ""
+    "ko": "주방에서 과자에 넣을 대추와 모과를 달래요."
    }
   ]
  },
@@ -89,17 +95,17 @@
    {
     "n": 1,
     "en": "Come, stir, stir, stir, because the second rooster has crowed!",
-    "ko": ""
+    "ko": "자, 어서 움직여, 움직여! 두 번째 닭이 울었다!"
    },
    {
     "n": 2,
     "en": "The church bell has rung and it is three o'clock.",
-    "ko": ""
+    "ko": "교회 종이 울렸고 벌써 세 시다."
    },
    {
     "n": 3,
     "en": "Check on the baked meats, Angelica, and do not worry about the cost.",
-    "ko": ""
+    "ko": "안젤리카, 고기 굽는 것 좀 살펴봐. 돈은 아끼지 말고."
    }
   ]
  },
@@ -117,22 +123,22 @@
    {
     "n": 1,
     "en": "Go, you old housewife, go.",
-    "ko": ""
+    "ko": "가세요, 이 살림꾼 영감님, 어서요."
    },
    {
     "n": 2,
     "en": "Go to bed.",
-    "ko": ""
+    "ko": "주무시러 가세요."
    },
    {
     "n": 3,
     "en": "I promise you will be sick tomorrow.",
-    "ko": ""
+    "ko": "분명히 내일 몸살 나실 거예요."
    },
    {
     "n": 4,
     "en": "You will be sick from staying awake tonight.",
-    "ko": ""
+    "ko": "오늘 밤 깨어 있는 바람에 몸이 상할 거예요."
    }
   ]
  },
@@ -150,22 +156,22 @@
    {
     "n": 1,
     "en": "No, not at all.",
-    "ko": ""
+    "ko": "아니, 전혀."
    },
    {
     "n": 2,
     "en": "What!",
-    "ko": ""
+    "ko": "뭐라고!"
    },
    {
     "n": 3,
     "en": "I have watched all night before for smaller reasons.",
-    "ko": ""
+    "ko": "전에도 이보다 사소한 일로 밤을 새웠지만"
    },
    {
     "n": 4,
     "en": "I was never sick then.",
-    "ko": ""
+    "ko": "한 번도 아프지 않았어."
    }
   ]
  },
@@ -183,12 +189,12 @@
    {
     "n": 1,
     "en": "Yes, you were a real woman-chaser in your day.",
-    "ko": ""
+    "ko": "그럼요, 한때는 여자 꽁무니깨나 쫓아다니셨죠."
    },
    {
     "n": 2,
     "en": "But I will keep an eye on you now, so you do not stay up for that.",
-    "ko": ""
+    "ko": "하지만 이제는 그런 일로 밤새지 못하게 제가 지켜볼 거예요."
    }
   ]
  },
@@ -218,7 +224,7 @@
    {
     "n": 1,
     "en": "Jealous, jealous!",
-    "ko": ""
+    "ko": "질투하는군, 질투해!"
    }
   ]
  },
@@ -236,7 +242,7 @@
    {
     "n": 1,
     "en": "Servants enter with spits, logs, and baskets.",
-    "ko": ""
+    "ko": "종들이 꼬챙이와 장작, 바구니를 들고 들어온다."
    }
   ]
  },
@@ -254,7 +260,7 @@
    {
     "n": 1,
     "en": "Now, man, what is that?",
-    "ko": ""
+    "ko": "이봐, 그건 뭐냐?"
    }
   ]
  },
@@ -272,12 +278,12 @@
    {
     "n": 1,
     "en": "These are things for the cook, sir.",
-    "ko": ""
+    "ko": "이것들은 요리사를 위한 것들입니다."
    },
    {
     "n": 2,
     "en": "But I do not know what they are.",
-    "ko": ""
+    "ko": "하지만 그것이 무엇인지는 모르겠습니다."
    }
   ]
  },
@@ -295,7 +301,7 @@
    {
     "n": 1,
     "en": "Hurry up. Move faster.",
-    "ko": ""
+    "ko": "서둘러, 서둘러."
    }
   ]
  },
@@ -325,17 +331,17 @@
    {
     "n": 1,
     "en": "You there, go get drier logs.",
-    "ko": ""
+    "ko": "거기 너, 가서 마른 장작을 가져와라."
    },
    {
     "n": 2,
     "en": "Call Peter.",
-    "ko": ""
+    "ko": "피터를 불러라."
    },
    {
     "n": 3,
     "en": "He will show you where they are.",
-    "ko": ""
+    "ko": "그 애가 어디 있는지 알려 줄 거다."
    }
   ]
  },
@@ -353,17 +359,17 @@
    {
     "n": 1,
     "en": "I have a head, sir.",
-    "ko": ""
+    "ko": "저도 머리가 있습니다."
    },
    {
     "n": 2,
     "en": "I can find the logs myself.",
-    "ko": ""
+    "ko": "장작은 제가 직접 찾겠습니다."
    },
    {
     "n": 3,
     "en": "I will not trouble Peter for it.",
-    "ko": ""
+    "ko": "피터를 번거롭게 하지 않겠습니다."
    }
   ]
  },
@@ -393,37 +399,37 @@
    {
     "n": 1,
     "en": "By God, well said.",
-    "ko": ""
+    "ko": "옳거니, 말 잘했다."
    },
    {
     "n": 2,
     "en": "You funny rascal, ha!",
-    "ko": ""
+    "ko": "이 녀석, 참 웃기는 놈이로다!"
    },
    {
     "n": 3,
     "en": "You will be head of the logs, you blockhead.",
-    "ko": ""
+    "ko": "넌 장작 대장이다, 이 나무토막 같은 녀석아."
    },
    {
     "n": 4,
     "en": "My goodness, it is day.",
-    "ko": ""
+    "ko": "세상에, 벌써 낮이다."
    },
    {
     "n": 5,
     "en": "The Count will be here with music soon.",
-    "ko": ""
+    "ko": "곧 음악과 함께 백작이 도착할 것이다."
    },
    {
     "n": 6,
     "en": "He said he would come.",
-    "ko": ""
+    "ko": "그가 오겠다고 말했다."
    },
    {
     "n": 7,
     "en": "I hear him nearby.",
-    "ko": ""
+    "ko": "그가 오는 소리가 들린다."
    }
   ]
  },
@@ -441,7 +447,7 @@
    {
     "n": 1,
     "en": "The musicians play music.",
-    "ko": ""
+    "ko": "음악가들이 연주를 한다."
    }
   ]
  },
@@ -459,12 +465,12 @@
    {
     "n": 1,
     "en": "Nurse! Wife! Hey!",
-    "ko": ""
+    "ko": "유모! 부인! 이봐!"
    },
    {
     "n": 2,
     "en": "Nurse, I say!",
-    "ko": ""
+    "ko": "유모, 거기 있느냐!"
    }
   ]
  },
@@ -494,22 +500,22 @@
    {
     "n": 1,
     "en": "Go wake Juliet and help her get ready.",
-    "ko": ""
+    "ko": "가서 줄리엣을 깨우고 준비를 도와라."
    },
    {
     "n": 2,
     "en": "I will go and talk with Paris while you move fast.",
-    "ko": ""
+    "ko": "나는 가서 패리스와 이야기하고 있을 테니, 서둘러라."
    },
    {
     "n": 3,
     "en": "Move fast; the groom has already arrived.",
-    "ko": ""
+    "ko": "서둘러라, 신랑이 벌써 도착했다."
    },
    {
     "n": 4,
     "en": "I say, hurry!",
-    "ko": ""
+    "ko": "어서 서둘러라!"
    }
   ]
  },
