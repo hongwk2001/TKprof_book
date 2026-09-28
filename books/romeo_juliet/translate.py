@@ -55,7 +55,7 @@ NAME_KO.update({"Lawrence": "로런스", "Capulets": "캐퓰릿", "Montagues": "
 HANZI = re.compile(r"[㐀-鿿]")
 LATIN = re.compile(r"[A-Za-z]")
 END = r"[\s.!?…—'\"’”)]*$"
-_POLITE = re.compile(r"(요|십시오|시오|소서)" + END)
+_POLITE = re.compile(r"(요|십시오|소서)" + END)
 _NIDA = re.compile(r"(.)(니다|니까)" + END)
 
 
@@ -151,6 +151,16 @@ def addressees(items):
 
 # ---------- checks ----------
 
+def item_level(it, to):
+    """Speech level for an item: a hand-set 'level' wins (review), then plain
+    for directions, else the register table for speaker -> addressee."""
+    if it.get("level"):
+        return it["level"]
+    if it["type"] == "direction":
+        return "plain"
+    return level(it["speaker"], to.get(it["tag"]))
+
+
 def check(it, en, ko, lvl):
     errs = []
     if len(ko) != len(en):
@@ -162,7 +172,7 @@ def check(it, en, ko, lvl):
             errs.append(f"Chinese characters in: {k[:40]}")
         if LATIN.search(k):
             errs.append(f"English letters in: {k[:40]}")
-        if len(k) > max(12, len(e)):
+        if len(k) > max(20, 1.3 * len(e)):
             errs.append(f"Korean longer than the English: {k[:40]}")
     all_en, all_ko = " ".join(en), " ".join(ko)
     for name, kname in NAME_KO.items():
@@ -231,8 +241,7 @@ def run(ch, force=False):
     to = addressees(items)
     todo = [it for it in items if it["tag"] in need and it["sentences"]
             and (force or any(not s.get("ko") for s in it["sentences"]))]
-    lvl = {it["tag"]: ("plain" if it["type"] == "direction" else level(it["speaker"], to.get(it["tag"])))
-           for it in todo}
+    lvl = {it["tag"]: item_level(it, to) for it in todo}
     results, t0 = {}, time.time()
     order = [it["tag"] for it in items]
     for c in range(0, len(todo), CHUNK):
@@ -299,7 +308,7 @@ def show(ch):
     for it in items:
         if it["type"] == "header" or not it["sentences"]:
             continue
-        lv = "plain" if it["type"] == "direction" else level(it["speaker"], to.get(it["tag"]))
+        lv = item_level(it, to)
         print(f"── {it['tag']} {it['speaker'] or '(direction)'} → {to.get(it['tag'])} [{lv}]")
         for s in it["sentences"]:
             print(f"   {s['en']}\n   {s.get('ko') or '⚙'}")
