@@ -176,7 +176,8 @@ def check(it, en, ko, lvl):
             errs.append(f"Korean longer than the English: {k[:40]}")
     all_en, all_ko = " ".join(en), " ".join(ko)
     for name, kname in NAME_KO.items():
-        if re.search(rf"\b{re.escape(name)}\b", all_en) and kname.split()[0] not in all_ko:
+        # "Saint Peter" is 성 베드로, not the servant Peter
+        if re.search(rf"(?<!Saint )\b{re.escape(name)}\b", all_en) and kname.split()[0] not in all_ko:
             errs.append(f"name {name} must be written {kname}")
     if it["type"] == "speech" and lvl in ("haeyo", "hasipsio"):
         bad = [k for k in ko if PLAIN.search(k) and not POLITE.search(k)]
