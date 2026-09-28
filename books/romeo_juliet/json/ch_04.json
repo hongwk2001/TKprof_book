@@ -276,7 +276,12 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Is love a delicate thing? No, it is too rough, wild, and loud, and it pricks like a thorn.",
+    "en": "Is love a delicate thing?",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "No, it is too rough, wild, and loud, and it pricks like a thorn.",
     "ko": ""
    }
   ]

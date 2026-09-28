@@ -409,36 +409,41 @@
    },
    {
     "n": 16,
-    "en": "Seeing how poor he was, I thought: if a man needed poison now, this man would sell it to him.",
+    "en": "I saw how poor he was.",
     "ko": ""
    },
    {
     "n": 17,
-    "en": "Selling it in Mantua means instant death.",
+    "en": "I thought, if a man needed poison now, this man would sell it to him.",
     "ko": ""
    },
    {
     "n": 18,
-    "en": "I did not know then that I would be the one who needed it.",
+    "en": "Selling it in Mantua means instant death.",
     "ko": ""
    },
    {
     "n": 19,
-    "en": "This same needy man must sell it to me.",
+    "en": "I did not know then that I would be the one who needed it.",
     "ko": ""
    },
    {
     "n": 20,
-    "en": "As I remember, this should be the house.",
+    "en": "This same needy man must sell it to me.",
     "ko": ""
    },
    {
     "n": 21,
-    "en": "It is a holiday, so the beggar's shop is closed.",
+    "en": "As I remember, this should be the house.",
     "ko": ""
    },
    {
     "n": 22,
+    "en": "It is a holiday, so the beggar's shop is closed.",
+    "ko": ""
+   },
+   {
+    "n": 23,
     "en": "Hello there! Apothecary!",
     "ko": ""
    }
@@ -665,26 +670,31 @@
    },
    {
     "n": 2,
-    "en": "It causes more death in this hateful world than these poor mixtures that you are not allowed to sell.",
+    "en": "It causes more death in this hateful world.",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "I am selling you poison, but you have sold me none.",
+    "en": "It kills more than these poor mixtures that you are not allowed to sell.",
     "ko": ""
    },
    {
     "n": 4,
-    "en": "Goodbye. Buy some food and make yourself healthy.",
+    "en": "I am selling you poison, but you have sold me none.",
     "ko": ""
    },
    {
     "n": 5,
-    "en": "Come, you are a medicine, not a poison.",
+    "en": "Goodbye. Buy some food and make yourself healthy.",
     "ko": ""
    },
    {
     "n": 6,
+    "en": "Come, you are a medicine, not a poison.",
+    "ko": ""
+   },
+   {
+    "n": 7,
     "en": "Go with me to Juliet's grave because I must use it there.",
     "ko": ""
    }

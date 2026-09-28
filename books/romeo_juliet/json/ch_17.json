@@ -383,7 +383,7 @@
   "sentences": [
    {
     "n": 1,
-    "en": "If I do, it will be worth more if I say it behind your back than to your face.",
+    "en": "If I do, it will be worth more behind your back than to your face.",
     "ko": ""
    }
   ]
@@ -698,36 +698,41 @@
    },
    {
     "n": 7,
-    "en": "If it tries, or if my true heart betrays him for another man, this knife will kill both hand and heart.",
+    "en": "It may try, or my true heart may betray him for another man.",
     "ko": ""
    },
    {
     "n": 8,
-    "en": "Therefore, use your long experience.",
+    "en": "Then this knife will kill both hand and heart.",
     "ko": ""
    },
    {
     "n": 9,
-    "en": "Give me some immediate advice.",
+    "en": "Therefore, use your long experience.",
     "ko": ""
    },
    {
     "n": 10,
-    "en": "If you cannot help, this bloody knife will judge between me and my terrible choice.",
+    "en": "Give me some immediate advice.",
     "ko": ""
    },
    {
     "n": 11,
-    "en": "It will settle what your years and skill could not settle with honor.",
+    "en": "If you cannot help, this bloody knife will judge between me and my terrible choice.",
     "ko": ""
    },
    {
     "n": 12,
-    "en": "Do not take a long time to speak.",
+    "en": "It will settle what your years and skill could not settle with honor.",
     "ko": ""
    },
    {
     "n": 13,
+    "en": "Do not take a long time to speak.",
+    "ko": ""
+   },
+   {
+    "n": 14,
     "en": "I long to die if what you say is not a cure.",
     "ko": ""
    }
@@ -766,7 +771,12 @@
    },
    {
     "n": 5,
-    "en": "Since you are ready to face death itself to escape it, I will give you a remedy if you dare.",
+    "en": "You are ready to face death itself to escape it.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "So if you dare, I will give you a remedy.",
     "ko": ""
    }
   ]
@@ -882,56 +892,66 @@
    },
    {
     "n": 6,
-    "en": "No warmth or breath will show that you live, and the color in your lips and cheeks will fade to gray.",
+    "en": "No warmth or breath will show that you live.",
     "ko": ""
    },
    {
     "n": 7,
-    "en": "Your eyes will close as if death has closed the day of life.",
+    "en": "The color in your lips and cheeks will fade to gray.",
     "ko": ""
    },
    {
     "n": 8,
-    "en": "Every part of you will become stiff and cold so you look like death.",
+    "en": "Your eyes will close as if death has closed the day of life.",
     "ko": ""
    },
    {
     "n": 9,
-    "en": "In this appearance of death, you will stay for forty-eight hours.",
+    "en": "Every part of you will become stiff and cold so you look like death.",
     "ko": ""
    },
    {
     "n": 10,
-    "en": "Then you will wake up as if from a pleasant sleep.",
+    "en": "In this appearance of death, you will stay for forty-eight hours.",
     "ko": ""
    },
    {
     "n": 11,
-    "en": "When the groom comes in the morning to wake you, you will appear to be dead.",
+    "en": "Then you will wake up as if from a pleasant sleep.",
     "ko": ""
    },
    {
     "n": 12,
-    "en": "Because of our local customs, you will be dressed in your best clothes and your face will be uncovered on an open coffin.",
+    "en": "When the groom comes in the morning to wake you, you will appear to be dead.",
     "ko": ""
    },
    {
     "n": 13,
-    "en": "You will be carried to that old vault where all your relatives, the Capulets, lie.",
+    "en": "As our custom is, you will be dressed in your best clothes.",
     "ko": ""
    },
    {
     "n": 14,
-    "en": "Before you wake up, Romeo will know our plan from my letters and he will come here.",
+    "en": "Your face will be uncovered on an open coffin.",
     "ko": ""
    },
    {
     "n": 15,
-    "en": "He and I will watch you wake up, and that same night, Romeo will take you to Mantua.",
+    "en": "You will be carried to that old vault where all your relatives, the Capulets, lie.",
     "ko": ""
    },
    {
     "n": 16,
+    "en": "Before you wake up, Romeo will know our plan from my letters and he will come here.",
+    "ko": ""
+   },
+   {
+    "n": 17,
+    "en": "He and I will watch you wake up, and that same night, Romeo will take you to Mantua.",
+    "ko": ""
+   },
+   {
+    "n": 18,
     "en": "This will free you from this shame if no silly whim or womanish fear weakens your courage.",
     "ko": ""
    }

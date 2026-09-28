@@ -439,7 +439,7 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Then I tell you clearly that my heart's dear love is set on the beautiful daughter of rich Capulet.",
+    "en": "Then I tell you clearly: I love the beautiful daughter of rich Capulet.",
     "ko": ""
    },
    {
@@ -454,16 +454,21 @@
    },
    {
     "n": 4,
-    "en": "I will tell you on the way when, where and how we met, fell in love and made our promises.",
+    "en": "I will tell you the rest on the way.",
     "ko": ""
    },
    {
     "n": 5,
-    "en": "But this I pray.",
+    "en": "I will tell you when, where and how we met, fell in love and made our promises.",
     "ko": ""
    },
    {
     "n": 6,
+    "en": "But this I pray.",
+    "ko": ""
+   },
+   {
+    "n": 7,
     "en": "Please agree to marry us today.",
     "ko": ""
    }
@@ -537,21 +542,26 @@
    },
    {
     "n": 12,
-    "en": "If you were yourself before, and these sorrows were yours, then you and these sorrows were all for Rosaline.",
+    "en": "Once you were yourself, and these sorrows were yours.",
     "ko": ""
    },
    {
     "n": 13,
-    "en": "And have you changed?",
+    "en": "Then you and these sorrows were all for Rosaline.",
     "ko": ""
    },
    {
     "n": 14,
-    "en": "Then repeat this saying after me.",
+    "en": "And have you changed?",
     "ko": ""
    },
    {
     "n": 15,
+    "en": "Then repeat this saying after me.",
+    "ko": ""
+   },
+   {
+    "n": 16,
     "en": "Women may fall when there is no strength in men.",
     "ko": ""
    }

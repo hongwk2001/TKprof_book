@@ -66,16 +66,21 @@
    },
    {
     "n": 7,
-    "en": "Their doomed love, and their parents' endless anger, is the story of our stage for the next two hours.",
+    "en": "Their doomed love and their parents' endless anger are our story.",
     "ko": ""
    },
    {
     "n": 8,
-    "en": "Only their children's deaths could end that anger.",
+    "en": "We will show it on our stage for the next two hours.",
     "ko": ""
    },
    {
     "n": 9,
+    "en": "Only their children's deaths could end that anger.",
+    "ko": ""
+   },
+   {
+    "n": 10,
     "en": "If you listen patiently, we will work hard to fix anything we get wrong.",
     "ko": ""
    }
@@ -1451,41 +1456,51 @@
    },
    {
     "n": 9,
-    "en": "Three street fights, started by a careless word from you, old Capulet, and you, Montague, have broken the peace of our streets.",
+    "en": "Old Capulet and Montague, a careless word from you has started three street fights.",
     "ko": ""
    },
    {
     "n": 10,
-    "en": "They have made Verona's old citizens put aside their dignified clothes.",
+    "en": "They have broken the peace of our streets.",
     "ko": ""
    },
    {
     "n": 11,
-    "en": "They had to pick up old spears, rusty from years of peace, to stop your poisonous hatred.",
+    "en": "They have made Verona's old citizens put aside their dignified clothes.",
     "ko": ""
    },
    {
     "n": 12,
-    "en": "If you ever disturb our streets again, your lives will be the price for the peace.",
+    "en": "They had to pick up old spears, rusty from years of peace, to stop your poisonous hatred.",
     "ko": ""
    },
    {
     "n": 13,
-    "en": "Now, everyone else leave.",
+    "en": "If you ever disturb our streets again, your lives will be the price for the peace.",
     "ko": ""
    },
    {
     "n": 14,
-    "en": "You, Capulet, will go with me.",
+    "en": "Now, everyone else leave.",
     "ko": ""
    },
    {
     "n": 15,
-    "en": "And Montague, come this afternoon to hear our further decision in this case, to old Free-town, our common place of judgment.",
+    "en": "You, Capulet, will go with me.",
     "ko": ""
    },
    {
     "n": 16,
+    "en": "And Montague, come this afternoon to hear my decision in this case.",
+    "ko": ""
+   },
+   {
+    "n": 17,
+    "en": "Come to old Free-town, our court of judgment.",
+    "ko": ""
+   },
+   {
+    "n": 18,
     "en": "Once more, under pain of death, everyone leave.",
     "ko": ""
    }
@@ -1641,56 +1656,61 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Madam, an hour before the sun rose and appeared through the golden window of the east, a troubled mind forced me to walk outside.",
+    "en": "Madam, it was an hour before the sun rose in the golden window of the east.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "I walked under the grove of sycamore trees.",
+    "en": "A troubled mind forced me to walk outside.",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "Those trees grow toward the west from this side of the city.",
+    "en": "I walked under the grove of sycamore trees.",
     "ko": ""
    },
    {
     "n": 4,
-    "en": "I saw your son walking very early.",
+    "en": "Those trees grow toward the west from this side of the city.",
     "ko": ""
    },
    {
     "n": 5,
-    "en": "I moved toward him, but he noticed me.",
+    "en": "I saw your son walking very early.",
     "ko": ""
    },
    {
     "n": 6,
-    "en": "He hid in the thick part of the woods.",
+    "en": "I moved toward him, but he noticed me.",
     "ko": ""
    },
    {
     "n": 7,
-    "en": "I measured his feelings by my own feelings.",
+    "en": "He hid in the thick part of the woods.",
     "ko": ""
    },
    {
     "n": 8,
-    "en": "I wanted to be where no one could find me.",
+    "en": "I measured his feelings by my own feelings.",
     "ko": ""
    },
    {
     "n": 9,
-    "en": "Even my own company was too much for me.",
+    "en": "I wanted to be where no one could find me.",
     "ko": ""
    },
    {
     "n": 10,
-    "en": "I followed my own mood instead of following his.",
+    "en": "Even my own company was too much for me.",
     "ko": ""
    },
    {
     "n": 11,
+    "en": "I followed my own mood instead of following his.",
+    "ko": ""
+   },
+   {
+    "n": 12,
     "en": "I happily avoided him, and he gladly fled from me.",
     "ko": ""
    }
@@ -1724,26 +1744,31 @@
    },
    {
     "n": 4,
-    "en": "But as soon as the cheerful sun begins to open the curtains of the morning, my sad son leaves the light and goes home.",
+    "en": "But the cheerful sun soon begins to open the curtains of the morning.",
     "ko": ""
    },
    {
     "n": 5,
-    "en": "He stays in his room alone.",
+    "en": "Then my sad son leaves the light and goes home.",
     "ko": ""
    },
    {
     "n": 6,
-    "en": "He shuts his windows and locks out the daylight.",
+    "en": "He stays in his room alone.",
     "ko": ""
    },
    {
     "n": 7,
-    "en": "He makes himself an artificial night.",
+    "en": "He shuts his windows and locks out the daylight.",
     "ko": ""
    },
    {
     "n": 8,
+    "en": "He makes himself an artificial night.",
+    "ko": ""
+   },
+   {
+    "n": 9,
     "en": "This mood will lead to something dark and bad, unless good advice can remove its cause.",
     "ko": ""
    }
@@ -1841,17 +1866,27 @@
    },
    {
     "n": 6,
-    "en": "He is like a bud bitten by an envious worm before it can open its sweet leaves to the air.",
+    "en": "He is like a bud bitten by an envious worm.",
     "ko": ""
    },
    {
     "n": 7,
-    "en": "Or show its beauty to the sun.",
+    "en": "It dies before it can open its sweet leaves to the air.",
     "ko": ""
    },
    {
     "n": 8,
-    "en": "If we could learn why he is sad, we would cure him as gladly as we would learn the cause.",
+    "en": "Or show its beauty to the sun.",
+    "ko": ""
+   },
+   {
+    "n": 9,
+    "en": "If only we could learn why he is sad!",
+    "ko": ""
+   },
+   {
+    "n": 10,
+    "en": "We would cure him as gladly as we would learn the cause.",
     "ko": ""
    }
   ]
@@ -2520,11 +2555,16 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Asking a sick man to seriously make his will is a cruel thing to say to someone so ill.",
+    "en": "You are asking a sick man to seriously make his will.",
     "ko": ""
    },
    {
     "n": 2,
+    "en": "That is a cruel thing to say to someone so ill.",
+    "ko": ""
+   },
+   {
+    "n": 3,
     "en": "Seriously, cousin, I love a woman.",
     "ko": ""
    }

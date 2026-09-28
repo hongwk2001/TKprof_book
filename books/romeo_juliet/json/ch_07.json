@@ -157,21 +157,26 @@
    },
    {
     "n": 18,
-    "en": "Her eyes in heaven would shine so brightly through the air that birds would sing and think it was not night.",
+    "en": "Her eyes in heaven would shine so brightly through the air.",
     "ko": ""
    },
    {
     "n": 19,
-    "en": "See how she leans her cheek on her hand.",
+    "en": "Birds would sing and think it was not night.",
     "ko": ""
    },
    {
     "n": 20,
-    "en": "Oh, I wish I were a glove on that hand.",
+    "en": "See how she leans her cheek on her hand.",
     "ko": ""
    },
    {
     "n": 21,
+    "en": "Oh, I wish I were a glove on that hand.",
+    "ko": ""
+   },
+   {
+    "n": 22,
     "en": "Then I could touch that cheek.",
     "ko": ""
    }
@@ -686,7 +691,12 @@
    },
    {
     "n": 4,
-    "en": "Yet if you were as far as that vast shore washed by the distant sea, I would take the risk for such a prize.",
+    "en": "You could be as far away as the shore of the most distant sea.",
+    "ko": ""
+   },
+   {
+    "n": 5,
+    "en": "Even then, I would take the risk for such a prize.",
     "ko": ""
    }
   ]
@@ -779,26 +789,31 @@
    },
    {
     "n": 16,
-    "en": "But trust me, gentleman, I will prove more true than those who are skilled at pretending not to care.",
+    "en": "But trust me, gentleman, I will prove more true than other girls.",
     "ko": ""
    },
    {
     "n": 17,
-    "en": "I should have been more distant, I must confess.",
+    "en": "They are only better at pretending not to care.",
     "ko": ""
    },
    {
     "n": 18,
-    "en": "But you overheard my true love passion before I was aware.",
+    "en": "I should have been more distant, I must confess.",
     "ko": ""
    },
    {
     "n": 19,
-    "en": "Therefore forgive me.",
+    "en": "But you overheard my true love passion before I was aware.",
     "ko": ""
    },
    {
     "n": 20,
+    "en": "Therefore forgive me.",
+    "ko": ""
+   },
+   {
+    "n": 21,
     "en": "Do not blame my quick yes on a light love; the dark night revealed it.",
     "ko": ""
    }
@@ -1252,11 +1267,16 @@
    },
    {
     "n": 3,
-    "en": "I will find someone to come to you so that person can tell me where and at what time we will marry.",
+    "en": "I will find someone to come to you.",
     "ko": ""
    },
    {
     "n": 4,
+    "en": "Through that person, tell me where and at what time we will marry.",
+    "ko": ""
+   },
+   {
+    "n": 5,
     "en": "I will give all my fortunes at your feet and follow you as my lord throughout the world.",
     "ko": ""
    }

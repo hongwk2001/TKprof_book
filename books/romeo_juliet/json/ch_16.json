@@ -1202,11 +1202,16 @@
    },
    {
     "n": 2,
-    "en": "Early next Thursday morning, the brave and noble young man, Count Paris, will marry you at Saint Peter's Church.",
+    "en": "Early next Thursday morning, you will marry the brave and noble young Count Paris.",
     "ko": ""
    },
    {
     "n": 3,
+    "en": "The wedding will be at Saint Peter's Church.",
+    "ko": ""
+   },
+   {
+    "n": 4,
     "en": "He will make you a happy bride there.",
     "ko": ""
    }
@@ -1798,91 +1803,96 @@
    },
    {
     "n": 2,
-    "en": "Day and night, working or playing, alone or with others, my only concern has been to find her a husband.",
+    "en": "Day and night, working or playing, alone or with others, I have had one concern.",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "I have now found a gentleman of noble parents.",
+    "en": "I wanted to find her a husband.",
     "ko": ""
    },
    {
     "n": 4,
-    "en": "He has fine lands, he is young, and he is from a noble family.",
+    "en": "I have now found a gentleman of noble parents.",
     "ko": ""
    },
    {
     "n": 5,
-    "en": "He has many honorable qualities.",
+    "en": "He has fine lands, he is young, and he is from a noble family.",
     "ko": ""
    },
    {
     "n": 6,
-    "en": "He is exactly the kind of man I wanted.",
+    "en": "He has many honorable qualities.",
     "ko": ""
    },
    {
     "n": 7,
-    "en": "And then to have a foolish girl crying like a baby.",
+    "en": "He is exactly the kind of man I wanted.",
     "ko": ""
    },
    {
     "n": 8,
-    "en": "She is a whining puppet who says no when good luck is offered.",
+    "en": "And then to have a foolish girl crying like a baby.",
     "ko": ""
    },
    {
     "n": 9,
-    "en": "She says, 'I will not marry, I cannot love.'",
+    "en": "She is a whining puppet who says no when good luck is offered.",
     "ko": ""
    },
    {
     "n": 10,
-    "en": "She says, 'I am too young, please forgive me.'",
+    "en": "She says, 'I will not marry, I cannot love.'",
     "ko": ""
    },
    {
     "n": 11,
-    "en": "But if you will not marry, I will 'forgive' you all right.",
+    "en": "She says, 'I am too young, please forgive me.'",
     "ko": ""
    },
    {
     "n": 12,
-    "en": "Go where you want, but you will not live with me.",
+    "en": "But if you will not marry, I will 'forgive' you all right.",
     "ko": ""
    },
    {
     "n": 13,
-    "en": "Think about it. I am not joking.",
+    "en": "Go where you want, but you will not live with me.",
     "ko": ""
    },
    {
     "n": 14,
-    "en": "Thursday is near. Put your hand on your heart and decide.",
+    "en": "Think about it. I am not joking.",
     "ko": ""
    },
    {
     "n": 15,
-    "en": "If you are mine, I will give you to my friend.",
+    "en": "Thursday is near. Put your hand on your heart and decide.",
     "ko": ""
    },
    {
     "n": 16,
-    "en": "If you are not mine, hang, beg, starve, or die in the streets.",
+    "en": "If you are mine, I will give you to my friend.",
     "ko": ""
    },
    {
     "n": 17,
-    "en": "I swear by my soul that I will never acknowledge you.",
+    "en": "If you are not mine, hang, beg, starve, or die in the streets.",
     "ko": ""
    },
    {
     "n": 18,
-    "en": "Nothing of mine will ever help you.",
+    "en": "I swear by my soul that I will never acknowledge you.",
     "ko": ""
    },
    {
     "n": 19,
+    "en": "Nothing of mine will ever help you.",
+    "ko": ""
+   },
+   {
+    "n": 20,
     "en": "Trust me. Think about it. I will not break my promise.",
     "ko": ""
    }
@@ -1996,31 +2006,36 @@
    },
    {
     "n": 3,
-    "en": "How can I take back that vow unless my husband dies and sends it back to me from heaven?",
+    "en": "How can I take back that vow?",
     "ko": ""
    },
    {
     "n": 4,
-    "en": "Comfort me. Give me advice.",
+    "en": "Only if my husband dies and sends it back to me from heaven.",
     "ko": ""
    },
    {
     "n": 5,
-    "en": "Oh no, that heaven should use tricks on a person as gentle as myself.",
+    "en": "Comfort me. Give me advice.",
     "ko": ""
    },
    {
     "n": 6,
-    "en": "What do you say?",
+    "en": "Oh no, that heaven should use tricks on a person as gentle as myself.",
     "ko": ""
    },
    {
     "n": 7,
-    "en": "Do you not have a word of joy?",
+    "en": "What do you say?",
     "ko": ""
    },
    {
     "n": 8,
+    "en": "Do you not have a word of joy?",
+    "ko": ""
+   },
+   {
+    "n": 9,
     "en": "Give me some comfort, Nurse.",
     "ko": ""
    }

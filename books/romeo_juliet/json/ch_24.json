@@ -67,26 +67,31 @@
    },
    {
     "n": 6,
-    "en": "The ground is loose from digging graves, so no one can walk in the churchyard without you hearing it.",
+    "en": "The ground is loose from digging graves.",
     "ko": ""
    },
    {
     "n": 7,
-    "en": "Whistle to me then.",
+    "en": "No one can walk in the churchyard without you hearing it.",
     "ko": ""
    },
    {
     "n": 8,
-    "en": "Whistle as a signal that you hear something coming.",
+    "en": "Whistle to me then.",
     "ko": ""
    },
    {
     "n": 9,
-    "en": "Give me those flowers.",
+    "en": "Whistle as a signal that you hear something coming.",
     "ko": ""
    },
    {
     "n": 10,
+    "en": "Give me those flowers.",
+    "ko": ""
+   },
+   {
+    "n": 11,
     "en": "Do what I tell you and go.",
     "ko": ""
    }
@@ -166,7 +171,12 @@
    },
    {
     "n": 5,
-    "en": "The ceremonies I will keep for you will be to scatter flowers on your grave and cry every night.",
+    "en": "Every night I will come to your grave.",
+    "ko": ""
+   },
+   {
+    "n": 6,
+    "en": "I will scatter flowers on it and cry.",
     "ko": ""
    }
   ]
@@ -331,21 +341,26 @@
    },
    {
     "n": 12,
-    "en": "If you are curious and try to find out what I plan to do next, I swear by heaven that I will tear you apart.",
+    "en": "You may be curious and try to find out what I plan to do next.",
     "ko": ""
    },
    {
     "n": 13,
-    "en": "I will scatter your body parts across this hungry churchyard.",
+    "en": "If you do, I swear by heaven that I will tear you apart.",
     "ko": ""
    },
    {
     "n": 14,
-    "en": "The time and my plans are wild.",
+    "en": "I will scatter your body parts across this hungry churchyard.",
     "ko": ""
    },
    {
     "n": 15,
+    "en": "The time and my plans are wild.",
+    "ko": ""
+   },
+   {
+    "n": 16,
     "en": "They are much more fierce and unstoppable than hungry tigers or the roaring sea.",
     "ko": ""
    }
@@ -1039,21 +1054,26 @@
    },
    {
     "n": 23,
-    "en": "And lips, oh you doors of breath, seal with a holy kiss a deal with death that never ends.",
+    "en": "And lips, oh you doors of breath, seal a deal with death with a holy kiss.",
     "ko": ""
    },
    {
     "n": 24,
-    "en": "Come, bitter poison, come, horrible guide.",
+    "en": "It is a deal that never ends.",
     "ko": ""
    },
    {
     "n": 25,
-    "en": "You desperate pilot, now crash my sea-sick, tired boat onto the rocks!",
+    "en": "Come, bitter poison, come, horrible guide.",
     "ko": ""
    },
    {
     "n": 26,
+    "en": "You desperate pilot, now crash my sea-sick, tired boat onto the rocks!",
+    "ko": ""
+   },
+   {
+    "n": 27,
     "en": "Here is to my love!",
     "ko": ""
    }
@@ -2698,81 +2718,96 @@
    },
    {
     "n": 7,
-    "en": "Then she came to me with a wild look, asking me to find a way to stop this second marriage.",
+    "en": "Then she came to me with a wild look.",
     "ko": ""
    },
    {
     "n": 8,
-    "en": "She said she would kill herself in my cell if I did not help.",
+    "en": "She asked me to find a way to stop this second marriage.",
     "ko": ""
    },
    {
     "n": 9,
-    "en": "Then, using my knowledge of plants, I gave her a sleeping potion that worked exactly as I planned.",
+    "en": "She said she would kill herself in my cell if I did not help.",
     "ko": ""
    },
    {
     "n": 10,
-    "en": "It made her look like death while I wrote to Romeo.",
+    "en": "Then, using my knowledge of plants, I gave her a sleeping potion that worked exactly as I planned.",
     "ko": ""
    },
    {
     "n": 11,
-    "en": "I told him to come here tonight to take her from her borrowed grave when the potion's power ended.",
+    "en": "It made her look like death while I wrote to Romeo.",
     "ko": ""
    },
    {
     "n": 12,
-    "en": "But Friar John, who carried my letter, was stopped by an accident and returned it last night.",
+    "en": "I told him to come here tonight.",
     "ko": ""
    },
    {
     "n": 13,
-    "en": "Then I came alone at the planned time to take her from her family's vault.",
+    "en": "He was to take her from her borrowed grave when the potion's power ended.",
     "ko": ""
    },
    {
     "n": 14,
-    "en": "I planned to keep her in my cell until I could send word to Romeo.",
+    "en": "But Friar John, who carried my letter, was stopped by an accident and returned it last night.",
     "ko": ""
    },
    {
     "n": 15,
-    "en": "But when I arrived just before she woke up, the noble Paris and true Romeo lay here dead.",
+    "en": "Then I came alone at the planned time to take her from her family's vault.",
     "ko": ""
    },
    {
     "n": 16,
-    "en": "She woke, and I asked her to come out and accept this act of heaven with patience.",
+    "en": "I planned to keep her in my cell until I could send word to Romeo.",
     "ko": ""
    },
    {
     "n": 17,
-    "en": "But then a noise scared me away from the tomb, and she was too desperate to go with me.",
+    "en": "But when I arrived just before she woke up, the noble Paris and true Romeo lay here dead.",
     "ko": ""
    },
    {
     "n": 18,
-    "en": "It seems she killed herself.",
+    "en": "She woke, and I asked her to come out and accept this act of heaven with patience.",
     "ko": ""
    },
    {
     "n": 19,
-    "en": "That is all I know.",
+    "en": "But then a noise scared me away from the tomb.",
     "ko": ""
    },
    {
     "n": 20,
-    "en": "Her Nurse knows about the marriage.",
+    "en": "She was too desperate to go with me.",
     "ko": ""
    },
    {
     "n": 21,
-    "en": "If anything went wrong because of my fault, let my old life be sacrificed to the harshest law.",
+    "en": "It seems she killed herself.",
     "ko": ""
    },
    {
     "n": 22,
+    "en": "That is all I know.",
+    "ko": ""
+   },
+   {
+    "n": 23,
+    "en": "Her Nurse knows about the marriage.",
+    "ko": ""
+   },
+   {
+    "n": 24,
+    "en": "If anything went wrong because of my fault, let my old life be sacrificed to the harshest law.",
+    "ko": ""
+   },
+   {
+    "n": 25,
     "en": "Let it happen sooner than its time.",
     "ko": ""
    }

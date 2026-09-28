@@ -355,86 +355,96 @@
    },
    {
     "n": 5,
-    "en": "Even the flies on dead meat have more worth, more honor, and more chance to court her than Romeo.",
+    "en": "Even the flies on dead meat have more worth than Romeo.",
     "ko": ""
    },
    {
     "n": 6,
-    "en": "They can grab the white wonder of Juliet's hand.",
+    "en": "They have more honor and more chance to court her.",
     "ko": ""
    },
    {
     "n": 7,
-    "en": "They can steal an immortal blessing from her lips.",
+    "en": "They can grab the white wonder of Juliet's hand.",
     "ko": ""
    },
    {
     "n": 8,
-    "en": "Her lips are so pure that they still blush because they think even touching each other is a sin.",
+    "en": "They can steal an immortal blessing from her lips.",
     "ko": ""
    },
    {
     "n": 9,
-    "en": "But Romeo cannot do this because he is banished.",
+    "en": "Her lips are so pure that they still blush.",
     "ko": ""
    },
    {
     "n": 10,
-    "en": "Flies can do this, while I must fly away.",
+    "en": "They think even touching each other is a sin.",
     "ko": ""
    },
    {
     "n": 11,
-    "en": "They are free, but I am banished.",
+    "en": "But Romeo cannot do this because he is banished.",
     "ko": ""
    },
    {
     "n": 12,
-    "en": "Do you still say that exile is not death?",
+    "en": "Flies can do this, while I must fly away.",
     "ko": ""
    },
    {
     "n": 13,
-    "en": "Did you have no poison, no sharp knife, or no quick way to kill me except 'banished'?",
+    "en": "They are free, but I am banished.",
     "ko": ""
    },
    {
     "n": 14,
-    "en": "Banished?",
+    "en": "Do you still say that exile is not death?",
     "ko": ""
    },
    {
     "n": 15,
-    "en": "Oh Friar, the damned souls in hell use that word.",
+    "en": "Did you have no poison, no sharp knife, or no quick way to kill me except 'banished'?",
     "ko": ""
    },
    {
     "n": 16,
-    "en": "Howling follows that word.",
+    "en": "Banished?",
     "ko": ""
    },
    {
     "n": 17,
-    "en": "How can you have such a heart?",
+    "en": "Oh Friar, the damned souls in hell use that word.",
     "ko": ""
    },
    {
     "n": 18,
-    "en": "You are a holy man and a spiritual priest.",
+    "en": "Howling follows that word.",
     "ko": ""
    },
    {
     "n": 19,
-    "en": "You are a person who forgives sins.",
+    "en": "How can you have such a heart?",
     "ko": ""
    },
    {
     "n": 20,
-    "en": "You are my declared friend.",
+    "en": "You are a holy man and a spiritual priest.",
     "ko": ""
    },
    {
     "n": 21,
+    "en": "You are a person who forgives sins.",
+    "ko": ""
+   },
+   {
+    "n": 22,
+    "en": "You are my declared friend.",
+    "ko": ""
+   },
+   {
+    "n": 23,
     "en": "How can you hurt me with that word 'banished'?",
     "ko": ""
    }
@@ -527,16 +537,21 @@
    },
    {
     "n": 3,
-    "en": "Unless philosophy can create a Juliet, or move a town, or change a Prince's judgment, it does not help.",
+    "en": "Can philosophy create a Juliet, or move a town, or change a Prince's judgment?",
     "ko": ""
    },
    {
     "n": 4,
-    "en": "It does not work.",
+    "en": "If not, it does not help.",
     "ko": ""
    },
    {
     "n": 5,
+    "en": "It does not work.",
+    "ko": ""
+   },
+   {
+    "n": 6,
     "en": "Do not talk about it anymore.",
     "ko": ""
    }
@@ -629,11 +644,16 @@
    },
    {
     "n": 5,
-    "en": "Then you could speak about it, pull your hair out, and fall to the ground like I am doing now.",
+    "en": "Then you could speak about it and pull your hair out.",
     "ko": ""
    },
    {
     "n": 6,
+    "en": "You would fall to the ground like I am doing now.",
+    "ko": ""
+   },
+   {
+    "n": 7,
     "en": "You would be measuring your own grave.",
     "ko": ""
    }
@@ -1624,11 +1644,16 @@
   "sentences": [
    {
     "n": 1,
-    "en": "If a joy greater than all joys were not calling me, it would be sad to leave you so quickly.",
+    "en": "A joy greater than all joys is calling me.",
     "ko": ""
    },
    {
     "n": 2,
+    "en": "If it were not, it would be sad to leave you so quickly.",
+    "ko": ""
+   },
+   {
+    "n": 3,
     "en": "Goodbye.",
     "ko": ""
    }

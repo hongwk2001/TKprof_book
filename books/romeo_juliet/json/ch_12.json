@@ -260,7 +260,12 @@
   "sentences": [
    {
     "n": 1,
-    "en": "If I were as ready to fight as you are, any man could buy full ownership of my life for an hour and a quarter.",
+    "en": "Suppose I were as ready to fight as you are.",
+    "ko": ""
+   },
+   {
+    "n": 2,
+    "en": "Then any man could buy full ownership of my life for an hour and a quarter.",
     "ko": ""
    }
   ]
@@ -660,21 +665,26 @@
   "sentences": [
    {
     "n": 1,
-    "en": "Tybalt, the reason I have to love you lets me forgive the anger I should feel at such a greeting.",
+    "en": "Tybalt, I have a reason to love you.",
     "ko": ""
    },
    {
     "n": 2,
-    "en": "I am not a villain.",
+    "en": "It lets me forgive the anger I should feel at such a greeting.",
     "ko": ""
    },
    {
     "n": 3,
-    "en": "Therefore goodbye.",
+    "en": "I am not a villain.",
     "ko": ""
    },
    {
     "n": 4,
+    "en": "Therefore goodbye.",
+    "ko": ""
+   },
+   {
+    "n": 5,
     "en": "I see that you do not know me.",
     "ko": ""
    }
