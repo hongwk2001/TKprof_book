@@ -9,10 +9,16 @@
   "speaker": null,
   "delivery": null,
   "raw": "Act 1, Scene 5 — A Hall in Capulet’s House",
-  "sentences": [],
+  "sentences": [
+   {
+    "n": 1,
+    "en": "A Hall in Capulet’s House",
+    "ko": "캐퓰릿 집의 홀"
+   }
+  ],
   "summary": {
    "en": "At the party, Romeo sees Juliet and falls in love at once. They kiss before they learn that their families are enemies.",
-   "ko": ""
+   "ko": "잔치에서 로미오는 줄리엣을 보고 첫눈에 사랑에 빠진다. 두 사람은 서로의 집안이 원수라는 것을 알기 전에 입을 맞춘다."
   }
  },
  {
@@ -29,12 +35,12 @@
    {
     "n": 1,
     "en": "Musicians are waiting.",
-    "ko": ""
+    "ko": "음악가들이 기다리고 있다."
    },
    {
     "n": 2,
     "en": "Servants enter.",
-    "ko": ""
+    "ko": "하인들이 들어온다."
    }
   ]
  },
@@ -52,17 +58,17 @@
    {
     "n": 1,
     "en": "Where is Potpan?",
-    "ko": ""
+    "ko": "포트팬은 어디 있어?"
    },
    {
     "n": 2,
     "en": "Why is he not helping to clear the tables?",
-    "ko": ""
+    "ko": "왜 탁자를 치우는 걸 돕지 않는 거지?"
    },
    {
     "n": 3,
     "en": "Him, carry a plate? Him, scrape a plate? Never!",
-    "ko": ""
+    "ko": "그 녀석이 접시를 나르고 닦는다고? 어림없지!"
    }
   ]
  },
@@ -80,12 +86,12 @@
    {
     "n": 1,
     "en": "It is a bad thing when one or two men have all the good manners.",
-    "ko": ""
+    "ko": "예의범절이 한두 사람 손에만 달려 있으면 곤란하지."
    },
    {
     "n": 2,
     "en": "It is also bad if they do not wash their hands.",
-    "ko": ""
+    "ko": "그 손마저 안 씻었다면 더 곤란하고."
    }
   ]
  },
@@ -103,27 +109,27 @@
    {
     "n": 1,
     "en": "Take away the small stools and move the sideboard.",
-    "ko": ""
+    "ko": "작은 의자들을 치우고 사이드보드를 옮겨라."
    },
    {
     "n": 2,
     "en": "Watch the plates.",
-    "ko": ""
+    "ko": "은그릇 잘 챙겨."
    },
    {
     "n": 3,
     "en": "Please save a piece of marzipan for me.",
-    "ko": ""
+    "ko": "마지팬 한 조각은 나를 위해 남겨줘."
    },
    {
     "n": 4,
     "en": "If you love me, tell the doorman to let in Susan Grindstone and Nell.",
-    "ko": ""
+    "ko": "나를 사랑한다면 문지기에게 수잔 그라인드스톤과 넬을 들여보내라고 해."
    },
    {
     "n": 5,
     "en": "Antony and Potpan!",
-    "ko": ""
+    "ko": "앤트니와 포트팬!"
    }
   ]
  },
@@ -141,7 +147,7 @@
    {
     "n": 1,
     "en": "Yes, boy, I am ready.",
-    "ko": ""
+    "ko": "그래, 준비됐어."
    }
   ]
  },
@@ -159,17 +165,17 @@
    {
     "n": 1,
     "en": "You are expected and called for.",
-    "ko": ""
+    "ko": "네가 필요하다고 부르는 사람이 있다."
    },
    {
     "n": 2,
     "en": "People are asking for you.",
-    "ko": ""
+    "ko": "사람들이 너를 찾고 있어."
    },
    {
     "n": 3,
     "en": "They are looking for you in the great chamber.",
-    "ko": ""
+    "ko": "큰 방에서 너를 찾고 있다."
    }
   ]
  },
@@ -187,22 +193,22 @@
    {
     "n": 1,
     "en": "We cannot be in two places at once.",
-    "ko": ""
+    "ko": "우리는 두 장소에 동시에 있을 수 없어."
    },
    {
     "n": 2,
     "en": "Hurry up, boys.",
-    "ko": ""
+    "ko": "서둘러, 얘들아."
    },
    {
     "n": 3,
     "en": "Be quick for a while.",
-    "ko": ""
+    "ko": "잠시만이라도 빨리 움직여."
    },
    {
     "n": 4,
     "en": "The person who lives longest should take all.",
-    "ko": ""
+    "ko": "오래 사는 놈이 다 차지하는 법이지."
    }
   ]
  },
@@ -232,12 +238,12 @@
    {
     "n": 1,
     "en": "Capulet enters with the guests and ladies.",
-    "ko": ""
+    "ko": "캐퓰릿이 손님들과 숙녀들을 데리고 들어온다."
    },
    {
     "n": 2,
     "en": "They greet the masked guests.",
-    "ko": ""
+    "ko": "그들은 가면을 쓴 손님들에게 인사한다."
    }
   ]
  },
@@ -255,69 +261,70 @@
    {
     "n": 1,
     "en": "Welcome, gentlemen.",
-    "ko": ""
+    "ko": "신사 여러분, 어서 오시오."
    },
    {
     "n": 2,
     "en": "Ladies, if your feet are healthy, you can dance with the men.",
-    "ko": ""
+    "ko": "숙녀분들, 발이 성하다면 신사들과 춤을 추시오."
    },
    {
     "n": 3,
     "en": "My dear ladies, which of you will refuse to dance?",
-    "ko": ""
+    "ko": "아가씨들, 누가 춤을 마다하겠소?"
    },
    {
     "n": 4,
     "en": "If a lady acts shy, I swear she has painful feet.",
-    "ko": ""
+    "ko": "수줍은 척하는 숙녀는 틀림없이 발에 티눈이 있는 거요."
    },
    {
     "n": 5,
     "en": "Have I hit a sore spot?",
-    "ko": ""
+    "ko": "내 말이 정곡을 찔렀소?"
    },
    {
     "n": 6,
     "en": "Welcome, gentlemen!",
-    "ko": ""
+    "ko": "신사 여러분, 어서 오시오!"
    },
    {
     "n": 7,
     "en": "I remember the day I wore a mask.",
-    "ko": ""
+    "ko": "나도 가면을 쓰던 시절이 있었소."
    },
    {
     "n": 8,
     "en": "I could whisper a pleasant story into a beautiful lady's ear.",
-    "ko": ""
+    "ko": "아름다운 여인의 귀에 달콤한 이야기를 속삭이곤 했지."
    },
    {
     "n": 9,
     "en": "That time is gone, it is gone, it is gone.",
-    "ko": ""
+    "ko": "그 시절은 갔소, 가 버렸소, 가 버렸어."
    },
    {
     "n": 10,
     "en": "You are welcome, gentlemen!",
-    "ko": ""
+    "ko": "신사 여러분, 환영하오!"
    },
    {
     "n": 11,
     "en": "Come, musicians, play.",
-    "ko": ""
+    "ko": "자, 악사들, 연주하라."
    },
    {
     "n": 12,
     "en": "Clear the hall and give us room!",
-    "ko": ""
+    "ko": "홀을 비우고 자리를 내라!"
    },
    {
     "n": 13,
     "en": "Dance now, girls.",
-    "ko": ""
+    "ko": "아가씨들, 이제 춤을 추시오."
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 237,
@@ -333,7 +340,7 @@
    {
     "n": 1,
     "en": "Music plays and they dance.",
-    "ko": ""
+    "ko": "음악이 흐르고 그들은 춤을 춘다."
    }
   ]
  },
@@ -351,39 +358,40 @@
    {
     "n": 1,
     "en": "Give me more light, you servants.",
-    "ko": ""
+    "ko": "시종들아, 불을 더 밝게 켜라."
    },
    {
     "n": 2,
     "en": "Fold up the tables.",
-    "ko": ""
+    "ko": "탁자들을 접어라."
    },
    {
     "n": 3,
     "en": "Put out the fire because the room is too hot.",
-    "ko": ""
+    "ko": "방이 너무 뜨거우니 불을 꺼라."
    },
    {
     "n": 4,
     "en": "You there, this surprise party turned out well.",
-    "ko": ""
+    "ko": "이봐, 뜻밖의 여흥이 아주 잘 됐구나."
    },
    {
     "n": 5,
     "en": "No, sit down, sit down, dear cousin Capulet.",
-    "ko": ""
+    "ko": "아니, 앉게, 앉아, 사촌 캐퓰릿."
    },
    {
     "n": 6,
     "en": "You and I are past our dancing days.",
-    "ko": ""
+    "ko": "자네와 나는 이제 춤출 나이가 지났네."
    },
    {
     "n": 7,
     "en": "How long has it been since we both wore masks?",
-    "ko": ""
+    "ko": "우리가 마지막으로 가면을 쓴 지 얼마나 됐나?"
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 239,
@@ -399,7 +407,7 @@
    {
     "n": 1,
     "en": "By the Virgin Mary, thirty years.",
-    "ko": ""
+    "ko": "성모 마리아를 걸고, 삼십 년이나 됐어."
    }
   ]
  },
@@ -417,22 +425,22 @@
    {
     "n": 1,
     "en": "No, man, it is not that long.",
-    "ko": ""
+    "ko": "아니, 그렇게 오래되지 않았어."
    },
    {
     "n": 2,
     "en": "It has been since Lucentio's wedding.",
-    "ko": ""
+    "ko": "루첸티오의 결혼식 때였지."
    },
    {
     "n": 3,
     "en": "When the Pentecost holiday comes, it will be about twenty-five years.",
-    "ko": ""
+    "ko": "오순절 축제가 오면 25년쯤 될 거야."
    },
    {
     "n": 4,
     "en": "We wore masks then.",
-    "ko": ""
+    "ko": "그때 우리는 가면을 썼었어."
    }
   ]
  },
@@ -450,12 +458,12 @@
    {
     "n": 1,
     "en": "It is more, it is more.",
-    "ko": ""
+    "ko": "아니, 훨씬 더 오래됐어."
    },
    {
     "n": 2,
     "en": "His son is older, sir, because his son is thirty.",
-    "ko": ""
+    "ko": "그 집 아들이 서른 살이니, 더 됐지."
    }
   ]
  },
@@ -473,12 +481,12 @@
    {
     "n": 1,
     "en": "Will you tell me that?",
-    "ko": ""
+    "ko": "그걸 나한테 말하는 거야?"
    },
    {
     "n": 2,
     "en": "His son was still a child under a guardian two years ago.",
-    "ko": ""
+    "ko": "그의 아들은 2년 전만 해도 후견인 아래 있던 어린아이였어."
    }
   ]
  },
@@ -496,9 +504,10 @@
    {
     "n": 1,
     "en": "What lady is that, dancing with that knight over there?",
-    "ko": ""
+    "ko": "저 기사와 춤추는 저 아가씨는 누구지?"
    }
-  ]
+  ],
+  "to": "SERVANT"
  },
  {
   "id": 244,
@@ -514,7 +523,7 @@
    {
     "n": 1,
     "en": "I do not know, sir.",
-    "ko": ""
+    "ko": "모르겠습니다."
    }
   ]
  },
@@ -532,62 +541,62 @@
    {
     "n": 1,
     "en": "Oh, she teaches the torches to burn bright!",
-    "ko": ""
+    "ko": "오, 그녀는 횃불에게 밝게 타는 법을 가르치는구나!"
    },
    {
     "n": 2,
     "en": "She seems to hang on the cheek of night.",
-    "ko": ""
+    "ko": "그녀는 밤의 뺨에 매달려 있는 것 같아."
    },
    {
     "n": 3,
     "en": "She looks like a rich jewel in an Ethiopian's ear.",
-    "ko": ""
+    "ko": "그녀는 에티오피아인의 귀에 걸린 값비싼 보석처럼 보여."
    },
    {
     "n": 4,
     "en": "Her beauty is too great for use.",
-    "ko": ""
+    "ko": "그 아름다움은 쓰기엔 너무 귀하고,"
    },
    {
     "n": 5,
     "en": "It is too precious for this earth!",
-    "ko": ""
+    "ko": "이 세상에 있기엔 너무나 소중한 존재야!"
    },
    {
     "n": 6,
     "en": "She stands out from the other ladies like a white dove among crows.",
-    "ko": ""
+    "ko": "그녀는 까마귀들 사이의 흰 비둘기처럼 다른 여인들과 확연히 달라."
    },
    {
     "n": 7,
     "en": "When the music ends, I will watch where she stands.",
-    "ko": ""
+    "ko": "음악이 끝나면 그녀가 어디에 서 있는지 지켜보겠어."
    },
    {
     "n": 8,
     "en": "I will touch her hand.",
-    "ko": ""
+    "ko": "그녀의 손을 만질 거야."
    },
    {
     "n": 9,
     "en": "I will make my rough hand blessed by her touch.",
-    "ko": ""
+    "ko": "그녀의 손길로 내 거친 손을 축복받게 하겠어."
    },
    {
     "n": 10,
     "en": "Did my heart love before now?",
-    "ko": ""
+    "ko": "내 마음이 이전에 사랑을 한 적이 있었나?"
    },
    {
     "n": 11,
     "en": "Deny it, sight!",
-    "ko": ""
+    "ko": "눈아, 부정해라!"
    },
    {
     "n": 12,
     "en": "I never saw true beauty until tonight.",
-    "ko": ""
+    "ko": "오늘 밤 전까지 나는 진정한 아름다움을 본 적이 없다."
    }
   ]
  },
@@ -605,37 +614,37 @@
    {
     "n": 1,
     "en": "By his voice, he must be a Montague.",
-    "ko": ""
+    "ko": "목소리를 보니 몬태규 가문 사람이 분명해."
    },
    {
     "n": 2,
     "en": "Get me my thin sword, boy.",
-    "ko": ""
+    "ko": "어이, 내 얇은 칼을 가져와라."
    },
    {
     "n": 3,
     "en": "Does the slave dare to come here?",
-    "ko": ""
+    "ko": "저 노예 놈이 감히 여기에 오다니?"
    },
    {
     "n": 4,
     "en": "He is wearing a mask.",
-    "ko": ""
+    "ko": "그는 가면을 쓰고 있어."
    },
    {
     "n": 5,
     "en": "He comes to mock and insult our celebration.",
-    "ko": ""
+    "ko": "우리 잔치를 조롱하고 모욕하러 온 거야."
    },
    {
     "n": 6,
     "en": "I swear by my family's honor.",
-    "ko": ""
+    "ko": "내 가문의 명예를 걸고 말한다."
    },
    {
     "n": 7,
     "en": "I do not think it is a sin to strike him dead.",
-    "ko": ""
+    "ko": "그놈을 쳐 죽여도 죄가 되지 않을 거다."
    }
   ]
  },
@@ -653,12 +662,12 @@
    {
     "n": 1,
     "en": "Why are you shouting, relative?",
-    "ko": ""
+    "ko": "무슨 일이냐, 조카야?"
    },
    {
     "n": 2,
     "en": "Why are you so angry?",
-    "ko": ""
+    "ko": "왜 그렇게 화가 난 거야?"
    }
   ]
  },
@@ -676,22 +685,22 @@
    {
     "n": 1,
     "en": "Uncle, this is a Montague.",
-    "ko": ""
+    "ko": "숙부님, 이자는 몬태규 집안 놈이에요."
    },
    {
     "n": 2,
     "en": "He is our enemy.",
-    "ko": ""
+    "ko": "우리의 적이죠."
    },
    {
     "n": 3,
     "en": "He is a villain who came here to cause trouble.",
-    "ko": ""
+    "ko": "말썽을 피우러 온 악당이에요."
    },
    {
     "n": 4,
     "en": "He comes to mock our ceremony tonight.",
-    "ko": ""
+    "ko": "오늘 밤 우리 행사를 조롱하러 온 거예요."
    }
   ]
  },
@@ -709,7 +718,7 @@
    {
     "n": 1,
     "en": "Young Romeo, is it?",
-    "ko": ""
+    "ko": "젊은 로미오냐?"
    }
   ]
  },
@@ -727,7 +736,7 @@
    {
     "n": 1,
     "en": "It is him, that villain Romeo.",
-    "ko": ""
+    "ko": "그놈이 바로 그 악당 로미오예요."
    }
   ]
  },
@@ -745,42 +754,42 @@
    {
     "n": 1,
     "en": "Be calm, my dear relative, and leave him alone.",
-    "ko": ""
+    "ko": "진정해라, 조카야, 그냥 내버려 둬라."
    },
    {
     "n": 2,
     "en": "He behaves like a well-mannered gentleman.",
-    "ko": ""
+    "ko": "저 자는 예의 바른 신사처럼 행동하고 있다."
    },
    {
     "n": 3,
     "en": "To tell the truth, Verona praises him as a virtuous and well-behaved youth.",
-    "ko": ""
+    "ko": "사실 베로나 사람들은 그를 덕 있고 품행 바른 청년이라고 칭찬한다."
    },
    {
     "n": 4,
     "en": "I would not insult him in my house for all the wealth of the town.",
-    "ko": ""
+    "ko": "내 집에서 그를 모욕하는 일은 이 도시의 모든 재산을 준다 해도 하지 않겠다."
    },
    {
     "n": 5,
     "en": "Therefore be patient and do not pay him any attention.",
-    "ko": ""
+    "ko": "그러니 참을성 있게 행동하고 저 자를 신경 쓰지 마라."
    },
    {
     "n": 6,
     "en": "That is my wish.",
-    "ko": ""
+    "ko": "그게 내 뜻이다."
    },
    {
     "n": 7,
     "en": "If you follow my wish, show a pleasant face.",
-    "ko": ""
+    "ko": "내 말을 따른다면 표정을 밝게 해라."
    },
    {
     "n": 8,
     "en": "Stop making these faces because they do not look good for a feast.",
-    "ko": ""
+    "ko": "잔치에 어울리지 않는 그런 얼굴은 그만해라."
    }
   ]
  },
@@ -798,12 +807,12 @@
    {
     "n": 1,
     "en": "These frowns fit when such a villain is a guest.",
-    "ko": ""
+    "ko": "이런 악당이 손님으로 왔으니 이런 얼굴이 어울리죠."
    },
    {
     "n": 2,
     "en": "I will not tolerate him.",
-    "ko": ""
+    "ko": "저는 이 자를 용납할 수 없어요."
    }
   ]
  },
@@ -821,42 +830,42 @@
    {
     "n": 1,
     "en": "He shall be tolerated.",
-    "ko": ""
+    "ko": "참아야 한다."
    },
    {
     "n": 2,
     "en": "What, boy! I say he shall. Enough!",
-    "ko": ""
+    "ko": "뭐라고, 이 녀석! 참으라고 했다. 그만해!"
    },
    {
     "n": 3,
     "en": "Am I the master here, or are you?",
-    "ko": ""
+    "ko": "여긴 내가 주인인가, 아니면 네가 주인인가?"
    },
    {
     "n": 4,
     "en": "Enough!",
-    "ko": ""
+    "ko": "그만해!"
    },
    {
     "n": 5,
     "en": "You will not tolerate him!",
-    "ko": ""
+    "ko": "네가 참지 못하겠다고!"
    },
    {
     "n": 6,
     "en": "God save my soul, you will start a riot among my guests!",
-    "ko": ""
+    "ko": "맙소사, 손님들 사이에서 난동을 부리겠구나!"
    },
    {
     "n": 7,
     "en": "You will make trouble.",
-    "ko": ""
+    "ko": "네가 문제를 일으킬 거야."
    },
    {
     "n": 8,
     "en": "You want to play the big man!",
-    "ko": ""
+    "ko": "대장 노릇을 하겠다는 거로구나!"
    }
   ]
  },
@@ -874,7 +883,7 @@
    {
     "n": 1,
     "en": "Well, uncle, it is a shame.",
-    "ko": ""
+    "ko": "음, 숙부님, 정말 안타까운 일이네요."
    }
   ]
  },
@@ -892,39 +901,40 @@
    {
     "n": 1,
     "en": "Enough, enough! You are a rude boy.",
-    "ko": ""
+    "ko": "그만해, 그만! 너는 무례한 아이구나."
    },
    {
     "n": 2,
     "en": "Is that so? This behavior might hurt you, I know it.",
-    "ko": ""
+    "ko": "그래? 이런 짓이 네게 화가 될 거다."
    },
    {
     "n": 3,
     "en": "You must disagree with me, but it is time you learned!",
-    "ko": ""
+    "ko": "감히 나를 거역하다니, 이제 좀 배워야겠구나!"
    },
    {
     "n": 4,
     "en": "Well said, my friends! You are a bold boy; go.",
-    "ko": ""
+    "ko": "잘들 하시오, 여러분! 넌 건방진 녀석이야. 가거라."
    },
    {
     "n": 5,
     "en": "Be quiet, or—More light, more light!",
-    "ko": ""
+    "ko": "조용히 해, 안 그러면—불을 더 밝혀라, 더!"
    },
    {
     "n": 6,
     "en": "Shame on you! I will make you quiet.",
-    "ko": ""
+    "ko": "부끄러운 줄 알아라! 내가 너를 조용하게 만들겠다."
    },
    {
     "n": 7,
     "en": "Cheer up, my friends!",
-    "ko": ""
+    "ko": "여러분, 즐겁게 노시오!"
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 256,
@@ -940,24 +950,25 @@
    {
     "n": 1,
     "en": "Forced patience meeting my strong anger makes me shake.",
-    "ko": ""
+    "ko": "억지로 참는 인내가 치미는 분노와 부딪쳐 온몸이 떨린다."
    },
    {
     "n": 2,
     "en": "I will leave now.",
-    "ko": ""
+    "ko": "이만 물러가겠다."
    },
    {
     "n": 3,
     "en": "But this intrusion will seem sweet now.",
-    "ko": ""
+    "ko": "하지만 지금은 달콤해 보이는 이 침입이"
    },
    {
     "n": 4,
     "en": "It will turn into bitter poison later.",
-    "ko": ""
+    "ko": "나중엔 쓰디쓴 독이 될 것이다."
    }
-  ]
+  ],
+  "to": null
  },
  {
   "id": 257,
@@ -985,17 +996,17 @@
    {
     "n": 1,
     "en": "If I make this holy shrine dirty with my unworthy hand, the gentle sin is this.",
-    "ko": ""
+    "ko": "제 비천한 손으로 이 성스러운 성소를 더럽힌다면, 그 부드러운 죄는 이거예요."
    },
    {
     "n": 2,
     "en": "My lips are like two blushing pilgrims, travelers to a holy place.",
-    "ko": ""
+    "ko": "제 입술은 성지를 찾아가는 수줍은 두 순례자예요."
    },
    {
     "n": 3,
     "en": "They are ready to smooth that rough touch with a tender kiss.",
-    "ko": ""
+    "ko": "그들은 거친 접촉을 부드러운 입맞춤으로 달래려 준비하고 있어요."
    }
   ]
  },
@@ -1013,22 +1024,22 @@
    {
     "n": 1,
     "en": "Good pilgrim, you blame your hand too much.",
-    "ko": ""
+    "ko": "착한 순례자여, 손을 너무 탓하시네요."
    },
    {
     "n": 2,
     "en": "This shows a polite devotion.",
-    "ko": ""
+    "ko": "그건 정중한 헌신을 보여주는 거예요."
    },
    {
     "n": 3,
     "en": "Saints have hands that pilgrims' hands touch.",
-    "ko": ""
+    "ko": "성자의 손은 순례자의 손이 닿으라고 있는 거예요."
    },
    {
     "n": 4,
     "en": "And palm to palm is the holy kiss of pilgrims.",
-    "ko": ""
+    "ko": "그리고 손바닥과 손바닥이 맞닿는 건 순례자들의 성스러운 입맞춤이에요."
    }
   ]
  },
@@ -1046,12 +1057,12 @@
    {
     "n": 1,
     "en": "Do not saints have lips?",
-    "ko": ""
+    "ko": "성인들에게도 입술이 있지 않나요?"
    },
    {
     "n": 2,
     "en": "And do holy pilgrims not have lips too?",
-    "ko": ""
+    "ko": "그리고 거룩한 순례자들에게도 입술이 있지 않나요?"
    }
   ]
  },
@@ -1069,12 +1080,12 @@
    {
     "n": 1,
     "en": "Yes, pilgrim.",
-    "ko": ""
+    "ko": "네, 순례자여."
    },
    {
     "n": 2,
     "en": "They must use their lips in prayer.",
-    "ko": ""
+    "ko": "기도할 때 쓰라는 입술이에요."
    }
   ]
  },
@@ -1092,17 +1103,17 @@
    {
     "n": 1,
     "en": "Then, dear saint, let your lips do what hands do.",
-    "ko": ""
+    "ko": "그러니 사랑하는 성인이시여, 당신의 입술이 손이 하는 일을 하게 해주세요."
    },
    {
     "n": 2,
     "en": "They pray, so please grant this.",
-    "ko": ""
+    "ko": "손은 기도하니, 부디 들어주세요."
    },
    {
     "n": 3,
     "en": "Otherwise faith will turn to despair.",
-    "ko": ""
+    "ko": "그렇지 않으면 믿음은 절망으로 변할 거예요."
    }
   ]
  },
@@ -1120,7 +1131,7 @@
    {
     "n": 1,
     "en": "Saints do not move, even when they grant prayers.",
-    "ko": ""
+    "ko": "성인들은 기도를 들어주실 때도 움직이지 않으세요."
    }
   ]
  },
@@ -1138,12 +1149,12 @@
    {
     "n": 1,
     "en": "Then do not move while I receive the effect of my prayer.",
-    "ko": ""
+    "ko": "그러니 제가 기도의 효과를 받는 동안 움직이지 마세요."
    },
    {
     "n": 2,
     "en": "So your lips wash the sin from my lips.",
-    "ko": ""
+    "ko": "이렇게 당신의 입술로 내 입술의 죄가 씻겨요."
    }
   ]
  },
@@ -1161,7 +1172,7 @@
    {
     "n": 1,
     "en": "Romeo kisses her.",
-    "ko": ""
+    "ko": "로미오가 그녀에게 키스한다."
    }
   ]
  },
@@ -1179,7 +1190,7 @@
    {
     "n": 1,
     "en": "Then my lips have the sin that they took.",
-    "ko": ""
+    "ko": "그럼 제 입술이 가져간 죄를 이제 제가 지고 있네요."
    }
   ]
  },
@@ -1197,7 +1208,7 @@
    {
     "n": 1,
     "en": "Sin from my lips? Oh, this is a sweet crime, so give me my sin again.",
-    "ko": ""
+    "ko": "제 입술의 죄라고요? 오, 달콤한 죄군요. 그 죄를 다시 돌려주세요."
    }
   ]
  },
@@ -1215,7 +1226,7 @@
    {
     "n": 1,
     "en": "You kiss according to the rules.",
-    "ko": ""
+    "ko": "키스를 교과서처럼 하시네요."
    }
   ]
  },
@@ -1233,7 +1244,7 @@
    {
     "n": 1,
     "en": "Madam, your mother wants to speak with you.",
-    "ko": ""
+    "ko": "아가씨, 어머님께서 하실 말씀이 있대."
    }
   ]
  },
@@ -1251,7 +1262,7 @@
    {
     "n": 1,
     "en": "Who is her mother?",
-    "ko": ""
+    "ko": "그분의 어머니가 누구시죠?"
    }
   ]
  },
@@ -1269,32 +1280,32 @@
    {
     "n": 1,
     "en": "Well, young man.",
-    "ko": ""
+    "ko": "글쎄요, 총각."
    },
    {
     "n": 2,
     "en": "Her mother is the lady of the house.",
-    "ko": ""
+    "ko": "그분 어머니는 이 댁 마님이세요."
    },
    {
     "n": 3,
     "en": "She is a good lady.",
-    "ko": ""
+    "ko": "아주 훌륭한 분이죠."
    },
    {
     "n": 4,
     "en": "She is wise and virtuous.",
-    "ko": ""
+    "ko": "지혜롭고 덕이 있는 분이에요."
    },
    {
     "n": 5,
     "en": "I nursed the daughter that you are talking about.",
-    "ko": ""
+    "ko": "당신이 말하는 그 따님은 제가 젖을 먹여 키웠어요."
    },
    {
     "n": 6,
     "en": "I tell you, the man who can win her will get lots of money.",
-    "ko": ""
+    "ko": "분명히 말하는데, 그 아가씨를 차지하는 남자는 돈방석에 앉을 거예요."
    }
   ]
  },
@@ -1312,17 +1323,17 @@
    {
     "n": 1,
     "en": "Is she a Capulet?",
-    "ko": ""
+    "ko": "그녀가 캐퓰릿인가요?"
    },
    {
     "n": 2,
     "en": "Oh, what a costly thing to learn!",
-    "ko": ""
+    "ko": "오, 알기엔 너무 비싼 대가를 치러야 하는군요!"
    },
    {
     "n": 3,
     "en": "My life is now in my enemy's hands.",
-    "ko": ""
+    "ko": "내 목숨이 이제 적의 손에 달려 있네요."
    }
   ]
  },
@@ -1340,12 +1351,12 @@
    {
     "n": 1,
     "en": "Come, let us go.",
-    "ko": ""
+    "ko": "자, 이제 가자."
    },
    {
     "n": 2,
     "en": "The fun is at its best, so it is a good time to leave.",
-    "ko": ""
+    "ko": "즐거움이 절정에 달했으니 떠나기에 좋은 때다."
    }
   ]
  },
@@ -1363,12 +1374,12 @@
    {
     "n": 1,
     "en": "Yes, I fear that.",
-    "ko": ""
+    "ko": "그래, 나도 그게 걱정이야."
    },
    {
     "n": 2,
     "en": "It makes me more uneasy.",
-    "ko": ""
+    "ko": "그 사실이 나를 더 불안하게 해."
    }
   ]
  },
@@ -1386,29 +1397,30 @@
    {
     "n": 1,
     "en": "No, gentlemen, do not get ready to leave because we have a small and silly banquet ahead.",
-    "ko": ""
+    "ko": "아니, 여러분, 아직 가지 마시오. 간단한 다과가 준비되어 있소."
    },
    {
     "n": 2,
     "en": "Is it really so? Then I thank you all and I thank you, honest gentlemen.",
-    "ko": ""
+    "ko": "정말 그렇소? 그럼 모두 고맙소. 고맙소, 신사 여러분."
    },
    {
     "n": 3,
     "en": "Good night. Bring more torches here!",
-    "ko": ""
+    "ko": "안녕히 가시오. 여기 횃불을 더 가져와라!"
    },
    {
     "n": 4,
     "en": "Come on then, let us go to bed.",
-    "ko": ""
+    "ko": "자, 이제 자러 갑시다."
    },
    {
     "n": 5,
     "en": "Ah, you there, by my faith, it is getting late, so I will go to my rest.",
-    "ko": ""
+    "ko": "이봐, 정말 늦었구나. 나는 이만 쉬러 가겠다."
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 276,
@@ -1424,7 +1436,7 @@
    {
     "n": 1,
     "en": "Everyone leaves except Juliet and the Nurse.",
-    "ko": ""
+    "ko": "줄리엣과 유모를 제외한 모두가 떠난다."
    }
   ]
  },
@@ -1442,14 +1454,15 @@
    {
     "n": 1,
     "en": "Come here, Nurse.",
-    "ko": ""
+    "ko": "이리 와, 유모."
    },
    {
     "n": 2,
     "en": "Who is that gentleman over there?",
-    "ko": ""
+    "ko": "저기 저 신사는 누구야?"
    }
-  ]
+  ],
+  "to": "NURSE"
  },
  {
   "id": 278,
@@ -1465,7 +1478,7 @@
    {
     "n": 1,
     "en": "He is the son and heir of old Tiberio.",
-    "ko": ""
+    "ko": "그분은 티베리오 노인의 아들이자 후계자야."
    }
   ]
  },
@@ -1483,7 +1496,7 @@
    {
     "n": 1,
     "en": "Who is that man going out of the door now?",
-    "ko": ""
+    "ko": "지금 문밖으로 나가는 저 남자는 누구야?"
    }
   ]
  },
@@ -1501,7 +1514,7 @@
    {
     "n": 1,
     "en": "I think that is young Petruchio.",
-    "ko": ""
+    "ko": "내 생각에 저 사람은 젊은 페트루키오야."
    }
   ]
  },
@@ -1519,7 +1532,7 @@
    {
     "n": 1,
     "en": "Who is that man following here who does not want to dance?",
-    "ko": ""
+    "ko": "춤추기 싫어하면서 여기까지 따라오는 저 남자는 누구야?"
    }
   ]
  },
@@ -1537,7 +1550,7 @@
    {
     "n": 1,
     "en": "I do not know.",
-    "ko": ""
+    "ko": "모르겠어."
    }
   ]
  },
@@ -1555,12 +1568,12 @@
    {
     "n": 1,
     "en": "Go and ask his name.",
-    "ko": ""
+    "ko": "가서 그 사람의 이름을 물어봐."
    },
    {
     "n": 2,
     "en": "If he is married, my grave will be like my wedding bed.",
-    "ko": ""
+    "ko": "만약 결혼한 사람이라면, 내 무덤이 신방이 되겠지."
    }
   ]
  },
@@ -1578,17 +1591,17 @@
    {
     "n": 1,
     "en": "His name is Romeo.",
-    "ko": ""
+    "ko": "그의 이름은 로미오야."
    },
    {
     "n": 2,
     "en": "He is a Montague.",
-    "ko": ""
+    "ko": "그는 몬태규 가문 사람이야."
    },
    {
     "n": 3,
     "en": "He is the only son of your great enemy.",
-    "ko": ""
+    "ko": "그는 네 숙적의 외아들이야."
    }
   ]
  },
@@ -1606,27 +1619,27 @@
    {
     "n": 1,
     "en": "My only love comes from my only hate!",
-    "ko": ""
+    "ko": "하나뿐인 증오에서 하나뿐인 사랑이 싹트다니!"
    },
    {
     "n": 2,
     "en": "I saw him too early as a stranger.",
-    "ko": ""
+    "ko": "모른 채 너무 일찍 보았고,"
    },
    {
     "n": 3,
     "en": "I know him too late now.",
-    "ko": ""
+    "ko": "알고 나니 너무 늦었어."
    },
    {
     "n": 4,
     "en": "It is a strange and frightening birth of love.",
-    "ko": ""
+    "ko": "참으로 기묘하고도 두려운 사랑의 탄생이야."
    },
    {
     "n": 5,
     "en": "I must love an enemy that I hate.",
-    "ko": ""
+    "ko": "내가 증오하는 적을 사랑해야만 하는구나."
    }
   ]
  },
@@ -1644,12 +1657,12 @@
    {
     "n": 1,
     "en": "What is this?",
-    "ko": ""
+    "ko": "그게 뭐야?"
    },
    {
     "n": 2,
     "en": "What is this?",
-    "ko": ""
+    "ko": "뭐라고?"
    }
   ]
  },
@@ -1667,12 +1680,12 @@
    {
     "n": 1,
     "en": "I just learned a rhyme now.",
-    "ko": ""
+    "ko": "방금 배운 노래야."
    },
    {
     "n": 2,
     "en": "It is about the man I danced with.",
-    "ko": ""
+    "ko": "나랑 춤춘 사람에게서 배운 거야."
    }
   ]
  },
@@ -1690,7 +1703,7 @@
    {
     "n": 1,
     "en": "Someone calls from inside for Juliet.",
-    "ko": ""
+    "ko": "안에서 누군가 줄리엣을 부른다."
    }
   ]
  },
@@ -1708,7 +1721,7 @@
    {
     "n": 1,
     "en": "Coming, coming! Come, let us go away because all the strangers are gone.",
-    "ko": ""
+    "ko": "간다, 간다! 자, 가자. 손님들도 다 갔어."
    }
   ]
  },
