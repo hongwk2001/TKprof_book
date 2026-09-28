@@ -9,10 +9,16 @@
   "speaker": null,
   "delivery": null,
   "raw": "Act 2, Scene 5 — Capulet’s Garden",
-  "sentences": [],
+  "sentences": [
+   {
+    "n": 1,
+    "en": "Capulet’s Garden",
+    "ko": "캐퓰릿 집의 정원"
+   }
+  ],
   "summary": {
    "en": "Juliet waits impatiently for the Nurse. At last, the Nurse tells her to go to Friar Lawrence's cell to be married.",
-   "ko": ""
+   "ko": "줄리엣은 유모를 초조하게 기다린다. 마침내 유모는 줄리엣에게 로런스 신부의 수도실로 가서 결혼하라고 전한다."
   }
  },
  {
@@ -41,62 +47,62 @@
    {
     "n": 1,
     "en": "The clock struck nine when I sent the Nurse, and she promised to return in half an hour.",
-    "ko": ""
+    "ko": "시계가 아홉 시를 칠 때 유모를 보냈는데, 반 시간이면 돌아온다고 했다."
    },
    {
     "n": 2,
     "en": "Maybe she cannot meet him, but that is not true.",
-    "ko": ""
+    "ko": "어쩌면 그이를 못 만났는지도 모른다. 아니, 그럴 리 없다."
    },
    {
     "n": 3,
     "en": "She is so slow.",
-    "ko": ""
+    "ko": "유모는 너무 굼뜨다."
    },
    {
     "n": 4,
     "en": "Thoughts of love should be the messengers because they move ten times faster than the sun's rays.",
-    "ko": ""
+    "ko": "사랑의 전령은 생각이어야 한다. 햇살보다 열 배는 빠르니까."
    },
    {
     "n": 5,
     "en": "They drive back shadows over low hills.",
-    "ko": ""
+    "ko": "그것들은 낮은 언덕 위로 그림자를 몰아낸다."
    },
    {
     "n": 6,
     "en": "That is why quick-winged doves pull love's chariot and why the wind-swift Cupid has wings.",
-    "ko": ""
+    "ko": "그래서 날개 달린 비둘기가 사랑의 마차를 끌고, 바람처럼 빠른 큐피드에게 날개가 있는 것이다."
    },
    {
     "n": 7,
     "en": "Now the sun is on the highest hill of this day's journey.",
-    "ko": ""
+    "ko": "이제 태양은 오늘 여정에서 가장 높은 언덕에 와 있다."
    },
    {
     "n": 8,
     "en": "From nine until twelve are three long hours, yet she has not come.",
-    "ko": ""
+    "ko": "아홉 시부터 열두 시까지는 세 시간이나 되는 긴 시간이지만, 그녀는 아직 오지 않았다."
    },
    {
     "n": 9,
     "en": "If she had feelings and warm young blood, she would be as fast as a ball.",
-    "ko": ""
+    "ko": "유모에게 사랑하는 마음과 뜨거운 젊은 피가 있다면 공처럼 빨리 오갈 텐데."
    },
    {
     "n": 10,
     "en": "My words would carry her to my sweet love, and his words would come to me.",
-    "ko": ""
+    "ko": "내 말은 나의 사랑에게 전달되고, 그의 말도 나에게 전해질 텐데."
    },
    {
     "n": 11,
     "en": "But many old people act as if they were already dead.",
-    "ko": ""
+    "ko": "하지만 많은 노인들은 이미 죽은 것처럼 행동한다."
    },
    {
     "n": 12,
     "en": "They are clumsy, slow, heavy, and pale like lead.",
-    "ko": ""
+    "ko": "그들은 서투르고 느리고 무거우며 납처럼 창백하다."
    }
   ]
  },
@@ -126,17 +132,17 @@
    {
     "n": 1,
     "en": "Oh God, she comes.",
-    "ko": ""
+    "ko": "오, 하나님, 유모가 온다."
    },
    {
     "n": 2,
     "en": "Oh dear Nurse, what news? Have you met him?",
-    "ko": ""
+    "ko": "오, 유모, 무슨 소식이야? 그를 만났니?"
    },
    {
     "n": 3,
     "en": "Send your man away.",
-    "ko": ""
+    "ko": "하인은 내보내."
    }
   ]
  },
@@ -154,7 +160,7 @@
    {
     "n": 1,
     "en": "Peter, stay at the gate.",
-    "ko": ""
+    "ko": "피터, 문앞을 지켜라."
    }
   ]
  },
@@ -184,27 +190,27 @@
    {
     "n": 1,
     "en": "Now, good sweet Nurse.",
-    "ko": ""
+    "ko": "자, 착하고 다정한 유모."
    },
    {
     "n": 2,
     "en": "Oh Lord, why do you look sad?",
-    "ko": ""
+    "ko": "오 주여, 왜 그렇게 슬픈 표정을 짓고 있어?"
    },
    {
     "n": 3,
     "en": "Even if the news is sad, tell it happily.",
-    "ko": ""
+    "ko": "소식이 슬프더라도 기쁘게 말해줘."
    },
    {
     "n": 4,
     "en": "If it is good news, you ruin the music of the news.",
-    "ko": ""
+    "ko": "좋은 소식이라면, 그렇게 말하면 좋은 소식의 음악을 망치는 거야."
    },
    {
     "n": 5,
     "en": "You are playing it to me with such a sour face.",
-    "ko": ""
+    "ko": "그런 뚱한 얼굴로 들려주다니."
    }
   ]
  },
@@ -222,12 +228,12 @@
    {
     "n": 1,
     "en": "I am tired, so leave me alone for a moment.",
-    "ko": ""
+    "ko": "나 지쳤어, 잠깐만 쉬게 해 줘."
    },
    {
     "n": 2,
     "en": "Ugh, how my bones ache! What a long trip I have had!",
-    "ko": ""
+    "ko": "아이고, 뼈마디야! 정말 먼 길을 다녀왔구나!"
    }
   ]
  },
@@ -245,17 +251,17 @@
    {
     "n": 1,
     "en": "I wish you had my bones and I had your news.",
-    "ko": ""
+    "ko": "네가 내 뼈를 가지고 내가 네 소식을 가졌으면 좋겠어."
    },
    {
     "n": 2,
     "en": "Come on, please speak.",
-    "ko": ""
+    "ko": "어서 말해줘, 제발."
    },
    {
     "n": 3,
     "en": "Good, good Nurse, speak.",
-    "ko": ""
+    "ko": "착한 유모, 제발 말해 줘."
    }
   ]
  },
@@ -273,17 +279,17 @@
    {
     "n": 1,
     "en": "Jesus, why the hurry?",
-    "ko": ""
+    "ko": "세상에, 왜 이렇게 서두르니?"
    },
    {
     "n": 2,
     "en": "Can you not stay a while?",
-    "ko": ""
+    "ko": "잠깐 좀 기다릴 수 없니?"
    },
    {
     "n": 3,
     "en": "Do you not see that I am out of breath?",
-    "ko": ""
+    "ko": "내가 숨이 턱까지 차오른 게 안 보이니?"
    }
   ]
  },
@@ -301,37 +307,37 @@
    {
     "n": 1,
     "en": "How are you out of breath?",
-    "ko": ""
+    "ko": "숨이 왜 차다는 거야?"
    },
    {
     "n": 2,
     "en": "You have enough breath to tell me that you are out of breath.",
-    "ko": ""
+    "ko": "숨이 차다고 말할 기운은 충분히 있잖아."
    },
    {
     "n": 3,
     "en": "The excuse you make for this delay is longer than the story you are telling.",
-    "ko": ""
+    "ko": "지체하는 이유를 설명하는 말이 네가 하는 이야기보다 더 길어."
    },
    {
     "n": 4,
     "en": "Is your news good or bad?",
-    "ko": ""
+    "ko": "소식이 좋은 거니, 나쁜 거니?"
    },
    {
     "n": 5,
     "en": "Answer that question.",
-    "ko": ""
+    "ko": "그 질문에 대답해."
    },
    {
     "n": 6,
     "en": "Say either, and I will listen to the details.",
-    "ko": ""
+    "ko": "둘 중 하나만 말해봐, 그럼 자세히 들어줄게."
    },
    {
     "n": 7,
     "en": "Let me be satisfied, is it good or bad?",
-    "ko": ""
+    "ko": "내 궁금증부터 풀어줘, 좋은 거야, 나쁜 거야?"
    }
   ]
  },
@@ -349,57 +355,57 @@
    {
     "n": 1,
     "en": "Well, you made a foolish choice.",
-    "ko": ""
+    "ko": "글쎄, 네가 어리석은 선택을 했구나."
    },
    {
     "n": 2,
     "en": "You do not know how to choose a man.",
-    "ko": ""
+    "ko": "너는 남자를 고르는 법을 모르는구나."
    },
    {
     "n": 3,
     "en": "Romeo? No, not him.",
-    "ko": ""
+    "ko": "로미오? 아니, 그 사람은 아니야."
    },
    {
     "n": 4,
     "en": "His face is better than any man's face.",
-    "ko": ""
+    "ko": "그의 얼굴은 그 어떤 남자보다도 훌륭해."
    },
    {
     "n": 5,
     "en": "His leg is better than all men's legs.",
-    "ko": ""
+    "ko": "그의 다리도 모든 남자의 다리보다 멋지단다."
    },
    {
     "n": 6,
     "en": "His hands and feet are also very good.",
-    "ko": ""
+    "ko": "그의 손과 발도 아주 훌륭하고."
    },
    {
     "n": 7,
     "en": "They are nothing special to talk about, but still they are the best.",
-    "ko": ""
+    "ko": "딱히 입에 올릴 만한 건 아니지만, 그래도 비길 데가 없어."
    },
    {
     "n": 8,
     "en": "He is not the best at being polite.",
-    "ko": ""
+    "ko": "예의 바른 면에서는 최고가 아니지만."
    },
    {
     "n": 9,
     "en": "But I promise he is as gentle as a lamb.",
-    "ko": ""
+    "ko": "하지만 약속컨대 그는 어린 양처럼 온순해."
    },
    {
     "n": 10,
     "en": "Go your way, girl, and serve God.",
-    "ko": ""
+    "ko": "네 갈 길 가거라, 얘야. 하나님을 잘 섬기고."
    },
    {
     "n": 11,
     "en": "What, did you eat at home?",
-    "ko": ""
+    "ko": "뭐라고, 집에서 밥은 먹었니?"
    }
   ]
  },
@@ -417,22 +423,22 @@
    {
     "n": 1,
     "en": "No, no.",
-    "ko": ""
+    "ko": "아니, 아니야."
    },
    {
     "n": 2,
     "en": "I knew all of this before.",
-    "ko": ""
+    "ko": "난 이미 이 모든 걸 알고 있었어."
    },
    {
     "n": 3,
     "en": "What does he say about our marriage?",
-    "ko": ""
+    "ko": "그가 우리 결혼에 대해 뭐라고 말했어?"
    },
    {
     "n": 4,
     "en": "What about that?",
-    "ko": ""
+    "ko": "그건 어떻게 됐어?"
    }
   ]
  },
@@ -450,32 +456,32 @@
    {
     "n": 1,
     "en": "Lord, how my head aches!",
-    "ko": ""
+    "ko": "세상에, 머리가 너무 아프구나!"
    },
    {
     "n": 2,
     "en": "What a head I have!",
-    "ko": ""
+    "ko": "이놈의 머리!"
    },
    {
     "n": 3,
     "en": "It feels like it will fall into twenty pieces.",
-    "ko": ""
+    "ko": "스무 조각으로 쪼개질 것 같아."
    },
    {
     "n": 4,
     "en": "And my back, on the other side!",
-    "ko": ""
+    "ko": "그리고 반대편 등은 또 어떻고!"
    },
    {
     "n": 5,
     "en": "Oh, my back, my back!",
-    "ko": ""
+    "ko": "오, 내 등, 내 등이!"
    },
    {
     "n": 6,
     "en": "May your heart be cursed for sending me running up and down until I nearly died!",
-    "ko": ""
+    "ko": "나를 죽을 정도로 이리저리 뛰어다니게 만든 네 마음이 저주받기를!"
    }
   ]
  },
@@ -493,17 +499,17 @@
    {
     "n": 1,
     "en": "I am sorry that you are not well.",
-    "ko": ""
+    "ko": "몸이 안 좋다니 정말 안됐네."
    },
    {
     "n": 2,
     "en": "Sweet, sweet, sweet Nurse, tell me.",
-    "ko": ""
+    "ko": "착하고 고운 유모, 말해줘."
    },
    {
     "n": 3,
     "en": "What does my love say?",
-    "ko": ""
+    "ko": "내 사랑이 뭐래?"
    }
   ]
  },
@@ -521,17 +527,17 @@
    {
     "n": 1,
     "en": "Your love speaks like an honest gentleman who is courteous, kind, and handsome.",
-    "ko": ""
+    "ko": "네 사랑은 예의 바르고 친절하며 잘생긴 신사처럼 말해."
    },
    {
     "n": 2,
     "en": "I promise he is virtuous.",
-    "ko": ""
+    "ko": "분명 덕 있는 분이야."
    },
    {
     "n": 3,
     "en": "Where is your mother?",
-    "ko": ""
+    "ko": "그런데 네 어머니는 어디 계시니?"
    }
   ]
  },
@@ -549,27 +555,27 @@
    {
     "n": 1,
     "en": "Where is my mother?",
-    "ko": ""
+    "ko": "우리 어머니가 어디 계시냐고?"
    },
    {
     "n": 2,
     "en": "She is inside.",
-    "ko": ""
+    "ko": "안에 계셔."
    },
    {
     "n": 3,
     "en": "Where else would she be?",
-    "ko": ""
+    "ko": "그럼 또 어디에 계시겠어?"
    },
    {
     "n": 4,
     "en": "You answered very strangely.",
-    "ko": ""
+    "ko": "방금 대답이 아주 이상했어."
    },
    {
     "n": 5,
     "en": "'Your love says, like an honest gentleman, where is your mother?'",
-    "ko": ""
+    "ko": "'네 사랑이 정직한 신사답게 말하길, 네 어머니는 어디 계시냐?'라니."
    }
   ]
  },
@@ -587,22 +593,22 @@
    {
     "n": 1,
     "en": "Oh, Holy Mary! Are you so impatient?",
-    "ko": ""
+    "ko": "아이고, 성모님! 그렇게 성급해서야?"
    },
    {
     "n": 2,
     "en": "Well, well, calm down!",
-    "ko": ""
+    "ko": "자, 자, 진정해!"
    },
    {
     "n": 3,
     "en": "Is this the cure for my aching bones?",
-    "ko": ""
+    "ko": "이게 내 아픈 뼈를 고쳐줄 약이라도 되는 줄 아니?"
    },
    {
     "n": 4,
     "en": "From now on, deliver your messages yourself.",
-    "ko": ""
+    "ko": "이제부터 심부름은 네가 직접 하렴."
    }
   ]
  },
@@ -620,12 +626,12 @@
    {
     "n": 1,
     "en": "This is such a mess.",
-    "ko": ""
+    "ko": "정말 난리도 아니네."
    },
    {
     "n": 2,
     "en": "Come, what does Romeo say?",
-    "ko": ""
+    "ko": "어서, 로미오가 뭐래?"
    }
   ]
  },
@@ -643,7 +649,7 @@
    {
     "n": 1,
     "en": "Do you have permission to go to confession today?",
-    "ko": ""
+    "ko": "오늘 고해성사 볼 허락을 받았니?"
    }
   ]
  },
@@ -661,7 +667,7 @@
    {
     "n": 1,
     "en": "I have.",
-    "ko": ""
+    "ko": "받았어."
    }
   ]
  },
@@ -679,32 +685,32 @@
    {
     "n": 1,
     "en": "Then hurry away to Friar Lawrence's small room where a husband waits to make you a wife.",
-    "ko": ""
+    "ko": "그럼 서둘러 로런스 신부님의 수도실로 가렴. 거기서 신랑이 너를 신부로 맞으려 기다리고 있어."
    },
    {
     "n": 2,
     "en": "Now the excited blood rushes to your cheeks and they will turn red at any news.",
-    "ko": ""
+    "ko": "이제 설레는 피가 네 뺨으로 몰려와 어떤 소식에도 얼굴이 붉어질 거야."
    },
    {
     "n": 3,
     "en": "Hurry to the church while I go another way to get a ladder.",
-    "ko": ""
+    "ko": "나는 사다리를 가지러 다른 길로 갈 테니 너는 서둘러 성당으로 가라."
    },
    {
     "n": 4,
     "en": "Your love will use it to climb up to your bird's nest when it is dark.",
-    "ko": ""
+    "ko": "어두워지면 네 사랑이 그걸 타고 네 새 둥지로 올라올 거야."
    },
    {
     "n": 5,
     "en": "I am the servant who works for your pleasure, but tonight you will carry the weight.",
-    "ko": ""
+    "ko": "나는 네 기쁨을 위해 고생하는 하녀지만, 오늘 밤엔 네가 그 무게를 짊어지겠지."
    },
    {
     "n": 6,
     "en": "Go! I will go to dinner, and you must hurry to the cell.",
-    "ko": ""
+    "ko": "어서 가! 나는 저녁 먹으러 간다. 너는 어서 수도실로 가거라."
    }
   ]
  },
@@ -722,12 +728,12 @@
    {
     "n": 1,
     "en": "Hurry to high fortune!",
-    "ko": ""
+    "ko": "큰 행운을 향해 달려가자!"
    },
    {
     "n": 2,
     "en": "Honest Nurse, goodbye.",
-    "ko": ""
+    "ko": "고마운 유모, 안녕."
    }
   ]
  },
