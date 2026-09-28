@@ -9,10 +9,16 @@
   "speaker": null,
   "delivery": null,
   "raw": "Act 1, Scene 4 — A Street",
-  "sentences": [],
+  "sentences": [
+   {
+    "n": 1,
+    "en": "A Street",
+    "ko": "거리"
+   }
+  ],
   "summary": {
    "en": "Romeo and his friends go to the Capulet party in masks. Mercutio makes fun of Romeo's dreams, but Romeo feels that something bad will happen.",
-   "ko": ""
+   "ko": "로미오와 친구들이 가면을 쓰고 캐퓰릿 가의 잔치에 간다. 머큐쇼는 로미오의 꿈을 놀리지만, 로미오는 무언가 나쁜 일이 일어날 것만 같다."
   }
  },
  {
@@ -29,17 +35,17 @@
    {
     "n": 1,
     "en": "Romeo, Mercutio, and Benvolio enter.",
-    "ko": ""
+    "ko": "로미오, 머큐쇼, 그리고 벤볼리오가 들어온다."
    },
    {
     "n": 2,
     "en": "They are with five or six people in masks.",
-    "ko": ""
+    "ko": "그들은 가면을 쓴 다섯 혹은 여섯 명과 함께 있다."
    },
    {
     "n": 3,
     "en": "There are also torch-bearers and others.",
-    "ko": ""
+    "ko": "횃불을 든 사람들과 다른 이들도 있다."
    }
   ]
  },
@@ -57,12 +63,12 @@
    {
     "n": 1,
     "en": "Will we use this speech as our excuse?",
-    "ko": ""
+    "ko": "준비한 인사말을 핑계 삼아 들어갈까?"
    },
    {
     "n": 2,
     "en": "Or should we just go on without an apology?",
-    "ko": ""
+    "ko": "아니면 사과도 없이 그냥 들어갈까?"
    }
   ]
  },
@@ -80,37 +86,37 @@
    {
     "n": 1,
     "en": "Such long speeches are out of fashion.",
-    "ko": ""
+    "ko": "그런 긴 연설은 이제 유행이 아니야."
    },
    {
     "n": 2,
     "en": "We will not have a boy dressed as a blindfolded Cupid.",
-    "ko": ""
+    "ko": "눈을 가린 큐피드 분장을 한 소년은 필요 없어."
    },
    {
     "n": 3,
     "en": "He would carry a painted wooden bow.",
-    "ko": ""
+    "ko": "그는 색칠된 나무 활을 들고 있을 거야."
    },
    {
     "n": 4,
     "en": "He would scare the ladies like a scarecrow.",
-    "ko": ""
+    "ko": "그 애는 허수아비처럼 여자들을 겁주기나 할 거야."
    },
    {
     "n": 5,
     "en": "We do not need a memorized speech, spoken weakly, for our entrance.",
-    "ko": ""
+    "ko": "우리가 등장할 때 힘없이 외우는 대사를 할 필요는 없어."
    },
    {
     "n": 6,
     "en": "Let them judge us however they want.",
-    "ko": ""
+    "ko": "사람들이 우리를 어떻게 보든 상관없어."
    },
    {
     "n": 7,
     "en": "We will dance one dance with them and then leave.",
-    "ko": ""
+    "ko": "함께 한 곡 춤을 추고 나서 떠나자."
    }
   ]
  },
@@ -128,17 +134,17 @@
    {
     "n": 1,
     "en": "Give me a torch.",
-    "ko": ""
+    "ko": "횃불을 내놔."
    },
    {
     "n": 2,
     "en": "I am not in the mood for dancing.",
-    "ko": ""
+    "ko": "나는 춤출 기분이 아니야."
    },
    {
     "n": 3,
     "en": "Since I am sad, I will carry the light.",
-    "ko": ""
+    "ko": "나는 마음이 무거우니, 횃불이나 들게."
    }
   ]
  },
@@ -156,7 +162,7 @@
    {
     "n": 1,
     "en": "No, gentle Romeo, we must have you dance.",
-    "ko": ""
+    "ko": "안 돼, 다정한 로미오, 너도 꼭 춤을 춰야 해."
    }
   ]
  },
@@ -174,22 +180,22 @@
    {
     "n": 1,
     "en": "Believe me, I will not dance.",
-    "ko": ""
+    "ko": "믿어줘, 난 절대 안 출 거야."
    },
    {
     "n": 2,
     "en": "You have dancing shoes with thin soles.",
-    "ko": ""
+    "ko": "너는 밑창이 얇은 춤용 신발을 신고 있잖아."
    },
    {
     "n": 3,
     "en": "I have a soul of lead.",
-    "ko": ""
+    "ko": "내 영혼은 납덩이 같아."
    },
    {
     "n": 4,
     "en": "It holds me to the ground so I cannot move.",
-    "ko": ""
+    "ko": "그게 나를 땅에 붙잡고 있어서 움직일 수가 없어."
    }
   ]
  },
@@ -207,7 +213,7 @@
    {
     "n": 1,
     "en": "You are a lover, so borrow Cupid's wings and fly higher than ordinary men.",
-    "ko": ""
+    "ko": "너는 연인이니 큐피드의 날개를 빌려 평범한 사람들보다 더 높이 날아올라 봐."
    }
   ]
  },
@@ -225,22 +231,22 @@
    {
     "n": 1,
     "en": "I am hurt too much by his arrow.",
-    "ko": ""
+    "ko": "나는 그의 화살에 너무 깊은 상처를 입었어."
    },
    {
     "n": 2,
     "en": "I cannot fly with his light feathers.",
-    "ko": ""
+    "ko": "그의 가벼운 깃털로는 날 수 없어."
    },
    {
     "n": 3,
     "en": "I am bound so tightly that I cannot jump above dull sadness.",
-    "ko": ""
+    "ko": "너무 꽁꽁 묶여서 이 우울함 위로는 뛰어오를 수 없어."
    },
    {
     "n": 4,
     "en": "I sink under the heavy burden of love.",
-    "ko": ""
+    "ko": "사랑이라는 무거운 짐 아래로 가라앉고 있어."
    }
   ]
  },
@@ -258,12 +264,12 @@
    {
     "n": 1,
     "en": "If you sink into love, you will be a heavy weight on it.",
-    "ko": ""
+    "ko": "네가 사랑에 빠져 가라앉으면, 오히려 사랑에게 무거운 짐이 되는 거야."
    },
    {
     "n": 2,
     "en": "It is too heavy a burden for such a delicate thing.",
-    "ko": ""
+    "ko": "그렇게 섬세한 것에겐 너무 무거운 짐이야."
    }
   ]
  },
@@ -281,12 +287,12 @@
    {
     "n": 1,
     "en": "Is love a delicate thing?",
-    "ko": ""
+    "ko": "사랑이 섬세한 것이라고?"
    },
    {
     "n": 2,
     "en": "No, it is too rough, wild, and loud, and it pricks like a thorn.",
-    "ko": ""
+    "ko": "아니, 너무 거칠고 사납고 시끄러워. 가시처럼 찌르지."
    }
   ]
  },
@@ -304,22 +310,22 @@
    {
     "n": 1,
     "en": "If love is rough with you, be rough with love.",
-    "ko": ""
+    "ko": "사랑이 너를 거칠게 대한다면, 너도 사랑을 거칠게 대해."
    },
    {
     "n": 2,
     "en": "Prick love back for pricking you.",
-    "ko": ""
+    "ko": "너를 찌르는 만큼 사랑도 똑같이 찔러버려."
    },
    {
     "n": 3,
     "en": "Beat love down.",
-    "ko": ""
+    "ko": "사랑을 때려눕혀 버려."
    },
    {
     "n": 4,
     "en": "Give me a mask to hide my face in.",
-    "ko": ""
+    "ko": "내 얼굴을 가릴 가면을 하나 줘."
    }
   ]
  },
@@ -337,7 +343,7 @@
    {
     "n": 1,
     "en": "Mercutio puts on a mask.",
-    "ko": ""
+    "ko": "머큐쇼가 가면을 쓴다."
    }
   ]
  },
@@ -355,17 +361,17 @@
    {
     "n": 1,
     "en": "A mask for a mask.",
-    "ko": ""
+    "ko": "가면 위에 가면이라!"
    },
    {
     "n": 2,
     "en": "I do not care what eyes see my flaws.",
-    "ko": ""
+    "ko": "내 결점을 누가 보든 상관없어."
    },
    {
     "n": 3,
     "en": "This mask with its big eyebrows will blush for me.",
-    "ko": ""
+    "ko": "굵은 눈썹이 달린 이 가면이 나 대신 얼굴을 붉혀 줄 거야."
    }
   ]
  },
@@ -383,12 +389,12 @@
    {
     "n": 1,
     "en": "Come, knock and enter.",
-    "ko": ""
+    "ko": "자, 두드리고 들어가자."
    },
    {
     "n": 2,
     "en": "As soon as we are inside, every man should start dancing.",
-    "ko": ""
+    "ko": "들어가자마자 모두 춤을 추는 거야."
    }
   ]
  },
@@ -406,27 +412,27 @@
    {
     "n": 1,
     "en": "Give me a torch.",
-    "ko": ""
+    "ko": "횃불 하나 줘."
    },
    {
     "n": 2,
     "en": "Let the light-hearted people dance on the straw-covered floor.",
-    "ko": ""
+    "ko": "신이 난 사람들은 짚이 깔린 바닥에서 춤추게 해."
    },
    {
     "n": 3,
     "en": "I am following an old saying.",
-    "ko": ""
+    "ko": "나는 옛 속담을 따르는 것뿐이야."
    },
    {
     "n": 4,
     "en": "I will be a candle-holder and watch.",
-    "ko": ""
+    "ko": "난 촛대 들고 구경이나 할게."
    },
    {
     "n": 5,
     "en": "It is best to quit while the game is good, so I am done.",
-    "ko": ""
+    "ko": "분위기가 좋을 때 그만두는 게 좋으니, 난 여기까지야."
    }
   ]
  },
@@ -444,22 +450,22 @@
    {
     "n": 1,
     "en": "Be quiet as a mouse, as the police say.",
-    "ko": ""
+    "ko": "경찰 말처럼, 쥐 죽은 듯 조용히 해."
    },
    {
     "n": 2,
     "en": "If you are stuck, we will pull you from the mud.",
-    "ko": ""
+    "ko": "네가 진창에 빠졌다면 우리가 꺼내 줄게."
    },
    {
     "n": 3,
     "en": "Or, to be polite, we will pull you out of the love you are stuck in.",
-    "ko": ""
+    "ko": "아니, 예의를 차려 말하자면 네가 빠진 사랑에서 꺼내 주겠다는 뜻이야."
    },
    {
     "n": 4,
     "en": "Come, we are wasting daylight.",
-    "ko": ""
+    "ko": "자, 이러다 시간만 버리겠어."
    }
   ]
  },
@@ -477,7 +483,7 @@
    {
     "n": 1,
     "en": "No, that is not true.",
-    "ko": ""
+    "ko": "아니, 그렇지 않아."
    }
   ]
  },
@@ -495,22 +501,22 @@
    {
     "n": 1,
     "en": "I mean, sir, we waste our energy by waiting.",
-    "ko": ""
+    "ko": "내 말은, 기다리느라 에너지를 낭비하고 있다는 거야."
    },
    {
     "n": 2,
     "en": "We are wasting our light in the daytime.",
-    "ko": ""
+    "ko": "대낮에 등불을 켜는 셈이지."
    },
    {
     "n": 3,
     "en": "Take what I mean, not my word games.",
-    "ko": ""
+    "ko": "말장난이 아니라 내 의도를 알아들어."
    },
    {
     "n": 4,
     "en": "Good sense is found more in what we mean than in our clever words.",
-    "ko": ""
+    "ko": "지혜는 화려한 말보다 그 속에 담긴 뜻에서 나오는 법이야."
    }
   ]
  },
@@ -528,12 +534,12 @@
    {
     "n": 1,
     "en": "We mean well by going to this masked party.",
-    "ko": ""
+    "ko": "이 가면 무도회에 가는 건 좋은 의도에서 하는 일이야."
    },
    {
     "n": 2,
     "en": "But it is not smart to go.",
-    "ko": ""
+    "ko": "하지만 가는 게 현명한 일은 아니야."
    }
   ]
  },
@@ -551,7 +557,7 @@
    {
     "n": 1,
     "en": "May one ask why?",
-    "ko": ""
+    "ko": "왜냐고 물어봐도 될까?"
    }
   ]
  },
@@ -569,7 +575,7 @@
    {
     "n": 1,
     "en": "I had a dream tonight.",
-    "ko": ""
+    "ko": "오늘 밤 꿈을 꿨어."
    }
   ]
  },
@@ -587,7 +593,7 @@
    {
     "n": 1,
     "en": "So did I.",
-    "ko": ""
+    "ko": "나도 그랬어."
    }
   ]
  },
@@ -605,7 +611,7 @@
    {
     "n": 1,
     "en": "Well, what was your dream?",
-    "ko": ""
+    "ko": "그래서, 어떤 꿈이었는데?"
    }
   ]
  },
@@ -623,7 +629,7 @@
    {
     "n": 1,
     "en": "That dreamers often lie.",
-    "ko": ""
+    "ko": "꿈꾸는 사람들은 종종 거짓말을 한다는 거야."
    }
   ]
  },
@@ -641,7 +647,7 @@
    {
     "n": 1,
     "en": "They lie in bed asleep, while they dream true things.",
-    "ko": ""
+    "ko": "그들은 침대에 누워 잠든 채로, 진실한 꿈을 꾸지."
    }
   ]
  },
@@ -659,237 +665,237 @@
    {
     "n": 1,
     "en": "Then I see Queen Mab has been with you.",
-    "ko": ""
+    "ko": "그렇다면 맵 여왕이 너를 찾아왔나 보군."
    },
    {
     "n": 2,
     "en": "She is the midwife of the fairies.",
-    "ko": ""
+    "ko": "그녀는 요정들의 산파야."
    },
    {
     "n": 3,
     "en": "She is no bigger than the small stone in a ring on an old councilman's finger.",
-    "ko": ""
+    "ko": "늙은 시의원 손가락에 낀 반지의 작은 보석보다도 크지 않아."
    },
    {
     "n": 4,
     "en": "She is pulled by a team of tiny creatures.",
-    "ko": ""
+    "ko": "아주 작은 생물들이 그녀의 마차를 끌어."
    },
    {
     "n": 5,
     "en": "They pull her over men's noses while they sleep.",
-    "ko": ""
+    "ko": "그들은 잠든 사람들의 코 위로 그녀를 끌고 가."
    },
    {
     "n": 6,
     "en": "Her wagon wheels are made of long spiders' legs.",
-    "ko": ""
+    "ko": "그녀의 마차 바퀴는 긴 거미 다리로 만들어졌어."
    },
    {
     "n": 7,
     "en": "The cover is made of grasshopper wings.",
-    "ko": ""
+    "ko": "덮개는 메뚜기 날개로 만들었지."
    },
    {
     "n": 8,
     "en": "Her reins are made of the smallest spider's web.",
-    "ko": ""
+    "ko": "고삐는 아주 가는 거미줄로 만들었어."
    },
    {
     "n": 9,
     "en": "The collars are made of moonbeams.",
-    "ko": ""
+    "ko": "말의 목줄은 달빛으로 만들었고."
    },
    {
     "n": 10,
     "en": "Her whip is made of cricket bone.",
-    "ko": ""
+    "ko": "채찍은 귀뚜라미 뼈로 만들었어."
    },
    {
     "n": 11,
     "en": "The lash is made of thin film.",
-    "ko": ""
+    "ko": "채찍 끝은 얇은 막으로 되어 있어."
    },
    {
     "n": 12,
     "en": "Her driver is a small grey-coated gnat.",
-    "ko": ""
+    "ko": "마부는 회색 옷을 입은 작은 각다귀야."
    },
    {
     "n": 13,
     "en": "He is not even as big as a round little worm.",
-    "ko": ""
+    "ko": "그는 동그랗고 작은 벌레보다도 작아."
    },
    {
     "n": 14,
     "en": "The worm was pricked from the lazy finger of an unmarried girl.",
-    "ko": ""
+    "ko": "게으른 처녀의 손가락에서 파낸 벌레 말이야."
    },
    {
     "n": 15,
     "en": "Her chariot is an empty hazelnut.",
-    "ko": ""
+    "ko": "그녀의 마차는 빈 헤이즐넛이야."
    },
    {
     "n": 16,
     "en": "It was made by a squirrel or a bug.",
-    "ko": ""
+    "ko": "다람쥐나 벌레가 만든 거지."
    },
    {
     "n": 17,
     "en": "They have been the fairies' coachmakers since ancient times.",
-    "ko": ""
+    "ko": "그들은 아주 오래전부터 요정들의 마차 제작자였어."
    },
    {
     "n": 18,
     "en": "In this state, she gallops night by night through lovers' brains.",
-    "ko": ""
+    "ko": "이렇게 그녀는 밤마다 연인들의 머릿속을 달리지."
    },
    {
     "n": 19,
     "en": "Then they dream of love.",
-    "ko": ""
+    "ko": "그러면 그들은 사랑에 대한 꿈을 꾸지."
    },
    {
     "n": 20,
     "en": "She rides over the knees of royal officials.",
-    "ko": ""
+    "ko": "그녀는 고위 관리들의 무릎 위를 지나가."
    },
    {
     "n": 21,
     "en": "They dream of bowing to others.",
-    "ko": ""
+    "ko": "그들은 남들에게 절하는 꿈을 꿔."
    },
    {
     "n": 22,
     "en": "She rides over lawyers' fingers.",
-    "ko": ""
+    "ko": "그녀는 변호사들의 손가락 위를 지나가."
    },
    {
     "n": 23,
     "en": "They dream about their fees.",
-    "ko": ""
+    "ko": "그들은 수임료에 관한 꿈을 꾸지."
    },
    {
     "n": 24,
     "en": "She rides over ladies' lips.",
-    "ko": ""
+    "ko": "그녀는 여인들의 입술 위를 지나가."
    },
    {
     "n": 25,
     "en": "They dream of kisses.",
-    "ko": ""
+    "ko": "그들은 키스에 대한 꿈을 꿔."
    },
    {
     "n": 26,
     "en": "The angry Mab often punishes them with blisters.",
-    "ko": ""
+    "ko": "화난 맵은 종종 그들의 입술에 물집을 내 벌을 줘."
    },
    {
     "n": 27,
     "en": "This is because their breath smells like sweets.",
-    "ko": ""
+    "ko": "숨결에서 단내가 나기 때문이야."
    },
    {
     "n": 28,
     "en": "Sometimes she gallops over an official's nose.",
-    "ko": ""
+    "ko": "때때로 그녀는 관리의 코 위를 지나가."
    },
    {
     "n": 29,
     "en": "Then he dreams of someone who will pay him for a favor.",
-    "ko": ""
+    "ko": "그러면 그는 부탁을 들어주는 대가로 돈을 줄 사람에 대한 꿈을 꿔."
    },
    {
     "n": 30,
     "en": "Sometimes she comes with a pig's tail.",
-    "ko": ""
+    "ko": "가끔은 돼지 꼬리를 들고 와."
    },
    {
     "n": 31,
     "en": "She tickles a priest's nose while he sleeps.",
-    "ko": ""
+    "ko": "그녀는 잠든 신부의 코를 간지럽히지."
    },
    {
     "n": 32,
     "en": "Then he dreams of another church job with more pay.",
-    "ko": ""
+    "ko": "그러면 그는 더 많은 급여를 받는 다른 교회 직무에 관한 꿈을 꿔."
    },
    {
     "n": 33,
     "en": "Sometimes she rides over a soldier's neck.",
-    "ko": ""
+    "ko": "때때로 그녀는 군인의 목 위를 지나가."
    },
    {
     "n": 34,
     "en": "Then he dreams of cutting foreign throats.",
-    "ko": ""
+    "ko": "그러면 그는 외국인의 목을 베는 꿈을 꿔."
    },
    {
     "n": 35,
     "en": "He dreams of battles and Spanish blades.",
-    "ko": ""
+    "ko": "그는 전투와 스페인 칼들에 대한 꿈을 꾸지."
    },
    {
     "n": 36,
     "en": "He dreams of drinking huge toasts.",
-    "ko": ""
+    "ko": "그는 큰 잔을 들어 마시는 꿈을 꿔."
    },
    {
     "n": 37,
     "en": "Then suddenly drums sound in his ear.",
-    "ko": ""
+    "ko": "그러다 갑자기 그의 귀에 북소리가 들려."
    },
    {
     "n": 38,
     "en": "He starts and wakes up.",
-    "ko": ""
+    "ko": "그는 깜짝 놀라 깨어나."
    },
    {
     "n": 39,
     "en": "Because he is scared, he says a prayer or two.",
-    "ko": ""
+    "ko": "무서워진 그는 기도 한두 번을 올리지."
    },
    {
     "n": 40,
     "en": "Then he falls asleep again.",
-    "ko": ""
+    "ko": "그러고 나서 다시 잠이 들어."
    },
    {
     "n": 41,
     "en": "This is the same Mab who braids horse hair at night.",
-    "ko": ""
+    "ko": "밤마다 말갈기를 땋는 것도 바로 그 맵이야."
    },
    {
     "n": 42,
     "en": "She tangles dirty hair into knots called elf-locks.",
-    "ko": ""
+    "ko": "그녀는 지저분한 머리카락을 엉켜 '엘프 록'이라 불리는 매듭으로 만들어."
    },
    {
     "n": 43,
     "en": "If that hair is untangled, it means bad luck.",
-    "ko": ""
+    "ko": "그 엉킨 머리를 풀면 불운이 온대."
    },
    {
     "n": 44,
     "en": "This is the hag who visits unmarried girls while they lie on their backs.",
-    "ko": ""
+    "ko": "이건 미혼 소녀들이 등을 대고 누워 있을 때 찾아오는 노파야."
    },
    {
     "n": 45,
     "en": "She presses down on them and teaches them to bear a man's weight.",
-    "ko": ""
+    "ko": "그녀는 그들을 짓누르며 남자의 무게를 견디는 법을 가르쳐."
    },
    {
     "n": 46,
     "en": "That makes them women who will carry children well.",
-    "ko": ""
+    "ko": "그렇게 해서 아이를 잘 품는 여자가 되는 거지."
    },
    {
     "n": 47,
     "en": "This is she—",
-    "ko": ""
+    "ko": "그게 바로 그녀—"
    }
   ]
  },
@@ -907,12 +913,12 @@
    {
     "n": 1,
     "en": "Peace, peace, Mercutio, peace.",
-    "ko": ""
+    "ko": "그만, 그만해, 머큐쇼, 그만."
    },
    {
     "n": 2,
     "en": "You are talking about nothing.",
-    "ko": ""
+    "ko": "넌 아무 의미 없는 소리를 하고 있어."
    }
   ]
  },
@@ -930,42 +936,42 @@
    {
     "n": 1,
     "en": "True, I talk of dreams.",
-    "ko": ""
+    "ko": "맞아, 난 꿈에 대해 말하고 있지."
    },
    {
     "n": 2,
     "en": "Dreams are the children of an idle brain.",
-    "ko": ""
+    "ko": "꿈은 한가한 정신이 낳은 자식이야."
    },
    {
     "n": 3,
     "en": "They come from nothing but useless fantasy.",
-    "ko": ""
+    "ko": "그저 헛된 공상에서 나오는 거야."
    },
    {
     "n": 4,
     "en": "Fantasy is as thin as the air.",
-    "ko": ""
+    "ko": "환상은 공기만큼이나 가벼워."
    },
    {
     "n": 5,
     "en": "It is more unstable than the wind.",
-    "ko": ""
+    "ko": "그건 바람보다 더 불안정해."
    },
    {
     "n": 6,
     "en": "The wind tries to kiss the frozen heart of the north.",
-    "ko": ""
+    "ko": "바람은 얼어붙은 북쪽의 심장에 입맞춤을 하려 해."
    },
    {
     "n": 7,
     "en": "Then, getting angry, it blows away from there.",
-    "ko": ""
+    "ko": "그러다 화가 나서 그곳에서 멀리 날아가 버리지."
    },
    {
     "n": 8,
     "en": "It turns toward the wet south.",
-    "ko": ""
+    "ko": "그리고는 젖은 남쪽으로 향해."
    }
   ]
  },
@@ -983,17 +989,17 @@
    {
     "n": 1,
     "en": "This wind you talk about distracts us.",
-    "ko": ""
+    "ko": "네가 말하는 그 바람이 우리를 딴 데로 날려 보내고 있어."
    },
    {
     "n": 2,
     "en": "Dinner is finished.",
-    "ko": ""
+    "ko": "저녁 식사는 벌써 끝났고."
    },
    {
     "n": 3,
     "en": "We will arrive too late.",
-    "ko": ""
+    "ko": "이러다 너무 늦겠어."
    }
   ]
  },
@@ -1011,37 +1017,37 @@
    {
     "n": 1,
     "en": "I fear it is too early.",
-    "ko": ""
+    "ko": "난 너무 이를까 봐 걱정이야."
    },
    {
     "n": 2,
     "en": "My mind fears a consequence in the stars.",
-    "ko": ""
+    "ko": "아직 별 속에 걸려 있는 어떤 일이 두려워."
    },
    {
     "n": 3,
     "en": "It may start with this night's party.",
-    "ko": ""
+    "ko": "그건 오늘 밤 파티에서 시작될지도 몰라."
    },
    {
     "n": 4,
     "en": "It might end my life quickly.",
-    "ko": ""
+    "ko": "그게 내 생명을 순식간에 끝낼 수도 있어."
    },
    {
     "n": 5,
     "en": "Death could take my life before its time.",
-    "ko": ""
+    "ko": "죽음이 내 수명을 채우기도 전에 앗아갈 수도 있거든."
    },
    {
     "n": 6,
     "en": "But let him who controls my path guide me.",
-    "ko": ""
+    "ko": "하지만 내 앞길의 키를 쥔 분이 나를 이끄시기를."
    },
    {
     "n": 7,
     "en": "Let us go, brave gentlemen!",
-    "ko": ""
+    "ko": "가자, 용감한 신사들이여!"
    }
   ]
  },
@@ -1059,7 +1065,7 @@
    {
     "n": 1,
     "en": "Beat the drum.",
-    "ko": ""
+    "ko": "북을 쳐라."
    }
   ]
  },
