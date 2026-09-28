@@ -24,6 +24,10 @@ The model never writes narration. Everything here is deterministic:
   Exit.      -> <last speaker> leaves.       / <last speaker>가 나간다.
   Exit X.    -> X leaves.                    / X가 나간다.
   Exeunt.    -> They all leave.              / 모두 나간다.
+  intro      -> "Tybalt, Juliet's hot-tempered cousin, says, ..." on a main
+                character's first speech in the play, and on a minor
+                character's first speech in each scene (glossary intro/minor)
+  summary    -> a narrator card after each scene header (header item's `summary`)
 
 Any direction these rules can't place (unknown name, extra detail) needs
 Stage 4 sentences from the model; in a preview it shows marked with ⚙.
@@ -136,10 +140,15 @@ def item_sentences(item, use_raw):
     return [(PENDING + " " + item["raw"], PENDING)]
 
 
-def attribution(item, mode, question):
-    """(en prefix, ko prefix) for the first card of a speech."""
+def attribution(item, mode, question, intro=False):
+    """(en prefix, ko prefix) for the first card of a speech.
+    intro: say who the speaker is ("Tybalt, Juliet's hot-tempered cousin, says")."""
     sp = SPEAKERS[item["speaker"]]
     who_en, who_ko = cap(sp["en"]), ko_subj(sp["ko"])
+    if intro and sp.get("intro"):
+        who_en = f"{who_en}, {sp['intro']},"
+        if sp.get("intro_ko"):
+            who_ko = ko_subj(f"{sp['intro_ko']} {sp['ko']}")
     d = item["delivery"] or ""
     if mode == "enter":
         return (f"{who_en} enters and {'asks' if question else 'says'},",
@@ -177,16 +186,17 @@ def group_cards(pairs, first_prefix_len):
     return groups
 
 
-def speech_cards(item, mode, use_raw):
+def speech_cards(item, mode, use_raw, intro=False):
     pairs = item_sentences(item, use_raw)
-    groups = group_cards(pairs, 30)          # ~ room for "Friar Lawrence goes on, "
+    # room for the longest form the attribution can take on the first card
+    groups = group_cards(pairs, len(attribution(item, mode, True, intro)[0]) + 3)
     cards = []
     for n, g in enumerate(groups):
         en = " ".join(e for e, _ in g)
         ko = " ".join(k for _, k in g)
         if n == 0:
             question = en.rstrip("’'\"”").endswith("?")
-            pen, pko = attribution(item, mode, question)
+            pen, pko = attribution(item, mode, question, intro)
             en, ko = f'{pen} "{en}"', f'{pko} "{ko}"'
         else:
             en, ko = f'"{en}"', f'"{ko}"'
@@ -197,8 +207,24 @@ def speech_cards(item, mode, use_raw):
 
 # ---------- chapter ----------
 
+_FIRST = None
+
+
+def first_speeches():
+    """Tag of each main character's first speech in the whole play."""
+    global _FIRST
+    if _FIRST is None:
+        _FIRST = {}
+        for ch in range(1, 25):
+            for it in load(ch):
+                if it["type"] == "speech":
+                    _FIRST.setdefault(it["speaker"], it["tag"])
+    return set(_FIRST.values())
+
+
 def build_cards(items, use_raw=False):
     cards = []
+    seen_minor = set()        # minor characters already introduced in this scene
     last_speaker = None       # speaker of the most recent speech
     since_speech = []         # directions seen since that speech
     merged_enter = False      # the previous direction was folded into this speech
@@ -208,6 +234,11 @@ def build_cards(items, use_raw=False):
             cards.append({"tag": it["tag"], "en": it["raw"],
                           "ko": f"{it['act']}막 {it['scene']}장 — {ko_loc}",
                           "is_header": True, "src": "header"})
+            summ = it.get("summary") or {}
+            if summ.get("en"):
+                cards.append({"tag": f"{it['tag']}_s", "en": summ["en"],
+                              "ko": summ.get("ko") or PENDING,
+                              "is_header": False, "src": "summary"})
             continue
 
         if it["type"] == "direction":
@@ -239,7 +270,13 @@ def build_cards(items, use_raw=False):
             mode = "continue"
         else:
             mode = "say"
-        cards.extend(speech_cards(it, mode, use_raw))
+        sp = it["speaker"]
+        if SPEAKERS[sp].get("minor"):
+            intro = sp not in seen_minor
+            seen_minor.add(sp)
+        else:
+            intro = it["tag"] in first_speeches()
+        cards.extend(speech_cards(it, mode, use_raw, intro and mode != "continue"))
         merged_enter = False
         last_speaker = it["speaker"]
         since_speech = []

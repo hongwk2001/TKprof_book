@@ -1,115 +1,145 @@
 {
- "_note": "Draft — review before the pilot. `speakers` is keyed by the parsed speaker label; `en` is how the narrator names them mid-sentence, `ko` the Korean name, `g` m/f/n for himself/herself. Names in stage directions are looked up by upper-casing them, so 'Lady Capulet' finds LADY CAPULET.",
+ "_note": "Draft — review before the pilot. `speakers` is keyed by the parsed speaker label; `en` is how the narrator names them mid-sentence, `ko` the Korean name, `g` m/f/n for himself/herself. Names in stage directions are looked up by upper-casing them, so 'Lady Capulet' finds LADY CAPULET. `intro` says who a speaker is at their first line (main: once in the play; `minor`: once per scene); `intro_ko` is added in Stage 5. Unnamed roles (servant, musician, citizen) need none: their label already says it.",
  "speakers": {
   "ROMEO": {
    "en": "Romeo",
    "ko": "로미오",
-   "g": "m"
+   "g": "m",
+   "intro": "the young son of the Montague family"
   },
   "JULIET": {
    "en": "Juliet",
    "ko": "줄리엣",
-   "g": "f"
+   "g": "f",
+   "intro": "the young daughter of the Capulet family"
   },
   "NURSE": {
    "en": "the Nurse",
    "ko": "유모",
-   "g": "f"
+   "g": "f",
+   "intro": "who has looked after Juliet since she was a baby"
   },
   "BENVOLIO": {
    "en": "Benvolio",
    "ko": "벤볼리오",
-   "g": "m"
+   "g": "m",
+   "intro": "Romeo's cousin and friend"
   },
   "MERCUTIO": {
    "en": "Mercutio",
    "ko": "머큐쇼",
-   "g": "m"
+   "g": "m",
+   "intro": "Romeo's joking friend"
   },
   "FRIAR LAWRENCE": {
    "en": "Friar Lawrence",
    "ko": "로런스 신부",
-   "g": "m"
+   "g": "m",
+   "intro": "a priest and Romeo's friend"
   },
   "CAPULET": {
    "en": "Capulet",
    "ko": "캐퓰릿",
-   "g": "m"
+   "g": "m",
+   "intro": "Juliet's father"
   },
   "LADY CAPULET": {
    "en": "Lady Capulet",
    "ko": "캐퓰릿 부인",
-   "g": "f"
+   "g": "f",
+   "intro": "Juliet's mother"
   },
   "PARIS": {
    "en": "Paris",
    "ko": "패리스",
-   "g": "m"
+   "g": "m",
+   "intro": "a young nobleman who wants to marry Juliet"
   },
   "SAMPSON": {
    "en": "Sampson",
    "ko": "샘슨",
-   "g": "m"
+   "g": "m",
+   "intro": "a Capulet servant",
+   "minor": true
   },
   "GREGORY": {
    "en": "Gregory",
    "ko": "그레고리",
-   "g": "m"
+   "g": "m",
+   "intro": "another Capulet servant",
+   "minor": true
   },
   "TYBALT": {
    "en": "Tybalt",
    "ko": "티볼트",
-   "g": "m"
+   "g": "m",
+   "intro": "Juliet's hot-tempered cousin"
   },
   "PRINCE": {
    "en": "the Prince",
    "ko": "영주",
-   "g": "m"
+   "g": "m",
+   "intro": "the ruler of Verona"
   },
   "PETER": {
    "en": "Peter",
    "ko": "피터",
-   "g": "m"
+   "g": "m",
+   "intro": "the Nurse's servant",
+   "minor": true
   },
   "BALTHASAR": {
    "en": "Balthasar",
    "ko": "발타자르",
-   "g": "m"
+   "g": "m",
+   "intro": "Romeo's servant",
+   "minor": true
   },
   "MONTAGUE": {
    "en": "Montague",
    "ko": "몬태규",
-   "g": "m"
+   "g": "m",
+   "intro": "Romeo's father"
   },
   "LADY MONTAGUE": {
    "en": "Lady Montague",
    "ko": "몬태규 부인",
-   "g": "f"
+   "g": "f",
+   "intro": "Romeo's mother"
   },
   "ABRAM": {
    "en": "Abram",
    "ko": "에이브럼",
-   "g": "m"
+   "g": "m",
+   "intro": "a Montague servant",
+   "minor": true
   },
   "FRIAR JOHN": {
    "en": "Friar John",
    "ko": "존 신부",
-   "g": "m"
+   "g": "m",
+   "intro": "another priest",
+   "minor": true
   },
   "APOTHECARY": {
    "en": "the apothecary",
    "ko": "약제사",
-   "g": "m"
+   "g": "m",
+   "intro": "a poor man who sells medicines",
+   "minor": true
   },
   "PAGE": {
    "en": "the page",
    "ko": "시동",
-   "g": "m"
+   "g": "m",
+   "intro": "Paris's young servant",
+   "minor": true
   },
   "CHORUS": {
    "en": "the Chorus",
    "ko": "코러스",
-   "g": "n"
+   "g": "n",
+   "intro": "the play's storyteller"
   },
   "SERVANT": {
    "en": "the servant",
@@ -144,17 +174,23 @@
   "FIRST WATCH": {
    "en": "the first watchman",
    "ko": "첫째 야경꾼",
-   "g": "m"
+   "g": "m",
+   "intro": "one of the night guards",
+   "minor": true
   },
   "SECOND WATCH": {
    "en": "the second watchman",
    "ko": "둘째 야경꾼",
-   "g": "m"
+   "g": "m",
+   "intro": "one of the night guards",
+   "minor": true
   },
   "THIRD WATCH": {
    "en": "the third watchman",
    "ko": "셋째 야경꾼",
-   "g": "m"
+   "g": "m",
+   "intro": "one of the night guards",
+   "minor": true
   },
   "FIRST CITIZEN": {
    "en": "the first citizen",
@@ -164,7 +200,9 @@
   "CAPULET'S COUSIN": {
    "en": "Capulet's cousin",
    "ko": "캐퓰릿의 사촌",
-   "g": "m"
+   "g": "m",
+   "intro": "an old cousin of Capulet",
+   "minor": true
   }
  },
  "names": {
