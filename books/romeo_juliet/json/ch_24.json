@@ -9,10 +9,16 @@
   "speaker": null,
   "delivery": null,
   "raw": "Act 5, Scene 3 — A churchyard; in it a Monument belonging to the Capulets",
-  "sentences": [],
+  "sentences": [
+   {
+    "n": 1,
+    "en": "A churchyard; in it a Monument belonging to the Capulets",
+    "ko": "교회 묘지, 캐퓰릿 가문의 무덤"
+   }
+  ],
   "summary": {
    "en": "At the tomb, Romeo kills Paris and drinks the poison. Juliet wakes, finds Romeo dead, and kills herself. The two families finally make peace.",
-   "ko": ""
+   "ko": "무덤에서 로미오는 패리스를 죽이고 독약을 마신다. 깨어난 줄리엣은 죽은 로미오를 보고 스스로 목숨을 끊는다. 마침내 두 집안은 화해한다."
   }
  },
  {
@@ -29,7 +35,7 @@
    {
     "n": 1,
     "en": "Paris enters with his page, who carries flowers and a torch.",
-    "ko": ""
+    "ko": "패리스가 꽃과 횃불을 든 시동과 함께 들어온다."
    }
   ]
  },
@@ -47,57 +53,57 @@
    {
     "n": 1,
     "en": "Give me your torch, boy.",
-    "ko": ""
+    "ko": "얘야, 횃불을 내게 다오."
    },
    {
     "n": 2,
     "en": "Go and stand far away.",
-    "ko": ""
+    "ko": "저 멀리 가서 서 있어라."
    },
    {
     "n": 3,
     "en": "Put it out because I do not want to be seen.",
-    "ko": ""
+    "ko": "들키고 싶지 않으니 불을 꺼라."
    },
    {
     "n": 4,
     "en": "Lie down flat under that yew tree.",
-    "ko": ""
+    "ko": "저 주목나무 아래에 납작하게 엎드려라."
    },
    {
     "n": 5,
     "en": "Hold your ear close to the ground.",
-    "ko": ""
+    "ko": "귀를 땅에 바짝 대라."
    },
    {
     "n": 6,
     "en": "The ground is loose from digging graves.",
-    "ko": ""
+    "ko": "무덤을 파느라 땅이 물러져 있다."
    },
    {
     "n": 7,
     "en": "No one can walk in the churchyard without you hearing it.",
-    "ko": ""
+    "ko": "누가 교회 마당을 걸으면 네가 꼭 듣게 될 것이다."
    },
    {
     "n": 8,
     "en": "Whistle to me then.",
-    "ko": ""
+    "ko": "그러면 내게 휘파람을 불어라."
    },
    {
     "n": 9,
     "en": "Whistle as a signal that you hear something coming.",
-    "ko": ""
+    "ko": "무언가 오는 소리가 들리면 신호로 휘파람을 불어라."
    },
    {
     "n": 10,
     "en": "Give me those flowers.",
-    "ko": ""
+    "ko": "그 꽃들을 내게 다오."
    },
    {
     "n": 11,
     "en": "Do what I tell you and go.",
-    "ko": ""
+    "ko": "내가 시키는 대로 하고 물러가거라."
    }
   ]
  },
@@ -115,14 +121,15 @@
    {
     "n": 1,
     "en": "I am almost afraid to stand alone here in the churchyard.",
-    "ko": ""
+    "ko": "교회 마당에 혼자 서 있자니 좀 무섭다."
    },
    {
     "n": 2,
     "en": "Still, I will take the risk.",
-    "ko": ""
+    "ko": "그래도 해 봐야지."
    }
-  ]
+  ],
+  "to": null
  },
  {
   "id": 988,
@@ -138,7 +145,7 @@
    {
     "n": 1,
     "en": "The page moves away and hides.",
-    "ko": ""
+    "ko": "시동이 멀어져 숨는다."
    }
   ]
  },
@@ -156,34 +163,35 @@
    {
     "n": 1,
     "en": "Sweet flower, I scatter flowers on your wedding bed.",
-    "ko": ""
+    "ko": "꽃 같은 그대여, 그대의 신방에 꽃을 뿌리노라."
    },
    {
     "n": 2,
     "en": "Oh no, your canopy is only dust and stones.",
-    "ko": ""
+    "ko": "아아, 그대의 침대 덮개는 먼지와 돌뿐이구나."
    },
    {
     "n": 3,
     "en": "I will water it with sweet water every night.",
-    "ko": ""
+    "ko": "매일 밤 향긋한 물로 적셔 주리라."
    },
    {
     "n": 4,
     "en": "If I lack that, I will use tears from my crying.",
-    "ko": ""
+    "ko": "그 물이 없으면 내 눈물로 적시리라."
    },
    {
     "n": 5,
     "en": "Every night I will come to your grave.",
-    "ko": ""
+    "ko": "매일 밤 네 무덤으로 찾아가리라."
    },
    {
     "n": 6,
     "en": "I will scatter flowers on it and cry.",
-    "ko": ""
+    "ko": "꽃을 뿌리며 울어주마."
    }
-  ]
+  ],
+  "to": null
  },
  {
   "id": 990,
@@ -199,7 +207,7 @@
    {
     "n": 1,
     "en": "The Page whistles.",
-    "ko": ""
+    "ko": "시동이 휘파람을 분다."
    }
   ]
  },
@@ -217,29 +225,30 @@
    {
     "n": 1,
     "en": "The boy signals that something is coming.",
-    "ko": ""
+    "ko": "시동이 무언가 다가온다고 신호를 보내는구나."
    },
    {
     "n": 2,
     "en": "What cursed foot wanders this way tonight?",
-    "ko": ""
+    "ko": "오늘 밤 어떤 저주받은 발길이 이쪽으로 오는 거지?"
    },
    {
     "n": 3,
     "en": "It comes to interrupt my funeral rites and my ceremony of true love.",
-    "ko": ""
+    "ko": "내 장례 의식과 진실한 사랑의 예식을 방해하러 오는구나."
    },
    {
     "n": 4,
     "en": "What? It has a torch!",
-    "ko": ""
+    "ko": "뭐야? 횃불을 들었잖아!"
    },
    {
     "n": 5,
     "en": "Night, hide me for a while.",
-    "ko": ""
+    "ko": "밤아, 나를 잠시 숨겨다오."
    }
-  ]
+  ],
+  "to": null
  },
  {
   "id": 992,
@@ -255,7 +264,7 @@
    {
     "n": 1,
     "en": "Paris steps back and hides.",
-    "ko": ""
+    "ko": "패리스가 뒤로 물러나 몸을 숨긴다."
    }
   ]
  },
@@ -273,7 +282,7 @@
    {
     "n": 1,
     "en": "Romeo and Balthasar enter with a torch, a pickaxe and other tools.",
-    "ko": ""
+    "ko": "로미오와 발타자르가 횃불과 곡괭이, 그리고 다른 도구들을 들고 들어온다."
    }
   ]
  },
@@ -291,84 +300,85 @@
    {
     "n": 1,
     "en": "Give me that pickaxe and the crowbar.",
-    "ko": ""
+    "ko": "그 곡괭이와 쇠지렛대를 이리 다오."
    },
    {
     "n": 2,
     "en": "Wait, take this letter.",
-    "ko": ""
+    "ko": "잠깐, 이 편지를 받아라."
    },
    {
     "n": 3,
     "en": "Deliver it to my lord and father early in the morning.",
-    "ko": ""
+    "ko": "아침 일찍 우리 아버님께 전해라."
    },
    {
     "n": 4,
     "en": "Give me the light.",
-    "ko": ""
+    "ko": "불을 내게 넘겨라."
    },
    {
     "n": 5,
     "en": "I charge you on your life.",
-    "ko": ""
+    "ko": "네 목숨을 걸고 명한다."
    },
    {
     "n": 6,
     "en": "Whatever you hear or see, stay away.",
-    "ko": ""
+    "ko": "무엇이든 듣거나 보더라도 멀리 떨어져 있어라."
    },
    {
     "n": 7,
     "en": "Do not stop me from what I am doing.",
-    "ko": ""
+    "ko": "내가 하는 일을 방해하지 마라."
    },
    {
     "n": 8,
     "en": "I go into this bed of death partly to see my lady's face.",
-    "ko": ""
+    "ko": "이 죽음의 침대로 내려가는 건 한편으로는 내 아내의 얼굴을 보기 위해서다."
    },
    {
     "n": 9,
     "en": "But mostly I want to take a precious ring from her dead finger.",
-    "ko": ""
+    "ko": "하지만 무엇보다 그녀의 죽은 손가락에서 소중한 반지를 빼기 위해서다."
    },
    {
     "n": 10,
     "en": "I must use this ring for an important task.",
-    "ko": ""
+    "ko": "이 반지는 중요한 일에 써야만 한다."
    },
    {
     "n": 11,
     "en": "Therefore, go away now.",
-    "ko": ""
+    "ko": "그러니 이제 물러가라."
    },
    {
     "n": 12,
     "en": "You may be curious and try to find out what I plan to do next.",
-    "ko": ""
+    "ko": "혹시 궁금해서 내가 무엇을 하려는지 엿보려 할지도 모르겠다."
    },
    {
     "n": 13,
     "en": "If you do, I swear by heaven that I will tear you apart.",
-    "ko": ""
+    "ko": "그런다면 하늘에 맹세코 너를 갈기갈기 찢어"
    },
    {
     "n": 14,
     "en": "I will scatter your body parts across this hungry churchyard.",
-    "ko": ""
+    "ko": "이 굶주린 교회 마당에 뿌려 버리겠다."
    },
    {
     "n": 15,
     "en": "The time and my plans are wild.",
-    "ko": ""
+    "ko": "지금 이 시간도, 내 뜻도 사납다."
    },
    {
     "n": 16,
     "en": "They are much more fierce and unstoppable than hungry tigers or the roaring sea.",
-    "ko": ""
+    "ko": "그것들은 굶주린 호랑이나 포효하는 바다보다 훨씬 더 사납고 막을 수 없다."
    }
-  ]
+  ],
+  "to": "BALTHASAR"
  },
  {
   "id": 995,
@@ -384,7 +394,7 @@
    {
     "n": 1,
     "en": "I will leave now, sir, and not bother you.",
-    "ko": ""
+    "ko": "이제 물러가겠습니다, 주인님. 방해하지 않겠습니다."
    }
   ]
  },
@@ -402,17 +412,17 @@
    {
     "n": 1,
     "en": "That way you will show me friendship.",
-    "ko": ""
+    "ko": "그래야 네가 내게 우정을 보이는 거다."
    },
    {
     "n": 2,
     "en": "Take that.",
-    "ko": ""
+    "ko": "이걸 받아라."
    },
    {
     "n": 3,
     "en": "Live and be successful, and goodbye, good fellow.",
-    "ko": ""
+    "ko": "잘 살고 성공해라. 잘 있거라, 착한 친구야."
    }
   ]
  },
@@ -430,14 +440,15 @@
    {
     "n": 1,
     "en": "All the same, I will hide nearby.",
-    "ko": ""
+    "ko": "그래도 근처에 숨어 있어야겠다."
    },
    {
     "n": 2,
     "en": "I fear his look, and I doubt his intentions.",
-    "ko": ""
+    "ko": "주인님 눈빛이 무섭고, 무슨 생각을 하시는지 모르겠다."
    }
-  ]
+  ],
+  "to": null
  },
  {
   "id": 998,
@@ -453,7 +464,7 @@
    {
     "n": 1,
     "en": "Balthasar hides nearby.",
-    "ko": ""
+    "ko": "발타자르는 근처에 숨는다."
    }
   ]
  },
@@ -471,19 +482,20 @@
    {
     "n": 1,
     "en": "You hateful tomb, you hungry mouth of death!",
-    "ko": ""
+    "ko": "이 가증스러운 무덤아, 죽음의 굶주린 아가리야!"
    },
    {
     "n": 2,
     "en": "You have swallowed the most precious thing on earth.",
-    "ko": ""
+    "ko": "너는 세상에서 가장 소중한 것을 삼켜버렸다."
    },
    {
     "n": 3,
     "en": "I force your rotten jaws to open like this.",
-    "ko": ""
+    "ko": "네 썩은 턱을 이렇게 억지로 벌리마."
    }
-  ]
+  ],
+  "to": null
  },
  {
   "id": 1000,
@@ -499,7 +511,7 @@
    {
     "n": 1,
     "en": "Romeo breaks open the door of the tomb.",
-    "ko": ""
+    "ko": "로미오가 무덤 문을 부수고 들어간다."
    }
   ]
  },
@@ -517,9 +529,10 @@
    {
     "n": 1,
     "en": "And to spite you, I will fill you with more dead.",
-    "ko": ""
+    "ko": "너를 골려 주려고 더 많은 시체로 채워 주마."
    }
-  ]
+  ],
+  "to": null
  },
  {
   "id": 1002,
@@ -535,29 +548,30 @@
    {
     "n": 1,
     "en": "This is that banished and proud Montague.",
-    "ko": ""
+    "ko": "저건 추방당한 오만한 몬태규다."
    },
    {
     "n": 2,
     "en": "He murdered my love's cousin.",
-    "ko": ""
+    "ko": "내 사랑의 사촌을 죽인 자다."
    },
    {
     "n": 3,
     "en": "It is said that she died from that grief.",
-    "ko": ""
+    "ko": "그녀가 그 슬픔 때문에 죽었다고들 한다."
    },
    {
     "n": 4,
     "en": "He has come here to do something shameful to the dead bodies.",
-    "ko": ""
+    "ko": "저자가 시체들에게 욕된 짓을 하러 여기 왔구나."
    },
    {
     "n": 5,
     "en": "I will arrest him.",
-    "ko": ""
+    "ko": "저자를 체포하겠다."
    }
-  ]
+  ],
+  "to": null
  },
  {
   "id": 1003,
@@ -573,7 +587,7 @@
    {
     "n": 1,
     "en": "Paris steps forward.",
-    "ko": ""
+    "ko": "패리스가 앞으로 나선다."
    }
   ]
  },
@@ -591,22 +605,22 @@
    {
     "n": 1,
     "en": "Stop your unholy work, vile Montague.",
-    "ko": ""
+    "ko": "그 더러운 짓을 멈춰라, 비열한 몬태규."
    },
    {
     "n": 2,
     "en": "Can revenge be pursued further than death?",
-    "ko": ""
+    "ko": "죽은 뒤까지 복수를 할 셈이냐?"
    },
    {
     "n": 3,
     "en": "You condemned villain, I arrest you.",
-    "ko": ""
+    "ko": "사형을 선고받은 악당아, 너를 체포한다."
    },
    {
     "n": 4,
     "en": "Obey me and come with me, for you must die.",
-    "ko": ""
+    "ko": "순순히 따라와라, 너는 죽어야 한다."
    }
   ]
  },
@@ -624,52 +638,52 @@
    {
     "n": 1,
     "en": "Yes, I must die, and that is why I came here.",
-    "ko": ""
+    "ko": "그래, 나는 죽어야 한다. 그래서 여기 왔다."
    },
    {
     "n": 2,
     "en": "Good young man, do not push a desperate man.",
-    "ko": ""
+    "ko": "착한 젊은이, 절망한 사람을 건드리지 마라."
    },
    {
     "n": 3,
     "en": "Run away and leave me.",
-    "ko": ""
+    "ko": "달아나서 나를 내버려 둬라."
    },
    {
     "n": 4,
     "en": "Think about these dead people and let them frighten you.",
-    "ko": ""
+    "ko": "여기 죽은 이들을 생각하고 겁을 먹어라."
    },
    {
     "n": 5,
     "en": "I beg you, young man, do not add another sin to my head by making me angry.",
-    "ko": ""
+    "ko": "부탁이다, 젊은이, 나를 화나게 해서 내 머리에 죄를 하나 더 얹게 하지 마라."
    },
    {
     "n": 6,
     "en": "Please, go away.",
-    "ko": ""
+    "ko": "제발, 가거라."
    },
    {
     "n": 7,
     "en": "By heaven, I love you more than myself.",
-    "ko": ""
+    "ko": "하늘에 맹세코, 나는 나 자신보다 너를 더 아낀다."
    },
    {
     "n": 8,
     "en": "I came here armed against myself.",
-    "ko": ""
+    "ko": "나는 나 자신을 해치려고 무기를 들고 왔다."
    },
    {
     "n": 9,
     "en": "Do not stay; go away and live.",
-    "ko": ""
+    "ko": "머물지 말고, 가서 살아라."
    },
    {
     "n": 10,
     "en": "Later, tell others that a madman's mercy told you to run away.",
-    "ko": ""
+    "ko": "나중에, 미친 자가 자비를 베풀어 도망치라고 했다고 말해라."
    }
   ]
  },
@@ -687,7 +701,7 @@
    {
     "n": 1,
     "en": "I reject your pleading, and I arrest you as a criminal here.",
-    "ko": ""
+    "ko": "애원 따위는 필요 없다. 여기서 너를 죄인으로 체포하겠다."
    }
   ]
  },
@@ -705,12 +719,12 @@
    {
     "n": 1,
     "en": "Will you provoke me?",
-    "ko": ""
+    "ko": "끝내 나를 건드리겠다는 거냐?"
    },
    {
     "n": 2,
     "en": "Then come at me, boy!",
-    "ko": ""
+    "ko": "그럼 덤벼라, 애송이!"
    }
   ]
  },
@@ -728,7 +742,7 @@
    {
     "n": 1,
     "en": "They fight.",
-    "ko": ""
+    "ko": "그들이 싸운다."
    }
   ]
  },
@@ -746,14 +760,15 @@
    {
     "n": 1,
     "en": "Oh lord, they are fighting!",
-    "ko": ""
+    "ko": "세상에, 싸우고 있잖아!"
    },
    {
     "n": 2,
     "en": "I will go call the watch, the night guards.",
-    "ko": ""
+    "ko": "가서 야경꾼들을 불러와야겠다."
    }
-  ]
+  ],
+  "to": null
  },
  {
   "id": 1010,
@@ -781,7 +796,7 @@
    {
     "n": 1,
     "en": "Oh, I am killed!",
-    "ko": ""
+    "ko": "아, 내가 죽는구나!"
    }
   ]
  },
@@ -799,7 +814,7 @@
    {
     "n": 1,
     "en": "Paris falls.",
-    "ko": ""
+    "ko": "패리스가 쓰러진다."
    }
   ]
  },
@@ -817,12 +832,12 @@
    {
     "n": 1,
     "en": "If you are merciful, open the tomb.",
-    "ko": ""
+    "ko": "자비롭다면 무덤을 열어다오."
    },
    {
     "n": 2,
     "en": "Put me with Juliet.",
-    "ko": ""
+    "ko": "나를 줄리엣 곁에 묻어다오."
    }
   ]
  },
@@ -840,7 +855,7 @@
    {
     "n": 1,
     "en": "Paris dies.",
-    "ko": ""
+    "ko": "패리스가 죽는다."
    }
   ]
  },
@@ -858,67 +873,67 @@
    {
     "n": 1,
     "en": "I will do that. Let me look at this face.",
-    "ko": ""
+    "ko": "그렇게 하마. 이 얼굴을 좀 보자."
    },
    {
     "n": 2,
     "en": "Mercutio's relative, the noble Count Paris!",
-    "ko": ""
+    "ko": "머큐쇼의 친척, 고귀한 패리스 백작이구나!"
    },
    {
     "n": 3,
     "en": "What did my man say when my lost soul did not listen to him while we rode?",
-    "ko": ""
+    "ko": "말을 타고 오는 동안 넋이 나간 내가 귀담아듣지 않았는데, 내 하인이 뭐라고 했더라?"
    },
    {
     "n": 4,
     "en": "I think he told me Paris should have married Juliet.",
-    "ko": ""
+    "ko": "그는 패리스가 줄리엣과 결혼했어야 했다고 말했던 것 같다."
    },
    {
     "n": 5,
     "en": "Did he not say that, or did I dream it?",
-    "ko": ""
+    "ko": "그가 그렇게 말했나, 아니면 내가 꿈을 꾼 건가?"
    },
    {
     "n": 6,
     "en": "Or am I mad for hearing him talk of Juliet and thinking it was true?",
-    "ko": ""
+    "ko": "아니면 줄리엣에 대한 그의 말을 사실로 믿어버린 내가 미친 건가?"
    },
    {
     "n": 7,
     "en": "Give me your hand.",
-    "ko": ""
+    "ko": "네 손을 내게 다오."
    },
    {
     "n": 8,
     "en": "Your name is written with mine in the book of bad luck.",
-    "ko": ""
+    "ko": "불운의 책에 네 이름이 내 이름과 함께 적혀 있다."
    },
    {
     "n": 9,
     "en": "I will bury you in a triumphant grave.",
-    "ko": ""
+    "ko": "너를 영광스러운 무덤에 묻어 주마."
    },
    {
     "n": 10,
     "en": "A grave? Oh no, a lantern, murdered young man.",
-    "ko": ""
+    "ko": "무덤이라고? 아니, 등불이다, 살해당한 젊은이여."
    },
    {
     "n": 11,
     "en": "Juliet lies here.",
-    "ko": ""
+    "ko": "줄리엣이 여기 누워 있다."
    },
    {
     "n": 12,
     "en": "Her beauty makes this vault a party hall full of light.",
-    "ko": ""
+    "ko": "그녀의 아름다움이 이 묘실을 빛으로 가득한 잔칫집으로 만든다."
    },
    {
     "n": 13,
     "en": "Death, stay there, buried by a dead man.",
-    "ko": ""
+    "ko": "죽은 이여, 죽은 사람의 손에 묻혀 거기 누워 있어라."
    }
   ]
  },
@@ -936,7 +951,7 @@
    {
     "n": 1,
     "en": "Romeo lays Paris in the tomb.",
-    "ko": ""
+    "ko": "로미오가 무덤에 패리스를 눕힌다."
    }
   ]
  },
@@ -954,139 +969,140 @@
    {
     "n": 1,
     "en": "How often have men been happy at the moment of death!",
-    "ko": ""
+    "ko": "죽음의 순간에 행복을 맛본 이들이 얼마나 많았던가!"
    },
    {
     "n": 2,
     "en": "Their nurses call this a lightning before death.",
-    "ko": ""
+    "ko": "간병하는 사람들은 이걸 죽기 전의 번개라고 부르지."
    },
    {
     "n": 3,
     "en": "Oh, how can I call this a lightning?",
-    "ko": ""
+    "ko": "아, 이걸 어찌 번개라 부르겠나?"
    },
    {
     "n": 4,
     "en": "Oh my love, my wife, death has taken the honey from your breath.",
-    "ko": ""
+    "ko": "내 사랑, 내 아내여, 죽음이 당신 숨결의 꿀은 빨아 갔어도"
    },
    {
     "n": 5,
     "en": "But death has no power over your beauty yet.",
-    "ko": ""
+    "ko": "당신의 아름다움에는 아직 아무 힘도 쓰지 못했어."
    },
    {
     "n": 6,
     "en": "You are not conquered.",
-    "ko": ""
+    "ko": "당신은 정복되지 않았어."
    },
    {
     "n": 7,
     "en": "The sign of beauty is still red in your lips and cheeks.",
-    "ko": ""
+    "ko": "아름다움의 흔적이 당신의 입술과 뺨에 여전히 붉게 남아있어."
    },
    {
     "n": 8,
     "en": "Death's pale flag is not there.",
-    "ko": ""
+    "ko": "죽음의 창백한 깃발은 보이지 않아."
    },
    {
     "n": 9,
     "en": "Tybalt, do you lie there in your bloody sheet?",
-    "ko": ""
+    "ko": "티볼트, 너는 피 묻은 수의를 입고 저기 누워 있느냐?"
    },
    {
     "n": 10,
     "en": "Oh, what more can I do for you?",
-    "ko": ""
+    "ko": "아, 내가 너를 위해 무엇을 더 해 줄 수 있겠느냐?"
    },
    {
     "n": 11,
     "en": "I will use the same hand that cut your young life short to kill your enemy, myself.",
-    "ko": ""
+    "ko": "네 젊은 목숨을 끊은 바로 이 손으로 네 원수, 곧 나 자신을 죽이겠다."
    },
    {
     "n": 12,
     "en": "Forgive me, cousin.",
-    "ko": ""
+    "ko": "용서해라, 사촌."
    },
    {
     "n": 13,
     "en": "Ah, dear Juliet, why are you still so beautiful?",
-    "ko": ""
+    "ko": "아, 사랑하는 줄리엣, 당신은 왜 아직도 이렇게 아름다워?"
    },
    {
     "n": 14,
     "en": "Should I believe that shadowy death is in love with you?",
-    "ko": ""
+    "ko": "그림자 같은 죽음이 당신을 사랑한다고 믿어야 할까?"
    },
    {
     "n": 15,
     "en": "And that the thin, hated monster keeps you here in the dark as his lover?",
-    "ko": ""
+    "ko": "그 여위고 가증스러운 괴물이 당신을 애인 삼아 이 어둠 속에 붙잡아 둔다고?"
    },
    {
     "n": 16,
     "en": "Because of that fear, I will stay with you.",
-    "ko": ""
+    "ko": "그게 두려워서 나는 당신 곁에 있을 거야."
    },
    {
     "n": 17,
     "en": "I will never leave this palace of dark night.",
-    "ko": ""
+    "ko": "이 어두운 밤의 궁전을 절대 떠나지 않을 거야."
    },
    {
     "n": 18,
     "en": "Here, I will stay with the worms that are your maids.",
-    "ko": ""
+    "ko": "여기서 당신의 시녀인 벌레들과 함께 지낼 거야."
    },
    {
     "n": 19,
     "en": "Here I will rest forever.",
-    "ko": ""
+    "ko": "여기서 영원히 쉴 거야."
    },
    {
     "n": 20,
     "en": "I will shake the weight of unlucky stars from this tired body.",
-    "ko": ""
+    "ko": "이 지친 몸에서 불운한 별들의 무게를 털어내리라."
    },
    {
     "n": 21,
     "en": "Eyes, look for the last time.",
-    "ko": ""
+    "ko": "눈이여, 마지막으로 바라보아라."
    },
    {
     "n": 22,
     "en": "Arms, give your last embrace!",
-    "ko": ""
+    "ko": "팔아, 마지막으로 안아라!"
    },
    {
     "n": 23,
     "en": "And lips, oh you doors of breath, seal a deal with death with a holy kiss.",
-    "ko": ""
+    "ko": "그리고 입술아, 숨결의 문들아, 성스러운 입맞춤으로 죽음과 계약을 맺어라."
    },
    {
     "n": 24,
     "en": "It is a deal that never ends.",
-    "ko": ""
+    "ko": "그것은 결코 끝나지 않을 계약이다."
    },
    {
     "n": 25,
     "en": "Come, bitter poison, come, horrible guide.",
-    "ko": ""
+    "ko": "오라, 쓰디쓴 독약아, 오라, 끔찍한 인도자여."
    },
    {
     "n": 26,
     "en": "You desperate pilot, now crash my sea-sick, tired boat onto the rocks!",
-    "ko": ""
+    "ko": "무모한 뱃사공아, 이제 뱃멀미에 지친 내 배를 바위에 부딪쳐 부숴라!"
    },
    {
     "n": 27,
     "en": "Here is to my love!",
-    "ko": ""
+    "ko": "내 사랑을 위하여!"
    }
-  ]
+  ],
+  "to": null
  },
  {
   "id": 1018,
@@ -1102,7 +1118,7 @@
    {
     "n": 1,
     "en": "Romeo drinks.",
-    "ko": ""
+    "ko": "로미오가 약을 마신다."
    }
   ]
  },
@@ -1120,14 +1136,15 @@
    {
     "n": 1,
     "en": "Oh, honest apothecary, your drugs work quickly.",
-    "ko": ""
+    "ko": "오, 정직한 약제사여, 약효가 참 빠르구나."
    },
    {
     "n": 2,
     "en": "So, with a kiss, I die.",
-    "ko": ""
+    "ko": "이렇게, 입맞춤과 함께 나는 죽는다."
    }
-  ]
+  ],
+  "to": null
  },
  {
   "id": 1020,
@@ -1143,7 +1160,7 @@
    {
     "n": 1,
     "en": "Romeo dies.",
-    "ko": ""
+    "ko": "로미오가 죽는다."
    }
   ]
  },
@@ -1161,12 +1178,12 @@
    {
     "n": 1,
     "en": "Friar Lawrence enters at the other end of the churchyard.",
-    "ko": ""
+    "ko": "로런스 신부가 교회 마당 반대편에서 들어온다."
    },
    {
     "n": 2,
     "en": "He carries a lantern, a crowbar, and a spade.",
-    "ko": ""
+    "ko": "그는 등불과 지렛대, 그리고 삽을 들고 있다."
    }
   ]
  },
@@ -1184,24 +1201,26 @@
    {
     "n": 1,
     "en": "May Saint Francis help me move quickly.",
-    "ko": ""
+    "ko": "성 프란치스코여, 제 발걸음을 서두르게 도와주소서."
    },
    {
     "n": 2,
     "en": "How many times tonight have my old feet tripped over graves?",
-    "ko": ""
+    "ko": "오늘 밤 이 늙은 발이 무덤에 몇 번이나 걸려 넘어졌던가?"
    },
    {
     "n": 3,
     "en": "Who is there?",
-    "ko": ""
+    "ko": "거기 누구냐?"
    },
    {
     "n": 4,
     "en": "Who is with the dead so late?",
-    "ko": ""
+    "ko": "이 밤늦게 죽은 이들 곁에 있는 자가 누구냐?"
    }
-  ]
+  ],
+  "to": null,
+  "level": "any"
  },
  {
   "id": 1023,
@@ -1217,7 +1236,7 @@
    {
     "n": 1,
     "en": "Here is someone, a friend who knows you well.",
-    "ko": ""
+    "ko": "여기 있습니다. 신부님을 잘 아는 친구입니다."
    }
   ]
  },
@@ -1235,22 +1254,22 @@
    {
     "n": 1,
     "en": "God bless you.",
-    "ko": ""
+    "ko": "하나님의 축복이 있기를."
    },
    {
     "n": 2,
     "en": "Tell me, my friend, what torch is that over there?",
-    "ko": ""
+    "ko": "말해 다오, 친구여, 저기 저 횃불은 무엇이냐?"
    },
    {
     "n": 3,
     "en": "It uselessly gives light to worms and eyeless skulls.",
-    "ko": ""
+    "ko": "벌레와 눈 없는 해골에게 헛되이 빛을 비추고 있구나."
    },
    {
     "n": 4,
     "en": "I see it burning in the Capulets' tomb.",
-    "ko": ""
+    "ko": "캐퓰릿의 무덤에서 타오르는 게 보이는군."
    }
   ]
  },
@@ -1268,7 +1287,7 @@
    {
     "n": 1,
     "en": "It does, holy sir, and there is my master, someone you love.",
-    "ko": ""
+    "ko": "그렇습니다, 신부님. 저기 신부님이 아끼시는 제 주인님이 계십니다."
    }
   ]
  },
@@ -1286,7 +1305,7 @@
    {
     "n": 1,
     "en": "Who is it?",
-    "ko": ""
+    "ko": "누구냐?"
    }
   ]
  },
@@ -1304,7 +1323,7 @@
    {
     "n": 1,
     "en": "Romeo.",
-    "ko": ""
+    "ko": "로미오입니다."
    }
   ]
  },
@@ -1322,7 +1341,7 @@
    {
     "n": 1,
     "en": "How long has he been there?",
-    "ko": ""
+    "ko": "거기 들어간 지 얼마나 되었느냐?"
    }
   ]
  },
@@ -1340,7 +1359,7 @@
    {
     "n": 1,
     "en": "For half an hour.",
-    "ko": ""
+    "ko": "30분 정도 되었습니다."
    }
   ]
  },
@@ -1358,7 +1377,7 @@
    {
     "n": 1,
     "en": "Go with me to the vault.",
-    "ko": ""
+    "ko": "나와 함께 지하 묘실로 가자."
    }
   ]
  },
@@ -1376,17 +1395,17 @@
    {
     "n": 1,
     "en": "I do not dare, sir.",
-    "ko": ""
+    "ko": "감히 그럴 수 없습니다, 신부님."
    },
    {
     "n": 2,
     "en": "My master thinks I have gone away.",
-    "ko": ""
+    "ko": "주인님은 제가 떠난 줄 알고 계십니다."
    },
    {
     "n": 3,
     "en": "He threatened to kill me if I stayed to watch what he was doing.",
-    "ko": ""
+    "ko": "주인님이 하시는 일을 지켜보려고 남으면 죽이겠다고 하셨습니다."
    }
   ]
  },
@@ -1404,17 +1423,17 @@
    {
     "n": 1,
     "en": "Stay then, I will go alone.",
-    "ko": ""
+    "ko": "그럼 너는 남고, 내가 혼자 가겠다."
    },
    {
     "n": 2,
     "en": "Fear comes over me.",
-    "ko": ""
+    "ko": "두려움이 밀려오는구나."
    },
    {
     "n": 3,
     "en": "I am afraid something terrible has happened.",
-    "ko": ""
+    "ko": "무언가 끔찍한 일이 일어난 것 같아 걱정된다."
    }
   ]
  },
@@ -1432,12 +1451,12 @@
    {
     "n": 1,
     "en": "While I slept under this yew tree, I dreamed my master and another person fought.",
-    "ko": ""
+    "ko": "이 주목나무 아래에서 잠들었을 때, 주인님과 다른 사람이 싸우는 꿈을 꾸었습니다."
    },
    {
     "n": 2,
     "en": "In my dream, my master killed him.",
-    "ko": ""
+    "ko": "꿈속에서 주인님이 그 사람을 죽였습니다."
    }
   ]
  },
@@ -1455,7 +1474,7 @@
    {
     "n": 1,
     "en": "Romeo!",
-    "ko": ""
+    "ko": "로미오!"
    }
   ]
  },
@@ -1473,7 +1492,7 @@
    {
     "n": 1,
     "en": "Friar Lawrence moves forward.",
-    "ko": ""
+    "ko": "로런스 신부가 앞으로 나아간다."
    }
   ]
  },
@@ -1491,24 +1510,25 @@
    {
     "n": 1,
     "en": "Oh no, oh no.",
-    "ko": ""
+    "ko": "안 돼, 안 돼."
    },
    {
     "n": 2,
     "en": "What blood is this?",
-    "ko": ""
+    "ko": "이 피는 뭐지?"
    },
    {
     "n": 3,
     "en": "It stains the stone entrance of this tomb.",
-    "ko": ""
+    "ko": "무덤 입구 돌에 피가 묻어 있다."
    },
    {
     "n": 4,
     "en": "Why do these bloody swords lie here, without their owners, in this place of peace?",
-    "ko": ""
+    "ko": "평화로운 이곳에 왜 주인도 없는 피 묻은 칼들이 놓여 있는 거지?"
    }
-  ]
+  ],
+  "to": null
  },
  {
   "id": 1037,
@@ -1524,7 +1544,7 @@
    {
     "n": 1,
     "en": "Friar Lawrence enters the family tomb.",
-    "ko": ""
+    "ko": "로런스 신부가 가문의 무덤으로 들어간다."
    }
   ]
  },
@@ -1542,29 +1562,30 @@
    {
     "n": 1,
     "en": "Romeo! Oh, he is pale!",
-    "ko": ""
+    "ko": "로미오! 오, 얼굴이 창백해!"
    },
    {
     "n": 2,
     "en": "Who else? Is it Paris too?",
-    "ko": ""
+    "ko": "또 누구지? 패리스도 여기 있는 건가?"
    },
    {
     "n": 3,
     "en": "Are they both covered in blood?",
-    "ko": ""
+    "ko": "둘 다 피로 뒤덮여 있나?"
    },
    {
     "n": 4,
     "en": "What cruel hour caused this sad event?",
-    "ko": ""
+    "ko": "어떤 잔인한 시간이 이 슬픈 일을 불러왔단 말인가?"
    },
    {
     "n": 5,
     "en": "The lady is waking.",
-    "ko": ""
+    "ko": "아가씨가 깨어나는구나."
    }
-  ]
+  ],
+  "to": null
  },
  {
   "id": 1039,
@@ -1580,7 +1601,7 @@
    {
     "n": 1,
     "en": "Juliet wakes and moves.",
-    "ko": ""
+    "ko": "줄리엣이 깨어나 움직인다."
    }
   ]
  },
@@ -1598,27 +1619,27 @@
    {
     "n": 1,
     "en": "Dear Friar!",
-    "ko": ""
+    "ko": "신부님!"
    },
    {
     "n": 2,
     "en": "Where is my lord?",
-    "ko": ""
+    "ko": "제 남편은 어디 있어요?"
    },
    {
     "n": 3,
     "en": "I remember well where I should be.",
-    "ko": ""
+    "ko": "제가 어디에 있어야 하는지 잘 기억해요."
    },
    {
     "n": 4,
     "en": "And I am there.",
-    "ko": ""
+    "ko": "그리고 저는 그곳에 있어요."
    },
    {
     "n": 5,
     "en": "Where is my Romeo?",
-    "ko": ""
+    "ko": "제 로미오는 어디 있어요?"
    }
   ]
  },
@@ -1636,7 +1657,7 @@
    {
     "n": 1,
     "en": "There is a noise nearby.",
-    "ko": ""
+    "ko": "근처에서 소리가 들린다."
    }
   ]
  },
@@ -1654,37 +1675,37 @@
    {
     "n": 1,
     "en": "I hear some noise.",
-    "ko": ""
+    "ko": "소리가 들리는구나."
    },
    {
     "n": 2,
     "en": "My lady, come out from that nest of death, sickness, and unnatural sleep.",
-    "ko": ""
+    "ko": "아가씨, 죽음과 병과 부자연스러운 잠의 둥지에서 나오너라."
    },
    {
     "n": 3,
     "en": "A greater power than we can resist has stopped our plans, so come, let us leave now.",
-    "ko": ""
+    "ko": "우리가 맞설 수 없는 더 큰 힘이 우리 계획을 막았으니, 자, 어서 떠나자."
    },
    {
     "n": 4,
     "en": "Your husband lies dead in your arms and Paris is also dead.",
-    "ko": ""
+    "ko": "네 남편은 네 품에 죽어 있고, 패리스도 죽었다."
    },
    {
     "n": 5,
     "en": "Come, I will take you to a group of holy nuns.",
-    "ko": ""
+    "ko": "자, 너를 거룩한 수녀들에게 데려다주마."
    },
    {
     "n": 6,
     "en": "Do not stop to ask questions because the guards are coming.",
-    "ko": ""
+    "ko": "야경꾼들이 오고 있으니 멈춰서 묻지 마라."
    },
    {
     "n": 7,
     "en": "Come, go, good Juliet, as I dare not stay any longer.",
-    "ko": ""
+    "ko": "자, 가자, 착한 줄리엣. 나는 더 머무를 수가 없구나."
    }
   ]
  },
@@ -1702,7 +1723,7 @@
    {
     "n": 1,
     "en": "Go away now, for I will not leave.",
-    "ko": ""
+    "ko": "가세요. 저는 여기를 떠나지 않을 거예요."
    }
   ]
  },
@@ -1732,44 +1753,45 @@
    {
     "n": 1,
     "en": "What is here?",
-    "ko": ""
+    "ko": "이게 뭐지?"
    },
    {
     "n": 2,
     "en": "Is this a cup in my true love's hand?",
-    "ko": ""
+    "ko": "내 사랑의 손에 잔이?"
    },
    {
     "n": 3,
     "en": "I see that poison was his final end.",
-    "ko": ""
+    "ko": "독약이 그의 마지막이었구나."
    },
    {
     "n": 4,
     "en": "You greedy thing!",
-    "ko": ""
+    "ko": "욕심쟁이!"
    },
    {
     "n": 5,
     "en": "You drank everything and left no drop for me to drink after you.",
-    "ko": ""
+    "ko": "당신이 다 마셔 버리고 나 마시라고 한 방울도 안 남겼구나."
    },
    {
     "n": 6,
     "en": "I will kiss your lips.",
-    "ko": ""
+    "ko": "당신 입술에 입 맞출래."
    },
    {
     "n": 7,
     "en": "Perhaps some poison is still on them.",
-    "ko": ""
+    "ko": "아직 독이 남아 있을지도 모른다."
    },
    {
     "n": 8,
     "en": "It might let me die, and cure my pain.",
-    "ko": ""
+    "ko": "그 독이 나를 죽게 해서 이 고통을 끝내 줄지도 몰라."
    }
-  ]
+  ],
+  "to": null
  },
  {
   "id": 1046,
@@ -1785,7 +1807,7 @@
    {
     "n": 1,
     "en": "Juliet kisses him.",
-    "ko": ""
+    "ko": "줄리엣이 그에게 키스한다."
    }
   ]
  },
@@ -1803,9 +1825,10 @@
    {
     "n": 1,
     "en": "Your lips are warm!",
-    "ko": ""
+    "ko": "당신 입술이 따뜻해!"
    }
-  ]
+  ],
+  "to": null
  },
  {
   "id": 1048,
@@ -1821,14 +1844,15 @@
    {
     "n": 1,
     "en": "Lead the way, boy.",
-    "ko": ""
+    "ko": "앞장서라, 얘야."
    },
    {
     "n": 2,
     "en": "Which way?",
-    "ko": ""
+    "ko": "어느 쪽이냐?"
    }
-  ]
+  ],
+  "to": "PAGE"
  },
  {
   "id": 1049,
@@ -1844,9 +1868,10 @@
    {
     "n": 1,
     "en": "What, a noise? Then I will be quick. Oh, happy dagger!",
-    "ko": ""
+    "ko": "뭐지, 소리가? 그럼 서둘러야겠다. 오, 반가운 단검아!"
    }
-  ]
+  ],
+  "to": null
  },
  {
   "id": 1050,
@@ -1862,7 +1887,7 @@
    {
     "n": 1,
     "en": "Juliet grabs Romeo's dagger.",
-    "ko": ""
+    "ko": "줄리엣이 로미오의 단검을 잡는다."
    }
   ]
  },
@@ -1880,9 +1905,10 @@
    {
     "n": 1,
     "en": "My body is your sheath now.",
-    "ko": ""
+    "ko": "이제 내 몸이 네 칼집이다."
    }
-  ]
+  ],
+  "to": null
  },
  {
   "id": 1052,
@@ -1898,7 +1924,7 @@
    {
     "n": 1,
     "en": "Juliet stabs herself.",
-    "ko": ""
+    "ko": "줄리엣이 자신을 찌른다."
    }
   ]
  },
@@ -1916,9 +1942,10 @@
    {
     "n": 1,
     "en": "Rest there, and let me die.",
-    "ko": ""
+    "ko": "거기 머물러라, 그리고 나를 죽게 해 다오."
    }
-  ]
+  ],
+  "to": null
  },
  {
   "id": 1054,
@@ -1934,7 +1961,7 @@
    {
     "n": 1,
     "en": "Juliet falls on Romeo's body and dies.",
-    "ko": ""
+    "ko": "줄리엣이 로미오의 몸 위로 쓰러지며 숨을 거둔다."
    }
   ]
  },
@@ -1952,7 +1979,7 @@
    {
     "n": 1,
     "en": "The watchmen enter with Paris's page.",
-    "ko": ""
+    "ko": "야경꾼들이 패리스의 시동과 함께 들어온다."
    }
   ]
  },
@@ -1970,14 +1997,16 @@
    {
     "n": 1,
     "en": "This is the place.",
-    "ko": ""
+    "ko": "이곳입니다."
    },
    {
     "n": 2,
     "en": "It is there, where the torch burns.",
-    "ko": ""
+    "ko": "횃불이 타오르는 저곳입니다."
    }
-  ]
+  ],
+  "to": "FIRST WATCH",
+  "level": "any"
  },
  {
   "id": 1057,
@@ -1993,17 +2022,17 @@
    {
     "n": 1,
     "en": "The ground is bloody.",
-    "ko": ""
+    "ko": "바닥이 피투성이다."
    },
    {
     "n": 2,
     "en": "Search around the churchyard.",
-    "ko": ""
+    "ko": "교회 마당을 샅샅이 뒤져라."
    },
    {
     "n": 3,
     "en": "Go, some of you, and arrest whoever you find.",
-    "ko": ""
+    "ko": "몇은 가서, 누구든 보이는 대로 붙잡아라."
    }
   ]
  },
@@ -2021,7 +2050,7 @@
    {
     "n": 1,
     "en": "Some of the watchmen leave.",
-    "ko": ""
+    "ko": "일부 야경꾼들이 떠난다."
    }
   ]
  },
@@ -2039,27 +2068,27 @@
    {
     "n": 1,
     "en": "What a sad sight! The Count lies here killed.",
-    "ko": ""
+    "ko": "참혹한 광경이다! 백작님이 여기 살해되어 쓰러져 계신다."
    },
    {
     "n": 2,
     "en": "Juliet is bleeding and warm, and she is newly dead.",
-    "ko": ""
+    "ko": "줄리엣은 피를 흘리며 아직 따뜻하다. 방금 숨을 거두었다."
    },
    {
     "n": 3,
     "en": "She has been buried here for two days.",
-    "ko": ""
+    "ko": "그 아가씨는 이틀 전에 여기 묻혔는데."
    },
    {
     "n": 4,
     "en": "Go tell the Prince, run to the Capulets, and wake up the Montagues.",
-    "ko": ""
+    "ko": "가서 영주님께 알려라. 캐퓰릿 댁으로 달려가고, 몬태규 댁 사람들도 깨워라."
    },
    {
     "n": 5,
     "en": "Some others search the area.",
-    "ko": ""
+    "ko": "나머지는 주변을 수색해라."
    }
   ]
  },
@@ -2077,7 +2106,7 @@
    {
     "n": 1,
     "en": "Other watchmen leave.",
-    "ko": ""
+    "ko": "다른 야경꾼들이 떠난다."
    }
   ]
  },
@@ -2095,17 +2124,17 @@
    {
     "n": 1,
     "en": "We see the ground where these tragedies happen.",
-    "ko": ""
+    "ko": "이 비극이 벌어진 땅은 보이지만"
    },
    {
     "n": 2,
     "en": "But we cannot see the real reason for all this sadness.",
-    "ko": ""
+    "ko": "이 모든 슬픔의 진짜 이유는 보이지 않는다."
    },
    {
     "n": 3,
     "en": "We cannot know the cause without more information.",
-    "ko": ""
+    "ko": "더 많은 정보 없이는 그 원인을 알 길이 없다."
    }
   ]
  },
@@ -2123,7 +2152,7 @@
    {
     "n": 1,
     "en": "Some watchmen come back with Balthasar.",
-    "ko": ""
+    "ko": "몇몇 야경꾼들이 발타자르와 함께 돌아온다."
    }
   ]
  },
@@ -2141,12 +2170,12 @@
    {
     "n": 1,
     "en": "Here is Romeo's man.",
-    "ko": ""
+    "ko": "로미오의 하인을 데려왔어."
    },
    {
     "n": 2,
     "en": "We found him in the churchyard.",
-    "ko": ""
+    "ko": "교회 마당에서 그를 찾아냈어."
    }
   ]
  },
@@ -2164,7 +2193,7 @@
    {
     "n": 1,
     "en": "Keep him safe until the Prince comes here.",
-    "ko": ""
+    "ko": "영주님이 오실 때까지 잘 붙잡아 둬."
    }
   ]
  },
@@ -2182,7 +2211,7 @@
    {
     "n": 1,
     "en": "Other watchmen come back with Friar Lawrence.",
-    "ko": ""
+    "ko": "다른 야경꾼들이 로런스 신부를 데리고 돌아온다."
    }
   ]
  },
@@ -2200,17 +2229,17 @@
    {
     "n": 1,
     "en": "Here is a friar who trembles, sighs, and cries.",
-    "ko": ""
+    "ko": "벌벌 떨고 한숨 쉬며 우는 신부를 데려왔어."
    },
    {
     "n": 2,
     "en": "We took this pickaxe and this spade from him.",
-    "ko": ""
+    "ko": "이 사람한테서 곡괭이와 삽을 빼앗았어."
    },
    {
     "n": 3,
     "en": "He was coming from this side of the churchyard.",
-    "ko": ""
+    "ko": "교회 마당 이쪽에서 오고 있었어."
    }
   ]
  },
@@ -2228,12 +2257,12 @@
    {
     "n": 1,
     "en": "This is very suspicious.",
-    "ko": ""
+    "ko": "이건 매우 수상해."
    },
    {
     "n": 2,
     "en": "Keep the friar here too.",
-    "ko": ""
+    "ko": "신부도 여기 붙잡아 둬."
    }
   ]
  },
@@ -2251,7 +2280,7 @@
    {
     "n": 1,
     "en": "The Prince and his attendants enter.",
-    "ko": ""
+    "ko": "영주와 수행원들이 들어온다."
    }
   ]
  },
@@ -2269,7 +2298,7 @@
    {
     "n": 1,
     "en": "What disaster is up so early, that it calls me from my morning rest?",
-    "ko": ""
+    "ko": "무슨 재앙이 이리 일찍 일어나 내 아침잠을 깨우느냐?"
    }
   ]
  },
@@ -2287,7 +2316,7 @@
    {
     "n": 1,
     "en": "Capulet, Lady Capulet, and others enter.",
-    "ko": ""
+    "ko": "캐퓰릿, 캐퓰릿 부인, 그리고 다른 이들이 들어온다."
    }
   ]
  },
@@ -2305,9 +2334,11 @@
    {
     "n": 1,
     "en": "Why are they screaming outside?",
-    "ko": ""
+    "ko": "밖에서 왜들 저리 소리를 지르는 거요?"
    }
-  ]
+  ],
+  "to": "LADY CAPULET",
+  "level": "any"
  },
  {
   "id": 1072,
@@ -2323,12 +2354,12 @@
    {
     "n": 1,
     "en": "The people in the street are crying out, some shouting Romeo, some Juliet, and some Paris.",
-    "ko": ""
+    "ko": "거리의 사람들이 울부짖고 있어요. 어떤 이들은 로미오, 어떤 이들은 줄리엣, 또 어떤 이들은 패리스를 외치고 있고요."
    },
    {
     "n": 2,
     "en": "They all run toward our family tomb with loud cries.",
-    "ko": ""
+    "ko": "그들이 모두 큰 소리를 지르며 우리 가문의 무덤으로 달려가고 있어요."
    }
   ]
  },
@@ -2346,7 +2377,7 @@
    {
     "n": 1,
     "en": "What fear is this that startles our ears?",
-    "ko": ""
+    "ko": "우리 귀를 놀라게 하는 이 두려운 소리는 무엇이냐?"
    }
   ]
  },
@@ -2364,17 +2395,17 @@
    {
     "n": 1,
     "en": "Your Highness, Count Paris lies here killed.",
-    "ko": ""
+    "ko": "영주님, 패리스 백작님이 여기 살해되어 쓰러져 계십니다."
    },
    {
     "n": 2,
     "en": "Romeo is dead too.",
-    "ko": ""
+    "ko": "로미오도 죽었습니다."
    },
    {
     "n": 3,
     "en": "And Juliet, who was dead before, is warm and newly killed.",
-    "ko": ""
+    "ko": "그리고 전에 죽었던 줄리엣이 아직 따뜻한 채로 방금 목숨을 잃었습니다."
    }
   ]
  },
@@ -2392,7 +2423,7 @@
    {
     "n": 1,
     "en": "Search and find out how this terrible murder happened.",
-    "ko": ""
+    "ko": "조사해서 이 끔찍한 살인 사건이 어떻게 일어났는지 알아내라."
    }
   ]
  },
@@ -2410,12 +2441,12 @@
    {
     "n": 1,
     "en": "Here is a friar, and the servant of murdered Romeo.",
-    "ko": ""
+    "ko": "여기 신부 한 사람과 살해된 로미오의 하인이 있습니다."
    },
    {
     "n": 2,
     "en": "They have tools fit to open these dead men's tombs.",
-    "ko": ""
+    "ko": "이 무덤들을 열 만한 도구를 가지고 있었습니다."
    }
   ]
  },
@@ -2433,29 +2464,31 @@
    {
     "n": 1,
     "en": "Oh heaven!",
-    "ko": ""
+    "ko": "오, 하늘이시여!"
    },
    {
     "n": 2,
     "en": "My wife, look how our daughter bleeds!",
-    "ko": ""
+    "ko": "부인, 우리 딸이 피 흘리는 걸 보시오!"
    },
    {
     "n": 3,
     "en": "This dagger went to the wrong place.",
-    "ko": ""
+    "ko": "이 단검이 자리를 잘못 찾았구려."
    },
    {
     "n": 4,
     "en": "Look, its sheath hangs empty on the back of Montague's son.",
-    "ko": ""
+    "ko": "보시오, 칼집은 몬태규 아들의 등에 빈 채로 매달려 있는데"
    },
    {
     "n": 5,
     "en": "Instead, it is sheathed in my daughter's chest.",
-    "ko": ""
+    "ko": "단검은 내 딸의 가슴에 꽂혀 있소."
    }
-  ]
+  ],
+  "to": "LADY CAPULET",
+  "level": "any"
  },
  {
   "id": 1078,
@@ -2471,17 +2504,17 @@
    {
     "n": 1,
     "en": "Oh me!",
-    "ko": ""
+    "ko": "아이고!"
    },
    {
     "n": 2,
     "en": "This sight of death is like a bell.",
-    "ko": ""
+    "ko": "이 죽음의 광경이 종소리 같아요."
    },
    {
     "n": 3,
     "en": "It warns me that my old age is near the tomb.",
-    "ko": ""
+    "ko": "내 늙은 몸이 무덤 가까이 왔다고 알리는 것 같아요."
    }
   ]
  },
@@ -2499,7 +2532,7 @@
    {
     "n": 1,
     "en": "Montague and others enter.",
-    "ko": ""
+    "ko": "몬태규와 다른 이들이 들어온다."
    }
   ]
  },
@@ -2517,14 +2550,15 @@
    {
     "n": 1,
     "en": "Come, Montague.",
-    "ko": ""
+    "ko": "이리 오시오, 몬태규."
    },
    {
     "n": 2,
     "en": "You are up early, to see your son and heir laid down even earlier.",
-    "ko": ""
+    "ko": "그대는 일찍 일어났구려, 아들이자 후계자가 더 일찍 눕는 것을 보려고."
    }
-  ]
+  ],
+  "to": "MONTAGUE"
  },
  {
   "id": 1081,
@@ -2540,22 +2574,22 @@
    {
     "n": 1,
     "en": "Alas, my lord.",
-    "ko": ""
+    "ko": "아아, 영주님."
    },
    {
     "n": 2,
     "en": "My wife died tonight.",
-    "ko": ""
+    "ko": "제 부인이 오늘 밤 세상을 떠났습니다."
    },
    {
     "n": 3,
     "en": "The grief of my son's exile stopped her breath.",
-    "ko": ""
+    "ko": "아들의 추방으로 인한 슬픔이 그녀의 숨을 멎게 했습니다."
    },
    {
     "n": 4,
     "en": "What other sadness will happen to me in my old age?",
-    "ko": ""
+    "ko": "노년에 저에게 또 어떤 슬픔이 닥치겠습니까?"
    }
   ]
  },
@@ -2573,7 +2607,7 @@
    {
     "n": 1,
     "en": "Look, and you will see.",
-    "ko": ""
+    "ko": "보시오, 그러면 알게 될 것이오."
    }
   ]
  },
@@ -2591,14 +2625,16 @@
    {
     "n": 1,
     "en": "Oh, you bad-mannered boy!",
-    "ko": ""
+    "ko": "오, 이 버릇없는 녀석아!"
    },
    {
     "n": 2,
     "en": "Where are your manners, rushing to the grave before your father?",
-    "ko": ""
+    "ko": "아비보다 먼저 무덤으로 달려가다니, 그런 법이 어디 있느냐?"
    }
-  ]
+  ],
+  "to": null,
+  "level": "any"
  },
  {
   "id": 1084,
@@ -2614,27 +2650,27 @@
    {
     "n": 1,
     "en": "Stop all shouting for a moment because we need to clear up these confusing facts.",
-    "ko": ""
+    "ko": "잠시 모두 소리를 멈춰라. 이 뒤엉킨 사실들을 밝혀야 한다."
    },
    {
     "n": 2,
     "en": "We must find the source and the cause of this crime.",
-    "ko": ""
+    "ko": "이 범죄의 근원과 원인을 찾아야 한다."
    },
    {
     "n": 3,
     "en": "Then I will lead you in your mourning, even to death.",
-    "ko": ""
+    "ko": "그 후에 내가 너희의 슬픔을 이끌겠다. 죽음에 이르기까지라도."
    },
    {
     "n": 4,
     "en": "In the meantime, be patient and let patience control this bad luck.",
-    "ko": ""
+    "ko": "그동안은 참고, 인내로 이 불운을 다스려라."
    },
    {
     "n": 5,
     "en": "Bring out the suspects.",
-    "ko": ""
+    "ko": "용의자들을 데려와라."
    }
   ]
  },
@@ -2652,17 +2688,17 @@
    {
     "n": 1,
     "en": "I am the most suspected, though I was able to do the least.",
-    "ko": ""
+    "ko": "제가 한 일은 가장 적은데도, 가장 의심을 받습니다."
    },
    {
     "n": 2,
     "en": "The time and place make me look guilty of this terrible murder.",
-    "ko": ""
+    "ko": "시간과 장소로 보아 제가 이 끔찍한 살인에 가담한 것처럼 보입니다."
    },
    {
     "n": 3,
     "en": "I stand here both to accuse myself and to explain myself.",
-    "ko": ""
+    "ko": "저 자신을 고발하고, 또 해명하기 위해 여기 섰습니다."
    }
   ]
  },
@@ -2680,7 +2716,7 @@
    {
     "n": 1,
     "en": "Then tell me at once what you know about this.",
-    "ko": ""
+    "ko": "그럼 그대가 아는 것을 당장 말하라."
    }
   ]
  },
@@ -2698,127 +2734,127 @@
    {
     "n": 1,
     "en": "I will be brief, because my short life is not long enough for a boring story.",
-    "ko": ""
+    "ko": "제게 남은 짧은 생은 지루한 이야기를 할 만큼 길지 않으니, 짧게 말씀드리겠습니다."
    },
    {
     "n": 2,
     "en": "Romeo, dead there, was the husband of that Juliet, and she, dead there, was Romeo's faithful wife.",
-    "ko": ""
+    "ko": "저기 죽어 있는 로미오는 저 줄리엣의 남편이었고, 저기 죽은 줄리엣은 로미오의 충실한 아내였습니다."
    },
    {
     "n": 3,
     "en": "I married them, and their secret wedding day was Tybalt's last day.",
-    "ko": ""
+    "ko": "제가 두 사람을 결혼시켰으며, 그들의 비밀스러운 결혼식 날이 바로 티볼트가 죽은 날이었습니다."
    },
    {
     "n": 4,
     "en": "His early death forced the new groom to leave this city.",
-    "ko": ""
+    "ko": "티볼트의 때 이른 죽음 때문에 새신랑은 이 도시를 떠나야 했습니다."
    },
    {
     "n": 5,
     "en": "Juliet grieved for him, not for Tybalt.",
-    "ko": ""
+    "ko": "줄리엣은 티볼트가 아니라 그를 위해 슬퍼했습니다."
    },
    {
     "n": 6,
     "en": "To cure her grief, you promised her to Count Paris and would have forced her to marry him.",
-    "ko": ""
+    "ko": "그 슬픔을 달래려고 캐퓰릿 경께서 따님을 패리스 백작과 약혼시키고 억지로 결혼시키려 하셨습니다."
    },
    {
     "n": 7,
     "en": "Then she came to me with a wild look.",
-    "ko": ""
+    "ko": "그러자 그녀가 몹시 괴로워하며 저를 찾아왔습니다."
    },
    {
     "n": 8,
     "en": "She asked me to find a way to stop this second marriage.",
-    "ko": ""
+    "ko": "그녀는 이 두 번째 결혼을 막을 방법을 찾아달라고 요청했습니다."
    },
    {
     "n": 9,
     "en": "She said she would kill herself in my cell if I did not help.",
-    "ko": ""
+    "ko": "도와주지 않으면 제 수도실에서 자결하겠다고 말했습니다."
    },
    {
     "n": 10,
     "en": "Then, using my knowledge of plants, I gave her a sleeping potion that worked exactly as I planned.",
-    "ko": ""
+    "ko": "그래서 저는 약초에 대한 지식으로 잠드는 약을 주었고, 약은 제 뜻대로 정확히 들었습니다."
    },
    {
     "n": 11,
     "en": "It made her look like death while I wrote to Romeo.",
-    "ko": ""
+    "ko": "그 약 덕분에 제가 로미오에게 편지를 쓰는 동안 그녀는 죽은 것처럼 보였습니다."
    },
    {
     "n": 12,
     "en": "I told him to come here tonight.",
-    "ko": ""
+    "ko": "저는 그에게 오늘 밤 이곳으로 오라고 말했습니다."
    },
    {
     "n": 13,
     "en": "He was to take her from her borrowed grave when the potion's power ended.",
-    "ko": ""
+    "ko": "약효가 다하면 그가 빌린 무덤에서 그녀를 데려가기로 했습니다."
    },
    {
     "n": 14,
     "en": "But Friar John, who carried my letter, was stopped by an accident and returned it last night.",
-    "ko": ""
+    "ko": "하지만 제 편지를 가져가던 존 신부가 뜻밖의 일로 발이 묶여 어젯밤 편지를 도로 가져왔습니다."
    },
    {
     "n": 15,
     "en": "Then I came alone at the planned time to take her from her family's vault.",
-    "ko": ""
+    "ko": "그래서 저는 약속된 시간에 혼자 와서 가족의 지하 묘실에서 그녀를 데려오려 했습니다."
    },
    {
     "n": 16,
     "en": "I planned to keep her in my cell until I could send word to Romeo.",
-    "ko": ""
+    "ko": "로미오에게 소식을 전할 때까지 그녀를 제 수도실에 머물게 할 계획이었습니다."
    },
    {
     "n": 17,
     "en": "But when I arrived just before she woke up, the noble Paris and true Romeo lay here dead.",
-    "ko": ""
+    "ko": "하지만 그녀가 깨어나기 직전에 도착했을 때, 고귀한 패리스와 진정한 로미오가 이곳에 죽어 있었습니다."
    },
    {
     "n": 18,
     "en": "She woke, and I asked her to come out and accept this act of heaven with patience.",
-    "ko": ""
+    "ko": "그녀가 깨어나자 저는 밖으로 나와 하늘이 하신 이 일을 참고 받아들이자고 했습니다."
    },
    {
     "n": 19,
     "en": "But then a noise scared me away from the tomb.",
-    "ko": ""
+    "ko": "하지만 그때 소리가 들려 저는 무덤에서 멀리 물러나게 되었습니다."
    },
    {
     "n": 20,
     "en": "She was too desperate to go with me.",
-    "ko": ""
+    "ko": "그녀는 너무 절망해서 저와 함께 가려 하지 않았습니다."
    },
    {
     "n": 21,
     "en": "It seems she killed herself.",
-    "ko": ""
+    "ko": "그녀가 스스로 목숨을 끊은 것 같습니다."
    },
    {
     "n": 22,
     "en": "That is all I know.",
-    "ko": ""
+    "ko": "제가 아는 것은 여기까지입니다."
    },
    {
     "n": 23,
     "en": "Her Nurse knows about the marriage.",
-    "ko": ""
+    "ko": "유모도 결혼에 대해 알고 있습니다."
    },
    {
     "n": 24,
     "en": "If anything went wrong because of my fault, let my old life be sacrificed to the harshest law.",
-    "ko": ""
+    "ko": "제 잘못으로 일이 틀어졌다면, 이 늙은 목숨을 가장 엄한 법에 바치겠습니다."
    },
    {
     "n": 25,
     "en": "Let it happen sooner than its time.",
-    "ko": ""
+    "ko": "제 명이 다하기 전에 거두어 가십시오."
    }
   ]
  },
@@ -2836,17 +2872,17 @@
    {
     "n": 1,
     "en": "We have always known you as a holy man.",
-    "ko": ""
+    "ko": "우리는 늘 그대를 거룩한 사람으로 알아 왔다."
    },
    {
     "n": 2,
     "en": "Where is Romeo's man?",
-    "ko": ""
+    "ko": "로미오의 하인은 어디 있느냐?"
    },
    {
     "n": 3,
     "en": "What can he say about this?",
-    "ko": ""
+    "ko": "그는 이 일에 대해 무슨 말을 할 수 있느냐?"
    }
   ]
  },
@@ -2864,22 +2900,22 @@
    {
     "n": 1,
     "en": "I brought my master news of Juliet's death.",
-    "ko": ""
+    "ko": "제 주인님께 줄리엣의 죽음을 알렸습니다."
    },
    {
     "n": 2,
     "en": "Then he rode fast from Mantua to this place, to this same tomb.",
-    "ko": ""
+    "ko": "그러자 주인님은 만토바에서 이곳, 바로 이 무덤으로 급히 말을 달려오셨습니다."
    },
    {
     "n": 3,
     "en": "He told me to give this letter to his father early in the morning.",
-    "ko": ""
+    "ko": "주인님은 아침 일찍 이 편지를 아버님께 전하라고 하셨습니다."
    },
    {
     "n": 4,
     "en": "Going into the tomb, he threatened to kill me if I did not leave him alone there.",
-    "ko": ""
+    "ko": "무덤에 들어가시면서, 혼자 두고 떠나지 않으면 저를 죽이겠다고 하셨습니다."
    }
   ]
  },
@@ -2897,17 +2933,17 @@
    {
     "n": 1,
     "en": "Give me the letter. I will look at it.",
-    "ko": ""
+    "ko": "편지를 내놔라. 내가 확인하겠다."
    },
    {
     "n": 2,
     "en": "Where is the Count's page who called the watchmen?",
-    "ko": ""
+    "ko": "야경꾼들을 부른 백작의 시동은 어디 있느냐?"
    },
    {
     "n": 3,
     "en": "You there, why did your master come to this place?",
-    "ko": ""
+    "ko": "너, 네 주인은 왜 이곳에 온 것이냐?"
    }
   ]
  },
@@ -2925,27 +2961,27 @@
    {
     "n": 1,
     "en": "He came with flowers to scatter on his lady's grave.",
-    "ko": ""
+    "ko": "주인님은 아가씨의 무덤에 뿌릴 꽃을 가지고 오셨습니다."
    },
    {
     "n": 2,
     "en": "He told me to stand away, and I did so.",
-    "ko": ""
+    "ko": "저더러 떨어져 있으라고 하셔서 그렇게 했습니다."
    },
    {
     "n": 3,
     "en": "Soon someone came with a light to open the tomb.",
-    "ko": ""
+    "ko": "곧 누군가 횃불을 들고 무덤을 열러 왔습니다."
    },
    {
     "n": 4,
     "en": "Then my master drew his sword on him.",
-    "ko": ""
+    "ko": "그러자 주인님이 그 사람에게 칼을 뽑으셨습니다."
    },
    {
     "n": 5,
     "en": "Then I ran away to call the watchmen.",
-    "ko": ""
+    "ko": "저는 야경꾼들을 부르기 위해 도망쳤습니다."
    }
   ]
  },
@@ -2963,47 +2999,47 @@
    {
     "n": 1,
     "en": "This letter confirms the Friar's words.",
-    "ko": ""
+    "ko": "이 편지는 신부의 말을 확인해 준다."
    },
    {
     "n": 2,
     "en": "It tells of their love and the news of her death.",
-    "ko": ""
+    "ko": "두 사람의 사랑과 그녀의 죽음 소식이 적혀 있다."
    },
    {
     "n": 3,
     "en": "He writes here that he bought poison from a poor medicine seller.",
-    "ko": ""
+    "ko": "가난한 약장수에게서 독약을 샀다고 여기 적었다."
    },
    {
     "n": 4,
     "en": "He came to this vault to die and lie with Juliet.",
-    "ko": ""
+    "ko": "줄리엣 곁에서 죽어 함께 눕기 위해 이 묘실에 온 것이다."
    },
    {
     "n": 5,
     "en": "Where are these enemies? Capulet! Montague!",
-    "ko": ""
+    "ko": "원수들은 어디 있느냐? 캐퓰릿! 몬태규!"
    },
    {
     "n": 6,
     "en": "Look at what a punishment is placed on your hatred.",
-    "ko": ""
+    "ko": "너희의 증오가 어떤 벌을 받았는지 보아라."
    },
    {
     "n": 7,
     "en": "Heaven found a way to kill your joys with love!",
-    "ko": ""
+    "ko": "하늘은 사랑으로 너희의 기쁨을 죽일 방법을 찾아냈다!"
    },
    {
     "n": 8,
     "en": "And I, for ignoring your fights, have lost two relatives.",
-    "ko": ""
+    "ko": "나 또한 너희 싸움을 눈감아 준 탓에 친척 둘을 잃었다."
    },
    {
     "n": 9,
     "en": "All are punished.",
-    "ko": ""
+    "ko": "모두가 벌을 받았다."
    }
   ]
  },
@@ -3021,19 +3057,21 @@
    {
     "n": 1,
     "en": "Oh brother Montague, give me your hand.",
-    "ko": ""
+    "ko": "오, 몬태규 형제, 손을 주시오."
    },
    {
     "n": 2,
     "en": "This handshake is my daughter's wedding gift from you.",
-    "ko": ""
+    "ko": "이 악수가 당신이 내 딸에게 주는 결혼 선물이오."
    },
    {
     "n": 3,
     "en": "I can ask for nothing more.",
-    "ko": ""
+    "ko": "더는 바랄 것이 없소."
    }
-  ]
+  ],
+  "to": "MONTAGUE",
+  "level": "any"
  },
  {
   "id": 1094,
@@ -3049,24 +3087,25 @@
    {
     "n": 1,
     "en": "But I can give you more.",
-    "ko": ""
+    "ko": "하지만 나는 더 드릴 수 있소."
    },
    {
     "n": 2,
     "en": "I will make her statue out of pure gold.",
-    "ko": ""
+    "ko": "순금으로 그 아이의 조각상을 세우겠소."
    },
    {
     "n": 3,
     "en": "It will stand as long as Verona is called Verona.",
-    "ko": ""
+    "ko": "베로나가 베로나라 불리는 한 그 조각상은 서 있을 것이오."
    },
    {
     "n": 4,
     "en": "No statue will be worth as much as that of true and faithful Juliet.",
-    "ko": ""
+    "ko": "진실하고 충실했던 줄리엣의 조각상만큼 귀한 조각상은 없을 것이오."
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 1095,
@@ -3082,14 +3121,15 @@
    {
     "n": 1,
     "en": "Romeo's statue will lie by his lady's, just as rich.",
-    "ko": ""
+    "ko": "로미오의 조각상도 똑같이 화려하게 그 아내 곁에 누울 것이오."
    },
    {
     "n": 2,
     "en": "They are poor sacrifices of our hatred.",
-    "ko": ""
+    "ko": "우리 증오가 바친 가엾은 희생물들이오."
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 1096,
@@ -3105,29 +3145,30 @@
    {
     "n": 1,
     "en": "This morning brings a gloomy peace.",
-    "ko": ""
+    "ko": "오늘 아침은 음울한 평화를 가져오는구나."
    },
    {
     "n": 2,
     "en": "The sun will not show its face because of the sadness.",
-    "ko": ""
+    "ko": "슬픔 때문에 태양도 얼굴을 내비치지 않을 것이다."
    },
    {
     "n": 3,
     "en": "Go now, and we will talk more about these sad things.",
-    "ko": ""
+    "ko": "이제 가서, 이 슬픈 일들을 더 이야기하자."
    },
    {
     "n": 4,
     "en": "Some will be pardoned, and some punished.",
-    "ko": ""
+    "ko": "용서받는 자도 있을 것이고 처벌받는 자도 있을 것이다."
    },
    {
     "n": 5,
     "en": "No story was ever sadder than this story of Juliet and her Romeo.",
-    "ko": ""
+    "ko": "줄리엣과 그녀의 로미오에 관한 이 이야기보다 더 슬픈 이야기는 없었다."
    }
-  ]
+  ],
+  "level": "any"
  },
  {
   "id": 1097,
