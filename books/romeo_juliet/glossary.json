@@ -5,141 +5,163 @@
    "en": "Romeo",
    "ko": "로미오",
    "g": "m",
-   "intro": "the young son of the Montague family"
+   "intro": "the young son of the Montague family",
+   "intro_ko": "몬태규 가문의 젊은 아들"
   },
   "JULIET": {
    "en": "Juliet",
    "ko": "줄리엣",
    "g": "f",
-   "intro": "the young daughter of the Capulet family"
+   "intro": "the young daughter of the Capulet family",
+   "intro_ko": "캐퓰릿 가문의 어린 딸"
   },
   "NURSE": {
    "en": "the Nurse",
    "ko": "유모",
    "g": "f",
-   "intro": "who has looked after Juliet since she was a baby"
+   "intro": "who has looked after Juliet since she was a baby",
+   "intro_ko": "줄리엣을 아기 때부터 길러 온"
   },
   "BENVOLIO": {
    "en": "Benvolio",
    "ko": "벤볼리오",
    "g": "m",
-   "intro": "Romeo's cousin and friend"
+   "intro": "Romeo's cousin and friend",
+   "intro_ko": "로미오의 사촌이자 친구"
   },
   "MERCUTIO": {
    "en": "Mercutio",
    "ko": "머큐쇼",
    "g": "m",
-   "intro": "Romeo's joking friend"
+   "intro": "Romeo's joking friend",
+   "intro_ko": "농담을 좋아하는 로미오의 친구"
   },
   "FRIAR LAWRENCE": {
    "en": "Friar Lawrence",
    "ko": "로런스 신부",
    "g": "m",
-   "intro": "a priest and Romeo's friend"
+   "intro": "a priest and Romeo's friend",
+   "intro_ko": "로미오의 친구인"
   },
   "CAPULET": {
    "en": "Capulet",
    "ko": "캐퓰릿",
    "g": "m",
-   "intro": "Juliet's father"
+   "intro": "Juliet's father",
+   "intro_ko": "줄리엣의 아버지"
   },
   "LADY CAPULET": {
    "en": "Lady Capulet",
    "ko": "캐퓰릿 부인",
    "g": "f",
-   "intro": "Juliet's mother"
+   "intro": "Juliet's mother",
+   "intro_ko": "줄리엣의 어머니"
   },
   "PARIS": {
    "en": "Paris",
    "ko": "패리스",
    "g": "m",
-   "intro": "a young nobleman who wants to marry Juliet"
+   "intro": "a young nobleman who wants to marry Juliet",
+   "intro_ko": "줄리엣과 결혼하고 싶어 하는 젊은 귀족"
   },
   "SAMPSON": {
    "en": "Sampson",
    "ko": "샘슨",
    "g": "m",
    "intro": "a Capulet servant",
-   "minor": true
+   "minor": true,
+   "intro_ko": "캐퓰릿 가의 하인"
   },
   "GREGORY": {
    "en": "Gregory",
    "ko": "그레고리",
    "g": "m",
    "intro": "another Capulet servant",
-   "minor": true
+   "minor": true,
+   "intro_ko": "캐퓰릿 가의 또 다른 하인"
   },
   "TYBALT": {
    "en": "Tybalt",
    "ko": "티볼트",
    "g": "m",
-   "intro": "Juliet's hot-tempered cousin"
+   "intro": "Juliet's hot-tempered cousin",
+   "intro_ko": "줄리엣의 성질 급한 사촌"
   },
   "PRINCE": {
    "en": "the Prince",
    "ko": "영주",
    "g": "m",
-   "intro": "the ruler of Verona"
+   "intro": "the ruler of Verona",
+   "intro_ko": "베로나를 다스리는"
   },
   "PETER": {
    "en": "Peter",
    "ko": "피터",
    "g": "m",
    "intro": "the Nurse's servant",
-   "minor": true
+   "minor": true,
+   "intro_ko": "유모의 하인"
   },
   "BALTHASAR": {
    "en": "Balthasar",
    "ko": "발타자르",
    "g": "m",
    "intro": "Romeo's servant",
-   "minor": true
+   "minor": true,
+   "intro_ko": "로미오의 하인"
   },
   "MONTAGUE": {
    "en": "Montague",
    "ko": "몬태규",
    "g": "m",
-   "intro": "Romeo's father"
+   "intro": "Romeo's father",
+   "intro_ko": "로미오의 아버지"
   },
   "LADY MONTAGUE": {
    "en": "Lady Montague",
    "ko": "몬태규 부인",
    "g": "f",
-   "intro": "Romeo's mother"
+   "intro": "Romeo's mother",
+   "intro_ko": "로미오의 어머니"
   },
   "ABRAM": {
    "en": "Abram",
    "ko": "에이브럼",
    "g": "m",
    "intro": "a Montague servant",
-   "minor": true
+   "minor": true,
+   "intro_ko": "몬태규 가의 하인"
   },
   "FRIAR JOHN": {
    "en": "Friar John",
    "ko": "존 신부",
    "g": "m",
    "intro": "another priest",
-   "minor": true
+   "minor": true,
+   "intro_ko": "또 다른 신부인"
   },
   "APOTHECARY": {
    "en": "the apothecary",
    "ko": "약제사",
    "g": "m",
    "intro": "a poor man who sells medicines",
-   "minor": true
+   "minor": true,
+   "intro_ko": "약을 파는 가난한"
   },
   "PAGE": {
    "en": "the page",
    "ko": "시동",
    "g": "m",
    "intro": "Paris's young servant",
-   "minor": true
+   "minor": true,
+   "intro_ko": "패리스의 어린 하인인"
   },
   "CHORUS": {
    "en": "the Chorus",
    "ko": "코러스",
    "g": "n",
-   "intro": "the play's storyteller"
+   "intro": "the play's storyteller",
+   "intro_ko": "이야기를 들려주는"
   },
   "SERVANT": {
    "en": "the servant",
@@ -176,21 +198,24 @@
    "ko": "첫째 야경꾼",
    "g": "m",
    "intro": "one of the night guards",
-   "minor": true
+   "minor": true,
+   "intro_ko": "밤 경비를 서는"
   },
   "SECOND WATCH": {
    "en": "the second watchman",
    "ko": "둘째 야경꾼",
    "g": "m",
    "intro": "one of the night guards",
-   "minor": true
+   "minor": true,
+   "intro_ko": "밤 경비를 서는"
   },
   "THIRD WATCH": {
    "en": "the third watchman",
    "ko": "셋째 야경꾼",
    "g": "m",
    "intro": "one of the night guards",
-   "minor": true
+   "minor": true,
+   "intro_ko": "밤 경비를 서는"
   },
   "FIRST CITIZEN": {
    "en": "the first citizen",
@@ -202,7 +227,8 @@
    "ko": "캐퓰릿의 사촌",
    "g": "m",
    "intro": "an old cousin of Capulet",
-   "minor": true
+   "minor": true,
+   "intro_ko": "나이 든"
   }
  },
  "names": {
@@ -359,5 +385,471 @@
   "prick-song": "printed music, sung exactly",
   "pox": "a disease; used as a curse",
   "fain would i": "I would gladly"
+ },
+ "terms_ko": {
+  "friar": "신부",
+  "cell": "수도실",
+  "banished": "추방당한",
+  "banishment": "추방",
+  "exile": "추방",
+  "apothecary": "약제사",
+  "the Prince": "영주",
+  "the watch": "야경꾼",
+  "watchmen": "야경꾼들",
+  "tomb": "무덤",
+  "vault": "지하 묘실",
+  "potion": "물약",
+  "dagger": "단검",
+  "shroud": "수의",
+  "Count": "백작",
+  "pilgrim": "순례자",
+  "feast": "잔치",
+  "masked party": "가면 무도회",
+  "harvest festival": "추수 축제",
+  "Pentecost": "오순절",
+  "confession": "고해",
+  "confess": "고해하다",
+  "curse": "저주",
+  "plague": "역병",
+  "sword": "칼",
+  "page": "시동"
+ },
+ "register": {
+  "_note": "Stage 5 speech levels. Rules are tried in order; 'from'/'to' are speaker labels or @GROUP names. haeyo = 해요체 (…요), hasipsio = 하십시오체 (…습니다), banmal = 반말/해라체 (…다, …어, …라). Asides, monologues and directions use plain (해라체).",
+  "groups": {
+   "CAPULETS": [
+    "CAPULET",
+    "LADY CAPULET"
+   ],
+   "MONTAGUES": [
+    "MONTAGUE",
+    "LADY MONTAGUE"
+   ],
+   "FRIENDS": [
+    "ROMEO",
+    "MERCUTIO",
+    "BENVOLIO"
+   ],
+   "SERVANTS": [
+    "SAMPSON",
+    "GREGORY",
+    "ABRAM",
+    "BALTHASAR",
+    "PETER",
+    "SERVANT",
+    "FIRST SERVANT",
+    "SECOND SERVANT",
+    "PAGE"
+   ],
+   "LOW": [
+    "FIRST MUSICIAN",
+    "SECOND MUSICIAN",
+    "THIRD MUSICIAN",
+    "FIRST WATCH",
+    "SECOND WATCH",
+    "THIRD WATCH",
+    "FIRST CITIZEN",
+    "APOTHECARY"
+   ],
+   "NOBLES": [
+    "ROMEO",
+    "JULIET",
+    "MERCUTIO",
+    "BENVOLIO",
+    "TYBALT",
+    "PARIS",
+    "CAPULET",
+    "LADY CAPULET",
+    "MONTAGUE",
+    "LADY MONTAGUE",
+    "CAPULET'S COUSIN",
+    "FRIAR LAWRENCE",
+    "FRIAR JOHN"
+   ]
+  },
+  "rules": [
+   [
+    [
+     "CHORUS"
+    ],
+    [
+     "*"
+    ],
+    "hasipsio"
+   ],
+   [
+    [
+     "*"
+    ],
+    [
+     "PRINCE"
+    ],
+    "hasipsio"
+   ],
+   [
+    [
+     "PRINCE"
+    ],
+    [
+     "*"
+    ],
+    "banmal"
+   ],
+   [
+    [
+     "ROMEO"
+    ],
+    [
+     "JULIET"
+    ],
+    "haeyo"
+   ],
+   [
+    [
+     "JULIET"
+    ],
+    [
+     "ROMEO"
+    ],
+    "haeyo"
+   ],
+   [
+    [
+     "JULIET"
+    ],
+    [
+     "@CAPULETS"
+    ],
+    "haeyo"
+   ],
+   [
+    [
+     "@CAPULETS"
+    ],
+    [
+     "JULIET"
+    ],
+    "banmal"
+   ],
+   [
+    [
+     "NURSE"
+    ],
+    [
+     "JULIET"
+    ],
+    "banmal"
+   ],
+   [
+    [
+     "JULIET"
+    ],
+    [
+     "NURSE"
+    ],
+    "banmal"
+   ],
+   [
+    [
+     "@FRIENDS"
+    ],
+    [
+     "@FRIENDS"
+    ],
+    "banmal"
+   ],
+   [
+    [
+     "ROMEO",
+     "JULIET",
+     "PARIS",
+     "CAPULET",
+     "LADY CAPULET",
+     "NURSE",
+     "FRIAR JOHN"
+    ],
+    [
+     "FRIAR LAWRENCE"
+    ],
+    "haeyo"
+   ],
+   [
+    [
+     "FRIAR LAWRENCE"
+    ],
+    [
+     "ROMEO",
+     "JULIET",
+     "BALTHASAR",
+     "FRIAR JOHN",
+     "NURSE"
+    ],
+    "banmal"
+   ],
+   [
+    [
+     "FRIAR LAWRENCE"
+    ],
+    [
+     "*"
+    ],
+    "haeyo"
+   ],
+   [
+    [
+     "@SERVANTS",
+     "@LOW"
+    ],
+    [
+     "@NOBLES",
+     "NURSE"
+    ],
+    "hasipsio"
+   ],
+   [
+    [
+     "@NOBLES",
+     "NURSE"
+    ],
+    [
+     "@SERVANTS",
+     "@LOW"
+    ],
+    "banmal"
+   ],
+   [
+    [
+     "@SERVANTS",
+     "@LOW"
+    ],
+    [
+     "@SERVANTS",
+     "@LOW"
+    ],
+    "banmal"
+   ],
+   [
+    [
+     "NURSE"
+    ],
+    [
+     "@NOBLES"
+    ],
+    "haeyo"
+   ],
+   [
+    [
+     "@CAPULETS",
+     "MERCUTIO",
+     "BENVOLIO",
+     "TYBALT"
+    ],
+    [
+     "NURSE"
+    ],
+    "banmal"
+   ],
+   [
+    [
+     "ROMEO",
+     "PARIS"
+    ],
+    [
+     "NURSE"
+    ],
+    "haeyo"
+   ],
+   [
+    [
+     "CAPULET",
+     "LADY CAPULET"
+    ],
+    [
+     "PARIS"
+    ],
+    "haeyo"
+   ],
+   [
+    [
+     "PARIS"
+    ],
+    [
+     "CAPULET",
+     "LADY CAPULET",
+     "JULIET"
+    ],
+    "haeyo"
+   ],
+   [
+    [
+     "JULIET"
+    ],
+    [
+     "PARIS"
+    ],
+    "haeyo"
+   ],
+   [
+    [
+     "TYBALT"
+    ],
+    [
+     "ROMEO",
+     "MERCUTIO",
+     "BENVOLIO"
+    ],
+    "banmal"
+   ],
+   [
+    [
+     "ROMEO",
+     "MERCUTIO",
+     "BENVOLIO"
+    ],
+    [
+     "TYBALT"
+    ],
+    "banmal"
+   ],
+   [
+    [
+     "TYBALT"
+    ],
+    [
+     "CAPULET",
+     "LADY CAPULET"
+    ],
+    "haeyo"
+   ],
+   [
+    [
+     "CAPULET",
+     "LADY CAPULET"
+    ],
+    [
+     "TYBALT"
+    ],
+    "banmal"
+   ],
+   [
+    [
+     "LADY CAPULET"
+    ],
+    [
+     "CAPULET"
+    ],
+    "haeyo"
+   ],
+   [
+    [
+     "CAPULET"
+    ],
+    [
+     "LADY CAPULET"
+    ],
+    "banmal"
+   ],
+   [
+    [
+     "LADY MONTAGUE"
+    ],
+    [
+     "MONTAGUE"
+    ],
+    "haeyo"
+   ],
+   [
+    [
+     "MONTAGUE"
+    ],
+    [
+     "LADY MONTAGUE"
+    ],
+    "banmal"
+   ],
+   [
+    [
+     "@MONTAGUES"
+    ],
+    [
+     "BENVOLIO",
+     "ROMEO"
+    ],
+    "banmal"
+   ],
+   [
+    [
+     "BENVOLIO",
+     "ROMEO"
+    ],
+    [
+     "@MONTAGUES"
+    ],
+    "haeyo"
+   ],
+   [
+    [
+     "@CAPULETS"
+    ],
+    [
+     "@MONTAGUES"
+    ],
+    "banmal"
+   ],
+   [
+    [
+     "@MONTAGUES"
+    ],
+    [
+     "@CAPULETS"
+    ],
+    "banmal"
+   ],
+   [
+    [
+     "PARIS"
+    ],
+    [
+     "ROMEO"
+    ],
+    "banmal"
+   ],
+   [
+    [
+     "ROMEO"
+    ],
+    [
+     "PARIS"
+    ],
+    "banmal"
+   ],
+   [
+    [
+     "CAPULET'S COUSIN"
+    ],
+    [
+     "CAPULET"
+    ],
+    "banmal"
+   ],
+   [
+    [
+     "CAPULET"
+    ],
+    [
+     "CAPULET'S COUSIN"
+    ],
+    "banmal"
+   ],
+   [
+    [
+     "@NOBLES"
+    ],
+    [
+     "@NOBLES"
+    ],
+    "haeyo"
+   ]
+  ]
  }
 }
