@@ -31,19 +31,56 @@
   "Names: Seong Chunhyang (Chunhyang), Yi Mongryong (also called Master Yi or 'the young master'), Wolmae (Chunhyang's mother), Bangja (Master Yi's servant boy), Hyangdan (Chunhyang's maid), Byeon Hakdo (the new magistrate).",
   "Place names: Namwon, Gwanghallu (the pavilion), Ojakgyo (the bridge), Seoul.",
   "gisaeng = a female entertainer trained in music and poetry; keep the word 'gisaeng'.",
-  "사또 = the magistrate. 도련님 = 'young master' or 'Master Yi'. 어사/암행어사 = the secret royal inspector."
+  "사또 = the magistrate. 도련님 = 'young master' or 'Master Yi'. 어사/암행어사 = the secret royal inspector.",
+  "Use a character's name only if that person is in the Korean sentence. Never turn an ordinary word into a name (벽도 = peach tree, not Byeon Hakdo).",
+  "Chinese figures from old stories use Pinyin: Xi Shi, Lady Yu, Wang Zhaojun, Lady Ban (Ban Jieyu), Zhao Feiyan, Fan Li. If a list of them would lose a learner, say what they stand for (famous beauties, loyal wives) and keep at most a few names.",
+  "A Korean negative question ('~아니냐?', '~지 않느냐?') usually means 'isn't it?', not 'it is not'.",
+  "Speech stays in double quotation marks exactly where the Korean has them."
  ],
  "en_fix": [
-  ["\\bYi Mong-?ryong\\b", "Yi Mongryong"],
-  ["\\bLee Mong-?ryong\\b", "Yi Mongryong"],
-  ["\\bSung Chunhyang\\b", "Seong Chunhyang"],
-  ["\\bChoon-?hyang\\b", "Chunhyang"],
-  ["\\bChun-hyang\\b", "Chunhyang"],
-  ["\\bWol-mae\\b", "Wolmae"],
-  ["\\bBang-ja\\b", "Bangja"],
-  ["\\bHyang-dan\\b", "Hyangdan"],
-  ["\\bGwanghan(?:ru|lu|-ru|-lu)\\b(?! Pavilion)", "Gwanghallu"],
-  ["\\bByun Hak-?do\\b", "Byeon Hakdo"],
-  ["\\bByeon Hak-do\\b", "Byeon Hakdo"]
+  [
+   "\\bYi Mong-?ryong\\b",
+   "Yi Mongryong"
+  ],
+  [
+   "\\bLee Mong-?ryong\\b",
+   "Yi Mongryong"
+  ],
+  [
+   "\\bSung Chunhyang\\b",
+   "Seong Chunhyang"
+  ],
+  [
+   "\\bChoon-?hyang\\b",
+   "Chunhyang"
+  ],
+  [
+   "\\bChun-hyang\\b",
+   "Chunhyang"
+  ],
+  [
+   "\\bWol-mae\\b",
+   "Wolmae"
+  ],
+  [
+   "\\bBang-ja\\b",
+   "Bangja"
+  ],
+  [
+   "\\bHyang-dan\\b",
+   "Hyangdan"
+  ],
+  [
+   "\\bGwanghan(?:ru|lu|-ru|-lu)\\b(?! Pavilion)",
+   "Gwanghallu"
+  ],
+  [
+   "\\bByun Hak-?do\\b",
+   "Byeon Hakdo"
+  ],
+  [
+   "\\bByeon Hak-do\\b",
+   "Byeon Hakdo"
+  ]
  ]
 }
