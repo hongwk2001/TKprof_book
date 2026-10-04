@@ -35,7 +35,9 @@
   "Use a character's name only if that person is in the Korean sentence. Never turn an ordinary word into a name (벽도 = peach tree, not Byeon Hakdo).",
   "Chinese figures from old stories use Pinyin: Xi Shi, Lady Yu, Wang Zhaojun, Lady Ban (Ban Jieyu), Zhao Feiyan, Fan Li. If a list of them would lose a learner, say what they stand for (famous beauties, loyal wives) and keep at most a few names.",
   "A Korean negative question ('~아니냐?', '~지 않느냐?') usually means 'isn't it?', not 'it is not'.",
-  "Speech stays in double quotation marks exactly where the Korean has them."
+  "Speech stays in double quotation marks exactly where the Korean has them.",
+  "Tense: the opening background (before the spring outing in chapter 1) is told in the past tense; from then on, scenes are in the present tense.",
+  "이한림 = Yi Hallim (Master Yi's father). 일고여덟 = seven or eight (not seventeen)."
  ],
  "en_fix": [
   [
@@ -81,6 +83,14 @@
   [
    "\\bByeon Hak-do\\b",
    "Byeon Hakdo"
+  ],
+  [
+   "\\bYi Han(?:rim|lim)\\b",
+   "Yi Hallim"
+  ],
+  [
+   "\\bGwanghanru\\b",
+   "Gwanghallu"
   ]
  ]
 }
