@@ -1,42 +1,57 @@
-# 춘향전 — overnight report
+# 춘향전 — translation report
 
-Branch `chunhyang` in TKprof_book. Workflow per chapter: Claude writes the modern
-Korean (`apply_ko.py`) → gemma4:12b drafts English (`modernize.py --en-only`) →
-Claude reviews every item and fixes (`apply_en.py`) → one commit.
+Branch `chunhyang` in TKprof_book. **All 21 chapters have modern Korean and English.**
+Per-chapter review files: `review/ch_NN.md` (numbered Korean/English side by side,
+with the items to check at the top). Line ids like `P0003.4` are what the fix
+scripts use.
 
-## Progress
+## Totals
 
-| Ch | Title | Sentences | EN words | EN fixed | Notes |
-|---|---|---|---|---|---|
-| 01 | 남원 땅의 춘향 | 110 | 2,272 | 74 (67%) | Longest chapter (~15 min); tense made consistent |
-| 02 | 그네 타는 춘향 | 91 | 1,410 | 31 (34%) | |
-| 03 | 광한루에서 만나다 | 56 | 935 | 21 (38%) | |
-| 04 | 글이 눈에 들어오지 않는 밤 | 103 | 1,879 | 91 (88%) | 천자풀이 rewritten line by line for ESL |
+- 1,435 sentence pairs · 27,106 English words · **~3 h 01 min** at 150 wpm (target 2.5–3.5 h)
+- Source: 국립중앙박물관 신수15187 scans, transcribed in-house (leaves 1–84).
+  Pages 5b–6a are missing from the scans; ch_01 P0008 is an in-house bridge marked 〔 〕.
 
-**Stopped after 5 of 21 chapters: the usage limit was reached.** Remaining: 05, 06, and 08–21.
-To resume: write Korean → `python apply_ko.py ch_NN <file>` → `python modernize.py ch_NN --en-only` → review → `python apply_en.py ch_NN <file>`.
-Uncertain reading: ch_04 P0007, the 律 line (원문 「조가ᄉᆞ치」) is my best guess.
-| 07 | 첫날밤과 사랑가 | 86 | 1,454 | 48 (56%) | Wordplay chapter; see flags below |
+## How each chapter was made
 
-## Sexual content: please decide
+| Ch | Title | Pairs | EN words | Method |
+|---|---|---|---|---|
+| 01 | 남원 땅의 춘향 | 110 | 2,061 | Korean by Claude, English gemma → reviewed (67% changed) |
+| 02 | 그네 타는 춘향 | 91 | 1,445 | same (34%) |
+| 03 | 광한루에서 만나다 | 56 | 940 | same (38%) |
+| 04 | 글이 눈에 들어오지 않는 밤 | 103 | 1,791 | same (88%) |
+| 05 | 춘향의 집을 찾아가다 | 76 | 1,218 | same (71%) |
+| 06 | 백년가약 | 68 | 1,319 | same (88%) |
+| 07 | 첫날밤과 사랑가 | 86 | 1,406 | same (56%) |
+| 08 | 사랑 놀이 | 90 | 1,440 | both written by Claude |
+| 09 | 떠나야 하는 도련님 | 58 | 1,157 | gemma → reviewed (69%) |
+| 10 | 이별 | 87 | 1,634 | same (85%) |
+| 11–21 | … | 662 | 11,955 | both written by Claude (`apply_pair.py`) |
 
-The policy is to keep it frank like the original. These are the passages I think
-might be too much. Each shows the English as it stands now.
+From ch_11 on, gemma was dropped: its drafts were being rewritten 70–88% anyway,
+mostly for misreadings, flipped negatives, dropped quotes, and puns turned into
+vague stand-ins. `modernize.py` is kept if you want to compare.
 
-- **ch_07 P0002–P0003 (first night).** Undressing and the struggle over clothes; he hooks
-  her dress string with his toe so it slides off; "her skin is as white and beautiful as a
-  piece of jade". The act itself is implied, not described: "As they roll around until
-  they sweat, the hemp blanket dances, and the shiny chamber pot clinks along to the beat."
-- **ch_07 P0008 (mortar).** "You will be the stone bowl of a grain mortar, and I will be the
-  heavy pestle… when the mortar goes thump, thump, thump, know that it is me."
-- **ch_07 P0009–P0010 (millstone).** She refuses always being "on the bottom"; then
-  refuses the top millstone: "What did I ever do, to carry around one more hole for the
-  rest of my life?" This is the crudest joke so far; it is kept, but it is a candidate to soften.
+## Please decide (details in each review file's "Please check" box)
 
-## Decisions I made (easy to reverse)
+**Sexual content (kept frank; flagged where I softened):**
+- ch_07 first night (implied), mortar-and-pestle, millstone. P0010.2 softened.
+- ch_08 palace-song pun softened; piggyback and horsey games with nudity kept;
+  "ride the boat called Chunhyang", with the original's cruder line dropped.
+- ch_02 P0006.5 mild (underpants on the swing).
 
-- The maid is **향단 / Hyangdan** in the modern Korean and the English (the woodblock prints 상단).
-- Chinese allusions use Pinyin (Xi Shi, Lady Yu, Wang Zhaojun…). Long lists of them are
-  shortened into "the most beautiful women in history" with a few names kept.
-- The 女+子=好 character pun keeps the three characters, with "woman", "son" and
-  "love/good" spelled out.
+**Crude humor softened one step:** ch_17 P0009.5 farmer's insult; ch_21 P0002.8
+the magistrate "wets himself" (original: soils himself).
+
+**Violence kept as in the original:** ch_14 the beating, ch_15 Lady Qi's ghost,
+ch_19 crows and the mother's eyes.
+
+**Readings to check:** ch_04 P0007.12 (律 line), ch_14 P0018.10 and ch_15 P0006
+(ink-damaged scan, reconstructed from context).
+
+**Choices you can reverse:** 향단 / Hyangdan (the woodblock prints 상단); Chinese
+allusions in Pinyin, with long lists shortened; ch_01 is the longest at about 14 minutes.
+
+## Not done yet
+
+- Migrate to the app module (`Book_apps/chunhyang`) and build.
+- A human read of the Korean, which was written by Claude without a second reviewer.

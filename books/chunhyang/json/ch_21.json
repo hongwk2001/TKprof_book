@@ -20,7 +20,68 @@
   "type": "passage",
   "editorial": false,
   "src": "암행어사출도야웨난소리강산이문어지고천지가뒤눕난듯초목금순들아니떨야남문의서출도야북문으서출도야동서문출도소리청천으진동하고공형들나웨난소리육방이넉실이러공형이요등치로휘닥떠니이고중다공방다다공방이보전들고드러오며안할나던공방을하라하니열불속으엇지들어들어떠소고바탓네좌수별감넉실일코이방호장실혼하고삼색나졸분주하네모든수령도망할제거동보소인궤일코과절들고병부일코송편들고탕근일코용수쓰고갓일코소반쓰그갈새집쉬고오줌누기부서진니거무고요석지나북장고라본관이똥을싸고멍석구멍새앙쥐눈뜨듯하고내아로드러가서어추워라물드려온다바람다더라물말는다목되려라관청색은상을일코문짝니고니다른니서리역졸달여드러후다딱이고나죽네잇때수의사또분부하되이골은대감이좌정하시던고을이라헌와을금하고직사로사처하라좌정후에본관은봉고파직하라분부하니본관은봉고파직이요사대문의방붓치고옥형이불너분부하되네골옥수을다올이라",
-  "sentences": []
+  "sentences": [
+   {
+    "n": 1,
+    "ko": "\"암행어사 출두야!\" 외치는 소리에 강산이 무너지고 하늘과 땅이 뒤집히는 듯하니, 풀과 나무와 짐승인들 아니 떨겠느냐.",
+    "en": "\"The Royal Inspector is here!\" The shout shakes the mountains and turns heaven and earth upside down. Even the grass, the trees, and the animals tremble."
+   },
+   {
+    "n": 2,
+    "ko": "남문에서 \"출두야!\", 북문에서 \"출두야!\", 동문 서문에서 \"출두야!\" 소리가 푸른 하늘에 진동한다.",
+    "en": "\"The Inspector is here!\" from the South Gate. \"The Inspector is here!\" from the North Gate. The shout rings from every gate up to the blue sky."
+   },
+   {
+    "n": 3,
+    "ko": "\"공형들 나오너라!\" 외치는 소리에 육방 관속들은 넋을 잃는다. \"공형이요!\" 하니 등짝을 후려치니 \"아이고, 죽네!\"",
+    "en": "\"Officers, come out!\" The clerks are frozen with fear. \"Here, sir!\" one cries, and he gets a whack on the back. \"Ouch, I'm dying!\""
+   },
+   {
+    "n": 4,
+    "ko": "\"공방, 공방!\" 공방이 자리를 들고 들어오며 \"안 하려던 공방을 하라더니 이 불 속에 어찌 들어갈꼬.\"",
+    "en": "\"Supplies! Supplies!\" The supply clerk runs in with mats. \"I never wanted this job, and now look at this mess!\""
+   },
+   {
+    "n": 5,
+    "ko": "좌수와 별감은 넋을 잃고, 이방과 호장은 혼이 나가고, 나졸들은 이리저리 뛴다.",
+    "en": "The town elders are in a panic, the clerks are out of their minds, and the guards run every which way."
+   },
+   {
+    "n": 6,
+    "ko": "모든 수령이 도망가는데, 그 꼴을 보아라. 인궤를 잃고 과줄을 들고, 병부를 잃고 송편을 들고,",
+    "en": "All the magistrates flee. Look at them! One drops his official seal and grabs a cookie instead. One loses his army tally and grabs a rice cake."
+   },
+   {
+    "n": 7,
+    "ko": "탕건을 잃고 용수를 쓰고, 갓을 잃고 소반을 쓰고, 부서진 거문고를 들고 북인 줄 알고 두드린다.",
+    "en": "One loses his cap and puts a wine strainer on his head. One loses his hat and wears a little table instead. One beats a broken zither, thinking it's a drum."
+   },
+   {
+    "n": 8,
+    "ko": "본관은 똥을 싸고, 멍석 구멍에 생쥐 눈 뜨듯 하고 안채로 들어가 \"어 추워라, 문 들어온다. 바람 닫아라. 물 마른다, 목 들여라.\" 한다.",
+    "en": "The host wets himself and hides, peeking out like a mouse from a hole in a straw mat. He runs to the inner rooms shouting nonsense: \"Oh, it's cold! The door's coming in! Shut the wind! The water's thirsty, bring my throat!\""
+   },
+   {
+    "n": 9,
+    "ko": "관청색은 상을 잃고 문짝을 이고 내닫는데, 서리와 역졸이 달려들어 후닥딱 치니 \"아이고, 나 죽네!\"",
+    "en": "A servant loses his tray and runs off carrying a door on his head. The runners jump on him with their clubs. \"Ouch, I'm dying!\""
+   },
+   {
+    "n": 10,
+    "ko": "이때 어사또가 분부한다. \"이 고을은 대감께서 다스리시던 고을이니, 함부로 소란 피우지 말고 객사로 옮겨 앉으리라.\"",
+    "en": "The inspector gives his order. \"My father once governed this town, so no rough business here. I will sit in the guesthouse.\""
+   },
+   {
+    "n": 11,
+    "ko": "자리에 앉은 뒤 \"본관은 봉고파직하라.\" 분부하니, 본관은 봉고파직이요, 사대문에 방을 붙인다.",
+    "en": "When he is seated, he orders, \"Seal the magistrate's office and strip him of his post!\" It is done, and notices are posted at all four gates."
+   },
+   {
+    "n": 12,
+    "ko": "옥형리를 불러 분부한다. \"너희 고을 옥에 갇힌 죄수들을 다 올려라.\"",
+    "en": "He calls the jailer. \"Bring every prisoner in this town before me.\""
+   }
+  ]
  },
  {
   "id": 3,
@@ -29,7 +90,73 @@
   "type": "passage",
   "editorial": false,
   "src": "호령하니인을올이거늘다과문초후에무죄자방송할새저계집은무어신다형이엿자오되기싱월매딸이온대관정의포악한죄로옥중의잇삽내다무삼죄다형이알외되본관사또수청으로불너띠니수절이정절리라수청안이들야하고관정의포악한춘향이로소이다어사또분부하되너만연이수절한다고관정포악하엿스니살기을바랄소냐죽어맛당하되내수청도거역할가춘향이기가막켜내려온관장마다개개이명관이로고나수의사또듯조시요층암절벽놉푼바위바람분들문어지며청송녹죽푸른남기눈이온들변하릿가그른분부마옵시고어서밧비죽여주오하며상단아서방임어대계신가보와라어제밤의옥문간의와겨쓸계천만당부하엿더니어대를가서난지나죽난줄모르난가어사또분부하되얼골드러날를보라하시니춘향이고기드러대상을살펴보니걸객으로왓던낭군어사로떠안저구나반우슴반울음의얼시구나좃을시고어사낭군조을시고남원읍니추절드러떠러지게되야더니긱사의봄인드러이화춘풍날살인다꿈이나싱시나꿈을셀가떠로다",
-  "sentences": []
+  "sentences": [
+   {
+    "n": 1,
+    "ko": "호령하니 죄인들을 올린다. 하나하나 죄를 묻고 무죄한 자는 풀어 주는데, \"저 계집은 무엇이냐?\"",
+    "en": "The prisoners are brought in. One by one, he questions them and frees the innocent. \"And who is that girl?\""
+   },
+   {
+    "n": 2,
+    "ko": "형리가 아뢴다. \"기생 월매의 딸인데, 관청에서 포악을 부린 죄로 옥에 있습니다.\"",
+    "en": "The clerk answers, \"She is the daughter of the gisaeng Wolmae, sir. She is in prison for being violent and rude to the magistrate.\""
+   },
+   {
+    "n": 3,
+    "ko": "\"무슨 죄냐?\" \"본관 사또가 수청으로 불렀더니 수절이니 정절이니 하며 수청을 안 들고 관청에서 포악을 부린 춘향이옵니다.\"",
+    "en": "\"What exactly did she do?\" \"The magistrate called her to his bed, sir, but she talked about being faithful and refused, and she was rude to him. Her name is Chunhyang.\""
+   },
+   {
+    "n": 4,
+    "ko": "어사또가 분부한다. \"너 같은 년이 수절한다고 관청에서 포악했으니 살기를 바라겠느냐. 죽어 마땅하나, 내 수청도 거역하겠느냐?\"",
+    "en": "The inspector says, \"A girl like you, rude to a magistrate because she's 'faithful'? You deserve to die. But what if I ask you to my bed? Will you refuse me too?\""
+   },
+   {
+    "n": 5,
+    "ko": "춘향이 기가 막혀 말한다. \"내려오는 관장마다 하나같이 명관이로구나. 어사또, 들어 보시오.\"",
+    "en": "Chunhyang is stunned. \"Every official who comes here is a fine one, isn't he! Listen to me, Inspector.\""
+   },
+   {
+    "n": 6,
+    "ko": "\"층암절벽 높은 바위가 바람 분다고 무너지며, 푸른 소나무와 푸른 대나무가 눈 온다고 변하겠소.\"",
+    "en": "\"Does a high cliff crumble because the wind blows? Do the green pine and the green bamboo change color because it snows?\""
+   },
+   {
+    "n": 7,
+    "ko": "\"그른 분부 마시고 어서 바삐 죽여 주시오.\" 하고 말한다. \"향단아, 서방님 어디 계신가 보아라.\"",
+    "en": "\"Don't give me such a wrong order. Just kill me quickly.\" Then she says, \"Hyangdan, go and see where my husband is.\""
+   },
+   {
+    "n": 8,
+    "ko": "\"어젯밤 옥문간에 와 계실 때 천만 번 당부했더니, 어디를 가셨는지 내가 죽는 줄도 모르시나.\"",
+    "en": "\"Last night he came to the prison gate, and I begged him again and again. Where has he gone? Doesn't he know I'm about to die?\""
+   },
+   {
+    "n": 9,
+    "ko": "어사또가 분부한다. \"얼굴을 들어 나를 보아라.\"",
+    "en": "The inspector says, \"Raise your head and look at me.\""
+   },
+   {
+    "n": 10,
+    "ko": "춘향이 고개를 들어 대 위를 살펴보니, 거지로 왔던 낭군이 어사가 되어 떡 앉아 있구나.",
+    "en": "Chunhyang lifts her head and looks up. There, sitting high above her, is the husband who came as a beggar, now the Royal Inspector!"
+   },
+   {
+    "n": 11,
+    "ko": "반은 웃고 반은 울며 말한다. \"얼씨구나, 좋을시고. 어사 낭군 좋을시고.\"",
+    "en": "Half laughing, half crying, she says, \"Hooray, how wonderful! My husband is the Inspector!\""
+   },
+   {
+    "n": 12,
+    "ko": "\"남원 읍내에 가을이 들어 떨어지게 되었더니, 객사에 봄이 들어 배꽃 핀 봄바람이 날 살린다.\"",
+    "en": "\"Autumn came to Namwon, and I was about to fall like a leaf. Now spring has come to the guesthouse, and a spring wind of pear blossoms has saved my life!\""
+   },
+   {
+    "n": 13,
+    "ko": "\"꿈이냐 생시냐, 꿈을 깰까 두렵구나.\"",
+    "en": "\"Is this a dream or is it real? I'm afraid I'll wake up!\""
+   }
+  ]
  },
  {
   "id": 4,
@@ -38,7 +165,38 @@
   "type": "passage",
   "editorial": false,
   "src": "한참이리질길적의춘향모드러와서가업시질거하난말를엇지다설화하랴춘향의놉푼절기광치잇게되나스니엇지안이조을손가어사또남원공사다근후의춘향모여와상단이을서울노치힝할제위의찰난하니세상사람덜리누가안니칭찬하랴잇때춘향이남원을하직할시영귀하게도얏건만고향을이별하니일히일비가안니되랴놀고자던부용당아너부대잘잇거라광한누오작교며영주각도잘잇서라춘초는년년록하되",
-  "sentences": []
+  "sentences": [
+   {
+    "n": 1,
+    "ko": "한참 이렇게 즐거워할 때 춘향 어머니가 들어와 한없이 기뻐하니, 그 말을 어찌 다 하랴.",
+    "en": "As she rejoices, Chunhyang's mother comes running in, wild with joy. Words can't describe it."
+   },
+   {
+    "n": 2,
+    "ko": "춘향의 높은 절개가 빛나게 되었으니 어찌 좋지 않으랴.",
+    "en": "Chunhyang's great faithfulness has finally won the day. How wonderful!"
+   },
+   {
+    "n": 3,
+    "ko": "어사또가 남원의 일을 다 처리한 뒤, 춘향 모녀와 향단이를 서울로 보내는데 그 행차가 찬란하니 세상 사람 누가 칭찬하지 않으랴.",
+    "en": "When the inspector has finished his work in Namwon, he sends Chunhyang, her mother, and Hyangdan to Seoul in a splendid procession. Everyone in the land praises them."
+   },
+   {
+    "n": 4,
+    "ko": "이때 춘향이 남원을 떠나는데, 영화롭고 귀하게 되었건만 고향을 떠나니 기쁘기도 하고 슬프기도 하다.",
+    "en": "Chunhyang is leaving Namwon. She is honored and happy now, but leaving home makes her both glad and sad."
+   },
+   {
+    "n": 5,
+    "ko": "\"놀고 자던 부용당아, 부디 잘 있거라. 광한루, 오작교, 영주각도 잘 있어라.\"",
+    "en": "\"Hall of Lotus, where I played and slept, take care! Gwanghallu, Ojakgyo, Yeongjugak, take care!\""
+   },
+   {
+    "n": 6,
+    "ko": "\"봄풀은 해마다 푸르건만,",
+    "en": "\"The spring grass grows green every year,"
+   }
+  ]
  },
  {
   "id": 5,
@@ -47,6 +205,47 @@
   "type": "passage",
   "editorial": false,
   "src": "왕손은귀불귀라날노두고이르미라라다가또한쌍별할제만석무리울숨볼소서다시도이라잇때어사또는좌우도순읍하야민정을살핀후의서울노올나가어전의숙배하니삼당상입시하사문부를사정후의상이대찬하시고직시이조참의대사성을봉하시고춘향을정열부인을봉하시니사은숙배하고물너나와부모전의뵈온대성은을축사하시더라잇때이판호판좌우영상다지내고퇴사후의정열부인으로더부러백연동낙할세정열부인의게삼남이녀을두엇시니기기이총명하야그부친을압두하고계계승승하야직거일품으로만세유전하더라",
-  "sentences": []
+  "sentences": [
+   {
+    "n": 1,
+    "ko": "떠난 왕손은 돌아오지 않는다더니, 나를 두고 한 말이로구나.\"",
+    "en": "but the prince who leaves never returns. That old poem was written about me!\""
+   },
+   {
+    "n": 2,
+    "ko": "모두와 다정히 이별하고, \"다시 보자.\" 하며 떠난다.",
+    "en": "She says a loving goodbye to everyone. \"We'll meet again!\" And she is gone."
+   },
+   {
+    "n": 3,
+    "ko": "이때 어사또는 전라도 좌도와 우도를 다 돌며 백성들의 형편을 살핀 뒤 서울로 올라가 임금께 절한다.",
+    "en": "The inspector travels through all of Jeolla Province, checking on the people, and then he goes back to Seoul and bows before the king."
+   },
+   {
+    "n": 4,
+    "ko": "삼정승이 들어와 그의 보고서를 살펴보니, 임금께서 크게 칭찬하시고 이조참의 겸 대사성 벼슬을 내리신다.",
+    "en": "The three high ministers read his report, and the king praises him greatly and gives him a high post in the government."
+   },
+   {
+    "n": 5,
+    "ko": "그리고 춘향을 '정렬부인'으로 봉하시니, 감사의 절을 올리고 물러나와 부모님께 뵈니 부모님도 임금의 은혜에 감사한다.",
+    "en": "The king also names Chunhyang a Lady of Faithfulness. They bow in thanks, go home to his parents, and his parents give thanks for the king's kindness too."
+   },
+   {
+    "n": 6,
+    "ko": "그 뒤 이판, 호판, 좌의정, 우의정, 영의정을 다 지내고 벼슬에서 물러난 뒤, 정렬부인과 함께 백 년을 즐겁게 산다.",
+    "en": "In time he serves as minister of many offices and finally as prime minister. When he retires, he and Lady Chunhyang live happily together for a hundred years."
+   },
+   {
+    "n": 7,
+    "ko": "정렬부인에게서 아들 셋 딸 둘을 두었는데, 하나같이 총명하여 아버지보다 뛰어났다.",
+    "en": "They have three sons and two daughters, and every one of them is bright, even brighter than their father."
+   },
+   {
+    "n": 8,
+    "ko": "대대로 이어 모두 높은 벼슬에 올랐으니, 그 이야기가 만세에 전하더라.",
+    "en": "Generation after generation, their children rise to the highest posts, and their story is told forever."
+   }
+  ]
  }
 ]
