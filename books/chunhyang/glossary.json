@@ -1,0 +1,49 @@
+{
+ "_note": "Stage 2/4 glossary. 'always' goes into every prompt; 'terms' only when the passage contains the key; 'en_fix' regexes are applied to English after generation (romanization cannot be fixed by prompting).",
+ "always": [
+  "작품: 《열녀춘향수절가》 완판 84장본(19세기 전주 방각본). 판소리에서 나온 소설이다.",
+  "원문은 맞춤법만 현대식으로 고친 상태다. 띄어쓰기가 없고, 옛 어휘·옛 문법이 그대로 남아 있다.",
+  "옛 표기 읽기: '~의'가 장소를 나타내면 '~에'다(남원부의 = 남원부에). 소리 나는 대로 이어 쓴 말이 많다(마리 = 말이, 거시 = 것이, 업서 = 없어, 잇다 = 있다, 하난 = 하는, 되야 = 되어).",
+  "인물: 성춘향(춘향), 이몽룡(이도령, 도련님), 월매(춘향의 어머니, 춘향 모), 방자(이도령의 몸종), 향단(춘향의 몸종; 원문 표기 '상단'), 변학도(새 사또, 본관), 이한림/이 사또(이도령의 아버지), 성 참판(춘향의 아버지)."
+ ],
+ "terms": {
+  "상단": "향단 — 춘향의 몸종. 현대어에서는 '향단'으로 쓴다.",
+  "사또": "사또 — 고을 수령을 부르는 말. 그대로 둔다.",
+  "방자": "방자 — 관아의 심부름꾼 소년, 이도령의 몸종.",
+  "통인": "통인 — 관아의 잔심부름 아이.",
+  "광한누": "광한루 — 남원의 누각.",
+  "오작교": "오작교 — 광한루 앞의 다리.",
+  "추천": "추천 = 그네뛰기(鞦韆).",
+  "단오": "단오 — 음력 5월 5일 명절.",
+  "퇴기": "퇴기 = 은퇴한 기생.",
+  "기생": "기생 — 그대로 둔다.",
+  "수청": "수청 = 수령의 잠자리 시중을 드는 일.",
+  "책방": "책방 = 도령이 공부하는 방(관아의 서재).",
+  "퇴령": "퇴령 = 관아의 일과가 끝났음을 알리는 신호.",
+  "삼청동": "삼청동 — 서울의 동네 이름.",
+  "육예": "육례 = 혼인의 여섯 가지 예식(정식 혼례).",
+  "어사": "어사 = 암행어사, 임금이 몰래 보낸 감찰관.",
+  "본관": "본관 = 이 고을의 사또(변학도).",
+  "업붐질": "업음질 = 서로 업어 주며 노는 사랑 놀이.",
+  "말노림": "말놀음 = 한 사람이 말이 되고 한 사람이 타는 사랑 놀이."
+ },
+ "en_always": [
+  "Names: Seong Chunhyang (Chunhyang), Yi Mongryong (also called Master Yi or 'the young master'), Wolmae (Chunhyang's mother), Bangja (Master Yi's servant boy), Hyangdan (Chunhyang's maid), Byeon Hakdo (the new magistrate).",
+  "Place names: Namwon, Gwanghallu (the pavilion), Ojakgyo (the bridge), Seoul.",
+  "gisaeng = a female entertainer trained in music and poetry; keep the word 'gisaeng'.",
+  "사또 = the magistrate. 도련님 = 'young master' or 'Master Yi'. 어사/암행어사 = the secret royal inspector."
+ ],
+ "en_fix": [
+  ["\\bYi Mong-?ryong\\b", "Yi Mongryong"],
+  ["\\bLee Mong-?ryong\\b", "Yi Mongryong"],
+  ["\\bSung Chunhyang\\b", "Seong Chunhyang"],
+  ["\\bChoon-?hyang\\b", "Chunhyang"],
+  ["\\bChun-hyang\\b", "Chunhyang"],
+  ["\\bWol-mae\\b", "Wolmae"],
+  ["\\bBang-ja\\b", "Bangja"],
+  ["\\bHyang-dan\\b", "Hyangdan"],
+  ["\\bGwanghan(?:ru|lu|-ru|-lu)\\b(?! Pavilion)", "Gwanghallu"],
+  ["\\bByun Hak-?do\\b", "Byeon Hakdo"],
+  ["\\bByeon Hak-do\\b", "Byeon Hakdo"]
+ ]
+}
