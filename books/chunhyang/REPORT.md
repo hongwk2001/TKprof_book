@@ -7,7 +7,7 @@ scripts use.
 
 ## Totals
 
-- 1,435 sentence pairs · 27,106 English words · **~3 h 01 min** at 150 wpm (target 2.5–3.5 h)
+- 1,455 sentence pairs · 27,106 English words · **~3 h 01 min** at 150 wpm (target 2.5–3.5 h)
 - Source: 국립중앙박물관 신수15187 scans, transcribed in-house (leaves 1–84).
   Pages 5b–6a are missing from the scans; ch_01 P0008 is an in-house bridge marked 〔 〕.
 
