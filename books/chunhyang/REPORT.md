@@ -8,7 +8,14 @@ Claude reviews every item and fixes (`apply_en.py`) → one commit.
 
 | Ch | Title | Sentences | EN words | EN fixed | Notes |
 |---|---|---|---|---|---|
+| 01 | 남원 땅의 춘향 | 110 | 2,272 | 74 (67%) | Longest chapter (~15 min); tense made consistent |
 | 02 | 그네 타는 춘향 | 91 | 1,410 | 31 (34%) | |
+| 03 | 광한루에서 만나다 | 56 | 935 | 21 (38%) | |
+| 04 | 글이 눈에 들어오지 않는 밤 | 103 | 1,879 | 91 (88%) | 천자풀이 rewritten line by line for ESL |
+
+**Stopped after 5 of 21 chapters: the usage limit was reached.** Remaining: 05, 06, and 08–21.
+To resume: write Korean → `python apply_ko.py ch_NN <file>` → `python modernize.py ch_NN --en-only` → review → `python apply_en.py ch_NN <file>`.
+Uncertain reading: ch_04 P0007, the 律 line (원문 「조가ᄉᆞ치」) is my best guess.
 | 07 | 첫날밤과 사랑가 | 86 | 1,454 | 48 (56%) | Wordplay chapter; see flags below |
 
 ## Sexual content: please decide
