@@ -33,56 +33,51 @@
    },
    {
     "n": 3,
-    "ko": "그런데 한 가지 흠은 성질이 괴팍하고 고집이 세서, 덕을 잃기도 하고 판결을 그르치는 일이 잦았다.",
-    "en": "But he has one fault. He is bad-tempered and stubborn, so he often does wrong and judges unfairly."
+    "ko": "그런데 한 가지 흠은 성질이 괴팍하고 고집이 세서, 덕을 잃기도 하고 판결을 그르치는 일이 잦았다. 그래서 그를 아는 사람들은 모두 고집불통이라고 했다.",
+    "en": "But he has one fault. He is bad-tempered and stubborn, so he often does wrong and judges unfairly. So everyone who knows him calls him a stubborn mule."
    },
    {
     "n": 4,
-    "ko": "그래서 그를 아는 사람들은 모두 고집불통이라고 했다.",
-    "en": "So everyone who knows him calls him a stubborn mule."
-   },
-   {
-    "n": 5,
     "ko": "새 사또를 모시러 간 하인들이 인사를 올린다. 사령, 이방, 감상, 수배가 차례로 인사한다.",
     "en": "The servants who have gone to bring the new magistrate bow before him, one after another."
    },
    {
-    "n": 6,
+    "n": 5,
     "ko": "\"이방을 불러라.\" \"이방입니다.\" \"그동안 너희 고을에 별일은 없느냐?\"",
     "en": "\"Call the head clerk.\" \"Here, sir.\" \"Has anything happened in your town?\""
    },
    {
-    "n": 7,
+    "n": 6,
     "ko": "\"예, 아직 무고합니다.\" \"너희 고을 관청 노비가 삼남에서 제일이라더구나.\" \"예, 쓸 만하옵니다.\"",
     "en": "\"No, sir, all is well.\" \"I hear your town's servants are the best in the south.\" \"Yes, sir, they are good.\""
    },
    {
-    "n": 8,
+    "n": 7,
     "ko": "\"또 너희 고을에 춘향이라는 계집이 대단한 미인이라지?\" \"예.\" \"잘 있느냐?\" \"무고합니다.\"",
     "en": "\"And I hear there's a girl named Chunhyang in your town, a great beauty?\" \"Yes, sir.\" \"Is she well?\" \"She is, sir.\""
    },
    {
-    "n": 9,
+    "n": 8,
     "ko": "\"남원이 여기서 몇 리냐?\" \"육백삼십 리로소이다.\" \"마음이 바쁘다. 서둘러 떠날 채비를 하라.\"",
     "en": "\"How far is Namwon from here?\" \"Six hundred and thirty li, sir.\" \"I'm in a hurry. Get ready to leave at once.\""
    },
    {
-    "n": 10,
+    "n": 9,
     "ko": "하인들이 물러나와 수군거린다. \"우리 고을에 일 났다.\"",
     "en": "The servants step out and whisper, \"Trouble is coming to our town.\""
    },
    {
-    "n": 11,
+    "n": 10,
     "ko": "새 사또가 부임하러 내려오는데, 그 행차가 굉장하다.",
     "en": "The new magistrate sets out for Namwon, and his procession is grand."
    },
    {
-    "n": 12,
+    "n": 11,
     "ko": "구름 같은 가마에 좌우로 푸른 휘장을 활짝 펼치고, 좌우에서 하인들이 부축하며 따른다.",
     "en": "He rides in a fine sedan chair with blue curtains spread wide, and servants walk beside it on both sides."
    },
    {
-    "n": 13,
+    "n": 12,
     "ko": "\"에라, 물렀거라!\" 길을 비키라는 호령이 지엄하고, 앞뒤로 하인들이 줄지어 따른다.",
     "en": "\"Out of the way!\" the guards shout sternly, and rows of servants march before and behind."
    }
@@ -153,8 +148,8 @@
    },
    {
     "n": 5,
-    "ko": "호장이 분부를 듣고 기생 명부를 들여놓고 차례로 이름을 부르는데, 하나하나 시 구절을 붙여 부른다.",
-    "en": "The chief clerk brings in the list of gisaeng and calls their names one by one, each with a line of poetry."
+    "ko": "호장이 분부를 듣고 기생 명부를 들여놓고 차례로 이름을 부르는데, 하나하나 시 구절을 붙여 부른다. \"비 갠 뒤 동산의 밝은 달, 명월이!\" 명월이가 들어오는데, 비단 치맛자락을 걸음걸음 걷어 올려 가슴에 딱 붙인다.",
+    "en": "The chief clerk brings in the list of gisaeng and calls their names one by one, each with a line of poetry. \"The bright moon over the eastern hill after rain: Myeongwol!\" Myeongwol comes in, holding her silk skirt up against her chest."
    }
   ]
  },
@@ -168,11 +163,6 @@
   "sentences": [
    {
     "n": 1,
-    "ko": "\"비 갠 뒤 동산의 밝은 달, 명월이!\" 명월이가 들어오는데, 비단 치맛자락을 걸음걸음 걷어 올려 가슴에 딱 붙인다.",
-    "en": "\"The bright moon over the eastern hill after rain: Myeongwol!\" Myeongwol comes in, holding her silk skirt up against her chest."
-   },
-   {
-    "n": 2,
     "ko": "아장아장 걸어 들어와 \"점고 맞소.\" 하고 나간다.",
     "en": "She takes small steps in, says, \"Present, sir,\" and goes out."
    }
@@ -303,28 +293,18 @@
   "sentences": [
    {
     "n": 1,
-    "ko": "\"바람 맞은 낙춘이!\" \"예, 들어가오.\"",
-    "en": "\"Nakchun, blown by the wind!\" \"Coming!\""
+    "ko": "\"바람 맞은 낙춘이!\" \"예, 들어가오.\" 낙춘이가 잔뜩 맵시 있게 들어오는 척하는데, 세수를 한다는 말은 들었는지 이마빡까지 박박 문질러 놓았다.",
+    "en": "\"Nakchun, blown by the wind!\" \"Coming!\" Nakchun tries hard to walk in stylishly. She has heard that girls wash their faces, so she has scrubbed her forehead raw."
    },
    {
     "n": 2,
-    "ko": "낙춘이가 잔뜩 맵시 있게 들어오는 척하는데, 세수를 한다는 말은 들었는지 이마빡까지 박박 문질러 놓았다.",
-    "en": "Nakchun tries hard to walk in stylishly. She has heard that girls wash their faces, so she has scrubbed her forehead raw."
-   },
-   {
-    "n": 3,
     "ko": "분을 바른다는 말은 들었는지, 싸구려 분을 한 냥 일곱 돈어치나 사다가 벽에 회칠하듯 온 얼굴에 덕지덕지 발랐다.",
     "en": "She has heard that girls wear powder, so she bought a big pile of cheap powder and plastered it on her face like whitewash on a wall."
    },
    {
-    "n": 4,
-    "ko": "키는 사그랑이 장승만 한 것이 치맛자락을 휘두르며 턱밑에 딱 붙이고,",
-    "en": "She is as tall as a wooden totem pole. She swings her skirt and tucks it up under her chin,"
-   },
-   {
-    "n": 5,
-    "ko": "물 논의 고니 걸음으로 껑충껑충, 엉금엉금 들어오더니 \"점고 맞소.\" 하고 나간다.",
-    "en": "and she comes in with big clumsy steps like a heron in a rice field, says, \"Present,\" and goes out."
+    "n": 3,
+    "ko": "키는 사그랑이 장승만 한 것이 치맛자락을 휘두르며 턱밑에 딱 붙이고, 물 논의 고니 걸음으로 껑충껑충, 엉금엉금 들어오더니 \"점고 맞소.\" 하고 나간다.",
+    "en": "She is as tall as a wooden totem pole. She swings her skirt and tucks it up under her chin, and she comes in with big clumsy steps like a heron in a rice field, says, \"Present,\" and goes out."
    }
   ]
  },

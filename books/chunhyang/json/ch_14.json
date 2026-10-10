@@ -113,41 +113,31 @@
    },
    {
     "n": 3,
-    "ko": "오른 어깨를 벗어 메고 형장을 짚고 서서 분부를 기다리니, 사또가 소리친다.",
-    "en": "He bares his right shoulder, grips the rod, and waits. The magistrate shouts,"
+    "ko": "오른 어깨를 벗어 메고 형장을 짚고 서서 분부를 기다리니, 사또가 소리친다. \"그년을 봐주고 헛매질했다가는 네 목숨을 대신 바칠 것이니, 각별히 매우 쳐라.\"",
+    "en": "He bares his right shoulder, grips the rod, and waits. The magistrate shouts, \"If you go easy on her, you'll pay with your own life. Hit her hard!\""
    },
    {
     "n": 4,
-    "ko": "\"그년을 봐주고 헛매질했다가는 네 목숨을 대신 바칠 것이니, 각별히 매우 쳐라.\"",
-    "en": "\"If you go easy on her, you'll pay with your own life. Hit her hard!\""
-   },
-   {
-    "n": 5,
     "ko": "\"사또 분부가 지엄한데 저만한 년을 무슨 사정을 두겠습니까. 이년, 다리를 꼼짝 마라. 움직였다가는 뼈가 부러진다.\"",
     "en": "\"Your orders are strict, sir. Why would I spare her? You, don't move your legs. If you move, your bones will break.\""
    },
    {
+    "n": 5,
+    "ko": "사령은 호통을 치며 들어서서 발을 맞추어 서더니, 가만히 속삭인다. \"한두 대만 견디시오. 어쩔 수가 없소. 요 다리는 요리 틀고 저 다리는 저리 트시오.\"",
+    "en": "The guard shouts loudly as he steps up, but then he whispers quietly, \"Just bear one or two. I have no choice. Turn this leg this way and that leg that way.\""
+   },
+   {
     "n": 6,
-    "ko": "사령은 호통을 치며 들어서서 발을 맞추어 서더니, 가만히 속삭인다.",
-    "en": "The guard shouts loudly as he steps up, but then he whispers quietly,"
-   },
-   {
-    "n": 7,
-    "ko": "\"한두 대만 견디시오. 어쩔 수가 없소. 요 다리는 요리 틀고 저 다리는 저리 트시오.\"",
-    "en": "\"Just bear one or two. I have no choice. Turn this leg this way and that leg that way.\""
-   },
-   {
-    "n": 8,
     "ko": "\"매우 쳐라!\" \"예잇!\" 딱 붙이니, 부러진 형장 조각이 푸르르 날아가 공중에 빙빙 솟았다가 대뜰 아래 떨어진다.",
     "en": "\"Hit her hard!\" \"Yes, sir!\" Crack! The rod snaps, and the broken piece flies spinning into the air and lands in the yard."
    },
    {
-    "n": 9,
+    "n": 7,
     "ko": "춘향은 아픈 데를 참으려고 이를 뽀득뽀득 갈며 고개만 빙빙 돌린다. \"아이고, 이게 웬일이오.\"",
     "en": "Chunhyang grinds her teeth to bear the pain and turns her head from side to side. \"Oh, what is happening to me?\""
    },
    {
-    "n": 10,
+    "n": 8,
     "ko": "곤장이나 태장을 칠 때는 사령이 서서 하나 둘 세지만, 형장부터는 법장이라",
     "en": "With other paddles, the guard counts the strokes, but with the rod, the law has a special way."
    }
@@ -173,13 +163,8 @@
    },
    {
     "n": 3,
-    "ko": "춘향은 서러움에 겨워 맞으면서 운다.",
-    "en": "Chunhyang cries as she is beaten."
-   },
-   {
-    "n": 4,
-    "ko": "\"한 대를 맞아도 일편단심 굳은 마음, 한 남편만 섬기려는 뜻이오니, 한 번 형벌을 치신들 한 해도 못 가서 한순간인들 변하겠소.\"",
-    "en": "\"One stroke! One heart, one husband. I have one faithful heart. Beat me once, and it will not change, not in one year, not for one moment.\""
+    "ko": "춘향은 서러움에 겨워 맞으면서 운다. \"한 대를 맞아도 일편단심 굳은 마음, 한 남편만 섬기려는 뜻이오니, 한 번 형벌을 치신들 한 해도 못 가서 한순간인들 변하겠소.\"",
+    "en": "Chunhyang cries as she is beaten. \"One stroke! One heart, one husband. I have one faithful heart. Beat me once, and it will not change, not in one year, not for one moment.\""
    }
   ]
  },
@@ -193,26 +178,16 @@
   "sentences": [
    {
     "n": 1,
-    "ko": "이때 남원의 한량들이며 남녀노소 없이 모여 구경하는데, 좌우의 한량들이 말한다.",
-    "en": "All of Namwon has gathered to watch, young and old, men and women. The men in the crowd say,"
+    "ko": "이때 남원의 한량들이며 남녀노소 없이 모여 구경하는데, 좌우의 한량들이 말한다. \"모질구나, 모질구나. 우리 고을 원님이 모질구나. 저런 형벌이 어디 있으며 저런 매질이 어디 있나.\"",
+    "en": "All of Namwon has gathered to watch, young and old, men and women. The men in the crowd say, \"Cruel, so cruel! Our magistrate is cruel! Who ever saw a punishment like this, a beating like this?\""
    },
    {
     "n": 2,
-    "ko": "\"모질구나, 모질구나. 우리 고을 원님이 모질구나. 저런 형벌이 어디 있으며 저런 매질이 어디 있나.\"",
-    "en": "\"Cruel, so cruel! Our magistrate is cruel! Who ever saw a punishment like this, a beating like this?\""
+    "ko": "\"집장 사령 놈, 얼굴 잘 봐 두어라. 관아 문밖에 나오면 혼을 내 주리라.\" 보고 듣는 사람 중에 누가 눈물을 흘리지 않으랴.",
+    "en": "\"Look at that guard's face and remember it. When he comes out of the gate, we'll teach him a lesson.\" Who could watch and not cry?"
    },
    {
     "n": 3,
-    "ko": "\"집장 사령 놈, 얼굴 잘 봐 두어라. 관아 문밖에 나오면 혼을 내 주리라.\"",
-    "en": "\"Look at that guard's face and remember it. When he comes out of the gate, we'll teach him a lesson.\""
-   },
-   {
-    "n": 4,
-    "ko": "보고 듣는 사람 중에 누가 눈물을 흘리지 않으랴.",
-    "en": "Who could watch and not cry?"
-   },
-   {
-    "n": 5,
     "ko": "\"두 대를 딱 붙이니, 두 남편을 섬기지 않는 절개를 아는 내 마음, 두 번 죽어도 이 도령은 못 잊겠소.\"",
     "en": "Two strokes! \"I know a woman must not have two husbands. Kill me twice, and I still won't forget Master Yi.\""
    }
@@ -438,41 +413,36 @@
    },
    {
     "n": 3,
-    "ko": "\"소녀를 이러지 말고 산 채로 찢든지 아주 박살 내어 죽여 주면, 원한 품은 두견새가 되어,\"",
-    "en": "\"Don't do this to me! Tear me apart alive, or beat me to death. Then I'll become a cuckoo,\""
+    "ko": "\"소녀를 이러지 말고 산 채로 찢든지 아주 박살 내어 죽여 주면, 원한 품은 두견새가 되어, 적막한 빈 산 달 밝은 밤에 우리 이 도련님 잠든 뒤에 그 꿈이나 깨워 보겠소.\"",
+    "en": "\"Don't do this to me! Tear me apart alive, or beat me to death. Then I'll become a cuckoo, and on lonely moonlit nights in the empty mountains, I'll cry until I wake Master Yi from his sleep.\""
    },
    {
     "n": 4,
-    "ko": "\"적막한 빈 산 달 밝은 밤에 우리 이 도련님 잠든 뒤에 그 꿈이나 깨워 보겠소.\"",
-    "en": "\"and on lonely moonlit nights in the empty mountains, I'll cry until I wake Master Yi from his sleep.\""
-   },
-   {
-    "n": 5,
     "ko": "말을 못 하고 기절하니, 엎드려 있던 통인과 형리도 고개를 들어 눈물을 닦는다.",
     "en": "She can say no more and faints. Even the clerk and the servant boy, crouched on the ground, look up and wipe away tears."
    },
    {
-    "n": 6,
+    "n": 5,
     "ko": "매질하던 사령도 눈물을 닦고 돌아서며 말한다. \"사람의 자식은 못 할 짓이로다.\"",
     "en": "The guard who was beating her wipes his eyes and turns away. \"No human being should do this.\""
    },
    {
-    "n": 7,
+    "n": 6,
     "ko": "구경하던 사람들과 일하던 관속들도 눈물을 닦고 돌아선다. \"춘향이 매 맞는 건 사람 자식은 못 보겠다.\"",
     "en": "The crowd and the officials wipe their tears and turn away. \"No human being can watch Chunhyang beaten like this.\""
    },
    {
-    "n": 8,
+    "n": 7,
     "ko": "\"모질구나, 춘향의 정절이 모질구나. 하늘이 낸 열녀로다.\" 남녀노소 모두 눈물을 흘리며 돌아선다.",
     "en": "\"How strong, how strong is Chunhyang's faith! Heaven made her a faithful woman.\" Everyone turns away in tears."
    },
    {
-    "n": 9,
+    "n": 8,
     "ko": "사또인들 마음이 좋을 리 있으랴. \"이년, 관청에서 발악하고 매를 맞으니 좋은 게 무엇이냐. 앞으로도 또 관장을 거역하겠느냐?\"",
     "en": "Even the magistrate feels uneasy. \"You wretch, what did you gain by screaming at an official and getting beaten? Will you defy me again?\""
    },
    {
-    "n": 10,
+    "n": 9,
     "ko": "반쯤 죽은 춘향이 점점 사납게 말한다. \"여보 사또, 들으시오. 한 여인의 원한이 오뉴월에도 서리를 내린다는 말을 어찌 모르시오.\"",
     "en": "Half dead, Chunhyang grows even fiercer. \"Listen, sir. Don't you know that one woman's hatred can bring frost in the middle of summer?\""
    }
@@ -543,58 +513,53 @@
   "sentences": [
    {
     "n": 1,
-    "ko": "\"아들 없이 외동딸 내 딸 춘향을 귀하게 길러 내어, 밤낮으로 책만 놓고 공부를 일삼았다.\"",
-    "en": "\"I had no son, just my one daughter, Chunhyang. I raised her like a treasure, and she studied day and night.\""
+    "ko": "\"아들 없이 외동딸 내 딸 춘향을 귀하게 길러 내어, 밤낮으로 책만 놓고 공부를 일삼았다. 그 애가 나를 보고 하는 말이, '서러워 마오, 서러워 마오. 아들 없다 서러워 마오. 외손자가 제사를 못 지내겠소?'\"",
+    "en": "\"I had no son, just my one daughter, Chunhyang. I raised her like a treasure, and she studied day and night. She used to say to me, 'Don't be sad, Mother. Don't be sad that you have no son. Can't your grandson take care of you?'\""
    },
    {
     "n": 2,
-    "ko": "\"그 애가 나를 보고 하는 말이, '서러워 마오, 서러워 마오. 아들 없다 서러워 마오. 외손자가 제사를 못 지내겠소?'\"",
-    "en": "\"She used to say to me, 'Don't be sad, Mother. Don't be sad that you have no son. Can't your grandson take care of you?'\""
-   },
-   {
-    "n": 3,
     "ko": "\"어미에게 지극한 정성이 누구인들 내 딸보다 더하겠는가. 자식 사랑에 위아래가 다르겠는가.\"",
     "en": "\"No one could love her mother more than my daughter. Is a mother's love different for high and low?\""
    },
    {
-    "n": 4,
+    "n": 3,
     "ko": "\"이 내 마음 둘 데 없네. 가슴에 불이 붙어 한숨이 연기로다.\"",
     "en": "\"I don't know where to put my heart. My chest is on fire, and my sighs are smoke.\""
    },
    {
-    "n": 5,
+    "n": 4,
     "ko": "\"김 번수야, 이 번수야, 윗분 명령이 엄하다고 이렇게까지 모질게 쳤느냐.\"",
     "en": "\"Kim, Lee! The order was strict, but did you have to beat her so cruelly?\""
    },
    {
-    "n": 6,
+    "n": 5,
     "ko": "\"아이고, 내 딸 상처 좀 보소. 눈같이 흰 두 다리에 연지 같은 피가 비쳤네.\"",
     "en": "\"Oh, look at my daughter's wounds! Her legs were as white as snow, and now they're red with blood.\""
    },
    {
-    "n": 7,
+    "n": 6,
     "ko": "\"명문가 귀한 집 부인들은 눈먼 딸도 원한다더라. 차라리 그런 집에 태어나지 못하고, 기생 월매의 딸이 되어 이런 꼴이 웬일이냐.\"",
     "en": "\"Noble ladies would be glad to have even a blind daughter. Why couldn't she be born in such a house? Why was she born a gisaeng's daughter to suffer like this?\""
    },
    {
-    "n": 8,
+    "n": 7,
     "ko": "\"춘향아, 정신 차려라. 아이고, 아이고, 내 신세야.\" 하며 말한다. \"향단아, 관아 문밖에 가서 삯군 둘만 사 오너라. 서울로 급히 사람을 보내련다.\"",
     "en": "\"Chunhyang, wake up! Oh, oh, my life!\" Then she says, \"Hyangdan, go out the gate and hire two runners. I'll send them to Seoul at once.\""
    },
    {
-    "n": 9,
+    "n": 8,
     "ko": "춘향이 급히 사람을 보낸다는 말을 듣고 말한다. \"어머니, 마오. 그게 무슨 말씀이오.\"",
     "en": "When Chunhyang hears this, she says, \"No, Mother, don't. What are you saying?\""
    },
    {
-    "n": 10,
+    "n": 9,
     "ko": "\"심부름꾼이 서울에 올라가 도련님이 보시면, 어찌할 줄 몰라 마음을 끓이다 병이라도 나면 그게 도리어 훼절이오.\"",
     "en": "\"If the runner goes to Seoul and Master Yi sees him, he won't know what to do. He'll worry himself sick, and that would be even worse.\""
    },
    {
-    "n": 11,
-    "ko": "\"그런 말씀 마시고 옥으로 가십시다.\" 사령이 춘향을 등에 업고",
-    "en": "\"Don't say such things. Let's just go to the prison.\" The guard carries Chunhyang on his back,"
+    "n": 10,
+    "ko": "\"그런 말씀 마시고 옥으로 가십시다.\" 사령이 춘향을 등에 업는다.",
+    "en": "\"Don't say such things. Let's just go to the prison.\" The guard carries Chunhyang on his back."
    }
   ]
  }

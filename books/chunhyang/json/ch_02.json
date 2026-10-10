@@ -78,26 +78,21 @@
    },
    {
     "n": 12,
-    "ko": "\"향단아, 밀어라.\"",
-    "en": "\"Hyangdan, push me.\""
+    "ko": "\"향단아, 밀어라.\" 한 번 굴러 힘을 주고 두 번 굴러 힘을 주니, 발밑의 티끌이 바람을 따라 펄펄 날리고 그네는 앞뒤로 점점 멀어진다.",
+    "en": "\"Hyangdan, push me.\" She pushes off once, then twice, putting her strength into it. Dust flies up from under her feet, and the swing goes higher and higher."
    },
    {
     "n": 13,
-    "ko": "한 번 굴러 힘을 주고 두 번 굴러 힘을 주니, 발밑의 티끌이 바람을 따라 펄펄 날리고 그네는 앞뒤로 점점 멀어진다.",
-    "en": "She pushes off once, then twice, putting her strength into it. Dust flies up from under her feet, and the swing goes higher and higher."
-   },
-   {
-    "n": 14,
     "ko": "머리 위의 나뭇잎은 몸을 따라 흔들흔들 오고 간다.",
     "en": "The leaves above her head shake back and forth as she moves."
    },
    {
-    "n": 15,
+    "n": 14,
     "ko": "살펴보니 녹음 속의 붉은 치맛자락이 바람에 나부끼니, 구만 리 높은 하늘 흰 구름 사이로 번갯불이 번쩍이는 듯하다.",
     "en": "Her red skirt flutters in the wind among the green trees, looking like a flash of lightning through the white clouds in the high sky."
    },
    {
-    "n": 16,
+    "n": 15,
     "ko": "앞에 얼른 보이는가 하면 어느새 뒤에 가 있다.",
     "en": "One moment she is in front, and the next moment she is behind."
    }
@@ -164,36 +159,31 @@
    },
    {
     "n": 11,
-    "ko": "혼잣말로 중얼거린다.",
-    "en": "He mutters to himself."
+    "ko": "혼잣말로 중얼거린다. \"조각배 타고 범려를 따라 오호로 떠났으니 서시는 올 리 없고,\"",
+    "en": "He mutters to himself, \"The most beautiful women in history are long gone. Xi Shi sailed away on a little boat,\""
    },
    {
     "n": 12,
-    "ko": "\"조각배 타고 범려를 따라 오호로 떠났으니 서시는 올 리 없고,\"",
-    "en": "\"The most beautiful women in history are long gone. Xi Shi sailed away on a little boat,\""
-   },
-   {
-    "n": 13,
     "ko": "\"달 밝은 해성에서 슬픈 노래로 초패왕과 이별하던 우미인도 올 리 없고,\"",
     "en": "\"and Lady Yu sang a sad song when she said goodbye to her king.\""
    },
    {
-    "n": 14,
+    "n": 13,
     "ko": "\"궁궐을 하직하고 오랑캐 땅으로 떠나 푸른 무덤에 홀로 묻혔으니 왕소군도 올 리 없다.\"",
     "en": "\"Wang Zhaojun left the palace for a faraway land and was buried there alone.\""
    },
    {
-    "n": 15,
+    "n": 14,
     "ko": "\"장신궁에 갇혀 백두음을 읊었으니 반첩여도 올 리 없고, 소양궁에서 임금을 모시던 조비연도 올 리 없다.\"",
     "en": "\"Lady Ban was locked away in a palace, and Zhao Feiyan, the king's favorite, is gone too. None of them can be here.\""
    },
    {
-    "n": 16,
+    "n": 15,
     "ko": "\"그렇다면 낙포의 선녀인가, 무산의 선녀인가?\"",
     "en": "\"So who is she? A fairy from the river, or a fairy from the mountains?\""
    },
    {
-    "n": 17,
+    "n": 16,
     "ko": "도련님은 넋이 하늘로 날아가고 몸만 남은 듯하니, 참으로 정신이 나간 사람이로다.",
     "en": "Master Yi's spirit seems to have flown into the sky, leaving only his body behind; he looks like a man who has completely lost his mind."
    }
@@ -225,33 +215,28 @@
    },
    {
     "n": 4,
-    "ko": "통인이 살펴보고 아뢴다.",
-    "en": "Tongin looks carefully and answers."
+    "ko": "통인이 살펴보고 아뢴다. \"다른 것이 아니라, 이 고을 기생 월매의 딸 춘향이라는 아이로소이다.\"",
+    "en": "Tongin looks carefully and answers, \"It is not anything else; it is a girl named Chunhyang, the daughter of Wolmae, a gisaeng from this town.\""
    },
    {
     "n": 5,
-    "ko": "\"다른 것이 아니라, 이 고을 기생 월매의 딸 춘향이라는 아이로소이다.\"",
-    "en": "\"It is not anything else; it is a girl named Chunhyang, the daughter of Wolmae, a gisaeng from this town.\""
-   },
-   {
-    "n": 6,
     "ko": "도령이 엉겁결에 말한다. \"참 좋다, 훌륭하다!\"",
     "en": "The young master says suddenly, \"She is wonderful! She is magnificent!\""
    },
    {
-    "n": 7,
+    "n": 6,
     "ko": "통인이 아뢴다. \"제 어미는 기생이지만, 춘향이는 도도하여 기생 노릇을 마다합니다.\"",
     "en": "Tongin answers, \"Even though her mother is a gisaeng, Chunhyang is proud and refuses to act like one.\""
    },
    {
-    "n": 8,
+    "n": 7,
     "ko": "\"꽃과 풀의 이름에 글자 뜻까지 헤아리고, 바느질 솜씨와 글재주를 함께 갖추어 여염집 처녀와 다름이 없사옵니다.\"",
     "en": "\"She knows the names of flowers and the meanings of words, and she is good at both sewing and writing. She is just like a girl from a respectable family.\""
    },
    {
-    "n": 9,
-    "ko": "도령이 허허 웃고 방자를 불러 분부한다.",
-    "en": "The young master laughs and calls Bangja to give him an order."
+    "n": 8,
+    "ko": "도령이 허허 웃고 방자를 불러 분부한다. \"들으니 기생의 딸이라 하니, 급히 가서 불러 오너라.\"",
+    "en": "The young master laughs and calls Bangja to give him an order. \"I heard she is the daughter of a gisaeng. Go and bring her here immediately.\""
    }
   ],
   "issues": []
@@ -266,111 +251,81 @@
   "sentences": [
    {
     "n": 1,
-    "ko": "\"들으니 기생의 딸이라 하니, 급히 가서 불러 오너라.\"",
-    "en": "\"I heard she is the daughter of a gisaeng. Go and bring her here immediately.\""
+    "ko": "방자 놈이 아뢴다. \"춘향이는 눈 같은 살결과 꽃 같은 얼굴로 남쪽 지방에 이름이 높습니다.\"",
+    "en": "Bangja answers him, \"Chunhyang has skin as white as snow and a face as beautiful as a flower. She is very famous in the southern region.\""
    },
    {
     "n": 2,
-    "ko": "방자 놈이 아뢴다.",
-    "en": "Bangja answers him."
-   },
-   {
-    "n": 3,
-    "ko": "\"춘향이는 눈 같은 살결과 꽃 같은 얼굴로 남쪽 지방에 이름이 높습니다.\"",
-    "en": "\"Chunhyang has skin as white as snow and a face as beautiful as a flower. She is very famous in the southern region.\""
-   },
-   {
-    "n": 4,
     "ko": "\"첨사, 병사, 부사, 군수, 현감 나리들에, 엄지발가락이 두 뼘 반씩 되는 거들먹거리는 양반 난봉꾼들도 숱하게 보려 했지만 못 봤습니다.\"",
     "en": "\"Navy officers, army officers, county chiefs, and plenty of rich playboys who think they are big shots all tried to see her, and they all failed.\""
    },
    {
-    "n": 5,
+    "n": 3,
     "ko": "\"춘향이는 장강의 미모와 임사의 덕, 이두의 글솜씨, 태사의 온화함, 이비의 굳은 절개를 다 품었습니다.\"",
     "en": "\"She has the beauty, the goodness, the writing talent, the gentle heart, and the loyalty of the most famous women in history.\""
    },
    {
-    "n": 6,
+    "n": 4,
     "ko": "\"천하의 절색이요 여자 중의 군자라, 황송하오나 함부로 불러오기 어렵습니다.\"",
     "en": "\"She is so perfect that it is hard to call her here without showing great respect.\""
    },
    {
-    "n": 7,
-    "ko": "도령이 크게 웃는다.",
-    "en": "Master Yi laughs loudly."
+    "n": 5,
+    "ko": "도령이 크게 웃는다. \"방자야, 네가 물건마다 다 임자가 있다는 말을 모르는구나.\"",
+    "en": "Master Yi laughs loudly, \"Bangja, you don't know that every precious thing has an owner.\""
    },
    {
-    "n": 8,
-    "ko": "\"방자야, 네가 물건마다 다 임자가 있다는 말을 모르는구나.\"",
-    "en": "\"Bangja, you don't know that every precious thing has an owner.\""
-   },
-   {
-    "n": 9,
+    "n": 6,
     "ko": "\"형산의 백옥과 여수의 황금도 다 임자가 따로 있느니라. 잔말 말고 불러 오너라.\"",
     "en": "\"Even the finest jade and the purest gold have an owner. Stop talking and go bring her.\""
    },
    {
-    "n": 10,
+    "n": 7,
     "ko": "방자는 분부를 듣고 춘향을 부르러 건너간다.",
     "en": "Bangja follows the order and goes across to call Chunhyang."
    },
    {
-    "n": 11,
-    "ko": "맵시 있는 방자 녀석이 서왕모의 편지를 전하던 파랑새처럼 이리저리 건너가서 부른다.",
-    "en": "The stylish Bangja runs back and forth like a bird carrying an important message."
+    "n": 8,
+    "ko": "맵시 있는 방자 녀석이 서왕모의 편지를 전하던 파랑새처럼 이리저리 건너가서 부른다. \"여봐라, 이 애 춘향아!\"",
+    "en": "The stylish Bangja runs back and forth like a bird carrying an important message. \"Hey, girl! Chunhyang!\""
    },
    {
-    "n": 12,
-    "ko": "\"여봐라, 이 애 춘향아!\"",
-    "en": "\"Hey, girl! Chunhyang!\""
+    "n": 9,
+    "ko": "춘향이 깜짝 놀란다. \"무슨 소리를 그따위로 질러서 사람 정신을 놀래느냐?\"",
+    "en": "Chunhyang is surprised, \"Why are you shouting like that? You're startling people!\""
    },
    {
-    "n": 13,
-    "ko": "춘향이 깜짝 놀란다.",
-    "en": "Chunhyang is surprised."
-   },
-   {
-    "n": 14,
-    "ko": "\"무슨 소리를 그따위로 질러서 사람 정신을 놀래느냐?\"",
-    "en": "\"Why are you shouting like that? You're startling people!\""
-   },
-   {
-    "n": 15,
+    "n": 10,
     "ko": "\"이 애야, 말 마라. 일이 났다.\"",
     "en": "\"Don't say that. There is a problem.\""
    },
    {
-    "n": 16,
+    "n": 11,
     "ko": "\"일이라니, 무슨 일?\"",
     "en": "\"What kind of problem?\""
    },
    {
-    "n": 17,
+    "n": 12,
     "ko": "\"사또 자제 도련님이 광한루에 오셨다가 네가 노는 모양을 보고 불러오라고 분부하셨다.\"",
     "en": "\"The magistrate's son, the young master, came to Gwanghallu and saw you playing around. He ordered me to bring you.\""
    },
    {
-    "n": 18,
-    "ko": "춘향이 화를 낸다.",
-    "en": "Chunhyang gets angry."
+    "n": 13,
+    "ko": "춘향이 화를 낸다. \"네가 미친 자식이로구나. 도련님이 어찌 나를 알고 부른단 말이냐?\"",
+    "en": "Chunhyang gets angry, \"You must be crazy! How does the young master know who I am?\""
    },
    {
-    "n": 19,
-    "ko": "\"네가 미친 자식이로구나. 도련님이 어찌 나를 알고 부른단 말이냐?\"",
-    "en": "\"You must be crazy! How does the young master know who I am?\""
-   },
-   {
-    "n": 20,
+    "n": 14,
     "ko": "\"이 자식, 네가 종달새 삼씨 까먹듯 내 이야기를 재잘재잘 일러바쳤나 보다.\"",
     "en": "\"You must have told him everything about me like a bird chirping news.\""
    },
    {
-    "n": 21,
+    "n": 15,
     "ko": "\"아니다. 내가 네 얘기를 할 리가 없지. 네가 잘못했지, 내가 잘못했냐? 내 말을 들어 보아라.\"",
     "en": "\"No, I wouldn't tell him anything. You made a mistake, not me. Listen to me first.\""
    },
    {
-    "n": 22,
+    "n": 16,
     "ko": "\"계집아이가 그네를 타려면, 너희 집 후원 담장 안에 줄을 매고 남이 알까 모를까 조용히 타는 게 도리에 맞지.\"",
     "en": "\"If a girl wants to ride a swing, she should do it quietly inside her own backyard so others don't notice.\""
    }
@@ -417,56 +372,46 @@
    },
    {
     "n": 7,
-    "ko": "춘향이 대답한다.",
-    "en": "Chunhyang answers."
+    "ko": "춘향이 대답한다. \"네 말이 옳기는 하다만, 오늘은 단옷날이 아니냐. 나만 탄 게 아니라 다른 집 처녀들도 여기 와서 함께 그네를 탔다.\"",
+    "en": "Chunhyang answers, \"You are right in a way, but isn't today the Dano festival? I wasn't the only one. Girls from other families came here and rode the swing too.\""
    },
    {
     "n": 8,
-    "ko": "\"네 말이 옳기는 하다만, 오늘은 단옷날이 아니냐. 나만 탄 게 아니라 다른 집 처녀들도 여기 와서 함께 그네를 탔다.\"",
-    "en": "\"You are right in a way, but isn't today the Dano festival? I wasn't the only one. Girls from other families came here and rode the swing too.\""
-   },
-   {
-    "n": 9,
     "ko": "\"그뿐 아니라, 설사 내 얘기를 했다 하더라도 나는 지금 관청에 매인 기생이 아니다.\"",
     "en": "\"Besides, even if you did talk about me, I am not a gisaeng who has to answer to the government office.\""
    },
    {
-    "n": 10,
+    "n": 9,
     "ko": "\"여염집 사람을 함부로 불러오라 할 리도 없고, 부른다 해도 갈 사람도 없다. 애초에 네가 말을 잘못 들은 게다.\"",
     "en": "\"He has no right to call for a girl from a private home, and even if he calls, she doesn't have to go. You must have heard him wrong.\""
    },
    {
-    "n": 11,
+    "n": 10,
     "ko": "방자가 무안을 당하고 광한루로 돌아와 도련님께 아뢴다.",
     "en": "Bangja feels embarrassed. He returns to Gwanghallu and reports this to Master Yi."
    },
    {
+    "n": 11,
+    "ko": "도련님이 그 말을 듣고 말한다. \"기특한 사람이로다. 말인즉 옳구나. 다시 가서 이러이러하게 말하여라.\"",
+    "en": "Master Yi hears this and says, \"She is a remarkable girl. What she says is right. Go back and tell her this and this.\""
+   },
+   {
     "n": 12,
-    "ko": "도련님이 그 말을 듣고 말한다. \"기특한 사람이로다. 말인즉 옳구나.\"",
-    "en": "Master Yi hears this and says, \"She is a remarkable girl. What she says is right.\""
-   },
-   {
-    "n": 13,
-    "ko": "\"다시 가서 이러이러하게 말하여라.\"",
-    "en": "\"Go back and tell her this and this.\""
-   },
-   {
-    "n": 14,
     "ko": "방자가 전갈을 받아 건너가니, 그 사이 춘향은 제 집으로 돌아가 버렸다.",
     "en": "Bangja takes the message and crosses over, but in the meantime, Chunhyang has already returned home."
    },
    {
-    "n": 15,
+    "n": 13,
     "ko": "집으로 찾아가니 모녀가 마주 앉아 한창 점심을 먹고 있다.",
     "en": "When he arrives at her house, he finds mother and daughter sitting across from each other, eating lunch."
    },
    {
-    "n": 16,
+    "n": 14,
     "ko": "방자가 들어가니 춘향이 말한다. \"너 왜 또 오느냐?\"",
     "en": "As Bangja enters, Chunhyang asks, \"Why are you here again?\""
    },
    {
-    "n": 17,
+    "n": 15,
     "ko": "\"황송하다. 도련님이 다시 전갈하셨다.\"",
     "en": "\"Sorry to bother you. The young master has sent another message.\""
    }
@@ -503,31 +448,26 @@
    },
    {
     "n": 5,
-    "ko": "그때 춘향 어머니가 썩 나앉으며 말한다.",
-    "en": "Then Chunhyang's mother sits up and speaks."
+    "ko": "그때 춘향 어머니가 썩 나앉으며 말한다. \"꿈이라는 것이 전혀 헛것이 아니로구나.\"",
+    "en": "Then Chunhyang's mother sits up and speaks, \"Dreams are not just empty fantasies at all.\""
    },
    {
     "n": 6,
-    "ko": "\"꿈이라는 것이 전혀 헛것이 아니로구나.\"",
-    "en": "\"Dreams are not just empty fantasies at all.\""
-   },
-   {
-    "n": 7,
     "ko": "\"간밤에 꿈을 꾸니, 난데없는 청룡 한 마리가 벽도 연못에 잠겨 보이더라.\"",
     "en": "\"Last night I dreamed of a blue dragon. It appeared out of nowhere and lay in the peach-tree pond.\""
    },
    {
-    "n": 8,
+    "n": 7,
     "ko": "\"무슨 좋은 일이 있으려나 했더니, 우연한 일이 아니로다.\"",
     "en": "\"I wondered if something good would happen, and it turns out this is no accident.\""
    },
    {
-    "n": 9,
+    "n": 8,
     "ko": "\"또 들으니 사또 자제 도련님 이름이 몽룡이라 하니, 꿈 몽 자, 용 룡 자로 신통하게도 꿈과 맞았구나.\"",
     "en": "\"I also heard that the magistrate's son is named Mongryong. The characters for 'dream' and 'dragon' match my dream perfectly!\""
    },
    {
-    "n": 10,
+    "n": 9,
     "ko": "\"그러나 저러나 양반이 부르시는데 안 갈 수 있겠느냐. 잠깐 가서 다녀오너라.\"",
     "en": "\"But even so, how can you refuse when a nobleman invites you? Go there for a short visit.\""
    }

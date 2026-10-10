@@ -68,13 +68,8 @@
    },
    {
     "n": 10,
-    "ko": "하루는 월매가 크게 마음먹고 남편을 모셔 놓고 공손히 말했다.",
-    "en": "One day, Wolmae made up her mind. She sat her husband down and spoke to him politely."
-   },
-   {
-    "n": 11,
-    "ko": "\"제 말씀을 들어 보십시오.\"",
-    "en": "\"Please listen to what I have to say.\""
+    "ko": "하루는 월매가 크게 마음먹고 남편을 모셔 놓고 공손히 말했다. \"제 말씀을 들어 보십시오.\"",
+    "en": "One day, Wolmae made up her mind. She sat her husband down and spoke to him politely. \"Please listen to what I have to say.\""
    }
   ],
   "issues": []
@@ -235,26 +230,21 @@
    },
    {
     "n": 14,
-    "ko": "옥 같은 딸이었다.",
-    "en": "It was a daughter, as lovely as jade."
+    "ko": "옥 같은 딸이었다. 월매는 오랫동안 기다리던 아들은 아니어도 마음속 한이 조금은 풀렸다.",
+    "en": "It was a daughter, as lovely as jade. It was not the son she had wanted, but her long sorrow was eased a little."
    },
    {
     "n": 15,
-    "ko": "월매는 오랫동안 기다리던 아들은 아니어도 마음속 한이 조금은 풀렸다.",
-    "en": "It was not the son she had wanted, but her long sorrow was eased a little."
-   },
-   {
-    "n": 16,
     "ko": "그 딸을 사랑하는 마음을 어찌 다 말하겠는가.",
     "en": "Words cannot say how much she loved her baby."
    },
    {
-    "n": 17,
+    "n": 16,
     "ko": "이름을 춘향이라 부르며 손안의 보물처럼 길렀다.",
     "en": "She named her Chunhyang and raised her like a treasure held in her hand."
    },
    {
-    "n": 18,
+    "n": 17,
     "ko": "춘향은 효성이 비할 데 없고, 마음씨는 기린처럼 어질었다.",
     "en": "Chunhyang was a wonderfully devoted daughter, and her heart was gentle and kind."
    }
@@ -336,21 +326,16 @@
    },
    {
     "n": 14,
-    "ko": "하루는 이도령이 방자를 불러 말했다.",
-    "en": "One day, Master Yi calls Bangja and says,"
+    "ko": "하루는 이도령이 방자를 불러 말했다. \"이 고을에 경치 좋은 곳이 어디냐? 시흥과 봄흥이 절로 나니, 경치 좋은 곳을 일러라.\"",
+    "en": "One day, Master Yi calls Bangja and says, \"Where are the beautiful places in this town? Spring makes me want to write poems. Tell me the best spots.\""
    },
    {
     "n": 15,
-    "ko": "\"이 고을에 경치 좋은 곳이 어디냐? 시흥과 봄흥이 절로 나니, 경치 좋은 곳을 일러라.\"",
-    "en": "\"Where are the beautiful places in this town? Spring makes me want to write poems. Tell me the best spots.\""
-   },
-   {
-    "n": 16,
     "ko": "방자 놈이 아뢰었다. \"글공부하시는 도련님이 경치 좋은 곳은 찾아 무엇하시렵니까?\"",
     "en": "Bangja answers, \"You are supposed to be studying, young master. Why do you want to go sightseeing?\""
    },
    {
-    "n": 17,
+    "n": 16,
     "ko": "이도령이 말했다. \"무식한 소리로구나. 예로부터 글 잘하는 선비도 좋은 경치를 구경하는 것이 시 짓는 근본이었다.\"",
     "en": "Master Yi says, \"What a foolish thing to say. Since ancient times, great writers have looked at beautiful scenery. It is where poetry begins.\""
    }
@@ -407,8 +392,8 @@
    },
    {
     "n": 9,
-    "ko": "\"전라도로 말하자면 태인의 피향정, 무주의 한풍루,\"",
-    "en": "\"In Jeolla Province, there are pavilions in Taein and Muju,\""
+    "ko": "\"전라도로 말하자면 태인의 피향정, 무주의 한풍루, 전주의 한벽루가 좋습니다만, 남원의 경치도 들어 보십시오.\"",
+    "en": "\"In Jeolla Province, there are pavilions in Taein and Muju, and the Hanbyeongnu Pavilion in Jeonju. But listen to what Namwon has.\""
    }
   ],
   "issues": []
@@ -423,78 +408,68 @@
   "sentences": [
    {
     "n": 1,
-    "ko": "\"전주의 한벽루가 좋습니다만, 남원의 경치도 들어 보십시오.\"",
-    "en": "\"and the Hanbyeongnu Pavilion in Jeonju. But listen to what Namwon has.\""
-   },
-   {
-    "n": 2,
     "ko": "\"동문 밖에 나가면 깊은 숲이 있고 선원사가 좋습니다.\"",
     "en": "\"Out the East Gate, there is a deep forest and the lovely Seonwon Temple.\""
    },
    {
-    "n": 3,
+    "n": 2,
     "ko": "\"서문 밖에 나가면 관왕묘가 있는데, 옛 영웅의 엄한 위풍이 오늘 일처럼 생생합니다.\"",
     "en": "\"Out the West Gate is the shrine of the old Chinese hero Guan Yu. His stern spirit still feels alive today.\""
    },
    {
-    "n": 4,
+    "n": 3,
     "ko": "\"남문 밖에 나가면 광한루와 오작교와 영주각이 좋습니다.\"",
     "en": "\"Out the South Gate are Gwanghallu Pavilion, Ojakgyo Bridge, and Yeongjugak. They are beautiful.\""
    },
    {
-    "n": 5,
+    "n": 4,
     "ko": "\"북문 밖에 나가면 푸른 하늘에 깎아지른 연꽃 같은 봉우리가 우뚝 서 있는 교룡산성이 좋습니다. 가실 곳을 정하십시오.\"",
     "en": "\"Out the North Gate, Gyoryong Fortress rises like a lotus flower into the blue sky. Please choose where to go.\""
    },
    {
-    "n": 6,
+    "n": 5,
     "ko": "도련님이 말했다. \"네 말을 들어 보니 광한루와 오작교가 경치가 좋겠구나. 구경 가자.\"",
     "en": "Master Yi says, \"From what you say, Gwanghallu and Ojakgyo must be the best. Let's go and see them.\""
    },
    {
+    "n": 6,
+    "ko": "도련님은 사또 앞에 들어가 공손히 아뢰었다. \"오늘 날씨가 화창하니 잠깐 나가서 시를 읊으며 시운도 생각해 보고 싶습니다. 고을 구경을 다녀오겠습니다.\"",
+    "en": "Master Yi goes to the magistrate and speaks politely, \"The weather is sunny today, so I would like to go out for a moment to recite poems and think of new ideas. I will go sightseeing around the town.\""
+   },
+   {
     "n": 7,
-    "ko": "도련님은 사또 앞에 들어가 공손히 아뢰었다.",
-    "en": "Master Yi goes to the magistrate and speaks politely."
-   },
-   {
-    "n": 8,
-    "ko": "\"오늘 날씨가 화창하니 잠깐 나가서 시를 읊으며 시운도 생각해 보고 싶습니다. 고을 구경을 다녀오겠습니다.\"",
-    "en": "\"The weather is sunny today, so I would like to go out for a moment to recite poems and think of new ideas. I will go sightseeing around the town.\""
-   },
-   {
-    "n": 9,
     "ko": "사또가 크게 기뻐하며 허락하고 말했다. \"남원의 풍물을 구경하고 오되, 시 지을 제목도 생각해라.\"",
     "en": "The magistrate is pleased and gives permission. \"Go and see Namwon, but think about topics for your poems too.\""
    },
    {
-    "n": 10,
+    "n": 8,
     "ko": "도련님은 \"분부대로 하겠습니다.\" 하고 물러나왔다.",
     "en": "Master Yi says, \"I will do as you say,\" and leaves."
    },
    {
-    "n": 11,
+    "n": 9,
     "ko": "\"방자야, 나귀에 안장을 지어라.\"",
     "en": "\"Bangja, prepare the saddle for my donkey.\""
    },
    {
-    "n": 12,
+    "n": 10,
     "ko": "방자가 분부를 듣고 나귀에 안장을 짓는다.",
     "en": "Bangja hears the order and saddles the donkey."
    },
    {
-    "n": 13,
+    "n": 11,
     "ko": "붉은 굴레에 산호 채찍, 옥으로 꾸민 안장과 황금 재갈, 푸르고 붉은 고운 고삐에 주먹만 한 술을 덥석 달았다.",
     "en": "The bridle is red, the whip is coral, the saddle is decorated with jade, and the bit is gold. The reins are blue and red, with big tassels."
    },
    {
-    "n": 14,
+    "n": 12,
     "ko": "나귀 가슴에는 방울을 줄줄이 달아, 염불하는 스님이 염주를 메듯 꾸민 뒤 나귀를 대령했다.",
     "en": "Bells hang across the donkey's chest like a monk's prayer beads. Then Bangja brings the donkey."
    },
    {
-    "n": 15,
-    "ko": "도련님 모습을 보아라. 옥 같은 얼굴에 신선 같은 풍채, 고운 얼굴에 긴 머리를 곱게",
-    "en": "Look at Master Yi! He has a face like jade and looks like an immortal. His long hair is"
+    "n": 13,
+    "ko": "도련님 모습을 보아라. 옥 같은 얼굴에 신선 같은 풍채로다.",
+    "en": "Look at Master Yi! He has a face like jade and looks like an immortal."
    }
   ],
   "issues": []
@@ -509,8 +484,8 @@
   "sentences": [
    {
     "n": 1,
-    "ko": "빗어 땋아 내리고, 고운 비단 옷에 갓을 받쳐 쓰니 한양 귀공자의 풍채가 늠름하다.",
-    "en": "neatly combed and braided. He wears fine silk clothes and a gat hat, and he looks like a proud young nobleman from the capital."
+    "ko": "긴 머리를 곱게 빗어 땋아 내리고, 고운 비단 옷에 갓을 받쳐 쓰니 한양 귀공자의 풍채가 늠름하다.",
+    "en": "His long hair is neatly combed and braided. He wears fine silk clothes and a gat hat, and he looks like a proud young nobleman from the capital."
    },
    {
     "n": 2,
@@ -575,36 +550,31 @@
    },
    {
     "n": 8,
-    "ko": "흰 눈 같은 흰 나비와 벌들은 꽃술을 물고 너울너울 춤을 춘다.",
-    "en": "White butterflies, as white as snow, and bees dance around with flower pollen in their mouths."
+    "ko": "흰 눈 같은 흰 나비와 벌들은 꽃술을 물고 너울너울 춤을 춘다. 황금 같은 꾀꼬리는 숲으로 날아든다.",
+    "en": "White butterflies, as white as snow, and bees dance around with flower pollen in their mouths. Golden orioles fly into the trees."
    },
    {
     "n": 9,
-    "ko": "황금 같은 꾀꼬리는 숲으로 날아든다.",
-    "en": "Golden orioles fly into the trees."
-   },
-   {
-    "n": 10,
     "ko": "광한루의 경치도 좋거니와 오작교가 더욱 좋구나. 가히 호남 제일의 누각이로다.",
     "en": "The view from Gwanghallu is lovely, but Ojakgyo Bridge is even better. It must be the best pavilion in all of Honam."
    },
    {
-    "n": 11,
+    "n": 10,
     "ko": "오작교가 분명하다면 견우와 직녀는 어디 있나.",
     "en": "If this is really Ojakgyo, the magpie bridge of the old story, then where are the Cowherd and the Weaver Girl?"
    },
    {
-    "n": 12,
+    "n": 11,
     "ko": "이런 좋은 곳에 시가 없을쏘냐. 도련님이 시 두 구절을 지었다.",
     "en": "How can there be no poetry in such a beautiful place? Master Yi writes two lines of poetry."
    },
    {
-    "n": 13,
+    "n": 12,
     "ko": "\"높고 밝은 오작교의 배요, 광한루의 옥 섬돌이로다.\"",
     "en": "\"High and bright is the magpie bridge, and Gwanghallu has steps of jade.\""
    },
    {
-    "n": 14,
+    "n": 13,
     "ko": "\"묻노니 하늘의 직녀는 누구인가. 오늘은 내가 견우로구나.\"",
     "en": "\"Tell me, who is the Weaver Girl of heaven? Today, I am the Cowherd.\""
    }

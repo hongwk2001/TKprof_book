@@ -1,6 +1,6 @@
 # Card merges for approval
 
-135 merges and 9 edits in 21 chapters. Cards in these chapters: 1455 → 1313.
+104 merges and 9 edits in 21 chapters. Cards in these chapters: 1455 → 1347.
 
 Each block shows the cards before, then the merged English (→) and Korean (한).
 
@@ -68,12 +68,6 @@ Each block shows the cards before, then the merged English (→) and Korean (한
 - → He mutters to himself, "The most beautiful women in history are long gone. Xi Shi sailed away on a little boat,"
 - 한: 혼잣말로 중얼거린다. "조각배 타고 범려를 따라 오호로 떠났으니 서시는 올 리 없고,"
 
-**P0004.1 + P0004.2**
-- "Tongin."
-- "Yes?"
-- → "Tongin." "Yes?"
-- 한: "통인아." "예."
-
 **P0004.4 + P0004.5**
 - Tongin looks carefully and answers.
 - "It is not anything else; it is a girl named Chunhyang, the daughter of Wolmae, a gisaeng from this town."
@@ -110,13 +104,6 @@ Each block shows the cards before, then the merged English (→) and Korean (한
 - → Chunhyang is surprised, "Why are you shouting like that? You're startling people!"
 - 한: 춘향이 깜짝 놀란다. "무슨 소리를 그따위로 질러서 사람 정신을 놀래느냐?"
 
-**P0005.15 + P0005.16 + P0005.17**
-- "Don't say that. There is a problem."
-- "What kind of problem?"
-- "The magistrate's son, the young master, came to Gwanghallu and saw you playing around. He ordered me to bring you."
-- → "Don't say that. There is a problem." "What kind of problem?" "The magistrate's son, the young master, came to Gwanghallu and saw you playing around. He ordered me to bring you."
-- 한: "이 애야, 말 마라. 일이 났다." "일이라니, 무슨 일?" "사또 자제 도련님이 광한루에 오셨다가 네가 노는 모양을 보고 불러오라고 분부하셨다."
-
 **P0005.18 + P0005.19**
 - Chunhyang gets angry.
 - "You must be crazy! How does the young master know who I am?"
@@ -142,43 +129,6 @@ Each block shows the cards before, then the merged English (→) and Korean (한
 - 한: 그때 춘향 어머니가 썩 나앉으며 말한다. "꿈이라는 것이 전혀 헛것이 아니로구나."
 
 ## ch_03
-
-**P0003.9 + P0003.10**
-- "Are your parents both still alive?"
-- "Only my mother is with me."
-- → "Are your parents both still alive?" "Only my mother is with me."
-- 한: "너의 부모는 다 살아 계시냐?" "어머니만 계시옵니다."
-
-**P0003.11 + P0003.12**
-- "How many siblings do you have?"
-- "My mother is sixty years old this year, and I am her only daughter. There are no brothers."
-- → "How many siblings do you have?" "My mother is sixty years old this year, and I am her only daughter. There are no brothers."
-- 한: "형제는 몇이나 되느냐?" "올해 예순 되신 어머니께 아들 없이 딸 하나, 저뿐이옵니다."
-
-**P0004.2 + P0004.3**
-- "Where is your home?"
-- Chunhyang replies, "Please call Bangja and ask him."
-- → "Where is your home?" Chunhyang replies, "Please call Bangja and ask him."
-- 한: "네 집이 어디냐?" 춘향이 아뢴다. "방자를 불러 물어보십시오."
-
-**P0004.5 + P0004.6**
-- "Yes."
-- "You tell me where Chunhyang's house is."
-- → "Yes." "You tell me where Chunhyang's house is."
-- 한: "예." "춘향의 집을 네가 일러라."
-
-**P0005.2 + P0005.3**
-- Chunhyang answers, "I don't know."
-- "You don't know? That won't do. Goodbye for now. We will meet again tonight."
-- → Chunhyang answers, "I don't know." "You don't know? That won't do. Goodbye for now. We will meet again tonight."
-- 한: 춘향이 대답한다. "나는 몰라요." "네가 모르면 쓰겠느냐. 잘 가거라. 오늘 밤에 다시 만나자."
-
-**P0005.7 + P0005.8 + P0005.9**
-- "I see. And how did you answer him?"
-- "I told him I didn't know."
-- "Well done."
-- → "I see. And how did you answer him?" "I told him I didn't know." "Well done."
-- 한: "그래, 어찌 대답했느냐?" "모른다고 했지요." "잘했다."
 
 ## ch_04
 
@@ -218,35 +168,11 @@ Each block shows the cards before, then the merged English (→) and Korean (한
 - → Master Yi opens the Red Cliff poem. "In autumn, on the sixteenth night of the seventh month, I sailed with a guest below the Red Cliff. A clear breeze blew softly, and the water was calm." "Oh no, I can't read this one either."
 - 한: 도련님이 적벽부를 펼쳐 놓는다. "임술년 가을 칠월 열엿새, 소자가 손님과 함께 적벽 아래 배를 띄우니, 맑은 바람은 솔솔 불고 물결은 일지 않는구나." "아서라, 이 글도 못 읽겠다."
 
-**P0005.6 + P0005.7**
-- "You know it?"
-- "I certainly do."
-- → "You know it?" "I certainly do."
-- 한: "네가 안단 말이냐?" "알다마다요."
-
-**P0008.4 + P0008.5**
-- "Yes."
-- "Is someone in the study getting acupuncture, or a leg massage? Go and find out."
-- → "Yes." "Is someone in the study getting acupuncture, or a leg massage? Go and find out."
-- 한: "예." "책방에서 누가 생침을 맞았느냐, 다리를 주물렀느냐? 알아 오너라."
-
 **P0008.10 + P0008.11**
 - "I was reading the Analects and came to the line, 'How sad, I have grown old. It has been a long time since I dreamed of the Duke of Zhou.'"
 - "Tell him I got excited, wondering if I would shout like that too if I saw the Duke of Zhou, and that is why my voice got loud."
 - → "I was reading the Analects and came to the line, 'How sad, I have grown old. It has been a long time since I dreamed of the Duke of Zhou.' Tell him I got excited, wondering if I would shout like that too if I saw the Duke of Zhou, and that is why my voice got loud."
 - 한: "내가 논어를 읽다가 '슬프다, 내가 늙었구나. 꿈에 주공을 뵌 지 오래로다'라는 대목을 보았다. 나도 주공을 뵈면 그리하여 볼까 하고 흥이 나서 소리가 높았다고, 그대로 아뢰어라."
-
-**P0008.15 + P0008.16**
-- "Sir, you must have been bored."
-- "Ah, sit down. I want to tell you something. We were friends as boys and studied together."
-- → "Sir, you must have been bored." "Ah, sit down. I want to tell you something. We were friends as boys and studied together."
-- 한: "사또, 그동안 심심하셨지요?" "아, 거기 앉게. 할 말이 있네. 우리는 어릴 적 친구로 함께 글공부를 했지."
-
-**P0009.3 + P0009.4**
-- "Yes, that is true."
-- "And what do you think of his handwriting?"
-- → "Yes, that is true." "And what do you think of his handwriting?"
-- 한: "예, 그렇습디다." "배운 것 없이도 글씨가 어떠한가?"
 
 ## ch_05
 
@@ -267,18 +193,6 @@ Each block shows the cards before, then the merged English (→) and Korean (한
 - "Hey, Chunhyang, are you asleep?"
 - → Bangja goes in. Worried that a dog might bark, he creeps quietly up under Chunhyang's window. "Hey, Chunhyang, are you asleep?"
 - 한: 방자가 안으로 들어가는데, 개가 짖을까 염려하여 기척 없이 가만가만 춘향의 방 창문 밑으로 살짝 다가간다. "이 애 춘향아, 잠들었느냐?"
-
-**P0002.15 + P0002.16**
-- Chunhyang is startled. "What are you doing here?"
-- "Master Yi is here."
-- → Chunhyang is startled. "What are you doing here?" "Master Yi is here."
-- 한: 춘향이 깜짝 놀란다. "네가 어찌 왔느냐?" "도련님이 와 계시다."
-
-**P0003.3 + P0003.4**
-- "Who said I wanted anything?"
-- "Then why did you call out?"
-- → "Who said I wanted anything?" "Then why did you call out?"
-- 한: "누가 무엇을 달라고 했소?" "그러면 어찌 불렀느냐?"
 
 **P0004.1 + P0004.2**
 - Master Yi is pacing around awkwardly when Bangja comes out and says,
@@ -382,18 +296,6 @@ Each block shows the cards before, then the merged English (→) and Korean (한
 - → "Come here. Let me see you come to me. Smile brightly and walk with small steps. Let me see how you walk."
 - 한: "이리 오너라. 오는 모습을 보자. 방긋 웃고 아장아장 걸어라. 걷는 모습을 보자."
 
-**P0006.6 + P0007.1**
-- "When you see that, know that it is me. Love, love, my precious love."
-- "No, I do not want that either."
-- → "When you see that, know that it is me. Love, love, my precious love." "No, I do not want that either."
-- 한: "그러거든 그게 나인 줄 알려무나. 사랑 사랑 내 귀한 내 사랑이야." "아니, 그것도 나는 싫어요."
-
-**P0008.1 + P0008.2**
-- "No, I don't want that either."
-- "Then here is what you will become after you die. You will be the stone bowl of a grain mortar, and I will be the heavy pestle."
-- → "No, I don't want that either." "Then here is what you will become after you die. You will be the stone bowl of a grain mortar, and I will be the heavy pestle."
-- 한: "아니, 그것도 나는 싫어요." "그러면 네가 죽어서 될 것이 있다. 너는 죽어서 방아 확이 되어라. 나는 죽어서 방아 공이가 되겠다."
-
 ## ch_08
 
 **P0002.7 + P0002.8**
@@ -402,60 +304,11 @@ Each block shows the cards before, then the merged English (→) and Korean (한
 - → "There are the pavilions of jeong where famous lovers met, and the spring jeong of a hundred flowers. Put them all together, and if our loving ever breaks, then that will be gyeol-jeong, the end of everything."
 - 한: "양귀비의 침향정, 아황과 여영의 소상강 정, 온갖 꽃이 핀 봄 정, 이 정 저 정 다 모으니, 우리 둘이 다정하다가 만일 깨어지면 그때는 결정(決定)이 나겠지."
 
-**P0004.1 + P0004.2**
-- "Listen to my song of gung, 'palace.'"
-- "Oh, how silly and funny. What is a palace song?"
-- → "Listen to my song of gung, 'palace.'" "Oh, how silly and funny. What is a palace song?"
-- 한: "궁(宮) 자 노래를 들어 보아라." "아이고, 얄궂고 우습다. 궁 자 노래가 뭐요?"
-
 **P0005.13 + P0005.14**
 - "Oh, I don't want to!"
 - Master Yi teases and plays with her as he tries to take off her clothes.
 - → "Oh, I don't want to!" Master Yi teases and plays with her as he tries to take off her clothes.
 - 한: "아이고, 나는 싫어요." 도련님이 춘향의 옷을 벗기려 하며 넘놀면서 어르는데,
-
-**P0006.7 + P0006.8**
-- "Ask, and I will answer."
-- "Are you gold?"
-- → "Ask, and I will answer." "Are you gold?"
-- 한: "말씀하시면 대답하겠습니다. 해 보십시오." "네가 금이냐?"
-
-**P0006.10 + P0006.11 + P0007.1**
-- "Then are you jade?"
-- "Jade? Of course not. The First Emperor of China took the best jade in the land, had famous words carved on it,
-- and made it into the royal seal. It was passed down for ages. How could I be jade?"
-- → "Then are you jade?" "Jade? Of course not. The First Emperor of China took the best jade in the land, had famous words carved on it, and made it into the royal seal. It was passed down for ages. How could I be jade?"
-- 한: "그러면 진짜 옥이냐?" "옥이라니 당치 않소. 진시황이 형산의 옥을 얻어 이사의 글씨로 '하늘의 명을 받아 영원히 번창하리라' 새겨 옥새를 만들어 대대로 전했으니, 제가 어찌 옥이 되겠소."
-
-**P0007.4 + P0007.5**
-- "Then are you amber or a pearl?"
-- "No, not that either. Those were all used for the hat strings of great officials and the rings of gisaeng. There are none left."
-- → "Then are you amber or a pearl?" "No, not that either. Those were all used for the hat strings of great officials and the rings of gisaeng. There are none left."
-- 한: "그러면 밀화, 금패, 호박, 진주냐?" "그것도 당치 않소. 높은 벼슬아치와 수령들의 갓끈 장식으로 쓰고, 나머지는 기생들 가락지로 다 만들었으니 당치 않소."
-
-**P0007.6 + P0007.7**
-- "Then are you tortoiseshell or coral?"
-- "No. Tortoiseshell decorates screens and coral makes railings in the Dragon King's palace under the sea."
-- → "Then are you tortoiseshell or coral?" "No. Tortoiseshell decorates screens and coral makes railings in the Dragon King's palace under the sea."
-- 한: "그러면 대모나 산호냐?" "그것도 아니오. 대모로는 큰 병풍을 꾸미고 산호로는 난간을 만들어 용궁의 보물이 되었으니 당치 않소."
-
-**P0007.8 + P0007.9**
-- "Then are you a half moon?"
-- "A half moon? Of course not. Tonight isn't the start of the month. How could I be the bright moon up in the sky?"
-- → "Then are you a half moon?" "A half moon? Of course not. Tonight isn't the start of the month. How could I be the bright moon up in the sky?"
-- 한: "그러면 반달이냐?" "반달이라니 당치 않소. 오늘 밤이 초승도 아닌데, 하늘에 뜬 밝은 달이 내가 되겠소?"
-
-**P0007.12 + P0007.13**
-- "Shall I cut open a round watermelon and feed you a bite of the red part with a silver spoon?"
-- "No, I don't want that."
-- → "Shall I cut open a round watermelon and feed you a bite of the red part with a silver spoon?" "No, I don't want that."
-- 한: "둥글둥글 수박 꼭지 떼고 은숟가락으로 붉은 속 한 점 떠먹으려느냐?" "아니, 그것도 싫소."
-
-**P0007.14 + P0007.15**
-- "Then how about a sour wild apricot?"
-- "No, I don't want that either."
-- → "Then how about a sour wild apricot?" "No, I don't want that either."
-- 한: "그러면 시금털털 개살구를 먹으려느냐?" "아니, 그것도 싫소."
 
 **P0007.18 + P0008.1**
 - "Oh,
@@ -469,12 +322,6 @@ Each block shows the cards before, then the merged English (→) and Korean (한
 - → "I will say sweet things. Listen. It's like carrying Confucius, or a loyal minister who holds up the country, or the six faithful ministers of old."
 - 한: "좋은 말을 하겠습니다. 들어 보십시오. 공자님을 업은 듯, 큰 뜻을 품은 나라의 기둥 같은 충신을 업은 듯, 사육신과 생육신을 업은 듯,"
 
-**P0009.5 + P0009.6**
-- "Oh, how funny. What's horsey?"
-- Master Yi talks as if he has played it many times. "It's the easiest thing in the world."
-- → "Oh, how funny. What's horsey?" Master Yi talks as if he has played it many times. "It's the easiest thing in the world."
-- 한: "아이고, 참 우스워라. 말놀음은 또 뭐요?" 도련님은 말놀음도 많이 해 본 듯이 말한다. "세상에서 제일 쉽지."
-
 **P0009.8 + P0009.9**
 - "I'll hold on tight to your waist from behind, and when I slap your bottom and say 'Giddy-up!'"
 - "you say 'Neigh!' and kick back and jump. If you jump well, I have a riding song for you."
@@ -486,6 +333,12 @@ Each block shows the cards before, then the merged English (→) and Korean (한
 - "the magistrate of Namwon rides a fine carriage, and fishermen ride little boats on the river at sunset."
 - → "The emperor rides an elephant, our king rides a royal carriage, ministers ride in chairs, generals ride carts, and magistrates ride in sedans, the magistrate of Namwon rides a fine carriage, and fishermen ride little boats on the river at sunset."
 - 한: "중국 천자는 코끼리를, 우리 임금은 가마를, 삼정승은 평교자를, 육판서는 초헌을, 훈련대장은 수레를, 고을 수령들은 독교를 타고, 남원 부사는 별연을 타고, 해 질 녘 강가의 어부들은 작은 배를 탄다."
+
+**P0006.11 + P0007.1**
+- "Jade? Of course not. The First Emperor of China took the best jade in the land, had famous words carved on it,
+- and made it into the royal seal. It was passed down for ages. How could I be jade?"
+- → "Jade? Of course not. The First Emperor of China took the best jade in the land, had famous words carved on it, and made it into the royal seal. It was passed down for ages. How could I be jade?"
+- 한: "옥이라니 당치 않소. 진시황이 형산의 옥을 얻어 이사의 글씨로 '하늘의 명을 받아 영원히 번창하리라' 새겨 옥새를 만들어 대대로 전했으니, 제가 어찌 옥이 되겠소."
 
 ## ch_09
 
@@ -533,41 +386,17 @@ Each block shows the cards before, then the merged English (→) and Korean (한
 - → "'Does Master Yi in Seoul miss me as much as I miss him? He is so heartless; he hasn't even sent me a single letter.' Her tears will soak her face and her red skirt. She will go to her room and not even take off her clothes."
 - 한: "'한양에 계신 도련님도 나처럼 그리워하실까. 무정하게도 아주 잊고 편지 한 장도 안 하시나.' 긴 한숨에 떨어지는 눈물이 옥 같은 얼굴과 붉은 치마를 다 적시고, 제 방에 들어가 옷도 벗지 않고,"
 
-**P0004.7 + P0004.8**
-- "Of course! How can you not take her?"
-- "Don't be so fierce. Sit down here and listen to me."
-- → "Of course! How can you not take her?" "Don't be so fierce. Sit down here and listen to me."
-- 한: "그래, 안 데려가고 견디겠소?" "너무 거세게 굴지 말고 여기 앉아 내 말 좀 들어 보소."
-
 **P0004.10 + P0005.1**
 - "In my despair, I have thought of a clever trick. But if anyone hears of it, it won't just shame me as a nobleman,
 - it will shame all my noble ancestors too."
 - → "In my despair, I have thought of a clever trick. But if anyone hears of it, it won't just shame me as a nobleman, it will shame all my noble ancestors too."
 - 한: "내가 기가 막힌 가운데 묘한 꾀 하나를 생각했네. 그런데 이 말이 입 밖에 나가면 양반 망신만 하는 게 아니라, 우리 조상 양반들까지 모두 망신할 말이로세."
 
-**P0005.2 + P0005.3**
-- "What kind of fine plan could that be?"
-- "Tomorrow, when my family leaves, the ancestral shrine will come behind them. I'll take care of the rest."
-- → "What kind of fine plan could that be?" "Tomorrow, when my family leaves, the ancestral shrine will come behind them. I'll take care of the rest."
-- 한: "무슨 말이 그리 좋은 말이 있단 말이오?" "내일 식구들이 떠날 때 식구들 뒤로 사당이 나올 걸세. 백성들 일은 내가 알아서 하겠네."
-
-**P0005.4 + P0005.5**
-- "So? Do you understand now?"
-- "I do not understand what you mean."
-- → "So? Do you understand now?" "I do not understand what you mean."
-- 한: "그러면요? 그만하면 알겠지?" "나는 그 말 모르겠소."
-
 **P0005.7 + P0005.8**
 - Chunhyang hears this, stares at Master Yi for a moment, and says,
 - "Stop it, Mother. Don't push Master Yi too hard. Our whole lives are in his hands, so just ask him to take care of us."
 - → Chunhyang hears this, stares at Master Yi for a moment, and says, "Stop it, Mother. Don't push Master Yi too hard. Our whole lives are in his hands, so just ask him to take care of us."
 - 한: 춘향이 그 말을 듣고 도련님을 물끄러미 바라보더니 말한다. "마오, 어머니. 도련님을 너무 조르지 마오. 우리 모녀의 평생 신세가 도련님 손안에 매였으니, 알아서 해 달라고 당부나 하오."
-
-**P0006.2 + P0006.3**
-- "What?"
-- "Are you really going to leave?"
-- → "What?" "Are you really going to leave?"
-- 한: "왜?" "여보, 정말로 이별을 할 거요?"
 
 **P0006.5 + P0006.6**
 - Choking on sighs and tears, she presses her face to his and touches his hands and feet.
@@ -586,12 +415,6 @@ Each block shows the cards before, then the merged English (→) and Korean (한
 - "and I told him you had just stepped out to say goodbye to a friend. Please hurry!"
 - → "Master Yi, please hurry! There's trouble at home. The magistrate asked where you had gone, and I told him you had just stepped out to say goodbye to a friend. Please hurry!"
 - 한: "도련님, 어서 행차하십시오. 안에서 야단났습니다. 사또께서 도련님 어디 가셨느냐 물으시기에, 소인이 '놀던 친구와 작별하러 잠깐 문밖에 나가셨다'고 둘러댔으니, 어서 행차하십시오."
-
-**P0008.1 + P0008.2**
-- "Is the horse ready?"
-- "Yes, the horse is ready."
-- → "Is the horse ready?" "Yes, the horse is ready."
-- 한: "말은 대령했느냐?" "말은 마침 대령했습니다."
 
 ## ch_11
 
@@ -639,18 +462,6 @@ Each block shows the cards before, then the merged English (→) and Korean (한
 - "The bright moon over the eastern hill after rain: Myeongwol!" Myeongwol comes in, holding her silk skirt up against her chest.
 - → The chief clerk brings in the list of gisaeng and calls their names one by one, each with a line of poetry. "The bright moon over the eastern hill after rain: Myeongwol!" Myeongwol comes in, holding her silk skirt up against her chest.
 - 한: 호장이 분부를 듣고 기생 명부를 들여놓고 차례로 이름을 부르는데, 하나하나 시 구절을 붙여 부른다. "비 갠 뒤 동산의 밝은 달, 명월이!" 명월이가 들어오는데, 비단 치맛자락을 걸음걸음 걷어 올려 가슴에 딱 붙인다.
-
-**P0010.2 + P0010.3**
-- The magistrate says, "Faster!"
-- The clerk calls faster. "Gyehyang! Unsim! Aejeol! Haenghwa! Gangseon! Tangeum! Hongnyeon! Geumnang!"
-- → The magistrate says, "Faster!" The clerk calls faster. "Gyehyang! Unsim! Aejeol! Haenghwa! Gangseon! Tangeum! Hongnyeon! Geumnang!"
-- 한: 사또가 분부한다. "빨리 불러라." 호장이 자주자주 부른다. "계향이! 운심이! 애절이! 행화! 강선이! 탄금이! 홍련이! 금낭이!"
-
-**P0010.6 + P0010.7**
-- The clerk rattles them off. "Yangdaeseon, Woljungseon, Hwajungseon! Geumseon, Geumok, Geumnyeon! Nongok, Nanok, Hongok!"
-- "Here, sir!"
-- → The clerk rattles them off. "Yangdaeseon, Woljungseon, Hwajungseon! Geumseon, Geumok, Geumnyeon! Nongok, Nanok, Hongok!" "Here, sir!"
-- 한: 호장이 더 자주 부른다. "양대선이, 월중선이, 화중선이! 금선이, 금옥이, 금련이! 농옥이, 난옥이, 홍옥이!" "예, 대령했소."
 
 **P0011.1 + P0011.2**
 - "Nakchun, blown by the wind!" "Coming!"

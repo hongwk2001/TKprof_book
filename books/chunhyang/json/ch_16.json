@@ -23,8 +23,8 @@
   "sentences": [
    {
     "n": 1,
-    "ko": "점쟁이 봉사 하나가 지나간다. 서울 봉사 같으면 \"문수(問數) 하오.\" 하련만, 시골 봉사라 \"점 보시오!\" 하고 외치며 간다.",
-    "en": "A blind fortune-teller walks by. A city fortune-teller would call out politely, but this is a country one, so he shouts, \"Fortunes! Get your fortunes told!\""
+    "ko": "옥 밖으로 점쟁이 봉사 하나가 지나간다. 서울 봉사 같으면 \"문수(問數) 하오.\" 하련만, 시골 봉사라 \"점 보시오!\" 하고 외치며 간다.",
+    "en": "A blind fortune-teller walks by outside the prison. A city fortune-teller would call out politely, but this is a country one, so he shouts, \"Fortunes! Get your fortunes told!\""
    },
    {
     "n": 2,
@@ -198,26 +198,21 @@
    },
    {
     "n": 5,
-    "ko": "\"어디 자세히 말해 보소.\" \"단장하던 거울이 깨져 보이고, 창 앞의 앵두꽃이 떨어져 보이고,\"",
-    "en": "\"Tell me all of it.\" \"I saw my makeup mirror cracked, and the cherry blossoms outside my window falling,\""
+    "ko": "\"어디 자세히 말해 보소.\" \"단장하던 거울이 깨져 보이고, 창 앞의 앵두꽃이 떨어져 보이고, 문 위에 허수아비가 달려 보이고, 태산이 무너지고 바닷물이 말라 보였소. 나 죽을 꿈이 아니오?\"",
+    "en": "\"Tell me all of it.\" \"I saw my makeup mirror cracked, and the cherry blossoms outside my window falling, and a scarecrow hanging over my door, and a great mountain falling down, and the sea drying up. Isn't it a dream that I will die?\""
    },
    {
     "n": 6,
-    "ko": "\"문 위에 허수아비가 달려 보이고, 태산이 무너지고 바닷물이 말라 보였소. 나 죽을 꿈이 아니오?\"",
-    "en": "\"and a scarecrow hanging over my door, and a great mountain falling down, and the sea drying up. Isn't it a dream that I will die?\""
-   },
-   {
-    "n": 7,
     "ko": "봉사가 한참 생각하다가 말한다. \"그 꿈 좋다.\"",
     "en": "The fortune-teller thinks for a long time. \"That dream is good.\""
    },
    {
-    "n": 8,
+    "n": 7,
     "ko": "\"꽃이 떨어지면 열매가 열리는 법이요, 거울이 깨질 때 소리가 없겠느냐. 소식이 크게 울린다는 뜻이다.\"",
     "en": "\"When blossoms fall, fruit appears. When a mirror breaks, it makes a sound: news is coming, loud and clear.\""
    },
    {
-    "n": 9,
+    "n": 8,
     "ko": "\"문 위에 허수아비가 달렸으면 사람마다 우러러볼 것이니, 높이 될 꿈이다.\"",
     "en": "\"A scarecrow over the door means everyone will look up at you. You'll be raised up high.\""
    }

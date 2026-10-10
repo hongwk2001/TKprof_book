@@ -103,36 +103,31 @@
    },
    {
     "n": 4,
-    "ko": "\"살아서 이리 그리워하느니 아주 죽어 잊고 싶구나. 차라리 이 몸이 죽어 빈 산의 두견새가 되어,\"",
-    "en": "\"Rather than live missing him like this, I'd rather die and forget. Let me die and become a cuckoo in the empty mountains,\""
+    "ko": "\"살아서 이리 그리워하느니 아주 죽어 잊고 싶구나. 차라리 이 몸이 죽어 빈 산의 두견새가 되어, 배꽃 핀 달 밝은 깊은 밤에 슬피 울어 낭군 귀에 들리게 하고 싶구나.\"",
+    "en": "\"Rather than live missing him like this, I'd rather die and forget. Let me die and become a cuckoo in the empty mountains, and on moonlit nights among the pear blossoms, cry so sadly that he hears me.\""
    },
    {
     "n": 5,
-    "ko": "\"배꽃 핀 달 밝은 깊은 밤에 슬피 울어 낭군 귀에 들리게 하고 싶구나.\"",
-    "en": "\"and on moonlit nights among the pear blossoms, cry so sadly that he hears me.\""
-   },
-   {
-    "n": 6,
     "ko": "\"맑은 강의 원앙이 되어 짝을 부르며 다니면서, 다정하고 정 많은 모습을 임의 눈에 보이고 싶구나.\"",
     "en": "\"Let me become a mandarin duck on a clear river, calling to its mate, so he can see how much I love him.\""
    },
    {
-    "n": 7,
+    "n": 6,
     "ko": "\"봄날의 나비가 되어 향기 묻은 두 날개로 봄빛을 자랑하며 낭군 옷에 붙고 싶구나.\"",
     "en": "\"Let me become a spring butterfly, my wings sweet with flowers, and land on his clothes.\""
    },
    {
-    "n": 8,
+    "n": 7,
     "ko": "\"푸른 하늘의 밝은 달이 되어 밤이 되면 돋아 올라 밝디밝은 빛으로 임의 얼굴에 비추고 싶구나.\"",
     "en": "\"Let me become the bright moon, rise every night, and shine on his face.\""
    },
    {
-    "n": 9,
+    "n": 8,
     "ko": "\"내 간장 썩은 피로 임의 얼굴을 그려 내어 방문 앞에 족자 삼아 걸어 두고 들며 나며 보고 싶구나.\"",
     "en": "\"I want to paint his face with the blood from my broken heart, hang it by my door, and look at it every time I come and go.\""
    },
    {
-    "n": 10,
+    "n": 9,
     "ko": "\"수절하고 정절을 지키던 절세미인이 이렇게 참혹하게 되었구나.\"",
     "en": "\"A beautiful, faithful woman has come to this terrible end.\""
    }
@@ -183,31 +178,21 @@
    },
    {
     "n": 8,
-    "ko": "\"대나무 창문을 열어 젖히니 밝은 달빛이 방 안에 드는데, 어린것이 홀로 앉아 달에게 묻는다.\"",
-    "en": "She pushes open the bamboo window, and bright moonlight fills the room. Sitting alone, the young girl asks the moon,"
+    "ko": "\"대나무 창문을 열어 젖히니 밝은 달빛이 방 안에 드는데, 어린것이 홀로 앉아 달에게 묻는다. 저 달아, 보느냐. 임 계신 곳 밝은 빛 좀 빌려 다오. 나도 보게.\"",
+    "en": "She pushes open the bamboo window, and bright moonlight fills the room. Sitting alone, the young girl asks the moon, \"Moon, can you see him? Lend me your light so I can see where he is too.\""
    },
    {
     "n": 9,
-    "ko": "\"저 달아, 보느냐. 임 계신 곳 밝은 빛 좀 빌려 다오. 나도 보게.\"",
-    "en": "\"Moon, can you see him? Lend me your light so I can see where he is too.\""
-   },
-   {
-    "n": 10,
     "ko": "\"우리 임이 누웠더냐, 앉았더냐. 보는 대로만 네가 일러 내 시름을 풀어 다오.\"",
     "en": "\"Is he lying down, or sitting up? Just tell me what you see, and ease my sorrow.\""
    },
    {
+    "n": 10,
+    "ko": "아이고, 아이고, 서럽게 울다가 홀연히 잠이 드니, 꿈인 듯 생시인 듯하다. 나비가 장자가 되고 장자가 나비가 되듯, 가랑비처럼 남은 넋이 바람인 듯 구름인 듯 한곳에 다다르니,",
+    "en": "She cries and cries, and suddenly falls asleep, half dreaming, half awake. Like the old story of the man who dreamed he was a butterfly, her spirit drifts like mist, like wind, like cloud, until it reaches a strange place."
+   },
+   {
     "n": 11,
-    "ko": "아이고, 아이고, 서럽게 울다가 홀연히 잠이 드니, 꿈인 듯 생시인 듯하다.",
-    "en": "She cries and cries, and suddenly falls asleep, half dreaming, half awake."
-   },
-   {
-    "n": 12,
-    "ko": "나비가 장자가 되고 장자가 나비가 되듯, 가랑비처럼 남은 넋이 바람인 듯 구름인 듯 한곳에 다다르니,",
-    "en": "Like the old story of the man who dreamed he was a butterfly, her spirit drifts like mist, like wind, like cloud, until it reaches a strange place."
-   },
-   {
-    "n": 13,
     "ko": "하늘은 넓고 땅은 아득하며 산과 물이 수려한데,",
     "en": "The sky is wide, the land stretches far, and the mountains and rivers are beautiful."
    }
@@ -383,8 +368,8 @@
    },
    {
     "n": 8,
-    "ko": "\"이 몸을 귀신들이 잡아가려거든 조르지나 말려무나.\" 하고 귀신 쫓는 주문을 외며 앉아 있는데, 옥 밖으로",
-    "en": "\"Ghosts, if you want to take me, at least don't nag me about it.\" She chants a charm against ghosts and sits there. Outside the prison,"
+    "ko": "\"이 몸을 귀신들이 잡아가려거든 조르지나 말려무나.\" 하고 귀신 쫓는 주문을 외며 앉아 있다.",
+    "en": "\"Ghosts, if you want to take me, at least don't nag me about it.\" She chants a charm against ghosts and sits there."
    }
   ]
  }

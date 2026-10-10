@@ -63,18 +63,8 @@
   "sentences": [
    {
     "n": 1,
-    "ko": "\"말 위에서 지쳐 병이 나실까 걱정되니, 풀이 우거진 비 오는 날엔 일찍 숙소에 드시고,\"",
-    "en": "\"I'm afraid you will grow tired on horseback and fall ill. On rainy days, stop early for the night,\""
-   },
-   {
-    "n": 2,
-    "ko": "\"바람 불고 비 오는 아침엔 늦게야 떠나시오. 채찍 하나 든 몸 곁에 모실 사람도 없으니,\"",
-    "en": "\"and on windy, rainy mornings, leave late. You will have no one by your side to look after you,\""
-   },
-   {
-    "n": 3,
-    "ko": "\"부디부디 천금같이 귀한 몸을 잘 보살피십시오.\"",
-    "en": "\"so please, please take good care of yourself. You are more precious than gold.\""
+    "ko": "\"말 위에서 지쳐 병이 나실까 걱정되니, 풀이 우거진 비 오는 날엔 일찍 숙소에 드시고, 바람 불고 비 오는 아침엔 늦게야 떠나시오. 채찍 하나 든 몸 곁에 모실 사람도 없으니, 부디부디 천금같이 귀한 몸을 잘 보살피십시오.\"",
+    "en": "\"I'm afraid you will grow tired on horseback and fall ill. On rainy days, stop early for the night, and on windy, rainy mornings, leave late. You will have no one by your side to look after you, so please, please take good care of yourself. You are more precious than gold.\""
    }
   ]
  },
@@ -128,26 +118,21 @@
    },
    {
     "n": 9,
-    "ko": "\"사철 소식이 끊어진 단절, 도련님은 날 버리고 박절(迫切)하게 가시니,\"",
-    "en": "\"No news in any season, all cut off. You leave me so coldly,\""
+    "ko": "\"사철 소식이 끊어진 단절, 도련님은 날 버리고 박절(迫切)하게 가시니, 속절없는 나의 정절, 빈방에서 지키는 수절, 언제나 깨어질까. 내 원망 서러운 고절(孤節).\"",
+    "en": "\"No news in any season, all cut off. You leave me so coldly, and I am left with my useless faithfulness, guarding my lonely room. When will it end? My sad, lonely faith.\""
    },
    {
     "n": 10,
-    "ko": "\"속절없는 나의 정절, 빈방에서 지키는 수절, 언제나 깨어질까. 내 원망 서러운 고절(孤節).\"",
-    "en": "\"and I am left with my useless faithfulness, guarding my lonely room. When will it end? My sad, lonely faith.\""
-   },
-   {
-    "n": 11,
     "ko": "\"밤낮 생각 끊이지 않을 테니, 부디 소식이나 끊지 마오.\"",
     "en": "\"I will think of you day and night, so please, please don't cut off your letters.\""
    },
    {
-    "n": 12,
+    "n": 11,
     "ko": "대문 밖에 거꾸러져 가녀린 두 손으로 땅을 쾅쾅 치며 운다. \"아이고, 아이고, 내 신세야.\"",
     "en": "She falls down outside the gate and beats the ground with her slender hands. \"Oh, oh, my poor life!\""
    },
    {
-    "n": 13,
+    "n": 12,
     "ko": "\"아이고.\" 하는 소리에, 바람은 쓸쓸하고 깃발은 빛을 잃고 해마저 엷어진다.",
     "en": "At her cry, the wind turns lonely, the flags lose their color, and even the sun grows pale."
    }
@@ -238,21 +223,16 @@
    },
    {
     "n": 11,
-    "ko": "\"처음 맹세처럼 죽지 말고 함께 살며 백 년을 함께하자던 맹세, 천금 주옥도 하찮게 여겼건만,\"",
-    "en": "\"We swore to live together for a hundred years. Gold and jewels meant nothing to us,\""
+    "ko": "\"처음 맹세처럼 죽지 말고 함께 살며 백 년을 함께하자던 맹세, 천금 주옥도 하찮게 여겼건만, 근원이 흘러 물이 되듯 깊고 깊은 사랑, 쌓이고 쌓여 산이 되듯 높고 높은 사랑이 끊어질 줄 어찌 알았으랴.\"",
+    "en": "\"We swore to live together for a hundred years. Gold and jewels meant nothing to us, and our love was as deep as a river and as high as a mountain. How could I know it would be cut off?\""
    },
    {
     "n": 12,
-    "ko": "\"근원이 흘러 물이 되듯 깊고 깊은 사랑, 쌓이고 쌓여 산이 되듯 높고 높은 사랑이 끊어질 줄 어찌 알았으랴.\"",
-    "en": "\"and our love was as deep as a river and as high as a mountain. How could I know it would be cut off?\""
-   },
-   {
-    "n": 13,
     "ko": "\"귀신이 훼방하고 하늘이 시기하는구나. 하루아침에 낭군과 이별하니 어느 날에나 만나 보리.\"",
     "en": "\"The spirits have played a trick on us, and heaven is jealous. In one morning I lost my love. When will I see him again?\""
    },
    {
-    "n": 14,
+    "n": 13,
     "ko": "\"천만 가지 한이 가득하여 끝끝내 맺혔구나. 고운 얼굴 고운 머리도 다 헛되이 늙겠구나. 해와 달은 무정하구나.\"",
     "en": "\"A million sorrows fill my heart. My face and hair will grow old for nothing. How cruel the sun and moon are.\""
    }
@@ -273,66 +253,56 @@
    },
    {
     "n": 2,
-    "ko": "\"이 그리움을 알면 임도 나를 그리련만, 빈방에 홀로 누워 한숨만 벗이 되고,\"",
-    "en": "\"If he knew how I long for him, he would long for me too. But I lie alone, and my only friend is my sighs,\""
+    "ko": "\"이 그리움을 알면 임도 나를 그리련만, 빈방에 홀로 누워 한숨만 벗이 되고, 굽이굽이 애간장에서 솟아나는 것은 눈물이라.\"",
+    "en": "\"If he knew how I long for him, he would long for me too. But I lie alone, and my only friend is my sighs, and from deep in my heart come only tears.\""
    },
    {
     "n": 3,
-    "ko": "\"굽이굽이 애간장에서 솟아나는 것은 눈물이라.\"",
-    "en": "\"and from deep in my heart come only tears.\""
-   },
-   {
-    "n": 4,
     "ko": "\"눈물 모아 바다 되고 한숨 지어 바람 되면, 조각배 타고 한양 낭군 찾아가련만, 어이 그리 못 보는고.\"",
     "en": "\"If my tears made a sea and my sighs made a wind, I could sail a little boat to Seoul and find him. Why can't I see him?\""
    },
    {
-    "n": 5,
+    "n": 4,
     "ko": "\"달 밝은 밤 시름에 잠기니, 꿈에나 보일까 했더니 꿈조차 오지 않는구나.\"",
     "en": "\"On this moonlit night, full of sorrow, I hoped to see him in a dream, but even the dream won't come.\""
    },
    {
-    "n": 6,
+    "n": 5,
     "ko": "\"저 달은 임 계신 곳에도 비추련만, 마음속의 시름은 나 혼자뿐이로다.\"",
     "en": "\"The moon must be shining on him too, but the sorrow in my heart is mine alone.\""
    },
    {
-    "n": 7,
+    "n": 6,
     "ko": "\"밤빛은 아득한데 창밖에 반짝이는 것은 반딧불이로다.\"",
     "en": "\"The night is dark and endless. Outside the window, only fireflies glow.\""
    },
    {
-    "n": 8,
+    "n": 7,
     "ko": "\"밤은 깊어 삼경인데 앉아 있은들 임이 올까, 누워 있은들 잠이 오랴. 임도 잠도 아니 온다.\"",
     "en": "\"It is past midnight. If I sit up, will he come? If I lie down, will I sleep? Neither my love nor sleep will come.\""
    },
    {
+    "n": 8,
+    "ko": "\"이 일을 어찌하리. 아마도 원수로다. 즐거움이 다하면 슬픔이 오고, 고생 끝에 낙이 온다고 했건만, 기다림도 적지 않고 그리움도 오래건만, 굽이굽이 맺힌 한을 임 아니면 누가 풀까.\"",
+    "en": "\"What can I do? Fate is my enemy. They say sorrow follows joy, and joy follows hardship, and I have waited long and longed long. Who but him can untie this knot in my heart?\""
+   },
+   {
     "n": 9,
-    "ko": "\"이 일을 어찌하리. 아마도 원수로다. 즐거움이 다하면 슬픔이 오고, 고생 끝에 낙이 온다고 했건만,\"",
-    "en": "\"What can I do? Fate is my enemy. They say sorrow follows joy, and joy follows hardship,\""
-   },
-   {
-    "n": 10,
-    "ko": "\"기다림도 적지 않고 그리움도 오래건만, 굽이굽이 맺힌 한을 임 아니면 누가 풀까.\"",
-    "en": "\"and I have waited long and longed long. Who but him can untie this knot in my heart?\""
-   },
-   {
-    "n": 11,
     "ko": "\"하늘이시여, 굽어살피시어 어서 만나게 해 주옵소서.\"",
     "en": "\"Heaven, please look down on me and let me see him soon.\""
    },
    {
-    "n": 12,
+    "n": 10,
     "ko": "\"못다 한 정을 다시 만나 흰머리가 다 되도록 이별 없이 살고 싶구나.\"",
     "en": "\"I want to meet him again and live without parting until our hair turns white.\""
    },
    {
-    "n": 13,
+    "n": 11,
     "ko": "\"묻노라, 푸른 물 푸른 산아. 우리 임은 어디 있나. 이날 헤어진 뒤로 소식조차 끊겼구나.\"",
     "en": "\"Tell me, green rivers and green mountains, where is my love? Since the day he left, there has been no word.\""
    },
    {
-    "n": 14,
+    "n": 12,
     "ko": "\"사람이 나무나 돌이 아닐진대 임도 응당 나를 생각하리라.\"",
     "en": "\"People are not made of wood or stone. Surely he thinks of me too.\""
    }

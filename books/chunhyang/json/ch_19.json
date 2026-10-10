@@ -118,8 +118,8 @@
    },
    {
     "n": 7,
-    "ko": "\"홧김에 하는 말을 조금인들 노여워하시겠습니까. 따뜻한 진지 드십시오.\" 어사또가 밥상을",
-    "en": "\"She's only talking out of anger. Please don't be upset. Here, have some hot rice.\" The inspector takes the tray"
+    "ko": "\"홧김에 하는 말을 조금인들 노여워하시겠습니까. 따뜻한 진지 드십시오.\" 어사또가 밥상을 받고 생각하니, 분이 하늘까지 치밀어 마음이 울컥하고 오장이 울렁울렁한다.",
+    "en": "\"She's only talking out of anger. Please don't be upset. Here, have some hot rice.\" The inspector takes the tray and as he thinks of everything, his rage boils up to the sky. His heart pounds and his stomach churns."
    }
   ]
  },
@@ -133,33 +133,18 @@
   "sentences": [
    {
     "n": 1,
-    "ko": "받고 생각하니, 분이 하늘까지 치밀어 마음이 울컥하고 오장이 울렁울렁한다.",
-    "en": "and as he thinks of everything, his rage boils up to the sky. His heart pounds and his stomach churns."
+    "ko": "저녁밥이 맛이 없어 \"향단아, 상 물려라.\" 하고 담뱃대를 툭툭 털며 말한다. \"여보소, 장모. 춘향이나 좀 봐야지.\" \"그러지요. 서방님이 춘향을 안 보시면 인정이라 하겠습니까.\"",
+    "en": "The dinner has no taste. \"Hyangdan, take the tray away.\" He taps out his pipe and says, \"Mother-in-law, I should see Chunhyang.\" \"Yes, of course. It would be heartless if you didn't.\""
    },
    {
     "n": 2,
-    "ko": "저녁밥이 맛이 없어 \"향단아, 상 물려라.\" 하고 담뱃대를 툭툭 털며 말한다.",
-    "en": "The dinner has no taste. \"Hyangdan, take the tray away.\" He taps out his pipe and says,"
-   },
-   {
-    "n": 3,
-    "ko": "\"여보소, 장모. 춘향이나 좀 봐야지.\" \"그러지요. 서방님이 춘향을 안 보시면 인정이라 하겠습니까.\"",
-    "en": "\"Mother-in-law, I should see Chunhyang.\" \"Yes, of course. It would be heartless if you didn't.\""
-   },
-   {
-    "n": 4,
     "ko": "향단이 아뢴다. \"지금은 문을 닫았으니, 파루 종을 치거든 가십시다.\"",
     "en": "Hyangdan says, \"The prison is closed now. Let's go when the dawn bell rings.\""
    },
    {
-    "n": 5,
-    "ko": "이때 마침 파루 종이 뎅뎅 울린다. 향단이는 미음상을 이고 등롱을",
-    "en": "Just then, the dawn bell rings, dong, dong. Hyangdan carries the tray of porridge on her head and a lantern"
-   },
-   {
-    "n": 6,
-    "ko": "들고, 어사또는 뒤를 따라 옥문 앞에 다다르니, 인적은 고요하고 사정이도 간 곳이 없다.",
-    "en": "in her hand, and the inspector follows her to the prison gate. All is quiet, and the guard is nowhere to be seen."
+    "n": 3,
+    "ko": "이때 마침 파루 종이 뎅뎅 울린다. 향단이는 미음상을 이고 등롱을 들고, 어사또는 뒤를 따라 옥문 앞에 다다르니, 인적은 고요하고 사정이도 간 곳이 없다.",
+    "en": "Just then, the dawn bell rings, dong, dong. Hyangdan carries the tray of porridge on her head and a lantern in her hand, and the inspector follows her to the prison gate. All is quiet, and the guard is nowhere to be seen."
    }
   ]
  },
@@ -283,31 +268,26 @@
    },
    {
     "n": 8,
-    "ko": "\"어머님, 나 죽은 뒤에라도 한이나 없게 해 주시오. 내가 입던 비단 장옷이 장 안에 들어 있으니 그 옷 팔아다가,\"",
-    "en": "\"Mother, after I die, please do this for me so I can rest in peace. My silk coat is in the chest. Sell it,\""
+    "ko": "\"어머님, 나 죽은 뒤에라도 한이나 없게 해 주시오. 내가 입던 비단 장옷이 장 안에 들어 있으니 그 옷 팔아다가, 좋은 모시로 바꾸어 고운 도포를 지어 드리고, 흰 비단 치마도 팔아다가 갓과 망건과 신발을 사 드리시오.\"",
+    "en": "\"Mother, after I die, please do this for me so I can rest in peace. My silk coat is in the chest. Sell it, buy fine ramie cloth, and make him a beautiful coat. Sell my white silk skirt too, and buy him a hat, a headband, and shoes.\""
    },
    {
     "n": 9,
-    "ko": "\"좋은 모시로 바꾸어 고운 도포를 지어 드리고, 흰 비단 치마도 팔아다가 갓과 망건과 신발을 사 드리시오.\"",
-    "en": "\"buy fine ramie cloth, and make him a beautiful coat. Sell my white silk skirt too, and buy him a hat, a headband, and shoes.\""
-   },
-   {
-    "n": 10,
     "ko": "\"비녀와 노리개와 옥가락지가 함 속에 들었으니 그것도 팔아 속옷이나 깨끗이 해 드리시오.\"",
     "en": "\"My hairpins, my ornaments, and my jade rings are in the box. Sell those too and get him some clean underclothes.\""
    },
    {
-    "n": 11,
+    "n": 10,
     "ko": "\"곧 죽을 년이 세간 두어 무엇 하겠소. 장롱도 다 팔아다가 맛있는 반찬으로 진지 대접하시고,\"",
     "en": "\"What use is furniture to a girl who's about to die? Sell the chests too, and make him good meals.\""
    },
    {
-    "n": 12,
+    "n": 11,
     "ko": "\"나 죽은 뒤에라도 나 없다 마시고 날 본 듯이 섬기십시오.\"",
     "en": "\"After I'm gone, don't say I'm not here. Take care of him as if I were still with you.\""
    },
    {
-    "n": 13,
+    "n": 12,
     "ko": "\"서방님, 내 말씀 들어 보시오. 내일이 사또 생일이라,",
     "en": "\"My husband, listen to me. Tomorrow is the magistrate's birthday."
    }
@@ -328,53 +308,33 @@
    },
    {
     "n": 2,
-    "ko": "\"흐트러진 머리를 이렁저렁 걷어 얹고, 이리 비틀 저리 비틀 들어가서 매 맞아 죽거든,\"",
-    "en": "\"I'll pin up my messy hair, stagger in this way and that, and when they beat me to death,\""
+    "ko": "\"흐트러진 머리를 이렁저렁 걷어 얹고, 이리 비틀 저리 비틀 들어가서 매 맞아 죽거든, 삯꾼인 체 달려들어 나를 업고, 우리 둘이 처음 만나 놀던 부용당의 고요한 곳에 뉘어 놓으시오.\"",
+    "en": "\"I'll pin up my messy hair, stagger in this way and that, and when they beat me to death, pretend you're a hired man, run in, carry me on your back, and lay me down in the quiet hall where we first loved each other.\""
    },
    {
     "n": 3,
-    "ko": "\"삯꾼인 체 달려들어 나를 업고, 우리 둘이 처음 만나 놀던 부용당의 고요한 곳에 뉘어 놓으시오.\"",
-    "en": "\"pretend you're a hired man, run in, carry me on your back, and lay me down in the quiet hall where we first loved each other.\""
-   },
-   {
-    "n": 4,
     "ko": "\"서방님이 손수 염습해 주되, 내 넋을 위로하여 입은 옷은 벗기지 말고 양지바른 곳에 묻었다가,\"",
     "en": "\"Wash and wrap my body with your own hands. Comfort my spirit, don't take off my clothes, and bury me in a sunny place.\""
    },
    {
+    "n": 4,
+    "ko": "\"서방님이 귀하게 되어 높은 벼슬에 오르거든 잠시도 미루지 말고, 고운 베로 싸서 조촐한 상여에 실어, 앞산 뒷산 다 버리고 서울로 올려 가서 서방님 선산 발치에 묻어 주시오.\"",
+    "en": "\"And when you become a great man someday, don't wait a moment. Wrap me in fine cloth, put me on a simple bier, and carry me all the way to Seoul. Bury me at the foot of your family's graves.\""
+   },
+   {
     "n": 5,
-    "ko": "\"서방님이 귀하게 되어 높은 벼슬에 오르거든 잠시도 미루지 말고, 고운 베로 싸서 조촐한 상여에 실어,\"",
-    "en": "\"And when you become a great man someday, don't wait a moment. Wrap me in fine cloth, put me on a simple bier,\""
+    "ko": "\"비석에는 '수절원사 춘향지묘(守節冤死 春香之墓)', 곧 '정절을 지키다 억울하게 죽은 춘향의 묘'라고 여덟 자만 새겨 주시오. 망부석이 아니 되겠소. 서산에 지는 해는 내일 다시 오련마는, 불쌍한 춘향이는 한번 가면 언제 다시 올까. 원한이나 풀어 주시오.\"",
+    "en": "\"On the stone, carve just a few words: 'The grave of Chunhyang, who stayed faithful and died unjustly.' I'll be like the Waiting Wife Rock. The sun that sets tonight will rise tomorrow, but when poor Chunhyang is gone, she will never come back. Please clear my name.\""
    },
    {
     "n": 6,
-    "ko": "\"앞산 뒷산 다 버리고 서울로 올려 가서 서방님 선산 발치에 묻어 주시오.\"",
-    "en": "\"and carry me all the way to Seoul. Bury me at the foot of your family's graves.\""
+    "ko": "\"아이고, 아이고, 내 신세야. 불쌍한 우리 어머니, 나를 잃고 재산까지 다 없애면 하릴없이 거지가 되어 이 집 저 집 빌어먹다가, 언덕 밑에서 쪼그리고 졸다가 지쳐 죽으면, 지리산 갈까마귀가 두 날개를 떨치고 내려와 두 눈을 다 파먹어도, 훠이 하고 쫓아 줄 자식 하나 없겠구나.\"",
+    "en": "\"Oh, oh, my life! My poor mother! When she loses me and everything we own, she'll become a beggar, going from house to house, and one day she'll fall asleep by the road and die, and the crows of Jirisan will come down and peck out her eyes, and she won't have a child to shoo them away.\""
    },
    {
     "n": 7,
-    "ko": "\"비석에는 '수절원사 춘향지묘(守節冤死 春香之墓)', 곧 '정절을 지키다 억울하게 죽은 춘향의 묘'라고 여덟 자만 새겨 주시오.\"",
-    "en": "\"On the stone, carve just a few words: 'The grave of Chunhyang, who stayed faithful and died unjustly.'\""
-   },
-   {
-    "n": 8,
-    "ko": "\"망부석이 아니 되겠소. 서산에 지는 해는 내일 다시 오련마는, 불쌍한 춘향이는 한번 가면 언제 다시 올까. 원한이나 풀어 주시오.\"",
-    "en": "\"I'll be like the Waiting Wife Rock. The sun that sets tonight will rise tomorrow, but when poor Chunhyang is gone, she will never come back. Please clear my name.\""
-   },
-   {
-    "n": 9,
-    "ko": "\"아이고, 아이고, 내 신세야. 불쌍한 우리 어머니, 나를 잃고 재산까지 다 없애면 하릴없이 거지가 되어 이 집 저 집 빌어먹다가,\"",
-    "en": "\"Oh, oh, my life! My poor mother! When she loses me and everything we own, she'll become a beggar, going from house to house,\""
-   },
-   {
-    "n": 10,
-    "ko": "\"언덕 밑에서 쪼그리고 졸다가 지쳐 죽으면, 지리산 갈까마귀가 두 날개를 떨치고 내려와 두 눈을 다 파먹어도,\"",
-    "en": "\"and one day she'll fall asleep by the road and die, and the crows of Jirisan will come down and peck out her eyes,\""
-   },
-   {
-    "n": 11,
-    "ko": "\"훠이 하고 쫓아 줄 자식 하나 없겠구나.\" 아이고, 아이고, 서럽게 우니 어사또가 말한다. \"울지 마라. 하늘이 무너져도 솟아날 구멍이 있느니라.\"",
-    "en": "\"and she won't have a child to shoo them away.\" As she weeps, the inspector says, \"Don't cry. Even if the sky falls, there's always a way out.\""
+    "ko": "아이고, 아이고, 서럽게 우니 어사또가 말한다. \"울지 마라. 하늘이 무너져도 솟아날 구멍이 있느니라.\"",
+    "en": "As she weeps, the inspector says, \"Don't cry. Even if the sky falls, there's always a way out.\""
    }
   ]
  },

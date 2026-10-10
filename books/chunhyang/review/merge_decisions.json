@@ -1,5 +1,5 @@
 {
- "_note": "Reviewed merges (from gemma's proposals in merge_proposals.json, with Claude's changes). 'groups' lists card ids to join, in order; text is joined by apply_merges.py with fixed rules, never taken from gemma. 'edits' are hand rewrites applied first, for cuts that cross a chapter or need a sentence boundary moved. 'exchanges' marks groups where joined quotes are different speakers (or a book being read aloud) and must stay separate quotes; elsewhere consecutive quotes are one speaker and become one quote.",
+ "_note": "Reviewed merges (from gemma's proposals in merge_proposals.json, with Claude's changes). 'groups' lists card ids to join, in order; text is joined by apply_merges.py with fixed rules, never taken from gemma. 'edits' are hand rewrites applied first, for cuts that cross a chapter or need a sentence boundary moved. 'exchanges' marks groups where joined quotes are different speakers (or a book being read aloud) and must stay separate quotes; elsewhere consecutive quotes are one speaker and become one quote. Per the user (2026-10-10), merges that put two different characters' lines on one card were dropped ('dropped_speaker_change').",
  "edits": {
   "ch_01/P0007.15": {
    "en": "Look at Master Yi! He has a face like jade and looks like an immortal.",
@@ -84,10 +84,6 @@
     "P0003.12"
    ],
    [
-    "P0004.1",
-    "P0004.2"
-   ],
-   [
     "P0004.4",
     "P0004.5"
    ],
@@ -112,11 +108,6 @@
     "P0005.14"
    ],
    [
-    "P0005.15",
-    "P0005.16",
-    "P0005.17"
-   ],
-   [
     "P0005.18",
     "P0005.19"
    ],
@@ -133,33 +124,7 @@
     "P0007.6"
    ]
   ],
-  "ch_03": [
-   [
-    "P0003.9",
-    "P0003.10"
-   ],
-   [
-    "P0003.11",
-    "P0003.12"
-   ],
-   [
-    "P0004.2",
-    "P0004.3"
-   ],
-   [
-    "P0004.5",
-    "P0004.6"
-   ],
-   [
-    "P0005.2",
-    "P0005.3"
-   ],
-   [
-    "P0005.7",
-    "P0005.8",
-    "P0005.9"
-   ]
-  ],
+  "ch_03": [],
   "ch_04": [
    [
     "P0002.10",
@@ -186,24 +151,8 @@
     "P0004.8"
    ],
    [
-    "P0005.6",
-    "P0005.7"
-   ],
-   [
-    "P0008.4",
-    "P0008.5"
-   ],
-   [
     "P0008.10",
     "P0008.11"
-   ],
-   [
-    "P0008.15",
-    "P0008.16"
-   ],
-   [
-    "P0009.3",
-    "P0009.4"
    ]
   ],
   "ch_05": [
@@ -218,14 +167,6 @@
    [
     "P0002.13",
     "P0002.14"
-   ],
-   [
-    "P0002.15",
-    "P0002.16"
-   ],
-   [
-    "P0003.3",
-    "P0003.4"
    ],
    [
     "P0004.1",
@@ -296,14 +237,6 @@
    [
     "P0005.3",
     "P0005.4"
-   ],
-   [
-    "P0006.6",
-    "P0007.1"
-   ],
-   [
-    "P0008.1",
-    "P0008.2"
    ]
   ],
   "ch_08": [
@@ -312,41 +245,8 @@
     "P0002.8"
    ],
    [
-    "P0004.1",
-    "P0004.2"
-   ],
-   [
     "P0005.13",
     "P0005.14"
-   ],
-   [
-    "P0006.7",
-    "P0006.8"
-   ],
-   [
-    "P0006.10",
-    "P0006.11",
-    "P0007.1"
-   ],
-   [
-    "P0007.4",
-    "P0007.5"
-   ],
-   [
-    "P0007.6",
-    "P0007.7"
-   ],
-   [
-    "P0007.8",
-    "P0007.9"
-   ],
-   [
-    "P0007.12",
-    "P0007.13"
-   ],
-   [
-    "P0007.14",
-    "P0007.15"
    ],
    [
     "P0007.18",
@@ -357,16 +257,16 @@
     "P0008.9"
    ],
    [
-    "P0009.5",
-    "P0009.6"
-   ],
-   [
     "P0009.8",
     "P0009.9"
    ],
    [
     "P0009.12",
     "P0010.1"
+   ],
+   [
+    "P0006.11",
+    "P0007.1"
    ]
   ],
   "ch_09": [
@@ -401,28 +301,12 @@
     "P0003.8"
    ],
    [
-    "P0004.7",
-    "P0004.8"
-   ],
-   [
     "P0004.10",
     "P0005.1"
    ],
    [
-    "P0005.2",
-    "P0005.3"
-   ],
-   [
-    "P0005.4",
-    "P0005.5"
-   ],
-   [
     "P0005.7",
     "P0005.8"
-   ],
-   [
-    "P0006.2",
-    "P0006.3"
    ],
    [
     "P0006.5",
@@ -435,10 +319,6 @@
    [
     "P0007.12",
     "P0007.13"
-   ],
-   [
-    "P0008.1",
-    "P0008.2"
    ]
   ],
   "ch_11": [
@@ -472,14 +352,6 @@
    [
     "P0004.5",
     "P0005.1"
-   ],
-   [
-    "P0010.2",
-    "P0010.3"
-   ],
-   [
-    "P0010.6",
-    "P0010.7"
    ],
    [
     "P0011.1",
@@ -698,6 +570,56 @@
    "P0008.1+P0008.2"
   ],
   "ch_12": [
+   "P0010.6+P0010.7"
+  ]
+ },
+ "dropped_speaker_change": {
+  "ch_02": [
+   "P0004.1+P0004.2",
+   "P0005.15+P0005.16+P0005.17"
+  ],
+  "ch_03": [
+   "P0003.9+P0003.10",
+   "P0003.11+P0003.12",
+   "P0004.2+P0004.3",
+   "P0004.5+P0004.6",
+   "P0005.2+P0005.3",
+   "P0005.7+P0005.8+P0005.9"
+  ],
+  "ch_04": [
+   "P0005.6+P0005.7",
+   "P0008.4+P0008.5",
+   "P0008.15+P0008.16",
+   "P0009.3+P0009.4"
+  ],
+  "ch_05": [
+   "P0002.15+P0002.16",
+   "P0003.3+P0003.4"
+  ],
+  "ch_07": [
+   "P0006.6+P0007.1",
+   "P0008.1+P0008.2"
+  ],
+  "ch_08": [
+   "P0004.1+P0004.2",
+   "P0006.7+P0006.8",
+   "P0006.10+P0006.11+P0007.1",
+   "P0007.4+P0007.5",
+   "P0007.6+P0007.7",
+   "P0007.8+P0007.9",
+   "P0007.12+P0007.13",
+   "P0007.14+P0007.15",
+   "P0009.5+P0009.6"
+  ],
+  "ch_10": [
+   "P0004.7+P0004.8",
+   "P0005.2+P0005.3",
+   "P0005.4+P0005.5",
+   "P0006.2+P0006.3",
+   "P0008.1+P0008.2"
+  ],
+  "ch_12": [
+   "P0010.2+P0010.3",
    "P0010.6+P0010.7"
   ]
  }

@@ -28,86 +28,71 @@
    },
    {
     "n": 2,
-    "ko": "\"아직 안 끝났습니다.\"",
-    "en": "\"It is not finished yet.\""
+    "ko": "\"아직 안 끝났습니다.\" 조금 있으니 하인들을 물리는 퇴령 소리가 길게 울린다.",
+    "en": "\"It is not finished yet.\" A little later, a long bell rings to tell the servants to go home."
    },
    {
     "n": 3,
-    "ko": "조금 있으니 하인들을 물리는 퇴령 소리가 길게 울린다.",
-    "en": "A little later, a long bell rings to tell the servants to go home."
-   },
-   {
-    "n": 4,
     "ko": "\"좋다, 좋다! 옳다, 옳다! 방자야, 등롱에 불을 밝혀라.\"",
     "en": "\"Good, good! Right, right! Bangja, light the lanterns.\""
    },
    {
+    "n": 4,
+    "ko": "통인 하나를 뒤따르게 하고 춘향의 집으로 건너가는데, 자취 없이 가만가만 걸으며 말한다. \"방자야, 사또 방에 불빛이 비친다. 등롱을 옆에 끼어라.\"",
+    "en": "He has a servant boy follow him, and they walk to Chunhyang's house so quietly that they leave no trace. He says, \"Bangja, there's light in my father's room. Hide the lantern under your arm.\""
+   },
+   {
     "n": 5,
-    "ko": "통인 하나를 뒤따르게 하고 춘향의 집으로 건너가는데, 자취 없이 가만가만 걸으며 말한다.",
-    "en": "He has a servant boy follow him, and they walk to Chunhyang's house so quietly that they leave no trace. He says,"
-   },
-   {
-    "n": 6,
-    "ko": "\"방자야, 사또 방에 불빛이 비친다. 등롱을 옆에 끼어라.\"",
-    "en": "\"Bangja, there's light in my father's room. Hide the lantern under your arm.\""
-   },
-   {
-    "n": 7,
     "ko": "관아 문을 나서니 좁은 골목에 달빛이 영롱하고, 꽃 사이 푸른 잎은 고운 향기를 풍긴다.",
     "en": "As they leave the government office gate, the moonlight in the narrow alley is beautiful, and the green leaves among the flowers give off a lovely scent."
    },
    {
-    "n": 8,
+    "n": 6,
     "ko": "가련한 오늘 밤 고요한데, 가기는 가야 하지 않겠는가.",
     "en": "It is a quiet, lovely night. How could he not go?"
    },
    {
-    "n": 9,
+    "n": 7,
     "ko": "\"우습구나. 고기 잡는 어부도 도원 가는 길을 모른다는데, 나는 잘도 찾아가는구나.\"",
     "en": "\"How funny. Even the fisherman in the old story could not find his way back to the Peach Blossom Land, but I find my way here easily.\""
    },
    {
-    "n": 10,
+    "n": 8,
     "ko": "춘향의 집 문 앞에 다다르니 인적은 고요하고 달빛은 삼경이다.",
     "en": "When he reaches Chunhyang's gate, all is quiet, and it is past midnight."
    },
    {
-    "n": 11,
+    "n": 9,
     "ko": "물고기는 물 위로 뛰놀고, 대접만 한 금붕어는 임을 보고 반기는 듯하며, 달 아래 두루미는 흥에 겨워 짝을 부른다.",
     "en": "Fish jump in the water, goldfish as big as bowls seem happy to see the guest, and under the moon a crane calls happily to its mate."
    },
    {
-    "n": 12,
+    "n": 10,
     "ko": "이때 춘향이는 거문고를 비스듬히 안고 노래를 타다가 잠자리에 들어 졸고 있었다.",
     "en": "Chunhyang had been playing her zither and singing, and then she fell asleep in bed."
    },
    {
-    "n": 13,
-    "ko": "방자가 안으로 들어가는데, 개가 짖을까 염려하여 기척 없이 가만가만 춘향의 방 창문 밑으로 살짝 다가간다.",
-    "en": "Bangja goes in. Worried that a dog might bark, he creeps quietly up under Chunhyang's window."
+    "n": 11,
+    "ko": "방자가 안으로 들어가는데, 개가 짖을까 염려하여 기척 없이 가만가만 춘향의 방 창문 밑으로 살짝 다가간다. \"이 애 춘향아, 잠들었느냐?\"",
+    "en": "Bangja goes in. Worried that a dog might bark, he creeps quietly up under Chunhyang's window. \"Hey, Chunhyang, are you asleep?\""
    },
    {
-    "n": 14,
-    "ko": "\"이 애 춘향아, 잠들었느냐?\"",
-    "en": "\"Hey, Chunhyang, are you asleep?\""
-   },
-   {
-    "n": 15,
+    "n": 12,
     "ko": "춘향이 깜짝 놀란다. \"네가 어찌 왔느냐?\"",
     "en": "Chunhyang is startled. \"What are you doing here?\""
    },
    {
-    "n": 16,
+    "n": 13,
     "ko": "\"도련님이 와 계시다.\"",
     "en": "\"Master Yi is here.\""
    },
    {
-    "n": 17,
+    "n": 14,
     "ko": "춘향이 이 말을 듣고 가슴이 두근두근, 속이 답답하여 부끄러움을 못 이긴다.",
     "en": "When she hears this, Chunhyang's heart pounds, and she is so shy she doesn't know what to do."
    },
    {
-    "n": 18,
+    "n": 15,
     "ko": "춘향은 문을 열고 나와 건넌방으로 건너가 어머니를 깨운다.",
     "en": "Chunhyang opens the door, comes out, goes to the next room, and wakes up her mother."
    }
@@ -195,71 +180,61 @@
   "sentences": [
    {
     "n": 1,
-    "ko": "도련님은 이리저리 서성이며 멋쩍게 서 있는데, 방자가 나와서 아뢴다.",
-    "en": "Master Yi is pacing around awkwardly when Bangja comes out and says,"
+    "ko": "도련님은 이리저리 서성이며 멋쩍게 서 있는데, 방자가 나와서 아뢴다. \"저기 오는 이가 춘향의 어머니입니다.\"",
+    "en": "Master Yi is pacing around awkwardly when Bangja comes out and says, \"The woman coming that way is Chunhyang's mother.\""
    },
    {
     "n": 2,
-    "ko": "\"저기 오는 이가 춘향의 어머니입니다.\"",
-    "en": "\"The woman coming that way is Chunhyang's mother.\""
-   },
-   {
-    "n": 3,
     "ko": "춘향 어머니가 나와서 두 손을 모으고 우뚝 서며 인사한다. \"그동안 도련님, 안녕하셨습니까?\"",
     "en": "Chunhyang's mother comes out, puts her hands together politely, and stands straight. \"Master Yi, how have you been?\""
    },
    {
-    "n": 4,
+    "n": 3,
     "ko": "도련님이 반쯤 웃으며 말한다. \"춘향 어머니인가? 평안한가?\"",
     "en": "Master Yi smiles a little and says, \"Are you Chunhyang's mother? Are you well?\""
    },
    {
-    "n": 5,
+    "n": 4,
     "ko": "\"예, 그럭저럭 지냅니다. 오실 줄 정말 몰라서 제대로 맞이하지 못했습니다.\"",
     "en": "\"Yes, I manage. I really did not know you were coming, so I could not welcome you properly.\""
    },
    {
+    "n": 5,
+    "ko": "\"그럴 리가 있나.\" 춘향 어머니가 앞장서서 안내하여 대문과 중문을 다 지나 뒤뜰로 돌아가니, 오래된 별채 초당에 등롱이 밝혀져 있다.",
+    "en": "\"Not at all.\" Chunhyang's mother leads the way through the main gate and the middle gate to the back garden, where a lantern glows in an old cottage set apart."
+   },
+   {
     "n": 6,
-    "ko": "\"그럴 리가 있나.\"",
-    "en": "\"Not at all.\""
-   },
-   {
-    "n": 7,
-    "ko": "춘향 어머니가 앞장서서 안내하여 대문과 중문을 다 지나 뒤뜰로 돌아가니, 오래된 별채 초당에 등롱이 밝혀져 있다.",
-    "en": "Chunhyang's mother leads the way through the main gate and the middle gate to the back garden, where a lantern glows in an old cottage set apart."
-   },
-   {
-    "n": 8,
     "ko": "늘어진 버들가지가 불빛을 가린 모양은 구슬 발을 갈고리에 걸어 놓은 듯하다.",
     "en": "Drooping willow branches hide the light, like a bead curtain hung on hooks."
    },
    {
-    "n": 9,
+    "n": 7,
     "ko": "오른쪽의 벽오동에는 맑은 이슬이 똑똑 떨어져 학의 꿈을 놀래는 듯하다.",
     "en": "On the right, clear dew drips from a paulownia tree, as if to wake a crane from its dream."
    },
    {
-    "n": 10,
+    "n": 8,
     "ko": "왼쪽에 선 반송은 맑은 바람이 건듯 불면 늙은 용이 꿈틀대는 듯하다.",
     "en": "On the left, when a breeze blows through the low pine, it looks like an old dragon twisting."
    },
    {
-    "n": 11,
+    "n": 9,
     "ko": "창 앞에 심은 파초와 난초는 새 잎이 쭉쭉 뻗어 나오고, 어린 연꽃은 물 위에 겨우 떠서 옥 같은 이슬을 받치고 있다.",
     "en": "In front of the window, banana plants and orchids push out new leaves, and young lotus flowers float on the water, holding up drops of dew like jade."
    },
    {
-    "n": 12,
+    "n": 10,
     "ko": "대접만 한 금붕어는 용이 되려는 듯 때때로 물결을 치며 출렁 텀벙 굼실 놀고, 새로 난 연잎은 그것을 받아먹으려는 듯 벌어진다.",
     "en": "Goldfish as big as bowls splash and roll as if they want to become dragons, and new lotus leaves open wide as if to catch them."
    },
    {
-    "n": 13,
+    "n": 11,
     "ko": "높이 쌓은 바위 언덕 아래에서는 학과 두루미가 사람을 보고 놀라 두 날개를 쩍 벌리고 긴 다리로 징검징검 걸으며 끼룩 뚜르륵 운다.",
     "en": "Below a rock garden, cranes are startled by the visitors. They spread their wings, step along on their long legs, and cry out."
    },
    {
-    "n": 14,
+    "n": 12,
     "ko": "계수나무 밑에서는 삽살개가 짖는구나.",
     "en": "Under the cassia tree, a shaggy dog barks."
    }
@@ -311,13 +286,8 @@
    },
    {
     "n": 8,
-    "ko": "도련님이 담배를 받아 물고 앉았다.",
-    "en": "Master Yi takes the pipe and sits."
-   },
-   {
-    "n": 9,
-    "ko": "도련님이 춘향의 집에 온 것은 춘향에게 마음이 있어서이지, 살림살이를 구경하러 온 것은 아니었다.",
-    "en": "Master Yi has come because he loves Chunhyang, not to look at her furniture."
+    "ko": "도련님이 담배를 받아 물고 앉았다. 도련님이 춘향의 집에 온 것은 춘향에게 마음이 있어서이지, 살림살이를 구경하러 온 것은 아니었다.",
+    "en": "Master Yi takes the pipe and sits. Master Yi has come because he loves Chunhyang, not to look at her furniture."
    }
   ],
   "issues": []
@@ -470,13 +440,8 @@
    },
    {
     "n": 6,
-    "ko": "\"꽃을 찾는 나비처럼 취한 마음으로 오늘 밤 온 뜻은, 춘향 어머니를 보러 온 것이기도 하지만,\"",
-    "en": "\"Like a butterfly drunk on a flower, I came here tonight. I came to see you, Chunhyang's mother,\""
-   },
-   {
-    "n": 7,
-    "ko": "\"자네 딸 춘향과 백 년을 함께하자는 약속을 맺고 싶어서네. 자네 생각은 어떤가?\"",
-    "en": "\"but I also want to promise your daughter that we will be together for a hundred years. What do you say?\""
+    "ko": "\"꽃을 찾는 나비처럼 취한 마음으로 오늘 밤 온 뜻은, 춘향 어머니를 보러 온 것이기도 하지만, 자네 딸 춘향과 백 년을 함께하자는 약속을 맺고 싶어서네. 자네 생각은 어떤가?\"",
+    "en": "\"Like a butterfly drunk on a flower, I came here tonight. I came to see you, Chunhyang's mother, but I also want to promise your daughter that we will be together for a hundred years. What do you say?\""
    }
   ],
   "issues": []

@@ -88,21 +88,16 @@
   "sentences": [
    {
     "n": 1,
-    "ko": "암행어사의 마패와 놋자를 내주시니, 임금께 하직하고 집으로 돌아간다. 쇠 같은 풍채가 깊은 산속 범 같다.",
-    "en": "He receives the inspector's horse badge and a brass ruler, says farewell to the king, and goes home. He looks as strong as a tiger in the deep mountains."
+    "ko": "암행어사의 마패와 놋자를 내주시니, 임금께 하직하고 집으로 돌아간다. 쇠 같은 풍채가 깊은 산속 범 같다. 부모님께 하직하고 전라도로 떠나는데, 남대문 밖으로 나서서 서리와 중방, 역졸들을 거느린다.",
+    "en": "He receives the inspector's horse badge and a brass ruler, says farewell to the king, and goes home. He looks as strong as a tiger in the deep mountains. He bids his parents goodbye and sets out for Jeolla Province. Outside the South Gate he gathers his clerks and runners."
    },
    {
     "n": 2,
-    "ko": "부모님께 하직하고 전라도로 떠나는데, 남대문 밖으로 나서서 서리와 중방, 역졸들을 거느린다.",
-    "en": "He bids his parents goodbye and sets out for Jeolla Province. Outside the South Gate he gathers his clerks and runners."
-   },
-   {
-    "n": 3,
     "ko": "역마를 잡아타고 한강을 건너 과천, 수원, 공주를 거쳐 금강을 건너고, 여러 고을에서 묵으며 남쪽으로 내려간다.",
     "en": "They take post horses and ride south, crossing the Han River and the Geum River, through Gwacheon, Suwon, Gongju, and many towns, stopping each night at an inn."
    },
    {
-    "n": 4,
+    "n": 3,
     "ko": "여산에 이르러 숙소를 정하고, 이튿날 서리와 중방을 불러 분부한다. \"전라도의 첫 고을이 여산이다.\"",
     "en": "At Yeosan, the first town in Jeolla Province, they stop. The next day he calls his men. \"We are now in Jeolla Province.\""
    }
@@ -133,26 +128,21 @@
    },
    {
     "n": 4,
-    "ko": "그렇게 모두 떠나보낸 뒤 어사또가 변장을 차리는데, 그 모양을 보아라. 사람을 속이려고,",
-    "en": "When they have all gone, the inspector puts on his disguise. Look at him! To fool everyone,"
+    "ko": "그렇게 모두 떠나보낸 뒤 어사또가 변장을 차리는데, 그 모양을 보아라. 사람을 속이려고, 갓끈 없는 헌 갓에 노끈을 칭칭 매어 쓰고, 다 떨어진 헌 망건에 노끈으로 당줄을 달아 쓰고,",
+    "en": "When they have all gone, the inspector puts on his disguise. Look at him! To fool everyone, he wears a ragged old hat with no strap, tied on with a piece of string, and a torn old headband."
    },
    {
     "n": 5,
-    "ko": "갓끈 없는 헌 갓에 노끈을 칭칭 매어 쓰고, 다 떨어진 헌 망건에 노끈으로 당줄을 달아 쓰고,",
-    "en": "he wears a ragged old hat with no strap, tied on with a piece of string, and a torn old headband."
-   },
-   {
-    "n": 6,
     "ko": "다 해진 헌 도포에 무명실 띠를 가슴께 둘러매고, 살만 남은 헌 부채에 솔방울을 달아 햇빛을 가린다.",
     "en": "He wears a worn-out coat with a cotton cord around his chest, and he shades his eyes with a broken fan that has a pinecone tied to it."
    },
    {
-    "n": 7,
+    "n": 6,
     "ko": "전주에 내려와 묵고, 전주 성의 경치를 구경한다. 남문에 올라 사방을 둘러보니 강남이 따로 없다.",
     "en": "He comes down to Jeonju, stays there, and walks around the town. From the South Gate he looks out, and it is as lovely as the famous south of China."
    },
    {
-    "n": 8,
+    "n": 7,
     "ko": "기린봉의 달, 한벽당의 안개, 남고사의 저녁 종소리 같은 완산 팔경을 다 구경하고,",
     "en": "He sees all eight famous views of Jeonju: the moon over Girin Peak, the mist at Hanbyeok Pavilion, the evening bell of Namgo Temple, and the rest."
    }
@@ -238,23 +228,13 @@
    },
    {
     "n": 4,
-    "ko": "\"원수로다, 원수로다, 백발이 원수로다. 오는 백발 막으려고 도끼 들고 가시 들고 막았건만,\"",
-    "en": "\"White hair is our enemy! We tried to stop it with axes and thorns,\""
+    "ko": "\"원수로다, 원수로다, 백발이 원수로다. 오는 백발 막으려고 도끼 들고 가시 들고 막았건만, 젊음은 저절로 가고 백발은 때때로 돌아와 귀밑에 살 잡히고 검은 머리가 백발이 되었구나.\"",
+    "en": "\"White hair is our enemy! We tried to stop it with axes and thorns, but youth leaves on its own, white hair keeps coming back, our skin wrinkles, and our black hair turns white.\""
    },
    {
     "n": 5,
-    "ko": "\"젊음은 저절로 가고 백발은 때때로 돌아와 귀밑에 살 잡히고 검은 머리가 백발이 되었구나.\"",
-    "en": "\"but youth leaves on its own, white hair keeps coming back, our skin wrinkles, and our black hair turns white.\""
-   },
-   {
-    "n": 6,
-    "ko": "\"무정한 것이 세월이라. 좋은 말 타고 서울 거리를 달리며 고운 경치 다시 보고, 미인 곁에서 놀고 싶건마는,\"",
-    "en": "\"Time has no heart. We wish we could ride a fine horse through Seoul again, see beautiful places, and play beside pretty girls,\""
-   },
-   {
-    "n": 7,
-    "ko": "\"눈은 어둡고 귀는 먹어 볼 수도 없고 들을 수도 없으니 하릴없구나. 아마도 우리 인생은 한바탕 봄꿈인가 하노라.\"",
-    "en": "\"but our eyes are dim and our ears are deaf. There's nothing to be done. Our whole life was just a spring dream.\""
+    "ko": "\"무정한 것이 세월이라. 좋은 말 타고 서울 거리를 달리며 고운 경치 다시 보고, 미인 곁에서 놀고 싶건마는, 눈은 어둡고 귀는 먹어 볼 수도 없고 들을 수도 없으니 하릴없구나. 아마도 우리 인생은 한바탕 봄꿈인가 하노라.\"",
+    "en": "\"Time has no heart. We wish we could ride a fine horse through Seoul again, see beautiful places, and play beside pretty girls, but our eyes are dim and our ears are deaf. There's nothing to be done. Our whole life was just a spring dream.\""
    }
   ]
  },

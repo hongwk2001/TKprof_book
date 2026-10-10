@@ -68,33 +68,18 @@
    },
    {
     "n": 10,
-    "ko": "시경을 읽는다. \"구욱구욱 물수리는 강가 모래섬에 있도다. 아리따운 아가씨는 군자의 좋은 짝이로다.\"",
-    "en": "He reads the Book of Songs. \"Guan, guan, cry the ospreys on the river island. A lovely young lady is a fine match for a gentleman.\""
+    "ko": "시경을 읽는다. \"구욱구욱 물수리는 강가 모래섬에 있도다. 아리따운 아가씨는 군자의 좋은 짝이로다.\" \"아서라, 이 글도 못 읽겠다.\"",
+    "en": "He reads the Book of Songs. \"Guan, guan, cry the ospreys on the river island. A lovely young lady is a fine match for a gentleman.\" \"Oh no, I can't read this one either.\""
    },
    {
     "n": 11,
-    "ko": "\"아서라, 이 글도 못 읽겠다.\"",
-    "en": "\"Oh no, I can't read this one either.\""
+    "ko": "대학을 읽는다. \"대학의 도는 밝은 덕을 밝히는 데 있으며, 백성을 새롭게 하는 데 있으며, 춘향이에 있도다.\" \"이 글도 못 읽겠다.\"",
+    "en": "He reads the Great Learning. \"The way of great learning lies in making virtue shine, in renewing the people, and in Chunhyang.\" \"I can't read this one either.\""
    },
    {
     "n": 12,
-    "ko": "대학을 읽는다. \"대학의 도는 밝은 덕을 밝히는 데 있으며, 백성을 새롭게 하는 데 있으며, 춘향이에 있도다.\"",
-    "en": "He reads the Great Learning. \"The way of great learning lies in making virtue shine, in renewing the people, and in Chunhyang.\""
-   },
-   {
-    "n": 13,
-    "ko": "\"이 글도 못 읽겠다.\"",
-    "en": "\"I can't read this one either.\""
-   },
-   {
-    "n": 14,
-    "ko": "주역을 읽는다. \"원은 형코, 정코, 춘향이 코, 내 코 대니 좋고 하니라.\"",
-    "en": "He reads the Book of Changes. \"The Way is great... Chunhyang's nose, my nose, nose to nose, how nice!\" (In Korean, the old words in this book sound like \"ko,\" the word for nose.)"
-   },
-   {
-    "n": 15,
-    "ko": "\"이 글도 못 읽겠다.\"",
-    "en": "\"I can't read this one either.\""
+    "ko": "주역을 읽는다. \"원은 형코, 정코, 춘향이 코, 내 코 대니 좋고 하니라.\" \"이 글도 못 읽겠다.\"",
+    "en": "He reads the Book of Changes. \"The Way is great... Chunhyang's nose, my nose, nose to nose, how nice!\" (In Korean, the old words in this book sound like \"ko,\" the word for nose.) \"I can't read this one either.\""
    }
   ],
   "issues": []
@@ -109,23 +94,13 @@
   "sentences": [
    {
     "n": 1,
-    "ko": "등왕각서를 읽는다. \"남창은 옛 고을이요, 홍도는 새 고을이로다.\"",
-    "en": "He reads a famous essay about a tower. \"Nanchang is an old town, and Hongdu is a new town.\""
+    "ko": "등왕각서를 읽는다. \"남창은 옛 고을이요, 홍도는 새 고을이로다.\" \"옳다, 이 글은 되었다.\"",
+    "en": "He reads a famous essay about a tower. \"Nanchang is an old town, and Hongdu is a new town.\" \"Good, I can read this one.\""
    },
    {
     "n": 2,
-    "ko": "\"옳다, 이 글은 되었다.\"",
-    "en": "\"Good, I can read this one.\""
-   },
-   {
-    "n": 3,
-    "ko": "맹자를 읽는다. \"맹자께서 양나라 혜왕을 뵈니, 왕이 말하기를 '노인께서 천 리를 멀다 않고 오셨으니' 하니,\"",
-    "en": "He reads the Mencius. \"When Mencius met King Hui of Liang, the king said, 'Sir, you have come a thousand li to see me.'\""
-   },
-   {
-    "n": 4,
-    "ko": "\"춘향이 보러 오셨습니까?\"",
-    "en": "\"Have you come to see Chunhyang?\""
+    "ko": "맹자를 읽는다. \"맹자께서 양나라 혜왕을 뵈니, 왕이 말하기를 '노인께서 천 리를 멀다 않고 오셨으니' 하니, 춘향이 보러 오셨습니까?\"",
+    "en": "He reads the Mencius. \"When Mencius met King Hui of Liang, the king said, 'Sir, you have come a thousand li to see me.'\" \"Have you come to see Chunhyang?\""
    }
   ],
   "issues": []
@@ -170,13 +145,8 @@
    },
    {
     "n": 7,
-    "ko": "도련님이 적벽부를 펼쳐 놓는다. \"임술년 가을 칠월 열엿새, 소자가 손님과 함께 적벽 아래 배를 띄우니, 맑은 바람은 솔솔 불고 물결은 일지 않는구나.\"",
-    "en": "Master Yi opens the Red Cliff poem. \"In autumn, on the sixteenth night of the seventh month, I sailed with a guest below the Red Cliff. A clear breeze blew softly, and the water was calm.\""
-   },
-   {
-    "n": 8,
-    "ko": "\"아서라, 이 글도 못 읽겠다.\"",
-    "en": "\"Oh no, I can't read this one either.\""
+    "ko": "도련님이 적벽부를 펼쳐 놓는다. \"임술년 가을 칠월 열엿새, 소자가 손님과 함께 적벽 아래 배를 띄우니, 맑은 바람은 솔솔 불고 물결은 일지 않는구나.\" \"아서라, 이 글도 못 읽겠다.\"",
+    "en": "Master Yi opens the Red Cliff poem. \"In autumn, on the sixteenth night of the seventh month, I sailed with a guest below the Red Cliff. A clear breeze blew softly, and the water was calm.\" \"Oh no, I can't read this one either.\""
    }
   ],
   "issues": []
@@ -464,41 +434,36 @@
    },
    {
     "n": 10,
-    "ko": "\"내가 논어를 읽다가 '슬프다, 내가 늙었구나. 꿈에 주공을 뵌 지 오래로다'라는 대목을 보았다.\"",
-    "en": "\"I was reading the Analects and came to the line, 'How sad, I have grown old. It has been a long time since I dreamed of the Duke of Zhou.'\""
+    "ko": "\"내가 논어를 읽다가 '슬프다, 내가 늙었구나. 꿈에 주공을 뵌 지 오래로다'라는 대목을 보았다. 나도 주공을 뵈면 그리하여 볼까 하고 흥이 나서 소리가 높았다고, 그대로 아뢰어라.\"",
+    "en": "\"I was reading the Analects and came to the line, 'How sad, I have grown old. It has been a long time since I dreamed of the Duke of Zhou.' Tell him I got excited, wondering if I would shout like that too if I saw the Duke of Zhou, and that is why my voice got loud.\""
    },
    {
     "n": 11,
-    "ko": "\"나도 주공을 뵈면 그리하여 볼까 하고 흥이 나서 소리가 높았다고, 그대로 아뢰어라.\"",
-    "en": "\"Tell him I got excited, wondering if I would shout like that too if I saw the Duke of Zhou, and that is why my voice got loud.\""
-   },
-   {
-    "n": 12,
     "ko": "통인이 들어가 그대로 아뢰니, 사또는 아들에게 남보다 뛰어난 재주가 있다고 크게 기뻐한다.",
     "en": "The servant goes in and tells him just that. The magistrate is delighted, thinking his son has a rare gift."
    },
    {
-    "n": 13,
+    "n": 12,
     "ko": "\"이리 오너라. 책방에 가서 목 낭청을 가만히 오시라 해라.\"",
     "en": "\"Come here. Go to the study and quietly ask Clerk Mok to come.\""
    },
    {
-    "n": 14,
+    "n": 13,
     "ko": "낭청이 들어오는데, 이 양반은 어찌나 고리타분하게 생겼는지 걸음걸이 속에도 근심이 가득 들었다.",
     "en": "The clerk comes in. He is such a dull-looking old man that even his walk looks worried."
    },
    {
-    "n": 15,
+    "n": 14,
     "ko": "\"사또, 그동안 심심하셨지요?\"",
     "en": "\"Sir, you must have been bored.\""
    },
    {
-    "n": 16,
+    "n": 15,
     "ko": "\"아, 거기 앉게. 할 말이 있네. 우리는 어릴 적 친구로 함께 글공부를 했지.\"",
     "en": "\"Ah, sit down. I want to tell you something. We were friends as boys and studied together.\""
    },
    {
-    "n": 17,
+    "n": 16,
     "ko": "\"어린 시절에는 글 읽기처럼 싫은 것이 없었는데, 우리 아이 글 읽는 흥을 보니 어찌 기쁘지 않겠나.\"",
     "en": "\"When we were young, nothing was more boring than studying. So how can I not be happy to see my boy so excited about books?\""
    }
