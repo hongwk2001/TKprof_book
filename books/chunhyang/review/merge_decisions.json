@@ -1,0 +1,704 @@
+{
+ "_note": "Reviewed merges (from gemma's proposals in merge_proposals.json, with Claude's changes). 'groups' lists card ids to join, in order; text is joined by apply_merges.py with fixed rules, never taken from gemma. 'edits' are hand rewrites applied first, for cuts that cross a chapter or need a sentence boundary moved. 'exchanges' marks groups where joined quotes are different speakers (or a book being read aloud) and must stay separate quotes; elsewhere consecutive quotes are one speaker and become one quote.",
+ "edits": {
+  "ch_01/P0007.15": {
+   "en": "Look at Master Yi! He has a face like jade and looks like an immortal.",
+   "ko": "도련님 모습을 보아라. 옥 같은 얼굴에 신선 같은 풍채로다.",
+   "why": "cut mid-sentence into the editorial bridge; split at a sentence boundary instead of merging into the bridge"
+  },
+  "ch_01/P0008.1": {
+   "en": "His long hair is neatly combed and braided. He wears fine silk clothes and a gat hat, and he looks like a proud young nobleman from the capital.",
+   "ko": "긴 머리를 곱게 빗어 땋아 내리고, 고운 비단 옷에 갓을 받쳐 쓰니 한양 귀공자의 풍채가 늠름하다.",
+   "why": "second half of the split above"
+  },
+  "ch_13/P0006.13": {
+   "en": "\"You say gisaeng can't be loyal or faithful, so I'll tell you about them one by one. Nongseon, a gisaeng from Hwanghae, died for her honor at Dongseon Pass.",
+   "ko": "\"기생에게는 충효도 열녀도 없다 하시니, 하나하나 아뢰겠습니다. 황해도 기생 농선이는 동선령에서 죽어 이름을 남겼습니다.",
+   "why": "joining both halves goes over 300 characters; end the first half as a full sentence"
+  },
+  "ch_13/P0007.1": {
+   "en": "A little gisaeng in Seoncheon studied hard and became a scholar, and Nongae, the gisaeng of Jinju, gave her life for our country and is honored at a shrine to this day.\"",
+   "ko": "선천 기생은 어린아이였지만 학문을 닦았고, 진주 기생 논개는 우리나라의 충렬로 충렬문에 모셔져 천년 제사를 받고 있습니다.\"",
+   "why": "second half, now a full sentence"
+  },
+  "ch_14/P0018.11": {
+   "en": "\"Don't say such things. Let's just go to the prison.\" The guard carries Chunhyang on his back.",
+   "ko": "\"그런 말씀 마시고 옥으로 가십시다.\" 사령이 춘향을 등에 업는다.",
+   "why": "chapter ended mid-sentence; ch_15 opens with the walk to the prison"
+  },
+  "ch_15/P0007.8": {
+   "en": "\"Ghosts, if you want to take me, at least don't nag me about it.\" She chants a charm against ghosts and sits there.",
+   "ko": "\"이 몸을 귀신들이 잡아가려거든 조르지나 말려무나.\" 하고 귀신 쫓는 주문을 외며 앉아 있다.",
+   "why": "chapter ended mid-sentence ('Outside the prison,'); the phrase moves to ch_16's first line"
+  },
+  "ch_16/P0002.1": {
+   "en": "A blind fortune-teller walks by outside the prison. A city fortune-teller would call out politely, but this is a country one, so he shouts, \"Fortunes! Get your fortunes told!\"",
+   "ko": "옥 밖으로 점쟁이 봉사 하나가 지나간다. 서울 봉사 같으면 \"문수(問數) 하오.\" 하련만, 시골 봉사라 \"점 보시오!\" 하고 외치며 간다.",
+   "why": "receives 'outside the prison' from the end of ch_15"
+  },
+  "ch_19/P0007.10": {
+   "en": "\"and one day she'll fall asleep by the road and die, and the crows of Jirisan will come down and peck out her eyes, and she won't have a child to shoo them away.\"",
+   "ko": "\"언덕 밑에서 쪼그리고 졸다가 지쳐 죽으면, 지리산 갈까마귀가 두 날개를 떨치고 내려와 두 눈을 다 파먹어도, 훠이 하고 쫓아 줄 자식 하나 없겠구나.\"",
+   "why": "move the end of her speech up so the next card starts with the inspector"
+  },
+  "ch_19/P0007.11": {
+   "en": "As she weeps, the inspector says, \"Don't cry. Even if the sky falls, there's always a way out.\"",
+   "ko": "아이고, 아이고, 서럽게 우니 어사또가 말한다. \"울지 마라. 하늘이 무너져도 솟아날 구멍이 있느니라.\"",
+   "why": "now starts at a sentence boundary"
+  }
+ },
+ "groups": {
+  "ch_01": [
+   [
+    "P0002.10",
+    "P0002.11"
+   ],
+   [
+    "P0004.14",
+    "P0004.15"
+   ],
+   [
+    "P0005.14",
+    "P0005.15"
+   ],
+   [
+    "P0006.9",
+    "P0007.1"
+   ],
+   [
+    "P0007.7",
+    "P0007.8"
+   ],
+   [
+    "P0009.8",
+    "P0009.9"
+   ]
+  ],
+  "ch_02": [
+   [
+    "P0002.12",
+    "P0002.13"
+   ],
+   [
+    "P0003.11",
+    "P0003.12"
+   ],
+   [
+    "P0004.1",
+    "P0004.2"
+   ],
+   [
+    "P0004.4",
+    "P0004.5"
+   ],
+   [
+    "P0004.9",
+    "P0005.1"
+   ],
+   [
+    "P0005.2",
+    "P0005.3"
+   ],
+   [
+    "P0005.7",
+    "P0005.8"
+   ],
+   [
+    "P0005.11",
+    "P0005.12"
+   ],
+   [
+    "P0005.13",
+    "P0005.14"
+   ],
+   [
+    "P0005.15",
+    "P0005.16",
+    "P0005.17"
+   ],
+   [
+    "P0005.18",
+    "P0005.19"
+   ],
+   [
+    "P0006.7",
+    "P0006.8"
+   ],
+   [
+    "P0006.12",
+    "P0006.13"
+   ],
+   [
+    "P0007.5",
+    "P0007.6"
+   ]
+  ],
+  "ch_03": [
+   [
+    "P0003.9",
+    "P0003.10"
+   ],
+   [
+    "P0003.11",
+    "P0003.12"
+   ],
+   [
+    "P0004.2",
+    "P0004.3"
+   ],
+   [
+    "P0004.5",
+    "P0004.6"
+   ],
+   [
+    "P0005.2",
+    "P0005.3"
+   ],
+   [
+    "P0005.7",
+    "P0005.8",
+    "P0005.9"
+   ]
+  ],
+  "ch_04": [
+   [
+    "P0002.10",
+    "P0002.11"
+   ],
+   [
+    "P0002.12",
+    "P0002.13"
+   ],
+   [
+    "P0002.14",
+    "P0002.15"
+   ],
+   [
+    "P0003.1",
+    "P0003.2"
+   ],
+   [
+    "P0003.3",
+    "P0003.4"
+   ],
+   [
+    "P0004.7",
+    "P0004.8"
+   ],
+   [
+    "P0005.6",
+    "P0005.7"
+   ],
+   [
+    "P0008.4",
+    "P0008.5"
+   ],
+   [
+    "P0008.10",
+    "P0008.11"
+   ],
+   [
+    "P0008.15",
+    "P0008.16"
+   ],
+   [
+    "P0009.3",
+    "P0009.4"
+   ]
+  ],
+  "ch_05": [
+   [
+    "P0002.2",
+    "P0002.3"
+   ],
+   [
+    "P0002.5",
+    "P0002.6"
+   ],
+   [
+    "P0002.13",
+    "P0002.14"
+   ],
+   [
+    "P0002.15",
+    "P0002.16"
+   ],
+   [
+    "P0003.3",
+    "P0003.4"
+   ],
+   [
+    "P0004.1",
+    "P0004.2"
+   ],
+   [
+    "P0004.6",
+    "P0004.7"
+   ],
+   [
+    "P0005.8",
+    "P0005.9"
+   ],
+   [
+    "P0009.6",
+    "P0009.7"
+   ]
+  ],
+  "ch_06": [
+   [
+    "P0002.6",
+    "P0003.1"
+   ],
+   [
+    "P0003.13",
+    "P0004.1"
+   ],
+   [
+    "P0004.15",
+    "P0005.1"
+   ],
+   [
+    "P0005.12",
+    "P0005.13",
+    "P0006.1"
+   ],
+   [
+    "P0006.10",
+    "P0006.11",
+    "P0007.1"
+   ],
+   [
+    "P0007.5",
+    "P0007.6"
+   ]
+  ],
+  "ch_07": [
+   [
+    "P0002.1",
+    "P0002.2"
+   ],
+   [
+    "P0002.8",
+    "P0002.9"
+   ],
+   [
+    "P0002.12",
+    "P0002.13"
+   ],
+   [
+    "P0002.14",
+    "P0003.1"
+   ],
+   [
+    "P0003.13",
+    "P0003.14"
+   ],
+   [
+    "P0005.3",
+    "P0005.4"
+   ],
+   [
+    "P0006.6",
+    "P0007.1"
+   ],
+   [
+    "P0008.1",
+    "P0008.2"
+   ]
+  ],
+  "ch_08": [
+   [
+    "P0002.7",
+    "P0002.8"
+   ],
+   [
+    "P0004.1",
+    "P0004.2"
+   ],
+   [
+    "P0005.13",
+    "P0005.14"
+   ],
+   [
+    "P0006.7",
+    "P0006.8"
+   ],
+   [
+    "P0006.10",
+    "P0006.11",
+    "P0007.1"
+   ],
+   [
+    "P0007.4",
+    "P0007.5"
+   ],
+   [
+    "P0007.6",
+    "P0007.7"
+   ],
+   [
+    "P0007.8",
+    "P0007.9"
+   ],
+   [
+    "P0007.12",
+    "P0007.13"
+   ],
+   [
+    "P0007.14",
+    "P0007.15"
+   ],
+   [
+    "P0007.18",
+    "P0008.1"
+   ],
+   [
+    "P0008.8",
+    "P0008.9"
+   ],
+   [
+    "P0009.5",
+    "P0009.6"
+   ],
+   [
+    "P0009.8",
+    "P0009.9"
+   ],
+   [
+    "P0009.12",
+    "P0010.1"
+   ]
+  ],
+  "ch_09": [
+   [
+    "P0004.3",
+    "P0004.4"
+   ],
+   [
+    "P0004.8",
+    "P0004.9"
+   ],
+   [
+    "P0005.1",
+    "P0005.2"
+   ],
+   [
+    "P0005.5",
+    "P0005.6"
+   ],
+   [
+    "P0006.6",
+    "P0006.7"
+   ]
+  ],
+  "ch_10": [
+   [
+    "P0002.15",
+    "P0003.1"
+   ],
+   [
+    "P0003.7",
+    "P0003.8"
+   ],
+   [
+    "P0004.7",
+    "P0004.8"
+   ],
+   [
+    "P0004.10",
+    "P0005.1"
+   ],
+   [
+    "P0005.2",
+    "P0005.3"
+   ],
+   [
+    "P0005.4",
+    "P0005.5"
+   ],
+   [
+    "P0005.7",
+    "P0005.8"
+   ],
+   [
+    "P0006.2",
+    "P0006.3"
+   ],
+   [
+    "P0006.5",
+    "P0006.6"
+   ],
+   [
+    "P0007.1",
+    "P0007.2"
+   ],
+   [
+    "P0007.12",
+    "P0007.13"
+   ],
+   [
+    "P0008.1",
+    "P0008.2"
+   ]
+  ],
+  "ch_11": [
+   [
+    "P0003.1",
+    "P0003.2",
+    "P0003.3"
+   ],
+   [
+    "P0004.9",
+    "P0004.10"
+   ],
+   [
+    "P0006.11",
+    "P0006.12"
+   ],
+   [
+    "P0007.2",
+    "P0007.3"
+   ],
+   [
+    "P0007.9",
+    "P0007.10"
+   ]
+  ],
+  "ch_12": [
+   [
+    "P0002.3",
+    "P0002.4"
+   ],
+   [
+    "P0004.5",
+    "P0005.1"
+   ],
+   [
+    "P0010.2",
+    "P0010.3"
+   ],
+   [
+    "P0010.6",
+    "P0010.7"
+   ],
+   [
+    "P0011.1",
+    "P0011.2"
+   ],
+   [
+    "P0011.4",
+    "P0011.5"
+   ]
+  ],
+  "ch_13": [
+   [
+    "P0002.1",
+    "P0002.2"
+   ],
+   [
+    "P0003.6",
+    "P0003.7"
+   ],
+   [
+    "P0003.8",
+    "P0003.9"
+   ],
+   [
+    "P0004.15",
+    "P0005.1",
+    "P0005.2"
+   ],
+   [
+    "P0006.11",
+    "P0006.12"
+   ],
+   [
+    "P0008.6",
+    "P0008.7"
+   ]
+  ],
+  "ch_14": [
+   [
+    "P0003.3",
+    "P0003.4"
+   ],
+   [
+    "P0003.6",
+    "P0003.7"
+   ],
+   [
+    "P0004.3",
+    "P0004.4"
+   ],
+   [
+    "P0005.3",
+    "P0005.4"
+   ],
+   [
+    "P0016.3",
+    "P0016.4"
+   ],
+   [
+    "P0018.1",
+    "P0018.2"
+   ],
+   [
+    "P0005.1",
+    "P0005.2"
+   ]
+  ],
+  "ch_15": [
+   [
+    "P0003.4",
+    "P0003.5"
+   ],
+   [
+    "P0004.8",
+    "P0004.9"
+   ],
+   [
+    "P0004.11",
+    "P0004.12"
+   ]
+  ],
+  "ch_16": [
+   [
+    "P0005.5",
+    "P0005.6"
+   ]
+  ],
+  "ch_17": [
+   [
+    "P0003.1",
+    "P0003.2"
+   ],
+   [
+    "P0004.4",
+    "P0004.5"
+   ],
+   [
+    "P0007.4",
+    "P0007.5"
+   ],
+   [
+    "P0007.6",
+    "P0007.7"
+   ]
+  ],
+  "ch_18": [
+   [
+    "P0007.6",
+    "P0008.1"
+   ]
+  ],
+  "ch_19": [
+   [
+    "P0003.7",
+    "P0004.1"
+   ],
+   [
+    "P0004.2",
+    "P0004.3"
+   ],
+   [
+    "P0004.5",
+    "P0004.6"
+   ],
+   [
+    "P0006.8",
+    "P0006.9"
+   ],
+   [
+    "P0007.2",
+    "P0007.3"
+   ],
+   [
+    "P0007.5",
+    "P0007.6"
+   ],
+   [
+    "P0007.7",
+    "P0007.8"
+   ],
+   [
+    "P0007.9",
+    "P0007.10"
+   ]
+  ],
+  "ch_20": [
+   [
+    "P0002.13",
+    "P0003.1"
+   ]
+  ],
+  "ch_21": [
+   [
+    "P0004.6",
+    "P0005.1"
+   ]
+  ]
+ },
+ "rejected": {
+  "ch_02 P0005.14+P0005.15": "overlaps the speaker-tag merge P0005.13+14; P0005.15 joins the next exchange instead",
+  "ch_08 P0007.1+P0007.2": "the real cut is P0006.11 -> P0007.1 (her answer runs across the passage); merged there instead",
+  "ch_09 P0004.2+P0004.3": "would exceed the card limit and duplicates P0004.3+P0004.4",
+  "ch_10 P0006.13+P0007.1": "joined her lament to the next scene; P0007.1 ('Master Yi says,') belongs with his speech in P0007.2",
+  "ch_13 P0004.14+P0004.15": "joined the head gisaeng's taunt to Chunhyang's exit; P0004.15 ends 'and says,' so it goes with her reply",
+  "ch_13 P0006.13+P0007.1": "over 300 characters; split into two full sentences instead (edit)",
+  "ch_14 P0004.4+P0005.1": "overlaps P0004.3+P0004.4 and would put her stroke-one cry and the crowd in one card",
+  "ch_14 P0018.11 / ch_15 P0007.8": "chapter-final fragments cannot merge across chapters; rewritten as full sentences (edits)"
+ },
+ "exchanges": {
+  "ch_02": [
+   "P0004.1+P0004.2",
+   "P0005.15+P0005.16+P0005.17"
+  ],
+  "ch_03": [
+   "P0003.9+P0003.10",
+   "P0003.11+P0003.12",
+   "P0004.5+P0004.6",
+   "P0005.2+P0005.3",
+   "P0005.7+P0005.8+P0005.9"
+  ],
+  "ch_04": [
+   "P0002.10+P0002.11",
+   "P0002.12+P0002.13",
+   "P0002.14+P0002.15",
+   "P0003.1+P0003.2",
+   "P0003.3+P0003.4",
+   "P0004.7+P0004.8",
+   "P0005.6+P0005.7",
+   "P0008.4+P0008.5",
+   "P0008.15+P0008.16",
+   "P0009.3+P0009.4"
+  ],
+  "ch_05": [
+   "P0002.15+P0002.16",
+   "P0003.3+P0003.4"
+  ],
+  "ch_07": [
+   "P0006.6+P0007.1",
+   "P0008.1+P0008.2"
+  ],
+  "ch_08": [
+   "P0004.1+P0004.2",
+   "P0006.7+P0006.8",
+   "P0006.10+P0006.11+P0007.1",
+   "P0007.4+P0007.5",
+   "P0007.6+P0007.7",
+   "P0007.8+P0007.9",
+   "P0007.12+P0007.13",
+   "P0007.14+P0007.15"
+  ],
+  "ch_10": [
+   "P0004.7+P0004.8",
+   "P0005.2+P0005.3",
+   "P0005.4+P0005.5",
+   "P0006.2+P0006.3",
+   "P0008.1+P0008.2"
+  ],
+  "ch_12": [
+   "P0010.6+P0010.7"
+  ]
+ }
+}
