@@ -48,13 +48,13 @@
    },
    {
     "n": 6,
-    "ko": "옷을 솜씨 좋게 벗기려고 두 손을 슬쩍 놓더니, 춘향의 가는 허리를 담쑥 안는다.",
-    "en": "He lets go of her hands to skillfully remove her clothes and holds her thin waist firmly."
+    "ko": "두 손을 슬쩍 놓더니, 춘향의 가는 허리를 담쑥 안는다.",
+    "en": "Then he lets go of her hands and hugs her slender waist."
    },
    {
     "n": 7,
-    "ko": "\"비단 저고리를 벗어라.\" 춘향이 처음 겪는 일일 뿐 아니라 부끄러워서 고개를 숙이고 몸을 튼다.",
-    "en": "\"Take off your silk top.\" Since it is her first time and she feels shy, Chunhyang lowers her head and turns her body away."
+    "ko": "춘향이 처음 겪는 일이라 부끄러워서 고개를 숙이고 몸을 튼다.",
+    "en": "It is all new to Chunhyang, and she is so shy that she lowers her head and turns away."
    },
    {
     "n": 8,
@@ -63,18 +63,13 @@
    },
    {
     "n": 9,
-    "ko": "도련님이 치마를 벗겨 제쳐 놓고 바지와 속옷을 벗기려 하니, 실랑이가 끝이 없다.",
-    "en": "Master Yi pulls off her skirt and goes for her pants and underclothes, and the struggle goes on and on."
-   },
-   {
-    "n": 10,
     "ko": "이리 굼실 저리 굼실, 동해의 청룡이 굽이를 치는 듯하다. \"아이고, 놓아요, 좀 놓아요.\"",
     "en": "He wriggles this way and that, like a blue dragon of the East Sea twisting through the waves. \"Oh, let go! Please let go!\""
    },
    {
-    "n": 11,
-    "ko": "\"에라, 안 될 말이로다.\" 실랑이하던 중에 도련님이 옷끈을 끌러 발가락에 딱 걸고서, 춘향을 끌어안고 진득이 누르며 기지개를 켠다.",
-    "en": "\"Oh no, that won't do.\" In the middle of the struggle, Master Yi unties her dress string, hooks it with his toe, hugs Chunhyang tight, and stretches out his legs."
+    "n": 10,
+    "ko": "\"에라, 안 될 말이로다.\" 도련님이 웃으며 등잔불을 훅 불어 끈다.",
+    "en": "\"Oh no, that won't do,\" Master Yi laughs, and he blows out the lamp."
    }
   ],
   "issues": []
@@ -89,91 +84,66 @@
   "sentences": [
    {
     "n": 1,
-    "ko": "그러자 옷이 발길 아래로 스르르 흘러내린다.",
-    "en": "Then, her clothes slide down toward her feet."
+    "ko": "방 안이 캄캄해지니, 그 뒤의 일이야 두 사람만 알 일이다.",
+    "en": "The room goes dark, and what happens next is for the two of them alone to know."
    },
    {
     "n": 2,
-    "ko": "옷이 활짝 벗어지니, 형산의 흰 옥덩이인들 이보다 고울쏘냐.",
-    "en": "As her clothes fall away, her skin is as white and beautiful as a piece of jade from the mountains."
+    "ko": "밤새 이불은 들썩들썩, 샛별 요강은 장단 맞춰 쟁그렁 쨍쨍 울린다.",
+    "en": "All night the quilt rustles, and the shiny chamber pot clinks along to the beat."
    },
    {
     "n": 3,
-    "ko": "도련님이 춘향의 모습을 보려고 슬그머니 손을 놓으며 \"아차차, 손이 빠졌다.\" 한다.",
-    "en": "Master Yi lets go a little so he can look at her. \"Oops! My hand slipped.\""
+    "ko": "문고리는 달랑달랑, 그렇게 달콤하게 한잠 자고 났구나.",
+    "en": "The door handle jingles, and at last they fall into a sweet sleep."
    },
    {
     "n": 4,
-    "ko": "춘향이는 얼른 이불 속으로 파고든다.",
-    "en": "Chunhyang quickly hides under the blankets."
-   },
-   {
-    "n": 5,
-    "ko": "도련님이 왈칵 따라 들어가 누워서 춘향의 저고리를 벗겨 낸다.",
-    "en": "Master Yi rushes in after her, lies down, and takes off her top."
-   },
-   {
-    "n": 6,
-    "ko": "도련님 옷과 함께 둘둘 뭉쳐 한쪽 구석에 던져두고, 둘이 안고 마주 누웠으니 그대로 잠이 올 리가 있나.",
-    "en": "He rolls her top up with his own clothes and throws them in a corner. They lie face to face in each other's arms. How could they just fall asleep?"
-   },
-   {
-    "n": 7,
-    "ko": "땀이 나도록 뒹구는 사이에 삼베 이불은 춤을 추고, 샛별 요강은 장단 맞춰 쟁그렁 쨍쨍 울린다.",
-    "en": "As they roll around until they sweat, the hemp blanket dances, and the shiny chamber pot clinks along to the beat."
-   },
-   {
-    "n": 8,
-    "ko": "문고리는 달랑달랑, 등잔불은 가물가물, 그렇게 달콤하게 한잠 자고 났구나.",
-    "en": "The door handle jingles, the lamp flickers, and at last they fall into a sweet sleep."
-   },
-   {
-    "n": 9,
     "ko": "그 가운데 재미난 일이야 오죽하랴.",
     "en": "You can imagine all the fun they have in between!"
    },
    {
-    "n": 10,
-    "ko": "하루 이틀 지나가니, 어린 것들이라 새 맛이 날마다 새롭다.",
+    "n": 5,
+    "ko": "하루 이틀 지나가니, 젊은 것들이라 새 맛이 날마다 새롭다.",
     "en": "A day or two passes. They are young, so every day feels new and exciting."
    },
    {
-    "n": 11,
+    "n": 6,
     "ko": "부끄러움은 차차 멀어지고, 이제는 농담도 하고 우스운 말도 하니 저절로 사랑가가 되었구나.",
     "en": "Shyness slowly fades away. Now they tell jokes and funny stories, and their talk naturally becomes a song of love."
    },
    {
-    "n": 12,
+    "n": 7,
     "ko": "사랑으로 노는데 꼭 이런 모양으로 놀던 것이었다. \"사랑 사랑 내 사랑이야. 동정호 칠백 리 달 밝은 밤, 무산처럼 높은 사랑.\"",
     "en": "This is how they play at love. \"Love, love, my love. Our love is as high as Mount Wu on a moonlit night over Dongting Lake.\""
    },
    {
-    "n": 13,
+    "n": 8,
     "ko": "\"끝없이 넓은 물, 하늘같이 넓은 바다처럼 깊은 사랑.\"",
     "en": "\"Our love is deep like the endless water and wide as the vast sea under the sky.\""
    },
    {
-    "n": 14,
+    "n": 9,
     "ko": "\"달 밝은 산 앞, 가을 산 천 봉우리에 뜬 달을 즐기는 사랑.\"",
     "en": "\"Our love is like enjoying the moon rising over the thousand peaks of the autumn mountains.\""
    },
    {
-    "n": 15,
+    "n": 10,
     "ko": "\"깊은 정에 퉁소 소리를 청하던 사랑.\"",
     "en": "\"Our love is like asking for flute music on a romantic night.\""
    },
    {
-    "n": 16,
+    "n": 11,
     "ko": "\"해와 달이 오가는 처마에 복숭아꽃과 오얏꽃이 비친 사랑.\"",
     "en": "\"Our love is like peach and plum blossoms reflecting on the eaves where the sun and moon pass.\""
    },
    {
-    "n": 17,
+    "n": 12,
     "ko": "\"가느다란 초승달같이 고운 얼굴로 웃음 띤 수줍은 사랑.\"",
     "en": "\"Our love is a shy smile on a face as beautiful as a thin crescent moon.\""
    },
    {
-    "n": 18,
+    "n": 13,
     "ko": "\"달빛 아래 삼생의 인연으로 너와 내가 만난 사랑.\"",
     "en": "\"Under the moonlight, you and I have met through three lifetimes of fate.\""
    }
