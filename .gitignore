@@ -37,6 +37,9 @@ Desktop.ini
 *.png
 *.jpg
 *.jpeg
+# ...except the 춘향전 ebook covers and the scan page inside the ebooks
+!books/chunhyang/cover_*.jpg
+!books/chunhyang/source_page_1a.jpg
 
 # Swarm logs and run progress
 .swarm/orchestrator.log
