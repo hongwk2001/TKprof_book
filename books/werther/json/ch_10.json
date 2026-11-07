@@ -1,0 +1,667 @@
+[
+  {
+    "id": 1,
+    "tag": "H10",
+    "en": "Return to Wahlheim",
+    "ko": "발하임으로 돌아오다",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P0246",
+    "en": "August 4",
+    "ko": "8월 4일",
+    "is_header": true
+  },
+  {
+    "id": 3,
+    "tag": "P0247_1",
+    "en": "I am not alone in being unfortunate. All men are disappointed in their hopes and deceived in their expectations. I have paid a visit to my good old woman under the lime-trees.",
+    "ko": "불행한 것이 나 혼자만은 아닐세. 사람은 누구나 제 희망에 배신당하고 제 기대에 속네. 보리수 아래 사는 그 마음씨 좋은 아낙을 찾아갔네.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P0247_2",
+    "en": "The eldest boy ran out to meet me; his shout of joy brought out his mother, but she had a very melancholy look. Her first words were, \"Alas, dear sir, my little John is dead.\" He was the youngest of her children.",
+    "ko": "큰아이가 달려 나와 나를 맞았고, 그 반가운 소리에 어머니가 나왔네만 얼굴이 몹시 어두웠네. 그 여자가 처음 꺼낸 말은 이것이었네. \"아이고 나리, 우리 어린 한스가 죽었답니다.\" 막내였네.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P0247_3",
+    "en": "I was silent. \"And my husband has come back from Switzerland without any money; if some kind people had not helped him, he would have had to beg his way home.\" \"He was taken ill with a fever on the journey.\"",
+    "ko": "나는 아무 말도 하지 못했네. \"게다가 남편은 스위스에서 돈 한 푼 못 받고 돌아왔어요. 인정 많은 분들이 도와주지 않았다면 빌어먹으며 걸어와야 했을 거예요.\" \"오는 길에 열병까지 앓았답니다.\"",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P0247_4",
+    "en": "I could find nothing to answer, and made the little one a present. She asked me to take some fruit; I did, and left the place with a sorrowful heart.",
+    "ko": "나는 무어라 답할 말을 찾지 못하고, 어린것에게 무엇을 좀 쥐여 주었네. 과일을 좀 들고 가라기에 그렇게 하고, 서글픈 마음으로 그곳을 떠났네.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P0248",
+    "en": "August 21",
+    "ko": "8월 21일",
+    "is_header": true
+  },
+  {
+    "id": 8,
+    "tag": "P0249_1",
+    "en": "My sensations change constantly. Sometimes a happy prospect opens before me — but alas, only for a moment. And then, lost in reverie, I cannot help saying to myself: \"If Albert were to die? Yes — she would become — and I should be —\"",
+    "ko": "내 마음은 쉴 새 없이 바뀌네. 이따금 눈앞에 행복한 앞날이 열리기도 하네 — 그러나 아, 한순간뿐일세. 그러다 멍하니 생각에 잠기면 나도 모르게 이런 말이 나오네. \"알베르트가 죽는다면? 그래 — 그 사람은 내 사람이 되고 — 나는 —\"",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P0249_2",
+    "en": "And so I chase a chimera, until it leads me to the edge of a precipice and I shudder.",
+    "ko": "그렇게 나는 헛것을 좇다가, 마침내 벼랑 끝에 이르러 몸서리치네.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P0250_1",
+    "en": "When I pass through the same gate and walk along the same road that first brought me to Charlotte, my heart sinks at the change that has come since. All, all is altered! No sentiment, no beat of my heart is the same.",
+    "ko": "처음 샤를로테에게로 나를 데려다준 그 문을 지나 그 길을 걸을 때면, 그 뒤로 달라진 것들에 내 가슴이 내려앉네. 모든 것이, 모든 것이 달라졌네! 감정 하나, 심장의 박동 하나도 예전 같지 않네.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P0250_2",
+    "en": "I feel as some departed prince might feel, whose spirit came back to visit the superb palace he had built in happy times, adorned with costly magnificence and left to a beloved son — and who found its glory gone and its halls deserted and in ruins.",
+    "ko": "세상을 떠난 어느 제후의 넋이 된 기분일세. 행복하던 시절에 값비싼 화려함으로 꾸며 사랑하는 아들에게 물려준 그 훌륭한 궁전을 찾아왔다가, 그 영화는 사라지고 홀은 텅 비어 허물어져 있는 것을 보는 넋 말일세.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P0251",
+    "en": "September 3",
+    "ko": "9월 3일",
+    "is_header": true
+  },
+  {
+    "id": 13,
+    "tag": "P0252",
+    "en": "Sometimes I cannot understand how she can love another, how she dares love another, when I love nothing in this world so completely and so devotedly as I love her, when I know nothing but her and have nothing else in the world.",
+    "ko": "이따금 나는 이해할 수가 없네. 이 세상에서 내가 그 사람을 사랑하는 것만큼 온전히 또 헌신적으로 사랑하는 것이 없고, 그 사람 말고는 아무것도 알지 못하며 아무것도 가진 것이 없는데, 어떻게 그 사람이 다른 이를 사랑할 수 있는지, 어떻게 감히 사랑할 수 있는지.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P0253",
+    "en": "September 4",
+    "ko": "9월 4일",
+    "is_header": true
+  },
+  {
+    "id": 15,
+    "tag": "P0254_1",
+    "en": "It is even so. As nature puts on her autumn colours, it becomes autumn in me and around me. My leaves are dry and yellow, and the trees nearby are stripped of theirs.",
+    "ko": "정말 그러하네. 자연이 가을빛으로 갈아입으니, 내 안에도 내 둘레에도 가을이 오네. 내 잎은 마르고 누레졌고, 곁의 나무들도 잎을 다 떨구었네.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P0254_2",
+    "en": "Do you remember my writing to you about a peasant boy shortly after I arrived here? I have just been asking after him in Walheim. They say he has been dismissed from his service, and is now avoided by everyone.",
+    "ko": "여기 온 지 얼마 되지 않았을 때 어느 시골 총각 이야기를 자네에게 써 보낸 것을 기억하는가? 방금 발하임에서 그 사람 소식을 물어보았네. 일자리에서 쫓겨났고 이제는 다들 그를 피한다더군.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P0254_3",
+    "en": "I met him yesterday on the road, walking to a neighbouring village. I spoke to him, and he told me his story. It interested me enormously, as you will easily understand when I repeat it to you.",
+    "ko": "어제 이웃 마을로 가는 길에서 그를 만났네. 말을 걸자 그가 제 이야기를 들려주었네. 그 이야기에 나는 몹시 마음이 끌렸는데, 옮겨 적으면 자네도 쉽게 알 걸세.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P0254_4",
+    "en": "But why should I trouble you? Why should I not keep all my sorrow to myself? Why should I go on giving you occasion to pity me and blame me?",
+    "ko": "그러나 무엇 하러 자네를 번거롭게 하겠나? 어찌하여 내 슬픔을 나 혼자 간직하지 못하는가? 어찌하여 자네에게 나를 딱해하고 나무랄 구실을 자꾸 주는가?",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P0254_5",
+    "en": "But no matter; this too is part of my destiny.",
+    "ko": "그러나 상관없네. 이것 또한 내 운명의 한 부분이니.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P0255_1",
+    "en": "At first the peasant lad answered my questions with a kind of subdued melancholy, which seemed to me the mark of a timid nature. But as we came to understand each other he spoke with less reserve, confessed his faults openly, and lamented his misfortune.",
+    "ko": "처음에 그 시골 총각은 내 물음에 가라앉은 우울 같은 것으로 답했는데, 내게는 그것이 수줍은 천성의 표시로 보였네. 그러나 서로 통하게 되자 그는 거리낌 없이 말하며 제 잘못을 솔직히 털어놓고 제 불행을 한탄했네.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P0255_2",
+    "en": "I wish, my dear friend, I could give his words their proper force. He told me, with a kind of pleasure in the memory, that after I left, his passion for his mistress grew daily, until at last he knew neither what he did nor what he said nor what was to become of him.",
+    "ko": "친구여, 그 말에 제대로 힘을 실어 옮길 수 있으면 좋으련만. 그는 기억을 되새기는 것이 즐거운 듯이 말했네. 내가 떠난 뒤로 제 여주인에 대한 연정이 날마다 자라, 마침내 제가 무엇을 하는지 무슨 말을 하는지 앞으로 어찌 될지조차 알 수 없게 되었다고.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P0255_3",
+    "en": "He could neither eat nor drink nor sleep; he felt as if he were suffocating; he disobeyed every order and forgot every command without meaning to.",
+    "ko": "먹지도 마시지도 자지도 못했고, 숨이 막히는 것 같았으며, 무슨 분부든 어기고 무슨 명령이든 저도 모르게 잊어버렸다고.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P0255_4",
+    "en": "He seemed pursued by an evil spirit, until one day, knowing that his mistress had gone up to an upper room, he followed her — or rather was drawn after her. As she was deaf to his entreaties, he resorted to force.",
+    "ko": "악령에 쫓기는 것 같았는데, 어느 날 여주인이 위층 방으로 올라간 것을 알고 뒤를 따랐다고 — 아니, 이끌려 갔다고 하는 편이 맞겠지. 여주인이 제 애원에 귀를 닫자, 그는 힘을 쓰고 말았네.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P0255_5",
+    "en": "He does not know what happened; but he called God to witness that his intentions toward her were honourable, and that he wished for nothing more sincerely than that they should marry and spend their lives together.",
+    "ko": "무슨 일이 있었는지는 모르겠다고 했네. 다만 그 여자에 대한 제 뜻은 떳떳했고, 혼인해서 평생 함께 사는 것보다 더 진심으로 바란 것은 없었다고 하느님을 두고 맹세했네.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P0255_6",
+    "en": "When he had got this far he began to hesitate, as though there were something he had not the courage to say. At length he admitted, with some confusion, certain little confidences she had encouraged, and liberties she had allowed.",
+    "ko": "여기까지 말하고 그는 머뭇거리기 시작했네. 차마 입에 올리지 못할 것이 있는 듯이. 마침내 그는 좀 당황해하며, 여주인이 눈감아 준 자잘한 친밀함과 허락해 준 어떤 무람없음에 대해 털어놓았네.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P0255_7",
+    "en": "He broke off two or three times in the telling, and assured me most earnestly that he had no wish to make her out bad, as he put it, for he still loved her as sincerely as ever.",
+    "ko": "이야기 도중에 두세 번 말을 끊고는, 그 여자를 나쁘게 만들 뜻은 조금도 없다고, 여전히 예전만큼 진심으로 사랑한다고 간곡히 말했네.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P0255_8",
+    "en": "He said the tale had never passed his lips before, and that he told it now only to convince me that he was not utterly lost and abandoned. And here, my dear friend, I must begin the old song you know I am for ever singing.",
+    "ko": "이 이야기를 입 밖에 낸 적은 한 번도 없으며, 지금 말하는 것은 제가 아주 막돼먹고 버림받은 자는 아니라는 것을 내게 알리려는 것뿐이라고 했네. 친구여, 이쯤에서 나는 자네가 아는 그 해묵은 노래를 또 시작해야겠네.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P0255_9",
+    "en": "If I could only show you the man as he stood, and as he stands now before me, if I could only give you his real words, you would be compelled to feel for his fate.",
+    "ko": "그때 서 있던 그 모습, 지금 내 앞에 서 있는 그 모습을 자네에게 보여 줄 수만 있다면, 그 진짜 말을 그대로 전할 수만 있다면, 자네도 그 운명에 마음이 흔들리지 않을 수 없을 걸세.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P0255_10",
+    "en": "But enough: you, who know my misfortune and my disposition, can easily understand what draws me toward every unfortunate creature, and toward this one above all.",
+    "ko": "그러나 이만하면 됐네. 내 불행과 내 기질을 아는 자네라면, 불행한 사람이라면 누구에게나, 그중에서도 이 사람에게 내 마음이 끌리는 까닭을 쉽게 알 걸세.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P0256_1",
+    "en": "Reading this letter over a second time, I find I have left out the end of my tale; but it is easily supplied. She grew reserved toward him at the prompting of her brother, who had long hated him and wanted him out of the house.",
+    "ko": "이 편지를 다시 읽어 보니 이야기의 끝을 빠뜨렸군. 그러나 덧붙이기는 쉽네. 그 여자가 그에게 데면데면해진 것은 오라비가 부추긴 탓이었네. 오래전부터 그를 미워해 집에서 내보내고 싶어 하던 자이지.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P0256_2",
+    "en": "The brother feared that his sister's second marriage might rob his children of the handsome fortune they expect from her, since she is childless. He was dismissed at last; and the whole affair caused so much scandal that the mistress dared not take him back, even if she had wished to.",
+    "ko": "그 오라비는 누이가 다시 시집가면 제 아이들이 기대하는 상당한 재산을 빼앗길까 두려웠던 것일세. 누이에게 자식이 없으니 말이지. 마침내 그는 쫓겨났네. 그리고 이 일이 워낙 말썽이 되어, 여주인은 설령 원했다 해도 그를 다시 들일 엄두를 내지 못했네.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P0256_3",
+    "en": "She has since hired another servant, with whom, they say, her brother is equally displeased, and whom she is likely to marry. But my informant assures me that he himself is determined not to survive such a catastrophe.",
+    "ko": "그 뒤로 다른 하인을 들였는데, 오라비는 그자도 똑같이 마뜩잖아한다고 하며, 그 여자는 아마 그자와 혼인하게 될 것 같다는군. 그러나 내게 이야기해 준 사람 말로는, 그 총각은 그런 꼴을 보고는 살아 있지 않겠다고 마음을 굳혔다고 하네.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P0257",
+    "en": "This story is neither exaggerated nor embellished. Indeed I have weakened it and spoiled it in the telling, by having to use the more refined language of polite society.",
+    "ko": "이 이야기는 부풀리지도 꾸미지도 않은 것일세. 오히려 점잖은 세상의 고상한 말로 옮기느라, 내가 그 힘을 죽이고 망쳐 놓았네.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P0258_1",
+    "en": "So this love, this constancy, this passion, is no poetical fiction. It is real, and it lives in its greatest purity among the class of people we call rude and uneducated. We are the educated — the ones educated out of ourselves.",
+    "ko": "그러니 이 사랑, 이 한결같음, 이 정념은 시인이 지어낸 것이 아닐세. 그것은 실재하며, 우리가 거칠고 못 배웠다고 부르는 계층의 사람들 속에서 가장 순수한 모습으로 살아 있네. 배운 것은 우리 쪽이지 — 제 본성에서 배워 나온 쪽 말일세.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P0258_2",
+    "en": "But read this story attentively, I implore you. I am calm today, for I have been busy with this narration; you can see by my writing that I am not as agitated as usual. I read this tale over and over, Wilhelm: it is the history of your friend.",
+    "ko": "그러니 부디 이 이야기를 마음을 기울여 읽어 주게. 오늘은 이 이야기를 적느라 마음이 가라앉았네. 내 글씨만 보아도 여느 때만큼 들떠 있지 않다는 것을 알 걸세. 빌헬름, 나는 이 이야기를 읽고 또 읽네. 이것은 자네 친구의 이야기일세.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P0258_3",
+    "en": "My fortune has been and will be the same; and I am not half so brave nor half so determined as the poor wretch I hesitate to compare myself with.",
+    "ko": "내 운명도 그러했고 그러할 걸세. 그리고 나는 감히 견주기도 어려운 그 가엾은 사내만큼 용감하지도, 그만큼 단단히 마음먹지도 못했네.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P0259",
+    "en": "September 5",
+    "ko": "9월 5일",
+    "is_header": true
+  },
+  {
+    "id": 38,
+    "tag": "P0260_1",
+    "en": "Charlotte had written a letter to her husband in the country, where business was keeping him. It began: \"My dearest love, come back as soon as you can; I am waiting for you with a thousand raptures.\" A friend arrived with word that for certain reasons he could not return at once.",
+    "ko": "샤를로테는 일 때문에 시골에 머물고 있는 남편에게 편지를 썼네. 이렇게 시작하더군. \"더없이 사랑하는 이여, 되도록 빨리 돌아오세요. 천 가지 기쁨으로 당신을 기다립니다.\" 그때 한 친구가 와서, 사정이 있어 곧바로 돌아오지 못한다는 말을 전했네.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P0260_2",
+    "en": "Charlotte's letter was not sent on, and that same evening it fell into my hands. I read it and smiled. She asked why.",
+    "ko": "샤를로테의 편지는 부쳐지지 않았고, 그날 저녁 그것이 내 손에 들어왔네. 나는 그것을 읽고 웃었네. 그 사람이 어째서냐고 물었네.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P0260_3",
+    "en": "\"What a heavenly treasure the imagination is,\" I exclaimed. \"For a moment I fancied this had been written to me.\" She stopped, and seemed displeased. I said nothing more.",
+    "ko": "\"상상이란 얼마나 하늘이 주신 보물인지요.\" 나는 외쳤네. \"한순간 이것이 내게 쓰인 것이라고 여겼습니다.\" 그 사람은 말을 멈추었고, 언짢아하는 듯했네. 나는 더 말하지 않았네.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P0261",
+    "en": "September 6",
+    "ko": "9월 6일",
+    "is_header": true
+  },
+  {
+    "id": 42,
+    "tag": "P0262",
+    "en": "It cost me a great deal to part with the blue coat I wore the first time I danced with Charlotte. But I could not possibly wear it any longer. I have ordered a new one exactly like it, down to the collar and the sleeves, and a new waistcoat and breeches as well.",
+    "ko": "샤를로테와 처음 춤추던 날 입었던 그 푸른 연미복과 헤어지는 것이 여간 힘들지 않았네. 그러나 도저히 더 입을 수가 없었네. 깃과 소매까지 똑같은 것으로 새로 맞추었고, 조끼와 바지도 새로 맞추었네.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P0263",
+    "en": "But it does not have the same effect on me. I do not know how it is; but I hope that in time I shall like it better.",
+    "ko": "그런데 그것은 내게 같은 느낌을 주지 않네. 어째서인지는 모르겠네만, 시간이 지나면 더 정이 들기를 바라네.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P0264",
+    "en": "September 12",
+    "ko": "9월 12일",
+    "is_header": true
+  },
+  {
+    "id": 45,
+    "tag": "P0265",
+    "en": "She has been away for some days. She went to meet Albert. Today I visited her; she rose to receive me, and I kissed her hand most tenderly.",
+    "ko": "그 사람은 며칠 집을 비웠었네. 알베르트를 마중하러 갔던 것이지. 오늘 찾아갔더니 일어나 나를 맞아 주기에, 나는 그 손에 더없이 정답게 입을 맞추었네.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P0266_1",
+    "en": "At that moment a canary flew from a mirror and settled on her shoulder. \"Here is a new friend,\" she said, making him perch on her hand. \"He is a present for the children.\" \"What a dear he is!\"",
+    "ko": "그때 카나리아 한 마리가 거울에서 날아와 그 어깨에 앉았네. \"새 친구예요.\" 그 사람은 새를 제 손에 앉히며 말했네. \"아이들에게 줄 선물이랍니다.\" \"어쩜 이리 귀여울까요!\"",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P0266_2",
+    "en": "\"Look at him!\" \"When I feed him he flutters his wings and pecks so prettily.\" \"He kisses me too — only look!\"",
+    "ko": "\"좀 보세요!\" \"모이를 주면 날개를 파닥이며 어찌나 예쁘게 쪼는지 몰라요.\" \"저한테 입도 맞춘답니다 — 보세요!\"",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P0267",
+    "en": "She held the bird to her mouth, and he pressed her sweet lips with such fervour that he seemed to feel the excess of bliss he was enjoying.",
+    "ko": "그 사람이 새를 제 입가에 대자, 새는 그 달콤한 입술을 어찌나 열렬히 눌러 대는지, 제가 누리는 그 넘치는 기쁨을 느끼기라도 하는 듯했네.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P0268",
+    "en": "\"He shall kiss you too,\" she added, and held the bird toward me. His little beak moved from her mouth to mine, and the delightful sensation seemed like the forerunner of the sweetest bliss.",
+    "ko": "\"당신에게도 입을 맞춰 드릴 거예요.\" 그 사람이 덧붙이며 새를 내 쪽으로 내밀었네. 그 작은 부리가 그 입에서 내 입으로 옮겨 왔고, 그 황홀한 느낌은 더없이 달콤한 지복의 전조 같았네.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P0269",
+    "en": "\"A kiss,\" I said, \"does not seem to satisfy him: he wants food, and seems disappointed by these unsatisfying endearments.\"",
+    "ko": "\"입맞춤으로는\" 하고 내가 말했네. \"이 녀석이 만족하지 못하는 모양입니다. 모이를 바라는 것이지요. 이 시원찮은 애정 표시에 실망한 듯합니다.\"",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P0270",
+    "en": "\"But he eats out of my mouth,\" she went on, and held out her lips to him with seed between them. And she smiled with all the charm of a creature who has allowed an innocent share in her love.",
+    "ko": "\"제 입에서 받아먹기도 해요.\" 그 사람이 말을 이으며, 입술 사이에 씨앗을 물고 새에게 내밀었네. 그러고는 제 사랑을 순진하게 나누어 준 사람의 온 매력을 담아 웃었네.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P0271_1",
+    "en": "I turned my face away. She should not do such things. She ought not to stir my imagination with these displays of heavenly innocence and happiness, nor wake my heart out of the sleep in which it dreams that life is worthless.",
+    "ko": "나는 얼굴을 돌렸네. 그 사람은 그런 짓을 해서는 안 되네. 천상 같은 순진함과 행복을 이렇게 펼쳐 보여 내 상상을 흔들어서도, 삶이 무가치하다는 꿈을 꾸고 있는 내 마음을 잠에서 깨워서도 안 되네.",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P0271_2",
+    "en": "And why not? Because she knows how much I love her.",
+    "ko": "어째서 안 되느냐고? 내가 그 사람을 얼마나 사랑하는지 그 사람이 알고 있기 때문일세.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P0272",
+    "en": "September 15",
+    "ko": "9월 15일",
+    "is_header": true
+  },
+  {
+    "id": 55,
+    "tag": "P0273_1",
+    "en": "It makes me wretched, Wilhelm, to think that there should be people incapable of valuing the few things in life that are really worth anything. You remember the walnut trees at S—, where I used to sit with Charlotte during my visits to the worthy old vicar.",
+    "ko": "빌헬름, 삶에서 정말로 값진 몇 안 되는 것들을 알아볼 줄 모르는 사람들이 있다는 생각을 하면 나는 비참해지네. S—에 있던 그 호두나무들을 기억하겠지. 그 훌륭한 노목사를 찾아갈 때면 내가 샤를로테와 함께 앉곤 하던 곳 말일세.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P0273_2",
+    "en": "Those glorious trees, the very sight of which so often filled my heart with joy! How they adorned and refreshed the parsonage yard with their wide-spreading branches! And how pleasant it was to remember the good old pastor who planted them with his own hands so many years ago.",
+    "ko": "그 눈부신 나무들, 보기만 해도 내 가슴을 그토록 자주 기쁨으로 채워 주던 그 나무들! 넓게 뻗은 가지로 목사관 뜰을 얼마나 아름답게 꾸미고 시원하게 해 주었던지! 그리고 그 옛날 제 손으로 그것을 심은 마음씨 좋은 목사를 떠올리는 것이 얼마나 흐뭇했던지.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P0273_3",
+    "en": "The schoolmaster has often mentioned his name; he had it from his grandfather. He must have been an excellent man, and under the shade of those old trees his memory was always sacred to me. The schoolmaster told us yesterday, with tears in his eyes, that the trees had been felled.",
+    "ko": "학교 선생이 그 이름을 자주 입에 올렸는데, 제 할아버지에게서 들었다더군. 훌륭한 분이었음이 틀림없고, 그 늙은 나무 그늘 아래서 그 기억은 내게 늘 거룩한 것이었네. 그런데 어제 학교 선생이 눈에 눈물을 글썽이며, 그 나무들이 베어졌다고 일러 주었네.",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P0273_4",
+    "en": "Yes, cut to the ground! In my rage I could have killed the monster who struck the first blow. And I have to endure it — I, who if I had two such trees in my own yard and one of them died of old age, should weep with real grief.",
+    "ko": "그렇다네, 밑동까지 베어 버렸다는 것일세! 분해서 첫 도끼를 내리친 그 괴물을 죽여 버리고 싶었네. 그런데 나는 그것을 견뎌야 하네 — 내 뜰에 그런 나무가 두 그루 있고 그중 하나가 늙어 죽기만 해도 참으로 슬퍼서 울었을 내가 말일세.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P0273_5",
+    "en": "But there is some comfort left: such a thing is sentiment. The whole village murmurs at the loss; and I hope the vicar's wife will soon discover, from the drying up of the villagers' presents, how deeply she has wounded the feelings of the neighbourhood.",
+    "ko": "그래도 위안이 아주 없지는 않네. 사람의 정이란 그런 것이지. 온 마을이 그 일에 수군거리고 있네. 그리고 그 목사 부인도 마을 사람들의 선물이 끊기는 것을 보고, 제가 이웃의 마음을 얼마나 깊이 상하게 했는지 곧 알게 되기를 바라네.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P0273_6",
+    "en": "For it was she who did it — the wife of the present incumbent, our good old man being dead. She is a tall, sickly creature, who is right enough to take no notice of the world, since the world takes no notice of her.",
+    "ko": "그 일을 저지른 것이 바로 그 여자이니 — 지금 목사의 아내 말일세. 그 마음씨 좋던 노인은 세상을 떠났거든. 키가 크고 병약한 사람인데, 세상이 저를 아랑곳하지 않으니 저도 세상을 아랑곳하지 않는 것이야 그럴 만하지.",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P0273_7",
+    "en": "The silly being affects learning, pretends to examine the canonical books, lends her aid to the new-fashioned moral and critical reformation of Christendom, and shrugs her shoulders at the mention of Lavater's enthusiasm.",
+    "ko": "그 어리석은 여자는 학식을 뽐내고, 정경을 따져 보는 체하며, 도덕이니 비평이니 하는 요즘 식 기독교 개혁에 손을 보태고, 라바터의 열정을 입에 올리면 어깨를 으쓱하네.",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P0273_8",
+    "en": "Her health is ruined, on account of which she is prevented from enjoying anything here below. Only such a creature could have cut down my walnut trees. I can never pardon it.",
+    "ko": "건강이 망가져서 이 세상 무엇도 누리지 못하는 처지라네. 그런 인간이나 내 호두나무를 베어 낼 수 있었을 걸세. 나는 그것을 결코 용서할 수 없네.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P0273_9",
+    "en": "Hear her reasons. The falling leaves made the yard wet and dirty; the branches shut out the light; boys threw stones at the nuts when they were ripe, and the noise affected her nerves. It disturbed her profound meditations, when she was weighing the difficulties of Kennicot, Semler, and Michaelis.",
+    "ko": "그 이유라는 것을 들어 보게. 낙엽 때문에 뜰이 젖고 지저분해지며, 가지가 빛을 가리고, 열매가 익으면 아이들이 돌을 던져 그 소리가 신경에 거슬린다는 것일세. 케니콧이며 제믈러며 미하엘리스의 난해한 대목을 곱씹는 그 깊은 명상이 방해를 받는다는 것이지.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "tag": "P0273_10",
+    "en": "Finding that the whole parish, and the old people especially, were displeased, I asked why they had allowed it. \"Ah, sir!\" they answered, \"when the steward orders a thing, what can we poor peasants do?\" But one thing has turned out well.",
+    "ko": "온 교구가, 특히 노인들이 언짢아하는 것을 보고 나는 어째서 그냥 두었느냐고 물었네. \"아이고 나리!\" 그들이 답했네. \"집사 어른이 하라시는데 우리 같은 농사꾼이 무얼 어쩌겠습니까?\" 그래도 한 가지는 잘되었네.",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P0273_11",
+    "en": "The steward and the vicar — who for once thought to get some advantage out of his wife's caprices — intended to divide the trees between them. The revenue office, hearing of it, revived an old claim to the ground where the trees had stood, and sold them to the highest bidder.",
+    "ko": "집사와 목사는 — 목사는 모처럼 제 아내의 변덕에서 덕을 좀 볼까 했던 것이지 — 그 나무를 반씩 나누어 가질 셈이었네. 그 소식을 들은 세무서가 나무가 서 있던 땅에 대한 해묵은 권리를 들고 나와, 그것을 가장 높이 부른 사람에게 팔아 버렸네.",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P0273_12",
+    "en": "There they still lie on the ground. If I were the sovereign, I should know how to deal with the whole lot of them — vicar, steward, and revenue office. Sovereign, did I say?",
+    "ko": "나무들은 아직도 그 자리에 쓰러져 있네. 내가 군주라면 그 무리를 어떻게 다루어야 할지 알 텐데 — 목사며 집사며 세무서며 통째로 말일세. 군주라고 했나?",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P0273_13",
+    "en": "If I were, I should care little about the trees that grow in my country.",
+    "ko": "내가 군주라면, 내 나라에서 자라는 나무 따위에는 마음도 쓰지 않았겠지.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "tag": "P0274",
+    "en": "October 10",
+    "ko": "10월 10일",
+    "is_header": true
+  },
+  {
+    "id": 69,
+    "tag": "P0275",
+    "en": "Only to look into her dark eyes is a source of happiness to me. And what grieves me is that Albert does not seem as happy as he — hoped to be — as I should have been — if — I am no friend to these dashes, but here I cannot put it otherwise; and I dare say I have made myself clear enough.",
+    "ko": "그 검은 눈을 들여다보는 것만으로도 내게는 행복일세. 그리고 나를 슬프게 하는 것은, 알베르트가 그가 — 바라던 만큼 — 내가 그 자리였다면 그러했을 만큼 — 만약에 — 행복해 보이지 않는다는 것일세. 이런 줄표를 나도 좋아하지는 않네만, 여기서는 달리 쓸 수가 없네. 그래도 뜻은 충분히 전해졌으리라 믿네.",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "tag": "P0276",
+    "en": "October 12",
+    "ko": "10월 12일",
+    "is_header": true
+  },
+  {
+    "id": 71,
+    "tag": "P0277_1",
+    "en": "Ossian has driven Homer out of my heart. What a world this glorious bard carries me into! To wander over pathless wastes, surrounded by raging whirlwinds, where by the feeble light of the moon we see the spirits of our ancestors.",
+    "ko": "오시안이 내 마음에서 호메로스를 밀어냈네. 이 눈부신 음유시인이 나를 어떤 세계로 데려가는지! 길도 없는 황야를 헤매고, 사나운 회오리에 둘러싸여, 희미한 달빛 아래 조상들의 혼령을 보는 세계.",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "tag": "P0277_2",
+    "en": "To hear from the mountain tops, above the roar of the torrents, their plaintive voices coming out of deep caves, and the sorrowful lament of a maiden who sighs out her life on the mossy tomb of the warrior she adored.",
+    "ko": "산꼭대기에서 격류의 울부짖음을 뚫고 깊은 동굴에서 새어 나오는 그 구슬픈 목소리를 듣고, 사랑하던 전사의 이끼 낀 무덤 위에서 숨을 거두는 처녀의 슬픈 노래를 듣는 세계.",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "tag": "P0277_3",
+    "en": "I meet this bard with his silver hair; he wanders in the valley, looking for the footsteps of his fathers, and finds, alas, only their graves. Then, gazing at the pale moon as she sinks beneath the waves of the rolling sea, the hero's mind is struck by the memory of days gone by.",
+    "ko": "나는 은발의 그 음유시인을 만나네. 골짜기를 헤매며 조상들의 발자취를 찾다가, 아 슬프게도 그 무덤만을 찾아내는 그를. 그러다 창백한 달이 굽이치는 바다 물결 아래로 잠기는 것을 바라보노라면, 그 영웅의 마음에 지나간 날의 기억이 사무치네.",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "tag": "P0277_4",
+    "en": "Days when approaching danger put strength into the brave, and the moon shone on his boat coming home in triumph, laden with spoils.",
+    "ko": "다가오는 위험이 용사에게 힘을 불어넣던 날들, 전리품을 싣고 개선하는 그 배 위로 달이 비추던 날들이.",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "tag": "P0277_5",
+    "en": "When I read deep sorrow in his face; when I see his dying glory sink exhausted into the grave, as he draws a new and heart-thrilling delight from the thought of being joined with his beloved; when he casts a look at the cold earth and the tall grass so soon to cover him, and then cries out:",
+    "ko": "그 얼굴에서 깊은 슬픔을 읽을 때, 사랑하는 이와 하나가 되리라는 생각에서 가슴 떨리는 새 기쁨을 길어 올리며 그 스러져 가는 영광이 기진해 무덤으로 잠기는 것을 볼 때, 머잖아 저를 덮을 차가운 흙과 키 큰 풀을 바라보다 이렇게 외칠 때 말일세.",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "tag": "P0277_6",
+    "en": "\"The traveller will come — he will come who has seen my beauty, and he will ask, 'Where is the bard, where is the illustrious son of Fingal?' He will walk over my tomb, and will look for me in vain!\"",
+    "ko": "\"나그네가 오리라 — 내 아름다움을 보았던 그가 오리라. 그리고 물으리라. '그 음유시인은 어디 있는가, 핑갈의 그 빛나는 아들은 어디 있는가?' 그는 내 무덤 위를 걸으면서도 나를 찾지 못하리라!\"",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "tag": "P0277_7",
+    "en": "Then, O my friend, I could draw my sword that instant like a true and noble knight, and deliver my prince from the long and painful languor of a living death — and send my own soul after the demigod my hand had set free.",
+    "ko": "그러면, 아 친구여, 나는 그 자리에서 참되고 고결한 기사처럼 칼을 뽑아, 살아 있는 죽음의 그 길고 고통스러운 시듦에서 내 제후를 건져 내고 — 내 손이 풀어 준 그 반신을 따라 내 영혼도 보내 버리고 싶네.",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "tag": "P0278",
+    "en": "October 19",
+    "ko": "10월 19일",
+    "is_header": true
+  },
+  {
+    "id": 79,
+    "tag": "P0279",
+    "en": "Alas, the void — the fearful void I feel in my breast! Sometimes I think that if I could only once, just once, press her to my heart, this dreadful void would be filled.",
+    "ko": "아, 그 공허 — 내 가슴에 느껴지는 그 무시무시한 공허! 때로 나는 생각하네. 단 한 번만, 꼭 한 번만 그 사람을 내 가슴에 안을 수 있다면 이 끔찍한 공허가 채워지리라고.",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "tag": "P0280",
+    "en": "October 26",
+    "ko": "10월 26일",
+    "is_header": true
+  },
+  {
+    "id": 81,
+    "tag": "P0281_1",
+    "en": "Yes, I feel certain of it, Wilhelm, and every day more certain: the existence of any one creature is of very little consequence. A friend of Charlotte's called to see her just now. I withdrew into the next room and took up a book; but finding I could not read, I sat down to write.",
+    "ko": "그렇다네 빌헬름, 나는 확신하고 날마다 더 확신하게 되네. 어느 한 사람의 존재란 별것 아니라는 것을. 방금 샤를로테의 벗이 찾아왔네. 나는 옆방으로 물러나 책을 집어 들었네만, 도무지 읽히지 않아 앉아서 글을 쓰네.",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "tag": "P0281_2",
+    "en": "I heard them talking in undertones; they spoke of indifferent things and passed on the news of the town. One woman was going to be married; another was ill, very ill — she had a dry cough, her face was growing thinner daily, and she had fits from time to time.",
+    "ko": "두 사람이 나직이 이야기하는 소리가 들렸네. 별것 아닌 이야기, 마을 소식을 주고받더군. 한 여자는 곧 혼인한다 하고, 또 한 여자는 앓는데 몹시 앓는다고 — 마른기침을 하고 얼굴이 날마다 여위며 이따금 발작이 온다고 했네.",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "tag": "P0281_3",
+    "en": "\"N— is very unwell too,\" said Charlotte. \"His limbs are beginning to swell already,\" answered the other; and my lively imagination carried me straight to the beds of the sick.",
+    "ko": "\"N— 씨도 몹시 편찮으세요.\" 샤를로테가 말했네. \"벌써 팔다리가 붓기 시작했대요.\" 다른 여자가 답했네. 그리고 내 들뜬 상상은 곧장 그 병상들로 나를 데려갔네.",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "tag": "P0281_4",
+    "en": "There I see them struggling against death, with all the agonies of pain and horror; and these women, Wilhelm, talk about it as indifferently as one might mention the death of a stranger.",
+    "ko": "거기서 나는 그들이 온갖 고통과 공포 속에서 죽음과 싸우는 것을 보네. 그런데 빌헬름, 이 여자들은 그 이야기를 남의 죽음이라도 전하듯 아무렇지 않게 하네.",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "tag": "P0281_5",
+    "en": "And when I look round the room I am sitting in — when I see Charlotte's clothes lying before me, and Albert's papers, and all the furniture so familiar to me, down to the very inkstand I am using — when I think what I am to this family: everything.",
+    "ko": "그러다 지금 앉아 있는 이 방을 둘러보네 — 눈앞에 놓인 샤를로테의 옷가지와 알베르트의 서류, 눈에 익은 온갖 세간, 내가 지금 쓰고 있는 잉크병까지 — 내가 이 집안에 어떤 사람인지 생각해 보면, 나는 전부일세.",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "tag": "P0281_6",
+    "en": "My friends esteem me; I often add to their happiness; and my heart feels as though it could not beat without them. And yet — if I were to die, if I were called away out of the middle of this circle, would they feel it, and for how long would they feel the void my loss would make in their lives?",
+    "ko": "벗들은 나를 귀히 여기고, 나는 자주 그들의 행복에 보탬이 되며, 내 마음은 그들 없이는 뛰지도 못할 것 같네. 그런데도 — 내가 죽는다면, 이 무리 한가운데서 불려 나간다면, 그들이 그것을 느끼기는 할까? 그리고 내가 남긴 빈자리를 얼마나 오래 느낄까?",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "tag": "P0281_7",
+    "en": "How long! Yes, such is the frailty of man, that even there, where he is most conscious of his own being, where he makes the strongest and most forcible impression — even in the memory and the heart of the woman he loves — even there he must perish and vanish, and quickly.",
+    "ko": "얼마나 오래! 그래, 사람이란 이토록 덧없는 것이어서, 제 존재를 가장 또렷이 의식하는 그곳에서조차, 가장 강하고 힘 있는 자취를 남기는 그곳에서조차 — 사랑하는 여인의 기억과 마음속에서조차 — 사라지고 스러지고 마네. 그것도 순식간에.",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "tag": "P0282",
+    "en": "October 27",
+    "ko": "10월 27일",
+    "is_header": true
+  },
+  {
+    "id": 89,
+    "tag": "P0283_1",
+    "en": "I could tear my breast open with vexation to think how little we are able to influence each other's feelings.",
+    "ko": "우리가 서로의 감정에 미칠 수 있는 힘이 얼마나 하찮은지 생각하면, 분해서 가슴을 찢고 싶네.",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "tag": "P0283_2",
+    "en": "No one can give me the sensations of love, joy, rapture and delight that I do not naturally possess; and though my heart may glow with the liveliest affection, I cannot make happy anyone in whom that same warmth is not already there.",
+    "ko": "내가 본래 지니지 못한 사랑과 기쁨과 황홀과 즐거움의 감각을 누가 내게 넣어 줄 수는 없네. 그리고 내 마음이 아무리 뜨거운 애정으로 타오른들, 그 온기를 이미 지니지 못한 사람을 행복하게 만들어 줄 수는 없네.",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "tag": "P0284",
+    "en": "October 27: Evening.",
+    "ko": "10월 27일: 저녁.",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "tag": "P0285",
+    "en": "I possess so much, and my love for her swallows it all. I possess so much, and without her I have nothing.",
+    "ko": "내게는 가진 것이 많은데, 그 사람에 대한 사랑이 그 모두를 삼켜 버리네. 내게는 가진 것이 많은데, 그 사람이 없으면 아무것도 없네.",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "tag": "P0286",
+    "en": "October 30",
+    "ko": "10월 30일",
+    "is_header": true
+  },
+  {
+    "id": 94,
+    "tag": "P0287_1",
+    "en": "A hundred times I have been on the point of embracing her. Heavens, what a torment it is to see so much loveliness passing back and forth in front of you, and not dare to lay a hand on it! And laying hold is the most natural of human instincts.",
+    "ko": "그 사람을 끌어안을 뻔한 것이 백 번은 되네. 그토록 사랑스러운 것이 눈앞을 오가는데 손 하나 대지 못한다는 것이 얼마나 큰 고문인지! 그리고 손을 뻗는 것이야말로 사람의 가장 자연스러운 본능이 아닌가.",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "tag": "P0287_2",
+    "en": "Do children not touch everything they see? And I!",
+    "ko": "아이들은 보이는 것마다 만져 보지 않는가? 그런데 나는!",
+    "is_header": false
+  }
+]

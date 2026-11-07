@@ -1,0 +1,737 @@
+[
+  {
+    "id": 1,
+    "tag": "H15",
+    "en": "The Final Night",
+    "ko": "마지막 밤",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P0400_1",
+    "en": "Werther ran to the gate of the town. The guards, who knew him, let him pass in silence. The night was dark and stormy; it rained and snowed.",
+    "ko": "베르테르는 성문으로 달려갔다. 그를 아는 문지기들은 말없이 그를 지나가게 했다. 밤은 어둡고 사나웠다. 비가 오고 눈이 내렸다.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P0400_2",
+    "en": "He reached his own door about eleven. His servant, though he saw him come into the house without his hat, did not venture to say anything; and as he undressed his master he found that his clothes were wet.",
+    "ko": "그는 열한 시쯤 제집 문에 이르렀다. 하인은 모자도 없이 들어오는 주인을 보고도 감히 아무 말도 하지 못했다. 그리고 옷을 벗겨 드리다 그 옷이 흠뻑 젖은 것을 알았다.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P0400_3",
+    "en": "His hat was found afterwards on the point of a rock overhanging the valley; and it is inconceivable how he could have climbed to the top on such a dark, tempestuous night without losing his life.",
+    "ko": "그 모자는 나중에 골짜기 위로 튀어나온 바위 끝에서 발견되었다. 그토록 어둡고 사나운 밤에 어떻게 목숨을 잃지 않고 그 꼭대기까지 올라갔는지는 헤아릴 길이 없다.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P0401",
+    "en": "He went to bed and slept late. The next morning his servant, called in to bring his coffee, found him writing. He was adding to the letter to Charlotte what we set down here.",
+    "ko": "그는 잠자리에 들어 늦게까지 잤다. 이튿날 아침, 커피를 가져오라는 부름을 받고 들어간 하인은 그가 무엇인가 쓰고 있는 것을 보았다. 그는 샤를로테에게 보내는 편지에 여기 옮기는 글을 덧붙이고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P0402_1",
+    "en": "\"For the last, last time I open these eyes. Alas, they will see the sun no more. It is covered by a thick, impenetrable cloud.",
+    "ko": "\"마지막으로, 정말 마지막으로 이 눈을 뜹니다. 아, 이 눈은 다시는 해를 보지 못하겠지요. 해는 두껍고 뚫을 수 없는 구름에 가려 있습니다.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P0402_2",
+    "en": "Yes, Nature, put on mourning: your child, your friend, your lover draws near his end. This thought, Charlotte, is like nothing else; and yet it seems like a mysterious dream when I say it over — this is my last day! The last!",
+    "ko": "그렇습니다, 자연이여, 상복을 입으소서. 당신의 아이, 당신의 벗, 당신의 연인이 그 끝에 다가갑니다. 샤를로테, 이 생각은 무엇과도 같지 않습니다. 그런데도 되뇌어 보면 알 수 없는 꿈만 같습니다 — 오늘이 내 마지막 날이라니! 마지막이라니!",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P0402_3",
+    "en": "Charlotte, no word can convey this thought. The last! Today I stand upright in all my strength; tomorrow, cold and stiff, I shall lie stretched on the ground.",
+    "ko": "샤를로테, 어떤 말로도 이 생각을 옮길 수 없습니다. 마지막이라니! 오늘 나는 온 힘으로 곧게 서 있습니다. 내일이면 차갑고 굳은 채 땅에 길게 누워 있겠지요.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P0402_4",
+    "en": "To die! What is death? We only dream when we talk about it. I have seen many human beings die; but our feeble nature is so hemmed in that we have no clear conception of the beginning or the end of our existence.",
+    "ko": "죽는다는 것! 죽음이란 무엇입니까? 우리는 그것을 말할 때 한낱 꿈을 꿀 뿐입니다. 나는 사람이 죽는 것을 여러 번 보았습니다. 그러나 우리의 약한 본성은 너무 좁게 갇혀 있어, 우리 존재의 처음도 끝도 또렷이 알지 못합니다.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P0402_5",
+    "en": "At this moment I am my own — or rather I am yours, yours, my adored one! And the next moment we are parted, severed — perhaps for ever. No, Charlotte, no! How can I, how can you, be annihilated?",
+    "ko": "이 순간 나는 나 자신의 것입니다 — 아니, 당신의 것입니다, 당신의 것, 내가 흠모하는 이여! 그러다 다음 순간이면 우리는 갈라지고 떨어집니다 — 어쩌면 영영. 아닙니다, 샤를로테, 아닙니다! 어떻게 내가, 어떻게 당신이 없어질 수 있겠습니까?",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P0402_6",
+    "en": "We exist. What is annihilation? A mere word, a meaningless sound that fixes no impression on the mind.",
+    "ko": "우리는 있습니다. 없어진다는 것이 무엇입니까? 한낱 말일 뿐, 마음에 아무 자국도 남기지 못하는 뜻 없는 소리일 뿐입니다.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P0402_7",
+    "en": "Dead, Charlotte! Laid in the cold earth, in the dark and narrow grave! I had a friend once who was everything to me in my early youth. She died.",
+    "ko": "죽는다니요, 샤를로테! 차가운 흙 속에, 어둡고 좁은 무덤에 눕는다니요! 어린 시절 내게 전부였던 벗이 하나 있었습니다. 그이가 죽었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P0402_8",
+    "en": "I followed her hearse; I stood by her grave when the coffin was lowered.",
+    "ko": "나는 그 영구차를 따라갔고, 관이 내려질 때 무덤가에 서 있었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P0402_9",
+    "en": "And when I heard the creaking of the cords as they were loosened and drawn up, when the first shovelful of earth was thrown in and the coffin gave back a hollow sound, growing fainter and fainter until all was covered over, I threw myself on the ground.",
+    "ko": "밧줄이 풀려 끌어올려지며 삐걱이는 소리를 들었을 때, 첫 삽의 흙이 던져져 관이 텅 빈 소리를 되돌려 주고 그 소리가 점점 희미해지다 마침내 다 덮였을 때, 나는 땅에 몸을 던졌습니다.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P0402_10",
+    "en": "My heart was smitten, grieved, shattered, torn — and I neither knew what had happened nor what was to happen to me. Death! The grave! I do not understand the words. Forgive, oh, forgive me!",
+    "ko": "내 가슴은 얻어맞고 찢기고 부서졌습니다 — 그러면서도 나는 무슨 일이 일어났는지도, 내게 무슨 일이 일어날지도 알지 못했습니다. 죽음! 무덤! 나는 그 말들을 알지 못합니다. 용서하세요, 아, 나를 용서하세요!",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P0402_11",
+    "en": "Yesterday — ah, that day should have been the last of my life! You angel! For the first time in my existence I felt rapture glow in my inmost soul. She loves, she loves me!",
+    "ko": "어제 — 아, 그날이 내 삶의 마지막 날이었어야 했습니다! 그대 천사여! 내 평생 처음으로 황홀이 내 영혼 깊은 곳에서 타올랐습니다. 그이가 사랑합니다, 나를 사랑합니다!",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P0402_12",
+    "en": "Still there burns on my lips the sacred fire they took from yours. New torrents of delight overwhelm my soul. Forgive me, oh, forgive!",
+    "ko": "당신 입술에서 옮아 온 그 거룩한 불이 아직 내 입술에서 타고 있습니다. 새로운 기쁨의 물결이 내 영혼을 뒤덮습니다. 용서하세요, 아, 용서하세요!\"",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P0403",
+    "en": "\"I knew that I was dear to you; I saw it in your first entrancing look, knew it by the first pressure of your hand. But when I was away from you, when I saw Albert at your side, my doubts and fears came back.",
+    "ko": "\"내가 당신에게 소중하다는 것을 나는 알고 있었습니다. 당신의 첫 황홀한 눈길에서 보았고, 처음 손을 잡아 주시던 그 힘에서 알았습니다. 그러나 당신에게서 떨어져 있을 때, 당신 곁에 있는 알베르트를 볼 때면 내 의심과 두려움이 되살아났습니다.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P0404",
+    "en": "\"Do you remember the flowers you sent me, when, at that crowded assembly, you could neither speak to me nor hold out your hand? Half the night I was on my knees before those flowers, and I took them as pledges of your love; but those impressions grew fainter, and were at length effaced.",
+    "ko": "\"그 붐비던 모임에서 내게 말을 걸 수도 손을 내밀 수도 없었을 때, 당신이 보내 주신 꽃을 기억하십니까? 나는 밤의 절반을 그 꽃 앞에 무릎 꿇고 보내며 그것을 당신 사랑의 증표로 여겼습니다. 그러나 그 자국은 차츰 희미해지다 마침내 지워졌습니다.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P0405_1",
+    "en": "\"Everything passes away; but a whole eternity could not put out the living flame your lips kindled yesterday, and which burns in me now. She loves me! These arms have held her waist, these lips have trembled on hers.",
+    "ko": "\"모든 것은 스러집니다. 그러나 어제 당신 입술이 붙인, 그리고 지금 내 안에서 타고 있는 이 살아 있는 불꽃은 영원이 통째로 와도 끄지 못할 것입니다. 그이가 나를 사랑합니다! 이 팔이 그 허리를 안았고, 이 입술이 그 입술 위에서 떨었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P0405_2",
+    "en": "She is mine! Yes, Charlotte, you are mine for ever.",
+    "ko": "그이는 내 것입니다! 그렇습니다, 샤를로테. 당신은 영원히 내 것입니다.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P0406_1",
+    "en": "\"And what do they mean by saying Albert is your husband? He may be so for this world; and in this world it is a sin to love you, to wish to tear you from his arms. Yes, it is a crime, and I suffer the punishment for it — but I have had the full delight of my sin.",
+    "ko": "\"그런데 알베르트가 당신의 남편이라니, 그것이 무슨 말입니까? 이 세상에서야 그럴 테지요. 그리고 이 세상에서 당신을 사랑하는 것은, 그 팔에서 당신을 빼앗고 싶어 하는 것은 죄이겠지요. 그렇습니다, 그것은 죄이고 나는 그 벌을 받고 있습니다 — 그러나 나는 내 죄의 기쁨을 남김없이 누렸습니다.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P0406_2",
+    "en": "I have breathed in a balm that has revived my soul. From this hour you are mine; yes, Charlotte, you are mine! I go before you.",
+    "ko": "내 영혼을 되살린 향유를 들이마셨습니다. 이 시간부터 당신은 내 것입니다. 그렇습니다, 샤를로테, 당신은 내 것입니다! 나는 당신보다 먼저 갑니다.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P0406_3",
+    "en": "I go to my Father and to your Father. I will pour out my sorrows before him, and he will comfort me until you come. Then I will fly to meet you.",
+    "ko": "나의 아버지께로, 그리고 당신의 아버지께로 갑니다. 그분 앞에 내 슬픔을 쏟아 놓겠습니다. 그러면 그분은 당신이 올 때까지 나를 위로해 주실 것입니다. 그때 나는 당신을 맞으러 날아가겠습니다.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P0406_4",
+    "en": "I will claim you, and stay in your eternal embrace, in the presence of the Almighty.",
+    "ko": "그리고 전능하신 분 앞에서 당신을 내 사람이라 부르며, 그 영원한 품 안에 머물겠습니다.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P0407_1",
+    "en": "\"I am not dreaming, I am not raving. Drawing nearer to the grave, my perceptions grow clearer. We shall exist; we shall see each other again; we shall see your mother.",
+    "ko": "\"나는 꿈꾸고 있지도 헛소리를 하고 있지도 않습니다. 무덤에 가까워질수록 내 지각은 더 맑아집니다. 우리는 있을 것이고, 서로를 다시 볼 것이며, 당신의 어머님을 뵐 것입니다.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P0407_2",
+    "en": "I shall see her, and lay my inmost heart open to her. Your mother — your very image!\"",
+    "ko": "나는 그분을 뵙고, 내 가슴속을 남김없이 열어 보이겠습니다. 당신의 어머님 — 당신을 꼭 닮은 그분을!\"",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P0408",
+    "en": "About eleven o'clock Werther asked his servant whether Albert had come back. He answered, \"Yes,\" having seen him ride past; whereupon Werther sent him the following note, unsealed:",
+    "ko": "열한 시쯤 베르테르는 하인에게 알베르트가 돌아왔느냐고 물었다. 하인은 말을 타고 지나가는 것을 보았다며 \"그렇습니다\" 하고 답했고, 그러자 베르테르는 봉하지 않은 다음의 쪽지를 그 편에 보냈다.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P0409",
+    "en": "\"Be so good as to lend me your pistols for a journey. Adieu.\"",
+    "ko": "\"여행에 쓰게 권총을 좀 빌려주시면 고맙겠습니다. 안녕히.\"",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P0410_1",
+    "en": "Charlotte had slept little during the night. All her fears had come true in a way she could neither have foreseen nor avoided. Her blood was boiling in her veins, and a thousand painful sensations tore at her pure heart.",
+    "ko": "샤를로테는 그 밤에 거의 잠을 이루지 못했다. 두려워하던 일이 모두, 그것도 미리 내다볼 수도 피할 수도 없는 모양으로 닥쳐 있었다. 핏줄에서 피가 끓었고, 천 가지 아픈 감정이 그 맑은 가슴을 찢었다.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P0410_2",
+    "en": "Was it the ardour of Werther's passionate embraces that she felt in her breast? Was it anger at his daring? Was it the sad comparison of her present state with the days of innocence, tranquillity, and self-confidence that were gone?",
+    "ko": "가슴에 남은 것은 베르테르의 뜨거운 포옹의 열기였던가? 그 무람없음에 대한 노여움이었던가? 지나가 버린 순결하고 고요하고 떳떳하던 날들과 지금의 제 처지를 견주는 서글픔이었던가?",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P0410_3",
+    "en": "How could she go to her husband and confess a scene she had no reason to conceal, and yet felt unwilling to avow? They had kept silence toward each other so long — and was she to be the first to break it with so unexpected a disclosure?",
+    "ko": "감출 까닭도 없으면서 털어놓고 싶지도 않은 그 일을, 어떻게 남편에게 가서 고백한단 말인가? 두 사람은 그토록 오래 서로에게 입을 다물고 있었는데 — 그 침묵을 이토록 뜻밖의 고백으로 먼저 깨는 것이 제 몫이란 말인가?",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P0410_4",
+    "en": "She feared that the bare mention of Werther's visit would trouble him, and that her perfect candour would only deepen his distress. She wished he could see her as she truly was, and judge her without prejudice; but did she want him to read her inmost soul?",
+    "ko": "베르테르가 왔었다는 말만 꺼내도 남편이 언짢아할 것이고, 제가 다 털어놓으면 그 괴로움만 더 깊어지리라는 것이 두려웠다. 제 참모습을 남편이 알아보고 치우침 없이 판단해 주었으면 싶었다. 그러나 정말로 제 마음속까지 읽히기를 바랐던가?",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P0410_5",
+    "en": "On the other hand, could she deceive a man to whom all her thoughts had always been as clear as crystal, and from whom she had never hidden a feeling? These reflections made her anxious and thoughtful.",
+    "ko": "한편으로, 제 모든 생각을 수정처럼 훤히 알고 감정 하나 숨긴 적 없는 사람을 어떻게 속인단 말인가? 이런 생각들이 그 사람을 불안하고 무겁게 했다.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P0410_6",
+    "en": "Her mind still dwelt on Werther, who was now lost to her, whom she could not bring herself to give up, and for whom, she knew, nothing was left but despair if she were lost to him for ever.",
+    "ko": "마음은 여전히 베르테르에게 머물러 있었다. 이제 잃어버린 사람, 차마 놓을 수 없는 사람, 그리고 제가 영영 사라지면 절망밖에 남지 않으리라는 것을 아는 그 사람에게.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P0411_1",
+    "en": "The memory of that mysterious estrangement which had lately grown up between herself and Albert, and which she had never fully understood, was now painful to her beyond measure.",
+    "ko": "요즘 저와 알베르트 사이에 생겨난, 끝내 온전히 이해하지 못한 그 알 수 없는 서먹함에 대한 기억이 이제 견딜 수 없이 아팠다.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P0411_2",
+    "en": "Even the prudent and the good have hesitated before now to explain their differences to one another, and have brooded in silence over imaginary grievances.",
+    "ko": "조심스럽고 선한 사람들조차 서로에게 제 차이를 설명하기를 머뭇거리다, 있지도 않은 서운함을 말없이 곱씹은 일이 이제까지 없지 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P0411_3",
+    "en": "And so matters become so entangled that at the critical moment, when a calm explanation would have saved everyone, an understanding is no longer possible.",
+    "ko": "그러다 일이 너무 엉켜 버려, 차분한 설명 한 번이면 모두를 구했을 그 결정적인 순간에는 이미 이해가 불가능해지고 만다.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P0411_4",
+    "en": "And so, if domestic confidence had been established between them earlier, if love and kind forbearance had opened and warmed their hearts toward each other, it might even yet not have been too late to save our friend.",
+    "ko": "그러니 두 사람 사이에 집안의 신뢰가 좀 더 일찍 자리 잡았더라면, 사랑과 너그러운 참음이 서로의 마음을 열고 데워 주었더라면, 우리 벗을 구하기에 아직 늦지 않았을지도 모른다.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P0412_1",
+    "en": "But we must not forget one remarkable circumstance. We may see from the character of Werther's correspondence that he had never made any secret of his anxious wish to leave this world.",
+    "ko": "그러나 한 가지 눈여겨볼 사정을 잊어서는 안 된다. 베르테르의 편지들을 보면, 그가 이 세상을 떠나고 싶다는 애타는 바람을 한 번도 감춘 적이 없다는 것을 알 수 있다.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P0412_2",
+    "en": "He had often discussed the subject with Albert; and between Albert and Charlotte it had more than once been a topic of conversation.",
+    "ko": "그는 그 문제를 알베르트와 자주 이야기했고, 알베르트와 샤를로테 사이에서도 한두 번 화제가 된 적이 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P0412_3",
+    "en": "Albert was so opposed to the very idea of such an act that, with an irritation unusual in him, he had more than once given Werther to understand that he doubted the seriousness of his threats. He not only turned them into ridicule, but made Charlotte share his incredulity.",
+    "ko": "알베르트는 그런 행위라는 생각 자체에 워낙 반대하는 사람이라, 그답지 않게 짜증을 내며 그 위협을 진지하게 여기지 않는다고 베르테르에게 여러 번 내비쳤다. 그것을 웃음거리로 삼았을 뿐 아니라, 샤를로테도 그 불신에 함께하게 만들었다.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P0412_4",
+    "en": "Her heart was thus set at rest whenever she felt inclined to take the melancholy subject seriously; though she never told her husband the apprehensions she sometimes felt.",
+    "ko": "그리하여 그 사람은 그 우울한 문제를 진지하게 받아들이고 싶어질 때마다 마음을 놓았다. 다만 이따금 느끼는 불안은 남편에게 한 번도 말하지 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P0413_1",
+    "en": "Albert, on his return, was received by Charlotte with ill-concealed embarrassment. He was out of humour himself; his business was unfinished, and he had just discovered that the neighbouring official he had to deal with was an obstinate and narrow-minded man.",
+    "ko": "돌아온 알베르트를 샤를로테는 감추지 못한 당황함으로 맞았다. 그 자신도 기분이 좋지 않았다. 볼일은 마무리되지 않았고, 상대해야 할 이웃 관리가 고집 세고 속 좁은 사람이라는 것을 막 알게 된 참이었다.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P0413_2",
+    "en": "Many things had happened to irritate him.",
+    "ko": "그를 짜증 나게 한 일이 여럿 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P0414",
+    "en": "He asked whether anything had happened while he was away, and Charlotte answered hastily that Werther had been there the evening before. He then asked for his letters, and was told that several packets had been left in his study. He withdrew, leaving Charlotte alone.",
+    "ko": "그는 자기가 없는 동안 무슨 일이 있었느냐고 물었고, 샤를로테는 어제저녁 베르테르가 왔었다고 서둘러 답했다. 그러고 나서 편지를 찾자, 서재에 꾸러미 몇 개를 두었다는 말을 들었다. 그는 물러갔고, 샤를로테는 혼자 남았다.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P0415_1",
+    "en": "The presence of the man she loved and honoured made a new impression on her heart. The memory of his generosity, his kindness and his affection had calmed her agitation; a secret impulse urged her to follow him. She took up her work and went to his study, as she often did.",
+    "ko": "사랑하고 우러르는 사람이 곁에 있다는 것이 그 마음에 새로운 자국을 남겼다. 그 너그러움과 다정함과 애정에 대한 기억이 어지러운 마음을 가라앉혔고, 어떤 은밀한 충동이 그를 따라가라고 재촉했다. 그 사람은 바느질거리를 들고, 여느 때처럼 남편의 서재로 갔다.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P0415_2",
+    "en": "He was busy opening and reading his letters. Some of them seemed to contain disagreeable news. She asked a few questions; he gave short answers, and sat down to write.",
+    "ko": "그는 편지를 뜯어 읽느라 바빴다. 그 가운데 몇은 달갑지 않은 소식인 듯했다. 그 사람이 몇 가지를 물었으나 그는 짧게 답하고 앉아서 글을 쓰기 시작했다.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P0416_1",
+    "en": "Several hours passed like this, and Charlotte's spirits grew more and more melancholy. She felt how extremely difficult it would be, under any circumstances, to explain to her husband the weight that lay on her heart.",
+    "ko": "그렇게 몇 시간이 흘렀고, 샤를로테의 마음은 점점 더 어두워졌다. 어떤 사정에서든 제 가슴을 누르는 무게를 남편에게 설명하기가 얼마나 어려운 일인지 그 사람은 느꼈다.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P0416_2",
+    "en": "And her depression grew heavier every moment, in proportion to her efforts to hide her grief and conceal her tears.",
+    "ko": "그리고 슬픔을 감추고 눈물을 숨기려 애쓸수록 그 침울함은 순간순간 더 무거워졌다.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P0417_1",
+    "en": "The arrival of Werther's servant caused her the greatest embarrassment. He gave Albert a note, which Albert handed coldly to his wife, saying at the same time, \"Give him the pistols.\" \"I wish him a pleasant journey,\" he added, turning to the servant.",
+    "ko": "베르테르의 하인이 찾아온 것이 그 사람에게 더없이 큰 당황을 안겼다. 하인이 알베르트에게 쪽지를 건네자, 알베르트는 그것을 차갑게 아내에게 넘기며 말했다. \"권총을 내주시오.\" \"즐거운 여행이 되기를 바란다고 전하게.\" 그가 하인 쪽으로 돌아서며 덧붙였다.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P0417_2",
+    "en": "The words fell on Charlotte like a thunderbolt. She rose from her seat half fainting, and hardly knowing what she was doing.",
+    "ko": "그 말이 샤를로테에게는 벼락처럼 떨어졌다. 그 사람은 반쯤 정신을 잃은 채, 제가 무엇을 하는지도 모르고 자리에서 일어섰다.",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P0417_3",
+    "en": "She walked mechanically toward the wall, took down the pistols with a trembling hand, slowly wiped the dust from them, and would have delayed longer had Albert not hurried her with an impatient look. Then she gave the fatal weapons to the servant, unable to utter a word.",
+    "ko": "홀린 듯 벽 쪽으로 걸어가 떨리는 손으로 권총을 내리고 천천히 먼지를 닦았다. 알베르트가 참지 못하고 눈짓으로 재촉하지 않았더라면 더 꾸물거렸을 것이다. 그러고는 한마디도 못 한 채 그 치명적인 물건을 하인에게 건넸다.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P0417_4",
+    "en": "As soon as he had gone she folded up her work and went at once to her room, her heart overcome with the most fearful forebodings. She expected some dreadful calamity.",
+    "ko": "하인이 가자마자 그 사람은 바느질거리를 개어 두고 곧장 제 방으로 갔다. 가슴은 더없이 무서운 예감으로 가득했다. 끔찍한 재앙이 닥치리라는 예감이었다.",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P0417_5",
+    "en": "At one moment she was on the point of going to her husband, throwing herself at his feet, and telling him everything that had happened the evening before, so as to acknowledge her fault and explain her fears.",
+    "ko": "한순간 그 사람은 남편에게 가서 그 발치에 몸을 던지고, 어제저녁 있었던 일을 다 말해 제 잘못을 인정하고 제 두려움을 털어놓을 뻔했다.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P0417_6",
+    "en": "Then she saw that such a step would be useless, since she would certainly not be able to persuade Albert to go and see Werther.",
+    "ko": "그러다 그래 봐야 소용없다는 것을 깨달았다. 알베르트를 설득해 베르테르에게 보낼 수는 없을 것이 뻔했다.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P0417_7",
+    "en": "Dinner was served; and a kind friend, whom she had persuaded to stay, helped to keep up the conversation, which was carried on by a kind of compulsion until the events of the morning were forgotten.",
+    "ko": "저녁상이 차려졌다. 그 사람이 붙잡아 둔 마음씨 좋은 벗 하나가 이야기를 이어 주어, 억지로나마 대화가 흘러가는 사이 아침의 일은 잊혔다.",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P0418",
+    "en": "When the servant brought the pistols to Werther, he received them with transports of delight on hearing that Charlotte had given them to him with her own hand. He ate some bread, drank some wine, sent his servant off to dinner, and then sat down to write as follows.",
+    "ko": "하인이 권총을 가져오자, 샤를로테가 제 손으로 그것을 내주었다는 말에 베르테르는 기쁨에 겨워 그것을 받았다. 그는 빵을 좀 먹고 포도주를 마신 뒤 하인을 저녁 먹으라 보내고, 앉아서 다음과 같이 썼다.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P0419_1",
+    "en": "\"They have been in your hands — you wiped the dust from them. I kiss them a thousand times: you have touched them. Yes, Heaven favours my design, and you, Charlotte, hand me the fatal instruments.",
+    "ko": "\"이것이 당신 손에 있었군요 — 당신이 먼지를 닦아 주셨군요. 나는 여기에 천 번 입을 맞춥니다. 당신이 만지셨으니까요. 그렇습니다, 하늘이 내 뜻을 도우시고, 샤를로테, 당신이 그 치명적인 물건을 내게 건네주십니다.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P0419_2",
+    "en": "It was my wish to receive my death from your hands, and now my wish is granted. I have questioned my servant. You trembled when you gave him the pistols, but you sent me no farewell.",
+    "ko": "당신 손에서 내 죽음을 받는 것이 내 바람이었는데, 이제 그 바람이 이루어졌습니다. 하인에게 물어보았습니다. 권총을 건네실 때 당신은 떨었으나, 내게 작별 인사는 보내지 않으셨습니다.",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P0419_3",
+    "en": "Wretched, wretched that I am — not one farewell! How could you shut your heart against me in the very hour that makes you mine for ever? Charlotte, ages cannot wear away the impression — I feel that you cannot hate the man who loves you so passionately.\"",
+    "ko": "비참하구나, 비참하구나 — 작별 인사 한마디가 없다니! 당신을 영원히 내 사람으로 만든 바로 그 시간에, 어찌하여 내게 마음을 닫으셨습니까? 샤를로테, 세월이 흘러도 그 자국은 닳지 않을 것입니다 — 당신을 이토록 뜨겁게 사랑하는 사람을 당신이 미워할 수 없다는 것을 나는 느낍니다.\"",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P0420_1",
+    "en": "After dinner he called his servant, told him to finish the packing, destroyed a great many papers, and then went out to pay some trifling debts.",
+    "ko": "저녁을 먹고 그는 하인을 불러 짐 꾸리기를 마치라 이르고, 서류를 잔뜩 없앤 뒤 자잘한 빚을 갚으러 나갔다.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P0420_2",
+    "en": "He soon came home again, then went out once more in spite of the rain, walked for a while in the count's garden, and afterwards went further out into the country. Toward evening he came back and took up his writing again.",
+    "ko": "곧 돌아왔다가 비가 오는데도 다시 나가, 백작의 뜰을 한동안 거닐고 더 멀리 들판으로 나갔다. 저녁 무렵 돌아와 다시 글을 쓰기 시작했다.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "tag": "P0421_1",
+    "en": "\"Wilhelm, I have looked for the last time on the mountains, the forests, and the sky. Farewell! And you, my dearest mother, forgive me!",
+    "ko": "\"빌헬름, 나는 산과 숲과 하늘을 마지막으로 보았네. 잘 있게! 그리고 더없이 사랑하는 어머니, 저를 용서해 주세요!",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P0421_2",
+    "en": "Console her, Wilhelm. God bless you both! I have settled all my affairs.",
+    "ko": "어머니를 위로해 드리게, 빌헬름. 하느님이 두 분을 축복하시기를! 내 일은 모두 정리해 두었네.",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P0421_3",
+    "en": "Farewell! We shall meet again, and be happier than ever.\"",
+    "ko": "잘 있게! 우리는 다시 만날 것이고, 그때는 어느 때보다 행복할 걸세.\"",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P0422_1",
+    "en": "\"I have repaid you badly, Albert; but you will forgive me. I have disturbed the peace of your house. I have sown distrust between you.",
+    "ko": "\"알베르트, 나는 당신에게 형편없이 갚았습니다. 그러나 용서해 주시겠지요. 나는 당신 집안의 평화를 어지럽혔습니다. 두 분 사이에 불신의 씨를 뿌렸습니다.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "tag": "P0422_2",
+    "en": "Farewell! I will put an end to all this wretchedness. And oh, that my death may make you happy!",
+    "ko": "안녕히! 나는 이 모든 비참함을 끝내겠습니다. 아, 내 죽음이 두 분을 행복하게 하기를!",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "tag": "P0422_3",
+    "en": "Albert, Albert! Make that angel happy, and the blessing of Heaven be upon you.\"",
+    "ko": "알베르트, 알베르트! 그 천사를 행복하게 해 주십시오. 그러면 하늘의 축복이 당신 위에 있을 것입니다.\"",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "tag": "P0423_1",
+    "en": "He spent the rest of the evening arranging his papers; he tore up and burned a great many, and sealed others and addressed them to Wilhelm. They contained some detached thoughts and maxims, a few of which I have read.",
+    "ko": "그는 저녁의 남은 시간을 서류를 정리하며 보냈다. 많은 것을 찢어 태웠고, 나머지는 봉해 빌헬름 앞으로 적어 두었다. 그 안에는 흩어진 생각과 잠언들이 들어 있었는데, 그 가운데 몇 가지는 나도 읽어 보았다.",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "tag": "P0423_2",
+    "en": "At ten o'clock he ordered his fire to be made up and a bottle of wine brought to him. He then dismissed his servant, whose room, like the rooms of the rest of the household, was in another part of the house.",
+    "ko": "열 시에 그는 불을 지피게 하고 포도주 한 병을 가져오라 일렀다. 그러고는 하인을 물렸는데, 그 방은 집안의 다른 사람들 방과 마찬가지로 집의 다른 쪽에 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "tag": "P0423_3",
+    "en": "The servant lay down without undressing, so as to be ready the sooner for the journey in the morning, his master having told him the post-horses would be at the door before six.",
+    "ko": "하인은 아침 여섯 시 전에 역마가 문 앞에 올 것이라는 주인의 말을 들은 터라, 길 떠날 채비를 서두르려고 옷도 벗지 않고 누웠다.",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "tag": "P0424_1",
+    "en": "\"Past eleven o'clock! All is silent around me, and my soul is calm. I thank you, O God, for giving me strength and courage in these last moments.",
+    "ko": "\"열한 시가 넘었습니다! 둘레는 온통 고요하고 내 영혼은 잔잔합니다. 이 마지막 순간에 제게 힘과 용기를 주시니, 오 하느님, 감사드립니다.",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "tag": "P0424_2",
+    "en": "I go to the window, my dearest of friends; and through the clouds, driven rapidly along at this moment by the furious wind, I see the stars that light the eternal heavens. No, you will not fall, celestial bodies: the hand of the Almighty upholds you and me alike.",
+    "ko": "더없이 소중한 벗이여, 나는 창가로 갑니다. 그리고 지금 사나운 바람에 빠르게 밀려가는 구름 사이로 영원한 하늘을 밝히는 별들을 봅니다. 아니다, 그대들은 떨어지지 않으리라, 하늘의 별들이여. 전능하신 분의 손이 그대들과 나를 함께 붙들고 계시니.",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "tag": "P0424_3",
+    "en": "I have looked for the last time at the constellation of the Greater Bear. It is my favourite star; for when I said goodnight to you at your door, Charlotte, and turned away, it always shone down on me. With what rapture have I looked at it sometimes!",
+    "ko": "나는 큰곰자리를 마지막으로 바라보았습니다. 그것은 내가 가장 좋아하는 별입니다. 당신 문 앞에서 밤 인사를 드리고 돌아설 때면, 샤를로테, 언제나 그 별이 나를 비추어 주었으니까요. 때로 얼마나 황홀하게 그 별을 바라보았는지요!",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "tag": "P0424_4",
+    "en": "How often have I lifted my hands and begged it to witness my happiness! And even now — But what object is there, Charlotte, that fails to call up your image before me? Do you not surround me on every side? Have I not, like a child, treasured up every trifle your touch has made sacred?",
+    "ko": "얼마나 자주 두 손을 들어 내 행복의 증인이 되어 달라고 그 별에게 빌었는지요! 그리고 지금도 — 그러나 샤를로테, 당신의 모습을 불러내지 않는 것이 이 세상에 무엇이 있습니까? 당신은 사방에서 나를 둘러싸고 있지 않습니까? 나는 어린아이처럼, 당신의 손길이 거룩하게 만든 하찮은 것 하나하나를 간직해 오지 않았습니까?",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "tag": "P0425",
+    "en": "\"Your profile, which was so dear to me, I send back to you; and I beg you to keep it. I have printed thousands of kisses on it, and a thousand times it has gladdened my heart as I left my house and came back to it.",
+    "ko": "\"내게 그토록 소중했던 당신의 옆얼굴 그림을 돌려보냅니다. 부디 간직해 주십시오. 나는 거기에 수천 번 입을 맞추었고, 집을 나설 때와 돌아올 때마다 천 번이나 그것이 내 가슴을 기쁘게 해 주었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "tag": "P0426_1",
+    "en": "\"I have begged your father to protect my remains. At the corner of the churchyard, looking out toward the fields, there are two lime-trees — there I wish to lie. Your father can do this much for his friend, and no doubt he will.",
+    "ko": "\"내 유해를 지켜 달라고 당신 아버님께 청해 두었습니다. 교회 뜰 모퉁이, 들판 쪽을 바라보는 자리에 보리수 두 그루가 있습니다 — 거기 눕고 싶습니다. 당신 아버님은 벗을 위해 이만한 일은 해 주실 수 있고, 틀림없이 해 주실 것입니다.",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "tag": "P0426_2",
+    "en": "Beg it of him. But perhaps pious Christians will not wish their bodies to be buried beside the corpse of a poor, unhappy wretch like me.",
+    "ko": "부디 그분께 청해 주십시오. 그러나 어쩌면 경건한 기독교인들은 나 같은 가엾고 불행한 자의 주검 곁에 제 몸이 묻히기를 바라지 않을지도 모릅니다.",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "tag": "P0426_3",
+    "en": "Then let me be laid in some remote valley, or beside the highway, where the priest and the Levite may bless themselves as they pass my tomb, while the Samaritan sheds a tear for my fate.",
+    "ko": "그렇다면 어느 외진 골짜기나 큰길가에 나를 누이십시오. 사제와 레위 사람은 내 무덤을 지나며 성호를 긋고, 사마리아 사람은 내 운명에 눈물 한 방울을 흘릴 그런 곳에.",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "tag": "P0427_1",
+    "en": "\"See, Charlotte, I do not shudder to take the cold and fatal cup from which I shall drink the draught of death. Your hand holds it out to me, and I do not tremble. All, all is now concluded: the wishes and the hopes of my life are fulfilled.",
+    "ko": "\"보십시오, 샤를로테. 죽음의 잔을 들이켜야 할 그 차갑고 치명적인 잔을 잡으면서도 나는 떨지 않습니다. 당신의 손이 그것을 내밀어 주시니, 나는 떨지 않습니다. 이제 모든 것이, 모든 것이 끝났습니다. 내 삶의 바람과 희망이 다 이루어졌습니다.",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "tag": "P0427_2",
+    "en": "With a cold, unflinching hand I knock at the brazen gates of Death. Oh, that I had been granted the bliss of dying for you! How gladly I would have sacrificed myself for you, Charlotte! And if I could give peace and joy back to your heart, with what resolution, with what joy, would I meet my fate!",
+    "ko": "차갑고 흔들림 없는 손으로 나는 죽음의 놋쇠 문을 두드립니다. 아, 당신을 위해 죽는 복을 누릴 수 있었더라면! 얼마나 기꺼이 당신을 위해 나를 바쳤겠습니까, 샤를로테! 당신의 가슴에 평화와 기쁨을 되돌려 줄 수만 있다면, 얼마나 굳세게, 얼마나 기쁘게 내 운명을 맞이하겠습니까!",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "tag": "P0427_3",
+    "en": "But it is the lot of only a chosen few to shed their blood for their friends, and by their death to multiply a thousandfold the happiness of those who love them.",
+    "ko": "그러나 벗을 위해 제 피를 흘리고 그 죽음으로 저를 사랑하는 이들의 행복을 천 배로 늘리는 것은, 오직 가려 뽑힌 몇 사람에게만 주어지는 몫입니다.",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "tag": "P0428_1",
+    "en": "\"I wish, Charlotte, to be buried in the clothes I am wearing now: your touch has made them sacred. I have begged this favour of your father. My spirit soars above my grave.",
+    "ko": "\"샤를로테, 나는 지금 입고 있는 이 옷 그대로 묻히고 싶습니다. 당신의 손길이 이 옷을 거룩하게 만들었으니까요. 이 청도 당신 아버님께 드려 두었습니다. 내 영혼은 내 무덤 위로 날아오릅니다.",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "tag": "P0428_2",
+    "en": "I do not wish my pockets to be searched. The knot of pink ribbon you wore at your breast the first time I saw you, surrounded by the children — Oh, kiss them a thousand times for me, and tell them the fate of their unhappy friend.",
+    "ko": "내 주머니를 뒤지지는 말아 주십시오. 아이들에게 둘러싸인 당신을 처음 보던 날, 당신이 가슴에 달고 있던 그 분홍 리본 매듭 — 아, 나를 대신해 아이들에게 천 번 입 맞춰 주시고, 그 불행한 벗의 운명을 일러 주십시오.",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "tag": "P0428_3",
+    "en": "I think I see them playing around me. The dear children! How warmly I have been attached to you, Charlotte!",
+    "ko": "아이들이 내 둘레에서 뛰노는 것이 보이는 듯합니다. 사랑스러운 아이들! 샤를로테, 내가 당신에게 얼마나 뜨겁게 매여 있었는지요!",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "tag": "P0428_4",
+    "en": "Since the first hour I saw you, how impossible I have found it to leave you. This ribbon must be buried with me: it was a present from you on my birthday. How confused it all seems!",
+    "ko": "처음 당신을 본 그 시간부터, 당신을 떠난다는 것이 얼마나 불가능한 일이었는지요. 이 리본은 나와 함께 묻혀야 합니다. 내 생일에 당신이 주신 선물이니까요. 모든 것이 어찌 이리 뒤죽박죽인지!",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "tag": "P0428_5",
+    "en": "Little did I think then that I should travel this road. But peace! I beg you, peace!",
+    "ko": "그때는 내가 이 길을 가게 되리라고는 생각지도 못했습니다. 그러나 고요히! 부디, 고요히!",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "tag": "P0429",
+    "en": "\"They are loaded — the clock strikes twelve. So be it. Charlotte, Charlotte! Farewell, farewell!\"",
+    "ko": "\"장전되었습니다 — 시계가 열두 시를 칩니다. 그리 되게 하소서. 샤를로테, 샤를로테! 안녕히, 안녕히!\"",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "tag": "P0430",
+    "en": "A neighbour saw the flash and heard the report of the pistol; but as everything stayed quiet afterwards, he thought no more of it.",
+    "ko": "이웃 사람이 불빛을 보고 총소리를 들었으나, 그 뒤로 아무 기척도 없기에 더 마음에 두지 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "tag": "P0431_1",
+    "en": "In the morning, at six o'clock, the servant went into Werther's room with a candle. He found his master stretched on the floor, weltering in his blood, the pistols at his side. He called to him, he took him in his arms, but got no answer.",
+    "ko": "아침 여섯 시에 하인이 촛불을 들고 베르테르의 방에 들어갔다. 주인은 제 피 속에 뒹군 채 바닥에 뻗어 있었고, 권총이 그 곁에 있었다. 불러 보고 안아 일으켜 보았으나 아무 대답이 없었다.",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "tag": "P0431_2",
+    "en": "Life was not yet quite extinct. The servant ran for a surgeon, and then went to fetch Albert. Charlotte heard the ringing of the bell, and a cold shudder seized her.",
+    "ko": "숨은 아직 아주 끊기지 않았다. 하인은 외과의를 부르러 달려갔다가 알베르트를 데리러 갔다. 샤를로테는 종이 울리는 소리를 듣고 온몸에 찬 기운이 돋았다.",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "tag": "P0431_3",
+    "en": "She woke her husband, and they both got up. The servant, bathed in tears, faltered out the dreadful news. Charlotte fell senseless at Albert's feet.",
+    "ko": "남편을 깨워 두 사람 다 일어났다. 눈물범벅이 된 하인이 더듬거리며 그 무서운 소식을 전했다. 샤를로테는 알베르트의 발치에 정신을 잃고 쓰러졌다.",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "tag": "P0432",
+    "en": "When the surgeon came to the unfortunate Werther, he was still lying on the floor; his pulse beat, but his limbs were cold. The bullet, entering the forehead over the right eye, had gone through the skull. A vein was opened in his right arm; the blood came, and he still went on breathing.",
+    "ko": "외과의가 그 불행한 베르테르에게 왔을 때, 그는 아직 바닥에 누워 있었다. 맥은 뛰었으나 팔다리는 차가웠다. 총알은 오른쪽 눈 위 이마로 들어가 두개골을 뚫고 지나갔다. 오른팔의 핏줄을 땄고, 피가 나왔으며, 그는 아직 숨을 쉬고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "tag": "P0433",
+    "en": "From the blood that had run down the chair, it could be inferred that he had done the act sitting at his desk, and had afterwards fallen to the floor. He was found lying on his back near the window. He was in full dress.",
+    "ko": "의자에 흘러내린 피로 미루어, 그는 책상 앞에 앉은 채 그 일을 저지르고 나중에 바닥으로 쓰러진 것으로 짐작되었다. 그는 창가에 반듯이 누운 채 발견되었다. 정장 차림이었다.",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "tag": "P0434_1",
+    "en": "The house, the neighbourhood, and the whole town were immediately in commotion. Albert arrived. They had laid Werther on the bed; his head was bound up, and the pallor of death was on his face.",
+    "ko": "그 집도 이웃도 온 마을도 곧바로 발칵 뒤집혔다. 알베르트가 왔다. 사람들이 베르테르를 침대에 눕혀 두었다. 머리는 싸매어져 있었고, 얼굴에는 죽음의 창백함이 덮여 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "tag": "P0434_2",
+    "en": "His limbs were motionless, but he still breathed — at times strongly, then more weakly; his death was expected at any moment.",
+    "ko": "팔다리는 움직이지 않았으나 아직 숨을 쉬고 있었다 — 때로는 세게, 때로는 약하게. 그 죽음은 언제라도 닥칠 듯했다.",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "tag": "P0435",
+    "en": "He had drunk only one glass of the wine. \"Emilia Galotti\" lay open on his desk.",
+    "ko": "그는 포도주를 한 잔밖에 마시지 않았다. 책상 위에는 \"에밀리아 갈로티\"가 펼쳐져 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "tag": "P0436",
+    "en": "I shall say nothing of Albert's distress, or of Charlotte's grief.",
+    "ko": "알베르트의 괴로움이나 샤를로테의 슬픔에 대해서는 아무 말도 하지 않겠다.",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "tag": "P0437_1",
+    "en": "The old steward hurried to the house the moment he heard the news; he embraced his dying friend in a flood of tears. His eldest boys soon followed him on foot. In speechless sorrow they threw themselves on their knees by the bedside and kissed his hands and his face.",
+    "ko": "늙은 집사는 소식을 듣자마자 달려와, 눈물을 쏟으며 죽어 가는 벗을 끌어안았다. 그 큰아들들도 곧 걸어서 뒤따라왔다. 아이들은 말도 못 하고 슬퍼하며 침대 곁에 무릎을 꿇고 그 손과 얼굴에 입을 맞추었다.",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "tag": "P0437_2",
+    "en": "The eldest, who was his favourite, hung over him until he died, and even then had to be taken away by force. At twelve o'clock Werther breathed his last.",
+    "ko": "그가 가장 아끼던 맏이는 그가 숨을 거둘 때까지 그 위에 매달려 있었고, 그러고도 억지로 떼어 내야 했다. 열두 시에 베르테르는 마지막 숨을 거두었다.",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "tag": "P0437_3",
+    "en": "The steward's presence, and the precautions he had taken, prevented any disturbance; and that night, at eleven, he had the body buried in the place Werther had chosen for himself.",
+    "ko": "집사가 곁에 있고 미리 손을 써 둔 덕에 소란은 없었다. 그리고 그날 밤 열한 시에, 그는 베르테르가 스스로 골라 둔 그 자리에 주검을 묻게 했다.",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "tag": "P0438_1",
+    "en": "The steward and his sons followed the body to the grave. Albert was unable to go with them. Charlotte's life was despaired of.",
+    "ko": "집사와 그 아들들이 주검을 따라 무덤까지 갔다. 알베르트는 함께 가지 못했다. 샤를로테의 목숨도 위태로웠다.",
+    "is_header": false
+  },
+  {
+    "id": 104,
+    "tag": "P0438_2",
+    "en": "The body was carried by labourers. No priest attended.",
+    "ko": "주검은 일꾼들이 날랐다. 사제는 아무도 오지 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 105,
+    "tag": "THE_END",
+    "en": "THE END",
+    "ko": "끝",
+    "is_header": false
+  }
+]

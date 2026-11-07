@@ -1,0 +1,625 @@
+[
+  {
+    "id": 1,
+    "tag": "H14",
+    "en": "Ossian",
+    "ko": "오시안",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P0376_1",
+    "en": "\"Star of descending night! Fair is your light in the west! You lift your unshorn head from your cloud; your steps are stately on your hill. What do you behold on the plain?",
+    "ko": "\"저무는 밤의 별이여! 서녘에 걸린 그대의 빛이 곱도다! 그대는 구름에서 깎지 않은 머리를 들어 올리고, 그대의 언덕 위를 당당히 걷는다. 그대는 들판에서 무엇을 보는가?",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P0376_2",
+    "en": "The stormy winds are laid. The murmur of the torrent comes from far off. Roaring waves climb the distant rock.",
+    "ko": "사나운 바람은 잦아들었다. 격류의 웅얼거림이 멀리서 들려온다. 포효하는 물결이 먼 바위를 기어오른다.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P0376_3",
+    "en": "The flies of evening are on their feeble wings; the hum of their course is on the field. What do you behold, fair light? But you smile and depart.",
+    "ko": "저녁의 날벌레들이 여린 날개를 편다. 그 나는 소리가 들판에 깔린다. 그대는 무엇을 보는가, 고운 빛이여? 그러나 그대는 웃으며 떠나간다.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P0376_4",
+    "en": "The waves come with joy around you; they bathe your lovely hair. Farewell, silent beam! Let the light of Ossian's soul arise!",
+    "ko": "물결이 기쁘게 그대를 둘러싸고, 그대의 어여쁜 머리칼을 씻는다. 잘 가라, 말 없는 빛줄기여! 오시안의 영혼에서 빛이 일어나게 하라!\"",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P0377_1",
+    "en": "\"And it does arise in its strength! I behold my departed friends. Their gathering is on Lora, as in the days of other years.",
+    "ko": "\"과연 그 빛이 힘차게 일어나는구나! 나는 떠나간 벗들을 본다. 그들은 지난 세월의 그날들처럼 로라에 모여 있다.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P0377_2",
+    "en": "Fingal comes like a watery column of mist; his heroes are around him. And see the bards of song — gray-haired Ullin, stately Ryno, Alpin with the tuneful voice, and the soft complaint of Minona!",
+    "ko": "핑갈이 물안개 기둥처럼 다가온다. 그 둘레에 용사들이 있다. 보라, 노래하는 시인들을 — 백발의 울린, 늠름한 리노, 가락 고운 목소리의 알핀, 그리고 미노나의 부드러운 탄식을!",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P0377_3",
+    "en": "How you are changed, my friends, since the days of Selma's feast — when we contended like the gales of spring as they fly along the hill and bend by turns the feebly whistling grass.",
+    "ko": "벗들이여, 셀마의 잔치 이후로 그대들은 얼마나 달라졌는가 — 봄바람이 언덕을 따라 달리며 가냘프게 우는 풀을 번갈아 눕히듯 우리가 겨루던 그 시절 이후로.\"",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P0378_1",
+    "en": "\"Minona came forth in her beauty, with downcast look and tearful eye. Her hair flew slowly in the blast that rushed at intervals from the hill. The souls of the heroes were sad when she raised her tuneful voice.",
+    "ko": "\"미노나가 그 아름다움 속에 나아왔다. 눈을 내리깔고 눈에는 눈물을 담고서. 언덕에서 이따금 몰아쳐 오는 바람에 그 머리칼이 천천히 날렸다. 그가 가락 고운 목소리를 높이자 용사들의 영혼이 슬퍼졌다.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P0378_2",
+    "en": "Often had they seen the grave of Salgar, the dark dwelling of white-bosomed Colma. Colma, left alone on the hill with all her voice of song! Salgar promised to come — but the night came down around her.",
+    "ko": "그들은 살가르의 무덤을, 흰 가슴의 콜마가 머무는 어두운 처소를 여러 번 보았던 것이다. 노래하는 목소리만을 지닌 채 언덕에 홀로 남겨진 콜마여! 살가르는 오마고 했다 — 그러나 밤이 그의 둘레로 내려앉았다.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P0378_3",
+    "en": "Hear the voice of Colma, as she sat alone on the hill!",
+    "ko": "언덕에 홀로 앉은 콜마의 목소리를 들으라!\"",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P0379_1",
+    "en": "\"Colma. It is night; I am alone, forlorn on the hill of storms. The wind is heard on the mountain.",
+    "ko": "\"콜마. 밤이로다. 나는 폭풍의 언덕에 홀로, 버려진 채 있다. 산에서 바람 소리가 들린다.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P0379_2",
+    "en": "The torrent is howling down the rock. No hut shelters me from the rain — forlorn on the hill of winds!",
+    "ko": "격류가 바위를 타고 울부짖으며 내린다. 비를 가려 줄 오두막 하나 없구나 — 바람의 언덕에 버려진 채로!\"",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P0380_1",
+    "en": "\"Rise, moon, from behind your clouds! Stars of the night, arise! Lead me, some light, to the place where my love rests alone from the chase!",
+    "ko": "\"떠오르라, 달이여, 그대의 구름 뒤에서! 밤의 별들이여, 떠오르라! 어떤 빛이라도 나를 이끌라. 내 사랑이 사냥을 마치고 홀로 쉬는 그곳으로!",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P0380_2",
+    "en": "His bow beside him unstrung, his dogs panting around him. But here I must sit alone by the rock of the mossy stream. The stream and the wind roar aloud.",
+    "ko": "활은 시위를 풀어 곁에 두고, 개들은 그 둘레에서 헐떡이는 그곳으로. 그러나 나는 여기, 이끼 낀 시내의 바위 곁에 홀로 앉아 있어야 한다. 시내와 바람이 요란히 울부짖는다.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P0380_3",
+    "en": "I do not hear the voice of my love. Why does my Salgar delay? Why does the chief of the hill break his promise? Here is the rock, and here the tree! Here is the roaring stream!",
+    "ko": "내 사랑의 목소리는 들리지 않는다. 어찌하여 내 살가르는 늦는가? 어찌하여 언덕의 우두머리가 제 약속을 저버리는가? 여기 바위가 있고 여기 나무가 있다! 여기 울부짖는 시내가 있다!",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P0380_4",
+    "en": "You promised to be here with the night. Ah, where has my Salgar gone? With you I would fly from my father, with you from my brother of pride.",
+    "ko": "그대는 밤이 오면 여기 있겠다고 약속했다. 아, 내 살가르는 어디로 갔는가? 그대와 함께라면 아버지에게서도, 오만한 오라비에게서도 달아나련만.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P0380_5",
+    "en": "Our families have long been enemies — but we are not enemies, O Salgar!",
+    "ko": "우리 두 집안은 오래 원수였다 — 그러나 우리는 원수가 아니다, 오 살가르여!\"",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P0381_1",
+    "en": "\"Cease a little while, O wind! Stream, be silent awhile! Let my voice be heard around; let my wanderer hear me! Salgar, it is Colma who calls.",
+    "ko": "\"잠시 멎으라, 오 바람이여! 시내여, 잠시 잠잠하라! 내 목소리가 사방에 들리게 하라. 내 떠도는 이가 나를 듣게 하라! 살가르여, 그대를 부르는 것은 콜마다.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P0381_2",
+    "en": "Here is the tree and the rock. Salgar, my love, I am here! Why do you delay your coming?",
+    "ko": "여기 나무가 있고 바위가 있다. 살가르여, 내 사랑이여, 나는 여기 있다! 어찌하여 오는 것을 미루는가?",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P0381_3",
+    "en": "See, the calm moon comes forth. The flood is bright in the valley. The rocks are gray on the steep.",
+    "ko": "보라, 고요한 달이 나온다. 골짜기에 물이 환하다. 비탈의 바위들이 잿빛이다.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P0381_4",
+    "en": "I do not see him on the brow of the hill. His dogs do not come before him with word that he is near. Here I must sit alone!",
+    "ko": "언덕마루에 그의 모습은 보이지 않는다. 가까이 왔음을 알리며 그의 개들이 앞서 달려오지도 않는다. 나는 여기 홀로 앉아 있어야 한다!\"",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P0382_1",
+    "en": "\"Who lie on the heath beside me? Are they my love and my brother? Speak to me, O my friends!",
+    "ko": "\"내 곁 황야에 누운 이들은 누구인가? 내 사랑과 내 오라비인가? 내게 말하라, 오 나의 벗들이여!",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P0382_2",
+    "en": "To Colma they give no reply. Speak to me: I am alone! My soul is tormented with fears.",
+    "ko": "그들은 콜마에게 아무 대답이 없다. 내게 말하라. 나는 혼자다! 내 영혼이 두려움에 시달린다.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P0382_3",
+    "en": "Ah, they are dead! Their swords are red from the fight. O my brother, my brother, why have you slain my Salgar?",
+    "ko": "아, 그들은 죽었구나! 그 칼이 싸움의 피로 붉다. 오 나의 오라비여, 나의 오라비여, 어찌하여 내 살가르를 죽였는가?",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P0382_4",
+    "en": "Why, O Salgar, have you slain my brother? Dear were you both to me! What shall I say in your praise? You were fair on the hill among thousands; he was terrible in fight.",
+    "ko": "어찌하여, 오 살가르여, 그대는 내 오라비를 죽였는가? 두 사람 다 내게 소중했다! 무슨 말로 그대들을 기리랴? 그대는 수천 사람 가운데 언덕에서 빛났고, 그는 싸움에서 무서웠다.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P0382_5",
+    "en": "Speak to me! Hear my voice! Hear me, sons of my love! They are silent — silent for ever! Cold, cold are their breasts of clay!",
+    "ko": "내게 말하라! 내 목소리를 들으라! 나를 들으라, 내 사랑의 아들들이여! 그들은 말이 없다 — 영영 말이 없다! 그 흙빛 가슴이 차다, 차다!",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P0382_6",
+    "en": "Oh, from the rock on the hill, from the top of the windy steep, speak, you ghosts of the dead! Speak — I will not be afraid! Where have you gone to rest?",
+    "ko": "아, 언덕의 바위에서, 바람 부는 비탈의 꼭대기에서 말하라, 죽은 이들의 혼령이여! 말하라 — 나는 두려워하지 않으리라! 그대들은 어디로 쉬러 갔는가?",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P0382_7",
+    "en": "In what cave of the hill shall I find the departed? No feeble voice is on the gale, no answer half drowned in the storm.",
+    "ko": "언덕의 어느 굴에서 떠난 이들을 찾으랴? 바람결에 가냘픈 목소리 하나 없고, 폭풍에 반쯤 잠긴 대답 하나 없다.\"",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P0383_1",
+    "en": "\"I sit in my grief; I wait for morning in my tears. Raise the tomb, you friends of the dead. Do not close it until Colma comes.",
+    "ko": "\"나는 슬픔 속에 앉아 눈물로 아침을 기다린다. 무덤을 세우라, 죽은 이의 벗들이여. 콜마가 올 때까지 닫지 말라.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P0383_2",
+    "en": "My life flies away like a dream. Why should I stay behind? Here I shall rest with my friends, by the stream of the sounding rock.",
+    "ko": "내 목숨이 꿈처럼 달아난다. 어찌 나만 뒤에 남으랴? 나는 여기, 울리는 바위의 시냇가에서 내 벗들과 함께 쉬리라.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P0383_3",
+    "en": "When night comes on the hill, when the loud winds rise, my ghost shall stand in the blast and mourn the death of my friends. The hunter shall hear me from his hut; he shall fear my voice, but love it. For sweet shall my voice be for my friends — pleasant were her friends to Colma.",
+    "ko": "언덕에 밤이 오고 사나운 바람이 일면, 내 혼령이 그 바람 속에 서서 벗들의 죽음을 애도하리라. 사냥꾼이 제 오두막에서 그것을 들으리라. 그는 내 목소리를 두려워하면서도 사랑하리라. 내 목소리는 내 벗들에게 달콤하리니 — 콜마에게 그 벗들은 정다웠도다.\"",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P0384_1",
+    "en": "\"Such was your song, Minona, softly blushing daughter of Torman. Our tears fell for Colma, and our souls were sad. Ullin came with his harp; he gave us the song of Alpin.",
+    "ko": "\"그러한 것이 그대의 노래였다, 미노나여, 토르만의 수줍게 물든 딸이여. 우리 눈물이 콜마를 위해 흘렀고 우리 영혼이 슬펐다. 울린이 하프를 들고 왔다. 그는 우리에게 알핀의 노래를 주었다.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P0384_2",
+    "en": "The voice of Alpin was pleasant, the soul of Ryno was a beam of fire. But they had gone to rest in the narrow house; their voices had ceased in Selma. Ullin had returned one day from the chase before the heroes fell.",
+    "ko": "알핀의 목소리는 정다웠고, 리노의 영혼은 한 줄기 불빛이었다. 그러나 그들은 좁은 집으로 쉬러 갔고, 그 목소리는 셀마에서 그쳤다. 울린은 용사들이 스러지기 전 어느 날 사냥에서 돌아왔었다.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P0384_3",
+    "en": "He heard their strife on the hill; their song was soft, but sad. They mourned the fall of Morar, first of mortal men. His soul was like the soul of Fingal, his sword like the sword of Oscar.",
+    "ko": "그는 언덕에서 그들의 겨룸을 들었다. 그 노래는 부드러우면서도 슬펐다. 그들은 사람 가운데 으뜸이던 모라르의 죽음을 애도하고 있었다. 그 영혼은 핑갈의 영혼 같았고, 그 칼은 오스카르의 칼 같았다.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P0384_4",
+    "en": "But he fell, and his father mourned; his sister's eyes were full of tears. Minona's eyes were full of tears — the sister of car-borne Morar. She withdrew from the song of Ullin, like the moon in the west when she foresees the shower and hides her fair head in a cloud.",
+    "ko": "그러나 그는 쓰러졌고 그 아비가 슬퍼했으며, 그 누이의 눈에는 눈물이 가득했다. 미노나의 눈에 눈물이 가득했다 — 전차 타는 모라르의 누이였다. 그는 울린의 노래에서 물러났다. 소나기를 미리 알고 고운 머리를 구름에 감추는 서녘의 달처럼.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P0384_5",
+    "en": "I touched the harp with Ullin; the song of morning rose.",
+    "ko": "나는 울린과 함께 하프를 뜯었고, 아침의 노래가 일어났다.\"",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P0385_1",
+    "en": "\"Ryno. The wind and the rain are past; calm is the noon of day. The clouds are divided in heaven.",
+    "ko": "\"리노. 바람과 비는 지나갔고, 한낮이 고요하다. 하늘에서 구름이 갈라진다.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P0385_2",
+    "en": "Over the green hills flies the inconstant sun. Red through the stony valley comes down the stream of the hill. Sweet are your murmurs, O stream — but sweeter still is the voice I hear.",
+    "ko": "푸른 언덕 위로 변덕스러운 해가 달린다. 돌투성이 골짜기를 붉게 물들이며 언덕의 시내가 내려온다. 그대의 웅얼거림이 달콤하구나, 오 시내여 — 그러나 내가 듣는 목소리는 더 달콤하다.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P0385_3",
+    "en": "It is the voice of Alpin, the son of song, mourning for the dead. Bent is his head with age, red his tearful eye. Alpin, son of song, why alone on the silent hill?",
+    "ko": "그것은 알핀의 목소리, 노래의 아들이 죽은 이를 애도하는 소리다. 나이에 머리가 굽었고, 눈물에 눈이 붉다. 알핀이여, 노래의 아들이여, 어찌하여 고요한 언덕에 홀로 있는가?",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P0385_4",
+    "en": "Why do you lament, like a blast in the wood, like a wave on the lonely shore?",
+    "ko": "어찌하여 숲을 스치는 바람처럼, 외로운 물가의 물결처럼 탄식하는가?\"",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P0386_1",
+    "en": "\"Alpin. My tears, O Ryno, are for the dead; my voice for those who have passed away. Tall you are on the hill, fair among the sons of the valley.",
+    "ko": "\"알핀. 내 눈물은, 오 리노여, 죽은 이를 위한 것이다. 내 목소리는 떠나간 이들을 위한 것이다. 그대는 언덕 위에 우뚝하고, 골짜기의 아들들 가운데 빼어나다.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P0386_2",
+    "en": "But you shall fall like Morar, and the mourner shall sit on your tomb. The hills shall know you no more; your bow shall lie unstrung in your hall.",
+    "ko": "그러나 그대도 모라르처럼 쓰러지리라. 그리고 애도하는 이가 그대의 무덤에 앉으리라. 언덕은 다시 그대를 알아보지 못하리라. 그대의 활은 시위가 풀린 채 그대의 방에 놓이리라.\"",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P0387_1",
+    "en": "\"You were swift, O Morar, as a roe on the desert, terrible as a meteor of fire. Your wrath was as the storm. Your sword in battle was as lightning in the field.",
+    "ko": "\"그대는 날랬도다, 오 모라르여. 황야의 노루처럼 날랬고, 불덩이 유성처럼 무서웠다. 그대의 분노는 폭풍과 같았다. 싸움터에서 그대의 칼은 들판을 가르는 번개와 같았다.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P0387_2",
+    "en": "Your voice was as a stream after rain, like thunder on distant hills. Many fell by your arm; they were consumed in the flames of your wrath. But when you returned from war, how peaceful was your brow.",
+    "ko": "그대의 목소리는 비 온 뒤의 시냇물 같았고, 먼 산의 천둥 같았다. 숱한 이가 그대의 팔에 쓰러졌다. 그들은 그대 분노의 불길에 살라졌다. 그러나 싸움에서 돌아온 그대의 이마는 얼마나 평온했던가.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P0387_3",
+    "en": "Your face was like the sun after rain, like the moon in the silence of night, calm as the breast of the lake when the loud wind is laid.",
+    "ko": "그대의 얼굴은 비 갠 뒤의 해 같았고, 고요한 밤의 달 같았으며, 사나운 바람이 잦아든 호수의 가슴처럼 잔잔했다.\"",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P0388_1",
+    "en": "\"Narrow is your dwelling now; dark the place of your abode. With three steps I compass your grave, O you who were once so great! Four stones with their heads of moss are the only memorial of you.",
+    "ko": "\"이제 그대의 처소는 좁고, 그대가 머무는 자리는 어둡다. 세 걸음이면 그대의 무덤을 두르리라, 한때 그토록 위대했던 그대여! 이끼 얹힌 돌 넷이 그대를 기리는 전부다.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P0388_2",
+    "en": "A tree with scarcely a leaf, and long grass whistling in the wind, mark for the hunter's eye the grave of the mighty Morar. Morar, you are laid low indeed. You have no mother to mourn you, no maid with her tears of love.",
+    "ko": "잎도 거의 없는 나무 한 그루와 바람에 우는 긴 풀이, 사냥꾼의 눈에 위대한 모라르의 무덤임을 알려 줄 뿐이다. 모라르여, 그대는 참으로 낮게 누웠구나. 그대를 애도할 어미도 없고, 사랑의 눈물을 흘릴 처녀도 없다.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P0388_3",
+    "en": "Dead is she who brought you into the world. Fallen is the daughter of Morglan.",
+    "ko": "그대를 세상에 낳은 이는 죽었다. 모르글란의 딸은 스러졌다.\"",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P0389_1",
+    "en": "\"Who is this on his staff? Who is this whose head is white with age, whose eyes are red with tears, who trembles at every step? It is your father, O Morar — the father of no son but you.",
+    "ko": "\"지팡이를 짚은 저 사람은 누구인가? 머리는 나이에 세고, 눈은 눈물에 붉으며, 걸음마다 떠는 저 사람은 누구인가? 그는 그대의 아비다, 오 모라르여 — 그대 말고는 아들이 없는 아비다.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P0389_2",
+    "en": "He heard of your fame in war, he heard of enemies scattered. He heard of Morar's renown — why did he not hear of his wound? Weep, father of Morar!",
+    "ko": "그는 싸움터에서의 그대의 이름을 들었고, 적들이 흩어졌다는 말을 들었다. 그는 모라르의 명성을 들었다 — 어찌하여 그 상처에 대해서는 듣지 못했는가? 울라, 모라르의 아비여!",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P0389_3",
+    "en": "Weep — but your son does not hear you. Deep is the sleep of the dead, low their pillow of dust. No more shall he hear your voice, no more wake at your call.",
+    "ko": "울라 — 그러나 그대의 아들은 그대를 듣지 못한다. 죽은 이의 잠은 깊고, 그 티끌 베개는 낮다. 그는 다시는 그대의 목소리를 듣지 못하고, 다시는 그대의 부름에 깨어나지 못하리라.",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P0389_4",
+    "en": "When shall it be morning in the grave, to bid the sleeper wake? Farewell, bravest of men, conqueror in the field! But the field shall see you no more, nor the dark wood be lightened with the splendour of your steel.",
+    "ko": "무덤에 아침이 와서 잠든 이를 깨우는 때는 언제이겠는가? 잘 가라, 사람 가운데 가장 용감한 이여, 싸움터의 정복자여! 그러나 들판은 다시 그대를 보지 못하고, 어두운 숲도 그대 강철의 광채로 밝아지지 못하리라.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P0389_5",
+    "en": "You have left no son. The song shall preserve your name. Future times shall hear of you — they shall hear of the fallen Morar.",
+    "ko": "그대는 아들을 남기지 않았다. 노래가 그대의 이름을 지키리라. 훗날의 세월이 그대의 이야기를 들으리라 — 쓰러진 모라르의 이야기를 들으리라.\"",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P0390_1",
+    "en": "\"The grief of all arose, but most of all the bursting sigh of Armin. He remembers the death of his son, who fell in the days of his youth. Carmor was near the hero, the chief of the echoing Galmal.",
+    "ko": "\"모두의 슬픔이 일어났으나, 그 가운데서도 아르민의 터져 나오는 한숨이 가장 컸다. 그는 젊은 날에 스러진 제 아들의 죽음을 떠올린다. 메아리 울리는 갈말의 우두머리 카르모르가 그 곁에 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P0390_2",
+    "en": "Why does Armin sigh so? he said. Is there cause to mourn? The song comes with its music to melt and please the soul.",
+    "ko": "어찌하여 아르민은 저리 한숨짓는가? 하고 그가 말했다. 슬퍼할 까닭이 있는가? 노래는 그 가락으로 영혼을 녹이고 기쁘게 하려 오는 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P0390_3",
+    "en": "It is like soft mist that rises from a lake and pours over the silent valley; the green flowers fill with dew, but the sun comes back in his strength, and the mist is gone. Why are you sad, O Armin, chief of sea-surrounded Gorma?",
+    "ko": "그것은 호수에서 피어올라 고요한 골짜기에 쏟아지는 부드러운 안개와 같다. 푸른 꽃들이 이슬에 젖지만, 해가 다시 힘차게 돌아오면 안개는 사라진다. 어찌하여 슬퍼하는가, 오 아르민이여, 바다에 둘린 고르마의 우두머리여?\"",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P0391_1",
+    "en": "\"Sad I am, and my cause of grief is not small. Carmor, you have lost no son; you have lost no daughter of beauty. Colgar the valiant lives, and Annira, fairest of maidens.",
+    "ko": "\"나는 슬프다. 그리고 내 슬픔의 까닭은 작지 않다. 카르모르여, 그대는 아들을 잃지 않았고, 아름다운 딸을 잃지 않았다. 용맹한 콜가르가 살아 있고, 처녀 가운데 가장 고운 안니라가 살아 있다.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P0391_2",
+    "en": "The branches of your house rise, O Carmor — but Armin is the last of his race. Dark is your bed, O Daura; deep your sleep in the tomb. When will you wake with your songs, with all your voice of music?",
+    "ko": "그대의 집안은 가지를 뻗는다, 오 카르모르여 — 그러나 아르민은 그 핏줄의 마지막이다. 그대의 잠자리는 어둡구나, 오 다우라여. 무덤 속 그대의 잠은 깊구나. 언제 그대는 그대의 노래와 함께, 그 온 가락의 목소리와 함께 깨어나려는가?\"",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P0392_1",
+    "en": "\"Arise, winds of autumn, arise! Blow along the heath. Streams of the mountains, roar! Roar, tempests, in the groves of my oaks! Walk through the broken clouds, O moon; show your pale face at intervals.",
+    "ko": "\"일어나라, 가을의 바람이여, 일어나라! 황야를 따라 불어라. 산의 시내들이여, 울부짖으라! 폭풍이여, 내 참나무 숲에서 울부짖으라! 갈라진 구름 사이를 걸으라, 오 달이여. 이따금 그 창백한 얼굴을 보이라.",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P0392_2",
+    "en": "Bring back to my mind the night when all my children fell — when Arindal the mighty fell, when Daura the lovely failed. Daura, my daughter, you were fair — fair as the moon on Fura, white as the driven snow, sweet as the breathing gale.",
+    "ko": "내 아이들이 모두 스러지던 그 밤을 내 마음에 되돌려 다오 — 힘센 아린달이 쓰러지고, 사랑스러운 다우라가 무너지던 그 밤을. 다우라, 내 딸아, 너는 고왔다 — 푸라의 달처럼 곱고, 내린 눈처럼 희며, 숨결 같은 바람처럼 달콤했다.",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P0392_3",
+    "en": "Arindal, your bow was strong, your spear was swift on the field, your look was like mist on the wave, your shield a red cloud in a storm. Armar, renowned in war, came and sought Daura's love. He was not long refused; fair was the hope of their friends.",
+    "ko": "아린달아, 네 활은 강했고 네 창은 들판에서 날랬으며, 네 눈빛은 물결 위의 안개 같았고 네 방패는 폭풍 속의 붉은 구름 같았다. 싸움으로 이름난 아르마르가 와서 다우라의 사랑을 구했다. 오래 거절당하지 않았으니, 두 집안 벗들의 바람도 아름다웠다.\"",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P0393_1",
+    "en": "\"Erath, son of Odgal, resented it: his brother had been slain by Armar. He came disguised as a son of the sea; fair was his boat on the wave, white his locks of age, calm his serious brow.",
+    "ko": "\"오드갈의 아들 에라스가 그것을 원망했다. 제 아우가 아르마르에게 죽임을 당했던 것이다. 그는 바다의 아들로 꾸미고 왔다. 물결 위의 그 배는 고왔고, 나이 든 머리칼은 희었으며, 진중한 이마는 잔잔했다.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "tag": "P0393_2",
+    "en": "Fairest of women, he said, lovely daughter of Armin — a rock not far off in the sea bears a tree on its side, and the fruit shines red from afar. There Armar waits for Daura. I come to carry his love to him.",
+    "ko": "여인 가운데 가장 고운 이여, 하고 그가 말했다. 아르민의 사랑스러운 딸이여 — 바다에 멀지 않은 바위가 있어 그 옆구리에 나무를 이고 있고, 그 열매가 멀리서도 붉게 빛납니다. 거기서 아르마르가 다우라를 기다립니다. 그의 사랑을 모시러 왔습니다.",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P0393_3",
+    "en": "She went; she called on Armar. Nothing answered but the son of the rock. Armar, my love, my love! Why do you torment me with fear?",
+    "ko": "그 애는 갔다. 아르마르를 불렀다. 바위의 아들 말고는 아무것도 대답하지 않았다. 아르마르여, 내 사랑, 내 사랑이여! 어찌하여 나를 두려움으로 괴롭히는가?",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P0393_4",
+    "en": "Hear, son of Arnart, hear! It is Daura who calls you. Erath the traitor fled laughing to the land. She lifted up her voice; she called for her brother and her father.",
+    "ko": "들으라, 아르나르트의 아들이여, 들으라! 그대를 부르는 것은 다우라다. 배신자 에라스는 웃으며 뭍으로 달아났다. 그 애는 목소리를 높였다. 오라비를 부르고 아비를 불렀다.",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P0393_5",
+    "en": "Arindal! Armin! Is there none to help you, Daura?",
+    "ko": "아린달아! 아르민아! 너를 도울 이 아무도 없느냐, 다우라야?\"",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "tag": "P0394_1",
+    "en": "\"Her voice came over the sea. Arindal, my son, came down from the hill, rough with the spoils of the chase. His arrows rattled at his side, his bow was in his hand, and five dark-gray dogs followed his steps.",
+    "ko": "\"그 목소리가 바다를 건너왔다. 내 아들 아린달이 사냥한 것을 거칠게 걸치고 언덕에서 내려왔다. 화살이 옆구리에서 달그락거렸고 손에는 활이 들려 있었으며, 짙은 잿빛 개 다섯 마리가 그 걸음을 따랐다.",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "tag": "P0394_2",
+    "en": "He saw fierce Erath on the shore; he seized him and bound him to an oak. Thick wound the thongs of hide around his limbs, and he loaded the winds with his groans. Arindal put out on the deep in his boat to bring Daura to land.",
+    "ko": "그는 물가에서 사나운 에라스를 보았다. 그를 붙잡아 참나무에 묶었다. 가죽끈이 그 팔다리를 두껍게 감았고, 그의 신음이 바람을 채웠다. 아린달은 다우라를 뭍으로 데려오려고 배를 타고 깊은 바다로 나아갔다.",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "tag": "P0394_3",
+    "en": "Armar came in his wrath and let fly the gray-feathered shaft. It sang, it sank in your heart, O Arindal, my son — for Erath the traitor you died. The oar stopped at once; he gasped on the rock, and died.",
+    "ko": "아르마르가 분노하여 와서 잿빛 깃 화살을 날렸다. 그것이 울며 날아 네 가슴에 박혔다, 오 아린달, 내 아들아 — 배신자 에라스 대신 네가 죽었다. 노가 대번에 멎었다. 그는 바위 위에서 헐떡이다 숨을 거두었다.",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "tag": "P0394_4",
+    "en": "What was your grief, O Daura, when your brother's blood was poured around your feet! The boat is broken in two. Armar plunges into the sea to rescue his Daura, or to die.",
+    "ko": "네 오라비의 피가 네 발치에 쏟아졌을 때 네 슬픔이 어떠했겠느냐, 오 다우라야! 배가 두 동강이 났다. 아르마르가 제 다우라를 구하려고, 아니면 죽으려고 바다로 뛰어들었다.",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "tag": "P0394_5",
+    "en": "A sudden blast from the hill came over the waves; he sank, and rose no more.",
+    "ko": "언덕에서 갑작스러운 돌풍이 물결 위로 몰려왔다. 그는 가라앉았고 다시 떠오르지 않았다.\"",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "tag": "P0395_1",
+    "en": "\"Alone on the sea-beaten rock, my daughter was heard to lament; her cries were frequent and loud. What could her father do? All night I stood on the shore; I saw her by the faint beam of the moon.",
+    "ko": "\"바다에 시달리는 바위 위에 홀로 남아 내 딸이 우는 소리가 들렸다. 그 울음은 잦고 컸다. 그 아비가 무엇을 할 수 있었겠는가? 나는 밤새 물가에 서 있었다. 희미한 달빛으로 그 애를 보았다.",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "tag": "P0395_2",
+    "en": "All night I heard her cries. Loud was the wind; the rain beat hard on the hill. Before morning came her voice grew weak; it died away like the evening breeze among the grass of the rocks.",
+    "ko": "밤새 그 울음을 들었다. 바람은 요란했고 비는 언덕을 세차게 때렸다. 아침이 오기 전에 그 목소리가 약해졌다. 바위틈 풀 사이의 저녁 바람처럼 스러져 갔다.",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "tag": "P0395_3",
+    "en": "Spent with grief, she died, and left you, Armin, alone. Gone is my strength in war, fallen my pride among women. When the storms rise aloft, when the north lifts the wave on high, I sit by the sounding shore and look at the fatal rock.",
+    "ko": "슬픔에 다 소진되어 그 애는 죽었고, 아르민, 너를 혼자 남겨 두었다. 싸움에서의 내 힘도 가고, 여인들 가운데 내 자랑도 쓰러졌다. 폭풍이 높이 일고 북풍이 물결을 치켜올릴 때면, 나는 울리는 물가에 앉아 그 운명의 바위를 바라본다.\"",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "tag": "P0396",
+    "en": "\"Often by the setting moon I see the ghosts of my children; half unseen, they walk together in mournful conference.\"",
+    "ko": "\"지는 달빛 속에서 나는 자주 내 아이들의 혼령을 본다. 반쯤 보이지 않는 채로, 그들은 서로 슬픈 이야기를 나누며 함께 걷는다.\"",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "tag": "P0397_1",
+    "en": "A torrent of tears streaming from Charlotte's eyes, and relieving her bursting heart, stopped Werther's recitation. He threw down the book, seized her hand, and wept bitterly. Charlotte leaned on her hand and buried her face in her handkerchief; the agitation of both was extreme.",
+    "ko": "샤를로테의 눈에서 쏟아져 터질 듯한 가슴을 덜어 준 눈물의 격류가 베르테르의 낭독을 멈춰 세웠다. 그는 책을 내던지고 그 손을 붙잡고 몹시 울었다. 샤를로테는 손에 몸을 기대고 손수건에 얼굴을 묻었다. 두 사람의 흔들림은 극에 달해 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "tag": "P0397_2",
+    "en": "They felt that their own fate was pictured in the misfortunes of Ossian's heroes — they felt it together, and their tears redoubled. Werther rested his forehead on Charlotte's arm; she trembled and wished to be gone, but sorrow and sympathy lay like a leaden weight on her soul.",
+    "ko": "그들은 제 운명이 오시안의 영웅들이 겪은 불행 속에 그려져 있음을 느꼈다 — 함께 느꼈고, 눈물은 곱절이 되었다. 베르테르는 샤를로테의 팔에 이마를 기댔다. 그 사람은 떨며 자리를 뜨고 싶었으나, 슬픔과 연민이 납덩이처럼 그 영혼을 누르고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "tag": "P0397_3",
+    "en": "She recovered herself shortly, and begged Werther through broken sobs to leave her, imploring him with the utmost earnestness to do as she asked. He trembled; his heart was ready to burst. Then, taking up the book again, he began to read once more, in a voice broken by sobs.",
+    "ko": "이내 정신을 가다듬은 그 사람은 흐느끼는 사이사이로 베르테르에게 가 달라고 빌며, 제 청을 들어 달라고 더없이 간곡히 애원했다. 그는 떨었다. 그 가슴은 터질 것 같았다. 그러고는 다시 책을 집어 들고, 흐느낌에 갈라지는 목소리로 읽기 시작했다.",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "tag": "P0398_1",
+    "en": "\"Why do you wake me, O spring? Your voice woos me, saying: I refresh you with the dews of heaven. But the time of my decay is near, and the storm is at hand that shall wither my leaves.",
+    "ko": "\"어찌하여 나를 깨우는가, 오 봄이여? 그대의 목소리가 나를 꾀며 말한다. 나는 하늘의 이슬로 그대를 새롭게 하리라. 그러나 내가 시들 때가 가깝고, 내 잎을 마르게 할 폭풍이 눈앞에 있다.",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "tag": "P0398_2",
+    "en": "Tomorrow the traveller will come — he will come who saw me in my beauty; his eye will search the field for me, and he will not find me.\"",
+    "ko": "내일이면 나그네가 오리라 — 내 아름답던 모습을 보았던 그가 오리라. 그 눈이 들판에서 나를 찾겠으나, 그는 나를 찾지 못하리라.\"",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "tag": "P0399_1",
+    "en": "The whole force of these words fell on the unfortunate Werther. Full of despair, he threw himself at Charlotte's feet, seized her hands, and pressed them to his eyes and to his forehead. A sense of his fatal purpose struck her now for the first time.",
+    "ko": "이 말의 온 힘이 불행한 베르테르에게 내리쳤다. 절망에 사로잡힌 그는 샤를로테의 발치에 몸을 던져 그 두 손을 붙잡고, 제 눈과 이마에 눌러 댔다. 그 사람에게 그의 치명적인 뜻이 처음으로 스쳤다.",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "tag": "P0399_2",
+    "en": "Her senses were bewildered; she held his hands, pressed them to her breast, and, leaning toward him in the tenderest pity, her warm cheek touched his. They lost sight of everything. The world disappeared from their eyes.",
+    "ko": "정신이 아득해진 그 사람은 그 손을 잡아 제 가슴에 눌렀고, 더없이 애틋한 연민으로 몸을 기울이다 따뜻한 뺨이 그의 뺨에 닿았다. 두 사람은 모든 것을 잊었다. 세상이 그 눈앞에서 사라졌다.",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "tag": "P0399_3",
+    "en": "He clasped her in his arms, strained her to his breast, and covered her trembling lips with passionate kisses. \"Werther!\" she cried in a faint voice, turning away. \"Werther!\" And with a feeble hand she pushed him from her.",
+    "ko": "그는 그 사람을 두 팔로 끌어안아 가슴에 조여 붙이고, 떨리는 입술에 뜨거운 입맞춤을 퍼부었다. \"베르테르 씨!\" 그 사람이 힘없는 목소리로 외치며 고개를 돌렸다. \"베르테르 씨!\" 그리고 힘없는 손으로 그를 밀어냈다.",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "tag": "P0399_4",
+    "en": "At length, in the firm voice of virtue, she exclaimed, \"Werther!\" He did not resist, but tore himself from her arms and fell on his knees before her. Charlotte rose, and in disordered grief, in mingled tones of love and resentment, she cried, \"It is the last time, Werther!\"",
+    "ko": "마침내 그 사람은 정숙함의 단호한 목소리로 외쳤다. \"베르테르 씨!\" 그는 거스르지 않고 그 팔에서 몸을 떼어 내어, 그 앞에 무릎을 꿇었다. 샤를로테는 일어섰다. 그리고 흐트러진 슬픔 속에, 사랑과 원망이 뒤섞인 목소리로 외쳤다. \"이번이 마지막이에요, 베르테르 씨!\"",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "tag": "P0399_5",
+    "en": "\"You shall never see me again!\" Then, casting one last tender look at her unfortunate lover, she rushed into the next room and locked the door. Werther held out his arms, but did not dare to hold her back.",
+    "ko": "\"다시는 저를 보지 못하실 거예요!\" 그러고는 그 불행한 연인에게 마지막으로 애틋한 눈길을 던지고, 옆방으로 달려 들어가 문을 잠갔다. 베르테르는 두 팔을 뻗었으나, 감히 붙잡지 못했다.",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "tag": "P0399_6",
+    "en": "He stayed on the ground with his head resting on the sofa for half an hour, until a noise brought him to his senses. The servant came in.",
+    "ko": "그는 소파에 머리를 얹은 채 반 시간을 바닥에 있었고, 무슨 소리에 겨우 정신이 들었다. 하인이 들어왔다.",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "tag": "P0399_7",
+    "en": "He then walked up and down the room; and when he was alone again, he went to Charlotte's door and said in a low voice, \"Charlotte, Charlotte! Only one word more, one last adieu!\" She gave no answer. He stopped, and listened, and entreated; but all was silent.",
+    "ko": "그는 방 안을 오갔다. 그리고 다시 혼자가 되자 샤를로테의 방문으로 가서 나직이 말했다. \"샤를로테, 샤를로테! 한마디만요, 마지막 인사 한마디만요!\" 그 사람은 대답하지 않았다. 그는 멈추어 서서 귀를 기울이고 애원했으나, 사방이 고요했다.",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "tag": "P0399_8",
+    "en": "At length he tore himself from the place, crying, \"Adieu, Charlotte, adieu for ever!\"",
+    "ko": "마침내 그는 그 자리에서 몸을 떼어 내며 외쳤다. \"안녕히, 샤를로테. 영영 안녕히!\"",
+    "is_header": false
+  }
+]

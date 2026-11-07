@@ -1,0 +1,632 @@
+[
+  {
+    "id": 1,
+    "tag": "H05",
+    "en": "Albert",
+    "ko": "알베르트",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P0086",
+    "en": "July 6",
+    "ko": "7월 6일",
+    "is_header": true
+  },
+  {
+    "id": 3,
+    "tag": "P0087_1",
+    "en": "She is still with her dying friend, and still the same bright, beautiful creature whose presence softens pain and sheds happiness whichever way she turns. She went out yesterday with her little sisters; I knew of it, went to meet them, and we walked together.",
+    "ko": "그 사람은 아직도 죽어 가는 벗의 곁에 있고, 여전히 그 밝고 아름다운 사람 그대로일세. 있는 것만으로 아픔을 덜어 주고, 어느 쪽으로 몸을 돌리든 행복을 뿌리는 사람 말일세. 어제 어린 동생들과 나들이를 나간다기에, 나는 그것을 알고 마중을 나갔고 우리는 함께 걸었네.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P0087_2",
+    "en": "After about an hour and a half we came back toward the town. We stopped at the spring I am so fond of, which is now a thousand times dearer to me than ever. Charlotte sat down on the low wall, and we gathered around her.",
+    "ko": "한 시간 반쯤 지나 우리는 마을 쪽으로 돌아왔네. 내가 그토록 좋아하는 그 샘에 들렀는데, 이제는 전보다 천 배는 더 소중해진 곳이지. 샤를로테는 낮은 담에 앉았고, 우리는 그 둘레에 모여 앉았네.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P0087_3",
+    "en": "I looked about me and remembered the time when my heart was still free and unoccupied. \"Dear fountain!\" I said. \"Since that time I have not come to rest by your cool stream; I have passed you with careless steps, and hardly given you a glance.\"",
+    "ko": "나는 둘레를 돌아보며 내 마음이 아직 자유롭고 비어 있던 때를 떠올렸네. \"정다운 샘이여!\" 하고 내가 말했네. \"그때 이후로 나는 네 서늘한 물가에 와서 쉰 적이 없구나. 무심한 걸음으로 지나치며 눈길 한 번 주지 않았구나.\"",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P0087_4",
+    "en": "I looked down and saw Charlotte's little sister, Jane, coming up the steps with a glass of water. I turned toward Charlotte, and felt how completely she governs me. Just then Jane came up with the glass.",
+    "ko": "내려다보니 샤를로테의 어린 동생 제인이 물잔을 들고 계단을 올라오고 있었네. 나는 샤를로테를 돌아보며, 그 사람이 나를 얼마나 온전히 다스리고 있는지를 느꼈네. 그때 제인이 잔을 들고 다가왔네.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P0087_5",
+    "en": "Her sister, Marianne, wanted to take it from her. \"No!\" cried the child, with the sweetest look on her face. \"Charlotte must drink first.\"",
+    "ko": "언니인 마리안네가 그것을 받아 들려고 했네. \"안 돼!\" 하고 아이가 더없이 고운 얼굴로 외쳤네. \"샤를로테 언니가 먼저 마셔야 해.\"",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P0088_1",
+    "en": "The affection and simplicity of it charmed me so much that I tried to express what I felt by catching the child up and kissing her heartily. She was frightened and began to cry. \"You should not do that,\" said Charlotte.",
+    "ko": "그 다정함과 꾸밈없음이 어찌나 마음에 들던지, 나는 느낀 것을 드러내려고 아이를 번쩍 안아 올려 힘껏 입을 맞추었네. 아이는 놀라서 울기 시작했네. \"그러시면 안 돼요.\" 샤를로테가 말했네.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P0088_2",
+    "en": "I felt perplexed. \"Come, Jane,\" she went on, taking her hand and leading her down the steps again, \"it does not matter: wash yourself quickly in the fresh water.\" I stood and watched them.",
+    "ko": "나는 어쩔 줄을 몰랐네. \"이리 오렴, 제인.\" 그 사람은 아이 손을 잡고 다시 계단을 내려가며 말했네. \"괜찮아. 맑은 물에 얼른 씻으면 돼.\" 나는 서서 그 모습을 지켜보았네.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P0088_3",
+    "en": "The little dear rubbed her cheeks with her wet hands, in the full belief that all the impurities she had caught from my ugly beard would be washed off by that miraculous water.",
+    "ko": "그 귀여운 것은 젖은 손으로 제 뺨을 문질렀네. 내 험한 수염에서 옮은 더러운 것이 그 신통한 물에 다 씻겨 나가리라고 굳게 믿으면서 말일세.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P0088_4",
+    "en": "And though Charlotte said it would do, she went on scrubbing with all her might, as though too much were better than too little. I assure you, Wilhelm, I have never attended a baptism with greater reverence.",
+    "ko": "샤를로테가 이제 됐다고 하는데도, 아이는 있는 힘을 다해 계속 문질렀네. 모자라느니 지나친 편이 낫다는 듯이. 정말이지 빌헬름, 나는 그보다 더 경건한 마음으로 세례식에 참석해 본 적이 없네.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P0088_5",
+    "en": "And when Charlotte came up from the well, I could have thrown myself down before her as before the prophet of an Eastern nation.",
+    "ko": "그리고 샤를로테가 우물에서 올라왔을 때, 나는 동방 어느 민족의 예언자 앞에서처럼 그 앞에 엎드릴 뻔했네.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P0089_1",
+    "en": "In the evening I could not resist telling the story to a man who, I thought, had some natural feeling, since he was a man of understanding. But what a mistake I made.",
+    "ko": "저녁에 나는 이 이야기를 어떤 사람에게 하지 않고는 못 배겼네. 사리를 아는 사람이니 타고난 감정도 있으려니 여겼던 것이지. 그런데 이런 착각이 없었네.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P0089_2",
+    "en": "He insisted it was very wrong of Charlotte; that we should not deceive children; that such things give rise to countless errors and superstitions, from which we are bound to protect the young. It struck me then that this very man had been baptised only a week before.",
+    "ko": "그는 샤를로테가 아주 잘못했다고, 아이를 속여서는 안 된다고, 그런 일이 숱한 오해와 미신을 낳으며 우리는 아이들을 거기서 지켜야 한다고 우겼네. 그때 문득 떠올랐네. 바로 이 사람이 겨우 일주일 전에 세례를 받았다는 것이.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P0089_3",
+    "en": "So I said nothing further, and kept to the justice of my own convictions. We should deal with children as God deals with us: we are happiest under the influence of innocent delusions.",
+    "ko": "그래서 나는 더 말하지 않고, 내 확신이 옳다는 생각을 지켰네. 우리는 신이 우리를 다루시듯 아이들을 다루어야 하네. 우리는 순진한 미망에 싸여 있을 때 가장 행복하니까.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P0090",
+    "en": "July 8",
+    "ko": "7월 8일",
+    "is_header": true
+  },
+  {
+    "id": 17,
+    "tag": "P0091_1",
+    "en": "What a child a man is, that he should care so much about a look! What a child a man is! We had been to Walheim; the ladies went in a carriage.",
+    "ko": "사람이란 얼마나 어린애 같은가. 눈길 하나에 그토록 마음을 쓰다니! 사람이란 얼마나 어린애 같은가! 우리는 발하임에 다녀왔네. 부인들은 마차로 갔지.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P0091_2",
+    "en": "During our walk I thought I saw something in Charlotte's dark eyes — I am a fool, but forgive me! You should see them — those eyes.",
+    "ko": "걷는 동안 나는 샤를로테의 검은 눈에서 무언가를 본 것 같았네 — 내가 바보지, 그러나 용서하게! 자네도 그 눈을 보아야 하네.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P0091_3",
+    "en": "However, to be brief, since my own eyes are weighed down with sleep: when the ladies stepped into their carriage again, young W., Seldstadt, Andran and I were standing about the door. They are a merry set of fellows, all laughing and joking together. I watched Charlotte's eyes.",
+    "ko": "여하튼 짧게 말하겠네. 내 눈이 졸음에 무거우니. 부인들이 다시 마차에 오를 때, 젊은 W.와 젤트슈타트와 안드란과 내가 문간에 서 있었네. 다들 유쾌한 축들이라 웃고 농담하며 떠들썩했네. 나는 샤를로테의 눈을 지켜보았네.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P0091_4",
+    "en": "They wandered from one to another; but they never lit on me — on me, who stood there motionless and saw nothing but her! My heart said goodbye to her a thousand times, and she never noticed me. The carriage drove off, and my eyes filled with tears.",
+    "ko": "그 눈은 이 사람 저 사람에게로 옮겨 다녔네. 그러나 내게는 한 번도 머물지 않았네 — 꼼짝 않고 서서 오직 그 사람만 보고 있던 내게는! 내 마음은 천 번이나 그 사람에게 작별을 고했건만, 그 사람은 나를 알아보지 못했네. 마차는 떠났고, 내 눈에는 눈물이 고였네.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P0091_5",
+    "en": "I looked after her, and suddenly I saw Charlotte's bonnet lean out of the window; she turned to look back — was it at me? My dear friend, I do not know; and in that uncertainty I find my consolation. Perhaps she turned to look at me.",
+    "ko": "뒷모습을 바라보는데, 문득 샤를로테의 모자가 창밖으로 기우는 것이 보였네. 돌아본 것이지 — 나를 보려고? 친구여, 나는 모르겠네. 그리고 그 알 수 없음 속에서 나는 위안을 얻네. 어쩌면 나를 보려고 돌아본 것인지도 모르지.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P0091_6",
+    "en": "Perhaps! Good night — what a child I am!",
+    "ko": "어쩌면! 잘 자게 — 나는 참 어린애일세!",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P0092",
+    "en": "July 10",
+    "ko": "7월 10일",
+    "is_header": true
+  },
+  {
+    "id": 24,
+    "tag": "P0093_1",
+    "en": "You should see how foolish I look in company when her name is mentioned — especially when someone asks me plainly how I like her. How I like her! I detest the phrase.",
+    "ko": "사람들 앞에서 그 이름이 나올 때 내 꼴이 얼마나 우스운지 자네도 보아야 하네. 특히 누가 대놓고 그 사람을 어떻게 생각하느냐고 물을 때 말일세. 어떻게 생각하느냐니! 나는 그 말이 끔찍하네.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P0093_2",
+    "en": "What sort of creature must a man be who merely liked Charlotte, whose whole heart and senses were not entirely taken up with her? Like her! Someone asked me lately how I liked Ossian.",
+    "ko": "샤를로테를 그저 좋아하는 데 그치는 사람, 온 마음과 온 감각이 그 사람에게 붙들리지 않은 사람이라면 대체 어떤 인간이겠나? 좋아한다니! 요전에는 누가 내게 오시안을 어떻게 생각하느냐고 묻더군.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P0094",
+    "en": "July 11",
+    "ko": "7월 11일",
+    "is_header": true
+  },
+  {
+    "id": 27,
+    "tag": "P0095_1",
+    "en": "Madame M— is very ill. I pray for her recovery, because Charlotte shares my distress. I see her now and then at my friend's house, and today she told me the strangest thing.",
+    "ko": "M— 부인이 몹시 편찮으시네. 나는 그분이 낫기를 기도하네. 샤를로테가 나와 함께 마음 아파하고 있으니. 이따금 내 친구 집에서 그 사람을 보는데, 오늘 아주 기이한 이야기를 들려주었네.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P0095_2",
+    "en": "Old M— is a covetous, miserly fellow who has long worried and vexed the poor lady badly; but she has borne her afflictions patiently. A few days ago, when the physician told us there was no hope of her recovery, she sent for her husband — Charlotte was present — and spoke to him like this:",
+    "ko": "늙은 M—은 인색하고 욕심 많은 자로, 오래도록 그 가엾은 부인을 몹시 들볶고 괴롭혀 왔네. 그런데도 부인은 참을성 있게 견디셨지. 며칠 전 의사가 가망이 없다고 하자, 부인은 남편을 불러 — 샤를로테도 그 자리에 있었네 — 이렇게 말씀하셨다네.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P0095_3",
+    "en": "\"I have something to confess which, after my death, may cause trouble and confusion.\" \"I have managed your household as frugally and economically as I could, but you must forgive me for having defrauded you for thirty years.\"",
+    "ko": "\"제가 죽은 뒤에 말썽과 혼란을 일으킬지도 모를 일을 하나 고백해야겠습니다.\" \"저는 당신 살림을 할 수 있는 한 아껴 꾸려 왔습니다. 그러나 삼십 년 동안 당신을 속여 온 것을 용서해 주셔야겠어요.\"",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P0095_4",
+    "en": "\"At the beginning of our married life you allowed a small sum for the wants of the kitchen and the other household expenses.\" \"When our establishment grew and our property increased, I could not persuade you to raise the weekly allowance in proportion.\"",
+    "ko": "\"혼인 초에 당신은 부엌살림과 그 밖의 집안 씀씀이로 얼마 안 되는 돈을 내주셨지요.\" \"살림이 커지고 재산이 불어난 뒤에도, 주급을 그에 맞게 올려 달라고 아무리 말씀드려도 듣지 않으셨습니다.\"",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P0095_5",
+    "en": "\"In short, you know that when our wants were greatest you required me to provide everything on seven florins a week.\" \"I took the money from you without a word, and made up the weekly deficiency out of the money-chest — since nobody would suspect your wife of robbing the household bank.\"",
+    "ko": "\"요컨대 쓸 데가 가장 많던 때에도 당신은 일주일에 일곱 플로린으로 모든 것을 대라 하셨지요.\" \"저는 아무 말 없이 그 돈을 받고, 모자라는 주급은 돈궤에서 채워 넣었습니다. 아내가 집안 금고를 턴다고는 아무도 의심하지 않을 테니까요.\"",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P0095_6",
+    "en": "\"But I have wasted nothing, and I would have been content to meet my eternal Judge without this confession, except for one thing.\"",
+    "ko": "\"그러나 저는 한 푼도 허투루 쓰지 않았고, 이 고백 없이도 영원하신 심판자 앞에 나아갈 마음이었습니다. 다만 한 가지가 마음에 걸렸지요.\"",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P0095_7",
+    "en": "\"The woman who takes over the management of your household after my death must not be embarrassed by your insisting that what was allowed to me, your former wife, was enough.\"",
+    "ko": "\"제가 죽은 뒤 이 살림을 맡을 사람이, 전처인 제게 준 것으로 충분했다는 당신 말씀에 곤란을 겪어서는 안 되니까요.\"",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P0096_1",
+    "en": "I talked with Charlotte about the inconceivable way men let themselves be blinded. How could anyone fail to suspect some deception, when only seven florins were allowed to cover expenses twice as great?",
+    "ko": "나는 샤를로테와 함께, 사람이 어떻게 그토록 눈이 멀 수 있는지에 대해 이야기했네. 곱절이나 되는 씀씀이를 일곱 플로린으로 대라면서, 어떻게 아무 속임수도 의심하지 않을 수 있단 말인가?",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P0096_2",
+    "en": "But I have myself known people who believed, without the least visible astonishment, that their house held the prophet's never-failing cruse of oil.",
+    "ko": "그러나 나 자신도 조금도 놀라는 기색 없이, 제 집에 예언자의 마르지 않는 기름병이 있다고 믿는 사람들을 본 적이 있네.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P0097",
+    "en": "July 13",
+    "ko": "7월 13일",
+    "is_header": true
+  },
+  {
+    "id": 37,
+    "tag": "P0098",
+    "en": "No, I am not deceived. In her dark eyes I read a genuine interest in me and in what becomes of me. Yes, I feel it; and I may believe my own heart, which tells me — dare I say it? dare I speak the divine words? — that she loves me!",
+    "ko": "아니야, 나는 속고 있는 것이 아닐세. 그 검은 눈에서 나는 나에 대한, 그리고 내게 일어나는 일에 대한 참된 관심을 읽네. 그렇다네, 나는 느끼네. 그리고 내 마음이 하는 말을 믿어도 좋으리라 — 감히 말해도 될까? 감히 그 거룩한 말을 입에 담아도 될까? — 그 사람이 나를 사랑한다고!",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P0099",
+    "en": "That she loves me! How the thought raises me in my own eyes! And since you can understand my feelings, I may tell you how I honour myself now that she loves me.",
+    "ko": "그 사람이 나를 사랑한다니! 그 생각이 나를 내 눈에 얼마나 높여 주는지! 그리고 자네라면 내 심정을 알 테니 말하겠네. 그 사람이 나를 사랑하니 내가 나 자신을 얼마나 귀히 여기게 되는지를.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P0100",
+    "en": "Is this presumption, or is it a sense of the truth? I do not know any man who could take my place in Charlotte's heart. And yet, when she speaks of her betrothed with so much warmth and affection, I feel like a soldier stripped of his honours and titles and robbed of his sword.",
+    "ko": "이것은 주제넘은 생각인가, 아니면 진실을 느끼는 것인가? 샤를로테의 마음에서 내 자리를 차지할 수 있는 사람을 나는 알지 못하네. 그런데도 그 사람이 제 약혼자를 그토록 따뜻하고 애틋하게 말할 때면, 나는 훈장과 칭호를 벗기고 칼마저 빼앗긴 군인이 된 것 같네.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P0101",
+    "en": "July 16",
+    "ko": "7월 16일",
+    "is_header": true
+  },
+  {
+    "id": 41,
+    "tag": "P0102_1",
+    "en": "How my heart beats when I touch her finger by accident, or our feet meet under the table! I draw back as if from a furnace; but a secret force drives me forward again, and my senses swim. Her innocent, unconscious heart never knows what agony these little familiarities cost me.",
+    "ko": "어쩌다 손끝이 닿거나 식탁 밑에서 발이 스치기만 해도 내 심장이 얼마나 뛰는지! 나는 불덩이에서 손을 떼듯 물러나네. 그러나 어떤 은밀한 힘이 다시 나를 밀어붙이고, 내 감각은 아득해지네. 그 순진하고 아무것도 모르는 마음은, 이 사소한 스침들이 내게 어떤 고통을 치르게 하는지 알지 못하네.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P0102_2",
+    "en": "Sometimes, while we are talking, she lays her hand on mine, and in the eagerness of the conversation comes closer to me, and her sweet breath reaches my lips. Then I feel as though lightning had struck me, and as if I could sink into the earth.",
+    "ko": "이야기하는 동안 그 사람이 내 손에 제 손을 얹고, 말에 열이 올라 더 가까이 다가와 그 달콤한 숨결이 내 입술에 닿을 때가 있네. 그러면 나는 벼락을 맞은 듯하고, 땅속으로 꺼져 버릴 것만 같네.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P0102_3",
+    "en": "And yet, Wilhelm, with all this heavenly trust — if I know myself, and should ever dare — you understand me. No, no! My heart is not so corrupt. It is weak, weak enough — but is that not a degree of corruption?",
+    "ko": "그런데도 빌헬름, 이 천상 같은 믿음 앞에서 — 내가 나를 안다면, 그리고 언젠가 감히 — 자네는 내 말을 알아듣겠지. 아니, 아니야! 내 마음은 그렇게 썩지 않았네. 약할 뿐이네, 충분히 약하지 — 그러나 그것도 얼마간은 썩은 것이 아닌가?",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P0103_1",
+    "en": "She is a sacred being to me. All passion falls still in her presence. I cannot describe what I feel when I am near her.",
+    "ko": "그 사람은 내게 성스러운 존재일세. 그 앞에서는 온갖 욕정이 잠잠해지네. 그 곁에 있을 때 내가 무엇을 느끼는지 나는 말로 옮길 수 없네.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P0103_2",
+    "en": "It is as though my soul beat in every nerve of my body. There is a melody she plays on the piano with angelic skill — so simple, and yet so full of spirit. It is her favourite air; and at the first note, all my pain and care and sorrow vanish in a moment.",
+    "ko": "내 영혼이 온몸의 신경마다에서 고동치는 것 같네. 그 사람이 천사 같은 솜씨로 피아노를 치는 가락이 하나 있네 — 그토록 소박하면서 그토록 혼이 담긴 곡이지. 그 사람이 가장 좋아하는 곡인데, 첫 음이 울리는 순간 내 온갖 아픔과 근심과 슬픔이 대번에 사라지네.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P0104_1",
+    "en": "I believe every word that is said about the magic of ancient music. How her simple song enchants me! Sometimes, when I am ready to take my own life, she plays that air.",
+    "ko": "옛 음악의 마력에 대해 전해 오는 말을 나는 하나도 빠짐없이 믿네. 그 소박한 노래가 나를 얼마나 홀리는지! 때로 내가 목숨을 끊으려는 참에 그 사람이 그 곡을 치네.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P0104_2",
+    "en": "And instantly the gloom and the madness hanging over me are scattered, and I breathe freely again.",
+    "ko": "그러면 내게 드리웠던 어둠과 광기가 곧바로 흩어지고, 나는 다시 숨을 쉬네.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P0105",
+    "en": "July 18",
+    "ko": "7월 18일",
+    "is_header": true
+  },
+  {
+    "id": 49,
+    "tag": "P0106_1",
+    "en": "Wilhelm, what is the world to our hearts without love? What is a magic lantern without light? You have only to kindle the flame inside, and the brightest figures shine on the white wall.",
+    "ko": "빌헬름, 사랑이 없다면 우리 마음에 이 세상이 무엇이겠나? 빛이 없다면 환등기가 무엇이겠나? 안에 불을 켜기만 하면 흰 벽에 더없이 밝은 형상들이 비치네.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P0106_2",
+    "en": "And if love shows us nothing but fleeting shadows, we are happy all the same, when we stand before them like children and are carried away by the splendid phantoms. I have not been able to see Charlotte today. I was kept by company I could not get free of.",
+    "ko": "그리고 설령 사랑이 스쳐 가는 그림자밖에 보여 주지 않는다 해도, 아이처럼 그 앞에 서서 그 눈부신 환영에 넋을 빼앗긴다면 우리는 그래도 행복한 것일세. 오늘은 샤를로테를 보지 못했네. 빠져나올 수 없는 자리에 붙들려 있었지.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P0106_3",
+    "en": "What was to be done? I sent my servant to her house, so that I might at least see somebody today who had been near her. Oh, the impatience with which I waited for him to come back!",
+    "ko": "어찌하겠나? 그래서 하인을 그 집에 보냈네. 오늘 그 사람 가까이 갔던 누군가라도 보려고 말일세. 그가 돌아오기를 얼마나 애타게 기다렸던지!",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P0106_4",
+    "en": "The joy with which I welcomed him! I would certainly have caught him in my arms and kissed him, if I had not been ashamed.",
+    "ko": "그리고 돌아왔을 때 얼마나 반가웠던지! 부끄럽지만 않았다면 그를 끌어안고 입을 맞추었을 걸세.",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P0107_1",
+    "en": "They say that the Bonona stone, laid in the sun, draws in the rays and shines for a time in the dark. So it was with me and this servant.",
+    "ko": "볼로냐의 돌을 햇볕에 두면 빛을 빨아들였다가 어둠 속에서 한동안 빛난다고들 하네. 나와 그 하인 사이도 그러했네.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P0107_2",
+    "en": "The thought that Charlotte's eyes had rested on his face, his cheek, his very clothes, made all of it precious to me beyond reckoning, so that at that moment I would not have parted with him for a thousand crowns. His presence made me so happy! Beware of laughing at me, Wilhelm.",
+    "ko": "샤를로테의 눈이 그 얼굴에, 그 뺨에, 그 옷자락에까지 머물렀으리라는 생각에 그 모든 것이 값을 매길 수 없이 귀해져서, 그 순간에는 천 크로네를 준대도 그를 놓아주지 않았을 걸세. 그가 곁에 있다는 것만으로 나는 그토록 행복했네! 나를 비웃지 말게, 빌헬름.",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P0107_3",
+    "en": "Can a thing be a delusion if it makes us happy?",
+    "ko": "우리를 행복하게 하는 것이라면, 그것이 미망일 수 있겠나?",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P0108",
+    "en": "July 19",
+    "ko": "7월 19일",
+    "is_header": true
+  },
+  {
+    "id": 57,
+    "tag": "P0109_1",
+    "en": "\"I shall see her today!\" That is what I say with delight when I get up in the morning and look out with a glad heart at the bright, beautiful sun. \"I shall see her today!\"",
+    "ko": "\"오늘은 그 사람을 보겠구나!\" 아침에 일어나 기쁜 마음으로 밝고 아름다운 해를 내다보며 내가 기뻐서 하는 말일세. \"오늘은 그 사람을 보겠구나!\"",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P0109_2",
+    "en": "And then I have no other wish to make: everything, everything is contained in that one thought.",
+    "ko": "그러면 더 바랄 것이 없네. 모든 것이, 모든 것이 그 한 생각에 담겨 있네.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P0110",
+    "en": "July 20",
+    "ko": "7월 20일",
+    "is_header": true
+  },
+  {
+    "id": 60,
+    "tag": "P0111_1",
+    "en": "I cannot agree to your proposal that I should go with the ambassador to ———. I do not like being under orders, and we all know that he is a rough, disagreeable man to be attached to. You say my mother wishes me to be employed.",
+    "ko": "공사를 따라 ———로 가라는 자네 제안에는 따를 수 없네. 나는 남의 밑에 있는 것이 싫고, 그 사람이 거칠고 상대하기 언짢은 인물이라는 것은 우리 모두 아는 바일세. 어머니가 내가 일자리를 얻기를 바라신다고 했지.",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P0111_2",
+    "en": "I could not help laughing at that. Am I not employed enough already? And is it not really all one whether I shell peas or count lentils?",
+    "ko": "그 말에는 웃음이 나왔네. 나는 이미 충분히 일하고 있지 않은가? 그리고 완두콩을 까든 렌즈콩을 세든, 실은 매한가지가 아닌가?",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P0111_3",
+    "en": "The world runs on from one folly to the next. And the man who toils after gold or honour or any other phantom, purely out of regard for other people's opinion and with no wish or need of his own, is nothing better than a fool.",
+    "ko": "세상은 이 어리석음에서 저 어리석음으로 굴러가네. 그리고 제 바람도 제 필요도 없이 오직 남의 눈을 의식해서 황금이나 명예나 그 밖의 헛것을 좇아 애쓰는 자는 바보에 지나지 않네.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P0112",
+    "en": "July 24",
+    "ko": "7월 24일",
+    "is_header": true
+  },
+  {
+    "id": 64,
+    "tag": "P0113",
+    "en": "You insist so much on my not neglecting my drawing that I would do better to say nothing at all than to confess how little I have done lately.",
+    "ko": "그림을 게을리하지 말라고 자네가 하도 다그치니, 요즘 얼마나 손을 놓고 있었는지 고백하느니 차라리 아무 말도 않는 편이 낫겠네.",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P0114_1",
+    "en": "I have never felt happier, never understood nature better, down to the smallest stem and the least blade of grass. And yet I am unable to express myself. My powers of execution are so weak; everything seems to swim and float before me, so that I cannot make a clear, bold outline.",
+    "ko": "이토록 행복했던 적이 없고, 가장 작은 줄기와 가장 하찮은 풀잎에 이르기까지 자연을 이토록 잘 이해한 적이 없네. 그런데도 그것을 표현할 수가 없네. 내 솜씨가 너무 약해서, 모든 것이 눈앞에서 어른거리고 떠다녀 뚜렷하고 힘찬 윤곽 하나 그을 수가 없네.",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P0114_2",
+    "en": "But I fancy I should do better if I had some clay or wax to model with. If this state of mind lasts much longer I shall try it, and take to modelling — even if all I knead is dough.",
+    "ko": "그러나 점토나 밀랍이 있어 빚어 볼 수 있다면 더 나을 것 같기도 하네. 이런 마음이 더 오래간다면 한번 해 보겠네. 반죽밖에 주무를 것이 없더라도 조각을 시작해 보겠네.",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P0115",
+    "en": "I have begun Charlotte's portrait three times, and three times disgraced myself. It is the more annoying because I used to be very successful at taking likenesses. I have sketched her profile since, and must content myself with that.",
+    "ko": "샤를로테의 초상을 세 번 시작했다가 세 번 다 망신을 당했네. 전에는 초상을 꽤 잘 그렸던 터라 더 분한 노릇일세. 그 뒤로는 옆얼굴을 그려 두었고, 그것으로 만족할 수밖에 없네.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "tag": "P0116",
+    "en": "July 25",
+    "ko": "7월 25일",
+    "is_header": true
+  },
+  {
+    "id": 69,
+    "tag": "P0117_1",
+    "en": "Yes, dear Charlotte! I will order and arrange everything. Only give me more commissions, the more the better.",
+    "ko": "그러겠습니다, 사랑하는 샤를로테! 제가 다 챙기고 마련해 두겠습니다. 심부름을 더 시켜 주세요. 많을수록 좋습니다.",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "tag": "P0117_2",
+    "en": "One thing I must ask, though: use no more writing-sand on the dear notes you send me. Today I raised your letter hastily to my lips, and it set my teeth on edge.",
+    "ko": "다만 한 가지만 부탁드립니다. 보내 주시는 그 소중한 쪽지에 모래는 더 뿌리지 말아 주세요. 오늘 급히 그 편지를 입술에 가져다 대었다가 이가 서걱거렸습니다.",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "tag": "P0118",
+    "en": "July 26",
+    "ko": "7월 26일",
+    "is_header": true
+  },
+  {
+    "id": 72,
+    "tag": "P0119_1",
+    "en": "I have often resolved not to see her so often. But who could keep such a resolution? Every day I meet the temptation, and promise faithfully that tomorrow I will really stay away.",
+    "ko": "그 사람을 그렇게 자주 보지는 않겠다고 몇 번이나 마음먹었네. 그러나 누가 그런 결심을 지키겠나? 날마다 유혹이 찾아오고, 나는 내일은 정말 가지 않겠다고 굳게 다짐하네.",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "tag": "P0119_2",
+    "en": "But when tomorrow comes, I find some irresistible reason to see her; and before I can account for it, I am with her again. Either she has said the evening before, \"You will be sure to call tomorrow\" — and who could stay away after that?",
+    "ko": "그러나 내일이 오면 뿌리칠 수 없는 구실을 찾아내고, 미처 따져 보기도 전에 나는 다시 그 곁에 가 있네. 전날 저녁 그 사람이 \"내일은 꼭 오세요\" 하고 말했거나 — 그런 뒤에 누가 안 가고 배기겠나?",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "tag": "P0119_3",
+    "en": "Or she gives me some commission, and I find it essential to bring her the answer in person. Or the day is fine, and I walk out to Walheim; and once I am there, it is only half a league further to her. I am inside the charmed circle, and soon find myself at her side.",
+    "ko": "아니면 무슨 심부름을 시켰기에 답을 내가 직접 가져다 드려야만 할 것 같거나. 아니면 날이 좋아 발하임까지 걸어 나갔다가, 거기서 그 사람 집까지는 겨우 오 리밖에 되지 않거나. 그렇게 나는 그 홀린 자리 안에 들어가 있고, 어느새 그 곁에 가 있네.",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "tag": "P0119_4",
+    "en": "My grandmother used to tell us a story about a mountain of loadstone. When any ship came near it, it was stripped of its ironwork in an instant: the nails flew to the mountain, and the unhappy crew perished among the falling planks.",
+    "ko": "할머니가 우리에게 자석산 이야기를 들려주시곤 했네. 배가 그 가까이 가면 순식간에 쇠붙이를 다 빼앗기고, 못들은 산으로 날아가고, 가엾은 선원들은 무너지는 널빤지 틈에서 죽고 만다는 이야기였지.",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "tag": "P0120",
+    "en": "July 30",
+    "ko": "7월 30일",
+    "is_header": true
+  },
+  {
+    "id": 77,
+    "tag": "P0121_1",
+    "en": "Albert has arrived, and I must take my departure. Were he the best and noblest of men, and I his inferior in every respect, I could not endure to see him in possession of such a perfect creature. Possession! Enough, Wilhelm: her betrothed is here — a fine, worthy fellow whom one cannot help liking.",
+    "ko": "알베르트가 도착했네. 나는 떠나야겠네. 그가 아무리 훌륭하고 고결한 사람이고 내가 무슨 면으로나 그만 못하다 해도, 그토록 완전한 사람을 그가 차지한 것을 보고는 견딜 수가 없네. 차지라니! 그만두세, 빌헬름. 그 약혼자가 와 있네 — 좋아하지 않을 수 없는 훌륭하고 반듯한 사람일세.",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "tag": "P0121_2",
+    "en": "Fortunately I was not present at their meeting. It would have broken my heart! And he is so considerate: he has not given Charlotte a single kiss in my presence.",
+    "ko": "다행히 두 사람이 만나는 자리에 나는 없었네. 있었다면 가슴이 찢어졌을 걸세! 게다가 그는 어찌나 사려 깊은지, 내 앞에서는 샤를로테에게 입맞춤 한 번 하지 않네.",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "tag": "P0121_3",
+    "en": "Heaven reward him for it! I have to love him for the respect with which he treats her. He shows a regard for me; but I suspect I owe that more to Charlotte than to any liking of his own.",
+    "ko": "하늘이 그에게 상을 내리시기를! 그가 그 사람을 대하는 그 공손함 때문에라도 나는 그를 사랑할 수밖에 없네. 그는 나를 좋게 대해 주네만, 그것은 제 마음에서라기보다 샤를로테 덕이 아닌가 싶네.",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "tag": "P0121_4",
+    "en": "Women have a delicate tact in such matters, and so they should. They cannot always manage to keep two rivals on good terms with each other; but when they do, they are the only ones who gain by it.",
+    "ko": "여자들은 이런 일에 섬세한 눈치가 있고, 또 마땅히 그래야 하지. 두 연적을 늘 사이좋게 만들 수야 없겠지만, 그렇게 되면 득을 보는 것은 오직 그 여자들뿐일세.",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "tag": "P0122_1",
+    "en": "I cannot help esteeming Albert. The coolness of his temper stands out strongly against the impetuosity of mine, which I cannot conceal. He has a great deal of feeling, and knows perfectly well what a treasure he has in Charlotte.",
+    "ko": "나는 알베르트를 높이 보지 않을 수 없네. 그 침착한 성미는, 내가 감추지 못하는 내 성급함과 뚜렷이 대조되네. 그는 감정이 풍부하고, 샤를로테라는 보물을 가졌다는 것을 아주 잘 알고 있네.",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "tag": "P0122_2",
+    "en": "He is free of ill humour — which, as you know, is the fault I detest most.",
+    "ko": "그리고 심술이 없네 — 자네도 알다시피 내가 가장 싫어하는 흠이지.",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "tag": "P0123_1",
+    "en": "He takes me for a man of sense; and my attachment to Charlotte, and the interest I take in everything that concerns her, add to his triumph and his love. I shall not ask whether he may not sometimes tease her with small jealousies.",
+    "ko": "그는 나를 분별 있는 사람으로 여기네. 그리고 샤를로테에 대한 내 애착과 그 사람에 관한 모든 일에 내가 쏟는 관심이, 그의 승리감과 사랑을 더해 주고 있지. 그가 이따금 사소한 질투로 그 사람을 놀리지는 않는지 나는 묻지 않겠네.",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "tag": "P0123_2",
+    "en": "I know that in his place I should not be entirely free of such feelings myself.",
+    "ko": "내가 그의 자리에 있었다면 나 역시 그런 마음에서 아주 자유롭지는 못했으리라는 것을 아니까.",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "tag": "P0124_1",
+    "en": "But be that as it may, my pleasure with Charlotte is over. Call it folly or infatuation — what does a name matter? The thing speaks for itself.",
+    "ko": "그러나 어찌 되었든, 샤를로테와 함께하던 내 기쁨은 끝났네. 어리석음이라 부르든 홀림이라 부르든 — 이름이 무슨 상관인가? 일 자체가 말해 주고 있으니.",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "tag": "P0124_2",
+    "en": "Before Albert came I knew everything I know now. I knew I could make no claim on her, and I made none — that is, as far as it is possible not to long for such loveliness when it stands in front of you.",
+    "ko": "알베르트가 오기 전에도 나는 지금 아는 것을 다 알고 있었네. 그 사람에게 아무것도 요구할 수 없다는 것을 알았고, 요구하지도 않았네 — 그런 사랑스러움이 눈앞에 있는데 탐내지 않기가 가능한 만큼은 말일세.",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "tag": "P0124_3",
+    "en": "And now here I am like a silly fellow, staring in astonishment when another man walks in and takes my love away.",
+    "ko": "그런데 지금 나는 얼간이처럼 서서, 다른 사람이 들어와 내 사랑을 채어 가는 것을 멍하니 보고 있네.",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "tag": "P0125_1",
+    "en": "I bite my lips and feel an infinite scorn for the people who tell me to be resigned, since there is no help for it. Let me escape from the yoke of such silly subterfuges! I ramble through the woods.",
+    "ko": "나는 입술을 깨물며, 어쩔 수 없으니 체념하라고 말하는 자들에게 끝없는 경멸을 느끼네. 그런 어리석은 발뺌의 멍에에서 나를 놓아주게! 나는 숲을 헤매고 다니네.",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "tag": "P0125_2",
+    "en": "And when I come back to Charlotte and find Albert sitting beside her in the summer-house in the garden, I cannot bear it: I behave like a fool and commit a thousand extravagances. \"For Heaven's sake,\" Charlotte said today, \"let us have no more scenes like those of last night!\"",
+    "ko": "그러다 샤를로테에게 돌아와 뜰 정자에 알베르트가 그 곁에 앉아 있는 것을 보면, 나는 견디지 못하고 바보처럼 굴며 온갖 지나친 짓을 저지르네. \"제발 부탁이에요.\" 오늘 샤를로테가 말했네. \"어젯밤 같은 일은 다시 없게 해 주세요!\"",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "tag": "P0125_3",
+    "en": "\"You terrify me when you are so violent.\" Between ourselves, I am always away now when he visits her; and I am delighted when I find her alone.",
+    "ko": "\"그렇게 격해지시면 저는 무서워요.\" 우리끼리 말이네만, 이제 그가 올 때면 나는 늘 자리를 비우네. 그리고 그 사람이 혼자 있는 것을 보면 기쁘네.",
+    "is_header": false
+  }
+]
