@@ -1,0 +1,660 @@
+[
+ {
+  "id": 1,
+  "tag": "P0708",
+  "en": "Act 3, Scene 5 — An open Gallery to Juliet’s Chamber, overlooking the Garden",
+  "ko": "3막 5장 — 정원이 내려다보이는 줄리엣 방의 발코니",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "P0708_s",
+  "en": "Romeo and Juliet part at dawn. Then her parents tell her she must marry Paris. When she refuses, her father is furious.",
+  "ko": "로미오와 줄리엣은 새벽에 헤어진다. 부모는 줄리엣에게 패리스와 결혼해야 한다고 말한다. 줄리엣이 거절하자 아버지는 크게 화를 낸다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "P0709",
+  "en": "Romeo and Juliet enter.",
+  "ko": "로미오와 줄리엣이 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "P0710_1",
+  "en": "Juliet says, \"Will you leave? It is not near day yet. It was the nightingale, and not the lark, that entered your fearful ear. She sings every night on that pomegranate tree over there. Believe me, love, it was the nightingale.\"",
+  "ko": "줄리엣이 말한다. \"떠나실 건가요? 아직 날이 밝지 않았어요. 당신의 겁먹은 귀에 들린 건 나이팅게일이지, 종다리가 아니에요. 그 새는 밤마다 저기 석류나무에서 노래해요. 믿어요, 내 사랑, 그건 나이팅게일이었어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "P0711_1",
+  "en": "Romeo says, \"It was the lark, the herald of the morning, not a nightingale. Look, love, at the spiteful streaks of light breaking through the clouds in the east. The candles of night are burned out. And the happy day stands on tiptoe on the misty mountain tops.\"",
+  "ko": "로미오가 말한다. \"나이팅게일이 아니라 아침을 알리는 종다리였어요. 봐요, 내 사랑, 동쪽 구름 사이로 심술궂게 번지는 저 빛줄기를요. 밤의 촛불은 이미 꺼졌어요. 그리고 행복한 하루가 안개 낀 산봉우리 위에서 발돋움하고 있어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "P0711_2",
+  "en": "\"I must leave and live, or stay and die.\"",
+  "ko": "\"떠나서 살거나, 아니면 남아서 죽어야 해요.\"",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "P0712_1",
+  "en": "Juliet says, \"That light is not daylight, I know it. It is some meteor that the sun breathes out. It will be a torch for you tonight. It will light your way to Mantua. Therefore stay now. You do not need to leave.\"",
+  "ko": "줄리엣이 말한다. \"저 빛은 낮의 빛이 아니라는 걸 알아요. 그건 태양이 내뿜는 유성일 뿐이에요. 그것은 오늘 밤 당신을 위한 횃불이 될 거예요. 당신이 만토바로 가는 길을 비춰줄 거예요. 그러니 지금은 머무세요. 떠날 필요 없어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "P0713_1",
+  "en": "Romeo says, \"Let me be caught. Let me be put to death. I am content, if you want it that way. I will say that gray light is not the morning's eye. It is only the pale light of Cynthia, the moon goddess. That is not the lark whose notes beat the high vault of heaven above our heads.\"",
+  "ko": "로미오가 말한다. \"차라리 붙잡히는 게 낫겠어요. 차라리 죽임을 당하겠어요. 당신이 원하신다면 그렇게 하겠어요. 저 회색빛은 아침의 눈이 아니라고 말할게요. 그건 단지 달의 여신, 신시아의 창백한 빛일 뿐이에요. 우리 머리 위 높은 하늘을 울리는 건 종다리의 노래가 아니에요.\"",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "P0713_2",
+  "en": "\"I want to stay more than I want to go. Come, death, and welcome me. Juliet wants it so. How are you, my soul? Let's talk. It is not day.\"",
+  "ko": "\"떠나고 싶은 것보다 더 머물고 싶어요. 죽음아 오라, 나를 데려가라. 줄리엣이 원하니까요. 내 영혼, 기분이 어때요? 우리 이야기해요. 아직 낮이 아니에요.\"",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "P0714_1",
+  "en": "Juliet says, \"It is, it is! Hurry away! Go now! It is the lark that sings out of tune. It makes harsh sounds and unpleasant notes. Some say the lark makes sweet music. This one does not, because she divides us. Some say the lark and the ugly toad swapped eyes.\"",
+  "ko": "줄리엣이 말한다. \"맞아요, 맞아요! 어서 가세요! 지금 당장요! 음치처럼 노래하는 건 종다리예요. 그건 거칠고 불쾌한 소리를 내죠. 어떤 이들은 종다리가 감미로운 음악을 만든다고 해요. 하지만 이 새는 우리를 갈라놓으니 그런 소리를 내지 않아요. 어떤 이들은 종다리와 못생긴 두꺼비가 눈을 바꿨다고들 하죠.\"",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0714_2",
+  "en": "\"Oh, I wish they had changed voices too. That voice frightens us out of each other's arms. It chases you away with a morning wake-up song. Now go. The light is growing more and more.\"",
+  "ko": "\"오, 그들이 목소리도 바꾸었으면 좋았을 텐데. 그 목소리가 우리를 서로의 품에서 떼어놓네요. 아침을 깨우는 노래로 당신을 쫓아내요. 이제 가세요. 빛이 점점 더 밝아지고 있어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0715_1",
+  "en": "Romeo says, \"The lighter it gets, the darker our sorrows become.\"",
+  "ko": "로미오가 말한다. \"빛이 밝아질수록 우리의 슬픔은 더 깊어지네요.\"",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0717_1",
+  "en": "The Nurse enters and says, \"Madam.\"",
+  "ko": "유모가 들어와 말한다. \"아가씨.\"",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "P0718_1",
+  "en": "Juliet asks, \"Nurse?\"",
+  "ko": "줄리엣이 묻는다. \"유모?\"",
+  "is_header": false
+ },
+ {
+  "id": 15,
+  "tag": "P0719_1",
+  "en": "The Nurse says, \"Your mother is coming to your room. The day has started. Be careful and look around.\"",
+  "ko": "유모가 말한다. \"아가씨, 어머님이 방으로 오고 계셔. 날이 밝았어. 조심하고 잘 살펴.\"",
+  "is_header": false
+ },
+ {
+  "id": 16,
+  "tag": "P0720",
+  "en": "The Nurse leaves.",
+  "ko": "유모가 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 17,
+  "tag": "P0721_1",
+  "en": "Juliet says, \"Then, window, let the day in. Let life go out.\"",
+  "ko": "줄리엣이 말한다. \"그럼 창문아, 햇빛은 들이고 내 생명은 내보내라.\"",
+  "is_header": false
+ },
+ {
+  "id": 18,
+  "tag": "P0722_1",
+  "en": "Romeo says, \"Goodbye, goodbye. One kiss, and I will climb down.\"",
+  "ko": "로미오가 말한다. \"잘 있어요, 잘 있어요. 키스 한 번만, 그러고 내려갈게요.\"",
+  "is_header": false
+ },
+ {
+  "id": 19,
+  "tag": "P0723",
+  "en": "Romeo climbs down.",
+  "ko": "로미오가 아래로 내려온다.",
+  "is_header": false
+ },
+ {
+  "id": 20,
+  "tag": "P0724_1",
+  "en": "Juliet says, \"Are you gone so soon? My love, my lord, my husband, and my friend, I must hear from you every hour of every day. Every minute apart will feel like many days. By this count, I will be much older before I see my Romeo again.\"",
+  "ko": "줄리엣이 말한다. \"벌써 가시는 건가요? 내 사랑, 내 주인, 내 남편, 내 친구, 매일 매시간 당신 소식을 들어야 해요. 떨어져 있는 매 분이 마치 며칠처럼 느껴질 거예요. 이렇게 세다가는, 로미오를 다시 볼 때쯤 나는 할머니가 되겠어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 21,
+  "tag": "P0725_1",
+  "en": "Romeo says, \"Goodbye! I will not miss any chance to send my greetings and my love to you.\"",
+  "ko": "로미오가 말한다. \"잘 있어요! 당신에게 안부와 내 사랑을 전할 기회를 절대 놓치지 않을게요.\"",
+  "is_header": false
+ },
+ {
+  "id": 22,
+  "tag": "P0726_1",
+  "en": "Juliet asks, \"Do you think we will ever meet again?\"",
+  "ko": "줄리엣이 묻는다. \"우리가 다시 만날 수 있을 거라고 생각하시나요?\"",
+  "is_header": false
+ },
+ {
+  "id": 23,
+  "tag": "P0727_1",
+  "en": "Romeo says, \"I do not doubt it. All these sorrows will serve as sweet stories for us to tell in the future.\"",
+  "ko": "로미오가 말한다. \"의심하지 않아요. 이 모든 슬픔은 나중에 우리가 들려줄 달콤한 이야기가 될 거예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 24,
+  "tag": "P0728_1",
+  "en": "Juliet says, \"Oh God! I have a soul that predicts bad things. Now that you are down there, you look like someone dead at the bottom of a tomb. Either my eyesight is failing, or you look pale.\"",
+  "ko": "줄리엣이 말한다. \"오, 신이시여! 제 영혼은 불길한 일을 예감하곤 해요. 당신이 저 아래에 있으니, 마치 무덤 바닥에 있는 죽은 사람처럼 보여요. 제 시력이 나빠진 건지, 아니면 당신의 얼굴이 창백해 보이는 건지 모르겠어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 25,
+  "tag": "P0729_1",
+  "en": "Romeo says, \"Trust me, love. You look that way in my eyes too. Dry sorrow drinks our blood. Goodbye, goodbye.\"",
+  "ko": "로미오가 말한다. \"믿어줘요, 내 사랑. 내 눈에도 그렇게 보여요. 메마른 슬픔이 우리의 피를 마시고 있어요. 잘 있어요, 잘 있어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 26,
+  "tag": "P0730",
+  "en": "Romeo goes down and away.",
+  "ko": "로미오는 내려가서 멀어진다.",
+  "is_header": false
+ },
+ {
+  "id": 27,
+  "tag": "P0731_1",
+  "en": "Juliet says, \"Oh Fortune, Fortune! All men call you fickle. If you are fickle, why would you bother with him, when he is known for being faithful? Be fickle, Fortune. Then, I hope you will not keep him long. I hope you send him back.\"",
+  "ko": "줄리엣이 말한다. \"아, 운명이여, 운명이여! 모두들 너를 변덕쟁이라 부른다. 네가 변덕스럽다면, 성실하기로 이름난 그이와 무슨 볼일이 있겠느냐? 변덕을 부려라, 운명이여. 그러면 그이를 오래 붙잡아 두지 않겠지. 곧 돌려보내 주겠지.\"",
+  "is_header": false
+ },
+ {
+  "id": 28,
+  "tag": "P0732_1",
+  "en": "Lady Capulet calls from inside, \"Hey, daughter, are you awake?\"",
+  "ko": "캐퓰릿 부인이 안에서 부른다. \"얘야, 깨어 있느냐?\"",
+  "is_header": false
+ },
+ {
+  "id": 29,
+  "tag": "P0733_1",
+  "en": "Juliet asks, \"Who is calling? Is it my lady mother? Has she not gone to bed yet, or is she up so early? What unusual reason brings her here?\"",
+  "ko": "줄리엣이 묻는다. \"누가 부르지? 어머니신가? 아직 안 주무셨나, 아니면 이렇게 일찍 일어나셨나? 무슨 일로 여기 오시는 걸까?\"",
+  "is_header": false
+ },
+ {
+  "id": 30,
+  "tag": "P0735_1",
+  "en": "Lady Capulet enters and asks, \"What is the matter, Juliet?\"",
+  "ko": "캐퓰릿 부인이 들어와 묻는다. \"무슨 일이냐, 줄리엣?\"",
+  "is_header": false
+ },
+ {
+  "id": 31,
+  "tag": "P0736_1",
+  "en": "Juliet says, \"Madam, I am not well.\"",
+  "ko": "줄리엣이 말한다. \"어머니, 몸이 안 좋아요.\"",
+  "is_header": false
+ },
+ {
+  "id": 32,
+  "tag": "P0737_1",
+  "en": "Lady Capulet says, \"Are you still crying for your cousin's death? Will you wash him from his grave with your tears? Even if you could, you could not make him live. Stop now. Some grief shows a lot of love. But too much grief shows a lack of sense.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"아직도 사촌의 죽음을 슬퍼하며 울고 있니? 눈물로 그를 무덤에서 씻어낼 수라도 있겠니? 그럴 수 있다 해도, 그를 다시 살려낼 수는 없어. 이제 그만해라. 슬픔이 깊은 건 사랑이 크다는 뜻일 수도 있지만, 지나친 슬픔은 분별력이 없다는 걸 보여줄 뿐이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 33,
+  "tag": "P0738_1",
+  "en": "Juliet says, \"Still, let me cry for such a great loss.\"",
+  "ko": "줄리엣이 말한다. \"그래도 이런 큰 상실을 겪었으니 울게 해주세요.\"",
+  "is_header": false
+ },
+ {
+  "id": 34,
+  "tag": "P0739_1",
+  "en": "Lady Capulet says, \"That way you will feel the loss, but not bring back the friend you cry for.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"그렇게 하면 네 슬픔만 달랠 뿐, 네가 우는 그 친구를 되살릴 수는 없어.\"",
+  "is_header": false
+ },
+ {
+  "id": 35,
+  "tag": "P0740_1",
+  "en": "Juliet says, \"Because I feel this loss, I cannot help but always cry for my friend.\"",
+  "ko": "줄리엣이 말한다. \"이런 상실감을 느끼고 있기에, 친구를 위해 계속 울 수밖에 없어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 36,
+  "tag": "P0741_1",
+  "en": "Lady Capulet says, \"Well, girl, you do not cry so much for his death. You cry because the villain who killed him is still alive.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"얘야, 너는 그 애 죽음 때문에 우는 게 아니라 그를 죽인 악당이 아직 살아있기 때문에 우는 것이지.\"",
+  "is_header": false
+ },
+ {
+  "id": 37,
+  "tag": "P0742_1",
+  "en": "Juliet asks, \"What villain, madam?\"",
+  "ko": "줄리엣이 묻는다. \"어머니, 어떤 악당 말씀이세요?\"",
+  "is_header": false
+ },
+ {
+  "id": 38,
+  "tag": "P0743_1",
+  "en": "Lady Capulet says, \"That same villain, Romeo.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"바로 그 악당, 로미오 말이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 39,
+  "tag": "P0744_1",
+  "en": "Juliet says, \"'Villain' and he are many miles apart. God forgive him. I forgive him with all my heart. And yet no man hurts my heart like he does.\"",
+  "ko": "줄리엣이 말한다. \"'악당'이라는 말과 그는 아주 멀리 떨어져 있어요. 하나님, 그를 용서하소서. 저는 온 마음으로 그를 용서해요. 그런데도 그이만큼 제 마음을 아프게 하는 남자는 없어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 40,
+  "tag": "P0745_1",
+  "en": "Lady Capulet says, \"That is because the traitor and murderer is still alive.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"그건 배신자이자 살인마가 아직 살아있기 때문이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 41,
+  "tag": "P0746_1",
+  "en": "Juliet says, \"Yes, madam, far from the reach of my hands. I wish no one but me could take revenge for my cousin's death.\"",
+  "ko": "줄리엣이 말한다. \"네, 어머니, 제 손이 닿지 않는 곳에 있죠. 제 사촌의 원수는 저 말고는 아무도 갚지 않았으면 좋겠어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 42,
+  "tag": "P0747_1",
+  "en": "Lady Capulet says, \"We will have revenge for it. Do not fear. Stop crying now. I will send a message to someone in Mantua. That banished criminal lives there. Someone there will give him a strong dose of poison. It will make him join Tybalt in death soon. Then I hope you will be satisfied.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"우리가 복수할 거다. 걱정 마라. 이제 그만 울어라. 만토바에 있는 사람에게 메시지를 보낼 것이다. 그 추방된 범죄자가 거기 살고 있어. 그곳 누군가가 그에게 독약을 먹일 거다. 그러면 그는 곧 죽음으로 티볼트와 합류하게 될 거다. 그럼 네가 만족할 수 있을 거다.\"",
+  "is_header": false
+ },
+ {
+  "id": 43,
+  "tag": "P0748_1",
+  "en": "Juliet says, \"No, I will never be satisfied with Romeo until I see him— Dead is my poor heart, so hurt for a relative. Madam, if you could find just one man to carry a poison, I would mix it. Then Romeo would soon sleep in peace after he received it. Oh, how much I hate to hear his name.\"",
+  "ko": "줄리엣이 말한다. \"아니요, 로미오를 볼 때까지는 절대 만족 못 해요— 죽어 있는 건 제 가여운 마음이에요. 친척 때문에 이토록 아프니까요. 어머니, 독약을 가져갈 사람만 찾아 주시면, 제가 그 약을 타 드릴게요. 그러면 로미오는 그걸 받고 곧 편히 잠들 거예요. 오, 그의 이름이 나오는 게 너무 싫어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 44,
+  "tag": "P0748_2",
+  "en": "\"I cannot reach him. I want to take my love for my cousin out on his body. He is the one who killed him.\"",
+  "ko": "\"그에게 닿을 수 없어요. 사촌에 대한 제 사랑을 그의 몸에 쏟아붓고 싶어요. 그이가 제 사촌을 죽였으니까요.\"",
+  "is_header": false
+ },
+ {
+  "id": 45,
+  "tag": "P0749_1",
+  "en": "Lady Capulet says, \"If you find a way, I will find such a man. But now I have happy news for you, girl.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"방법을 찾는다면, 그런 사람을 찾아내마. 하지만 이제 너에게 기쁜 소식을 전해주마.\"",
+  "is_header": false
+ },
+ {
+  "id": 46,
+  "tag": "P0750_1",
+  "en": "Juliet asks, \"Joy comes at a good time during such a sad time. What is the news, I beg of your ladyship?\"",
+  "ko": "줄리엣이 묻는다. \"이렇게 괴로울 때 기쁜 소식이라니 반갑네요. 어머니, 무슨 소식인지 말씀해 주세요.\"",
+  "is_header": false
+ },
+ {
+  "id": 47,
+  "tag": "P0751_1",
+  "en": "Lady Capulet says, \"Well, you have a very caring father, child. He has planned a sudden day of joy to cheer you up. You did not expect it, and I did not expect it either.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"얘야, 네 아버님은 참 자상한 분이시다. 너를 슬픔에서 건지려고 뜻밖의 기쁜 날을 정하셨단다. 너도 예상 못 했고, 나도 예상치 못했어.\"",
+  "is_header": false
+ },
+ {
+  "id": 48,
+  "tag": "P0752_1",
+  "en": "Juliet asks, \"Madam, how lucky! What day is that?\"",
+  "ko": "줄리엣이 묻는다. \"어머니, 마침 잘됐네요! 그게 무슨 날인가요?\"",
+  "is_header": false
+ },
+ {
+  "id": 49,
+  "tag": "P0753_1",
+  "en": "Lady Capulet says, \"Well, my child. Early next Thursday morning, you will marry the brave and noble young Count Paris. The wedding will be at Saint Peter's Church. He will make you a happy bride there.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"그래, 얘야. 다음 목요일 이른 아침, 너는 용감하고 고귀한 젊은 패리스 백작과 결혼한다. 성 베드로 성당에서 말이야. 그곳에서 그는 너를 행복한 신부로 만들어 줄 거다.\"",
+  "is_header": false
+ },
+ {
+  "id": 50,
+  "tag": "P0754_1",
+  "en": "Juliet says, \"I swear by Saint Peter's Church and by Saint Peter himself. He will not make me a happy bride. I am surprised by this hurry. I must marry before the man who should be my husband can try to win my love. Please tell my father, madam. I will not marry yet.\"",
+  "ko": "줄리엣이 말한다. \"성 베드로 성당과 성 베드로를 걸고 맹세해요. 그는 저를 행복한 신부로 만들어 주지 못할 거예요. 이렇게 서두르는 게 놀라워요. 신랑이 될 사람이 구애하기도 전에 결혼해야 한다니요. 어머니, 아버지께 전해 주세요. 아직 결혼하지 않을 거예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 51,
+  "tag": "P0754_2",
+  "en": "\"When I do marry, I promise it will be Romeo. You know that I hate him. I would rather marry him than Paris. That is news for you!\"",
+  "ko": "\"결혼하게 되면, 맹세코 로미오와 할 거예요. 제가 그를 증오한다는 걸 아시잖아요. 패리스보다 차라리 그와 결혼하고 싶어요. 정말 놀라운 소식이죠!\"",
+  "is_header": false
+ },
+ {
+  "id": 52,
+  "tag": "P0755_1",
+  "en": "Lady Capulet says, \"Your father is coming here. Tell him the truth yourself. See how he reacts to your words.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"네 아버님이 오신다. 직접 진실을 말해라. 네 말에 그분이 어떻게 반응하시는지 봐라.\"",
+  "is_header": false
+ },
+ {
+  "id": 53,
+  "tag": "P0756",
+  "en": "Capulet and the Nurse enter.",
+  "ko": "캐퓰릿과 유모가 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 54,
+  "tag": "P0757_1",
+  "en": "Capulet says, \"When the sun sets, the air produces dew. But for the sunset of my brother's son, it rains heavily. What is it, girl? Are you a fountain? Are you still crying and always crying? In your small body, you act like a boat, a sea, and a wind.\"",
+  "ko": "캐퓰릿이 말한다. \"해가 지면 공기 중에 이슬이 맺힌다. 하지만 조카의 해가 저무니 비가 억수로 쏟아지는구나. 웬일이냐, 얘야? 분수라도 된 거냐? 왜 계속 울고 또 우는 것이냐? 작은 몸으로 배와 바다, 그리고 바람이 되어버렸구나.\"",
+  "is_header": false
+ },
+ {
+  "id": 55,
+  "tag": "P0757_2",
+  "en": "\"Your eyes are like the sea because they flow with tears. Your body is like a boat sailing in this salty flood of tears. Your sighs are like the winds that rage together with your tears. Without a sudden calm, the storm will sink your body. What is it, wife? Have you told her our decision?\"",
+  "ko": "\"눈물이 흐르니 네 눈은 마치 바다 같구나. 네 몸은 이 짠 눈물의 파도 속을 항해하는 배와 같다. 너의 한숨은 눈물과 함께 몰아치는 바람과도 같구나. 갑작스러운 평온이 오지 않으면 폭풍이 네 몸을 가라앉힐 것이다. 여보, 어떻게 됐소? 우리 결정을 그 애에게 전했소?\"",
+  "is_header": false
+ },
+ {
+  "id": 56,
+  "tag": "P0758_1",
+  "en": "Lady Capulet says, \"Yes, sir, but she refuses, thank you very much. I wish the fool were married to her grave.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"네, 그런데 싫답니다. 고맙다면서요. 저 바보는 차라리 무덤과 결혼하면 좋겠어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 57,
+  "tag": "P0759_1",
+  "en": "Capulet asks, \"Wait, explain that to me, wife. What, she refuses? Does she not thank us or feel proud? Does she not feel lucky, unworthy as she is, that we found such a worthy gentleman for her?\"",
+  "ko": "캐퓰릿이 묻는다. \"잠깐, 무슨 말인지 똑똑히 말해 보시오, 부인. 뭐라고, 아이가 거절했다고? 고마운 줄도 모르고, 자랑스럽지도 않단 말이오? 보잘것없는 주제에, 우리가 그렇게 훌륭한 신사를 구해 준 걸 복으로 여기지도 않는단 말이오?\"",
+  "is_header": false
+ },
+ {
+  "id": 58,
+  "tag": "P0760_1",
+  "en": "Juliet says, \"I am not proud that you have found him, but I am thankful that you tried. I can never be proud of what I hate. But I am thankful even for hate that is meant as love.\"",
+  "ko": "줄리엣이 말한다. \"그분을 찾아 주신 걸 자랑스럽게 여기지는 않지만, 애써 주신 건 감사해요. 제가 싫어하는 일에 대해서는 결코 자부심을 느낄 수 없어요. 하지만 사랑으로 여겨지는 증오조차도 저는 감사하게 생각해요.\"",
+  "is_header": false
+ },
+ {
+  "id": 59,
+  "tag": "P0761_1",
+  "en": "Capulet says, \"What is this? This logic is confusing. You are proud, and you thank me, and you do not thank me. And yet you are not proud. You spoiled little madam! Don't 'thank' me, and don't 'proud' me. Get your fine body ready for next Thursday. Go with Paris to Saint Peter's Church.\"",
+  "ko": "캐퓰릿이 말한다. \"이게 무슨 소리냐? 논리가 엉망이구나. 자부심을 느끼면서 고마워하면서, 동시에 고마워하지 않는다고? 그러면서 자부심도 없다고? 이 건방진 계집아이! 고맙다는 말도, 자부심이라는 말도 집어치워라. 다음 주 목요일을 위해 몸단장을 해라. 패리스와 함께 성 피터 성당으로 가거라.\"",
+  "is_header": false
+ },
+ {
+  "id": 60,
+  "tag": "P0761_2",
+  "en": "\"Or I will drag you there on a prisoner's cart. Get out, you pale, sick piece of rotten meat! Get out, you worthless girl! You candle-faced thing!\"",
+  "ko": "\"안 그러면 죄수 호송 수레에 실어서라도 끌고 가겠다. 나가라, 이 창백하고 병든 고기 덩어리 같은 년아! 쓸모없는 계집애야, 당장 나가라! 양초처럼 허연 얼굴 같으니!\"",
+  "is_header": false
+ },
+ {
+  "id": 61,
+  "tag": "P0762_1",
+  "en": "Lady Capulet asks, \"Stop, stop! Are you mad?\"",
+  "ko": "캐퓰릿 부인이 묻는다. \"그만하세요, 그만요! 제정신이세요?\"",
+  "is_header": false
+ },
+ {
+  "id": 62,
+  "tag": "P0763_1",
+  "en": "Juliet says, \"Good father, I beg you on my knees. Listen to me patiently. Let me speak just one word.\"",
+  "ko": "줄리엣이 말한다. \"아버지, 무릎을 꿇고 간청드려요. 제 말을 차분히 들어보세요. 한 마디만 말하게 해주세요.\"",
+  "is_header": false
+ },
+ {
+  "id": 63,
+  "tag": "P0764_1",
+  "en": "Capulet says, \"Hang you, you disobedient girl! I tell you what: go to church this Thursday or never look at my face again. Do not speak, reply, or answer me. My fingers itch. Wife, we felt unlucky that God gave us only one child. But now I see she is too much for us.\"",
+  "ko": "캐퓰릿이 말한다. \"목이나 매라, 이 불효막심한 계집애야! 잘 들어라, 이번 주 목요일에 교회에 가지 않으면 내 얼굴을 다시는 보지 못할 줄 알아라. 말도 하지 말고 대답도 하지 마라. 손이 근질거리는구나. 부인, 하나님이 자식을 하나밖에 안 주셨다고 우린 서운해했지. 그런데 이제 보니 그 하나도 너무 많군.\"",
+  "is_header": false
+ },
+ {
+  "id": 64,
+  "tag": "P0764_2",
+  "en": "\"Having her is a curse. Curse her, the worthless girl!\"",
+  "ko": "\"이 애를 둔 게 저주야. 이 쓸모없는 것!\"",
+  "is_header": false
+ },
+ {
+  "id": 65,
+  "tag": "P0765_1",
+  "en": "The Nurse says, \"May God in heaven bless her. You are to blame, my lord, for speaking to her so harshly.\"",
+  "ko": "유모가 말한다. \"하늘의 신께서 아이를 축복하시길 빌어요. 주인님, 아가씨를 그렇게 꾸짖으시다니 잘못하신 거예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 66,
+  "tag": "P0766_1",
+  "en": "Capulet says, \"And why, my lady wisdom? Hold your tongue, Miss Know-it-all, and go chatter with your gossip friends.\"",
+  "ko": "캐퓰릿이 말한다. \"왜, 잘난 지혜 부인? 입 좀 다물고, 아는 체하는 여인아, 가서 네 수다쟁이 친구들과 떠들어라.\"",
+  "is_header": false
+ },
+ {
+  "id": 67,
+  "tag": "P0767_1",
+  "en": "The Nurse says, \"I am not saying anything wrong.\"",
+  "ko": "유모가 말한다. \"저는 틀린 말을 하는 게 아니에요.\"",
+  "is_header": false
+ },
+ {
+  "id": 68,
+  "tag": "P0768_1",
+  "en": "Capulet says, \"Oh, for God's sake, go away!\"",
+  "ko": "캐퓰릿이 말한다. \"세상에, 제발 좀 저리 가!\"",
+  "is_header": false
+ },
+ {
+  "id": 69,
+  "tag": "P0769_1",
+  "en": "The Nurse asks, \"May I not speak?\"",
+  "ko": "유모가 묻는다. \"제가 말도 못 하나요?\"",
+  "is_header": false
+ },
+ {
+  "id": 70,
+  "tag": "P0770_1",
+  "en": "Capulet says, \"Be quiet, you foolish person! Save your wise words for your gossip friends over a drink. We do not need them here.\"",
+  "ko": "캐퓰릿이 말한다. \"조용히 해, 이 중얼대는 멍청이야! 그 똑똑한 소리는 술이나 마시며 네 수다쟁이 친구들과나 나누라고. 여기선 필요 없으니까.\"",
+  "is_header": false
+ },
+ {
+  "id": 71,
+  "tag": "P0771_1",
+  "en": "Lady Capulet says, \"You are being too angry.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"너무 흥분하셨어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 72,
+  "tag": "P0772_1",
+  "en": "Capulet says, \"Oh, this makes me mad! Day and night, working or playing, alone or with others, I have had one concern. I wanted to find her a husband. I have now found a gentleman of noble parents. He has fine lands, he is young, and he is from a noble family. He has many honorable qualities.\"",
+  "ko": "캐퓰릿이 말한다. \"제기랄, 미치겠구나! 낮이나 밤이나, 일할 때나 놀 때나, 혼자일 때나 여럿과 있을 때나, 내 머릿속엔 한 가지 생각뿐이었다. 그 애에게 남편을 찾아 주는 것이었지. 이제 고귀한 가문 출신의 신사를 찾았다. 그는 좋은 땅도 있고 젊으며, 명망 있는 집안 출신이다. 그는 훌륭한 자질을 많이 갖추고 있다.\"",
+  "is_header": false
+ },
+ {
+  "id": 73,
+  "tag": "P0772_2",
+  "en": "\"He is exactly the kind of man I wanted. And then to have a foolish girl crying like a baby. She is a whining puppet who says no when good luck is offered. She says, 'I will not marry, I cannot love.' She says, 'I am too young, please forgive me.'\"",
+  "ko": "\"그는 내가 원하던 바로 그런 남자다. 그런데 이 바보 같은 계집애가 아기처럼 울어대다니. 복이 굴러왔는데 싫다고 칭얼대는 꼭두각시 같으니. 그 애는 '결혼 안 할 거야, 사랑할 수 없어'라고 말한다. 그 애는 '난 너무 어려요, 용서해 주세요'라고 말한다.\"",
+  "is_header": false
+ },
+ {
+  "id": 74,
+  "tag": "P0772_3",
+  "en": "\"But if you will not marry, I will 'forgive' you all right. Go where you want, but you will not live with me. Think about it. I am not joking. Thursday is near. Put your hand on your heart and decide. If you are mine, I will give you to my friend.\"",
+  "ko": "\"하지만 네가 결혼을 거부한다면, 내가 기꺼이 '용서'해주마. 어디서든 풀이나 뜯어 먹어라. 이 집에서 살 생각은 마라. 생각해 봐라. 농담이 아니다. 목요일이 코앞이다. 네 가슴에 손을 얹고 결정해라. 네가 내 딸이라면, 내 친구에게 시집보내겠다.\"",
+  "is_header": false
+ },
+ {
+  "id": 75,
+  "tag": "P0772_4",
+  "en": "\"If you are not mine, hang, beg, starve, or die in the streets. I swear by my soul that I will never acknowledge you. Nothing of mine will ever help you. Trust me. Think about it. I will not break my promise.\"",
+  "ko": "\"내 딸이 아니라면, 목을 매든 빌어먹든 굶든 길거리에서 죽든 마음대로 해라. 내 영혼을 걸고 맹세컨대, 난 너를 절대 인정하지 않을 것이다. 내 것 중 그 무엇도 네게 도움이 되지 않을 것이다. 내 말을 믿어라. 잘 생각해 봐라. 내 약속은 어기지 않을 테니.\"",
+  "is_header": false
+ },
+ {
+  "id": 76,
+  "tag": "P0773",
+  "en": "Capulet leaves.",
+  "ko": "캐퓰릿이 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 77,
+  "tag": "P0774_1",
+  "en": "Juliet says, \"Is there no pity in the clouds? Does anyone see how sad I am? Oh sweet mother, do not cast me away. Delay this marriage for a month or a week. Or, if you do not, make my wedding bed in that dark family tomb where Tybalt lies.\"",
+  "ko": "줄리엣이 말한다. \"구름 위에는 제 슬픔의 밑바닥까지 보시는 자비도 없나요? 제가 얼마나 슬픈지 아무도 모르시나요? 오, 어머니, 저를 버리지 마세요. 이 결혼을 한 달이나 일주일만 미뤄주세요. 아니면, 그러지 않으시겠다면, 티볼트가 누워 있는 그 어두운 가문의 무덤에 제 결혼 침대를 마련해 주세요.\"",
+  "is_header": false
+ },
+ {
+  "id": 78,
+  "tag": "P0775_1",
+  "en": "Lady Capulet says, \"Do not talk to me. I will not say a word. Do what you want. I am finished with you.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"나한테 말하지 마라. 한마디도 안 할 테니. 네 멋대로 해라. 너와는 끝이다.\"",
+  "is_header": false
+ },
+ {
+  "id": 79,
+  "tag": "P0776",
+  "en": "Lady Capulet leaves.",
+  "ko": "캐퓰릿 부인이 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 80,
+  "tag": "P0777_1",
+  "en": "Juliet says, \"Oh God! Oh Nurse, how can we stop this? My husband is on earth, and my faith is in heaven. How can I take back that vow? Only if my husband dies and sends it back to me from heaven. Comfort me. Give me advice. Oh no, that heaven should use tricks on a person as gentle as myself.\"",
+  "ko": "줄리엣이 말한다. \"오, 신이시여! 유모, 우리가 어떻게 이걸 막을 수 있겠어? 내 남편은 지상에 있고, 내 믿음은 하늘에 있어. 그 맹세를 어떻게 되돌릴 수 있겠어? 남편이 죽어서 하늘에서 돌려보내 주지 않는 한. 나를 위로해 줘. 조언을 해줘. 아, 하늘이 나같이 여린 사람에게 이런 계략을 쓰다니.\"",
+  "is_header": false
+ },
+ {
+  "id": 81,
+  "tag": "P0777_2",
+  "en": "\"What do you say? Do you not have a word of joy? Give me some comfort, Nurse.\"",
+  "ko": "\"어떻게 생각해? 기쁜 말 한마디 없어? 위로 좀 해줘, 유모.\"",
+  "is_header": false
+ },
+ {
+  "id": 82,
+  "tag": "P0778_1",
+  "en": "The Nurse says, \"Well, here it is. Romeo is banished. I would bet the whole world that he will never dare come back to claim you. Or if he does, it must be in secret. Since things are as they are, I think it is best that you marry the Count. He is a lovely gentleman.\"",
+  "ko": "유모가 말한다. \"자, 여기 상황이 이래. 로미오는 추방당했어. 그가 너를 차지하러 감히 돌아올 일은 절대 없을 거라고 내 모든 걸 걸고 장담해. 설령 온다 해도 비밀리에 올 거야. 상황이 이렇게 됐으니, 백작과 결혼하는 게 최선이야. 그는 아주 멋진 신사야.\"",
+  "is_header": false
+ },
+ {
+  "id": 83,
+  "tag": "P0778_2",
+  "en": "\"Romeo is a dirty rag next to him. An eagle does not have such green, quick, and beautiful eyes as Paris has. Upon my heart, I think you will be happy in this second marriage. It is better than your first one. If it is not, your first husband is dead.\"",
+  "ko": "\"로미오는 그 사람에 비하면 걸레야. 독수리도 패리스처럼 초록빛의 생기 넘치고 아름다운 눈을 가질 순 없어. 내 진심으로 말하는데, 너는 두 번째 결혼에서 행복할 거야. 첫 번째보다 훨씬 나을 거야. 그렇지 않더라도 네 첫 남편은 이미 죽은 거나 다름없어.\"",
+  "is_header": false
+ },
+ {
+  "id": 84,
+  "tag": "P0778_3",
+  "en": "\"Or he is as good as dead, since he lives far away and is no use to you.\"",
+  "ko": "\"멀리 살고 있어서 아무 소용도 없으니 사실상 죽은 거나 마찬가지니까.\"",
+  "is_header": false
+ },
+ {
+  "id": 85,
+  "tag": "P0779_1",
+  "en": "Juliet asks, \"Do you speak from your heart?\"",
+  "ko": "줄리엣이 묻는다. \"진심으로 하는 말이야?\"",
+  "is_header": false
+ },
+ {
+  "id": 86,
+  "tag": "P0780_1",
+  "en": "The Nurse says, \"And I speak from my soul. Otherwise, may they both be cursed.\"",
+  "ko": "유모가 말한다. \"내 영혼을 걸고 하는 말이야. 안 그러면 둘 다 저주를 받아도 좋아.\"",
+  "is_header": false
+ },
+ {
+  "id": 87,
+  "tag": "P0781_1",
+  "en": "Juliet says, \"Amen.\"",
+  "ko": "줄리엣이 말한다. \"아멘.\"",
+  "is_header": false
+ },
+ {
+  "id": 88,
+  "tag": "P0782_1",
+  "en": "The Nurse asks, \"What?\"",
+  "ko": "유모가 묻는다. \"뭐?\"",
+  "is_header": false
+ },
+ {
+  "id": 89,
+  "tag": "P0783_1",
+  "en": "Juliet says, \"Well, you have comforted me very much. Go in and tell my lady that I am gone. I have upset my father. I am going to Lawrence's cell. I must go to confess and be forgiven.\"",
+  "ko": "줄리엣이 말한다. \"그래, 덕분에 마음이 훨씬 편해졌어. 들어가서 어머니께 내가 나갔다고 전해 줘. 아버지 마음을 상하게 해 드렸으니 로런스 신부님의 수도실에 가서 고해하고 용서를 받을 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 90,
+  "tag": "P0784_1",
+  "en": "The Nurse says, \"Of course I will. This is a wise thing to do.\"",
+  "ko": "유모가 말한다. \"그럼, 그래야지. 그건 현명한 생각이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 91,
+  "tag": "P0785",
+  "en": "The Nurse leaves.",
+  "ko": "유모가 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 92,
+  "tag": "P0786_1",
+  "en": "Juliet says, \"Damned old woman! Oh, you wicked fiend! Is it a worse sin to want me to break my marriage vow? Or to insult my husband with the same tongue that praised him thousands of times? Go, adviser. I will never share my secrets with you again. I will go to the Friar to find his remedy.\"",
+  "ko": "줄리엣이 말한다. \"망할 늙은이! 오, 이 사악한 악마! 내 결혼 맹세를 깨라고 하는 게 더 큰 죄일까? 아니면 수천 번이나 칭찬하던 그 혀로 내 남편을 헐뜯는 게 더 큰 죄일까? 가라, 조언자여. 이제 내 속마음은 다시는 너와 나누지 않겠다. 신부님께 가서 방법을 여쭤봐야겠다.\"",
+  "is_header": false
+ },
+ {
+  "id": 93,
+  "tag": "P0786_2",
+  "en": "\"If everything else fails, I have the power to die.\"",
+  "ko": "\"모든 게 실패해도, 나에겐 죽을 힘이 있다.\"",
+  "is_header": false
+ },
+ {
+  "id": 94,
+  "tag": "P0787",
+  "en": "Juliet leaves.",
+  "ko": "줄리엣이 나간다.",
+  "is_header": false
+ }
+]

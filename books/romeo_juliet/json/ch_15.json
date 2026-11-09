@@ -1,0 +1,107 @@
+[
+ {
+  "id": 1,
+  "tag": "P0697",
+  "en": "Act 3, Scene 4 — A Room in Capulet’s House",
+  "ko": "3막 4장 — 캐퓰릿 집의 방",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "P0697_s",
+  "en": "Capulet decides that Juliet will marry Paris in three days.",
+  "ko": "캐퓰릿은 줄리엣을 사흘 뒤 패리스와 결혼시키기로 한다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "P0698",
+  "en": "Capulet, Lady Capulet and Paris enter.",
+  "ko": "캐퓰릿, 캐퓰릿 부인과 패리스가 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "P0699_1",
+  "en": "Capulet says, \"Things have happened so badly, sir, that we have had no time to persuade our daughter. Look, she loved her cousin Tybalt dearly, and so did I. Well, we were born to die. It is very late, so she will not come down tonight.\"",
+  "ko": "캐퓰릿이 말한다. \"상황이 너무 안 좋게 돌아가서, 우리 딸을 설득할 겨를이 없었어요. 보시다시피 그 애는 사촌 티볼트를 무척 아꼈고, 나도 그랬어요. 뭐, 우리는 죽기 위해 태어난 존재니까요. 이미 늦은 시간이라 오늘 밤에는 내려오지 않을 거예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "P0699_2",
+  "en": "\"I promise you that if you were not here, I would have been in bed an hour ago.\"",
+  "ko": "\"정말이지, 백작이 계시지 않았다면 나는 한 시간 전에 잠자리에 들었을 거예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "P0700_1",
+  "en": "Paris says, \"These sad times are not good for courting. Good night, Madam. Give my regards to your daughter.\"",
+  "ko": "패리스가 말한다. \"이런 슬픈 시기에는 구애하기가 좋지 않네요. 안녕히 주무십시오, 부인. 따님께도 안부 전해 주세요.\"",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "P0701_1",
+  "en": "Lady Capulet says, \"I will do that and find out her thoughts early tomorrow. Tonight she is locked away in her sadness.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"그러지요. 내일 아침 일찍 그 애의 마음을 알아볼게요. 오늘 밤 그 애는 슬픔에 갇혀 있답니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "P0702_1",
+  "en": "Capulet says, \"Sir Paris, I will make a bold promise of my child's love. I think she will be ruled by me in all respects. No, more than that, I am sure of it. Wife, go to her before you go to bed. Tell her about my son Paris's love. And tell her, listen, that next Wednesday—\"",
+  "ko": "캐퓰릿이 말한다. \"패리스 백작, 내 딸의 사랑은 내가 과감히 약속하리다. 그 애는 모든 일에 내 뜻을 따를 거요. 아니, 틀림없소. 부인, 자기 전에 그 애한테 가 보시오. 내 아들 같은 패리스의 사랑을 그 애에게 알려 주시오. 그리고 잘 들으라고 하시오. 다음 수요일에—\"",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "P0702_2",
+  "en": "\"But, wait, what day is this?\"",
+  "ko": "\"가만, 오늘이 무슨 요일이지?\"",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "P0703_1",
+  "en": "Paris says, \"Monday, my lord.\"",
+  "ko": "패리스가 말한다. \"월요일입니다, 어르신.\"",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0704_1",
+  "en": "Capulet says, \"Monday! Ha, ha! Well, Wednesday is too soon, so let it be Thursday. Tell her that on Thursday she will marry this noble earl. Will you be ready? Do you like this haste? We will not have a big celebration, just one or two friends. Tybalt was killed so recently.\"",
+  "ko": "캐퓰릿이 말한다. \"월요일이라! 하하! 음, 수요일은 너무 빠르니 목요일로 해요. 목요일에 이 고귀한 백작과 결혼한다고 그 애에게 말하시오. 준비되시겠어요? 이렇게 서두르는 게 괜찮으세요? 큰 잔치는 열지 않고, 한두 명의 친구만 부를 거예요. 티볼트가 죽은 지 얼마 되지 않았으니까요.\"",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0704_2",
+  "en": "\"If we celebrate too much, people might think we did not care about our own relative. Therefore, we will have about six friends, and that is the end of it. But what do you say to Thursday?\"",
+  "ko": "\"너무 크게 축하하면 사람들이 우리 친척을 아끼지 않는다고 생각할지도 몰라요. 그러니 친구 대여섯만 부르고 그걸로 끝내겠어요. 하지만 목요일은 어떠신가요?\"",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0705_1",
+  "en": "Paris says, \"My lord, I wish that Thursday were tomorrow.\"",
+  "ko": "패리스가 말한다. \"어르신, 목요일이 내일이면 좋겠어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "P0706_1",
+  "en": "Capulet says, \"Well, go now. Let it be a Thursday then. Go to Juliet before you go to bed. Prepare her, wife, for this wedding day. Goodbye, my lord. Bring a light to my chamber! My goodness, it is so late that soon we can call it early. Good night.\"",
+  "ko": "캐퓰릿이 말한다. \"자, 그럼 가 보세요. 그럼 목요일로 하죠. 부인, 자기 전에 줄리엣에게 가서 결혼식 준비를 시키시오. 안녕히 가시오, 백작. 내 방에 불을 가져와라! 원, 이렇게 늦었으니 곧 이르다고 해야겠군. 잘 자요.\"",
+  "is_header": false
+ },
+ {
+  "id": 15,
+  "tag": "P0707",
+  "en": "They all leave.",
+  "ko": "모두 나간다.",
+  "is_header": false
+ }
+]

@@ -1,0 +1,933 @@
+[
+ {
+  "id": 1,
+  "tag": "P0984",
+  "en": "Act 5, Scene 3 — A churchyard; in it a Monument belonging to the Capulets",
+  "ko": "5막 3장 — 교회 묘지, 캐퓰릿 가문의 무덤",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "P0984_s",
+  "en": "At the tomb, Romeo kills Paris and drinks the poison. Juliet wakes, finds Romeo dead, and kills herself. The two families finally make peace.",
+  "ko": "무덤에서 로미오는 패리스를 죽이고 독약을 마신다. 깨어난 줄리엣은 죽은 로미오를 보고 스스로 목숨을 끊는다. 마침내 두 집안은 화해한다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "P0985",
+  "en": "Paris enters with his page, who carries flowers and a torch.",
+  "ko": "패리스가 꽃과 횃불을 든 시동과 함께 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "P0986_1",
+  "en": "Paris says, \"Give me your torch, boy. Go and stand far away. Put it out because I do not want to be seen. Lie down flat under that yew tree. Hold your ear close to the ground. The ground is loose from digging graves. No one can walk in the churchyard without you hearing it. Whistle to me then.\"",
+  "ko": "패리스가 말한다. \"얘야, 횃불을 내게 다오. 저 멀리 가서 서 있어라. 들키고 싶지 않으니 불을 꺼라. 저 주목나무 아래에 납작하게 엎드려라. 귀를 땅에 바짝 대라. 무덤을 파느라 땅이 물러져 있다. 누가 교회 마당을 걸으면 네가 꼭 듣게 될 것이다. 그러면 내게 휘파람을 불어라.\"",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "P0986_2",
+  "en": "\"Whistle as a signal that you hear something coming. Give me those flowers. Do what I tell you and go.\"",
+  "ko": "\"무언가 오는 소리가 들리면 신호로 휘파람을 불어라. 그 꽃들을 내게 다오. 내가 시키는 대로 하고 물러가거라.\"",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "P0987_1",
+  "en": "The page, Paris's young servant, says to himself, \"I am almost afraid to stand alone here in the churchyard. Still, I will take the risk.\"",
+  "ko": "패리스의 어린 하인인 시동이 혼잣말로 말한다. \"교회 마당에 혼자 서 있자니 좀 무섭다. 그래도 해 봐야지.\"",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "P0988",
+  "en": "The page moves away and hides.",
+  "ko": "시동이 멀어져 숨는다.",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "P0989_1",
+  "en": "Paris says, \"Sweet flower, I scatter flowers on your wedding bed. Oh no, your canopy is only dust and stones. I will water it with sweet water every night. If I lack that, I will use tears from my crying. Every night I will come to your grave. I will scatter flowers on it and cry.\"",
+  "ko": "패리스가 말한다. \"꽃 같은 그대여, 그대의 신방에 꽃을 뿌리노라. 아아, 그대의 침대 덮개는 먼지와 돌뿐이구나. 매일 밤 향긋한 물로 적셔 주리라. 그 물이 없으면 내 눈물로 적시리라. 매일 밤 네 무덤으로 찾아가리라. 꽃을 뿌리며 울어주마.\"",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "P0990",
+  "en": "The Page whistles.",
+  "ko": "시동이 휘파람을 분다.",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "P0991_1",
+  "en": "Paris goes on, \"The boy signals that something is coming. What cursed foot wanders this way tonight? It comes to interrupt my funeral rites and my ceremony of true love. What? It has a torch! Night, hide me for a while.\"",
+  "ko": "패리스가 말을 잇는다. \"시동이 무언가 다가온다고 신호를 보내는구나. 오늘 밤 어떤 저주받은 발길이 이쪽으로 오는 거지? 내 장례 의식과 진실한 사랑의 예식을 방해하러 오는구나. 뭐야? 횃불을 들었잖아! 밤아, 나를 잠시 숨겨다오.\"",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0992",
+  "en": "Paris steps back and hides.",
+  "ko": "패리스가 뒤로 물러나 몸을 숨긴다.",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0993",
+  "en": "Romeo and Balthasar enter with a torch, a pickaxe and other tools.",
+  "ko": "로미오와 발타자르가 횃불과 곡괭이, 그리고 다른 도구들을 들고 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0994_1",
+  "en": "Romeo says, \"Give me that pickaxe and the crowbar. Wait, take this letter. Deliver it to my lord and father early in the morning. Give me the light. I charge you on your life. Whatever you hear or see, stay away. Do not stop me from what I am doing.\"",
+  "ko": "로미오가 말한다. \"그 곡괭이와 쇠지렛대를 이리 다오. 잠깐, 이 편지를 받아라. 아침 일찍 우리 아버님께 전해라. 불을 내게 넘겨라. 네 목숨을 걸고 명한다. 무엇이든 듣거나 보더라도 멀리 떨어져 있어라. 내가 하는 일을 방해하지 마라.\"",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "P0994_2",
+  "en": "\"I go into this bed of death partly to see my lady's face. But mostly I want to take a precious ring from her dead finger. I must use this ring for an important task. Therefore, go away now. You may be curious and try to find out what I plan to do next.\"",
+  "ko": "\"이 죽음의 침대로 내려가는 건 한편으로는 내 아내의 얼굴을 보기 위해서다. 하지만 무엇보다 그녀의 죽은 손가락에서 소중한 반지를 빼기 위해서다. 이 반지는 중요한 일에 써야만 한다. 그러니 이제 물러가라. 혹시 궁금해서 내가 무엇을 하려는지 엿보려 할지도 모르겠다.\"",
+  "is_header": false
+ },
+ {
+  "id": 15,
+  "tag": "P0994_3",
+  "en": "\"If you do, I swear by heaven that I will tear you apart. I will scatter your body parts across this hungry churchyard. The time and my plans are wild. They are much more fierce and unstoppable than hungry tigers or the roaring sea.\"",
+  "ko": "\"그런다면 하늘에 맹세코 너를 갈기갈기 찢어 이 굶주린 교회 마당에 뿌려 버리겠다. 지금 이 시간도, 내 뜻도 사납다. 그것들은 굶주린 호랑이나 포효하는 바다보다 훨씬 더 사납고 막을 수 없다.\"",
+  "is_header": false
+ },
+ {
+  "id": 16,
+  "tag": "P0995_1",
+  "en": "Balthasar, Romeo's servant, says, \"I will leave now, sir, and not bother you.\"",
+  "ko": "로미오의 하인 발타자르가 말한다. \"이제 물러가겠습니다, 주인님. 방해하지 않겠습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 17,
+  "tag": "P0996_1",
+  "en": "Romeo says, \"That way you will show me friendship. Take that. Live and be successful, and goodbye, good fellow.\"",
+  "ko": "로미오가 말한다. \"그래야 네가 내게 우정을 보이는 거다. 이걸 받아라. 잘 살고 성공해라. 잘 있거라, 착한 친구야.\"",
+  "is_header": false
+ },
+ {
+  "id": 18,
+  "tag": "P0997_1",
+  "en": "Balthasar says, \"All the same, I will hide nearby. I fear his look, and I doubt his intentions.\"",
+  "ko": "발타자르가 말한다. \"그래도 근처에 숨어 있어야겠다. 주인님 눈빛이 무섭고, 무슨 생각을 하시는지 모르겠다.\"",
+  "is_header": false
+ },
+ {
+  "id": 19,
+  "tag": "P0998",
+  "en": "Balthasar hides nearby.",
+  "ko": "발타자르는 근처에 숨는다.",
+  "is_header": false
+ },
+ {
+  "id": 20,
+  "tag": "P0999_1",
+  "en": "Romeo says, \"You hateful tomb, you hungry mouth of death! You have swallowed the most precious thing on earth. I force your rotten jaws to open like this.\"",
+  "ko": "로미오가 말한다. \"이 가증스러운 무덤아, 죽음의 굶주린 아가리야! 너는 세상에서 가장 소중한 것을 삼켜버렸다. 네 썩은 턱을 이렇게 억지로 벌리마.\"",
+  "is_header": false
+ },
+ {
+  "id": 21,
+  "tag": "P1000",
+  "en": "Romeo breaks open the door of the tomb.",
+  "ko": "로미오가 무덤 문을 부수고 들어간다.",
+  "is_header": false
+ },
+ {
+  "id": 22,
+  "tag": "P1001_1",
+  "en": "Romeo goes on, \"And to spite you, I will fill you with more dead.\"",
+  "ko": "로미오가 말을 잇는다. \"너를 골려 주려고 더 많은 시체로 채워 주마.\"",
+  "is_header": false
+ },
+ {
+  "id": 23,
+  "tag": "P1002_1",
+  "en": "Paris says, \"This is that banished and proud Montague. He murdered my love's cousin. It is said that she died from that grief. He has come here to do something shameful to the dead bodies. I will arrest him.\"",
+  "ko": "패리스가 말한다. \"저건 추방당한 오만한 몬태규다. 내 사랑의 사촌을 죽인 자다. 그녀가 그 슬픔 때문에 죽었다고들 한다. 저자가 시체들에게 욕된 짓을 하러 여기 왔구나. 저자를 체포하겠다.\"",
+  "is_header": false
+ },
+ {
+  "id": 24,
+  "tag": "P1003",
+  "en": "Paris steps forward.",
+  "ko": "패리스가 앞으로 나선다.",
+  "is_header": false
+ },
+ {
+  "id": 25,
+  "tag": "P1004_1",
+  "en": "Paris goes on, \"Stop your unholy work, vile Montague. Can revenge be pursued further than death? You condemned villain, I arrest you. Obey me and come with me, for you must die.\"",
+  "ko": "패리스가 말을 잇는다. \"그 더러운 짓을 멈춰라, 비열한 몬태규. 죽은 뒤까지 복수를 할 셈이냐? 사형을 선고받은 악당아, 너를 체포한다. 순순히 따라와라, 너는 죽어야 한다.\"",
+  "is_header": false
+ },
+ {
+  "id": 26,
+  "tag": "P1005_1",
+  "en": "Romeo says, \"Yes, I must die, and that is why I came here. Good young man, do not push a desperate man. Run away and leave me. Think about these dead people and let them frighten you. I beg you, young man, do not add another sin to my head by making me angry. Please, go away.\"",
+  "ko": "로미오가 말한다. \"그래, 나는 죽어야 한다. 그래서 여기 왔다. 착한 젊은이, 절망한 사람을 건드리지 마라. 달아나서 나를 내버려 둬라. 여기 죽은 이들을 생각하고 겁을 먹어라. 부탁이다, 젊은이, 나를 화나게 해서 내 머리에 죄를 하나 더 얹게 하지 마라. 제발, 가거라.\"",
+  "is_header": false
+ },
+ {
+  "id": 27,
+  "tag": "P1005_2",
+  "en": "\"By heaven, I love you more than myself. I came here armed against myself. Do not stay; go away and live. Later, tell others that a madman's mercy told you to run away.\"",
+  "ko": "\"하늘에 맹세코, 나는 나 자신보다 너를 더 아낀다. 나는 나 자신을 해치려고 무기를 들고 왔다. 머물지 말고, 가서 살아라. 나중에, 미친 자가 자비를 베풀어 도망치라고 했다고 말해라.\"",
+  "is_header": false
+ },
+ {
+  "id": 28,
+  "tag": "P1006_1",
+  "en": "Paris says, \"I reject your pleading, and I arrest you as a criminal here.\"",
+  "ko": "패리스가 말한다. \"애원 따위는 필요 없다. 여기서 너를 죄인으로 체포하겠다.\"",
+  "is_header": false
+ },
+ {
+  "id": 29,
+  "tag": "P1007_1",
+  "en": "Romeo says, \"Will you provoke me? Then come at me, boy!\"",
+  "ko": "로미오가 말한다. \"끝내 나를 건드리겠다는 거냐? 그럼 덤벼라, 애송이!\"",
+  "is_header": false
+ },
+ {
+  "id": 30,
+  "tag": "P1008",
+  "en": "They fight.",
+  "ko": "그들이 싸운다.",
+  "is_header": false
+ },
+ {
+  "id": 31,
+  "tag": "P1009_1",
+  "en": "The page says, \"Oh lord, they are fighting! I will go call the watch, the night guards.\"",
+  "ko": "시동이 말한다. \"세상에, 싸우고 있잖아! 가서 야경꾼들을 불러와야겠다.\"",
+  "is_header": false
+ },
+ {
+  "id": 32,
+  "tag": "P1010",
+  "en": "The page leaves.",
+  "ko": "시동이 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 33,
+  "tag": "P1011_1",
+  "en": "Paris says, \"Oh, I am killed!\"",
+  "ko": "패리스가 말한다. \"아, 내가 죽는구나!\"",
+  "is_header": false
+ },
+ {
+  "id": 34,
+  "tag": "P1012",
+  "en": "Paris falls.",
+  "ko": "패리스가 쓰러진다.",
+  "is_header": false
+ },
+ {
+  "id": 35,
+  "tag": "P1013_1",
+  "en": "Paris goes on, \"If you are merciful, open the tomb. Put me with Juliet.\"",
+  "ko": "패리스가 말을 잇는다. \"자비롭다면 무덤을 열어다오. 나를 줄리엣 곁에 묻어다오.\"",
+  "is_header": false
+ },
+ {
+  "id": 36,
+  "tag": "P1014",
+  "en": "Paris dies.",
+  "ko": "패리스가 죽는다.",
+  "is_header": false
+ },
+ {
+  "id": 37,
+  "tag": "P1015_1",
+  "en": "Romeo asks, \"I will do that. Let me look at this face. Mercutio's relative, the noble Count Paris! What did my man say when my lost soul did not listen to him while we rode? I think he told me Paris should have married Juliet. Did he not say that, or did I dream it?\"",
+  "ko": "로미오가 묻는다. \"그렇게 하마. 이 얼굴을 좀 보자. 머큐쇼의 친척, 고귀한 패리스 백작이구나! 말을 타고 오는 동안 넋이 나간 내가 귀담아듣지 않았는데, 내 하인이 뭐라고 했더라? 그는 패리스가 줄리엣과 결혼했어야 했다고 말했던 것 같다. 그가 그렇게 말했나, 아니면 내가 꿈을 꾼 건가?\"",
+  "is_header": false
+ },
+ {
+  "id": 38,
+  "tag": "P1015_2",
+  "en": "\"Or am I mad for hearing him talk of Juliet and thinking it was true? Give me your hand. Your name is written with mine in the book of bad luck. I will bury you in a triumphant grave. A grave? Oh no, a lantern, murdered young man. Juliet lies here.\"",
+  "ko": "\"아니면 줄리엣에 대한 그의 말을 사실로 믿어버린 내가 미친 건가? 네 손을 내게 다오. 불운의 책에 네 이름이 내 이름과 함께 적혀 있다. 너를 영광스러운 무덤에 묻어 주마. 무덤이라고? 아니, 등불이다, 살해당한 젊은이여. 줄리엣이 여기 누워 있다.\"",
+  "is_header": false
+ },
+ {
+  "id": 39,
+  "tag": "P1015_3",
+  "en": "\"Her beauty makes this vault a party hall full of light. Death, stay there, buried by a dead man.\"",
+  "ko": "\"그녀의 아름다움이 이 묘실을 빛으로 가득한 잔칫집으로 만든다. 죽은 이여, 죽은 사람의 손에 묻혀 거기 누워 있어라.\"",
+  "is_header": false
+ },
+ {
+  "id": 40,
+  "tag": "P1016",
+  "en": "Romeo lays Paris in the tomb.",
+  "ko": "로미오가 무덤에 패리스를 눕힌다.",
+  "is_header": false
+ },
+ {
+  "id": 41,
+  "tag": "P1017_1",
+  "en": "Romeo goes on, \"How often have men been happy at the moment of death! Their nurses call this a lightning before death. Oh, how can I call this a lightning? Oh my love, my wife, death has taken the honey from your breath. But death has no power over your beauty yet. You are not conquered.\"",
+  "ko": "로미오가 말을 잇는다. \"죽음의 순간에 행복을 맛본 이들이 얼마나 많았던가! 간병하는 사람들은 이걸 죽기 전의 번개라고 부르지. 아, 이걸 어찌 번개라 부르겠나? 내 사랑, 내 아내여, 죽음이 당신 숨결의 꿀은 빨아 갔어도 당신의 아름다움에는 아직 아무 힘도 쓰지 못했어. 당신은 정복되지 않았어.\"",
+  "is_header": false
+ },
+ {
+  "id": 42,
+  "tag": "P1017_2",
+  "en": "\"The sign of beauty is still red in your lips and cheeks. Death's pale flag is not there. Tybalt, do you lie there in your bloody sheet? Oh, what more can I do for you? I will use the same hand that cut your young life short to kill your enemy, myself. Forgive me, cousin.\"",
+  "ko": "\"아름다움의 흔적이 당신의 입술과 뺨에 여전히 붉게 남아있어. 죽음의 창백한 깃발은 보이지 않아. 티볼트, 너는 피 묻은 수의를 입고 저기 누워 있느냐? 아, 내가 너를 위해 무엇을 더 해 줄 수 있겠느냐? 네 젊은 목숨을 끊은 바로 이 손으로 네 원수, 곧 나 자신을 죽이겠다. 용서해라, 사촌.\"",
+  "is_header": false
+ },
+ {
+  "id": 43,
+  "tag": "P1017_3",
+  "en": "\"Ah, dear Juliet, why are you still so beautiful? Should I believe that shadowy death is in love with you? And that the thin, hated monster keeps you here in the dark as his lover? Because of that fear, I will stay with you. I will never leave this palace of dark night.\"",
+  "ko": "\"아, 사랑하는 줄리엣, 당신은 왜 아직도 이렇게 아름다워? 그림자 같은 죽음이 당신을 사랑한다고 믿어야 할까? 그 여위고 가증스러운 괴물이 당신을 애인 삼아 이 어둠 속에 붙잡아 둔다고? 그게 두려워서 나는 당신 곁에 있을 거야. 이 어두운 밤의 궁전을 절대 떠나지 않을 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 44,
+  "tag": "P1017_4",
+  "en": "\"Here, I will stay with the worms that are your maids. Here I will rest forever. I will shake the weight of unlucky stars from this tired body. Eyes, look for the last time. Arms, give your last embrace! And lips, oh you doors of breath, seal a deal with death with a holy kiss.\"",
+  "ko": "\"여기서 당신의 시녀인 벌레들과 함께 지낼 거야. 여기서 영원히 쉴 거야. 이 지친 몸에서 불운한 별들의 무게를 털어내리라. 눈이여, 마지막으로 바라보아라. 팔아, 마지막으로 안아라! 그리고 입술아, 숨결의 문들아, 성스러운 입맞춤으로 죽음과 계약을 맺어라.\"",
+  "is_header": false
+ },
+ {
+  "id": 45,
+  "tag": "P1017_5",
+  "en": "\"It is a deal that never ends. Come, bitter poison, come, horrible guide. You desperate pilot, now crash my sea-sick, tired boat onto the rocks! Here is to my love!\"",
+  "ko": "\"그것은 결코 끝나지 않을 계약이다. 오라, 쓰디쓴 독약아, 오라, 끔찍한 인도자여. 무모한 뱃사공아, 이제 뱃멀미에 지친 내 배를 바위에 부딪쳐 부숴라! 내 사랑을 위하여!\"",
+  "is_header": false
+ },
+ {
+  "id": 46,
+  "tag": "P1018",
+  "en": "Romeo drinks.",
+  "ko": "로미오가 약을 마신다.",
+  "is_header": false
+ },
+ {
+  "id": 47,
+  "tag": "P1019_1",
+  "en": "Romeo goes on, \"Oh, honest apothecary, your drugs work quickly. So, with a kiss, I die.\"",
+  "ko": "로미오가 말을 잇는다. \"오, 정직한 약제사여, 약효가 참 빠르구나. 이렇게, 입맞춤과 함께 나는 죽는다.\"",
+  "is_header": false
+ },
+ {
+  "id": 48,
+  "tag": "P1020",
+  "en": "Romeo dies.",
+  "ko": "로미오가 죽는다.",
+  "is_header": false
+ },
+ {
+  "id": 49,
+  "tag": "P1021",
+  "en": "Friar Lawrence enters at the other end of the churchyard. He carries a lantern, a crowbar, and a spade.",
+  "ko": "로런스 신부가 교회 마당 반대편에서 들어온다. 그는 등불과 지렛대, 그리고 삽을 들고 있다.",
+  "is_header": false
+ },
+ {
+  "id": 50,
+  "tag": "P1022_1",
+  "en": "Friar Lawrence asks, \"May Saint Francis help me move quickly. How many times tonight have my old feet tripped over graves? Who is there? Who is with the dead so late?\"",
+  "ko": "로런스 신부가 묻는다. \"성 프란치스코여, 제 발걸음을 서두르게 도와주소서. 오늘 밤 이 늙은 발이 무덤에 몇 번이나 걸려 넘어졌던가? 거기 누구냐? 이 밤늦게 죽은 이들 곁에 있는 자가 누구냐?\"",
+  "is_header": false
+ },
+ {
+  "id": 51,
+  "tag": "P1023_1",
+  "en": "Balthasar says, \"Here is someone, a friend who knows you well.\"",
+  "ko": "발타자르가 말한다. \"여기 있습니다. 신부님을 잘 아는 친구입니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 52,
+  "tag": "P1024_1",
+  "en": "Friar Lawrence says, \"God bless you. Tell me, my friend, what torch is that over there? It uselessly gives light to worms and eyeless skulls. I see it burning in the Capulets' tomb.\"",
+  "ko": "로런스 신부가 말한다. \"하나님의 축복이 있기를. 말해 다오, 친구여, 저기 저 횃불은 무엇이냐? 벌레와 눈 없는 해골에게 헛되이 빛을 비추고 있구나. 캐퓰릿의 무덤에서 타오르는 게 보이는군.\"",
+  "is_header": false
+ },
+ {
+  "id": 53,
+  "tag": "P1025_1",
+  "en": "Balthasar says, \"It does, holy sir, and there is my master, someone you love.\"",
+  "ko": "발타자르가 말한다. \"그렇습니다, 신부님. 저기 신부님이 아끼시는 제 주인님이 계십니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 54,
+  "tag": "P1026_1",
+  "en": "Friar Lawrence asks, \"Who is it?\"",
+  "ko": "로런스 신부가 묻는다. \"누구냐?\"",
+  "is_header": false
+ },
+ {
+  "id": 55,
+  "tag": "P1027_1",
+  "en": "Balthasar says, \"Romeo.\"",
+  "ko": "발타자르가 말한다. \"로미오입니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 56,
+  "tag": "P1028_1",
+  "en": "Friar Lawrence asks, \"How long has he been there?\"",
+  "ko": "로런스 신부가 묻는다. \"거기 들어간 지 얼마나 되었느냐?\"",
+  "is_header": false
+ },
+ {
+  "id": 57,
+  "tag": "P1029_1",
+  "en": "Balthasar says, \"For half an hour.\"",
+  "ko": "발타자르가 말한다. \"30분 정도 되었습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 58,
+  "tag": "P1030_1",
+  "en": "Friar Lawrence says, \"Go with me to the vault.\"",
+  "ko": "로런스 신부가 말한다. \"나와 함께 지하 묘실로 가자.\"",
+  "is_header": false
+ },
+ {
+  "id": 59,
+  "tag": "P1031_1",
+  "en": "Balthasar says, \"I do not dare, sir. My master thinks I have gone away. He threatened to kill me if I stayed to watch what he was doing.\"",
+  "ko": "발타자르가 말한다. \"감히 그럴 수 없습니다, 신부님. 주인님은 제가 떠난 줄 알고 계십니다. 주인님이 하시는 일을 지켜보려고 남으면 죽이겠다고 하셨습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 60,
+  "tag": "P1032_1",
+  "en": "Friar Lawrence says, \"Stay then, I will go alone. Fear comes over me. I am afraid something terrible has happened.\"",
+  "ko": "로런스 신부가 말한다. \"그럼 너는 남고, 내가 혼자 가겠다. 두려움이 밀려오는구나. 무언가 끔찍한 일이 일어난 것 같아 걱정된다.\"",
+  "is_header": false
+ },
+ {
+  "id": 61,
+  "tag": "P1033_1",
+  "en": "Balthasar says, \"While I slept under this yew tree, I dreamed my master and another person fought. In my dream, my master killed him.\"",
+  "ko": "발타자르가 말한다. \"이 주목나무 아래에서 잠들었을 때, 주인님과 다른 사람이 싸우는 꿈을 꾸었습니다. 꿈속에서 주인님이 그 사람을 죽였습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 62,
+  "tag": "P1034_1",
+  "en": "Friar Lawrence says, \"Romeo!\"",
+  "ko": "로런스 신부가 말한다. \"로미오!\"",
+  "is_header": false
+ },
+ {
+  "id": 63,
+  "tag": "P1035",
+  "en": "Friar Lawrence moves forward.",
+  "ko": "로런스 신부가 앞으로 나아간다.",
+  "is_header": false
+ },
+ {
+  "id": 64,
+  "tag": "P1036_1",
+  "en": "Friar Lawrence goes on, \"Oh no, oh no. What blood is this? It stains the stone entrance of this tomb. Why do these bloody swords lie here, without their owners, in this place of peace?\"",
+  "ko": "로런스 신부가 말을 잇는다. \"안 돼, 안 돼. 이 피는 뭐지? 무덤 입구 돌에 피가 묻어 있다. 평화로운 이곳에 왜 주인도 없는 피 묻은 칼들이 놓여 있는 거지?\"",
+  "is_header": false
+ },
+ {
+  "id": 65,
+  "tag": "P1037",
+  "en": "Friar Lawrence enters the family tomb.",
+  "ko": "로런스 신부가 가문의 무덤으로 들어간다.",
+  "is_header": false
+ },
+ {
+  "id": 66,
+  "tag": "P1038_1",
+  "en": "Friar Lawrence goes on, \"Romeo! Oh, he is pale! Who else? Is it Paris too? Are they both covered in blood? What cruel hour caused this sad event? The lady is waking.\"",
+  "ko": "로런스 신부가 말을 잇는다. \"로미오! 오, 얼굴이 창백해! 또 누구지? 패리스도 여기 있는 건가? 둘 다 피로 뒤덮여 있나? 어떤 잔인한 시간이 이 슬픈 일을 불러왔단 말인가? 아가씨가 깨어나는구나.\"",
+  "is_header": false
+ },
+ {
+  "id": 67,
+  "tag": "P1039",
+  "en": "Juliet wakes and moves.",
+  "ko": "줄리엣이 깨어나 움직인다.",
+  "is_header": false
+ },
+ {
+  "id": 68,
+  "tag": "P1040_1",
+  "en": "Juliet asks, \"Dear Friar! Where is my lord? I remember well where I should be. And I am there. Where is my Romeo?\"",
+  "ko": "줄리엣이 묻는다. \"신부님! 제 남편은 어디 있어요? 제가 어디에 있어야 하는지 잘 기억해요. 그리고 저는 그곳에 있어요. 제 로미오는 어디 있어요?\"",
+  "is_header": false
+ },
+ {
+  "id": 69,
+  "tag": "P1041",
+  "en": "There is a noise nearby.",
+  "ko": "근처에서 소리가 들린다.",
+  "is_header": false
+ },
+ {
+  "id": 70,
+  "tag": "P1042_1",
+  "en": "Friar Lawrence says, \"I hear some noise. My lady, come out from that nest of death, sickness, and unnatural sleep. A greater power than we can resist has stopped our plans, so come, let us leave now. Your husband lies dead in your arms and Paris is also dead.\"",
+  "ko": "로런스 신부가 말한다. \"소리가 들리는구나. 아가씨, 죽음과 병과 부자연스러운 잠의 둥지에서 나오너라. 우리가 맞설 수 없는 더 큰 힘이 우리 계획을 막았으니, 자, 어서 떠나자. 네 남편은 네 품에 죽어 있고, 패리스도 죽었다.\"",
+  "is_header": false
+ },
+ {
+  "id": 71,
+  "tag": "P1042_2",
+  "en": "\"Come, I will take you to a group of holy nuns. Do not stop to ask questions because the guards are coming. Come, go, good Juliet, as I dare not stay any longer.\"",
+  "ko": "\"자, 너를 거룩한 수녀들에게 데려다주마. 야경꾼들이 오고 있으니 멈춰서 묻지 마라. 자, 가자, 착한 줄리엣. 나는 더 머무를 수가 없구나.\"",
+  "is_header": false
+ },
+ {
+  "id": 72,
+  "tag": "P1043_1",
+  "en": "Juliet says, \"Go away now, for I will not leave.\"",
+  "ko": "줄리엣이 말한다. \"가세요. 저는 여기를 떠나지 않을 거예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 73,
+  "tag": "P1044",
+  "en": "Friar Lawrence leaves.",
+  "ko": "로런스 신부가 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 74,
+  "tag": "P1045_1",
+  "en": "Juliet goes on, \"What is here? Is this a cup in my true love's hand? I see that poison was his final end. You greedy thing! You drank everything and left no drop for me to drink after you. I will kiss your lips. Perhaps some poison is still on them. It might let me die, and cure my pain.\"",
+  "ko": "줄리엣이 말을 잇는다. \"이게 뭐지? 내 사랑의 손에 잔이? 독약이 그의 마지막이었구나. 욕심쟁이! 당신이 다 마셔 버리고 나 마시라고 한 방울도 안 남겼구나. 당신 입술에 입 맞출래. 아직 독이 남아 있을지도 모른다. 그 독이 나를 죽게 해서 이 고통을 끝내 줄지도 몰라.\"",
+  "is_header": false
+ },
+ {
+  "id": 75,
+  "tag": "P1046",
+  "en": "Juliet kisses him.",
+  "ko": "줄리엣이 그에게 키스한다.",
+  "is_header": false
+ },
+ {
+  "id": 76,
+  "tag": "P1047_1",
+  "en": "Juliet goes on, \"Your lips are warm!\"",
+  "ko": "줄리엣이 말을 잇는다. \"당신 입술이 따뜻해!\"",
+  "is_header": false
+ },
+ {
+  "id": 77,
+  "tag": "P1048_1",
+  "en": "The first watchman, one of the night guards, calls from inside, \"Lead the way, boy. Which way?\"",
+  "ko": "밤 경비를 서는 첫째 야경꾼이 안에서 부른다. \"앞장서라, 얘야. 어느 쪽이냐?\"",
+  "is_header": false
+ },
+ {
+  "id": 78,
+  "tag": "P1049_1",
+  "en": "Juliet says, \"What, a noise? Then I will be quick. Oh, happy dagger!\"",
+  "ko": "줄리엣이 말한다. \"뭐지, 소리가? 그럼 서둘러야겠다. 오, 반가운 단검아!\"",
+  "is_header": false
+ },
+ {
+  "id": 79,
+  "tag": "P1050",
+  "en": "Juliet grabs Romeo's dagger.",
+  "ko": "줄리엣이 로미오의 단검을 잡는다.",
+  "is_header": false
+ },
+ {
+  "id": 80,
+  "tag": "P1051_1",
+  "en": "Juliet goes on, \"My body is your sheath now.\"",
+  "ko": "줄리엣이 말을 잇는다. \"이제 내 몸이 네 칼집이다.\"",
+  "is_header": false
+ },
+ {
+  "id": 81,
+  "tag": "P1052",
+  "en": "Juliet stabs herself.",
+  "ko": "줄리엣이 자신을 찌른다.",
+  "is_header": false
+ },
+ {
+  "id": 82,
+  "tag": "P1053_1",
+  "en": "Juliet goes on, \"Rest there, and let me die.\"",
+  "ko": "줄리엣이 말을 잇는다. \"거기 머물러라, 그리고 나를 죽게 해 다오.\"",
+  "is_header": false
+ },
+ {
+  "id": 83,
+  "tag": "P1054",
+  "en": "Juliet falls on Romeo's body and dies.",
+  "ko": "줄리엣이 로미오의 몸 위로 쓰러지며 숨을 거둔다.",
+  "is_header": false
+ },
+ {
+  "id": 84,
+  "tag": "P1055",
+  "en": "The watchmen enter with Paris's page.",
+  "ko": "야경꾼들이 패리스의 시동과 함께 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 85,
+  "tag": "P1056_1",
+  "en": "The page says, \"This is the place. It is there, where the torch burns.\"",
+  "ko": "시동이 말한다. \"이곳입니다. 횃불이 타오르는 저곳입니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 86,
+  "tag": "P1057_1",
+  "en": "The first watchman says, \"The ground is bloody. Search around the churchyard. Go, some of you, and arrest whoever you find.\"",
+  "ko": "첫째 야경꾼이 말한다. \"바닥이 피투성이다. 교회 마당을 샅샅이 뒤져라. 몇은 가서, 누구든 보이는 대로 붙잡아라.\"",
+  "is_header": false
+ },
+ {
+  "id": 87,
+  "tag": "P1058",
+  "en": "Some of the watchmen leave.",
+  "ko": "일부 야경꾼들이 떠난다.",
+  "is_header": false
+ },
+ {
+  "id": 88,
+  "tag": "P1059_1",
+  "en": "The first watchman goes on, \"What a sad sight! The Count lies here killed. Juliet is bleeding and warm, and she is newly dead. She has been buried here for two days. Go tell the Prince, run to the Capulets, and wake up the Montagues. Some others search the area.\"",
+  "ko": "첫째 야경꾼이 말을 잇는다. \"참혹한 광경이다! 백작님이 여기 살해되어 쓰러져 계신다. 줄리엣은 피를 흘리며 아직 따뜻하다. 방금 숨을 거두었다. 그 아가씨는 이틀 전에 여기 묻혔는데. 가서 영주님께 알려라. 캐퓰릿 댁으로 달려가고, 몬태규 댁 사람들도 깨워라. 나머지는 주변을 수색해라.\"",
+  "is_header": false
+ },
+ {
+  "id": 89,
+  "tag": "P1060",
+  "en": "Other watchmen leave.",
+  "ko": "다른 야경꾼들이 떠난다.",
+  "is_header": false
+ },
+ {
+  "id": 90,
+  "tag": "P1061_1",
+  "en": "The first watchman goes on, \"We see the ground where these tragedies happen. But we cannot see the real reason for all this sadness. We cannot know the cause without more information.\"",
+  "ko": "첫째 야경꾼이 말을 잇는다. \"이 비극이 벌어진 땅은 보이지만 이 모든 슬픔의 진짜 이유는 보이지 않는다. 더 많은 정보 없이는 그 원인을 알 길이 없다.\"",
+  "is_header": false
+ },
+ {
+  "id": 91,
+  "tag": "P1062",
+  "en": "Some watchmen come back with Balthasar.",
+  "ko": "몇몇 야경꾼들이 발타자르와 함께 돌아온다.",
+  "is_header": false
+ },
+ {
+  "id": 92,
+  "tag": "P1063_1",
+  "en": "The second watchman, one of the night guards, says, \"Here is Romeo's man. We found him in the churchyard.\"",
+  "ko": "밤 경비를 서는 둘째 야경꾼이 말한다. \"로미오의 하인을 데려왔어. 교회 마당에서 그를 찾아냈어.\"",
+  "is_header": false
+ },
+ {
+  "id": 93,
+  "tag": "P1064_1",
+  "en": "The first watchman says, \"Keep him safe until the Prince comes here.\"",
+  "ko": "첫째 야경꾼이 말한다. \"영주님이 오실 때까지 잘 붙잡아 둬.\"",
+  "is_header": false
+ },
+ {
+  "id": 94,
+  "tag": "P1065",
+  "en": "Other watchmen come back with Friar Lawrence.",
+  "ko": "다른 야경꾼들이 로런스 신부를 데리고 돌아온다.",
+  "is_header": false
+ },
+ {
+  "id": 95,
+  "tag": "P1066_1",
+  "en": "The third watchman, one of the night guards, says, \"Here is a friar who trembles, sighs, and cries. We took this pickaxe and this spade from him. He was coming from this side of the churchyard.\"",
+  "ko": "밤 경비를 서는 셋째 야경꾼이 말한다. \"벌벌 떨고 한숨 쉬며 우는 신부를 데려왔어. 이 사람한테서 곡괭이와 삽을 빼앗았어. 교회 마당 이쪽에서 오고 있었어.\"",
+  "is_header": false
+ },
+ {
+  "id": 96,
+  "tag": "P1067_1",
+  "en": "The first watchman says, \"This is very suspicious. Keep the friar here too.\"",
+  "ko": "첫째 야경꾼이 말한다. \"이건 매우 수상해. 신부도 여기 붙잡아 둬.\"",
+  "is_header": false
+ },
+ {
+  "id": 97,
+  "tag": "P1068",
+  "en": "The Prince and his attendants enter.",
+  "ko": "영주와 수행원들이 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 98,
+  "tag": "P1069_1",
+  "en": "The Prince asks, \"What disaster is up so early, that it calls me from my morning rest?\"",
+  "ko": "영주가 묻는다. \"무슨 재앙이 이리 일찍 일어나 내 아침잠을 깨우느냐?\"",
+  "is_header": false
+ },
+ {
+  "id": 99,
+  "tag": "P1070",
+  "en": "Capulet, Lady Capulet, and others enter.",
+  "ko": "캐퓰릿, 캐퓰릿 부인, 그리고 다른 이들이 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 100,
+  "tag": "P1071_1",
+  "en": "Capulet asks, \"Why are they screaming outside?\"",
+  "ko": "캐퓰릿이 묻는다. \"밖에서 왜들 저리 소리를 지르는 거요?\"",
+  "is_header": false
+ },
+ {
+  "id": 101,
+  "tag": "P1072_1",
+  "en": "Lady Capulet says, \"The people in the street are crying out, some shouting Romeo, some Juliet, and some Paris. They all run toward our family tomb with loud cries.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"거리의 사람들이 울부짖고 있어요. 어떤 이들은 로미오, 어떤 이들은 줄리엣, 또 어떤 이들은 패리스를 외치고 있고요. 그들이 모두 큰 소리를 지르며 우리 가문의 무덤으로 달려가고 있어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 102,
+  "tag": "P1073_1",
+  "en": "The Prince asks, \"What fear is this that startles our ears?\"",
+  "ko": "영주가 묻는다. \"우리 귀를 놀라게 하는 이 두려운 소리는 무엇이냐?\"",
+  "is_header": false
+ },
+ {
+  "id": 103,
+  "tag": "P1074_1",
+  "en": "The first watchman says, \"Your Highness, Count Paris lies here killed. Romeo is dead too. And Juliet, who was dead before, is warm and newly killed.\"",
+  "ko": "첫째 야경꾼이 말한다. \"영주님, 패리스 백작님이 여기 살해되어 쓰러져 계십니다. 로미오도 죽었습니다. 그리고 전에 죽었던 줄리엣이 아직 따뜻한 채로 방금 목숨을 잃었습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 104,
+  "tag": "P1075_1",
+  "en": "The Prince says, \"Search and find out how this terrible murder happened.\"",
+  "ko": "영주가 말한다. \"조사해서 이 끔찍한 살인 사건이 어떻게 일어났는지 알아내라.\"",
+  "is_header": false
+ },
+ {
+  "id": 105,
+  "tag": "P1076_1",
+  "en": "The first watchman says, \"Here is a friar, and the servant of murdered Romeo. They have tools fit to open these dead men's tombs.\"",
+  "ko": "첫째 야경꾼이 말한다. \"여기 신부 한 사람과 살해된 로미오의 하인이 있습니다. 이 무덤들을 열 만한 도구를 가지고 있었습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 106,
+  "tag": "P1077_1",
+  "en": "Capulet says, \"Oh heaven! My wife, look how our daughter bleeds! This dagger went to the wrong place. Look, its sheath hangs empty on the back of Montague's son. Instead, it is sheathed in my daughter's chest.\"",
+  "ko": "캐퓰릿이 말한다. \"오, 하늘이시여! 부인, 우리 딸이 피 흘리는 걸 보시오! 이 단검이 자리를 잘못 찾았구려. 보시오, 칼집은 몬태규 아들의 등에 빈 채로 매달려 있는데 단검은 내 딸의 가슴에 꽂혀 있소.\"",
+  "is_header": false
+ },
+ {
+  "id": 107,
+  "tag": "P1078_1",
+  "en": "Lady Capulet says, \"Oh me! This sight of death is like a bell. It warns me that my old age is near the tomb.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"아이고! 이 죽음의 광경이 종소리 같아요. 내 늙은 몸이 무덤 가까이 왔다고 알리는 것 같아요.\"",
+  "is_header": false
+ },
+ {
+  "id": 108,
+  "tag": "P1079",
+  "en": "Montague and others enter.",
+  "ko": "몬태규와 다른 이들이 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 109,
+  "tag": "P1080_1",
+  "en": "The Prince says, \"Come, Montague. You are up early, to see your son and heir laid down even earlier.\"",
+  "ko": "영주가 말한다. \"이리 오시오, 몬태규. 그대는 일찍 일어났구려, 아들이자 후계자가 더 일찍 눕는 것을 보려고.\"",
+  "is_header": false
+ },
+ {
+  "id": 110,
+  "tag": "P1081_1",
+  "en": "Montague asks, \"Alas, my lord. My wife died tonight. The grief of my son's exile stopped her breath. What other sadness will happen to me in my old age?\"",
+  "ko": "몬태규가 묻는다. \"아아, 영주님. 제 부인이 오늘 밤 세상을 떠났습니다. 아들의 추방으로 인한 슬픔이 그녀의 숨을 멎게 했습니다. 노년에 저에게 또 어떤 슬픔이 닥치겠습니까?\"",
+  "is_header": false
+ },
+ {
+  "id": 111,
+  "tag": "P1082_1",
+  "en": "The Prince says, \"Look, and you will see.\"",
+  "ko": "영주가 말한다. \"보시오, 그러면 알게 될 것이오.\"",
+  "is_header": false
+ },
+ {
+  "id": 112,
+  "tag": "P1083_1",
+  "en": "Montague asks, \"Oh, you bad-mannered boy! Where are your manners, rushing to the grave before your father?\"",
+  "ko": "몬태규가 묻는다. \"오, 이 버릇없는 녀석아! 아비보다 먼저 무덤으로 달려가다니, 그런 법이 어디 있느냐?\"",
+  "is_header": false
+ },
+ {
+  "id": 113,
+  "tag": "P1084_1",
+  "en": "The Prince says, \"Stop all shouting for a moment because we need to clear up these confusing facts. We must find the source and the cause of this crime. Then I will lead you in your mourning, even to death. In the meantime, be patient and let patience control this bad luck.\"",
+  "ko": "영주가 말한다. \"잠시 모두 소리를 멈춰라. 이 뒤엉킨 사실들을 밝혀야 한다. 이 범죄의 근원과 원인을 찾아야 한다. 그 후에 내가 너희의 슬픔을 이끌겠다. 죽음에 이르기까지라도. 그동안은 참고, 인내로 이 불운을 다스려라.\"",
+  "is_header": false
+ },
+ {
+  "id": 114,
+  "tag": "P1084_2",
+  "en": "\"Bring out the suspects.\"",
+  "ko": "\"용의자들을 데려와라.\"",
+  "is_header": false
+ },
+ {
+  "id": 115,
+  "tag": "P1085_1",
+  "en": "Friar Lawrence says, \"I am the most suspected, though I was able to do the least. The time and place make me look guilty of this terrible murder. I stand here both to accuse myself and to explain myself.\"",
+  "ko": "로런스 신부가 말한다. \"제가 한 일은 가장 적은데도, 가장 의심을 받습니다. 시간과 장소로 보아 제가 이 끔찍한 살인에 가담한 것처럼 보입니다. 저 자신을 고발하고, 또 해명하기 위해 여기 섰습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 116,
+  "tag": "P1086_1",
+  "en": "The Prince says, \"Then tell me at once what you know about this.\"",
+  "ko": "영주가 말한다. \"그럼 그대가 아는 것을 당장 말하라.\"",
+  "is_header": false
+ },
+ {
+  "id": 117,
+  "tag": "P1087_1",
+  "en": "Friar Lawrence says, \"I will be brief, because my short life is not long enough for a boring story. Romeo, dead there, was the husband of that Juliet, and she, dead there, was Romeo's faithful wife. I married them, and their secret wedding day was Tybalt's last day.\"",
+  "ko": "로런스 신부가 말한다. \"제게 남은 짧은 생은 지루한 이야기를 할 만큼 길지 않으니, 짧게 말씀드리겠습니다. 저기 죽어 있는 로미오는 저 줄리엣의 남편이었고, 저기 죽은 줄리엣은 로미오의 충실한 아내였습니다. 제가 두 사람을 결혼시켰으며, 그들의 비밀스러운 결혼식 날이 바로 티볼트가 죽은 날이었습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 118,
+  "tag": "P1087_2",
+  "en": "\"His early death forced the new groom to leave this city. Juliet grieved for him, not for Tybalt. To cure her grief, you promised her to Count Paris and would have forced her to marry him. Then she came to me with a wild look. She asked me to find a way to stop this second marriage.\"",
+  "ko": "\"티볼트의 때 이른 죽음 때문에 새신랑은 이 도시를 떠나야 했습니다. 줄리엣은 티볼트가 아니라 그를 위해 슬퍼했습니다. 그 슬픔을 달래려고 캐퓰릿 경께서 따님을 패리스 백작과 약혼시키고 억지로 결혼시키려 하셨습니다. 그러자 그녀가 몹시 괴로워하며 저를 찾아왔습니다. 그녀는 이 두 번째 결혼을 막을 방법을 찾아달라고 요청했습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 119,
+  "tag": "P1087_3",
+  "en": "\"She said she would kill herself in my cell if I did not help. Then, using my knowledge of plants, I gave her a sleeping potion that worked exactly as I planned. It made her look like death while I wrote to Romeo. I told him to come here tonight.\"",
+  "ko": "\"도와주지 않으면 제 수도실에서 자결하겠다고 말했습니다. 그래서 저는 약초에 대한 지식으로 잠드는 약을 주었고, 약은 제 뜻대로 정확히 들었습니다. 그 약 덕분에 제가 로미오에게 편지를 쓰는 동안 그녀는 죽은 것처럼 보였습니다. 저는 그에게 오늘 밤 이곳으로 오라고 말했습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 120,
+  "tag": "P1087_4",
+  "en": "\"He was to take her from her borrowed grave when the potion's power ended. But Friar John, who carried my letter, was stopped by an accident and returned it last night. Then I came alone at the planned time to take her from her family's vault.\"",
+  "ko": "\"약효가 다하면 그가 빌린 무덤에서 그녀를 데려가기로 했습니다. 하지만 제 편지를 가져가던 존 신부가 뜻밖의 일로 발이 묶여 어젯밤 편지를 도로 가져왔습니다. 그래서 저는 약속된 시간에 혼자 와서 가족의 지하 묘실에서 그녀를 데려오려 했습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 121,
+  "tag": "P1087_5",
+  "en": "\"I planned to keep her in my cell until I could send word to Romeo. But when I arrived just before she woke up, the noble Paris and true Romeo lay here dead. She woke, and I asked her to come out and accept this act of heaven with patience. But then a noise scared me away from the tomb.\"",
+  "ko": "\"로미오에게 소식을 전할 때까지 그녀를 제 수도실에 머물게 할 계획이었습니다. 하지만 그녀가 깨어나기 직전에 도착했을 때, 고귀한 패리스와 진정한 로미오가 이곳에 죽어 있었습니다. 그녀가 깨어나자 저는 밖으로 나와 하늘이 하신 이 일을 참고 받아들이자고 했습니다. 하지만 그때 소리가 들려 저는 무덤에서 멀리 물러나게 되었습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 122,
+  "tag": "P1087_6",
+  "en": "\"She was too desperate to go with me. It seems she killed herself. That is all I know. Her Nurse knows about the marriage. If anything went wrong because of my fault, let my old life be sacrificed to the harshest law. Let it happen sooner than its time.\"",
+  "ko": "\"그녀는 너무 절망해서 저와 함께 가려 하지 않았습니다. 그녀가 스스로 목숨을 끊은 것 같습니다. 제가 아는 것은 여기까지입니다. 유모도 결혼에 대해 알고 있습니다. 제 잘못으로 일이 틀어졌다면, 이 늙은 목숨을 가장 엄한 법에 바치겠습니다. 제 명이 다하기 전에 거두어 가십시오.\"",
+  "is_header": false
+ },
+ {
+  "id": 123,
+  "tag": "P1088_1",
+  "en": "The Prince asks, \"We have always known you as a holy man. Where is Romeo's man? What can he say about this?\"",
+  "ko": "영주가 묻는다. \"우리는 늘 그대를 거룩한 사람으로 알아 왔다. 로미오의 하인은 어디 있느냐? 그는 이 일에 대해 무슨 말을 할 수 있느냐?\"",
+  "is_header": false
+ },
+ {
+  "id": 124,
+  "tag": "P1089_1",
+  "en": "Balthasar says, \"I brought my master news of Juliet's death. Then he rode fast from Mantua to this place, to this same tomb. He told me to give this letter to his father early in the morning. Going into the tomb, he threatened to kill me if I did not leave him alone there.\"",
+  "ko": "발타자르가 말한다. \"제 주인님께 줄리엣의 죽음을 알렸습니다. 그러자 주인님은 만토바에서 이곳, 바로 이 무덤으로 급히 말을 달려오셨습니다. 주인님은 아침 일찍 이 편지를 아버님께 전하라고 하셨습니다. 무덤에 들어가시면서, 혼자 두고 떠나지 않으면 저를 죽이겠다고 하셨습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 125,
+  "tag": "P1090_1",
+  "en": "The Prince asks, \"Give me the letter. I will look at it. Where is the Count's page who called the watchmen? You there, why did your master come to this place?\"",
+  "ko": "영주가 묻는다. \"편지를 내놔라. 내가 확인하겠다. 야경꾼들을 부른 백작의 시동은 어디 있느냐? 너, 네 주인은 왜 이곳에 온 것이냐?\"",
+  "is_header": false
+ },
+ {
+  "id": 126,
+  "tag": "P1091_1",
+  "en": "The page says, \"He came with flowers to scatter on his lady's grave. He told me to stand away, and I did so. Soon someone came with a light to open the tomb. Then my master drew his sword on him. Then I ran away to call the watchmen.\"",
+  "ko": "시동이 말한다. \"주인님은 아가씨의 무덤에 뿌릴 꽃을 가지고 오셨습니다. 저더러 떨어져 있으라고 하셔서 그렇게 했습니다. 곧 누군가 횃불을 들고 무덤을 열러 왔습니다. 그러자 주인님이 그 사람에게 칼을 뽑으셨습니다. 저는 야경꾼들을 부르기 위해 도망쳤습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 127,
+  "tag": "P1092_1",
+  "en": "The Prince says, \"This letter confirms the Friar's words. It tells of their love and the news of her death. He writes here that he bought poison from a poor medicine seller. He came to this vault to die and lie with Juliet. Where are these enemies? Capulet! Montague!\"",
+  "ko": "영주가 말한다. \"이 편지는 신부의 말을 확인해 준다. 두 사람의 사랑과 그녀의 죽음 소식이 적혀 있다. 가난한 약장수에게서 독약을 샀다고 여기 적었다. 줄리엣 곁에서 죽어 함께 눕기 위해 이 묘실에 온 것이다. 원수들은 어디 있느냐? 캐퓰릿! 몬태규!\"",
+  "is_header": false
+ },
+ {
+  "id": 128,
+  "tag": "P1092_2",
+  "en": "\"Look at what a punishment is placed on your hatred. Heaven found a way to kill your joys with love! And I, for ignoring your fights, have lost two relatives. All are punished.\"",
+  "ko": "\"너희의 증오가 어떤 벌을 받았는지 보아라. 하늘은 사랑으로 너희의 기쁨을 죽일 방법을 찾아냈다! 나 또한 너희 싸움을 눈감아 준 탓에 친척 둘을 잃었다. 모두가 벌을 받았다.\"",
+  "is_header": false
+ },
+ {
+  "id": 129,
+  "tag": "P1093_1",
+  "en": "Capulet says, \"Oh brother Montague, give me your hand. This handshake is my daughter's wedding gift from you. I can ask for nothing more.\"",
+  "ko": "캐퓰릿이 말한다. \"오, 몬태규 형제, 손을 주시오. 이 악수가 당신이 내 딸에게 주는 결혼 선물이오. 더는 바랄 것이 없소.\"",
+  "is_header": false
+ },
+ {
+  "id": 130,
+  "tag": "P1094_1",
+  "en": "Montague says, \"But I can give you more. I will make her statue out of pure gold. It will stand as long as Verona is called Verona. No statue will be worth as much as that of true and faithful Juliet.\"",
+  "ko": "몬태규가 말한다. \"하지만 나는 더 드릴 수 있소. 순금으로 그 아이의 조각상을 세우겠소. 베로나가 베로나라 불리는 한 그 조각상은 서 있을 것이오. 진실하고 충실했던 줄리엣의 조각상만큼 귀한 조각상은 없을 것이오.\"",
+  "is_header": false
+ },
+ {
+  "id": 131,
+  "tag": "P1095_1",
+  "en": "Capulet says, \"Romeo's statue will lie by his lady's, just as rich. They are poor sacrifices of our hatred.\"",
+  "ko": "캐퓰릿이 말한다. \"로미오의 조각상도 똑같이 화려하게 그 아내 곁에 누울 것이오. 우리 증오가 바친 가엾은 희생물들이오.\"",
+  "is_header": false
+ },
+ {
+  "id": 132,
+  "tag": "P1096_1",
+  "en": "The Prince says, \"This morning brings a gloomy peace. The sun will not show its face because of the sadness. Go now, and we will talk more about these sad things. Some will be pardoned, and some punished. No story was ever sadder than this story of Juliet and her Romeo.\"",
+  "ko": "영주가 말한다. \"오늘 아침은 음울한 평화를 가져오는구나. 슬픔 때문에 태양도 얼굴을 내비치지 않을 것이다. 이제 가서, 이 슬픈 일들을 더 이야기하자. 용서받는 자도 있을 것이고 처벌받는 자도 있을 것이다. 줄리엣과 그녀의 로미오에 관한 이 이야기보다 더 슬픈 이야기는 없었다.\"",
+  "is_header": false
+ },
+ {
+  "id": 133,
+  "tag": "P1097",
+  "en": "They all leave.",
+  "ko": "모두 나간다.",
+  "is_header": false
+ }
+]

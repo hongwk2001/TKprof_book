@@ -1,0 +1,93 @@
+[
+ {
+  "id": 1,
+  "tag": "P0971",
+  "en": "Act 5, Scene 2 — Friar Lawrence’s Cell",
+  "ko": "5막 2장 — 로런스 신부의 수도실",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "P0971_s",
+  "en": "Friar Lawrence learns that his letter to Romeo never arrived. He hurries to the tomb.",
+  "ko": "로런스 신부는 로미오에게 보낸 편지가 전해지지 않았다는 것을 알게 된다. 그는 서둘러 무덤으로 간다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "P0973_1",
+  "en": "Friar John, another priest, enters and says, \"Holy Franciscan Friar! Brother, hello!\"",
+  "ko": "또 다른 신부인 존 신부가 들어와 말한다. \"거룩한 프란치스코회 형제여! 형제여, 계십니까!\"",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "P0975_1",
+  "en": "Friar Lawrence enters and says, \"This should be the voice of Friar John. Welcome from Mantua. What does Romeo say? Or, if he has written his thoughts, give me his letter.\"",
+  "ko": "로런스 신부가 들어와 말한다. \"존 신부 목소리로군. 만토바에서 잘 돌아왔네. 로미오는 뭐라던가? 생각을 편지로 적었다면 그 편지를 주게.\"",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "P0976_1",
+  "en": "Friar John says, \"I went to find another barefoot friar of our order to go with me. He was here in this city visiting the sick. When I found him, the town health officers stopped us. They thought we had both been in a house where the plague was spreading.\"",
+  "ko": "존 신부가 말한다. \"저와 함께 갈 우리 수도회의 다른 맨발 신부를 찾으러 갔어요. 그분은 병자들을 돌보러 이 도시에 와 계셨죠. 그분을 찾았을 때, 마을 보건 관리인들이 우리를 막아 세웠어요. 그들은 우리가 역병이 퍼진 집에 함께 있었던 것으로 생각했거든요.\"",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "P0976_2",
+  "en": "\"They sealed the doors and would not let us out. So my trip to Mantua was stopped.\"",
+  "ko": "\"그들은 문을 봉쇄하고 우리를 내보내 주지 않았어요. 그래서 만토바로 가는 제 여정이 중단되었어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "P0977_1",
+  "en": "Friar Lawrence asks, \"Then who carried my letter to Romeo?\"",
+  "ko": "로런스 신부가 묻는다. \"그럼 누가 내 편지를 로미오에게 가져갔나?\"",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "P0978_1",
+  "en": "Friar John says, \"I could not send it. Here it is now. I could not find a messenger to bring it to you. They were very afraid of the infection.\"",
+  "ko": "존 신부가 말한다. \"보낼 수가 없었어요. 여기 그대로 있어요. 신부님께 도로 가져다줄 사람도 찾을 수 없었어요. 다들 전염병을 너무 무서워했거든요.\"",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "P0979_1",
+  "en": "Friar Lawrence says, \"Unfortunate luck! By my brotherhood, the letter was not simple but full of important instructions. Ignoring it may cause much danger. Friar John, go now and get me an iron crowbar. Bring it straight to my cell.\"",
+  "ko": "로런스 신부가 말한다. \"운도 없지! 우리 형제의 의리를 걸고 말하지만, 그 편지는 예사 편지가 아니라 중요한 지시가 가득했네. 그걸 전하지 못하면 큰 위험이 생길 수 있네. 존 신부, 지금 가서 쇠지렛대를 하나 구해 주게. 곧장 내 수도실로 가져오게.\"",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "P0980_1",
+  "en": "Friar John says, \"Brother, I will go and bring it to you.\"",
+  "ko": "존 신부가 말한다. \"형제님, 가서 가져올게요.\"",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0981",
+  "en": "Friar John leaves.",
+  "ko": "존 신부가 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0982_1",
+  "en": "Friar Lawrence says, \"Now I must go to the tomb alone. Juliet will wake in three hours. She will scold me because Romeo did not know about these events. But I will write to Mantua again. I will keep her in my cell until Romeo comes. Poor living body, trapped in a dead man's tomb.\"",
+  "ko": "로런스 신부가 말한다. \"이제 혼자 무덤으로 가야 한다. 줄리엣은 세 시간 안에 깨어날 것이다. 로미오가 이 일을 모른다는 걸 알면 그 애는 나를 원망하겠지. 하지만 만토바에 다시 편지를 쓰겠다. 로미오가 올 때까지 그 애를 내 수도실에 숨겨 두겠다. 죽은 자의 무덤에 갇힌 가여운 산 몸이여.\"",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0983",
+  "en": "Friar Lawrence leaves.",
+  "ko": "로런스 신부가 나간다.",
+  "is_header": false
+ }
+]

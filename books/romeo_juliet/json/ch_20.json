@@ -1,0 +1,177 @@
+[
+ {
+  "id": 1,
+  "tag": "P0865",
+  "en": "Act 4, Scene 4 — Hall in Capulet’s House",
+  "ko": "4막 4장 — 캐퓰릿 집의 홀",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "P0865_s",
+  "en": "Early in the morning, the Capulet house gets ready for the wedding.",
+  "ko": "이른 아침, 캐퓰릿 집안은 결혼식 준비로 바쁘다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "P0866",
+  "en": "Lady Capulet and the Nurse enter.",
+  "ko": "캐퓰릿 부인과 유모가 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "P0867_1",
+  "en": "Lady Capulet says, \"Here, take these keys and get more spices, Nurse.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"여기 이 열쇠를 가지고 가서 향신료를 더 가져오너라, 유모.\"",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "P0868_1",
+  "en": "The Nurse says, \"They want dates and quinces in the pastry.\"",
+  "ko": "유모가 말한다. \"주방에서 과자에 넣을 대추와 모과를 달래요.\"",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "P0870_1",
+  "en": "Capulet enters and says, \"Come, stir, stir, stir, because the second rooster has crowed! The church bell has rung and it is three o'clock. Check on the baked meats, Angelica, and do not worry about the cost.\"",
+  "ko": "캐퓰릿이 들어와 말한다. \"자, 어서 움직여, 움직여! 두 번째 닭이 울었다! 교회 종이 울렸고 벌써 세 시다. 안젤리카, 고기 굽는 것 좀 살펴봐. 돈은 아끼지 말고.\"",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "P0871_1",
+  "en": "The Nurse says, \"Go, you old housewife, go. Go to bed. I promise you will be sick tomorrow. You will be sick from staying awake tonight.\"",
+  "ko": "유모가 말한다. \"가세요, 이 살림꾼 영감님, 어서요. 주무시러 가세요. 분명히 내일 몸살 나실 거예요. 오늘 밤 깨어 있는 바람에 몸이 상할 거예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "P0872_1",
+  "en": "Capulet says, \"No, not at all. What! I have watched all night before for smaller reasons. I was never sick then.\"",
+  "ko": "캐퓰릿이 말한다. \"아니, 전혀. 뭐라고! 전에도 이보다 사소한 일로 밤을 새웠지만 한 번도 아프지 않았어.\"",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "P0873_1",
+  "en": "Lady Capulet says, \"Yes, you were a real woman-chaser in your day. But I will keep an eye on you now, so you do not stay up for that.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"그럼요, 한때는 여자 꽁무니깨나 쫓아다니셨죠. 하지만 이제는 그런 일로 밤새지 못하게 제가 지켜볼 거예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "P0874",
+  "en": "Lady Capulet and the Nurse leave.",
+  "ko": "캐퓰릿 부인과 유모가 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0875_1",
+  "en": "Capulet says, \"Jealous, jealous!\"",
+  "ko": "캐퓰릿이 말한다. \"질투하는군, 질투해!\"",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0876",
+  "en": "Servants enter with spits, logs, and baskets.",
+  "ko": "종들이 꼬챙이와 장작, 바구니를 들고 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0877_1",
+  "en": "Capulet goes on, \"Now, man, what is that?\"",
+  "ko": "캐퓰릿이 말을 잇는다. \"이봐, 그건 뭐냐?\"",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "P0878_1",
+  "en": "The first servant says, \"These are things for the cook, sir. But I do not know what they are.\"",
+  "ko": "첫째 하인이 말한다. \"이것들은 요리사를 위한 것들입니다. 하지만 그것이 무엇인지는 모르겠습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 15,
+  "tag": "P0879_1",
+  "en": "Capulet says, \"Hurry up. Move faster.\"",
+  "ko": "캐퓰릿이 말한다. \"서둘러, 서둘러.\"",
+  "is_header": false
+ },
+ {
+  "id": 16,
+  "tag": "P0880",
+  "en": "The first servant leaves.",
+  "ko": "첫째 하인이 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 17,
+  "tag": "P0881_1",
+  "en": "Capulet goes on, \"You there, go get drier logs. Call Peter. He will show you where they are.\"",
+  "ko": "캐퓰릿이 말을 잇는다. \"거기 너, 가서 마른 장작을 가져와라. 피터를 불러라. 그 애가 어디 있는지 알려 줄 거다.\"",
+  "is_header": false
+ },
+ {
+  "id": 18,
+  "tag": "P0882_1",
+  "en": "The second servant says, \"I have a head, sir. I can find the logs myself. I will not trouble Peter for it.\"",
+  "ko": "둘째 하인이 말한다. \"저도 머리가 있습니다. 장작은 제가 직접 찾겠습니다. 피터를 번거롭게 하지 않겠습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 19,
+  "tag": "P0883",
+  "en": "The second servant leaves.",
+  "ko": "둘째 하인이 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 20,
+  "tag": "P0884_1",
+  "en": "Capulet says, \"By God, well said. You funny rascal, ha! You will be head of the logs, you blockhead. My goodness, it is day. The Count will be here with music soon. He said he would come. I hear him nearby.\"",
+  "ko": "캐퓰릿이 말한다. \"옳거니, 말 잘했다. 이 녀석, 참 웃기는 놈이로다! 넌 장작 대장이다, 이 나무토막 같은 녀석아. 세상에, 벌써 낮이다. 곧 음악과 함께 백작이 도착할 것이다. 그가 오겠다고 말했다. 그가 오는 소리가 들린다.\"",
+  "is_header": false
+ },
+ {
+  "id": 21,
+  "tag": "P0885",
+  "en": "The musicians play music.",
+  "ko": "음악가들이 연주를 한다.",
+  "is_header": false
+ },
+ {
+  "id": 22,
+  "tag": "P0886_1",
+  "en": "Capulet goes on, \"Nurse! Wife! Hey! Nurse, I say!\"",
+  "ko": "캐퓰릿이 말을 잇는다. \"유모! 부인! 이봐! 유모, 거기 있느냐!\"",
+  "is_header": false
+ },
+ {
+  "id": 23,
+  "tag": "P0887",
+  "en": "The Nurse comes back.",
+  "ko": "유모가 다시 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 24,
+  "tag": "P0888_1",
+  "en": "Capulet goes on, \"Go wake Juliet and help her get ready. I will go and talk with Paris while you move fast. Move fast; the groom has already arrived. I say, hurry!\"",
+  "ko": "캐퓰릿이 말을 잇는다. \"가서 줄리엣을 깨우고 준비를 도와라. 나는 가서 패리스와 이야기하고 있을 테니, 서둘러라. 서둘러라, 신랑이 벌써 도착했다. 어서 서둘러라!\"",
+  "is_header": false
+ },
+ {
+  "id": 25,
+  "tag": "P0889",
+  "en": "They all leave.",
+  "ko": "모두 나간다.",
+  "is_header": false
+ }
+]

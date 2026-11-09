@@ -1,0 +1,345 @@
+[
+ {
+  "id": 1,
+  "tag": "P0788",
+  "en": "Act 4, Scene 1 — Friar Lawrence’s Cell",
+  "ko": "4막 1장 — 로런스 신부의 수도실",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "P0788_s",
+  "en": "Juliet goes to Friar Lawrence for help. He gives her a potion that will make her look dead, so she can escape and join Romeo.",
+  "ko": "줄리엣은 로런스 신부에게 도움을 청한다. 신부는 죽은 것처럼 보이게 하는 물약을 주어, 줄리엣이 도망쳐 로미오에게 갈 수 있게 한다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "P0789",
+  "en": "Friar Lawrence and Paris enter.",
+  "ko": "로런스 신부와 패리스가 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "P0790_1",
+  "en": "Friar Lawrence says, \"On Thursday, sir? The time is very short.\"",
+  "ko": "로런스 신부가 말한다. \"목요일이라고요, 백작님? 시간이 너무 촉박하네요.\"",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "P0791_1",
+  "en": "Paris says, \"My father Capulet wants it this way. And I will not slow him down.\"",
+  "ko": "패리스가 말한다. \"장인어른이 되실 캐퓰릿 경이 그렇게 원하세요. 저도 그분의 서두름을 늦출 생각은 없고요.\"",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "P0792_1",
+  "en": "Friar Lawrence says, \"You say you do not know the lady's mind. This is not the right way to do things. I do not like it.\"",
+  "ko": "로런스 신부가 말한다. \"백작님은 아가씨의 마음을 모른다고 하셨지요. 일이 순서가 맞지 않아요. 저는 마음에 들지 않아요.\"",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "P0793_1",
+  "en": "Paris says, \"She cries too much for Tybalt's death. Therefore, I have hardly talked about love. Love does not smile in a house of tears. Now, sir, her father thinks it is dangerous. He thinks she lets her sadness control her too much. In his wisdom, he hurries our marriage.\"",
+  "ko": "패리스가 말한다. \"그녀는 티볼트의 죽음 때문에 너무 많이 울어요. 그래서 저는 사랑에 대해 거의 말하지 않았어요. 눈물 가득한 집에는 사랑이 찾아오지 않거든요. 그런데 신부님, 그분의 아버지께서는 위험하다고 생각하세요. 그녀가 슬픔에 너무 깊이 빠져 있다고 생각하시죠. 그분의 지혜로, 결혼을 서두르시는 거예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "P0793_2",
+  "en": "\"He wants to stop the flow of her tears. Alone, she thinks about it too much; with company, she may forget it. Now do you know the reason for this haste?\"",
+  "ko": "\"그녀의 눈물을 멈추게 하고 싶어 하시거든요. 혼자 있으면 너무 깊이 생각하지만, 사람들과 함께 있으면 잊을 수도 있으니까요. 이제 왜 이렇게 서둘러야 하는지 아시겠어요?\"",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "P0794_1",
+  "en": "Friar Lawrence says to himself, \"I wish I did not know why it should be delayed. Look, sir, here comes the lady toward my cell.\"",
+  "ko": "로런스 신부가 혼잣말로 말한다. \"왜 늦춰야 하는지 내가 몰랐으면 좋으련만. 보세요, 백작님, 아가씨가 이리로 오네요.\"",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "P0795",
+  "en": "Juliet enters.",
+  "ko": "줄리엣이 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0796_1",
+  "en": "Paris says, \"I am happy to meet you, my lady and my wife!\"",
+  "ko": "패리스가 말한다. \"마침 잘 만났어요, 나의 아가씨, 나의 아내여!\"",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0797_1",
+  "en": "Juliet says, \"That may be true, sir, when I am a wife.\"",
+  "ko": "줄리엣이 말한다. \"그럴지도 모르죠, 제가 아내가 된다면요.\"",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0798_1",
+  "en": "Paris says, \"That may be, it must be, love, next Thursday.\"",
+  "ko": "패리스가 말한다. \"그럴 거예요, 반드시 그래야 하고요, 내 사랑, 다음 목요일에.\"",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "P0799_1",
+  "en": "Juliet says, \"What must happen will happen.\"",
+  "ko": "줄리엣이 말한다. \"일어날 일은 일어나겠지요.\"",
+  "is_header": false
+ },
+ {
+  "id": 15,
+  "tag": "P0800_1",
+  "en": "Friar Lawrence says, \"That is certainly true.\"",
+  "ko": "로런스 신부가 말한다. \"그건 확실한 말씀이지.\"",
+  "is_header": false
+ },
+ {
+  "id": 16,
+  "tag": "P0801_1",
+  "en": "Paris asks, \"Do you come to confess to this priest?\"",
+  "ko": "패리스가 묻는다. \"이 신부님께 고해하러 오셨나요?\"",
+  "is_header": false
+ },
+ {
+  "id": 17,
+  "tag": "P0802_1",
+  "en": "Juliet says, \"To answer that, I would have to confess to you.\"",
+  "ko": "줄리엣이 말한다. \"그 질문에 대답하면, 당신에게 고해하는 셈이 되겠네요.\"",
+  "is_header": false
+ },
+ {
+  "id": 18,
+  "tag": "P0803_1",
+  "en": "Paris says, \"Do not deny your love for me to him.\"",
+  "ko": "패리스가 말한다. \"신부님께 나를 사랑한다는 걸 부인하지 마세요.\"",
+  "is_header": false
+ },
+ {
+  "id": 19,
+  "tag": "P0804_1",
+  "en": "Juliet says, \"I will confess to you that I love him.\"",
+  "ko": "줄리엣이 말한다. \"당신에게 고백하죠, 저는 그분을 사랑해요.\"",
+  "is_header": false
+ },
+ {
+  "id": 20,
+  "tag": "P0805_1",
+  "en": "Paris says, \"I am sure you will say that you love me.\"",
+  "ko": "패리스가 말한다. \"당신도 저를 사랑한다고 말할 거라 확신해요.\"",
+  "is_header": false
+ },
+ {
+  "id": 21,
+  "tag": "P0806_1",
+  "en": "Juliet says, \"If I do, it will be worth more behind your back than to your face.\"",
+  "ko": "줄리엣이 말한다. \"그렇게 말한다면, 당신 앞에서 하는 것보다 뒤에서 하는 게 더 가치 있을 거예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 22,
+  "tag": "P0807_1",
+  "en": "Paris says, \"Poor soul. Your face is badly hurt by tears.\"",
+  "ko": "패리스가 말한다. \"가엾은 사람. 눈물 때문에 얼굴이 많이 상했군요.\"",
+  "is_header": false
+ },
+ {
+  "id": 23,
+  "tag": "P0808_1",
+  "en": "Juliet says, \"The tears have won only a small victory. My face was ugly enough before they attacked it.\"",
+  "ko": "줄리엣이 말한다. \"눈물이 이긴 건 아주 작은 승리일 뿐이에요. 눈물이 닿기 전에도 제 얼굴은 충분히 못생겼거든요.\"",
+  "is_header": false
+ },
+ {
+  "id": 24,
+  "tag": "P0809_1",
+  "en": "Paris says, \"You insult your face more than the tears do by saying that.\"",
+  "ko": "패리스가 말한다. \"그렇게 말하면 눈물보다 당신이 얼굴을 더 욕보이는 거예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 25,
+  "tag": "P0810_1",
+  "en": "Juliet says, \"That is not a lie, sir, because it is the truth. And what I said, I said about my own face.\"",
+  "ko": "줄리엣이 말한다. \"사실이니 거짓말이 아니지요. 그리고 제가 한 말은 제 얼굴에 대한 것이었어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 26,
+  "tag": "P0811_1",
+  "en": "Paris says, \"Your face is mine. And you have insulted it.\"",
+  "ko": "패리스가 말한다. \"당신의 얼굴은 내 것이에요. 그런데 당신이 그걸 모욕했네요.\"",
+  "is_header": false
+ },
+ {
+  "id": 27,
+  "tag": "P0812_1",
+  "en": "Juliet asks, \"It may be so, for it is not my own. Are you free now, holy father? Or should I come to you at the evening mass?\"",
+  "ko": "줄리엣이 묻는다. \"그럴지도 모르겠네요, 제 것이 아니니까요. 신부님, 지금 시간 괜찮으신가요? 아니면 저녁 미사 때 찾아뵈어야 할까요?\"",
+  "is_header": false
+ },
+ {
+  "id": 28,
+  "tag": "P0813_1",
+  "en": "Friar Lawrence says, \"I am free now, my thoughtful daughter. My lord, we must talk alone for a moment.\"",
+  "ko": "로런스 신부가 말한다. \"지금 괜찮다, 생각 깊은 딸아. 백작님, 잠시 둘이서만 이야기해야겠어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 29,
+  "tag": "P0814_1",
+  "en": "Paris says, \"God forbid that I should disturb your prayers! Juliet, I will wake you early on Thursday. Until then, goodbye. And keep this holy kiss.\"",
+  "ko": "패리스가 말한다. \"기도를 방해하다니 그럴 수는 없지요! 줄리엣, 목요일 아침 일찍 깨우러 올게요. 그때까지 안녕히. 그리고 이 거룩한 입맞춤을 간직해요.\"",
+  "is_header": false
+ },
+ {
+  "id": 30,
+  "tag": "P0815",
+  "en": "Paris leaves.",
+  "ko": "패리스가 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 31,
+  "tag": "P0816_1",
+  "en": "Juliet says, \"Oh, shut the door and come to cry with me. My situation is hopeless; it cannot be cured, and no one can help me!\"",
+  "ko": "줄리엣이 말한다. \"오, 문을 닫고 저와 함께 울어주세요. 제 상황은 절망적이라 고칠 수 없고, 아무도 저를 도와줄 수 없어요!\"",
+  "is_header": false
+ },
+ {
+  "id": 32,
+  "tag": "P0817_1",
+  "en": "Friar Lawrence says, \"Juliet, I already know your grief. It is more than my mind can handle. I hear that you must marry the Count. You must do it this coming Thursday. Nothing can stop it.\"",
+  "ko": "로런스 신부가 말한다. \"줄리엣, 네 슬픔은 이미 알고 있다. 내 머리로는 어찌할 수가 없구나. 네가 백작과 결혼해야 한다는 말을 들었다. 이번 주 목요일에 결혼해야 한다고 말이다. 아무것도 막을 수 없다.\"",
+  "is_header": false
+ },
+ {
+  "id": 33,
+  "tag": "P0818_1",
+  "en": "Juliet says, \"Do not tell me about this, Friar, unless you tell me how I can stop it. If your wisdom gives no help, just call my decision wise. I will use this knife to help it right now. God joined my heart and Romeo's. You joined our hands.\"",
+  "ko": "줄리엣이 말한다. \"신부님, 제가 어떻게 막을 수 있는지 알려주지 않으실 거라면 이런 이야기는 하지 마세요. 신부님의 지혜로도 도울 수 없다면, 제 결심이 현명하다고만 해 주세요. 그러면 지금 당장 이 칼로 해결하겠어요. 신께서 제 마음과 로미오의 마음을 묶어주셨어요. 신부님은 우리의 손을 묶어주셨고요.\"",
+  "is_header": false
+ },
+ {
+  "id": 34,
+  "tag": "P0818_2",
+  "en": "\"This hand, which you joined to Romeo's, will never sign another marriage. It may try, or my true heart may betray him for another man. Then this knife will kill both hand and heart. Therefore, use your long experience. Give me some immediate advice.\"",
+  "ko": "\"신부님이 로미오와 묶어주신 이 손은 결코 다른 결혼에 서명하지 않을 거예요. 이 손이 그러려 하거나, 제 마음이 그이를 배신하려 한다면요. 그러면 이 칼이 손과 마음을 모두 베어버릴 거예요. 그러니 신부님의 오랜 경험으로 지금 당장 조언을 주세요.\"",
+  "is_header": false
+ },
+ {
+  "id": 35,
+  "tag": "P0818_3",
+  "en": "\"If you cannot help, this bloody knife will judge between me and my terrible choice. It will settle what your years and skill could not settle with honor. Do not take a long time to speak. I long to die if what you say is not a cure.\"",
+  "ko": "\"도울 수 없으시다면, 저와 제 끔찍한 처지 사이를 이 피 묻은 칼이 판가름할 거예요. 신부님의 연륜과 지혜로도 명예롭게 풀지 못한 일을 이 칼이 끝낼 거예요. 말하는 데 오래 걸리지 마세요. 신부님 말씀이 해결책이 아니라면 저는 죽고 싶어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 36,
+  "tag": "P0819_1",
+  "en": "Friar Lawrence says, \"Wait, daughter, for I see a kind of hope. It requires a desperate action, just as desperate as the one we want to prevent. You would rather kill yourself than marry Count Paris. So you will likely dare to do something like death to escape this shame.\"",
+  "ko": "로런스 신부가 말한다. \"잠깐만, 내 딸아, 희망이 보이는구나. 그건 우리가 막으려는 일만큼이나 절박한 행동을 필요로 한다. 너는 패리스 백작과 결혼하느니 차라리 죽는 쪽을 택했지. 그러니 이 수치심에서 벗어나기 위해 죽음에 가까운 일을 감행할 수도 있겠구나.\"",
+  "is_header": false
+ },
+ {
+  "id": 37,
+  "tag": "P0819_2",
+  "en": "\"You are ready to face death itself to escape it. So if you dare, I will give you a remedy.\"",
+  "ko": "\"너는 이를 피하기 위해 죽음 그 자체에 맞설 준비가 되어 있다. 그러니 네가 용기를 낸다면, 내가 해결책을 주마.\"",
+  "is_header": false
+ },
+ {
+  "id": 38,
+  "tag": "P0820_1",
+  "en": "Juliet says, \"Tell me to jump instead of marrying Paris. I could jump from the walls of that tower over there. Or tell me to walk on roads full of thieves. Or I could hide where snakes are. Chain me with roaring bears. Or hide me every night in a house for dead bodies.\"",
+  "ko": "줄리엣이 말한다. \"패리스와 결혼하느니 차라리 뛰어내리라고 하세요. 저기 보이는 저 탑의 성벽에서 뛰어내릴 수도 있어요. 아니면 도둑이 우글거리는 길을 걸으라고 하세요. 뱀들이 있는 곳에 숨으라고 하세요. 포효하는 곰들과 함께 묶어두세요. 아니면 매일 밤 납골당에 숨겨 주세요.\"",
+  "is_header": false
+ },
+ {
+  "id": 39,
+  "tag": "P0820_2",
+  "en": "\"Cover me with dead men's rattling bones, stinking legs, and yellow jawless skulls. Or tell me to go into a new grave. Hide me with a dead man in his shroud, the cloth that wraps the dead. These things make me tremble when I hear them. But I will do them without fear or doubt.\"",
+  "ko": "\"죽은 자들의 덜컹거리는 뼈와 썩은 다리, 노란색의 턱 없는 해골들로 저를 덮어주세요. 아니면 새로운 무덤으로 가라고 말해주세요. 수의, 죽은 사람을 감싸는 천에 싸인 시체와 함께 숨겨 주세요. 이런 말들을 들으면 저는 몸이 떨려요. 하지만 두려움이나 의심 없이 그 일들을 할 거예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 40,
+  "tag": "P0820_3",
+  "en": "\"I will do them to stay a faithful, pure wife to my sweet love.\"",
+  "ko": "\"사랑하는 남편에게 흠 없는 아내로 남기 위해서라면요.\"",
+  "is_header": false
+ },
+ {
+  "id": 41,
+  "tag": "P0821_1",
+  "en": "Friar Lawrence says, \"Wait then. Go home, be happy, and agree to marry Paris. Wednesday is tomorrow, so make sure you lie alone tomorrow night. Do not let your Nurse stay in your room with you. Take this small bottle while you are in bed and drink all of this liquid.\"",
+  "ko": "로런스 신부가 말한다. \"그럼 됐다. 집에 가서 즐거운 척하고, 패리스와 결혼하겠다고 해라. 내일이 수요일이니, 내일 밤에는 혼자 누워 있어야 한다. 유모가 네 방에 함께 있게 해서는 안 된다. 침대에 누워서 이 작은 병을 꺼내 다 마셔라.\"",
+  "is_header": false
+ },
+ {
+  "id": 42,
+  "tag": "P0821_2",
+  "en": "\"A cold and sleepy feeling will move through your veins until your pulse stops. No warmth or breath will show that you live. The color in your lips and cheeks will fade to gray. Your eyes will close as if death has closed the day of life.\"",
+  "ko": "\"맥박이 멈출 때까지 차갑고 졸린 기운이 혈관을 타고 흐를 것이다. 네가 살아있다는 것을 보여주는 온기나 숨결은 나타나지 않을 것이다. 입술과 뺨의 색은 회색으로 변할 것이다. 마치 죽음이 생명의 날을 닫아버린 것처럼 네 눈이 감길 것이다.\"",
+  "is_header": false
+ },
+ {
+  "id": 43,
+  "tag": "P0821_3",
+  "en": "\"Every part of you will become stiff and cold so you look like death. In this appearance of death, you will stay for forty-eight hours. Then you will wake up as if from a pleasant sleep. When the groom comes in the morning to wake you, you will appear to be dead.\"",
+  "ko": "\"네 몸의 모든 부분이 굳고 차가워져서 마치 죽은 것처럼 보일 것이다. 이 죽은 듯한 모습으로 너는 마흔여덟 시간 동안 머물게 될 것이다. 그러고 나서 마치 기분 좋은 잠에서 깨어난 것처럼 눈을 뜰 것이다. 아침에 신랑이 너를 깨우러 올 때, 너는 죽은 것처럼 보일 것이다.\"",
+  "is_header": false
+ },
+ {
+  "id": 44,
+  "tag": "P0821_4",
+  "en": "\"As our custom is, you will be dressed in your best clothes. Your face will be uncovered on an open coffin. You will be carried to the old family vault, an underground tomb where all the Capulets lie. Before you wake up, Romeo will know our plan from my letters and he will come here.\"",
+  "ko": "\"관습에 따라 너는 가장 좋은 옷을 입고 있을 것이다. 열린 관 위에서 네 얼굴은 가려지지 않은 채 놓여 있을 것이다. 너는 캐퓰릿 일족이 모두 잠든 지하 무덤인 오래된 가족 묘실로 옮겨질 것이다. 네가 깨어나기 전에, 로미오는 내 편지를 통해 우리 계획을 알고 이곳으로 올 것이다.\"",
+  "is_header": false
+ },
+ {
+  "id": 45,
+  "tag": "P0821_5",
+  "en": "\"He and I will watch you wake up, and that same night, Romeo will take you to Mantua. This will free you from this shame if no silly whim or womanish fear weakens your courage.\"",
+  "ko": "\"그와 나는 네가 깨어나는 것을 지켜볼 것이고, 그날 밤 로미오는 너를 만토바로 데려갈 것이다. 어리석은 변덕이나 여자의 두려움이 네 용기를 약하게 만들지 않는다면, 이것이 너를 이 수치에서 구해줄 것이다.\"",
+  "is_header": false
+ },
+ {
+  "id": 46,
+  "tag": "P0822_1",
+  "en": "Juliet says, \"Give it to me, give it to me! Do not tell me about fear!\"",
+  "ko": "줄리엣이 말한다. \"저에게 주세요, 저에게요! 두려움에 대해 말씀하지 마세요!\"",
+  "is_header": false
+ },
+ {
+  "id": 47,
+  "tag": "P0823_1",
+  "en": "Friar Lawrence says, \"Wait. Go now. Be strong and successful in this decision. I will quickly send a friar to Mantua. I will give him my letters for your lord.\"",
+  "ko": "로런스 신부가 말한다. \"자, 받아라. 이제 가거라. 이 결심을 굳게 지키고 성공해라. 내가 곧바로 만토바에 신부를 보내겠다. 네 남편에게 보내는 내 편지를 들려 보내마.\"",
+  "is_header": false
+ },
+ {
+  "id": 48,
+  "tag": "P0824_1",
+  "en": "Juliet says, \"Love, give me strength, because strength will provide what I need. Goodbye, dear father.\"",
+  "ko": "줄리엣이 말한다. \"사랑이여, 제게 힘을 주세요. 그 힘이 저를 도울 거예요. 안녕히 계세요, 신부님.\"",
+  "is_header": false
+ },
+ {
+  "id": 49,
+  "tag": "P0825",
+  "en": "They all leave.",
+  "ko": "모두 나간다.",
+  "is_header": false
+ }
+]
