@@ -1,0 +1,373 @@
+[
+  {
+    "id": 1,
+    "tag": "H01",
+    "en": "Preface: To My Children",
+    "ko": "머리말: 아이들에게",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P0002",
+    "en": "My dear children,",
+    "ko": "사랑하는 나의 아이들에게,",
+    "is_header": true
+  },
+  {
+    "id": 3,
+    "tag": "P0003_1",
+    "en": "Some of you have already heard of the ancient Greeks. As you grow up, you will hear much more about them. The boys among you might spend a great deal of time reading Greek books.",
+    "ko": "여러분 중 몇몇은 이미 고대 그리스인들에 대해 들어보았을 것입니다. 여러분이 자라면서 그들에 대해 훨씬 더 많은 것을 듣게 될 것입니다. 소년들은 아마도 그리스 책을 읽는 데 많은 시간을 보낼지도 모릅니다.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P0003_2",
+    "en": "The girls may not learn the Greek language, but you will certainly come across many stories from Greek history. In fact, you will see things every day that we wouldn't have without these ancient Greeks. You can hardly find a well-written book that doesn't include Greek names, words, or proverbs.",
+    "ko": "소녀들은 그리스어를 배우지 않을 수도 있지만, 틀림없이 그리스 역사의 많은 이야기들을 접하게 될 것입니다. 사실, 여러분은 고대 그리스인들이 없었다면 존재하지 않았을 것들을 매일 보게 될 것입니다. 그리스의 이름이나 단어, 혹은 속담이 포함되지 않은 잘 쓰인 책을 찾기란 거의 불가능합니다.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P0003_3",
+    "en": "You can't walk through a large city without passing buildings designed in the Greek style. You can't enter a well-furnished room without seeing Greek statues, ornaments, or even furniture patterns. These ancient people have left a remarkable, lasting mark on our modern world.",
+    "ko": "큰 도시를 걷다 보면 그리스 양식으로 설계된 건물들을 지나치지 않을 수 없습니다. 잘 꾸며진 방에 들어가면 그리스 조각상이나 장식품, 심지어 가구의 무늬라도 반드시 보게 됩니다. 이 고대 사람들은 우리가 사는 현대 세계에 놀랍고도 영구적인 자취를 남겼습니다.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P0003_4",
+    "en": "As you grow and read more, you'll discover just how much we owe them. They laid the foundation for our mathematics and geometry—the study of numbers, shapes, and the forces that move objects. They started our sciences of geography and astronomy.",
+    "ko": "여러분이 자라서 더 많은 책을 읽게 되면, 우리가 그들에게 얼마나 많은 빚을 지고 있는지 깨닫게 될 것입니다. 그들은 숫자와 모양, 그리고 사물을 움직이는 힘을 연구하는 학문인 수학과 기하학의 기초를 다졌습니다. 그들은 지리학과 천문학이라는 과학을 시작했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P0003_5",
+    "en": "They also shaped our ideas of law, freedom, and politics, which teach us how to govern a peaceful and strong country. We even owe them our logic, the study of reasoning and words, and our metaphysics, the study of our own thoughts and souls. Finally, they made their language so beautiful that foreigners often preferred it to their own.",
+    "ko": "또한 평화롭고 강한 나라를 다스리는 방법을 가르쳐 주는 법, 자유, 정치에 대한 우리의 개념도 형성했습니다. 심지어 추론과 언어를 연구하는 논리학과, 우리 자신의 생각과 영혼을 연구하는 형이상학 역시 그들의 덕분입니다. 마지막으로, 그들은 자신들의 언어를 매우 아름답게 가꾸어 외국인들조차 모국어보다 그것을 더 선호할 정도였습니다.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P0003_6",
+    "en": "Greek eventually became the common language of educated people across the ancient world, stretching from Persia and Egypt all the way to Spain and Britain. Because of this, the New Testament was written in Greek so that people across the entire Roman Empire could read and understand it. Aside from the Jewish people and the Bible they passed down to us, we owe more to the ancient Greeks than to anyone else on earth.",
+    "ko": "그리스어는 결국 페르시아와 이집트에서부터 스페인과 브리튼에 이르기까지 고대 세계 전역에 걸쳐 교육받은 사람들의 공용어가 되었습니다. 이러한 이유로, 로마 제국 전역의 사람들이 읽고 이해할 수 있도록 신약성경은 그리스어로 쓰였습니다. 유대인들과 그들이 우리에게 전해준 성경을 제외한다면, 우리는 세상 그 누구보다도 고대 그리스인들에게 더 많은 것을 빚지고 있습니다.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P0004_1",
+    "en": "You must remember one important thing: 'Greeks' was not their real name. They always called themselves 'Hellens. The Romans misnamed them Greeks, and we adopted that incorrect name from the Romans.",
+    "ko": "여러분은 한 가지 중요한 사실을 기억해야 합니다. '그리스인'은 그들의 진짜 이름이 아니었습니다. 그들은 언제나 스스로를 '헬렌인'이라고 불렀습니다. 로마인들이 그들을 그리스인이라고 잘못 불렀고, 우리는 로마인들로부터 그 잘못된 이름을 받아들인 것입니다.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P0004_2",
+    "en": "It would take a long time to explain exactly why. The Hellens were made up of many different tribes and small, independent states. When you read in this book about the Minuai, the Athenians, and others, remember that they were all part of the one great Hellen race.",
+    "ko": "정확히 그 이유를 설명하려면 아주 오랜 시간이 걸릴 것입니다. 헬렌인들은 여러 다양한 부족과 작고 독립적인 국가들로 이루어져 있었습니다. 이 책에서 미누아이나 아테네인 등에 대해 읽게 될 때, 그들이 모두 하나의 위대한 헬렌 민족의 일부였다는 것을 기억하십시오.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P0004_3",
+    "en": "They lived in the area we now call Greece, scattered across the islands of the Aegean Sea, and along the coast of Asia Minor (which they called Ionia), from the Hellespont to the island of Rhodes. Later, they built colonies and cities in Sicily and Southern Italy, a region known as Great Greece. They even settled along the shores of the Black Sea at places like Sinope, Kerch, and Sevastopol.",
+    "ko": "그들은 오늘날 우리가 그리스라 부르는 지역에 살았으며, 에게해의 여러 섬들과 헬레스폰트에서 로도스 섬에 이르는 소아시아 연안(그들은 이오니아라 불렀습니다)에 흩어져 살았습니다. 훗날 그들은 대그리스라 불리는 시칠리아와 남이탈리아 지역에 식민지와 도시들을 건설했습니다. 심지어 그들은 시노페, 케르치, 세바스토폴 같은 흑해 연안에도 정착했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P0004_4",
+    "en": "Centuries later, they spread under the rule of Alexander the Great, conquering Egypt, Syria, Persia, and the entire East. But all of that happened hundreds of years after my stories take place. In the time of these tales, there were no Greeks on the Black Sea shores, in Sicily, in Italy, or anywhere outside of Greece and Ionia.",
+    "ko": "수백 년이 흐른 후, 그들은 알렉산더 대왕의 지배 아래 퍼져나가 이집트, 시리아, 페르시아, 그리고 동방 전체를 정복했습니다. 하지만 이 모든 일은 제 이야기들이 일어난 지 수백 년 뒤의 일입니다. 이 이야기들이 펼쳐지던 시절에는 흑해 연안이나 시칠리아, 이탈리아, 혹은 그리스와 이오니아 밖 그 어디에도 그리스인들은 없었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P0004_5",
+    "en": "If you ever feel puzzled by the place names in this book, pull out a map and track them down. It will be a much more pleasant way to learn geography than staring at a dull textbook.",
+    "ko": "이 책에 나오는 지명들이 혼란스럽게 느껴진다면 지도를 꺼내어 찾아보십시오. 따분한 교과서를 들여다보는 것보다 훨씬 즐겁게 지리를 배우는 방법이 될 것입니다.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P0005_1",
+    "en": "I love these ancient Hellens deeply. I would be very ungrateful if I didn't, considering everything they have taught me. They feel like brothers to me, even though they died hundreds of years ago.",
+    "ko": "저는 이 고대 헬렌인들을 깊이 사랑합니다. 그들이 제게 가르쳐 준 모든 것을 생각하면, 그렇지 않는 것이 오히려 매우 배은망덕한 일일 것입니다. 비록 그들은 수백 년 전에 세상을 떠났지만, 제게는 마치 형제처럼 느껴집니다.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P0005_2",
+    "en": "Since you have to learn about them anyway, I want to be the first to introduce you. I say to you, Come here, children, at this wonderful Christmas time. It is a season when all of God’s creatures should rejoice together and bless Him who saved us all.",
+    "ko": "어차피 여러분도 그들에 대해 배워야 하니, 제가 가장 먼저 여러분에게 그들을 소개해 주고 싶습니다. 저는 이렇게 말하고 싶습니다. 이 놀라운 크리스마스 시기에 이리 오렴, 아이들아. 지금은 하나님의 모든 피조물이 함께 기뻐하고, 우리 모두를 구원하신 그분을 축복해야 할 계절입니다.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P0005_3",
+    "en": "Come and meet my old friends. I knew them long before you were born.",
+    "ko": "와서 저의 오랜 친구들을 만나보십시오. 저는 여러분이 태어나기 훨씬 전부터 그들을 알고 있었답니다.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P0005_4",
+    "en": "They have come to visit us at Christmas from the eternal world. They want to tell you some of the fairy tales they loved when they were young like you.",
+    "ko": "그들은 크리스마스를 맞아 영원한 세계에서 우리를 찾아왔습니다. 그들은 여러분처럼 어렸을 때 사랑했던 몇 가지 옛날이야기를 들려주고 싶어 합니다.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P0006_1",
+    "en": "Nations begin as children, just like you, even though they are made up of grown adults. At first, they are men and women with the hearts of children.",
+    "ko": "국가란 비록 다 자란 어른들로 이루어져 있지만, 여러분처럼 처음에는 아이들로서 시작됩니다. 처음에 그들은 어린아이의 마음을 가진 남녀들입니다.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P0006_2",
+    "en": "They are open, affectionate, trusting, and eager to learn about all the wonders around them. Too often, they are also greedy, passionate, and silly, exactly as children can be.",
+    "ko": "그들은 마음이 열려 있고, 다정하고, 잘 믿으며, 주변의 모든 경이로운 것들을 배우고 싶어 합니다. 또한 그들은 아이들이 그럴 수 있듯 탐욕스럽고, 충동적이며, 어리석을 때도 너무나 많습니다.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P0007_1",
+    "en": "These ancient Greeks were eager to learn from all the nations around them. From the Phoenicians, they learned shipbuilding and perhaps the alphabet. From the Assyrians, they learned painting, carving, and how to build with wood and stone.",
+    "ko": "이 고대 그리스인들은 주변의 모든 국가들로부터 배우기를 열망했습니다. 그들은 페니키아인들로부터 배 만드는 법과 어쩌면 알파벳을 배웠을 것입니다. 아시리아인들로부터는 그림 그리는 법, 조각하는 법, 그리고 나무와 돌로 건축하는 법을 배웠습니다.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P0007_2",
+    "en": "From the Egyptians, they learned astronomy and many other complex subjects. In this way, they were like our own ancestors, the Northmen. You love hearing about them.",
+    "ko": "이집트인들로부터는 천문학과 그 밖의 많은 복잡한 학문들을 배웠습니다. 이런 점에서 그들은 우리의 조상인 북유럽인들과 같았습니다. 여러분은 그들에 대한 이야기를 듣는 것을 좋아하지요.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P0007_3",
+    "en": "Although the Northmen were wild and rough, they were humble and happy to learn from anyone. Because the Greeks were open-hearted and willing to be taught, God rewarded them just as He rewarded our ancestors. He made them wiser than the very people who taught them.",
+    "ko": "북유럽인들은 거칠고 투박했지만, 겸손하게 누구에게서든 기꺼이 배웠습니다. 그리스인들은 열린 마음을 가지고 배우려 했기 때문에, 하나님은 우리 조상들에게 주셨던 것처럼 그들에게도 보상을 내려주셨습니다. 그분은 그들을 가르쳤던 사람들보다 그들을 더 지혜롭게 만드셨습니다.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P0007_4",
+    "en": "God loves to see men and children eager to learn. He always gives more to those who use what they already have. So the Greeks grew wise and powerful.",
+    "ko": "하나님은 어른들과 아이들이 배우기를 열망하는 모습을 보기 좋아하십니다. 그분은 자신이 가진 것을 활용하는 자들에게 항상 더 많은 것을 주십니다. 그리하여 그리스인들은 지혜롭고 강력해졌습니다.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P0007_5",
+    "en": "They wrote poems that will last until the end of the world—poems you must read for yourselves one day, at least in English, if not in Greek. They learned to carve statues and build temples that are still considered wonders of the world. God taught them many other wondrous things, and we are still benefiting from that wisdom today.",
+    "ko": "그들은 세상이 끝날 때까지 남을 시를 썼는데, 언젠가 여러분도 그리스어로는 아니더라도 최소한 영어로라도 직접 읽어보아야 할 시들입니다. 그들은 조각상을 새기고 신전을 짓는 법을 배웠으며, 그것들은 오늘날까지도 세계의 불가사의로 여겨집니다. 하나님은 그들에게 다른 많은 경이로운 것들을 가르쳐 주셨고, 우리는 오늘날에도 여전히 그 지혜의 혜택을 누리고 있습니다.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P0008",
+    "en": "You must not think, children, that just because these ancient Greeks were pagans, God did not care for them or teach them anything.",
+    "ko": "아이들아, 이 고대 그리스인들이 이교도였다고 해서 하나님이 그들을 돌보지 않으셨다거나 아무것도 가르치지 않으셨다고 생각해서는 안 됩니다.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P0009_1",
+    "en": "The Bible tells us otherwise. It says that God's mercy covers all His creations, and that He understands the hearts of all people and shapes their work. Later, when the Greeks had grown wicked and fallen into decline, St.",
+    "ko": "성경은 우리에게 그렇지 않다고 말합니다. 하나님의 자비는 그분의 모든 피조물을 덮으며, 그분은 모든 사람의 마음을 이해하시고 그들의 일을 빚어내신다고 성경은 말합니다. 훗날 그리스인들이 악해지고 쇠퇴의 길을 걷게 되었을 때, 성(聖)",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P0009_2",
+    "en": "Paul told them they should have known better. After all, they were God's own children, just as their own poets had written.",
+    "ko": "바울은 그들에게 그들이 더 잘 알았어야 했다고 말했습니다. 결국 그들 자신들의 시인들이 썼던 것처럼 그들은 하나님의 친자녀들이었기 때문입니다.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P0009_3",
+    "en": "The good God had placed them where they were so they could seek the Lord and find Him, for He was never far from any of them. Clement of Alexandria, a wise and good Father of the early Church, even said that God sent philosophy down from heaven to the Greeks, just as He sent the Gospel down to the Jewish people.",
+    "ko": "선하신 하나님은 그들이 주님을 구하고 찾을 수 있도록 그들을 그 자리에 두셨습니다. 그분은 결코 그들 누구에게서도 멀리 계시지 않았기 때문입니다. 초대 교회의 지혜롭고 선한 교부였던 알렉산드리아의 클레멘스는 하나님이 유대인들에게 복음을 내려주셨듯이 그리스인들에게는 하늘에서 철학을 내려주셨다고 말하기까지 했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P0010",
+    "en": "Remember that Jesus Christ is the Light who guides everyone who comes into the world. No one can think a good thought, feel the right feeling, or understand the true nature of anything on earth or in heaven unless the good Lord Jesus teaches them through His Spirit.",
+    "ko": "예수 그리스도는 세상에 오는 모든 사람을 인도하시는 빛이라는 사실을 기억하십시오. 선하신 주 예수님이 그분의 성령을 통해 가르쳐 주시지 않는다면, 누구도 선한 생각을 하거나, 올바른 감정을 느끼거나, 하늘과 땅에 있는 어떤 것의 본질도 이해할 수 없습니다.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P0011_1",
+    "en": "However, as St. Paul reminded them, these Greeks eventually forgot what God had taught them. Even though they were God's children, they worshipped idols made of wood and stone.",
+    "ko": "하지만 성(聖) 바울이 그들에게 일깨워 주었듯이, 이 그리스인들은 결국 하나님이 그들에게 가르쳐 주신 것을 잊어버렸습니다. 하나님의 자녀였음에도 불구하고 그들은 나무와 돌로 만든 우상을 숭배했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P0011_2",
+    "en": "They fell into sin, shame, cowardice, and slavery. Ultimately, they were driven out of the beautiful land God had given them for so many years.",
+    "ko": "그들은 죄악, 수치, 비겁함, 그리고 노예 상태로 전락했습니다. 결국 그들은 하나님께서 아주 오랫동안 그들에게 주셨던 아름다운 땅에서 쫓겨나고 말았습니다.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P0012_1",
+    "en": "Like all great nations that leave behind more than just mounds of dirt, the Greeks initially believed in the One True God who created heaven and earth. But over time, like other nations, they began to worship other gods. These were actually angels and spirits who they believed lived across their land.",
+    "ko": "단순한 흙더미 이상의 것을 남긴 모든 위대한 국가들처럼, 그리스인들도 처음에는 천지를 창조하신 유일하고 참된 하나님을 믿었습니다. 하지만 시간이 흐르면서 다른 국가들처럼 그들도 다른 신들을 숭배하기 시작했습니다. 사실 이들은 그들이 자신들의 땅 곳곳에 살고 있다고 믿었던 천사와 영혼들이었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P0012_2",
+    "en": "They worshipped Zeus, the Father of gods and men, who was a faint memory of the true God. They also worshipped Hera, his wife; Apollo, the Sun-god;",
+    "ko": "그들은 신과 인간의 아버지인 제우스를 숭배했는데, 그는 참된 하나님에 대한 희미한 기억이었습니다. 그의 아내인 헤라와, 태양의 신 아폴로,",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P0012_3",
+    "en": "Athena, the goddess of wisdom and useful arts; Aphrodite, the Queen of Beauty; Poseidon, the Ruler of the Sea;",
+    "ko": "지혜와 실용적인 기술의 여신 아테나, 아름다움의 여왕 아프로디테, 바다의 지배자 포세이돈,",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P0012_4",
+    "en": "and Hephaestus, the King of Fire, who taught men how to work with metals. They honored the gods of the rivers and the Nymphs, the nature spirits they imagined living in caves, fountains, forest glens, and beautiful wild places. They also feared the Furies, dreadful sisters who they believed haunted guilty men until their sins were forgiven.",
+    "ko": "그리고 인간에게 금속을 다루는 법을 가르쳐 준 불의 왕 헤파이스토스를 숭배했습니다. 그들은 강들의 신들과, 동굴, 분수, 숲속의 골짜기, 아름다운 야생의 장소에 산다고 상상했던 자연의 정령들인 님프들을 섬겼습니다. 또한 그들은 죄지은 인간들이 죄를 용서받을 때까지 그들을 쫓아다닌다고 믿었던 무시무시한 자매들인 복수의 여신들을 두려워했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P0012_5",
+    "en": "The Greeks had many other dreams that split the One God into many different figures. They even claimed these gods did terrible things that would be considered sinful for any human to do. When their own philosophers rose up and told them that God was One, they refused to listen.",
+    "ko": "그리스인들은 유일하신 하나님을 여러 다른 인물로 쪼개는 다른 많은 꿈들을 꾸었습니다. 그들은 심지어 이 신들이 인간이 하면 죄로 여겨질 끔찍한 일들을 저질렀다고 주장하기까지 했습니다. 그들 자신의 철학자들이 일어나 하나님은 한 분이시라고 말했을 때, 그들은 듣기를 거부했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P0012_6",
+    "en": "They loved their idols and wicked feasts until it brought them to ruin. But we will not talk about such sad things anymore.",
+    "ko": "그들은 결국 파멸에 이를 때까지 자신들의 우상과 사악한 축제를 사랑했습니다. 하지만 우리는 더 이상 그런 슬픈 이야기들은 하지 않을 것입니다.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P0013_1",
+    "en": "At the time this little book takes place, they had not fallen that low. As far as I can tell, they did not worship idols. They still followed the moral rules of the last six commandments and knew right from wrong.",
+    "ko": "이 작은 책의 배경이 되는 시절에는 그들이 그렇게까지 타락하지 않았습니다. 제가 아는 한, 그들은 우상을 숭배하지 않았습니다. 그들은 여전히 십계명 중 마지막 여섯 개의 도덕적인 규칙을 따랐고 옳고 그름을 알았습니다.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P0013_2",
+    "en": "They drew their courage from the belief that the gods loved men and taught them. They believed that without the gods, humanity would surely face ruin.",
+    "ko": "그들은 신들이 인간을 사랑하고 가르친다는 믿음에서 용기를 얻었습니다. 그들은 신들이 없다면 인류가 분명 파멸에 직면할 것이라고 믿었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P0013_3",
+    "en": "In that respect, they were absolutely right—more right than they even realized. Without God, we can do nothing, because all wisdom comes directly from Him.",
+    "ko": "그 점에 있어서는 그들이 전적으로 옳았습니다. 심지어 그들이 깨달았던 것보다도 더 옳았습니다. 모든 지혜는 그분으로부터 직접 나오기 때문에 하나님이 없다면 우리는 아무것도 할 수 없습니다.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P0014_1",
+    "en": "You must not picture the people in this book as the highly educated men who lived in the great cities of later times, creating beautiful works of art. Instead, imagine them as country people living a simple, hardworking life in farms and walled villages. The greatest kings and heroes cooked their own meals and felt no shame in it.",
+    "ko": "이 책에 나오는 사람들을 훗날 위대한 도시에 살면서 아름다운 예술 작품을 창조했던 고등 교육을 받은 사람들로 상상해서는 안 됩니다. 대신 그들을 농장이나 성벽으로 둘러싸인 마을에서 소박하고 부지런하게 살아가는 시골 사람들로 생각하십시오. 가장 위대한 왕들과 영웅들도 스스로 식사를 요리했으며, 그것을 전혀 부끄럽게 여기지 않았습니다.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P0014_2",
+    "en": "They built their own ships, forged their own weapons, and fed and harnessed their own horses. The queens worked right alongside their maidservants. They managed the household, spun yarn, wove fabric, embroidered, and made clothes for themselves and their husbands.",
+    "ko": "그들은 직접 배를 만들고, 무기를 벼려냈으며, 자신들의 말에게 먹이를 주고 마구를 채웠습니다. 여왕들은 하녀들 곁에서 함께 일했습니다. 그들은 집안일을 돌보고, 실을 잣고, 옷감을 짜고, 자수를 놓고, 자신과 남편의 옷을 만들었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P0014_3",
+    "en": "A man was honored not because he happened to be rich, but because of his skill, strength, courage, and the sheer number of things he could do. They were essentially grown-up children, but very noble ones. Just like at school today, the strongest and cleverest boy led the rest, even if he was poor.",
+    "ko": "사람이 존경받은 것은 우연히 부유해서가 아니라 그의 기술과 힘, 용기, 그리고 그가 할 수 있는 수많은 일들 때문이었습니다. 그들은 본질적으로 다 자란 아이들이었지만, 매우 고결한 아이들이었습니다. 마치 오늘날 학교에서처럼, 비록 가난하더라도 가장 강하고 똑똑한 소년이 나머지 모두를 이끌었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P0015_1",
+    "en": "While they were a young and simple civilization, they loved fairy tales just as much as you do now. All nations do when they are young. Our own ancestors told stories they called 'Sagas.",
+    "ko": "그들이 어리고 순수한 문명이었을 때, 그들은 지금의 여러분만큼이나 옛날이야기를 사랑했습니다. 모든 국가가 어릴 때는 그렇게 합니다. 우리 조상들은 '사가'라고 부르는 이야기들을 전해주었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P0015_2",
+    "en": "I will read you some of those one day—tales from the Eddas, the Voluspá, Beowulf, and the noble old romances. The ancient Arabs had their tales, which we now call the 'Arabian Nights. The ancient Romans had theirs, called 'Fabulæ,' which gives us our word 'fable.",
+    "ko": "언젠가 제가 에다, 볼루스파, 베오울프, 그리고 고결한 옛 로맨스 같은 이야기들을 여러분에게 읽어주겠습니다. 고대 아랍인들에게도 자신들의 이야기가 있었는데, 오늘날 우리는 그것을 '아라비안나이트'라고 부릅니다. 고대 로마인들에게는 '파불라'라고 불리는 이야기들이 있었고, 여기서 우리의 '우화'라는 단어가 나왔습니다.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P0015_3",
+    "en": "But the ancient Hellens called their stories 'Muthoi,' which is where we get the modern word 'myth. Next to the old romances written during the Christian Middle Ages, there are no fairy tales quite like these ancient Greek ones.",
+    "ko": "하지만 고대 헬렌인들은 자신들의 이야기를 '무토이'라고 불렀으며, 여기서 '신화'라는 현대 단어가 생겨났습니다. 기독교가 지배하던 중세에 쓰인 옛 로맨스들을 제외한다면, 이 고대 그리스 이야기들만 한 옛날이야기는 없습니다.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P0015_4",
+    "en": "They are unmatched in beauty, wisdom, and truth. They inspire children to love noble deeds and to trust that God will help them through.",
+    "ko": "그것들은 아름다움, 지혜, 그리고 진리에 있어 비할 데가 없습니다. 그것들은 아이들이 고결한 행동을 사랑하고 하나님께서 그들이 이겨내도록 도우실 것임을 신뢰하게 영감을 줍니다.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P0016_1",
+    "en": "Why have I called this book 'The Heroes'? Because that was the name the Hellens gave to men who were brave, skilled, and dared to do more than others. At first, I think that was all the word meant.",
+    "ko": "그렇다면 저는 왜 이 책의 제목을 '영웅들'이라고 지었을까요? 그것은 헬렌인들이 용감하고 솜씨가 뛰어나며 다른 사람들보다 더 많은 것을 감히 행하는 사람들에게 붙여준 이름이었기 때문입니다. 처음에는 그 단어의 의미가 그것뿐이었던 것 같습니다.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P0016_2",
+    "en": "But over time, it came to mean something more. It came to mean men who helped their country. In those ancient times, when the land was half-wild, these men killed fierce beasts and evil criminals, drained swamps, and founded towns.",
+    "ko": "하지만 시간이 흐르면서 그것은 더 많은 의미를 가지게 되었습니다. 그것은 조국을 도운 사람들을 의미하게 되었습니다. 나라가 반쯤 야생 상태였던 그 옛날, 사나운 짐승과 악한 범죄자들을 죽이고 늪의 물을 빼고 마을을 세운 사람들 말입니다.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P0016_3",
+    "en": "After they died, they were honored because they left their country better than they found it. We still call such a person a hero in English today. We call it a 'heroic' act to suffer pain and grief just to do good for our fellow human beings.",
+    "ko": "그들이 죽은 후 사람들은 그들이 조국을 처음보다 더 살기 좋은 곳으로 남겨두었기 때문에 그들을 존경했습니다. 오늘날 우리는 영어로 그런 사람을 여전히 영웅이라고 부릅니다. 우리는 동료 인간들에게 선을 행하기 위해 고통과 슬픔을 겪는 것을 '영웅적'인 행동이라고 부릅니다.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P0016_4",
+    "en": "We can all do that, my children, boys and girls alike. We ought to do it, because it is easier and safer now than ever before, and the path is much clearer. But you are going to hear how the Hellens believed their heroes worked three thousand years ago.",
+    "ko": "소년 소녀 할 것 없이 우리 아이들 모두가 그렇게 할 수 있습니다. 이제는 그 어느 때보다 더 쉽고 안전하며 그 길이 훨씬 더 명확하기 때문에, 우리는 마땅히 그렇게 해야 합니다. 이제 여러분은 헬렌인들이 자신들의 영웅들이 3천 년 전에 어떻게 활약했다고 믿었는지 듣게 될 것입니다.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P0016_5",
+    "en": "Of course, the stories are not entirely true—not even half of them. You are smart enough to know that. But the meaning behind them is true forever: do what is right, and God will help you.",
+    "ko": "물론 그 이야기들이 전부 사실은 아니며, 심지어 절반도 사실이 아닐 것입니다. 여러분은 그것을 모를 만큼 어리석지 않습니다. 하지만 그 이면에 담긴 의미는 영원히 진실이며, 그것은 바로 '옳은 일을 행하라, 그러면 하나님이 너를 도우실 것이다'라는 것입니다.",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P0017",
+    "en": "Farley Court, Advent, 1855.",
+    "ko": "1855년 대림절, 팔리 코트에서.",
+    "is_header": false
+  }
+]

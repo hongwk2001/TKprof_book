@@ -1,0 +1,724 @@
+[
+  {
+    "id": 1,
+    "tag": "H05",
+    "en": "Perseus - Part IV: How Perseus Came to the Æthiops",
+    "ko": "페르세우스 - 4부: 페르세우스가 에티오피아에 이르다",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P0155",
+    "en": "Perseus flew onward to the northeast over many leagues of sea. Finally, he reached the rolling sand hills and the dreary Libyan shore.",
+    "ko": "페르세우스는 끝없는 바다를 지나 북동쪽으로 날아갔습니다. 마침내 그는 굽이치는 모래 언덕과 황량한 리비아 해안에 이르렀습니다.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P0156_1",
+    "en": "He flew on across the desert over rocky ledges and banks of pebbles. He passed level wastes of sand and piles of shells bleaching in the sunshine. The skeletons of great sea monsters and dead bones of ancient giants were strewn across the old sea floor.",
+    "ko": "그는 암석 지대와 자갈밭을 넘어 사막을 가로질러 날아갔습니다. 그는 평평한 모래 황무지와 햇빛에 바랜 조개껍데기 더미를 지나쳤습니다. 거대한 바다 괴물의 골격과 고대 거인들의 마른 뼈가 오래된 해저 곳곳에 흩어져 있었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P0156_2",
+    "en": "As he traveled, blood fell to the earth from the Gorgon head. These drops became the poisonous snakes that breed in the desert to this day.",
+    "ko": "그가 이동하는 동안 고르곤의 머리에서 핏방울이 땅으로 떨어졌습니다. 이 핏방울들은 오늘날까지도 사막에 서식하는 맹독성 뱀이 되었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P0157_1",
+    "en": "He traveled over the sands for an unknown distance and time. He survived by eating the fruit the nymphs had given him. Eventually, he saw the hills of the Psylli and the Dwarfs who fought with cranes.",
+    "ko": "그는 모래 위를 얼마나 멀리, 얼마나 오랫동안 갔는지 모른 채 여행했습니다. 그는 요정들이 준 과일을 먹으며 버텼습니다. 마침내 그는 프실리 언덕과 두루미들과 싸우는 난쟁이들을 보았습니다.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P0157_2",
+    "en": "Their spears were made of reeds, and their houses were built from crane eggshells. Perseus laughed and continued his way to the northeast. He hoped to see the sparkling blue Mediterranean so he could fly home.",
+    "ko": "그들의 창은 갈대로 만들어졌고, 집은 두루미의 알껍데기로 지어졌습니다. 페르세우스는 웃음을 터뜨리며 북동쪽으로 길을 재촉했습니다. 그는 푸른 지중해가 반짝이는 모습을 보고 무사히 고향으로 날아가기를 온종일 바랐습니다.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P0158_1",
+    "en": "Suddenly, a mighty wind swept him back southward toward the desert. He struggled against it all day, but even his winged sandals could not overcome the gale.",
+    "ko": "갑자기 강력한 바람이 불어와 그를 사막이 있는 남쪽으로 휩쓸어 갔습니다. 그는 온종일 바람과 맞서 싸웠지만, 날개 달린 샌들조차 폭풍을 이겨낼 수 없었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P0158_2",
+    "en": "He was forced to float with the wind all night. When morning dawned, nothing was visible except the same hateful waste of sand.",
+    "ko": "그는 밤새도록 바람에 떠밀려갈 수밖에 없었습니다. 아침이 밝았을 때, 지긋지긋한 모래 황무지 외에는 아무것도 보이지 않았습니다.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P0159_1",
+    "en": "Blood-red sandstorms rushed upon him from the north. They blotted out the noonday sun, and Perseus fled before them to avoid suffocating. When the gale finally calmed, he tried to head north again.",
+    "ko": "북쪽에서 핏빛 모래폭풍이 그를 덮쳤습니다. 폭풍이 한낮의 태양을 가려버렸고, 페르세우스는 숨이 막히지 않으려고 도망쳤습니다. 마침내 강풍이 잦아들자 그는 다시 북쪽으로 향하려 했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P0159_2",
+    "en": "But the sandstorms returned and swept him back into the wasteland. He fought the storms for seven days and was driven back for seven days. He was completely exhausted by thirst and hunger.",
+    "ko": "하지만 모래폭풍이 다시 돌아와 그를 황무지로 휩쓸어 갔습니다. 그는 칠 일 동안 폭풍과 싸웠고, 칠 일 동안 뒤로 밀려났습니다. 그는 갈증과 굶주림으로 완전히 지쳐버렸습니다.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P0159_3",
+    "en": "His tongue stuck to the roof of his mouth. Occasionally, he imagined seeing a beautiful lake sparkling in the sun.",
+    "ko": "그의 혀는 입천장에 달라붙었습니다. 때때로 그는 햇빛에 반짝이는 아름다운 호수를 본다고 착각했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P0159_4",
+    "en": "But when he approached, it vanished into burning sand. If he had not been immortal, he would have died in the wasteland.",
+    "ko": "하지만 그가 다가가면 호수는 불타는 모래 속으로 사라졌습니다. 그가 불멸의 존재가 아니었다면 황무지에서 목숨을 잃었을 것입니다.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P0160",
+    "en": "Then he cried out to Athena and said:",
+    "ko": "그때 그는 아테나를 부르며 외쳤습니다.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P0161_1",
+    "en": "Oh fair and pure goddess, will you leave me here to die of thirst? I brought you the Gorgon head as you commanded. You have blessed my journey so far; will you desert me at the end?",
+    "ko": "오 아름답고 순결하신 여신이여, 저를 이곳에 버려두어 목말라 죽게 하시렵니까? 저는 당신의 명령대로 고르곤의 머리를 가져왔습니다. 지금까지 제 여행을 축복해주셨으면서, 마지막에 저를 버리시나이까?",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P0161_2",
+    "en": "Why else would these immortal sandals fail against the desert storms? Will I never see my mother, the blue waves of Seriphos, or the sunny hills of Greece again?",
+    "ko": "그렇지 않다면 어찌하여 이 불멸의 샌들이 사막의 폭풍을 이겨내지 못한단 말입니까? 어머니와 세리포스의 푸른 물결, 그리고 그리스의 햇살 가득한 언덕을 다시는 볼 수 없는 것입니까?",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P0162",
+    "en": "He prayed, and after his prayer, a great silence fell.",
+    "ko": "그는 그렇게 기도했고, 기도가 끝난 후 깊은 침묵이 흘렀습니다.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P0163",
+    "en": "The sky was still above his head, and the sand was still beneath his feet. Perseus looked up, but saw nothing but the blinding sun in the blue sky. Around him, there was nothing but the blinding sand.",
+    "ko": "하늘은 여전히 그의 머리 위에 있었고, 모래는 여전히 발밑에 있었습니다. 페르세우스가 위를 올려다보았지만, 눈부신 푸른 하늘의 태양 외에는 아무것도 없었습니다. 그의 주위에는 눈부신 모래뿐이었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P0164_1",
+    "en": "Perseus stood still for a while and waited. I am surely not here without the gods will, for Athena does not lie, he said.",
+    "ko": "페르세우스는 잠시 가만히 서서 기다렸습니다. 아테나 여신은 거짓말을 하지 않으시니, 내가 신들의 뜻 없이 이곳에 있는 것은 아닐 것이다, 그가 말했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P0164_2",
+    "en": "Were these sandals not meant to lead me on the right path? Then the road I have been trying to take must be the wrong one.",
+    "ko": "이 샌들은 나를 올바른 길로 이끌어주기로 되어 있지 않았던가? 그렇다면 내가 가려고 했던 길은 분명 잘못된 길일 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P0165",
+    "en": "Suddenly, his ears were opened, and he heard the sound of running water.",
+    "ko": "갑자기 그의 귀가 열리며 흐르는 물소리가 들렸습니다.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P0166_1",
+    "en": "His heart lifted, though he could scarcely believe his ears. As weary as he was, he hurried forward, barely able to stand upright. Within a bowshot was a glen in the sand with marble rocks and date trees.",
+    "ko": "그는 자신의 귀를 의심했지만 가슴이 벅차올랐습니다. 그는 똑바로 서 있기조차 힘들 만큼 지쳐 있었지만 서둘러 앞으로 나아갔습니다. 활이 닿을 거리에 대리석 바위와 대추야자 나무가 있는 모래 계곡이 있었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P0166_2",
+    "en": "A stream sparkled through a lawn of bright green grass. It wandered out beyond the trees and vanished into the sand.",
+    "ko": "밝고 푸른 잔디밭 위로 시냇물이 반짝이며 흐르고 있었습니다. 시냇물은 나무 밖으로 구불구불 흘러나가 모래 속으로 사라졌습니다.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P0167_1",
+    "en": "The water trickled among the rocks, and a pleasant breeze rustled the dry date branches. Perseus laughed for joy and leaped down the cliff to drink the cool water. He ate the dates, slept upon the turf, and woke up ready to move forward.",
+    "ko": "물은 바위 사이로 졸졸 흘렀고, 기분 좋은 산들바람이 마른 대추야자 가지를 스쳤습니다. 페르세우스는 기뻐하며 웃었고, 절벽 아래로 뛰어내려 시원한 물을 마셨습니다. 그는 대추야자를 먹고 잔디 위에서 잠을 잔 뒤, 다시 앞으로 나아갈 준비를 마치고 일어났습니다.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P0167_2",
+    "en": "This time he did not go north. Surely Athena has sent me here and does not want me to go home yet, he said. What if there is another noble deed to be done before I see Greece again?",
+    "ko": "이번에는 북쪽으로 가지 않았습니다. 분명 아테나 여신께서 나를 이곳으로 보내셨고, 아직 고향에 가기를 원치 않으시는구나, 그가 말했습니다. 내가 다시 그리스를 보기 전에 해야 할 고귀한 일이 남아있는 것이라면?",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P0168",
+    "en": "So he traveled constantly eastward by fresh oases, fountains, and date palms. Finally, he saw a mighty mountain wall glowing rose-red in the setting sun.",
+    "ko": "그래서 그는 신선한 오아시스와 샘물, 대추야자 나무를 따라 계속해서 동쪽으로 여행했습니다. 마침내 그는 석양빛을 받아 장미처럼 붉게 빛나는 거대한 산벽을 보았습니다.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P0169",
+    "en": "His strength returned, and he soared into the air like an eagle. He flew across the mountain all night until the rosy dawn appeared. Below him lay the long green gardens of Egypt and the shining Nile river.",
+    "ko": "그는 기운을 되찾고 독수리처럼 하늘 높이 솟아올랐습니다. 그는 장밋빛 새벽이 밝아올 때까지 밤새도록 산을 넘어 날아갔습니다. 그의 아래로는 이집트의 길고 푸른 정원과 반짝이는 나일강이 펼쳐져 있었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P0170_1",
+    "en": "He saw towering cities, temples, obelisks, pyramids, and giant stone gods. He landed amid fields of barley, flax, millet, and climbing gourds. The people came out of the city gates to work in the water courses.",
+    "ko": "그는 높이 솟은 도시와 신전, 오벨리스크, 피라미드, 그리고 거대한 돌로 된 신상들을 보았습니다. 그는 보리와 아마, 수수, 덩굴 식물이 자라는 들판 한가운데로 내려앉았습니다. 사람들은 수로에서 일하기 위해 성문 밖으로 나왔습니다.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P0170_2",
+    "en": "They skillfully parted the streams among the plants using their feet. When they saw him, they stopped working, gathered around, and cried out.",
+    "ko": "그들은 발을 사용해 식물 사이로 능숙하게 물길을 나누었습니다. 그들은 그를 보자마자 일손을 멈추고 주위로 몰려들어 외쳤습니다.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P0171_1",
+    "en": "Who are you, fair youth, and what do you carry beneath your goatskin? Surely you are one of the gods, for your skin is white as ivory.",
+    "ko": "아름다운 청년이여, 당신은 누구시며 그 염소 가죽 아래에 무엇을 가지고 계십니까? 당신의 피부는 상아처럼 하야니, 분명 신들 중 한 분이실 겁니다.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P0171_2",
+    "en": "Our skin is red like clay, and your hair is like threads of gold. Surely you are immortal, they said, ready to worship him.",
+    "ko": "우리의 피부는 진흙처럼 붉고, 당신의 머리카락은 금실과 같습니다. 그들은 분명 당신은 불멸의 존재이십니다, 라고 말하며 그를 숭배하려 했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P0172",
+    "en": "I am not immortal; I am a hero of the Greeks, Perseus replied. I have slain the Gorgon in the wilderness and carry her head with me. Give me food so I may continue my journey and finish my work.",
+    "ko": "저는 불멸의 존재가 아니라 그리스의 영웅입니다, 페르세우스가 대답했습니다. 저는 황야에서 고르곤을 죽이고 그 머리를 가지고 왔습니다. 여행을 계속하고 제 임무를 마칠 수 있도록 음식을 주십시오.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P0173_1",
+    "en": "They gave him food, fruit, and wine, but they would not let him go. News reached the city that the Gorgon was slain. Priests and maidens came out to meet him with songs, dances, and harps.",
+    "ko": "그들은 그에게 음식과 과일, 포도주를 주었지만 그를 보내주려 하지 않았습니다. 고르곤이 죽었다는 소식이 도시에 전해졌습니다. 제사장들과 처녀들이 노래하고 춤추며 수금을 연주하며 그를 맞이하러 나왔습니다.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P0173_2",
+    "en": "They wanted to bring him to their temple and their king. But Perseus put on the hat of darkness and vanished from their sight.",
+    "ko": "그들은 그를 자신들의 신전과 왕에게 데려가고 싶어 했습니다. 하지만 페르세우스는 어둠의 모자를 쓰고 그들의 시야에서 사라졌습니다.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P0174_1",
+    "en": "The Egyptians waited long for his return in vain. They worshipped him as a hero and made a statue of him in Chemmis. The statue stood for hundreds of years.",
+    "ko": "이집트인들은 그가 돌아오기를 오랫동안 기다렸지만 헛수고였습니다. 그들은 그를 영웅으로 숭배하며 켐미스에 그의 조각상을 세웠습니다. 그 조각상은 수백 년 동안 그 자리에 서 있었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P0174_2",
+    "en": "They claimed he occasionally appeared to them with enormous sandals. Whenever he appeared, the season was fruitful and the Nile rose high.",
+    "ko": "그들은 때때로 그가 거대한 샌들을 신고 나타난다고 믿었습니다. 그가 나타날 때마다 풍년이 들고 나일강의 수위가 높게 차올랐습니다.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P0175",
+    "en": "Perseus traveled eastward along the shore of the Red Sea. Afraid to enter the Arabian deserts, he turned north once more. This time, no storm hindered his path.",
+    "ko": "페르세우스는 홍해 연안을 따라 동쪽으로 이동했습니다. 그는 아라비아 사막으로 들어가는 것이 두려워 다시 북쪽으로 방향을 틀었습니다. 이번에는 어떤 폭풍도 그의 길을 방해하지 않았습니다.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P0176",
+    "en": "He flew past the Isthmus, Mount Casius, and the vast Serbonian bog. He traveled up the shore of Palestine, where the dark-faced Aethiops lived.",
+    "ko": "그는 지협과 카시우스 산, 그리고 거대한 세르보니아 습지를 지나쳐 날아갔습니다. 그는 얼굴이 어두운 에티오피아 사람들이 사는 팔레스타인 해안을 따라 올라갔습니다.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P0177",
+    "en": "He flew past pleasant hills and valleys resembling his homeland of Argos. But the lowlands were all flooded, and the highlands were blasted by fire. The hills heaved like a boiling cauldron before the wrath of Poseidon.",
+    "ko": "그는 고향 아르고스와 비슷한 쾌적한 언덕과 계곡들을 지났습니다. 하지만 저지대는 모두 홍수에 잠겼고, 고지대는 불에 타버렸습니다. 언덕들은 포세이돈의 분노 앞에서 끓어오르는 가마솥처럼 들썩였습니다.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P0178",
+    "en": "Fearing to go inland, Perseus flew along the shore above the sea. He flew all day while the sky was black with smoke. He flew all night while the sky was red with flames.",
+    "ko": "내륙으로 들어가기를 두려워한 페르세우스는 바다 위 해안을 따라 날아갔습니다. 그는 하늘이 연기로 검게 물든 온종일 날았습니다. 그는 하늘이 화염으로 붉게 물든 밤새도록 날았습니다.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P0179",
+    "en": "At dawn, he looked toward the cliffs. At the water edge, beneath a black rock, he saw a white image standing.",
+    "ko": "새벽이 되자 그는 절벽 쪽을 바라보았습니다. 물가 가장자리, 검은 바위 아래에 하얀 형상이 서 있는 것을 보았습니다.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P0180",
+    "en": "He thought it must surely be the statue of some sea god. I will go near and see what kind of gods these barbarians worship, he decided.",
+    "ko": "그는 그것이 틀림없이 어떤 바다 신의 조각상일 것이라고 생각했습니다. 이 야만인들이 어떤 신을 숭배하는지 가까이 가서 보아야겠다, 그가 결심했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P0181_1",
+    "en": "He approached and realized it was no statue, but a living maiden. Her tresses streamed in the breeze, and she shivered in the cold salt spray. Her arms were spread above her head and fastened to the rock with brass chains.",
+    "ko": "그가 다가가 보니 그것은 조각상이 아니라 살아있는 처녀였습니다. 그녀의 머리카락은 산들바람에 흩날렸고, 그녀는 차가운 바닷물보라를 맞으며 몸을 떨었습니다. 그녀의 두 팔은 머리 위로 펼쳐진 채 놋쇠 사슬로 바위에 묶여 있었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P0181_2",
+    "en": "Her head drooped in exhaustion, sleep, or deep sorrow. Occasionally she looked up and wailed for her mother. She did not see Perseus because he wore the cap of darkness.",
+    "ko": "그녀는 피로와 졸음, 혹은 깊은 슬픔으로 고개를 푹 숙이고 있었습니다. 때때로 그녀는 고개를 들고 어머니를 부르며 울부짖었습니다. 페르세우스는 어둠의 모자를 쓰고 있었기에 그녀는 그를 보지 못했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P0182",
+    "en": "Perseus and the maid",
+    "ko": "페르세우스와 처녀",
+    "is_header": false,
+    "image": "images/02_perseus_and_andromeda_color.jpg"
+  },
+  {
+    "id": 45,
+    "tag": "P0183_1",
+    "en": "Full of pity and anger, Perseus drew near to look upon the maid. Her cheeks were darker than his, and her hair was deep blue-black. I have never seen so beautiful a maiden, he thought.",
+    "ko": "연민과 분노로 가득 찬 페르세우스는 처녀를 바라보기 위해 다가갔습니다. 그녀의 뺨은 그보다 어두웠고, 머리카락은 짙은 청흑색이었습니다. 이렇게 아름다운 처녀는 본 적이 없다, 그가 생각했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P0183_2",
+    "en": "Surely she is a king daughter. Do barbarians treat their royal daughters like this? She is too fair to have done any wrong; I will speak to her.",
+    "ko": "그녀는 틀림없이 왕의 딸일 것이다. 야만인들은 자신들의 공주를 이리도 대우한단 말인가? 그녀는 죄를 짓기에는 너무도 아름답다; 내가 그녀에게 말을 걸어보리라.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P0184",
+    "en": "Lifting the hat from his head, he flashed into her sight. She shrieked with terror and tried to hide her face with her hair. She could not use her bound hands, but Perseus cried out to her.",
+    "ko": "그가 머리에서 모자를 벗자, 그녀의 시야에 그의 모습이 나타났습니다. 그녀는 공포에 질려 비명을 지르며 머리카락으로 얼굴을 가리려 했습니다. 손이 묶여 있어 손을 쓸 수 없는 그녀에게 페르세우스가 외쳤습니다.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P0185",
+    "en": "Do not fear me, fair one; I am a Greek, not a barbarian. What cruel men have bound you? First, I will set you free.",
+    "ko": "두려워하지 마십시오, 아름다운 분; 저는 야만인이 아니라 그리스인입니다. 어떤 잔인한 자들이 당신을 묶었습니까? 먼저 제가 당신을 풀어드리겠습니다.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P0186",
+    "en": "He tore at the fetters, but they were too strong for him. The maiden cried out to him in distress.",
+    "ko": "그는 족쇄를 뜯어내려 했지만 그에게도 너무 단단했습니다. 처녀가 괴로워하며 그에게 외쳤습니다.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P0187",
+    "en": "Do not touch me; I am cursed, chosen as a victim for the sea gods. They will kill you if you dare to set me free.",
+    "ko": "제게 손대지 마세요; 저는 저주를 받아 바다 신들의 제물로 바쳐졌습니다. 당신이 저를 풀어주려 한다면 그들이 당신을 죽일 것입니다.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P0188",
+    "en": "Let them try, Perseus said. Drawing his sword from his side, he cut through the brass like flax.",
+    "ko": "어디 한번 해보라지요, 페르세우스가 말했습니다. 그는 허리에서 검을 뽑아 놋쇠를 실타래처럼 베어버렸습니다.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P0189",
+    "en": "Now you belong to me, not to these sea gods, whoever they are! But she only called out for her mother all the more.",
+    "ko": "이제 당신은 그 바다 신들이 누구든 그들이 아니라 저에게 속해 있습니다! 하지만 그녀는 오직 어머니만을 더욱 애타게 불렀습니다.",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P0190_1",
+    "en": "Why call for your mother? She cannot be a true mother to have left you here. If a bird drops from the nest, it belongs to the man who picks it up.",
+    "ko": "어찌하여 어머니를 부르십니까? 당신을 이곳에 버려둔 분이 진정한 어머니일 리 없습니다. 둥지에서 떨어진 새는 그 새를 줍는 사람의 것입니다.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P0190_2",
+    "en": "I will win you and cherish you. I now know why Athena sent me here. She sent me to gain a prize worth all my toil.",
+    "ko": "제가 당신을 얻고 당신을 소중히 여길 것입니다. 아테나 여신께서 왜 저를 이곳에 보내셨는지 이제 알겠습니다. 제 모든 고생을 보상하고도 남을 귀한 분을 얻게 하시려 저를 보내신 것입니다.",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P0191_1",
+    "en": "He clasped her in his arms and cried out to the heavens. Where are these cruel gods who doom fair maids to death?",
+    "ko": "그는 그녀를 품에 안고 하늘을 향해 외쳤습니다. 아름다운 처녀를 죽음으로 내모는 잔인한 신들은 어디에 있는가?",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P0191_2",
+    "en": "I carry the weapons of immortals; let them fight me! Tell me, maiden, who are you and what dark fate brought you here?",
+    "ko": "나는 불멸의 신들의 무기를 지니고 있다; 나와 맞서 싸워보라! 말씀해 보십시오, 당신은 누구시며 어떤 어두운 운명이 당신을 이곳으로 이끌었습니까?",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P0192",
+    "en": "And she answered, weeping:",
+    "ko": "그러자 그녀가 울면서 대답했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P0193_1",
+    "en": "I am Andromeda, daughter of King Cepheus and Queen Cassiopeia. I am bound here as food for the sea monster to pay for my mother sin. She once boasted that I was fairer than the Queen of the Fishes.",
+    "ko": "저는 케페우스 왕과 카시오페이아 왕비의 딸인 안드로메다입니다. 저는 어머니의 죄를 씻기 위해 바다 괴물의 먹이로 이곳에 묶여 있습니다. 어머니는 한때 제가 물고기들의 여왕보다 더 아름답다고 자랑하셨습니다.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P0193_2",
+    "en": "In wrath, the queen sent floods, and her brother sent earthquakes. After the floods came a monster bred of slime, devouring all living things. Now it must devour me, though I am entirely guiltless.",
+    "ko": "분노한 여왕은 홍수를 보냈고, 그녀의 오빠는 지진을 일으켜 온 땅을 황폐하게 했습니다. 홍수가 끝난 후 진흙에서 태어난 괴물이 나타나 살아있는 모든 것을 집어삼켰습니다. 저는 아무런 죄가 없건만, 이제 그 괴물이 저를 먹어 치울 것입니다.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P0193_3",
+    "en": "I never harmed a living thing in my life. If I found a fish on the shore, I safely returned it to the sea. Yet the priests say only my blood can atone for a sin I did not commit.",
+    "ko": "저는 평생 살아있는 그 어떤 것도 해친 적이 없습니다. 해변에서 물고기를 발견하면 언제나 안전하게 바다로 돌려보냈습니다. 그럼에도 제사장들은 제가 짓지도 않은 죄를 씻을 방법은 제 피뿐이라고 말합니다.",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P0194",
+    "en": "Perseus laughed and said, A sea monster? I have fought with worse than him. I would face immortals for your sake; how much more a simple sea beast?",
+    "ko": "페르세우스가 웃으며 말했습니다. 바다 괴물이라고요? 저는 그보다 훨씬 끔찍한 존재와도 싸웠습니다. 당신을 위해서라면 불멸의 신들과도 맞설 텐데, 일개 바다 짐승쯤이야 문제겠습니까?",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P0195",
+    "en": "Andromeda looked up at him, and new hope kindled in her heart. He stood so proud and fair, holding her and his glittering sword. But she sighed, wept even more, and cried out to him.",
+    "ko": "안드로메다가 그를 올려다보자 그녀의 마음에 새로운 희망이 피어올랐습니다. 그는 한 팔로 그녀를 안고 다른 손에는 빛나는 검을 든 채 늠름하게 서 있었습니다. 하지만 그녀는 한숨을 쉬고 더 많은 눈물을 흘리며 외쳤습니다.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P0196_1",
+    "en": "Why should you die when you are so young? Is there not enough death and sorrow in the world already? It is noble for me to die to save a whole people.",
+    "ko": "당신처럼 젊은 분이 왜 목숨을 버리려 하십니까? 세상에는 이미 죽음과 슬픔이 충분하지 않은가요? 모든 백성을 구하기 위해 제가 죽는 것은 고귀한 일입니다.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "tag": "P0196_2",
+    "en": "But why should I cause your death as well? Go your way, and I must go mine.",
+    "ko": "하지만 당신까지 죽게 내버려 둘 수는 없습니다. 당신은 당신의 길을 가십시오. 저는 제 길을 가야 합니다.",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P0197_1",
+    "en": "Not so, for the gods I serve are friends of heroes. Led by them, I slew the Gorgon, that beautiful horror.",
+    "ko": "그렇지 않습니다. 제가 모시는 신들은 영웅들의 편이십니다. 저는 그분들의 인도로 그 아름답고 끔찍한 고르곤을 죽였습니다.",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P0197_2",
+    "en": "They guided me here to slay this monster with the Gorgon head. When I leave you, hide your eyes so the head does not turn you to stone.",
+    "ko": "그분들께서 고르곤의 머리로 이 괴물을 처치하라고 저를 이곳으로 이끄셨습니다. 제가 당신 곁을 떠날 때, 돌로 변하지 않도록 눈을 가리십시오.",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P0198",
+    "en": "The maiden could not believe his words and remained silent. Suddenly looking up, she pointed to the sea and shrieked.",
+    "ko": "처녀는 그의 말을 믿을 수 없어 아무 대답도 하지 못했습니다. 갑자기 고개를 든 그녀가 바다를 가리키며 비명을 질렀습니다.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "tag": "P0199_1",
+    "en": "He comes with the sunrise, exactly as they promised. I must die now; how shall I endure it? Oh, please go! It is dreadful enough to be torn to pieces.",
+    "ko": "그들이 말한 대로 괴물이 일출과 함께 오고 있습니다. 저는 이제 죽어야만 합니다. 이 고통을 어찌 견딜까요? 오, 제발 가세요! 갈가리 찢기는 것만으로도 충분히 끔찍합니다.",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "tag": "P0199_2",
+    "en": "I cannot bear to watch you die as well. She tried desperately to thrust him away.",
+    "ko": "당신마저 죽는 모습을 차마 볼 수 없습니다. 그녀는 필사적으로 그를 밀어내려 했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "tag": "P0200_1",
+    "en": "I will go, but promise me one thing before I fight. If I slay this beast, you will become my wife.",
+    "ko": "물러나겠습니다. 하지만 싸우기 전에 한 가지 약속을 해주십시오. 제가 이 괴물을 물리친다면 당신은 저의 아내가 되어주셔야 합니다.",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "tag": "P0200_2",
+    "en": "You must come back with me to my kingdom in Argos, for I am a king heir. Promise me, and seal it with a kiss.",
+    "ko": "저는 왕의 후계자이니, 저와 함께 아르고스에 있는 제 왕국으로 가야 합니다. 저에게 약속하고 입맞춤으로 그 징표를 삼아 주십시오.",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "tag": "P0201",
+    "en": "She lifted her face and kissed him. Perseus laughed for joy and flew upward into the air. Andromeda crouched trembling on the rock, waiting for what would happen.",
+    "ko": "그녀가 고개를 들어 그에게 입을 맞추었습니다. 페르세우스는 기뻐 웃으며 하늘 위로 날아올랐습니다. 안드로메다는 바위 위에서 몸을 웅크리고 떨며 다가올 일들을 기다렸습니다.",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "tag": "P0202_1",
+    "en": "The great sea monster cruised forward like a huge black galley. It paused by creeks and headlands, searching for prey. Its sides were fringed with clustering shells and seaweed.",
+    "ko": "거대한 바다 괴물은 거대한 검은 갤리선처럼 바다를 가르며 다가왔습니다. 괴물은 작은 만과 곶에서 먹잇감을 찾으며 멈춰 섰습니다. 그의 옆구리에는 조개껍데기와 해초가 잔뜩 붙어 있었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "tag": "P0202_2",
+    "en": "Water gurgled in its wide jaws as it rolled along the waves. Its dark scales glistened in the morning sun.",
+    "ko": "물결을 따라 구를 때마다 쩍 벌어진 턱에서 물소리가 났습니다. 녀석의 어두운 비늘은 아침 햇살을 받아 번쩍였습니다.",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "tag": "P0203",
+    "en": "At last, it spotted Andromeda and shot forward to take its prey. Waves foamed white behind it while terrified fish fled leaping before it.",
+    "ko": "마침내 안드로메다를 발견한 녀석은 먹잇감을 향해 빠르게 돌진했습니다. 녀석의 뒤로는 하얀 파도가 일었고, 앞에서는 공포에 질린 물고기들이 뛰어오르며 도망쳤습니다.",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "tag": "P0204",
+    "en": "Then Perseus plummeted from the sky like a shooting star. He descended to the crests of the waves with a mighty shout. Andromeda hid her face, and then a heavy silence fell.",
+    "ko": "그때 페르세우스가 별똥별처럼 하늘에서 떨어져 내렸습니다. 그는 큰 함성과 함께 파도 꼭대기로 내려왔습니다. 안드로메다가 얼굴을 가리자, 깊은 침묵이 찾아왔습니다.",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "tag": "P0205",
+    "en": "Trembling, she finally looked up and saw Perseus springing toward her. Instead of the monster, there was a long black rock with quiet ripples around it.",
+    "ko": "떨며 마침내 고개를 든 그녀는 페르세우스가 자신에게 달려오는 것을 보았습니다. 괴물 대신 길고 검은 바위 하나만이 잔잔한 물결 속에 남아 있었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "tag": "P0206",
+    "en": "Perseus leapt back to the rock with immense pride. He lifted his fair Andromeda in his arms and flew to the cliff top.",
+    "ko": "페르세우스는 벅찬 자부심을 안고 바위로 뛰어올랐습니다. 그는 아름다운 안드로메다를 안고 독수리가 비둘기를 안듯 절벽 위로 날아올랐습니다.",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "tag": "P0207_1",
+    "en": "Perseus was incredibly proud, and the Aethiopian people were overjoyed. They had watched the monster from the cliffs, mourning the maiden fate. A messenger had already rushed to King Cepheus and Queen Cassiopeia.",
+    "ko": "페르세우스는 매우 자랑스러웠고, 에티오피아 백성들은 뛸 듯이 기뻐했습니다. 그들은 절벽 위에서 괴물을 지켜보며 처녀의 운명을 슬퍼하고 있었습니다. 전령이 이미 케페우스 왕과 카시오페이아 왕비에게 달려간 후였습니다.",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "tag": "P0207_2",
+    "en": "The royal couple sat in ashes in the palace, awaiting their daughter end. They came with the whole city to witness the miracle. With songs, dances, and harps, they received their daughter back from the dead.",
+    "ko": "왕과 왕비는 궁전 깊은 곳에서 재를 뒤집어쓴 채 딸의 최후를 기다리고 있었습니다. 그들은 기적을 보기 위해 온 도시 사람들과 함께 달려왔습니다. 그들은 노래와 춤, 수금 연주와 함께 죽음에서 살아 돌아온 딸을 맞이했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "tag": "P0208",
+    "en": "Cepheus said, Hero of the Greeks, stay and be my son-in-law. I will give you half of my kingdom.",
+    "ko": "케페우스가 말했습니다. 그리스의 영웅이여, 이곳에 머물며 제 사위가 되어 주십시오. 제 왕국의 절반을 드리겠습니다.",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "tag": "P0209",
+    "en": "I will be your son-in-law, Perseus replied. But I will take none of your kingdom. I long for the pleasant land of Greece and my mother who waits for me.",
+    "ko": "제가 기꺼이 사위가 되겠습니다, 페르세우스가 대답했습니다. 하지만 왕국은 한 치도 받지 않겠습니다. 저는 아름다운 그리스 땅과 저를 기다리는 어머니가 몹시 그립습니다.",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "tag": "P0210_1",
+    "en": "You must not take my daughter away immediately, Cepheus said. She is like someone returned from the dead to us. Stay with us for a year, and then return with great honor.",
+    "ko": "내 딸을 당장 데려가서는 안 되네, 케페우스가 말했습니다. 그녀는 우리에게 죽음에서 살아 돌아온 사람과 같네. 우리와 함께 일 년을 머물고, 그 후에 큰 명예를 안고 돌아가게.",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "tag": "P0210_2",
+    "en": "Perseus consented and asked the people to bring stones and wood. He built three altars to Athena, Hermes, and Zeus, and offered sacrifices.",
+    "ko": "페르세우스는 승낙했고, 사람들에게 돌과 나무를 가져오라고 지시했습니다. 그는 아테나, 헤르메스, 제우스를 위해 세 개의 제단을 쌓고 제물을 바쳤습니다.",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "tag": "P0211_1",
+    "en": "Many declared him a pious man. Yet the priests muttered that the Sea Queen would become even more furious. They were afraid to speak aloud because they feared the Gorgon head.",
+    "ko": "많은 이들이 그를 경건한 사람이라 칭송했습니다. 하지만 제사장들은 바다의 여왕이 괴물의 죽음으로 더욱 분노할 것이라 투덜거렸습니다. 그들은 고르곤의 머리가 두려워 감히 소리 내어 말하지 못했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "tag": "P0211_2",
+    "en": "When they reached the palace hall, Phineus, the king brother, stood waiting. He was furious, pacing like a bear robbed of her cubs. With him were his sons, servants, and many armed men.",
+    "ko": "그들이 궁전 회랑에 이르자, 왕의 동생 피네우스가 기다리고 있었습니다. 그는 새끼를 빼앗긴 곰처럼 격노하여 서성거리고 있었습니다. 그의 곁에는 아들들과 하인들, 수많은 무장 병력들이 함께 있었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "tag": "P0212",
+    "en": "You shall not marry your daughter to this nameless stranger, he yelled. Was Andromeda not betrothed to my son? Now that she is safe, does he not have the right to claim her?",
+    "ko": "당신의 딸을 이름도 모르는 이방인과 결혼시킬 수는 없습니다, 그가 소리쳤습니다. 안드로메다는 내 아들과 약혼한 사이가 아닙니까? 이제 그녀가 무사히 돌아왔으니, 내 아들이 그녀를 차지할 권리가 있지 않습니까?",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "tag": "P0213_1",
+    "en": "Perseus laughed and answered the angry man. If your son wants a bride, let him save a maiden for himself. He seems but a helpless bridegroom who left this one to die.",
+    "ko": "페르세우스가 웃으며 분노한 남자에게 대답했습니다. 당신의 아들이 신부를 원한다면 직접 나서서 처녀를 구하라고 하십시오. 그는 신부를 죽게 내버려 둔 무능한 자에 불과합니다.",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "tag": "P0213_2",
+    "en": "She is dead to him, but she is alive to me because I saved her. Ungrateful man, have I not saved your land and your children?",
+    "ko": "그에게 그녀는 죽은 사람이지만, 제가 구했기에 저에게는 살아있는 사람입니다. 은혜를 모르는 자여, 내가 당신의 땅과 당신의 자식들을 구하지 않았습니까?",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "tag": "P0213_3",
+    "en": "Leave now, or it will be worse for you. But the armed men drew their swords and rushed at him like wild beasts.",
+    "ko": "지금 떠나지 않으면 끔찍한 대가를 치를 것입니다. 하지만 무장한 남자들은 검을 뽑아 들고 짐승처럼 그에게 달려들었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "tag": "P0214_1",
+    "en": "He unveiled the Gorgon head. This delivered my bride from one beast; it shall deliver her from many.",
+    "ko": "그는 고르곤의 머리를 꺼내 들었습니다. 이것이 야수 하나로부터 내 신부를 구했으니, 이제 수많은 야수들로부터도 그녀를 구할 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "tag": "P0214_2",
+    "en": "As he spoke, Phineus and all his men stopped short and stiffened. Before Perseus covered the face again, they had all turned to stone.",
+    "ko": "그가 말하는 순간 피네우스와 그의 부하들은 그 자리에 멈춰 서서 굳어버렸습니다. 페르세우스가 다시 염소 가죽으로 그 얼굴을 덮기도 전에, 그들은 모두 돌로 변했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "tag": "P0215",
+    "en": "Perseus commanded the people to bring levers and roll the statues out. What was done with them after that, I cannot tell.",
+    "ko": "페르세우스는 사람들에게 지렛대를 가져와 조각상들을 밖으로 굴려 내라고 명령했습니다. 그 후 그 조각상들이 어찌 되었는지는 알 수 없습니다.",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "tag": "P0216",
+    "en": "They held a grand wedding feast that lasted seven entire days. No one was as happy as Perseus and Andromeda.",
+    "ko": "그들은 칠 일 밤낮으로 성대한 결혼 잔치를 열었습니다. 페르세우스와 안드로메다만큼 행복한 사람은 없었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "tag": "P0217",
+    "en": "On the eighth night, Perseus dreamed a remarkable dream. Athena stood beside him, just as she had in Seriphos seven years before. She called him by name and spoke to him gently.",
+    "ko": "여덟째 날 밤, 페르세우스는 놀라운 꿈을 꾸었습니다. 칠 년 전 세리포스에서 그랬듯, 아테나 여신이 그의 곁에 서 있었습니다. 그녀는 그의 이름을 부르며 부드럽게 말했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "tag": "P0218_1",
+    "en": "Perseus, you have proved yourself a true man, and here is your reward. Know that the gods are just and help those who help themselves. Return to me the sword, sandals, and hat of darkness to give back to their owners.",
+    "ko": "페르세우스야, 너는 진정한 영웅임을 증명했고, 여기 네 보상이 있다. 신들은 공정하며 스스로 돕는 자를 돕는다는 것을 명심하여라. 검과 샌들, 어둠의 모자는 원래 주인들에게 돌려주어야 하니 내게 다오.",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "tag": "P0218_2",
+    "en": "You may keep the Gorgon head for a while, as you will need it in Greece. Afterward, place it in my temple at Seriphos. I will wear it on my shield forever as a terror to monsters.",
+    "ko": "고르곤의 머리는 그리스에서 필요할 테니 당분간 네가 간직하여라. 그 후에 세리포스에 있는 내 신전에 그것을 바쳐라. 내가 그것을 내 방패에 영원히 새겨 괴물들에게 공포를 심어주마.",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "tag": "P0218_3",
+    "en": "I have appeased the sea and fire in this land. Let the people worship the immortals and fear floods no more.",
+    "ko": "나는 이 땅의 바다와 불의 분노를 잠재웠다. 백성들이 불멸의 신들을 숭배하고 다시는 홍수를 두려워하지 않게 하여라.",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "tag": "P0219_1",
+    "en": "Perseus rose to give her the items, but he woke and the dream vanished. Yet it was not merely a dream.",
+    "ko": "페르세우스가 물건을 주려고 일어났을 때 잠에서 깼고 꿈은 사라졌습니다. 하지만 그것은 단순한 꿈이 아니었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "tag": "P0219_2",
+    "en": "The goatskin with the head remained, but the sword, cap, and sandals were gone. Perseus never saw them again.",
+    "ko": "머리가 든 가죽 주머니는 그대로 있었지만, 검과 모자, 샌들은 사라졌습니다. 페르세우스는 그것들을 다시는 볼 수 없었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "tag": "P0220_1",
+    "en": "A great awe fell upon Perseus. In the morning, he told the people his dream. He asked them to build altars to Zeus and Athena and live in peace.",
+    "ko": "페르세우스는 깊은 경외감에 사로잡혔습니다. 아침이 되자 그는 백성들에게 자신의 꿈을 이야기했습니다. 그는 제우스와 아테나에게 제단을 쌓고 평화롭게 살라고 당부했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "tag": "P0220_2",
+    "en": "They did so and prospered for a while. But after Perseus left, they forgot the gods and worshipped the fish queen again. They sacrificed their children to the Fire King until Zeus grew angry.",
+    "ko": "그들은 말씀대로 행했고 한동안 번영을 누렸습니다. 하지만 페르세우스가 떠난 후, 그들은 신들을 잊고 다시 물고기 여왕을 숭배했습니다. 그들이 불의 왕에게 아이들을 제물로 바치자 제우스가 크게 분노했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "tag": "P0220_3",
+    "en": "Zeus brought a strange nation from Egypt to destroy them. These invaders wasted the foolish people and ruled their cities for centuries.",
+    "ko": "제우스는 이집트에서 이방 민족을 데려와 그들을 파멸시켰습니다. 이 침략자들은 어리석은 백성들을 짓밟고 수백 년 동안 그들의 도시를 지배했습니다.",
+    "is_header": false
+  }
+]
