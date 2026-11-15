@@ -1,0 +1,170 @@
+[
+  {
+    "id": 1,
+    "tag": "P001",
+    "lang": "en",
+    "text": "Chapter 1"
+  },
+  {
+    "id": 2,
+    "tag": "P001",
+    "lang": "ko",
+    "text": "제1장"
+  },
+  {
+    "id": 3,
+    "tag": "P002",
+    "lang": "en",
+    "text": "Jonathan Harker's Journal"
+  },
+  {
+    "id": 4,
+    "tag": "P002",
+    "lang": "ko",
+    "text": "조나단 하커의 일기"
+  },
+  {
+    "id": 5,
+    "tag": "P003",
+    "lang": "en",
+    "text": "(Kept in shorthand.)"
+  },
+  {
+    "id": 6,
+    "tag": "P003",
+    "lang": "ko",
+    "text": "(속기로 작성함.)"
+  },
+  {
+    "id": 7,
+    "tag": "P004a",
+    "lang": "en",
+    "text": "May 3. Bistritz. - I left Munich at 8:35 PM on May 1 and arrived in Vienna early the next morning. We were supposed to arrive at 6:46 AM, but the train was delayed by an hour. Budapest looked like a beautiful city from what I could see from the train and around the station. Because we arrived late and I didn't know when we would leave, I was afraid to wander too far. It felt as if I was leaving the West and stepping into the East."
+  },
+  {
+    "id": 8,
+    "tag": "P004a",
+    "lang": "ko",
+    "text": "5월 3일. 비스트리츠. - 5월 1일 오후 8시 35분에 뮌헨을 떠나 다음 날 이른 아침 비엔나에 도착했다. 원래 오전 6시 46분에 도착할 예정이었지만 기차가 한 시간 연착되었다. 기차 안과 역 주변을 잠깐 거닐며 본 부다페스트는 무척이나 아름다운 도시 같았다. 늦게 도착한 데다 언제 출발할지 몰라 역에서 멀리 떨어지기는 두려웠다. 마치 서양을 등지고 동양의 세계로 들어서는 듯한 기분이었다."
+  },
+  {
+    "id": 9,
+    "tag": "P004b",
+    "lang": "en",
+    "text": "Crossing the grand, modern bridges over the Danube River, I could really feel that this was a land with traces of old Turkish rule. The Danube seemed unusually wide and deep."
+  },
+  {
+    "id": 10,
+    "tag": "P004b",
+    "lang": "ko",
+    "text": "다뉴브강 위로 놓인 서구적이고 웅장한 다리들을 건너자, 이곳이 튀르크 지배의 옛 흔적을 품은 땅이라는 게 실감 났다. 다뉴브강은 유난히 폭이 넓고 깊어 보였다."
+  },
+  {
+    "id": 11,
+    "tag": "P005a",
+    "lang": "en",
+    "text": "We left mostly on time and reached Klausenburg by nightfall. I decided to stay overnight at the Hotel Royale. For dinner, or rather a late supper, I had a chicken dish cooked with plenty of red pepper. It was incredibly tasty, but it made me very thirsty. (Memo: Make sure to get the recipe for Mina.) I asked the waiter, and he said it was called \"Paprika Hendl.\" He told me it was a traditional local dish, so I should be able to find it anywhere along the Carpathian Mountains. My basic German skills turned out to be quite useful."
+  },
+  {
+    "id": 12,
+    "tag": "P005a",
+    "lang": "ko",
+    "text": "비교적 제시간에 출발한 우리는 해가 질 무렵 클라우젠부르크에 닿았다. 그곳 로얄 호텔에서 하룻밤을 묵기로 했다. 저녁, 아니 야식으로 붉은 고추를 듬뿍 넣은 닭고기 요리를 먹었다. 맛은 기가 막혔지만 먹고 나니 갈증이 몹시 났다. (메모: 미나에게 레시피를 꼭 알려줄 것.) 웨이터에게 물어보니 \"파프리카 헨들\"이라는 요리라고 했다. 이 지역 고유의 음식이라 카르파티아 산맥을 지나는 동안 어디서든 맛볼 수 있을 거라 했다. 내 얕은 독일어 실력이 꽤 쓸모가 있었다."
+  },
+  {
+    "id": 13,
+    "tag": "P005b",
+    "lang": "en",
+    "text": "Honestly, if I didn't know German, I can't imagine how I would have managed here."
+  },
+  {
+    "id": 14,
+    "tag": "P005b",
+    "lang": "ko",
+    "text": "사실 독일어를 몰랐다면 이곳에서 어떻게 버텼을지 상상조차 안 간다."
+  },
+  {
+    "id": 15,
+    "tag": "P006a",
+    "lang": "en",
+    "text": "Whenever I had free time in London, I visited the British Museum library to look up books and maps about Transylvania. I figured that learning about the country beforehand would certainly help when dealing with a nobleman from there. The area the Count mentioned was in the extreme east, right where the borders of Transylvania, Moldavia, and Bukovina meet. It is located right in the middle of the Carpathian Mountains, making it one of the wildest and most remote regions in Europe."
+  },
+  {
+    "id": 16,
+    "tag": "P006a",
+    "lang": "ko",
+    "text": "런던에서 시간이 날 때마다 대영박물관 도서관에 들러 트란실바니아에 관한 책과 지도를 찾아보았다. 그곳 귀족을 상대하려면 미리 그 나라에 대해 알아두는 편이 분명 큰 도움이 될 테니까 말이다. 백작이 말한 지역은 국경이 맞닿은 트란실바니아, 몰다비아, 부코비나 세 지역의 극동부였다. 카르파티아 산맥 한가운데 자리 잡고 있으며, 유럽에서 가장 험난하고 발길이 닿지 않은 오지 중 하나다."
+  },
+  {
+    "id": 17,
+    "tag": "P006b",
+    "lang": "en",
+    "text": "Unfortunately, I couldn't find any detailed maps comparable to our British maps, so I couldn't find any documents pointing out the exact location of Castle Dracula. However, I did confirm that Bistritz, the town where the Count was supposed to receive his mail, was quite well-known. I am writing down my notes here so I can refresh my memory when I tell Mina about my travels later."
+  },
+  {
+    "id": 18,
+    "tag": "P006b",
+    "lang": "ko",
+    "text": "안타깝게도 영국의 정밀 지도에 견줄 만한 상세한 지도가 없어서, 드라큘라 성이 어디쯤인지 콕 집어주는 문헌은 찾을 수 없었다. 다만 백작이 우편물을 수령하기로 한 비스트리츠가 꽤 이름난 마을이라는 사실은 확인했다. 훗날 미나에게 여행 이야기를 들려줄 때 기억을 되살리기 위해 메모해 둔 내용을 이곳에 옮겨본다."
+  },
+  {
+    "id": 19,
+    "tag": "P007a",
+    "lang": "en",
+    "text": "Four distinct groups of people live in Transylvania. In the south are the Saxons, mixed with the Wallachians, who are descendants of the ancient Dacians. The Magyars from Hungary live in the west, and the Szekelys live in the east and north. I am heading straight into Szekely territory. They firmly believe they are the descendants of Attila and the Huns. This might actually be true, since the Huns were already there when the Magyars conquered the region in the 11th century."
+  },
+  {
+    "id": 20,
+    "tag": "P007a",
+    "lang": "ko",
+    "text": "트란실바니아에는 뚜렷이 구별되는 네 민족이 산다. 남쪽에는 작센족이 거주하며 그들과 섞여 고대 다키아인의 후손인 왈라키아인이 지낸다. 서쪽에는 헝가리계 마자르족이, 동쪽과 북쪽에는 세케이족이 살고 있다. 내가 향하는 곳이 바로 세케이족의 영토다. 그들은 자신들이 아틸라 왕과 훈족의 후손이라고 굳게 믿는다. 11세기에 마자르족이 이곳을 정복했을 때 이미 훈족이 자리 잡고 있었으니, 그 주장이 영 틀린 말은 아닐지도 모른다."
+  },
+  {
+    "id": 21,
+    "tag": "P007b",
+    "lang": "en",
+    "text": "I once read that all the superstitions in the world are gathered in the horseshoe-shaped region of the Carpathian Mountains. It is as if this place is the center of a giant whirlpool of imagination. If that is true, my stay here should be quite interesting. (Memo: I must ask the Count about all these superstitions.)"
+  },
+  {
+    "id": 22,
+    "tag": "P007b",
+    "lang": "ko",
+    "text": "세상에 떠도는 온갖 미신이 카르파티아 산맥의 말굽 모양 지대에 몽땅 모여 있다는 글을 읽은 적이 있다. 마치 이곳이 거대한 상상의 소용돌이 중심이라도 되는 것처럼. 만약 그게 사실이라면 이곳에 머무는 동안 꽤 흥미로운 일들을 겪을 것 같다. (메모: 이 미신들에 대해 백작에게 남김없이 물어보자.)"
+  },
+  {
+    "id": 23,
+    "tag": "P008a",
+    "lang": "en",
+    "text": "The bed was comfortable, but I couldn't sleep because of strange dreams. It might have been because a dog was barking under my window all night. Or maybe it was that paprika dish. I drank an entire pitcher of water, but my throat still felt like it was burning. I finally fell asleep around dawn, only to be startled awake by someone banging on my door. I must have fallen into a deep sleep. I had paprika again for breakfast."
+  },
+  {
+    "id": 24,
+    "tag": "P008a",
+    "lang": "ko",
+    "text": "침대는 편안했지만 기이한 꿈들에 시달리느라 도무지 잠을 이룰 수 없었다. 밤새 창문 아래에서 개 한 마리가 짖어댄 탓인지도 모른다. 아니면 그 파프리카 요리 때문일 수도 있고. 물병을 다 비우고도 목이 타들어 가는 듯했다. 새벽이 되어서야 간신히 잠들었는데, 누군가 문을 쾅쾅 두드리는 소리에 화들짝 깼다. 나도 모르게 깊이 잠들었던 모양이다. 아침 식사로 파프리카를 또 먹었다. \"마말리가\"라는 옥수수죽과 \"임플레타타\"라 불리는 다진 고기로 속을 채운 가지 요리도 곁들였다."
+  },
+  {
+    "id": 25,
+    "tag": "P008b",
+    "lang": "en",
+    "text": "I also had a cornmeal porridge called \"Mamaliga\" and a dish of stuffed eggplant with minced meat called \"Impletata.\" It was absolutely delicious."
+  },
+  {
+    "id": 26,
+    "tag": "P008b",
+    "lang": "ko",
+    "text": "정말 훌륭한 맛이었다."
+  },
+  {
+    "id": 27,
+    "tag": "P008c",
+    "lang": "en",
+    "text": "(Memo: Don't forget to get this recipe too.) Since the train was scheduled to leave a little before 8 o'clock, I rushed through my breakfast. I ran to the station at 7:30, but to my surprise, I had to sit in the carriage for over an hour before the train finally started moving. It seems that the further east you go, the less reliable the train schedules become. At this rate, I can't even imagine how late the trains must be in China!"
+  },
+  {
+    "id": 28,
+    "tag": "P008c",
+    "lang": "ko",
+    "text": "(메모: 이 요리 레시피도 잊지 말고 챙길 것.) 기차가 8시 조금 전에 출발할 예정이라 아침을 허겁지겁 해치웠다. 7시 30분에 역으로 달려갔지만, 웬걸, 한 시간 넘게 객차에 앉아 기다린 뒤에야 기차가 서서히 움직이기 시작했다. 동쪽으로 갈수록 기차 시간은 고무줄처럼 늘어나는 모양이다. 이대로 가다간 중국에서는 대체 기차가 얼마나 연착될지 상상조차 가지 않는다!"
+  }
+]

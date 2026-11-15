@@ -233,13 +233,13 @@ def compile_book(book_num):
                 z.writestr("OEBPS/Images/cover.jpg", cf.read())
             
         # Write EPUB3 HTML Nav Document
-        nav_items_xml = "\n        ".join([f'<li><a href="{ch["href"]}">{html.escape(ch["title"])}</a></li>' for ch in chapters])
+        nav_items_xml = "\n        ".join([f'<li><a href="{os.path.basename(ch["href"])}">{html.escape(ch["title"])}</a></li>' for ch in chapters])
         nav_html = f"""<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
 <head>
   <title>Table of Contents</title>
-  <link rel="stylesheet" href="Styles/main.css" type="text/css"/>
+  <link rel="stylesheet" href="../Styles/main.css" type="text/css"/>
 </head>
 <body>
   <nav epub:type="toc" id="toc">
@@ -258,6 +258,7 @@ def compile_book(book_num):
         
         manifest_items.append('<item id="css" href="Styles/main.css" media-type="text/css"/>')
         manifest_items.append('<item id="nav" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>')
+        manifest_items.append('<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>')
         
         if has_cover:
             manifest_items.append('<item id="cover-image" href="Images/cover.jpg" media-type="image/jpeg" properties="cover-image"/>')
@@ -282,7 +283,7 @@ def compile_book(book_num):
   <manifest>
     {manifest_xml}
   </manifest>
-  <spine>
+  <spine toc="ncx">
     {spine_xml}
   </spine>
 </package>"""

@@ -1,0 +1,128 @@
+[
+ {
+  "id": 1,
+  "tag": "P0853",
+  "en": "Act 4, Scene 3 — Juliet’s Chamber",
+  "ko": "4막 3장 — 줄리엣의 방",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "P0853_s",
+  "en": "Alone in her room, Juliet is afraid, but she drinks the potion.",
+  "ko": "방에 홀로 남은 줄리엣은 두려워하지만 물약을 마신다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "P0854",
+  "en": "Juliet and the Nurse enter.",
+  "ko": "줄리엣과 유모가 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "P0855_1",
+  "en": "Juliet says, \"Yes, those clothes are best. But, dear Nurse, please leave me alone tonight. I need many prayers. These prayers will move heaven to smile on my situation. You know well that my situation is difficult and full of sin.\"",
+  "ko": "줄리엣이 말한다. \"그래, 그 옷이 제일 좋겠어. 하지만 유모, 오늘 밤은 나를 혼자 있게 해줘. 많은 기도가 필요해. 하늘이 내 처지에 미소 짓도록 말이야. 내 상황이 어렵고 죄로 가득 차 있다는 걸 잘 알잖아.\"",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "P0857_1",
+  "en": "Lady Capulet enters and asks, \"What, are you busy? Do you need my help?\"",
+  "ko": "캐퓰릿 부인이 들어와 묻는다. \"뭐야, 바쁘니? 내가 도와줄까?\"",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "P0858_1",
+  "en": "Juliet says, \"No, madam. We have gathered the things we need for tomorrow. So please let me be alone now. Let the nurse stay up with you tonight. I am sure you are very busy with this sudden business.\"",
+  "ko": "줄리엣이 말한다. \"어머니, 아니에요. 내일 필요한 것들을 다 챙겼어요. 그러니 이제 저를 혼자 있게 해주세요. 오늘 밤은 유모를 어머니 곁에 두세요. 갑작스러운 일 때문에 아주 바쁘시다는 걸 알아요.\"",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "P0859_1",
+  "en": "Lady Capulet says, \"Good night. Go to bed and rest, for you need it.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"잘 자거라. 가서 쉬어라, 네게 휴식이 필요하단다.\"",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "P0860",
+  "en": "Lady Capulet and the Nurse leave.",
+  "ko": "캐퓰릿 부인과 유모가 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "P0861_1",
+  "en": "Juliet says, \"Goodbye, and God knows when we will meet again. I have a faint cold fear moving through my veins that almost freezes the heat of life. I will call them back to comfort me. Nurse!—What should she do here? I must act out my sad scene alone. Come, small bottle.\"",
+  "ko": "줄리엣이 말한다. \"안녕히. 언제 다시 만날지는 하나님만 아신다. 생명의 온기를 얼려버릴 듯한 희미하고 차가운 공포가 혈관을 타고 흐른다. 나를 위로해 줄 그들을 불러야 한다. 유모!—유모가 여기서 뭘 하겠어? 슬픈 장면을 혼자 연기해야 한다. 이리 오너라, 작은 병아.\"",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "P0861_2",
+  "en": "\"What if this mixture does not work at all? Will I be married tomorrow morning then? No, no! This will stop that from happening. Lie there.\"",
+  "ko": "\"만약 이 약이 전혀 효과가 없다면 어쩌지? 그러면 내일 아침에 결혼하게 되는 걸까? 안 돼, 안 돼! 이것이 막아 줄 거야. 거기 놓여 있어라.\"",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0862",
+  "en": "Juliet puts down her dagger, a short knife.",
+  "ko": "줄리엣이 짧은 칼인 단검을 내려놓는다.",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0863_1",
+  "en": "Juliet goes on, \"What if it is a poison? Maybe the friar gave it to me secretly. He might want me to die. He might fear being dishonored because he married me to Romeo before. I fear it is poison. But I think it cannot be. He has always been a holy man. What if I wake up in the tomb?\"",
+  "ko": "줄리엣이 말을 잇는다. \"이게 만약 독이라면? 신부가 몰래 준 것일지도 모른다. 그가 내 죽음을 바라는 걸지도 모른다. 나를 로미오와 결혼시킨 일로 명예를 잃을까 봐 두려워하는 걸지도 모른다. 독일지도 모른다는 생각이 든다. 하지만 그럴 리 없다고 생각한다. 그는 언제나 성스러운 분이었다. 무덤에서 깨어나면 어쩌지?\"",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0863_2",
+  "en": "\"What if I wake before Romeo comes to save me? That is a scary possibility! Will I not be suffocated in the vault? No fresh air enters that dirty place. Will I die strangled before my Romeo arrives? Or, if I live, what then? The terrible idea of death and night is very scary.\"",
+  "ko": "\"로미오가 구하러 오기 전에 깨어나면 어떡하지? 그건 정말 무서운 일이다! 지하 묘실에서 숨이 막혀 죽지 않을까? 그 더러운 곳에는 신선한 공기가 들어오지 않는다. 로미오가 오기 전에 숨이 막혀 죽지 않을까? 아니면, 살아남는다면 어떻게 될까? 죽음과 밤이라는 끔찍한 생각이 너무나 두렵다.\"",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "P0863_3",
+  "en": "\"The location itself is terrifying. It is an ancient vault for the dead. For hundreds of years, the bones of my ancestors have been packed there. Bloody Tybalt lies there in his shroud. His body is still fresh in the ground. He is rotting in his cloth.\"",
+  "ko": "\"장소 자체가 공포스럽다. 그곳은 죽은 자들을 위한 오래된 지하 묘실이다. 수백 년 동안 조상들의 유골이 그곳에 쌓여 있다. 피투성이인 티볼트가 수의를 입고 누워 있다. 그는 땅에 묻힌 지 얼마 되지 않았다. 수의 속에서 썩어 가고 있다.\"",
+  "is_header": false
+ },
+ {
+  "id": 15,
+  "tag": "P0863_4",
+  "en": "\"They say that spirits visit this place at some hours of the night. Alas, oh no! Waking so early, won't I go mad? I would wake early and smell the terrible odors. I would hear screams like mandrakes torn from the earth. Living people go mad when they hear those sounds.\"",
+  "ko": "\"밤의 어느 시간대에 영혼들이 이곳을 찾아온다고 한다. 아, 안 돼! 너무 일찍 깨어나면 미치지 않을까? 일찍 깨어나서 끔찍한 악취를 맡게 될 것이다. 땅에서 뽑힌 맨드레이크 같은 비명 소리를 듣게 될 것이다. 사람들은 그 소리를 들으면 미쳐버린다.\"",
+  "is_header": false
+ },
+ {
+  "id": 16,
+  "tag": "P0863_5",
+  "en": "\"Oh, if I wake, will I not be terrified? I will be surrounded by all these hideous fears. Will I play with my ancestors' bones in a mad way? Will I pull the mangled Tybalt from his shroud? And in this rage, will I use a relative's bone as a club? Will I smash out my own brains with it?\"",
+  "ko": "\"오, 만약 깨어난다면 너무 무섭지 않을까? 이 모든 끔찍한 공포에 둘러싸일 것이다. 미친 듯이 조상들의 유골을 가지고 놀게 될까? 갈기갈기 찢긴 티볼트를 수의에서 끌어낼까? 그리고 분노에 차서 친척의 뼈를 몽둥이로 쓰게 될까? 그것으로 내 머리까지 부숴버릴까?\"",
+  "is_header": false
+ },
+ {
+  "id": 17,
+  "tag": "P0863_6",
+  "en": "\"Oh look, I think I see my cousin's ghost. He is looking for Romeo, who ran his body through with a sword. Stay, Tybalt, stay! Romeo, Romeo, Romeo, here is drink! I drink to you.\"",
+  "ko": "\"오 봐, 사촌의 유령이 보이는 것 같다. 자기 몸을 칼로 꿰뚫은 로미오를 찾고 있다. 멈춰, 티볼트, 멈춰! 로미오, 로미오, 로미오, 여기 약이 있어! 그대를 위해 마신다.\"",
+  "is_header": false
+ },
+ {
+  "id": 18,
+  "tag": "P0864",
+  "en": "Juliet throws herself on the bed.",
+  "ko": "줄리엣이 침대 위로 몸을 던진다.",
+  "is_header": false
+ }
+]

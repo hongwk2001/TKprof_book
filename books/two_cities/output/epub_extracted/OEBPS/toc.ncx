@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:ab1e42b7-6678-4bb2-816b-05582a1c5c77"/>
+    <meta name="dtb:depth" content="1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle><text>A Tale of Two Cities</text></docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel><text>A Note to the Reader</text></navLabel>
+      <content src="Text/intro.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel><text>Book 1 - Chapter 1: The Period</text></navLabel>
+      <content src="Text/book1_ch_01.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel><text>Book 1 - Chapter 2: The Mail</text></navLabel>
+      <content src="Text/book1_ch_02.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel><text>Book 1 - Chapter 3: The Night Shadows</text></navLabel>
+      <content src="Text/book1_ch_03.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel><text>Book 1 - Chapter 4: The Preparation</text></navLabel>
+      <content src="Text/book1_ch_04.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel><text>Book 1 - Chapter 5: The Wine-shop</text></navLabel>
+      <content src="Text/book1_ch_05.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel><text>Book 1 - Chapter 6: The Shoemaker</text></navLabel>
+      <content src="Text/book1_ch_06.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel><text>Book 2 - Chapter 1: Five Years Later</text></navLabel>
+      <content src="Text/book2_ch_01.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel><text>Book 2 - Chapter 2: A Sight</text></navLabel>
+      <content src="Text/book2_ch_02.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel><text>Book 2 - Chapter 3: A Disappointment</text></navLabel>
+      <content src="Text/book2_ch_03.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel><text>Book 2 - Chapter 4: Congratulatory</text></navLabel>
+      <content src="Text/book2_ch_04.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel><text>Book 2 - Chapter 5: The Jackal</text></navLabel>
+      <content src="Text/book2_ch_05.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel><text>Book 2 - Chapter 6: Hundreds of People</text></navLabel>
+      <content src="Text/book2_ch_06.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel><text>Book 2 - Chapter 7: Monseigneur in Town</text></navLabel>
+      <content src="Text/book2_ch_07.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel><text>Book 2 - Chapter 8: Monseigneur in the Country</text></navLabel>
+      <content src="Text/book2_ch_08.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel><text>Book 2 - Chapter 9: The Gorgon's Head</text></navLabel>
+      <content src="Text/book2_ch_09.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel><text>Book 2 - Chapter 10: Two Promises</text></navLabel>
+      <content src="Text/book2_ch_10.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel><text>Book 2 - Chapter 11: A Companion Picture</text></navLabel>
+      <content src="Text/book2_ch_11.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel><text>Book 2 - Chapter 12: The Fellow of Delicacy</text></navLabel>
+      <content src="Text/book2_ch_12.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel><text>Book 2 - Chapter 13: The Fellow of No Delicacy</text></navLabel>
+      <content src="Text/book2_ch_13.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel><text>Book 2 - Chapter 14: The Honest Tradesman</text></navLabel>
+      <content src="Text/book2_ch_14.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel><text>Book 2 - Chapter 15: Knitting</text></navLabel>
+      <content src="Text/book2_ch_15.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel><text>Book 2 - Chapter 16: Still Knitting</text></navLabel>
+      <content src="Text/book2_ch_16.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel><text>Book 2 - Chapter 17: One Night</text></navLabel>
+      <content src="Text/book2_ch_17.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel><text>Book 2 - Chapter 18: Nine Days</text></navLabel>
+      <content src="Text/book2_ch_18.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel><text>Book 2 - Chapter 19: An Opinion</text></navLabel>
+      <content src="Text/book2_ch_19.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel><text>Book 2 - Chapter 20: A Plea</text></navLabel>
+      <content src="Text/book2_ch_20.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel><text>Book 2 - Chapter 21: Echoing Footsteps</text></navLabel>
+      <content src="Text/book2_ch_21.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel><text>Book 2 - Chapter 22: The Sea Still Rises</text></navLabel>
+      <content src="Text/book2_ch_22.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel><text>Book 2 - Chapter 23: Fire Rises</text></navLabel>
+      <content src="Text/book2_ch_23.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel><text>Book 2 - Chapter 24: Drawn to the Loadstone Rock</text></navLabel>
+      <content src="Text/book2_ch_24.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel><text>Book 3 - Chapter 1: In Secret</text></navLabel>
+      <content src="Text/book3_ch_01.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel><text>Book 3 - Chapter 2: The Grindstone</text></navLabel>
+      <content src="Text/book3_ch_02.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel><text>Book 3 - Chapter 3: The Shadow</text></navLabel>
+      <content src="Text/book3_ch_03.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel><text>Book 3 - Chapter 4: Calm in Storm</text></navLabel>
+      <content src="Text/book3_ch_04.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel><text>Book 3 - Chapter 5: The Wood-sawyer</text></navLabel>
+      <content src="Text/book3_ch_05.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel><text>Book 3 - Chapter 6: Triumph</text></navLabel>
+      <content src="Text/book3_ch_06.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel><text>Book 3 - Chapter 7: A Knock at the Door</text></navLabel>
+      <content src="Text/book3_ch_07.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel><text>Book 3 - Chapter 8: A Hand at Cards</text></navLabel>
+      <content src="Text/book3_ch_08.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-40" playOrder="40">
+      <navLabel><text>Book 3 - Chapter 9: The Game Played</text></navLabel>
+      <content src="Text/book3_ch_09.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-41" playOrder="41">
+      <navLabel><text>Book 3 - Chapter 10: The Substance of the Shadow</text></navLabel>
+      <content src="Text/book3_ch_10.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-42" playOrder="42">
+      <navLabel><text>Book 3 - Chapter 11: Dusk</text></navLabel>
+      <content src="Text/book3_ch_11.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-43" playOrder="43">
+      <navLabel><text>Book 3 - Chapter 12: Darkness</text></navLabel>
+      <content src="Text/book3_ch_12.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-44" playOrder="44">
+      <navLabel><text>Book 3 - Chapter 13: Fifty-two</text></navLabel>
+      <content src="Text/book3_ch_13.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-45" playOrder="45">
+      <navLabel><text>Book 3 - Chapter 14: The Knitting Done</text></navLabel>
+      <content src="Text/book3_ch_14.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-46" playOrder="46">
+      <navLabel><text>Book 3 - Chapter 15: The Footsteps Die Out For Ever</text></navLabel>
+      <content src="Text/book3_ch_15.xhtml"/>
+    </navPoint>
+    <navPoint id="navPoint-47" playOrder="47">
+      <navLabel><text>Copyright & Credits</text></navLabel>
+      <content src="Text/copyright.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

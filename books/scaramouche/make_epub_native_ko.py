@@ -127,10 +127,13 @@ def compile_book(book_num):
     
     chapters = []
     
-    # 0. Cover Page
-    cover_filename = f"cover_book{book_num}_final.jpg"
-    cover_filepath = os.path.join(BASE_DIR, cover_filename)
-    has_cover = os.path.exists(cover_filepath)
+    cover_candidates = [
+        os.path.join(BASE_DIR, f"cover_book{book_num}_ko.jpg"),
+        os.path.join(BASE_DIR, f"cover_book{book_num}_final.jpg"),
+        os.path.join(BASE_DIR, f"cover_book{book_num}.jpg")
+    ]
+    cover_filepath = next((c for c in cover_candidates if os.path.exists(c)), None)
+    has_cover = cover_filepath is not None
     if has_cover:
         cover_html = """<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html>
@@ -242,13 +245,13 @@ def compile_book(book_num):
                 z.writestr("OEBPS/Images/cover.jpg", cf.read())
 
         # Write EPUB3 HTML Nav Document
-        nav_items_xml = "\n        ".join([f'<li><a href="{ch["href"]}">{html.escape(ch["title"])}</a></li>' for ch in chapters])
+        nav_items_xml = "\n        ".join([f'<li><a href="{os.path.basename(ch["href"])}">{html.escape(ch["title"])}</a></li>' for ch in chapters])
         nav_html = f"""<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
 <head>
   <title>목차</title>
-  <link rel="stylesheet" href="Styles/main.css" type="text/css"/>
+  <link rel="stylesheet" href="../Styles/main.css" type="text/css"/>
 </head>
 <body>
   <nav epub:type="toc" id="toc">
@@ -267,6 +270,7 @@ def compile_book(book_num):
         
         manifest_items.append('<item id="css" href="Styles/main.css" media-type="text/css"/>')
         manifest_items.append('<item id="nav" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>')
+        manifest_items.append('<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>')
         
         if has_cover:
             manifest_items.append('<item id="cover-image" href="Images/cover.jpg" media-type="image/jpeg" properties="cover-image"/>')
@@ -291,7 +295,7 @@ def compile_book(book_num):
   <manifest>
     {manifest_xml}
   </manifest>
-  <spine>
+  <spine toc="ncx">
     {spine_xml}
   </spine>
 </package>"""
@@ -321,10 +325,205 @@ def compile_book(book_num):
         
     print(f"{book_titles[book_num]} compiled successfully: {output_filepath}")
 
+def compile_omnibus():
+    output_filename = "scaramouche_ko.epub"
+    output_filepath = os.path.join(BASE_DIR, output_filename)
+    book_title = "스카라무슈 (Scaramouche) 완결판"
+    
+    print(f"Building Complete Omnibus {book_title} natively...")
+    
+    chapters = []
+    
+    cover_candidates = [
+        os.path.join(BASE_DIR, "cover_ko.jpg"),
+        os.path.join(BASE_DIR, "cover.jpg")
+    ]
+    cover_filepath = next((c for c in cover_candidates if os.path.exists(c)), None)
+    has_cover = cover_filepath is not None
+    if has_cover:
+        cover_html = """<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+<head>
+  <title>Cover</title>
+  <style type="text/css">
+    body { margin: 0; padding: 0; text-align: center; background-color: #000000; }
+    img { max-width: 100%; max-height: 100%; height: auto; }
+  </style>
+</head>
+<body>
+  <div style="text-align: center; padding: 0; margin: 0;">
+    <img src="../Images/cover.jpg" alt="Cover"/>
+  </div>
+</body>
+</html>"""
+        chapters.append({'id': 'cover', 'href': 'Text/cover.xhtml', 'title': '표지', 'content': cover_html})
+
+    # 1. Introduction
+    intro_txt = os.path.join(CHAPTERS_DIR, "introduction_ko.txt")
+    if os.path.exists(intro_txt):
+        text = read_txt(intro_txt)
+        intro_html = txt_to_html(text, "작가 및 작품 소개")
+        chapters.append({'id': 'intro', 'href': 'Text/intro.xhtml', 'title': '작가 및 작품 소개', 'content': intro_html})
+        
+    import json
+    metadata_path = os.path.join(CHAPTERS_DIR, "metadata.json")
+    metadata = {}
+    if os.path.exists(metadata_path):
+        with open(metadata_path, "r", encoding="utf-8") as f:
+            metadata = json.load(f)
+
+    book_parts = {
+        1: "1부: 법복 (The Robe)",
+        2: "2부: 반장화 (The Buskin)",
+        3: "3부: 장검 (The Sword)"
+    }
+
+    # 2. Iterate through all 3 books
+    for book_num in [1, 2, 3]:
+        book_dir = os.path.join(CHAPTERS_DIR, f"book_{book_num}")
+        if not os.path.exists(book_dir):
+            continue
+
+        inner_ch = 1
+        while True:
+            inner_ch_str = str(inner_ch).zfill(2)
+            txt_path = os.path.join(book_dir, f"ch_{inner_ch_str}_ko.txt")
+            if not os.path.exists(txt_path):
+                break
+                
+            title = f"{book_num}부 {inner_ch}장"
+            text = read_txt(txt_path)
+            
+            book_key = f"book_{book_num}"
+            ch_key = f"ch_{inner_ch_str}"
+            title_text = metadata.get(book_key, {}).get(ch_key, {}).get("title_ko", "")
+            if title_text:
+                title = f"{book_num}부 {inner_ch}장: {title_text}"
+                
+            book_part = None
+            if inner_ch == 1:
+                book_part = book_parts.get(book_num)
+
+            ch_html = txt_to_html(text, title, book_part)
+            uid = f"b{book_num}_ch{inner_ch_str}"
+            fname = f"Text/b{book_num}_ch{inner_ch_str}.xhtml"
+            chapters.append({'id': uid, 'href': fname, 'title': title, 'content': ch_html})
+            
+            inner_ch += 1
+        
+    # 3. Copyright
+    copy_txt = os.path.join(CHAPTERS_DIR, "copyright_ko.txt")
+    if os.path.exists(copy_txt):
+        text = read_txt(copy_txt)
+        copy_html = txt_to_html(text, "저작권 및 편집자 노트")
+        chapters.append({'id': 'copyright', 'href': 'Text/copyright.xhtml', 'title': '저작권 및 편집자 노트', 'content': copy_html})
+        
+    book_uuid = f"urn:uuid:{uuid.uuid4()}"
+    modified_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    
+    with zipfile.ZipFile(output_filepath, 'w', zipfile.ZIP_DEFLATED) as z:
+        z.writestr("mimetype", "application/epub+zip", compress_type=zipfile.ZIP_STORED)
+        
+        container_xml = """<?xml version="1.0" encoding="UTF-8"?>
+<container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container">
+  <rootfiles>
+    <rootfile full-path="OEBPS/content.opf" media-type="application/oebps-package+xml"/>
+  </rootfiles>
+</container>"""
+        z.writestr("META-INF/container.xml", container_xml)
+        z.writestr("OEBPS/Styles/main.css", STYLE)
+        
+        for ch in chapters:
+            z.writestr(f"OEBPS/{ch['href']}", ch['content'])
+            
+        if has_cover:
+            with open(cover_filepath, "rb") as cf:
+                z.writestr("OEBPS/Images/cover.jpg", cf.read())
+
+        nav_items_xml = "\n        ".join([f'<li><a href="{os.path.basename(ch["href"])}">{html.escape(ch["title"])}</a></li>' for ch in chapters])
+        nav_html = f"""<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops">
+<head>
+  <title>목차</title>
+  <link rel="stylesheet" href="../Styles/main.css" type="text/css"/>
+</head>
+<body>
+  <nav epub:type="toc" id="toc">
+    <h1>목차</h1>
+    <ol>
+        {nav_items_xml}
+    </ol>
+  </nav>
+</body>
+</html>"""
+        z.writestr("OEBPS/Text/nav.xhtml", nav_html)
+            
+        manifest_items = []
+        spine_items = []
+        manifest_items.append('<item id="css" href="Styles/main.css" media-type="text/css"/>')
+        manifest_items.append('<item id="nav" href="Text/nav.xhtml" media-type="application/xhtml+xml" properties="nav"/>')
+        manifest_items.append('<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>')
+        
+        if has_cover:
+            manifest_items.append('<item id="cover-image" href="Images/cover.jpg" media-type="image/jpeg" properties="cover-image"/>')
+        
+        for ch in chapters:
+            manifest_items.append(f'<item id="{ch["id"]}" href="{ch["href"]}" media-type="application/xhtml+xml"/>')
+            spine_items.append(f'<itemref idref="{ch["id"]}"/>')
+            
+        manifest_xml = "\n    ".join(manifest_items)
+        spine_xml = "\n    ".join(spine_items)
+        
+        opf = f"""<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" version="3.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <dc:identifier id="bookid">{book_uuid}</dc:identifier>
+    <dc:title>{html.escape(book_title)}</dc:title>
+    <dc:creator>라파엘 사바티니</dc:creator>
+    <dc:language>ko</dc:language>
+    <dc:publisher>TKPROF LLC</dc:publisher>
+    <meta property="dcterms:modified">{modified_date}</meta>
+  </metadata>
+  <manifest>
+    {manifest_xml}
+  </manifest>
+  <spine toc="ncx">
+    {spine_xml}
+  </spine>
+</package>"""
+        z.writestr("OEBPS/content.opf", opf)
+        
+        nav_points = []
+        for idx, ch in enumerate(chapters):
+            nav_points.append(f"""    <navPoint id="{ch['id']}" playOrder="{idx+1}">
+      <navLabel><text>{html.escape(ch['title'])}</text></navLabel>
+      <content src="{ch['href']}"/>
+    </navPoint>""")
+            
+        nav_points_xml = "\n".join(nav_points)
+        ncx = f"""<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta name="dtb:uid" content="{book_uuid}"/>
+    <meta name="dtb:depth" content="1"/>
+  </head>
+  <docTitle><text>{html.escape(book_title)}</text></docTitle>
+  <navMap>
+    {nav_points_xml}
+  </navMap>
+</ncx>"""
+        z.writestr("OEBPS/toc.ncx", ncx)
+        
+    print(f"{book_title} compiled successfully: {output_filepath}")
+
 def main():
-    print("Building Korean EPUBs natively for all 3 books...")
+    print("Building Korean EPUBs natively for all 3 books plus omnibus edition...")
     for b in [1, 2, 3]:
         compile_book(b)
+    compile_omnibus()
 
 if __name__ == "__main__":
     main()
+

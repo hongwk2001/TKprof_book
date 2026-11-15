@@ -1,0 +1,1262 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Chapter Ten",
+    "is_header": false
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "Letter from Doctor Seward to the Honorable Arthur Holmwood.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Narrator",
+    "text": "September 6.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Narrator",
+    "text": "My dear Art,",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Narrator",
+    "text": "My news today is not very good. Lucy's condition worsened a bit this morning. However, one positive thing did come out of it. Missus Westenra was naturally worried about Lucy and asked for my professional medical advice. I took this opportunity to tell her that my former professor, the great specialist Van Helsing, is coming to stay with me. I explained that we would be managing Lucy's care together. Because of this, we can now visit freely without causing Missus Westenra unnecessary alarm.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Narrator",
+    "text": "Any shock could cause Missus Westenra to suffer sudden death, and losing her mother while in such a weak condition would be disastrous for Lucy. My poor old friend, we are all surrounded by difficulties right now, but with God's help, we will make it through. I will write to you if anything comes up, so if you don't hear from me, just assume I am waiting to see how things develop. Writing in a rush.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Narrator",
+    "text": "Yours always,",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "VanHelsing",
+    "text": "JOHN SEWARD.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Narrator",
+    "text": "Doctor Seward's Diary.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Narrator",
+    "text": "September 7. — The first thing Van Helsing said to me when we met at the Liverpool Street train station was:",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Female",
+    "text": "Have you told our young friend—her fiancé—anything?",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Male_Others",
+    "text": "No,",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Narrator",
+    "text": "I replied.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "role": "Male_Others",
+    "text": "I waited until I saw you, just like I said in my telegram. I only wrote him a letter to say that Miss Westenra wasn't doing well and that you were coming to help, and I promised to update him if necessary.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "role": "Male_Others",
+    "text": "Good job, my friend,",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "role": "Narrator",
+    "text": "he said. \"Very good! It's better that he doesn't know right now; in fact, maybe he should never know. I hope it doesn't come to that, but if it becomes necessary, we will tell him everything. And my good friend John, let me give you a warning. You work with mentally ill patients. Everyone is a little crazy in one way or another. Just as you handle your patients with discretion, you must treat the rest of the world—God's crazy people—the exact same way.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "role": "Narrator",
+    "text": "You don't explain everything you do or why you do it to your patients, nor do you tell them all your thoughts. In the same way, you need to keep what you know to yourself right now, so it can settle and grow into a clearer understanding over time. For now, you and I must keep what we know right here, and here.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "role": "Male_Others",
+    "text": "He tapped my chest and my forehead, and then did the same to himself.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "role": "Narrator",
+    "text": "I have some theories forming right now, but I will explain them to you later.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "role": "Male_Others",
+    "text": "Why not tell me now?",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "role": "Narrator",
+    "text": "I asked.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "role": "Male_Others",
+    "text": "It might be helpful; we could figure out a plan together.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "role": "Narrator",
+    "text": "He stopped walking, looked at me, and said:",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "role": "Male_Others",
+    "text": "My friend John, when corn has grown, even before it is fully ripe—while it is still green and before the sun has turned it yellow—a farmer will pick an ear, rub it in his rough hands, blow away the green husks, and say: 'Look! This is good corn; it will be a great harvest when the time comes.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "role": "Narrator",
+    "text": "I didn't understand the metaphor and told him so.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "role": "Narrator",
+    "text": "In response, he reached over, grabbed my ear, and pulled it playfully, just like he used to do during his university lectures, and said: \"A good farmer can say that because he has enough experience to know, but he won't say it until he is sure. However, a good farmer never digs up a planted seed just to check if it's growing. That is something children do when playing pretend, not what a professional farmer does for a living. Do you understand now, John?",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "role": "Narrator",
+    "text": "I have planted my seed, and now Nature has to do its job to make it grow. If it sprouts, there is hope, so I will wait until it starts to develop.\" He stopped talking because he could see that I finally understood. Then he continued very seriously:",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "role": "Narrator",
+    "text": "You were always a meticulous student, and your patient records were always more detailed than anyone else's. Back then you were just a student, but now you are a senior doctor yourself, and I trust you haven't lost that good habit. Remember, my friend, written documentation is stronger than human memory, and we should never rely on the weaker option. Even if you haven't kept up with your record-keeping, you need to start now.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "role": "Narrator",
+    "text": "This case with our dear Miss Westenra might become—and notice I say 'might'—so uniquely important to us and to medical science that it outweighs every other case you've ever had. So take careful notes. No detail is too small. I strongly advise you to write down even your unproven doubts and guesses. Later on, it will be very interesting to see how accurate your guesses were. We learn from our mistakes, not our successes!",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "role": "Narrator",
+    "text": "When I described Lucy's symptoms—which were the same as before, but much worse—he looked very grave, but didn't say anything. He had brought a bag filled with medical instruments and drugs, or as he once joked in a lecture,",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "role": "Female",
+    "text": "the ghastly equipment of our healing profession.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "role": "Narrator",
+    "text": "When we were shown inside, Missus Westenra greeted us. She was anxious, but not nearly as panicked as I expected her to be. Nature, in its mercy, seems to provide a natural defense against the terror of death. In this case, where any sudden shock could kill her, something was protecting Missus Westenra.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "role": "Narrator",
+    "text": "Somehow, the terrible changes in her daughter didn't seem to fully register with her. It was as if Nature had wrapped her mind in a protective layer to shield her from the truth. If this is a form of natural selfishness, we should think twice before condemning people for egoism; there might be deeper psychological reasons for it than we understand.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "role": "Narrator",
+    "text": "Using my medical knowledge of this psychological state, I set a strict rule: Missus Westenra was not to be in the same room as Lucy, nor was she allowed to think about the illness more than absolutely necessary. She agreed to this surprisingly easily, and I realized again that Nature was stepping in to protect her life. Van Helsing and I were then shown up to Lucy's room. I had been shocked when I saw her yesterday, but today I was completely horrified. She looked ghastly, as pale as chalk.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "role": "Narrator",
+    "text": "All the color was gone from her lips and gums, and her cheekbones stuck out sharply. Every breath she took looked and sounded painful. Van Helsing's face turned hard as stone, and he frowned so deeply his eyebrows almost touched. Lucy lay perfectly still and didn't even have the energy to speak, so we stood there in silence for a moment. Then Van Helsing motioned to me, and we quietly left the room. As soon as the door closed, he hurried down the hall into an open bedroom, pulled me inside, and shut the door.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "role": "Female",
+    "text": "My God!",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "role": "Narrator",
+    "text": "he said.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "role": "Female",
+    "text": "This is terrible. We don't have a second to lose. She will die simply because her heart doesn't have enough blood to pump. We must give her a blood transfusion right now. Will it be you or me?",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "role": "VanHelsing",
+    "text": "I am younger and stronger, Professor. It has to be me.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "role": "Male_Others",
+    "text": "Then get ready right away. I'll get my medical bag. I am ready to do this.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "role": "Narrator",
+    "text": "We went downstairs together, and just as we reached the hallway, there was a knock at the front door. A maid opened it, and Arthur hurried inside. He rushed over to me and whispered urgently:",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "role": "VanHelsing",
+    "text": "Jack, I was so worried. I read between the lines of your letter and I've been agonizing over it. My father is doing better, so I rushed down here to see for myself. Is this gentleman Doctor Van Helsing? Thank you so much for coming, sir.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "role": "Narrator",
+    "text": "When the Professor first saw him, he looked annoyed by the interruption. But as he noticed Arthur's strong, muscular build and youthful energy, his eyes lit up. Without hesitating, he shook Arthur's hand and said seriously:",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "role": "Female",
+    "text": "Sir, you arrived just in time. You are the young lady's fiancé. Her condition is very, very bad. No, my boy, don't collapse like that.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "role": "Narrator",
+    "text": "Arthur had suddenly turned pale and practically fell into a chair, looking like he might faint.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "role": "Female",
+    "text": "You have to help her. You can do more for her right now than anyone else alive, and you must find your courage.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "role": "Female",
+    "text": "What can I do?",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "role": "Narrator",
+    "text": "Arthur asked, his voice shaking.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "role": "Female",
+    "text": "Tell me, and I'll do it. My life belongs to her, and I would give my very last drop of blood for her.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "role": "Narrator",
+    "text": "The Professor had a sharp sense of humor, and knowing him so well, I could see a hint of it in his response:",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "role": "Male_Others",
+    "text": "My young sir, I won't ask for quite that much—not the very last drop!",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "role": "VanHelsing",
+    "text": "What do I need to do?",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "role": "Narrator",
+    "text": "Arthur asked, a fierce determination returning to his eyes. Van Helsing clapped him on the shoulder.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "role": "VanHelsing",
+    "text": "Come with us!",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "role": "Narrator",
+    "text": "he said.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "role": "VanHelsing",
+    "text": "You are a strong man, and that's exactly what we need. You are a better candidate than me, and better than my friend John.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "role": "Narrator",
+    "text": "Arthur looked confused, so the Professor kindly explained:",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "role": "Female",
+    "text": "Your young lady is very, very sick. She needs blood, and if she doesn't get it, she will die. John and I were just about to perform a blood transfusion—taking blood from full veins and putting it into empty ones that desperately need it. John was going to be the donor because he is younger and stronger than I am",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "role": "Narrator",
+    "text": "—at this, Arthur grabbed my hand and squeezed it tightly in silent thanks—\"but now that you're here, you are the best choice. John and I do too much exhausting mental work.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "role": "Narrator",
+    "text": "Our nerves aren't as steady as yours, and our blood isn't as healthy!\" Arthur turned to him and said:",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "role": "Female",
+    "text": "If you only knew how gladly I would die for her, you would understand—",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "role": "Narrator",
+    "text": "He broke off, choking back a sob.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "role": "Female",
+    "text": "Good boy!",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "role": "Narrator",
+    "text": "Van Helsing said.",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "role": "Female",
+    "text": "Very soon, you will be happy knowing you did everything possible for the woman you love. Now come with us, and stay quiet. I will let you kiss her once before we begin, but then you must step back and leave the room the moment I give you the signal. And say nothing to her mother. You know how frail she is. We can't let her experience any shock, and knowing about this procedure would certainly be a shock. Come!",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "role": "Narrator",
+    "text": "We all went up to Lucy's room together. Arthur was told to wait outside for the moment. Lucy turned her head and looked at us, but she didn't say a word. She wasn't asleep; she was just simply too weak to speak. Her eyes spoke for her, and that was all she could manage. Van Helsing took a few things from his medical bag and placed them on a small table out of her line of sight. Then he mixed a sedative and walked over to her bed, speaking in a cheerful voice:",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "role": "Female",
+    "text": "Now, little miss, here is your medicine. Drink it down like a good girl. Here, I'll lift your head so it's easy to swallow. That's it.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "role": "Narrator",
+    "text": "She managed to drink it successfully.",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "role": "Narrator",
+    "text": "I was shocked by how long it took for the sedative to take effect. In reality, this just proved how completely exhausted her body was. The time dragged on until finally, her eyelids began to droop. At long last, the sedative started working, and she fell into a deep sleep. Once the Professor was satisfied that she was completely under, he called Arthur into the room and told him to take off his coat. Then he added, \"You can give her one quick kiss while I set up the table.",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "role": "Narrator",
+    "text": "Friend John, come help me!\" Neither of us looked while Arthur bent over to kiss her.",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "role": "Narrator",
+    "text": "Van Helsing turned to me and said:",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "role": "Male_Others",
+    "text": "He is so young and strong, and his blood is so healthy, that we don't even need to remove the fibrin to prevent clotting.",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "role": "Narrator",
+    "text": "Van Helsing performed the procedure quickly but with absolute precision. As the blood transfusion continued, life seemed to flow back into poor Lucy's pale cheeks. Arthur was getting paler by the minute, but the pure joy on his face was practically glowing. After a while, I started getting worried, because losing that much blood was taking a heavy toll on Arthur, even though he was a strong man. It made me realize just how devastating Lucy's blood loss must have been, considering that draining Arthur so severely only partially restored her color.",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "role": "Narrator",
+    "text": "But the Professor remained focused, holding his pocket watch and shifting his eyes between Lucy and Arthur. The room was so quiet I could hear my own heart beating. Finally, he said softly,",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "role": "Female",
+    "text": "Don't move a muscle. That is enough. John, you take care of him; I will tend to her.",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "role": "Narrator",
+    "text": "Once the procedure was finished, I could see just how drained Arthur was. I bandaged his arm and supported his weight to lead him out of the room. Without even turning around—the man seemed to have eyes in the back of his head—Van Helsing spoke:",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "role": "Female",
+    "text": "I think our brave lover deserves one more kiss, which he can have in just a moment.",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "role": "Narrator",
+    "text": "Having finished his work, the Professor adjusted the pillow under Lucy's head. As he moved her, the narrow black velvet ribbon she always wore around her neck—fastened with an antique diamond buckle Arthur had given her—slid up slightly, revealing a red mark on her throat. Arthur didn't notice it, but I heard Van Helsing suck in his breath sharply, which I knew was his way of reacting when he was startled.",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "role": "Narrator",
+    "text": "He didn't say anything to Arthur, but turned to me and said: \"Now take our brave young man downstairs, give him a glass of port wine, and let him lie down for a bit. After that, he needs to go home, rest, eat well, and sleep so he can recover the strength he just gave to the woman he loves. He cannot stay here tonight. Wait! Let me assure you, sir, since you are surely anxious about the result. Rest assured that the procedure was a complete success.",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "role": "Narrator",
+    "text": "You saved her life today, and you can go home with absolute peace of mind knowing you did everything possible. I will tell her everything when she is fully recovered; she will only love you more for what you did today. Goodbye.",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "role": "Narrator",
+    "text": "After Arthur left, I went back into the bedroom. Lucy was sleeping peacefully, and her breathing was much stronger; I could see the blanket rising and falling with her chest. Van Helsing was sitting by the bed, staring at her intently. The velvet ribbon had fallen back into place, covering the red mark. I whispered to the Professor:",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "role": "Female",
+    "text": "What do you make of that mark on her neck?",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "role": "Male_Others",
+    "text": "What do you make of it?",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "role": "Female",
+    "text": "I haven't looked closely at it yet,",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "role": "Narrator",
+    "text": "I replied, and I immediately leaned in to untie the ribbon. Right over her jugular vein were two small puncture wounds. They weren't large, but they looked nasty. It wasn't a disease; the edges of the wounds were white and ragged, as if the skin had been rubbed or chewed raw. For a second, I thought that this wound might be where she lost all that blood, but I immediately dismissed the idea as impossible.",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "role": "Narrator",
+    "text": "If she had lost enough blood from that wound to become as pale as she was before the transfusion, the entire bed would have been soaked red.",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "role": "VanHelsing",
+    "text": "Well?",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "role": "Narrator",
+    "text": "Van Helsing asked.",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "role": "Female",
+    "text": "Well,",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "role": "Narrator",
+    "text": "I said,",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "role": "Female",
+    "text": "I have no idea what caused it.",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "role": "Narrator",
+    "text": "The Professor stood up.",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "role": "Female",
+    "text": "I must go back to Amsterdam tonight,",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "role": "Narrator",
+    "text": "he said.",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "role": "Female",
+    "text": "I need to get some specific books and supplies from my home. You must stay here all night, and you must not take your eyes off her for a single second.",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "role": "Male_Others",
+    "text": "Should I hire a nurse to help?",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "role": "Narrator",
+    "text": "I asked.",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "role": "Female",
+    "text": "You and I are the best nurses she could have. You will keep watch all night; make sure she eats well and that nothing disturbs her. You absolutely must not fall asleep tonight. We can sleep later. I will return as quickly as possible. And then, we can begin.",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "role": "Male_Others",
+    "text": "We can begin?",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "role": "Narrator",
+    "text": "I asked.",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "role": "Male_Others",
+    "text": "What on earth do you mean by that?",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "role": "Male_Others",
+    "text": "We shall see!",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "role": "Narrator",
+    "text": "he replied as he hurried out the door. But a second later, he popped his head back inside, held up a warning finger, and said:",
+    "is_header": false
+  },
+  {
+    "id": 104,
+    "role": "Female",
+    "text": "Remember, she is entirely your responsibility tonight. If you leave her side and anything bad happens to her, you will never have a peaceful night's sleep again!",
+    "is_header": false
+  },
+  {
+    "id": 105,
+    "role": "Narrator",
+    "text": "Doctor Seward's Diary—continued.",
+    "is_header": false
+  },
+  {
+    "id": 106,
+    "role": "Narrator",
+    "text": "September 8.—I stayed up all night sitting with Lucy. The sedative wore off around dusk, and she woke up naturally. She looked like a completely different person compared to how she was before the blood transfusion. She was actually in good spirits and full of happy energy, though I could still see signs of how utterly exhausted her body had been. When I told Missus Westenra that Doctor",
+    "is_header": false
+  },
+  {
+    "id": 107,
+    "role": "Narrator",
+    "text": "Van Helsing had ordered me to stay up with Lucy all night, she almost laughed off the idea, pointing out how much stronger and happier her daughter seemed. I stood my ground, however, and prepared for my long night watch. After her maid helped her get ready for bed and I had eaten my supper, I went back into the room and sat down next to her bed. She didn't object at all; in fact, she looked at me with deep gratitude every time we made eye contact.",
+    "is_header": false
+  },
+  {
+    "id": 108,
+    "role": "Narrator",
+    "text": "After a while, she seemed to be drifting off to sleep, but then she would suddenly jolt awake and shake off her drowsiness. She repeated this several times, fighting harder against sleep with shorter intervals between each attempt. It was obvious she was trying to stay awake, so I brought it up right away:",
+    "is_header": false
+  },
+  {
+    "id": 109,
+    "role": "Male_Others",
+    "text": "Do you not want to go to sleep?",
+    "is_header": false
+  },
+  {
+    "id": 110,
+    "role": "Male_Others",
+    "text": "No, I'm afraid to.",
+    "is_header": false
+  },
+  {
+    "id": 111,
+    "role": "Male_Others",
+    "text": "Afraid to go to sleep! Why is that? Sleep is the one thing we all desperately need.",
+    "is_header": false
+  },
+  {
+    "id": 112,
+    "role": "Male_Others",
+    "text": "Ah, you wouldn't say that if you were me—if sleep was a warning sign of pure horror!",
+    "is_header": false
+  },
+  {
+    "id": 113,
+    "role": "Male_Others",
+    "text": "A warning sign of horror? What in the world do you mean?",
+    "is_header": false
+  },
+  {
+    "id": 114,
+    "role": "Male_Others",
+    "text": "I don't know, oh, I just don't know. And that's what makes it so terrifying. All this weakness only hits me when I'm sleeping. I've gotten to the point where I dread even the thought of closing my eyes.",
+    "is_header": false
+  },
+  {
+    "id": 115,
+    "role": "Female",
+    "text": "But, my dear girl, you can sleep safely tonight. I am sitting right here watching you, and I promise you absolutely nothing will happen.",
+    "is_header": false
+  },
+  {
+    "id": 116,
+    "role": "Male_Others",
+    "text": "Ah, I know I can trust you!",
+    "is_header": false
+  },
+  {
+    "id": 117,
+    "role": "Narrator",
+    "text": "Taking advantage of this, I said:",
+    "is_header": false
+  },
+  {
+    "id": 118,
+    "role": "Male_Others",
+    "text": "I promise you that if I see any sign that you are having a nightmare, I will wake you up immediately.",
+    "is_header": false
+  },
+  {
+    "id": 119,
+    "role": "Female",
+    "text": "You will? Oh, will you really do that? You are so good to me. Then I will sleep!",
+    "is_header": false
+  },
+  {
+    "id": 120,
+    "role": "Narrator",
+    "text": "And almost as soon as she said it, she let out a deep sigh of relief, sank back into her pillows, and fell fast asleep.",
+    "is_header": false
+  },
+  {
+    "id": 121,
+    "role": "Narrator",
+    "text": "I watched over her all through the night. She didn't stir once, but slept continuously in a deep, peaceful, healing sleep. Her lips were parted slightly, and her chest rose and fell as steadily as a clock's pendulum. She had a soft smile on her face, proving that no nightmares had come to ruin her peaceful rest.",
+    "is_header": false
+  },
+  {
+    "id": 122,
+    "role": "Narrator",
+    "text": "Her maid arrived early in the morning, so I left Lucy in her care and went back to my own home, as I had many other things to worry about. I sent short telegrams to Van Helsing and Arthur, letting them know that the procedure had been a massive success. I had to spend the entire day catching up on my own backlog of work; it was already dark by the time I was able to check on my animal-eating patient, Renfield. The report was positive; he had been perfectly quiet for the last twenty-four hours.",
+    "is_header": false
+  },
+  {
+    "id": 123,
+    "role": "Narrator",
+    "text": "While I was eating dinner, a telegram arrived from Van Helsing in Amsterdam. He suggested that I should go back and spend tonight at Hillingham, just to be close by in case I was needed. He also mentioned that he was taking the overnight mail train and would meet me there early tomorrow morning.",
+    "is_header": false
+  },
+  {
+    "id": 124,
+    "role": "Narrator",
+    "text": "September 9.—I was extremely tired and worn out when I finally arrived at Hillingham. I had barely slept a wink for two nights, and my brain was starting to feel that heavy numbness that comes with extreme mental exhaustion. Lucy was awake and in excellent spirits. When she shook my hand, she looked closely at my face and said:",
+    "is_header": false
+  },
+  {
+    "id": 125,
+    "role": "Female",
+    "text": "There will be no staying up all night for you today. You are completely exhausted. I am feeling entirely well again; I really am. If anyone needs to stay up and keep watch, it should be me keeping watch over you.",
+    "is_header": false
+  },
+  {
+    "id": 126,
+    "role": "Narrator",
+    "text": "I was too tired to argue, so I simply went to eat my supper. Lucy sat with me, and her charming company really brightened my mood. I enjoyed a large meal and drank two glasses of an outstanding port wine.",
+    "is_header": false
+  },
+  {
+    "id": 127,
+    "role": "Narrator",
+    "text": "After that, Lucy took me upstairs and showed me into a room right next to hers, where a warm fire was already burning in the fireplace.",
+    "is_header": false
+  },
+  {
+    "id": 128,
+    "role": "Female",
+    "text": "Now,",
+    "is_header": false
+  },
+  {
+    "id": 129,
+    "role": "Narrator",
+    "text": "she said,",
+    "is_header": false
+  },
+  {
+    "id": 130,
+    "role": "Female",
+    "text": "you have to sleep here. I'll leave my door open, and I'll leave this door open, too. You can sleep on the sofa because I know none of you doctors will actually sleep in a real bed while there is a patient nearby. If I need anything at all, I will call out for you, and you can come to me instantly.",
+    "is_header": false
+  },
+  {
+    "id": 131,
+    "role": "Narrator",
+    "text": "I had no choice but to agree.",
+    "is_header": false
+  },
+  {
+    "id": 132,
+    "role": "Narrator",
+    "text": "I was absolutely exhausted, and I couldn't have stayed awake even if I tried. So, after she promised me one more time that she would call for me if she needed anything, I laid down on the sofa and instantly forgot about the entire world.",
+    "is_header": false
+  },
+  {
+    "id": 133,
+    "role": "Narrator",
+    "text": "Lucy Westenra's Diary.",
+    "is_header": false
+  },
+  {
+    "id": 134,
+    "role": "Narrator",
+    "text": "September 9.—I feel so incredibly happy tonight. I had been feeling so miserably weak that just being able to think clearly and walk around feels like stepping into bright sunshine after enduring a long, freezing wind under gray skies. For some reason, Arthur feels very, very close to me right now. I feel as though his warm presence is wrapped around me. I suppose being sick and weak makes us selfish; it turns our attention and sympathy completely inward. But having health and strength allows Love to roam free, letting our thoughts and feelings wander wherever they want.",
+    "is_header": false
+  },
+  {
+    "id": 135,
+    "role": "Narrator",
+    "text": "I certainly know where my thoughts are wandering right now. If only Arthur knew! My dear, my dear, your ears must be burning as you sleep, just like mine are while I'm awake. Oh, the blissful rest I had last night! I slept so peacefully, knowing that dear, kind Doctor Seward was watching over me. And I'm not afraid to sleep tonight, either, since I know he is right next door and I can call him if I need anything. Thank you to everyone for being so good to me! Thank God! Good night, Arthur.",
+    "is_header": false
+  },
+  {
+    "id": 136,
+    "role": "Narrator",
+    "text": "Doctor Seward's Diary.",
+    "is_header": false
+  },
+  {
+    "id": 137,
+    "role": "Narrator",
+    "text": "September 10.—I suddenly felt the Professor's hand on my head, and I instantly snapped wide awake. If you work in an asylum, you quickly learn to wake up the second someone touches you.",
+    "is_header": false
+  },
+  {
+    "id": 138,
+    "role": "Male_Others",
+    "text": "And how is our patient doing?",
+    "is_header": false
+  },
+  {
+    "id": 139,
+    "role": "Female",
+    "text": "She was fine when I left her, or rather, when she left me to go to sleep,",
+    "is_header": false
+  },
+  {
+    "id": 140,
+    "role": "Narrator",
+    "text": "I replied.",
+    "is_header": false
+  },
+  {
+    "id": 141,
+    "role": "Female",
+    "text": "Come on, let's go check on her,",
+    "is_header": false
+  },
+  {
+    "id": 142,
+    "role": "Narrator",
+    "text": "he said. And together we walked into her room.",
+    "is_header": false
+  },
+  {
+    "id": 143,
+    "role": "Narrator",
+    "text": "The window blinds were pulled down, so I walked over to raise them gently. Meanwhile, Van Helsing moved silently toward the bed, walking with soft, cat-like steps.",
+    "is_header": false
+  },
+  {
+    "id": 144,
+    "role": "Narrator",
+    "text": "As I raised the blind and morning sunlight poured into the room, I heard the Professor suck in his breath sharply. I knew he rarely made that sound, and a sudden, deadly fear gripped my heart. As I turned around, he took a step back. His horrified exclamation,",
+    "is_header": false
+  },
+  {
+    "id": 145,
+    "role": "VanHelsing",
+    "text": "My God!",
+    "is_header": false
+  },
+  {
+    "id": 146,
+    "role": "VanHelsing",
+    "text": "Gott in Himmel!",
+    "is_header": false
+  },
+  {
+    "id": 147,
+    "role": "Narrator",
+    "text": ") was clear enough, but his agonizing facial expression made it even more terrifying. He raised a shaking hand and pointed at the bed. His face, normally hard as iron, was twisted in anguish and pale as ash. I felt my own knees start to shake.",
+    "is_header": false
+  },
+  {
+    "id": 148,
+    "role": "Narrator",
+    "text": "Poor Lucy was lying on the bed, seemingly unconscious. She looked more horribly pale and sick than I had ever seen her. Even her lips were entirely white, and her gums seemed to have shrunk away from her teeth, an effect you sometimes see in a corpse after a very long illness. Van Helsing lifted his foot, about to stomp the ground in sheer anger, but years of disciplined instinct and habit stopped him, and he lowered his foot silently.",
+    "is_header": false
+  },
+  {
+    "id": 149,
+    "role": "Female",
+    "text": "Quick!",
+    "is_header": false
+  },
+  {
+    "id": 150,
+    "role": "Narrator",
+    "text": "he ordered.",
+    "is_header": false
+  },
+  {
+    "id": 151,
+    "role": "Female",
+    "text": "Go get the brandy.",
+    "is_header": false
+  },
+  {
+    "id": 152,
+    "role": "Narrator",
+    "text": "I practically flew to the dining room and ran back with the liquor decanter. He dabbed the brandy onto her poor, white lips, and together we frantically rubbed her palms, wrists, and chest above her heart. He felt for a heartbeat, and after a few seconds of agonizing suspense, he finally spoke:",
+    "is_header": false
+  },
+  {
+    "id": 153,
+    "role": "Female",
+    "text": "It isn't too late. Her heart is beating, although very weakly. All the progress we made has been completely wiped out; we have to start all over again. Young Arthur isn't here today; I'm going to have to ask for your blood this time, my friend John.",
+    "is_header": false
+  },
+  {
+    "id": 154,
+    "role": "Narrator",
+    "text": "Even as he spoke, he was already digging into his bag and pulling out the transfusion equipment. I immediately took off my coat and rolled up my shirtsleeve.",
+    "is_header": false
+  },
+  {
+    "id": 155,
+    "role": "Narrator",
+    "text": "We couldn't give her a sedative right now, nor did she need one since she was already unconscious, so we began the procedure without wasting a single second. After a while—and it certainly didn't feel like a short while, because having your blood drained, even when you give it gladly, is a terrible sensation—Van Helsing held up a finger in warning.",
+    "is_header": false
+  },
+  {
+    "id": 156,
+    "role": "Female",
+    "text": "Don't move,",
+    "is_header": false
+  },
+  {
+    "id": 157,
+    "role": "Narrator",
+    "text": "he whispered, \"but I'm worried that as she gets stronger, she might wake up; and that would be incredibly dangerous. I need to take a precaution.",
+    "is_header": false
+  },
+  {
+    "id": 158,
+    "role": "Narrator",
+    "text": "I'm going to give her a hypodermic injection of morphine.\" He quickly and skillfully administered the shot. It had a good effect on Lucy, as her faint seemed to smoothly transition into a drug-induced sleep. I felt a surge of personal pride as I saw a faint hint of pink finally return to her pale cheeks and lips. No man can truly understand what it feels like to have his own life-blood drained into the veins of the woman he loves until he actually experiences it for himself.",
+    "is_header": false
+  },
+  {
+    "id": 159,
+    "role": "Narrator",
+    "text": "The Professor watched me carefully.",
+    "is_header": false
+  },
+  {
+    "id": 160,
+    "role": "VanHelsing",
+    "text": "That is enough,",
+    "is_header": false
+  },
+  {
+    "id": 161,
+    "role": "Narrator",
+    "text": "he said.",
+    "is_header": false
+  },
+  {
+    "id": 162,
+    "role": "VanHelsing",
+    "text": "Already?",
+    "is_header": false
+  },
+  {
+    "id": 163,
+    "role": "Narrator",
+    "text": "I protested.",
+    "is_header": false
+  },
+  {
+    "id": 164,
+    "role": "VanHelsing",
+    "text": "You took significantly more blood from Arthur.",
+    "is_header": false
+  },
+  {
+    "id": 165,
+    "role": "Narrator",
+    "text": "He gave me a sad smile and replied:",
+    "is_header": false
+  },
+  {
+    "id": 166,
+    "role": "Female",
+    "text": "He is her lover, her fiancé. You have a job to do, and a lot of hard work ahead of you, both for her sake and for others. What you have given today is enough.",
+    "is_header": false
+  },
+  {
+    "id": 167,
+    "role": "Narrator",
+    "text": "When we finished the transfusion, Van Helsing tended to Lucy while I applied pressure with my fingers to my own cut. I lay down while I waited for him to have a free moment to bandage my arm, because I was feeling faint and slightly nauseous. Soon enough, he wrapped my wound and sent me downstairs to pour myself a glass of wine. As I was walking out of the room, he followed me and whispered:",
+    "is_header": false
+  },
+  {
+    "id": 168,
+    "role": "VanHelsing",
+    "text": "Remember, you must not tell anyone about this. If our young friend Arthur shows up unexpectedly like he did yesterday, do not say a word to him about it. It would only terrify him, and it might also make him jealous. We cannot allow that. Understood!",
+    "is_header": false
+  },
+  {
+    "id": 169,
+    "role": "Narrator",
+    "text": "When I came back upstairs, he looked at me closely and then said:",
+    "is_header": false
+  },
+  {
+    "id": 170,
+    "role": "Male_Others",
+    "text": "You aren't doing too badly. Go into the next room, lie down on your sofa, and rest for a while. After that, eat a very large breakfast, and then come back to see me.",
+    "is_header": false
+  },
+  {
+    "id": 171,
+    "role": "Narrator",
+    "text": "I followed his orders because I knew he was right and that his advice was wise. I had done my part in giving blood, and now my most important duty was to rebuild my own strength. I felt very weak, and that sheer exhaustion somewhat blunted my shock over what had just happened. Still, as I fell asleep on the sofa, I couldn't stop wondering how Lucy had deteriorated so quickly. I couldn't understand how she could have been drained of so much blood without a single physical trace left behind to explain it.",
+    "is_header": false
+  },
+  {
+    "id": 172,
+    "role": "Narrator",
+    "text": "I think I must have kept puzzling over it in my dreams, because whether I was asleep or awake, my mind kept drifting back to those two tiny puncture marks on her throat and their ragged, worn edges—as small as they were.",
+    "is_header": false
+  },
+  {
+    "id": 173,
+    "role": "Narrator",
+    "text": "Lucy slept well past noon, and when she finally woke up, she was reasonably alert and strong, although not nearly as energetic as she had been the day before. After Van Helsing checked on her, he went out for a walk. He left me in charge, giving me strict orders that I was not to leave her side for even a single second. I could hear his voice downstairs in the hallway, asking the servants for directions to the nearest telegraph office.",
+    "is_header": false
+  },
+  {
+    "id": 174,
+    "role": "Narrator",
+    "text": "Lucy chatted with me easily, seeming entirely unaware that anything serious had happened. I did my best to keep her entertained and distracted. When her mother came upstairs to visit, Missus Westenra didn't seem to notice any change in Lucy's condition at all. Instead, she turned to me and said gratefully:",
+    "is_header": false
+  },
+  {
+    "id": 175,
+    "role": "Female",
+    "text": "We owe you so much, Doctor Seward, for everything you have done, but you really must be careful not to overwork yourself. You are looking quite pale yourself today. You need a wife to nurse you and take care of you; you really do!",
+    "is_header": false
+  },
+  {
+    "id": 176,
+    "role": "Narrator",
+    "text": "When she said that, Lucy's face immediately turned bright red, although it only lasted for a second. Her poor, depleted veins couldn't sustain such an unusual rush of blood to her head for very long. The blush was quickly replaced by extreme paleness as she turned and looked at me pleadingly.",
+    "is_header": false
+  },
+  {
+    "id": 177,
+    "role": "Narrator",
+    "text": "I smiled, nodded, and put a finger to my lips to promise my silence. With a sigh of relief, she sank back into her pillows.",
+    "is_header": false
+  },
+  {
+    "id": 178,
+    "role": "Narrator",
+    "text": "Van Helsing returned a couple of hours later and immediately said to me:",
+    "is_header": false
+  },
+  {
+    "id": 179,
+    "role": "VanHelsing",
+    "text": "Now go home. Eat plenty of food and drink plenty of fluids. Build your strength back up. I will stay here tonight, and I will keep watch over the little miss myself. You and I must monitor this case closely, and no one else can know about it. I have very serious reasons for this. No, do not ask what they are; you can think whatever you want. Don't be afraid to consider even the most impossible explanations. Good night.",
+    "is_header": false
+  },
+  {
+    "id": 180,
+    "role": "Narrator",
+    "text": "While I was walking through the hallway, two of the maids came up to me and asked if one or both of them could stay up to watch over Miss Lucy tonight. They practically begged me to let them do it. When I explained that Doctor Van Helsing specifically wanted either himself or me to keep watch, they pleaded with me pitifully to talk to the",
+    "is_header": false
+  },
+  {
+    "id": 181,
+    "role": "Female",
+    "text": "foreign gentleman",
+    "is_header": false
+  },
+  {
+    "id": 182,
+    "role": "Narrator",
+    "text": "on their behalf. I was deeply touched by their kindness.",
+    "is_header": false
+  },
+  {
+    "id": 183,
+    "role": "Narrator",
+    "text": "Maybe it was because I am physically weak right now, or maybe it was because they were showing such devotion to Lucy, but it moved me. I have seen many similar instances of women showing such fierce, gentle care for others. I made it back to my own home just in time for a late dinner. I did my evening rounds with my patients—everything was fine—and now I am writing this down while I wait to fall asleep. It is finally coming.",
+    "is_header": false
+  },
+  {
+    "id": 184,
+    "role": "Narrator",
+    "text": "September 11.—I went over to Hillingham this afternoon. I found Van Helsing in excellent spirits, and Lucy was doing much better. Shortly after I arrived, a large package from overseas was delivered for the Professor. He opened it with a great show of dramatic flair—which was obviously intentional—and revealed a huge bundle of white flowers.",
+    "is_header": false
+  },
+  {
+    "id": 185,
+    "role": "Female",
+    "text": "These are for you, Miss Lucy,",
+    "is_header": false
+  },
+  {
+    "id": 186,
+    "role": "Narrator",
+    "text": "he said.",
+    "is_header": false
+  },
+  {
+    "id": 187,
+    "role": "VanHelsing",
+    "text": "For me? Oh, Doctor Van Helsing, thank you!",
+    "is_header": false
+  },
+  {
+    "id": 188,
+    "role": "Female",
+    "text": "Yes, my dear, but they aren't for decoration. These are medicine.",
+    "is_header": false
+  },
+  {
+    "id": 189,
+    "role": "Narrator",
+    "text": "Lucy immediately made a disgusted face. \"No, no, you don't have to boil them into a tea or drink anything nasty, so there's no need to wrinkle that charming nose of yours. If you keep making that face, I will have to tell my friend Arthur how much it hurts him to see the beautiful face he loves so distorted. Aha, my pretty miss, that straightened out your nose quickly. These flowers do have medical value, but in a way you wouldn't expect.",
+    "is_header": false
+  },
+  {
+    "id": 190,
+    "role": "Narrator",
+    "text": "I'm going to put them in your windows, and I'll make a pretty wreath for you to wear around your neck so you can sleep soundly. Oh, yes! Just like the mythical lotus flower, these will make you forget all your troubles. They smell like the waters of the River of Forgetfulness, or the Fountain of Youth that the Spanish explorers searched for in Florida, only to find it too late.",
+    "is_header": false
+  },
+  {
+    "id": 191,
+    "role": "Narrator",
+    "text": "While he was talking, Lucy had been inspecting the flowers and smelling them. Now she dropped them on the bed, laughing a little but also looking somewhat disgusted.",
+    "is_header": false
+  },
+  {
+    "id": 192,
+    "role": "VanHelsing",
+    "text": "Oh, Professor, I think you're just playing a joke on me. These are just common garlic flowers.",
+    "is_header": false
+  },
+  {
+    "id": 193,
+    "role": "Narrator",
+    "text": "To my surprise, Van Helsing stood up abruptly. His jaw tightened, his bushy eyebrows furrowed together, and he spoke with absolute severity:",
+    "is_header": false
+  },
+  {
+    "id": 194,
+    "role": "Female",
+    "text": "Do not test me! I am not joking! There is a grim and serious purpose behind everything I do; I am warning you, do not interfere with my work. You must be careful, if not for your own sake, then for the sake of the people who love you.",
+    "is_header": false
+  },
+  {
+    "id": 195,
+    "role": "Narrator",
+    "text": "Then, seeing that poor Lucy was frightened—which was completely understandable—he softened his tone and continued more gently: \"Oh, little miss, my dear, please don't be afraid of me. I am only doing this for your own good. There is great power in these common flowers.",
+    "is_header": false
+  },
+  {
+    "id": 196,
+    "role": "Narrator",
+    "text": "Look, I will place them in your room myself. I will personally make the wreath you are going to wear. But hush! Do not tell anyone else who might ask nosy questions about this. We must obey the rules, and keeping quiet is part of that obedience. This obedience will make you strong and healthy again, so you can return to the loving arms of the man waiting for you. Now just sit quietly for a moment. Come with me, friend John.",
+    "is_header": false
+  },
+  {
+    "id": 197,
+    "role": "Narrator",
+    "text": "You're going to help me decorate this room with my garlic, which traveled all the way from Haarlem, where my friend Vanderpool grows herbs in his greenhouses year-round. I had to send him a telegram yesterday, or they wouldn't have arrived in time.",
+    "is_header": false
+  },
+  {
+    "id": 198,
+    "role": "Narrator",
+    "text": "We took the flowers and walked into her bedroom. The Professor's methods were certainly strange; I had never heard of a medical treatment like this in any textbook. First, he closed all the windows and locked them tight. Next, he took a handful of the garlic flowers and rubbed them all over the window frames, as if he wanted to make sure that any tiny breeze blowing in would carry the smell of garlic.",
+    "is_header": false
+  },
+  {
+    "id": 199,
+    "role": "Narrator",
+    "text": "He did the same thing with the bedroom door, rubbing the flowers all over the top, bottom, and sides of the doorframe, and then repeated the process around the fireplace. The whole thing seemed completely absurd to me, and I finally said:",
+    "is_header": false
+  },
+  {
+    "id": 200,
+    "role": "VanHelsing",
+    "text": "Well, Professor, I know you always have a logical reason for whatever you do, but I have to admit this completely baffles me. It's a good thing we don't have anyone superstitious here, or they would think you were casting a magic spell to ward off evil spirits.",
+    "is_header": false
+  },
+  {
+    "id": 201,
+    "role": "Female",
+    "text": "Perhaps I am!",
+    "is_header": false
+  },
+  {
+    "id": 202,
+    "role": "Narrator",
+    "text": "he answered calmly, as he started weaving the garlic wreath that Lucy was going to wear around her neck.",
+    "is_header": false
+  },
+  {
+    "id": 203,
+    "role": "Narrator",
+    "text": "We waited while Lucy washed up and got ready for bed. Once she was lying down, the Professor went over and personally secured the garlic wreath around her neck. His final instructions to her were:",
+    "is_header": false
+  },
+  {
+    "id": 204,
+    "role": "Male_Others",
+    "text": "Make sure you don't take this off. Even if the room gets stuffy, absolutely do not open your windows or door tonight.",
+    "is_header": false
+  },
+  {
+    "id": 205,
+    "role": "Female",
+    "text": "I promise,",
+    "is_header": false
+  },
+  {
+    "id": 206,
+    "role": "Narrator",
+    "text": "Lucy said.",
+    "is_header": false
+  },
+  {
+    "id": 207,
+    "role": "Female",
+    "text": "And thank you both a thousand times for being so kind to me! Oh, what did I ever do to deserve such wonderful friends?",
+    "is_header": false
+  },
+  {
+    "id": 208,
+    "role": "Narrator",
+    "text": "As we were leaving the house and getting into the waiting carriage, Van Helsing said:",
+    "is_header": false
+  },
+  {
+    "id": 209,
+    "role": "Female",
+    "text": "I can finally sleep in peace tonight, and I desperately need to. Two days of traveling, trying to read during the day, enduring extreme anxiety about what was going to happen, and then staying awake all night without shutting my eyes once. Come to my house early tomorrow morning, and we will come back here together to see our pretty miss. She will be so much stronger thanks to the 'spell' I cast tonight. Ha! Ha!",
+    "is_header": false
+  },
+  {
+    "id": 210,
+    "role": "Narrator",
+    "text": "He seemed so utterly confident. But remembering how confident I had been two nights ago, only to discover a disastrous result the next morning, I felt a deep sense of dread and vague terror. It was probably my own cowardice that made me hesitate to tell my friend about my fears, but the feeling only grew stronger inside me, heavy like unshed tears.",
+    "is_header": false
+  }
+]

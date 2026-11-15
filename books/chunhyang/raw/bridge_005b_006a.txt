@@ -1,0 +1,6 @@
+# EDITORIAL BRIDGE for the missing pages 5b and 6a (not in the museum scans).
+# Written in-house in modern Korean from the story's plot. It is not taken from any edition.
+# normalize.py inserts it after 5a, wrapped in 〔 〕 so it stays marked as ours.
+# It continues 5a's last words 「…치머리 곱게」. 6b opens mid-word 「음방초승화시라」; chapters.py
+# restores the lost first syllable as 「녹음방초승화시라」.
+빗어 땋아 내리고, 고운 비단 옷에 갓을 받쳐 쓰니 한양 귀공자의 풍채가 늠름하다. 나귀에 올라앉아 방자에게 고삐를 잡히고 관아 문을 나서니, 길가의 사람들이 사또 자제를 구경하느라 발길을 멈춘다. 성 남문 밖으로 나가 맑은 냇물을 건너 광한루에 다다르니, 누각은 높이 솟아 있고 오작교는 물 위에 걸려 있다. 도련님이 나귀에서 내려 누각에 올라 난간에 기대어 사방을 둘러보니,

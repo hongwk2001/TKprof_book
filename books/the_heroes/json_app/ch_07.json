@@ -1,0 +1,829 @@
+[
+  {
+    "id": 1,
+    "tag": "H07",
+    "en": "The Argonauts - Part I: How the Centaur Trained the Heroes on Pelion",
+    "ko": "아르고 호 원정대 - 1부: 켄타우로스가 펠리온 산에서 영웅들을 가르치다",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P0255",
+    "en": "I have told you about a hero who fought wild beasts and men. Now I have a tale about heroes who sailed away to a distant land. They sought eternal fame in the adventure of the Golden Fleece.",
+    "ko": "야생의 짐승과 야만인에 맞서 싸운 영웅의 이야기를 이미 들려드렸습니다. 이제 머나먼 땅으로 항해를 떠난 영웅들의 이야기를 해볼까 합니다. 그들은 황금 양털을 찾는 모험에서 영원한 명성을 얻고자 했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P0256_1",
+    "en": "I cannot clearly tell you where they sailed, my children. It all happened so long ago that it has grown dim. It is like a dream you had last year.",
+    "ko": "여러분, 그들이 어디로 항해했는지는 정확히 말씀드리기 어렵습니다. 너무 오래전에 일어난 일이라 기억이 희미해졌기 때문입니다. 마치 작년에 꾼 꿈처럼 말입니다.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P0256_2",
+    "en": "I also cannot tell you why they went. Some say they went to win gold. That might be true.",
+    "ko": "그들이 왜 떠났는지도 알 수 없습니다. 어떤 이들은 황금을 얻기 위해서라고 말합니다. 그럴지도 모릅니다.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P0256_3",
+    "en": "But the noblest deeds on earth have not been done for gold. The Lord did not come down and die for gold. The Apostles did not preach the good news in all lands for money.",
+    "ko": "하지만 이 세상에서 가장 고귀한 일들은 황금을 위해 이루어지지 않았습니다. 주님께서 이 땅에 오셔서 돌아가신 것도 황금 때문이 아니었습니다. 사도들이 온 땅에 기쁜 소식을 전한 것도 돈을 바란 것이 아니었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P0256_4",
+    "en": "The Spartans fought and died at Thermopylae without expecting financial reward. Socrates the wise asked no pay from his countrymen. He lived poor and barefoot all his days, only caring to make men good.",
+    "ko": "스파르타인들은 테르모필레에서 금전적인 보상을 바라지 않고 싸우다 죽었습니다. 지혜로운 소크라테스도 동포들에게 대가를 요구하지 않았습니다. 그는 평생을 가난하고 맨발로 살면서 오직 사람들을 선하게 만드는 데만 힘썼습니다.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P0256_5",
+    "en": "There are also heroes in our modern days who do noble deeds. They do not act for the sake of gold. Our explorers did not seek riches when they sailed into the dreary frozen seas.",
+    "ko": "오늘날에도 황금을 바라지 않고 고귀한 일을 하는 영웅들이 있습니다. 그들은 황금을 위해 행동하지 않습니다. 우리의 탐험가들은 황량하고 얼어붙은 바다로 항해할 때 부를 좇지 않았습니다.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P0256_6",
+    "en": "The women who recently volunteered in Eastern hospitals did not seek wealth. They embraced poverty to become rich in noble works. You know many young men who went to war, perhaps even your own relatives.",
+    "ko": "최근 동방의 병원에서 봉사한 여성들도 부를 원하지 않았습니다. 그들은 고귀한 일로 마음을 채우기 위해 기꺼이 가난을 택했습니다. 여러분이 아는 참전 용사들이나 친척들도 마찬가지입니다.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P0256_7",
+    "en": "Did they wonder how much money they would earn? They left behind wealth, comfort, and pleasant homes. They abandoned everything money can buy to face hunger, thirst, wounds, and death.",
+    "ko": "그들이 전쟁터에 나가면서 얼마나 많은 돈을 벌 수 있을지 계산했을까요? 그들은 부와 안락함, 그리고 정든 집을 뒤로했습니다. 돈으로 살 수 있는 모든 것을 버리고 굶주림과 갈증, 상처와 죽음에 맞섰습니다.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P0256_8",
+    "en": "They did this to fight for their country and their Queen. No, my children, there is something on earth better than wealth. There is something better than life itself.",
+    "ko": "오직 조국과 여왕을 위해 싸우고자 그렇게 한 것입니다. 그렇습니다 여러분, 이 세상에는 부유함보다 더 나은 것이 있습니다. 심지어 생명 자체보다 더 가치 있는 것이 존재합니다.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P0256_9",
+    "en": "That is to do something meaningful before you die. Good people will honor you for it. And God your Father will smile upon your work.",
+    "ko": "그것은 죽기 전에 뭔가 의미 있는 일을 해내는 것입니다. 훌륭한 사람들이 그 일로 당신을 존경할 것입니다. 그리고 하나님 아버지께서 당신의 수고에 미소 지으실 것입니다.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P0257_1",
+    "en": "Therefore we can believe these ancient Argonauts were noble men. Why shouldn't we think they planned and achieved a noble deed? Their fame has lived on through stories and songs.",
+    "ko": "그러므로 우리는 이 고대의 아르고호 선원들 역시 고귀한 사람들이었다고 믿을 수 있습니다. 그들이 훌륭한 일을 계획하고 이루어냈다고 생각하지 않을 이유가 없습니다. 그들의 명성은 이야기와 노래를 통해 살아남았습니다.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P0257_2",
+    "en": "Their tale is mixed with dreams and fables. Yet it remains true and right at its heart. So we will honor these old Argonauts and listen to their story.",
+    "ko": "비록 그들의 이야기에 꿈과 신화가 섞여 있기는 합니다. 하지만 그 본질만큼은 여전히 진실하고 올바릅니다. 그러니 우리는 이 오래된 아르고호 선원들을 기리며 그들의 이야기에 귀를 기울일 것입니다.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P0257_3",
+    "en": "We will try to be like them in our own lives. Each of us has our own Golden Fleece to seek.",
+    "ko": "우리 각자의 삶 속에서 그들을 닮고자 노력할 것입니다. 우리 모두에게는 찾아야 할 각자의 황금 양털이 있습니다.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P0257_4",
+    "en": "We must sail over a wild sea before we reach it. We must fight dragons before it can truly be ours.",
+    "ko": "그곳에 닿으려면 거친 바다를 항해해야만 합니다. 그것을 온전히 우리의 것으로 만들려면 용과 맞서 싸워야 합니다.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P0258_1",
+    "en": "What exactly was that first Golden Fleece? I do not really know, nor does it matter much. The ancient Greeks said it hung in Colchis.",
+    "ko": "최초의 황금 양털은 과연 무엇이었을까요? 저는 잘 알지도 못하고, 크게 신경 쓰지도 않습니다. 고대 그리스인들은 그것이 콜키스에 걸려 있었다고 말했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P0258_2",
+    "en": "We now call this area the Circassian coast. It was nailed to a beech tree in the war god's sacred wood. It was the fleece of a wondrous ram.",
+    "ko": "우리는 그곳을 체르케스 해안이라고 부릅니다. 그것은 전쟁의 신이 머무는 숲의 너도밤나무에 못 박혀 있었습니다. 그것은 놀라운 숫양의 양털이었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P0258_3",
+    "en": "This ram carried Phrixus and Helle across the Euxine Sea. Phrixus and Helle were the children of a cloud nymph and King Athamas. A severe famine eventually struck their land.",
+    "ko": "이 숫양은 프릭소스와 헬레를 태우고 흑해를 건넜습니다. 프릭소스와 헬레는 구름의 요정과 아타마스 왕의 아이들이었습니다. 마침내 그들의 땅에 끔찍한 기근이 닥쳤습니다.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P0258_4",
+    "en": "Their cruel stepmother Ino wanted to kill them. She wanted her own children to inherit the throne. She claimed the gods were angry and demanded a sacrifice.",
+    "ko": "잔인한 계모 이노는 그들을 죽이고 싶어 했습니다. 그녀는 자신의 아이들이 왕위를 물려받기를 바랐습니다. 그녀는 신들이 분노하여 제물을 원한다고 주장했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P0258_5",
+    "en": "The poor children were dragged to the altar. The priest stood ready with his sharp knife. Suddenly, the Golden Ram descended from the clouds.",
+    "ko": "불쌍한 아이들은 제단으로 끌려갔습니다. 사제는 날카로운 칼을 들고 준비하고 있었습니다. 그때 갑자기 구름 속에서 황금 숫양이 내려왔습니다.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P0258_6",
+    "en": "It took the children on its back and vanished. Then terrible madness fell upon the foolish King Athamas. Ruin also came to Ino and her children.",
+    "ko": "숫양은 아이들을 등에 태우고 사라져 버렸습니다. 그러자 어리석은 아타마스 왕에게 끔찍한 광기가 덮쳤습니다. 이노와 그녀의 아이들에게도 파멸이 찾아왔습니다.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P0258_7",
+    "en": "Athamas killed one of his children in a furious rage. Ino fled from him with her other child in her arms. She leaped from a high cliff straight into the sea.",
+    "ko": "아타마스는 맹렬한 분노에 사로잡혀 자신의 아이 중 하나를 죽이고 말았습니다. 이노는 남은 아이를 품에 안고 그에게서 도망쳤습니다. 그녀는 높은 절벽에서 바다로 곧장 뛰어들었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P0258_8",
+    "en": "She was magically transformed into a dolphin. She wanders the waves forever, clutching her little one to her breast.",
+    "ko": "그녀는 마법처럼 돌고래로 변하고 말았습니다. 그녀는 새끼를 가슴에 품은 채 영원히 파도 위를 떠돌고 있습니다.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P0259_1",
+    "en": "The people drove King Athamas out because he had killed his child. He roamed about in deep misery until he reached the Oracle in Delphi. The Oracle told him he must wander to atone for his sin.",
+    "ko": "백성들은 자식을 죽인 아타마스 왕을 내쫓았습니다. 그는 깊은 절망 속에서 떠돌다가 델포이의 신탁에 이르렀습니다. 신탁은 그가 죄를 속죄하기 위해 방랑해야 한다고 말했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P0259_2",
+    "en": "He had to wander until wild beasts feasted him as their guest. He traveled in hunger and sorrow for many weary days. Finally, he spotted a pack of wild wolves.",
+    "ko": "그는 야생 짐승들이 그를 손님으로 맞이하여 포식하게 할 때까지 떠돌아야 했습니다. 그는 배고픔과 슬픔 속에서 고단한 날들을 보냈습니다. 마침내 그는 야생 늑대 무리를 발견했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P0259_3",
+    "en": "The wolves were fiercely tearing apart a sheep. When they saw Athamas, they fled and left the sheep behind. He ate the remaining meat and knew the oracle was finally fulfilled.",
+    "ko": "늑대들은 사납게 양을 찢어 먹고 있었습니다. 그들은 아타마스를 보자 양을 버려두고 도망쳤습니다. 그는 남은 고기를 먹었고, 마침내 신탁이 이루어졌음을 깨달았습니다.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P0259_4",
+    "en": "He stopped wandering and settled down to build a new town. There he became a king once again.",
+    "ko": "그는 방랑을 멈추고 정착하여 새로운 마을을 세웠습니다. 그곳에서 그는 다시 왕이 되었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P0260_1",
+    "en": "The ram carried the two children far away over land and sea. They finally reached the Thracian Chersonese. There, poor Helle slipped and fell into the sea.",
+    "ko": "숫양은 두 아이를 태우고 육지와 바다를 넘어 멀리 날아갔습니다. 그들은 마침내 트라키아 케르소네소스에 도착했습니다. 그곳에서 불쌍한 헬레가 미끄러져 바다에 빠지고 말았습니다.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P0260_2",
+    "en": "Those narrow straits were named Hellespont in her honor. The straits bear that name to this very day.",
+    "ko": "그 좁은 해협은 그녀를 기리기 위해 헬레스폰트라고 불렸습니다. 그 해협은 오늘날까지도 그 이름을 간직하고 있습니다.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P0261_1",
+    "en": "The ram continued flying northeast with Phrixus. They crossed the sea we now know as the Black Sea. The ancient Greeks called this sea the Euxine.",
+    "ko": "숫양은 프릭소스를 태우고 계속해서 북동쪽으로 날아갔습니다. 그들은 지금 우리가 흑해라고 부르는 바다를 건넜습니다. 고대 그리스인들은 이 바다를 에욱시노스라고 불렀습니다.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P0261_2",
+    "en": "Legend says the ram finally stopped at Colchis. This was on the steep and rugged Circassian coast. There, Phrixus married Chalciope, the daughter of King Aietes.",
+    "ko": "전설에 따르면 숫양은 마침내 콜키스에 멈춰 섰습니다. 그곳은 가파르고 험준한 체르케스 해안에 있었습니다. 그곳에서 프릭소스는 아이에테스 왕의 딸 칼키오페와 결혼했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P0261_3",
+    "en": "He offered the Golden Ram as a sacred sacrifice. King Aietes nailed the ram's fleece to a beech tree. This tree stood in the sacred grove of Ares, the war god.",
+    "ko": "그는 황금 숫양을 신성한 제물로 바쳤습니다. 아이에테스 왕은 숫양의 털을 너도밤나무에 못 박았습니다. 이 나무는 전쟁의 신 아레스의 신성한 숲에 있었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P0262_1",
+    "en": "After a while, Phrixus died and was buried. But his restless spirit could find no peace. He was buried far from his native land.",
+    "ko": "얼마 후 프릭소스는 세상을 떠나 묻혔습니다. 하지만 그의 불안한 영혼은 안식을 찾지 못했습니다. 그는 고국에서 아주 멀리 떨어진 곳에 묻혔기 때문입니다.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P0262_2",
+    "en": "He missed the pleasant and familiar hills of Hellas. He appeared in dreams to the heroes of the Minyans. He called out sadly as he stood by their beds.",
+    "ko": "그는 그리스의 아름답고 친숙한 언덕을 그리워했습니다. 그는 미니아스 영웅들의 꿈속에 나타났습니다. 그는 그들의 침대 곁에 서서 슬프게 부르짖었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P0262_3",
+    "en": "Come and set my spirit free! I wish to go home to my fathers and my kinsfolk. I long to return to the pleasant Minyan land.",
+    "ko": "와서 내 영혼을 자유롭게 해주시오! 나는 내 조상들과 친족들이 있는 집으로 돌아가고 싶소. 나는 그 아름다운 미니아스의 땅으로 돌아가길 간절히 원하오.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P0263",
+    "en": "The heroes asked, How shall we set your spirit free?",
+    "ko": "영웅들이 물었습니다. 어떻게 해야 당신의 영혼을 자유롭게 할 수 있습니까?",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P0264_1",
+    "en": "You must sail over the sea to Colchis. You must bring home the Golden Fleece.",
+    "ko": "당신들은 바다를 건너 콜키스로 항해해야 하오. 그리고 황금 양털을 고향으로 가져와야 하오.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P0264_2",
+    "en": "Then my spirit will come back with it. I shall finally sleep with my fathers and find rest.",
+    "ko": "그러면 내 영혼도 그것과 함께 돌아갈 것이오. 마침내 나는 조상들 곁에서 잠들며 안식을 찾을 수 있을 것이오.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P0265_1",
+    "en": "He visited them often and called out to them. But when they woke, they only looked at each other. They asked who would dare sail to Colchis.",
+    "ko": "그는 종종 그들을 찾아가 불렀습니다. 하지만 그들은 잠에서 깨어 서로를 쳐다보기만 했습니다. 그들은 누가 감히 콜키스로 항해할 수 있겠냐고 물었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P0265_2",
+    "en": "They wondered who could bring back the golden fleece. No one in the entire country was brave enough to try. The right man and the right time had not yet arrived.",
+    "ko": "누가 황금 양털을 가져올 수 있을지 궁금해했습니다. 온 나라를 통틀어 그것을 시도할 만큼 용감한 사람은 없었습니다. 아직 적임자도 나타나지 않았고 때도 이르지 않았던 것입니다.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P0266_1",
+    "en": "Phrixus had a cousin named Aeson. Aeson was the king of Iolcos by the sea. He ruled over the wealthy Minyan heroes there.",
+    "ko": "프릭소스에게는 아이손이라는 사촌이 있었습니다. 아이손은 바닷가에 있는 이올코스의 왕이었습니다. 그는 그곳에서 부유한 미니아스 영웅들을 다스렸습니다.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P0266_2",
+    "en": "His uncle Athamas ruled in Boeotia. Like his uncle, Aeson was a deeply unhappy man. He had a stepbrother named Pelias.",
+    "ko": "그의 삼촌 아타마스는 보이오티아를 통치했습니다. 삼촌처럼 아이손 역시 무척 불행한 사람이었습니다. 그에게는 펠리아스라는 이복형제가 있었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P0266_3",
+    "en": "Some claimed Pelias was the son of a nymph. There were dark and sad rumors about his birth. As a baby, Pelias was abandoned in the mountains.",
+    "ko": "어떤 이들은 펠리아스가 요정의 아들이라고 주장했습니다. 그의 탄생에 얽힌 어둡고 슬픈 소문들이 있었습니다. 아기였을 때 펠리아스는 산에 버려졌습니다.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P0266_4",
+    "en": "A wild mare passed by and kicked him. A passing shepherd eventually found the baby. The baby's face was completely bruised from the blow.",
+    "ko": "야생 암말이 지나가다가 그를 발로 찼습니다. 지나가던 목동이 마침내 그 아기를 발견했습니다. 아기의 얼굴은 발길질을 당해 온통 멍들어 있었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P0266_5",
+    "en": "The shepherd took him home and named him Pelias. The name meant that his face was bruised and dark. Pelias grew up to be fierce and lawless.",
+    "ko": "목동은 그를 집으로 데려가 펠리아스라는 이름을 지어주었습니다. 그 이름은 얼굴에 멍이 들고 까맣다는 뜻이었습니다. 펠리아스는 자라면서 난폭하고 무법적인 사람이 되었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P0266_6",
+    "en": "He committed many terrible and violent deeds. Eventually, he drove out his stepbrother Aeson. He also banished his own brother Neleus.",
+    "ko": "그는 끔찍하고 폭력적인 짓을 많이 저질렀습니다. 결국 그는 이복형제인 아이손을 내쫓았습니다. 그는 친동생인 넬레우스마저 추방했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P0266_7",
+    "en": "Pelias claimed the kingdom entirely for himself. He then ruled the wealthy Minyan heroes in Iolcos.",
+    "ko": "펠리아스는 왕국을 온전히 차지했습니다. 그러고는 이올코스에서 부유한 미니아스 영웅들을 다스렸습니다.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P0267_1",
+    "en": "After being driven out, Aeson left the town in deep sorrow. He walked away while leading his little son by the hand. He quietly muttered a plan to himself.",
+    "ko": "쫓겨난 후 아이손은 깊은 슬픔에 잠겨 마을을 떠났습니다. 그는 어린 아들의 손을 잡고 걸어갔습니다. 그는 혼잣말로 조용히 계획을 중얼거렸습니다.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P0267_2",
+    "en": "I must hide the child safely in the mountains. Otherwise, Pelias will certainly kill him. He will target my son because he is the true heir.",
+    "ko": "아이를 산속에 안전하게 숨겨야만 해. 그렇지 않으면 펠리아스가 틀림없이 아이를 죽일 거야. 내 아들이 진정한 후계자이기 때문에 표적이 될 테니까.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P0268_1",
+    "en": "Aeson walked up from the sea and crossed the valley. He passed through the vineyards and olive groves. He carefully crossed the rushing waters of the Anauros.",
+    "ko": "아이손은 바다에서 올라와 계곡을 건넜습니다. 그는 포도밭과 올리브 숲을 지나갔습니다. 그는 물살이 거센 아나우로스 강을 조심스럽게 건넜습니다.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P0268_2",
+    "en": "He headed toward the ancient mountain of Pelion. The high peaks of the mountain were covered in white snow.",
+    "ko": "그는 오래된 펠리온 산을 향해 나아갔습니다. 산의 높은 봉우리는 하얀 눈으로 덮여 있었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P0269_1",
+    "en": "He climbed higher and higher into the steep mountain. He crossed over marshes, crags, and deep hills. Eventually, the boy became utterly exhausted.",
+    "ko": "그는 가파른 산을 향해 높이 올라갔습니다. 그는 늪과 바위 절벽, 깊은 언덕을 넘어갔습니다. 마침내 소년은 완전히 지쳐버렸습니다.",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P0269_2",
+    "en": "The child's feet were incredibly sore from walking. Aeson had to carry his son in his arms.",
+    "ko": "아이의 발은 걷느라 너무나 아팠습니다. 아이손은 아들을 품에 안고 가야 했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P0269_3",
+    "en": "They finally reached the mouth of a lonely cave. The cave rested at the very foot of a massive cliff.",
+    "ko": "그들은 마침내 외딴 동굴 입구에 다다랐습니다. 그 동굴은 거대한 절벽의 맨 아래쪽에 있었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P0270_1",
+    "en": "Thick snow hung heavily above the tall cliff. The snow dripped and cracked under the warm sun. But beautiful flowers and herbs grew at the cliff's base.",
+    "ko": "높은 절벽 위에는 두꺼운 눈송이가 무겁게 매달려 있었습니다. 눈은 따뜻한 햇살을 받아 녹아내리며 갈라졌습니다. 하지만 절벽 아래에는 아름다운 꽃과 약초가 자라고 있었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P0270_2",
+    "en": "They surrounded the mouth of the cave like a garden. Each type of plant was neatly arranged by itself. They thrived brightly in the sunshine and river spray.",
+    "ko": "그것들은 마치 정원처럼 동굴 입구를 둘러싸고 있었습니다. 각 식물들은 종류별로 깔끔하게 정리되어 있었습니다. 식물들은 햇빛과 강물의 물보라 속에서 생기 있게 자랐습니다.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P0270_3",
+    "en": "The sound of beautiful music drifted from the cave. A man's voice was singing softly to a harp.",
+    "ko": "동굴에서는 아름다운 음악 소리가 흘러나왔습니다. 한 남자의 목소리가 하프 연주에 맞춰 부드럽게 노래하고 있었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P0271",
+    "en": "Aeson gently set the young boy down. He then leaned in and whispered softly to him.",
+    "ko": "아이손은 어린 소년을 부드럽게 내려놓았습니다. 그러고는 몸을 숙여 아이에게 조용히 속삭였습니다.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P0272_1",
+    "en": "Do not be afraid, just go inside. Whoever you find, place your hands on his knees.",
+    "ko": "두려워하지 말고 안으로 들어가거라. 누구를 만나든 그의 무릎에 두 손을 얹어라.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P0272_2",
+    "en": "In the name of Zeus, father of gods and men. Tell him I am your guest from this day forward.",
+    "ko": "신과 인간의 아버지이신 제우스의 이름으로. 오늘부터 제가 당신의 손님입니다라고 말하거라.",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P0273_1",
+    "en": "The boy walked inside without any fear or trembling. He was incredibly brave because he was a hero's son.",
+    "ko": "소년은 조금도 두려워하거나 떨지 않고 안으로 들어갔습니다. 그 역시 영웅의 아들이었기에 무척 용감했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P0273_2",
+    "en": "But once inside, he immediately stopped in his tracks. He listened to the magical song in pure wonder.",
+    "ko": "하지만 안으로 들어가자마자 그는 곧장 걸음을 멈추었습니다. 그는 순수한 경이로움 속에서 마법 같은 노래에 귀를 기울였습니다.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P0274_1",
+    "en": "There he saw the singer resting on bear skins. The singer lay among sweet and fragrant tree branches. It was Chiron, the ancient and wise centaur.",
+    "ko": "그곳에서 그는 곰 가죽 위에 쉬고 있는 가수를 보았습니다. 가수는 달콤하고 향긋한 나뭇가지들 사이에 누워 있었습니다. 그는 바로 늙고 지혜로운 켄타우로스인 케이론이었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "tag": "P0274_2",
+    "en": "He was the wisest of all beings beneath the sky. Down to his waist, he was a human man. But below his waist, he was a magnificent horse.",
+    "ko": "그는 하늘 아래 있는 모든 존재 중에서 가장 지혜로웠습니다. 허리까지는 인간 남자의 모습이었습니다. 하지만 허리 아래는 늠름한 말의 형상을 하고 있었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P0274_3",
+    "en": "His white hair flowed heavily over his broad shoulders. His white beard covered his wide, brown chest.",
+    "ko": "그의 하얀 머리카락은 넓은 어깨 위로 무겁게 흘러내렸습니다. 하얀 수염은 넓고 갈색빛이 도는 가슴을 덮고 있었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P0274_4",
+    "en": "His eyes were deeply wise and very gentle. His forehead was as grand as a towering mountain wall.",
+    "ko": "그의 눈은 깊이 있는 지혜와 다정함을 품고 있었습니다. 그의 이마는 솟아오른 산벽처럼 웅장했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P0275_1",
+    "en": "He held a beautiful golden harp in his hands. He struck its strings with a shining golden key.",
+    "ko": "그는 손에 아름다운 황금 하프를 들고 있었습니다. 그는 빛나는 황금 채로 하프 줄을 튕겼습니다.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "tag": "P0275_2",
+    "en": "As he played, he sang with glittering eyes. His brilliant presence filled the entire cave with light.",
+    "ko": "그는 하프를 연주하며 반짝이는 눈으로 노래를 불렀습니다. 그의 찬란한 존재감은 동굴 전체를 빛으로 가득 채웠습니다.",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "tag": "P0276_1",
+    "en": "He sang about the very birth of Time. He sang of the heavens and the dancing stars. His song described the ocean, the air, and the fire.",
+    "ko": "그는 시간이 탄생한 순간에 대해 노래했습니다. 그는 하늘과 춤추는 별들에 대해 노래했습니다. 그의 노래는 바다와 공기, 그리고 불을 묘사했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "tag": "P0276_2",
+    "en": "He sang about the shaping of our wondrous earth. He also sang of the hidden treasures within the hills. He described the secret jewels buried deep in mines.",
+    "ko": "그는 우리의 경이로운 지구가 어떻게 형성되었는지 노래했습니다. 그는 언덕 속에 숨겨진 보물들에 대해서도 노래했습니다. 그는 광산 깊은 곳에 묻힌 비밀스러운 보석들을 묘사했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "tag": "P0276_3",
+    "en": "His song revealed the winding veins of fire and metal. He explained the healing powers of all medicinal herbs.",
+    "ko": "그의 노래는 불과 금속이 흐르는 굽이치는 광맥을 보여주었습니다. 그는 모든 약초가 가진 치유의 힘을 설명했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "tag": "P0276_4",
+    "en": "He sang of the unique languages spoken by birds. Finally, he sang of prophecies and hidden future events.",
+    "ko": "그는 새들이 말하는 독특한 언어에 대해 노래했습니다. 마지막으로 그는 예언과 숨겨진 미래의 사건들에 대해 노래했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "tag": "P0277_1",
+    "en": "He sang of health, strength, manhood, and a valiant heart. He sang of music, hunting, wrestling, and all the games heroes love. He sang of travel, wars, sieges, and a noble death in battle.",
+    "ko": "그는 건강과 힘, 남성미, 그리고 용맹한 마음에 대해 노래했습니다. 또한 음악과 사냥, 레슬링, 그리고 영웅들이 사랑하는 모든 경기에 대해 노래했습니다. 여행과 전쟁, 공성전, 그리고 전투에서의 고귀한 죽음에 대해서도 노래했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "tag": "P0277_2",
+    "en": "Then he sang of peace and plenty, and of equal justice in the land. As he sang, the wide-eyed boy listened and forgot his errand.",
+    "ko": "그러고 나서 평화와 풍요, 그리고 이 땅의 평등한 정의에 대해 노래했습니다. 그가 노래하는 동안, 눈이 휘둥그레진 소년은 귀를 기울이며 자신의 심부름도 잊어버렸습니다.",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "tag": "P0278",
+    "en": "At last, old Chiron fell silent and called the boy with a soft voice.",
+    "ko": "마침내 늙은 케이론은 침묵을 지키더니, 부드러운 목소리로 소년을 불렀습니다.",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "tag": "P0279_1",
+    "en": "The boy ran trembling to him and reached out to touch his knees. But Chiron smiled and spoke. Call your father Aeson here.",
+    "ko": "소년은 떨면서 그에게 달려가 그의 무릎에 손을 얹으려 했습니다. 하지만 케이론은 미소를 지으며 말했습니다. 너의 아버지 아이손을 이곳으로 모셔오너라.",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "tag": "P0279_2",
+    "en": "I know who you are and everything that has happened. I saw you both from afar in the valley, even before you left the town.",
+    "ko": "나는 네가 누구인지, 그리고 무슨 일이 있었는지 모두 알고 있단다. 너희가 마을을 떠나기도 전에 계곡 멀리서 두 사람을 보았지.",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "tag": "P0280",
+    "en": "Aeson came in sadly. Chiron asked him, Why did you not come to me yourself, Aeson, son of Aeolus?",
+    "ko": "아이손이 슬픈 표정으로 들어왔습니다. 케이론이 그에게 물었습니다. 아이올로스의 아들 아이손이여, 왜 직접 나를 찾아오지 않았소?",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "tag": "P0281",
+    "en": "Aeson replied.",
+    "ko": "아이손이 대답했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "tag": "P0282_1",
+    "en": "I thought you would pity the boy if you saw him come alone. I also wanted to see if he was brave enough to venture out like a hero's son.",
+    "ko": "아이 혼자 오는 것을 보면 당신이 이 소년을 불쌍히 여길 것이라 생각했습니다. 또한 영웅의 아들답게 두려움 없이 모험을 떠날 수 있는지 시험해 보고 싶었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "tag": "P0282_2",
+    "en": "But now I beg you by Father Zeus to let him be your guest. Train him among the heroes' sons, so he may one day avenge his father's house.",
+    "ko": "하지만 이제 아버지 제우스의 이름으로 간청하건대, 더 좋은 시절이 올 때까지 이 아이를 당신의 손님으로 받아 주십시오. 영웅들의 아들들 사이에서 이 아이를 훈련시켜, 훗날 아버지 가문의 복수를 할 수 있게 해 주십시오.",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "tag": "P0283_1",
+    "en": "Chiron smiled and drew the boy close. He laid his hand on the boy's golden hair and spoke.",
+    "ko": "케이론은 미소를 지으며 소년을 가까이 끌어당겼습니다. 그는 소년의 금발 머리에 손을 얹고 말했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "tag": "P0283_2",
+    "en": "Are you afraid of my horse's hooves, fair boy? Or will you be my pupil from this day forward?",
+    "ko": "아름다운 소년아, 내 말발굽이 두렵느냐? 아니면 오늘부터 내 제자가 되겠느냐?",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "tag": "P0284",
+    "en": "I would gladly have horse's hooves like you, if I could sing such songs.",
+    "ko": "선생님처럼 그런 노래를 부를 수 있다면, 저도 기꺼이 말발굽을 갖고 싶습니다.",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "tag": "P0285_1",
+    "en": "Chiron laughed and nodded. Sit here by me until sundown.",
+    "ko": "케이론은 웃으며 고개를 끄덕였습니다. 해가 질 때까지 내 곁에 앉아 있거라.",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "tag": "P0285_2",
+    "en": "Your playmates will come home then. You will learn alongside them to be a king worthy of ruling brave men.",
+    "ko": "그때쯤이면 네 놀이 친구들이 돌아올 것이다. 너는 그들과 함께 용감한 사람들을 다스리기에 합당한 왕이 되는 법을 배울 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "tag": "P0286",
+    "en": "Then he turned to Aeson. Go back in peace, and bend before the storm like a wise man. This boy will not cross the Anauros again until he becomes a glory to you and the house of Aeolus.",
+    "ko": "그러고 나서 그는 아이손을 돌아보았습니다. 평안히 돌아가 현명한 사람처럼 폭풍우 앞에서는 몸을 낮추시오. 이 소년은 당신과 아이올로스 가문의 영광이 될 때까지는 아나우로스 강을 다시 건너지 않을 것이오.",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "tag": "P0287_1",
+    "en": "Aeson wept over his son before walking away. But the boy did not shed a tear.",
+    "ko": "아이손은 아들을 안고 눈물을 흘린 뒤 떠났습니다. 하지만 소년은 눈물 한 방울 흘리지 않았습니다.",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "tag": "P0287_2",
+    "en": "His mind was too full of that strange cave, the centaur, and his song. He was already eager to meet his new playmates.",
+    "ko": "그의 마음은 그 신비로운 동굴과 켄타우로스, 그리고 그의 노래로 가득 차 있었습니다. 그는 이미 새로운 놀이 친구들을 만날 생각에 잔뜩 부풀어 있었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "tag": "P0288",
+    "en": "Chiron put the lyre into his hands and taught him how to play. They played until the sun sank low behind the cliff and a shout was heard outside.",
+    "ko": "케이론은 수금을 소년의 손에 쥐여 주고 연주하는 법을 가르쳤습니다. 그들은 해가 절벽 뒤로 뉘엿뉘엿 지고 밖에서 함성이 들려올 때까지 연주를 계속했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "tag": "P0289",
+    "en": "Then the sons of the heroes arrived. Aeneas, Heracles, Peleus, and many other mighty names walked in.",
+    "ko": "영웅들의 아들들이 도착했습니다. 아이네이아스, 헤라클레스, 펠레우스를 비롯한 수많은 위대한 이름들이 들어왔습니다.",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "tag": "P0290_1",
+    "en": "The great Chiron leaped up joyfully. His hooves made the cave resound as the boys shouted. Come out, Father Chiron! Come out and see our game!",
+    "ko": "위대한 케이론이 기뻐하며 펄쩍 뛰어올랐습니다. 그의 발굽 소리가 동굴에 울려 퍼졌고, 소년들은 소리쳤습니다. 아버지 케이론, 나와 보세요! 나와서 우리가 잡은 사냥감을 보세요!",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "tag": "P0290_2",
+    "en": "One boy cried out that he had killed two deer. Another claimed he caught a wildcat among the crags. Heracles dragged a wild goat by its horns.",
+    "ko": "한 소년은 사슴 두 마리를 잡았다고 외쳤습니다. 다른 소년은 바위산에서 삵을 잡았다고 자랑했습니다. 헤라클레스는 야생 염소의 뿔을 잡고 끌고 왔습니다.",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "tag": "P0290_3",
+    "en": "He was already as huge as a mountain crag himself. Caeneus carried a bear cub under each arm.",
+    "ko": "그는 이미 산의 바위처럼 거대했습니다. 카이네우스는 양팔에 곰 새끼를 한 마리씩 끼고 있었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "tag": "P0290_4",
+    "en": "He laughed when they scratched and bit him. Neither tooth nor steel could wound him.",
+    "ko": "그는 곰들이 할퀴고 물어뜯어도 웃기만 했습니다. 어떤 이빨이나 강철도 그에게 상처를 입힐 수 없었기 때문입니다.",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "tag": "P0291",
+    "en": "Chiron praised them all. He gave each boy the exact credit he deserved.",
+    "ko": "케이론은 그들 모두를 칭찬했습니다. 그는 각 소년이 이룬 공로에 맞게 정확히 칭찬해 주었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "tag": "P0292",
+    "en": "Chiron",
+    "ko": "케이론",
+    "is_header": false,
+    "image": "images/03_chiron_the_centaur_color.jpg"
+  },
+  {
+    "id": 98,
+    "tag": "P0293_1",
+    "en": "Only Asclepius walked apart in silence. He was a child wise beyond his years. His chest was full of herbs and flowers.",
+    "ko": "오직 아스클레피오스만이 조용히 떨어져 걸었습니다. 그는 나이에 비해 너무나 지혜로운 아이였습니다. 그의 품은 약초와 꽃으로 가득했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "tag": "P0293_2",
+    "en": "A spotted snake was wrapped around his wrist. He came to Chiron with downcast eyes. He whispered about watching the snake shed its old skin.",
+    "ko": "그의 손목에는 점박이 뱀이 감겨 있었습니다. 그는 눈을 내리깐 채 케이론에게 다가왔습니다. 그는 뱀이 허물을 벗는 것을 보았다고 속삭였습니다.",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "tag": "P0293_3",
+    "en": "The snake had grown young again right before his eyes. He also told how he had visited a valley village.",
+    "ko": "뱀은 그의 눈앞에서 다시 젊어졌습니다. 그는 또한 계곡 마을에 내려갔던 일도 말했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "tag": "P0293_4",
+    "en": "There, he cured a dying man with a special herb. He had discovered it by watching a sick goat eat it.",
+    "ko": "그곳에서 그는 특별한 약초로 죽어가는 사람을 고쳤습니다. 그는 병든 염소가 그 약초를 먹는 것을 보고 그 효능을 알아냈습니다.",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "tag": "P0294_1",
+    "en": "Chiron smiled at the young boy. Athena and Apollo give everyone a special gift, he said. Each gift is worthy in its own place.",
+    "ko": "케이론은 어린 소년을 보며 미소 지었습니다. 아테나와 아폴론은 모두에게 특별한 재능을 주신단다, 그가 말했습니다. 각자의 재능은 제자리에서 가치를 빛낸단다.",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "tag": "P0294_2",
+    "en": "But they have given this child the greatest honor of all. He has the power to cure while others kill.",
+    "ko": "하지만 신들은 이 아이에게 가장 위대한 영광을 주셨구나. 다른 이들이 목숨을 빼앗을 때, 이 아이는 생명을 살리는 능력을 가졌단다.",
+    "is_header": false
+  },
+  {
+    "id": 104,
+    "tag": "P0295_1",
+    "en": "The boys brought in wood and split it. They soon lit a blazing fire. Others skinned and quartered the deer.",
+    "ko": "소년들은 장작을 가져와 쪼갰습니다. 그들은 곧 활활 타오르는 불을 피웠습니다. 다른 소년들은 사슴의 가죽을 벗기고 고기를 토막 냈습니다.",
+    "is_header": false
+  },
+  {
+    "id": 105,
+    "tag": "P0295_2",
+    "en": "They set the meat to roast before the fire. While the venison cooked, they bathed in the icy stream. The boys washed away their dust and sweat.",
+    "ko": "그들은 고기를 불 앞에 두고 굽기 시작했습니다. 사슴 고기가 익어가는 동안, 그들은 얼음장 같은 계곡물에 목욕을 했습니다. 소년들은 먼지와 땀을 말끔히 씻어냈습니다.",
+    "is_header": false
+  },
+  {
+    "id": 106,
+    "tag": "P0296_1",
+    "en": "Everyone ate until they could eat no more. They had tasted nothing since dawn. They drank only clear spring water.",
+    "ko": "모두가 더 이상 먹을 수 없을 때까지 배불리 먹었습니다. 그들은 새벽부터 아무것도 먹지 못했습니다. 그들은 맑은 샘물만 마셨습니다.",
+    "is_header": false
+  },
+  {
+    "id": 107,
+    "tag": "P0296_2",
+    "en": "Wine was not fit for growing boys. Soon, the leftover food was put away. They all lay down on skins and leaves near the fire.",
+    "ko": "포도주는 한창 자라는 소년들에게 어울리지 않았기 때문입니다. 곧 남은 음식이 치워졌습니다. 그들은 모두 모닥불 근처의 짐승 가죽과 나뭇잎 위에 누웠습니다.",
+    "is_header": false
+  },
+  {
+    "id": 108,
+    "tag": "P0296_3",
+    "en": "Each boy took a turn playing the lyre. They sang and played with all their hearts.",
+    "ko": "소년들은 돌아가며 리라를 연주했습니다. 그들은 온 마음을 다해 노래하고 연주했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 109,
+    "tag": "P0297_1",
+    "en": "After a while, they went out to a grassy spot. It was located right at the mouth of the cave.",
+    "ko": "잠시 후, 그들은 동굴 입구의 잔디밭으로 나갔습니다. 그곳은 바로 동굴 어귀에 있었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 110,
+    "tag": "P0297_2",
+    "en": "There they boxed, ran, and wrestled. They laughed so loudly that stones fell from the cliffs.",
+    "ko": "그곳에서 그들은 권투를 하고, 달리기와 레슬링을 했습니다. 그들은 절벽에서 돌이 굴러떨어질 정도로 크게 웃었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 111,
+    "tag": "P0298_1",
+    "en": "Then Chiron took up his lyre. All the boys joined hands together. As he played, they danced to his rhythm.",
+    "ko": "그러자 케이론이 리라를 집어 들었습니다. 모든 소년들이 서로 손을 잡았습니다. 그의 연주에 맞춰 소년들은 리듬을 타며 춤을 추었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 112,
+    "tag": "P0298_2",
+    "en": "They moved in and out, spinning round and round. They danced hand in hand until night fell.",
+    "ko": "그들은 안팎으로 오가며 빙글빙글 돌았습니다. 그들은 밤이 찾아올 때까지 손을 잡고 춤을 추었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 113,
+    "tag": "P0298_3",
+    "en": "The dark glen shone with their broad, pale limbs. Their golden hair gleamed brightly in the night.",
+    "ko": "어두운 계곡은 그들의 넓고 하얀 팔다리로 빛났습니다. 그들의 금발 머리가 밤하늘 아래서 밝게 반짝였습니다.",
+    "is_header": false
+  },
+  {
+    "id": 114,
+    "tag": "P0299_1",
+    "en": "Jason danced with them in sheer delight. He slept deeply on fragrant leaves and herbs. His bed was made of bay, myrtle, and thyme flowers.",
+    "ko": "이아손은 큰 기쁨에 차서 그들과 함께 춤을 추었습니다. 그는 향긋한 나뭇잎과 약초 위에서 깊은 잠에 빠졌습니다. 그의 잠자리는 월계수, 은매화, 타임 꽃으로 만들어졌습니다.",
+    "is_header": false
+  },
+  {
+    "id": 115,
+    "tag": "P0299_2",
+    "en": "He rose at dawn and bathed in the rushing stream. He became a classmate to the sons of heroes. He soon forgot Iolcus, his father, and his past life.",
+    "ko": "그는 새벽에 일어나 거센 계곡물에 몸을 씻었습니다. 그는 영웅들의 아들들과 함께 배우는 동창생이 되었습니다. 그는 곧 이올코스와 아버지, 그리고 과거의 삶을 잊었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 116,
+    "tag": "P0299_3",
+    "en": "He grew strong, brave, and clever on Mount Pelion. The sharp, crisp mountain air fueled his hunger. He learned to wrestle, box, hunt, and play the harp.",
+    "ko": "그는 펠리온 산에서 강하고 용감하며 영리하게 자랐습니다. 차갑고 상쾌한 산 공기가 그의 식욕을 돋우었습니다. 그는 레슬링, 권투, 사냥, 하프 연주를 배웠습니다.",
+    "is_header": false
+  },
+  {
+    "id": 117,
+    "tag": "P0299_4",
+    "en": "Next, he learned to ride a horse. Old Chiron used to let the boy ride on his back. He learned the healing virtues of every herb.",
+    "ko": "다음으로 그는 말 타는 법을 배웠습니다. 늙은 케이론은 종종 소년을 자신의 등에 태워주곤 했습니다. 그는 모든 약초의 치유 효능을 배웠습니다.",
+    "is_header": false
+  },
+  {
+    "id": 118,
+    "tag": "P0299_5",
+    "en": "He discovered how to cure all kinds of wounds. Chiron named him Jason, which means the healer. That has remained his name to this very day.",
+    "ko": "그는 온갖 상처를 치료하는 방법도 깨우쳤습니다. 케이론은 그에게 치유자라는 뜻의 이아손이라는 이름을 지어주었습니다. 그 이름은 오늘날까지도 그의 이름으로 남아 있습니다.",
+    "is_header": false
+  }
+]

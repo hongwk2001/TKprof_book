@@ -12,7 +12,7 @@
     "tag": "P002_1",
     "raw": "A beautiful landscape, with the corn bright in it, but not abundant.",
     "en": "It was a beautiful landscape, with wheat fields that looked bright but did not produce much.",
-    "ko": "",
+    "ko": "그것은 아름다운 풍경이었지만, 밀밭은 밝아 보이기만 할 뿐 수확량이 많지 않았다.",
     "is_header": false
   },
   {
@@ -20,7 +20,7 @@
     "tag": "P002_2",
     "raw": "Patches of poor rye where corn should have been, patches of poor peas and beans, patches of most coarse vegetable substitutes for wheat.",
     "en": "There were patches of poor rye where wheat should have been, patches of poor peas and beans, and patches of the coarsest vegetables used as substitutes for wheat.",
-    "ko": "",
+    "ko": "밀이 있어야 할 자리에는 보잘것없는 호밀밭이 있었고, 형편없는 완두콩과 강낭콩 밭이 있었으며, 밀을 대체하기 위해 쓰이는 가장 거친 채소밭도 있었다.",
     "is_header": false
   },
   {
@@ -28,7 +28,7 @@
     "tag": "P002_3",
     "raw": "On inanimate nature, as on the men and women who cultivated it, a prevalent tendency towards an appearance of vegetating unwillingly--a dejected disposition to give up, and wither away.",
     "en": "All of nature, just like the men and women who farmed it, seemed to be growing unwillingly, ready to give up and wither away.",
-    "ko": "",
+    "ko": "그곳에서 농사를 짓는 남녀들처럼 모든 자연 역시 억지로 자라는 듯했고, 당장이라도 포기하고 시들어버릴 준비가 된 것처럼 보였다.",
     "is_header": false
   },
   {
@@ -36,7 +36,7 @@
     "tag": "P003_1",
     "raw": "Monsieur the Marquis in his travelling carriage (which might have been lighter), conducted by four post-horses and two postilions, fagged up a steep hill.",
     "en": "Monsieur the Marquis, in his heavy traveling carriage pulled by four horses and two riders, slowly climbed a steep hill.",
-    "ko": "",
+    "ko": "네 마리의 말과 두 명의 기수가 끄는 무거운 여행용 마차를 탄 후작은 천천히 가파른 언덕을 올라갔다.",
     "is_header": false
   },
   {
@@ -44,7 +44,7 @@
     "tag": "P003_2",
     "raw": "A blush on the countenance of Monsieur the Marquis was no impeachment of his high breeding; it was not from within; it was occasioned by an external circumstance beyond his control--the setting sun.",
     "en": "A red glow on the Marquis's face was not a sign of embarrassment, which would be unlike a nobleman; it was caused by something outside his control, the setting sun.",
-    "ko": "",
+    "ko": "후작의 얼굴에 띤 붉은 기운은 귀족답지 않은 당혹감의 표시가 아니었다. 그것은 그가 통제할 수 없는 것, 바로 지는 해 때문이었다.",
     "is_header": false
   },
   {
@@ -52,7 +52,7 @@
     "tag": "P004",
     "raw": "The sunset struck so brilliantly into the travelling carriage when it gained the hill-top, that its occupant was steeped in crimson. “It will die out,” said Monsieur the Marquis, glancing at his hands, “directly.”",
     "en": "The sunset shone so brightly into the carriage when it reached the top of the hill that the Marquis was bathed in a deep red light. \"It will die out soon,\" said the Marquis, looking at his hands, \"directly.\"",
-    "ko": "",
+    "ko": "마차가 언덕 정상에 도달했을 때 석양이 마차 안으로 너무나도 밝게 비쳐서 후작은 짙은 붉은 빛에 물들었다. \"곧 사라지겠군,\" 후작은 자신의 손을 보며 말했다. \"금방 말이야.\"",
     "is_header": false
   },
   {
@@ -60,7 +60,7 @@
     "tag": "P005_1",
     "raw": "In effect, the sun was so low that it dipped at the moment.",
     "en": "Indeed, the sun was so low that it dipped below the horizon at that very moment.",
-    "ko": "",
+    "ko": "실제로 해가 너무 낮아서 바로 그 순간 지평선 아래로 가라앉았다.",
     "is_header": false
   },
   {
@@ -68,7 +68,7 @@
     "tag": "P005_2",
     "raw": "When the heavy drag had been adjusted to the wheel, and the carriage slid down hill, with a cinderous smell, in a cloud of dust, the red glow departed quickly; the sun and the Marquis going down together, there was no glow left when the drag was taken off.",
     "en": "When the heavy brake was adjusted to the wheel and the carriage slid down the hill in a cloud of dust with a burnt smell, the red glow vanished quickly. The sun and the Marquis went down together, and no light was left when the brake was removed.",
-    "ko": "",
+    "ko": "무거운 브레이크가 바퀴에 맞춰지고 마차가 타는 냄새와 함께 먼지구름을 일으키며 언덕을 미끄러져 내려갈 때, 붉은 기운은 빠르게 사라졌다. 해와 후작은 함께 내려갔고, 브레이크가 해제되었을 때는 아무런 빛도 남지 않았다.",
     "is_header": false
   },
   {
@@ -76,7 +76,7 @@
     "tag": "P006_1",
     "raw": "But, there remained a broken country, bold and open, a little village at the bottom of the hill, a broad sweep and rise beyond it, a church-tower, a windmill, a forest for the chase, and a crag with a fortress on it used as a prison.",
     "en": "What remained was a rugged, open landscape. At the bottom of the hill sat a small village. Beyond it, a broad slope rose into the distance. There was a church tower, a windmill, a forest for hunting, and a cliff, with a castle on it used as a prison.",
-    "ko": "",
+    "ko": "남은 것은 울퉁불퉁하고 탁 트인 풍경뿐이었다. 언덕 아래에는 작은 마을이 자리 잡고 있었다. 그 너머로는 넓은 비탈이 멀리 솟아 있었다. 교회 탑, 풍차, 사냥용 숲이 있었고 감옥으로 쓰이는 성이 세워진 절벽이 보였다.",
     "is_header": false
   },
   {
@@ -84,7 +84,7 @@
     "tag": "P006_2",
     "raw": "Round upon all these darkening objects as the night drew on, the Marquis looked, with the air of one who was coming near home.",
     "en": "The Marquis looked at all these darkening objects as night fell, with the air of a man approaching his home.",
-    "ko": "",
+    "ko": "후작은 밤이 다가오며 어두워지는 이 모든 것들을 보며, 집으로 향하는 사람 같은 분위기를 풍겼다.",
     "is_header": false
   },
   {
@@ -92,7 +92,7 @@
     "tag": "P007_1",
     "raw": "The village had its one poor street, with its poor brewery, poor tannery, poor tavern, poor stable-yard for relays of post-horses, poor fountain, all usual poor appointments.",
     "en": "The village had a single poor street. Along it stood a poor brewery, a poor tannery, a poor tavern, a poor stable yard for changing horses, and a poor fountain.",
-    "ko": "",
+    "ko": "마을에는 초라한 거리 하나뿐이었다. 그 길을 따라 보잘것없는 양조장, 보잘것없는 무두질 공장, 초라한 선술집, 말을 갈아타는 초라한 마구간, 그리고 허름한 분수대가 있었다.",
     "is_header": false
   },
   {
@@ -100,7 +100,7 @@
     "tag": "P007_2",
     "raw": "It had its poor people too.",
     "en": "Its people were just as poor.",
-    "ko": "",
+    "ko": "그곳의 사람들도 마찬가지로 가난했다.",
     "is_header": false
   },
   {
@@ -108,7 +108,7 @@
     "tag": "P007_3",
     "raw": "All its people were poor, and many of them were sitting at their doors, shredding spare onions and the like for supper, while many were at the fountain, washing leaves, and grasses, and any such small yieldings of the earth that could be eaten.",
     "en": "All the villagers were destitute. Many sat at their doors chopping up onions for their simple suppers. Others gathered at the fountain to wash leaves and grass that could be eaten.",
-    "ko": "",
+    "ko": "마을 사람들 모두가 극빈자였다. 많은 이들이 문가에 앉아 소박한 저녁 식사를 위해 양파를 다지고 있었다. 다른 이들은 분수대에 모여 먹을 수 있는 나뭇잎과 풀을 씻었다.",
     "is_header": false
   },
   {
@@ -116,7 +116,7 @@
     "tag": "P007_4",
     "raw": "Expressive signs of what made them poor, were not wanting; the tax for the state, the tax for the church, the tax for the lord, tax local and tax general, were to be paid here and to be paid there, according to solemn inscription in the little village, until the wonder was, that there was any village left unswallowed.",
     "en": "The reasons for their poverty were clear. The state tax, the church tax, the lord's tax, local taxes, and general taxes all had to be paid. It was a miracle that any village was left at all.",
-    "ko": "",
+    "ko": "그들이 가난한 이유는 분명했다. 국가 세금, 교회 세금, 영주 세금, 지방 세금, 그리고 일반 세금까지 모두 납부해야 했다. 마을이 조금이라도 남아있는 것이 기적이었다.",
     "is_header": false
   },
   {
@@ -124,7 +124,7 @@
     "tag": "P008_1",
     "raw": "Few children were to be seen, and no dogs.",
     "en": "Few children were to be seen, and no dogs.",
-    "ko": "",
+    "ko": "아이들은 거의 보이지 않았고, 개들도 없었다.",
     "is_header": false
   },
   {
@@ -132,7 +132,7 @@
     "tag": "P008_2",
     "raw": "As to the men and women, their choice on earth was stated in the prospect--Life on the lowest terms that could sustain it, down in the little village under the mill; or captivity and Death in the dominant prison on the crag.",
     "en": "The men and women faced a simple choice: live on the bare minimum down in the village under the mill, or face imprisonment and death in the castle on the cliff.",
-    "ko": "",
+    "ko": "남녀들에게는 단순한 선택만이 주어졌다. 방앗간 아래 마을에서 최소한의 것으로 살아가느냐, 아니면 절벽 위 성에서 투옥과 죽음을 맞이하느냐였다.",
     "is_header": false
   },
   {
@@ -140,7 +140,7 @@
     "tag": "P009_1",
     "raw": "Heralded by a courier in advance, and by the cracking of his postilions’ whips, which twined snake-like about their heads in the evening air, as if he came attended by the Furies, Monsieur the Marquis drew up in his travelling carriage at the posting-house gate.",
     "en": "Announced by a messenger riding ahead and the cracking of the drivers' whips, which coiled like snakes in the evening air, the Marquis arrived at the post house gate.",
-    "ko": "",
+    "ko": "앞서 달리는 전령과 저녁 공기 속에서 뱀처럼 똬리를 트는 마부들의 채찍 소리와 함께 후작은 역참 문 앞에 도착했다.",
     "is_header": false
   },
   {
@@ -148,7 +148,7 @@
     "tag": "P009_2",
     "raw": "It was hard by the fountain, and the peasants suspended their operations to look at him.",
     "en": "It was next to the fountain, and the peasants stopped what they were doing to watch him.",
-    "ko": "",
+    "ko": "그곳은 분수대 옆에 있었고, 농민들은 하던 일을 멈추고 그를 지켜보았다.",
     "is_header": false
   },
   {
@@ -156,7 +156,7 @@
     "tag": "P009_3",
     "raw": "He looked at them, and saw in them, without knowing it, the slow sure filing down of misery-worn face and figure, that was to make the meagreness of Frenchmen an English superstition which should survive the truth through the best part of a hundred years.",
     "en": "He looked at them and saw the slow, inevitable wearing down of their faces and bodies, which would make the thinness of Frenchmen a stereotype in England for a hundred years.",
-    "ko": "",
+    "ko": "그는 그들을 바라보며, 100년 동안 영국에서 프랑스인의 마름을 고정관념으로 만들게 될, 그들의 얼굴과 몸이 서서히 그리고 필연적으로 쇠약해지는 것을 보았다.",
     "is_header": false
   },
   {
@@ -164,7 +164,7 @@
     "tag": "P010",
     "raw": "Monsieur the Marquis cast his eyes over the submissive faces that drooped before him, as the like of himself had drooped before Monseigneur of the Court--only the difference was, that these faces drooped merely to suffer and not to propitiate--when a grizzled mender of the roads joined the group.",
     "en": "The Marquis looked over the submissive faces bowing before him, just as his own class bowed before Monseigneur at court. The only difference was that these peasants bowed out of suffering, not to gain favor. Just then, a gray-haired road mender joined the group.",
-    "ko": "",
+    "ko": "후작은 궁정에서 자신의 계급이 몽세뇌르 앞에서 절하는 것처럼 자신 앞에서 고개 숙인 순종적인 얼굴들을 훑어보았다. 유일한 차이점은 이 농민들이 환심을 사기 위해서가 아니라 고통 때문에 고개를 숙였다는 것이다. 바로 그때, 백발의 도로 수리공이 무리에 합류했다.",
     "is_header": false
   },
   {
@@ -172,7 +172,7 @@
     "tag": "P011",
     "raw": "“Bring me hither that fellow!” said the Marquis to the courier.",
     "en": "\"Bring that man here!\" the Marquis ordered his messenger.",
-    "ko": "",
+    "ko": "\"저 남자를 이리로 데려와라!\" 후작이 전령에게 명령했다.",
     "is_header": false
   },
   {
@@ -180,7 +180,7 @@
     "tag": "P012",
     "raw": "The fellow was brought, cap in hand, and the other fellows closed round to look and listen, in the manner of the people at the Paris fountain.",
     "en": "The man was brought forward, holding his cap, and the other villagers crowded around to watch and listen, just like the crowd in Paris.",
-    "ko": "",
+    "ko": "그 남자는 모자를 쥔 채 앞으로 끌려나왔고, 파리의 군중처럼 다른 마을 사람들도 주변에 몰려들어 구경하고 귀를 기울였다.",
     "is_header": false
   },
   {
@@ -188,7 +188,7 @@
     "tag": "P013",
     "raw": "“I passed you on the road?”",
     "en": "\"Did I pass you on the road?\" the Marquis asked.",
-    "ko": "",
+    "ko": "\"내가 길에서 널 지나쳤느냐?\" 후작이 물었다.",
     "is_header": false
   },
   {
@@ -196,7 +196,7 @@
     "tag": "P014_1",
     "raw": "“Monseigneur, it is true.",
     "en": "\"Monseigneur, it is true.",
-    "ko": "",
+    "ko": "\"네, 맞습니다, 몽세뇌르.",
     "is_header": false
   },
   {
@@ -204,7 +204,7 @@
     "tag": "P014_2",
     "raw": "I had the honour of being passed on the road.”",
     "en": "I had the honor of being passed by you.\"",
-    "ko": "",
+    "ko": "저는 영광스럽게도 몽세뇌르께서 지나가시는 것을 보았습니다.\"",
     "is_header": false
   },
   {
@@ -212,7 +212,7 @@
     "tag": "P015",
     "raw": "“Coming up the hill, and at the top of the hill, both?”",
     "en": "\"Coming up the hill, and at the top?\"",
-    "ko": "",
+    "ko": "\"언덕을 올라올 때, 그리고 정상에서 말인가?\"",
     "is_header": false
   },
   {
@@ -220,7 +220,7 @@
     "tag": "P016",
     "raw": "“Monseigneur, it is true.”",
     "en": "\"Yes, Monseigneur.\"",
-    "ko": "",
+    "ko": "\"네, 몽세뇌르.\"",
     "is_header": false
   },
   {
@@ -228,7 +228,7 @@
     "tag": "P017",
     "raw": "“What did you look at, so fixedly?”",
     "en": "\"What were you staring at so closely?\"",
-    "ko": "",
+    "ko": "\"뭘 그렇게 유심히 쳐다보고 있었느냐?\"",
     "is_header": false
   },
   {
@@ -236,7 +236,7 @@
     "tag": "P018",
     "raw": "“Monseigneur, I looked at the man.”",
     "en": "\"Monseigneur, I was looking at the man.\"",
-    "ko": "",
+    "ko": "\"몽세뇌르, 저는 그 남자를 보고 있었습니다.\"",
     "is_header": false
   },
   {
@@ -244,7 +244,7 @@
     "tag": "P019_1",
     "raw": "He stooped a little, and with his tattered blue cap pointed under the carriage.",
     "en": "He bent down and pointed his torn blue cap under the carriage.",
-    "ko": "",
+    "ko": "그는 몸을 굽혀 찢어진 파란색 모자로 마차 밑을 가리켰다.",
     "is_header": false
   },
   {
@@ -252,7 +252,7 @@
     "tag": "P019_2",
     "raw": "All his fellows stooped to look under the carriage.",
     "en": "All the villagers leaned down to look as well.",
-    "ko": "",
+    "ko": "모든 마을 사람들도 마차 밑을 보려고 몸을 굽혔다.",
     "is_header": false
   },
   {
@@ -260,7 +260,7 @@
     "tag": "P020_1",
     "raw": "“What man, pig?",
     "en": "\"What man, you pig?",
-    "ko": "",
+    "ko": "\"어떤 남자, 이 돼지 같은 놈아?",
     "is_header": false
   },
   {
@@ -268,7 +268,7 @@
     "tag": "P020_2",
     "raw": "And why look there?”",
     "en": "And why look there?\"",
-    "ko": "",
+    "ko": "거기는 왜 쳐다보았지?\"",
     "is_header": false
   },
   {
@@ -276,7 +276,7 @@
     "tag": "P021",
     "raw": "“Pardon, Monseigneur; he swung by the chain of the shoe--the drag.”",
     "en": "\"Pardon, Monseigneur; he was hanging onto the chain of the carriage brake.\"",
-    "ko": "",
+    "ko": "\"죄송합니다, 몽세뇌르. 그는 마차 브레이크 체인에 매달려 있었습니다.\"",
     "is_header": false
   },
   {
@@ -284,7 +284,7 @@
     "tag": "P022",
     "raw": "“Who?” demanded the traveller.",
     "en": "\"Who?\" the Marquis demanded.",
-    "ko": "",
+    "ko": "\"누구?\" 후작이 따져 물었다.",
     "is_header": false
   },
   {
@@ -292,7 +292,7 @@
     "tag": "P023",
     "raw": "“Monseigneur, the man.”",
     "en": "\"Monseigneur, the man.\"",
-    "ko": "",
+    "ko": "\"몽세뇌르, 그 남자 말입니다.\"",
     "is_header": false
   },
   {
@@ -300,7 +300,7 @@
     "tag": "P024_1",
     "raw": "“May the Devil carry away these idiots!",
     "en": "\"May the Devil take these idiots!",
-    "ko": "",
+    "ko": "\"악마가 이 바보들을 데려갔으면 좋겠군!",
     "is_header": false
   },
   {
@@ -308,7 +308,7 @@
     "tag": "P024_2",
     "raw": "How do you call the man?",
     "en": "What is his name?",
-    "ko": "",
+    "ko": "그의 이름이 무엇이냐?",
     "is_header": false
   },
   {
@@ -316,7 +316,7 @@
     "tag": "P024_3",
     "raw": "You know all the men of this part of the country.",
     "en": "You know everyone in this area.",
-    "ko": "",
+    "ko": "너는 이 근처 사람들을 다 알고 있지 않느냐.",
     "is_header": false
   },
   {
@@ -324,7 +324,7 @@
     "tag": "P024_4",
     "raw": "Who was he?”",
     "en": "Who was he?\"",
-    "ko": "",
+    "ko": "그가 누구였느냐?\"",
     "is_header": false
   },
   {
@@ -332,7 +332,7 @@
     "tag": "P025_1",
     "raw": "“Your clemency, Monseigneur!",
     "en": "\"Please, Monseigneur!",
-    "ko": "",
+    "ko": "\"제발, 몽세뇌르!",
     "is_header": false
   },
   {
@@ -340,7 +340,7 @@
     "tag": "P025_2",
     "raw": "He was not of this part of the country.",
     "en": "He was not from around here.",
-    "ko": "",
+    "ko": "그는 이 근처 사람이 아니었습니다.",
     "is_header": false
   },
   {
@@ -348,7 +348,7 @@
     "tag": "P025_3",
     "raw": "Of all the days of my life, I never saw him.”",
     "en": "I have never seen him in my life.\"",
-    "ko": "",
+    "ko": "태어나서 처음 보는 사람이었습니다.\"",
     "is_header": false
   },
   {
@@ -356,7 +356,7 @@
     "tag": "P026_1",
     "raw": "“Swinging by the chain?",
     "en": "\"Hanging by the chain?",
-    "ko": "",
+    "ko": "\"사슬에 매달려 있었다고?",
     "is_header": false
   },
   {
@@ -364,7 +364,7 @@
     "tag": "P026_2",
     "raw": "To be suffocated?”",
     "en": "Wasn't he suffocated?\"",
-    "ko": "",
+    "ko": "숨이 막히지 않았단 말이냐?\"",
     "is_header": false
   },
   {
@@ -372,7 +372,7 @@
     "tag": "P027_1",
     "raw": "“With your gracious permission, that was the wonder of it, Monseigneur.",
     "en": "\"With your permission, that was the amazing thing, Monseigneur.",
-    "ko": "",
+    "ko": "\"허락해 주신다면 말씀드리겠습니다만, 그것이 놀라운 일이었습니다, 영주님.",
     "is_header": false
   },
   {
@@ -380,7 +380,7 @@
     "tag": "P027_2",
     "raw": "His head hanging over--like this!”",
     "en": "His head was hanging down, like this!\"",
-    "ko": "",
+    "ko": "그의 머리가 이렇게 아래로 축 늘어져 있었습니다!\"",
     "is_header": false
   },
   {
@@ -388,7 +388,7 @@
     "tag": "P028",
     "raw": "He turned himself sideways to the carriage, and leaned back, with his face thrown up to the sky, and his head hanging down; then recovered himself, fumbled with his cap, and made a bow.",
     "en": "He turned sideways to the carriage and leaned back, throwing his face up to the sky and letting his head hang down. Then he straightened up, held his cap, and bowed.",
-    "ko": "",
+    "ko": "그는 마차를 향해 옆으로 돌아서서 뒤로 기대고는, 얼굴을 하늘로 향한 채 머리를 아래로 늘어뜨렸다. 그러고 나서 똑바로 서서 모자를 쥐고 인사를 했다.",
     "is_header": false
   },
   {
@@ -396,7 +396,7 @@
     "tag": "P029",
     "raw": "“What was he like?”",
     "en": "\"What did he look like?\"",
-    "ko": "",
+    "ko": "\"어떻게 생겼더냐?\"",
     "is_header": false
   },
   {
@@ -404,7 +404,7 @@
     "tag": "P030_1",
     "raw": "“Monseigneur, he was whiter than the miller.",
     "en": "\"Monseigneur, he was whiter than a miller.",
-    "ko": "",
+    "ko": "\"영주님, 그는 방앗간 주인보다 더 하얬습니다.",
     "is_header": false
   },
   {
@@ -412,7 +412,7 @@
     "tag": "P030_2",
     "raw": "All covered with dust, white as a spectre, tall as a spectre!”",
     "en": "Covered in dust, white as a ghost, and tall as a ghost!\"",
-    "ko": "",
+    "ko": "먼지를 뒤집어써서 유령처럼 하얗고, 또 유령처럼 키가 컸습니다!\"",
     "is_header": false
   },
   {
@@ -420,7 +420,7 @@
     "tag": "P031",
     "raw": "The picture produced an immense sensation in the little crowd; but all eyes, without comparing notes with other eyes, looked at Monsieur the Marquis. Perhaps, to observe whether he had any spectre on his conscience.",
     "en": "This description caused a stir in the small crowd, but everyone kept their eyes on the Marquis, perhaps wondering if he had any ghosts on his conscience.",
-    "ko": "",
+    "ko": "이 묘사는 작은 무리 사이에 동요를 일으켰지만, 모두가 후작에게 눈을 떼지 못했는데, 아마도 그의 양심에 유령 같은 것이 걸려 있지나 않은지 궁금해하는 것 같았다.",
     "is_header": false
   },
   {
@@ -428,7 +428,7 @@
     "tag": "P032_1",
     "raw": "“Truly, you did well,” said the Marquis, felicitously sensible that such vermin were not to ruffle him, “to see a thief accompanying my carriage, and not open that great mouth of yours.",
     "en": "\"Well,\" said the Marquis, these low people were not worth getting angry at, \"you did a fine job, seeing a thief riding on my carriage and keeping your mouth shut.",
-    "ko": "",
+    "ko": "\"글쎄,\" 후작이 말했다. 이런 천한 자들은 화를 낼 가치도 없었다. \"내 마차에 도둑이 타고 있는 것을 보고도 입을 다물고 있었다니 참으로 잘했구나.",
     "is_header": false
   },
   {
@@ -436,7 +436,7 @@
     "tag": "P032_2",
     "raw": "Bah!",
     "en": "Bah!",
-    "ko": "",
+    "ko": "흥!",
     "is_header": false
   },
   {
@@ -444,7 +444,7 @@
     "tag": "P032_3",
     "raw": "Put him aside, Monsieur Gabelle!”",
     "en": "Put him aside, Monsieur Gabelle!\"",
-    "ko": "",
+    "ko": "그를 옆으로 치우게, 가벨 씨!\"",
     "is_header": false
   },
   {
@@ -452,7 +452,7 @@
     "tag": "P033",
     "raw": "Monsieur Gabelle was the Postmaster, and some other taxing functionary united; he had come out with great obsequiousness to assist at this examination, and had held the examined by the drapery of his arm in an official manner.",
     "en": "Monsieur Gabelle was the postmaster and tax collector. He had come out politely to assist in the questioning, holding the road mender by his sleeve in an official manner.",
-    "ko": "",
+    "ko": "가벨 씨는 우체국장이자 세금 징수원이었다. 그는 정중하게 밖으로 나와 심문을 돕고자 공식적인 태도로 도로 보수공의 소매를 잡고 있었다.",
     "is_header": false
   },
   {
@@ -460,7 +460,7 @@
     "tag": "P034_1",
     "raw": "“Bah!",
     "en": "\"Bah!",
-    "ko": "",
+    "ko": "\"흥!",
     "is_header": false
   },
   {
@@ -468,7 +468,7 @@
     "tag": "P034_2",
     "raw": "Go aside!” said Monsieur Gabelle.",
     "en": "Step aside!\" said Monsieur Gabelle.",
-    "ko": "",
+    "ko": "물러서라!\" 가벨 씨가 말했다.",
     "is_header": false
   },
   {
@@ -476,7 +476,7 @@
     "tag": "P035",
     "raw": "“Lay hands on this stranger if he seeks to lodge in your village to-night, and be sure that his business is honest, Gabelle.”",
     "en": "\"Arrest this stranger if he tries to stay in your village tonight, Gabelle, and make sure his business is honest.\"",
-    "ko": "",
+    "ko": "\"가벨, 이 낯선 자가 오늘 밤 자네 마을에 머물려거든 체포하고, 그의 일이 정당한 것인지 확인하게.\"",
     "is_header": false
   },
   {
@@ -484,7 +484,7 @@
     "tag": "P036",
     "raw": "“Monseigneur, I am flattered to devote myself to your orders.”",
     "en": "\"Monseigneur, I am honored to obey your commands.\"",
-    "ko": "",
+    "ko": "\"영주님, 분부를 따르게 되어 영광입니다.\"",
     "is_header": false
   },
   {
@@ -492,7 +492,7 @@
     "tag": "P037",
     "raw": "“Did he run away, fellow?--where is that Accursed?”",
     "en": "\"Did the man run away, road mender? Where is the rascal?\"",
-    "ko": "",
+    "ko": "\"그 자가 도망쳤느냐, 도로 보수공아? 그 악당이 어디 있느냐?\"",
     "is_header": false
   },
   {
@@ -500,7 +500,7 @@
     "tag": "P038_1",
     "raw": "The accursed was already under the carriage with some half-dozen particular friends, pointing out the chain with his blue cap.",
     "en": "The road mender was already under the carriage with a few friends, pointing at the chain.",
-    "ko": "",
+    "ko": "도로 보수공은 이미 몇몇 친구들과 함께 마차 아래로 들어가 사슬을 가리키고 있었다.",
     "is_header": false
   },
   {
@@ -508,7 +508,7 @@
     "tag": "P038_2",
     "raw": "Some half-dozen other particular friends promptly hauled him out, and presented him breathless to Monsieur the Marquis.",
     "en": "They pulled him out and presented him, breathless, to the Marquis.",
-    "ko": "",
+    "ko": "그들은 그를 끌어내어 숨을 헐떡이는 채로 후작 앞에 대령했다.",
     "is_header": false
   },
   {
@@ -516,7 +516,7 @@
     "tag": "P039",
     "raw": "“Did the man run away, Dolt, when we stopped for the drag?”",
     "en": "\"Did the man run away, fool, when we stopped for the brake?\"",
-    "ko": "",
+    "ko": "\"바보 같으니, 우리가 브레이크를 걸기 위해 멈췄을 때 그 자가 도망쳤느냐?\"",
     "is_header": false
   },
   {
@@ -524,7 +524,7 @@
     "tag": "P040",
     "raw": "“Monseigneur, he precipitated himself over the hill-side, head first, as a person plunges into the river.”",
     "en": "\"Monseigneur, he threw himself over the side of the hill, headfirst, like a man diving into a river.\"",
-    "ko": "",
+    "ko": "\"영주님, 그는 마치 강에 뛰어드는 사람처럼 언덕 아래로 머리부터 몸을 던졌습니다.\"",
     "is_header": false
   },
   {
@@ -532,7 +532,7 @@
     "tag": "P041_1",
     "raw": "“See to it, Gabelle.",
     "en": "\"See to it, Gabelle.",
-    "ko": "",
+    "ko": "\"잘 처리하게, 가벨.",
     "is_header": false
   },
   {
@@ -540,7 +540,7 @@
     "tag": "P041_2",
     "raw": "Go on!”",
     "en": "Go on!\"",
-    "ko": "",
+    "ko": "출발해라!\"",
     "is_header": false
   },
   {
@@ -548,7 +548,7 @@
     "tag": "P042",
     "raw": "The half-dozen who were peering at the chain were still among the wheels, like sheep; the wheels turned so suddenly that they were lucky to save their skins and bones; they had very little else to save, or they might not have been so fortunate.",
     "en": "The villagers looking at the chain were still close to the wheels. The carriage started so suddenly that they had to jump back to save their bones. They had very little else to save.",
-    "ko": "",
+    "ko": "사슬을 보고 있던 마을 사람들은 여전히 바퀴 가까이에 있었다. 마차가 너무도 갑자기 출발하는 바람에 그들은 뼈를 건지기 위해 뒤로 물러서야만 했다. 그들에게는 뼈 말고는 건질 것이 거의 없었다.",
     "is_header": false
   },
   {
@@ -556,7 +556,7 @@
     "tag": "P043_1",
     "raw": "The burst with which the carriage started out of the village and up the rise beyond, was soon checked by the steepness of the hill.",
     "en": "The burst of speed with which the carriage started out of the village and up the hill beyond was soon slowed by the steepness of the climb.",
-    "ko": "",
+    "ko": "마차가 마을을 벗어나 저 너머 언덕으로 올라가며 시작된 엄청난 속도는 오르막의 가파름 때문에 곧 느려졌다.",
     "is_header": false
   },
   {
@@ -564,7 +564,7 @@
     "tag": "P043_2",
     "raw": "Gradually, it subsided to a foot pace, swinging and lumbering upward among the many sweet scents of a summer night.",
     "en": "It climbed at a walking pace, rocking through the sweet-smelling summer night.",
-    "ko": "",
+    "ko": "달콤한 냄새가 나는 여름밤 공기를 가르며, 마차는 흔들리면서 걷는 속도로 올라갔다.",
     "is_header": false
   },
   {
@@ -572,7 +572,7 @@
     "tag": "P043_3",
     "raw": "The postilions, with a thousand gossamer gnats circling about them in lieu of the Furies, quietly mended the points to the lashes of their whips; the valet walked by the horses; the courier was audible, trotting on ahead into the dull distance.",
     "en": "The drivers quietly fixed their whip lashes, the servant walked beside the horses, and the messenger could be heard riding ahead in the distance.",
-    "ko": "",
+    "ko": "마부들은 조용히 채찍 끈을 고쳤고, 하인은 말들 곁에서 걸었으며, 파발마가 저 멀리 앞서 달려가는 소리가 들렸다.",
     "is_header": false
   },
   {
@@ -580,7 +580,7 @@
     "tag": "P044",
     "raw": "At the steepest point of the hill there was a little burial-ground, with a Cross and a new large figure of Our Saviour on it; it was a poor figure in wood, done by some inexperienced rustic carver, but he had studied the figure from the life--his own life, maybe--for it was dreadfully spare and thin.",
     "en": "At the steepest part of the hill stood a small cemetery, with a wooden cross and a thin, worn statue of Christ carved by a local craftsman. It looked terribly thin and spare, perhaps copied from the sculptor's own life.",
-    "ko": "",
+    "ko": "언덕의 가장 가파른 곳에는 작은 공동묘지가 있었는데, 나무 십자가와 지역 장인이 조각한 얇고 낡은 그리스도상이 있었다. 그것은 끔찍할 정도로 마르고 야위어 보였는데, 아마도 조각가 자신의 삶을 본뜬 것 같았다.",
     "is_header": false
   },
   {
@@ -588,7 +588,7 @@
     "tag": "P045_1",
     "raw": "To this distressful emblem of a great distress that had long been growing worse, and was not at its worst, a woman was kneeling.",
     "en": "A woman was kneeling before this sad symbol of a great suffering that had long been growing worse, and was not yet at its worst.",
-    "ko": "",
+    "ko": "오랫동안 악화되어 왔으나 아직 최악에 이르지는 않은 커다란 고통의 이 슬픈 상징 앞에 한 여인이 무릎을 꿇고 있었다.",
     "is_header": false
   },
   {
@@ -596,7 +596,7 @@
     "tag": "P045_2",
     "raw": "She turned her head as the carriage came up to her, rose quickly, and presented herself at the carriage-door.",
     "en": "She turned her head as the carriage approached, stood up quickly, and walked to the carriage door.",
-    "ko": "",
+    "ko": "그녀는 마차가 다가오자 고개를 돌렸고, 서둘러 일어나 마차 문으로 걸어왔다.",
     "is_header": false
   },
   {
@@ -604,7 +604,7 @@
     "tag": "P046_1",
     "raw": "“It is you, Monseigneur!",
     "en": "\"It is you, Monseigneur!",
-    "ko": "",
+    "ko": "\"당신이시군요, 영주님!",
     "is_header": false
   },
   {
@@ -612,7 +612,7 @@
     "tag": "P046_2",
     "raw": "Monseigneur, a petition.”",
     "en": "Monseigneur, a petition.\"",
-    "ko": "",
+    "ko": "영주님, 청원이 있습니다.\"",
     "is_header": false
   },
   {
@@ -620,7 +620,7 @@
     "tag": "P047",
     "raw": "With an exclamation of impatience, but with his unchangeable face, Monseigneur looked out.",
     "en": "With an impatient sigh, but keeping his cold, unchanging face, the Marquis looked out.",
-    "ko": "",
+    "ko": "참을성 없는 한숨을 쉬면서도 차갑고 변함없는 표정을 유지한 채, 후작이 밖을 내다보았다.",
     "is_header": false
   },
   {
@@ -628,7 +628,7 @@
     "tag": "P048_1",
     "raw": "“How, then! What is it?",
     "en": "\"What is it now?",
-    "ko": "",
+    "ko": "\"이제 또 무슨 일인가?",
     "is_header": false
   },
   {
@@ -636,7 +636,7 @@
     "tag": "P048_2",
     "raw": "Always petitions!”",
     "en": "Always petitions!\"",
-    "ko": "",
+    "ko": "항상 청원뿐이군!\"",
     "is_header": false
   },
   {
@@ -644,7 +644,7 @@
     "tag": "P049_1",
     "raw": "“Monseigneur. For the love of the great God!",
     "en": "\"Monseigneur, for the love of God!",
-    "ko": "",
+    "ko": "\"영주님, 부디 자비를 베풀어 주십시오!",
     "is_header": false
   },
   {
@@ -652,7 +652,7 @@
     "tag": "P049_2",
     "raw": "My husband, the forester.”",
     "en": "My husband, the forester.\"",
-    "ko": "",
+    "ko": "제 남편인 숲 지기 말입니다.\"",
     "is_header": false
   },
   {
@@ -660,7 +660,7 @@
     "tag": "P050_1",
     "raw": "“What of your husband, the forester?",
     "en": "\"What about your husband?",
-    "ko": "",
+    "ko": "\"네 남편이 어쨌단 말이냐?",
     "is_header": false
   },
   {
@@ -668,7 +668,7 @@
     "tag": "P050_2",
     "raw": "Always the same with you people.",
     "en": "It is always the same with you people.",
-    "ko": "",
+    "ko": "너희 같은 것들은 항상 똑같지.",
     "is_header": false
   },
   {
@@ -676,7 +676,7 @@
     "tag": "P050_3",
     "raw": "He cannot pay something?”",
     "en": "He cannot pay his taxes?\"",
-    "ko": "",
+    "ko": "세금을 낼 수 없단 말이냐?\"",
     "is_header": false
   },
   {
@@ -684,7 +684,7 @@
     "tag": "P051_1",
     "raw": "“He has paid all, Monseigneur.",
     "en": "\"He has paid everything, Monseigneur.",
-    "ko": "",
+    "ko": "\"그이는 모든 것을 지불했습니다, 영주님.",
     "is_header": false
   },
   {
@@ -692,7 +692,7 @@
     "tag": "P051_2",
     "raw": "He is dead.”",
     "en": "He is dead.\"",
-    "ko": "",
+    "ko": "그는 죽었습니다.\"",
     "is_header": false
   },
   {
@@ -700,7 +700,7 @@
     "tag": "P052_1",
     "raw": "“Well! He is quiet.",
     "en": "\"Well, he is at peace.",
-    "ko": "",
+    "ko": "\"글쎄, 그는 평화를 얻었구나.",
     "is_header": false
   },
   {
@@ -708,7 +708,7 @@
     "tag": "P052_2",
     "raw": "Can I restore him to you?”",
     "en": "Can I bring him back to life?\"",
-    "ko": "",
+    "ko": "내가 그를 되살릴 수라도 있단 말이냐?\"",
     "is_header": false
   },
   {
@@ -716,7 +716,7 @@
     "tag": "P053_1",
     "raw": "“Alas, no, Monseigneur!",
     "en": "\"Alas, no, Monseigneur!",
-    "ko": "",
+    "ko": "\"아아, 아닙니다, 영주님!",
     "is_header": false
   },
   {
@@ -724,7 +724,7 @@
     "tag": "P053_2",
     "raw": "But he lies yonder, under a little heap of poor grass.”",
     "en": "But he lies over there under a small mound of poor grass.\"",
-    "ko": "",
+    "ko": "하지만 그는 저기 초라한 풀이 덮인 작은 무덤 아래 누워 있습니다.\"",
     "is_header": false
   },
   {
@@ -732,7 +732,7 @@
     "tag": "P054",
     "raw": "“Well?”",
     "en": "\"Well?\"",
-    "ko": "",
+    "ko": "\"그래서?\"",
     "is_header": false
   },
   {
@@ -740,7 +740,7 @@
     "tag": "P055",
     "raw": "“Monseigneur, there are so many little heaps of poor grass?”",
     "en": "\"Monseigneur, there are so many of those small mounds of poor grass.\"",
-    "ko": "",
+    "ko": "\"영주님, 저렇게 초라한 풀이 덮인 작은 무덤들이 너무도 많습니다.\"",
     "is_header": false
   },
   {
@@ -748,7 +748,7 @@
     "tag": "P056",
     "raw": "“Again, well?”",
     "en": "\"And?\"",
-    "ko": "",
+    "ko": "\"그런데?\"",
     "is_header": false
   },
   {
@@ -756,7 +756,7 @@
     "tag": "P057_1",
     "raw": "She looked an old woman, but was young.",
     "en": "She looked like an old woman, but she was actually young.",
-    "ko": "",
+    "ko": "그녀는 노파처럼 보였지만, 사실은 젊었다.",
     "is_header": false
   },
   {
@@ -764,7 +764,7 @@
     "tag": "P057_2",
     "raw": "Her manner was one of passionate grief; by turns she clasped her veinous and knotted hands together with wild energy, and laid one of them on the carriage-door--tenderly, caressingly, as if it had been a human breast, and could be expected to feel the appealing touch.",
     "en": "She acted with passionate grief; one moment she clasped her veiny, knotted hands together with wild energy, and the next she laid one hand on the carriage door—tenderly and gently, as if it were a human chest that might feel her begging touch.",
-    "ko": "",
+    "ko": "그녀는 격렬한 슬픔으로 행동했다. 한순간에는 핏줄이 서고 마디가 굵은 두 손을 거친 힘으로 꽉 잡았다가, 다음 순간에는 마치 마차 문이 자신의 애원하는 손길을 느낄 수 있는 인간의 가슴이라도 되는 것처럼 그 위에 손을 부드럽고 상냥하게 얹었다.",
     "is_header": false
   },
   {
@@ -772,7 +772,7 @@
     "tag": "P058_1",
     "raw": "“Monseigneur, hear me!",
     "en": "\"Monseigneur, hear me!",
-    "ko": "",
+    "ko": "\"영주님, 제 말을 들어주십시오!",
     "is_header": false
   },
   {
@@ -780,7 +780,7 @@
     "tag": "P058_2",
     "raw": "Monseigneur, hear my petition!",
     "en": "Hear my petition!",
-    "ko": "",
+    "ko": "제 청원을 들어주십시오!",
     "is_header": false
   },
   {
@@ -788,7 +788,7 @@
     "tag": "P058_3",
     "raw": "My husband died of want; so many die of want; so many more will die of want.”",
     "en": "My husband died of starvation. So many die of hunger, and many more will die.\"",
-    "ko": "",
+    "ko": "제 남편은 굶어 죽었습니다. 아주 많은 사람이 굶주림으로 죽고, 더 많은 사람들이 죽을 것입니다.\"",
     "is_header": false
   },
   {
@@ -796,7 +796,7 @@
     "tag": "P059_1",
     "raw": "“Again, well?",
     "en": "\"And what can I do?",
-    "ko": "",
+    "ko": "\"그래서 내가 무엇을 할 수 있단 말이냐?",
     "is_header": false
   },
   {
@@ -804,7 +804,7 @@
     "tag": "P059_2",
     "raw": "Can I feed them?”",
     "en": "Can I feed them all?\"",
-    "ko": "",
+    "ko": "내가 그들 모두를 먹여 살릴 수라도 있느냐?\"",
     "is_header": false
   },
   {
@@ -812,7 +812,7 @@
     "tag": "P060_1",
     "raw": "“Monseigneur, the good God knows; but I don’t ask it.",
     "en": "\"God knows, Monseigneur, but I do not ask for that.",
-    "ko": "",
+    "ko": "\"신께서는 아시겠지만, 영주님, 저는 그것을 요구하는 것이 아닙니다.",
     "is_header": false
   },
   {
@@ -820,7 +820,7 @@
     "tag": "P060_2",
     "raw": "My petition is, that a morsel of stone or wood, with my husband’s name, may be placed over him to show where he lies.",
     "en": "My petition is that a small marker of stone or wood, with my husband's name, be placed over his grave so we know where he lies.",
-    "ko": "",
+    "ko": "제 청원은 제 남편의 이름이 새겨진 작고 둥근 돌이나 나무 표식을 그의 무덤 위에 놓아, 우리가 그가 어디에 묻혀 있는지 알 수 있게 해달라는 것입니다.",
     "is_header": false
   },
   {
@@ -828,7 +828,7 @@
     "tag": "P060_3",
     "raw": "Otherwise, the place will be quickly forgotten, it will never be found when I am dead of the same malady, I shall be laid under some other heap of poor grass.",
     "en": "Otherwise, the spot will be forgotten. When I die of the same hunger, I will be buried under another unmarked mound.",
-    "ko": "",
+    "ko": "그렇지 않으면 그 장소는 잊힐 것입니다. 저도 같은 굶주림으로 죽게 되면, 또 다른 이름 없는 무덤 아래 묻히게 될 것입니다.",
     "is_header": false
   },
   {
@@ -836,7 +836,7 @@
     "tag": "P060_4",
     "raw": "Monseigneur, they are so many, they increase so fast, there is so much want.",
     "en": "Monseigneur, there are so many of us, and the hunger is so great!",
-    "ko": "",
+    "ko": "영주님, 우리는 너무나 많고, 굶주림은 너무나 큽니다!",
     "is_header": false
   },
   {
@@ -844,7 +844,7 @@
     "tag": "P060_5",
     "raw": "Monseigneur!",
     "en": "Monseigneur!",
-    "ko": "",
+    "ko": "영주님!",
     "is_header": false
   },
   {
@@ -852,7 +852,7 @@
     "tag": "P060_6",
     "raw": "Monseigneur!”",
     "en": "Monseigneur!\"",
-    "ko": "",
+    "ko": "영주님!\"",
     "is_header": false
   },
   {
@@ -860,7 +860,7 @@
     "tag": "P061",
     "raw": "The valet had put her away from the door, the carriage had broken into a brisk trot, the postilions had quickened the pace, she was left far behind, and Monseigneur, again escorted by the Furies, was rapidly diminishing the league or two of distance that remained between him and his chateau.",
     "en": "The servant pushed her away from the door, the carriage sped up, and she was left far behind. The Marquis was driven quickly toward his castle.",
-    "ko": "",
+    "ko": "하인이 문에서 그녀를 밀쳐냈고, 마차는 속도를 높였으며, 그녀는 저 멀리 뒤에 남겨졌다. 후작은 자신의 성을 향해 빠르게 마차를 몰아갔다.",
     "is_header": false
   },
   {
@@ -868,7 +868,7 @@
     "tag": "P062_1",
     "raw": "The sweet scents of the summer night rose all around him, and rose, as the rain falls, impartially, on the dusty, ragged, and toil-worn group at the fountain not far away; to whom the mender of roads, with the aid of the blue cap without which he was nothing, still enlarged upon his man like a spectre, as long as they could bear it.",
     "en": "The sweet scents of the summer night rose around him, falling impartially like rain on the poor peasants gathered by the fountain, where the road mender was still talking about the ghost-like man.",
-    "ko": "",
+    "ko": "여름밤의 달콤한 향기가 그의 주변에 피어올라, 분수대 옆에 모여 도로 보수공이 아직도 유령 같은 남자에 대해 이야기하고 있는 가난한 농부들에게 비처럼 공평하게 떨어졌다.",
     "is_header": false
   },
   {
@@ -876,7 +876,7 @@
     "tag": "P062_2",
     "raw": "By degrees, as they could bear no more, they dropped off one by one, and lights twinkled in little casements; which lights, as the casements darkened, and more stars came out, seemed to have shot up into the sky instead of having been extinguished.",
     "en": "Gradually, the villagers went home, and lights appeared in their windows. As the lights went out and the stars appeared, it looked as if the lights had flown up into the sky.",
-    "ko": "",
+    "ko": "점차 마을 사람들은 집으로 돌아갔고, 창문에 불빛이 나타났다. 불빛이 꺼지고 별이 나타나자, 마치 불빛들이 하늘로 날아간 것처럼 보였다.",
     "is_header": false
   },
   {
@@ -884,7 +884,7 @@
     "tag": "P063",
     "raw": "The shadow of a large high-roofed house, and of many over-hanging trees, was upon Monsieur the Marquis by that time; and the shadow was exchanged for the light of a flambeau, as his carriage stopped, and the great door of his chateau was opened to him.",
     "en": "The Marquis soon entered the shadow of a large house and overhanging trees. The carriage stopped under the light of a torch, and the great door of his castle was opened.",
-    "ko": "",
+    "ko": "후작은 곧 큰 집과 튀어나온 나무들의 그림자 속으로 들어갔다. 마차가 횃불 빛 아래에 멈춰 섰고, 그의 성의 거대한 문이 열렸다.",
     "is_header": false
   },
   {
@@ -892,7 +892,7 @@
     "tag": "P064",
     "raw": "“Monsieur Charles, whom I expect; is he arrived from England?”",
     "en": "\"Has my nephew, Monsieur Charles, whom I expect, arrived from England?\"",
-    "ko": "",
+    "ko": "\"내가 기다리는 내 조카, 샤를 씨가 영국에서 도착했느냐?\"",
     "is_header": false
   },
   {
@@ -900,7 +900,7 @@
     "tag": "P065",
     "raw": "“Monseigneur, not yet.”",
     "en": "\"Monseigneur, not yet.\"",
-    "ko": "",
+    "ko": "\"영주님, 아직 도착하지 않았습니다.\"",
     "is_header": false
   }
 ]

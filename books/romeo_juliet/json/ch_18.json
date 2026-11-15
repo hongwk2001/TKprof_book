@@ -1,0 +1,205 @@
+[
+ {
+  "id": 1,
+  "tag": "P0826",
+  "en": "Act 4, Scene 2 — Hall in Capulet’s House",
+  "ko": "4막 2장 — 캐퓰릿 집의 홀",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "P0826_s",
+  "en": "Juliet pretends to agree to marry Paris. Capulet is so happy that he moves the wedding one day earlier.",
+  "ko": "줄리엣은 패리스와 결혼하겠다고 거짓으로 동의한다. 캐퓰릿은 너무 기뻐서 결혼식을 하루 앞당긴다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "P0827",
+  "en": "Capulet, Lady Capulet, the Nurse, and Servants enter.",
+  "ko": "캐퓰릿, 캐퓰릿 부인, 유모, 그리고 시종들이 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "P0828_1",
+  "en": "Capulet says, \"Invite as many guests as are written here.\"",
+  "ko": "캐퓰릿이 말한다. \"여기에 적힌 대로 최대한 많은 손님을 초대해라.\"",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "P0829",
+  "en": "The first servant leaves.",
+  "ko": "첫째 하인이 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "P0830_1",
+  "en": "Capulet goes on, \"You there, go hire twenty skilled cooks for me.\"",
+  "ko": "캐퓰릿이 말을 잇는다. \"거기 너, 실력 있는 요리사 스무 명을 고용해 오너라.\"",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "P0831_1",
+  "en": "The second servant says, \"You will not have any bad ones, sir. I will check if they can lick their fingers.\"",
+  "ko": "둘째 하인이 말한다. \"실력이 없는 사람은 절대 데려오지 않겠습니다. 그들이 손가락을 핥을 수 있는지 확인하겠습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "P0832_1",
+  "en": "Capulet asks, \"How can you test them like that?\"",
+  "ko": "캐퓰릿이 묻는다. \"어떻게 그런 식으로 테스트를 할 수 있어?\"",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "P0833_1",
+  "en": "The second servant says, \"Well, sir, it is a bad cook who cannot lick his own fingers. Therefore, anyone who cannot lick their fingers will not come with me.\"",
+  "ko": "둘째 하인이 말한다. \"주인님, 자기 손가락도 못 핥는 요리사는 형편없는 요리사입니다. 그러므로 손가락을 핥지 못하는 사람은 데려오지 않겠습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "P0834_1",
+  "en": "Capulet says, \"Go away.\"",
+  "ko": "캐퓰릿이 말한다. \"가 봐라.\"",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0835",
+  "en": "The second servant leaves.",
+  "ko": "둘째 하인이 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0836_1",
+  "en": "Capulet goes on, \"We will be very short of staff for this event. Has my daughter gone to Friar Lawrence?\"",
+  "ko": "캐퓰릿이 말을 잇는다. \"이번 행사에 일손이 턱없이 부족할 것이다. 딸애는 로런스 신부님께 갔느냐?\"",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0837_1",
+  "en": "The Nurse says, \"Yes, truly.\"",
+  "ko": "유모가 말한다. \"네, 그럼요.\"",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "P0838_1",
+  "en": "Capulet says, \"Well, he might do her some good. She is a stubborn, spoiled, selfish girl.\"",
+  "ko": "캐퓰릿이 말한다. \"그래, 신부님이 그 애를 좀 바로잡아 주실지도 모르지. 그 애는 고집 세고 버릇없고 이기적인 아이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 15,
+  "tag": "P0839",
+  "en": "Juliet enters.",
+  "ko": "줄리엣이 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 16,
+  "tag": "P0840_1",
+  "en": "The Nurse says, \"Look, she is coming from confession with a happy look.\"",
+  "ko": "유모가 말한다. \"보세요, 고해성사를 마치고 기쁜 표정으로 오고 있어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 17,
+  "tag": "P0841_1",
+  "en": "Capulet asks, \"Well, my stubborn girl! Where have you been running around?\"",
+  "ko": "캐퓰릿이 묻는다. \"그래, 우리 고집쟁이! 어디를 쏘다니다 왔느냐?\"",
+  "is_header": false
+ },
+ {
+  "id": 18,
+  "tag": "P0842_1",
+  "en": "Juliet says, \"I have learned to repent for my sin. I disobeyed you and your orders. Holy Lawrence told me to fall here before you. I am asking for your pardon. Please forgive me. From now on, I will always obey you.\"",
+  "ko": "줄리엣이 말한다. \"죄를 뉘우치는 법을 배웠어요. 아버지와 아버지의 명령을 거역했어요. 로런스 신부님께서 여기 엎드려 용서를 빌라고 하셨어요. 용서를 구하고 싶어요. 저를 용서해 주세요. 이제부터는 늘 아버지 말씀을 따를게요.\"",
+  "is_header": false
+ },
+ {
+  "id": 19,
+  "tag": "P0843_1",
+  "en": "Capulet says, \"Send for the Count and tell him about this. I will have this wedding knot tied tomorrow morning.\"",
+  "ko": "캐퓰릿이 말한다. \"백작을 불러와서 이 사실을 알리거라. 내일 아침에 이 혼인의 매듭을 짓겠다.\"",
+  "is_header": false
+ },
+ {
+  "id": 20,
+  "tag": "P0844_1",
+  "en": "Juliet says, \"I met the young lord at Lawrence's cell. I showed him love in a proper way. I did not go beyond the limits of modesty.\"",
+  "ko": "줄리엣이 말한다. \"로런스 신부님의 수도실에서 그 젊은 백작님을 만났어요. 예의에 맞게 호감을 보였어요. 조심스러운 선을 넘지는 않았어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 21,
+  "tag": "P0845_1",
+  "en": "Capulet says, \"I am glad about this and it is good. Stand up. This is how it should be. Let me see the Count, so go and fetch him here. Before God, our whole city owes much to this holy Friar.\"",
+  "ko": "캐퓰릿이 말한다. \"그것참 기쁘구나. 잘됐다. 일어나라. 그래야 마땅하다. 백작을 만나야 하니 가서 데려오너라. 하나님 앞에서, 우리 도시 전체가 이 거룩한 신부님께 큰 빚을 지고 있다.\"",
+  "is_header": false
+ },
+ {
+  "id": 22,
+  "tag": "P0846_1",
+  "en": "Juliet says, \"Nurse, will you go into my room with me? You can help me choose the necessary jewelry. Choose the items that you think are right for me to wear tomorrow.\"",
+  "ko": "줄리엣이 말한다. \"유모, 내 방에 같이 가 줄래? 필요한 장신구를 고르는 걸 도와줘. 내일 내가 차기에 알맞은 걸로 골라 줘.\"",
+  "is_header": false
+ },
+ {
+  "id": 23,
+  "tag": "P0847_1",
+  "en": "Lady Capulet says, \"No, not until Thursday. There is enough time.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"아니, 목요일 전까지는 안 된다. 시간은 충분하다.\"",
+  "is_header": false
+ },
+ {
+  "id": 24,
+  "tag": "P0848_1",
+  "en": "Capulet says, \"Go, Nurse, go with her. We will go to church tomorrow.\"",
+  "ko": "캐퓰릿이 말한다. \"유모, 가서 저 아이를 도와주게. 내일 교회에 가야 하니까.\"",
+  "is_header": false
+ },
+ {
+  "id": 25,
+  "tag": "P0849",
+  "en": "Juliet and the Nurse leave.",
+  "ko": "줄리엣과 유모가 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 26,
+  "tag": "P0850_1",
+  "en": "Lady Capulet says, \"We will not have enough supplies. It is almost night.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"준비할 것이 모자랄 거예요. 벌써 밤이 다 됐어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 27,
+  "tag": "P0851_1",
+  "en": "Capulet says, \"Nonsense, I will take care of things and everything will be fine, I promise you, wife. Go to Juliet and help her get dressed. I will not go to bed tonight, so leave me alone. I will do the housework just this once. They are all out, so I will walk to Count Paris myself.\"",
+  "ko": "캐퓰릿이 말한다. \"무슨 소리, 내가 다 알아서 할 테니 걱정 마오, 부인. 가서 줄리엣이 옷 입는 걸 도와줘. 오늘 밤은 안 잘 테니 날 내버려 두오. 이번만은 내가 안주인 노릇을 하겠소. 다들 나갔으니 내가 직접 패리스 백작에게 가야겠군.\"",
+  "is_header": false
+ },
+ {
+  "id": 28,
+  "tag": "P0851_2",
+  "en": "\"I will prepare him for tomorrow. My heart is light because this stubborn girl has changed her ways.\"",
+  "ko": "\"내일을 위해 준비시켜야지. 고집 센 그 애가 마음을 고쳐먹으니 가슴이 참 가볍구나.\"",
+  "is_header": false
+ },
+ {
+  "id": 29,
+  "tag": "P0852",
+  "en": "They all leave.",
+  "ko": "모두 나간다.",
+  "is_header": false
+ }
+]

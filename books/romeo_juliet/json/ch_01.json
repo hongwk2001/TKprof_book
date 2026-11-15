@@ -1,0 +1,905 @@
+[
+ {
+  "id": 1,
+  "tag": "P0001",
+  "en": "Act 1, Scene 1 — A public place",
+  "ko": "1막 1장 — 광장",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "P0001_s",
+  "en": "Two families, the Montagues and the Capulets, hate each other. Their servants start a street fight, and the Prince warns everyone. Romeo is sad because Rosaline does not love him.",
+  "ko": "몬태규 가문과 캐퓰릿 가문은 서로 미워한다. 두 집안의 하인들이 거리에서 싸움을 일으키고, 영주가 모두에게 경고한다. 로미오는 로잘린이 자신을 사랑하지 않아 슬퍼한다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "P0003_1",
+  "en": "The Chorus, the play's storyteller, enters and says, \"Two families, both equally respected, live in lovely Verona, where our play takes place. An old hatred between them breaks out into new fighting. Citizens' blood makes citizens' hands dirty.\"",
+  "ko": "이야기를 들려주는 코러스가 들어와 말한다. \"우리 극의 무대인 아름다운 베로나에, 똑같이 존경받는 두 가문이 살고 있습니다. 그들 사이의 오랜 증오가 새로운 싸움으로 터져 나옵니다. 시민들의 피가 시민들의 손을 더럽힙니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "P0003_2",
+  "en": "\"From these two enemy families, two unlucky lovers are born. The stars are against them. Their sad, unlucky deaths finally bury their parents' fight. Their doomed love and their parents' endless anger are our story. We will show it on our stage for the next two hours.\"",
+  "ko": "\"원수인 이 두 가문에서 불운한 연인 한 쌍이 태어납니다. 별들이 그들의 편이 아닙니다. 그들의 슬프고 불운한 죽음이 마침내 부모들의 싸움을 묻어 버립니다. 그들의 비극적인 사랑과 부모들의 끝없는 분노가 우리의 이야기입니다. 앞으로 두 시간 동안 이 무대에서 그 이야기를 보여 드리겠습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "P0003_3",
+  "en": "\"Only their children's deaths could end that anger. If you listen patiently, we will work hard to fix anything we get wrong.\"",
+  "ko": "\"자식들의 죽음만이 그 분노를 끝낼 수 있었습니다. 참을성 있게 들어 주신다면, 부족한 점은 열심히 채우겠습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "P0004",
+  "en": "The Chorus leaves.",
+  "ko": "코러스가 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "P0005",
+  "en": "Sampson and Gregory enter with swords and shields.",
+  "ko": "샘슨과 그레고리가 칼과 방패를 들고 등장한다.",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "P0006_1",
+  "en": "Sampson, a Capulet servant, says, \"Gregory, I promise we will not put up with insults.\"",
+  "ko": "캐퓰릿 가의 하인 샘슨이 말한다. \"그레고리, 모욕을 참지 않겠다고 약속하마.\"",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "P0007_1",
+  "en": "Gregory, another Capulet servant, says, \"No, because then we would be coal sellers.\"",
+  "ko": "캐퓰릿 가의 또 다른 하인 그레고리가 말한다. \"아니, 그러면 우린 석탄 장수가 되는 거잖아.\"",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "P0008_1",
+  "en": "Sampson says, \"I mean, if we are angry, we will fight.\"",
+  "ko": "샘슨이 말한다. \"내 말은, 화가 나면 싸우겠다는 뜻이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0009_1",
+  "en": "Gregory says, \"Yes, while you live, pull your neck out of the collar.\"",
+  "ko": "그레고리가 말한다. \"그래, 살아 있는 동안 목이 밧줄에 걸리지 않게 조심해.\"",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0010_1",
+  "en": "Sampson says, \"I strike quickly when I am moved.\"",
+  "ko": "샘슨이 말한다. \"나는 자극을 받으면 바로 행동해.\"",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0011_1",
+  "en": "Gregory says, \"But you are not quickly moved to strike.\"",
+  "ko": "그레고리가 말한다. \"하지만 넌 그렇게 빨리 움직이지 않잖아.\"",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "P0012_1",
+  "en": "Sampson says, \"A dog from the house of Montague makes me move.\"",
+  "ko": "샘슨이 말한다. \"몬태규 집안 개 한 마리만 봐도 나는 움직여.\"",
+  "is_header": false
+ },
+ {
+  "id": 15,
+  "tag": "P0013_1",
+  "en": "Gregory says, \"To move means to stir. To be brave is to stand your ground. If you are moved, it means you run away.\"",
+  "ko": "그레고리가 말한다. \"움직인다는 건 동요한다는 뜻이야. 용감하다는 건 자리를 지키는 거야. 네가 움직인다는 건 겁을 먹고 도망친다는 뜻이고.\"",
+  "is_header": false
+ },
+ {
+  "id": 16,
+  "tag": "P0014_1",
+  "en": "Sampson says, \"A dog of that house will make me stand. I will push any Montague man or woman off the wall side of the street.\"",
+  "ko": "샘슨이 말한다. \"그 집안 개라면 나를 버티고 서게 만들지. 몬태규 가문 남자든 여자든 길가 벽 쪽으로 밀어버릴 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 17,
+  "tag": "P0015_1",
+  "en": "Gregory says, \"That makes you look like a weak slave. The weakest person is always pushed to the wall.\"",
+  "ko": "그레고리가 말한다. \"그건 네가 약한 노예라는 걸 보여 주는 거야. 제일 약한 놈이 항상 벽으로 밀려나는 법이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 18,
+  "tag": "P0016_1",
+  "en": "Sampson says, \"That is true. Women are weaker, so they are always pushed to the wall. Therefore, I will push Montague's men away from the wall. I will push his maids to the wall.\"",
+  "ko": "샘슨이 말한다. \"그 말이 맞아. 여자는 약하니까 항상 벽 쪽으로 밀려나지. 그러니 몬태규 가문 남자들은 벽에서 멀리 밀어버릴 거야. 그들의 하녀들은 벽으로 밀어버릴 거고.\"",
+  "is_header": false
+ },
+ {
+  "id": 19,
+  "tag": "P0017_1",
+  "en": "Gregory says, \"The fight is only between our masters and us, their men.\"",
+  "ko": "그레고리가 말한다. \"싸움은 우리 주인들, 그리고 우리 하인들끼리의 일이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 20,
+  "tag": "P0018_1",
+  "en": "Sampson says, \"It is all the same. I will act like a tyrant. When I have fought with the men, I will be polite to the maids. I will cut off their heads.\"",
+  "ko": "샘슨이 말한다. \"다 똑같은 거지. 난 폭군처럼 행동할 거야. 남자들과 싸운 뒤에는 하녀들에게 예의를 갖춰줄게. 그들의 머리를 잘라버릴 거니까.\"",
+  "is_header": false
+ },
+ {
+  "id": 21,
+  "tag": "P0019_1",
+  "en": "Gregory asks, \"The heads of the maids?\"",
+  "ko": "그레고리가 묻는다. \"하녀들의 머리라고?\"",
+  "is_header": false
+ },
+ {
+  "id": 22,
+  "tag": "P0020_1",
+  "en": "Sampson says, \"Yes, the heads of the maids. Or their virginity. Take it in whatever sense you want.\"",
+  "ko": "샘슨이 말한다. \"그래, 하녀들의 머리 말이야. 아니면 그들의 순결이거나. 네가 원하는 대로 해석해.\"",
+  "is_header": false
+ },
+ {
+  "id": 23,
+  "tag": "P0021_1",
+  "en": "Gregory says, \"They must take it in the sense that they feel it.\"",
+  "ko": "그레고리가 말한다. \"그들이 느끼는 대로 받아들여야지.\"",
+  "is_header": false
+ },
+ {
+  "id": 24,
+  "tag": "P0022_1",
+  "en": "Sampson says, \"They will feel me while I am able to stand. It is known that I am a handsome piece of flesh.\"",
+  "ko": "샘슨이 말한다. \"내가 서 있는 동안 사람들은 나를 주목할 거야. 내 몸이 아주 멋지다는 건 누구나 아는 사실이지.\"",
+  "is_header": false
+ },
+ {
+  "id": 25,
+  "tag": "P0023_1",
+  "en": "Gregory says, \"It is good that you are not a fish. If you were a fish, you would be a dried, salted fish. Draw your weapon. Here come some men from the house of Montagues.\"",
+  "ko": "그레고리가 말한다. \"네가 물고기가 아니라서 다행이네. 물고기였다면 말린 소금물고기가 됐을 거야. 무기를 꺼내. 몬태규 가문 사람들이 오고 있어.\"",
+  "is_header": false
+ },
+ {
+  "id": 26,
+  "tag": "P0024",
+  "en": "Abram and Balthasar enter.",
+  "ko": "에이브럼과 발타자르가 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 27,
+  "tag": "P0025_1",
+  "en": "Sampson says, \"My naked weapon is out. Start a fight, and I will back you up.\"",
+  "ko": "샘슨이 말한다. \"내 칼은 이미 뽑혔어. 네가 싸움을 시작하면 내가 도와줄게.\"",
+  "is_header": false
+ },
+ {
+  "id": 28,
+  "tag": "P0026_1",
+  "en": "Gregory asks, \"How? Will you turn your back and run?\"",
+  "ko": "그레고리가 묻는다. \"뭐라고? 등을 돌리고 도망이라도 갈 거야?\"",
+  "is_header": false
+ },
+ {
+  "id": 29,
+  "tag": "P0027_1",
+  "en": "Sampson says, \"Do not fear me.\"",
+  "ko": "샘슨이 말한다. \"내 걱정은 마.\"",
+  "is_header": false
+ },
+ {
+  "id": 30,
+  "tag": "P0028_1",
+  "en": "Gregory says, \"No way! I am so scared of you!\"",
+  "ko": "그레고리가 말한다. \"말도 안 돼! 난 네가 너무 무서워!\"",
+  "is_header": false
+ },
+ {
+  "id": 31,
+  "tag": "P0029_1",
+  "en": "Sampson says, \"Let us keep the law on our side. Let them start first.\"",
+  "ko": "샘슨이 말한다. \"법이 우리 편에 있게 하자. 그들이 먼저 시작하게 두자.\"",
+  "is_header": false
+ },
+ {
+  "id": 32,
+  "tag": "P0030_1",
+  "en": "Gregory says, \"I will frown as I walk past. They can take it however they want.\"",
+  "ko": "그레고리가 말한다. \"지나갈 때 인상을 써버릴 거야. 그들이 어떻게 반응하든 상관없어.\"",
+  "is_header": false
+ },
+ {
+  "id": 33,
+  "tag": "P0031_1",
+  "en": "Sampson says, \"No, if they dare. I will bite my thumb at them. It is an insult to them if they accept it.\"",
+  "ko": "샘슨이 말한다. \"아니, 그들이 감히 그런다면. 난 그들에게 엄지손가락을 깨물어 보일 거야. 그걸 참고 넘기면 그들에겐 모욕이지.\"",
+  "is_header": false
+ },
+ {
+  "id": 34,
+  "tag": "P0032_1",
+  "en": "Abram, a Montague servant, asks, \"Do you bite your thumb at us, sir?\"",
+  "ko": "몬태규 가의 하인 에이브럼이 묻는다. \"당신이 우리에게 엄지손가락을 깨물어 보였소?\"",
+  "is_header": false
+ },
+ {
+  "id": 35,
+  "tag": "P0033_1",
+  "en": "Sampson says, \"I do bite my thumb, sir.\"",
+  "ko": "샘슨이 말한다. \"그래, 내 엄지손가락을 깨물었어.\"",
+  "is_header": false
+ },
+ {
+  "id": 36,
+  "tag": "P0034_1",
+  "en": "Abram asks, \"Do you bite your thumb at us, sir?\"",
+  "ko": "에이브럼이 묻는다. \"당신이 우리에게 엄지손가락을 깨물어 보였소?\"",
+  "is_header": false
+ },
+ {
+  "id": 37,
+  "tag": "P0035_1",
+  "en": "Sampson asks, \"Is the law on our side if I say yes?\"",
+  "ko": "샘슨이 묻는다. \"내가 그렇다고 하면 법이 우리 편이 될까?\"",
+  "is_header": false
+ },
+ {
+  "id": 38,
+  "tag": "P0036_1",
+  "en": "Gregory says, \"No.\"",
+  "ko": "그레고리가 말한다. \"아니.\"",
+  "is_header": false
+ },
+ {
+  "id": 39,
+  "tag": "P0037_1",
+  "en": "Sampson says, \"No sir. I do not bite my thumb at you, sir. But I bite my thumb, sir.\"",
+  "ko": "샘슨이 말한다. \"아니야. 너를 보고 엄지손가락을 깨문 게 아니야. 그냥 엄지손가락을 깨물었을 뿐이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 40,
+  "tag": "P0038_1",
+  "en": "Gregory asks, \"Do you quarrel, sir?\"",
+  "ko": "그레고리가 묻는다. \"싸우려는 거야?\"",
+  "is_header": false
+ },
+ {
+  "id": 41,
+  "tag": "P0039_1",
+  "en": "Abram says, \"Quarrel, sir? No, sir.\"",
+  "ko": "에이브럼이 말한다. \"싸움이라니? 아니, 안 해.\"",
+  "is_header": false
+ },
+ {
+  "id": 42,
+  "tag": "P0040_1",
+  "en": "Sampson says, \"But if you do, sir, I am for you. I serve as good a master as you do.\"",
+  "ko": "샘슨이 말한다. \"하지만 싸우겠다면 상대해 주지. 우리 주인도 너희 주인만큼 훌륭해.\"",
+  "is_header": false
+ },
+ {
+  "id": 43,
+  "tag": "P0041_1",
+  "en": "Abram says, \"No better.\"",
+  "ko": "에이브럼이 말한다. \"더 낫지는 않지.\"",
+  "is_header": false
+ },
+ {
+  "id": 44,
+  "tag": "P0042_1",
+  "en": "Sampson says, \"Well, sir.\"",
+  "ko": "샘슨이 말한다. \"글쎄.\"",
+  "is_header": false
+ },
+ {
+  "id": 45,
+  "tag": "P0043",
+  "en": "Benvolio enters.",
+  "ko": "벤볼리오가 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 46,
+  "tag": "P0044_1",
+  "en": "Gregory says, \"Say better. One of my master's relatives is coming here.\"",
+  "ko": "그레고리가 말한다. \"더 낫다고 말해. 내 주인의 친척 중 한 명이 여기 오고 있어.\"",
+  "is_header": false
+ },
+ {
+  "id": 47,
+  "tag": "P0045_1",
+  "en": "Sampson says, \"Yes, better, sir.\"",
+  "ko": "샘슨이 말한다. \"그래, 더 낫지.\"",
+  "is_header": false
+ },
+ {
+  "id": 48,
+  "tag": "P0046_1",
+  "en": "Abram says, \"You are lying.\"",
+  "ko": "에이브럼이 말한다. \"거짓말 마.\"",
+  "is_header": false
+ },
+ {
+  "id": 49,
+  "tag": "P0047_1",
+  "en": "Sampson says, \"Draw your weapons if you are men. Gregory, remember to hit him hard.\"",
+  "ko": "샘슨이 말한다. \"남자라면 무기를 꺼내. 그레고리, 녀석을 세게 때려라.\"",
+  "is_header": false
+ },
+ {
+  "id": 50,
+  "tag": "P0048",
+  "en": "They fight.",
+  "ko": "그들이 싸운다.",
+  "is_header": false
+ },
+ {
+  "id": 51,
+  "tag": "P0049_1",
+  "en": "Benvolio, Romeo's cousin and friend, says, \"Stop it, fools! Put away your swords. You do not know what you are doing.\"",
+  "ko": "로미오의 사촌이자 친구 벤볼리오가 말한다. \"그만해, 바보들아! 칼을 집어넣어. 너희가 무슨 짓을 하는지 모르고 있구나.\"",
+  "is_header": false
+ },
+ {
+  "id": 52,
+  "tag": "P0050",
+  "en": "Benvolio beats down their swords.",
+  "ko": "벤볼리오가 그들의 칼을 쳐내며 제압한다.",
+  "is_header": false
+ },
+ {
+  "id": 53,
+  "tag": "P0052_1",
+  "en": "Tybalt, Juliet's hot-tempered cousin, enters and says, \"What, have you drawn your sword among these cowardly servants? Turn around, Benvolio. Look at your death.\"",
+  "ko": "줄리엣의 성질 급한 사촌 티볼트가 들어와 말한다. \"뭐야, 이 겁쟁이 하인들 사이에서 칼을 뽑아든 거야? 돌아서라, 벤볼리오. 네 죽음을 똑똑히 봐라.\"",
+  "is_header": false
+ },
+ {
+  "id": 54,
+  "tag": "P0053_1",
+  "en": "Benvolio says, \"I am only trying to keep the peace. Put away your sword. Or use it to separate these men with me.\"",
+  "ko": "벤볼리오가 말한다. \"나는 그저 평화를 지키려는 것뿐이야. 칼을 집어넣어. 아니면 그 칼로 나와 함께 이 사람들을 떼어놓든가.\"",
+  "is_header": false
+ },
+ {
+  "id": 55,
+  "tag": "P0054_1",
+  "en": "Tybalt says, \"You have your sword out, and you talk of peace? I hate that word as much as I hate hell. I hate all Montagues and I hate you. Fight me, coward.\"",
+  "ko": "티볼트가 말한다. \"칼을 뽑아 들고서 평화를 말해? 나는 지옥만큼이나 그 단어를 싫어해. 난 모든 몬태규를 증오하고 너도 증오해. 싸워라, 겁쟁아.\"",
+  "is_header": false
+ },
+ {
+  "id": 56,
+  "tag": "P0055",
+  "en": "They fight.",
+  "ko": "그들이 싸운다.",
+  "is_header": false
+ },
+ {
+  "id": 57,
+  "tag": "P0056",
+  "en": "Three or four citizens enter with clubs.",
+  "ko": "몽둥이를 든 시민 세네 명이 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 58,
+  "tag": "P0057_1",
+  "en": "The first citizen says, \"Get clubs and spears and strike! Beat them down! Down with the Capulets and down with the Montagues!\"",
+  "ko": "첫째 시민이 말한다. \"몽둥이와 창을 가져와 쳐라! 때려눕혀라! 캐퓰릿도 몬태규도 모두 쓰러뜨려라!\"",
+  "is_header": false
+ },
+ {
+  "id": 59,
+  "tag": "P0058",
+  "en": "Capulet enters in his gown. Lady Capulet enters.",
+  "ko": "캐퓰릿이 실내복 차림으로 들어온다. 캐퓰릿 부인이 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 60,
+  "tag": "P0059_1",
+  "en": "Capulet, Juliet's father, says, \"What noise is this? Give me my long sword!\"",
+  "ko": "줄리엣의 아버지 캐퓰릿이 말한다. \"무슨 소란이냐? 내 긴 칼을 내놔라!\"",
+  "is_header": false
+ },
+ {
+  "id": 61,
+  "tag": "P0060_1",
+  "en": "Lady Capulet, Juliet's mother, asks, \"A crutch, a crutch! Why do you call for a sword?\"",
+  "ko": "줄리엣의 어머니 캐퓰릿 부인이 묻는다. \"목발이나 드세요, 목발! 왜 칼을 찾으시는 거예요?\"",
+  "is_header": false
+ },
+ {
+  "id": 62,
+  "tag": "P0061_1",
+  "en": "Capulet says, \"My sword, I say! Old Montague has come. He waves his blade in spite of me.\"",
+  "ko": "캐퓰릿이 말한다. \"내 칼을 내놔! 늙은 몬태규가 왔다. 그자가 날 약 올리려고 칼을 휘두르고 있어.\"",
+  "is_header": false
+ },
+ {
+  "id": 63,
+  "tag": "P0062",
+  "en": "Montague and Lady Montague enter.",
+  "ko": "몬태규와 몬태규 부인이 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 64,
+  "tag": "P0063_1",
+  "en": "Montague, Romeo's father, says, \"You villain Capulet, do not hold me and let me go.\"",
+  "ko": "로미오의 아버지 몬태규가 말한다. \"이 악당 캐퓰릿! 날 붙잡지 마, 놓으라고.\"",
+  "is_header": false
+ },
+ {
+  "id": 65,
+  "tag": "P0064_1",
+  "en": "Lady Montague, Romeo's mother, says, \"You shall not move one foot to look for an enemy.\"",
+  "ko": "로미오의 어머니 몬태규 부인이 말한다. \"적을 찾으러 한 발짝도 움직이면 안 돼요.\"",
+  "is_header": false
+ },
+ {
+  "id": 66,
+  "tag": "P0065",
+  "en": "Prince Escalus enters with his attendants.",
+  "ko": "에스컬러스 영주가 수행원들과 함께 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 67,
+  "tag": "P0066_1",
+  "en": "The Prince, the ruler of Verona, says, \"You are rebellious subjects. You are enemies of peace. You stain your steel in this fight. Will you not listen? You men, you beasts! You put out the fire of your harmful rage with purple fountains coming from your veins.\"",
+  "ko": "베로나를 다스리는 영주가 말한다. \"너희는 반역자들이다. 너희는 평화의 적이다. 이 싸움으로 칼을 더럽히고 있다. 내 말을 듣지 않겠느냐? 인간도 아닌 짐승 같은 자들아! 너희는 혈관에서 뿜어져 나오는 보랏빛 분수로 파괴적인 분노를 끄고 있다.\"",
+  "is_header": false
+ },
+ {
+  "id": 68,
+  "tag": "P0066_2",
+  "en": "\"Under pain of torture, throw your angry weapons to the ground. Listen to the sentence of your prince. Old Capulet and Montague, a careless word from you has started three street fights. They have broken the peace of our streets.\"",
+  "ko": "\"고문을 당하기 싫거든 성난 무기를 땅에 던져라. 영주의 판결을 들어라. 늙은 캐퓰릿과 몬태규, 너희의 부주의한 말 한마디가 세 건의 거리 싸움을 불러일으켰다. 그들은 우리 거리의 평화를 깨뜨렸다.\"",
+  "is_header": false
+ },
+ {
+  "id": 69,
+  "tag": "P0066_3",
+  "en": "\"They have made Verona's old citizens put aside their dignified clothes. They had to pick up old spears, rusty from years of peace, to stop your poisonous hatred. If you ever disturb our streets again, your lives will be the price for the peace. Now, everyone else leave.\"",
+  "ko": "\"그들 때문에 베로나의 노인들이 품위 있는 옷을 벗어 던져야 했다. 너희의 독 같은 증오를 막기 위해 그들은 오랜 평화로 녹슨 옛 창을 집어 들어야만 했다. 다시 거리를 어지럽힌다면, 평화를 깬 대가로 너희 목숨을 내놓게 될 것이다. 이제 다른 사람들은 모두 물러나라.\"",
+  "is_header": false
+ },
+ {
+  "id": 70,
+  "tag": "P0066_4",
+  "en": "\"You, Capulet, will go with me. And Montague, come this afternoon to hear my decision in this case. Come to old Free-town, our court of judgment. Once more, under pain of death, everyone leave.\"",
+  "ko": "\"캐퓰릿, 너는 나와 함께 가라. 몬태규, 오늘 오후에 내 결정을 들으러 오너라. 우리의 재판소가 있는 옛 프리타운으로 오너라. 다시 말하노니, 죽고 싶지 않거든 모두 물러가라.\"",
+  "is_header": false
+ },
+ {
+  "id": 71,
+  "tag": "P0067",
+  "en": "Prince and his attendants leave. Capulet, Lady Capulet, Tybalt, citizens, and servants also leave.",
+  "ko": "영주와 수행원들이 떠난다. 캐퓰릿, 캐퓰릿 부인, 티볼트, 시민들, 그리고 하인들도 모두 떠난다.",
+  "is_header": false
+ },
+ {
+  "id": 72,
+  "tag": "P0068_1",
+  "en": "Montague asks, \"Who started this old fight again? Speak, nephew; were you here when it began?\"",
+  "ko": "몬태규가 묻는다. \"누가 이 오래된 싸움을 다시 시작했느냐? 말해 보거라, 조카야. 싸움이 시작될 때 여기 있었느냐?\"",
+  "is_header": false
+ },
+ {
+  "id": 73,
+  "tag": "P0069_1",
+  "en": "Benvolio says, \"The servants of your enemy and yours were here. They were fighting closely before I came near. I stepped in to separate them. In that moment, the angry Tybalt came. He had his sword ready. As he shouted defiance at my ears, he swung it over his head and cut the air.\"",
+  "ko": "벤볼리오가 말한다. \"숙부님 댁 하인들과 적의 하인들이 여기 있었어요. 제가 다가가기 전부터 그들은 맞붙어 싸우고 있었어요. 저는 그들을 떼어놓으려고 끼어들었고요. 그때 화가 난 티볼트가 나타났어요. 그는 칼을 뽑아 들고 있었어요. 그는 제 귀에 대고 도전의 말을 외치며, 머리 위로 칼을 휘둘러 공기를 갈랐어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 74,
+  "tag": "P0069_2",
+  "en": "\"The wind was not hurt by it. The wind hissed at him in scorn. While we were trading hits and blows, more people came and fought on different sides. Until the Prince came and separated both sides.\"",
+  "ko": "\"바람은 그 칼에 상처를 입지 않았고요. 바람은 비웃듯 그에게 소리를 냈어요. 우리가 서로 치고받는 동안, 더 많은 사람들이 몰려와 각자 다른 쪽에서 싸웠어요. 영주께서 오셔서 양측을 갈라놓으실 때까지요.\"",
+  "is_header": false
+ },
+ {
+  "id": 75,
+  "tag": "P0070_1",
+  "en": "Lady Montague says, \"Where is Romeo? Did you see him today? I am very glad he was not at this fight.\"",
+  "ko": "몬태규 부인이 말한다. \"로미오는 어디 있니? 오늘 그를 봤어? 그가 이 싸움에 없었다니 정말 다행이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 76,
+  "tag": "P0071_1",
+  "en": "Benvolio says, \"Madam, it was an hour before the sun rose in the golden window of the east. A troubled mind forced me to walk outside. I walked under the grove of sycamore trees. Those trees grow toward the west from this side of the city. I saw your son walking very early.\"",
+  "ko": "벤볼리오가 말한다. \"숙모님, 동쪽의 황금빛 창문으로 해가 뜨기 한 시간 전이었어요. 불안한 마음 때문에 밖을 걸어 다니게 되었고요. 저는 플라타너스 숲 아래를 걸었어요. 그 숲은 도시 이쪽에서 서쪽으로 뻗어 있어요. 아주 이른 새벽에 숙모님의 아드님이 걷는 것을 보았어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 77,
+  "tag": "P0071_2",
+  "en": "\"I moved toward him, but he noticed me. He hid in the thick part of the woods. I measured his feelings by my own feelings. I wanted to be where no one could find me. Even my own company was too much for me. I followed my own mood instead of following his.\"",
+  "ko": "\"제가 다가갔지만, 그는 저를 알아챘어요. 그는 숲이 우거진 곳으로 숨어버렸고요. 저는 제 기분에 비추어 그의 마음을 짐작했어요. 저는 아무도 찾지 못할 곳에 있고 싶었거든요. 심지어 혼자 있는 것조차 버거웠어요. 저는 그를 따라가지 않고 제 기분을 따랐어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 78,
+  "tag": "P0071_3",
+  "en": "\"I happily avoided him, and he gladly fled from me.\"",
+  "ko": "\"저는 기꺼이 그를 피했고, 그도 기꺼이 저를 피해 달아났어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 79,
+  "tag": "P0072_1",
+  "en": "Montague says, \"He has been seen there many mornings. His tears added to the fresh morning dew. His deep sighs added more clouds to the sky. But the cheerful sun soon begins to open the curtains of the morning. Then my sad son leaves the light and goes home. He stays in his room alone.\"",
+  "ko": "몬태규가 말한다. \"그는 많은 아침에 그곳에서 목격되곤 했다. 그의 눈물은 아침 이슬과 섞였고. 그의 깊은 한숨은 하늘에 구름을 더 얹었지. 하지만 밝은 태양은 곧 아침의 커튼을 열기 시작한다. 그러면 내 슬픈 아들은 빛을 떠나 집으로 돌아간다. 그는 방 안에 혼자 머문다.\"",
+  "is_header": false
+ },
+ {
+  "id": 80,
+  "tag": "P0072_2",
+  "en": "\"He shuts his windows and locks out the daylight. He makes himself an artificial night. This mood will lead to something dark and bad, unless good advice can remove its cause.\"",
+  "ko": "\"그는 창문을 닫고 햇빛을 차단한다. 그는 스스로를 가짜 밤 속에 가둔다. 좋은 조언이 그 원인을 없애주지 않는다면, 이 기분은 어둡고 나쁜 일로 이어질 것이다.\"",
+  "is_header": false
+ },
+ {
+  "id": 81,
+  "tag": "P0073_1",
+  "en": "Benvolio asks, \"My noble uncle, do you know the cause?\"",
+  "ko": "벤볼리오가 묻는다. \"숙부님, 그 이유를 아세요?\"",
+  "is_header": false
+ },
+ {
+  "id": 82,
+  "tag": "P0074_1",
+  "en": "Montague says, \"I do not know it and I cannot learn from him.\"",
+  "ko": "몬태규가 말한다. \"나는 모르고 그에게 물어볼 수도 없어.\"",
+  "is_header": false
+ },
+ {
+  "id": 83,
+  "tag": "P0075_1",
+  "en": "Benvolio asks, \"Have you tried to talk to him in any way?\"",
+  "ko": "벤볼리오가 묻는다. \"어떤 방식으로든 대화를 시도해 보셨나요?\"",
+  "is_header": false
+ },
+ {
+  "id": 84,
+  "tag": "P0076_1",
+  "en": "Montague says, \"Both I and many other friends have tried. But he is the only counselor of his own feelings. He is very private to himself, and I will not say how true it is. He is so secret and so close to himself. He is far from sharing his thoughts or being discovered.\"",
+  "ko": "몬태규가 말한다. \"나를 포함한 많은 친구가 시도해 봤어. 하지만 그 애는 자기 마음을 혼자서만 의논하는 아이야. 그 애는 자기 속을 드러내지 않아. 얼마나 그러는지는 말도 못 할 정도지. 그는 자신만의 세계에 갇혀 있어. 생각을 나누거나 남에게 들키는 걸 싫어해.\"",
+  "is_header": false
+ },
+ {
+  "id": 85,
+  "tag": "P0076_2",
+  "en": "\"He is like a bud bitten by an envious worm. It dies before it can open its sweet leaves to the air. Or show its beauty to the sun. If only we could learn why he is sad! We would cure him as gladly as we would learn the cause.\"",
+  "ko": "\"그는 질투심 많은 벌레에게 물린 꽃봉오리 같아. 달콤한 잎을 공기 중에 펼치기도 전에 시들어버리지. 태양에게 아름다움을 보여주지도 못하고 말이야. 그가 왜 슬퍼하는지 알 수만 있다면! 원인을 알아내는 것만큼이나 기쁘게 그를 고쳐줄 텐데.\"",
+  "is_header": false
+ },
+ {
+  "id": 86,
+  "tag": "P0077",
+  "en": "Romeo enters.",
+  "ko": "로미오가 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 87,
+  "tag": "P0078_1",
+  "en": "Benvolio says, \"Look, here he comes. Please step aside. I will find out what is wrong, unless he flatly refuses to tell me.\"",
+  "ko": "벤볼리오가 말한다. \"보세요, 저기 오고 있어요. 옆으로 비켜주세요. 그가 단호하게 거절하지 않는다면 제가 무슨 문제가 있는지 알아낼게요.\"",
+  "is_header": false
+ },
+ {
+  "id": 88,
+  "tag": "P0079_1",
+  "en": "Montague says, \"I wish you luck in staying to hear the truth from him. Come, madam, let us go.\"",
+  "ko": "몬태규가 말한다. \"네가 그 애에게서 진실을 듣기를 바란다. 자, 부인, 이제 갑시다.\"",
+  "is_header": false
+ },
+ {
+  "id": 89,
+  "tag": "P0080",
+  "en": "Montague and Lady Montague leave.",
+  "ko": "몬태규와 몬태규 부인이 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 90,
+  "tag": "P0081_1",
+  "en": "Benvolio says, \"Good morning, cousin.\"",
+  "ko": "벤볼리오가 말한다. \"좋은 아침이야, 사촌.\"",
+  "is_header": false
+ },
+ {
+  "id": 91,
+  "tag": "P0082_1",
+  "en": "Romeo, the young son of the Montague family, asks, \"Is the day so young?\"",
+  "ko": "몬태규 가문의 젊은 아들 로미오가 묻는다. \"아직 이른 아침인가?\"",
+  "is_header": false
+ },
+ {
+  "id": 92,
+  "tag": "P0083_1",
+  "en": "Benvolio says, \"It is only nine o'clock.\"",
+  "ko": "벤볼리오가 말한다. \"이제 겨우 아홉 시야.\"",
+  "is_header": false
+ },
+ {
+  "id": 93,
+  "tag": "P0084_1",
+  "en": "Romeo asks, \"Oh, sad hours seem long. Was that my father who left so quickly?\"",
+  "ko": "로미오가 묻는다. \"오, 슬픈 시간은 길게만 느껴져. 그렇게 빨리 떠난 사람이 내 아버지였나?\"",
+  "is_header": false
+ },
+ {
+  "id": 94,
+  "tag": "P0085_1",
+  "en": "Benvolio asks, \"It was. What sadness makes Romeo's hours feel long?\"",
+  "ko": "벤볼리오가 묻는다. \"맞아. 무슨 슬픔이 로미오의 시간을 이토록 길게 느끼게 하는 거지?\"",
+  "is_header": false
+ },
+ {
+  "id": 95,
+  "tag": "P0086_1",
+  "en": "Romeo says, \"I do not have the thing that makes time pass quickly.\"",
+  "ko": "로미오가 말한다. \"시간을 빨리 가게 할 무언가가 내겐 없어.\"",
+  "is_header": false
+ },
+ {
+  "id": 96,
+  "tag": "P0087_1",
+  "en": "Benvolio asks, \"In love?\"",
+  "ko": "벤볼리오가 묻는다. \"사랑 때문에?\"",
+  "is_header": false
+ },
+ {
+  "id": 97,
+  "tag": "P0088_1",
+  "en": "Romeo says, \"Out.\"",
+  "ko": "로미오가 말한다. \"밖이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 98,
+  "tag": "P0089_1",
+  "en": "Benvolio asks, \"Out of love?\"",
+  "ko": "벤볼리오가 묻는다. \"사랑 밖이라고?\"",
+  "is_header": false
+ },
+ {
+  "id": 99,
+  "tag": "P0090_1",
+  "en": "Romeo says, \"I am out of favor with the woman I love.\"",
+  "ko": "로미오가 말한다. \"내가 사랑하는 여인의 마음 밖에 있어.\"",
+  "is_header": false
+ },
+ {
+  "id": 100,
+  "tag": "P0091_1",
+  "en": "Benvolio says, \"Love looks so gentle. It is sad that it is so cruel and rough in real life.\"",
+  "ko": "벤볼리오가 말한다. \"사랑은 참 부드러워 보이는데. 실제로는 그렇게 잔인하고 거칠다니 슬프구나.\"",
+  "is_header": false
+ },
+ {
+  "id": 101,
+  "tag": "P0092_1",
+  "en": "Romeo says, \"It is sad that love is blindfolded, yet it can still find its way to what it wants! Where shall we eat? Oh me! What fight was here? Do not tell me, for I have heard it all. There is much to do with hate, but there is even more to do with love. Why, then, oh fighting love!\"",
+  "ko": "로미오가 말한다. \"사랑은 눈이 가려져 있는데도 원하는 곳은 잘도 찾아가니 슬픈 일이야! 어디서 먹을까? 아, 내 신세야! 여기서 무슨 싸움이 있었지? 말하지 마, 이미 다 들었으니까. 증오에 관한 일도 많지만, 사랑에 관한 일은 훨씬 더 많아. 그러니 오, 싸우는 사랑이여!\"",
+  "is_header": false
+ },
+ {
+  "id": 102,
+  "tag": "P0092_2",
+  "en": "\"Oh loving hate! Oh anything created from nothing! Oh heavy lightness! Serious vanity! A misshapen chaos of beautiful forms! A feather of lead. Bright smoke. Cold fire. Sick health! A sleep that stays awake. It is not what it seems! I feel this love, but I feel no love in this. Do you not laugh?\"",
+  "ko": "\"오 사랑스러운 증오여! 오 아무것도 없는 데서 태어난 모든 것이여! 오 무거운 가벼움이여! 진지한 허영심이여! 아름다운 형상들이 뒤섞인 기형적인 혼돈이여! 납으로 만든 깃털. 밝게 빛나는 연기. 차가운 불꽃. 병든 건강함! 깨어 있는 채로 잠드는 것. 겉모습과 다른 것이야! 이 사랑을 느끼지만, 이 안에서 사랑은 느껴지지 않아. 너는 웃음이 나지 않니?\"",
+  "is_header": false
+ },
+ {
+  "id": 103,
+  "tag": "P0093_1",
+  "en": "Benvolio says, \"No friend, I would rather cry.\"",
+  "ko": "벤볼리오가 말한다. \"아니 친구야, 차라리 울고 말겠다.\"",
+  "is_header": false
+ },
+ {
+  "id": 104,
+  "tag": "P0094_1",
+  "en": "Romeo asks, \"Good heart, at what?\"",
+  "ko": "로미오가 묻는다. \"착한 친구야, 무엇 때문에?\"",
+  "is_header": false
+ },
+ {
+  "id": 105,
+  "tag": "P0095_1",
+  "en": "Benvolio says, \"At your good heart's suffering.\"",
+  "ko": "벤볼리오가 말한다. \"네 착한 마음이 겪는 고통 때문이지.\"",
+  "is_header": false
+ },
+ {
+  "id": 106,
+  "tag": "P0096_1",
+  "en": "Romeo says, \"That is how love breaks the rules. My own sorrows weigh heavily in my chest. You will add your own sadness to them and make them heavier. But the love you have shown adds more grief to my many problems. Love is a smoke made from the smoke of sighs.\"",
+  "ko": "로미오가 말한다. \"사랑은 원래 규칙을 깨뜨리는 법이야. 내 슬픔이 가슴 속에 무겁게 짓누르고 있어. 네가 네 슬픔을 더하면 내 슬픔은 더 무거워질 거야. 하지만 네가 보여준 사랑은 나의 수많은 문제에 비탄을 더할 뿐이야. 사랑은 한숨의 김으로 피어오른 연기야.\"",
+  "is_header": false
+ },
+ {
+  "id": 107,
+  "tag": "P0096_2",
+  "en": "\"When it is clear, it is a fire sparkling in lovers' eyes. When it is troubled, it is a sea fed by lovers' tears. What else is it? It is a very careful madness. It is a bitter poison and a preserving sweetness. Goodbye, my friend.\"",
+  "ko": "\"그것이 선명해지면 연인들의 눈 속에서 반짝이는 불꽃이 되지. 그것이 요동치면 연인들의 눈물로 채워지는 바다가 돼. 그거 말고 또 무엇이겠어? 그건 아주 조심스러운 광기야. 그건 쓴 독약이자 보존되는 달콤함이지. 잘 가라, 내 친구야.\"",
+  "is_header": false
+ },
+ {
+  "id": 108,
+  "tag": "P0097",
+  "en": "Romeo starts to leave.",
+  "ko": "로미오가 떠나려 한다.",
+  "is_header": false
+ },
+ {
+  "id": 109,
+  "tag": "P0098_1",
+  "en": "Benvolio says, \"Wait! I will go with you. If you leave me alone, you do me wrong.\"",
+  "ko": "벤볼리오가 말한다. \"기다려! 내가 함께 가겠어. 네가 나를 혼자 두고 가면, 내게 잘못을 저지르는 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 110,
+  "tag": "P0099_1",
+  "en": "Romeo says, \"Tut! I have lost myself and I am not here. This is not Romeo, he is somewhere else.\"",
+  "ko": "로미오가 말한다. \"쳇! 난 넋이 나갔어. 난 여기 없어. 이건 로미오가 아니야, 그는 다른 곳에 있어.\"",
+  "is_header": false
+ },
+ {
+  "id": 111,
+  "tag": "P0100_1",
+  "en": "Benvolio asks, \"Tell me seriously, who do you love?\"",
+  "ko": "벤볼리오가 묻는다. \"진지하게 말해봐, 넌 누구를 사랑해?\"",
+  "is_header": false
+ },
+ {
+  "id": 112,
+  "tag": "P0101_1",
+  "en": "Romeo asks, \"What, should I groan and tell you?\"",
+  "ko": "로미오가 묻는다. \"뭐라고, 한탄하며 말해주기라도 해야 하나?\"",
+  "is_header": false
+ },
+ {
+  "id": 113,
+  "tag": "P0102_1",
+  "en": "Benvolio says, \"Groan? No. But tell me seriously who it is.\"",
+  "ko": "벤볼리오가 말한다. \"한탄이라니? 아니. 하지만 진지하게 그게 누구인지 말해봐.\"",
+  "is_header": false
+ },
+ {
+  "id": 114,
+  "tag": "P0103_1",
+  "en": "Romeo says, \"You are asking a sick man to seriously make his will. That is a cruel thing to say to someone so ill. Seriously, cousin, I love a woman.\"",
+  "ko": "로미오가 말한다. \"병든 사람에게 유언을 남기라고 진지하게 묻는구나. 그렇게 아픈 사람에게는 잔인한 말이야. 진심으로 말하자면, 사촌아, 난 한 여자를 사랑해.\"",
+  "is_header": false
+ },
+ {
+  "id": 115,
+  "tag": "P0104_1",
+  "en": "Benvolio says, \"I guessed correctly when I thought you were in love.\"",
+  "ko": "벤볼리오가 말한다. \"네가 사랑에 빠졌다고 생각했을 때 내 예상이 맞았군.\"",
+  "is_header": false
+ },
+ {
+  "id": 116,
+  "tag": "P0105_1",
+  "en": "Romeo says, \"You are a very good shot. And the woman I love is beautiful.\"",
+  "ko": "로미오가 말한다. \"너 정말 명사수구나. 그리고 내가 사랑하는 여자는 아름다워.\"",
+  "is_header": false
+ },
+ {
+  "id": 117,
+  "tag": "P0106_1",
+  "en": "Benvolio says, \"A beautiful target is the easiest to hit, my friend.\"",
+  "ko": "벤볼리오가 말한다. \"내 친구야, 아름다운 목표물은 맞히기가 가장 쉽단다.\"",
+  "is_header": false
+ },
+ {
+  "id": 118,
+  "tag": "P0107_1",
+  "en": "Romeo says, \"Actually, you missed that point because she will not be hit by Cupid's arrow. She thinks like Diana, the goddess who never falls in love. She is well protected to keep her purity and is not affected by the weak arrows of love.\"",
+  "ko": "로미오가 말한다. \"사실 네 말은 틀렸어. 그녀는 큐피드의 화살에 맞지 않거든. 그녀는 절대 사랑에 빠지지 않는 여신 디아나처럼 생각하니까. 그녀는 순결을 지키기 위해 잘 보호받고 있어서, 약한 사랑의 화살이 통하지 않아.\"",
+  "is_header": false
+ },
+ {
+  "id": 119,
+  "tag": "P0107_2",
+  "en": "\"She will not give in to romantic words or look at men who stare at her with desire. She will not give herself to a man's gold. She is very rich in beauty. However, she is poor because her beauty will disappear when she dies.\"",
+  "ko": "\"그녀는 로맨틱한 말이나 자신을 갈망하는 눈빛으로 바라보는 남자들에게도 흔들리지 않아. 그녀는 남자의 황금에 자신을 팔지도 않아. 그녀는 아름다움이 매우 풍부해. 하지만 그녀는 가난해. 죽으면 그 아름다움도 함께 사라지니까.\"",
+  "is_header": false
+ },
+ {
+  "id": 120,
+  "tag": "P0108_1",
+  "en": "Benvolio asks, \"So she has promised to stay pure forever?\"",
+  "ko": "벤볼리오가 묻는다. \"그럼 그녀가 영원히 순결을 지키겠다고 약속한 거야?\"",
+  "is_header": false
+ },
+ {
+  "id": 121,
+  "tag": "P0109_1",
+  "en": "Romeo says, \"She has made that promise. But her strictness wastes her beauty. Her behavior stops her beauty from being passed on to the next generation. She is too beautiful and too wise to win heaven by making me miserable. She has promised not to love anyone.\"",
+  "ko": "로미오가 말한다. \"그녀는 그런 약속을 했어. 하지만 그 엄격함이 그녀의 아름다움을 낭비하게 만들지. 그녀의 행동은 그녀의 아름다움이 다음 세대로 이어지는 것을 막아. 그녀는 너무 아름답고 현명해서, 나를 불행하게 하며 천국을 얻으려 해. 그녀는 누구도 사랑하지 않겠다고 약속했어.\"",
+  "is_header": false
+ },
+ {
+  "id": 122,
+  "tag": "P0109_2",
+  "en": "\"Because of that promise, I feel like a dead man. I am alive only to tell people about my pain.\"",
+  "ko": "\"그 약속 때문에 나는 죽은 사람처럼 느껴져. 나는 그저 내 고통을 사람들에게 알리기 위해 살아있을 뿐이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 123,
+  "tag": "P0110_1",
+  "en": "Benvolio says, \"Listen to me. Forget about her.\"",
+  "ko": "벤볼리오가 말한다. \"내 말을 들어. 그녀는 잊어버려.\"",
+  "is_header": false
+ },
+ {
+  "id": 124,
+  "tag": "P0111_1",
+  "en": "Romeo says, \"Then teach me how to forget to think of her.\"",
+  "ko": "로미오가 말한다. \"그녀를 잊고 생각하지 않는 법을 가르쳐줘.\"",
+  "is_header": false
+ },
+ {
+  "id": 125,
+  "tag": "P0112_1",
+  "en": "Benvolio says, \"Let your eyes look freely. Look at other beautiful women.\"",
+  "ko": "벤볼리오가 말한다. \"눈이 가는 대로 마음껏 봐. 다른 아름다운 여인들을 봐.\"",
+  "is_header": false
+ },
+ {
+  "id": 126,
+  "tag": "P0113_1",
+  "en": "Romeo says, \"That would only make me think more about how beautiful she is. These happy masks kiss the foreheads of beautiful ladies. The masks are black. They remind us that they hide something beautiful. A man who is struck blind cannot forget the precious treasure of his lost sight.\"",
+  "ko": "로미오가 말한다. \"그건 그녀가 얼마나 아름다운지 더 생각나게 할 뿐이야. 이 화려한 가면들이 아름다운 여인들의 이마에 닿아. 가면은 검은색이야. 그것들은 무언가 아름다운 것을 숨기고 있다는 걸 상기시켜 주지. 눈이 먼 사람은 잃어버린 시력이라는 소중한 보물을 잊을 수 없어.\"",
+  "is_header": false
+ },
+ {
+  "id": 127,
+  "tag": "P0113_2",
+  "en": "\"Show me a woman who is very beautiful. Her beauty would only remind me of the woman who is even more beautiful. Goodbye, you cannot teach me how to forget.\"",
+  "ko": "\"정말 아름다운 여자를 한 명 보여줘 봐. 그녀의 아름다움은 훨씬 더 아름다운 여자를 떠올리게 할 뿐이야. 안녕, 넌 내가 잊는 법을 가르쳐줄 수 없어.\"",
+  "is_header": false
+ },
+ {
+  "id": 128,
+  "tag": "P0114_1",
+  "en": "Benvolio says, \"I will teach you that lesson, or die trying.\"",
+  "ko": "벤볼리오가 말한다. \"그 가르침을 꼭 해 주겠어, 못 하면 죽어도 좋아.\"",
+  "is_header": false
+ },
+ {
+  "id": 129,
+  "tag": "P0115",
+  "en": "They all leave.",
+  "ko": "모두 나간다.",
+  "is_header": false
+ }
+]

@@ -1,0 +1,2402 @@
+[
+  {
+    "id": 379,
+    "tag": "P0379",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "PART IV HOW THE ARGONAUTS SAILED TO COLCHIS",
+    "is_header": true,
+    "word_count": 8,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Part IV: How the Argonauts Sailed to Colchis",
+        "kr": "4부: 아르고 호 원정대가 콜키스로 향하다"
+      }
+    ]
+  },
+  {
+    "id": 380,
+    "tag": "P0380",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "And what happened next, my children, whether it be true or not, stands written in ancient songs, which you shall read for yourselves some day. And grand old songs they are, written in grand old rolling verse; and they call them the Songs of Orpheus, or the Orphics, to this day.  And they tell how the heroes came to Aphetai, across the bay, and waited for the south-west wind, and chose themselves a captain from their crew: and how all called for Heracles, because he was the strongest and most huge; but Heracles refused, and called for Jason, because he was the wisest of them all.  So Jason was chosen captain; and Orpheus heaped a pile of wood, and slew a bull, and offered it to Hera, and called all the heroes to stand round, each mans head crowned with olive, and to strike their swords into the bull.  Then he filled a golden goblet with the bulls blood, and with wheaten flour, and honey, and wine, and the bitter salt-sea water, and bade the heroes taste.  So each tasted the goblet, and passed it round, and vowed an awful vow: and they vowed before the sun, and the night, and the blue-haired sea who shakes the land, to stand by Jason faithfully in the adventure of the golden fleece; and whosoever shrank back, or disobeyed, or turned traitor to his vow, then justice should minister against him, and the Erinnues who track guilty men.",
+    "is_header": false,
+    "word_count": 245,
+    "translation": [
+      {
+        "id": 1,
+        "en": "My children, what happened next stands written in ancient songs that you may read for yourselves someday.",
+        "kr": "아이들아, 다음으로 무슨 일이 일어났는지는 훗날 여러분이 직접 읽게 될 오래된 노래에 기록되어 있답니다."
+      },
+      {
+        "id": 2,
+        "en": "These magnificent old songs are written in grand, rolling verses.",
+        "kr": "이 장엄하고 오래된 노래들은 아주 크고 웅장한 운율로 쓰였지요."
+      },
+      {
+        "id": 3,
+        "en": "To this day, they are called the Songs of Orpheus, or the Orphics.",
+        "kr": "오늘날까지도 사람들은 이를 오르페우스의 노래라고 부른답니다."
+      },
+      {
+        "id": 4,
+        "en": "They tell how the heroes crossed the bay to Aphetai and waited for the southwest wind.",
+        "kr": "노래는 영웅들이 만을 건너 아페타이에 도착해 남서풍을 기다린 이야기를 들려줍니다."
+      },
+      {
+        "id": 5,
+        "en": "There, they needed to choose a captain from among their crew.",
+        "kr": "그곳에서 그들은 일행을 이끌 선장을 뽑아야 했습니다."
+      },
+      {
+        "id": 6,
+        "en": "Everyone called for Heracles because he was the strongest and most massive of them all.",
+        "kr": "모두가 헤라클레스를 외쳤는데, 그가 가장 힘이 세고 체격이 컸기 때문이지요."
+      },
+      {
+        "id": 7,
+        "en": "But Heracles refused and instead nominated Jason, for he was the wisest among them.",
+        "kr": "하지만 헤라클레스는 거절하며, 그들 중 가장 지혜로운 이아손을 추천했습니다."
+      },
+      {
+        "id": 8,
+        "en": "So Jason was chosen as their captain.",
+        "kr": "그리하여 이아손이 선장으로 뽑혔습니다."
+      },
+      {
+        "id": 9,
+        "en": "Orpheus then gathered a pile of wood, sacrificed a bull, and offered it to Hera.",
+        "kr": "그러자 오르페우스가 장작을 쌓고 황소를 제물로 바쳐 헤라 여신에게 바쳤습니다."
+      },
+      {
+        "id": 10,
+        "en": "He called all the heroes, wearing olive crowns, to strike their swords into the bull.",
+        "kr": "그는 올리브 관을 쓴 영웅들을 모두 불러 모아 황소에 칼을 꽂게 했습니다."
+      },
+      {
+        "id": 11,
+        "en": "He filled a golden goblet with the bull's blood, flour, honey, wine, and salty seawater.",
+        "kr": "그는 황금 잔에 황소의 피와 밀가루, 꿀, 포도주, 그리고 짠 바닷물을 채웠습니다."
+      },
+      {
+        "id": 12,
+        "en": "Orpheus then asked the heroes to taste the mixture.",
+        "kr": "오르페우스는 영웅들에게 그 잔을 맛보라고 했습니다."
+      },
+      {
+        "id": 13,
+        "en": "Each man tasted the goblet, passed it around, and swore a solemn oath.",
+        "kr": "각자 잔을 맛보고 돌려 마시며 엄숙한 맹세를 맺었습니다."
+      },
+      {
+        "id": 14,
+        "en": "They vowed before the sun, the night, and the mighty sea god to stand faithfully by Jason.",
+        "kr": "그들은 태양과 밤, 그리고 강력한 바다의 신 앞에서 이아손을 충실히 따르겠다고 맹세했습니다."
+      },
+      {
+        "id": 15,
+        "en": "Whoever backed down, disobeyed, or betrayed the vow would face justice.",
+        "kr": "누구든 물러서거나 명령을 어기고 맹세를 배반하는 자는 심판을 받을 것이라 다짐했지요."
+      },
+      {
+        "id": 16,
+        "en": "The Furies, who relentlessly track guilty men, would hunt down any traitor.",
+        "kr": "죄지은 자를 끝까지 추적하는 복수의 여신들이 배신자를 사냥할 것이었습니다."
+      }
+    ]
+  },
+  {
+    "id": 381,
+    "tag": "P0381",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "Then Jason lighted the pile, and burnt the carcase of the bull; and they went to their ship and sailed eastward, like men who have a work to do; and the place from which they went was called Aphetai, the sailing-place, from that day forth.  Three thousand years and more they sailed away, into the unknown Eastern seas; and great nations have come and gone since then, and many a storm has swept the earth; and many a mighty armament, to which _Argo_ would be but one small boat; English and French, Turkish and Russian, have sailed those waters since; yet the fame of that small _Argo_ lives for ever, and her name is become a proverb among men.",
+    "is_header": false,
+    "word_count": 119,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Then Jason lit the pyre and burned the carcass of the bull.",
+        "kr": "그 후 이아손이 장작더미에 불을 붙여 황소의 몸을 태웠습니다."
+      },
+      {
+        "id": 2,
+        "en": "They boarded their ship and sailed eastward, determined to complete their task.",
+        "kr": "그들은 배에 올라타 임무를 완수하겠다는 결의를 다지며 동쪽으로 항해했습니다."
+      },
+      {
+        "id": 3,
+        "en": "From that day on, the place they departed from was called Aphetai, the sailing-place.",
+        "kr": "그날 이후로 그들이 떠난 곳은 출발지라는 뜻의 아페타이로 불렸습니다."
+      },
+      {
+        "id": 4,
+        "en": "They sailed into the unknown Eastern seas over three thousand years ago.",
+        "kr": "그들은 3천 년도 더 전에 미지의 동쪽 바다로 항해를 떠났습니다."
+      },
+      {
+        "id": 5,
+        "en": "Since then, great nations have risen and fallen, and many storms have swept the earth.",
+        "kr": "그 이래로 위대한 국가들이 일어섰다 쓰러졌고, 수많은 폭풍이 세상을 휩쓸었습니다."
+      },
+      {
+        "id": 6,
+        "en": "Mighty fleets, compared to which the Argo would be but a small boat, have sailed those waters.",
+        "kr": "아르고 호가 그저 작은 조각배로 보일 만큼 거대한 함대들이 그 바다를 항해했지요."
+      },
+      {
+        "id": 7,
+        "en": "English, French, Turkish, and Russian ships have all passed through since.",
+        "kr": "영국, 프랑스, 튀르키예, 러시아의 배들이 모두 그곳을 지나갔습니다."
+      },
+      {
+        "id": 8,
+        "en": "Yet the fame of that small Argo lives forever, and its name remains a legend among men.",
+        "kr": "하지만 작디작은 아르고 호의 명성은 영원히 살아남아, 그 이름은 사람들 사이에서 전설이 되었습니다."
+      }
+    ]
+  },
+  {
+    "id": 382,
+    "tag": "P0382",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "So they sailed past the Isle of Sciathos, with the Cape of Sepius on their left, and turned to the northward toward Pelion, up the long Magnesian shore.  On their right hand was the open sea, and on their left old Pelion rose, while the clouds crawled round his dark pine-forests, and his caps of summer snow.  And their hearts yearned for the dear old mountain, as they thought of pleasant days gone by, and of the sports of their boyhood, and their hunting, and their schooling in the cave beneath the cliff.  And at last Peleus spoke, Let us land here, friends, and climb the dear old hill once more.  We are going on a fearful journey; who knows if we shall see Pelion again?  Let us go up to Cheiron our master, and ask his blessing ere we start.  And I have a boy, too, with him, whom he trains as he trained me oncethe son whom Thetis brought me, the silver-footed lady of the sea, whom I caught in the cave, and tamed her, though she changed her shape seven times.  For she changed, as I held her, into water, and to vapour, and to burning flame, and to a rock, and to a black-maned lion, and to a tall and stately tree.  But I held her and held her ever, till she took her own shape again, and led her to my fathers house, and won her for my bride.  And all the rulers of Olympus came to our wedding, and the heavens and the earth rejoiced together, when an Immortal wedded mortal man.  And now let me see my son; for it is not often I shall see him upon earth: famous he will be, but short-lived, and die in the flower of youth.",
+    "is_header": false,
+    "word_count": 299,
+    "translation": [
+      {
+        "id": 1,
+        "en": "They sailed past the Isle of Sciathos, leaving the Cape of Sepias on their left.",
+        "kr": "그들은 세피아스 곶을 왼쪽에 두고 스키아토스 섬을 지나 항해했습니다."
+      },
+      {
+        "id": 2,
+        "en": "Then they turned northward toward Pelion, sailing up the long Magnesian shore.",
+        "kr": "그러고는 마그네시아의 긴 해안을 따라 펠리온 산을 향해 북쪽으로 방향을 틀었습니다."
+      },
+      {
+        "id": 3,
+        "en": "On their right was the open sea, and on their left rose old Mount Pelion.",
+        "kr": "오른쪽에는 탁 트인 바다가 있었고, 왼쪽에는 오래된 펠리온 산이 솟아 있었습니다."
+      },
+      {
+        "id": 4,
+        "en": "Clouds crawled around its dark pine forests and its peaks of summer snow.",
+        "kr": "어두운 소나무 숲과 여름에도 눈이 덮인 산봉우리 주위로 구름이 천천히 흘러갔습니다."
+      },
+      {
+        "id": 5,
+        "en": "Their hearts yearned for the dear old mountain as they recalled their pleasant past.",
+        "kr": "그들은 즐거웠던 과거를 떠올리며 그리운 옛 산을 향해 마음이 끌렸습니다."
+      },
+      {
+        "id": 6,
+        "en": "They remembered their boyhood games, their hunting, and their schooling in the cliffside cave.",
+        "kr": "어린 시절의 놀이와 사냥, 절벽 아래 동굴에서 가르침을 받던 때를 기억했지요."
+      },
+      {
+        "id": 7,
+        "en": "At last Peleus spoke, Let us land here, friends, and climb the dear old hill once more.",
+        "kr": "마침내 펠레우스가 말했습니다. 친구들, 여기서 상륙해 그리운 옛 산을 다시 한번 올라갑시다."
+      },
+      {
+        "id": 8,
+        "en": "We are going on a fearful journey, and who knows if we shall ever see Pelion again?",
+        "kr": "우리는 두려운 여정을 떠나는데, 펠리온 산을 다시 볼 수 있을지 누가 알겠습니까?"
+      },
+      {
+        "id": 9,
+        "en": "Let us go up to our master Chiron and ask for his blessing before we depart.",
+        "kr": "우리의 스승이신 키론 님께 올라가 출발하기 전에 축복을 청합시다."
+      },
+      {
+        "id": 10,
+        "en": "I also have a boy with him, whom he trains just as he once trained me.",
+        "kr": "그곳에는 스승님이 예전의 나처럼 가르치고 있는 내 아들도 있소."
+      },
+      {
+        "id": 11,
+        "en": "He is the son given to me by Thetis, the silver-footed lady of the sea.",
+        "kr": "은빛 발을 가진 바다의 여인 테티스가 내게 낳아준 아들이지요."
+      },
+      {
+        "id": 12,
+        "en": "I caught her in the cave and tamed her, even though she changed her shape seven times.",
+        "kr": "동굴에서 그녀를 붙잡아 길들였는데, 그녀는 무려 일곱 번이나 모습을 바꾸었소."
+      },
+      {
+        "id": 13,
+        "en": "As I held her, she turned into water, vapor, burning flame, and a rock.",
+        "kr": "내가 붙들고 있는 동안 그녀는 물, 수증기, 타오르는 불꽃, 그리고 바위로 변했습니다."
+      },
+      {
+        "id": 14,
+        "en": "She even became a black-maned lion and a tall, stately tree.",
+        "kr": "심지어 검은 갈기의 사자와 키가 크고 위풍당당한 나무로도 변했지요."
+      },
+      {
+        "id": 15,
+        "en": "But I held on tightly until she returned to her true shape.",
+        "kr": "하지만 그녀가 원래의 모습을 되찾을 때까지 나는 단단히 붙잡고 있었습니다."
+      },
+      {
+        "id": 16,
+        "en": "Then I led her to my father's house and won her as my bride.",
+        "kr": "그러고는 그녀를 내 아버지의 집으로 이끌어 신부로 맞이했소."
+      },
+      {
+        "id": 17,
+        "en": "All the rulers of Olympus attended our wedding.",
+        "kr": "올림포스의 모든 지배자들이 우리 결혼식에 참석했습니다."
+      },
+      {
+        "id": 18,
+        "en": "Heaven and earth rejoiced together when an immortal wedded a mortal man.",
+        "kr": "불멸의 존재가 필멸의 인간과 결혼하자 하늘과 땅이 함께 기뻐했지요."
+      },
+      {
+        "id": 19,
+        "en": "Now let me see my son, for I shall not often see him on earth.",
+        "kr": "이제 내 아들을 보게 해주시오, 이 땅에서 그 아이를 자주 볼 수 없을 테니까요."
+      },
+      {
+        "id": 20,
+        "en": "He will be famous, but his life will be short, and he will die in the flower of youth.",
+        "kr": "그는 유명해질 테지만, 수명이 짧아 꽃다운 젊은 나이에 죽고 말 것이오."
+      }
+    ]
+  },
+  {
+    "id": 383,
+    "tag": "P0383",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "So Tiphys the helmsman steered them to the shore under the crags of Pelion; and they went up through the dark pine-forests towards the Centaurs cave.",
+    "is_header": false,
+    "word_count": 26,
+    "translation": [
+      {
+        "id": 1,
+        "en": "So Tiphys the helmsman steered them to the shore under the crags of Pelion.",
+        "kr": "그리하여 조타수 티피스는 펠리온 산의 암벽 아래 해안으로 배를 몰았습니다."
+      },
+      {
+        "id": 2,
+        "en": "They walked up through the dark pine forests toward the Centaur's cave.",
+        "kr": "그들은 어두운 소나무 숲을 지나 켄타우로스의 동굴을 향해 걸어 올라갔습니다."
+      }
+    ]
+  },
+  {
+    "id": 384,
+    "tag": "P0384",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "And they came into the misty hall, beneath the snow-crowned crag; and saw the great Centaur lying, with his huge limbs spread upon the rock; and beside him stood Achilles, the child whom no steel could wound, and played upon his harp right sweetly, while Cheiron watched and smiled.",
+    "is_header": false,
+    "word_count": 49,
+    "translation": [
+      {
+        "id": 1,
+        "en": "They entered the misty hall beneath the snow-crowned cliff.",
+        "kr": "그들은 눈 덮인 절벽 아래 안개 낀 회랑으로 들어갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "The great Centaur lay there, resting his massive limbs on the rock.",
+        "kr": "거대한 켄타우로스는 바위 위에 크고 튼튼한 팔다리를 뻗고 누워 있었습니다."
+      },
+      {
+        "id": 3,
+        "en": "Beside him stood Achilles, the child whom no blade could wound.",
+        "kr": "어떤 칼날로도 상처 입힐 수 없는 소년 아킬레우스가 그의 곁에 서 있었습니다."
+      },
+      {
+        "id": 4,
+        "en": "The boy played his harp beautifully while Chiron watched and smiled.",
+        "kr": "소년이 아름답게 하프를 연주하는 동안 키론은 미소를 지으며 지켜보았습니다."
+      }
+    ]
+  },
+  {
+    "id": 385,
+    "tag": "P0385",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "Then Cheiron leapt up and welcomed them, and kissed them every one, and set a feast before them of swines flesh, and venison, and good wine; and young Achilles served them, and carried the golden goblet round.  And after supper all the heroes clapped their hands, and called on Orpheus to sing; but he refused, and said, How can I, who am the younger, sing before our ancient host?  So they called on Cheiron to sing, and Achilles brought him his harp; and he began a wondrous song; a famous story of old time, of the fight between the Centaurs and the Lapithai, which you may still see carved in stone. {96}  He sang how his brothers came to ruin by their folly, when they were mad with wine; and how they and the heroes fought, with fists, and teeth, and the goblets from which they drank; and how they tore up the pine-trees in their fury, and hurled great crags of stone, while the mountains thundered with the battle, and the land was wasted far and wide; till the Lapithai drove them from their home in the rich Thessalian plains to the lonely glens of Pindus, leaving Cheiron all alone.  And the heroes praised his song right heartily; for some of them had helped in that great fight.",
+    "is_header": false,
+    "word_count": 219,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Chiron leaped up to welcome them with a kiss for each hero.",
+        "kr": "키론은 벌떡 일어나 영웅들 하나하나에게 입을 맞추며 환영했습니다."
+      },
+      {
+        "id": 2,
+        "en": "He prepared a feast of pork, venison, and fine wine.",
+        "kr": "그는 돼지고기와 사슴고기, 그리고 훌륭한 포도주로 연회를 베풀었습니다."
+      },
+      {
+        "id": 3,
+        "en": "Young Achilles served the guests and carried the golden goblet around.",
+        "kr": "어린 아킬레우스가 손님들을 시중들며 황금 잔을 돌렸습니다."
+      },
+      {
+        "id": 4,
+        "en": "After supper, the heroes clapped and asked Orpheus to sing.",
+        "kr": "저녁 식사가 끝난 후, 영웅들은 박수를 치며 오르페우스에게 노래를 청했습니다."
+      },
+      {
+        "id": 5,
+        "en": "He refused, asking how someone so young could sing before their ancient host.",
+        "kr": "그는 어린 자신이 어찌 연로한 주인 앞에서 노래할 수 있겠냐며 거절했습니다."
+      },
+      {
+        "id": 6,
+        "en": "So they asked Chiron to sing, and Achilles brought him his harp.",
+        "kr": "그래서 그들은 키론에게 노래를 부탁했고, 아킬레우스는 그에게 하프를 가져왔습니다."
+      },
+      {
+        "id": 7,
+        "en": "He began a wondrous ancient song about the battle between the Centaurs and the Lapiths.",
+        "kr": "그는 켄타우로스와 라피테스 족 사이의 전투를 다룬 놀라운 옛 노래를 시작했습니다."
+      },
+      {
+        "id": 8,
+        "en": "You can still see this famous story carved into stone today.",
+        "kr": "오늘날에도 돌에 새겨진 이 유명한 이야기를 볼 수 있습니다."
+      },
+      {
+        "id": 9,
+        "en": "He sang of how his brothers were ruined by their own foolishness when maddened by wine.",
+        "kr": "그는 포도주에 취해 이성을 잃은 형제들이 자신들의 어리석음으로 어떻게 파멸했는지 노래했습니다."
+      },
+      {
+        "id": 10,
+        "en": "They fought the heroes using fists, teeth, and their drinking goblets.",
+        "kr": "그들은 주먹과 이빨, 그리고 마시던 술잔을 휘두르며 영웅들과 싸웠습니다."
+      },
+      {
+        "id": 11,
+        "en": "In their fury, they tore up pine trees and hurled massive rocks.",
+        "kr": "분노한 그들은 소나무를 뿌리째 뽑고 거대한 바위를 던졌습니다."
+      },
+      {
+        "id": 12,
+        "en": "The mountains thundered with the battle, and the land was laid waste.",
+        "kr": "전투의 굉음이 산을 울렸고 온 땅이 폐허로 변했습니다."
+      },
+      {
+        "id": 13,
+        "en": "Finally, the Lapiths drove them from the rich Thessalian plains to the lonely glens of Pindus.",
+        "kr": "마침내 라피테스 족은 그들을 비옥한 테살리아 평원에서 핀두스의 외딴 골짜기로 몰아냈습니다."
+      },
+      {
+        "id": 14,
+        "en": "This left Chiron all alone.",
+        "kr": "그렇게 키론은 완전히 혼자가 되었습니다."
+      },
+      {
+        "id": 15,
+        "en": "The heroes heartily praised his song, as some of them had fought in that great battle.",
+        "kr": "영웅들 중 일부는 그 위대한 전투에 참전했었기에 진심으로 그의 노래를 칭찬했습니다."
+      }
+    ]
+  },
+  {
+    "id": 386,
+    "tag": "P0386",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "Then Orpheus took the lyre, and sang of Chaos, and the making of the wondrous World, and how all things sprang from Love, who could not live alone in the Abyss.  And as he sang, his voice rose from the cave, above the crags, and through the tree-tops, and the glens of oak and pine.  And the trees bowed their heads when they heard it, and the gray rocks cracked and rang, and the forest beasts crept near to listen, and the birds forsook their nests and hovered round.  And old Cheiron claps his hands together, and beat his hoofs upon the ground, for wonder at that magic song.",
+    "is_header": false,
+    "word_count": 109,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Then Orpheus took the lyre and sang of Chaos and the creation of the wondrous world.",
+        "kr": "그러자 오르페우스가 수금을 들고 혼돈과 경이로운 세상의 창조에 대해 노래했습니다."
+      },
+      {
+        "id": 2,
+        "en": "He sang of how everything sprang from Love, who could not endure the lonely abyss.",
+        "kr": "그는 고독한 심연을 견디지 못한 사랑으로부터 어떻게 모든 것이 생겨났는지 불렀습니다."
+      },
+      {
+        "id": 3,
+        "en": "His voice soared from the cave, rising over the cliffs and through the treetops.",
+        "kr": "그의 목소리는 동굴에서 솟아올라 절벽을 넘고 나무 꼭대기를 가로질렀습니다."
+      },
+      {
+        "id": 4,
+        "en": "The melody echoed across the glens filled with oak and pine.",
+        "kr": "그 선율은 참나무와 소나무로 가득한 골짜기에 울려 퍼졌습니다."
+      },
+      {
+        "id": 5,
+        "en": "Hearing his voice, the trees bowed down, and the gray rocks cracked and rang.",
+        "kr": "그의 목소리를 듣고 나무들은 고개를 숙였고, 잿빛 바위는 갈라지며 공명했습니다."
+      },
+      {
+        "id": 6,
+        "en": "Forest beasts crept closer to listen, and birds left their nests to hover nearby.",
+        "kr": "숲의 짐승들은 노래를 듣기 위해 다가왔고, 새들은 둥지를 떠나 주위를 맴돌았습니다."
+      },
+      {
+        "id": 7,
+        "en": "Old Chiron clapped his hands and beat his hooves on the ground, amazed by the magic song.",
+        "kr": "늙은 키론은 그 마법 같은 노래에 감탄하여 박수를 치고 발굽으로 땅을 굴렀습니다."
+      }
+    ]
+  },
+  {
+    "id": 387,
+    "tag": "P0387",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "Then Peleus kissed his boy, and wept over him, and they went down to the ship; and Cheiron came down with them, weeping, and kissed them one by one, and blest them, and promised to them great renown.  And the heroes wept when they left him, till their great hearts could weep no more; for he was kind and just and pious, and wiser than all beasts and men.  Then he went up to a cliff, and prayed for them, that they might come home safe and well; while the heroes rowed away, and watched him standing on his cliff above the sea, with his great hands raised toward heaven, and his white locks waving in the wind; and they strained their eyes to watch him to the last, for they felt that they should look on him no more.",
+    "is_header": false,
+    "word_count": 140,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Peleus kissed his son and wept over him before going down to the ship.",
+        "kr": "펠레우스는 배로 내려가기 전 아들에게 입을 맞추고 눈물을 흘렸습니다."
+      },
+      {
+        "id": 2,
+        "en": "Chiron wept as he accompanied them, kissing and blessing each hero.",
+        "kr": "키론도 눈물을 흘리며 그들과 동행했고, 영웅들 하나하나에게 입을 맞추고 축복을 내렸습니다."
+      },
+      {
+        "id": 3,
+        "en": "He promised them that they would achieve great renown.",
+        "kr": "그는 영웅들이 엄청난 명성을 얻게 될 것이라고 약속했습니다."
+      },
+      {
+        "id": 4,
+        "en": "The heroes wept until their great hearts could shed no more tears.",
+        "kr": "영웅들은 거대한 심장이 더 이상 눈물을 흘리지 못할 때까지 울었습니다."
+      },
+      {
+        "id": 5,
+        "en": "Chiron was kind, just, and wiser than all other beasts and men.",
+        "kr": "키론은 친절하고 정의로우며 다른 어떤 짐승이나 사람보다 지혜로웠기 때문입니다."
+      },
+      {
+        "id": 6,
+        "en": "He climbed a cliff and prayed for their safe and healthy return.",
+        "kr": "그는 절벽에 올라 그들이 무사히 건강하게 돌아오기를 기도했습니다."
+      },
+      {
+        "id": 7,
+        "en": "The heroes rowed away, watching him stand on the cliff above the sea.",
+        "kr": "영웅들은 노를 저어 멀어지며 바다 위 절벽에 선 그를 지켜보았습니다."
+      },
+      {
+        "id": 8,
+        "en": "His great hands were raised toward heaven, and his white hair waved in the wind.",
+        "kr": "그의 커다란 두 손은 하늘을 향해 들려 있었고, 하얀 머리카락이 바람에 흩날렸습니다."
+      },
+      {
+        "id": 9,
+        "en": "They strained their eyes to watch him until he faded from sight.",
+        "kr": "그들은 그의 모습이 시야에서 사라질 때까지 눈을 떼지 못했습니다."
+      },
+      {
+        "id": 10,
+        "en": "They knew in their hearts that they would never see him again.",
+        "kr": "그들은 그를 다시는 볼 수 없으리라는 것을 마음속으로 알고 있었습니다."
+      }
+    ]
+  },
+  {
+    "id": 388,
+    "tag": "P0388",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "So they rowed on over the long swell of the sea, past Olympus, the seat of the Immortals, and past the wooded bays of Athos, and Samothrace the sacred isle; and they came past Lemnos to the Hellespont, and through the narrow strait of Abydos, and so on into the Propontis, which we call Marmora now.  And there they met with Cyzicus, ruling in Asia over the Dolions, who, the songs say, was the son of neas, of whom you will hear many a tale some day.  For Homer tells us how he fought at Troy, and Virgil how he sailed away and founded Rome; and men believed until late years that from him sprang our old British kings.  Now Cyzicus, the songs say, welcomed the heroes, for his father had been one of Cheirons scholars; so he welcomed them, and feasted them, and stored their ship with corn and wine, and cloaks and rugs, the songs say, and shirts, of which no doubt they stood in need.",
+    "is_header": false,
+    "word_count": 168,
+    "translation": [
+      {
+        "id": 1,
+        "en": "They rowed over the long ocean swells, passing Mount Olympus, home of the gods.",
+        "kr": "그들은 긴 바다의 파도를 타고 신들의 거처인 올림포스 산을 지나 노를 저었습니다."
+      },
+      {
+        "id": 2,
+        "en": "They sailed past the wooded bays of Athos and the sacred island of Samothrace.",
+        "kr": "그들은 아토스의 숲이 우거진 만과 신성한 섬 사모트라케를 지났습니다."
+      },
+      {
+        "id": 3,
+        "en": "Passing Lemnos, they entered the Hellespont and the narrow strait of Abydos.",
+        "kr": "렘노스를 지난 그들은 헬레스폰트와 아비도스의 좁은 해협으로 들어섰습니다."
+      },
+      {
+        "id": 4,
+        "en": "From there, they sailed into the Propontis, which we now call the Sea of Marmara.",
+        "kr": "그곳에서 그들은 오늘날 마르마라해라고 불리는 프로폰티스로 항해했습니다."
+      },
+      {
+        "id": 5,
+        "en": "There they met Cyzicus, who ruled over the Dolionians in Asia.",
+        "kr": "그곳에서 그들은 아시아의 돌리오니아인들을 다스리는 키지코스를 만났습니다."
+      },
+      {
+        "id": 6,
+        "en": "The old songs say he was the son of Aeneas, a famous hero with many legends.",
+        "kr": "옛 노래에 따르면 그는 수많은 전설을 남긴 유명한 영웅 아이네이아스의 아들이었다고 합니다."
+      },
+      {
+        "id": 7,
+        "en": "Homer tells of his battles at Troy, and Virgil describes how he founded Rome.",
+        "kr": "호메로스는 그가 트로이에서 치른 전투를 이야기하고, 베르길리우스는 그가 어떻게 로마를 세웠는지 묘사합니다."
+      },
+      {
+        "id": 8,
+        "en": "For many years, people believed that early British kings descended from him.",
+        "kr": "오랜 세월 동안 사람들은 초기 영국의 왕들이 그의 후손이라고 믿었습니다."
+      },
+      {
+        "id": 9,
+        "en": "Legends say Cyzicus welcomed the heroes because his father had studied under Chiron.",
+        "kr": "전설에 따르면 키지코스의 아버지가 키론에게서 배웠기 때문에 그가 영웅들을 환영했다고 합니다."
+      },
+      {
+        "id": 10,
+        "en": "He hosted a grand feast and generously supplied their ship.",
+        "kr": "그는 성대한 연회를 열고 그들의 배에 물자를 아낌없이 채워주었습니다."
+      },
+      {
+        "id": 11,
+        "en": "He gave them much-needed grain, wine, cloaks, rugs, and fresh shirts.",
+        "kr": "그는 그들에게 꼭 필요했던 곡물, 포도주, 망토, 깔개, 그리고 새 셔츠를 주었습니다."
+      }
+    ]
+  },
+  {
+    "id": 389,
+    "tag": "P0389",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "But at night, while they lay sleeping, came down on them terrible men, who lived with the bears in the mountains, like Titans or giants in shape; for each of them had six arms, and they fought with young firs and pines.  But Heracles killed them all before morn with his deadly poisoned arrows; but among them, in the darkness, he slew Cyzicus the kindly prince.",
+    "is_header": false,
+    "word_count": 66,
+    "translation": [
+      {
+        "id": 1,
+        "en": "But at night, while they lay sleeping, terrible men came down on them from the mountains.",
+        "kr": "하지만 밤이 되어 그들이 잠든 사이, 산에서 끔찍한 사내들이 습격해 왔습니다."
+      },
+      {
+        "id": 2,
+        "en": "These men lived with the bears and looked like Titans or giants.",
+        "kr": "이들은 곰들과 함께 살았으며 마치 타이탄이나 거인 같은 모습이었습니다."
+      },
+      {
+        "id": 3,
+        "en": "Each of them had six arms, and they fought using young fir and pine trees as weapons.",
+        "kr": "모두 여섯 개의 팔을 가졌고, 어린 전나무와 소나무를 무기 삼아 싸웠습니다."
+      },
+      {
+        "id": 4,
+        "en": "Before morning, Heracles killed them all with his deadly poisoned arrows.",
+        "kr": "날이 밝기 전, 헤라클레스는 치명적인 독화살로 그들을 모두 쓰러뜨렸습니다."
+      },
+      {
+        "id": 5,
+        "en": "Tragically, in the darkness, he also slew the kindly prince Cyzicus.",
+        "kr": "하지만 비극적이게도 어둠 속에서 그만 친절한 왕자 키지코스까지 죽이고 말았습니다."
+      }
+    ]
+  },
+  {
+    "id": 390,
+    "tag": "P0390",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "Then they got to their ship and to their oars, and Tiphys bade them cast off the hawsers and go to sea.  But as he spoke a whirlwind came, and spun the _Argo_ round, and twisted the hawsers together, so that no man could loose them.  Then Tiphys dropped the rudder from his hand, and cried, This comes from the Gods above.  But Jason went forward, and asked counsel of the magic bough.",
+    "is_header": false,
+    "word_count": 73,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Then they returned to their ship and took to their oars.",
+        "kr": "그 후 일행은 배로 돌아가 노를 잡았습니다."
+      },
+      {
+        "id": 2,
+        "en": "Tiphys ordered them to cast off the ropes and head out to sea.",
+        "kr": "티피스는 밧줄을 풀고 바다로 나가라고 명령했습니다."
+      },
+      {
+        "id": 3,
+        "en": "But as he spoke, a whirlwind spun the Argo around and twisted the ropes tightly together.",
+        "kr": "하지만 그가 말하는 순간 회오리바람이 불어와 아르고호를 회전시켰고, 밧줄을 단단히 꼬아버렸습니다."
+      },
+      {
+        "id": 4,
+        "en": "No man could loosen them.",
+        "kr": "아무도 그 밧줄을 풀 수 없었습니다."
+      },
+      {
+        "id": 5,
+        "en": "Tiphys dropped the rudder from his hand and cried, This comes from the Gods above.",
+        "kr": "티피스는 손에서 방향타를 놓으며, 이것은 하늘의 신들이 내린 일이라고 소리쳤습니다."
+      },
+      {
+        "id": 6,
+        "en": "Jason went forward and asked the magic bough for guidance.",
+        "kr": "이아손은 앞으로 나아가 마법의 나뭇가지에게 조언을 구했습니다."
+      }
+    ]
+  },
+  {
+    "id": 391,
+    "tag": "P0391",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "Then the magic bough spoke, and answered, This is because you have slain Cyzicus your friend.  You must appease his soul, or you will never leave this shore.",
+    "is_header": false,
+    "word_count": 28,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The magic bough answered, This is because you have slain your friend Cyzicus.",
+        "kr": "마법의 나뭇가지가 대답하기를, 이것은 당신들이 친구인 키지코스를 죽였기 때문이라고 했습니다."
+      },
+      {
+        "id": 2,
+        "en": "You must appease his soul, or you will never leave this shore.",
+        "kr": "그의 영혼을 달래주지 않으면 결코 이 해안을 떠날 수 없을 것이라고도 했습니다."
+      }
+    ]
+  },
+  {
+    "id": 392,
+    "tag": "P0392",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "Jason went back sadly, and told the heroes what he had heard.  And they leapt on shore, and searched till dawn; and at dawn they found the body, all rolled in dust and blood, among the corpses of those monstrous beasts.  And they wept over their kind host, and laid him on a fair bed, and heaped a huge mound over him, and offered black sheep at his tomb, and Orpheus sang a magic song to him, that his spirit might have rest. And then they held games at the tomb, after the custom of those times, and Jason gave prizes to each winner.  To Ancus he gave a golden cup, for he wrestled best of all; and to Heracles a silver one, for he was the strongest of all; and to Castor, who rode best, a golden crest; and Polydeuces the boxer had a rich carpet, and to Orpheus for his song a sandal with golden wings.  But Jason himself was the best of all the archers, and the Minuai crowned him with an olive crown; and so, the songs say, the soul of good Cyzicus was appeased and the heroes went on their way in peace.",
+    "is_header": false,
+    "word_count": 198,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Jason went back sadly and told the heroes what he had heard.",
+        "kr": "이아손은 슬픈 얼굴로 돌아와 영웅들에게 자신이 들은 이야기를 전했습니다."
+      },
+      {
+        "id": 2,
+        "en": "They leapt onto the shore and searched until dawn.",
+        "kr": "그들은 해안으로 뛰어내려 동이 틀 때까지 찾아 헤매었습니다."
+      },
+      {
+        "id": 3,
+        "en": "At dawn they found the body, covered in dust and blood, among the corpses of the monstrous beasts.",
+        "kr": "새벽녘에 그들은 괴물 같은 짐승들의 시체 사이에서 먼지와 피투성이가 된 시신을 발견했습니다."
+      },
+      {
+        "id": 4,
+        "en": "They wept over their kind host and laid him on a beautiful bed.",
+        "kr": "그들은 친절했던 주인을 위해 눈물을 흘리며 그를 아름다운 침상에 뉘었습니다."
+      },
+      {
+        "id": 5,
+        "en": "They heaped a huge mound over him and offered black sheep at his tomb.",
+        "kr": "그 위로 거대한 흙무덤을 쌓아 올리고, 무덤 앞에서 검은 양을 제물로 바쳤습니다."
+      },
+      {
+        "id": 6,
+        "en": "Orpheus sang a magic song to him, so that his spirit might find rest.",
+        "kr": "오르페우스는 그의 영혼이 안식을 찾을 수 있도록 마법의 노래를 불렀습니다."
+      },
+      {
+        "id": 7,
+        "en": "Then they held funeral games at the tomb, following the custom of those times.",
+        "kr": "그리고 그 시절의 관습에 따라 무덤 곁에서 장례 경기를 열었습니다."
+      },
+      {
+        "id": 8,
+        "en": "Jason gave prizes to each winner.",
+        "kr": "이아손은 각 경기의 우승자에게 상을 주었습니다."
+      },
+      {
+        "id": 9,
+        "en": "He gave a golden cup to Ancaeus, who wrestled the best.",
+        "kr": "씨름을 가장 잘한 안카이오스에게는 황금 잔을 주었습니다."
+      },
+      {
+        "id": 10,
+        "en": "Heracles received a silver cup, as he was the strongest of all.",
+        "kr": "가장 힘이 셌던 헤라클레스는 은 잔을 받았습니다."
+      },
+      {
+        "id": 11,
+        "en": "Castor, who rode best, won a golden crest.",
+        "kr": "승마 솜씨가 제일 뛰어났던 카스토르는 황금 장식을 받았습니다."
+      },
+      {
+        "id": 12,
+        "en": "Polydeuces the boxer received a rich carpet.",
+        "kr": "권투 선수인 폴리데우케스는 화려한 양탄자를 차지했습니다."
+      },
+      {
+        "id": 13,
+        "en": "Orpheus was rewarded with a golden-winged sandal for his song.",
+        "kr": "오르페우스는 노래에 대한 보답으로 황금 날개가 달린 샌들을 받았습니다."
+      },
+      {
+        "id": 14,
+        "en": "But Jason himself was the best of all the archers.",
+        "kr": "하지만 이아손 자신이 모든 궁수 중 가장 뛰어났습니다."
+      },
+      {
+        "id": 15,
+        "en": "The Minyans crowned him with an olive wreath.",
+        "kr": "미니아스인들은 그에게 올리브 화관을 씌워 주었습니다."
+      },
+      {
+        "id": 16,
+        "en": "Thus, the songs say, the soul of good Cyzicus was appeased.",
+        "kr": "전해지는 노래에 따르면, 이리하여 선량한 키지코스의 영혼이 달래졌다고 합니다."
+      },
+      {
+        "id": 17,
+        "en": "The heroes then went on their way in peace.",
+        "kr": "그 후 영웅들은 평온하게 길을 떠났습니다."
+      }
+    ]
+  },
+  {
+    "id": 393,
+    "tag": "P0393",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "But when Cyzicus wife heard that he was dead she died likewise of grief; and her tears became a fountain of clear water, which flows the whole year round.",
+    "is_header": false,
+    "word_count": 29,
+    "translation": [
+      {
+        "id": 1,
+        "en": "When Cyzicus's wife heard that he was dead, she died of grief as well.",
+        "kr": "남편이 죽었다는 소식을 들은 키지코스의 아내 역시 슬픔을 이기지 못하고 세상을 떠났습니다."
+      },
+      {
+        "id": 2,
+        "en": "Her tears became a fountain of clear water, which flows year-round.",
+        "kr": "그녀의 눈물은 맑은 샘물이 되어 일 년 내내 흐르고 있습니다."
+      }
+    ]
+  },
+  {
+    "id": 394,
+    "tag": "P0394",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "Then they rowed away, the songs say, along the Mysian shore, and past the mouth of Rhindacus, till they found a pleasant bay, sheltered by the long ridges of Arganthus, and by high walls of basalt rock.  And there they ran the ship ashore upon the yellow sand, and furled the sail, and took the mast down, and lashed it in its crutch.  And next they let down the ladder, and went ashore to sport and rest.",
+    "is_header": false,
+    "word_count": 77,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The songs say they rowed along the Mysian shore and past the mouth of the Rhindacus.",
+        "kr": "전설에 따르면, 그들은 미시아 해안을 따라 린다코스 강어귀를 지나 노를 저어갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "They eventually found a pleasant bay sheltered by the long ridges of Arganthus and high walls of basalt rock.",
+        "kr": "마침내 그들은 아르간토스의 긴 능선과 높은 현무암 절벽으로 둘러싸인 아늑한 만을 발견했습니다."
+      },
+      {
+        "id": 3,
+        "en": "They ran the ship ashore onto the yellow sand, furled the sail, and took down the mast to lash it in its crutch.",
+        "kr": "그들은 노란 모래사장에 배를 대고 돛을 접은 뒤, 돛대를 내려 받침대에 단단히 묶었습니다."
+      },
+      {
+        "id": 4,
+        "en": "Next, they let down the ladder and went ashore to rest and play.",
+        "kr": "그러고 나서 사다리를 내리고 뭍으로 올라가 휴식을 취하며 즐거운 시간을 보냈습니다."
+      }
+    ]
+  },
+  {
+    "id": 395,
+    "tag": "P0395",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "And there Heracles went away into the woods, bow in hand, to hunt wild deer; and Hylas the fair boy slipt away after him, and followed him by stealth, until he lost himself among the glens, and sat down weary to rest himself by the side of a lake; and there the water nymphs came up to look at him, and loved him, and carried him down under the lake to be their playfellow, for ever happy and young.  And Heracles sought for him in vain, shouting his name till all the mountains rang; but Hylas never heard him, far down under the sparkling lake.  So while Heracles wandered searching for him, a fair breeze sprang up, and Heracles was nowhere to be found; and the _Argo_ sailed away, and Heracles was left behind, and never saw the noble Phasian stream.",
+    "is_header": false,
+    "word_count": 141,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Heracles went into the woods with his bow to hunt wild deer.",
+        "kr": "헤라클레스는 야생 사슴을 사냥하기 위해 활을 들고 숲으로 들어갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "The beautiful boy Hylas slipped away and stealthily followed him.",
+        "kr": "아름다운 소년 힐라스가 남몰래 빠져나와 그의 뒤를 쫓았습니다."
+      },
+      {
+        "id": 3,
+        "en": "Hylas soon lost his way among the glens and sat down wearily by a lake to rest.",
+        "kr": "곧 골짜기에서 길을 잃은 힐라스는 지친 몸을 이끌고 호숫가에 주저앉아 쉬었습니다."
+      },
+      {
+        "id": 4,
+        "en": "The water nymphs came up to look at him and instantly fell in love.",
+        "kr": "물의 요정들이 그를 보러 수면 위로 올라왔다가 첫눈에 반하고 말았습니다."
+      },
+      {
+        "id": 5,
+        "en": "They carried him down beneath the lake to be their playmate, forever happy and young.",
+        "kr": "그들은 영원히 젊고 행복하게 함께 놀기 위해 소년을 호수 밑바닥으로 데려갔습니다."
+      },
+      {
+        "id": 6,
+        "en": "Heracles searched for him in vain, shouting his name until the mountains rang.",
+        "kr": "헤라클레스는 산이 쩌렁쩌렁 울리도록 소년의 이름을 부르며 찾아 헤매었으나 헛수고였습니다."
+      },
+      {
+        "id": 7,
+        "en": "Far down under the sparkling lake, Hylas never heard his calls.",
+        "kr": "반짝이는 호수 저 깊은 곳에 있는 힐라스에게는 그 목소리가 닿지 않았습니다."
+      },
+      {
+        "id": 8,
+        "en": "While Heracles wandered in search of the boy, a fair breeze sprang up.",
+        "kr": "헤라클레스가 소년을 찾아 헤매는 동안 순조로운 바람이 불기 시작했습니다."
+      },
+      {
+        "id": 9,
+        "en": "When Heracles could not be found, the Argo sailed away without him.",
+        "kr": "헤라클레스가 끝내 돌아오지 않자, 아르고 호는 그를 남겨둔 채 출항해 버렸습니다."
+      },
+      {
+        "id": 10,
+        "en": "Thus, Heracles was left behind and never saw the noble Phasis River.",
+        "kr": "결국 홀로 남겨진 헤라클레스는 그 장엄한 파시스 강을 영영 보지 못했습니다."
+      }
+    ]
+  },
+  {
+    "id": 396,
+    "tag": "P0396",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "Then the Minuai came to a doleful land, where Amycus the giant ruled, and cared nothing for the laws of Zeus, but challenged all strangers to box with him, and those whom he conquered he slew.  But Polydeuces the boxer struck him a harder blow than he ever felt before, and slew him; and the Minuai went on up the Bosphorus, till they came to the city of Phineus, the fierce Bithynian king; for Zetes and Calais bade Jason land there, because they had a work to do.",
+    "is_header": false,
+    "word_count": 88,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The Minyans then arrived at a mournful land ruled by the giant Amycus.",
+        "kr": "그 후 미니아이 사람들은 거인 아미코스가 지배하는 음울한 땅에 도착했습니다."
+      },
+      {
+        "id": 2,
+        "en": "He cared nothing for the laws of Zeus and challenged all strangers to a boxing match, slaying those he defeated.",
+        "kr": "그는 제우스의 법칙을 무시한 채 낯선 이들에게 권투 시합을 걸어 패자들을 모조리 죽여버렸습니다."
+      },
+      {
+        "id": 3,
+        "en": "However, the expert boxer Polydeuces struck the giant with a crushing blow and killed him.",
+        "kr": "하지만 뛰어난 권투 선수 폴리데우케스가 뼈가 부서질 듯한 강력한 일격을 날려 거인을 쓰러뜨렸습니다."
+      },
+      {
+        "id": 4,
+        "en": "The Argonauts continued up the Bosphorus until they reached the city of Phineus, the fierce Bithynian king.",
+        "kr": "아르고 호 원정대는 보스포루스 해협을 거슬러 올라가 맹렬한 비티니아의 왕 피네우스의 도시에 닿았습니다."
+      },
+      {
+        "id": 5,
+        "en": "Zetes and Calais had urged Jason to land there because they had a task to fulfill.",
+        "kr": "제테스와 칼라이스는 자신들이 완수해야 할 임무가 있다며 이아손에게 그곳에 상륙하자고 재촉했습니다."
+      }
+    ]
+  },
+  {
+    "id": 397,
+    "tag": "P0397",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "And they went up from the shore toward the city, through forests white with snow; and Phineus came out to meet them with a lean and woful face, and said, ‘Welcome, gallant heroes, to the land of bitter blasts, the land of cold and misery; yet I will feast you as best I can.’  And he led them in, and set meat before them; but before they could put their hands to their mouths, down came two fearful monsters, the like of whom man never saw; for they had the faces and the hair of fair maidens, but the wings and claws of hawks; and they snatched the meat from off the table, and flew shrieking out above the roofs.",
+    "is_header": false,
+    "word_count": 120,
+    "translation": [
+      {
+        "id": 1,
+        "en": "They walked from the shore toward the city through forests white with snow.",
+        "kr": "그들은 해안에서 출발해 눈 덮인 하얀 숲을 지나 도시를 향해 걸어갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "Phineus came out to meet them with a gaunt and sorrowful face.",
+        "kr": "피네우스가 수척하고 슬픈 얼굴로 나와 그들을 맞이했습니다."
+      },
+      {
+        "id": 3,
+        "en": "Welcome, gallant heroes, to the land of bitter blasts, cold, and misery, he said.",
+        "kr": "용감한 영웅들이여, 살을 에는 듯한 칼바람과 추위, 그리고 고통의 땅에 오신 것을 환영합니다, 그가 말했습니다."
+      },
+      {
+        "id": 4,
+        "en": "Yet I will feast you as best as I can.",
+        "kr": "하지만 최선을 다해 여러분을 대접하겠습니다."
+      },
+      {
+        "id": 5,
+        "en": "He led them inside and set meat before them on the table.",
+        "kr": "왕은 그들을 안으로 안내하여 고기를 식탁에 차려주었습니다."
+      },
+      {
+        "id": 6,
+        "en": "But before they could take a single bite, two fearful monsters swooped down.",
+        "kr": "그러나 그들이 한 입 베어 물기도 전에 끔찍한 두 괴물이 쏜살같이 내려왔습니다."
+      },
+      {
+        "id": 7,
+        "en": "These creatures had the faces and hair of fair maidens, but the wings and claws of hawks.",
+        "kr": "그 생물들은 아름다운 처녀의 얼굴과 머리카락을 가졌지만, 매의 날개와 발톱을 하고 있었습니다."
+      },
+      {
+        "id": 8,
+        "en": "They snatched the meat from the table and flew shrieking away above the roofs.",
+        "kr": "괴물들은 식탁에서 고기를 낚아채더니 날카로운 비명을 지르며 지붕 위로 날아가 버렸습니다."
+      }
+    ]
+  },
+  {
+    "id": 398,
+    "tag": "P0398",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "Then Phineus beat his breast and cried, ‘These are the Harpies, whose names are the Whirlwind and the Swift, the daughters of Wonder and of the Amber-nymph, and they rob us night and day.  They carried off the daughters of Pandareus, whom all the Gods had blest; for Aphrodite fed them on Olympus with honey and milk and wine; and Hera gave them beauty and wisdom, and Athené skill in all the arts; but when they came to their wedding, the Harpies snatched them both away, and gave them to be slaves to the Erinnues, and live in horror all their days.  And now they haunt me, and my people, and the Bosphorus, with fearful storms; and sweep away our food from off our tables, so that we starve in spite of all our wealth.’",
+    "is_header": false,
+    "word_count": 135,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Phineus beat his chest in despair and cried out.",
+        "kr": "피네우스는 절망에 빠져 가슴을 치며 울부짖었습니다."
+      },
+      {
+        "id": 2,
+        "en": "These are the Harpies, the daughters of Wonder and the Amber-nymph.",
+        "kr": "이들은 경이로움의 신과 호박의 요정 사이에서 태어난 딸들, 바로 하르피이아이입니다."
+      },
+      {
+        "id": 3,
+        "en": "Their names are Whirlwind and Swift, and they rob us night and day.",
+        "kr": "돌풍과 발빠름이라는 이름을 가진 이 괴물들은 밤낮을 가리지 않고 우리를 약탈합니다."
+      },
+      {
+        "id": 4,
+        "en": "They once carried off the blessed daughters of Pandareus.",
+        "kr": "그들은 과거에 신들의 축복을 받은 판다레오스의 딸들도 납치해 갔습니다."
+      },
+      {
+        "id": 5,
+        "en": "Aphrodite had fed those girls on Olympus with honey, milk, and wine.",
+        "kr": "아프로디테는 올림포스에서 그 소녀들에게 꿀과 우유, 포도주를 먹여 키웠습니다."
+      },
+      {
+        "id": 6,
+        "en": "Hera gave them beauty and wisdom, while Athena taught them skill in all the arts.",
+        "kr": "헤라는 아름다움과 지혜를, 아테나는 모든 예술의 재능을 주었습니다."
+      },
+      {
+        "id": 7,
+        "en": "But on their wedding day, the Harpies snatched them away to be slaves to the Furies.",
+        "kr": "그러나 결혼식 날, 하르피이아이가 신부들을 낚아채 복수의 여신들의 노예로 만들어 버렸습니다."
+      },
+      {
+        "id": 8,
+        "en": "The poor girls were forced to live in horror for the rest of their days.",
+        "kr": "가엾은 소녀들은 평생을 끔찍한 공포 속에서 살아야만 했습니다."
+      },
+      {
+        "id": 9,
+        "en": "Now they haunt me, my people, and the Bosphorus with fearful storms.",
+        "kr": "이제 그 괴물들은 무서운 폭풍우를 몰고 와 저와 제 백성, 그리고 보스포루스 해협을 끈질기게 괴롭힙니다."
+      },
+      {
+        "id": 10,
+        "en": "They sweep the food from our tables, leaving us to starve despite all our wealth.",
+        "kr": "그들은 우리 식탁의 음식마저 모조리 휩쓸어 가버려서, 우리는 아무리 부유해도 굶주려야만 합니다."
+      }
+    ]
+  },
+  {
+    "id": 399,
+    "tag": "P0399",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "Then up rose Zetes and Calais, the winged sons of the North-wind, and said, ?~Do you not know us, Phineus, and these wings which grow upon our backs??T  And Phineus hid his face in terror; but he answered not a word.",
+    "is_header": false,
+    "word_count": 41,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Then Zetes and Calais, the winged sons of the North Wind, stood up.",
+        "kr": "그러자 북풍의 날개 달린 아들들인 제테스와 칼라이스가 일어났습니다."
+      },
+      {
+        "id": 2,
+        "en": "They asked, Do you not know us, Phineus, and these wings on our backs?",
+        "kr": "그들이 물었습니다. 피네우스, 우리와 우리 등에서 자라난 이 날개들을 알아보지 못하시겠습니까?"
+      },
+      {
+        "id": 3,
+        "en": "Phineus hid his face in terror, but he did not answer a word.",
+        "kr": "피네우스는 공포에 질려 얼굴을 숨겼지만, 한마디도 대답하지 못했습니다."
+      }
+    ]
+  },
+  {
+    "id": 400,
+    "tag": "P0400",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "?~Because you have been a traitor, Phineus, the Harpies haunt you night and day.  Where is Cleopatra our sister, your wife, whom you keep in prison? and where are her two children, whom you blinded in your rage, at the bidding of an evil woman, and cast them out upon the rocks?  Swear to us that you will right our sister, and cast out that wicked woman; and then we will free you from your plague, and drive the whirlwind maidens to the south; but if not, we will put out your eyes, as you put out the eyes of your own sons.?T",
+    "is_header": false,
+    "word_count": 103,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Because you have been a traitor, Phineus, the Harpies haunt you night and day.",
+        "kr": "당신이 배신자였기 때문에 하피들이 밤낮으로 당신을 괴롭히는 것입니다, 피네우스."
+      },
+      {
+        "id": 2,
+        "en": "Where is our sister Cleopatra, your wife, whom you keep in prison?",
+        "kr": "당신이 감옥에 가둬둔 당신의 아내이자 우리 누이인 클레오파트라는 어디 있습니까?"
+      },
+      {
+        "id": 3,
+        "en": "Where are her two children, whom you blinded in rage and cast upon the rocks?",
+        "kr": "사악한 여자의 꼬임에 넘어가 분노로 눈을 멀게 하고 바위 위에 내다 버린 두 아이는 어디 있습니까?"
+      },
+      {
+        "id": 4,
+        "en": "Swear that you will restore our sister and banish that wicked woman.",
+        "kr": "우리 누이의 권리를 되찾아 주고 그 사악한 여자를 내쫓겠다고 맹세하십시오."
+      },
+      {
+        "id": 5,
+        "en": "Then we will free you from your plague and drive the winged maidens south.",
+        "kr": "그러면 우리가 당신을 그 재앙에서 구해주고 날개 달린 처녀들을 남쪽으로 쫓아내겠습니다."
+      },
+      {
+        "id": 6,
+        "en": "If not, we will put out your eyes just as you blinded your own sons.",
+        "kr": "만약 그렇지 않으면, 당신이 친아들들의 눈을 멀게 한 것처럼 우리도 당신의 눈을 멀게 할 것입니다."
+      }
+    ]
+  },
+  {
+    "id": 401,
+    "tag": "P0401",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "Then Phineus swore an oath to them, and drove out the wicked woman; and Jason took those two poor children, and cured their eyes with magic herbs.",
+    "is_header": false,
+    "word_count": 27,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Phineus swore an oath to them and drove out the wicked woman.",
+        "kr": "피네우스는 그들에게 맹세하고 사악한 여자를 쫓아냈습니다."
+      },
+      {
+        "id": 2,
+        "en": "Jason took those two poor children and cured their eyes with magic herbs.",
+        "kr": "이아손은 그 두 불쌍한 아이들을 데려와 마법의 약초로 눈을 치료해주었습니다."
+      }
+    ]
+  },
+  {
+    "id": 402,
+    "tag": "P0402",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "But Zetes and Calais rose up sadly and said, ?~Farewell now, heroes all; farewell, our dear companions, with whom we played on Pelion in old times; for a fate is laid upon us, and our day is come at last, in which we must hunt the whirlwinds over land and sea for ever; and if we catch them they die, and if not, we die ourselves.?T",
+    "is_header": false,
+    "word_count": 66,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Zetes and Calais stood up sadly.",
+        "kr": "제테스와 칼라이스는 슬프게 일어났습니다."
+      },
+      {
+        "id": 2,
+        "en": "Farewell now, all you heroes.",
+        "kr": "이제 안녕히 계십시오, 모든 영웅들이여."
+      },
+      {
+        "id": 3,
+        "en": "Farewell, our dear companions, with whom we played on Mount Pelion in the old days.",
+        "kr": "우리가 옛날 펠리온 산에서 함께 놀았던 사랑하는 동료들이여, 안녕히 계십시오."
+      },
+      {
+        "id": 4,
+        "en": "A tragic fate is laid upon us, and our time has finally come.",
+        "kr": "우리에게 비극적인 운명이 주어졌고, 마침내 우리의 때가 왔습니다."
+      },
+      {
+        "id": 5,
+        "en": "We must hunt the whirlwinds over land and sea forever.",
+        "kr": "우리는 영원히 육지와 바다를 넘어 회오리바람을 쫓아야만 합니다."
+      },
+      {
+        "id": 6,
+        "en": "If we catch them, they die, but if we fail, we die ourselves.",
+        "kr": "우리가 그들을 잡으면 그들이 죽지만, 우리가 실패하면 우리 스스로가 죽게 됩니다."
+      }
+    ]
+  },
+  {
+    "id": 403,
+    "tag": "P0403",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "At that all the heroes wept; but the two young men sprang up, and aloft into the air after the Harpies, and the battle of the winds began.",
+    "is_header": false,
+    "word_count": 28,
+    "translation": [
+      {
+        "id": 1,
+        "en": "At that, all the heroes wept.",
+        "kr": "그 말에 모든 영웅들이 눈물을 흘렸습니다."
+      },
+      {
+        "id": 2,
+        "en": "The two young men sprang high into the air to chase the Harpies.",
+        "kr": "두 청년은 하피들을 쫓기 위해 공중으로 높이 뛰어올랐습니다."
+      },
+      {
+        "id": 3,
+        "en": "Thus, the great battle of the winds began.",
+        "kr": "이렇게 하여 바람들의 거대한 전투가 시작되었습니다."
+      }
+    ]
+  },
+  {
+    "id": 404,
+    "tag": "P0404",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "The heroes trembled in silence as they heard the shrieking of the blasts; while the palace rocked and all the city, and great stones were torn from the crags, and the forest pines were hurled earthward, north and south and east and west, and the Bosphorus boiled white with foam, and the clouds were dashed against the cliffs.",
+    "is_header": false,
+    "word_count": 58,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The heroes trembled in silence as they heard the shrieking of the blasts.",
+        "kr": "영웅들은 비명을 지르는 듯한 강풍 소리를 들으며 말없이 떨었습니다."
+      },
+      {
+        "id": 2,
+        "en": "The palace and the whole city rocked from the fierce wind.",
+        "kr": "사나운 바람에 궁전과 도시 전체가 흔들렸습니다."
+      },
+      {
+        "id": 3,
+        "en": "Great stones were torn from the crags, and forest pines were hurled to the ground in every direction.",
+        "kr": "커다란 돌들이 절벽에서 떨어져 나갔고, 숲의 소나무들은 사방으로 내동댕이쳐졌습니다."
+      },
+      {
+        "id": 4,
+        "en": "The Bosphorus boiled white with foam, and clouds crashed against the cliffs.",
+        "kr": "보스포루스 해협은 하얀 거품을 일으키며 끓어올랐고, 구름은 절벽에 부딪혔습니다."
+      }
+    ]
+  },
+  {
+    "id": 405,
+    "tag": "P0405",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "But at last the battle ended, and the Harpies fled screaming toward the south, and the sons of the North-wind rushed after them, and brought clear sunshine where they passed.  For many a league they followed them, over all the isles of the Cyclades, and away to the south-west across Hellas, till they came to the Ionian Sea, and there they fell upon the Echinades, at the mouth of the Achelous; and those isles were called the Whirlwind Isles for many a hundred years.  But what became of Zetes and Calais I know not, for the heroes never saw them again: and some say that Heracles met them, and quarrelled with them, and slew them with his arrows; and some say that they fell down from weariness and the heat of the summer sun, and that the Sun-god buried them among the Cyclades, in the pleasant Isle of Tenos; and for many hundred years their grave was shown there, and over it a pillar, which turned to every wind.  But those dark storms and whirlwinds haunt the Bosphorus until this day.",
+    "is_header": false,
+    "word_count": 181,
+    "translation": [
+      {
+        "id": 1,
+        "en": "At last the battle ended.",
+        "kr": "마침내 전투가 끝났습니다."
+      },
+      {
+        "id": 2,
+        "en": "The Harpies fled screaming toward the south.",
+        "kr": "하피들은 비명을 지르며 남쪽으로 도망쳤습니다."
+      },
+      {
+        "id": 3,
+        "en": "The sons of the North Wind rushed after them, bringing clear sunshine wherever they passed.",
+        "kr": "북풍의 아들들이 그들을 바짝 뒤쫓았고, 그들이 지나간 자리에는 맑은 햇살이 비쳤습니다."
+      },
+      {
+        "id": 4,
+        "en": "They chased the monsters for many miles over the Cyclades islands.",
+        "kr": "그들은 키클라데스 제도 너머로 수 마일 동안 괴물들을 추격했습니다."
+      },
+      {
+        "id": 5,
+        "en": "They crossed Greece to the southwest until they reached the Ionian Sea.",
+        "kr": "그들은 그리스를 가로질러 남서쪽으로 날아가 마침내 이오니아 해에 이르렀습니다."
+      },
+      {
+        "id": 6,
+        "en": "There they finally caught them at the Echinades islands, near the mouth of the Achelous river.",
+        "kr": "그들은 아켈로오스 강 어귀에 있는 에키나데스 제도에서 마침내 그들을 붙잡았습니다."
+      },
+      {
+        "id": 7,
+        "en": "Those islands were called the Whirlwind Isles for many centuries.",
+        "kr": "그 섬들은 수백 년 동안 회오리바람 섬이라고 불렸습니다."
+      },
+      {
+        "id": 8,
+        "en": "I do not know what became of Zetes and Calais, for the heroes never saw them again.",
+        "kr": "영웅들이 그들을 다시는 보지 못했기 때문에, 저는 제테스와 칼라이스에게 무슨 일이 일어났는지 모릅니다."
+      },
+      {
+        "id": 9,
+        "en": "Some say that Heracles met them, argued with them, and killed them with his arrows.",
+        "kr": "어떤 사람들은 헤라클레스가 그들을 만나 다투다가 자신의 화살로 죽였다고 말합니다."
+      },
+      {
+        "id": 10,
+        "en": "Others say they collapsed from weariness and the heat of the summer sun.",
+        "kr": "또 다른 사람들은 그들이 피로와 여름 햇빛의 열기에 지쳐 쓰러졌다고 말합니다."
+      },
+      {
+        "id": 11,
+        "en": "They believe the Sun God buried them among the Cyclades in the pleasant island of Tenos.",
+        "kr": "태양신이 그들을 키클라데스 제도의 아름다운 테노스 섬에 묻어주었다고 믿습니다."
+      },
+      {
+        "id": 12,
+        "en": "For many centuries, their grave was shown there with a pillar that turned to face every wind.",
+        "kr": "수백 년 동안 그곳에는 그들의 무덤이 있었고, 그 위에는 모든 바람을 향해 도는 기둥이 세워져 있었습니다."
+      },
+      {
+        "id": 13,
+        "en": "But those dark storms and whirlwinds still haunt the Bosphorus to this day.",
+        "kr": "하지만 그 어두운 폭풍과 회오리바람은 오늘날까지도 보스포루스 해협에 출몰합니다."
+      }
+    ]
+  },
+  {
+    "id": 406,
+    "tag": "P0406",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "But the Argonauts went eastward, and out into the open sea, which we now call the Black Sea, but it was called the Euxine then.  No Hellen had ever crossed it, and all feared that dreadful sea, and its rocks, and shoals, and fogs, and bitter freezing storms; and they told strange stories of it, some false and some half-true, how it stretched northward to the ends of the earth, and the sluggish Putrid Sea, and the everlasting night, and the regions of the dead.  So the heroes trembled, for all their courage, as they came into that wild Black Sea, and saw it stretching out before them, without a shore, as far as eye could see.",
+    "is_header": false,
+    "word_count": 117,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The Argonauts sailed eastward into the open sea.",
+        "kr": "아르고 호 원정대는 동쪽으로 항해하여 탁 트인 바다로 나아갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "We now call it the Black Sea, but back then it was known as the Euxine.",
+        "kr": "우리는 지금 그곳을 흑해라고 부르지만, 당시에는 에욱시노스라고 알려져 있었습니다."
+      },
+      {
+        "id": 3,
+        "en": "No Greek had ever crossed it before.",
+        "kr": "이전에 그곳을 건넌 그리스인은 아무도 없었습니다."
+      },
+      {
+        "id": 4,
+        "en": "Everyone feared that dreadful sea with its jagged rocks, hidden shoals, thick fogs, and freezing storms.",
+        "kr": "모두가 뾰족한 바위, 숨겨진 얕은 여울, 짙은 안개, 얼어붙을 듯한 폭풍이 있는 그 무서운 바다를 두려워했습니다."
+      },
+      {
+        "id": 5,
+        "en": "They told strange stories about it, some false and some half-true.",
+        "kr": "그들은 그것에 대해 거짓도 있고 반쯤 진실인 이상한 이야기들을 나누었습니다."
+      },
+      {
+        "id": 6,
+        "en": "They claimed it stretched northward to the ends of the earth and the sluggish Putrid Sea.",
+        "kr": "그들은 그 바다가 북쪽으로 지구 끝과 고여 있는 썩은 바다까지 뻗어 있다고 주장했습니다."
+      },
+      {
+        "id": 7,
+        "en": "They believed it led to everlasting night and the realm of the dead.",
+        "kr": "그들은 그곳이 영원한 밤과 죽은 자들의 왕국으로 이어진다고 믿었습니다."
+      },
+      {
+        "id": 8,
+        "en": "So despite all their courage, the heroes trembled as they entered that wild Black Sea.",
+        "kr": "그래서 그들의 모든 용기에도 불구하고, 영웅들은 그 거친 흑해에 들어서며 몸을 떨었습니다."
+      },
+      {
+        "id": 9,
+        "en": "They saw it stretching out endlessly before them, without a single shore in sight.",
+        "kr": "그들은 해안 하나 보이지 않고 눈앞에 끝없이 펼쳐진 바다를 보았습니다."
+      }
+    ]
+  },
+  {
+    "id": 407,
+    "tag": "P0407",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "And first Orpheus spoke, and warned them, We shall come now to the wandering blue rocks; my mother warned me of them, Calliope, the immortal muse.",
+    "is_header": false,
+    "word_count": 26,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Orpheus spoke first to warn them.",
+        "kr": "오르페우스가 먼저 나서서 그들에게 경고했습니다."
+      },
+      {
+        "id": 2,
+        "en": "We will soon reach the wandering blue rocks.",
+        "kr": "우리는 곧 떠돌아다니는 푸른 바위들에 도착할 것입니다."
+      },
+      {
+        "id": 3,
+        "en": "My mother, the immortal muse Calliope, warned me about them.",
+        "kr": "불멸의 무사이 여신인 제 어머니 칼리오페께서 그것들에 대해 제게 경고하셨습니다."
+      }
+    ]
+  },
+  {
+    "id": 408,
+    "tag": "P0408",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "And soon they saw the blue rocks shining like spires and castles of gray glass, while an ice-cold wind blew from them and chilled all the heroes hearts.  And as they neared they could see them heaving, as they rolled upon the long sea-waves, crashing and grinding together, till the roar went up to heaven.  The sea sprang up in spouts between them, and swept round them in white sheets of foam; but their heads swung nodding high in air, while the wind whistled shrill among the crags.",
+    "is_header": false,
+    "word_count": 88,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Soon they saw the blue rocks shining like tall spires and castles made of gray glass.",
+        "kr": "곧 그들은 회색 유리로 만들어진 높은 첨탑과 성처럼 빛나는 푸른 바위들을 보았습니다."
+      },
+      {
+        "id": 2,
+        "en": "An ice-cold wind blew from the rocks and chilled the hearts of all the heroes.",
+        "kr": "얼음처럼 차가운 바람이 바위에서 불어와 모든 영웅들의 가슴을 서늘하게 했습니다."
+      },
+      {
+        "id": 3,
+        "en": "As they drew nearer, they could see the massive rocks heaving on the long ocean waves.",
+        "kr": "그들이 더 가까이 다가가자, 거대한 바위들이 긴 바다 물결 위에서 들썩이는 것을 볼 수 있었습니다."
+      },
+      {
+        "id": 4,
+        "en": "The rocks rolled and crashed together with a deafening roar that reached the heavens.",
+        "kr": "바위들은 구르며 부딪혔고, 하늘까지 닿을 듯한 귀를 찢는 굉음을 냈습니다."
+      },
+      {
+        "id": 5,
+        "en": "The sea sprayed high into the air between them and swept around them in white sheets of foam.",
+        "kr": "바다 물결은 바위들 사이로 높이 솟구쳤고, 하얀 거품을 일으키며 주변을 휩쓸었습니다."
+      },
+      {
+        "id": 6,
+        "en": "The towering peaks of the rocks swung violently in the air.",
+        "kr": "바위의 우뚝 솟은 봉우리들이 공중에서 격렬하게 흔들렸습니다."
+      },
+      {
+        "id": 7,
+        "en": "Meanwhile, the fierce wind whistled shrilly through the jagged crags.",
+        "kr": "그동안 사나운 바람은 뾰족한 절벽 사이로 날카로운 소리를 내며 불었습니다."
+      }
+    ]
+  },
+  {
+    "id": 409,
+    "tag": "P0409",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "The heroes' hearts sank within them, and they lay upon their oars in fear; but Orpheus called to Tiphys the helmsman, 'Between them we must pass; so look ahead for an opening, and be brave, for Hera is with us.' But Tiphys the cunning helmsman stood silent, clenching his teeth, till he saw a heron come flying mast-high toward the rocks, and hover awhile before them, as if looking for a passage through.  Then he cried, 'Hera has sent us a pilot; let us follow the cunning bird.'",
+    "is_header": false,
+    "word_count": 88,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The heroes' hearts sank, and they rested on their oars in fear.",
+        "kr": "영웅들은 가슴이 철렁 내려앉아 두려움에 노에 기대어 가만히 있었습니다."
+      },
+      {
+        "id": 2,
+        "en": "But Orpheus called to Tiphys the helmsman.",
+        "kr": "하지만 오르페우스가 조타수 티피스에게 외쳤습니다."
+      },
+      {
+        "id": 3,
+        "en": "We must pass between them, so look ahead for an opening.",
+        "kr": "우리는 저 사이를 지나가야 하니 뚫고 나갈 길을 찾아보십시오."
+      },
+      {
+        "id": 4,
+        "en": "Be brave, for Hera is with us.",
+        "kr": "헤라 여신께서 우리와 함께하시니 용기를 내십시오."
+      },
+      {
+        "id": 5,
+        "en": "The clever helmsman stood silent, clenching his teeth.",
+        "kr": "영리한 조타수 티피스는 이를 악문 채 침묵을 지키며 서 있었습니다."
+      },
+      {
+        "id": 6,
+        "en": "Soon he saw a heron flying toward the rocks at mast-height.",
+        "kr": "이내 그는 왜가리 한 마리가 바위를 향해 돛대 높이로 날아오는 것을 보았습니다."
+      },
+      {
+        "id": 7,
+        "en": "It hovered before them as if looking for a passage through.",
+        "kr": "새는 마치 빠져나갈 길을 찾는 것처럼 그들 앞에서 잠시 맴돌았습니다."
+      },
+      {
+        "id": 8,
+        "en": "Then he cried, Hera has sent us a pilot!",
+        "kr": "그러자 그가 소리쳤습니다. 헤라 여신께서 우리에게 길잡이를 보내주셨소!"
+      },
+      {
+        "id": 9,
+        "en": "Let us follow the cunning bird.",
+        "kr": "저 영리한 새를 따라갑시다."
+      }
+    ]
+  },
+  {
+    "id": 410,
+    "tag": "P0410",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "Then the heron flapped to and fro a moment, till he saw a hidden gap, and into it he rushed like an arrow, while the heroes watched what would befall.",
+    "is_header": false,
+    "word_count": 30,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The heron flapped back and forth for a moment.",
+        "kr": "왜가리는 잠시 이리저리 날갯짓을 했습니다."
+      },
+      {
+        "id": 2,
+        "en": "It soon saw a hidden gap and rushed into it like an arrow.",
+        "kr": "이내 숨겨진 틈을 발견한 새는 화살처럼 그곳으로 돌진했습니다."
+      },
+      {
+        "id": 3,
+        "en": "The heroes watched closely to see what would happen.",
+        "kr": "영웅들은 무슨 일이 벌어질지 유심히 지켜보았습니다."
+      }
+    ]
+  },
+  {
+    "id": 411,
+    "tag": "P0411",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "And the blue rocks clashed together as the bird fled swiftly through; but they struck but a feather from his tail, and then rebounded apart at the shock.",
+    "is_header": false,
+    "word_count": 28,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The blue rocks clashed together as the bird fled swiftly through.",
+        "kr": "새가 날쌔게 빠져나갈 때 푸른 바위들이 쿵 하고 맞부딪혔습니다."
+      },
+      {
+        "id": 2,
+        "en": "They only struck a single feather from its tail.",
+        "kr": "하지만 바위들은 꼬리 깃털 하나만을 스치고 지나갔을 뿐이었습니다."
+      },
+      {
+        "id": 3,
+        "en": "The rocks then rebounded apart from the powerful shock.",
+        "kr": "그러고 나서 바위들은 그 엄청난 충격에 다시 튕겨 나갔습니다."
+      }
+    ]
+  },
+  {
+    "id": 412,
+    "tag": "P0412",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "Then Tiphys cheered the heroes, and they shouted; and the oars bent like withes beneath their strokes as they rushed between those toppling ice-crags and the cold blue lips of death.  And ere the rocks could meet again they had passed them, and were safe out in the open sea.",
+    "is_header": false,
+    "word_count": 50,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Tiphys cheered the heroes on, and they shouted in return.",
+        "kr": "티피스가 영웅들을 격려하자 그들도 함성을 질렀습니다."
+      },
+      {
+        "id": 2,
+        "en": "The oars bent like willow branches beneath their powerful strokes.",
+        "kr": "그들의 힘찬 노젓기에 노가 버드나무 가지처럼 휘어졌습니다."
+      },
+      {
+        "id": 3,
+        "en": "They rushed between the toppling ice-crags and the cold blue lips of death.",
+        "kr": "그들은 무너져 내리는 얼음 절벽과 차갑고 푸른 죽음의 입술 사이로 돌진했습니다."
+      },
+      {
+        "id": 4,
+        "en": "Before the rocks could meet again, they had passed safely through.",
+        "kr": "바위가 다시 만나기 전에 그들은 무사히 그곳을 통과했습니다."
+      },
+      {
+        "id": 5,
+        "en": "Finally, they were completely safe out in the open sea.",
+        "kr": "마침내 그들은 탁 트인 바다로 나와 완전히 안전해졌습니다."
+      }
+    ]
+  },
+  {
+    "id": 413,
+    "tag": "P0413",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "And after that they sailed on wearily along the Asian coast, by the Black Cape and Thyneis, where the hot stream of Thymbris falls into the sea, and Sangarius, whose waters float on the Euxine, till they came to Wolf the river, and to Wolf the kindly king.  And there died two brave heroes, Idmon and Tiphys the wise helmsman: one died of an evil sickness, and one a wild boar slew.  So the heroes heaped a mound above them, and set upon it an oar on high, and left them there to sleep together, on the far-off Lycian shore.  But Idas killed the boar, and avenged Tiphys; and Ancaios took the rudder and was helmsman, and steered them on toward the east.",
+    "is_header": false,
+    "word_count": 123,
+    "translation": [
+      {
+        "id": 1,
+        "en": "After that, they sailed wearily along the Asian coast.",
+        "kr": "그 후 그들은 아시아 해안을 따라 지친 몸을 이끌고 항해했습니다."
+      },
+      {
+        "id": 2,
+        "en": "They passed the Black Cape and Thyneis, where the hot stream of Thymbris falls into the sea.",
+        "kr": "그들은 팀브리스의 뜨거운 물줄기가 바다로 떨어지는 검은 곶과 티네이스를 지났습니다."
+      },
+      {
+        "id": 3,
+        "en": "They also passed the Sangarius River, whose waters float on the Euxine Sea.",
+        "kr": "또한 흑해 위를 떠다니는 상가리우스 강도 지나갔습니다."
+      },
+      {
+        "id": 4,
+        "en": "At last, they reached the Wolf River and met Wolf, the kindly king.",
+        "kr": "마침내 그들은 늑대 강에 도착하여 친절한 늑대 왕을 만났습니다."
+      },
+      {
+        "id": 5,
+        "en": "There, two brave heroes, Idmon and Tiphys the wise helmsman, tragically died.",
+        "kr": "그곳에서 두 명의 용감한 영웅인 이드몬과 지혜로운 조타수 티피스가 비극적인 죽음을 맞이했습니다."
+      },
+      {
+        "id": 6,
+        "en": "One died of a terrible sickness, and a wild boar slew the other.",
+        "kr": "한 명은 끔찍한 병으로 죽었고, 다른 한 명은 멧돼지에게 목숨을 잃었습니다."
+      },
+      {
+        "id": 7,
+        "en": "The heroes heaped a burial mound above them and set a tall oar upon it.",
+        "kr": "영웅들은 그들 위에 무덤을 쌓아 올리고 그 위에 높은 노를 세웠습니다."
+      },
+      {
+        "id": 8,
+        "en": "They left them there to sleep together on the distant Lycian shore.",
+        "kr": "그리고 머나먼 리키아 해안에서 두 사람이 함께 잠들도록 남겨두었습니다."
+      },
+      {
+        "id": 9,
+        "en": "But Idas killed the boar and avenged Tiphys.",
+        "kr": "하지만 이다스는 멧돼지를 죽여 티피스의 복수를 했습니다."
+      },
+      {
+        "id": 10,
+        "en": "Ancaeus then took the rudder, becoming the new helmsman.",
+        "kr": "안카이오스가 키를 잡아 새로운 조타수가 되었습니다."
+      },
+      {
+        "id": 11,
+        "en": "He steered the ship onward toward the east.",
+        "kr": "그는 동쪽을 향해 배를 몰았습니다."
+      }
+    ]
+  },
+  {
+    "id": 414,
+    "tag": "P0414",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "And they went on past Sinope, and many a mighty river?Ts mouth, and past many a barbarous tribe, and the cities of the Amazons, the warlike women of the East, till all night they heard the clank of anvils and the roar of furnace-blasts, and the forge-fires shone like sparks through the darkness in the mountain glens aloft; for they were come to the shores of the Chalybes, the smiths who never tire, but serve Ares the cruel War-god, forging weapons day and night.",
+    "is_header": false,
+    "word_count": 84,
+    "translation": [
+      {
+        "id": 1,
+        "en": "They sailed past Sinope, numerous mighty river mouths, and many foreign tribes.",
+        "kr": "그들은 시노페와 수많은 거대한 강어귀, 그리고 많은 이국적인 부족들을 지나쳐 항해했습니다."
+      },
+      {
+        "id": 2,
+        "en": "They passed the cities of the Amazons, the fierce warrior women of the East.",
+        "kr": "그리고 동방의 사나운 여전사들인 아마존족의 도시들을 지나쳤습니다."
+      },
+      {
+        "id": 3,
+        "en": "All night they heard the clank of anvils and the roar of furnace blasts.",
+        "kr": "밤새도록 모루를 두드리는 소리와 용광로가 뿜어내는 굉음이 들려왔습니다."
+      },
+      {
+        "id": 4,
+        "en": "Forge fires shone like sparks through the darkness in the mountain glens above.",
+        "kr": "저 위쪽 산골짜기에서는 대장간의 불빛이 어둠 속에서 불꽃처럼 빛났습니다."
+      },
+      {
+        "id": 5,
+        "en": "They had reached the shores of the Chalybes, the tireless smiths.",
+        "kr": "그들은 지칠 줄 모르는 대장장이들인 칼리베스족의 해안에 도착한 것이었습니다."
+      },
+      {
+        "id": 6,
+        "en": "These smiths forged weapons day and night to serve Ares, the cruel god of war.",
+        "kr": "이 대장장이들은 잔혹한 전쟁의 신 아레스를 모시며 밤낮으로 무기를 만들었습니다."
+      }
+    ]
+  },
+  {
+    "id": 415,
+    "tag": "P0415",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "And at day-dawn they looked eastward, and midway between the sea and the sky they saw white snow-peaks hanging, glittering sharp and bright above the clouds.  And they knew that they were come to Caucasus, at the end of all the earth: Caucasus the highest of all mountains, the father of the rivers of the East.  On his peak lies chained the Titan, while a vulture tears his heart; and at his feet are piled dark forests round the magic Colchian land.",
+    "is_header": false,
+    "word_count": 82,
+    "translation": [
+      {
+        "id": 1,
+        "en": "At dawn they looked eastward and saw white snow peaks hanging between sea and sky.",
+        "kr": "동이 트자 그들은 동쪽을 바라보았고, 바다와 하늘 사이에 새하얀 설봉들이 떠 있는 것을 보았습니다."
+      },
+      {
+        "id": 2,
+        "en": "The peaks glittered sharply and brightly above the clouds.",
+        "kr": "그 봉우리들은 구름 위에서 날카롭고 눈부시게 반짝였습니다."
+      },
+      {
+        "id": 3,
+        "en": "They knew they had reached the Caucasus mountains at the very end of the earth.",
+        "kr": "그들은 세상의 끝에 있는 코카서스산맥에 도착했다는 것을 깨달았습니다."
+      },
+      {
+        "id": 4,
+        "en": "The Caucasus was the highest of all mountains and the father of Eastern rivers.",
+        "kr": "코카서스는 모든 산 중에서 가장 높았으며 동방으로 흐르는 강들의 아버지였습니다."
+      },
+      {
+        "id": 5,
+        "en": "A Titan lay chained on its peak while a vulture tore at his heart.",
+        "kr": "그 산 정상에는 티탄족 하나가 사슬에 묶인 채 독수리에게 심장을 뜯기고 있었습니다."
+      },
+      {
+        "id": 6,
+        "en": "Below its feet, dark forests surrounded the magical land of Colchis.",
+        "kr": "그 산기슭 아래로는 마법의 땅 콜키스를 둘러싼 울창하고 어두운 숲이 펼쳐져 있었습니다."
+      }
+    ]
+  },
+  {
+    "id": 416,
+    "tag": "P0416",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "And they rowed three days to the eastward, while Caucasus rose higher hour by hour, till they saw the dark stream of Phasis rushing headlong to the sea, and, shining above the tree-tops, the golden roofs of King Aietes, the child of the Sun.",
+    "is_header": false,
+    "word_count": 44,
+    "translation": [
+      {
+        "id": 1,
+        "en": "They rowed eastward for three days as the Caucasus rose higher every hour.",
+        "kr": "그들은 사흘 동안 동쪽으로 노를 저었고, 코카서스산맥은 시간마다 더 높이 솟아올랐습니다."
+      },
+      {
+        "id": 2,
+        "en": "Finally, they saw the dark stream of the Phasis river rushing wildly into the sea.",
+        "kr": "마침내 그들은 바다로 거세게 흘러드는 파시스강의 어두운 물줄기를 보았습니다."
+      },
+      {
+        "id": 3,
+        "en": "Above the treetops shone the golden roofs of King Aeetes, child of the Sun.",
+        "kr": "그리고 나무 꼭대기 위로는 태양의 아들 아이에테스 왕의 황금빛 지붕들이 빛나고 있었습니다."
+      }
+    ]
+  },
+  {
+    "id": 417,
+    "tag": "P0417",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "Then out spoke Ancaios the helmsman, ?~We are come to our goal at last, for there are the roofs of Aietes, and the woods where all poisons grow; but who can tell us where among them is hid the golden fleece?  Many a toil must we bear ere we find it, and bring it home to Greece.?T",
+    "is_header": false,
+    "word_count": 57,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Then Ancaeus the helmsman spoke up to the crew.",
+        "kr": "그때 조타수 안카이오스가 선원들에게 말했습니다."
+      },
+      {
+        "id": 2,
+        "en": "We have finally reached our goal, for there are the roofs of Aeetes.",
+        "kr": "우리는 마침내 목적지에 도달했소. 저기에 아이에테스의 지붕들이 보이기 때문이오."
+      },
+      {
+        "id": 3,
+        "en": "There are the woods where all deadly poisons grow.",
+        "kr": "모든 치명적인 독초들이 자라는 숲도 저기에 있소."
+      },
+      {
+        "id": 4,
+        "en": "But who can tell us where the Golden Fleece is hidden among them?",
+        "kr": "하지만 그 숲 어디에 황금 양모가 숨겨져 있는지 누가 우리에게 말해줄 수 있겠소?"
+      },
+      {
+        "id": 5,
+        "en": "We must endure many hardships before we find it and bring it home to Greece.",
+        "kr": "그것을 찾아 그리스의 고향으로 가져가기 전까지 우리는 많은 고난을 견뎌내야만 할 것이오."
+      }
+    ]
+  },
+  {
+    "id": 418,
+    "tag": "P0418",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "But Jason cheered the heroes, for his heart was high and bold; and he said, ?~I will go alone up to Aietes, though he be the child of the Sun, and win him with soft words.  Better so than to go altogether, and to come to blows at once.?T  But the Minuai would not stay behind, so they rowed boldly up the stream.",
+    "is_header": false,
+    "word_count": 63,
+    "translation": [
+      {
+        "id": 1,
+        "en": "But Jason cheered the heroes, for his heart was courageous and bold.",
+        "kr": "하지만 이아손은 용감하고 대담한 마음씨를 지녔기에 영웅들을 격려했습니다."
+      },
+      {
+        "id": 2,
+        "en": "I will go up to Aeetes alone, even though he is the child of the Sun.",
+        "kr": "그가 비록 태양의 아들이라 할지라도, 나 홀로 아이에테스에게 올라가겠소."
+      },
+      {
+        "id": 3,
+        "en": "I will try to win him over with gentle words.",
+        "kr": "부드러운 말로 그를 설득해 보도록 하겠소."
+      },
+      {
+        "id": 4,
+        "en": "This is better than going all together and starting a fight immediately.",
+        "kr": "다 함께 몰려가 단번에 싸움을 벌이는 것보다 이 편이 나을 것이오."
+      },
+      {
+        "id": 5,
+        "en": "But the Minyans refused to stay behind, so they rowed boldly up the stream.",
+        "kr": "그러나 미니아이 사람들은 뒤에 남기를 거부했고, 이내 대담하게 강을 거슬러 노를 저어갔습니다."
+      }
+    ]
+  },
+  {
+    "id": 419,
+    "tag": "P0419",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "And a dream came to Aietes, and filled his heart with fear.  He thought he saw a shining star, which fell into his daughter’s lap; and that Medeia his daughter took it gladly, and carried it to the river-side, and cast it in, and there the whirling river bore it down, and out into the Euxine Sea.",
+    "is_header": false,
+    "word_count": 57,
+    "translation": [
+      {
+        "id": 1,
+        "en": "A dream came to Aietes and filled his heart with fear.",
+        "kr": "아이이에테스에게 꿈이 찾아와 그의 마음을 두려움으로 가득 채웠습니다."
+      },
+      {
+        "id": 2,
+        "en": "He dreamed a shining star fell into his daughter's lap.",
+        "kr": "그는 빛나는 별이 딸의 무릎 위로 떨어지는 꿈을 꾸었습니다."
+      },
+      {
+        "id": 3,
+        "en": "His daughter Medea gladly carried it to the river and threw it in.",
+        "kr": "그의 딸 메데이아는 기뻐하며 그것을 강으로 가져가 던졌습니다."
+      },
+      {
+        "id": 4,
+        "en": "The whirling river carried it down and out into the Euxine Sea.",
+        "kr": "소용돌이치는 강물은 그것을 흑해로 실어 보냈습니다."
+      }
+    ]
+  },
+  {
+    "id": 420,
+    "tag": "P0420",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "Then he leapt up in fear, and bade his servants bring his chariot, that he might go down to the river-side and appease the nymphs, and the heroes whose spirits haunt the bank.  So he went down in his golden chariot, and his daughters by his side, Medeia the fair witch-maiden, and Chalciope, who had been Phrixus’ wife, and behind him a crowd of servants and soldiers, for he was a rich and mighty prince.",
+    "is_header": false,
+    "word_count": 75,
+    "translation": [
+      {
+        "id": 1,
+        "en": "He leaped up in fear and ordered his servants to bring his chariot.",
+        "kr": "그는 두려움에 벌떡 일어나 하인들에게 전차를 가져오라고 명령했습니다."
+      },
+      {
+        "id": 2,
+        "en": "He wanted to go to the river to appease the nymphs and spirits of the bank.",
+        "kr": "그는 강으로 가서 님프들과 강둑에 머무는 영혼들을 달래고 싶었습니다."
+      },
+      {
+        "id": 3,
+        "en": "He rode down in his golden chariot with his daughters beside him.",
+        "kr": "그는 딸들을 곁에 태우고 황금 전차를 타고 내려갔습니다."
+      },
+      {
+        "id": 4,
+        "en": "These were the fair witch Medea and Chalciope, the widow of Phrixus.",
+        "kr": "딸들은 아름다운 마녀 메데이아와 프릭소스의 미망인인 칼키오페였습니다."
+      },
+      {
+        "id": 5,
+        "en": "A crowd of servants and soldiers followed the rich and mighty prince.",
+        "kr": "수많은 하인과 군인들이 이 부유하고 강력한 왕자의 뒤를 따랐습니다."
+      }
+    ]
+  },
+  {
+    "id": 421,
+    "tag": "P0421",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "And as he drove down by the reedy river he saw _Argo_ sliding up beneath the bank, and many a hero in her, like Immortals for beauty and for strength, as their weapons glittered round them in the level morning sunlight, through the white mist of the stream.  But Jason was the noblest of all; for Hera, who loved him, gave him beauty and tallness and terrible manhood.",
+    "is_header": false,
+    "word_count": 68,
+    "translation": [
+      {
+        "id": 1,
+        "en": "As he drove by the river, he saw the Argo gliding near the bank.",
+        "kr": "강가를 달리던 중 그는 아르고 호가 강둑 근처로 미끄러지듯 다가오는 것을 보았습니다."
+      },
+      {
+        "id": 2,
+        "en": "Many heroes were inside, looking like immortals in beauty and strength.",
+        "kr": "그 안에는 아름다움과 힘에서 불멸의 신들과 같은 많은 영웅들이 있었습니다."
+      },
+      {
+        "id": 3,
+        "en": "Their weapons glittered in the morning sunlight through the white mist.",
+        "kr": "그들의 무기는 하얀 안개 너머 아침 햇살을 받아 반짝였습니다."
+      },
+      {
+        "id": 4,
+        "en": "Jason was the noblest of all.",
+        "kr": "이아손은 그중에서도 가장 고귀해 보였습니다."
+      },
+      {
+        "id": 5,
+        "en": "Hera loved him and gave him great beauty, height, and fierce manhood.",
+        "kr": "헤라가 그를 사랑하여 뛰어난 아름다움과 큰 키, 그리고 늠름한 남성미를 주었기 때문입니다."
+      }
+    ]
+  },
+  {
+    "id": 422,
+    "tag": "P0422",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "And when they came near together and looked into each other’s eyes the heroes were awed before Aietes as he shone in his chariot, like his father the glorious Sun; for his robes were of rich gold tissue, and the rays of his diadem flashed fire; and in his hand he bore a jewelled sceptre, which glittered like the stars; and sternly he looked at them under his brows, and sternly he spoke and loud—",
+    "is_header": false,
+    "word_count": 75,
+    "translation": [
+      {
+        "id": 1,
+        "en": "When they came near, the heroes were awed by Aietes.",
+        "kr": "가까이 다가갔을 때, 영웅들은 아이이에테스를 보고 경외감에 사로잡혔습니다."
+      },
+      {
+        "id": 2,
+        "en": "He shone in his chariot like his father, the glorious Sun.",
+        "kr": "그는 자신의 아버지인 영광스러운 태양처럼 전차 안에서 빛나고 있었습니다."
+      },
+      {
+        "id": 3,
+        "en": "His robes were made of rich gold tissue.",
+        "kr": "그의 옷은 화려한 금실로 짜여 있었습니다."
+      },
+      {
+        "id": 4,
+        "en": "The rays of his crown flashed with fire.",
+        "kr": "그가 쓴 왕관의 빛은 불꽃처럼 번쩍였습니다."
+      },
+      {
+        "id": 5,
+        "en": "He held a jewelled scepter that glittered like the stars.",
+        "kr": "그는 별처럼 반짝이는 보석 장식의 홀을 들고 있었습니다."
+      },
+      {
+        "id": 6,
+        "en": "He looked at them sternly and spoke in a loud voice.",
+        "kr": "그는 엄격한 눈빛으로 그들을 바라보며 큰 소리로 말했습니다."
+      }
+    ]
+  },
+  {
+    "id": 423,
+    "tag": "P0423",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "‘Who are you, and what want you here, that you come to the shore of Cutaia?  Do you take no account of my rule, nor of my people the Colchians who serve me, who never tired yet in the battle, and know well how to face an invader?’",
+    "is_header": false,
+    "word_count": 48,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Who are you, and what do you want on the shores of Cutaia?",
+        "kr": "너희는 누구이며, 쿠타이아 해안에 와서 무엇을 바라는 것이냐?"
+      },
+      {
+        "id": 2,
+        "en": "Do you have no respect for my rule or my Colchian people?",
+        "kr": "너희는 나의 통치와 나를 섬기는 콜키스 백성들이 두렵지도 않단 말이냐?"
+      },
+      {
+        "id": 3,
+        "en": "We never tire in battle and know how to face an invader.",
+        "kr": "우리는 전투에서 결코 지치지 않으며 침략자에 맞서는 법을 잘 알고 있다."
+      }
+    ]
+  },
+  {
+    "id": 424,
+    "tag": "P0424",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "And the heroes sat silent awhile before the face of that ancient king. But Hera the awful goddess put courage into Jason’s heart, and he rose and shouted loudly in answer, ‘We are no pirates nor lawless men.  We come not to plunder and to ravage, or carry away slaves from your land; but my uncle, the son of Poseidon, Pelias the Minuan king, he it is who has set me on a quest to bring home the golden fleece.  And these too, my bold comrades, they are no nameless men; for some are the sons of Immortals, and some of heroes far renowned.  And we too never tire in battle, and know well how to give blows and to take: yet we wish to be guests at your table: it will be better so for both.’",
+    "is_header": false,
+    "word_count": 137,
+    "translation": [
+      {
+        "id": 1,
+        "en": "The heroes sat silently for a moment before the ancient king.",
+        "kr": "영웅들은 그 늙은 왕 앞에서 잠시 말없이 앉아 있었습니다."
+      },
+      {
+        "id": 2,
+        "en": "But the awe-inspiring goddess Hera put courage into Jason's heart.",
+        "kr": "하지만 경외감을 자아내는 여신 헤라가 이아손의 마음에 용기를 불어넣었습니다."
+      },
+      {
+        "id": 3,
+        "en": "He stood up and shouted his answer boldly.",
+        "kr": "그는 자리에서 일어나 담대하게 소리쳐 대답했습니다."
+      },
+      {
+        "id": 4,
+        "en": "We are neither pirates nor lawless men.",
+        "kr": "우리는 해적도 무법자도 아닙니다."
+      },
+      {
+        "id": 5,
+        "en": "We have not come to plunder, destroy, or take slaves from your land.",
+        "kr": "우리는 당신의 땅을 약탈하거나 파괴하거나 노예를 잡아가려고 온 것이 아닙니다."
+      },
+      {
+        "id": 6,
+        "en": "My uncle Pelias, the Minyan king and son of Poseidon, sent me on a quest.",
+        "kr": "포세이돈의 아들이자 미니아스의 왕인 제 삼촌 펠리아스가 저에게 임무를 맡겼습니다."
+      },
+      {
+        "id": 7,
+        "en": "He commanded me to bring the golden fleece back home.",
+        "kr": "그는 제게 황금 양모를 고향으로 가져오라고 명령했습니다."
+      },
+      {
+        "id": 8,
+        "en": "My brave comrades here are not nameless men, either.",
+        "kr": "여기 있는 제 용감한 동료들도 이름 없는 자들이 아닙니다."
+      },
+      {
+        "id": 9,
+        "en": "Some are sons of immortals, and others are famous heroes.",
+        "kr": "어떤 이들은 불멸의 신들의 아들이고, 또 어떤 이들은 널리 알려진 영웅들입니다."
+      },
+      {
+        "id": 10,
+        "en": "We never tire in battle and know exactly how to fight.",
+        "kr": "우리는 전투에서 결코 지치지 않으며 싸우는 법을 아주 잘 알고 있습니다."
+      },
+      {
+        "id": 11,
+        "en": "Yet we wish to be peaceful guests at your table.",
+        "kr": "하지만 우리는 당신의 식탁에서 평화로운 손님이 되고 싶습니다."
+      },
+      {
+        "id": 12,
+        "en": "This will be much better for both of us.",
+        "kr": "그것이 우리 양측 모두에게 훨씬 나을 것입니다."
+      }
+    ]
+  },
+  {
+    "id": 425,
+    "tag": "P0425",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "Then Aietes’ race rushed up like a whirlwind, and his eyes flashed fire as he heard; but he crushed his anger down in his breast, and spoke mildly a cunning speech—",
+    "is_header": false,
+    "word_count": 31,
+    "translation": [
+      {
+        "id": 1,
+        "en": "King Aeetes's anger flared like a whirlwind.",
+        "kr": "아이에테스 왕의 분노가 회오리바람처럼 치솟았습니다."
+      },
+      {
+        "id": 2,
+        "en": "His eyes flashed with fire as he listened.",
+        "kr": "그의 눈은 이야기를 듣는 내내 불꽃처럼 번쩍였습니다."
+      },
+      {
+        "id": 3,
+        "en": "But he forced his rage down and spoke a cunning response mildly.",
+        "kr": "하지만 그는 분노를 억누르고 온화한 태도로 교활한 대답을 꺼냈습니다."
+      }
+    ]
+  },
+  {
+    "id": 426,
+    "tag": "P0426",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "‘If you will fight for the fleece with my Colchians, then many a man must die.  But do you indeed expect to win from me the fleece in fight?  So few you are that if you be worsted I can load your ship with your corpses.  But if you will be ruled by me, you will find it better far to choose the best man among you, and let him fulfil the labours which I demand.  Then I will give him the golden fleece for a prize and a glory to you all.’",
+    "is_header": false,
+    "word_count": 93,
+    "translation": [
+      {
+        "id": 1,
+        "en": "If you fight my Colchian warriors for the fleece, many men will die.",
+        "kr": "당신들이 황금 양모를 두고 콜키스 전사들과 싸운다면 많은 사람이 죽을 것이오."
+      },
+      {
+        "id": 2,
+        "en": "Do you truly expect to win the fleece from me in battle?",
+        "kr": "당신들은 정말 전투를 통해 내게서 양모를 얻을 수 있다고 생각하시오?"
+      },
+      {
+        "id": 3,
+        "en": "You have so few men that I could fill your ship with your corpses.",
+        "kr": "당신들은 수가 너무 적어서 패배하면 당신들의 시체로 배를 채울 수도 있소."
+      },
+      {
+        "id": 4,
+        "en": "But if you listen to me, you will find a much better way.",
+        "kr": "하지만 내 제안을 따른다면 훨씬 더 나은 방법을 찾을 수 있을 것이오."
+      },
+      {
+        "id": 5,
+        "en": "Choose the best man among you.",
+        "kr": "당신들 중에서 가장 훌륭한 자를 고르시오."
+      },
+      {
+        "id": 6,
+        "en": "Let him complete the tasks that I demand.",
+        "kr": "그리고 그가 내가 요구하는 과업들을 완수하게 하시오."
+      },
+      {
+        "id": 7,
+        "en": "If he succeeds, I will give him the golden fleece as a prize.",
+        "kr": "성공한다면 그에게 황금 양모를 상으로 주겠소."
+      },
+      {
+        "id": 8,
+        "en": "It will be a great glory to all of you.",
+        "kr": "그것은 당신들 모두에게도 큰 영광이 될 것이오."
+      }
+    ]
+  },
+  {
+    "id": 427,
+    "tag": "P0427",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "So saying, he turned his horses and drove back in silence to the town. And the Minuai sat silent with sorrow, and longed for Heracles and his strength; for there was no facing the thousands of the Colchians and the fearful chance of war.",
+    "is_header": false,
+    "word_count": 44,
+    "translation": [
+      {
+        "id": 1,
+        "en": "After speaking, the king turned his horses and drove back to the city in silence.",
+        "kr": "그렇게 말한 뒤, 왕은 말머리를 돌려 아무 말 없이 도시로 돌아갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "The Minyans sat in silent sorrow.",
+        "kr": "미니아스인들은 슬픔에 잠겨 말없이 앉아 있었습니다."
+      },
+      {
+        "id": 3,
+        "en": "They deeply missed Heracles and his immense strength.",
+        "kr": "그들은 헤라클레스와 그의 엄청난 힘을 몹시 그리워했습니다."
+      },
+      {
+        "id": 4,
+        "en": "They could not possibly face thousands of Colchian warriors in a terrifying war.",
+        "kr": "수천 명의 콜키스 전사들과 맞서 끔찍한 전쟁을 치를 수는 없었기 때문입니다."
+      }
+    ]
+  },
+  {
+    "id": 428,
+    "tag": "P0428",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "But Chalciope, Phrixus’ widow, went weeping to the town; for she remembered her Minuan husband, and all the pleasures of her youth, while she watched the fair faces of his kinsmen, and their long locks of golden hair.  And she whispered to Medeia her sister, ‘Why should all these brave men die? why does not my father give them up the fleece, that my husband’s spirit may have rest?’",
+    "is_header": false,
+    "word_count": 69,
+    "translation": [
+      {
+        "id": 1,
+        "en": "But Phrixus's widow, Chalciope, went back to the city in tears.",
+        "kr": "하지만 프리크소스의 미망인인 칼키오페는 눈물을 흘리며 도시로 돌아갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "She remembered her Minyan husband and the joys of her youth.",
+        "kr": "그녀는 미니아스인이었던 남편과 젊은 시절의 기쁨을 떠올렸습니다."
+      },
+      {
+        "id": 3,
+        "en": "She felt this as she watched his kinsmen with their fair faces and long golden hair.",
+        "kr": "아름다운 얼굴에 긴 금발을 가진 남편의 동족들을 보았기 때문입니다."
+      },
+      {
+        "id": 4,
+        "en": "She whispered softly to her sister, Medea.",
+        "kr": "그녀는 여동생 메데이아에게 작게 속삭였습니다."
+      },
+      {
+        "id": 5,
+        "en": "Why should all these brave men have to die?",
+        "kr": "왜 이 용감한 남자들이 모두 죽어야만 하는 걸까?"
+      },
+      {
+        "id": 6,
+        "en": "Why does our father not simply give them the fleece?",
+        "kr": "왜 아버지는 그냥 그들에게 양모를 내주지 않으시는 걸까?"
+      },
+      {
+        "id": 7,
+        "en": "Then my husband's spirit could finally find rest.",
+        "kr": "그러면 내 남편의 영혼도 마침내 안식을 찾을 수 있을 텐데."
+      }
+    ]
+  },
+  {
+    "id": 429,
+    "tag": "P0429",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "And Medeia's heart pitied the heroes, and Jason most of all; and she answered, 'Our father is stern and terrible, and who can win the golden fleece?'  But Chalciope said, 'These men are not like our men; there is nothing which they cannot dare nor do.'",
+    "is_header": false,
+    "word_count": 46,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Medeia felt deep pity for the heroes, and especially for Jason.",
+        "kr": "메데이아는 영웅들, 특히 이아손에게 깊은 연민을 느꼈습니다."
+      },
+      {
+        "id": 2,
+        "en": "Our father is stern and terrifying, so who could possibly win the golden fleece? she answered.",
+        "kr": "우리 아버지는 엄격하고 무서운 분이신데 누가 감히 황금 양모를 얻을 수 있겠어? 그녀가 대답했습니다."
+      },
+      {
+        "id": 3,
+        "en": "But Chalciope said these men were unlike their own.",
+        "kr": "하지만 칼키오페는 이 사람들이 이곳의 남자들과는 다르다고 말했습니다."
+      },
+      {
+        "id": 4,
+        "en": "There is nothing they cannot dare or do.",
+        "kr": "그들은 두려워하거나 해내지 못할 일이 전혀 없어."
+      }
+    ]
+  },
+  {
+    "id": 430,
+    "tag": "P0430",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "And Medeia thought of Jason and his brave countenance, and said, 'If there was one among them who knew no fear, I could show him how to win the fleece.'",
+    "is_header": false,
+    "word_count": 30,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Medeia thought of Jason and his courageous face.",
+        "kr": "메데이아는 이아손과 그의 용맹한 얼굴을 떠올렸습니다."
+      },
+      {
+        "id": 2,
+        "en": "If there is a man among them who knows no fear, I can show him how to win the fleece, she said.",
+        "kr": "그들 중 두려움을 모르는 자가 있다면, 내가 그에게 황금 양모를 얻는 방법을 알려줄 수 있어, 그녀가 말했습니다."
+      }
+    ]
+  },
+  {
+    "id": 431,
+    "tag": "P0431",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "So in the dusk of evening they went down to the river-side, Chalciope and Medeia the witch-maiden, and Argus, Phrixus' son.  And Argus the boy crept forward, among the beds of reeds, till he came where the heroes were sleeping, on the thwarts of the ship, beneath the bank, while Jason kept ward on shore, and leant upon his lance full of thought.  And the boy came to Jason, and said--",
+    "is_header": false,
+    "word_count": 71,
+    "translation": [
+      {
+        "id": 1,
+        "en": "In the evening dusk, Chalciope, the witch-maiden Medeia, and Phrixus's son Argus went down to the riverbank.",
+        "kr": "해 질 녘 어스름 속에 칼키오페와 마녀 소녀 메데이아, 그리고 프릭소스의 아들 아르고스가 강가로 내려갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "The boy Argus crept forward through the reed beds.",
+        "kr": "소년 아르고스는 갈대밭 사이로 살금살금 나아갔습니다."
+      },
+      {
+        "id": 3,
+        "en": "He reached the place beneath the bank where the heroes were sleeping on the ship's benches.",
+        "kr": "그는 강둑 아래 배의 의자 위에서 영웅들이 잠들어 있는 곳에 다다랐습니다."
+      },
+      {
+        "id": 4,
+        "en": "Meanwhile, Jason kept watch on shore, leaning on his spear lost in thought.",
+        "kr": "그동안 이아손은 창에 기대어 깊은 생각에 잠긴 채 해변에서 망을 보고 있었습니다."
+      },
+      {
+        "id": 5,
+        "en": "The boy approached Jason and spoke.",
+        "kr": "소년이 이아손에게 다가가 말했습니다."
+      }
+    ]
+  },
+  {
+    "id": 432,
+    "tag": "P0432",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "'I am the son of Phrixus, your Cousin; and Chalciope my mother waits for you, to talk about the golden fleece.'",
+    "is_header": false,
+    "word_count": 21,
+    "translation": [
+      {
+        "id": 1,
+        "en": "I am the son of your cousin Phrixus.",
+        "kr": "저는 당신의 사촌인 프릭소스의 아들입니다."
+      },
+      {
+        "id": 2,
+        "en": "My mother Chalciope is waiting to talk to you about the golden fleece.",
+        "kr": "어머니 칼키오페께서 황금 양모에 대해 의논하려고 당신을 기다리고 계십니다."
+      }
+    ]
+  },
+  {
+    "id": 433,
+    "tag": "P0433",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "Then Jason went boldly with the boy, and found the two princesses standing; and when Chalciope saw him she wept, and took his hands, and cried--'O cousin of my beloved, go home before you die!'",
+    "is_header": false,
+    "word_count": 35,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Jason boldly followed the boy and found the two princesses standing there.",
+        "kr": "이아손은 용감하게 소년을 따라갔고, 그곳에 서 있는 두 공주를 발견했습니다."
+      },
+      {
+        "id": 2,
+        "en": "When Chalciope saw him, she wept and took his hands.",
+        "kr": "칼키오페는 그를 보자마자 눈물을 흘리며 두 손을 붙잡았습니다."
+      },
+      {
+        "id": 3,
+        "en": "O cousin of my beloved, go home before you die! she cried.",
+        "kr": "내 사랑하는 이의 사촌이여, 목숨을 잃기 전에 어서 고향으로 돌아가시오! 그녀가 외쳤습니다."
+      }
+    ]
+  }
+]

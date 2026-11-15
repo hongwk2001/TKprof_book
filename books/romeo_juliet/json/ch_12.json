@@ -1,0 +1,618 @@
+[
+ {
+  "id": 1,
+  "tag": "P0539",
+  "en": "Act 3, Scene 1 — A public Place",
+  "ko": "3막 1장 — 광장",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "P0539_s",
+  "en": "Tybalt wants to fight Romeo, but Romeo refuses. Mercutio fights instead and is killed. Romeo kills Tybalt, and the Prince banishes Romeo.",
+  "ko": "티볼트가 로미오와 싸우려 하지만 로미오는 거절한다. 대신 머큐쇼가 싸우다 죽는다. 로미오는 티볼트를 죽이고, 영주는 로미오를 추방한다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "P0540",
+  "en": "Mercutio, Benvolio, a Page, and Servants enter.",
+  "ko": "머큐쇼, 벤볼리오, 시동, 그리고 하인들이 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "P0541_1",
+  "en": "Benvolio says, \"Please, good Mercutio, let us go home. The day is hot. The Capulets are out and about. If we meet them, we will not escape a fight. These hot days make people's blood boil and make them angry.\"",
+  "ko": "벤볼리오가 말한다. \"머큐쇼, 제발 이제 들어가자. 날씨가 너무 덥네. 캐퓰릿 사람들이 나돌아 다녀. 그들과 마주치면 싸움을 피할 수 없을 거야. 이 더운 날씨는 사람들의 피를 끓게 하고 화나게 만든단 말이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "P0542_1",
+  "en": "Mercutio says, \"You are like one of those men. When they enter a tavern, they put their sword on the table. They say, 'God send me no need of you!' After the second drink, they draw their sword on the barman. They do this even when there is no need for it.\"",
+  "ko": "머큐쇼가 말한다. \"너는 딱 그런 녀석들 같아. 그들은 술집에 들어오면 탁자 위에 칼을 올려놓지. '하나님, 이 칼 쓸 일이 없게 해 주소서!'라고 하지. 두 잔째 마시고는 술집 주인한테 칼을 뽑지. 꼭 필요하지 않은 상황에서도 그러는 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "P0543_1",
+  "en": "Benvolio asks, \"Am I like such a man?\"",
+  "ko": "벤볼리오가 묻는다. \"내가 그런 사람 같다고?\"",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "P0544_1",
+  "en": "Mercutio says, \"Come, come, you are as hot-headed as any man in Italy. You get angry very quickly. And you become calm just as quickly.\"",
+  "ko": "머큐쇼가 말한다. \"자, 자, 넌 이탈리아에서 제일가는 성질 급한 놈이야. 너는 아주 금방 화를 내지. 그리고 똑같이 빨리 진정하기도 하고.\"",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "P0545_1",
+  "en": "Benvolio asks, \"Moved to what?\"",
+  "ko": "벤볼리오가 묻는다. \"무엇 때문에 움직인다는 거야?\"",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "P0546_1",
+  "en": "Mercutio says, \"No, if there were two such men, we would have none of them soon. One would kill the other. You? You would fight a man who has one hair more or less in his beard than you. You would fight a man for cracking nuts.\"",
+  "ko": "머큐쇼가 말한다. \"아니, 그런 놈이 둘이면 곧 하나도 안 남겠지. 한 명이 다른 한 명을 죽일 테니까. 너 말이야? 턱수염이 너보다 한 가닥 많거나 적다는 이유로도 싸움을 벌이는 놈이잖아. 호두를 깐다는 이유로도 싸우겠지.\"",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "P0546_2",
+  "en": "\"You would do this for no reason other than because you have hazel eyes. What eye but such an eye would find such a fight? Your head is as full of fights as an egg is full of meat. Yet your head has been beaten as soft as an egg from fighting. You fought a man for coughing in the street.\"",
+  "ko": "\"네 눈이 호두색이라는 이유 하나로 말이야. 그런 눈이 아니면 누가 이런 싸움을 찾겠어? 네 머리엔 달걀에 속이 꽉 찬 것처럼 싸움이 꽉 차 있어. 하지만 그 머리는 너무 많이 싸우는 바람에 달걀처럼 말랑해졌고. 거리에서 기침했다고 사람하고 싸운 적도 있잖아.\"",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0546_3",
+  "en": "\"He had woken up your dog that was sleeping in the sun. Did you not fight with a tailor for wearing his new jacket before Easter? Did you not fight with another for tying his new shoes with an old ribbon? And yet you want to tell me not to fight!\"",
+  "ko": "\"그 사람이 햇볕 아래 자고 있던 네 개를 깨웠기 때문이지. 부활절도 되기 전에 새 옷을 입었다고 재단사와 싸우지 않았어? 새 신발을 낡은 리본으로 묶었다는 이유로 다른 사람과 싸우지도 않았고. 그런데 이제 나더러 싸우지 말라고 하겠다니!\"",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0547_1",
+  "en": "Benvolio says, \"Suppose I were as ready to fight as you are. Then any man could buy full ownership of my life for an hour and a quarter.\"",
+  "ko": "벤볼리오가 말한다. \"내가 너만큼 싸울 준비가 되어 있다고 가정해 봐. 그럼 누구든 한 시간 십오 분이면 내 목숨을 통째로 살 수 있겠지.\"",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0548_1",
+  "en": "Mercutio says, \"Full ownership! How simple-minded!\"",
+  "ko": "머큐쇼가 말한다. \"통째로라니! 참 단순하기도 하지!\"",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "P0549",
+  "en": "Tybalt and others enter.",
+  "ko": "티볼트와 다른 이들이 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 15,
+  "tag": "P0550_1",
+  "en": "Benvolio says, \"By my head, here come the Capulets.\"",
+  "ko": "벤볼리오가 말한다. \"맹세코, 캐퓰릿 놈들이 온다.\"",
+  "is_header": false
+ },
+ {
+  "id": 16,
+  "tag": "P0551_1",
+  "en": "Mercutio says, \"By my heel, I do not care.\"",
+  "ko": "머큐쇼가 말한다. \"맹세코, 난 상관없어.\"",
+  "is_header": false
+ },
+ {
+  "id": 17,
+  "tag": "P0552_1",
+  "en": "Tybalt says, \"Follow me closely because I will speak to them. Good evening, gentlemen; I want a word with one of you.\"",
+  "ko": "티볼트가 말한다. \"바짝 따라와라. 내가 저들에게 말을 걸 테니. 안녕하시오, 신사분들. 한 사람에게 할 말이 있소.\"",
+  "is_header": false
+ },
+ {
+  "id": 18,
+  "tag": "P0553_1",
+  "en": "Mercutio says, \"Only one word with one of us? Add something else to it. Make it a word and a blow.\"",
+  "ko": "머큐쇼가 말한다. \"우리 중 한 명과 단 한 마디라니? 거기에 다른 것도 좀 얹어봐. 말 한마디에 한 방을 곁들여.\"",
+  "is_header": false
+ },
+ {
+  "id": 19,
+  "tag": "P0554_1",
+  "en": "Tybalt says, \"You will find me ready enough for that, sir, if you give me a reason.\"",
+  "ko": "티볼트가 말한다. \"이유만 대준다면 나도 기꺼이 응해주지.\"",
+  "is_header": false
+ },
+ {
+  "id": 20,
+  "tag": "P0555_1",
+  "en": "Mercutio asks, \"Could you not take a reason without being given one?\"",
+  "ko": "머큐쇼가 묻는다. \"이유를 받지 않고는 못 찾아내나?\"",
+  "is_header": false
+ },
+ {
+  "id": 21,
+  "tag": "P0556_1",
+  "en": "Tybalt says, \"Mercutio, you are spending time with Romeo.\"",
+  "ko": "티볼트가 말한다. \"머큐쇼, 넌 로미오와 한패로 어울리는군.\"",
+  "is_header": false
+ },
+ {
+  "id": 22,
+  "tag": "P0557_1",
+  "en": "Mercutio says, \"Spend time? What, do you think we are musicians? If you make us musicians, expect to hear only bad notes. You will only hear unpleasant sounds. This sword is my fiddle stick. Here is what will make you dance. Damn it, 'spend time'!\"",
+  "ko": "머큐쇼가 말한다. \"한패? 뭐야, 우릴 악단으로 아나? 우리를 음악가로 취급한다면 엉망인 연주를 듣게 될 거다. 불쾌한 소리만 들릴 뿐이지. 이 칼이 내 바이올린 활이다. 자, 이제 네가 춤을 추게 될 거다. 빌어먹을, '한패'라니!\"",
+  "is_header": false
+ },
+ {
+  "id": 23,
+  "tag": "P0558_1",
+  "en": "Benvolio says, \"We are talking here in a public place. Either go to a private place. Talk about your problems calmly there. Or leave now. Everyone is looking at us here.\"",
+  "ko": "벤볼리오가 말한다. \"우리는 지금 공공장소에 있어. 사적인 장소로 가든가. 거기서 차분하게 따지든가. 아니면 지금 떠나고. 모두가 우리를 보고 있어.\"",
+  "is_header": false
+ },
+ {
+  "id": 24,
+  "tag": "P0559_1",
+  "en": "Mercutio says, \"Men's eyes were made to look. Let them look. I will not move for any man's pleasure.\"",
+  "ko": "머큐쇼가 말한다. \"사람 눈은 보라고 있는 거야. 그들이 보게 내버려 둬. 누가 뭐래도 난 한 발짝도 안 움직여.\"",
+  "is_header": false
+ },
+ {
+  "id": 25,
+  "tag": "P0560",
+  "en": "Romeo enters.",
+  "ko": "로미오가 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 26,
+  "tag": "P0561_1",
+  "en": "Tybalt says, \"Well, peace be with you, sir. Here comes my man.\"",
+  "ko": "티볼트가 말한다. \"좋아, 너와는 이만. 내 상대가 온다.\"",
+  "is_header": false
+ },
+ {
+  "id": 27,
+  "tag": "P0562_1",
+  "en": "Mercutio says, \"But I will be hanged if he wears your uniform. But go to the dueling field first. He will follow you there. Only in that sense can you call him your man.\"",
+  "ko": "머큐쇼가 말한다. \"그놈이 네 하인 옷을 입었다면 내 목을 매달겠다. 먼저 결투장으로 가 봐. 그가 거기로 따라올 테니까. 그런 뜻에서라면 그를 네 '사람'이라 부를 수 있겠지.\"",
+  "is_header": false
+ },
+ {
+  "id": 28,
+  "tag": "P0563_1",
+  "en": "Tybalt says, \"Romeo, the love I have for you allows no better word than this. You are a villain.\"",
+  "ko": "티볼트가 말한다. \"로미오, 너에 대한 내 사랑으론 이 말밖에 할 말이 없다. 너는 악당이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 29,
+  "tag": "P0564_1",
+  "en": "Romeo says, \"Tybalt, I have a reason to love you. It lets me forgive the anger I should feel at such a greeting. I am not a villain. Therefore goodbye. I see that you do not know me.\"",
+  "ko": "로미오가 말한다. \"티볼트, 내가 너를 사랑하는 이유가 있어. 그 덕분에 이런 인사에 느껴야 할 분노를 용서할 수 있어. 나는 악당이 아니야. 그러니 잘 가라. 넌 나를 모르는구나.\"",
+  "is_header": false
+ },
+ {
+  "id": 30,
+  "tag": "P0565_1",
+  "en": "Tybalt says, \"Boy, this will not excuse the injuries you have done to me. Therefore turn and draw your sword.\"",
+  "ko": "티볼트가 말한다. \"이 녀석, 그런다고 네가 내게 준 모욕이 용서되진 않아. 그러니 몸을 돌려 칼을 뽑아라.\"",
+  "is_header": false
+ },
+ {
+  "id": 31,
+  "tag": "P0566_1",
+  "en": "Romeo says, \"I protest that I never hurt you. I love you more than you can imagine. You will see this when you know the reason for my love. And since I value the name Capulet as much as my own, be satisfied.\"",
+  "ko": "로미오가 말한다. \"맹세코 난 널 모욕한 적이 없어. 네가 상상하는 것보다 훨씬 더 너를 아껴. 내 사랑의 이유를 알게 되면 이해할 거야. 그러니 캐퓰릿, 내 이름만큼 소중한 그 이름을 생각해서, 이만 참아 줘.\"",
+  "is_header": false
+ },
+ {
+  "id": 32,
+  "tag": "P0567_1",
+  "en": "Mercutio says, \"Oh, what a calm, dishonorable, and vile submission!\"",
+  "ko": "머큐쇼가 말한다. \"오, 이 얌전하고, 비겁하고, 비굴한 굴복이라니!\"",
+  "is_header": false
+ },
+ {
+  "id": 33,
+  "tag": "P0568",
+  "en": "Mercutio draws his sword.",
+  "ko": "머큐쇼가 칼을 뽑는다.",
+  "is_header": false
+ },
+ {
+  "id": 34,
+  "tag": "P0569_1",
+  "en": "Mercutio goes on, \"So this fancy fighting man wins, does he? Tybalt, you rat-catcher, will you come and fight?\"",
+  "ko": "머큐쇼가 말을 잇는다. \"결국 칼솜씨 뽐내는 놈이 이긴단 말이지? 티볼트, 이 쥐잡이 녀석아, 나랑 한판 붙을래?\"",
+  "is_header": false
+ },
+ {
+  "id": 35,
+  "tag": "P0570_1",
+  "en": "Tybalt asks, \"What do you want from me?\"",
+  "ko": "티볼트가 묻는다. \"나한테 원하는 게 뭐야?\"",
+  "is_header": false
+ },
+ {
+  "id": 36,
+  "tag": "P0571_1",
+  "en": "Mercutio says, \"Good King of Cats, I only need one of your nine lives. I intend to be bold with it. And then I will beat the other eight out of you. Will you pull your sword out of its case by the ears? Hurry, or my sword will be around your ears before yours is out.\"",
+  "ko": "머큐쇼가 말한다. \"고양이 왕 나으리, 네 목숨 아홉 개 중 하나만 받아 가면 돼. 그걸로 용감하게 승부할 생각이야. 그러고 나서 나머지 여덟 개를 다 뺏어버릴 거야. 칼집에서 칼을 귀 잡고 끌어낼 참이야? 서둘러, 안 그러면 네 칼이 나오기도 전에 내 칼이 네 귀를 스칠 거다.\"",
+  "is_header": false
+ },
+ {
+  "id": 37,
+  "tag": "P0572",
+  "en": "Tybalt draws his sword.",
+  "ko": "티볼트가 칼을 뽑는다.",
+  "is_header": false
+ },
+ {
+  "id": 38,
+  "tag": "P0573_1",
+  "en": "Tybalt says, \"I am ready to fight you.\"",
+  "ko": "티볼트가 말한다. \"상대해 주마.\"",
+  "is_header": false
+ },
+ {
+  "id": 39,
+  "tag": "P0574_1",
+  "en": "Romeo says, \"Gentle Mercutio, put your sword away.\"",
+  "ko": "로미오가 말한다. \"다정한 머큐쇼, 칼을 집어넣어.\"",
+  "is_header": false
+ },
+ {
+  "id": 40,
+  "tag": "P0575_1",
+  "en": "Mercutio says, \"Come, sir, show me your fancy move.\"",
+  "ko": "머큐쇼가 말한다. \"자, 네 그 멋진 찌르기를 보여 줘 봐.\"",
+  "is_header": false
+ },
+ {
+  "id": 41,
+  "tag": "P0576",
+  "en": "They fight.",
+  "ko": "그들이 싸운다.",
+  "is_header": false
+ },
+ {
+  "id": 42,
+  "tag": "P0577_1",
+  "en": "Romeo says, \"Draw, Benvolio, and beat down their weapons. Gentlemen, stop this violence for shame! Tybalt, Mercutio, the Prince has strictly forbidden fighting in the streets of Verona. Stop, Tybalt! Good Mercutio!\"",
+  "ko": "로미오가 말한다. \"벤볼리오, 칼을 뽑아 저들의 칼을 쳐 내! 신사들, 창피하지도 않나, 이 난동을 멈춰! 티볼트, 머큐쇼, 영주께서 베로나 거리에서의 싸움을 엄격히 금지하셨다. 멈춰, 티볼트! 머큐쇼!\"",
+  "is_header": false
+ },
+ {
+  "id": 43,
+  "tag": "P0578",
+  "en": "Tybalt runs off with his followers.",
+  "ko": "티볼트가 부하들과 함께 달려 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 44,
+  "tag": "P0579_1",
+  "en": "Mercutio asks, \"I am hurt. A plague on both your houses. I am dying. Is he gone without a scratch?\"",
+  "ko": "머큐쇼가 묻는다. \"찔렸어. 너희 두 집안 모두 염병에나 걸려라! 난 끝났어. 그놈은 상처 하나 없이 갔나?\"",
+  "is_header": false
+ },
+ {
+  "id": 45,
+  "tag": "P0580_1",
+  "en": "Benvolio asks, \"What, are you hurt?\"",
+  "ko": "벤볼리오가 묻는다. \"뭐라고, 너 다쳤어?\"",
+  "is_header": false
+ },
+ {
+  "id": 46,
+  "tag": "P0581_1",
+  "en": "Mercutio says, \"Yes, yes, it is just a scratch; it is enough. Where is my servant? Go, boy, and get a doctor.\"",
+  "ko": "머큐쇼가 말한다. \"그래, 그래, 살짝 긁힌 것뿐이야. 이 정도면 충분해. 내 시동은 어디 있지? 얘야, 가서 의사를 불러와.\"",
+  "is_header": false
+ },
+ {
+  "id": 47,
+  "tag": "P0582",
+  "en": "The page leaves.",
+  "ko": "시동이 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 48,
+  "tag": "P0583_1",
+  "en": "Romeo says, \"Be brave, man. The injury cannot be very bad.\"",
+  "ko": "로미오가 말한다. \"힘내, 친구. 상처가 그리 심각하진 않을 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 49,
+  "tag": "P0584_1",
+  "en": "Mercutio says, \"No, it is not as deep as a well or as wide as a church door. But it is enough; it will do. Ask for me tomorrow, and you will find me a grave man lying in my grave. I am finished in this world, I promise. A plague on both your houses.\"",
+  "ko": "머큐쇼가 말한다. \"아니, 우물처럼 깊지도 교회 문처럼 넓지도 않아. 하지만 충분해, 이 정도면 됐어. 내일 나를 찾아봐. 무덤 속의 점잖은 사람이 되어 있을 테니. 난 이 세상에선 끝났어. 너희 두 집안 모두 염병에나 걸려라!\"",
+  "is_header": false
+ },
+ {
+  "id": 50,
+  "tag": "P0584_2",
+  "en": "\"To think a dog, a rat, a mouse, or a cat could scratch a man to death! He is a show-off and a rogue; he is a villain who fights by a math textbook! Why did you come between us? I was hurt under your arm.\"",
+  "ko": "\"개나 쥐, 생쥐, 혹은 고양이가 사람을 할퀴어 죽일 수도 있다니! 그놈은 허풍쟁이에 악당이고, 산수책대로 칼질하는 놈이야! 넌 왜 끼어들었어? 네 팔 밑으로 찔렸잖아.\"",
+  "is_header": false
+ },
+ {
+  "id": 51,
+  "tag": "P0585_1",
+  "en": "Romeo says, \"I thought it was for the best.\"",
+  "ko": "로미오가 말한다. \"그게 최선이라고 생각했어.\"",
+  "is_header": false
+ },
+ {
+  "id": 52,
+  "tag": "P0586_1",
+  "en": "Mercutio says, \"Help me into a house, Benvolio, or I will faint. A plague on both your houses! They have made me food for worms. I have got it, and badly too. Your houses!\"",
+  "ko": "머큐쇼가 말한다. \"벤볼리오, 나를 집 안으로 옮겨줘, 아니면 쓰러질 것 같아. 너희 두 집안 모두 염병에나 걸려라! 그들이 날 벌레들의 먹이로 만들었어. 제대로 당했어, 아주 지독하게. 너희 집안들!\"",
+  "is_header": false
+ },
+ {
+  "id": 53,
+  "tag": "P0587",
+  "en": "Mercutio and Benvolio leave.",
+  "ko": "머큐쇼와 벤볼리오가 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 54,
+  "tag": "P0588_1",
+  "en": "Romeo says, \"This gentleman is the Prince's close relative. He is my very friend. He suffered a fatal injury for me. My reputation is ruined by Tybalt's lies. Tybalt has been my cousin for only an hour! Oh sweet Juliet, your beauty has made me weak. It softened my brave spirit.\"",
+  "ko": "로미오가 말한다. \"이분은 영주님의 가까운 친척이다. 그는 나의 아주 소중한 친구다. 그는 나를 위해 치명적인 상처를 입었다. 티볼트의 거짓말 때문에 내 명예가 더럽혀졌다. 티볼트는 겨우 한 시간 전에 내 사촌이 되었는데! 오 사랑스러운 줄리엣, 그대의 아름다움이 나를 나약하게 만들었다. 내 용기의 칼날을 무디게 했다.\"",
+  "is_header": false
+ },
+ {
+  "id": 55,
+  "tag": "P0589",
+  "en": "Benvolio comes back.",
+  "ko": "벤볼리오가 다시 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 56,
+  "tag": "P0590_1",
+  "en": "Benvolio says, \"Oh Romeo, Romeo, brave Mercutio is dead. His brave spirit has gone up to the clouds. He left the earth far too early.\"",
+  "ko": "벤볼리오가 말한다. \"오 로미오, 로미오, 용감한 머큐쇼가 죽었어. 그의 용감한 영혼은 구름 위로 올라갔어. 그는 너무 일찍 이 세상을 떠났어.\"",
+  "is_header": false
+ },
+ {
+  "id": 57,
+  "tag": "P0591_1",
+  "en": "Romeo says, \"This day's dark fate will hang over more days to come. This only begins the sadness that others must end.\"",
+  "ko": "로미오가 말한다. \"오늘의 어두운 운명이 앞으로 올 날들까지 덮칠 거야. 이건 다른 날들이 끝맺어야 할 비극의 시작일 뿐이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 58,
+  "tag": "P0592",
+  "en": "Tybalt comes back.",
+  "ko": "티볼트가 다시 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 59,
+  "tag": "P0593_1",
+  "en": "Benvolio says, \"The angry Tybalt is coming back here.\"",
+  "ko": "벤볼리오가 말한다. \"화가 난 티볼트가 이쪽으로 오고 있어.\"",
+  "is_header": false
+ },
+ {
+  "id": 60,
+  "tag": "P0594_1",
+  "en": "Romeo says, \"He is alive and winning, and Mercutio is dead? I will not be gentle now. I will act with fire and anger! Now, Tybalt, take back the 'villain' title. You gave me that name recently. Mercutio's soul is just above our heads. He is waiting for your soul to join him.\"",
+  "ko": "로미오가 말한다. \"그놈은 살아남아 승리했는데, 머큐쇼는 죽었다고? 이제 너그러움은 하늘로 가 버려라. 불타는 분노여, 나를 이끌어라! 자, 티볼트, 이제 '악당'이라는 칭호를 네가 가져가라. 네가 얼마 전에 나에게 그 이름을 붙여줬지. 머큐쇼의 영혼이 바로 우리 머리 위에 있어. 네 영혼이 함께 가 주기를 기다리고 있다.\"",
+  "is_header": false
+ },
+ {
+  "id": 61,
+  "tag": "P0594_2",
+  "en": "\"Either you or I, or both of us, must go with him.\"",
+  "ko": "\"너나 나, 혹은 우리 둘 다 그와 함께 가야 해.\"",
+  "is_header": false
+ },
+ {
+  "id": 62,
+  "tag": "P0595_1",
+  "en": "Tybalt says, \"You miserable boy, you were his friend here. So you will go with him to death.\"",
+  "ko": "티볼트가 말한다. \"이 비참한 녀석, 여기서 그놈과 어울렸으니 그놈과 함께 저승으로 가라.\"",
+  "is_header": false
+ },
+ {
+  "id": 63,
+  "tag": "P0596_1",
+  "en": "Romeo says, \"This will decide that.\"",
+  "ko": "로미오가 말한다. \"이 칼이 정해 줄 거다.\"",
+  "is_header": false
+ },
+ {
+  "id": 64,
+  "tag": "P0597",
+  "en": "They fight. Tybalt falls.",
+  "ko": "그들이 싸운다. 티볼트가 쓰러진다.",
+  "is_header": false
+ },
+ {
+  "id": 65,
+  "tag": "P0598_1",
+  "en": "Benvolio says, \"Romeo, go away! The citizens are up in arms. Tybalt is killed, so do not stand there in shock. The Prince will sentence you to death if he catches you. Go away now!\"",
+  "ko": "벤볼리오가 말한다. \"로미오, 도망쳐! 시민들이 들고일어났어. 티볼트가 죽었으니 멍하니 서 있지 마. 영주가 너를 발견하면 사형에 처할 거야. 당장 여기서 떠나!\"",
+  "is_header": false
+ },
+ {
+  "id": 66,
+  "tag": "P0599_1",
+  "en": "Romeo says, \"Oh, I am a plaything of fate!\"",
+  "ko": "로미오가 말한다. \"아, 나는 운명의 노리개구나!\"",
+  "is_header": false
+ },
+ {
+  "id": 67,
+  "tag": "P0600_1",
+  "en": "Benvolio asks, \"Why do you stay?\"",
+  "ko": "벤볼리오가 묻는다. \"왜 아직 여기 있어?\"",
+  "is_header": false
+ },
+ {
+  "id": 68,
+  "tag": "P0601",
+  "en": "Romeo leaves.",
+  "ko": "로미오가 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 69,
+  "tag": "P0602",
+  "en": "Citizens enter.",
+  "ko": "시민들이 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 70,
+  "tag": "P0603_1",
+  "en": "The first citizen asks, \"In which direction did the man who killed Mercutio run? Tybalt, that murderer, which way did he run?\"",
+  "ko": "첫째 시민이 묻는다. \"머큐쇼를 죽인 자가 어느 방향으로 도망쳤습니까? 그 살인자 티볼트 말입니다, 어느 쪽으로 도망갔습니까?\"",
+  "is_header": false
+ },
+ {
+  "id": 71,
+  "tag": "P0604_1",
+  "en": "Benvolio says, \"That is Tybalt lying there.\"",
+  "ko": "벤볼리오가 말한다. \"저기 쓰러져 있는 게 바로 티볼트야.\"",
+  "is_header": false
+ },
+ {
+  "id": 72,
+  "tag": "P0605_1",
+  "en": "The first citizen says, \"Get up, sir. Come with me. I command you in the Prince's name to obey.\"",
+  "ko": "첫째 시민이 말한다. \"일어나십시오. 저와 함께 가시지요. 영주님의 이름으로 명령하니 따르십시오.\"",
+  "is_header": false
+ },
+ {
+  "id": 73,
+  "tag": "P0606",
+  "en": "The Prince enters with his followers. Montague, Capulet, their wives, and others enter.",
+  "ko": "영주가 부하들과 함께 들어온다. 몬태규, 캐퓰릿, 그들의 아내들, 그리고 다른 이들이 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 74,
+  "tag": "P0607_1",
+  "en": "The Prince asks, \"Where are the people who started this fight?\"",
+  "ko": "영주가 묻는다. \"이 싸움을 시작한 자들이 어디 있느냐?\"",
+  "is_header": false
+ },
+ {
+  "id": 75,
+  "tag": "P0608_1",
+  "en": "Benvolio says, \"Noble Prince, I can explain everything. I can tell you how this deadly fight happened. There lies the man who killed your relative, brave Mercutio. Young Romeo killed him.\"",
+  "ko": "벤볼리오가 말한다. \"고귀하신 영주님, 제가 모든 것을 설명할 수 있습니다. 이 치명적인 싸움이 어떻게 일어났는지 말씀드릴 수 있습니다. 저기 영주님의 친척, 용감한 머큐쇼를 죽인 자가 누워 있습니다. 젊은 로미오가 그자를 죽였습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 76,
+  "tag": "P0609_1",
+  "en": "Lady Capulet says, \"Tybalt, my nephew! He is my brother's child! O Prince! O husband! The blood of my dear relative is spilled! Prince, if you are fair, shed Montague blood for ours. O cousin, cousin.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"티볼트, 내 조카! 오라버니의 아들이! 오, 영주님! 오, 여보! 소중한 우리 친척의 피가 흘렀어요! 영주님, 공정하시다면 우리 피의 대가로 몬태규의 피를 흘리게 해 주세요. 아, 조카야, 조카야.\"",
+  "is_header": false
+ },
+ {
+  "id": 77,
+  "tag": "P0610_1",
+  "en": "The Prince asks, \"Benvolio, who started this bloody fight?\"",
+  "ko": "영주가 묻는다. \"벤볼리오, 이 피비린내 나는 싸움을 누가 시작했느냐?\"",
+  "is_header": false
+ },
+ {
+  "id": 78,
+  "tag": "P0611_1",
+  "en": "Benvolio says, \"Tybalt is lying here, and Romeo's hand killed him. Romeo spoke to him nicely and told Tybalt how bad the fight was. He warned him about your anger with a gentle voice and a calm look. He even bowed humbly, but Tybalt did not listen to peace.\"",
+  "ko": "벤볼리오가 말한다. \"티볼트가 여기 누워 있으며, 로미오의 손에 죽었습니다. 로미오는 그에게 친절하게 말하며 싸움이 얼마나 험악한지 티볼트에게 말했습니다. 부드러운 목소리와 차분한 얼굴로 영주님의 노여움을 상기시켰습니다. 그는 겸허하게 고개까지 숙였으나, 티볼트는 화해의 말을 듣지 않았습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 79,
+  "tag": "P0611_2",
+  "en": "\"Tybalt had an angry temper and attacked Mercutio's chest with a sharp sword. Mercutio was also very angry, so he fought back with his sword. He pushed death away with one hand and sent the attack back to Tybalt with the other.\"",
+  "ko": "\"티볼트는 성격이 급해 날카로운 칼로 머큐쇼의 가슴을 공격했습니다. 머큐쇼도 매우 화가 나서 칼로 맞서 싸웠습니다. 그는 한 손으로 죽음을 막아내고 다른 손으로 티볼트에게 반격했습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 80,
+  "tag": "P0611_3",
+  "en": "\"Tybalt blocked the move skillfully while Romeo shouted, 'Stop, friends! Friends, break it up!' His arm moved faster than his words as he pushed their swords down. He ran between them, but under his arm, a sneaky thrust from Tybalt struck brave Mercutio.\"",
+  "ko": "\"로미오가 '멈춰라, 친구들아! 친구들아, 그만해!'라고 외치는 동안 티볼트는 기술적으로 그 공격을 막았습니다. 말보다 빠르게 팔을 뻗어 두 사람의 칼을 쳐 내렸습니다. 그러고는 둘 사이로 뛰어들었는데, 그의 팔 밑으로 티볼트의 비겁한 찌르기가 용감한 머큐쇼를 찔렀습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 81,
+  "tag": "P0611_4",
+  "en": "\"Then Tybalt ran away, but in a moment, he came back to Romeo. Romeo had just started to seek revenge, and they fought like lightning. Before I could move to separate them, Tybalt was killed. As he fell, Romeo turned and ran away. This is the truth; if it is not true, let me die.\"",
+  "ko": "\"그러고는 티볼트가 도망쳤다가, 곧 로미오에게 되돌아왔습니다. 로미오가 막 복수를 시작하려던 찰나, 그들은 번개처럼 싸웠습니다. 제가 그들을 떼어놓기 위해 움직이기 전에 티볼트가 죽었습니다. 티볼트가 쓰러지자 로미오는 돌아서서 달아났습니다. 이것이 진실입니다. 만약 사실이 아니라면 저를 죽여 주십시오.\"",
+  "is_header": false
+ },
+ {
+  "id": 82,
+  "tag": "P0612_1",
+  "en": "Lady Capulet says, \"He is a relative of the Montague family. Love makes him dishonest, so he does not speak the truth. About twenty people fought in this terrible fight, but they could only kill one person. I ask for justice, which you must give, Prince.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"저 아이는 몬태규 집안의 친척입니다. 정에 끌려 거짓을 말하니, 진실이 아닙니다. 스무 명쯤이 이 끔찍한 싸움에 가담했는데, 겨우 한 사람만 죽였단 말입니까. 영주님, 정의를 구합니다. 반드시 내려 주십시오.\"",
+  "is_header": false
+ },
+ {
+  "id": 83,
+  "tag": "P0612_2",
+  "en": "\"Romeo killed Tybalt, so Romeo must not live.\"",
+  "ko": "\"로미오가 티볼트를 죽였으니, 로미오도 살려 두어서는 안 됩니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 84,
+  "tag": "P0613_1",
+  "en": "The Prince asks, \"Romeo killed him. He killed Mercutio. Who now owes the price for his dear blood?\"",
+  "ko": "영주가 묻는다. \"로미오가 그를 죽였다. 그는 머큐쇼를 죽였다. 이제 누가 그의 소중한 피에 대한 대가를 치러야 하는가?\"",
+  "is_header": false
+ },
+ {
+  "id": 85,
+  "tag": "P0614_1",
+  "en": "Montague says, \"Not Romeo, Prince. He was Mercutio's friend. His crime only ended what the law would have ended anyway: Tybalt's life.\"",
+  "ko": "몬태규가 말한다. \"영주님, 로미오가 아닙니다. 그는 머큐쇼의 친구였습니다. 그 애의 죄는 법이 어차피 끝냈을 티볼트의 목숨을 끝낸 것뿐입니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 86,
+  "tag": "P0615_1",
+  "en": "The Prince says, \"For that crime, we exile him: he must leave this city at once. Your hatred has hurt me personally. My blood is bleeding because of your rude fight. But I will fine you so heavily that you will all be sorry for my loss. I will not listen to pleas or excuses.\"",
+  "ko": "영주가 말한다. \"그 죄로 우리는 그를 추방한다. 그는 즉시 이 도시를 떠나야 한다. 너희의 증오가 나에게 직접적인 상처를 입혔다. 너희의 무도한 싸움 때문에 내 핏줄이 피를 흘리고 있다. 그러나 무거운 벌금을 물려, 너희 모두 내 혈육을 잃게 한 것을 후회하게 하겠다. 나는 애원이나 변명을 듣지 않겠다.\"",
+  "is_header": false
+ },
+ {
+  "id": 87,
+  "tag": "P0615_2",
+  "en": "\"Neither tears nor prayers will change the punishment. So do not use them. Let Romeo leave here quickly. If he is found, that hour will be his last. Take this body away. Follow my orders. Mercy that forgives killers only causes more murder.\"",
+  "ko": "\"눈물도 기도도 형벌을 바꾸지 못할 것이다. 그러니 그것들을 쓰지 마라. 로미오는 서둘러 이곳을 떠나게 하라. 그가 발견된다면, 그 시간은 그의 마지막이 될 것이다. 이 시신을 치워라. 내 명령을 따르라. 살인자를 용서하는 자비는 더 많은 살인만을 불러올 뿐이다.\"",
+  "is_header": false
+ },
+ {
+  "id": 88,
+  "tag": "P0616",
+  "en": "They all leave.",
+  "ko": "모두 나간다.",
+  "is_header": false
+ }
+]

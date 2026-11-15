@@ -1,0 +1,443 @@
+[
+  {
+    "id": 1,
+    "tag": "H01",
+    "en": "Arrival",
+    "ko": "도착",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P0001",
+    "en": "Preface",
+    "ko": "머리말",
+    "is_header": true
+  },
+  {
+    "id": 3,
+    "tag": "P0002",
+    "en": "I have gathered everything I could learn about the story of poor Werther, and I set it before you here, certain that you will thank me for it. You cannot refuse your admiration and your love to his spirit and his character, nor hold back your tears from his fate.",
+    "ko": "가엾은 베르테르의 이야기에 관하여 내가 알아낼 수 있는 것은 모두 모았으며, 이제 그것을 여기 그대 앞에 내놓는다. 그대가 이를 고마워하리라 믿는다. 그의 정신과 성품에 대해 그대는 감탄과 사랑을 거두지 못할 것이며, 그의 운명 앞에서 눈물을 참지도 못할 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P0003",
+    "en": "And you, good soul, who suffer the same distress he once endured — take comfort from his sorrows. Let this little book be your friend, if fortune or your own fault has left you unable to find a dearer companion.",
+    "ko": "그리고 그대, 그가 한때 견뎌야 했던 것과 같은 괴로움을 겪고 있는 착한 영혼이여, 그의 슬픔에서 위안을 얻으라. 운명 탓이든 그대 자신의 잘못 탓이든 더 가까운 벗을 찾지 못했다면, 이 작은 책이 그대의 벗이 되게 하라.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P0004",
+    "en": "May 4",
+    "ko": "5월 4일",
+    "is_header": true
+  },
+  {
+    "id": 6,
+    "tag": "P0005_1",
+    "en": "How happy I am to be gone! My dear friend, what a strange thing the human heart is! To leave you, whom I have never been apart from, whom I love so dearly — and still to feel happy!",
+    "ko": "떠나와서 이토록 기쁘다니! 친구여, 사람의 마음이란 참으로 이상한 것이로군. 한 번도 떨어져 본 적 없고 그토록 아끼는 자네를 두고 왔는데도, 이렇게 기쁘다니!",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P0005_2",
+    "en": "I know you will forgive me. Weren't my other attachments appointed by fate precisely to torment a mind like mine? Poor Leonora! And yet I was not to blame.",
+    "ko": "자네가 용서해 주리라 믿네. 내가 맺었던 다른 인연들은, 바로 나 같은 마음을 괴롭히라고 운명이 정해 둔 것이 아니었을까? 가엾은 레오노레! 그러나 내 잘못은 아니었네.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P0005_3",
+    "en": "Was it my fault that while her sister's peculiar charms were giving me pleasant entertainment, a passion for me took root in her frail heart? And yet, am I entirely blameless? Did I not encourage her feelings?",
+    "ko": "그 애 언니의 독특한 매력이 내게 즐거운 소일거리가 되어 주는 동안, 그 애의 여린 가슴속에 나를 향한 연정이 뿌리내린 것이 내 탓이란 말인가? 그렇다고 내가 전혀 죄가 없는가? 내가 그 애의 마음을 부추기지 않았던가?",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P0005_4",
+    "en": "Didn't I delight in those genuine outpourings of nature that so often amused us, though there was really little in them to laugh at? Didn't I — but oh, what is man, that he dares to accuse himself like this? My dear friend, I promise you I will do better.",
+    "ko": "우리를 그토록 자주 웃게 했던 그 꾸밈없는 천성의 토로를, 사실 우스울 것도 없었건만, 내가 즐기지 않았던가? 내가 — 아, 그러나 인간이 무엇이기에 감히 이렇게 스스로를 고발한단 말인가? 친구여, 앞으로는 나아지겠다고 자네에게 약속하네.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P0005_5",
+    "en": "I will no longer brood over every petty vexation fortune deals out, as I have always done. I will enjoy the present, and the past shall be past for me.",
+    "ko": "여태 늘 그래 왔듯 운명이 던져 주는 사소한 짜증거리 하나하나를 곱씹지는 않겠네. 현재를 누리겠네. 지나간 것은 내게 지나간 것으로 두겠네.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P0005_6",
+    "en": "No doubt you are right, my best of friends: there would be far less suffering among people if they did not work their imaginations so hard at recalling old sorrows. God knows why we are made this way, instead of simply bearing our present lot calmly.",
+    "ko": "가장 좋은 벗이여, 자네 말이 옳네. 사람들이 지난 슬픔을 되새기는 데 그토록 상상력을 쏟지만 않는다면, 세상의 괴로움은 훨씬 줄어들 걸세. 지금의 처지를 그저 담담히 견디면 될 것을, 어째서 우리가 이렇게 생겨먹었는지는 신만이 아시겠지.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P0005_7",
+    "en": "Please tell my mother that I will handle her business as well as I can, and will send her word about it as soon as possible. I have seen my aunt, and she is nothing like the disagreeable woman our friends make her out to be. She is a lively, cheerful woman with the best of hearts.",
+    "ko": "어머니께는, 그 일을 내가 할 수 있는 한 잘 처리하겠고 되도록 빨리 소식을 전하겠다고 말씀드려 주게. 숙모님을 뵈었는데, 우리 친구들이 말하던 그 고약한 사람과는 전혀 딴판이었네. 활기차고 명랑한 분이고, 더없이 좋은 마음씨를 지니셨더군.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P0005_8",
+    "en": "I explained my mother's grievance about the part of her portion that has been withheld from her. She told me her own motives and reasons, and the terms on which she is willing to give up the whole of it — and to do more than we asked. In short, I cannot write any further about it now.",
+    "ko": "어머니 몫 가운데 아직 내주지 않은 부분에 대한 어머니의 불만을 내가 설명드렸네. 숙모님은 당신 나름의 동기와 사정을 말씀하시고, 그 전부를 내놓을 수 있는 조건까지 일러 주셨네. 우리가 청한 것보다 더 해 주시겠다더군. 요컨대 지금은 이 일에 대해 더 쓸 수가 없네.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P0005_9",
+    "en": "Only assure my mother that all will go well. And once again, my dear friend, this trifling affair has shown me that misunderstanding and neglect cause more mischief in the world than malice and wickedness do. At any rate, the last two are rarer.",
+    "ko": "다만 어머니께 다 잘될 것이라고만 전해 주게. 그리고 친구여, 이 사소한 일에서 또 한 번 깨달았네. 세상에 해를 끼치는 것은 악의나 간악함보다 오해와 무심함이라는 것을. 어쨌든 뒤의 둘은 그리 흔하지도 않으니 말일세.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P0006_1",
+    "en": "In other ways I am very comfortable here. Solitude in this earthly paradise is a balm to my mind. The young spring, with all its generous promises, warms a heart that so often misgives me.",
+    "ko": "그 밖의 점에서는 여기 지내기가 아주 편안하네. 이 지상낙원에서의 고독은 내 마음에 바르는 향유와도 같네. 온갖 넉넉한 약속을 품은 이 어린 봄은, 걸핏하면 불안해지는 내 가슴을 따뜻하게 데워 주네.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P0006_2",
+    "en": "Every tree, every bush is in full flower. You could wish yourself turned into a butterfly, to drift about in this ocean of scent and find your whole existence in it.",
+    "ko": "나무마다 덤불마다 꽃이 한창일세. 차라리 나비가 되어 이 향기의 바다를 떠다니며 그 속에서 온 존재를 찾고 싶어질 지경이네.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P0007_1",
+    "en": "The town itself is unpleasant. But all around it lies a beauty of nature beyond describing. That is what moved the late Count M to lay out a garden on one of these sloping hills, which cross one another in the most charming variety and form the loveliest valleys.",
+    "ko": "이 고장 자체는 마음에 들지 않네. 그러나 그 둘레에는 말로 다 할 수 없는 자연의 아름다움이 펼쳐져 있네. 돌아가신 M 백작이 이 비탈진 언덕들 가운데 하나에 정원을 꾸민 것도 그 때문이었네. 그 언덕들은 더없이 아름다운 변화를 이루며 서로 엇갈려 사랑스러운 골짜기들을 빚어내지.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P0007_2",
+    "en": "The garden is a simple one. From the moment you enter, you can tell it was not designed by a trained gardener, but by a man who wanted a place to give himself up to the feelings of his own heart. I have already shed many a tear for its dead master in a summer-house that is now falling into ruin.",
+    "ko": "정원은 소박하네. 들어서는 순간 알 수 있네. 이것을 꾸민 이는 배운 정원사가 아니라, 제 마음의 감정에 잠겨 들 곳을 원했던 한 사람이라는 것을. 이제는 허물어져 가는 정자에서, 나는 세상을 떠난 그 주인을 생각하며 벌써 여러 번 눈물을 흘렸네.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P0007_3",
+    "en": "It was his favourite retreat, and now it is mine. I shall soon be master of the place. The gardener has grown fond of me these last few days, and he will be no worse off for it.",
+    "ko": "그곳은 그가 가장 아끼던 은신처였고, 이제는 내 것이 되었네. 머지않아 나는 이곳의 주인이 될 걸세. 정원사는 요 며칠 사이 나를 좋아하게 되었는데, 그로 인해 그가 손해 볼 일은 없을 걸세.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P0008",
+    "en": "May 10",
+    "ko": "5월 10일",
+    "is_header": true
+  },
+  {
+    "id": 21,
+    "tag": "P0009_1",
+    "en": "A wonderful serenity has taken possession of my whole soul, like these sweet spring mornings that I enjoy with all my heart. I am alone, and I feel the charm of simply existing in this place, which was made for souls like mine.",
+    "ko": "놀라운 평온이 내 영혼 전체를 사로잡았네. 내가 온 마음으로 누리는 이 달콤한 봄 아침들처럼 말일세. 나는 혼자이고, 나 같은 영혼을 위해 지어진 이곳에서 그저 존재한다는 것의 매력을 느끼네.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P0009_2",
+    "en": "I am so happy, my dear friend, so absorbed in the exquisite sense of quiet existence, that I neglect my art. I could not draw a single stroke at this moment. And yet I feel I have never been a greater artist than I am now.",
+    "ko": "친구여, 나는 너무나 행복하고 고요한 존재의 그 그윽한 감각에 너무 깊이 잠겨 있어서, 그림마저 소홀히 하고 있네. 지금 이 순간 나는 단 한 획도 긋지 못할 걸세. 그러면서도 지금처럼 내가 위대한 화가였던 적은 없다고 느끼네.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P0009_3",
+    "en": "When the lovely valley steams with mist around me, and the high sun rests on the surface of the impenetrable leaves of my trees, and only a few stray gleams steal into the inner sanctuary, I throw myself down in the tall grass by the trickling stream.",
+    "ko": "사랑스러운 골짜기가 내 둘레에서 안개로 자욱하고, 높이 뜬 해가 뚫고 들지 못할 내 나무들의 잎사귀 위에 머물며, 몇 줄기 빛만이 그 안쪽 성소로 스며들 때, 나는 졸졸 흐르는 시내 옆 키 큰 풀밭에 몸을 던지네.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P0009_4",
+    "en": "Lying close to the earth, I notice a thousand unfamiliar plants. When I hear the hum of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects and the flies, then I feel the presence of the Almighty, who made us in his own image.",
+    "ko": "땅에 바싹 엎드리면 낯선 풀 천 가지가 눈에 들어오네. 줄기들 사이 작은 세계의 웅성거림이 들리고, 벌레와 파리의 이루 다 말할 수 없는 수많은 모습에 익숙해질 때, 그때 나는 우리를 당신의 형상대로 지으신 전능자의 임재를 느끼네.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P0009_5",
+    "en": "I feel the breath of that universal love which bears and sustains us, floating around us in an eternity of bliss.",
+    "ko": "우리를 떠받치고 붙드는 그 보편적 사랑의 숨결이, 영원한 축복 속에 우리 둘레를 떠도는 것을 느끼네.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P0009_6",
+    "en": "And then, my friend, when darkness comes over my eyes, and heaven and earth seem to rest in my soul and absorb its power, like the form of a beloved woman — then I often think with longing: Oh, if only I could describe all this.",
+    "ko": "그리고 친구여, 어둠이 내 눈을 덮고, 하늘과 땅이 사랑하는 여인의 모습처럼 내 영혼 속에 깃들어 그 힘을 빨아들이는 것 같을 때, 그때 나는 자주 사무치게 생각하네. 아, 이 모든 것을 그려 낼 수만 있다면.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P0009_7",
+    "en": "If only I could breathe onto paper everything that lives so full and warm within me, so that it might become the mirror of my soul, as my soul is the mirror of the infinite God. Oh, my friend — but it is too much for my strength. I sink under the weight and splendour of these visions.",
+    "ko": "내 안에 이토록 가득하고 따뜻하게 살아 있는 모든 것을 종이 위에 불어넣을 수만 있다면. 그리하여 내 영혼이 무한한 신의 거울이듯, 그것이 내 영혼의 거울이 될 수만 있다면. 아, 친구여 — 그러나 이것은 내 힘에 벅차네. 나는 이 환영들의 무게와 광휘 아래 가라앉고 마네.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P0010",
+    "en": "May 12",
+    "ko": "5월 12일",
+    "is_header": true
+  },
+  {
+    "id": 29,
+    "tag": "P0011_1",
+    "en": "I do not know whether some deceiving spirits haunt this place, or whether it is the warm, heavenly imagination in my own heart that makes everything around me seem like paradise. In front of the house there is a fountain — a fountain I am bound to by a spell, like Melusina and her sisters.",
+    "ko": "이곳에 사람을 홀리는 정령이라도 깃들어 있는 것인지, 아니면 내 가슴속의 따뜻하고 천상 같은 상상이 내 둘레의 모든 것을 낙원처럼 보이게 하는 것인지 나는 알지 못하네. 집 앞에는 샘이 하나 있네. 멜루지네와 그 자매들처럼 내가 어떤 마법에 묶여 있는 샘이지.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P0011_2",
+    "en": "You go down a gentle slope and come to an arch; some twenty steps further down, water of the clearest crystal gushes out of the marble rock.",
+    "ko": "완만한 비탈을 내려가면 아치가 나오고, 거기서 스무 걸음쯤 더 내려가면 더없이 맑은 수정 같은 물이 대리석 바위에서 솟아나네.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P0011_3",
+    "en": "The low wall that encloses it above, the tall trees that ring the spot, the coolness of the place itself — everything gives an impression at once pleasant and solemn. Not a day passes that I do not spend an hour there.",
+    "ko": "위쪽을 둘러싼 낮은 담, 그 자리를 에워싼 큰 나무들, 그리고 그곳 자체의 서늘함 — 모든 것이 정겨우면서도 엄숙한 인상을 주네. 그곳에서 한 시간을 보내지 않는 날이 하루도 없네.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P0011_4",
+    "en": "The young girls come out from the town to fetch water — innocent, necessary work, and once the occupation of kings' daughters. As I rest there, the old patriarchal life wakes up around me. I see them, our ancestors, forming their friendships and making their alliances at the fountain-side.",
+    "ko": "처녀들이 마을에서 물을 길으러 나오네. 순박하고 꼭 필요한 일이며, 옛날에는 왕의 딸들이 하던 일이지. 그곳에서 쉬고 있으면 옛 족장 시대의 삶이 내 둘레에서 되살아나네. 눈에 보이는 듯하네. 우리 선조들이 샘가에서 우정을 맺고 동맹을 맺던 모습이.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P0011_5",
+    "en": "And I feel how fountains and streams were watched over by kindly spirits. Anyone who is a stranger to these feelings has never really known cool rest beside a fountain after a weary summer day.",
+    "ko": "그리고 샘과 시내가 어떻게 인자한 정령들의 보살핌을 받았는지 느껴지네. 이런 감정을 모르는 사람은, 고단한 여름날이 지난 뒤 샘가에서 누리는 서늘한 안식을 참으로 안 적이 없는 것일세.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P0012",
+    "en": "May 13",
+    "ko": "5월 13일",
+    "is_header": true
+  },
+  {
+    "id": 35,
+    "tag": "P0013_1",
+    "en": "You ask whether you should send me books. My dear friend, for the love of God, I beg you — spare me that yoke! I have no more need to be guided, stirred up, inflamed.",
+    "ko": "책을 보내 줄까 하고 묻는군. 친구여, 제발 부탁이니 그런 멍에는 지우지 말아 주게. 나는 더 이끌리고, 더 들쑤셔지고, 더 달아오를 필요가 없네.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P0013_2",
+    "en": "My heart ferments quite enough on its own. What I want is music to lull me, and I find it perfectly in my Homer. Often I struggle to calm the burning fever in my blood.",
+    "ko": "내 마음은 저 혼자서도 충분히 끓고 있으니. 내게 필요한 것은 나를 달래 줄 가락일세. 그것을 나는 내 호메로스에게서 더없이 온전하게 찾고 있네. 나는 자주 내 피에 타오르는 열을 가라앉히려 애쓰네.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P0013_3",
+    "en": "You have never seen anything so unsteady, so uncertain, as my heart. But do I need to confess this to you, who have so often had to watch me swing from grief to wild joy, and from sweet melancholy to violent passion? I treat my poor heart like a sick child and give in to its every whim.",
+    "ko": "자네도 내 마음처럼 그렇게 변덕스럽고 종잡을 수 없는 것은 본 적이 없을 걸세. 그러나 이런 말을 굳이 자네에게 고백할 필요가 있겠나. 슬픔에서 미친 듯한 기쁨으로, 달콤한 우수에서 격렬한 열정으로 내가 오가는 것을 그토록 여러 번 지켜봐야 했던 자네에게. 나는 내 가엾은 마음을 병든 아이처럼 다루며 그 온갖 변덕을 다 받아 주네.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P0013_4",
+    "en": "Do not speak of this again — there are people who would blame me for it.",
+    "ko": "이 이야기는 다시 꺼내지 말게. 이 일로 나를 나무랄 사람들이 있으니.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P0014",
+    "en": "May 15",
+    "ko": "5월 15일",
+    "is_header": true
+  },
+  {
+    "id": 40,
+    "tag": "P0015_1",
+    "en": "The ordinary people here know me already, and they are fond of me — the children especially. When I first began to talk with them and ask in a friendly way about their small concerns, some thought I meant to make fun of them, and turned away from me in real ill humour. I did not let it trouble me.",
+    "ko": "이곳의 보통 사람들은 벌써 나를 알아보고 나를 좋아하네. 특히 아이들이 그렇지. 처음에 내가 그들에게 말을 걸고 그들의 자잘한 일들을 다정하게 물었을 때, 더러는 내가 저희를 놀리는 줄 알고 정말로 언짢아하며 돌아섰네. 나는 그것을 마음에 두지 않았네.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P0015_2",
+    "en": "I only felt very keenly something I have often noticed before. People of a certain rank keep coldly aloof from ordinary people, as though contact with them would cost them their standing.",
+    "ko": "다만 전부터 여러 번 느껴 온 것을 아주 절실하게 느꼈을 뿐이지. 어느 정도 지위가 있는 사람들은 보통 사람들과 차갑게 거리를 두네. 마치 가까이하면 제 위신을 잃기라도 할 것처럼.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P0015_3",
+    "en": "Meanwhile idlers and bad jokers stoop to their level, only to make the poor feel their insolence all the more sharply.",
+    "ko": "그런가 하면 한량들과 짓궂은 농담꾼들은 그들 수준으로 몸을 낮추는데, 그것은 오직 가난한 이들에게 제 무례를 더 따갑게 느끼게 하려는 짓일 뿐이네.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P0016",
+    "en": "I know perfectly well that we are not all equal, and cannot be. But in my view, the man who keeps away from ordinary people in order not to lose their respect is as much to blame as a coward who hides from his enemy for fear of being beaten.",
+    "ko": "우리가 모두 평등하지 않다는 것, 또 그럴 수도 없다는 것은 나도 아주 잘 아네. 그러나 내 생각으로는, 존경을 잃지 않으려고 보통 사람들을 멀리하는 자는, 패할까 두려워 적에게서 숨는 겁쟁이만큼이나 잘못이네.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P0017_1",
+    "en": "The other day I went down to the fountain and found a young servant-girl who had set her pitcher on the bottom step and was looking round to see whether one of her companions was coming to help her lift it onto her head. I ran down and looked at her. \"Shall I help you, my girl?\" I said.",
+    "ko": "며칠 전 샘으로 내려갔다가 젊은 하녀를 만났네. 물동이를 맨 아랫계단에 내려놓고, 동무 가운데 누가 와서 머리에 얹는 것을 도와주지 않나 둘러보고 있더군. 나는 달려 내려가 그 아이를 바라보았네. \"내가 도와줄까, 아가씨?\" 하고 내가 말했네.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P0017_2",
+    "en": "She blushed deeply. \"Oh, sir!\" she exclaimed. \"No ceremony!\" I replied.",
+    "ko": "그 아이는 얼굴을 붉혔네. \"어머, 나리!\" 하고 그 애가 외쳤네. \"사양할 것 없네!\" 하고 내가 답했지.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P0017_3",
+    "en": "She straightened the pad on her head, and I helped her. She thanked me and went up the steps.",
+    "ko": "그 애가 머리에 얹는 받침을 바로 하자 내가 거들어 주었네. 그 애는 고맙다고 인사하고 계단을 올라갔네.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P0018",
+    "en": "May 17",
+    "ko": "5월 17일",
+    "is_header": true
+  },
+  {
+    "id": 48,
+    "tag": "P0019_1",
+    "en": "I have made all sorts of acquaintances, but so far I have found no real company. I do not know what it is about me that attracts people; so many of them like me and attach themselves to me. And then I am sorry when the road we travel together runs only a short way.",
+    "ko": "온갖 사람들과 알고 지내게 되었네만, 아직 참된 사귐은 찾지 못했네. 내게 무엇이 있어 사람들을 끄는지 나도 모르겠네. 많은 이들이 나를 좋아하고 내게 붙좇네. 그러다 함께 가는 길이 잠깐밖에 되지 않으면 나는 서운해지고 말지.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P0019_2",
+    "en": "If you ask what the people here are like, I have to answer: the same as everywhere. The human race is a monotonous business. Most of them work the greater part of their lives merely to stay alive.",
+    "ko": "이곳 사람들이 어떠냐고 묻는다면, 나는 이렇게 답할 수밖에 없네. 어디나 마찬가지라고. 인간이라는 족속은 단조로운 것일세. 대개는 그저 목숨을 잇기 위해 한평생의 태반을 일하며 보내네.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P0019_3",
+    "en": "And the scrap of freedom left over troubles them so much that they will do anything to be rid of it. Oh, the destiny of man!",
+    "ko": "그러고 남은 한 줌의 자유는 또 어찌나 그들을 괴롭히는지, 그것을 떨쳐 내려고 무슨 짓이든 하지. 아, 인간의 운명이여!",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P0020_1",
+    "en": "But they are a thoroughly good sort of people. Sometimes I forget myself and share in the innocent pleasures still left to country people — enjoying myself freely and sincerely round a well-filled table, arranging an outing or a dance at the right moment, and so on. All of it does my spirits good.",
+    "ko": "그래도 그들은 두루 좋은 사람들일세. 때로 나는 나를 잊고, 시골 사람들에게 아직 남아 있는 순박한 즐거움에 끼어드네. 잘 차린 상에 둘러앉아 거리낌 없이 진심으로 즐기기도 하고, 때맞춰 소풍이나 춤판을 벌이기도 하지. 그 모든 것이 내 기분을 좋게 해 주네.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P0020_2",
+    "en": "Only I must not remember how many other powers lie sleeping in me, rotting unused, that I am obliged to keep carefully hidden. Ah, that thought weighs on me terribly. And yet to be misunderstood is the fate of people like us.",
+    "ko": "다만 내 안에 얼마나 많은 다른 힘들이 쓰이지 못한 채 잠들어 썩어 가고 있는지, 그리고 그것을 내가 조심스레 감추어야 한다는 것을 떠올려서는 안 되네. 아, 그 생각은 나를 끔찍하게 짓누르네. 그러나 오해받는 것이야말로 우리 같은 사람들의 운명이지.",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P0021_1",
+    "en": "Oh, that the friend of my youth is gone! Oh, that I ever knew her! I might tell myself: \"You are a dreamer, to look for what is not to be found here on earth.\"",
+    "ko": "아, 내 젊은 날의 벗이 가 버렸구나! 아, 내가 그 사람을 알았다는 것이! 나는 스스로에게 이렇게 말할 수도 있으리라. \"너는 몽상가다. 이 땅에서는 찾을 수 없는 것을 찾고 있으니.\"",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P0021_2",
+    "en": "But she was mine. I possessed that heart, that noble soul, in whose presence I seemed more than I really was, because I was everything I was capable of being. Good heavens! Was a single power of my soul left unused?",
+    "ko": "그러나 그 사람은 내 것이었네. 나는 그 마음을, 그 고귀한 영혼을 가졌었네. 그 앞에서 나는 실제의 나보다 더한 사람으로 보였지. 내가 될 수 있는 모든 것이 되어 있었기 때문일세. 맙소사! 내 영혼의 힘 가운데 쓰이지 않은 것이 하나라도 있었던가?",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P0021_3",
+    "en": "In her presence, could I not unfold to the full that mysterious feeling with which my heart takes hold of nature? Wasn't everything between us a constant weaving of the finest feeling and the keenest wit, whose every variation — even at its most eccentric — bore the stamp of genius?",
+    "ko": "그 사람 앞에서 나는, 내 가슴이 자연을 끌어안는 그 신비로운 감정을 남김없이 펼쳐 보이지 않았던가? 우리 사이의 모든 것은 더없이 섬세한 감정과 더없이 예리한 기지가 쉼 없이 짜여 가는 것이 아니었던가? 그 온갖 변주는 가장 엉뚱할 때조차 천재의 각인을 지니고 있었네.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P0021_4",
+    "en": "And the few years by which she was older than me brought her to the grave before me. I can never forget her steady mind or her heavenly patience.",
+    "ko": "그리고 그 사람이 나보다 몇 해 위였다는 그 몇 해가, 나보다 먼저 그 사람을 무덤으로 데려갔네. 나는 그 사람의 흔들림 없는 정신과 천상 같은 인내를 결코 잊지 못하네.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P0022_1",
+    "en": "A few days ago I met a young man called V—, frank and open, with a most pleasing face. He has just left the university. He does not think himself a great sage, but he does believe he knows more than other people.",
+    "ko": "며칠 전 V—라는 젊은이를 만났네. 솔직하고 트인 사람이고, 더없이 호감 가는 얼굴을 하고 있더군. 대학을 막 나온 참이었네. 스스로를 대단한 현자로 여기지는 않지만, 남들보다는 많이 안다고 믿고 있더군.",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P0022_2",
+    "en": "He has worked hard — I can tell that from a dozen things — and in short he has a large stock of information.",
+    "ko": "열심히 공부해 온 것은 여러 가지로 알 수 있었고, 요컨대 아는 것을 꽤 많이 쌓아 두고 있었네.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P0022_3",
+    "en": "When he heard that I draw a good deal and that I know Greek — two remarkable things in this part of the country — he came to see me and unpacked his whole store of learning, from Batteaux to Wood, from De Piles to Winkelmann.",
+    "ko": "내가 그림을 많이 그린다는 것과 그리스어를 안다는 것 — 이 고장에서는 둘 다 대단한 일이지 — 을 듣고는 나를 찾아와, 바토에서 우드까지, 드 필에서 빙켈만까지 제 학식을 몽땅 풀어놓았네.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P0022_4",
+    "en": "He assured me he had read right through the first part of Sultzer's theory, and that he owned a manuscript of Heyne's work on the study of antiquity. I let it all go by.",
+    "ko": "줄처의 이론 제1부를 처음부터 끝까지 읽었고, 고대 연구에 관한 하이네의 저작 필사본도 가지고 있다고 장담하더군. 나는 그 모든 것을 그냥 흘려보냈네.",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P0023_1",
+    "en": "I have also got to know a very worthy man, the district judge — frank and open-hearted. They tell me it is a delightful sight to see him among his children; he has nine of them. His eldest daughter especially is spoken of very highly.",
+    "ko": "또 아주 훌륭한 사람도 알게 되었네. 이 고을의 법관인데, 솔직하고 마음이 열린 이일세. 아이들 틈에 있는 모습을 보면 참으로 흐뭇하다고들 하더군. 아이가 아홉이라네. 특히 맏딸에 대한 평판이 아주 좋네.",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P0023_2",
+    "en": "He has invited me to visit, and I mean to go at the first opportunity. He lives at one of the royal hunting-lodges, an hour and a half away on foot. He was given leave to live there after losing his wife, since it is so painful for him to stay in town and at the court.",
+    "ko": "나더러 한번 오라고 청했고, 나도 기회가 닿는 대로 가 볼 생각일세. 그는 왕실 사냥막 가운데 하나에 살고 있는데, 걸어서 한 시간 반 거리일세. 아내를 잃은 뒤 그곳에 살도록 허락을 받았다는군. 성안과 궁정에 머무는 것이 그에게는 너무 괴로웠던 것이지.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P0024",
+    "en": "A few other odd characters have crossed my path as well — questionable sorts, undesirable in every way, and most unbearable in their displays of friendship. Goodbye. This letter will please you — it is quite historical.",
+    "ko": "그 밖에도 몇몇 별난 자들이 내 앞을 스쳐 갔네. 수상쩍은 부류에, 어느 모로 보나 달갑지 않고, 우정을 내보일 때가 가장 견디기 어려운 이들이지. 잘 있게. 이 편지는 자네 마음에 들 걸세. 아주 사실 그대로니까.",
+    "is_header": false
+  }
+]

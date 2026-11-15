@@ -135,12 +135,15 @@ def build_epub():
     book_id = f"urn:uuid:{uuid.uuid4()}"
     pub_date = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
 
-    cover_path = os.path.join(BASE_DIR, "covers", "cover_eng_ko_square.jpg")
-    if not os.path.exists(cover_path):
-        cover_path = os.path.join(BASE_DIR, "images", "cover.jpg")
-    if not os.path.exists(cover_path):
-        cover_path = os.path.join(BASE_DIR, "cover.jpg")
-    has_cover = os.path.exists(cover_path)
+    cover_cand = [
+        os.path.join(BASE_DIR, "cover_ko.jpg"),
+        os.path.join(BASE_DIR, "cover.jpg"),
+        os.path.join(BASE_DIR, "cover_ko.png"),
+        os.path.join(BASE_DIR, "covers", "cover_eng_ko_square.jpg"),
+        os.path.join(BASE_DIR, "images", "cover.jpg")
+    ]
+    cover_path = next((c for c in cover_cand if os.path.exists(c)), None)
+    has_cover = cover_path is not None
     if has_cover:
         print(f"Embedding cover image from: {cover_path}")
 

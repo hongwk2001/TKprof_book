@@ -1,786 +1,786 @@
 [
-    {
-        "id": 1,
-        "tag": "P001",
-        "raw": "CHAPTER XVII. One Night",
-        "en": "[Chapter 17] One Night",
-        "ko": "",
-        "is_header": true
-    },
-    {
-        "id": 2,
-        "tag": "P002_1",
-        "raw": "Never did the sun go down with a brighter glory on the quiet corner in Soho, than one memorable evening when the Doctor and his daughter sat under the plane-tree together.",
-        "en": "The sun never set with a brighter glory on the quiet corner in Soho than one memorable evening when the Doctor and his daughter sat together under the plane tree.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 3,
-        "tag": "P002_2",
-        "raw": "Never did the moon rise with a milder radiance over great London, than on that night when it found them still seated under the tree, and shone upon their faces through its leaves.",
-        "en": "The moon never rose with a softer light over London than on that night, shining on their faces through the leaves.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 4,
-        "tag": "P003_1",
-        "raw": "Lucie was to be married to-morrow.",
-        "en": "Lucie was to be married the next day.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 5,
-        "tag": "P003_2",
-        "raw": "She had reserved this last evening for her father, and they sat alone under the plane-tree.",
-        "en": "She had reserved this last evening for her father, and they sat alone under the tree.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 6,
-        "tag": "P004",
-        "raw": "“You are happy, my dear father?”",
-        "en": "\"Are you happy, my dear father?\"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 7,
-        "tag": "P005",
-        "raw": "“Quite, my child.”",
-        "en": "\"Quite, my child.\"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 8,
-        "tag": "P006_1",
-        "raw": "They had said little, though they had been there a long time.",
-        "en": "They had said very little, though they had been sitting there a long time.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 9,
-        "tag": "P006_2",
-        "raw": "When it was yet light enough to work and read, she had neither engaged herself in her usual work, nor had she read to him.",
-        "en": "When it was still light enough to read and work, she had done neither.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 10,
-        "tag": "P006_3",
-        "raw": "She had employed herself in both ways, at his side under the tree, many and many a time; but, this time was not quite like any other, and nothing could make it so.",
-        "en": "Usually, she sat by his side under the tree working or reading to him, but this evening was different from any other.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 11,
-        "tag": "P007_1",
-        "raw": "“And I am very happy to-night, dear father.",
-        "en": "\"I am very happy tonight, dear father.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 12,
-        "tag": "P007_2",
-        "raw": "I am deeply happy in the love that Heaven has so blessed--my love for Charles, and Charles’s love for me.",
-        "en": "I am deeply happy in my love for Charles, and Charles’s love for me.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 13,
-        "tag": "P007_3",
-        "raw": "But, if my life were not to be still consecrated to you, or if my marriage were so arranged as that it would part us, even by the length of a few of these streets, I should be more unhappy and self-reproachful now than I can tell you.",
-        "en": "But if my life were not still dedicated to you, or if my marriage separated us, even by a few streets, I would be very unhappy.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 14,
-        "tag": "P007_4",
-        "raw": "Even as it is--”",
-        "en": "Even as it is, \"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 15,
-        "tag": "P008",
-        "raw": "Even as it was, she could not command her voice.",
-        "en": "Her voice faltered, and she could not finish.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 16,
-        "tag": "P009_1",
-        "raw": "In the sad moonlight, she clasped him by the neck, and laid her face upon his breast.",
-        "en": "In the soft moonlight, she hugged him by the neck and rested her face on his chest.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 17,
-        "tag": "P009_2",
-        "raw": "In the moonlight which is always sad, as the light of the sun itself is--as the light called human life is--at its coming and its going.",
-        "en": "They sat in the moonlight, which always feels a little sad, like human life itself.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 18,
-        "tag": "P010_1",
-        "raw": "“Dearest dear!",
-        "en": "\"Dearest father!",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 19,
-        "tag": "P010_2",
-        "raw": "Can you tell me, this last time, that you feel quite, quite sure, no new affections of mine, and no new duties of mine, will ever interpose between us? _I_ know it well, but do you know it?",
-        "en": "Can you tell me, this last time, that you are sure my new love and duties will never stand between us?",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 20,
-        "tag": "P010_3",
-        "raw": "In your own heart, do you feel quite certain?”",
-        "en": "I know it, but do you know it in your heart?\"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 21,
-        "tag": "P011",
-        "raw": "Her father answered, with a cheerful firmness of conviction he could scarcely have assumed, “Quite sure, my darling! More than that,” he added, as he tenderly kissed her: “my future is far brighter, Lucie, seen through your marriage, than it could have been--nay, than it ever was--without it.”",
-        "en": "Her father answered with a firm, cheerful conviction: \"I am quite sure, my darling!\" He kissed her tenderly and added, \"More than that, my future looks much brighter, Lucie, because of your marriage than it ever did without it.\"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 22,
-        "tag": "P012",
-        "raw": "“If I could hope _that_, my father!--”",
-        "en": "\"If I could only hope that, father!\"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 23,
-        "tag": "P013_1",
-        "raw": "“Believe it, love!",
-        "en": "\"Believe it, my love!",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 24,
-        "tag": "P013_2",
-        "raw": "Indeed it is so.",
-        "en": "Indeed it is true.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 25,
-        "tag": "P013_3",
-        "raw": "Consider how natural and how plain it is, my dear, that it should be so.",
-        "en": "Consider how natural and how plain it is, my dear, that things should be this way.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 26,
-        "tag": "P013_4",
-        "raw": "You, devoted and young, cannot fully appreciate the anxiety I have felt that your life should not be wasted--”",
-        "en": "You are young, and you cannot fully understand how much I worried that your life would be wasted, \"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 27,
-        "tag": "P014",
-        "raw": "She moved her hand towards his lips, but he took it in his, and repeated the word.",
-        "en": "She put her hand to his lips to stop him, but he took her hand and repeated the word.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 28,
-        "tag": "P015_1",
-        "raw": "“--wasted, my child--should not be wasted, struck aside from the natural order of things--for my sake.",
-        "en": "\", wasted, my child, for my sake. Your unselfishness prevents you from seeing how much I thought about this.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 29,
-        "tag": "P015_2",
-        "raw": "Your unselfishness cannot entirely comprehend how much my mind has gone on this; but, only ask yourself, how could my happiness be perfect, while yours was incomplete?”",
-        "en": "But ask yourself: how could I be perfectly happy if your happiness was incomplete?\"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 30,
-        "tag": "P016",
-        "raw": "“If I had never seen Charles, my father, I should have been quite happy with you.”",
-        "en": "\"If I had never met Charles, father, I would have been perfectly happy with you.\"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 31,
-        "tag": "P017",
-        "raw": "He smiled at her unconscious admission that she would have been unhappy without Charles, having seen him; and replied:",
-        "en": "He smiled at her admission that she would be unhappy without Charles now that she had met him, and replied:",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 32,
-        "tag": "P018_1",
-        "raw": "“My child, you did see him, and it is Charles.",
-        "en": "\"My child, you did meet him.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 33,
-        "tag": "P018_2",
-        "raw": "If it had not been Charles, it would have been another.",
-        "en": "If it hadn't been Charles, it would have been someone else.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 34,
-        "tag": "P018_3",
-        "raw": "Or, if it had been no other, I should have been the cause, and then the dark part of my life would have cast its shadow beyond myself, and would have fallen on you.”",
-        "en": "Or if you had never married, I would have been the cause, and the shadow of my past imprisonment would have ruined your life too.\"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 35,
-        "tag": "P019_1",
-        "raw": "It was the first time, except at the trial, of her ever hearing him refer to the period of his suffering.",
-        "en": "It was the first time, other than at the trial, that she had heard him speak of his time in prison.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 36,
-        "tag": "P019_2",
-        "raw": "It gave her a strange and new sensation while his words were in her ears; and she remembered it long afterwards.",
-        "en": "Hearing his words gave her a strange feeling, which she remembered long afterward.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 37,
-        "tag": "P020_1",
-        "raw": "“See!” said the Doctor of Beauvais, raising his hand towards the moon. “I have looked at her from my prison-window, when I could not bear her light.",
-        "en": "\"Look!\" said the Doctor, pointing toward the moon. \"I watched the moon from my prison window when I couldn't bear its light.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 38,
-        "tag": "P020_2",
-        "raw": "I have looked at her when it has been such torture to me to think of her shining upon what I had lost, that I have beaten my head against my prison-walls.",
-        "en": "I watched it when it was torture to think of it shining on everything I had lost, and I beat my head against the prison walls.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 39,
-        "tag": "P020_3",
-        "raw": "I have looked at her, in a state so dull and lethargic, that I have thought of nothing but the number of horizontal lines I could draw across her at the full, and the number of perpendicular lines with which I could intersect them.” He added in his inward and pondering manner, as he looked at the moon, “It was twenty either way, I remember, and the twentieth was difficult to squeeze in.”",
-        "en": "I watched it when I was so numb and depressed that I could only count the lines I could draw across it. I remember there were twenty lines either way, and the twentieth was hard to squeeze in.\"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 40,
-        "tag": "P021_1",
-        "raw": "The strange thrill with which she heard him go back to that time, deepened as he dwelt upon it; but, there was nothing to shock her in the manner of his reference.",
-        "en": "The strange feeling she had hearing him talk of his prison years deepened as he continued, though his tone was calm.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 41,
-        "tag": "P021_2",
-        "raw": "He only seemed to contrast his present cheerfulness and felicity with the dire endurance that was over.",
-        "en": "He was simply contrasting his present happiness with his past suffering.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 42,
-        "tag": "P022_1",
-        "raw": "“I have looked at her, speculating thousands of times upon the unborn child from whom I had been rent.",
-        "en": "\"I watched the moon, wondering thousands of times about the child I had been torn from.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 43,
-        "tag": "P022_2",
-        "raw": "Whether it was alive.",
-        "en": "I wondered if it was alive, or if the shock had killed its mother.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 44,
-        "tag": "P022_3",
-        "raw": "Whether it had been born alive, or the poor mother’s shock had killed it.",
-        "en": "I wondered if it was a son who would one day avenge me.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 45,
-        "tag": "P022_4",
-        "raw": "Whether it was a son who would some day avenge his father. (There was a time in my imprisonment, when my desire for vengeance was unbearable.) Whether it was a son who would never know his father’s story; who might even live to weigh the possibility of his father’s having disappeared of his own will and act.",
-        "en": "There was a time when my desire for vengeance was unbearable. I wondered if it was a son who would never know my story, or might believe I had disappeared on purpose.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 46,
-        "tag": "P022_5",
-        "raw": "Whether it was a daughter who would grow to be a woman.”",
-        "en": "Or if it was a daughter who would grow up to be a woman.\"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 47,
-        "tag": "P023",
-        "raw": "She drew closer to him, and kissed his cheek and his hand.",
-        "en": "She drew closer, kissing his cheek and hand.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 48,
-        "tag": "P024_1",
-        "raw": "“I have pictured my daughter, to myself, as perfectly forgetful of me--rather, altogether ignorant of me, and unconscious of me.",
-        "en": "\"I imagined my daughter grew up completely ignorant of me.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 49,
-        "tag": "P024_2",
-        "raw": "I have cast up the years of her age, year after year.",
-        "en": "I counted her age, year after year.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 50,
-        "tag": "P024_3",
-        "raw": "I have seen her married to a man who knew nothing of my fate.",
-        "en": "I imagined her married to a man who knew nothing of my fate.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 51,
-        "tag": "P024_4",
-        "raw": "I have altogether perished from the remembrance of the living, and in the next generation my place was a blank.”",
-        "en": "I was entirely forgotten by the living, and my place in the family was a blank.\"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 52,
-        "tag": "P025_1",
-        "raw": "“My father!",
-        "en": "\"My father!",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 53,
-        "tag": "P025_2",
-        "raw": "Even to hear that you had such thoughts of a daughter who never existed, strikes to my heart as if I had been that child.”",
-        "en": "Even hearing that you had such thoughts makes my heart ache as if I had been that child.\"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 54,
-        "tag": "P026_1",
-        "raw": "“You, Lucie?",
-        "en": "\"You, Lucie?",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 55,
-        "tag": "P026_2",
-        "raw": "It is out of the Consolation and restoration you have brought to me, that these remembrances arise, and pass between us and the moon on this last night.--What did I say just now?”",
-        "en": "These memories only arise because of the healing and happiness you have brought me. We share them on this last night under the moon. What was I saying just now?\"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 56,
-        "tag": "P027",
-        "raw": "“She knew nothing of you. She cared nothing for you.”",
-        "en": "\"You said she knew nothing of you and did not care.\"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 57,
-        "tag": "P028_1",
-        "raw": "“So!",
-        "en": "\"Yes.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 58,
-        "tag": "P028_2",
-        "raw": "But on other moonlight nights, when the sadness and the silence have touched me in a different way--have affected me with something as like a sorrowful sense of peace, as any emotion that had pain for its foundations could--I have imagined her as coming to me in my cell, and leading me out into the freedom beyond the fortress.",
-        "en": "But on other nights, when the silence brought a sad peace, I imagined her coming to my cell and leading me out to freedom. I saw her figure in the moonlight, just as I see you now, though I could never hold her.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 59,
-        "tag": "P028_3",
-        "raw": "I have seen her image in the moonlight often, as I now see you; except that I never held her in my arms; it stood between the little grated window and the door.",
-        "en": "I have often seen her image in the moonlight, just as I see you now, except that I never held her in my arms; the image stood between the small barred window and the door.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 60,
-        "tag": "P028_4",
-        "raw": "But, you understand that that was not the child I am speaking of?”",
-        "en": "But you understand that was not the child I am speaking of?\"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 61,
-        "tag": "P029",
-        "raw": "“The figure was not; the--the--image; the fancy?”",
-        "en": "\"The image was not the real child, but a fancy?\"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 62,
-        "tag": "P030_1",
-        "raw": "“No. That was another thing.",
-        "en": "\"No, that was a phantom.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 63,
-        "tag": "P030_2",
-        "raw": "It stood before my disturbed sense of sight, but it never moved.",
-        "en": "The child my mind pursued was more real.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 64,
-        "tag": "P030_3",
-        "raw": "The phantom that my mind pursued, was another and more real child.",
-        "en": "I only knew she looked like her mother.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 65,
-        "tag": "P030_4",
-        "raw": "Of her outward appearance I know no more than that she was like her mother. The other had that likeness too--as you have--but was not the same.",
-        "en": "The phantom looked like her mother too, as you do, but it was different.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 66,
-        "tag": "P030_5",
-        "raw": "Can you follow me, Lucie?",
-        "en": "Can you follow me, Lucie?",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 67,
-        "tag": "P030_6",
-        "raw": "Hardly, I think?",
-        "en": "Probably not.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 68,
-        "tag": "P030_7",
-        "raw": "I doubt you must have been a solitary prisoner to understand these perplexed distinctions.”",
-        "en": "I think only a prisoner could understand these strange distinctions.\"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 69,
-        "tag": "P031",
-        "raw": "His collected and calm manner could not prevent her blood from running cold, as he thus tried to anatomise his old condition.",
-        "en": "His calm manner did not stop her from feeling a chill as he analyzed his old state of mind.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 70,
-        "tag": "P032_1",
-        "raw": "“In that more peaceful state, I have imagined her, in the moonlight, coming to me and taking me out to show me that the home of her married life was full of her loving remembrance of her lost father.",
-        "en": "\"In that peaceful state, I imagined her leading me out to show me her married home, which was full of loving memories of her lost father.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 71,
-        "tag": "P032_2",
-        "raw": "My picture was in her room, and I was in her prayers.",
-        "en": "My picture was on her wall, and I was in her prayers.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 72,
-        "tag": "P032_3",
-        "raw": "Her life was active, cheerful, useful; but my poor history pervaded it all.”",
-        "en": "Her life was active and happy, but my story was part of it.\"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 73,
-        "tag": "P033",
-        "raw": "“I was that child, my father, I was not half so good, but in my love that was I.”",
-        "en": "\"I was that child, father. I was not nearly as good, but in my love, that was me.\"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 74,
-        "tag": "P034_1",
-        "raw": "“And she showed me her children,” said the Doctor of Beauvais, “and they had heard of me, and had been taught to pity me.",
-        "en": "The Doctor said, \"And she showed me her children, who had been taught to pity me.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 75,
-        "tag": "P034_2",
-        "raw": "When they passed a prison of the State, they kept far from its frowning walls, and looked up at its bars, and spoke in whispers.",
-        "en": "When they passed a state prison, they looked at the bars and spoke in whispers.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 76,
-        "tag": "P034_3",
-        "raw": "She could never deliver me; I imagined that she always brought me back after showing me such things.",
-        "en": "She could never rescue me; I imagined she always brought me back to my cell afterward.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 77,
-        "tag": "P034_4",
-        "raw": "But then, blessed with the relief of tears, I fell upon my knees, and blessed her.”",
-        "en": "But then, relieved by tears, I knelt and blessed her.\"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 78,
-        "tag": "P035_1",
-        "raw": "“I am that child, I hope, my father.",
-        "en": "\"I am that child, father.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 79,
-        "tag": "P035_2",
-        "raw": "O my dear, my dear, will you bless me as fervently to-morrow?”",
-        "en": "I hope you will bless me just as warmly tomorrow.\"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 80,
-        "tag": "P036_1",
-        "raw": "“Lucie, I recall these old troubles in the reason that I have to-night for loving you better than words can tell, and thanking God for my great happiness.",
-        "en": "\"Lucie, I remember these old troubles tonight only because they show how much I love you and how grateful I am to God.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 81,
-        "tag": "P036_2",
-        "raw": "My thoughts, when they were wildest, never rose near the happiness that I have known with you, and that we have before us.”",
-        "en": "My wildest thoughts in prison never imagined the happiness I have found with you, and what lies ahead for us.\"",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 82,
-        "tag": "P037_1",
-        "raw": "He embraced her, solemnly commended her to Heaven, and humbly thanked Heaven for having bestowed her on him.",
-        "en": "He hugged her, blessed her, and thanked God for giving her to him.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 83,
-        "tag": "P037_2",
-        "raw": "By-and-bye, they went into the house.",
-        "en": "After a while, they went inside.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 84,
-        "tag": "P038_1",
-        "raw": "There was no one bidden to the marriage but Mr.",
-        "en": "No one was invited to the wedding except Mr.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 85,
-        "tag": "P038_2",
-        "raw": "Lorry; there was even to be no bridesmaid but the gaunt Miss Pross.",
-        "en": "Lorry, and Miss Pross was the only bridesmaid.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 86,
-        "tag": "P038_3",
-        "raw": "The marriage was to make no change in their place of residence; they had been able to extend it, by taking to themselves the upper rooms formerly belonging to the apocryphal invisible lodger, and they desired nothing more.",
-        "en": "The marriage would not change where they lived. They had simply rented the upper rooms formerly belonging to the invisible lodger, and needed nothing more.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 87,
-        "tag": "P039_1",
-        "raw": "Doctor Manette was very cheerful at the little supper.",
-        "en": "Doctor Manette was very cheerful at dinner.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 88,
-        "tag": "P039_2",
-        "raw": "They were only three at table, and Miss Pross made the third.",
-        "en": "Only the three of them sat at the table: the Doctor, Lucie, and Miss Pross.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 89,
-        "tag": "P039_3",
-        "raw": "He regretted that Charles was not there; was more than half disposed to object to the loving little plot that kept him away; and drank to him affectionately.",
-        "en": "He regretted that Charles was not there, joking about the custom that kept him away, and drank a toast to him.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 90,
-        "tag": "P040_1",
-        "raw": "So, the time came for him to bid Lucie good night, and they separated.",
-        "en": "Finally, it was time to say good night, and they went to bed.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 91,
-        "tag": "P040_2",
-        "raw": "But, in the stillness of the third hour of the morning, Lucie came downstairs again, and stole into his room; not free from unshaped fears, beforehand.",
-        "en": "But in the quiet hours of the morning, Lucie came downstairs and crept into his room, feeling a sudden fear.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 92,
-        "tag": "P041_1",
-        "raw": "All things, however, were in their places; all was quiet; and he lay asleep, his white hair picturesque on the untroubled pillow, and his hands lying quiet on the coverlet.",
-        "en": "However, everything was in its place and quiet. He lay asleep, his white hair neat on the pillow, and his hands still.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 93,
-        "tag": "P041_2",
-        "raw": "She put her needless candle in the shadow at a distance, crept up to his bed, and put her lips to his; then, leaned over him, and looked at him.",
-        "en": "She put her unneeded candle in the shadows far away, crept up to his bed, and put her lips to his; then, she leaned over him, and looked at him.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 94,
-        "tag": "P042_1",
-        "raw": "Into his handsome face, the bitter waters of captivity had worn; but, he covered up their tracks with a determination so strong, that he held the mastery of them even in his sleep.",
-        "en": "His face still showed the worn lines of his long imprisonment, but he controlled his expressions even in his sleep.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 95,
-        "tag": "P042_2",
-        "raw": "A more remarkable face in its quiet, resolute, and guarded struggle with an unseen assailant, was not to be beheld in all the wide dominions of sleep, that night.",
-        "en": "A more remarkable face, in its quiet, determined, and guarded struggle with an unseen attacker, could not be found anywhere else in the wide world of sleep that night.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 96,
-        "tag": "P043_1",
-        "raw": "She timidly laid her hand on his dear breast, and put up a prayer that she might ever be as true to him as her love aspired to be, and as his sorrows deserved.",
-        "en": "She gently laid her hand on his chest, praying she would always be a good daughter to him.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 97,
-        "tag": "P043_2",
-        "raw": "Then, she withdrew her hand, and kissed his lips once more, and went away.",
-        "en": "Then she kissed him again and left.",
-        "ko": "",
-        "is_header": false
-    },
-    {
-        "id": 98,
-        "tag": "P043_3",
-        "raw": "So, the sunrise came, and the shadows of the leaves of the plane-tree moved upon his face, as softly as her lips had moved in praying for him.",
-        "en": "Soon the sun rose, and the shadows of the tree leaves moved softly across his face.",
-        "ko": "",
-        "is_header": false
-    }
+  {
+    "id": 1,
+    "tag": "P001",
+    "raw": "CHAPTER XVII. One Night",
+    "en": "[Chapter 17] One Night",
+    "ko": "",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P002_1",
+    "raw": "Never did the sun go down with a brighter glory on the quiet corner in Soho, than one memorable evening when the Doctor and his daughter sat under the plane-tree together.",
+    "en": "The sun never set with a brighter glory on the quiet corner in Soho than one memorable evening when the Doctor and his daughter sat together under the plane tree.",
+    "ko": "마네트 박사와 그의 딸이 플라타너스 나무 아래 함께 앉아 있던 잊을 수 없는 어느 날 저녁보다 소호의 조용한 모퉁이에 태양이 더 밝은 영광으로 진 적은 없었다.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P002_2",
+    "raw": "Never did the moon rise with a milder radiance over great London, than on that night when it found them still seated under the tree, and shone upon their faces through its leaves.",
+    "en": "The moon never rose with a softer light over London than on that night, shining on their faces through the leaves.",
+    "ko": "나뭇잎 사이로 그들의 얼굴을 비추던 그날 밤보다 런던 위로 더 부드러운 빛으로 달이 떠오른 적은 결코 없었다.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P003_1",
+    "raw": "Lucie was to be married to-morrow.",
+    "en": "Lucie was to be married the next day.",
+    "ko": "루시는 다음 날 결혼할 예정이었다.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P003_2",
+    "raw": "She had reserved this last evening for her father, and they sat alone under the plane-tree.",
+    "en": "She had reserved this last evening for her father, and they sat alone under the tree.",
+    "ko": "그녀는 이 마지막 저녁을 아버지를 위해 남겨두었고, 그들은 단둘이 나무 아래에 앉아 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P004",
+    "raw": "“You are happy, my dear father?”",
+    "en": "\"Are you happy, my dear father?\"",
+    "ko": "\"행복하세요, 사랑하는 아버지?\"",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P005",
+    "raw": "“Quite, my child.”",
+    "en": "\"Quite, my child.\"",
+    "ko": "\"아주 행복하단다, 내 아가.\"",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P006_1",
+    "raw": "They had said little, though they had been there a long time.",
+    "en": "They had said very little, though they had been sitting there a long time.",
+    "ko": "그들은 거기에 오랫동안 앉아 있었지만, 말을 거의 하지 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P006_2",
+    "raw": "When it was yet light enough to work and read, she had neither engaged herself in her usual work, nor had she read to him.",
+    "en": "When it was still light enough to read and work, she had done neither.",
+    "ko": "책을 읽고 일을 할 수 있을 만큼 아직 밖이 밝았을 때도, 그녀는 어느 것도 하지 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P006_3",
+    "raw": "She had employed herself in both ways, at his side under the tree, many and many a time; but, this time was not quite like any other, and nothing could make it so.",
+    "en": "Usually, she sat by his side under the tree working or reading to him, but this evening was different from any other.",
+    "ko": "평소라면 그녀는 나무 아래에서 그의 곁에 앉아 일을 하거나 그에게 책을 읽어주었지만, 오늘 저녁은 여느 때와 달랐다.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P007_1",
+    "raw": "“And I am very happy to-night, dear father.",
+    "en": "\"I am very happy tonight, dear father.",
+    "ko": "\"저는 오늘 밤 무척 행복해요, 사랑하는 아버지.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P007_2",
+    "raw": "I am deeply happy in the love that Heaven has so blessed--my love for Charles, and Charles’s love for me.",
+    "en": "I am deeply happy in my love for Charles, and Charles’s love for me.",
+    "ko": "저는 찰스에 대한 저의 사랑, 그리고 저에 대한 찰스의 사랑 안에서 깊이 행복합니다.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P007_3",
+    "raw": "But, if my life were not to be still consecrated to you, or if my marriage were so arranged as that it would part us, even by the length of a few of these streets, I should be more unhappy and self-reproachful now than I can tell you.",
+    "en": "But if my life were not still dedicated to you, or if my marriage separated us, even by a few streets, I would be very unhappy.",
+    "ko": "하지만 제 인생이 여전히 아버지께 바쳐지지 않았더라면, 혹은 제 결혼이 우리를 불과 몇 블록 차이로라도 떼어놓는다면, 저는 매우 불행할 거예요.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P007_4",
+    "raw": "Even as it is--”",
+    "en": "Even as it is, \"",
+    "ko": "지금 이대로도, \"",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P008",
+    "raw": "Even as it was, she could not command her voice.",
+    "en": "Her voice faltered, and she could not finish.",
+    "ko": "그녀의 목소리가 흔들렸고, 그녀는 말을 끝맺지 못했다.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P009_1",
+    "raw": "In the sad moonlight, she clasped him by the neck, and laid her face upon his breast.",
+    "en": "In the soft moonlight, she hugged him by the neck and rested her face on his chest.",
+    "ko": "부드러운 달빛 속에서, 그녀는 그의 목을 껴안고 그의 가슴에 얼굴을 기댔다.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P009_2",
+    "raw": "In the moonlight which is always sad, as the light of the sun itself is--as the light called human life is--at its coming and its going.",
+    "en": "They sat in the moonlight, which always feels a little sad, like human life itself.",
+    "ko": "그들은 마치 인간의 삶 그 자체처럼 언제나 약간 슬프게 느껴지는 달빛 속에 앉아 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P010_1",
+    "raw": "“Dearest dear!",
+    "en": "\"Dearest father!",
+    "ko": "\"가장 사랑하는 아버지!",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P010_2",
+    "raw": "Can you tell me, this last time, that you feel quite, quite sure, no new affections of mine, and no new duties of mine, will ever interpose between us? _I_ know it well, but do you know it?",
+    "en": "Can you tell me, this last time, that you are sure my new love and duties will never stand between us?",
+    "ko": "이번 마지막으로, 제 새로운 사랑과 의무가 우리 사이를 결코 갈라놓지 않을 거라고 확신하신다고 말씀해 주실 수 있나요?",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P010_3",
+    "raw": "In your own heart, do you feel quite certain?”",
+    "en": "I know it, but do you know it in your heart?\"",
+    "ko": "저는 알고 있지만, 아버지 마음속에서도 그것을 알고 계신가요?\"",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P011",
+    "raw": "Her father answered, with a cheerful firmness of conviction he could scarcely have assumed, “Quite sure, my darling! More than that,” he added, as he tenderly kissed her: “my future is far brighter, Lucie, seen through your marriage, than it could have been--nay, than it ever was--without it.”",
+    "en": "Her father answered with a firm, cheerful conviction: \"I am quite sure, my darling!\" He kissed her tenderly and added, \"More than that, my future looks much brighter, Lucie, because of your marriage than it ever did without it.\"",
+    "ko": "그녀의 아버지가 확고하고 명랑한 확신에 찬 목소리로 대답했다. \"완전히 확신한단다, 내 사랑!\" 그는 그녀에게 다정하게 입을 맞추고 덧붙였다. \"그것뿐만 아니라, 루시, 네 결혼 덕분에 내 미래가 결혼이 없었을 때보다 훨씬 더 밝아 보인단다.\"",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P012",
+    "raw": "“If I could hope _that_, my father!--”",
+    "en": "\"If I could only hope that, father!\"",
+    "ko": "\"제가 그것만이라도 바랄 수 있다면요, 아버지!\"",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P013_1",
+    "raw": "“Believe it, love!",
+    "en": "\"Believe it, my love!",
+    "ko": "\"믿으렴, 내 사랑!",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P013_2",
+    "raw": "Indeed it is so.",
+    "en": "Indeed it is true.",
+    "ko": "정말로 사실이니까.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P013_3",
+    "raw": "Consider how natural and how plain it is, my dear, that it should be so.",
+    "en": "Consider how natural and how plain it is, my dear, that things should be this way.",
+    "ko": "일이 이렇게 되는 것이 얼마나 자연스럽고 얼마나 당연한 일인지 생각해 보렴, 내 아가.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P013_4",
+    "raw": "You, devoted and young, cannot fully appreciate the anxiety I have felt that your life should not be wasted--”",
+    "en": "You are young, and you cannot fully understand how much I worried that your life would be wasted, \"",
+    "ko": "넌 젊어서, 네 인생이 낭비될까 봐 내가 얼마나 걱정했는지 완전히 이해하지 못할 거란다, \"",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P014",
+    "raw": "She moved her hand towards his lips, but he took it in his, and repeated the word.",
+    "en": "She put her hand to his lips to stop him, but he took her hand and repeated the word.",
+    "ko": "그녀는 그를 막으려 그의 입술에 손을 댔지만, 그는 그녀의 손을 잡고 그 단어를 반복했다.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P015_1",
+    "raw": "“--wasted, my child--should not be wasted, struck aside from the natural order of things--for my sake.",
+    "en": "\", wasted, my child, for my sake. Your unselfishness prevents you from seeing how much I thought about this.",
+    "ko": "\", 나 때문에 낭비될까 봐 말이다, 내 아가. 네 이타심 때문에 내가 이것에 대해 얼마나 많이 생각했는지 넌 보지 못할 거다.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P015_2",
+    "raw": "Your unselfishness cannot entirely comprehend how much my mind has gone on this; but, only ask yourself, how could my happiness be perfect, while yours was incomplete?”",
+    "en": "But ask yourself: how could I be perfectly happy if your happiness was incomplete?\"",
+    "ko": "하지만 네 스스로에게 물어보렴. 네 행복이 불완전한데 어떻게 내가 완벽하게 행복할 수 있겠니?\"",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P016",
+    "raw": "“If I had never seen Charles, my father, I should have been quite happy with you.”",
+    "en": "\"If I had never met Charles, father, I would have been perfectly happy with you.\"",
+    "ko": "\"아빠, 제가 찰스를 만나지 못했더라도, 저는 아버지와 함께라면 완벽하게 행복했을 거예요.\"",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P017",
+    "raw": "He smiled at her unconscious admission that she would have been unhappy without Charles, having seen him; and replied:",
+    "en": "He smiled at her admission that she would be unhappy without Charles now that she had met him, and replied:",
+    "ko": "그녀가 찰스를 만나버린 이상 그가 없다면 불행할 것이라고 시인하는 것에 그는 미소를 지으며 대답했다:",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P018_1",
+    "raw": "“My child, you did see him, and it is Charles.",
+    "en": "\"My child, you did meet him.",
+    "ko": "\"내 아가, 넌 그를 만났잖니.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P018_2",
+    "raw": "If it had not been Charles, it would have been another.",
+    "en": "If it hadn't been Charles, it would have been someone else.",
+    "ko": "찰스가 아니었더라도 다른 사람이었겠지.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P018_3",
+    "raw": "Or, if it had been no other, I should have been the cause, and then the dark part of my life would have cast its shadow beyond myself, and would have fallen on you.”",
+    "en": "Or if you had never married, I would have been the cause, and the shadow of my past imprisonment would have ruined your life too.\"",
+    "ko": "혹은 네가 평생 결혼하지 않았다면 내가 그 원인이었을 것이고, 내 과거 수감 생활의 그림자가 네 삶 또한 망쳐 놓았을 거란다.\"",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P019_1",
+    "raw": "It was the first time, except at the trial, of her ever hearing him refer to the period of his suffering.",
+    "en": "It was the first time, other than at the trial, that she had heard him speak of his time in prison.",
+    "ko": "그녀가 재판 때를 제외하고 그가 감옥에 있던 시절에 대해 말하는 것을 들은 것은 이번이 처음이었다.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P019_2",
+    "raw": "It gave her a strange and new sensation while his words were in her ears; and she remembered it long afterwards.",
+    "en": "Hearing his words gave her a strange feeling, which she remembered long afterward.",
+    "ko": "그의 말을 듣고 그녀는 기묘한 기분을 느꼈고, 그것을 오랫동안 기억했다.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P020_1",
+    "raw": "“See!” said the Doctor of Beauvais, raising his hand towards the moon. “I have looked at her from my prison-window, when I could not bear her light.",
+    "en": "\"Look!\" said the Doctor, pointing toward the moon. \"I watched the moon from my prison window when I couldn't bear its light.",
+    "ko": "\"보렴!\" 달을 가리키며 의사가 말했다. \"그 빛을 견딜 수 없을 때 나는 감옥 창문으로 달을 보았단다.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P020_2",
+    "raw": "I have looked at her when it has been such torture to me to think of her shining upon what I had lost, that I have beaten my head against my prison-walls.",
+    "en": "I watched it when it was torture to think of it shining on everything I had lost, and I beat my head against the prison walls.",
+    "ko": "그것이 내가 잃어버린 모든 것을 비추고 있다고 생각하는 것이 고문 같을 때도 달을 보았고, 감옥 벽에 머리를 찧기도 했지.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P020_3",
+    "raw": "I have looked at her, in a state so dull and lethargic, that I have thought of nothing but the number of horizontal lines I could draw across her at the full, and the number of perpendicular lines with which I could intersect them.” He added in his inward and pondering manner, as he looked at the moon, “It was twenty either way, I remember, and the twentieth was difficult to squeeze in.”",
+    "en": "I watched it when I was so numb and depressed that I could only count the lines I could draw across it. I remember there were twenty lines either way, and the twentieth was hard to squeeze in.\"",
+    "ko": "내가 너무 무감각하고 우울해서 그 위에 그을 수 있는 선의 개수만 세고 있었을 때도 그것을 보았단다. 가로세로 스무 개의 선이 있었고, 스무 번째는 끼워 넣기 어려웠던 기억이 나는구나.\"",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P021_1",
+    "raw": "The strange thrill with which she heard him go back to that time, deepened as he dwelt upon it; but, there was nothing to shock her in the manner of his reference.",
+    "en": "The strange feeling she had hearing him talk of his prison years deepened as he continued, though his tone was calm.",
+    "ko": "그가 감옥 시절에 대해 이야기하는 것을 들으며 느꼈던 그녀의 기묘한 기분은 그의 어조가 차분했음에도 불구하고 그가 말을 계속할수록 깊어졌다.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P021_2",
+    "raw": "He only seemed to contrast his present cheerfulness and felicity with the dire endurance that was over.",
+    "en": "He was simply contrasting his present happiness with his past suffering.",
+    "ko": "그는 그저 자신의 현재 행복과 과거의 고통을 대조하고 있을 뿐이었다.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P022_1",
+    "raw": "“I have looked at her, speculating thousands of times upon the unborn child from whom I had been rent.",
+    "en": "\"I watched the moon, wondering thousands of times about the child I had been torn from.",
+    "ko": "\"나는 내가 강제로 떨어져야 했던 아이에 대해 수천 번이나 궁금해하며 달을 보았단다.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P022_2",
+    "raw": "Whether it was alive.",
+    "en": "I wondered if it was alive, or if the shock had killed its mother.",
+    "ko": "아이가 살아있는지, 아니면 그 충격으로 엄마가 죽었는지 궁금했지.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P022_3",
+    "raw": "Whether it had been born alive, or the poor mother’s shock had killed it.",
+    "en": "I wondered if it was a son who would one day avenge me.",
+    "ko": "언젠가 내 복수를 해줄 아들일까 궁금했지.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P022_4",
+    "raw": "Whether it was a son who would some day avenge his father. (There was a time in my imprisonment, when my desire for vengeance was unbearable.) Whether it was a son who would never know his father’s story; who might even live to weigh the possibility of his father’s having disappeared of his own will and act.",
+    "en": "There was a time when my desire for vengeance was unbearable. I wondered if it was a son who would never know my story, or might believe I had disappeared on purpose.",
+    "ko": "복수심을 견딜 수 없었던 적도 있었단다. 내 이야기를 결코 알지 못하거나, 내가 일부러 사라졌다고 믿을지도 모르는 아들일까 궁금했지.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P022_5",
+    "raw": "Whether it was a daughter who would grow to be a woman.”",
+    "en": "Or if it was a daughter who would grow up to be a woman.\"",
+    "ko": "아니면 자라서 여인이 될 딸일까 하고 말이야.\"",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P023",
+    "raw": "She drew closer to him, and kissed his cheek and his hand.",
+    "en": "She drew closer, kissing his cheek and hand.",
+    "ko": "그녀는 더 가까이 다가가 그의 뺨과 손에 입을 맞추었다.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P024_1",
+    "raw": "“I have pictured my daughter, to myself, as perfectly forgetful of me--rather, altogether ignorant of me, and unconscious of me.",
+    "en": "\"I imagined my daughter grew up completely ignorant of me.",
+    "ko": "\"나는 내 딸이 나에 대해 전혀 모른 채 자라는 모습을 상상했지.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P024_2",
+    "raw": "I have cast up the years of her age, year after year.",
+    "en": "I counted her age, year after year.",
+    "ko": "매년, 나는 그녀의 나이를 세었어.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P024_3",
+    "raw": "I have seen her married to a man who knew nothing of my fate.",
+    "en": "I imagined her married to a man who knew nothing of my fate.",
+    "ko": "나는 그녀가 내 운명에 대해 아무것도 모르는 남자와 결혼하는 것을 상상했어.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P024_4",
+    "raw": "I have altogether perished from the remembrance of the living, and in the next generation my place was a blank.”",
+    "en": "I was entirely forgotten by the living, and my place in the family was a blank.\"",
+    "ko": "나는 산 자들에게 완전히 잊혀졌고, 가족 내에서 내 자리는 공백이었단다.\"",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P025_1",
+    "raw": "“My father!",
+    "en": "\"My father!",
+    "ko": "\"나의 아버지!",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P025_2",
+    "raw": "Even to hear that you had such thoughts of a daughter who never existed, strikes to my heart as if I had been that child.”",
+    "en": "Even hearing that you had such thoughts makes my heart ache as if I had been that child.\"",
+    "ko": "아버지가 그런 생각을 하셨다는 말을 듣기만 해도 마치 제가 그 아이였던 것처럼 마음이 아파요.\"",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P026_1",
+    "raw": "“You, Lucie?",
+    "en": "\"You, Lucie?",
+    "ko": "\"루시, 너 말이니?",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P026_2",
+    "raw": "It is out of the Consolation and restoration you have brought to me, that these remembrances arise, and pass between us and the moon on this last night.--What did I say just now?”",
+    "en": "These memories only arise because of the healing and happiness you have brought me. We share them on this last night under the moon. What was I saying just now?\"",
+    "ko": "이러한 기억들은 네가 나에게 가져다준 치유와 행복 덕분에 떠오르는 거란다. 우리는 달빛 아래 이 마지막 밤에 그것들을 나누고 있구나. 내가 방금 무슨 말을 하고 있었지?\"",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P027",
+    "raw": "“She knew nothing of you. She cared nothing for you.”",
+    "en": "\"You said she knew nothing of you and did not care.\"",
+    "ko": "\"그녀가 아버지에 대해 아무것도 모르고 신경 쓰지도 않는다고 하셨어요.\"",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P028_1",
+    "raw": "“So!",
+    "en": "\"Yes.",
+    "ko": "\"그렇지.",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P028_2",
+    "raw": "But on other moonlight nights, when the sadness and the silence have touched me in a different way--have affected me with something as like a sorrowful sense of peace, as any emotion that had pain for its foundations could--I have imagined her as coming to me in my cell, and leading me out into the freedom beyond the fortress.",
+    "en": "But on other nights, when the silence brought a sad peace, I imagined her coming to my cell and leading me out to freedom. I saw her figure in the moonlight, just as I see you now, though I could never hold her.",
+    "ko": "하지만 침묵이 슬픈 평화를 가져다준 다른 밤들에는, 그녀가 내 감방으로 와서 나를 자유로 이끄는 것을 상상했단다. 내가 그녀를 안아볼 수는 없었지만, 지금 내가 너를 보는 것처럼 달빛 속에서 그녀의 모습을 보았지.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P028_3",
+    "raw": "I have seen her image in the moonlight often, as I now see you; except that I never held her in my arms; it stood between the little grated window and the door.",
+    "en": "I have often seen her image in the moonlight, just as I see you now, except that I never held her in my arms; the image stood between the small barred window and the door.",
+    "ko": "나는 종종 달빛 속에서 그녀의 이미지를 보았단다, 마치 지금 내가 너를 보는 것처럼, 단지 내가 그녀를 품에 안지 못했다는 것만 제외하면 말이야. 그 이미지는 창살이 있는 작은 창문과 문 사이에 서 있었지.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P028_4",
+    "raw": "But, you understand that that was not the child I am speaking of?”",
+    "en": "But you understand that was not the child I am speaking of?\"",
+    "ko": "하지만 그게 내가 말하는 그 아이가 아니었다는 걸 너는 이해하니?\"",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P029",
+    "raw": "“The figure was not; the--the--image; the fancy?”",
+    "en": "\"The image was not the real child, but a fancy?\"",
+    "ko": "\"그 이미지가 진짜 아이가 아니라, 상상이었다는 건가요?\"",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P030_1",
+    "raw": "“No. That was another thing.",
+    "en": "\"No, that was a phantom.",
+    "ko": "\"아니, 그건 환영이었지.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P030_2",
+    "raw": "It stood before my disturbed sense of sight, but it never moved.",
+    "en": "The child my mind pursued was more real.",
+    "ko": "내 마음이 좇던 그 아이는 더 현실적이었단다.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "tag": "P030_3",
+    "raw": "The phantom that my mind pursued, was another and more real child.",
+    "en": "I only knew she looked like her mother.",
+    "ko": "나는 단지 그녀가 그녀의 엄마를 닮았을 거라는 것만 알았어.",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P030_4",
+    "raw": "Of her outward appearance I know no more than that she was like her mother. The other had that likeness too--as you have--but was not the same.",
+    "en": "The phantom looked like her mother too, as you do, but it was different.",
+    "ko": "환영도 네가 그런 것처럼 그녀의 엄마를 닮았었지만, 그것과는 달랐지.",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P030_5",
+    "raw": "Can you follow me, Lucie?",
+    "en": "Can you follow me, Lucie?",
+    "ko": "내 말 이해할 수 있겠니, 루시?",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P030_6",
+    "raw": "Hardly, I think?",
+    "en": "Probably not.",
+    "ko": "아마 못 할 거다.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "tag": "P030_7",
+    "raw": "I doubt you must have been a solitary prisoner to understand these perplexed distinctions.”",
+    "en": "I think only a prisoner could understand these strange distinctions.\"",
+    "ko": "나는 오직 죄수만이 이런 기묘한 차이를 이해할 수 있다고 생각한단다.\"",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "tag": "P031",
+    "raw": "His collected and calm manner could not prevent her blood from running cold, as he thus tried to anatomise his old condition.",
+    "en": "His calm manner did not stop her from feeling a chill as he analyzed his old state of mind.",
+    "ko": "그가 자신의 옛 심리 상태를 분석할 때, 그의 차분한 태도도 그녀가 오싹함을 느끼는 것을 막지는 못했다.",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "tag": "P032_1",
+    "raw": "“In that more peaceful state, I have imagined her, in the moonlight, coming to me and taking me out to show me that the home of her married life was full of her loving remembrance of her lost father.",
+    "en": "\"In that peaceful state, I imagined her leading me out to show me her married home, which was full of loving memories of her lost father.",
+    "ko": "\"그 평화로운 상태에서, 나는 그녀가 나를 데리고 나가 잃어버린 아버지에 대한 사랑스러운 기억으로 가득 찬 그녀의 결혼한 집을 보여주는 것을 상상했단다.",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "tag": "P032_2",
+    "raw": "My picture was in her room, and I was in her prayers.",
+    "en": "My picture was on her wall, and I was in her prayers.",
+    "ko": "그녀의 벽에는 내 사진이 있었고, 나는 그녀의 기도 속에 있었지.",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "tag": "P032_3",
+    "raw": "Her life was active, cheerful, useful; but my poor history pervaded it all.”",
+    "en": "Her life was active and happy, but my story was part of it.\"",
+    "ko": "그녀의 삶은 활기차고 행복했지만, 내 이야기도 그 일부였단다.\"",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "tag": "P033",
+    "raw": "“I was that child, my father, I was not half so good, but in my love that was I.”",
+    "en": "\"I was that child, father. I was not nearly as good, but in my love, that was me.\"",
+    "ko": "\"제가 그 아이였어요, 아버지. 그만큼 훌륭하지는 않았지만, 제 사랑 안에서는 그게 저였어요.\"",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "tag": "P034_1",
+    "raw": "“And she showed me her children,” said the Doctor of Beauvais, “and they had heard of me, and had been taught to pity me.",
+    "en": "The Doctor said, \"And she showed me her children, who had been taught to pity me.",
+    "ko": "의사가 말했다. \"그리고 그녀는 나를 동정하도록 배운 자신의 아이들을 내게 보여주었지.",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "tag": "P034_2",
+    "raw": "When they passed a prison of the State, they kept far from its frowning walls, and looked up at its bars, and spoke in whispers.",
+    "en": "When they passed a state prison, they looked at the bars and spoke in whispers.",
+    "ko": "그들이 주립 감옥을 지나갈 때면 쇠창살을 보며 속삭이듯 말했단다.",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "tag": "P034_3",
+    "raw": "She could never deliver me; I imagined that she always brought me back after showing me such things.",
+    "en": "She could never rescue me; I imagined she always brought me back to my cell afterward.",
+    "ko": "그녀는 결코 나를 구출할 수 없었지. 나는 언제나 그녀가 그 후에 나를 내 감방으로 다시 데려다 놓는다고 상상했어.",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "tag": "P034_4",
+    "raw": "But then, blessed with the relief of tears, I fell upon my knees, and blessed her.”",
+    "en": "But then, relieved by tears, I knelt and blessed her.\"",
+    "ko": "하지만 그러고 나면 눈물로 안도하며 무릎을 꿇고 그녀를 축복했단다.\"",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "tag": "P035_1",
+    "raw": "“I am that child, I hope, my father.",
+    "en": "\"I am that child, father.",
+    "ko": "\"제가 그 아이예요, 아버지.",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "tag": "P035_2",
+    "raw": "O my dear, my dear, will you bless me as fervently to-morrow?”",
+    "en": "I hope you will bless me just as warmly tomorrow.\"",
+    "ko": "내일 저를 똑같이 따뜻하게 축복해 주시기를 바라요.\"",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "tag": "P036_1",
+    "raw": "“Lucie, I recall these old troubles in the reason that I have to-night for loving you better than words can tell, and thanking God for my great happiness.",
+    "en": "\"Lucie, I remember these old troubles tonight only because they show how much I love you and how grateful I am to God.",
+    "ko": "\"루시, 내가 오늘 밤 이 오래된 고난들을 기억하는 건 오직 그것들이 내가 널 얼마나 사랑하는지, 그리고 내가 신께 얼마나 감사하는지를 보여주기 때문이야.",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "tag": "P036_2",
+    "raw": "My thoughts, when they were wildest, never rose near the happiness that I have known with you, and that we have before us.”",
+    "en": "My wildest thoughts in prison never imagined the happiness I have found with you, and what lies ahead for us.\"",
+    "ko": "감옥에서의 내 가장 허황된 생각으로도 내가 너와 함께 찾은 행복과 우리 앞에 놓인 것들을 상상하지 못했단다.\"",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "tag": "P037_1",
+    "raw": "He embraced her, solemnly commended her to Heaven, and humbly thanked Heaven for having bestowed her on him.",
+    "en": "He hugged her, blessed her, and thanked God for giving her to him.",
+    "ko": "그는 그녀를 안고 축복하며, 그녀를 그에게 주신 신께 감사했다.",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "tag": "P037_2",
+    "raw": "By-and-bye, they went into the house.",
+    "en": "After a while, they went inside.",
+    "ko": "잠시 후, 그들은 안으로 들어갔다.",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "tag": "P038_1",
+    "raw": "There was no one bidden to the marriage but Mr.",
+    "en": "No one was invited to the wedding except Mr.",
+    "ko": "결혼식에는 다음 사람을 제외하고는 아무도 초대받지 않았다. 미스터",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "tag": "P038_2",
+    "raw": "Lorry; there was even to be no bridesmaid but the gaunt Miss Pross.",
+    "en": "Lorry, and Miss Pross was the only bridesmaid.",
+    "ko": "로리, 그리고 프로스 양이 유일한 신부 들러리였다.",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "tag": "P038_3",
+    "raw": "The marriage was to make no change in their place of residence; they had been able to extend it, by taking to themselves the upper rooms formerly belonging to the apocryphal invisible lodger, and they desired nothing more.",
+    "en": "The marriage would not change where they lived. They had simply rented the upper rooms formerly belonging to the invisible lodger, and needed nothing more.",
+    "ko": "결혼으로 인해 그들이 사는 곳이 바뀌지는 않았다. 그들은 단지 보이지 않는 하숙인이 예전에 쓰던 위층 방들을 빌렸을 뿐이고, 그 이상은 아무것도 필요하지 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "tag": "P039_1",
+    "raw": "Doctor Manette was very cheerful at the little supper.",
+    "en": "Doctor Manette was very cheerful at dinner.",
+    "ko": "마네트 박사는 저녁 식사 때 매우 유쾌했다.",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "tag": "P039_2",
+    "raw": "They were only three at table, and Miss Pross made the third.",
+    "en": "Only the three of them sat at the table: the Doctor, Lucie, and Miss Pross.",
+    "ko": "의사, 루시, 그리고 프로스 양, 이렇게 세 사람만이 식탁에 앉았다.",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "tag": "P039_3",
+    "raw": "He regretted that Charles was not there; was more than half disposed to object to the loving little plot that kept him away; and drank to him affectionately.",
+    "en": "He regretted that Charles was not there, joking about the custom that kept him away, and drank a toast to him.",
+    "ko": "그는 찰스가 그곳에 없는 것을 아쉬워하며, 그를 오지 못하게 한 관습에 대해 농담을 던지고 그를 위해 건배했다.",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "tag": "P040_1",
+    "raw": "So, the time came for him to bid Lucie good night, and they separated.",
+    "en": "Finally, it was time to say good night, and they went to bed.",
+    "ko": "마침내 굿나잇 인사를 할 시간이 되었고, 그들은 잠자리에 들었다.",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "tag": "P040_2",
+    "raw": "But, in the stillness of the third hour of the morning, Lucie came downstairs again, and stole into his room; not free from unshaped fears, beforehand.",
+    "en": "But in the quiet hours of the morning, Lucie came downstairs and crept into his room, feeling a sudden fear.",
+    "ko": "하지만 고요한 아침 시간에 루시는 갑작스러운 두려움을 느끼며 아래층으로 내려와 그의 방으로 살금살금 들어갔다.",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "tag": "P041_1",
+    "raw": "All things, however, were in their places; all was quiet; and he lay asleep, his white hair picturesque on the untroubled pillow, and his hands lying quiet on the coverlet.",
+    "en": "However, everything was in its place and quiet. He lay asleep, his white hair neat on the pillow, and his hands still.",
+    "ko": "하지만 모든 것이 제자리에 있었고 조용했다. 그는 하얀 머리를 베개에 단정히 누인 채로 두 손을 고요히 하고 잠들어 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "tag": "P041_2",
+    "raw": "She put her needless candle in the shadow at a distance, crept up to his bed, and put her lips to his; then, leaned over him, and looked at him.",
+    "en": "She put her unneeded candle in the shadows far away, crept up to his bed, and put her lips to his; then, she leaned over him, and looked at him.",
+    "ko": "그녀는 필요 없어진 촛불을 멀리 그림자 속에 두고, 그의 침대로 살금살금 다가가 그의 입술에 입을 맞추었다. 그러고 나서 그에게 몸을 기대고 그를 바라보았다.",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "tag": "P042_1",
+    "raw": "Into his handsome face, the bitter waters of captivity had worn; but, he covered up their tracks with a determination so strong, that he held the mastery of them even in his sleep.",
+    "en": "His face still showed the worn lines of his long imprisonment, but he controlled his expressions even in his sleep.",
+    "ko": "그의 얼굴은 여전히 긴 수감 생활로 인한 지친 주름을 보여주었지만, 그는 잠든 중에도 표정을 통제했다.",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "tag": "P042_2",
+    "raw": "A more remarkable face in its quiet, resolute, and guarded struggle with an unseen assailant, was not to be beheld in all the wide dominions of sleep, that night.",
+    "en": "A more remarkable face, in its quiet, determined, and guarded struggle with an unseen attacker, could not be found anywhere else in the wide world of sleep that night.",
+    "ko": "보이지 않는 공격자와의 고요하고 결연하며 경계하는 투쟁 속에서, 그날 밤 잠의 넓은 세계 그 어디에서도 그보다 더 놀라운 얼굴을 찾을 수는 없었을 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "tag": "P043_1",
+    "raw": "She timidly laid her hand on his dear breast, and put up a prayer that she might ever be as true to him as her love aspired to be, and as his sorrows deserved.",
+    "en": "She gently laid her hand on his chest, praying she would always be a good daughter to him.",
+    "ko": "그녀는 자신이 그에게 항상 좋은 딸이 되기를 기도하며, 그의 가슴에 살며시 손을 얹었다.",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "tag": "P043_2",
+    "raw": "Then, she withdrew her hand, and kissed his lips once more, and went away.",
+    "en": "Then she kissed him again and left.",
+    "ko": "그런 다음 그녀는 그에게 다시 키스하고 떠났다.",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "tag": "P043_3",
+    "raw": "So, the sunrise came, and the shadows of the leaves of the plane-tree moved upon his face, as softly as her lips had moved in praying for him.",
+    "en": "Soon the sun rose, and the shadows of the tree leaves moved softly across his face.",
+    "ko": "곧 해가 떴고, 나뭇잎들의 그림자가 그의 얼굴 위로 부드럽게 움직였다.",
+    "is_header": false
+  }
 ]

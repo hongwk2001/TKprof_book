@@ -1,0 +1,212 @@
+[
+ {
+  "id": 1,
+  "tag": "P0948",
+  "en": "Act 5, Scene 1 — Mantua. A Street",
+  "ko": "5막 1장 — 만토바의 거리",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "P0948_s",
+  "en": "In Mantua, Romeo hears that Juliet is dead. He buys poison and goes back to Verona to die beside her.",
+  "ko": "만토바에서 로미오는 줄리엣이 죽었다는 소식을 듣는다. 그는 독약을 사서 줄리엣 곁에서 죽으려고 베로나로 돌아간다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "P0950_1",
+  "en": "Romeo enters and says, \"If I can trust the sweet promises of sleep, my dreams tell me happy news is coming. My heart feels light today. And all day long, a new feeling lifts me up with happy thoughts. I dreamed my lady came and found me dead. Strange dream, where a dead man can still think!\"",
+  "ko": "로미오가 들어와 말한다. \"잠이 주는 달콤한 약속을 믿어도 된다면, 내 꿈은 곧 기쁜 소식이 온다고 말해 준다. 오늘 내 마음은 가볍다. 온종일 새로운 기분이 즐거운 생각으로 나를 들뜨게 한다. 내 사랑이 찾아와 죽어 있는 나를 발견하는 꿈을 꾸었다. 죽은 자가 생각할 수 있다니, 참으로 묘한 꿈이다!\"",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "P0950_2",
+  "en": "\"She breathed life into my lips with kisses. Then I came back to life. And I was an emperor. Oh, how sweet love itself is, when even the shadows of love are so full of joy.\"",
+  "ko": "\"그녀는 입맞춤으로 내 입술에 생명을 불어넣었다. 그러자 나는 다시 살아났다. 그리고 나는 황제가 되었다. 오, 사랑의 그림자조차 이토록 기쁨으로 가득하니, 사랑 그 자체가 얼마나 달콤한가.\"",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "P0951",
+  "en": "Balthasar enters.",
+  "ko": "발타자르가 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "P0952_1",
+  "en": "Romeo goes on, \"News from Verona! Hello, Balthasar! Do you not bring me letters from the friar? How is my lady and is my father well? How is my Juliet? I ask again because nothing can be bad if she is well.\"",
+  "ko": "로미오가 말을 잇는다. \"베로나에서 온 소식이다! 어서 와, 발타자르! 신부님이 보내신 편지는 없느냐? 내 사랑은 어떠냐? 아버지는 안녕하시냐? 내 줄리엣은 어떠냐? 다시 묻는 건, 그녀만 무사하면 나쁜 일이 있을 리 없기 때문이다.\"",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "P0953_1",
+  "en": "Balthasar, Romeo's servant, says, \"Then she is well, and nothing can be ill. Her body sleeps in her family's tomb. And her immortal soul lives with angels. I saw her laid low in her family's vault. I rode here at once to tell you. Please forgive me for bringing this bad news.\"",
+  "ko": "로미오의 하인 발타자르가 말한다. \"그렇다면 아가씨는 무사하시니, 나쁜 일은 없는 것입니다. 아가씨의 몸은 가문의 무덤에 잠들어 계십니다. 그리고 영원한 영혼은 천사들과 함께 계십니다. 아가씨께서 가문의 묘실에 누이시는 것을 제 눈으로 보았습니다. 이 소식을 전하기 위해 즉시 이곳으로 달려왔습니다. 이 나쁜 소식을 전하게 된 것을 용서해 주십시오.\"",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "P0953_2",
+  "en": "\"You left it to my duty to tell you, sir.\"",
+  "ko": "\"주인님께서 소식을 전하는 일을 제게 맡기셨으니까요.\"",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "P0954_1",
+  "en": "Romeo says, \"Is it really so? Then I defy the stars! You know where I am staying, so get me ink and paper. Hire fast horses because I will leave from here tonight.\"",
+  "ko": "로미오가 말한다. \"정말 그러한가? 그렇다면 나는 운명에 맞서겠다! 내가 묵는 곳을 알지? 잉크와 종이를 가져와라. 오늘 밤 여기를 떠날 테니 빠른 말을 구해라.\"",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "P0955_1",
+  "en": "Balthasar says, \"I beg you, sir, have patience. Your face looks pale and wild. It shows that something bad has happened.\"",
+  "ko": "발타자르가 말한다. \"주인님, 부디 진정하십시오. 주인님 얼굴이 창백하고 사나워 보이십니다. 무슨 나쁜 일이 일어났다는 표시입니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0956_1",
+  "en": "Romeo asks, \"No, you are mistaken. Leave me. Do the thing I told you to do. Do you not have any letters for me from the friar?\"",
+  "ko": "로미오가 묻는다. \"아니, 네가 틀렸다. 물러가라. 내가 시킨 일을 해라. 신부님이 보내신 편지는 하나도 없는 것이냐?\"",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0957_1",
+  "en": "Balthasar says, \"No, my good lord.\"",
+  "ko": "발타자르가 말한다. \"아닙니다, 주인님.\"",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0958_1",
+  "en": "Romeo says, \"It does not matter. Go away now and hire those horses. I will be with you immediately.\"",
+  "ko": "로미오가 말한다. \"상관없다. 이제 가서 그 말들을 구해라. 나도 곧 뒤따라가겠다.\"",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "P0959",
+  "en": "Balthasar leaves.",
+  "ko": "발타자르가 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 15,
+  "tag": "P0960_1",
+  "en": "Romeo goes on, \"Well, Juliet, I will lie with you tonight. Let me think how. Evil is quick to enter the thoughts of desperate men. I remember an apothecary, a man who sells medicines. He lives near here. I saw him recently in torn clothes and with heavy eyebrows. He was gathering simple herbs.\"",
+  "ko": "로미오가 말을 잇는다. \"그래, 줄리엣, 오늘 밤 너와 나란히 눕겠다. 어떻게 할지 생각해보자. 절망에 빠진 자의 마음에는 악한 생각이 빠르게 스며든다. 약제사, 그러니까 약을 파는 사람이 하나 기억난다. 그는 이 근처에 산다. 얼마 전에 그를 보았는데, 해진 옷에 눈썹을 잔뜩 찌푸리고 있었다. 약초를 캐고 있었다.\"",
+  "is_header": false
+ },
+ {
+  "id": 16,
+  "tag": "P0960_2",
+  "en": "\"He looked very poor. Hard misery had worn him to the bones. A tortoise hung in his poor shop. There was also a stuffed alligator. Other skins of ugly fish were there too. Empty boxes were on his shelves. There were green clay pots, bladders, and musty seeds.\"",
+  "ko": "\"매우 가난해 보였다. 지독한 비참함이 그를 뼈만 남게 만들었다. 그의 초라한 가게에는 거북 등딱지가 매달려 있었다. 박제된 악어도 있었다. 흉측한 물고기 가죽들도 있었다. 선반 위에는 빈 상자들이 놓여 있었다. 초록색 흙 항아리, 짐승 오줌보, 곰팡내 나는 씨앗들이 있었다.\"",
+  "is_header": false
+ },
+ {
+  "id": 17,
+  "tag": "P0960_3",
+  "en": "\"Remnants of packthread and old cakes of roses were scattered to make a show. I saw how poor he was. I thought, if a man needed poison now, this man would sell it to him. Selling it in Mantua means instant death. I did not know then that I would be the one who needed it.\"",
+  "ko": "\"쓰다 남은 노끈과 오래된 장미 꽃잎 덩어리가 구색을 맞추려고 여기저기 놓여 있었다. 그가 얼마나 가난한지 알 수 있었다. 만약 누군가 지금 독이 필요하다면, 이 자가 그것을 팔 것이라 생각했다. 만토바에서 독을 팔면 곧바로 사형이다. 그때 내가 그것을 필요로 할 사람이 될 줄은 몰랐다.\"",
+  "is_header": false
+ },
+ {
+  "id": 18,
+  "tag": "P0960_4",
+  "en": "\"This same needy man must sell it to me. As I remember, this should be the house. It is a holiday, so the beggar's shop is closed. Hello there! Apothecary!\"",
+  "ko": "\"바로 이 궁핍한 자가 내게 그것을 팔아야 한다. 내 기억으로는 이 집이다. 공휴일이라 이 가난뱅이의 가게는 문을 닫았다. 여봐라! 약제사!\"",
+  "is_header": false
+ },
+ {
+  "id": 19,
+  "tag": "P0962_1",
+  "en": "The apothecary, a poor man who sells medicines, enters and asks, \"Who calls so loud?\"",
+  "ko": "약을 파는 가난한 약제사가 들어와 묻는다. \"누가 그렇게 크게 부릅니까?\"",
+  "is_header": false
+ },
+ {
+  "id": 20,
+  "tag": "P0963_1",
+  "en": "Romeo says, \"Come here, man. I see that you are poor. Wait, here are forty gold coins. Give me a small amount of poison that must work quickly. It must spread through all the veins so the person who takes it falls dead immediately.\"",
+  "ko": "로미오가 말한다. \"이리 오게, 이 사람아. 자네가 가난한 걸 알겠네. 잠깐, 여기 금화 사십 개가 있네. 빨리 듣는 독약을 조금만 주게. 마신 사람이 그 자리에서 쓰러져 죽도록 온 핏줄에 퍼지는 것이어야 하네.\"",
+  "is_header": false
+ },
+ {
+  "id": 21,
+  "tag": "P0963_2",
+  "en": "\"It must empty the body of breath as violently as gunpowder bursts out of a cannon.\"",
+  "ko": "\"대포에서 화약이 터져 나가듯 몸에서 숨을 거칠게 비워 내야 하네.\"",
+  "is_header": false
+ },
+ {
+  "id": 22,
+  "tag": "P0964_1",
+  "en": "The apothecary says, \"I have such deadly drugs. But Mantua's law says death to anyone who sells them.\"",
+  "ko": "약제사가 말한다. \"그런 치명적인 약들이 있습니다. 하지만 만토바 법에 따르면 그것을 파는 자는 사형입니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 23,
+  "tag": "P0965_1",
+  "en": "Romeo says, \"Are you so poor and full of misery that you are afraid to die? Hunger is in your cheeks. Need and oppression starve your eyes. Contempt and poverty hang on your back. The world is not your friend, nor is the law of the world. The world offers no law to make you rich.\"",
+  "ko": "로미오가 말한다. \"그렇게 가난하고 비참하면서 죽는 게 두려운가? 자네 뺨에는 굶주림이 배어 있네. 궁핍과 억압이 자네 눈을 굶주리게 하네. 멸시와 가난이 자네 등에 매달려 있네. 세상은 자네 편이 아니고, 세상의 법도 마찬가지네. 세상에는 자네를 부자로 만들어 줄 법이 없네.\"",
+  "is_header": false
+ },
+ {
+  "id": 24,
+  "tag": "P0965_2",
+  "en": "\"Then do not be poor. Break the law and take this.\"",
+  "ko": "\"그러니 가난하게 살지 말게. 법을 어기고 이걸 받게.\"",
+  "is_header": false
+ },
+ {
+  "id": 25,
+  "tag": "P0966_1",
+  "en": "The apothecary says, \"My poverty agrees, but my will does not.\"",
+  "ko": "약제사가 말한다. \"제 가난은 동의하지만, 제 의지는 그렇지 않습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 26,
+  "tag": "P0967_1",
+  "en": "Romeo says, \"I am paying your poverty, not your will.\"",
+  "ko": "로미오가 말한다. \"나는 자네 의지가 아니라 자네 가난에 돈을 치르는 걸세.\"",
+  "is_header": false
+ },
+ {
+  "id": 27,
+  "tag": "P0968_1",
+  "en": "The apothecary says, \"Put this in any liquid. Then drink it. If you had the strength of twenty men, it would kill you instantly.\"",
+  "ko": "약제사가 말한다. \"이것을 아무 액체에나 타십시오. 그리고 그것을 마십시오. 손님께 스무 사람의 힘이 있다 해도 곧바로 숨이 끊어질 것입니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 28,
+  "tag": "P0969_1",
+  "en": "Romeo says, \"Here is your gold, which is a worse poison to people's souls. It causes more death in this hateful world. It kills more than these poor mixtures that you are not allowed to sell. I am selling you poison, but you have sold me none. Goodbye. Buy some food and make yourself healthy.\"",
+  "ko": "로미오가 말한다. \"여기 자네 금화일세. 사람의 영혼에는 이게 더 지독한 독이지. 이 증오스러운 세상에서 더 많은 죽음을 부르네. 자네가 팔지 못하게 금지된 이 초라한 약보다 더 많은 사람을 죽이지. 독을 파는 건 나일세. 자네는 내게 아무것도 팔지 않았네. 잘 있게. 먹을 것을 사서 살 좀 찌우게.\"",
+  "is_header": false
+ },
+ {
+  "id": 29,
+  "tag": "P0969_2",
+  "en": "\"Come, you are a medicine, not a poison. Go with me to Juliet's grave because I must use it there.\"",
+  "ko": "\"자, 너는 독이 아니라 약이로구나. 나와 함께 줄리엣의 무덤으로 가자. 거기서 너를 써야 하니까.\"",
+  "is_header": false
+ },
+ {
+  "id": 30,
+  "tag": "P0970",
+  "en": "They all leave.",
+  "ko": "모두 나간다.",
+  "is_header": false
+ }
+]

@@ -1,0 +1,809 @@
+[
+  {
+    "id": 814,
+    "tag": "P0814",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "Part 3: How Theseus Slew the Minotaur",
+        "kr": "[3부: 테세우스가 미노타우로스를 물리치다]"
+      }
+    ]
+  },
+  {
+    "id": 815,
+    "tag": "P0815",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "They finally reached Crete and the city of Cnossus, situated below the peaks of Mount Ida.",
+        "kr": "마침내 그들은 이다 산의 봉우리 아래에 있는 크레타 섬의 크노소스에 도착했습니다."
+      },
+      {
+        "id": 2,
+        "en": "There stood the palace of the great King Minos, who learned the laws directly from Zeus.",
+        "kr": "그곳에는 제우스에게 직접 법을 배운 위대한 미노스 왕의 궁전이 있었습니다."
+      },
+      {
+        "id": 3,
+        "en": "Minos was the wisest of all mortal kings and had conquered all the Aegean islands.",
+        "kr": "미노스는 인간 왕들 중 가장 지혜로웠으며 모든 에게해의 섬들을 정복했습니다."
+      },
+      {
+        "id": 4,
+        "en": "His ships were as numerous as seagulls, and his palace resembled a marble hill.",
+        "kr": "그의 함선은 갈매기 떼처럼 많았고, 궁전은 대리석 언덕과 같았습니다."
+      },
+      {
+        "id": 5,
+        "en": "He sat among the hall's pillars on a throne made of solid gold.",
+        "kr": "그는 넓은 전당의 기둥들 사이, 순금으로 만든 왕좌에 앉아 있었습니다."
+      },
+      {
+        "id": 6,
+        "en": "Around him stood speaking statues crafted by the skilled inventor Daedalus.",
+        "kr": "그 주변에는 뛰어난 발명가 다이달로스가 만든 말하는 조각상들이 서 있었습니다."
+      },
+      {
+        "id": 7,
+        "en": "Daedalus was the most clever of all Athenians.",
+        "kr": "다이달로스는 아테네인들 중에서 가장 손재주가 뛰어났습니다."
+      },
+      {
+        "id": 8,
+        "en": "He invented the plumb-line, the drill, glue, and many woodworking tools.",
+        "kr": "그는 추와 송곳, 접착제를 비롯해 나무를 다루는 수많은 도구를 발명했습니다."
+      },
+      {
+        "id": 9,
+        "en": "He also first equipped ships with masts and yards, while his son made their sails.",
+        "kr": "또한 그는 배에 돛대와 활대를 처음 설치했고, 그의 아들은 돛을 만들었습니다."
+      },
+      {
+        "id": 10,
+        "en": "However, his nephew Perdix proved to be even more talented.",
+        "kr": "하지만 그의 조카 페르딕스가 그보다 더욱 뛰어난 재능을 보였습니다."
+      },
+      {
+        "id": 11,
+        "en": "Perdix invented the saw by copying the jagged backbone of a fish.",
+        "kr": "페르딕스는 물고기의 등뼈 모양을 본떠 톱을 발명했습니다."
+      },
+      {
+        "id": 12,
+        "en": "He also invented the chisel, the compass, and the potter's wheel for molding clay.",
+        "kr": "그는 끌과 나침반, 그리고 점토를 빚는 물레도 발명했습니다."
+      },
+      {
+        "id": 13,
+        "en": "Daedalus grew incredibly jealous and threw his nephew from the roof of Athena's temple.",
+        "kr": "다이달로스는 질투심에 눈이 멀어 조카를 아테나 신전 지붕에서 밀어 떨어뜨렸습니다."
+      },
+      {
+        "id": 14,
+        "en": "But the Goddess pitied the wise boy and transformed him into a partridge.",
+        "kr": "하지만 지혜로운 자를 사랑하는 여신은 소년을 불쌍히 여겨 자고새로 변하게 했습니다."
+      },
+      {
+        "id": 15,
+        "en": "That bird now flutters forever among the hills.",
+        "kr": "그 새는 지금도 산언덕을 끊임없이 날아다닙니다."
+      },
+      {
+        "id": 16,
+        "en": "After this crime, Daedalus fled to Crete and worked for King Minos for many years.",
+        "kr": "이 범죄 이후 다이달로스는 크레타 섬의 미노스에게로 도망쳐 오랫동안 일했습니다."
+      },
+      {
+        "id": 17,
+        "en": "He stayed there until he committed a deed so shameful that the sun hid its face.",
+        "kr": "그는 태양조차 얼굴을 가릴 만큼 수치스러운 짓을 저지를 때까지 그곳에 머물렀습니다."
+      }
+    ]
+  },
+  {
+    "id": 816,
+    "tag": "P0816",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "Daedalus soon had to flee from the anger of Minos.",
+        "kr": "이윽고 다이달로스는 미노스의 분노를 피해 달아나야 했습니다."
+      },
+      {
+        "id": 2,
+        "en": "He and his son Icarus made wings from feathers and secured them with wax.",
+        "kr": "그와 그의 아들 이카로스는 깃털을 모아 밀랍으로 붙여 날개를 만들었습니다."
+      },
+      {
+        "id": 3,
+        "en": "They flew over the sea toward Sicily.",
+        "kr": "그들은 바다를 날아서 시칠리아로 향했습니다."
+      },
+      {
+        "id": 4,
+        "en": "But Icarus flew too close to the hot sun.",
+        "kr": "하지만 이카로스는 뜨거운 태양에 너무 가까이 날아올랐습니다."
+      },
+      {
+        "id": 5,
+        "en": "The wax on his wings melted, and he plunged to his death in the Icarian Sea.",
+        "kr": "날개의 밀랍이 녹아버렸고, 그는 이카리아 해로 추락하여 목숨을 잃었습니다."
+      },
+      {
+        "id": 6,
+        "en": "Daedalus arrived safely in Sicily, where he crafted many more incredible works.",
+        "kr": "다이달로스는 시칠리아에 무사히 도착하여 그곳에서도 수많은 놀라운 작품들을 만들었습니다."
+      },
+      {
+        "id": 7,
+        "en": "He built a massive reservoir for King Cocalus to water the entire land.",
+        "kr": "그는 코칼로스 왕을 위해 온 땅에 물을 대는 거대한 저수지를 건설했습니다."
+      },
+      {
+        "id": 8,
+        "en": "He also built an impenetrable mountain castle and treasury that giants could not storm.",
+        "kr": "또한 거인들조차 뚫을 수 없는 난공불락의 산성 안 금고도 지었습니다."
+      },
+      {
+        "id": 9,
+        "en": "In Selinus, he captured steam from Mount Etna's fires to create healing vapor baths.",
+        "kr": "셀리누스에서는 에트나 산의 열기를 모아 병자들을 치료하는 온천을 만들었습니다."
+      },
+      {
+        "id": 10,
+        "en": "He forged a golden honeycomb where real bees came to store their honey.",
+        "kr": "그는 진짜 벌들이 날아와 꿀을 저장할 수 있는 황금 벌집을 만들었습니다."
+      },
+      {
+        "id": 11,
+        "en": "In Egypt, he built the grand forecourt of the Memphis temple and his own statue inside.",
+        "kr": "이집트에서는 멤피스 신전의 거대한 앞뜰과 그 안에 자신의 조각상도 세웠습니다."
+      },
+      {
+        "id": 12,
+        "en": "Earlier for Minos, he had carved speaking statues and the beautiful dancing hall of Ariadne.",
+        "kr": "이전에 그는 미노스를 위해 말하는 조각상과 아리아드네의 아름다운 무도장을 조각했습니다."
+      },
+      {
+        "id": 13,
+        "en": "He later worked in Sardinia and many other lands.",
+        "kr": "그는 훗날 사르데냐를 비롯한 여러 나라에서도 일했습니다."
+      },
+      {
+        "id": 14,
+        "en": "He wandered forever with his brilliant skills, yet remained unloved and cursed by humanity.",
+        "kr": "그는 뛰어난 기술을 지니고 영원히 떠돌았으나, 사람들의 사랑을 받지 못하고 저주받았습니다."
+      }
+    ]
+  },
+  {
+    "id": 817,
+    "tag": "P0817",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "Theseus stood firmly before King Minos, and they stared into each other's eyes.",
+        "kr": "테세우스는 미노스 왕 앞에 당당히 서서 서로의 눈을 응시했습니다."
+      },
+      {
+        "id": 2,
+        "en": "Minos ordered the guards to throw the youths into prison.",
+        "kr": "미노스는 경비병들에게 젊은이들을 감옥에 가두라고 명령했습니다."
+      },
+      {
+        "id": 3,
+        "en": "He commanded that they be fed to the monster one by one to avenge his son's death.",
+        "kr": "그는 아들의 죽음을 복수하기 위해 그들을 한 명씩 괴물에게 먹이로 주라고 지시했습니다."
+      },
+      {
+        "id": 4,
+        "en": "Suddenly, Theseus called out loudly.",
+        "kr": "그때 테세우스가 큰 소리로 외쳤습니다."
+      }
+    ]
+  },
+  {
+    "id": 818,
+    "tag": "P0818",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "Grant me a favor, King Minos! Let me be thrown to the beast first.",
+        "kr": "미노스 왕이여, 제게 한 가지 부탁을 들어주십시오! 저를 괴물에게 가장 먼저 던져 주십시오."
+      },
+      {
+        "id": 2,
+        "en": "I came here for this exact purpose by my own choice, not by drawing lots.",
+        "kr": "저는 제비뽑기가 아니라 오직 이 목적을 위해 제 발로 찾아왔습니다."
+      }
+    ]
+  },
+  {
+    "id": 819,
+    "tag": "P0819",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "Who are you, brave young man?",
+        "kr": "용감한 젊은이여, 도대체 너는 누구냐?"
+      }
+    ]
+  },
+  {
+    "id": 820,
+    "tag": "P0820",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "I am the son of the man you hate most in this world.",
+        "kr": "저는 당신이 이 세상에서 가장 증오하는 사람의 아들입니다."
+      },
+      {
+        "id": 2,
+        "en": "I am the son of King Aegeus of Athens, and I have come to end this nightmare.",
+        "kr": "아테네의 왕 아이게우스의 아들로서 이 끔찍한 악몽을 끝내러 왔습니다."
+      }
+    ]
+  },
+  {
+    "id": 821,
+    "tag": "P0821",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "Minos thought for a moment while staring intently at the young hero.",
+        "kr": "미노스는 젊은 영웅을 뚫어지게 바라보며 잠시 생각에 잠겼습니다."
+      },
+      {
+        "id": 2,
+        "en": "He assumed the boy wanted to atone for his father's sins with his own life.",
+        "kr": "그는 이 소년이 자신의 목숨으로 아버지의 죄를 속죄하려 한다고 생각했습니다."
+      },
+      {
+        "id": 3,
+        "en": "The king finally answered in a surprisingly gentle tone.",
+        "kr": "왕은 마침내 놀랍도록 부드러운 어조로 대답했습니다."
+      }
+    ]
+  },
+  {
+    "id": 822,
+    "tag": "P0822",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "Go back in peace, my son. It is a tragedy for someone so brave to die.",
+        "kr": "평안히 돌아가거라, 내 아들아. 너처럼 용감한 자가 죽는 것은 참으로 안타까운 일이다."
+      }
+    ]
+  },
+  {
+    "id": 823,
+    "tag": "P0823",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "I have sworn an oath that I will not return home.",
+        "kr": "저는 결코 고향으로 돌아가지 않겠다고 맹세했습니다."
+      },
+      {
+        "id": 2,
+        "en": "I will stay until I look this monster directly in the face.",
+        "kr": "이 괴물의 얼굴을 똑똑히 마주할 때까지 이곳에 남겠습니다."
+      }
+    ]
+  },
+  {
+    "id": 824,
+    "tag": "P0824",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "Minos frowned deeply at his stubbornness.",
+        "kr": "미노스는 그의 고집에 미간을 깊게 찌푸렸습니다."
+      },
+      {
+        "id": 2,
+        "en": "Then you shall see him! Take this madman away.",
+        "kr": "그렇다면 그놈을 보게 될 것이다! 이 미치광이를 끌고 가라."
+      }
+    ]
+  },
+  {
+    "id": 825,
+    "tag": "P0825",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "The guards dragged Theseus into the dark prison along with the other terrified youths.",
+        "kr": "경비병들은 겁에 질린 다른 젊은이들과 함께 테세우스를 어두운 감옥으로 끌고 갔습니다."
+      }
+    ]
+  },
+  {
+    "id": 826,
+    "tag": "P0826",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "However, the king's daughter Ariadne had seen him from her white stone hall.",
+        "kr": "하지만 왕의 딸 아리아드네가 하얀 대리석 전당에서 그를 지켜보고 있었습니다."
+      },
+      {
+        "id": 2,
+        "en": "She instantly fell in love with his majestic courage.",
+        "kr": "그녀는 그의 기품 있는 용기에 단번에 사랑에 빠졌습니다."
+      },
+      {
+        "id": 3,
+        "en": "She felt it was a terrible crime for such a hero to die.",
+        "kr": "그녀는 그런 영웅이 죽는 것은 끔찍한 비극이라고 생각했습니다."
+      },
+      {
+        "id": 4,
+        "en": "Under the cover of night, she secretly visited his prison cell.",
+        "kr": "한밤중에 그녀는 남몰래 그의 감옥을 찾아갔습니다."
+      },
+      {
+        "id": 5,
+        "en": "She confessed her feelings to him and urgently whispered her plan.",
+        "kr": "그녀는 그에게 자신의 마음을 고백하며 다급하게 계획을 속삭였습니다."
+      }
+    ]
+  },
+  {
+    "id": 827,
+    "tag": "P0827",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "Run to your ship right now. I have already bribed the guards.",
+        "kr": "지금 당장 배로 도망치세요. 제가 경비병들에게 이미 뇌물을 주었습니다."
+      },
+      {
+        "id": 2,
+        "en": "Take all your friends and escape safely back to Greece.",
+        "kr": "친구들을 모두 데리고 무사히 그리스로 탈출하세요."
+      },
+      {
+        "id": 3,
+        "en": "Please take me with you! I cannot stay here after you leave.",
+        "kr": "제발 저도 함께 데려가 주세요! 당신이 떠난 뒤에 저는 이곳에 남을 수 없습니다."
+      },
+      {
+        "id": 4,
+        "en": "My father will kill me without mercy if he discovers what I have done.",
+        "kr": "아버지가 제 행동을 알게 되면 저를 무자비하게 죽이실 것입니다."
+      }
+    ]
+  },
+  {
+    "id": 828,
+    "tag": "P0828",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "Theseus stood completely silent, stunned by her breathtaking beauty.",
+        "kr": "테세우스는 그녀의 눈부신 아름다움에 넋을 잃고 멍하니 서 있었습니다."
+      },
+      {
+        "id": 2,
+        "en": "Finally, he spoke with absolute determination.",
+        "kr": "마침내 그는 단호한 결의를 담아 입을 열었습니다."
+      },
+      {
+        "id": 3,
+        "en": "I cannot go home peacefully until I kill this Minotaur.",
+        "kr": "이 미노타우로스를 죽이기 전에는 결코 편안히 고향에 갈 수 없습니다."
+      },
+      {
+        "id": 4,
+        "en": "I must avenge the innocent youths and end the terror threatening my land.",
+        "kr": "희생당한 젊은이들의 복수를 하고 내 조국을 위협하는 공포를 끝내야만 합니다."
+      }
+    ]
+  },
+  {
+    "id": 829,
+    "tag": "P0829",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "But how can you possibly kill the Minotaur?",
+        "kr": "하지만 대체 어떻게 미노타우로스를 죽이겠다는 건가요?"
+      }
+    ]
+  },
+  {
+    "id": 830,
+    "tag": "P0830",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "I do not know, nor do I care.",
+        "kr": "방법은 모르지만 상관없습니다."
+      },
+      {
+        "id": 2,
+        "en": "He will have to be unimaginably strong to defeat me.",
+        "kr": "저를 꺾으려면 상상할 수 없을 만큼 강력해야만 할 것입니다."
+      }
+    ]
+  },
+  {
+    "id": 831,
+    "tag": "P0831",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "She loved him even more for his bravery.",
+        "kr": "그녀는 그의 용기에 더욱 깊이 빠져들었습니다."
+      },
+      {
+        "id": 2,
+        "en": "But even if you kill him, how will you find your way out of the maze?",
+        "kr": "하지만 괴물을 죽인다 해도, 어떻게 그 미궁에서 빠져나올 생각인가요?"
+      }
+    ]
+  },
+  {
+    "id": 832,
+    "tag": "P0832",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "I do not know, and it does not matter.",
+        "kr": "그것도 모르고, 별로 중요하지도 않습니다."
+      },
+      {
+        "id": 2,
+        "en": "I will figure it out eventually once the monster is completely destroyed.",
+        "kr": "괴물을 완전히 쓰러뜨리고 나면 결국 길을 찾아낼 수 있을 것입니다."
+      }
+    ]
+  },
+  {
+    "id": 833,
+    "tag": "P0833",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "Her heart swelled with love, and she looked at him with desperate hope.",
+        "kr": "그녀의 가슴은 사랑으로 부풀어 올랐고, 간절한 희망을 담아 그를 바라보았습니다."
+      },
+      {
+        "id": 2,
+        "en": "Fair youth, you are far too bold, but I can help you.",
+        "kr": "아름다운 젊은이여, 당신은 너무 무모하지만 제가 도와드릴 수 있습니다."
+      },
+      {
+        "id": 3,
+        "en": "I will give you a sword to slay the beast.",
+        "kr": "괴물을 찌를 수 있는 검을 한 자루 드리겠습니다."
+      },
+      {
+        "id": 4,
+        "en": "I will also give you a ball of thread to find your way back out.",
+        "kr": "그리고 밖으로 빠져나올 길을 찾을 수 있도록 실뭉치도 드리겠습니다."
+      },
+      {
+        "id": 5,
+        "en": "Just promise to take me to Greece if you escape safely.",
+        "kr": "무사히 탈출한다면 저를 그리스로 데려가겠다고 약속해 주세요."
+      },
+      {
+        "id": 6,
+        "en": "My father will surely kill me if he discovers my betrayal.",
+        "kr": "아버지가 제 배신을 알게 되면 틀림없이 저를 죽이실 것입니다."
+      }
+    ]
+  },
+  {
+    "id": 834,
+    "tag": "P0834",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "Theseus laughed warmly and told her that he was safe now.",
+        "kr": "테세우스는 따뜻하게 웃으며 이제 자신은 안전하다고 말했습니다."
+      },
+      {
+        "id": 2,
+        "en": "He hid the sharp sword under his clothes and gripped the thread.",
+        "kr": "그는 날카로운 검을 옷 속에 숨기고 실뭉치를 단단히 쥐었습니다."
+      },
+      {
+        "id": 3,
+        "en": "He swore a solemn oath to Ariadne, bowing to kiss her hands and feet.",
+        "kr": "그는 아리아드네에게 엄숙한 맹세를 하며 엎드려 그녀의 손과 발에 입을 맞추었습니다."
+      },
+      {
+        "id": 4,
+        "en": "She wept over him for a long time before quietly slipping away.",
+        "kr": "그녀는 오랫동안 눈물을 흘린 뒤에 조용히 빠져나갔습니다."
+      },
+      {
+        "id": 5,
+        "en": "Confident in his victory, Theseus lay down and slept peacefully.",
+        "kr": "승리를 확신한 테세우스는 자리에 누워 평온하게 잠들었습니다."
+      }
+    ]
+  },
+  {
+    "id": 835,
+    "tag": "P0835",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "When evening arrived, the guards came to lead him into the dreadful labyrinth.",
+        "kr": "저녁이 되자, 경비병들이 그를 끔찍한 미궁 속으로 끌고 가기 위해 찾아왔습니다."
+      }
+    ]
+  },
+  {
+    "id": 836,
+    "tag": "P0836",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "He descended into the dark, sorrowful pit, following winding paths through the rocks.",
+        "kr": "그는 바위 사이의 구불구불한 길을 따라 어둡고 슬픈 구덩이로 내려갔습니다."
+      },
+      {
+        "id": 2,
+        "en": "He passed through deep caverns, stone arches, and piles of broken rubble.",
+        "kr": "그는 깊은 동굴과 돌로 된 아치, 그리고 무너진 잔해 더미를 지나갔습니다."
+      },
+      {
+        "id": 3,
+        "en": "He turned left and right, climbing up and down until he felt dizzy.",
+        "kr": "그는 어지러움을 느낄 때까지 좌우로 돌고 위아래로 오르내렸습니다."
+      },
+      {
+        "id": 4,
+        "en": "But throughout the maze, he kept a tight grip on the thread.",
+        "kr": "하지만 미궁 속에서도 그는 실뭉치를 단단히 쥐고 있었습니다."
+      },
+      {
+        "id": 5,
+        "en": "He had tied the end to a heavy stone at the entrance.",
+        "kr": "그는 입구에 있는 무거운 돌에 실의 끝을 묶어 두었습니다."
+      },
+      {
+        "id": 6,
+        "en": "He let the string unroll slowly as he ventured deeper into the darkness.",
+        "kr": "그는 어둠 속으로 더 깊이 들어갈수록 실이 천천히 풀리도록 내버려 두었습니다."
+      },
+      {
+        "id": 7,
+        "en": "The thread lasted until he finally cornered the Minotaur in a narrow black chasm.",
+        "kr": "그 실은 마침내 비좁고 검은 협곡에서 미노타우로스를 몰아넣을 때까지 이어졌습니다."
+      }
+    ]
+  },
+  {
+    "id": 837,
+    "tag": "P0837",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "When Theseus spotted the creature, he paused in pure shock.",
+        "kr": "테세우스는 괴물을 발견하고 순수한 충격에 잠시 멈춰 섰습니다."
+      },
+      {
+        "id": 2,
+        "en": "He had never seen such a terrifying and unnatural beast.",
+        "kr": "그는 그렇게 기괴하고 끔찍한 짐승을 본 적이 없었습니다."
+      },
+      {
+        "id": 3,
+        "en": "It possessed the muscular body of a man but the massive head of a bull.",
+        "kr": "그것은 인간의 근육질 몸을 가졌지만 거대한 황소의 머리를 하고 있었습니다."
+      },
+      {
+        "id": 4,
+        "en": "Its mouth was filled with sharp lion's teeth designed for tearing flesh.",
+        "kr": "그 입에는 살점을 찢기 위한 날카로운 사자의 이빨이 가득했습니다."
+      },
+      {
+        "id": 5,
+        "en": "Seeing the hero, the monster roared deafeningly and charged straight at him.",
+        "kr": "영웅을 발견한 괴물은 귀청이 터질 듯 포효하며 그를 향해 곧장 돌진했습니다."
+      }
+    ]
+  },
+  {
+    "id": 838,
+    "tag": "P0838",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "Theseus nimbly dodged the attack and slashed the beast's knee as it passed.",
+        "kr": "테세우스는 민첩하게 공격을 피하며 괴물이 지나갈 때 무릎을 베었습니다."
+      },
+      {
+        "id": 2,
+        "en": "Before the monster could turn in the tight space, Theseus struck again.",
+        "kr": "괴물이 좁은 공간에서 몸을 돌리기도 전에 테세우스는 다시 공격했습니다."
+      },
+      {
+        "id": 3,
+        "en": "He stabbed the creature from behind repeatedly.",
+        "kr": "그는 뒤에서 그 짐승을 쉴 새 없이 찔렀습니다."
+      },
+      {
+        "id": 4,
+        "en": "Experiencing pain for the first time, the monster shrieked and fled wildly.",
+        "kr": "처음으로 고통을 느낀 괴물은 비명을 지르며 미친 듯이 도망쳤습니다."
+      },
+      {
+        "id": 5,
+        "en": "Keeping the thread in his left hand, Theseus sprinted after his prey.",
+        "kr": "왼손에 실뭉치를 쥔 채로 테세우스는 사냥감을 뒤쫓아 질주했습니다."
+      }
+    ]
+  },
+  {
+    "id": 839,
+    "tag": "P0839",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "The deadly chase continued through endless dark caverns and echoing stone corridors.",
+        "kr": "치명적인 추격전은 끝없는 어둠의 동굴과 메아리치는 돌 복도를 지나 계속되었습니다."
+      },
+      {
+        "id": 2,
+        "en": "They raced over rough terrain and dried riverbeds deep under Mount Ida.",
+        "kr": "그들은 이다 산 깊은 곳의 거친 지형과 마른 강바닥을 내달렸습니다."
+      },
+      {
+        "id": 3,
+        "en": "The hunter and the hunted climbed to the very edge of the eternal snow.",
+        "kr": "사냥꾼과 사냥감은 만년설이 덮인 끝자락까지 기어올랐습니다."
+      },
+      {
+        "id": 4,
+        "en": "The entire mountain shook with the terrified bellows of the wounded beast.",
+        "kr": "상처 입은 괴물의 겁에 질린 울부짖음에 온 산이 뒤흔들렸습니다."
+      }
+    ]
+  },
+  {
+    "id": 840,
+    "tag": "P0840",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "[Illustration: Theseus fighting the Minotaur]",
+        "kr": "[삽화: 미노타우로스와 싸우는 테세우스]"
+      }
+    ]
+  },
+  {
+    "id": 841,
+    "tag": "P0841",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "Theseus finally caught the beast panting exhaustedly on a snowy stone slab.",
+        "kr": "테세우스는 마침내 눈 덮인 돌판 위에서 지쳐 헐떡이는 괴물을 따라잡았습니다."
+      },
+      {
+        "id": 2,
+        "en": "He grabbed the monster's sharp horns and violently bent its head backward.",
+        "kr": "그는 괴물의 날카로운 뿔을 움켜쥐고 그 머리를 뒤로 거칠게 꺾었습니다."
+      },
+      {
+        "id": 3,
+        "en": "With one final strike, he drove his keen sword straight through its throat.",
+        "kr": "마지막 일격으로 그는 예리한 검을 괴물의 목구멍 깊숙이 찔러 넣었습니다."
+      }
+    ]
+  },
+  {
+    "id": 842,
+    "tag": "P0842",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "Limping and exhausted, Theseus turned around to begin the long journey back.",
+        "kr": "다리를 절며 기진맥진한 테세우스는 기나긴 귀환을 위해 발길을 돌렸습니다."
+      },
+      {
+        "id": 2,
+        "en": "He carefully followed his winding thread all the way to the maze's entrance.",
+        "kr": "그는 미궁의 입구까지 구불구불한 실을 조심스럽게 따라갔습니다."
+      },
+      {
+        "id": 3,
+        "en": "When he finally stepped out, he saw Ariadne eagerly waiting for him.",
+        "kr": "마침내 밖으로 나왔을 때, 그는 자신을 애타게 기다리고 있는 아리아드네를 보았습니다."
+      }
+    ]
+  },
+  {
+    "id": 843,
+    "tag": "P0843",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "He whispered that the deed was done and showed her the bloody sword.",
+        "kr": "그는 임무를 완수했다고 속삭이며 피 묻은 검을 그녀에게 보여주었습니다."
+      },
+      {
+        "id": 2,
+        "en": "She placed a finger to her lips for silence and hurried to the prison.",
+        "kr": "그녀는 조용히 하라는 뜻으로 입술에 손가락을 대고 감옥으로 서둘러 갔습니다."
+      },
+      {
+        "id": 3,
+        "en": "She had knocked out the guards with drugged wine.",
+        "kr": "그녀는 수면제를 탄 포도주로 경비병들을 기절시켜 둔 상태였습니다."
+      },
+      {
+        "id": 4,
+        "en": "Ariadne swiftly opened the heavy doors and set all the prisoners free.",
+        "kr": "아리아드네는 재빨리 무거운 문을 열고 모든 죄수들을 풀어주었습니다."
+      }
+    ]
+  },
+  {
+    "id": 844,
+    "tag": "P0844",
+    "chapter_id": "ch_14",
+    "translation": [
+      {
+        "id": 1,
+        "en": "Together, they sprinted to their waiting ship and hoisted the sails.",
+        "kr": "그들은 함께 기다리고 있던 배로 달려가 돛을 올렸습니다."
+      },
+      {
+        "id": 2,
+        "en": "The thick darkness of the night hid them from King Minos's fleet.",
+        "kr": "짙은 어둠 덕분에 그들은 미노스 왕의 함대를 피할 수 있었습니다."
+      },
+      {
+        "id": 3,
+        "en": "They escaped completely safely to the distant island of Naxos.",
+        "kr": "그들은 멀리 떨어진 낙소스 섬으로 완벽하게 무사히 탈출했습니다."
+      },
+      {
+        "id": 4,
+        "en": "There, the brave hero Theseus finally married the beautiful Ariadne.",
+        "kr": "그곳에서 용감한 영웅 테세우스는 마침내 아름다운 아리아드네와 혼인했습니다."
+      }
+    ]
+  }
+]

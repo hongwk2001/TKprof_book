@@ -1,0 +1,4234 @@
+{
+ "ch_01": [
+  {
+   "run": [
+    "P0002.11"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0002.10",
+      "P0002.11"
+     ],
+     "en": "One day, Wolmae made up her mind. She sat her husband down and spoke to him politely, \"Please listen to what I have to say.\"",
+     "ko": "하루는 월매가 크게 마음먹고 남편을 모셔 놓고 공손히 말했다. \"제 말씀을 들어 보십시오.\"",
+     "why": "The dialogue is a direct continuation of the action in the previous card; merging them ensures the speaker's action and their speech are on one screen.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0002.10",
+       "en": "One day, Wolmae made up her mind. She sat her husband down and spoke to him politely.",
+       "ko": "하루는 월매가 크게 마음먹고 남편을 모셔 놓고 공손히 말했다."
+      },
+      {
+       "id": "P0002.11",
+       "en": "\"Please listen to what I have to say.\"",
+       "ko": "\"제 말씀을 들어 보십시오.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0004.14"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.14",
+      "P0004.15"
+     ],
+     "en": "It was a daughter, as lovely as jade. It was not the son she had wanted, but her long sorrow was eased a little.",
+     "ko": "옥 같은 딸이었다. 월매는 오랫동안 기다리던 아들은 아니어도 마음속 한이 조금은 풀렸다.",
+     "why": "P0004.14 is a short fragment that flows directly into the context of P0004.15.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0004.14",
+       "en": "It was a daughter, as lovely as jade.",
+       "ko": "옥 같은 딸이었다."
+      },
+      {
+       "id": "P0004.15",
+       "en": "It was not the son she had wanted, but her long sorrow was eased a little.",
+       "ko": "월매는 오랫동안 기다리던 아들은 아니어도 마음속 한이 조금은 풀렸다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0005.14"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0005.14",
+      "P0005.15"
+     ],
+     "en": "One day, Master Yi calls Bangja and says, \"Where are the beautiful places in this town? Spring makes me want to write poems. Tell me the best spots.\"",
+     "ko": "하루는 이도령이 방자를 불러 말했다. \"이 고을에 경치 좋은 곳이 어디냐? 시흥과 봄흥이 절로 나니, 경치 좋은 곳을 일러라.\"",
+     "why": "The speaker tag 'Master Yi calls Bangja and says' is a fragment; merging it with the following dialogue creates a complete thought.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0005.14",
+       "en": "One day, Master Yi calls Bangja and says,",
+       "ko": "하루는 이도령이 방자를 불러 말했다."
+      },
+      {
+       "id": "P0005.15",
+       "en": "\"Where are the beautiful places in this town? Spring makes me want to write poems. Tell me the best spots.\"",
+       "ko": "\"이 고을에 경치 좋은 곳이 어디냐? 시흥과 봄흥이 절로 나니, 경치 좋은 곳을 일러라.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0006.9"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0006.9",
+      "P0007.1"
+     ],
+     "en": "In Jeolla Province, there are pavilions in Taein and Muju, and the Hanbyeongnu Pavilion in Jeonju. But listen to what Namwon has.",
+     "ko": "전라도로 말하자면 태인의 피향정, 무주의 한풍루, 전주의 한벽루가 좋습니다만, 남원의 경치도 들어 보십시오.",
+     "why": "The original card P0006.9 was cut in the middle of a list and a sentence structure that continued into P0007.1.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0006.9",
+       "en": "\"In Jeolla Province, there are pavilions in Taein and Muju,\"",
+       "ko": "\"전라도로 말하자면 태인의 피향정, 무주의 한풍루,\""
+      },
+      {
+       "id": "P0007.1",
+       "en": "\"and the Hanbyeongnu Pavilion in Jeonju. But listen to what Namwon has.\"",
+       "ko": "\"전주의 한벽루가 좋습니다만, 남원의 경치도 들어 보십시오.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0007.7"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0007.7",
+      "P0007.8"
+     ],
+     "en": "Master Yi goes to the magistrate and speaks politely, \"The weather is sunny today, so I would like to go out for a moment to recite poems and think of new ideas. I will go sightseeing around the town.\"",
+     "ko": "도련님은 사또 앞에 들어가 공손히 아뢰었다. \"오늘 날씨가 화창하니 잠깐 나가서 시를 읊으며 시운도 생각해 보고 싶습니다. 고을 구경을 다녀오겠습니다.\"",
+     "why": "The card P0007.7 was a short introductory action followed by the long speech in P0007.8; merging them creates a complete narrative unit.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0007.7",
+       "en": "Master Yi goes to the magistrate and speaks politely.",
+       "ko": "도련님은 사또 앞에 들어가 공손히 아뢰었다."
+      },
+      {
+       "id": "P0007.8",
+       "en": "\"The weather is sunny today, so I would like to go out for a moment to recite poems and think of new ideas. I will go sightseeing around the town.\"",
+       "ko": "\"오늘 날씨가 화창하니 잠깐 나가서 시를 읊으며 시운도 생각해 보고 싶습니다. 고을 구경을 다녀오겠습니다.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0007.15"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0007.15",
+      "P0008.1"
+     ],
+     "en": "Look at Master Yi! He has a face like jade and looks like an immortal. His long hair is neatly combed and braided. He wears fine silk clothes and a gat hat, and he looks like a proud young nobleman from the capital.",
+     "ko": "도련님 모습을 보아라. 옥 같은 얼굴에 신선 같은 풍채, 고운 얼굴에 긴 머리를 곱게 빗어 땋아 내리고, 고운 비단 옷에 갓을 받쳐 쓰니 한양 귀공자의 풍채가 늠름하다.",
+     "why": "The English sentence 'His long hair is' was cut off mid-sentence. Merging with the next card completes the description of his appearance.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0007.15",
+       "en": "Look at Master Yi! He has a face like jade and looks like an immortal. His long hair is",
+       "ko": "도련님 모습을 보아라. 옥 같은 얼굴에 신선 같은 풍채, 고운 얼굴에 긴 머리를 곱게"
+      },
+      {
+       "id": "P0008.1",
+       "en": "neatly combed and braided. He wears fine silk clothes and a gat hat, and he looks like a proud young nobleman from the capital.",
+       "ko": "빗어 땋아 내리고, 고운 비단 옷에 갓을 받쳐 쓰니 한양 귀공자의 풍채가 늠름하다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0009.9"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0009.8",
+      "P0009.9"
+     ],
+     "en": "White butterflies, as white as snow, and bees dance around with flower pollen in their mouths. Golden orioles fly into the trees.",
+     "ko": "흰 눈 같은 흰 나비와 벌들은 꽃술을 물고 너울너울 춤을 춘다. 황금 같은 꾀꼬리는 숲으로 날아든다.",
+     "why": "P0009.9 is a short sentence that flows naturally as a continuation of the imagery in P0009.8.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0009.8",
+       "en": "White butterflies, as white as snow, and bees dance around with flower pollen in their mouths.",
+       "ko": "흰 눈 같은 흰 나비와 벌들은 꽃술을 물고 너울너울 춤을 춘다."
+      },
+      {
+       "id": "P0009.9",
+       "en": "Golden orioles fly into the trees.",
+       "ko": "황금 같은 꾀꼬리는 숲으로 날아든다."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "ch_02": [
+  {
+   "run": [
+    "P0002.12"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0002.12",
+      "P0002.13"
+     ],
+     "en": "\"Hyangdan, push me.\" She pushes off once, then twice, putting her strength into it. Dust flies up from under her feet, and the swing goes higher and higher.",
+     "ko": "\"향단아, 밀어라.\" 한 번 굴러 힘을 주고 두 번 굴러 힘을 주니, 발밑의 티끌이 바람을 따라 펄펄 날리고 그네는 앞뒤로 점점 멀어진다.",
+     "why": "The dialogue in P0002.12 is a very short line that functions as an immediate lead-in to the action described in P0002.13. Merging them ensures the command and the resulting action are presented together.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0002.12",
+       "en": "\"Hyangdan, push me.\"",
+       "ko": "\"향단아, 밀어라.\""
+      },
+      {
+       "id": "P0002.13",
+       "en": "She pushes off once, then twice, putting her strength into it. Dust flies up from under her feet, and the swing goes higher and higher.",
+       "ko": "한 번 굴러 힘을 주고 두 번 굴러 힘을 주니, 발밑의 티끌이 바람을 따라 펄펄 날리고 그네는 앞뒤로 점점 멀어진다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0003.11",
+    "P0003.12"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0003.11",
+      "P0003.12"
+     ],
+     "en": "He mutters to himself, \"The most beautiful women in history are long gone. Xi Shi sailed away on a little boat,\"",
+     "ko": "혼잣말로 중얼거린다. \"조각배 타고 범려를 따라 오호로 떠났으니 서시는 올 리 없고,\"",
+     "why": "Joins the speaker tag to the start of the dialogue to prevent the action from being isolated.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0003.11",
+       "en": "He mutters to himself.",
+       "ko": "혼잣말로 중얼거린다."
+      },
+      {
+       "id": "P0003.12",
+       "en": "\"The most beautiful women in history are long gone. Xi Shi sailed away on a little boat,\"",
+       "ko": "\"조각배 타고 범려를 따라 오호로 떠났으니 서시는 올 리 없고,\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0004.1",
+    "P0004.2"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.1",
+      "P0004.2"
+     ],
+     "en": "\"Tongin.\" \"Yes?\"",
+     "ko": "\"통인아.\" \"예.\"",
+     "why": "The two cards represent a very short back-and-forth exchange between characters and are better combined into a single card to avoid fragmenting the dialogue.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0004.1",
+       "en": "\"Tongin.\"",
+       "ko": "\"통인아.\""
+      },
+      {
+       "id": "P0004.2",
+       "en": "\"Yes?\"",
+       "ko": "\"예.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0004.4"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.4",
+      "P0004.5"
+     ],
+     "en": "Tongin looks carefully and answers, \"It is not anything else; it is a girl named Chunhyang, the daughter of Wolmae, a gisaeng from this town.\"",
+     "ko": "통인이 살펴보고 아뢴다. \"다른 것이 아니라, 이 고을 기생 월매의 딸 춘향이라는 아이로소이다.\"",
+     "why": "P0004.4 is a short action/speech tag that is cut off from the actual content of the response in P0004.5. Merging them creates a complete narrative unit.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0004.4",
+       "en": "Tongin looks carefully and answers.",
+       "ko": "통인이 살펴보고 아뢴다."
+      },
+      {
+       "id": "P0004.5",
+       "en": "\"It is not anything else; it is a girl named Chunhyang, the daughter of Wolmae, a gisaeng from this town.\"",
+       "ko": "\"다른 것이 아니라, 이 고을 기생 월매의 딸 춘향이라는 아이로소이다.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0004.9"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.9",
+      "P0005.1"
+     ],
+     "en": "The young master laughs and calls Bangja to give him an order, \"I heard she is the daughter of a gisaeng. Go and bring her here immediately.\"",
+     "ko": "도령이 허허 웃고 방자를 불러 분부한다. \"들으니 기생의 딸이라 하니, 급히 가서 불러 오너라.\"",
+     "why": "The card P0004.9 is a short action leading directly into the dialogue in P0005.1. Merging them creates a cohesive narrative unit where the command follows the action immediately.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0004.9",
+       "en": "The young master laughs and calls Bangja to give him an order.",
+       "ko": "도령이 허허 웃고 방자를 불러 분부한다."
+      },
+      {
+       "id": "P0005.1",
+       "en": "\"I heard she is the daughter of a gisaeng. Go and bring her here immediately.\"",
+       "ko": "\"들으니 기생의 딸이라 하니, 급히 가서 불러 오너라.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0005.2"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0005.2",
+      "P0005.3"
+     ],
+     "en": "Bangja answers him. \"Chunhyang has skin as white as snow and a face as beautiful as a flower. She is very famous in the southern region.\"",
+     "ko": "방자 놈이 아뢴다. \"춘향이는 눈 같은 살결과 꽃 같은 얼굴로 남쪽 지방에 이름이 높습니다.\"",
+     "why": "The card P0005.2 was a short fragment (a speaker action) and was merged with the following dialogue to ensure the sentence flow is complete.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0005.2",
+       "en": "Bangja answers him.",
+       "ko": "방자 놈이 아뢴다."
+      },
+      {
+       "id": "P0005.3",
+       "en": "\"Chunhyang has skin as white as snow and a face as beautiful as a flower. She is very famous in the southern region.\"",
+       "ko": "\"춘향이는 눈 같은 살결과 꽃 같은 얼굴로 남쪽 지방에 이름이 높습니다.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0005.7"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0005.7",
+      "P0005.8"
+     ],
+     "en": "Master Yi laughs loudly. \"Bangja, you don't know that every precious thing has an owner.\"",
+     "ko": "도령이 크게 웃는다. \"방자야, 네가 물건마다 다 임자가 있다는 말을 모르는구나.\"",
+     "why": "The action 'Master Yi laughs' is a short transition and should be joined with the following dialogue to ensure the card isn't a fragment.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0005.7",
+       "en": "Master Yi laughs loudly.",
+       "ko": "도령이 크게 웃는다."
+      },
+      {
+       "id": "P0005.8",
+       "en": "\"Bangja, you don't know that every precious thing has an owner.\"",
+       "ko": "\"방자야, 네가 물건마다 다 임자가 있다는 말을 모르는구나.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0005.12",
+    "P0005.13"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0005.11",
+      "P0005.12"
+     ],
+     "en": "The stylish Bangja runs back and forth like a bird carrying an important message. \"Hey, girl! Chunhyang!\"",
+     "ko": "맵시 있는 방자 녀석이 서왕모의 편지를 전하던 파랑새처럼 이리저리 건너가서 부른다. \"여봐라, 이 애 춘향아!\"",
+     "why": "Merges the descriptive action of Bangja with his immediate call to Chunhyang into one cohesive scene.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0005.11",
+       "en": "The stylish Bangja runs back and forth like a bird carrying an important message.",
+       "ko": "맵시 있는 방자 녀석이 서왕모의 편지를 전하던 파랑새처럼 이리저리 건너가서 부른다."
+      },
+      {
+       "id": "P0005.12",
+       "en": "\"Hey, girl! Chunhyang!\"",
+       "ko": "\"여봐라, 이 애 춘향아!\""
+      }
+     ]
+    },
+    {
+     "ids": [
+      "P0005.13",
+      "P0005.14"
+     ],
+     "en": "Chunhyang is surprised. \"Why are you shouting like that? You're startling people!\"",
+     "ko": "춘향이 깜짝 놀란다. \"무슨 소리를 그따위로 질러서 사람 정신을 놀래느냐?\"",
+     "why": "Merges Chunhyang's reaction with her immediate response to Bangja's shouting.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0005.13",
+       "en": "Chunhyang is surprised.",
+       "ko": "춘향이 깜짝 놀란다."
+      },
+      {
+       "id": "P0005.14",
+       "en": "\"Why are you shouting like that? You're startling people!\"",
+       "ko": "\"무슨 소리를 그따위로 질러서 사람 정신을 놀래느냐?\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0005.15",
+    "P0005.16"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0005.14",
+      "P0005.15"
+     ],
+     "en": "\"Why are you shouting like that? You're startling people! Don't say that. There is a problem.\"",
+     "ko": "\"무슨 소리를 그따위로 질러서 사람 정신을 놀래느냐? 이 애야, 말 마라. 일이 났다.\"",
+     "why": "Merges the short 'Don't say that' response with the preceding exclamation to create a cohesive flow.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0005.14",
+       "en": "\"Why are you shouting like that? You're startling people!\"",
+       "ko": "\"무슨 소리를 그따위로 질러서 사람 정신을 놀래느냐?\""
+      },
+      {
+       "id": "P0005.15",
+       "en": "\"Don't say that. There is a problem.\"",
+       "ko": "\"이 애야, 말 마라. 일이 났다.\""
+      }
+     ]
+    },
+    {
+     "ids": [
+      "P0005.16",
+      "P0005.17"
+     ],
+     "en": "\"What kind of problem? The magistrate's son, the young master, came to Gwanghallu and saw you playing around. He ordered me to bring you.\"",
+     "ko": "\"일이라니, 무슨 일? 사또 자제 도련님이 광한루에 오셨다가 네가 노는 모양을 보고 불러오라고 분부하셨다.\"",
+     "why": "Merges the short question with the long explanatory response to ensure the context is not split across cards.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0005.16",
+       "en": "\"What kind of problem?\"",
+       "ko": "\"일이라니, 무슨 일?\""
+      },
+      {
+       "id": "P0005.17",
+       "en": "\"The magistrate's son, the young master, came to Gwanghallu and saw you playing around. He ordered me to bring you.\"",
+       "ko": "\"사또 자제 도련님이 광한루에 오셨다가 네가 노는 모양을 보고 불러오라고 분부하셨다.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0005.18"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0005.18",
+      "P0005.19"
+     ],
+     "en": "Chunhyang gets angry. \"You must be crazy! How does the young master know who I am?\"",
+     "ko": "춘향이 화를 내며, \"네가 미친 자식이로구나. 도련님이 어찌 나를 알고 부른단 말이냐?\"",
+     "why": "The card P0005.18 is a short narrative beat that acts as an introduction to the dialogue in P0005.19; merging them creates a complete action-reaction unit.",
+     "issues": [
+      "Korean words changed"
+     ],
+     "before": [
+      {
+       "id": "P0005.18",
+       "en": "Chunhyang gets angry.",
+       "ko": "춘향이 화를 낸다."
+      },
+      {
+       "id": "P0005.19",
+       "en": "\"You must be crazy! How does the young master know who I am?\"",
+       "ko": "\"네가 미친 자식이로구나. 도련님이 어찌 나를 알고 부른단 말이냐?\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0006.7"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0006.7",
+      "P0006.8"
+     ],
+     "en": "Chunhyang answers, \"You are right in a way, but isn't today the Dano festival? I wasn't the only one. Girls from other families came here and rode the swing too.\"",
+     "ko": "춘향이 대답한다. \"네 말이 옳기는 하다만, 오늘은 단옷날이 아니냐. 나만 탄 게 아니라 다른 집 처녀들도 여기 와서 함께 그네를 탔다.\"",
+     "why": "The speaker tag 'Chunhyang answers' was a lonely fragment; merging it with the following dialogue creates a complete sentence and avoids a short card.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0006.7",
+       "en": "Chunhyang answers.",
+       "ko": "춘향이 대답한다."
+      },
+      {
+       "id": "P0006.8",
+       "en": "\"You are right in a way, but isn't today the Dano festival? I wasn't the only one. Girls from other families came here and rode the swing too.\"",
+       "ko": "\"네 말이 옳기는 하다만, 오늘은 단옷날이 아니냐. 나만 탄 게 아니라 다른 집 처녀들도 여기 와서 함께 그네를 탔다.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0006.13"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0006.12",
+      "P0006.13"
+     ],
+     "en": "Master Yi hears this and says, \"She is a remarkable girl. What she says is right.\" \"Go back and tell her this and this.\"",
+     "ko": "도련님이 그 말을 듣고 말한다. \"기특한 사람이로다. 말인즉 옳구나.\" \"다시 가서 이러이러하게 말하여라.\"",
+     "why": "The dialogue from Master Yi is split into two cards; merging them keeps the character's speech together.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0006.12",
+       "en": "Master Yi hears this and says, \"She is a remarkable girl. What she says is right.\"",
+       "ko": "도련님이 그 말을 듣고 말한다. \"기특한 사람이로다. 말인즉 옳구나.\""
+      },
+      {
+       "id": "P0006.13",
+       "en": "\"Go back and tell her this and this.\"",
+       "ko": "\"다시 가서 이러이러하게 말하여라.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0007.5"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0007.5",
+      "P0007.6"
+     ],
+     "en": "Then Chunhyang's mother sits up and speaks, \"Dreams are not just empty fantasies at all.\"",
+     "ko": "그때 춘향 어머니가 썩 나앉으며 말한다. \"꿈이라는 것이 전혀 헛것이 아니로구나.\"",
+     "why": "The speaker tag 'speaks' was followed by a short quote in the next card; merging them creates a complete sentence and prevents the dialogue from being split.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0007.5",
+       "en": "Then Chunhyang's mother sits up and speaks.",
+       "ko": "그때 춘향 어머니가 썩 나앉으며 말한다."
+      },
+      {
+       "id": "P0007.6",
+       "en": "\"Dreams are not just empty fantasies at all.\"",
+       "ko": "\"꿈이라는 것이 전혀 헛것이 아니로구나.\""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "ch_03": [
+  {
+   "run": [
+    "P0003.9",
+    "P0003.10",
+    "P0003.11"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0003.9",
+      "P0003.10"
+     ],
+     "en": "Are your parents both still alive? Only my mother is with me.",
+     "ko": "너의 부모는 다 살아 계시냐? 어머니만 계시옵니다.",
+     "why": "The question and the short answer are joined to prevent a single-line fragment.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0003.9",
+       "en": "\"Are your parents both still alive?\"",
+       "ko": "\"너의 부모는 다 살아 계시냐?\""
+      },
+      {
+       "id": "P0003.10",
+       "en": "\"Only my mother is with me.\"",
+       "ko": "\"어머니만 계시옵니다.\""
+      }
+     ]
+    },
+    {
+     "ids": [
+      "P0003.11",
+      "P0003.12"
+     ],
+     "en": "How many siblings do you have? My mother is sixty years old this year, and I am her only daughter. There are no brothers.",
+     "ko": "형제는 몇이나 되느냐? 올해 예순 되신 어머니께 아들 없이 딸 하나, 저뿐이옵니다.",
+     "why": "The question and the long descriptive answer are joined to ensure a complete thought on one card.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0003.11",
+       "en": "\"How many siblings do you have?\"",
+       "ko": "\"형제는 몇이나 되느냐?\""
+      },
+      {
+       "id": "P0003.12",
+       "en": "\"My mother is sixty years old this year, and I am her only daughter. There are no brothers.\"",
+       "ko": "\"올해 예순 되신 어머니께 아들 없이 딸 하나, 저뿐이옵니다.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0004.2"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.2",
+      "P0004.3"
+     ],
+     "en": "\"Where is your home?\" Chunhyang replies, \"Please call Bangja and ask him.\"",
+     "ko": "\"네 집이 어디냐?\" 춘향이 아뢴다. \"방자를 불러 물어보십시오.\"",
+     "why": "The short question in P0004.2 is merged with the response in P0004.3 to create a complete interaction on one card.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0004.2",
+       "en": "\"Where is your home?\"",
+       "ko": "\"네 집이 어디냐?\""
+      },
+      {
+       "id": "P0004.3",
+       "en": "Chunhyang replies, \"Please call Bangja and ask him.\"",
+       "ko": "춘향이 아뢴다. \"방자를 불러 물어보십시오.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0004.5"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.5",
+      "P0004.6"
+     ],
+     "en": "\"Yes.\" \"You tell me where Chunhyang's house is.\"",
+     "ko": "\"예.\" \"춘향의 집을 네가 일러라.\"",
+     "why": "The card P0004.5 is a single-word response that feels like a fragment; merging it with the following instruction creates a complete exchange.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0004.5",
+       "en": "\"Yes.\"",
+       "ko": "\"예.\""
+      },
+      {
+       "id": "P0004.6",
+       "en": "\"You tell me where Chunhyang's house is.\"",
+       "ko": "\"춘향의 집을 네가 일러라.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0005.2"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0005.2",
+      "P0005.3"
+     ],
+     "en": "Chunhyang answers, \"I don't know.\" \"You don't know? That won't do. Goodbye for now. We will meet again tonight.\"",
+     "ko": "춘향이 대답한다. \"나는 몰라요.\" \"네가 모르면 쓰겠느냐. 잘 가거라. 오늘 밤에 다시 만나자.\"",
+     "why": "P0005.2 is a short response that flows directly into the next line of dialogue, making them better as a single card.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0005.2",
+       "en": "Chunhyang answers, \"I don't know.\"",
+       "ko": "춘향이 대답한다. \"나는 몰라요.\""
+      },
+      {
+       "id": "P0005.3",
+       "en": "\"You don't know? That won't do. Goodbye for now. We will meet again tonight.\"",
+       "ko": "\"네가 모르면 쓰겠느냐. 잘 가거라. 오늘 밤에 다시 만나자.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0005.7",
+    "P0005.8",
+    "P0005.9"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0005.7",
+      "P0005.8"
+     ],
+     "en": "I see. And how did you answer him? I told him I didn't know.",
+     "ko": "그래, 어찌 대답했느냐? 모른다고 했지요.",
+     "why": "Merged two short back-and-forth lines into one card to prevent a lonely fragment.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0005.7",
+       "en": "\"I see. And how did you answer him?\"",
+       "ko": "\"그래, 어찌 대답했느냐?\""
+      },
+      {
+       "id": "P0005.8",
+       "en": "\"I told him I didn't know.\"",
+       "ko": "\"모른다고 했지요.\""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "ch_04": [
+  {
+   "run": [
+    "P0002.11"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0002.10",
+      "P0002.11"
+     ],
+     "en": "He reads the Book of Songs. \"Guan, guan, cry the ospreys on the river island. A lovely young lady is a fine match for a gentleman.\" \"Oh no, I can't read this one either.\"",
+     "ko": "시경을 읽는다. \"구욱구욱 물수리는 강가 모래섬에 있도다. 아리따운 아가씨는 군자의 좋은 짝이로다.\" \"아서라, 이 글도 못 읽겠다.\"",
+     "why": "The card P0002.11 is a short reaction to the previous line and should be merged with P0002.10 to ensure the dialogue flows together as one continuous scene.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0002.10",
+       "en": "He reads the Book of Songs. \"Guan, guan, cry the ospreys on the river island. A lovely young lady is a fine match for a gentleman.\"",
+       "ko": "시경을 읽는다. \"구욱구욱 물수리는 강가 모래섬에 있도다. 아리따운 아가씨는 군자의 좋은 짝이로다.\""
+      },
+      {
+       "id": "P0002.11",
+       "en": "\"Oh no, I can't read this one either.\"",
+       "ko": "\"아서라, 이 글도 못 읽겠다.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0002.13"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0002.12",
+      "P0002.13"
+     ],
+     "en": "He reads the Great Learning. \"The way of great learning lies in making virtue shine, in renewing the people, and in Chunhyang.\" \"I can't read this one either.\"",
+     "ko": "대학을 읽는다. \"대학의 도는 밝은 덕을 밝히는 데 있으며, 백성을 새롭게 하는 데 있으며, 춘향이에 있도다.\" \"이 글도 못 읽겠다.\"",
+     "why": "P0002.13 is a short fragment of speech that follows the action in P0002.12; merging them keeps the context together.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0002.12",
+       "en": "He reads the Great Learning. \"The way of great learning lies in making virtue shine, in renewing the people, and in Chunhyang.\"",
+       "ko": "대학을 읽는다. \"대학의 도는 밝은 덕을 밝히는 데 있으며, 백성을 새롭게 하는 데 있으며, 춘향이에 있도다.\""
+      },
+      {
+       "id": "P0002.13",
+       "en": "\"I can't read this one either.\"",
+       "ko": "\"이 글도 못 읽겠다.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0002.15"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0002.14",
+      "P0002.15"
+     ],
+     "en": "He reads the Book of Changes. \"The Way is great... Chunhyang's nose, my nose, nose to nose, how nice!\" (In Korean, the old words in this book sound like \"ko,\" the word for nose.) \"I can't read this one either.\"",
+     "ko": "주역을 읽는다. \"원은 형코, 정코, 춘향이 코, 내 코 대니 좋고 하니라.\" (한국어에서 이 책의 옛 단어들은 '코'로 들린다.) \"이 글도 못 읽겠다.\"",
+     "why": "The card P0002.15 is a short fragment of the character's reaction to the preceding text and should be merged with P0002.14.",
+     "issues": [
+      "Korean words changed"
+     ],
+     "before": [
+      {
+       "id": "P0002.14",
+       "en": "He reads the Book of Changes. \"The Way is great... Chunhyang's nose, my nose, nose to nose, how nice!\" (In Korean, the old words in this book sound like \"ko,\" the word for nose.)",
+       "ko": "주역을 읽는다. \"원은 형코, 정코, 춘향이 코, 내 코 대니 좋고 하니라.\""
+      },
+      {
+       "id": "P0002.15",
+       "en": "\"I can't read this one either.\"",
+       "ko": "\"이 글도 못 읽겠다.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0003.2",
+    "P0003.3",
+    "P0003.4"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0003.1",
+      "P0003.2"
+     ],
+     "en": "He reads a famous essay about a tower. \"Nanchang is an old town, and Hongdu is a new town.\" \"Good, I can read this one.\"",
+     "ko": "등왕각서를 읽는다. \"남창은 옛 고을이요, 홍도는 새 고을이로다.\" \"옳다, 이 글은 되었다.\"",
+     "why": "Merges the narrative action with the character's immediate reaction to the text.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0003.1",
+       "en": "He reads a famous essay about a tower. \"Nanchang is an old town, and Hongdu is a new town.\"",
+       "ko": "등왕각서를 읽는다. \"남창은 옛 고을이요, 홍도는 새 고을이로다.\""
+      },
+      {
+       "id": "P0003.2",
+       "en": "\"Good, I can read this one.\"",
+       "ko": "\"옳다, 이 글은 되었다.\""
+      }
+     ]
+    },
+    {
+     "ids": [
+      "P0003.3",
+      "P0003.4"
+     ],
+     "en": "He reads the Mencius. \"When Mencius met King Hui of Liang, the king said, 'Sir, you have come a thousand li to see me.'\" \"Have you come to see Chunhyang?\"",
+     "ko": "맹자를 읽는다. \"맹자께서 양나라 혜왕을 뵈니, 왕이 말하기를 '노인께서 천 리를 멀다 않고 오셨으니' 하니,\" \"춘향이 보러 오셨습니까?\"",
+     "why": "Merges the long quote from Mencius with the following short line of dialogue to ensure the sentence isn't cut.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0003.3",
+       "en": "He reads the Mencius. \"When Mencius met King Hui of Liang, the king said, 'Sir, you have come a thousand li to see me.'\"",
+       "ko": "맹자를 읽는다. \"맹자께서 양나라 혜왕을 뵈니, 왕이 말하기를 '노인께서 천 리를 멀다 않고 오셨으니' 하니,\""
+      },
+      {
+       "id": "P0003.4",
+       "en": "\"Have you come to see Chunhyang?\"",
+       "ko": "\"춘향이 보러 오셨습니까?\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0004.8"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.7",
+      "P0004.8"
+     ],
+     "en": "Master Yi opens the Red Cliff poem. \"In autumn, on the sixteenth night of the seventh month, I sailed with a guest below the Red Cliff. A clear breeze blew softly, and the water was calm.\" \"Oh no, I can't read this one either.\"",
+     "ko": "도련님이 적벽부를 펼쳐 놓는다. \"임술년 가을 칠월 열엿새, 소자가 손님과 함께 적벽 아래 배를 띄우니, 맑은 바람은 솔솔 불고 물결은 일지 않는구나.\" \"아서라, 이 글도 못 읽겠다.\"",
+     "why": "The character's reaction to the poem is a short follow-up line that should be combined with the preceding action and dialogue.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0004.7",
+       "en": "Master Yi opens the Red Cliff poem. \"In autumn, on the sixteenth night of the seventh month, I sailed with a guest below the Red Cliff. A clear breeze blew softly, and the water was calm.\"",
+       "ko": "도련님이 적벽부를 펼쳐 놓는다. \"임술년 가을 칠월 열엿새, 소자가 손님과 함께 적벽 아래 배를 띄우니, 맑은 바람은 솔솔 불고 물결은 일지 않는구나.\""
+      },
+      {
+       "id": "P0004.8",
+       "en": "\"Oh no, I can't read this one either.\"",
+       "ko": "\"아서라, 이 글도 못 읽겠다.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0005.6",
+    "P0005.7"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0005.6",
+      "P0005.7"
+     ],
+     "en": "You know it? I certainly do.",
+     "ko": "네가 안단 말이냐? 알다마다요.",
+     "why": "Both cards are very short fragments of a single exchange; merging them creates a complete conversational beat.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0005.6",
+       "en": "\"You know it?\"",
+       "ko": "\"네가 안단 말이냐?\""
+      },
+      {
+       "id": "P0005.7",
+       "en": "\"I certainly do.\"",
+       "ko": "\"알다마다요.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0008.4"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0008.4",
+      "P0008.5"
+     ],
+     "en": "\"Yes.\" \"Is someone in the study getting acupuncture, or a leg massage? Go and find out.\"",
+     "ko": "\"예.\" \"책방에서 누가 생침을 맞았느냐, 다리를 주물렀느냐? 알아 오너라.\"",
+     "why": "P0008.4 is a very short response that functions as a transition; merging it with the following command creates a complete interaction.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0008.4",
+       "en": "\"Yes.\"",
+       "ko": "\"예.\""
+      },
+      {
+       "id": "P0008.5",
+       "en": "\"Is someone in the study getting acupuncture, or a leg massage? Go and find out.\"",
+       "ko": "\"책방에서 누가 생침을 맞았느냐, 다리를 주물렀느냐? 알아 오너라.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0008.10"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0008.10",
+      "P0008.11"
+     ],
+     "en": "\"I was reading the Analects and came to the line, 'How sad, I have grown old. It has been a long time since I dreamed of the Duke of Zhou.' Tell him I got excited, wondering if I would shout like that too if I saw the Duke of Zhou, and that is why my voice got loud.\"",
+     "ko": "\"내가 논어를 읽다가 '슬프다, 내가 늙었구나. 꿈에 주공을 뵌 지 오래로다'라는 대목을 보았다. 나도 주공을 으며 그리하여 볼까 하고 흥이 나서 소리가 높았다고, 그대로 아뢰어라.\"",
+     "why": "The two cards form a single continuous thought/sentence structure in both languages; merging them prevents the sentence from being cut off mid-thought.",
+     "issues": [
+      "Korean words changed"
+     ],
+     "before": [
+      {
+       "id": "P0008.10",
+       "en": "\"I was reading the Analects and came to the line, 'How sad, I have grown old. It has been a long time since I dreamed of the Duke of Zhou.'\"",
+       "ko": "\"내가 논어를 읽다가 '슬프다, 내가 늙었구나. 꿈에 주공을 뵌 지 오래로다'라는 대목을 보았다.\""
+      },
+      {
+       "id": "P0008.11",
+       "en": "\"Tell him I got excited, wondering if I would shout like that too if I saw the Duke of Zhou, and that is why my voice got loud.\"",
+       "ko": "\"나도 주공을 뵈면 그리하여 볼까 하고 흥이 나서 소리가 높았다고, 그대로 아뢰어라.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0008.15"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0008.15",
+      "P0008.16"
+     ],
+     "en": "\"Sir, you must have been bored.\" \"Ah, sit down. I want to tell you something. We were friends as boys and studied together.\"",
+     "ko": "\"사또, 그동안 심심하셨지요?\" \"아, 거기 앉게. 할 말이 있네. 우리는 어릴 적 친구로 함께 글공부를 했지.\"",
+     "why": "The short line P0008.15 is a brief exchange that flows directly into the response in P0008.16; merging them prevents a lonely fragment and keeps the dialogue together.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0008.15",
+       "en": "\"Sir, you must have been bored.\"",
+       "ko": "\"사또, 그동안 심심하셨지요?\""
+      },
+      {
+       "id": "P0008.16",
+       "en": "\"Ah, sit down. I want to tell you something. We were friends as boys and studied together.\"",
+       "ko": "\"아, 거기 앉게. 할 말이 있네. 우리는 어릴 적 친구로 함께 글공부를 했지.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0009.3"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0009.3",
+      "P0009.4"
+     ],
+     "en": "Yes, that is true. And what do you think of his handwriting?",
+     "ko": "예, 그렇습디다. 배운 것 없이도 글씨가 어떠한가?",
+     "why": "The short response 'Yes, that is true' is a fragment and should be merged with the following question to form a complete thought.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0009.3",
+       "en": "\"Yes, that is true.\"",
+       "ko": "\"예, 그렇습디다.\""
+      },
+      {
+       "id": "P0009.4",
+       "en": "\"And what do you think of his handwriting?\"",
+       "ko": "\"배운 것 없이도 글씨가 어떠한가?\""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "ch_05": [
+  {
+   "run": [
+    "P0002.2"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0002.2",
+      "P0002.3"
+     ],
+     "en": "It is not finished yet. A little later, a long bell rings to tell the servants to go home.",
+     "ko": "아직 안 끝났습니다. 조금 있으니 하인들을 물리는 퇴령 소리가 길게 울린다.",
+     "why": "P0002.2 is too short and functions as a brief response; merging it with the following narrative sentence creates a more cohesive flow.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0002.2",
+       "en": "\"It is not finished yet.\"",
+       "ko": "\"아직 안 끝났습니다.\""
+      },
+      {
+       "id": "P0002.3",
+       "en": "A little later, a long bell rings to tell the servants to go home.",
+       "ko": "조금 있으니 하인들을 물리는 퇴령 소리가 길게 울린다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0002.5"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0002.5",
+      "P0002.6"
+     ],
+     "en": "He has a servant boy follow him, and they walk to Chunhyang's house so quietly that they leave no trace. He says, \"Bangja, there's light in my father's room. Hide the lantern under your arm.\"",
+     "ko": "통인 하나를 뒤따르게 하고 춘향의 집으로 건너가는데, 자취 없이 가만가만 걸으며 말한다. \"방자야, 사또 방에 불빛이 비친다. 등롱을 옆에 끼어라.\"",
+     "why": "The sentence in P0002.5 ends with 'He says,' which is a narrative lead-in to the dialogue in P0002.6. Merging them creates a complete thought and prevents the dialogue from starting on a new card.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0002.5",
+       "en": "He has a servant boy follow him, and they walk to Chunhyang's house so quietly that they leave no trace. He says,",
+       "ko": "통인 하나를 뒤따르게 하고 춘향의 집으로 건너가는데, 자취 없이 가만가만 걸으며 말한다."
+      },
+      {
+       "id": "P0002.6",
+       "en": "\"Bangja, there's light in my father's room. Hide the lantern under your arm.\"",
+       "ko": "\"방자야, 사또 방에 불빛이 비친다. 등롱을 옆에 끼어라.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0002.14"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0002.13",
+      "P0002.14"
+     ],
+     "en": "Bangja goes in. Worried that a dog might bark, he creeps quietly up under Chunhyang's window. \"Hey, Chunhyang, are you asleep?\"",
+     "ko": "방자가 안으로 들어가는데, 개가 짖을까 염려하여 기척 없이 가만가만 춘향의 방 창문 밑으로 살짝 다가간다. \"이 애 춘향아, 잠들었느냐?\"",
+     "why": "The dialogue is a short line following an action description; merging them ensures the character's entrance and immediate question are on one card.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0002.13",
+       "en": "Bangja goes in. Worried that a dog might bark, he creeps quietly up under Chunhyang's window.",
+       "ko": "방자가 안으로 들어가는데, 개가 짖을까 염려하여 기척 없이 가만가만 춘향의 방 창문 밑으로 살짝 다가간다."
+      },
+      {
+       "id": "P0002.14",
+       "en": "\"Hey, Chunhyang, are you asleep?\"",
+       "ko": "\"이 애 춘향아, 잠들었느냐?\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0002.16"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0002.15",
+      "P0002.16"
+     ],
+     "en": "Chunhyang is startled. \"What are you doing here?\" \"Master Yi is here.\"",
+     "ko": "춘향이 깜짝 놀란다. \"네가 어찌 왔느냐?\" \"도련님이 와 계시다.\"",
+     "why": "The dialogue in P0002.16 is a short response that should be joined with the preceding question to keep the exchange together.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0002.15",
+       "en": "Chunhyang is startled. \"What are you doing here?\"",
+       "ko": "춘향이 깜짝 놀란다. \"네가 어찌 왔느냐?\""
+      },
+      {
+       "id": "P0002.16",
+       "en": "\"Master Yi is here.\"",
+       "ko": "\"도련님이 와 계시다.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0003.3",
+    "P0003.4"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0003.3",
+      "P0003.4"
+     ],
+     "en": "\"Who said I wanted anything? Then why did you call out?\"",
+     "ko": "\"누가 무엇을 달라고 했소? 그러면 어찌 불렀느냐?\"",
+     "why": "Both cards are short fragments of a single exchange; merging them creates a complete logical unit.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0003.3",
+       "en": "\"Who said I wanted anything?\"",
+       "ko": "\"누가 무엇을 달라고 했소?\""
+      },
+      {
+       "id": "P0003.4",
+       "en": "\"Then why did you call out?\"",
+       "ko": "\"그러면 어찌 불렀느냐?\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0004.1"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.1",
+      "P0004.2"
+     ],
+     "en": "Master Yi is pacing around awkwardly when Bangja comes out and says, \"The woman coming that way is Chunhyang's mother.\"",
+     "ko": "도련님은 이리저리 서성이며 멋쩍게 서 있는데, 방자가 나와서 \"저기 오는 이가 춘향의 어머니입니다.\"라고 아뢴다.",
+     "why": "The original card P0004.1 ends in a speech tag ('says,'), making it a fragment of the dialogue that follows in P0004.2.",
+     "issues": [
+      "Korean words changed"
+     ],
+     "before": [
+      {
+       "id": "P0004.1",
+       "en": "Master Yi is pacing around awkwardly when Bangja comes out and says,",
+       "ko": "도련님은 이리저리 서성이며 멋쩍게 서 있는데, 방자가 나와서 아뢴다."
+      },
+      {
+       "id": "P0004.2",
+       "en": "\"The woman coming that way is Chunhyang's mother.\"",
+       "ko": "\"저기 오는 이가 춘향의 어머니입니다.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0004.6"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.6",
+      "P0004.7"
+     ],
+     "en": "Not at all. Chunhyang's mother leads the way through the main gate and the middle gate to the back garden, where a lantern glows in an old cottage set apart.",
+     "ko": "그럴 리가 있나. 춘향 어머니가 앞장서서 안내하여 대문과 중문을 다 지나 뒤뜰로 돌아가니, 오래된 별채 초당에 등롱이 밝혀져 있다.",
+     "why": "P0004.6 is a very short fragment ('Not at all.') and should be merged with the following descriptive sentence to ensure it isn't isolated.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0004.6",
+       "en": "\"Not at all.\"",
+       "ko": "\"그럴 리가 있나.\""
+      },
+      {
+       "id": "P0004.7",
+       "en": "Chunhyang's mother leads the way through the main gate and the middle gate to the back garden, where a lantern glows in an old cottage set apart.",
+       "ko": "춘향 어머니가 앞장서서 안내하여 대문과 중문을 다 지나 뒤뜰로 돌아가니, 오래된 별채 초당에 등롱이 밝혀져 있다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0005.8"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0005.8",
+      "P0005.9"
+     ],
+     "en": "Master Yi takes the pipe and sits. Master Yi has come because he loves Chunhyang, not to look at her furniture.",
+     "ko": "도련님이 담배를 받아 물고 앉았다. 도련님이 춘향의 집에 온 것은 춘향에게 마음이 있어서이지, 살림살이를 구경하러 온 것은 아니었다.",
+     "why": "P0005.8 is a short sentence that functions as an action leading directly into the narrative context of P0005.9; merging them prevents a fragment and creates a cohesive flow.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0005.8",
+       "en": "Master Yi takes the pipe and sits.",
+       "ko": "도련님이 담배를 받아 물고 앉았다."
+      },
+      {
+       "id": "P0005.9",
+       "en": "Master Yi has come because he loves Chunhyang, not to look at her furniture.",
+       "ko": "도련님이 춘향의 집에 온 것은 춘향에게 마음이 있어서이지, 살림살이를 구경하러 온 것은 아니었다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0009.6"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0009.6",
+      "P0009.7"
+     ],
+     "en": "Like a butterfly drunk on a flower, I came here tonight. I came to see you, Chunhyang's mother, but I also want to promise your daughter that we will be together for a hundred years. What do you say?",
+     "ko": "꽃을 찾는 나비처럼 취한 마음으로 오늘 밤 온 뜻은, 춘향 어머니를 보러 온 것이기도 하지만 자네 딸 춘향과 백 년을 함께하자는 약속을 맺고 싶어서네. 자네 생각은 어떤가?",
+     "why": "P0009.6 was cut in the middle of a sentence ('...but I also...') and merged with P0009.7 to complete the thought.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0009.6",
+       "en": "\"Like a butterfly drunk on a flower, I came here tonight. I came to see you, Chunhyang's mother,\"",
+       "ko": "\"꽃을 찾는 나비처럼 취한 마음으로 오늘 밤 온 뜻은, 춘향 어머니를 보러 온 것이기도 하지만,\""
+      },
+      {
+       "id": "P0009.7",
+       "en": "\"but I also want to promise your daughter that we will be together for a hundred years. What do you say?\"",
+       "ko": "\"자네 딸 춘향과 백 년을 함께하자는 약속을 맺고 싶어서네. 자네 생각은 어떤가?\""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "ch_06": [
+  {
+   "run": [
+    "P0002.6"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0002.6",
+      "P0003.1"
+     ],
+     "en": "She was often sick as a little girl, but at seven I had her read the Little Learning, and every day I taught her good conduct, how to run a home, and a gentle heart.",
+     "ko": "어려서는 잔병도 많더니, 일곱 살에 소학을 읽혀 몸을 닦고 집안을 다스리는 법과 온화한 마음을 날마다 가르쳤습니다.",
+     "why": "The Korean sentence was cut in the middle of a clause ('...많더니,'). Merging these cards creates a complete thought and a coherent sentence structure for both languages.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0002.6",
+       "en": "\"She was often sick as a little girl,\"",
+       "ko": "\"어려서는 잔병도 많더니,"
+      },
+      {
+       "id": "P0003.1",
+       "en": "\"but at seven I had her read the Little Learning, and every day I taught her good conduct, how to run a home, and a gentle heart.\"",
+       "ko": "일곱 살에 소학을 읽혀 몸을 닦고 집안을 다스리는 법과 온화한 마음을 날마다 가르쳤습니다.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0003.13"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0003.13",
+      "P0004.1"
+     ],
+     "en": "Even if you piled up gold, jewels, and silk as high as a mountain, she would not take them. My daughter's heart is as pure as white jade, purer than the clear wind.",
+     "ko": "금은보화와 비단이 산같이 쌓여도 받지 않을 아이요, 백옥 같은 내 딸 마음은 맑은 바람도 따르지 못할 것입니다.",
+     "why": "The sentence was split between cards P0003.13 and P0004.1. Merging them creates a complete thought where the condition (gold/silk) is immediately followed by the result (she would not take them).",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0003.13",
+       "en": "\"Even if you piled up gold, jewels, and silk as high as a mountain,\"",
+       "ko": "\"금은보화와 비단이 산같이 쌓여도"
+      },
+      {
+       "id": "P0004.1",
+       "en": "\"she would not take them. My daughter's heart is as pure as white jade, purer than the clear wind.\"",
+       "ko": "받지 않을 아이요, 백옥 같은 내 딸 마음은 맑은 바람도 따르지 못할 것입니다.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0004.15"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.15",
+      "P0005.1"
+     ],
+     "en": "There is steamed mullet, quail stew, and big abalones from Dongnae and Ulsan, cut with a tortoiseshell knife into slices as thin and slanted as the eyebrows of Lord Mengchang.",
+     "ko": "펄떡 뛰는 숭어찜, 포도동 날아가는 메추리탕, 동래와 울산의 큰 전복을 대모로 꾸민 칼로 맹상군의 눈썹 모양처럼 어슷비슷 썰어 놓았다.",
+     "why": "The sentence was split between two cards; merging them creates a complete, coherent sentence in both languages.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0004.15",
+       "en": "There is steamed mullet, quail stew, and big abalones from Dongnae and Ulsan, cut with a tortoiseshell knife",
+       "ko": "펄떡 뛰는 숭어찜, 포도동 날아가는 메추리탕, 동래와 울산의 큰 전복을 대모로 꾸민 칼로"
+      },
+      {
+       "id": "P0005.1",
+       "en": "into slices as thin and slanted as the eyebrows of Lord Mengchang.",
+       "ko": "맹상군의 눈썹 모양처럼 어슷비슷 썰어 놓았다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0005.12",
+    "P0005.13"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0005.12",
+      "P0005.13"
+     ],
+     "en": "\"When her husband has guests, heroes and scholars and old friends, enjoying themselves day and night, he will call the servants from the inner rooms to bring food and wine. If she has never learned, how could she serve them?\"",
+     "ko": "\"그때 사랑방에서 노는 손님들, 영웅호걸과 글 잘하는 이들, 어릴 적 벗들이 밤낮으로 즐기실 때, 안채의 하인을 불러 밥상 술상을 차리게 할 때, 보고 배우지 못하면 어찌 대접하겠습니까?\"",
+     "why": "P0005.12 and P0005.13 were split in the middle of a sentence; merging them creates a complete thought for both languages.",
+     "issues": [
+      "English words changed",
+      "Korean words changed"
+     ],
+     "before": [
+      {
+       "id": "P0005.12",
+       "en": "\"When her husband has guests, heroes and scholars and old friends, enjoying themselves day and night,\"",
+       "ko": "\"그때 사랑방에서 노는 손님들, 영웅호걸과 글 잘하는 이들, 어릴 적 벗들이 밤낮으로 즐기실 때,\""
+      },
+      {
+       "id": "P0005.13",
+       "en": "\"he will call the servants from the inner rooms to bring food",
+       "ko": "\"안채의 하인을 불러 밥상"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0006.10",
+    "P0006.11",
+    "P0007.1"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0006.10",
+      "P0006.11"
+     ],
+     "en": "They say the love of Emperor Shun and his two queens was great, but ours was tied by the Old Man under the Moon, a bond across three lifetimes, and even in ten thousand years,",
+     "ko": "순임금이 아황과 여영을 귀하게 만난 연분이 지극하다 했지만, 월하노인이 맺어 준 우리 연분은 삼생의 밝은 인연이라, 천만년이 지나도",
+     "why": "The English sentence was cut off by a comma and the Korean text ended in a connective particle ('-라'), making them incomplete fragments.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0006.10",
+       "en": "\"They say the love of Emperor Shun and his two queens was great, but ours was tied by the Old Man under the Moon, a bond across three lifetimes,\"",
+       "ko": "\"순임금이 아황과 여영을 귀하게 만난 연분이 지극하다 했지만, 월하노인이 맺어 준 우리 연분은 삼생의 밝은 인연이라,\""
+      },
+      {
+       "id": "P0006.11",
+       "en": "\"and even in ten thousand years,\"",
+       "ko": "\"천만년이 지나도"
+      }
+     ]
+    },
+    {
+     "ids": [
+      "P0007.1",
+      "P0007.2"
+     ],
+     "en": "it will never change. Our family will hold high posts for generations. We will hold our children, grandchildren, and great-grandchildren on our laps and play clapping games with them.",
+     "ko": "변하지 않을 연분이다. 대대로 높은 벼슬이 이어지고 자손이 번성하여, 아들 손자 증손자 고손자를 무릎에 앉히고 '죔죔 달강달강' 하며 놀다가,",
+     "why": "P0007.1 was a short fragment ('it will never change') and the Korean text was cut off mid-sentence with '놀다가' (while playing).",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0007.1",
+       "en": "\"it will never change.\"",
+       "ko": "변하지 않을 연분이다.\""
+      },
+      {
+       "id": "P0007.2",
+       "en": "\"Our family will hold high posts for generations. We will hold our children, grandchildren, and great-grandchildren on our laps and play clapping games with them.\"",
+       "ko": "\"대대로 높은 벼슬이 이어지고 자손이 번성하여, 아들 손자 증손자 고손자를 무릎에 앉히고 '죔죔 달강달강' 하며 놀다가,\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0007.5",
+    "P0007.6"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0007.5",
+      "P0007.6"
+     ],
+     "en": "Chunhyang's mother holds the cup and speaks with a mix of joy and sadness, \"Today I am giving my daughter's whole life into your hands, so why should I be sad? But I raised her without a father, and now that this day has come,\"",
+     "ko": "춘향 어머니가 술잔을 들고 기쁘기도 하고 슬프기도 하여 말한다. \"오늘은 딸의 평생 고락을 맡기는 날이니 무슨 슬픔이 있겠습니까마는, 저 아이를 아비 없이 서럽게 길러 오다가 이때를 당하니,\"",
+     "why": "The speaker tag and the start of the speech were separated; merging them creates a complete thought for the character's action and dialogue.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0007.5",
+       "en": "Chunhyang's mother holds the cup and speaks with a mix of joy and sadness.",
+       "ko": "춘향 어머니가 술잔을 들고 기쁘기도 하고 슬프기도 하여 말한다."
+      },
+      {
+       "id": "P0007.6",
+       "en": "\"Today I am giving my daughter's whole life into your hands, so why should I be sad? But I raised her without a father, and now that this day has come,\"",
+       "ko": "\"오늘은 딸의 평생 고락을 맡기는 날이니 무슨 슬픔이 있겠습니까마는, 저 아이를 아비 없이 서럽게 길러 오다가 이때를 당하니,\""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "ch_07": [
+  {
+   "run": [
+    "P0002.1"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0002.1",
+      "P0002.2"
+     ],
+     "en": "Chunhyang's mother calls Hyangdan to prepare the bedroom. She lays out a neat bed: a silk quilt embroidered with mandarin ducks, a pillow, and a chamber pot and basin that shine like the morning star.",
+     "ko": "춘향 어머니가 향단이를 불러 잠자리를 보게 한다. 원앙을 수놓은 비단 이불, 잣 베개, 샛별같이 반짝이는 요강과 대야까지 잠자리를 정갈하게 마련한다.",
+     "why": "The two cards form a single continuous action (preparing the bedroom) and are joined to ensure the narrative flow isn't broken between the command and the description of the items.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0002.1",
+       "en": "Chunhyang's mother calls Hyangdan to prepare the bedroom.",
+       "ko": "춘향 어머니가 향단이를 불러 잠자리를 보게 한다."
+      },
+      {
+       "id": "P0002.2",
+       "en": "She lays out a neat bed: a silk quilt embroidered with mandarin ducks, a pillow, and a chamber pot and basin that shine like the morning star.",
+       "ko": "원앙을 수놓은 비단 이불, 잣 베개, 샛별같이 반짝이는 요강과 대야까지 잠자리를 정갈하게 마련한다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0002.8"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0002.8",
+      "P0002.9"
+     ],
+     "en": "\"Take off your silk top.\" Since it is her first time and she feels shy, Chunhyang lowers her head and turns her body away.",
+     "ko": "\"비단 저고리를 벗어라.\" 춘향이 처음 겪는 일일 뿐 아니라 부끄러워서 고개를 숙이고 몸을 튼다.",
+     "why": "P0002.8 is a short line of dialogue that feels incomplete on its own; merging it with the following action sentence creates a cohesive narrative beat.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0002.8",
+       "en": "\"Take off your silk top.\"",
+       "ko": "\"비단 저고리를 벗어라.\""
+      },
+      {
+       "id": "P0002.9",
+       "en": "Since it is her first time and she feels shy, Chunhyang lowers her head and turns her body away.",
+       "ko": "춘향이 처음 겪는 일일 뿐 아니라 부끄러워서 고개를 숙이고 몸을 튼다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0002.13",
+    "P0002.14"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0002.12",
+      "P0002.13"
+     ],
+     "en": "He wriggles this way and that, like a blue dragon of the East Sea twisting through the waves. \"Oh, let go! Please let go!\"",
+     "ko": "이리 굼실 저리 굼실, 동해의 청룡이 굽이를 치는 듯하다. \"아이고, 놓아요, 좀 놓아요.\"",
+     "why": "Merges a descriptive action with the immediate reaction to avoid a short, fragmented card.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0002.12",
+       "en": "He wriggles this way and that, like a blue dragon of the East Sea twisting through the waves.",
+       "ko": "이리 굼실 저리 굼실, 동해의 청룡이 굽이를 치는 듯하다."
+      },
+      {
+       "id": "P0002.13",
+       "en": "\"Oh, let go! Please let go!\"",
+       "ko": "\"아이고, 놓아요, 좀 놓아요.\""
+      }
+     ]
+    },
+    {
+     "ids": [
+      "P0002.14",
+      "P0003.1"
+     ],
+     "en": "\"Oh no, that won't do.\" In the middle of the struggle, Master Yi unties her dress string, hooks it with his toe, hugs Chunhyang tight, and stretches out his legs.",
+     "ko": "\"에라, 안 될 말이로다.\" 실랑이하던 중에 도련님이 옷끈을 끌러 발가락에 딱 걸고서, 춘향을 끌어안고 진득이 누르며 기지개를 켠다.",
+     "why": "Merges a short exclamation with the following long descriptive sentence to ensure flow.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0002.14",
+       "en": "\"Oh no, that won't do.\"",
+       "ko": "\"에라, 안 될 말이로다.\""
+      },
+      {
+       "id": "P0003.1",
+       "en": "In the middle of the struggle, Master Yi unties her dress string, hooks it with his toe, hugs Chunhyang tight, and stretches out his legs.",
+       "ko": "실랑이하던 중에 도련님이 옷끈을 끌러 발가락에 딱 걸고서, 춘향을 끌어안고 진득이 누르며 기지개를 켠다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0003.13"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0003.13",
+      "P0003.14"
+     ],
+     "en": "This is how they play at love. \"Love, love, my love. Our love is as high as Mount Wu on a moonlit night over Dongting Lake.\"",
+     "ko": "사랑으로 노는데 꼭 이런 모양으로 놀던 것이었다. \"사랑 사랑 내 사랑이야. 동정호 칠백 리 달 밝은 밤, 무산처럼 높은 사랑.\"",
+     "why": "P0003.13 is a short introductory sentence that leads directly into the poetic declaration in P0003.14; merging them creates a complete narrative unit.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0003.13",
+       "en": "This is how they play at love.",
+       "ko": "사랑으로 노는데 꼭 이런 모양으로 놀던 것이었다."
+      },
+      {
+       "id": "P0003.14",
+       "en": "\"Love, love, my love. Our love is as high as Mount Wu on a moonlit night over Dongting Lake.\"",
+       "ko": "\"사랑 사랑 내 사랑이야. 동정호 칠백 리 달 밝은 밤, 무산처럼 높은 사랑.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0005.3"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0005.3",
+      "P0005.4"
+     ],
+     "en": "Come here. Let me see you come to me. Smile brightly and walk with small steps. Let me see how you walk.",
+     "ko": "이리 오너라. 오는 모습을 보자. 방긋 웃고 아장아장 걸어라. 걷는 모습을 보자.",
+     "why": "P0005.3 is a short, instructional line that flows naturally into the descriptive actions of P0005.4.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0005.3",
+       "en": "\"Come here. Let me see you come to me.\"",
+       "ko": "\"이리 오너라. 오는 모습을 보자.\""
+      },
+      {
+       "id": "P0005.4",
+       "en": "\"Smile brightly and walk with small steps. Let me see how you walk.\"",
+       "ko": "\"방긋 웃고 아장아장 걸어라. 걷는 모습을 보자.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0007.1"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0006.6",
+      "P0007.1"
+     ],
+     "en": "When you see that, know that it is me. Love, love, my precious love. No, I do not want that either.",
+     "ko": "그러거든 그게 나인 줄 알아무나. 사랑 사랑 내 귀한 내 사랑이야. 아니, 그것도 나는 싫어요.",
+     "why": "P0007.1 was a short fragment; merging it with the preceding card creates a complete thought.",
+     "issues": [
+      "Korean words changed"
+     ],
+     "before": [
+      {
+       "id": "P0006.6",
+       "en": "\"When you see that, know that it is me. Love, love, my precious love.\"",
+       "ko": "\"그러거든 그게 나인 줄 알려무나. 사랑 사랑 내 귀한 내 사랑이야.\""
+      },
+      {
+       "id": "P0007.1",
+       "en": "\"No, I do not want that either.\"",
+       "ko": "\"아니, 그것도 나는 싫어요.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0008.1"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0008.1",
+      "P0008.2"
+     ],
+     "en": "No, I don't want that either. Then here is what you will become after you die. You will be the stone bowl of a grain mortar, and I will be the heavy pestle.",
+     "ko": "아니, 그것도 나는 싫어요. 그러면 네가 죽어서 될 것이 있다. 너는 죽어서 방아 확이 되어라. 나는 죽어서 방아 공이가 되겠다.",
+     "why": "P0008.1 is a short fragment that flows directly into the next sentence; merging them creates a cohesive unit of dialogue.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0008.1",
+       "en": "\"No, I don't want that either.\"",
+       "ko": "\"아니, 그것도 나는 싫어요.\""
+      },
+      {
+       "id": "P0008.2",
+       "en": "\"Then here is what you will become after you die. You will be the stone bowl of a grain mortar, and I will be the heavy pestle.\"",
+       "ko": "\"그러면 네가 죽어서 될 것이 있다. 너는 죽어서 방아 확이 되어라. 나는 죽어서 방아 공이가 되겠다.\""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "ch_08": [
+  {
+   "run": [
+    "P0002.7"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0002.7",
+      "P0002.8"
+     ],
+     "en": "Put them all together, and if our loving ever breaks, then that will be gyeol-jeong, the end of everything.",
+     "ko": "이 정 저 정 다 모으니, 우리 둘이 다정하다가 만일 깨어지면 그때는 결정(決定)이 나겠지.",
+     "why": "P0002.7 was cut in the middle of a sentence ('Put them all together,') and needed to be joined with P0002.8 to complete the thought.",
+     "issues": [
+      "English words changed",
+      "Korean words changed"
+     ],
+     "before": [
+      {
+       "id": "P0002.7",
+       "en": "\"There are the pavilions of jeong where famous lovers met, and the spring jeong of a hundred flowers. Put them all together,\"",
+       "ko": "\"양귀비의 침향정, 아황과 여영의 소상강 정, 온갖 꽃이 핀 봄 정, 이 정 저 정 다 모으니,\""
+      },
+      {
+       "id": "P0002.8",
+       "en": "\"and if our loving ever breaks, then that will be gyeol-jeong, the end of everything.\"",
+       "ko": "\"우리 둘이 다정하다가 만일 깨어지면 그때는 결정(決定)이 나겠지.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0004.1"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.1",
+      "P0004.2"
+     ],
+     "en": "\"Listen to my song of gung, 'palace.'\" \"Oh, how silly and funny. What is a palace song?\"",
+     "ko": "\"궁(宮) 자 노래를 들어 보아라.\" \"아이고, 얄궂고 우습다. 궁 자 노래가 뭐요?\"",
+     "why": "The cards are joined to prevent the short 'Listen' line from being isolated and to group the exchange of the same topic into one card.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0004.1",
+       "en": "\"Listen to my song of gung, 'palace.'\"",
+       "ko": "\"궁(宮) 자 노래를 들어 보아라.\""
+      },
+      {
+       "id": "P0004.2",
+       "en": "\"Oh, how silly and funny. What is a palace song?\"",
+       "ko": "\"아이고, 얄궂고 우습다. 궁 자 노래가 뭐요?\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0005.13"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0005.13",
+      "P0005.14"
+     ],
+     "en": "Oh, I don't want to! Master Yi teases and plays with her as he tries to take off her clothes.",
+     "ko": "아이고, 나는 싫어요. 도련님이 춘향의 옷을 벗기려 하며 넘놀면서 어르는데,",
+     "why": "P0005.13 is a short exclamation that flows directly into the narrative action of P0005.14.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0005.13",
+       "en": "\"Oh, I don't want to!\"",
+       "ko": "\"아이고, 나는 싫어요.\""
+      },
+      {
+       "id": "P0005.14",
+       "en": "Master Yi teases and plays with her as he tries to take off her clothes.",
+       "ko": "도련님이 춘향의 옷을 벗기려 하며 넘놀면서 어르는데,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0006.7",
+    "P0006.8"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0006.7",
+      "P0006.8"
+     ],
+     "en": "\"Ask, and I will answer.\" \"Are you gold?\"",
+     "ko": "\"말씀하시면 대답하겠습니다. 해 보십시오.\" \"네가 금이냐?\"",
+     "why": "Both cards are very short fragments; merging them creates a cohesive exchange of dialogue.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0006.7",
+       "en": "\"Ask, and I will answer.\"",
+       "ko": "\"말씀하시면 대답하겠습니다. 해 보십시오.\""
+      },
+      {
+       "id": "P0006.8",
+       "en": "\"Are you gold?\"",
+       "ko": "\"네가 금이냐?\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0006.10",
+    "P0006.11"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0006.10",
+      "P0006.11"
+     ],
+     "en": "Then are you jade? Jade? Of course not. The First Emperor of China took the best jade in the land, had famous words carved on it,",
+     "ko": "그러면 진짜 옥이냐? 옥이라니 당치 않소. 진시황이 형산의 옥을 얻어 이사의 글씨로",
+     "why": "P0006.10 is a very short line that functions as a question leading directly into the next response; merging them creates a cohesive exchange.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0006.10",
+       "en": "\"Then are you jade?\"",
+       "ko": "\"그러면 진짜 옥이냐?\""
+      },
+      {
+       "id": "P0006.11",
+       "en": "\"Jade? Of course not. The First Emperor of China took the best jade in the land, had famous words carved on it,",
+       "ko": "\"옥이라니 당치 않소. 진시황이 형산의 옥을 얻어 이사의 글씨로"
+      }
+     ]
+    },
+    {
+     "ids": [
+      "P0007.1"
+     ],
+     "en": "and made it into the royal seal. It was passed down for ages. How could I be jade?",
+     "ko": "'하늘의 명을 받아 영원히 번창하리라' 새겨 옥새를 만들어 대대로 전했으니, 제가 어찌 옥이 되겠소.",
+     "why": "This card is the conclusion of a long sentence that was split across two cards; it must be joined with the preceding text (which happened in the previous merge) to ensure the sentence is complete.",
+     "issues": [
+      "unknown or single id"
+     ],
+     "before": [
+      {
+       "id": "P0007.1",
+       "en": "and made it into the royal seal. It was passed down for ages. How could I be jade?\"",
+       "ko": "'하늘의 명을 받아 영원히 번창하리라' 새겨 옥새를 만들어 대대로 전했으니, 제가 어찌 옥이 되겠소.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0007.2"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0007.1",
+      "P0007.2"
+     ],
+     "en": "and made it into the royal seal. It was passed down for ages. How could I be jade? \"Then what are you? A wild rose?\"",
+     "ko": "'하늘의 명을 받아 영원히 번창하리라' 새겨 옥새를 만들어 대대로 전했으니, 제가 어찌 옥이 되겠소? \"그러면 네가 무엇이냐? 해당화냐?\"",
+     "why": "P0007.1 ends with a question about identity and P0007.2 is a short follow-up question; merging them creates a cohesive exchange.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0007.1",
+       "en": "and made it into the royal seal. It was passed down for ages. How could I be jade?\"",
+       "ko": "'하늘의 명을 받아 영원히 번창하리라' 새겨 옥새를 만들어 대대로 전했으니, 제가 어찌 옥이 되겠소.\""
+      },
+      {
+       "id": "P0007.2",
+       "en": "\"Then what are you? A wild rose?\"",
+       "ko": "\"그러면 네가 무엇이냐? 해당화냐?\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0007.4"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0007.4",
+      "P0007.5"
+     ],
+     "en": "Then are you amber or a pearl? No, not that either. Those were all used for the hat strings of great officials and the rings of gisaeng. There are none left.",
+     "ko": "그러면 밀화, 금패, 호박, 진주냐? 그것도 당치 않소. 높은 벼슬아치와 수령들의 갓끈 장식으로 쓰고, 나머지는 기생들 가락지로 다 만들었으니 당치 않소.",
+     "why": "P0007.4 is a short question that flows directly into the long refusal in P0007.5. Merging them ensures the dialogue remains coherent and avoids a single-line fragment.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0007.4",
+       "en": "\"Then are you amber or a pearl?\"",
+       "ko": "\"그러면 밀화, 금패, 호박, 진주냐?\""
+      },
+      {
+       "id": "P0007.5",
+       "en": "\"No, not that either. Those were all used for the hat strings of great officials and the rings of gisaeng. There are none left.\"",
+       "ko": "\"그것도 당치 않소. 높은 벼슬아치와 수령들의 갓끈 장식으로 쓰고, 나머지는 기생들 가락지로 다 만들었으니 당치 않소.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0007.6"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0007.6",
+      "P0007.7"
+     ],
+     "en": "Then are you tortoiseshell or coral? No. Tortoiseshell decorates screens and coral makes railings in the Dragon King's palace under the sea.",
+     "ko": "그러면 대모나 산호냐? 그것도 아니오. 대모로는 큰 병풍을 꾸미고 산호로는 난간을 만들어 용궁의 보물이 되었으니 당치 않소.",
+     "why": "P0007.6 is a short question that forms an incomplete exchange with the answer in P0007.7; merging them creates a complete logical unit.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0007.6",
+       "en": "\"Then are you tortoiseshell or coral?\"",
+       "ko": "\"그러면 대모나 산호냐?\""
+      },
+      {
+       "id": "P0007.7",
+       "en": "\"No. Tortoiseshell decorates screens and coral makes railings in the Dragon King's palace under the sea.\"",
+       "ko": "\"그것도 아니오. 대모로는 큰 병풍을 꾸미고 산호로는 난간을 만들어 용궁의 보물이 되었으니 당치 않소.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0007.8"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0007.8",
+      "P0007.9"
+     ],
+     "en": "Then are you a half moon? A half moon? Of course not. Tonight isn't the start of the month. How could I be the bright moon up in the sky?",
+     "ko": "그러면 반달이냐? 반달이라니 당치 않소. 오늘 밤이 초승도 아닌데, 하늘에 뜬 밝은 달이 내가 되겠소?",
+     "why": "The question 'Then are you a half moon?' is a short fragment that flows directly into the response in the following card.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0007.8",
+       "en": "\"Then are you a half moon?\"",
+       "ko": "\"그러면 반달이냐?\""
+      },
+      {
+       "id": "P0007.9",
+       "en": "\"A half moon? Of course not. Tonight isn't the start of the month. How could I be the bright moon up in the sky?\"",
+       "ko": "\"반달이라니 당치 않소. 오늘 밤이 초승도 아닌데, 하늘에 뜬 밝은 달이 내가 되겠소?\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0007.13",
+    "P0007.14",
+    "P0007.15"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0007.12",
+      "P0007.13"
+     ],
+     "en": "Shall I cut open a round watermelon and feed you a bite of the red part with a silver spoon? No, I don't want that.",
+     "ko": "둥글둥글 수박 꼭지 떼고 은숟가락으로 붉은 속 한 점 떠먹으려느냐? 아니, 그것도 싫소.",
+     "why": "Merges a short 'No' response with the preceding offer to create a complete exchange on one card.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0007.12",
+       "en": "\"Shall I cut open a round watermelon and feed you a bite of the red part with a silver spoon?\"",
+       "ko": "\"둥글둥글 수박 꼭지 떼고 은숟가락으로 붉은 속 한 점 떠먹으려느냐?\""
+      },
+      {
+       "id": "P0007.13",
+       "en": "\"No, I don't want that.\"",
+       "ko": "\"아니, 그것도 싫소.\""
+      }
+     ]
+    },
+    {
+     "ids": [
+      "P0007.14",
+      "P0007.15"
+     ],
+     "en": "Then how about a sour wild apricot? No, I don't want that either.",
+     "ko": "그러면 시금털털 개살구를 먹으려느냐? 아니, 그것도 싫소.",
+     "why": "Merges a short 'No' response with the preceding offer to create a complete exchange on one card.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0007.14",
+       "en": "\"Then how about a sour wild apricot?\"",
+       "ko": "\"그러면 시금털털 개살구를 먹으려느냐?\""
+      },
+      {
+       "id": "P0007.15",
+       "en": "\"No, I don't want that either.\"",
+       "ko": "\"아니, 그것도 싫소.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0007.18"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0007.18",
+      "P0008.1"
+     ],
+     "en": "Oh, that's not right. Oh, my darling. Now you can get down.",
+     "ko": "에라, 요것 안 될 말이로다. 어화 둥둥 내 사랑이지. 이제 그만 내려라.",
+     "why": "The card P0007.18 was a fragment ('Oh,') that split the sentence and the Korean exclamation from its corresponding clause.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0007.18",
+       "en": "\"Oh,",
+       "ko": "\"에라,"
+      },
+      {
+       "id": "P0008.1",
+       "en": "that's not right. Oh, my darling. Now you can get down.\"",
+       "ko": "요것 안 될 말이로다. 어화 둥둥 내 사랑이지. 이제 그만 내려라.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0008.8"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0008.8",
+      "P0008.9"
+     ],
+     "en": "I will say sweet things. Listen. It's like carrying Confucius, or a loyal minister who holds up the country, or the six faithful ministers of old.",
+     "ko": "좋은 말을 하겠습니다. 들어 보십시오. 공자님을 업은 듯, 큰 뜻을 품은 나라의 기둥 같은 충신을 업은 듯, 사육신과 생육신을 업은 듯,",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0008.8",
+       "en": "\"I will say sweet things. Listen.\"",
+       "ko": "\"좋은 말을 하겠습니다. 들어 보십시오.\""
+      },
+      {
+       "id": "P0008.9",
+       "en": "\"It's like carrying Confucius, or a loyal minister who holds up the country, or the six faithful ministers of old.\"",
+       "ko": "\"공자님을 업은 듯, 큰 뜻을 품은 나라의 기둥 같은 충신을 업은 듯, 사육신과 생육신을 업은 듯,\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0009.5"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0009.5",
+      "P0009.6"
+     ],
+     "en": "Oh, how funny. What's horsey? Master Yi talks as if he has played it many times. \"It's the easiest thing in the world.\"",
+     "ko": "아이고, 참 우스워라. 말놀음은 또 뭐요? 도련님은 말놀음도 많이 해 본 듯이 말한다. \"세상에서 제일 쉽지.\"",
+     "why": "P0009.5 is a short fragment that flows directly into the description and dialogue of P0009.6.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0009.5",
+       "en": "\"Oh, how funny. What's horsey?\"",
+       "ko": "\"아이고, 참 우스워라. 말놀음은 또 뭐요?\""
+      },
+      {
+       "id": "P0009.6",
+       "en": "Master Yi talks as if he has played it many times. \"It's the easiest thing in the world.\"",
+       "ko": "도련님은 말놀음도 많이 해 본 듯이 말한다. \"세상에서 제일 쉽지.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0009.8"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0009.8",
+      "P0009.9"
+     ],
+     "en": "I'll hold on tight to your waist from behind, and when I slap your bottom and say 'Giddy-up!', you say 'Neigh!' and kick back and jump. If you jump well, I have a riding song for you.",
+     "ko": "나는 네 엉덩이에 딱 붙어서 네 허리를 꽉 잡고, 손바닥으로 볼기짝을 철썩 치면서 '이랴!' 하거든, 너는 '호홍' 하고 뒷걸음질 치다가 뛰어라. 신나게 뛰면 '탈 승(乘)' 자 노래가 있느니라.",
+     "why": "P0009.8 is a fragment of a long sentence that continues into P0009.9. Merging them creates a complete, coherent action sequence in both languages.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0009.8",
+       "en": "\"I'll hold on tight to your waist from behind, and when I slap your bottom and say 'Giddy-up!'\"",
+       "ko": "\"나는 네 엉덩이에 딱 붙어서 네 허리를 꽉 잡고, 손바닥으로 볼기짝을 철썩 치면서 '이랴!' 하거든,\""
+      },
+      {
+       "id": "P0009.9",
+       "en": "\"you say 'Neigh!' and kick back and jump. If you jump well, I have a riding song for you.\"",
+       "ko": "\"너는 '호홍' 하고 뒷걸음질 치다가 뛰어라. 신나게 뛰면 '탈 승(乘)' 자 노래가 있느니라.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0009.12"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0009.12",
+      "P0010.1"
+     ],
+     "en": "The emperor rides an elephant, our king rides a royal carriage, ministers ride in chairs, generals ride carts, and magistrates ride in sedans, the magistrate of Namwon rides a fine carriage, and fishermen ride little boats on the river at sunset.",
+     "ko": "중국 천자는 코끼리를, 우리 임금은 가마를, 삼정승은 평교자를, 육판서는 초헌을, 훈련대장은 수레를, 고을 수령들은 독교를 타고, 남원 부사는 별연을 타고, 해 질 녘 강가의 어부들은 작은 배를 탄다.",
+     "why": "The English and Korean text for P0009.12 ends in the middle of a list/sentence (with a comma), making it a fragment that must be joined with the following card.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0009.12",
+       "en": "\"The emperor rides an elephant, our king rides a royal carriage, ministers ride in chairs, generals ride carts, and magistrates ride in sedans,\"",
+       "ko": "\"중국 천자는 코끼리를, 우리 임금은 가마를, 삼정승은 평교자를, 육판서는 초헌을, 훈련대장은 수레를, 고을 수령들은 독교를 타고,\""
+      },
+      {
+       "id": "P0010.1",
+       "en": "\"the magistrate of Namwon rides a fine carriage, and fishermen ride little boats on the river at sunset.\"",
+       "ko": "\"남원 부사는 별연을 타고, 해 질 녘 강가의 어부들은 작은 배를 탄다.\""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "ch_09": [
+  {
+   "run": [
+    "P0004.3",
+    "P0004.4"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.3",
+      "P0004.4"
+     ],
+     "en": "She said, 'If people hear that a nobleman's son came to the countryside with his father and took a gisaeng home as his concubine, it will ruin his future, and he will never get a post at court.' We have no choice. We must part.",
+     "ko": "'양반의 자식이 아버지를 따라 시골에 왔다가 기생첩을 얻어 데려간다는 말이 나면, 앞길에도 해롭고 조정에 나가 벼슬도 못 한다' 하시더구나. 어쩔 수 없이 이별할 수밖에 없다.",
+     "why": "P0004.3 is a long sentence that flows directly into the conclusion of P0004.4. Merging them ensures the dialogue and its immediate consequence are kept together.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0004.3",
+       "en": "\"She said, 'If people hear that a nobleman's son came to the countryside with his father and took a gisaeng home as his concubine, it will ruin his future, and he will never get a post at court.'\"",
+       "ko": "\"'양반의 자식이 아버지를 따라 시골에 왔다가 기생첩을 얻어 데려간다는 말이 나면, 앞길에도 해롭고 조정에 나가 벼슬도 못 한다' 하시더구나.\""
+      },
+      {
+       "id": "P0004.4",
+       "en": "\"We have no choice. We must part.\"",
+       "ko": "\"어쩔 수 없이 이별할 수밖에 없다.\""
+      }
+     ]
+    },
+    {
+     "ids": [
+      "P0004.2",
+      "P0004.3"
+     ],
+     "en": "That's impossible. Because of all that, I couldn't tell my father about you, so I told my mother. She scolded me terribly. She said, 'If people hear that a nobleman's son came to the countryside with a gisaeng as his concubine, it will ruin his future.'",
+     "ko": "그게 될 말이냐. 사정이 그러해서 네 이야기를 사또께는 못 여쭙고 어머니께 여쭸더니, 크게 꾸중하셨다. '양반의 자식이 아버지를 따라 시골에 왔다가 기생첩을 얻어 데려간다는 말이 나면, 앞길에도 해롭고 조정에 나가 벼슬도 못 한다' 하시더구나.",
+     "why": "Alternatively, if P0004.3 is merged with the preceding card (P0004.2), it keeps the mother's entire monologue together as one cohesive unit of speech.",
+     "issues": [
+      "English words changed",
+      "Korean over 120"
+     ],
+     "before": [
+      {
+       "id": "P0004.2",
+       "en": "\"That's impossible. Because of all that, I couldn't tell my father about you, so I told my mother. She scolded me terribly.\"",
+       "ko": "\"그게 될 말이냐. 사정이 그러해서 네 이야기를 사또께는 못 여쭙고 어머니께 여쭸더니, 크게 꾸중하셨다.\""
+      },
+      {
+       "id": "P0004.3",
+       "en": "\"She said, 'If people hear that a nobleman's son came to the countryside with his father and took a gisaeng home as his concubine, it will ruin his future, and he will never get a post at court.'\"",
+       "ko": "\"'양반의 자식이 아버지를 따라 시골에 왔다가 기생첩을 얻어 데려간다는 말이 나면, 앞길에도 해롭고 조정에 나가 벼슬도 못 한다' 하시더구나.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0004.8"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.8",
+      "P0004.9"
+     ],
+     "en": "She rips her skirt to shreds, grabs her own hair, tears it out, and throws it in front of Master Yi, shouting, \"What? What did you say? Then none of this matters anymore!\"",
+     "ko": "치맛자락을 왈칵왈컥 쭉쭉 찢어 버리고, 머리채도 와드득 쥐어 싹싹 비벼 도련님 앞에 던지며 소리친다. \"뭐요? 어째요? 이것도 다 쓸데없다!\"",
+     "why": "The original card P0004.8 ends with a comma and a speaking verb, making it a fragment of the dialogue in P0004.9. Merging them creates a complete action-and-speech sequence.",
+     "issues": [
+      "Korean words changed"
+     ],
+     "before": [
+      {
+       "id": "P0004.8",
+       "en": "She rips her skirt to shreds, grabs her own hair, tears it out, and throws it in front of Master Yi, shouting,",
+       "ko": "치맛자락을 왈칵왈칵 쭉쭉 찢어 버리고, 머리채도 와드득 쥐어 싹싹 비벼 도련님 앞에 던지며 소리친다."
+      },
+      {
+       "id": "P0004.9",
+       "en": "\"What? What did you say? Then none of this matters anymore!\"",
+       "ko": "\"뭐요? 어째요? 이것도 다 쓸데없다!\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0005.1"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0005.1",
+      "P0005.2"
+     ],
+     "en": "Oh, oh, my poor life. Chunhyang sits down again and says, \"Master Yi, is what you just said a true promise or just a joke?\"",
+     "ko": "아이고, 아이고, 내 신세야. 춘향이 다시 돌아앉으며 말한다. \"여보 도련님, 지금 하신 말씀이 참말이오, 농담이오?\"",
+     "why": "P0005.1 is a very short exclamation that functions as an introductory lament; merging it with the following dialogue creates a cohesive flow for the reader.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0005.1",
+       "en": "\"Oh, oh, my poor life.\"",
+       "ko": "\"아이고, 아이고, 내 신세야.\""
+      },
+      {
+       "id": "P0005.2",
+       "en": "Chunhyang sits down again and says, \"Master Yi, is what you just said a true promise or just a joke?\"",
+       "ko": "춘향이 다시 돌아앉으며 말한다. \"여보 도련님, 지금 하신 말씀이 참말이오, 농담이오?\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0005.5"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0005.5",
+      "P0005.6"
+     ],
+     "en": "You said, 'I may turn away from a man, but never from heaven.' Last year, on the night of the Dano festival, you held my hand tight, went out, and stood in the middle of the hall.",
+     "ko": "'남편은 저버려도 하늘은 저버리지 못하고, 사람은 저버려도 하늘은 저버리지 못한다' 하셨지요. 작년 오월 단옷날 밤, 내 손을 꼭 잡고 우둥퉁 밖으로 나가 대청에 우뚝 서서,",
+     "why": "P0005.5 is a short quote that flows directly into the narrative action of P0005.6. Merging them ensures the dialogue and the subsequent scene description are kept together.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0005.5",
+       "en": "\"You said, 'I may turn away from a man, but never from heaven.'\"",
+       "ko": "\"'남편은 저버려도 하늘은 저버리지 못하고, 사람은 저버려도 하늘은 저버리지 못한다' 하셨지요.\""
+      },
+      {
+       "id": "P0005.6",
+       "en": "\"Last year, on the night of the Dano festival, you held my hand tight, went out, and stood in the middle of the hall.\"",
+       "ko": "\"작년 오월 단옷날 밤, 내 손을 꼭 잡고 우둥퉁 밖으로 나가 대청에 우뚝 서서,\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0006.6"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0006.6",
+      "P0006.7"
+     ],
+     "en": "While she cries and screams like this, her mother, who doesn't know what has happened, thinks to herself, \"Oh, those two are having another lovers' quarrel. Ugh, how annoying. I can't stand to watch.\"",
+     "ko": "한참 이렇게 기를 쓰며 서럽게 우는데, 춘향 어머니는 영문도 모르고 생각한다. \"아이고, 저것들이 또 사랑싸움이 났구나. 어, 참 아니꼽다. 눈꼴 시어 못 보겠네.\"",
+     "why": "P0006.6 is a long introductory clause that ends in a comma/thought transition; merging it with the following dialogue card creates a complete narrative unit and prevents the mother's thought from being split.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0006.6",
+       "en": "While she cries and screams like this, her mother, who doesn't know what has happened, thinks to herself,",
+       "ko": "한참 이렇게 기를 쓰며 서럽게 우는데, 춘향 어머니는 영문도 모르고 생각한다."
+      },
+      {
+       "id": "P0006.7",
+       "en": "\"Oh, those two are having another lovers' quarrel. Ugh, how annoying. I can't stand to watch.\"",
+       "ko": "\"아이고, 저것들이 또 사랑싸움이 났구나. 어, 참 아니꼽다. 눈꼴 시어 못 보겠네.\""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "ch_10": [
+  {
+   "run": [
+    "P0002.15"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0002.15",
+      "P0003.1"
+     ],
+     "en": "But now that you are leaving, you just cut her off. Even a willow with ten million branches can't hold back the spring wind when it goes. When the flowers fall, what butterfly will come back?",
+     "ko": "마지막에 가실 때는 똑 떼어 버리시니, 버들가지가 천만 가닥이라도 가는 봄바람을 어찌 붙잡으며, 꽃이 지고 잎이 떨어지면 어느 나비가 다시 오겠소?",
+     "why": "The English text was cut off mid-sentence at 'ten million branches' and the Korean text was split between the willow branch metaphor and the spring wind imagery. Merging them creates a complete poetic thought.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0002.15",
+       "en": "\"But now that you are leaving, you just cut her off. Even a willow with ten million branches",
+       "ko": "\"마지막에 가실 때는 똑 떼어 버리시니, 버들가지가 천만 가닥이라도"
+      },
+      {
+       "id": "P0003.1",
+       "en": "can't hold back the spring wind when it goes. When the flowers fall, what butterfly will come back?\"",
+       "ko": "가는 봄바람을 어찌 붙잡으며, 꽃이 지고 잎이 떨어지면 어느 나비가 다시 오겠소?\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0003.7"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0003.7",
+      "P0003.8"
+     ],
+     "en": "Do you think Master Yi in Seoul misses me as much as I miss him? He is so heartless; he hasn't even sent me a single letter. Her tears will soak her face and her red skirt. She will go to her room and not even take off her clothes.",
+     "ko": "'한양에 계신 도련님도 나처럼 그리워하실까. 무정하게도 아주 잊고 편지 한 장도 안 하시나.' 긴 한숨에 떨어지는 눈물이 옥 같은 얼굴과 붉은 치마를 다 적시고, 제 방에 들어가 옷도 벗지 않고,",
+     "issues": [
+      "English words changed"
+     ],
+     "before": [
+      {
+       "id": "P0003.7",
+       "en": "\"'Does Master Yi in Seoul miss me as much as I miss him? He is so heartless; he hasn't even sent me a single letter.'\"",
+       "ko": "\"'한양에 계신 도련님도 나처럼 그리워하실까. 무정하게도 아주 잊고 편지 한 장도 안 하시나.'\""
+      },
+      {
+       "id": "P0003.8",
+       "en": "\"Her tears will soak her face and her red skirt. She will go to her room and not even take off her clothes.\"",
+       "ko": "\"긴 한숨에 떨어지는 눈물이 옥 같은 얼굴과 붉은 치마를 다 적시고, 제 방에 들어가 옷도 벗지 않고,\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0004.7"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.7",
+      "P0004.8"
+     ],
+     "en": "Of course! How can you not take her? Don't be so fierce. Sit down here and listen to me.",
+     "ko": "그래, 안 데려가고 견디겠소? 너무 거세게 굴지 말고 여기 앉아 내 말 좀 들어 보소.",
+     "why": "P0004.7 is a short exclamation that flows directly into the instruction in P0004.8; merging them creates a cohesive turn for the speaker.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0004.7",
+       "en": "\"Of course! How can you not take her?\"",
+       "ko": "\"그래, 안 데려가고 견디겠소?\""
+      },
+      {
+       "id": "P0004.8",
+       "en": "\"Don't be so fierce. Sit down here and listen to me.\"",
+       "ko": "\"너무 거세게 굴지 말고 여기 앉아 내 말 좀 들어 보소.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0004.10"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.10",
+      "P0005.1"
+     ],
+     "en": "In my despair, I have thought of a clever trick. But if anyone hears of it, it won't just shame me as a nobleman, it will shame all my noble ancestors too.",
+     "ko": "내가 기가 막힌 가운데 묘한 꾀 하나를 생각했네. 그런데 이 말이 입 밖에 나가면 양반 망신만 하는 게 아니라, 우리 조상 양반들까지 모두 망신할 말이로세.",
+     "why": "The sentence was split across two cards due to length; merging them creates a complete thought in both languages.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0004.10",
+       "en": "\"In my despair, I have thought of a clever trick. But if anyone hears of it, it won't just shame me as a nobleman,",
+       "ko": "\"내가 기가 막힌 가운데 묘한 꾀 하나를 생각했네. 그런데 이 말이 입 밖에 나가면 양반 망신만 하는 게 아니라,"
+      },
+      {
+       "id": "P0005.1",
+       "en": "it will shame all my noble ancestors too.\"",
+       "ko": "우리 조상 양반들까지 모두 망신할 말이로세.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0005.2"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0005.2",
+      "P0005.3"
+     ],
+     "en": "\"What kind of fine plan could that be? Tomorrow, when my family leaves, the ancestral shrine will come behind them. I'll take care of the rest.\"",
+     "ko": "\"무슨 말이 그리 좋은 말이 있단 말이오? 내일 식구들이 떠날 때 식구들 뒤로 사당이 나올 걸세. 백성들 일은 내가 알아서 하겠네.\"",
+     "why": "P0005.2 is a short rhetorical question that flows directly into the explanation in P0005.3; merging them ensures the dialogue remains coherent and avoids a fragmented transition.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0005.2",
+       "en": "\"What kind of fine plan could that be?\"",
+       "ko": "\"무슨 말이 그리 좋은 말이 있단 말이오?\""
+      },
+      {
+       "id": "P0005.3",
+       "en": "\"Tomorrow, when my family leaves, the ancestral shrine will come behind them. I'll take care of the rest.\"",
+       "ko": "\"내일 식구들이 떠날 때 식구들 뒤로 사당이 나올 걸세. 백성들 일은 내가 알아서 하겠네.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0005.4",
+    "P0005.5"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0005.4",
+      "P0005.5"
+     ],
+     "en": "So? Do you understand now? I do not understand what you mean.",
+     "ko": "그러면요? 그만하면 알겠지? 나는 그 말 모르겠소.",
+     "why": "Both cards are very short and represent a quick back-and-forth exchange that is better served as a single unit.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0005.4",
+       "en": "\"So? Do you understand now?\"",
+       "ko": "\"그러면요? 그만하면 알겠지?\""
+      },
+      {
+       "id": "P0005.5",
+       "en": "\"I do not understand what you mean.\"",
+       "ko": "\"나는 그 말 모르겠소.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0005.7"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0005.7",
+      "P0005.8"
+     ],
+     "en": "Chunhyang hears this, stares at Master Yi for a moment, and says, \"Stop it, Mother. Don't push Master Yi too hard. Our whole lives are in his hands, so just ask him to take care of us.\"",
+     "ko": "춘향이 그 말을 듣고 도련님을 물끄러미 바라보더니 말한다. \"마오, 어머니. 도련님을 너무 조르지 마오. 우리 모녀의 평생 신세가 도련님 손안에 매였으니, 알아서 해 달라고 당부나 하오.\"",
+     "why": "The card P0005.7 is a narrative bridge that ends in a speech tag; merging it with the following dialogue creates a complete thought and prevents a short fragment.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0005.7",
+       "en": "Chunhyang hears this, stares at Master Yi for a moment, and says,",
+       "ko": "춘향이 그 말을 듣고 도련님을 물끄러미 바라보더니 말한다."
+      },
+      {
+       "id": "P0005.8",
+       "en": "\"Stop it, Mother. Don't push Master Yi too hard. Our whole lives are in his hands, so just ask him to take care of us.\"",
+       "ko": "\"마오, 어머니. 도련님을 너무 조르지 마오. 우리 모녀의 평생 신세가 도련님 손안에 매였으니, 알아서 해 달라고 당부나 하오.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0006.2",
+    "P0006.3"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0006.2",
+      "P0006.3"
+     ],
+     "en": "What? Are you really going to leave?",
+     "ko": "왜? 여보, 정말로 이별을 할 거요?",
+     "why": "The cards were short fragments of a single exchange; merging them creates a complete question.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0006.2",
+       "en": "\"What?\"",
+       "ko": "\"왜?\""
+      },
+      {
+       "id": "P0006.3",
+       "en": "\"Are you really going to leave?\"",
+       "ko": "\"여보, 정말로 이별을 할 거요?\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0006.5"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0006.5",
+      "P0006.6"
+     ],
+     "en": "Choking on sighs and tears, she presses her face to his and touches his hands and feet. \"How many more nights will I see you? Tonight is our last night to talk like this, so listen to my sad heart.\"",
+     "ko": "한숨과 눈물에 겨워 흐느끼며, 얼굴도 대어 보고 손발도 만져 본다. \"나를 볼 날이 몇 밤이나 남았소? 이렇게 다정하게 이야기하는 것도 오늘 밤이 마지막이니, 내 서러운 사연이나 들어 보오.\"",
+     "why": "P0006.5 is a short descriptive action leading directly into the dialogue in P0006.6; merging them ensures the physical intimacy and the emotional plea are presented as one continuous moment.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0006.5",
+       "en": "Choking on sighs and tears, she presses her face to his and touches his hands and feet.",
+       "ko": "한숨과 눈물에 겨워 흐느끼며, 얼굴도 대어 보고 손발도 만져 본다."
+      },
+      {
+       "id": "P0006.6",
+       "en": "\"How many more nights will I see you? Tonight is our last night to talk like this, so listen to my sad heart.\"",
+       "ko": "\"나를 볼 날이 몇 밤이나 남았소? 이렇게 다정하게 이야기하는 것도 오늘 밤이 마지막이니, 내 서러운 사연이나 들어 보오.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0007.1"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0006.13",
+      "P0007.1"
+     ],
+     "en": "\"In every season, spring, summer, autumn, and winter, everything I see and everything I hear will be sorrow.\" \"Oh, oh.\" When she cries sorrowfully, Master Yi says,",
+     "ko": "봄 여름 가을 겨울 사철마다 쌓이는 경치가 보이는 것도 시름이요, 들리는 것도 시름이로다. \"아이고, 아이고.\" 서럽게 울 때, 이도령이 말한다.",
+     "why": "P0006.13 is a long descriptive sentence that flows into the dialogue of P0007.1; merging them prevents the transition from being cut.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0006.13",
+       "en": "\"In every season, spring, summer, autumn, and winter, everything I see and everything I hear will be sorrow.\"",
+       "ko": "\"봄 여름 가을 겨울 사철마다 쌓이는 경치가 보이는 것도 시름이요, 들리는 것도 시름이로다.\""
+      },
+      {
+       "id": "P0007.1",
+       "en": "\"Oh, oh.\" When she cries sorrowfully, Master Yi says,",
+       "ko": "\"아이고, 아이고.\" 서럽게 울 때, 이도령이 말한다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0007.12"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0007.12",
+      "P0007.13"
+     ],
+     "en": "\"Master Yi, please hurry! There's trouble at home. The magistrate asked where you had gone, and I told him you had just stepped out to say goodbye to a friend. Please hurry!\"",
+     "ko": "\"도련님, 어서 행차하십시오. 안에서 야단났습니다. 사또께서 도련님 어디 가셨느냐 물으시기에, 소인이 '놀던 친구와 작별하러 잠깐 문밖에 나가셨다'고 둘러댔으니, 어서 행차하십시오.\"",
+     "why": "The dialogue is split across two cards in both languages; merging them creates a complete, coherent sentence for the servant's plea.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0007.12",
+       "en": "\"Master Yi, please hurry! There's trouble at home. The magistrate asked where you had gone,\"",
+       "ko": "\"도련님, 어서 행차하십시오. 안에서 야단났습니다. 사또께서 도련님 어디 가셨느냐 물으시기에,\""
+      },
+      {
+       "id": "P0007.13",
+       "en": "\"and I told him you had just stepped out to say goodbye to a friend. Please hurry!\"",
+       "ko": "\"소인이 '놀던 친구와 작별하러 잠깐 문밖에 나가셨다'고 둘러댔으니, 어서 행차하십시오.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0008.1",
+    "P0008.2"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0008.1",
+      "P0008.2"
+     ],
+     "en": "Is the horse ready? Yes, the horse is ready.",
+     "ko": "말은 대령했느냐? 말은 마침 대령했습니다.",
+     "why": "The two cards form a short back-and-forth exchange that fits on one screen and avoids fragmenting the dialogue.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0008.1",
+       "en": "\"Is the horse ready?\"",
+       "ko": "\"말은 대령했느냐?\""
+      },
+      {
+       "id": "P0008.2",
+       "en": "\"Yes, the horse is ready.\"",
+       "ko": "\"말은 마침 대령했습니다.\""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "ch_11": [
+  {
+   "run": [
+    "P0003.1",
+    "P0003.2"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0003.1",
+      "P0003.2"
+     ],
+     "en": "I'm afraid you will grow tired on horseback and fall ill. On rainy days, stop early for the night, and on windy, rainy mornings, leave late. You will have no one by your side to look after you.",
+     "ko": "말 위에서 지쳐 병이 나실까 걱정되니, 풀이 우거진 비 오는 날엔 일찍 숙소에 드시고, 바람 불고 비 오는 아침엔 늦게야 떠나시오. 채찍 하나 든 몸 곁에 모실 사람도 없으니,",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0003.1",
+       "en": "\"I'm afraid you will grow tired on horseback and fall ill. On rainy days, stop early for the night,\"",
+       "ko": "\"말 위에서 지쳐 병이 나실까 걱정되니, 풀이 우거진 비 오는 날엔 일찍 숙소에 드시고,\""
+      },
+      {
+       "id": "P0003.2",
+       "en": "\"and on windy, rainy mornings, leave late. You will have no one by your side to look after you,\"",
+       "ko": "\"바람 불고 비 오는 아침엔 늦게야 떠나시오. 채찍 하나 든 몸 곁에 모실 사람도 없으니,\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0004.9"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.9",
+      "P0004.10"
+     ],
+     "en": "No news in any season, all cut off. You leave me so coldly, and I am left with my useless faithfulness, guarding my lonely room. When will it end? My sad, lonely faith.",
+     "ko": "사철 소식이 끊어진 단절, 도련님은 날 버리고 박절(迫切)하게 가시니, 속절없는 나의 정절, 빈방에서 지키는 수절, 언제나 깨어질까. 내 원망 서러운 고절(孤節).",
+     "why": "The card P0004.9 was cut in the middle of a sentence/thought; merging it with P0004.10 creates a complete poetic unit where the speaker's lament flows continuously from the abandonment to the lonely vigil.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0004.9",
+       "en": "\"No news in any season, all cut off. You leave me so coldly,\"",
+       "ko": "\"사철 소식이 끊어진 단절, 도련님은 날 버리고 박절(迫切)하게 가시니,\""
+      },
+      {
+       "id": "P0004.10",
+       "en": "\"and I am left with my useless faithfulness, guarding my lonely room. When will it end? My sad, lonely faith.\"",
+       "ko": "\"속절없는 나의 정절, 빈방에서 지키는 수절, 언제나 깨어질까. 내 원망 서러운 고절(孤節).\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0006.11"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0006.11",
+      "P0006.12"
+     ],
+     "en": "We swore to live together for a hundred years. Gold and jewels meant nothing to us, and our love was as deep as a river and as high as a mountain. How could I know it would be cut off?",
+     "ko": "처음 맹세처럼 죽지 말고 함께 살며 백 년을 함께하자던 맹세, 천금 주옥도 하찮게 여겼건만, 근원이 흘러 물이 되듯 깊고 깊은 사랑, 쌓이고 쌓여 산이 되듯 높고 높은 사랑이 끊어질 줄 어찌 알았으랴.",
+     "why": "The card P0006.11 was cut in the middle of a sentence (ending with a comma) and merged with its successor to complete the thought.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0006.11",
+       "en": "\"We swore to live together for a hundred years. Gold and jewels meant nothing to us,\"",
+       "ko": "\"처음 맹세처럼 죽지 말고 함께 살며 백 년을 함께하자던 맹세, 천금 주옥도 하찮게 여겼건만,\""
+      },
+      {
+       "id": "P0006.12",
+       "en": "\"and our love was as deep as a river and as high as a mountain. How could I know it would be cut off?\"",
+       "ko": "\"근원이 흘러 물이 되듯 깊고 깊은 사랑, 쌓이고 쌓여 산이 되듯 높고 높은 사랑이 끊어질 줄 어찌 알았으랴.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0007.2"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0007.2",
+      "P0007.3"
+     ],
+     "en": "If he knew how I long for him, he would long for me too. But I lie alone, and my only friend is my sighs, and from deep in my heart come only tears.",
+     "ko": "이 그리움을 알면 임도 나를 그리련만, 빈방에 홀로 누워 한숨만 벗이 되고 굽이굽이 애간장에서 솟아나는 것은 눈물이라.",
+     "why": "The original cards were split mid-sentence in both languages. Merging them creates a complete thought where the speaker's lament flows continuously from the sigh to the tears.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0007.2",
+       "en": "\"If he knew how I long for him, he would long for me too. But I lie alone, and my only friend is my sighs,\"",
+       "ko": "\"이 그리움을 알면 임도 나를 그리련만, 빈방에 홀로 누워 한숨만 벗이 되고,\""
+      },
+      {
+       "id": "P0007.3",
+       "en": "\"and from deep in my heart come only tears.\"",
+       "ko": "\"굽이굽이 애간장에서 솟아나는 것은 눈물이라.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0007.9"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0007.9",
+      "P0007.10"
+     ],
+     "en": "What can I do? Fate is my enemy. They say sorrow follows joy, and joy follows hardship, and I have waited long and longed long. Who but him can untie this knot in my heart?",
+     "ko": "이 일을 어찌하리. 아마도 원수로다. 즐거움이 다하면 슬픔이 오고, 고생 끝에 낙이 온다고 했건만, 기다림도 적지 않고 그리움도 오래건만, 굽이굽이 맺힌 한을 임 아니면 누가 풀까.",
+     "why": "P0007.9 was cut in the middle of a sentence (the 'and' clause) and P0007.10 began with a continuation of that same thought. Merging them creates a complete, coherent stanza.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0007.9",
+       "en": "\"What can I do? Fate is my enemy. They say sorrow follows joy, and joy follows hardship,\"",
+       "ko": "\"이 일을 어찌하리. 아마도 원수로다. 즐거움이 다하면 슬픔이 오고, 고생 끝에 낙이 온다고 했건만,\""
+      },
+      {
+       "id": "P0007.10",
+       "en": "\"and I have waited long and longed long. Who but him can untie this knot in my heart?\"",
+       "ko": "\"기다림도 적지 않고 그리움도 오래건만, 굽이굽이 맺힌 한을 임 아니면 누가 풀까.\""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "ch_12": [
+  {
+   "run": [
+    "P0002.4"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0002.3",
+      "P0002.4"
+     ],
+     "en": "But he has one fault. He is bad-tempered and stubborn, so he often does wrong and judges unfairly. So everyone who knows him calls him a stubborn mule.",
+     "ko": "그런데 한 가지 흠은 성질이 괴팍하고 고집이 세서, 덕을 잃기도 하고 판결을 그르치는 일이 잦았다. 그래서 그를 아는 사람들은 모두 고집불통이라고 했다.",
+     "why": "P0002.4 is a short sentence that follows the description of his personality in P0002.3; merging them creates a cohesive paragraph about his character.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0002.3",
+       "en": "But he has one fault. He is bad-tempered and stubborn, so he often does wrong and judges unfairly.",
+       "ko": "그런데 한 가지 흠은 성질이 괴팍하고 고집이 세서, 덕을 잃기도 하고 판결을 그르치는 일이 잦았다."
+      },
+      {
+       "id": "P0002.4",
+       "en": "So everyone who knows him calls him a stubborn mule.",
+       "ko": "그래서 그를 아는 사람들은 모두 고집불통이라고 했다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0004.5"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.5",
+      "P0005.1"
+     ],
+     "en": "The chief clerk brings in the list of gisaeng and calls their names one by one, each with a line of poetry. \"The bright moon over the eastern hill after rain: Myeongwol!\"",
+     "ko": "호장이 분부를 듣고 기생 명부를 들여놓고 차례로 이름을 부르는데, 하나하나 시 구절을 붙여 부른다. \"비 갠 뒤 동산의 밝은 달, 명월이!\"",
+     "why": "P0004.5 is a long descriptive sentence that flows directly into the first specific call of the gisaeng in P0005.1. Merging them ensures the action and the dialogue are connected.",
+     "issues": [
+      "English words changed",
+      "Korean words changed"
+     ],
+     "before": [
+      {
+       "id": "P0004.5",
+       "en": "The chief clerk brings in the list of gisaeng and calls their names one by one, each with a line of poetry.",
+       "ko": "호장이 분부를 듣고 기생 명부를 들여놓고 차례로 이름을 부르는데, 하나하나 시 구절을 붙여 부른다."
+      },
+      {
+       "id": "P0005.1",
+       "en": "\"The bright moon over the eastern hill after rain: Myeongwol!\" Myeongwol comes in, holding her silk skirt up against her chest.",
+       "ko": "\"비 갠 뒤 동산의 밝은 달, 명월이!\" 명월이가 들어오는데, 비단 치맛자락을 걸음걸음 걷어 올려 가슴에 딱 붙인다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0010.2"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0010.2",
+      "P0010.3"
+     ],
+     "en": "The magistrate says, \"Faster!\" The clerk calls faster. \"Gyehyang! Unsim! Aejeol! Haenghwa! Gangseon! Tangeum! Hongnyeon! Geumnang!\"",
+     "ko": "사또가 분부한다. \"빨리 불러라.\" 호장이 자주자주 부른다. \"계향이! 운심이! 애절이! 행화! 강선이! 탄금이! 홍련이! 금낭이!\"",
+     "why": "P0010.2 is a very short line and the dialogue/action of the magistrate followed immediately by the clerk's call forms a cohesive sequence.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0010.2",
+       "en": "The magistrate says, \"Faster!\"",
+       "ko": "사또가 분부한다. \"빨리 불러라.\""
+      },
+      {
+       "id": "P0010.3",
+       "en": "The clerk calls faster. \"Gyehyang! Unsim! Aejeol! Haenghwa! Gangseon! Tangeum! Hongnyeon! Geumnang!\"",
+       "ko": "호장이 자주자주 부른다. \"계향이! 운심이! 애절이! 행화! 강선이! 탄금이! 홍련이! 금낭이!\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0010.7",
+    "P0011.1"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0010.6",
+      "P0010.7"
+     ],
+     "en": "The clerk rattles them off. \"Yangdaeseon, Woljungseon, Hwajungseon! Geumseon, Geumok, Geumnyeon! Nongok, Nanok, Hongok!\" \"Here, sir!\"",
+     "ko": "호장이 더 자주 부른다. \"양대선이, 월중선이, 화중선이! 금선이, 금옥이, 금련이! 농옥이, 난옥이, 홍옥이!\" \"예, 대령했소.\"",
+     "why": "P0010.7 is a very short response that follows the clerk's list; merging them keeps the dialogue flow together.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0010.6",
+       "en": "The clerk rattles them off. \"Yangdaeseon, Woljungseon, Hwajungseon! Geumseon, Geumok, Geumnyeon! Nongok, Nanok, Hongok!\"",
+       "ko": "호장이 더 자주 부른다. \"양대선이, 월중선이, 화중선이! 금선이, 금옥이, 금련이! 농옥이, 난옥이, 홍옥이!\""
+      },
+      {
+       "id": "P0010.7",
+       "en": "\"Here, sir!\"",
+       "ko": "\"예, 대령했소.\""
+      }
+     ]
+    },
+    {
+     "ids": [
+      "P0011.1",
+      "P0011.2"
+     ],
+     "en": "\"Nakchun, blown by the wind!\" \"Coming!\" Nakchun tries hard to walk in stylishly. She has heard that girls wash their faces, so she has scrubbed her forehead raw.",
+     "ko": "\"바람 맞은 낙춘이!\" \"예, 들어가오.\" 낙춘이가 잔뜩 맵시 있게 들어오는 척하는데, 세수를 한다는 말은 들었는지 이마빡까지 박박 문질러 놓았다.",
+     "why": "P0011.1 contains a short exchange that leads directly into the description of Nakchun's actions in P0011.2.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0011.1",
+       "en": "\"Nakchun, blown by the wind!\" \"Coming!\"",
+       "ko": "\"바람 맞은 낙춘이!\" \"예, 들어가오.\""
+      },
+      {
+       "id": "P0011.2",
+       "en": "Nakchun tries hard to walk in stylishly. She has heard that girls wash their faces, so she has scrubbed her forehead raw.",
+       "ko": "낙춘이가 잔뜩 맵시 있게 들어오는 척하는데, 세수를 한다는 말은 들었는지 이마빡까지 박박 문질러 놓았다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0011.4"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0011.4",
+      "P0011.5"
+     ],
+     "en": "She is as tall as a wooden totem pole. She swings her skirt and tucks it up under her chin, and she comes in with big clumsy steps like a heron in a rice field, says, \"Present,\" and goes out.",
+     "ko": "키는 사그랑이 장승만 한 것이 치맛자락을 휘두르며 턱밑에 딱 붙이고, 물 논의 고니 걸음으로 껑충껑충, 엉금엉금 들어오더니 \"점고 맞소.\" 하고 나간다.",
+     "why": "P0011.4 is a fragment of a sentence that continues into P0011.5. Merging them creates a complete narrative unit.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0011.4",
+       "en": "She is as tall as a wooden totem pole. She swings her skirt and tucks it up under her chin,",
+       "ko": "키는 사그랑이 장승만 한 것이 치맛자락을 휘두르며 턱밑에 딱 붙이고,"
+      },
+      {
+       "id": "P0011.5",
+       "en": "and she comes in with big clumsy steps like a heron in a rice field, says, \"Present,\" and goes out.",
+       "ko": "물 논의 고니 걸음으로 껑충껑충, 엉금엉금 들어오더니 \"점고 맞소.\" 하고 나간다."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "ch_13": [
+  {
+   "run": [
+    "P0002.1"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0002.1",
+      "P0002.2"
+     ],
+     "en": "When the order comes to bring Chunhyang, the chief clerk speaks up: \"Sir, Chunhyang is not a gisaeng, and she has made a firm promise to the old magistrate's son.\"",
+     "ko": "춘향을 부르라는 명령이 내리자 호장이 아뢴다. \"춘향이는 기생도 아닐 뿐 아니라, 전임 사또 자제 도련님과 굳은 약속을 맺었습니다.\"",
+     "why": "The first card is a narrative setup followed by a speaker tag; merging it with the dialogue creates a complete scene and prevents the short introductory sentence from standing alone.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0002.1",
+       "en": "When the order comes to bring Chunhyang, the chief clerk speaks up.",
+       "ko": "춘향을 부르라는 명령이 내리자 호장이 아뢴다."
+      },
+      {
+       "id": "P0002.2",
+       "en": "\"Sir, Chunhyang is not a gisaeng, and she has made a firm promise to the old magistrate's son.\"",
+       "ko": "\"춘향이는 기생도 아닐 뿐 아니라, 전임 사또 자제 도련님과 굳은 약속을 맺었습니다.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0003.6"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0003.6",
+      "P0003.7"
+     ],
+     "en": "\"I'd go a thousand miles, ten thousand miles. Over mountains so high that even the wind and rain rest, so high that even the swift hawk rests, if my love came looking for me, I'd take off my shoes, carry them, and run without resting.\"",
+     "ko": "\"천 리라도 갈까 보다, 만 리라도 갈까 보다. 바람과 비도 쉬어 넘고, 날쌘 매도 쉬어 넘는 높은 고개라도, 임이 와서 날 찾으면 나는 신 벗어 손에 들고 쉬지 않고 가련마는.\"",
+     "why": "The sentence is split across two cards; merging them creates a complete thought and ensures the Korean text flows naturally as one continuous poetic line.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0003.6",
+       "en": "\"I'd go a thousand miles, ten thousand miles. Over mountains so high that even the wind and rain rest, so high that even the swift hawk rests,\"",
+       "ko": "\"천 리라도 갈까 보다, 만 리라도 갈까 보다. 바람과 비도 쉬어 넘고, 날쌘 매도 쉬어 넘는 높은 고개라도,\""
+      },
+      {
+       "id": "P0003.7",
+       "en": "\"if my love came looking for me, I'd take off my shoes, carry them, and run without resting.\"",
+       "ko": "\"임이 와서 날 찾으면 나는 신 벗어 손에 들고 쉬지 않고 가련마는.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0003.9"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0003.8",
+      "P0003.9"
+     ],
+     "en": "Does my husband in Seoul miss me the way I miss him? Or has he coldly forgotten me and given his love to someone else? As she cries her heart out, the guards hear her.",
+     "ko": "한양에 계신 우리 낭군, 나처럼 그리워하실까. 무정하게도 아주 잊고 다른 임을 사랑하나. 한참 이렇게 서럽게 우는데, 사령들이 춘향의 울음을 듣는다.",
+     "why": "P0003.9 is a short sentence that flows naturally into the next scene; merging it with P0003.8 creates a complete narrative beat.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0003.8",
+       "en": "\"Does my husband in Seoul miss me the way I miss him? Or has he coldly forgotten me and given his love to someone else?\"",
+       "ko": "\"한양에 계신 우리 낭군, 나처럼 그리워하실까. 무정하게도 아주 잊고 다른 임을 사랑하나.\""
+      },
+      {
+       "id": "P0003.9",
+       "en": "As she cries her heart out, the guards hear her.",
+       "ko": "한참 이렇게 서럽게 우는데, 사령들이 춘향의 울음을 듣는다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0004.15"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.14",
+      "P0004.15"
+     ],
+     "en": "Because of one little girl like you, the whole office is in an uproar, and the officers are scared to death. Come on, hurry! Chunhyang has no choice. Holding herself with quiet dignity, she steps out the gate and says,",
+     "ko": "조그만 너 하나 때문에 관청이 발칵 뒤집히고 우두머리들이 다 죽어난다. 어서 가자, 바삐 가자. 춘향은 어쩔 수 없이 수절하던 그 태도 그대로 대문 밖으로 나서며 말한다.",
+     "why": "P0004.15 is a transition sentence that feels incomplete on its own; merging it with the preceding dialogue creates a complete narrative flow.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0004.14",
+       "en": "\"Because of one little girl like you, the whole office is in an uproar, and the officers are scared to death. Come on, hurry!\"",
+       "ko": "\"조그만 너 하나 때문에 관청이 발칵 뒤집히고 우두머리들이 다 죽어난다. 어서 가자, 바삐 가자.\""
+      },
+      {
+       "id": "P0004.15",
+       "en": "Chunhyang has no choice. Holding herself with quiet dignity, she steps out the gate and says,",
+       "ko": "춘향은 어쩔 수 없이 수절하던 그 태도 그대로 대문 밖으로 나서며 말한다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0005.2"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0005.1",
+      "P0005.2"
+     ],
+     "en": "\"Sister, head sister, don't look down on me like that. You won't be head gisaeng forever, and I won't be Chunhyang forever. A person dies only once, not twice.\"",
+     "ko": "\"형님, 형님, 행수 형님, 사람 괄시를 그리 마오. 거기라고 대대로 행수며, 나라고 대대로 춘향인가. 사람이 한번 죽지 두 번 죽나.\"",
+     "why": "P0005.2 is a very short sentence that functions as a concluding thought to the preceding dialogue; merging them creates a complete thematic unit.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0005.1",
+       "en": "\"Sister, head sister, don't look down on me like that. You won't be head gisaeng forever, and I won't be Chunhyang forever.\"",
+       "ko": "\"형님, 형님, 행수 형님, 사람 괄시를 그리 마오. 거기라고 대대로 행수며, 나라고 대대로 춘향인가.\""
+      },
+      {
+       "id": "P0005.2",
+       "en": "\"A person dies only once, not twice.\"",
+       "ko": "\"사람이 한번 죽지 두 번 죽나.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0006.11"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0006.11",
+      "P0006.12"
+     ],
+     "en": "Chunhyang is so shocked that she sits up straight and answers, \"Is there high and low in loyalty and faithfulness? Listen carefully. Let's talk about gisaeng.\"",
+     "ko": "이때 춘향이 하도 기가 막혀 꼿꼿이 앉아 아뢴다. \"충효와 열녀에 위아래가 있습니까? 자세히 들어 보십시오. 기생으로 말해 봅시다.\"",
+     "why": "The card P0006.11 is a short narrative transition that leads directly into Chunhyang's speech in P0006.12. Merging them creates a complete action-and-response unit.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0006.11",
+       "en": "Chunhyang is so shocked that she sits up straight and answers.",
+       "ko": "이때 춘향이 하도 기가 막혀 꼿꼿이 앉아 아뢴다."
+      },
+      {
+       "id": "P0006.12",
+       "en": "\"Is there high and low in loyalty and faithfulness? Listen carefully. Let's talk about gisaeng.\"",
+       "ko": "\"충효와 열녀에 위아래가 있습니까? 자세히 들어 보십시오. 기생으로 말해 봅시다.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0006.13"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0006.13",
+      "P0007.1"
+     ],
+     "en": "You say gisaeng can't be loyal or faithful, so I'll tell you about them one by one. Nongseon, a gisaeng from Hwanghae, died for her honor at Dongseon Pass, a little gisaeng in Seoncheon studied hard and became a scholar, and Nongae, the gisaeng of Jinju, gave her life for our country and is honored at a shrine to this day.",
+     "ko": "기생에게는 충효도 열녀도 없다 하시니, 하나하나 아뢰겠습니다. 황해도 기생 농선이는 동선령에서 죽어 이름을 남겼고, 선천 기생은 어린아이였지만 학문을 닦았고, 진주 기생 논개는 우리나라의 충렬로 충렬문에 모셔져 천년 제사를 받고 있습니다.",
+     "why": "The original card P0006.13 was cut in the middle of a list of historical figures; merging it with P0007.1 completes the sentence and groups all related examples into one cohesive card.",
+     "issues": [
+      "English over 300",
+      "Korean over 120"
+     ],
+     "before": [
+      {
+       "id": "P0006.13",
+       "en": "\"You say gisaeng can't be loyal or faithful, so I'll tell you about them one by one. Nongseon, a gisaeng from Hwanghae, died for her honor at Dongseon Pass,\"",
+       "ko": "\"기생에게는 충효도 열녀도 없다 하시니, 하나하나 아뢰겠습니다. 황해도 기생 농선이는 동선령에서 죽어 이름을 남겼고,\""
+      },
+      {
+       "id": "P0007.1",
+       "en": "\"a little gisaeng in Seoncheon studied hard and became a scholar, and Nongae, the gisaeng of Jinju, gave her life for our country and is honored at a shrine to this day.\"",
+       "ko": "\"선천 기생은 어린아이였지만 학문을 닦았고, 진주 기생 논개는 우리나라의 충렬로 충렬문에 모셔져 천년 제사를 받고 있습니다.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0008.6"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0008.6",
+      "P0008.7"
+     ],
+     "en": "I may be a low-born girl, but I know about them. A woman who becomes someone's mistress and abandons her husband is no different from an official who betrays his country and his king. So do with me what you will.",
+     "ko": "제가 비록 천한 계집이지만 그런 분들을 모르겠습니까. 남의 첩이 되어 남편을 버리고 집을 떠나는 것은, 벼슬하는 관장님네가 나라를 버리고 임금을 배신하는 것과 같으니, 마음대로 처분하십시오.",
+     "why": "The sentence was split across two cards, creating a fragment in both English and Korean. Merging them creates a complete, coherent thought.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0008.6",
+       "en": "\"I may be a low-born girl, but I know about them. A woman who becomes someone's mistress and abandons her husband\"",
+       "ko": "\"제가 비록 천한 계집이지만 그런 분들을 모르겠습니까. 남의 첩이 되어 남편을 버리고 집을 떠나는 것은,\""
+      },
+      {
+       "id": "P0008.7",
+       "en": "\"is no different from an official who betrays his country and his king. So do with me what you will.\"",
+       "ko": "\"벼슬하는 관장님네가 나라를 버리고 임금을 배신하는 것과 같으니, 마음대로 처분하십시오.\""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "ch_14": [
+  {
+   "run": [
+    "P0003.3"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0003.3",
+      "P0003.4"
+     ],
+     "en": "He bares his right shoulder, grips the rod, and waits. The magistrate shouts, \"If you go easy on her, you'll pay with your own life. Hit her hard!\"",
+     "ko": "오른 어깨를 벗어 메고 형장을 짚고 서서 분부를 기다리니, 사또가 소리친다. \"그년을 봐주고 헛매질했다가는 네 목숨을 대신 바칠 것이니, 각별히 매우 쳐라.\"",
+     "why": "The magistrate's shout and the subsequent command are split across two cards; merging them ensures the dialogue is complete on one screen.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0003.3",
+       "en": "He bares his right shoulder, grips the rod, and waits. The magistrate shouts,",
+       "ko": "오른 어깨를 벗어 메고 형장을 짚고 서서 분부를 기다리니, 사또가 소리친다."
+      },
+      {
+       "id": "P0003.4",
+       "en": "\"If you go easy on her, you'll pay with your own life. Hit her hard!\"",
+       "ko": "\"그년을 봐주고 헛매질했다가는 네 목숨을 대신 바칠 것이니, 각별히 매우 쳐라.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0003.6"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0003.6",
+      "P0003.7"
+     ],
+     "en": "The guard shouts loudly as he steps up, but then he whispers quietly, \"Just bear one or two. I have no choice. Turn this leg this way and that leg that way.\"",
+     "ko": "사령은 호통을 치며 들어서서 발을 맞추어 서더니, 가만히 속삭인다. \"한두 대만 견디시오. 어쩔 수가 없소. 요 다리는 요리 틀고 저 다리는 저리 트시오.\"",
+     "why": "The guard's action and his whispered speech were split into two cards; merging them creates a complete narrative unit where the speaker's action leads directly into their dialogue.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0003.6",
+       "en": "The guard shouts loudly as he steps up, but then he whispers quietly,",
+       "ko": "사령은 호통을 치며 들어서서 발을 맞추어 서더니, 가만히 속삭인다."
+      },
+      {
+       "id": "P0003.7",
+       "en": "\"Just bear one or two. I have no choice. Turn this leg this way and that leg that way.\"",
+       "ko": "\"한두 대만 견디시오. 어쩔 수가 없소. 요 다리는 요리 틀고 저 다리는 저리 트시오.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0004.3"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.3",
+      "P0004.4"
+     ],
+     "en": "Chunhyang cries as she is beaten. \"One stroke! One heart, one husband. I have one faithful heart. Beat me once, and it will not change, not in one year, not for one moment.\"",
+     "ko": "춘향은 서러움에 겨워 맞으면서 운다. \"한 대를 맞아도 일편단심 굳은 마음, 한 남편만 섬기려는 뜻이오니, 한 번 형벌을 치신들 한 해도 못 가서 한순간인들 변하겠소.\"",
+     "why": "P0004.3 is a short introductory sentence that leads directly into the dialogue in P0004.4; merging them ensures the narrative flow isn't broken by a single line of action followed immediately by a long monologue.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0004.3",
+       "en": "Chunhyang cries as she is beaten.",
+       "ko": "춘향은 서러움에 겨워 맞으면서 운다."
+      },
+      {
+       "id": "P0004.4",
+       "en": "\"One stroke! One heart, one husband. I have one faithful heart. Beat me once, and it will not change, not in one year, not for one moment.\"",
+       "ko": "\"한 대를 맞아도 일편단심 굳은 마음, 한 남편만 섬기려는 뜻이오니, 한 번 형벌을 치신들 한 해도 못 가서 한순간인들 변하겠소.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0005.1"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.4",
+      "P0005.1"
+     ],
+     "en": "One stroke! One heart, one husband. I have one faithful heart. Beat me once, and it will not change, not in one year, not for one moment. All of Namwon has gathered to watch, young and old, men and women. The men in the crowd say,",
+     "ko": "한 대를 맞아도 일편단심 굳은 마음, 한 남편만 섬기려는 뜻이오니, 한 번 형벌을 치신들 한 해도 못 가서 한순간인들 변하겠소. 이때 남원의 한량들이며 남녀노소 없이 모여 구경하는데, 좌우의 한량들이 말한다.",
+     "why": "P0005.1 is a fragment because it ends with 'The men in the crowd say,' which leads directly into the dialogue in P0005.2. Merging 4.4 and 5.1 keeps the narrative flow intact while ensuring the speaker tag is attached to the preceding context.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0004.4",
+       "en": "\"One stroke! One heart, one husband. I have one faithful heart. Beat me once, and it will not change, not in one year, not for one moment.\"",
+       "ko": "\"한 대를 맞아도 일편단심 굳은 마음, 한 남편만 섬기려는 뜻이오니, 한 번 형벌을 치신들 한 해도 못 가서 한순간인들 변하겠소.\""
+      },
+      {
+       "id": "P0005.1",
+       "en": "All of Namwon has gathered to watch, young and old, men and women. The men in the crowd say,",
+       "ko": "이때 남원의 한량들이며 남녀노소 없이 모여 구경하는데, 좌우의 한량들이 말한다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0005.4"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0005.3",
+      "P0005.4"
+     ],
+     "en": "Look at that guard's face and remember it. When he comes out of the gate, we'll teach him a lesson. Who could watch and not cry?",
+     "ko": "집장 사령 놈, 얼굴 잘 봐 두어라. 관아 문밖에 나오면 혼을 내 주리라. 보고 듣는 사람 중에 누가 눈물을 흘리지 않으랴.",
+     "why": "P0005.4 is a short rhetorical question that flows naturally as a continuation of the preceding scene's emotional climax.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0005.3",
+       "en": "\"Look at that guard's face and remember it. When he comes out of the gate, we'll teach him a lesson.\"",
+       "ko": "\"집장 사령 놈, 얼굴 잘 봐 두어라. 관아 문밖에 나오면 혼을 내 주리라.\""
+      },
+      {
+       "id": "P0005.4",
+       "en": "Who could watch and not cry?",
+       "ko": "보고 듣는 사람 중에 누가 눈물을 흘리지 않으랴."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0016.3"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0016.3",
+      "P0016.4"
+     ],
+     "en": "\"Don't do this to me! Tear me apart alive, or beat me to death. Then I'll become a cuckoo, and on lonely moonlit nights in the empty mountains, I'll cry until I wake Master Yi from his sleep.\"",
+     "ko": "\"소녀를 이러지 말고 산 채로 찢든지 아주 박살 내어 죽여 주면, 원한 품은 두견새가 되어, 적막한 빈 산 달 밝은 밤에 우리 이 도련님 잠든 뒤에 그 꿈이나 깨워 보겠소.\"",
+     "why": "The sentence was split across two cards. Merging them creates a complete thought and ensures the quote is not cut off mid-sentence.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0016.3",
+       "en": "\"Don't do this to me! Tear me apart alive, or beat me to death. Then I'll become a cuckoo,\"",
+       "ko": "\"소녀를 이러지 말고 산 채로 찢든지 아주 박살 내어 죽여 주면, 원한 품은 두견새가 되어,\""
+      },
+      {
+       "id": "P0016.4",
+       "en": "\"and on lonely moonlit nights in the empty mountains, I'll cry until I wake Master Yi from his sleep.\"",
+       "ko": "\"적막한 빈 산 달 밝은 밤에 우리 이 도련님 잠든 뒤에 그 꿈이나 깨워 보겠소.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0018.2"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0018.1",
+      "P0018.2"
+     ],
+     "en": "I had no son, just my one daughter, Chunhyang. I raised her like a treasure, and she studied day and night. She used to say to me, 'Don't be sad, Mother. Don't be sad that you have no son. Can't your grandson take care of you?'",
+     "ko": "아들 없이 외동딸 내 딸 춘향을 귀하게 길러 내어, 밤낮으로 책만 놓고 공부를 일삼았다. 그 애가 나를 보고 하는 말이, '서러워 마오, 서러워 마오. 아들 없다 서러워 마오. 외손자가 제사를 못 지내겠소?'",
+     "why": "P0018.2 is a long sentence that feels incomplete on its own; merging it with the preceding context of her upbringing creates a cohesive narrative flow.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0018.1",
+       "en": "\"I had no son, just my one daughter, Chunhyang. I raised her like a treasure, and she studied day and night.\"",
+       "ko": "\"아들 없이 외동딸 내 딸 춘향을 귀하게 길러 내어, 밤낮으로 책만 놓고 공부를 일삼았다.\""
+      },
+      {
+       "id": "P0018.2",
+       "en": "\"She used to say to me, 'Don't be sad, Mother. Don't be sad that you have no son. Can't your grandson take care of you?'\"",
+       "ko": "\"그 애가 나를 보고 하는 말이, '서러워 마오, 서러워 마오. 아들 없다 서러워 마오. 외손자가 제사를 못 지내겠소?'\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0018.11"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0018.11",
+      "P0018.12"
+     ],
+     "en": "Don't say such things. Let's just go to the prison. The guard carries Chunhyang on his back,",
+     "ko": "\"그런 말씀 마시고 옥으로 가십시다.\" 사령이 춘향을 등에 업고",
+     "why": "The English and Korean text are cut off mid-sentence/action; merging with the subsequent card completes the thought.",
+     "issues": [
+      "unknown or single id"
+     ],
+     "before": [
+      {
+       "id": "P0018.11",
+       "en": "\"Don't say such things. Let's just go to the prison.\" The guard carries Chunhyang on his back,",
+       "ko": "\"그런 말씀 마시고 옥으로 가십시다.\" 사령이 춘향을 등에 업고"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "ch_15": [
+  {
+   "run": [
+    "P0003.4"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0003.4",
+      "P0003.5"
+     ],
+     "en": "Rather than live missing him like this, I'd rather die and forget. Let me die and become a cuckoo in the empty mountains, and on moonlit nights among the pear blossoms, cry so sadly that he hears me.",
+     "ko": "살아서 이리 그리워하느니 아주 죽어 잊고 싶구나. 차라리 이 몸이 죽어 빈 산의 두견새가 되어, 배꽃 핀 달 밝은 깊은 밤에 슬피 울어 낭군 귀에 들리게 하고 싶구나.",
+     "why": "The sentence is split across two cards in both languages; merging them creates a complete thought and ensures the poetic flow remains intact.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0003.4",
+       "en": "\"Rather than live missing him like this, I'd rather die and forget. Let me die and become a cuckoo in the empty mountains,\"",
+       "ko": "\"살아서 이리 그리워하느니 아주 죽어 잊고 싶구나. 차라리 이 몸이 죽어 빈 산의 두견새가 되어,\""
+      },
+      {
+       "id": "P0003.5",
+       "en": "\"and on moonlit nights among the pear blossoms, cry so sadly that he hears me.\"",
+       "ko": "\"배꽃 핀 달 밝은 깊은 밤에 슬피 울어 낭군 귀에 들리게 하고 싶구나.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0004.8"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.8",
+      "P0004.9"
+     ],
+     "en": "She pushes open the bamboo window, and bright moonlight fills the room. Sitting alone, the young girl asks the moon, \"Moon, can you see him? Lend me your light so I can see where he is too.\"",
+     "ko": "대나무 창문을 열어 젖히니 밝은 달빛이 방 안에 드는데, 어린것이 홀로 앉아 달에게 묻는다. \"저 달아, 보느냐. 임 계신 곳 밝은 빛 좀 빌려 다오. 나도 보게.\"",
+     "why": "The original card P0004.8 ended with a speaker tag/action leading into the speech in P0004.9. Merging them creates a complete thought and ensures the dialogue is not orphaned.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0004.8",
+       "en": "She pushes open the bamboo window, and bright moonlight fills the room. Sitting alone, the young girl asks the moon,",
+       "ko": "\"대나무 창문을 열어 젖히니 밝은 달빛이 방 안에 드는데, 어린것이 홀로 앉아 달에게 묻는다.\""
+      },
+      {
+       "id": "P0004.9",
+       "en": "\"Moon, can you see him? Lend me your light so I can see where he is too.\"",
+       "ko": "\"저 달아, 보느냐. 임 계신 곳 밝은 빛 좀 빌려 다오. 나도 보게.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0004.11"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.11",
+      "P0004.12"
+     ],
+     "en": "She cries and cries, and suddenly falls asleep, half dreaming, half awake. Like the old story of the man who dreamed he was a butterfly, her spirit drifts like mist, like wind, like cloud, until it reaches a strange place.",
+     "ko": "아이고, 아이고, 서럽게 울다가 홀연히 잠이 드니, 꿈인 듯 생시인 듯하다. 나비가 장자가 되고 장자가 나비가 되듯, 가랑비처럼 남은 넋이 바람인 듯 구름인 듯 한곳에 다다르니,",
+     "why": "The original card P0004.11 is a short sentence that flows naturally into the descriptive imagery of P0004.12. Merging them creates a complete narrative arc from her falling asleep to her spirit drifting.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0004.11",
+       "en": "She cries and cries, and suddenly falls asleep, half dreaming, half awake.",
+       "ko": "아이고, 아이고, 서럽게 울다가 홀연히 잠이 드니, 꿈인 듯 생시인 듯하다."
+      },
+      {
+       "id": "P0004.12",
+       "en": "Like the old story of the man who dreamed he was a butterfly, her spirit drifts like mist, like wind, like cloud, until it reaches a strange place.",
+       "ko": "나비가 장자가 되고 장자가 나비가 되듯, 가랑비처럼 남은 넋이 바람인 듯 구름인 듯 한곳에 다다르니,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0007.8"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0007.8",
+      "P0007.9"
+     ],
+     "en": "\"Ghosts, if you want to take me, at least don't nag me about it.\" She chants a charm against ghosts and sits there. Outside the prison, [Next Sentence]",
+     "ko": "\"이 몸을 귀신들이 잡아가려거든 조르지나 말려무나.\" 하고 귀신 쫓는 주문을 외며 앉아 있는데, 옥 밖으로 [다음 문장]",
+     "why": "The card is cut in the middle of a sentence ('Outside the prison,') and must be merged with the following card to complete the thought.",
+     "issues": [
+      "unknown or single id",
+      "Korean words changed"
+     ],
+     "before": [
+      {
+       "id": "P0007.8",
+       "en": "\"Ghosts, if you want to take me, at least don't nag me about it.\" She chants a charm against ghosts and sits there. Outside the prison,",
+       "ko": "\"이 몸을 귀신들이 잡아가려거든 조르지나 말려무나.\" 하고 귀신 쫓는 주문을 외며 앉아 있는데, 옥 밖으로"
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "ch_16": [
+  {
+   "run": [
+    "P0005.5"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0005.5",
+      "P0005.6"
+     ],
+     "en": "\"Tell me all of it.\" \"I saw my makeup mirror cracked, and the cherry blossoms outside my window falling, and a scarecrow hanging over my door, and a great mountain falling down, and the sea drying up. Isn't it a dream that I will die?\"",
+     "ko": "\"어디 자세히 말해 보소.\" \"단장하던 거울이 깨져 보이고, 창 앞의 앵두꽃이 떨어져 보이고, 문 위에 허수아비가 달려 보이고, 태산이 무너지고 바닷물이 말라 보였소. 나 죽을 꿈이 아니오?\"",
+     "why": "P0005.5 and P0005.6 were split in the middle of a long descriptive list; merging them creates a complete coherent thought for both languages.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0005.5",
+       "en": "\"Tell me all of it.\" \"I saw my makeup mirror cracked, and the cherry blossoms outside my window falling,\"",
+       "ko": "\"어디 자세히 말해 보소.\" \"단장하던 거울이 깨져 보이고, 창 앞의 앵두꽃이 떨어져 보이고,\""
+      },
+      {
+       "id": "P0005.6",
+       "en": "\"and a scarecrow hanging over my door, and a great mountain falling down, and the sea drying up. Isn't it a dream that I will die?\"",
+       "ko": "\"문 위에 허수아비가 달려 보이고, 태산이 무너지고 바닷물이 말라 보였소. 나 죽을 꿈이 아니오?\""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "ch_17": [
+  {
+   "run": [
+    "P0003.1"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0003.1",
+      "P0003.2"
+     ],
+     "en": "He receives the inspector's horse badge and a brass ruler, says farewell to the king, and goes home. He looks as strong as a tiger in the deep mountains. He bids his parents goodbye and sets out for Jeolla Province. Outside the South Gate he gathers his clerks and runners.",
+     "ko": "암행어사의 마패와 놋자를 내주시니, 임금께 하직하고 집으로 돌아간다. 쇠 같은 풍채가 깊은 산속 범 같다. 부모님께 하직하고 전라도로 떠나는데, 남대문 밖으로 나서서 서리와 중방, 역졸들을 거느린다.",
+     "why": "The content of P0003.1 is a narrative transition that flows directly into the preparation for the journey in P0003.2; merging them ensures the narrative flow isn't broken by a line break between his arrival home and his departure.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0003.1",
+       "en": "He receives the inspector's horse badge and a brass ruler, says farewell to the king, and goes home. He looks as strong as a tiger in the deep mountains.",
+       "ko": "암행어사의 마패와 놋자를 내주시니, 임금께 하직하고 집으로 돌아간다. 쇠 같은 풍채가 깊은 산속 범 같다."
+      },
+      {
+       "id": "P0003.2",
+       "en": "He bids his parents goodbye and sets out for Jeolla Province. Outside the South Gate he gathers his clerks and runners.",
+       "ko": "부모님께 하직하고 전라도로 떠나는데, 남대문 밖으로 나서서 서리와 중방, 역졸들을 거느린다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0004.4"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.4",
+      "P0004.5"
+     ],
+     "en": "When they have all gone, the inspector puts on his disguise. Look at him! To fool everyone, he wears a ragged old hat with no strap, tied on with a piece of string, and a torn old headband.",
+     "ko": "그렇게 모두 떠나보낸 뒤 어사또가 변장을 차리는데, 그 모양을 보아라. 사람을 속이려고, 갓끈 없는 헌 갓에 노끈을 칭칭 매어 쓰고, 다 떨어진 헌 망건에 노끈으로 당줄을 달아 쓰고,",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0004.4",
+       "en": "When they have all gone, the inspector puts on his disguise. Look at him! To fool everyone,",
+       "ko": "그렇게 모두 떠나보낸 뒤 어사또가 변장을 차리는데, 그 모양을 보아라. 사람을 속이려고,"
+      },
+      {
+       "id": "P0004.5",
+       "en": "he wears a ragged old hat with no strap, tied on with a piece of string, and a torn old headband.",
+       "ko": "갓끈 없는 헌 갓에 노끈을 칭칭 매어 쓰고, 다 떨어진 헌 망건에 노끈으로 당줄을 달아 쓰고,"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0007.4"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0007.4",
+      "P0007.5"
+     ],
+     "en": "White hair is our enemy! We tried to stop it with axes and thorns, but youth leaves on its own, white hair keeps coming back, our skin wrinkles, and our black hair turns white.",
+     "ko": "원수로다, 원수로다, 백발이 원수로다. 오는 백발 막으려고 도끼 들고 가시 들고 막았건만, 젊음은 저절로 가고 백발은 때때로 돌아와 귀밑에 살 잡히고 검은 머리가 백발이 되었구나.",
+     "why": "The English and Korean text for P0007.4 ends in the middle of a sentence/clause ('...and thorns,' / '...막았건만,'). Merging it with P0007.5 creates a complete, coherent thought on one card.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0007.4",
+       "en": "\"White hair is our enemy! We tried to stop it with axes and thorns,\"",
+       "ko": "\"원수로다, 원수로다, 백발이 원수로다. 오는 백발 막으려고 도끼 들고 가시 들고 막았건만,\""
+      },
+      {
+       "id": "P0007.5",
+       "en": "\"but youth leaves on its own, white hair keeps coming back, our skin wrinkles, and our black hair turns white.\"",
+       "ko": "\"젊음은 저절로 가고 백발은 때때로 돌아와 귀밑에 살 잡히고 검은 머리가 백발이 되었구나.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0007.6"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0007.6",
+      "P0007.7"
+     ],
+     "en": "Time has no heart. We wish we could ride a fine horse through Seoul again, see beautiful places, and play beside pretty girls, but our eyes are dim and our ears are deaf. There's nothing to be done. Our whole life was just a spring dream.",
+     "ko": "무정한 것이 세월이라. 좋은 말 타고 서울 거리를 달리며 고운 경치 다시 보고, 미인 곁에서 놀고 싶건마는, 눈은 어둡고 귀는 먹어 볼 수도 없고 들을 수도 없으니 하릴없구나. 아마도 우리 인생은 한바탕 봄꿈인가 하노라.",
+     "why": "The English and Korean text in P0007.6 ends with a comma/conjunction ('but' / '건마는'), making it a fragment that flows naturally into the content of P0007.7.",
+     "issues": [
+      "Korean over 120"
+     ],
+     "before": [
+      {
+       "id": "P0007.6",
+       "en": "\"Time has no heart. We wish we could ride a fine horse through Seoul again, see beautiful places, and play beside pretty girls,\"",
+       "ko": "\"무정한 것이 세월이라. 좋은 말 타고 서울 거리를 달리며 고운 경치 다시 보고, 미인 곁에서 놀고 싶건마는,\""
+      },
+      {
+       "id": "P0007.7",
+       "en": "\"but our eyes are dim and our ears are deaf. There's nothing to be done. Our whole life was just a spring dream.\"",
+       "ko": "\"눈은 어둡고 귀는 먹어 볼 수도 없고 들을 수도 없으니 하릴없구나. 아마도 우리 인생은 한바탕 봄꿈인가 하노라.\""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "ch_18": [
+  {
+   "run": [
+    "P0007.6"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0007.6",
+      "P0008.1"
+     ],
+     "en": "She is so angry she lunges at him as if to bite his nose off. \"It's my fault, not my nose's! Mother-in-law, you don't understand me at all. Heaven may seem uncaring, but it still has its wind, its clouds, and its thunder.\"",
+     "ko": "화가 치밀어 달려들어 코를 물어뜯으려 한다. \"내 탓이지 코 탓인가. 장모가 나를 몰라보네. 하늘이 무심해도 바람과 구름의 조화와 천둥 번개는 있는 법이지.\"",
+     "why": "P0007.6 was cut in the middle of a sentence and a speaker's dialogue. Merging it with P0008.1 completes the thought and ensures both languages form coherent sentences.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0007.6",
+       "en": "She is so angry she lunges at him as if to bite his nose off. \"It's my fault, not my nose's! Mother-in-law, you",
+       "ko": "화가 치밀어 달려들어 코를 물어뜯으려 한다. \"내 탓이지 코 탓인가. 장모가 나를"
+      },
+      {
+       "id": "P0008.1",
+       "en": "don't understand me at all. Heaven may seem uncaring, but it still has its wind, its clouds, and its thunder.\"",
+       "ko": "몰라보네. 하늘이 무심해도 바람과 구름의 조화와 천둥 번개는 있는 법이지.\""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "ch_19": [
+  {
+   "run": [
+    "P0003.7"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0003.7",
+      "P0004.1"
+     ],
+     "en": "\"She's only talking out of anger. Please don't be upset. Here, have some hot rice.\" The inspector takes the tray and as he thinks of everything, his rage boils up to the sky. His heart pounds and his stomach churns.",
+     "ko": "\"홧김에 하는 말을 조금인들 노여워하시겠습니까. 따뜻한 진지 드십시오.\" 어사또가 밥상을 받고 생각하니, 분이 하늘까지 치밀어 마음이 울컥하고 오장이 울렁울렁한다.",
+     "why": "The sentence 'The inspector takes the tray' was split across cards P0003.7 and P0004.1, making both cards fragments of a single continuous action/thought.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0003.7",
+       "en": "\"She's only talking out of anger. Please don't be upset. Here, have some hot rice.\" The inspector takes the tray",
+       "ko": "\"홧김에 하는 말을 조금인들 노여워하시겠습니까. 따뜻한 진지 드십시오.\" 어사또가 밥상을"
+      },
+      {
+       "id": "P0004.1",
+       "en": "and as he thinks of everything, his rage boils up to the sky. His heart pounds and his stomach churns.",
+       "ko": "받고 생각하니, 분이 하늘까지 치밀어 마음이 울컥하고 오장이 울렁울렁한다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0004.2"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.2",
+      "P0004.3"
+     ],
+     "en": "The dinner has no taste. \"Hyangdan, take the tray away.\" He taps out his pipe and says, \"Mother-in-law, I should see Chunhyang.\" \"Yes, of course. It would be heartless if you didn't.\"",
+     "ko": "저녁밥이 맛이 없어 \"향단아, 상 물려라.\" 하고 담뱃대를 툭툭 털며 말한다. \"여보소, 장모. 춘향이나 좀 봐야지.\" \"그러지요. 서방님이 춘향을 안 보시면 인정이라 하겠습니까.\"",
+     "why": "P0004.2 ends with a speaker tag ('and says') followed by the start of dialogue in P0004.3. Merging them creates a complete narrative unit where the character's action and subsequent speech are joined.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0004.2",
+       "en": "The dinner has no taste. \"Hyangdan, take the tray away.\" He taps out his pipe and says,",
+       "ko": "저녁밥이 맛이 없어 \"향단아, 상 물려라.\" 하고 담뱃대를 툭툭 털며 말한다."
+      },
+      {
+       "id": "P0004.3",
+       "en": "\"Mother-in-law, I should see Chunhyang.\" \"Yes, of course. It would be heartless if you didn't.\"",
+       "ko": "\"여보소, 장모. 춘향이나 좀 봐야지.\" \"그러지요. 서방님이 춘향을 안 보시면 인정이라 하겠습니까.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0004.5"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.5",
+      "P0004.6"
+     ],
+     "en": "Just then, the dawn bell rings, dong, dong. Hyangdan carries the tray of porridge on her head and a lantern in her hand, and the inspector follows her to the prison gate. All is quiet, and the guard is nowhere to be seen.",
+     "ko": "이때 마침 파루 종이 뎅뎅 울린다. 향단이는 미음상을 이고 등롱을 들고, 어사또는 뒤를 따라 옥문 앞에 다다르니, 인적은 고요하고 사정이도 간 곳이 없다.",
+     "why": "P0004.5 is cut in the middle of a sentence (the description of what Hyangdan is holding) and must be joined with P0004.6 to form a complete thought.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0004.5",
+       "en": "Just then, the dawn bell rings, dong, dong. Hyangdan carries the tray of porridge on her head and a lantern",
+       "ko": "이때 마침 파루 종이 뎅뎅 울린다. 향단이는 미음상을 이고 등롱을"
+      },
+      {
+       "id": "P0004.6",
+       "en": "in her hand, and the inspector follows her to the prison gate. All is quiet, and the guard is nowhere to be seen.",
+       "ko": "들고, 어사또는 뒤를 따라 옥문 앞에 다다르니, 인적은 고요하고 사정이도 간 곳이 없다."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0006.8"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0006.8",
+      "P0006.9"
+     ],
+     "en": "Mother, after I die, please do this for me so I can rest in peace. My silk coat is in the chest. Sell it, buy fine ramie cloth, and make him a beautiful coat. Sell my white silk skirt too, and buy him a hat, a headband, and shoes.",
+     "ko": "어머님, 나 죽은 뒤에라도 한이나 없게 해 주시오. 내가 입던 비단 장옷이 장 안에 들어 있으니 그 옷 팔아다가 좋은 모시로 바꾸어 고운 도포를 지어 드리고, 흰 비단 치마도 팔아다가 갓과 망건과 신발을 사 드리시오.",
+     "why": "The original cards were split in the middle of a single continuous request/sentence. Merging them ensures the instruction to 'sell' and 'buy' remains as one cohesive thought.",
+     "issues": [
+      "Korean over 120"
+     ],
+     "before": [
+      {
+       "id": "P0006.8",
+       "en": "\"Mother, after I die, please do this for me so I can rest in peace. My silk coat is in the chest. Sell it,\"",
+       "ko": "\"어머님, 나 죽은 뒤에라도 한이나 없게 해 주시오. 내가 입던 비단 장옷이 장 안에 들어 있으니 그 옷 팔아다가,\""
+      },
+      {
+       "id": "P0006.9",
+       "en": "\"buy fine ramie cloth, and make him a beautiful coat. Sell my white silk skirt too, and buy him a hat, a headband, and shoes.\"",
+       "ko": "\"좋은 모시로 바꾸어 고운 도포를 지어 드리고, 흰 비단 치마도 팔아다가 갓과 망건과 신발을 사 드리시오.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0007.2"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0007.2",
+      "P0007.3"
+     ],
+     "en": "\"I'll pin up my messy hair, stagger in this way and that, and when they beat me to death, pretend you're a hired man, run in, carry me on your back, and lay me down in the quiet hall where we first loved each other.\"",
+     "ko": "\"흐트러진 머리를 이렁저렁 걷어 얹고, 이리 비틀 저리 비틀 들어가서 매 맞아 죽거든, 삯꾼인 체 달려들어 나를 업고, 우리 둘이 처음 만나 놀던 부용당의 고요한 곳에 뉘어 놓으시오.\"",
+     "why": "P0007.2 is a fragment of a long sentence that continues into P0007.3. Merging them creates a complete, coherent thought for the reader.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0007.2",
+       "en": "\"I'll pin up my messy hair, stagger in this way and that, and when they beat me to death,\"",
+       "ko": "\"흐트러진 머리를 이렁저렁 걷어 얹고, 이리 비틀 저리 비틀 들어가서 매 맞아 죽거든,\""
+      },
+      {
+       "id": "P0007.3",
+       "en": "\"pretend you're a hired man, run in, carry me on your back, and lay me down in the quiet hall where we first loved each other.\"",
+       "ko": "\"삯꾼인 체 달려들어 나를 업고, 우리 둘이 처음 만나 놀던 부용당의 고요한 곳에 뉘어 놓으시오.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0007.5"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0007.5",
+      "P0007.6"
+     ],
+     "en": "And when you become a great man someday, don't wait a moment. Wrap me in fine cloth, put me on a simple bier, and carry me all the way to Seoul. Bury me at the foot of your family's graves.",
+     "ko": "서방님이 귀하게 되어 높은 벼슬에 오르거든 잠시도 미루지 말고, 고운 베로 싸서 조촐한 상여에 실어 앞산 뒷산 다 버리고 서울로 올려 가서 서방님 선산 발치에 묻어 주시오.",
+     "why": "P0007.5 is a fragment of a long sentence that continues into P0007.6. Merging them creates a complete, coherent thought in both languages.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0007.5",
+       "en": "\"And when you become a great man someday, don't wait a moment. Wrap me in fine cloth, put me on a simple bier,\"",
+       "ko": "\"서방님이 귀하게 되어 높은 벼슬에 오르거든 잠시도 미루지 말고, 고운 베로 싸서 조촐한 상여에 실어,\""
+      },
+      {
+       "id": "P0007.6",
+       "en": "\"and carry me all the way to Seoul. Bury me at the foot of your family's graves.\"",
+       "ko": "\"앞산 뒷산 다 버리고 서울로 올려 가서 서방님 선산 발치에 묻어 주시오.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0007.7"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0007.7",
+      "P0007.8"
+     ],
+     "en": "On the stone, carve just a few words: 'The grave of Chunhyang, who stayed faithful and died unjustly.' I'll be like the Waiting Wife Rock. The sun that sets tonight will rise tomorrow, but when poor Chunhyang is gone, she will never come back. Please clear my name.",
+     "ko": "비석에는 '수절원사 춘향지묘(守節冤死 春香之墓)', 곧 '정절을 지키다 억울하게 죽은 춘향의 묘'라고 여덟 자만 새겨 주시오. 망부석이 아니 되겠소. 서산에 지는 해는 내일 다시 오련마는, 불쌍한 춘향이는 한번 가면 언제 다시 올까. 원한이나 풀어 주시오.",
+     "why": "The original card P0007.7 was long and the transition to P0007.8 created a disjointed flow; merging them ensures the full plea of the character is contained in one cohesive card while staying within character limits.",
+     "issues": [
+      "Korean over 120"
+     ],
+     "before": [
+      {
+       "id": "P0007.7",
+       "en": "\"On the stone, carve just a few words: 'The grave of Chunhyang, who stayed faithful and died unjustly.'\"",
+       "ko": "\"비석에는 '수절원사 춘향지묘(守節冤死 春香之墓)', 곧 '정절을 지키다 억울하게 죽은 춘향의 묘'라고 여덟 자만 새겨 주시오.\""
+      },
+      {
+       "id": "P0007.8",
+       "en": "\"I'll be like the Waiting Wife Rock. The sun that sets tonight will rise tomorrow, but when poor Chunhyang is gone, she will never come back. Please clear my name.\"",
+       "ko": "\"망부석이 아니 되겠소. 서산에 지는 해는 내일 다시 오련마는, 불쌍한 춘향이는 한번 가면 언제 다시 올까. 원한이나 풀어 주시오.\""
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "run": [
+    "P0007.9",
+    "P0007.10"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0007.9",
+      "P0007.10"
+     ],
+     "en": "Oh, oh, my life! My poor mother! When she loses me and everything we own, she'll become a beggar, going from house to house, and one day she'll fall asleep by the road and die, and the crows of Jirisan will come down and peck out her eyes,",
+     "ko": "아이고, 아이고, 내 신세야. 불쌍한 우리 어머니, 나를 잃고 재산까지 다 없애면 하릴없이 거지가 되어 이 집 저 집 빌어먹다가 언덕 밑에서 쪼그리고 졸다가 지쳐 죽으면, 지리산 갈까마귀가 두 날개를 떨치고 내려와 두 눈을 다 파먹어도,",
+     "why": "The English and Korean segments are both fragments of a single long sentence describing the mother's plight. Joining them creates a complete narrative flow.",
+     "issues": [
+      "Korean over 120"
+     ],
+     "before": [
+      {
+       "id": "P0007.9",
+       "en": "\"Oh, oh, my life! My poor mother! When she loses me and everything we own, she'll become a beggar, going from house to house,\"",
+       "ko": "\"아이고, 아이고, 내 신세야. 불쌍한 우리 어머니, 나를 잃고 재산까지 다 없애면 하릴없이 거지가 되어 이 집 저 집 빌어먹다가,\""
+      },
+      {
+       "id": "P0007.10",
+       "en": "\"and one day she'll fall asleep by the road and die, and the crows of Jirisan will come down and peck out her eyes,\"",
+       "ko": "\"언덕 밑에서 쪼그리고 졸다가 지쳐 죽으면, 지리산 갈까마귀가 두 날개를 떨치고 내려와 두 눈을 다 파먹어도,\""
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "ch_20": [
+  {
+   "run": [
+    "P0002.13"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0002.13",
+      "P0003.1"
+     ],
+     "en": "But when the inspector looks at his own table, how could he not be angry? A chipped little table, wooden chopsticks, a dish of bean sprouts, a scrap of rice cake, and a bowl of cheap rice wine.",
+     "ko": "어사또 상을 보니 어찌 분하지 않으랴. 모서리 떨어진 개다리소반에 닥나무 젓가락, 콩나물 한 접시, 떡 한 조각, 막걸리 한 사발이 놓였구나.",
+     "why": "The sentence 'But when the inspector looks at his own table' was cut off mid-sentence. Merging it with the following card completes the thought and creates a cohesive paragraph.",
+     "issues": [
+      "English words changed",
+      "Korean words changed"
+     ],
+     "before": [
+      {
+       "id": "P0002.13",
+       "en": "The magistrates up on the stage have feast tables in front of them, enjoying the slow music. But when the inspector looks at his own table,",
+       "ko": "대청 위의 수령들은 잔칫상을 앞에 놓고 느린 가락에 흥겨워하는데, 어사또 상을"
+      },
+      {
+       "id": "P0003.1",
+       "en": "how could he not be angry? A chipped little table, wooden chopsticks, a dish of bean sprouts, a scrap of rice cake, and a bowl of cheap rice wine.",
+       "ko": "보니 어찌 분하지 않으랴. 모서리 떨어진 개다리소반에 닥나무 젓가락, 콩나물 한 접시, 떡 한 조각, 막걸리 한 사발이 놓였구나."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "ch_21": [
+  {
+   "run": [
+    "P0004.6"
+   ],
+   "merges": [
+    {
+     "ids": [
+      "P0004.6",
+      "P0005.1"
+     ],
+     "en": "The spring grass grows green every year, but the prince who leaves never returns. That old poem was written about me!",
+     "ko": "봄풀은 해마다 푸르건만, 떠난 왕손은 돌아오지 않는다더니, 나를 두고 한 말이로구나.",
+     "why": "The sentence was split across two cards; merging them creates a complete thought and ensures the poetic flow is preserved.",
+     "issues": [],
+     "before": [
+      {
+       "id": "P0004.6",
+       "en": "\"The spring grass grows green every year,",
+       "ko": "\"봄풀은 해마다 푸르건만,"
+      },
+      {
+       "id": "P0005.1",
+       "en": "but the prince who leaves never returns. That old poem was written about me!\"",
+       "ko": "떠난 왕손은 돌아오지 않는다더니, 나를 두고 한 말이로구나.\""
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

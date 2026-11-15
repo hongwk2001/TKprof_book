@@ -1,0 +1,73 @@
+import json
+
+rewrites = {
+    'P004_4': 'They came, and the quiet house brightened with a child’s laugh. The Divine friend of children, to whom she had prayed during her troubles, seemed to hold her child in His arms, making it a sacred joy for her.',
+    'P005_1': 'Lucie was always busy winding the golden thread that tied them all together. She wove her happy influence through all their lives without ever trying to take over. Because of this, she only heard friendly and comforting sounds in the echoes of the years passing by.',
+    'P007_1': 'So, the sound of an Angel\'s wings blended with the other echoes. They weren\'t entirely from this earth, carrying a little breath of Heaven with them.',
+    'P007_2': 'The gentle breeze blowing over a small garden grave also mixed with those sounds. Lucie could hear them in a soft whisper, like a calm summer sea against the sand. Meanwhile, little Lucie, looking very serious while doing her morning lessons or dressing her doll by her mother\'s feet, chattered away in the languages of the two cities that shaped her life.',
+    'P009_1': 'If a man truly loved a woman, lost her, and still cared for her respectfully after she became a wife and mother, her children always seemed to feel a strange connection with him. They had a natural, gentle pity for him. We don\'t know exactly why these hidden feelings happen, but they do, and that\'s exactly how it was here.',
+    'P010_3': 'Just like a boat tied to another is usually struggling and mostly underwater, Sydney had a messy, swamped life.',
+    'P010_4': 'Unfortunately, his deep-rooted habits were much stronger than any sense of ambition or shame, so he just accepted this lifestyle. He never thought about breaking out of his role as the lion\'s jackal, any more than a real jackal would ever think of becoming a lion.',
+    'P010_5': 'Stryver was rich. He had married a flashy widow who owned property and had three boys, who were completely ordinary except for the straight hair on their round heads.',
+    'P011_2': 'Stryver was furious, but he later used the rejection as a lesson for the boys, telling them to beware of the pride of beggars like that tutor.',
+    'P011_4': 'Darnay had supposedly tried to "catch" him, but Stryver bragged that his own sharpness kept him from getting caught. Some of his lawyer friends, who shared his rich wine and heard his lies, excused him by saying he had told the story so often that he actually believed it himself. Of course, that just makes a bad lie even worse, and almost justifies hauling the guy off to a quiet spot to be hanged.',
+    'P012_1': 'These were some of the echoes Lucie listened to from her quiet corner until her daughter was six years old, sometimes feeling thoughtful, and other times laughing. It goes without saying how close to her heart the footsteps of her child sounded, along with the steady steps of her confident father and her loving husband.',
+    'P012_3': 'She also heard sweet echoes of her father telling her she seemed even more devoted to him now that she was married. And her husband often said her daily chores never got in the way of her love or help. He would ask her, "What is your secret, my darling? How can you be everything to all of us without ever seeming rushed or overwhelmed?"',
+    'P014_3': 'It was a hot, stormy night, and it reminded all three of them of that old Sunday night when they had watched the lightning from this exact spot.',
+    'P015_2': 'We\'ve been so incredibly busy all day that we didn\'t know what to do first or which way to turn.',
+    'P015_3': 'There\'s so much tension in Paris right now that people are actually rushing to trust us with their money!',
+    'P017_1': '"You say it looks bad, my dear Darnay? Yes, but we don\'t know the real reason behind it.',
+    'P019_1': '"I know that, of course," agreed Mr.',
+    'P019_2': 'Lorry. He tried to convince himself that he was in a bad mood, grumbling, "But I\'m determined to be cranky after such a long, annoying day.',
+    'P027_2': 'Thank God, there\'s no reason we shouldn\'t be safe and well here, but I\'ve been so stressed out all day, and I\'m not as young as I used to be!',
+    'P027_4': 'Now, come take your place in the circle, and let\'s sit quietly to listen for those echoes you have a theory about."',
+    'P031_2': 'A massive roar erupted from the people of Saint Antoine. A forest of bare arms waved in the air like dead tree branches in a winter storm. Their fingers eagerly grabbed at any weapon, or anything that looked like a weapon, that got tossed up from the crowd below, no matter how far away it was.',
+    'P032_1': 'Nobody in the crowd could say who was handing them out, where they came from, or how they were being passed along over everyone\'s heads like flashes of lightning. But muskets were being handed out—along with bullets, gunpowder, iron and wood bars, knives, axes, pikes, and absolutely any weapon that desperate people could find or make up.',
+    'P033': 'Just like a boiling whirlpool has a center, all this raging chaos circled around Defarge\'s wine-shop. Everyone in the crowd was sucked toward the middle where Defarge himself, already covered in sweat and gunpowder, was shouting orders and handing out weapons. He pushed men back, dragged others forward, took weapons from some to give to others, and fought hard right in the middle of the madness.',
+    'P034_1': '"Stay close to me, Jacques Three!" shouted Defarge. "And you, Jacques One and Two, split up and lead as many of these patriots as you can!',
+    'P039_1': 'With a roar that sounded like all the breath in France had shouted that hated word, the crowd surged forward like a living sea, wave after wave, flooding the city right up to the prison.',
+    'P040_2': 'Through the fire and smoke—right in the middle of it all—the crowd shoved him up against a cannon, and he instantly became a cannoneer. Defarge of the wine-shop fought like a brave soldier for two brutal hours.',
+    'P041_1': 'A deep ditch, a single drawbridge, massive stone walls, eight huge towers, cannons, muskets, fire, and smoke everywhere.',
+    'P041_3': 'Work, Jacques One, Jacques Two, Jacques One Thousand, Jacques Two Thousand, Jacques Twenty-Five Thousand! In the name of all the Angels or Devils—whichever you prefer—work!" Defarge shouted this from his cannon, which had already grown burning hot.',
+    'P042_2': 'We can kill just as well as the men once the place is taken!" A crowd of women joined her with a sharp, bloodthirsty cry. They carried all sorts of weapons, but they were all armed with the same hunger and thirst for revenge.',
+    'P043_3': 'There were flashing weapons, blazing torches, and smoking wagons full of wet straw. People fought hard at barricades in every direction amid screams, gunshots, curses, and endless bravery. It was all booming, smashing, and rattling like a furious sea. But through it all stood the deep ditch, the single drawbridge, the massive stone walls, and the eight huge towers. And there was Defarge at his cannon, now twice as hot after four fierce hours of fighting.',
+    'P045_1': 'The force of the crowd carrying him forward was so strong that he couldn\'t even catch his breath or turn his head. It felt like struggling in the rough ocean surf until he was finally dumped into the outer courtyard of the Bastille.',
+    'P045_2': 'There, leaning against the corner of a wall, he fought just to get a look around.',
+    'P045_4': 'Everywhere he looked there was chaos, wild excitement, and a deafening, crazy confusion. The noise was unbelievable, yet it all looked like a furious, silent movie playing out in front of him.',
+    'P050_1': 'Out of all the screams and thousands of confusing shouts, "The Prisoners!" was the most popular cry among the massive crowd rushing in. It seemed like there was an endless supply of people pouring through.',
+    'P050_2': 'As the front lines of the crowd pushed past, dragging the prison officers along and threatening to kill them if they hid any secret rooms, Defarge grabbed one of them. He yanked a gray-haired man holding a lit torch away from the group and pinned him against the wall.',
+    'P051_1': '"Show me the North Tower!" Defarge demanded. "Quick!"\n"I promise I will," the man replied, "if you\'ll come with me."',
+    'P053_2': 'Or do I need to kill you right here?"',
+    'P057_1': 'Jacques Three, always hungry for violence, looked disappointed that they weren\'t going to kill the guard right away. He grabbed Defarge\'s arm while Defarge held onto the jailer.',
+    'P057_2': 'The three of them had to press their heads together just to hear each other. The roar of the massive crowd bursting into the fortress and flooding its courtyards, hallways, and stairs was incredibly loud.',
+    'P057_3': 'Outside, the noise pounded against the walls like a deep, rough roar, with scattered shouts occasionally leaping into the air like ocean spray.',
+    'P058': 'They rushed through dark, gloomy vaults that had never seen sunlight, passing awful doors to dark cages. They ran down huge flights of stairs and then climbed up steep, rough brick and stone steps that looked more like dry waterfalls than staircases. Defarge, the jailer, and Jacques Three linked arms and moved as fast as they could. At first, the flooding crowd would bump into them and sweep past, but by the time they finished going down and started winding their way up a tower, they were all alone. Surrounded by massive walls and arches, the crazy storm inside and outside the fortress sounded muffled. It was like the noise they had just escaped had almost ruined their hearing.',
+    'P059': 'The jailer stopped at a low door, stuck a key into a loud lock, and swung the door open slowly. As they all ducked their heads to walk inside, he said:',
+    'P060_1': '"One hundred and five, North Tower!" Inside, there was a small window high up on the wall with thick iron bars and no glass. It had a stone screen in front of it, so you had to stoop low and look up just to see the sky. A few feet away, there was a small chimney with heavy bars across it, and a pile of soft, old wood ashes sitting in the fireplace.',
+    'P060_2': 'There was a stool, a table, and a bed made of straw. The room had four blackened walls, and one of them had a rusty iron ring attached to it.',
+    'P065_1': '"Alexandre Manette," Defarge whispered in his ear, tracing the letters with a finger covered in gunpowder. "And here he wrote \'a poor physician.\' It was definitely him who scratched this calendar on the stone."',
+    'P066': 'He still had his cannon\'s firing stick in his hand. He suddenly swapped it with his crowbar, turned toward the old, worm-eaten stool and table, and smashed them to pieces in just a few swings.',
+    'P067_1': '"Hold the light higher!" he snapped angrily at the jailer. "Look carefully through those broken pieces, Jacques."',
+    'P068_2': 'After a few minutes, some cement and dust fell down, and he turned his face away to avoid it. He carefully felt around in the dirt, the old wood ashes, and a crack in the chimney where his tool had slipped.',
+    'P072_2': 'Ducking again to get out through the low door, they left the fire burning and headed back down to the courtyard. As they went lower, their hearing seemed to come back, right up until they stepped into the roaring crowd once again.',
+    'P073_2': 'The people of Saint Antoine loudly demanded that their wine-shop owner lead the guards escorting the governor who had defended the Bastille and ordered the shooting of the crowd. Without him, the governor wouldn\'t be taken to the City Hall for his trial.',
+    'P074': 'In the screaming, angry chaos surrounding the grim old officer in his gray coat and red medal, only one figure stood perfectly steady: a woman. "Look, there\'s my husband!" she yelled, pointing at him. "See Defarge!" She stood firmly next to the grim old officer and stayed glued to him as Defarge and the crowd dragged him through the streets. She stayed right next to him as they neared City Hall and people started hitting him from behind. She didn\'t budge even when a rain of stabs and heavy blows fell on him. She was so close that when he finally dropped dead, she suddenly sprang into action, stepped on his neck, and used her cruel, ready knife to hack off his head.',
+    'P075_1': 'The time had come for Saint Antoine to carry out its horrible idea of hanging men from lampposts to show off its power.',
+    'P075_2': 'Saint Antoine\'s blood was boiling, while the blood of tyranny and cruel control spilled out—down on the steps of the City Hall where the governor\'s body lay, and down on Madame Defarge\'s shoe where she had stepped to steady the body while cutting it. "Lower that lamp over there!" yelled the crowd of Saint Antoine, looking for another way to kill. "Here\'s one of his soldiers to leave on guard!" The dead guard was strung up to swing from the lamppost, and the massive crowd rushed on.',
+    'P076': 'It was a sea of dark, threatening waters, crashing wave against wave in a destructive force that no one fully understood yet. This merciless sea was made of wildly swaying bodies, screaming for revenge, with faces so hardened by years of suffering that no amount of pity could soften them.',
+    'P077_1': 'But within that sea of furious, fierce faces, there were two distinct groups of seven faces each. They stood out so sharply from the rest of the crowd that they looked like the most unforgettable shipwrecks ever tossed by the waves.',
+    'P077_2': 'The seven faces belonged to prisoners who had suddenly been freed by the riot that broke open their cells. They were carried high above the crowd, looking terrified, lost, and completely amazed. They looked like it was the end of the world, staring at the cheering people around them as if they were ghosts.',
+    'P077_4': 'Their faces were totally blank, frozen in a terrifying pause. It was as if they hadn\'t even opened their eyes yet, waiting to say with their pale lips, "YOU DID THIS!"',
+    'P078_3': 'They are reckless, mad, and dangerous. And for years after that spilled wine cask outside Defarge\'s shop, those hands wouldn\'t easily be washed clean once they were stained red.'
+}
+
+json_path = 'c:/git_repo/TKprof_book/books/two_cities/json/book2_ch_21.json'
+with open(json_path, 'r', encoding='utf-8') as f:
+    data = json.load(f)
+
+for block in data:
+    if block['tag'] in rewrites:
+        block['en'] = rewrites[block['tag']]
+
+with open(json_path, 'w', encoding='utf-8') as f:
+    json.dump(data, f, indent=2, ensure_ascii=False)

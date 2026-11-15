@@ -1,0 +1,946 @@
+[
+  {
+    "id": 1,
+    "tag": "P001",
+    "raw": "CHAPTER III. The Shadow",
+    "en": "[Chapter 3] The Shadow",
+    "ko": "",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P002_1",
+    "raw": "One of the first considerations which arose in the business mind of Mr.",
+    "en": "One of the first thoughts that popped into the business-minded head of Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P002_2",
+    "raw": "Lorry when business hours came round, was this:--that he had no right to imperil Tellson’s by sheltering the wife of an emigrant prisoner under the Bank roof.",
+    "en": "Lorry thought about when the bank opened was that he had no right to put Tellson's Bank in danger by keeping the wife of a French exile prisoner under the bank's roof.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P002_3",
+    "raw": "His own possessions, safety, life, he would have hazarded for Lucie and her child, without a moment’s demur; but the great trust he held was not his own, and as to that business charge he was a strict man of business.",
+    "en": "He would have risked his own money, safety, and life for Lucie and her child without hesitation. However, the bank was a trust that did not belong to him, and he had to be a strict businessman about it.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P003_1",
+    "raw": "At first, his mind reverted to Defarge, and he thought of finding out the wine-shop again and taking counsel with its master in reference to the safest dwelling-place in the distracted state of the city.",
+    "en": "At first, he thought of Defarge, wondering if he should go back to the wine shop to ask him where the safest place to stay would be in this chaotic city.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P003_2",
+    "raw": "But, the same consideration that suggested him, repudiated him; he lived in the most violent Quarter, and doubtless was influential there, and deep in its dangerous workings.",
+    "en": "But the same reason that made him think of Defarge also made him change his mind: Defarge lived in the most violent district, was very influential there, and was deeply involved in the dangerous revolution.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P004_1",
+    "raw": "Noon coming, and the Doctor not returning, and every minute’s delay tending to compromise Tellson’s, Mr.",
+    "en": "When noon came and the Doctor had not returned, and with every delay putting the bank at risk, Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P004_2",
+    "raw": "Lorry advised with Lucie.",
+    "en": "Lorry talked with Lucie.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P004_3",
+    "raw": "She said that her father had spoken of hiring a lodging for a short term, in that Quarter, near the Banking-house.",
+    "en": "She said her father had mentioned renting an apartment for a short time in this district, near the bank.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P004_4",
+    "raw": "As there was no business objection to this, and as he foresaw that even if it were all well with Charles, and he were to be released, he could not hope to leave the city, Mr.",
+    "en": "Since there was no business objection to this, and since Mr. Lorry realized that even if Charles were released, they could not leave the city yet, he went out to look for lodgings.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P004_5",
+    "raw": "Lorry went out in quest of such a lodging, and found a suitable one, high up in a removed by-street where the closed blinds in all the other windows of a high melancholy square of buildings marked deserted homes.",
+    "en": "He found a suitable place high up in a quiet side street where the closed shutters of the other windows in a tall, gloomy square showed that the houses were empty.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P005_1",
+    "raw": "To this lodging he at once removed Lucie and her child, and Miss Pross: giving them what comfort he could, and much more than he had himself.",
+    "en": "He immediately moved Lucie, her child, and Miss Pross to this apartment, making them as comfortable as possible, much more comfortable than he was himself.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P005_2",
+    "raw": "He left Jerry with them, as a figure to fill a doorway that would bear considerable knocking on the head, and returned to his own occupations.",
+    "en": "He left Jerry Cruncher with them as a guard who could handle a fight if necessary, and returned to his work.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P005_3",
+    "raw": "A disturbed and doleful mind he brought to bear upon them, and slowly and heavily the day lagged on with him.",
+    "en": "He felt anxious and sad, and the day dragged on slowly and heavily.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P006_1",
+    "raw": "It wore itself out, and wore him out with it, until the Bank closed.",
+    "en": "The day finally ended, leaving him exhausted by the time the bank closed.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P006_2",
+    "raw": "He was again alone in his room of the previous night, considering what to do next, when he heard a foot upon the stair.",
+    "en": "He was alone again in his room from the night before, thinking about what to do next, when he heard footsteps on the stairs.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P006_3",
+    "raw": "In a few moments, a man stood in his presence, who, with a keenly observant look at him, addressed him by his name.",
+    "en": "A moment later, a man entered, looked at him closely, and called him by name.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P007_1",
+    "raw": "“Your servant,” said Mr.",
+    "en": "“At your service,” Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P007_2",
+    "raw": "Lorry. “Do you know me?”",
+    "en": "Lorry said. “Do you know me?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P008_1",
+    "raw": "He was a strongly made man with dark curling hair, from forty-five to fifty years of age.",
+    "en": "The visitor was a strong man with dark, curly hair, between forty-five and fifty years old.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P008_2",
+    "raw": "For answer he repeated, without any change of emphasis, the words:",
+    "en": "For an answer, he repeated the question in the same tone:",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P009",
+    "raw": "“Do you know me?”",
+    "en": "“Do you know me?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P010",
+    "raw": "“I have seen you somewhere.”",
+    "en": "“I have seen you somewhere.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P011",
+    "raw": "“Perhaps at my wine-shop?”",
+    "en": "“Perhaps at my wine shop?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P012_1",
+    "raw": "Much interested and agitated, Mr.",
+    "en": "Excited and nervous, Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P012_2",
+    "raw": "Lorry said: “You come from Doctor Manette?”",
+    "en": "Lorry said, “You come from Doctor Manette?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P013_1",
+    "raw": "“Yes.",
+    "en": "“Yes.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P013_2",
+    "raw": "I come from Doctor Manette.”",
+    "en": "I come from Doctor Manette.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P014_1",
+    "raw": "“And what says he?",
+    "en": "“And what does he say?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P014_2",
+    "raw": "What does he send me?”",
+    "en": "What did he send for me?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P015_1",
+    "raw": "Defarge gave into his anxious hand, an open scrap of paper.",
+    "en": "Defarge handed him a folded scrap of paper.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P015_2",
+    "raw": "It bore the words in the Doctor’s writing:",
+    "en": "It had these words written in the Doctor's handwriting:",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P016_1",
+    "raw": "“Charles is safe, but I cannot safely leave this place yet.",
+    "en": "“Charles is safe, but I cannot safely leave this place yet.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P016_2",
+    "raw": "I have obtained the favour that the bearer has a short note      from Charles to his wife.",
+    "en": "I have arranged for the messenger to carry a short note from Charles to his wife.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P016_3",
+    "raw": "Let the bearer see his wife.”",
+    "en": "Let the messenger see his wife.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P017",
+    "raw": "It was dated from La Force, within an hour.",
+    "en": "It was dated from La Force, written less than an hour ago.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P018_1",
+    "raw": "“Will you accompany me,” said Mr.",
+    "en": "“Will you come with me,” Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P018_2",
+    "raw": "Lorry, joyfully relieved after reading this note aloud, “to where his wife resides?”",
+    "en": "Lorry said, relieved and happy after reading the note, “to where his wife is staying?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P019",
+    "raw": "“Yes,” returned Defarge.",
+    "en": "“Yes,” Defarge replied.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P020_1",
+    "raw": "Scarcely noticing as yet, in what a curiously reserved and mechanical way Defarge spoke, Mr.",
+    "en": "Without noticing how cold and robotic Defarge's voice sounded, Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P020_2",
+    "raw": "Lorry put on his hat and they went down into the courtyard.",
+    "en": "Lorry put on his hat, and they went down into the courtyard.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P020_3",
+    "raw": "There, they found two women; one, knitting.",
+    "en": "There they found two women, one of whom was knitting.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P021_1",
+    "raw": "“Madame Defarge, surely!” said Mr.",
+    "en": "“Madame Defarge, surely!” said Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P021_2",
+    "raw": "Lorry, who had left her in exactly the same attitude some seventeen years ago.",
+    "en": "Lorry, who remembered leaving her in that exact same pose seventeen years ago.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P022",
+    "raw": "“It is she,” observed her husband.",
+    "en": "“It is she,” her husband remarked.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P023_1",
+    "raw": "“Does Madame go with us?” inquired Mr.",
+    "en": "“Is Madame coming with us?” Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P023_2",
+    "raw": "Lorry, seeing that she moved as they moved.",
+    "en": "Lorry asked, seeing that she walked along with them.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P024_1",
+    "raw": "“Yes.",
+    "en": "“Yes.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P024_2",
+    "raw": "That she may be able to recognise the faces and know the persons.",
+    "en": "So that she can recognize their faces and know who they are.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P024_3",
+    "raw": "It is for their safety.”",
+    "en": "It is for their safety.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P025_1",
+    "raw": "Beginning to be struck by Defarge’s manner, Mr.",
+    "en": "Starting to feel uneasy about Defarge's behavior, Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P025_2",
+    "raw": "Lorry looked dubiously at him, and led the way.",
+    "en": "Lorry looked at him doubtfully and led the way.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P025_3",
+    "raw": "Both the women followed; the second woman being The Vengeance.",
+    "en": "Both women followed them; the second woman was the one known as The Vengeance.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P026_1",
+    "raw": "They passed through the intervening streets as quickly as they might, ascended the staircase of the new domicile, were admitted by Jerry, and found Lucie weeping, alone.",
+    "en": "They walked through the streets as quickly as they could, went up the stairs of the new apartment, and were let in by Jerry.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P026_2",
+    "raw": "She was thrown into a transport by the tidings Mr.",
+    "en": "They found Lucie crying alone.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P026_3",
+    "raw": "Lorry gave her of her husband, and clasped the hand that delivered his note--little thinking what it had been doing near him in the night, and might, but for a chance, have done to him.",
+    "en": "She was filled with joy at the news of her husband and kissed the hand of Defarge as he handed her the note, never imagining what that hand had been doing near Charles the night before, and what it might have done to him if things had gone differently.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P027_1",
+    "raw": "“DEAREST,--Take courage.",
+    "en": "“DEAREST,, Take courage.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P027_2",
+    "raw": "I am well, and your father has       influence around me.",
+    "en": "I am well, and your father has influence here.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P027_3",
+    "raw": "You cannot answer this.",
+    "en": "You cannot reply to this.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P027_4",
+    "raw": "Kiss our child for me.”",
+    "en": "Kiss our child for me.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P028_1",
+    "raw": "That was all the writing.",
+    "en": "That was the entire message.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P028_2",
+    "raw": "It was so much, however, to her who received it, that she turned from Defarge to his wife, and kissed one of the hands that knitted.",
+    "en": "But it meant so much to Lucie that she turned to Madame Defarge and kissed one of the hands that was knitting.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P028_3",
+    "raw": "It was a passionate, loving, thankful, womanly action, but the hand made no response--dropped cold and heavy, and took to its knitting again.",
+    "en": "It was a loving, thankful gesture, but the hand did not respond, it dropped cold and heavy, and then immediately went back to its knitting.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "tag": "P029_1",
+    "raw": "There was something in its touch that gave Lucie a check.",
+    "en": "The cold feel of the hand startled Lucie.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P029_2",
+    "raw": "She stopped in the act of putting the note in her bosom, and, with her hands yet at her neck, looked terrified at Madame Defarge.",
+    "en": "She paused as she was putting the note inside her dress, her hands frozen at her collar, and looked at Madame Defarge in fear.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P029_3",
+    "raw": "Madame Defarge met the lifted eyebrows and forehead with a cold, impassive stare.",
+    "en": "Madame Defarge returned her worried look with a cold, blank stare.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P030_1",
+    "raw": "“My dear,” said Mr.",
+    "en": "“My dear,” Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "tag": "P030_2",
+    "raw": "Lorry, striking in to explain; “there are frequent risings in the streets; and, although it is not likely they will ever trouble you, Madame Defarge wishes to see those whom she has the power to protect at such times, to the end that she may know them--that she may identify them.",
+    "en": "Lorry interrupted to explain, “there are frequent riots in the streets. Although they probably won't bother you, Madame Defarge wants to see the people she has the power to protect during these times, so that she can recognize them.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "tag": "P030_3",
+    "raw": "I believe,” said Mr.",
+    "en": "I believe,” Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "tag": "P030_4",
+    "raw": "Lorry, rather halting in his reassuring words, as the stony manner of all the three impressed itself upon him more and more, “I state the case, Citizen Defarge?”",
+    "en": "Lorry said, hesitating as the cold behavior of the three visitors began to make him nervous, “I am explaining this correctly, Citizen Defarge?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "tag": "P031",
+    "raw": "Defarge looked gloomily at his wife, and gave no other answer than a gruff sound of acquiescence.",
+    "en": "Defarge looked gloomily at his wife and answered only with a rough grunt of agreement.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "tag": "P032_1",
+    "raw": "“You had better, Lucie,” said Mr.",
+    "en": "“You had better bring the dear child here, Lucie,” Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "tag": "P032_2",
+    "raw": "Lorry, doing all he could to propitiate, by tone and manner, “have the dear child here, and our good Pross.",
+    "en": "Lorry said, trying to sound as friendly as possible, “and our good Miss Pross.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "tag": "P032_3",
+    "raw": "Our good Pross, Defarge, is an English lady, and knows no French.”",
+    "en": "Our friend Pross, Defarge, is an English lady and doesn't speak French.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "tag": "P033_1",
+    "raw": "The lady in question, whose rooted conviction that she was more than a match for any foreigner, was not to be shaken by distress and, danger, appeared with folded arms, and observed in English to The Vengeance, whom her eyes first encountered, “Well, I am sure, Boldface!",
+    "en": "Miss Pross, who firmly believed she was more than a match for any foreigner even in times of danger, came in with her arms crossed. Looking at The Vengeance, she said in English, “Well, I must say, Boldface!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "tag": "P033_2",
+    "raw": "I hope _you_ are pretty well!” She also bestowed a British cough on Madame Defarge; but, neither of the two took much heed of her.",
+    "en": "I hope _you_ are doing well!” She also coughed loudly at Madame Defarge, but neither woman paid any attention to her.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "tag": "P034",
+    "raw": "“Is that his child?” said Madame Defarge, stopping in her work for the first time, and pointing her knitting-needle at little Lucie as if it were the finger of Fate.",
+    "en": "“Is that his child?” Madame Defarge asked, stopping her knitting for the first time and pointing her needle at little Lucie like the finger of fate.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "tag": "P035_1",
+    "raw": "“Yes, madame,” answered Mr.",
+    "en": "“Yes, madame,” Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "tag": "P035_2",
+    "raw": "Lorry; “this is our poor prisoner’s darling daughter, and only child.”",
+    "en": "Lorry answered. “This is our poor prisoner's darling daughter and only child.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "tag": "P036_1",
+    "raw": "The shadow attendant on Madame Defarge and her party seemed to fall so threatening and dark on the child, that her mother instinctively kneeled on the ground beside her, and held her to her breast.",
+    "en": "The threatening presence of Madame Defarge and her companions seemed to cast such a dark shadow over the child that Lucie instinctively knelt down and held her daughter to her chest.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "tag": "P036_2",
+    "raw": "The shadow attendant on Madame Defarge and her party seemed then to fall, threatening and dark, on both the mother and the child.",
+    "en": "The dark and threatening shadow that followed Madame Defarge and her group seemed to fall right onto both the mother and the child.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "tag": "P037_1",
+    "raw": "“It is enough, my husband,” said Madame Defarge. “I have seen them.",
+    "en": "“It is enough, husband,” Madame Defarge said. “I have seen them.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "tag": "P037_2",
+    "raw": "We may go.”",
+    "en": "We can go.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "tag": "P038",
+    "raw": "But, the suppressed manner had enough of menace in it--not visible and presented, but indistinct and withheld--to alarm Lucie into saying, as she laid her appealing hand on Madame Defarge’s dress:",
+    "en": "But her quiet behavior carried such a hidden threat that Lucie was frightened into saying, grabbing Madame Defarge's dress pleadingly:",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "tag": "P039_1",
+    "raw": "“You will be good to my poor husband.",
+    "en": "“Please be kind to my poor husband.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "tag": "P039_2",
+    "raw": "You will do him no harm.",
+    "en": "Do not let them hurt him.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "tag": "P039_3",
+    "raw": "You will help me to see him if you can?”",
+    "en": "Will you help me see him if you can?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "tag": "P040",
+    "raw": "“Your husband is not my business here,” returned Madame Defarge, looking down at her with perfect composure. “It is the daughter of your father who is my business here.”",
+    "en": "“Your husband is not my concern here,” Madame Defarge replied, looking down at her calmly. “I came here to see the daughter of your father.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "tag": "P041_1",
+    "raw": "“For my sake, then, be merciful to my husband.",
+    "en": "“For my sake, then, show mercy to my husband!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "tag": "P041_2",
+    "raw": "For my child’s sake!",
+    "en": "For my child's sake!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "tag": "P041_3",
+    "raw": "She will put her hands together and pray you to be merciful.",
+    "en": "She will fold her hands and beg you to be merciful.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "tag": "P041_4",
+    "raw": "We are more afraid of you than of these others.”",
+    "en": "We are more afraid of you than of anyone else.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "tag": "P042_1",
+    "raw": "Madame Defarge received it as a compliment, and looked at her husband.",
+    "en": "Madame Defarge took this as a compliment and looked at her husband.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "tag": "P042_2",
+    "raw": "Defarge, who had been uneasily biting his thumb-nail and looking at her, collected his face into a sterner expression.",
+    "en": "Defarge, who had been nervously biting his nail and watching her, forced his face into a stern expression.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "tag": "P043",
+    "raw": "“What is it that your husband says in that little letter?” asked Madame Defarge, with a lowering smile. “Influence; he says something touching influence?”",
+    "en": "“What does your husband say in that little letter?” Madame Defarge asked with a dark smile. “Influence? Did he mention something about influence?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "tag": "P044",
+    "raw": "“That my father,” said Lucie, hurriedly taking the paper from her breast, but with her alarmed eyes on her questioner and not on it, “has much influence around him.”",
+    "en": "“He says my father,” Lucie said, quickly pulling out the paper but keeping her eyes fixed on Madame Defarge, “has a lot of influence there.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "tag": "P045",
+    "raw": "“Surely it will release him!” said Madame Defarge. “Let it do so.”",
+    "en": "“Then surely it will set him free!” Madame Defarge said. “Let it do that.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "tag": "P046_1",
+    "raw": "“As a wife and mother,” cried Lucie, most earnestly, “I implore you to have pity on me and not to exercise any power that you possess, against my innocent husband, but to use it in his behalf.",
+    "en": "“As a wife and mother,” Lucie cried out very seriously, “I beg you to have pity on me! Please don't use any power you have against my innocent husband, but instead use it to help him.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "tag": "P046_2",
+    "raw": "O sister-woman, think of me.",
+    "en": "Do not use your power against my innocent husband, but help him instead.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "tag": "P046_3",
+    "raw": "As a wife and mother!”",
+    "en": "Oh, think of me as another woman, as a wife and mother!”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "tag": "P047",
+    "raw": "Madame Defarge looked, coldly as ever, at the suppliant, and said, turning to her friend The Vengeance:",
+    "en": "Madame Defarge looked at the pleading woman as coldly as ever, and turned to her friend The Vengeance:",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "tag": "P048_1",
+    "raw": "“The wives and mothers we have been used to see, since we were as little as this child, and much less, have not been greatly considered?",
+    "en": "“Have the wives and mothers we have seen since we were children ever been treated with mercy?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "tag": "P048_2",
+    "raw": "We have known _their_ husbands and fathers laid in prison and kept from them, often enough?",
+    "en": "Haven't we seen _their_ husbands and fathers thrown in prison and kept from them for years?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 104,
+    "tag": "P048_3",
+    "raw": "All our lives, we have seen our sister-women suffer, in themselves and in their children, poverty, nakedness, hunger, thirst, sickness, misery, oppression and neglect of all kinds?”",
+    "en": "All our lives, haven't we watched other women and their children suffer poverty, starvation, sickness, pain, and oppression?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 105,
+    "tag": "P049",
+    "raw": "“We have seen nothing else,” returned The Vengeance.",
+    "en": "“We have seen nothing else,” The Vengeance replied.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 106,
+    "tag": "P050",
+    "raw": "“We have borne this a long time,” said Madame Defarge, turning her eyes again upon Lucie. “Judge you! Is it likely that the trouble of one wife and mother would be much to us now?”",
+    "en": "“We have suffered this for a very long time,” Madame Defarge said, turning back to Lucie. “So tell me: why should the trouble of one single wife and mother matter to us now?”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 107,
+    "tag": "P051_1",
+    "raw": "She resumed her knitting and went out.",
+    "en": "She went back to her knitting and walked out of the room.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 108,
+    "tag": "P051_2",
+    "raw": "The Vengeance followed. Defarge went last, and closed the door.",
+    "en": "The Vengeance followed her, and Defarge left last, closing the door behind him.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 109,
+    "tag": "P052_1",
+    "raw": "“Courage, my dear Lucie,” said Mr.",
+    "en": "“Have courage, my dear Lucie,” Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 110,
+    "tag": "P052_2",
+    "raw": "Lorry, as he raised her. “Courage, courage!",
+    "en": "Lorry said as he helped her up. “Courage, courage!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 111,
+    "tag": "P052_3",
+    "raw": "So far all goes well with us--much, much better than it has of late gone with many poor souls.",
+    "en": "So far, everything is going well for us, much better than for many other poor souls.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 112,
+    "tag": "P052_4",
+    "raw": "Cheer up, and have a thankful heart.”",
+    "en": "Cheer up and try to be hopeful.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 113,
+    "tag": "P053",
+    "raw": "“I am not thankless, I hope, but that dreadful woman seems to throw a shadow on me and on all my hopes.”",
+    "en": "“I am not ungrateful, but that terrifying woman seems to cast a dark shadow over all my hopes.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 114,
+    "tag": "P054_1",
+    "raw": "“Tut, tut!” said Mr.",
+    "en": "“Come, come!” Mr.",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 115,
+    "tag": "P054_2",
+    "raw": "Lorry; “what is this despondency in the brave little breast?",
+    "en": "Lorry said. “Why is my brave girl losing heart?",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 116,
+    "tag": "P054_3",
+    "raw": "A shadow indeed!",
+    "en": "A shadow is just a shadow!",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 117,
+    "tag": "P054_4",
+    "raw": "No substance in it, Lucie.”",
+    "en": "There is nothing real to fear in it, Lucie.”",
+    "ko": "",
+    "is_header": false
+  },
+  {
+    "id": 118,
+    "tag": "P055",
+    "raw": "But the shadow of the manner of these Defarges was dark upon himself, for all that, and in his secret mind it troubled him greatly.",
+    "en": "But the dark attitude of the Defarges worried Mr. Lorry deeply as well, though he kept his fears to himself.",
+    "ko": "",
+    "is_header": false
+  }
+]

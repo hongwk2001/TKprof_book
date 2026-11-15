@@ -1,0 +1,111 @@
+{
+  "pending_items": 352,
+  "batch_count": 15,
+  "batches": [
+    {
+      "batch_id": "ch_01",
+      "file": "batches/batch_ch_01.json",
+      "item_count": 17,
+      "raw_words": 2320,
+      "sentence_count": 104
+    },
+    {
+      "batch_id": "ch_02",
+      "file": "batches/batch_ch_02.json",
+      "item_count": 12,
+      "raw_words": 2243,
+      "sentence_count": 81
+    },
+    {
+      "batch_id": "ch_03",
+      "file": "batches/batch_ch_03.json",
+      "item_count": 25,
+      "raw_words": 3040,
+      "sentence_count": 125
+    },
+    {
+      "batch_id": "ch_04",
+      "file": "batches/batch_ch_04.json",
+      "item_count": 15,
+      "raw_words": 2776,
+      "sentence_count": 108
+    },
+    {
+      "batch_id": "ch_05",
+      "file": "batches/batch_ch_05.json",
+      "item_count": 27,
+      "raw_words": 2734,
+      "sentence_count": 151
+    },
+    {
+      "batch_id": "ch_06",
+      "file": "batches/batch_ch_06.json",
+      "item_count": 27,
+      "raw_words": 2657,
+      "sentence_count": 118
+    },
+    {
+      "batch_id": "ch_07",
+      "file": "batches/batch_ch_07.json",
+      "item_count": 19,
+      "raw_words": 3381,
+      "sentence_count": 164
+    },
+    {
+      "batch_id": "ch_08",
+      "file": "batches/batch_ch_08.json",
+      "item_count": 24,
+      "raw_words": 2777,
+      "sentence_count": 122
+    },
+    {
+      "batch_id": "ch_09",
+      "file": "batches/batch_ch_09.json",
+      "item_count": 22,
+      "raw_words": 2959,
+      "sentence_count": 175
+    },
+    {
+      "batch_id": "ch_10",
+      "file": "batches/batch_ch_10.json",
+      "item_count": 28,
+      "raw_words": 2970,
+      "sentence_count": 146
+    },
+    {
+      "batch_id": "ch_11",
+      "file": "batches/batch_ch_11.json",
+      "item_count": 17,
+      "raw_words": 2848,
+      "sentence_count": 161
+    },
+    {
+      "batch_id": "ch_12",
+      "file": "batches/batch_ch_12.json",
+      "item_count": 35,
+      "raw_words": 3011,
+      "sentence_count": 140
+    },
+    {
+      "batch_id": "ch_13",
+      "file": "batches/batch_ch_13.json",
+      "item_count": 21,
+      "raw_words": 2422,
+      "sentence_count": 123
+    },
+    {
+      "batch_id": "ch_14",
+      "file": "batches/batch_ch_14.json",
+      "item_count": 24,
+      "raw_words": 2786,
+      "sentence_count": 224
+    },
+    {
+      "batch_id": "ch_15",
+      "file": "batches/batch_ch_15.json",
+      "item_count": 39,
+      "raw_words": 3377,
+      "sentence_count": 218
+    }
+  ]
+}

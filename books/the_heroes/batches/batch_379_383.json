@@ -1,0 +1,113 @@
+[
+  {
+    "id": 379,
+    "tag": "P0379",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "PART IV HOW THE ARGONAUTS SAILED TO COLCHIS",
+    "is_header": true,
+    "word_count": 8,
+    "translation": [
+      {
+        "id": 1,
+        "en": "Part IV: How the Argonauts Sailed to Colchis",
+        "kr": "4부: 아르고 호 원정대가 콜키스로 향하다"
+      }
+    ]
+  },
+  {
+    "id": 380,
+    "tag": "P0380",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "And what happened next, my children, whether it be true or not, stands written in ancient songs, which you shall read for yourselves some day. And grand old songs they are, written in grand old rolling verse; and they call them the Songs of Orpheus, or the Orphics, to this day.  And they tell how the heroes came to Aphetai, across the bay, and waited for the south-west wind, and chose themselves a captain from their crew: and how all called for Heracles, because he was the strongest and most huge; but Heracles refused, and called for Jason, because he was the wisest of them all.  So Jason was chosen captain; and Orpheus heaped a pile of wood, and slew a bull, and offered it to Hera, and called all the heroes to stand round, each mans head crowned with olive, and to strike their swords into the bull.  Then he filled a golden goblet with the bulls blood, and with wheaten flour, and honey, and wine, and the bitter salt-sea water, and bade the heroes taste.  So each tasted the goblet, and passed it round, and vowed an awful vow: and they vowed before the sun, and the night, and the blue-haired sea who shakes the land, to stand by Jason faithfully in the adventure of the golden fleece; and whosoever shrank back, or disobeyed, or turned traitor to his vow, then justice should minister against him, and the Erinnues who track guilty men.",
+    "is_header": false,
+    "word_count": 245,
+    "translation": [
+      {"id": 1, "en": "My children, what happened next stands written in ancient songs that you may read for yourselves someday.", "kr": "아이들아, 다음으로 무슨 일이 일어났는지는 훗날 여러분이 직접 읽게 될 오래된 노래에 기록되어 있답니다."},
+      {"id": 2, "en": "These magnificent old songs are written in grand, rolling verses.", "kr": "이 장엄하고 오래된 노래들은 아주 크고 웅장한 운율로 쓰였지요."},
+      {"id": 3, "en": "To this day, they are called the Songs of Orpheus, or the Orphics.", "kr": "오늘날까지도 사람들은 이를 오르페우스의 노래라고 부른답니다."},
+      {"id": 4, "en": "They tell how the heroes crossed the bay to Aphetai and waited for the southwest wind.", "kr": "노래는 영웅들이 만을 건너 아페타이에 도착해 남서풍을 기다린 이야기를 들려줍니다."},
+      {"id": 5, "en": "There, they needed to choose a captain from among their crew.", "kr": "그곳에서 그들은 일행을 이끌 선장을 뽑아야 했습니다."},
+      {"id": 6, "en": "Everyone called for Heracles because he was the strongest and most massive of them all.", "kr": "모두가 헤라클레스를 외쳤는데, 그가 가장 힘이 세고 체격이 컸기 때문이지요."},
+      {"id": 7, "en": "But Heracles refused and instead nominated Jason, for he was the wisest among them.", "kr": "하지만 헤라클레스는 거절하며, 그들 중 가장 지혜로운 이아손을 추천했습니다."},
+      {"id": 8, "en": "So Jason was chosen as their captain.", "kr": "그리하여 이아손이 선장으로 뽑혔습니다."},
+      {"id": 9, "en": "Orpheus then gathered a pile of wood, sacrificed a bull, and offered it to Hera.", "kr": "그러자 오르페우스가 장작을 쌓고 황소를 제물로 바쳐 헤라 여신에게 바쳤습니다."},
+      {"id": 10, "en": "He called all the heroes, wearing olive crowns, to strike their swords into the bull.", "kr": "그는 올리브 관을 쓴 영웅들을 모두 불러 모아 황소에 칼을 꽂게 했습니다."},
+      {"id": 11, "en": "He filled a golden goblet with the bull's blood, flour, honey, wine, and salty seawater.", "kr": "그는 황금 잔에 황소의 피와 밀가루, 꿀, 포도주, 그리고 짠 바닷물을 채웠습니다."},
+      {"id": 12, "en": "Orpheus then asked the heroes to taste the mixture.", "kr": "오르페우스는 영웅들에게 그 잔을 맛보라고 했습니다."},
+      {"id": 13, "en": "Each man tasted the goblet, passed it around, and swore a solemn oath.", "kr": "각자 잔을 맛보고 돌려 마시며 엄숙한 맹세를 맺었습니다."},
+      {"id": 14, "en": "They vowed before the sun, the night, and the mighty sea god to stand faithfully by Jason.", "kr": "그들은 태양과 밤, 그리고 강력한 바다의 신 앞에서 이아손을 충실히 따르겠다고 맹세했습니다."},
+      {"id": 15, "en": "Whoever backed down, disobeyed, or betrayed the vow would face justice.", "kr": "누구든 물러서거나 명령을 어기고 맹세를 배반하는 자는 심판을 받을 것이라 다짐했지요."},
+      {"id": 16, "en": "The Furies, who relentlessly track guilty men, would hunt down any traitor.", "kr": "죄지은 자를 끝까지 추적하는 복수의 여신들이 배신자를 사냥할 것이었습니다."}
+    ]
+  },
+  {
+    "id": 381,
+    "tag": "P0381",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "Then Jason lighted the pile, and burnt the carcase of the bull; and they went to their ship and sailed eastward, like men who have a work to do; and the place from which they went was called Aphetai, the sailing-place, from that day forth.  Three thousand years and more they sailed away, into the unknown Eastern seas; and great nations have come and gone since then, and many a storm has swept the earth; and many a mighty armament, to which _Argo_ would be but one small boat; English and French, Turkish and Russian, have sailed those waters since; yet the fame of that small _Argo_ lives for ever, and her name is become a proverb among men.",
+    "is_header": false,
+    "word_count": 119,
+    "translation": [
+      {"id": 1, "en": "Then Jason lit the pyre and burned the carcass of the bull.", "kr": "그 후 이아손이 장작더미에 불을 붙여 황소의 몸을 태웠습니다."},
+      {"id": 2, "en": "They boarded their ship and sailed eastward, determined to complete their task.", "kr": "그들은 배에 올라타 임무를 완수하겠다는 결의를 다지며 동쪽으로 항해했습니다."},
+      {"id": 3, "en": "From that day on, the place they departed from was called Aphetai, the sailing-place.", "kr": "그날 이후로 그들이 떠난 곳은 출발지라는 뜻의 아페타이로 불렸습니다."},
+      {"id": 4, "en": "They sailed into the unknown Eastern seas over three thousand years ago.", "kr": "그들은 3천 년도 더 전에 미지의 동쪽 바다로 항해를 떠났습니다."},
+      {"id": 5, "en": "Since then, great nations have risen and fallen, and many storms have swept the earth.", "kr": "그 이래로 위대한 국가들이 일어섰다 쓰러졌고, 수많은 폭풍이 세상을 휩쓸었습니다."},
+      {"id": 6, "en": "Mighty fleets, compared to which the Argo would be but a small boat, have sailed those waters.", "kr": "아르고 호가 그저 작은 조각배로 보일 만큼 거대한 함대들이 그 바다를 항해했지요."},
+      {"id": 7, "en": "English, French, Turkish, and Russian ships have all passed through since.", "kr": "영국, 프랑스, 튀르키예, 러시아의 배들이 모두 그곳을 지나갔습니다."},
+      {"id": 8, "en": "Yet the fame of that small Argo lives forever, and its name remains a legend among men.", "kr": "하지만 작디작은 아르고 호의 명성은 영원히 살아남아, 그 이름은 사람들 사이에서 전설이 되었습니다."}
+    ]
+  },
+  {
+    "id": 382,
+    "tag": "P0382",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "So they sailed past the Isle of Sciathos, with the Cape of Sepius on their left, and turned to the northward toward Pelion, up the long Magnesian shore.  On their right hand was the open sea, and on their left old Pelion rose, while the clouds crawled round his dark pine-forests, and his caps of summer snow.  And their hearts yearned for the dear old mountain, as they thought of pleasant days gone by, and of the sports of their boyhood, and their hunting, and their schooling in the cave beneath the cliff.  And at last Peleus spoke, Let us land here, friends, and climb the dear old hill once more.  We are going on a fearful journey; who knows if we shall see Pelion again?  Let us go up to Cheiron our master, and ask his blessing ere we start.  And I have a boy, too, with him, whom he trains as he trained me oncethe son whom Thetis brought me, the silver-footed lady of the sea, whom I caught in the cave, and tamed her, though she changed her shape seven times.  For she changed, as I held her, into water, and to vapour, and to burning flame, and to a rock, and to a black-maned lion, and to a tall and stately tree.  But I held her and held her ever, till she took her own shape again, and led her to my fathers house, and won her for my bride.  And all the rulers of Olympus came to our wedding, and the heavens and the earth rejoiced together, when an Immortal wedded mortal man.  And now let me see my son; for it is not often I shall see him upon earth: famous he will be, but short-lived, and die in the flower of youth.",
+    "is_header": false,
+    "word_count": 299,
+    "translation": [
+      {"id": 1, "en": "They sailed past the Isle of Sciathos, leaving the Cape of Sepias on their left.", "kr": "그들은 세피아스 곶을 왼쪽에 두고 스키아토스 섬을 지나 항해했습니다."},
+      {"id": 2, "en": "Then they turned northward toward Pelion, sailing up the long Magnesian shore.", "kr": "그러고는 마그네시아의 긴 해안을 따라 펠리온 산을 향해 북쪽으로 방향을 틀었습니다."},
+      {"id": 3, "en": "On their right was the open sea, and on their left rose old Mount Pelion.", "kr": "오른쪽에는 탁 트인 바다가 있었고, 왼쪽에는 오래된 펠리온 산이 솟아 있었습니다."},
+      {"id": 4, "en": "Clouds crawled around its dark pine forests and its peaks of summer snow.", "kr": "어두운 소나무 숲과 여름에도 눈이 덮인 산봉우리 주위로 구름이 천천히 흘러갔습니다."},
+      {"id": 5, "en": "Their hearts yearned for the dear old mountain as they recalled their pleasant past.", "kr": "그들은 즐거웠던 과거를 떠올리며 그리운 옛 산을 향해 마음이 끌렸습니다."},
+      {"id": 6, "en": "They remembered their boyhood games, their hunting, and their schooling in the cliffside cave.", "kr": "어린 시절의 놀이와 사냥, 절벽 아래 동굴에서 가르침을 받던 때를 기억했지요."},
+      {"id": 7, "en": "At last Peleus spoke, Let us land here, friends, and climb the dear old hill once more.", "kr": "마침내 펠레우스가 말했습니다. 친구들, 여기서 상륙해 그리운 옛 산을 다시 한번 올라갑시다."},
+      {"id": 8, "en": "We are going on a fearful journey, and who knows if we shall ever see Pelion again?", "kr": "우리는 두려운 여정을 떠나는데, 펠리온 산을 다시 볼 수 있을지 누가 알겠습니까?"},
+      {"id": 9, "en": "Let us go up to our master Chiron and ask for his blessing before we depart.", "kr": "우리의 스승이신 키론 님께 올라가 출발하기 전에 축복을 청합시다."},
+      {"id": 10, "en": "I also have a boy with him, whom he trains just as he once trained me.", "kr": "그곳에는 스승님이 예전의 나처럼 가르치고 있는 내 아들도 있소."},
+      {"id": 11, "en": "He is the son given to me by Thetis, the silver-footed lady of the sea.", "kr": "은빛 발을 가진 바다의 여인 테티스가 내게 낳아준 아들이지요."},
+      {"id": 12, "en": "I caught her in the cave and tamed her, even though she changed her shape seven times.", "kr": "동굴에서 그녀를 붙잡아 길들였는데, 그녀는 무려 일곱 번이나 모습을 바꾸었소."},
+      {"id": 13, "en": "As I held her, she turned into water, vapor, burning flame, and a rock.", "kr": "내가 붙들고 있는 동안 그녀는 물, 수증기, 타오르는 불꽃, 그리고 바위로 변했습니다."},
+      {"id": 14, "en": "She even became a black-maned lion and a tall, stately tree.", "kr": "심지어 검은 갈기의 사자와 키가 크고 위풍당당한 나무로도 변했지요."},
+      {"id": 15, "en": "But I held on tightly until she returned to her true shape.", "kr": "하지만 그녀가 원래의 모습을 되찾을 때까지 나는 단단히 붙잡고 있었습니다."},
+      {"id": 16, "en": "Then I led her to my father's house and won her as my bride.", "kr": "그러고는 그녀를 내 아버지의 집으로 이끌어 신부로 맞이했소."},
+      {"id": 17, "en": "All the rulers of Olympus attended our wedding.", "kr": "올림포스의 모든 지배자들이 우리 결혼식에 참석했습니다."},
+      {"id": 18, "en": "Heaven and earth rejoiced together when an immortal wedded a mortal man.", "kr": "불멸의 존재가 필멸의 인간과 결혼하자 하늘과 땅이 함께 기뻐했지요."},
+      {"id": 19, "en": "Now let me see my son, for I shall not often see him on earth.", "kr": "이제 내 아들을 보게 해주시오, 이 땅에서 그 아이를 자주 볼 수 없을 테니까요."},
+      {"id": 20, "en": "He will be famous, but his life will be short, and he will die in the flower of youth.", "kr": "그는 유명해질 테지만, 수명이 짧아 꽃다운 젊은 나이에 죽고 말 것이오."}
+    ]
+  },
+  {
+    "id": 383,
+    "tag": "P0383",
+    "chapter_id": "ch_09",
+    "story": "Story II: The Argonauts",
+    "part": "Part IV: How the Argonauts Sailed to Colchis",
+    "raw": "So Tiphys the helmsman steered them to the shore under the crags of Pelion; and they went up through the dark pine-forests towards the Centaurs cave.",
+    "is_header": false,
+    "word_count": 26,
+    "translation": [
+      {"id": 1, "en": "So Tiphys the helmsman steered them to the shore under the crags of Pelion.", "kr": "그리하여 조타수 티피스는 펠리온 산의 암벽 아래 해안으로 배를 몰았습니다."},
+      {"id": 2, "en": "They walked up through the dark pine forests toward the Centaur's cave.", "kr": "그들은 어두운 소나무 숲을 지나 켄타우로스의 동굴을 향해 걸어 올라갔습니다."}
+    ]
+  }
+]

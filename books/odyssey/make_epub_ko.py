@@ -18,7 +18,7 @@ OUTPUT_FILE   = os.path.join(BASE_DIR, "odyssey_ko.epub")
 # ── CSS Style ─────────────────────────────────────────────────────────────────
 STYLE = """
 body {
-    font-family: 'Noto Serif KR', 'KoPubWorldBatang', 'Batang', serif;
+    font-family: 'KoPubWorldBatang', 'Batang', 'Noto Serif CJK KR', serif;
     font-size: 1em;
     line-height: 1.8;
     margin: 1.5em 2em;
@@ -279,6 +279,7 @@ def main():
         
     with zipfile.ZipFile(OUTPUT_FILE, "w", zipfile.ZIP_DEFLATED) as epub:
         epub.writestr("mimetype", "application/epub+zip", compress_type=zipfile.ZIP_STORED)
+        epub.writestr("META-INF/container.xml", container_content)
         cover_cand = [
             os.path.join(BASE_DIR, "cover_ko.png"),
             os.path.join(BASE_DIR, "cover_ko.jpg"),

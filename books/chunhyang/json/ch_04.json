@@ -1,0 +1,584 @@
+[
+ {
+  "id": 1,
+  "tag": "P0001",
+  "chapter_id": "ch_04",
+  "type": "header",
+  "pages": [
+   "014a",
+   "018b"
+  ],
+  "src": "",
+  "ko_title": "글이 눈에 들어오지 않는 밤",
+  "en_title": "A Night Too Long for Study",
+  "sentences": []
+ },
+ {
+  "id": 2,
+  "tag": "P0002",
+  "chapter_id": "ch_04",
+  "type": "passage",
+  "editorial": false,
+  "src": "잇때도련임이춘향을의연이보낸후의미망이둘대업서치실노도라와만사의뜻시업고다만생각이춘향이라말소리귀에정정고흔태도눈의삼삼해지기를기달일세방자불너해가엇으때나되엿난야동으서아구트난이다도련임대로하야이놈괘심한놈서으로지난해가동으로도로가라다시금살펴보라이으고방자엿자오대일낙함지황혼되고월출동영하옵니다석반이마시업서전전반칙어이하리퇴령을기달일라하고서책을보려할제책상을압푸노코서책을상고하난듸중용대학논어밍자시전서전주역이며고문진보통사략리백두시천자까지너여노코글을실글시 ○ 시전이라관관저구저하지주로다요조숙녀난군자호귀로다아서라그글도못일으거시다 ○ 대학을일글세대학지도난지명명덕하며직신민하며지춘향이로다그글도못일거시다 ○ 주역을이난대원은형코정코춘향이코내코조코한이라그글도못일것다",
+  "sentences": [
+   {
+    "n": 1,
+    "ko": "이때 도련님은 춘향을 마지못해 보낸 뒤 그리운 마음 둘 데가 없어 책방으로 돌아온다.",
+    "en": "At this time, Master Yi returns to his study after reluctantly letting Chunhyang go. He has no place to put his longing heart."
+   },
+   {
+    "n": 2,
+    "ko": "만사에 뜻이 없고 오직 춘향 생각뿐이다. 목소리는 귀에 쟁쟁하고 고운 모습은 눈에 삼삼하다.",
+    "en": "He has no interest in anything else; he only thinks of Chunhyang. Her voice rings in his ears and her beautiful face stays in his eyes."
+   },
+   {
+    "n": 3,
+    "ko": "해 지기를 기다리다 방자를 부른다. \"해가 어디쯤 갔느냐?\"",
+    "en": "While waiting for the sun to set, he calls Bangja. \"Where has the sun gone?\""
+   },
+   {
+    "n": 4,
+    "ko": "\"동쪽에서 아직 아귀가 트지도 않았습니다.\"",
+    "en": "\"The sun hasn't even risen in the east yet.\""
+   },
+   {
+    "n": 5,
+    "ko": "도련님이 크게 화를 낸다. \"이 괘씸한 놈! 서쪽으로 지는 해가 동쪽으로 도로 간단 말이냐? 다시 살펴보아라.\"",
+    "en": "Master Yi gets very angry. \"You insolent boy! Are you saying the sun that sets in the west has moved back to the east? Look again.\""
+   },
+   {
+    "n": 6,
+    "ko": "이윽고 방자가 아뢴다. \"해가 서쪽으로 지고 황혼이 되어, 동쪽에서 달이 떠오릅니다.\"",
+    "en": "Soon, Bangja answers. \"The sun set in the west, it is now twilight, and the moon rises in the east.\""
+   },
+   {
+    "n": 7,
+    "ko": "저녁밥도 맛이 없고, 이리 뒤척 저리 뒤척하니 어찌하랴.",
+    "en": "His dinner has no taste, and he can't sit still. What can he do?"
+   },
+   {
+    "n": 8,
+    "ko": "관아 일이 끝나기를 기다리며 책이나 보려고 책상을 앞에 놓는다.",
+    "en": "He waits for the office to close for the night. To pass the time, he puts a desk in front of him to read."
+   },
+   {
+    "n": 9,
+    "ko": "중용, 대학, 논어, 맹자, 시경, 서경, 주역, 고문진보, 통감, 사략, 이백과 두보의 시, 천자문까지 다 내놓고 글을 읽는다.",
+    "en": "He takes out all his books, from the Analects to the Book of Changes, the poems of Li Bai, and even the Thousand Character Classic, and starts to read."
+   },
+   {
+    "n": 10,
+    "ko": "시경을 읽는다. \"구욱구욱 물수리는 강가 모래섬에 있도다. 아리따운 아가씨는 군자의 좋은 짝이로다.\" \"아서라, 이 글도 못 읽겠다.\"",
+    "en": "He reads the Book of Songs. \"Guan, guan, cry the ospreys on the river island. A lovely young lady is a fine match for a gentleman.\" \"Oh no, I can't read this one either.\""
+   },
+   {
+    "n": 11,
+    "ko": "대학을 읽는다. \"대학의 도는 밝은 덕을 밝히는 데 있으며, 백성을 새롭게 하는 데 있으며, 춘향이에 있도다.\" \"이 글도 못 읽겠다.\"",
+    "en": "He reads the Great Learning. \"The way of great learning lies in making virtue shine, in renewing the people, and in Chunhyang.\" \"I can't read this one either.\""
+   },
+   {
+    "n": 12,
+    "ko": "주역을 읽는다. \"원은 형코, 정코, 춘향이 코, 내 코 대니 좋고 하니라.\" \"이 글도 못 읽겠다.\"",
+    "en": "He reads the Book of Changes. \"The Way is great... Chunhyang's nose, my nose, nose to nose, how nice!\" (In Korean, the old words in this book sound like \"ko,\" the word for nose.) \"I can't read this one either.\""
+   }
+  ],
+  "issues": []
+ },
+ {
+  "id": 3,
+  "tag": "P0003",
+  "chapter_id": "ch_04",
+  "type": "passage",
+  "editorial": false,
+  "src": "등왕각이라남창은고군이요홍도난신부로다올타그글되엿다맹자을일을세맹자견양혜왕하신대왕왈수불원천리이내하시니춘향이보시러오신잇가",
+  "sentences": [
+   {
+    "n": 1,
+    "ko": "등왕각서를 읽는다. \"남창은 옛 고을이요, 홍도는 새 고을이로다.\" \"옳다, 이 글은 되었다.\"",
+    "en": "He reads a famous essay about a tower. \"Nanchang is an old town, and Hongdu is a new town.\" \"Good, I can read this one.\""
+   },
+   {
+    "n": 2,
+    "ko": "맹자를 읽는다. \"맹자께서 양나라 혜왕을 뵈니, 왕이 말하기를 '노인께서 천 리를 멀다 않고 오셨으니' 하니, 춘향이 보러 오셨습니까?\"",
+    "en": "He reads the Mencius. \"When Mencius met King Hui of Liang, the king said, 'Sir, you have come a thousand li to see me.'\" \"Have you come to see Chunhyang?\""
+   }
+  ],
+  "issues": []
+ },
+ {
+  "id": 4,
+  "tag": "P0004",
+  "chapter_id": "ch_04",
+  "type": "passage",
+  "editorial": false,
+  "src": "사략을이르대태고라천황씨난이쑥떡으로왕하야세기섭제하니무위이화으라하야천하제섭이안이가일만팔천세하다방자엿자오되여보도련임천황씨가목떡으로왕이란말은들어스되쑥떡으로왕이란말은금시초문이요이자식네모른다천왕씨일만팔천세를살던양반이라이가단단하여목덕을잘자서건이와시속선부덜은목떡을먹건는야공자임계옵서후싱을생각하사명윤당의현몽하고시속선부들른이가부족하야목떡을못먹기로물신신한쑥떡으로곳치라하야삼빅육십주향교의통문하고쑥떡으로곳첫난이라방자듯다가말을하되여보하날임이드르시면깜짝놀날거진말도듯거소또적벽부를드려노코임술지추칠월기망예소자여객으로범주유어적벽지하할세청풍은서래하고수파는불흥이라아서라그글도못일것다",
+  "sentences": [
+   {
+    "n": 1,
+    "ko": "사략을 읽는다. \"태고에 천황씨는 쑥떡으로 왕이 되어 무위로 다스리니, 형제 열둘이 각각 일만 팔천 살을 살았다.\"",
+    "en": "He reads an old history book. \"Long ago, the Heavenly Emperor became king with mugwort rice cakes and ruled without effort. He and his brothers each lived eighteen thousand years.\""
+   },
+   {
+    "n": 2,
+    "ko": "방자가 말한다. \"여보 도련님, 천황씨가 목덕(木德)으로 왕이 되었다는 말은 들었어도, 쑥떡으로 왕이 되었다는 말은 처음 듣습니다.\"",
+    "en": "Bangja says, \"Master, I heard the Heavenly Emperor ruled by the power of wood, mok-deok. I never heard he ruled with mugwort rice cakes, ssuk-tteok!\""
+   },
+   {
+    "n": 3,
+    "ko": "\"이 자식, 네가 모른다. 천황씨는 일만 팔천 살을 산 양반이라 이가 단단해서 목떡(木떡)을 잘 자셨다.\"",
+    "en": "\"You don't know anything! The Heavenly Emperor lived eighteen thousand years, so his teeth were very strong. He could eat wooden cakes, mok-tteok, easily.\""
+   },
+   {
+    "n": 4,
+    "ko": "\"그런데 요즘 선비들이 목떡을 먹겠느냐. 공자님께서 후생을 생각하사 명륜당에 꿈에 나타나셨다.\"",
+    "en": "\"But can scholars today eat wooden cakes? Confucius worried about young people and appeared in a dream at the national school.\""
+   },
+   {
+    "n": 5,
+    "ko": "\"'요즘 선비들은 이가 약해서 목떡을 못 먹으니 말랑한 쑥떡으로 고쳐라' 하시어, 전국 향교에 알려 쑥떡으로 고쳤느니라.\"",
+    "en": "\"He said, 'Scholars today have weak teeth and can't eat wooden cakes, so change them to soft mugwort cakes.' The news went out to every school in the land, and so it was changed.\""
+   },
+   {
+    "n": 6,
+    "ko": "방자가 듣다가 말한다. \"여보, 하느님이 들으시면 깜짝 놀랄 거짓말도 다 듣겠소.\"",
+    "en": "Bangja listens and says, \"Master, I'm hearing lies that would surprise heaven itself.\""
+   },
+   {
+    "n": 7,
+    "ko": "도련님이 적벽부를 펼쳐 놓는다. \"임술년 가을 칠월 열엿새, 소자가 손님과 함께 적벽 아래 배를 띄우니, 맑은 바람은 솔솔 불고 물결은 일지 않는구나.\" \"아서라, 이 글도 못 읽겠다.\"",
+    "en": "Master Yi opens the Red Cliff poem. \"In autumn, on the sixteenth night of the seventh month, I sailed with a guest below the Red Cliff. A clear breeze blew softly, and the water was calm.\" \"Oh no, I can't read this one either.\""
+   }
+  ],
+  "issues": []
+ },
+ {
+  "id": 5,
+  "tag": "P0005",
+  "chapter_id": "ch_04",
+  "type": "passage",
+  "editorial": false,
+  "src": "천자을일글시하날천따지방전듯고여보도련임점잔이천자는웬이리요천자라하난글리칠서의본문이라양나라주시벽주흥사가할로밤의이글을짓고머리가희엿기로칙일홈을백수문이라낫낫치삭여보면뼈똥쌀일리만하지야소인놈도천자속은아옵니다네가알드란마리야알거을일를것소안다하니일거바라옙드르시요놉고놉푼하날천집고집푼따지해해친친가물현불타젓다누루황예이놈상놈은적실하다이놈어대서장타령하난놈의말을드런나보다내일거라드러라천개자시생천하니태극이광대하날천 ○ 지벽어축시하니오행팔괘로따지 ○ 삼십삼천공부공의인심지시가물현 ○ 이십팔숙목수화토지정색누루황 ○ 우주일월중화하니옥우징영집우 ○ 연대국도흥성쇠왕고내금의집주 ○ 우치홍수기자초의흥범귀주너불홍 ○ 삼왕오제붕하신후난신척자거칠황 ○ 동방이장찻계명키로고고천변일윤이소사날일 ○ 역조창싱격양가의강구연월으달월 ○ 한심미월석부터삼오일야차령 ○ 세상만사생각하니달빗과갓탄지라십오야발근달이기망부터기울칙 ○ 이십팔수하도낙서버린법일월성신별진",
+  "sentences": [
+   {
+    "n": 1,
+    "ko": "천자문을 읽는다. \"하늘 천, 따 지.\"",
+    "en": "He reads the Thousand Character Classic. \"Heaven, cheon. Earth, ji.\""
+   },
+   {
+    "n": 2,
+    "ko": "방자가 듣고 말한다. \"여보 도련님, 점잖게 천자문은 웬일이오?\"",
+    "en": "Bangja hears this and says, \"Master, why is a grown young man like you reading the Thousand Character Classic?\""
+   },
+   {
+    "n": 3,
+    "ko": "\"천자문은 모든 글의 근본이다. 양나라 주흥사가 하룻밤에 이 글을 짓고 머리가 하얗게 세어서, 책 이름을 백수문이라 했다.\"",
+    "en": "\"The Thousand Character Classic is the root of all writing. Zhou Xingsi wrote it in one night, and his hair turned white, so it is also called the White Hair Book.\""
+   },
+   {
+    "n": 4,
+    "ko": "\"하나하나 새겨 보면 뼈가 빠질 일이 많지.\"",
+    "en": "\"If you study every character, there is a lot to learn.\""
+   },
+   {
+    "n": 5,
+    "ko": "\"소인 놈도 천자문 속은 압니다.\"",
+    "en": "\"Even I know what is in the Thousand Character Classic.\""
+   },
+   {
+    "n": 6,
+    "ko": "\"네가 안단 말이냐?\"",
+    "en": "\"You know it?\""
+   },
+   {
+    "n": 7,
+    "ko": "\"알다마다요.\"",
+    "en": "\"I certainly do.\""
+   },
+   {
+    "n": 8,
+    "ko": "\"안다 하니 읽어 보아라.\"",
+    "en": "\"Since you say you know, read it aloud.\""
+   },
+   {
+    "n": 9,
+    "ko": "\"예, 들으십시오. 높고 높은 하늘 천, 깊고 깊은 따 지, 휘휘친친 검을 현, 불에 탔다 누를 황.\"",
+    "en": "\"Yes, listen. High, high heaven, cheon! Deep, deep earth, ji! Round and round, black, hyeon! Burned and scorched, yellow, hwang!\""
+   },
+   {
+    "n": 10,
+    "ko": "\"예끼 이놈, 상놈은 틀림없구나. 어디서 장타령 하는 놈의 말을 들었나 보다. 내가 읽을 테니 들어라.\"",
+    "en": "\"You rascal, you really are a commoner! You must have learned that from a beggar's street song. I will read it. Listen.\""
+   },
+   {
+    "n": 11,
+    "ko": "\"자시에 하늘이 열려 태극이 넓고 크니 하늘 천(天).\"",
+    "en": "\"Heaven opened at midnight and the Great Ultimate spread wide: cheon, heaven (天).\""
+   },
+   {
+    "n": 12,
+    "ko": "\"축시에 땅이 열려 오행과 팔괘가 생기니 따 지(地).\"",
+    "en": "\"The earth opened after midnight, and the five elements and eight signs were born: ji, earth (地).\""
+   },
+   {
+    "n": 13,
+    "ko": "\"서른세 겹 텅 빈 하늘에 사람의 마음이 아득하니 검을 현(玄).\"",
+    "en": "\"The thirty-three heavens are empty, and the human heart feels far away: hyeon, dark (玄).\""
+   },
+   {
+    "n": 14,
+    "ko": "\"스물여덟 별자리와 금목수화토의 바른 빛이니 누를 황(黃).\"",
+    "en": "\"The twenty-eight star groups and the true color of the five elements: hwang, yellow (黃).\""
+   },
+   {
+    "n": 15,
+    "ko": "\"온 세상에 해와 달이 빛나니 옥으로 지은 집 우(宇).\"",
+    "en": "\"The sun and moon shine over the whole universe: u, the house of jade (宇).\""
+   },
+   {
+    "n": 16,
+    "ko": "\"나라와 도읍이 흥하고 망하는 것이 예나 지금이나 같으니 집 주(宙).\"",
+    "en": "\"Countries rise and fall, now as in the past: ju, the house of the ages (宙).\""
+   },
+   {
+    "n": 17,
+    "ko": "\"우임금이 홍수를 다스리고 기자가 나라 다스리는 큰 법을 펴니 넓을 홍(洪).\"",
+    "en": "\"King Yu stopped the great flood, and Jizi wrote the great laws: hong, vast (洪).\""
+   },
+   {
+    "n": 18,
+    "ko": "\"옛 임금들이 돌아가신 뒤 어지러운 신하들 때문에 세상이 거치니 거칠 황(荒).\"",
+    "en": "\"After the old kings died, bad officials made the world wild: hwang, wild (荒).\""
+   },
+   {
+    "n": 19,
+    "ko": "\"동방이 밝아 닭이 우니 하늘 가에 둥근 해가 솟아 날 일(日).\"",
+    "en": "\"The east grows bright, the rooster crows, and the round sun rises: il, sun (日).\""
+   },
+   {
+    "n": 20,
+    "ko": "\"태평한 노래를 부르는 거리에 달이 밝으니 달 월(月).\"",
+    "en": "\"The moon shines over streets full of peaceful songs: wol, moon (月).\""
+   },
+   {
+    "n": 21,
+    "ko": "\"초승달이 보름밤에 가득 차니 찰 영(盈).\"",
+    "en": "\"The thin new moon grows full on the fifteenth night: yeong, full (盈).\""
+   },
+   {
+    "n": 22,
+    "ko": "\"세상만사가 달빛과 같아서 보름달도 열엿새부터 기우니 기울 측(昃).\"",
+    "en": "\"Everything in the world is like moonlight. Even the full moon starts to shrink after the fifteenth: cheuk, waning (昃).\""
+   },
+   {
+    "n": 23,
+    "ko": "\"스물여덟 별자리와 해와 달과 별이니 별 진(辰).\"",
+    "en": "\"The twenty-eight star groups, the sun, the moon, and all the stars: jin, stars (辰).\""
+   }
+  ],
+  "issues": []
+ },
+ {
+  "id": 6,
+  "tag": "P0006",
+  "chapter_id": "ch_04",
+  "type": "passage",
+  "editorial": false,
+  "src": "가련금야숙창가라원앙금침의잘숙 ○ 절대가인조흔팜수나열춘추으버릴열 ○ 의의월석야삼경의만단정회벼풀장 ○ 금일한풍소소래하니침슬의들거라찰한",
+  "sentences": [
+   {
+    "n": 1,
+    "ko": "\"가련한 오늘 밤 기생집이라, 원앙 이불 속에서 잘 숙(宿).\"",
+    "en": "\"Tonight, my sweet, we sleep under a mandarin-duck quilt: suk, sleep (宿).\""
+   },
+   {
+    "n": 2,
+    "ko": "\"절세미인의 고운 풍류를 펼쳐 놓으니 벌일 열(列).\"",
+    "en": "\"A matchless beauty shows all her charms: yeol, spread out (列).\""
+   },
+   {
+    "n": 3,
+    "ko": "\"밤 깊은 삼경에 온갖 정을 다 펼치니 베풀 장(張).\"",
+    "en": "\"Deep in the night, we open our hearts completely: jang, open wide (張).\""
+   },
+   {
+    "n": 4,
+    "ko": "\"오늘 찬바람이 쓸쓸하니 이불 속으로 들어라, 찰 한(寒).\"",
+    "en": "\"The wind is cold tonight, so come under the covers: han, cold (寒).\""
+   }
+  ],
+  "issues": []
+ },
+ {
+  "id": 7,
+  "tag": "P0007",
+  "chapter_id": "ch_04",
+  "type": "passage",
+  "editorial": false,
+  "src": "베개가놉거든내팔을베여라이만금오너라올넝예주리저질근안고엄각실든이설한풍으도더울서 ○ 치울서리터거든음풍을추하여이리저리갈왕 ○ 불한불열어니때냐엽낙오동의가을추 ○ 백발리장차우거전이소년풍도을거들수 ○ 낙목한풍찬바람백운강산의절절동 ○ 오미불망우리사랑귀중심처의갈물장 ○ 부용작야세우중의광윤한유태부루윤 ○ 이러한고흔태도평생을보고도나무려 ○ 백연기약접푼밍세만경창파의룰청 ○ 이리저리노닐적의부지세월 ○ 조가사치",
+  "sentences": [
+   {
+    "n": 1,
+    "ko": "\"베개가 높거든 내 팔을 베어라. 이만큼 오너라, 올 래(來).\"",
+    "en": "\"If the pillow is too high, rest your head on my arm. Come this close: rae, come (來).\""
+   },
+   {
+    "n": 2,
+    "ko": "\"끌어안고 질끈 엎치락뒤치락하니, 눈 내리는 찬바람에도 더울 서(暑).\"",
+    "en": "\"We hold each other tight and roll around, so even in a snowy wind we are hot: seo, hot (暑).\""
+   },
+   {
+    "n": 3,
+    "ko": "\"추운 서리 내리거든 찬바람을 피해 이리저리 다니니 갈 왕(往).\"",
+    "en": "\"When cold frost falls, we go here and there to get away from the wind: wang, go (往).\""
+   },
+   {
+    "n": 4,
+    "ko": "\"춥지도 덥지도 않은 때는 언제냐, 오동잎 지는 가을 추(秋).\"",
+    "en": "\"When is it neither hot nor cold? When the paulownia leaves fall: chu, autumn (秋).\""
+   },
+   {
+    "n": 5,
+    "ko": "\"흰머리가 장차 날 테니 젊은 시절 풍류를 거둘 수(收).\"",
+    "en": "\"Our hair will soon turn white, so let's gather the joys of youth now: su, gather (收).\""
+   },
+   {
+    "n": 6,
+    "ko": "\"나무가 앙상하고 찬바람 부는 산천에 겨울 동(冬).\"",
+    "en": "\"Bare trees and cold wind on the white mountains: dong, winter (冬).\""
+   },
+   {
+    "n": 7,
+    "ko": "\"자나 깨나 잊지 못할 우리 사랑, 마음 깊은 곳에 감출 장(藏).\"",
+    "en": "\"Our love, which I can't forget awake or asleep, I hide deep in my heart: jang, hide (藏).\""
+   },
+   {
+    "n": 8,
+    "ko": "\"부용꽃이 어젯밤 가랑비에 촉촉이 젖으니 윤택할 윤(閏).\"",
+    "en": "\"The lotus is wet and shining after last night's soft rain: yun, shining (閏).\""
+   },
+   {
+    "n": 9,
+    "ko": "\"이렇게 고운 모습은 평생을 보고도 남으니 남을 여(餘).\"",
+    "en": "\"I could look at this lovely face all my life and still want more: yeo, more than enough (餘).\""
+   },
+   {
+    "n": 10,
+    "ko": "\"백 년을 함께하자는 깊은 맹세가 바다처럼 넓으니 이룰 성(成).\"",
+    "en": "\"Our promise to stay together for a hundred years is as wide as the sea: seong, come true (成).\""
+   },
+   {
+    "n": 11,
+    "ko": "\"이리저리 노닐다 보면 세월 가는 줄 모르니 해 세(歲).\"",
+    "en": "\"Playing here and there, we forget how time goes by: se, years (歲).\""
+   },
+   {
+    "n": 12,
+    "ko": "\"고생을 함께한 아내는 버리지 못하는 법이니 법 률(律).\"",
+    "en": "\"A wife who shared your hard times must never be thrown away. That is the law: yul, law (律).\""
+   }
+  ],
+  "issues": []
+ },
+ {
+  "id": 8,
+  "tag": "P0008",
+  "chapter_id": "ch_04",
+  "type": "passage",
+  "editorial": false,
+  "src": "애군자호구아안니냐춘향입니입을한대다히고쪽드빤이법중여짜이아니냐애고보고지거소래를크계길너보니잇때사또전녁진지를잡수시고식곤징이나계옵서평상의취침하시다애고보고지거소리예깜짝놀내여이로너라예천방으서누가싱침을맛넌야신다리을주물넛나야아라드리라통인드리가도련임웬목통이요고함소리에사또놀내시사염문하라하옵신니엇지아뢰잇가딱한이리로다나무집늘근이는리롱증도잇난이라마는귀넘우발근거도예상일안이로다글러한다하제만는글할이가웨잇슬고도련임대경하야이대로엿자와라내가논어라하난글을보다가차호라오도의구의라공불근주공이란대문을보다가나도주공을보면그리하여볼가하여흥치로소리가놉파스이그대로만엿자와라통인이드러가그대로엿자오니사또도련임승벽잇슴을크계짓거하야이리오너라책방으가목낭청을가만이오시래라낭청이드러오난대이양반이엇지고리게생기던지만지거름속한지근심이담숙드러던거시엿다사또그사이심심하지요아계안소할말잇네우리피차고우로서동문수업하엿건과아시의글의기가치실은거시업건만는우리아해시흥보니어이안이길걸손가인양",
+  "sentences": [
+   {
+    "n": 1,
+    "ko": "\"군자의 좋은 짝이 아니냐. 춘향의 입과 내 입을 한데 대고 쪽쪽 빠니, 입 구(口) 두 개가 붙은 법 려(呂) 자가 아니냐.\"",
+    "en": "\"And isn't she a fine match for a gentleman? Chunhyang's mouth on my mouth, kiss, kiss: that's ryeo (呂), the character that looks like two mouths together!\""
+   },
+   {
+    "n": 2,
+    "ko": "\"아이고, 보고 싶어라!\" 소리를 크게 지르니, 이때 사또는 저녁을 드시고 식곤증에 평상에서 졸고 있었다.",
+    "en": "\"Oh, I want to see her!\" he shouts loudly. At that moment, the magistrate has eaten dinner and is dozing on a wooden bench."
+   },
+   {
+    "n": 3,
+    "ko": "\"아이고, 보고 싶어라!\" 소리에 사또가 깜짝 놀라 부른다. \"이리 오너라.\"",
+    "en": "At the cry of \"Oh, I want to see her!\" the magistrate wakes with a start and calls, \"Come here!\""
+   },
+   {
+    "n": 4,
+    "ko": "\"예.\"",
+    "en": "\"Yes.\""
+   },
+   {
+    "n": 5,
+    "ko": "\"책방에서 누가 생침을 맞았느냐, 다리를 주물렀느냐? 알아 오너라.\"",
+    "en": "\"Is someone in the study getting acupuncture, or a leg massage? Go and find out.\""
+   },
+   {
+    "n": 6,
+    "ko": "통인이 들어간다. \"도련님, 웬 고함 소리입니까? 사또께서 놀라시어 알아 오라 하시니, 어찌 아뢸까요?\"",
+    "en": "The servant enters. \"Master Yi, what is that loud noise? The magistrate is startled and told us to find out what happened. What should I say?\""
+   },
+   {
+    "n": 7,
+    "ko": "\"딱한 일이로다. 남의 집 늙은이는 귀가 어둡다던데, 귀가 너무 밝은 것도 예삿일이 아니로구나.\"",
+    "en": "\"What a pain. Most old men are hard of hearing, but his ears are much too sharp.\""
+   },
+   {
+    "n": 8,
+    "ko": "\"글 읽다 그랬다고 하자니, 글 읽다 소리 지를 일이 어디 있겠느냐.\"",
+    "en": "\"I can't say I was just reading. Who shouts while reading?\""
+   },
+   {
+    "n": 9,
+    "ko": "도련님이 크게 놀라 말한다. \"이대로 아뢰어라.\"",
+    "en": "Master Yi panics and says, \"Tell him this.\""
+   },
+   {
+    "n": 10,
+    "ko": "\"내가 논어를 읽다가 '슬프다, 내가 늙었구나. 꿈에 주공을 뵌 지 오래로다'라는 대목을 보았다. 나도 주공을 뵈면 그리하여 볼까 하고 흥이 나서 소리가 높았다고, 그대로 아뢰어라.\"",
+    "en": "\"I was reading the Analects and came to the line, 'How sad, I have grown old. It has been a long time since I dreamed of the Duke of Zhou.' Tell him I got excited, wondering if I would shout like that too if I saw the Duke of Zhou, and that is why my voice got loud.\""
+   },
+   {
+    "n": 11,
+    "ko": "통인이 들어가 그대로 아뢰니, 사또는 아들에게 남보다 뛰어난 재주가 있다고 크게 기뻐한다.",
+    "en": "The servant goes in and tells him just that. The magistrate is delighted, thinking his son has a rare gift."
+   },
+   {
+    "n": 12,
+    "ko": "\"이리 오너라. 책방에 가서 목 낭청을 가만히 오시라 해라.\"",
+    "en": "\"Come here. Go to the study and quietly ask Clerk Mok to come.\""
+   },
+   {
+    "n": 13,
+    "ko": "낭청이 들어오는데, 이 양반은 어찌나 고리타분하게 생겼는지 걸음걸이 속에도 근심이 가득 들었다.",
+    "en": "The clerk comes in. He is such a dull-looking old man that even his walk looks worried."
+   },
+   {
+    "n": 14,
+    "ko": "\"사또, 그동안 심심하셨지요?\"",
+    "en": "\"Sir, you must have been bored.\""
+   },
+   {
+    "n": 15,
+    "ko": "\"아, 거기 앉게. 할 말이 있네. 우리는 어릴 적 친구로 함께 글공부를 했지.\"",
+    "en": "\"Ah, sit down. I want to tell you something. We were friends as boys and studied together.\""
+   },
+   {
+    "n": 16,
+    "ko": "\"어린 시절에는 글 읽기처럼 싫은 것이 없었는데, 우리 아이 글 읽는 흥을 보니 어찌 기쁘지 않겠나.\"",
+    "en": "\"When we were young, nothing was more boring than studying. So how can I not be happy to see my boy so excited about books?\""
+   }
+  ],
+  "issues": []
+ },
+ {
+  "id": 9,
+  "tag": "P0009",
+  "chapter_id": "ch_04",
+  "type": "passage",
+  "editorial": false,
+  "src": "반은지어부지간의대답하거다아해석글의기가치실은게어대잇슬이요이기가실으면잠도오고꾀가무수하제이아해난글의기슬시작하면이고쓰고불철주야하제예그럽듸다비운이갓흔이난글시가엇드한가윤이요갓머리난자두천이요필법논지하면풍낭뇌성이요느리그어차난획은노송도괘절벽이라창과로일를진단말는등넌출긔끗새터가다도로전는대는성낸손우뿟갓고기운이부족하면발길노툭차올여도획은획대로되나니글시을가만니보면획은획대로되옵듸다글시난계저아희아홉살먹어쓸제서울집뜰의늘근미화잇난고로미화남글두고글을지으라하여던이잠시지어스되정성드린거시와용사비등하니일남첩기라묘당의당당한명사되거신니남명이북고하고부춘주어일수하엿제장니정승할소리다사또너머감격하야라고정승이야엇지바랄거시나마는내싱전의급제는쉬하리마는급제만하계하면출육이야베면이지내것나안이요그리할말삼이안이라정승을못하오면장승이라도되지요사또이호령하되자내뉘말노알고대답을그리하나대답은하여사오나뉘말린지몰나요그런다고하여스되그계또다거짓마리엿다 ○ 이도령은퇴령노키을기달일제",
+  "sentences": [
+   {
+    "n": 1,
+    "ko": "낭청은 알아듣는 둥 마는 둥 대답한다. \"아이 적에 글 읽기처럼 싫은 게 어디 있겠습니까.\"",
+    "en": "The clerk answers without really understanding. \"Yes, nothing is more boring for a child than studying.\""
+   },
+   {
+    "n": 2,
+    "ko": "\"글 읽기가 싫으면 잠도 오고 꾀가 무수히 나는데, 이 아이는 글 읽기를 시작하면 읽고 쓰고 밤낮을 가리지 않는다네.\"",
+    "en": "\"When a boy hates studying, he gets sleepy and thinks up all kinds of tricks. But once this boy starts, he reads and writes day and night.\""
+   },
+   {
+    "n": 3,
+    "ko": "\"예, 그렇습디다.\"",
+    "en": "\"Yes, that is true.\""
+   },
+   {
+    "n": 4,
+    "ko": "\"배운 것 없이도 글씨가 어떠한가?\"",
+    "en": "\"And what do you think of his handwriting?\""
+   },
+   {
+    "n": 5,
+    "ko": "\"점 하나를 찍으면 높은 봉우리에서 돌이 떨어지는 듯하고, 한 일(一) 자는 천 리에 구름이 깔린 듯합니다.\"",
+    "en": "\"When he dots a character, it looks like a stone falling from a high peak. When he writes the character for 'one,' it looks like clouds covering a thousand miles.\""
+   },
+   {
+    "n": 6,
+    "ko": "\"갓머리는 처마 같고, 필법을 논하자면 바람이 불고 우레가 치는 듯합니다.\"",
+    "en": "\"The top of a character looks like the edge of a roof, and his brushwork is as strong as wind and thunder.\""
+   },
+   {
+    "n": 7,
+    "ko": "\"내리긋는 획은 늙은 소나무가 절벽에 걸린 듯하고, 창 과(戈) 자는 등나무 덩굴 끝처럼 쭉 뻗었다가 돌아섭니다.\"",
+    "en": "\"His downward strokes look like an old pine tree hanging on a cliff, and the character for 'spear' stretches out and turns like a vine at the end of a branch.\""
+   },
+   {
+    "n": 8,
+    "ko": "\"성난 쇠뇌 같기도 하고, 기운이 부족하면 발길로 툭 차올려도 획은 획대로 됩디다.\"",
+    "en": "\"Some strokes are like an angry crossbow. And when his hand gets tired, even if he kicks the brush up with his foot, the stroke still comes out right.\""
+   },
+   {
+    "n": 9,
+    "ko": "\"글씨를 가만히 보면 획은 획대로 됩디다.\"",
+    "en": "\"If you look at his writing closely, every stroke is just as it should be.\""
+   },
+   {
+    "n": 10,
+    "ko": "\"저 아이가 아홉 살 때, 서울 집 뜰에 늙은 매화나무가 있어서 매화를 두고 시를 지으라 했지.\"",
+    "en": "\"When he was nine, there was an old plum tree in our garden in Seoul, and I told him to write a poem about it.\""
+   },
+   {
+    "n": 11,
+    "ko": "\"잠깐 사이에 지었는데, 정성 들인 글씨가 용이 날고 뱀이 오르는 듯하고, 한 번 보면 다 외우더군.\"",
+    "en": "\"He wrote it in a moment, and the writing was like a dragon flying and a snake rising. Anyone who read it remembered it.\""
+   },
+   {
+    "n": 12,
+    "ko": "\"조정의 당당한 이름난 선비가 될 것이네.\"",
+    "en": "\"He will be a great scholar at the royal court.\""
+   },
+   {
+    "n": 13,
+    "ko": "\"남쪽을 바라보며 북쪽 고향을 그리고, 부춘산에서 낚시하던 옛 선비처럼 한가롭게 시를 지었으니, 장차 정승 할 재목입니다.\"",
+    "en": "\"His poem was as calm as an old scholar fishing by a quiet river. He will be a prime minister one day.\""
+   },
+   {
+    "n": 14,
+    "ko": "사또가 너무 감격하여 말한다. \"정승이야 어찌 바라겠나마는, 내 생전에 과거 급제는 쉽게 하겠지.\"",
+    "en": "The magistrate is so moved that he says, \"I can't hope for prime minister, but he will surely pass the state exam while I am alive.\""
+   },
+   {
+    "n": 15,
+    "ko": "\"급제만 하면 벼슬에 나가기야 쉽지 않겠나?\"",
+    "en": "\"And once he passes, getting a good post will be easy, won't it?\""
+   },
+   {
+    "n": 16,
+    "ko": "\"그리할 말씀이 아닙니다. 정승을 못 하면 장승이라도 되지요.\"",
+    "en": "\"Oh, I didn't mean that. If he can't be a jeongseung, a prime minister, he can at least be a jangseung, a wooden totem pole by the road!\""
+   },
+   {
+    "n": 17,
+    "ko": "사또가 호령한다. \"자네는 누구 말로 알고 대답을 그렇게 하나?\"",
+    "en": "The magistrate shouts, \"Do you even know what you're saying?\""
+   },
+   {
+    "n": 18,
+    "ko": "\"대답은 했습니다만, 누구 말인지는 모르겠습니다.\"",
+    "en": "\"I answered, sir, but I don't know what I said.\""
+   },
+   {
+    "n": 19,
+    "ko": "그렇게 말은 했어도 그것도 또 다 엉터리 말이었다.",
+    "en": "He talked like that, but it was all nonsense anyway."
+   },
+   {
+    "n": 20,
+    "ko": "이도령은 관아 일이 끝나기를 기다린다.",
+    "en": "Meanwhile, Master Yi waits for the office to close."
+   }
+  ],
+  "issues": []
+ }
+]

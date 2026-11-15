@@ -1,0 +1,436 @@
+[
+ {
+  "id": 1,
+  "tag": "P0890",
+  "en": "Act 4, Scene 5 — Juliet’s Chamber; Juliet on the bed",
+  "ko": "4막 5장 — 줄리엣의 방, 침대 위의 줄리엣",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "P0890_s",
+  "en": "The Nurse finds Juliet and thinks she is dead. The family mourns, and the wedding becomes a funeral.",
+  "ko": "유모가 줄리엣을 발견하고 죽었다고 생각한다. 가족은 슬픔에 잠기고, 결혼식은 장례식이 된다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "P0892_1",
+  "en": "The Nurse enters and says, \"Madam! What, madam! Juliet! I bet she is fast asleep. Why, lamb, why, lady, shame on you, you lazy sleeper! Why, love, I say! Madam! Sweetheart! Why, bride! What, not a word? Get your little bits of sleep now and sleep for a week.\"",
+  "ko": "유모가 들어와 말한다. \"아가씨! 아이고, 아가씨! 줄리엣! 곯아떨어졌나 보네. 아가, 아가씨, 이 게으름뱅이 잠꾸러기야! 우리 예쁜이, 아가씨! 우리 새색시! 뭐야, 대답도 없어? 지금 실컷 자 둬, 일주일치라도.\"",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "P0892_2",
+  "en": "\"Because tomorrow night, I promise, Count Paris plans to make sure you get very little rest. God forgive me! Yes, and amen. How deeply she is asleep, so I must wake her. Madam, madam, madam! Yes, let the Count take you in your bed; he will frighten you awake, I believe. Won't you wake up?\"",
+  "ko": "\"내일 밤엔 패리스 백작님이 푹 자게 두지 않을 테니까. 하나님 용서하소서! 아이고, 아멘. 아이고, 곯아떨어졌네. 깨워야지. 아가씨, 아가씨, 아가씨! 그래, 백작님이 침대에서 데려가시라지. 그럼 깜짝 놀라 깨겠지. 안 일어날 거야?\"",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "P0892_3",
+  "en": "\"What, dressed and in your clothes, and then back down again? I must wake you. Lady! Lady! Lady! Alas, alas! Help, help! My lady is dead! Oh, I wish I had never been born! Some brandy, quick! My lord! My lady!\"",
+  "ko": "\"뭐야, 옷을 다 입고 다시 누웠네? 깨워야겠다. 아가씨! 아가씨! 아가씨! 아이고, 아이고! 사람 살려! 우리 아가씨가 죽었어요! 아이고, 차라리 내가 태어나지 말았어야지! 브랜디, 어서! 주인어른! 마님!\"",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "P0894_1",
+  "en": "Lady Capulet enters and asks, \"What noise is here?\"",
+  "ko": "캐퓰릿 부인이 들어와 묻는다. \"무슨 소란이냐?\"",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "P0895_1",
+  "en": "The Nurse says, \"Oh, what a sad day!\"",
+  "ko": "유모가 말한다. \"오, 정말 슬픈 날이네요!\"",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "P0896_1",
+  "en": "Lady Capulet asks, \"What is the matter?\"",
+  "ko": "캐퓰릿 부인이 묻는다. \"무슨 일이야?\"",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "P0897_1",
+  "en": "The Nurse says, \"Look, look! Oh, what a sad day!\"",
+  "ko": "유모가 말한다. \"보세요, 보세요! 오, 정말 슬픈 날이에요!\"",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "P0898_1",
+  "en": "Lady Capulet says, \"Oh me, oh me! My child, my only life. Wake up, look up, or I will die with you. Help, help! Call for help.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"아이고, 아이고! 내 아이야, 나의 유일한 생명아. 깨어나, 눈을 떠 봐, 안 그러면 나도 너와 함께 죽겠다. 도와줘, 도와줘! 사람을 불러라.\"",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0900_1",
+  "en": "Capulet enters and says, \"For shame, bring Juliet out. Her lord has arrived.\"",
+  "ko": "캐퓰릿이 들어와 말한다. \"이런, 줄리엣을 데려와라. 신랑이 왔다.\"",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0901_1",
+  "en": "The Nurse says, \"She is dead, deceased, she is dead. Oh no, what a day!\"",
+  "ko": "유모가 말한다. \"돌아가셨어요, 숨을 거두셨어요, 돌아가셨어요. 아이고, 이게 무슨 날이람!\"",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0902_1",
+  "en": "Lady Capulet says, \"Oh, what a day! She is dead. She is dead. She is dead!\"",
+  "ko": "캐퓰릿 부인이 말한다. \"아, 이게 무슨 날이야! 죽었어. 죽었어. 죽었어!\"",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "P0903_1",
+  "en": "Capulet says, \"Ha! Let me see her. Oh no! She is cold. Her blood has stopped moving and her joints are stiff. Life and these lips have been apart for a long time. Death lies on her like an early frost, like frost on the sweetest flower in the field.\"",
+  "ko": "캐퓰릿이 말한다. \"뭐라고! 어디 보자. 안 돼! 몸이 차갑구나. 피가 멈췄고 관절도 굳었어. 생명이 이 입술을 떠난 지 오래구나. 죽음이 때 이른 서리처럼, 들판에서 가장 고운 꽃에 내린 서리처럼 그 애를 덮었구나.\"",
+  "is_header": false
+ },
+ {
+  "id": 15,
+  "tag": "P0904_1",
+  "en": "The Nurse says, \"Oh, what a sad day!\"",
+  "ko": "유모가 말한다. \"오, 정말 슬픈 날이에요!\"",
+  "is_header": false
+ },
+ {
+  "id": 16,
+  "tag": "P0905_1",
+  "en": "Lady Capulet says, \"Oh, what a miserable time!\"",
+  "ko": "캐퓰릿 부인이 말한다. \"오, 이 얼마나 비참한 시간인가!\"",
+  "is_header": false
+ },
+ {
+  "id": 17,
+  "tag": "P0906_1",
+  "en": "Capulet says, \"Death took her away to make me cry. But death ties my tongue and will not let me speak.\"",
+  "ko": "캐퓰릿이 말한다. \"나를 울리려고 그 애를 데려간 죽음이 내 혀를 묶어 말도 못 하게 하는구나.\"",
+  "is_header": false
+ },
+ {
+  "id": 18,
+  "tag": "P0907",
+  "en": "Friar Lawrence and Paris enter with musicians.",
+  "ko": "로런스 신부와 패리스가 연주자들과 함께 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 19,
+  "tag": "P0908_1",
+  "en": "Friar Lawrence asks, \"Come, is the bride ready to go to church?\"",
+  "ko": "로런스 신부가 묻는다. \"자, 신부는 성당에 갈 준비가 되었나요?\"",
+  "is_header": false
+ },
+ {
+  "id": 20,
+  "tag": "P0909_1",
+  "en": "Capulet says, \"She is ready to go, but she will never return. Oh son, death stayed with your bride the night before your wedding day. There she lies. She was a flower, and he has taken her virginity. Death is my son-in-law and death is my heir.\"",
+  "ko": "캐퓰릿이 말한다. \"갈 준비는 됐지만, 다시는 돌아오지 못한다. 아들아, 죽음이 결혼식 전날 밤 네 신부와 함께 머물렀다. 저기 누워 있다. 꽃 같던 아이였는데, 죽음이 그 순결을 가져갔구나. 죽음이 내 사위이며 죽음이 나의 후계자다.\"",
+  "is_header": false
+ },
+ {
+  "id": 21,
+  "tag": "P0909_2",
+  "en": "\"He has married my daughter, so I will die and leave everything to him. Life, living, and all things belong to death.\"",
+  "ko": "\"그가 내 딸을 아내로 삼았으니, 나는 죽어서 모든 걸 그에게 물려주겠다. 삶과 생명, 그리고 모든 것은 죽음의 것이다.\"",
+  "is_header": false
+ },
+ {
+  "id": 22,
+  "tag": "P0910_1",
+  "en": "Paris asks, \"Have I waited a long time to see this morning's face? Does it give me such a sight as this?\"",
+  "ko": "패리스가 묻는다. \"오늘 아침을 그렇게 오래 기다렸는데 이런 광경을 보여 주다니요?\"",
+  "is_header": false
+ },
+ {
+  "id": 23,
+  "tag": "P0911_1",
+  "en": "Lady Capulet says, \"Cursed, unhappy, miserable, hateful day. This is the most miserable hour that time has ever seen. I had only one, one poor and loving child. There was only one thing to rejoice in and find comfort in. Cruel death has taken it from my sight.\"",
+  "ko": "캐퓰릿 부인이 말한다. \"저주받고 불행하고 비참하며 가증스러운 날이네요. 이것은 시간이 존재한 이래 가장 비참한 시간이에요. 내게는 단 하나, 가엾고 사랑스러운 아이 하나뿐이었어요. 기뻐하고 위안을 삼을 수 있는 것도 오직 그것뿐이었어요. 잔인한 죽음이 그 애를 내 눈앞에서 앗아 갔어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 24,
+  "tag": "P0912_1",
+  "en": "The Nurse says, \"Oh no! Oh terrible, terrible, terrible day. Most terrible day, most terrible day! I have never seen such a sad day before. Oh day, oh day, oh day, oh hateful day. Never was such a black day seen as this. Oh terrible day, oh terrible day.\"",
+  "ko": "유모가 말한다. \"아이고! 끔찍하고, 끔찍하고, 끔찍한 날이에요. 이렇게 끔찍한 날, 이렇게 끔찍한 날이! 이렇게 슬픈 날은 한 번도 본 적이 없어요. 아이고 이 날, 이 날, 이 날, 원수 같은 날. 이렇게 어두운 날은 전에도 본 적이 없어요. 아이고 끔찍한 날, 끔찍한 날.\"",
+  "is_header": false
+ },
+ {
+  "id": 25,
+  "tag": "P0913_1",
+  "en": "Paris says, \"Betrayed, separated, wronged, insulted, killed. Most hateful death, you have betrayed me. Cruel, cruel death has completely overthrown me. Oh love! Oh life! Not life, but love in death!\"",
+  "ko": "패리스가 말한다. \"배신당하고, 헤어지고, 억울하게 당하고, 모욕당하고, 죽임을 당했소. 가장 가증스러운 죽음아, 네가 나를 속였구나. 잔인한 죽음이 나를 완전히 무너뜨렸소. 오 사랑이여! 오 생명이여! 생명이 아니라, 죽어서도 남은 사랑이여!\"",
+  "is_header": false
+ },
+ {
+  "id": 26,
+  "tag": "P0914_1",
+  "en": "Capulet says, \"Despised, distressed, hated, martyred, killed. Cruel time, why did you come now? Why do you murder our celebration? Oh child! Oh child! My soul, and not my child, is dead. Oh no, my child is dead. My joys are buried with my child.\"",
+  "ko": "캐퓰릿이 말한다. \"멸시당하고, 고통받고, 증오받고, 희생되고, 살해당했다. 잔인한 시간아, 왜 지금 나타났느냐? 왜 우리의 잔치를 망치러 왔느냐? 오 아이야! 오 내 아이야! 내 아이, 아니 내 영혼이 죽었다. 안 돼, 내 아이가 죽었다. 내 기쁨도 아이와 함께 묻혔다.\"",
+  "is_header": false
+ },
+ {
+  "id": 27,
+  "tag": "P0915_1",
+  "en": "Friar Lawrence says, \"Quiet, for shame! Screaming will not cure this disaster. Heaven and you both had a part in this fair maid. Now heaven has everything. It is better for the maid this way. You could not keep your part in her from death. But heaven keeps its part in eternal life.\"",
+  "ko": "로런스 신부가 말한다. \"조용히 하세요, 부끄러운 줄 아세요! 비명으로 이 비극을 막을 수는 없어요. 이 고운 처녀는 하늘과 두 분이 함께 나누어 가졌지요. 이제는 하늘이 모두 가졌어요. 처녀에게는 그게 더 나아요. 두 분의 몫은 죽음에서 지켜 내지 못했지만 하늘은 제 몫을 영원한 생명 속에 지켜요.\"",
+  "is_header": false
+ },
+ {
+  "id": 28,
+  "tag": "P0915_2",
+  "en": "\"What you wanted most was for her to rise in the world. It was your heaven to see her rise. Why do you cry now that she is advanced? She is above the clouds, as high as heaven itself. You love your child so badly that you go mad when you see she is well.\"",
+  "ko": "\"두 분이 가장 바란 건 그 애의 출세였지요. 그 애가 높이 오르는 게 두 분의 천국이었고요. 이제 그 애가 높이 올랐는데 왜 우시나요? 그녀는 구름 위, 하늘만큼 높은 곳으로 올라갔어요. 그 애가 잘된 걸 보고도 미친 듯이 우시다니, 그건 자식을 잘못 사랑하는 거예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 29,
+  "tag": "P0915_3",
+  "en": "\"She is not well married if she lives married long. But she is best married if she dies married young. Dry your tears. Put your rosemary on this fair body. Follow the custom and carry her to church in her best clothes. Our loving nature tells us to cry, but reason laughs at those tears.\"",
+  "ko": "\"오래 산 결혼이 좋은 결혼은 아니에요. 젊어서 결혼한 채 죽는 것이 가장 좋은 결혼이지요. 눈물을 닦으세요. 이 고운 시신에 로즈메리를 꽂으세요. 관습대로 가장 좋은 옷을 입혀 성당으로 모시세요. 정 많은 본성은 우리에게 울라고 하지만, 이성은 그 눈물을 웃음거리로 여기지요.\"",
+  "is_header": false
+ },
+ {
+  "id": 30,
+  "tag": "P0916_1",
+  "en": "Capulet says, \"All things that we planned as a festival turn into a black funeral. Our instruments become sad bells. Our wedding cheer becomes a sad burial feast. Our serious hymns change to sad songs for the dead. Our bridal flowers are used for a buried body.\"",
+  "ko": "캐퓰릿이 말한다. \"축제로 계획했던 모든 것들이 검은 장례식으로 변해버렸어요. 우리의 악기들은 슬픈 종소리가 되었고. 잔치 음식은 장례 음식이 되었어요. 우리의 엄숙한 찬송가는 죽은 자를 위한 슬픈 노래로 바뀌었고요. 신부의 꽃들은 무덤에 들어갈 시신을 위해 쓰이게 되었어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 31,
+  "tag": "P0916_2",
+  "en": "\"Everything has changed to the opposite.\"",
+  "ko": "\"모든 것이 정반대로 변해버렸어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 32,
+  "tag": "P0917_1",
+  "en": "Friar Lawrence says, \"Sir, go in. Madam, go with him. Sir Paris, everyone prepare to follow this fair body to her grave. Heaven frowns on you for some sin. Do not anger heaven more by going against its will.\"",
+  "ko": "로런스 신부가 말한다. \"캐퓰릿 경, 들어가세요. 부인도 함께 가세요. 패리스 백작님, 모두 이 고운 시신을 무덤까지 따를 준비를 하세요. 하늘이 어떤 죄 때문에 여러분께 노하셨어요. 하늘의 뜻을 거슬러 더 노하게 하지 마세요.\"",
+  "is_header": false
+ },
+ {
+  "id": 33,
+  "tag": "P0918",
+  "en": "Capulet, Lady Capulet, Paris, and the Friar leave.",
+  "ko": "캐퓰릿, 캐퓰릿 부인, 패리스, 그리고 신부가 떠난다.",
+  "is_header": false
+ },
+ {
+  "id": 34,
+  "tag": "P0919_1",
+  "en": "The first musician says, \"I believe we can stop playing our pipes and leave now.\"",
+  "ko": "첫째 악사가 말한다. \"이제 피리는 집어넣고 가도 되겠네.\"",
+  "is_header": false
+ },
+ {
+  "id": 35,
+  "tag": "P0920_1",
+  "en": "The Nurse says, \"Good men, put your instruments away, put them away. You know well that this is a sad case.\"",
+  "ko": "유모가 말한다. \"착한 양반들, 악기 집어넣어, 집어넣어. 다들 알다시피 참 딱한 사정이잖아.\"",
+  "is_header": false
+ },
+ {
+  "id": 36,
+  "tag": "P0921_1",
+  "en": "The first musician says, \"Yes, truly, and my instrument case could use a repair too.\"",
+  "ko": "첫째 악사가 말한다. \"그렇고말고요, 제 악기 케이스도 좀 고쳐야 하고요.\"",
+  "is_header": false
+ },
+ {
+  "id": 37,
+  "tag": "P0922",
+  "en": "The Nurse leaves.",
+  "ko": "유모가 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 38,
+  "tag": "P0924_1",
+  "en": "Peter, the Nurse's servant, enters and says, \"Musicians, oh, musicians! Play 'Heart's Ease', 'Heart's Ease'! If you want me to live, play 'Heart's Ease'.\"",
+  "ko": "유모의 하인 피터가 들어와 말한다. \"음악가들이여, 오, 음악가들아! '마음의 평온'을 연주해라, '마음의 평온'을! 내가 살길 원한다면 '마음의 평온'을 연주해라.\"",
+  "is_header": false
+ },
+ {
+  "id": 39,
+  "tag": "P0925_1",
+  "en": "The first musician asks, \"Why 'Heart's ease'?\"",
+  "ko": "첫째 악사가 묻는다. \"왜 '마음의 평온'이지?\"",
+  "is_header": false
+ },
+ {
+  "id": 40,
+  "tag": "P0926_1",
+  "en": "Peter says, \"Musicians, because my heart itself is playing 'My heart is full of sorrow'. Play me a happy sad song to comfort me.\"",
+  "ko": "피터가 말한다. \"악사 양반들, 내 마음이 '내 마음은 슬픔으로 가득해'를 연주하고 있거든. 나를 위로할 즐거운 슬픈 노래를 한 곡 해 줘.\"",
+  "is_header": false
+ },
+ {
+  "id": 41,
+  "tag": "P0927_1",
+  "en": "The first musician says, \"We will not play a sad song. It is not the time to play now.\"",
+  "ko": "첫째 악사가 말한다. \"슬픈 노래는 안 해. 지금은 그런 곡을 연주할 때가 아니야.\"",
+  "is_header": false
+ },
+ {
+  "id": 42,
+  "tag": "P0928_1",
+  "en": "Peter asks, \"Will you not then?\"",
+  "ko": "피터가 묻는다. \"그래도 안 해줄 거야?\"",
+  "is_header": false
+ },
+ {
+  "id": 43,
+  "tag": "P0929_1",
+  "en": "The first musician says, \"No.\"",
+  "ko": "첫째 악사가 말한다. \"안 해.\"",
+  "is_header": false
+ },
+ {
+  "id": 44,
+  "tag": "P0930_1",
+  "en": "Peter says, \"Then I will give it to you, and hard.\"",
+  "ko": "피터가 말한다. \"그럼 호되게 한 방 먹여 주지.\"",
+  "is_header": false
+ },
+ {
+  "id": 45,
+  "tag": "P0931_1",
+  "en": "The first musician asks, \"What will you give us?\"",
+  "ko": "첫째 악사가 묻는다. \"뭘 먹여 주겠다는 거야?\"",
+  "is_header": false
+ },
+ {
+  "id": 46,
+  "tag": "P0932_1",
+  "en": "Peter says, \"No money, I promise, but I will give you a sneer! I will call you a cheap street musician.\"",
+  "ko": "피터가 말한다. \"돈은 무슨, 비웃음이나 한 방 먹여 주지! 너희를 싸구려 떠돌이 악사라고 불러 주겠어.\"",
+  "is_header": false
+ },
+ {
+  "id": 47,
+  "tag": "P0933_1",
+  "en": "The first musician says, \"Then I will call you a servant-creature.\"",
+  "ko": "첫째 악사가 말한다. \"그럼 난 너를 하인 나부랭이라고 부르지.\"",
+  "is_header": false
+ },
+ {
+  "id": 48,
+  "tag": "P0934_1",
+  "en": "Peter asks, \"Then I will bring the servant's dagger down on your head. I will not put up with your musical nonsense. I will 're' you, and I will 'fa' you. Do you note that?\"",
+  "ko": "피터가 묻는다. \"그럼 하인의 단검을 네 정수리에 내리꽂아 주지. 네 음악적 헛소리는 참아줄 수 없어. '레'로 한 대, '파'로 한 대 먹여 주마. 알아들었어?\"",
+  "is_header": false
+ },
+ {
+  "id": 49,
+  "tag": "P0935_1",
+  "en": "The first musician says, \"If you 're' us and 'fa' us, you are the one making music.\"",
+  "ko": "첫째 악사가 말한다. \"네가 우리를 '레'하고 '파'하면, 음악을 하는 건 너잖아.\"",
+  "is_header": false
+ },
+ {
+  "id": 50,
+  "tag": "P0936_1",
+  "en": "The second musician says, \"Please put away your dagger, and bring out your wit instead.\"",
+  "ko": "둘째 악사가 말한다. \"제발 단검은 넣고, 재치나 꺼내 봐.\"",
+  "is_header": false
+ },
+ {
+  "id": 51,
+  "tag": "P0937_1",
+  "en": "Peter asks, \"Then have at you with my wit. I will beat you with an iron wit and put away my iron dagger. Answer me like men. 'When painful sorrows wound the heart, and sad feelings weigh down the mind, then music with her silver sound—' Why 'silver sound'? Why 'music with her silver sound'?\"",
+  "ko": "피터가 묻는다. \"그럼 내 재치 맛 좀 봐라. 쇠 같은 재치로 흠씬 두들겨 주고, 쇠 단검은 넣어 두지. 사내답게 대답해 봐. '고통스러운 슬픔이 마음을 할퀴고, 슬픈 감정이 정신을 짓누를 때, 은빛 소리를 내는 음악이—' 왜 '은빛 소리'라고 했지? 왜 '은빛 소리를 내는 음악'이라고 한 거야?\"",
+  "is_header": false
+ },
+ {
+  "id": 52,
+  "tag": "P0937_2",
+  "en": "\"What do you say, Simon Catling?\"",
+  "ko": "\"사이먼 캐틀링, 어떻게 생각해?\"",
+  "is_header": false
+ },
+ {
+  "id": 53,
+  "tag": "P0938_1",
+  "en": "The first musician says, \"Well, sir, because silver has a sweet sound.\"",
+  "ko": "첫째 악사가 말한다. \"글쎄, 은은 소리가 고우니까 그렇지.\"",
+  "is_header": false
+ },
+ {
+  "id": 54,
+  "tag": "P0939_1",
+  "en": "Peter asks, \"Silly answer! What do you say, Hugh Rebeck?\"",
+  "ko": "피터가 묻는다. \"헛소리! 휴 레벡, 넌 뭐라고 할 거야?\"",
+  "is_header": false
+ },
+ {
+  "id": 55,
+  "tag": "P0940_1",
+  "en": "The second musician says, \"I say 'silver sound' because musicians play for silver.\"",
+  "ko": "둘째 악사가 말한다. \"악사들은 은화를 받고 연주하니까 '은빛 소리'라고 하는 거지.\"",
+  "is_header": false
+ },
+ {
+  "id": 56,
+  "tag": "P0941_1",
+  "en": "Peter asks, \"Silly answer too! What do you say, James Soundpost?\"",
+  "ko": "피터가 묻는다. \"그것도 헛소리! 자, 제임스 사운드포스트, 네 생각은 어떠냐?\"",
+  "is_header": false
+ },
+ {
+  "id": 57,
+  "tag": "P0942_1",
+  "en": "The third musician says, \"Truly, I do not know what to say.\"",
+  "ko": "셋째 악사가 말한다. \"나 참, 뭐라고 해야 할지 모르겠네.\"",
+  "is_header": false
+ },
+ {
+  "id": 58,
+  "tag": "P0943_1",
+  "en": "Peter says, \"Excuse me. You are the singer, so I will speak for you. It is 'music with her silver sound' because musicians have no gold for playing. 'Then music with her silver sound quickly brings relief.'\"",
+  "ko": "피터가 말한다. \"아, 실례. 네가 가수니까 내가 대신 말해줄게. 악사들은 연주해도 금화를 못 받으니까 '은빛 소리'라고 하는 거야. '그때 은빛 소리의 음악이 금세 위안을 주노라.'\"",
+  "is_header": false
+ },
+ {
+  "id": 59,
+  "tag": "P0944",
+  "en": "Peter leaves.",
+  "ko": "피터가 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 60,
+  "tag": "P0945_1",
+  "en": "The first musician says, \"What an annoying pest he is!\"",
+  "ko": "첫째 악사가 말한다. \"정말 성가신 놈이군!\"",
+  "is_header": false
+ },
+ {
+  "id": 61,
+  "tag": "P0946_1",
+  "en": "The second musician says, \"Hang him, Jack. Come, let's go inside. We will wait for the mourners. And we will stay for dinner.\"",
+  "ko": "둘째 악사가 말한다. \"잭, 내버려 둬. 자, 안으로 들어가자. 조문객들 올 때까지 기다렸다가 저녁이나 얻어먹자.\"",
+  "is_header": false
+ },
+ {
+  "id": 62,
+  "tag": "P0947",
+  "en": "They all leave.",
+  "ko": "모두 나간다.",
+  "is_header": false
+ }
+]

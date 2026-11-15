@@ -1,21 +1,9 @@
-import re
+with open('patch_10_14.py', 'r', encoding='utf-8') as f:
+    code = f.read()
 
-with open('c:/git_repo/TKprof_book/books/dracula/chapters/ch10_ko.txt', 'r', encoding='utf-8') as f:
-    text = f.read()
+prefix = '"book3_ch_14.json__batch0010": ['
+new_prefix = prefix + '\n        {"ko": "그녀의 허리춤에 몰래 숨겨져 있는 것은, 날이 선 단검이었다.", "en": "Hidden at her waist was a sharpened dagger."},\n'
 
-paragraphs = re.split(r'\[P\d{3}\]', text)[1:]
-paragraphs = [p.strip() for p in paragraphs]
-
-p26_orig = paragraphs[25]
-idx1 = p26_orig.find('주저앉았기 때문이다.') + len('주저앉았기 때문이다.')
-part1 = p26_orig[:idx1].strip()
-
-idx2 = p26_orig.rfind('"당신이 아가씨를 도와야 합니다.')
-part2 = p26_orig[idx2:].strip()
-
-paragraphs[25] = part1 + ' ' + part2
-
-with open('c:/git_repo/TKprof_book/books/dracula/chapters/aligned_ko_ch10.txt', 'w', encoding='utf-8') as f:
-    f.write('\n\n'.join(paragraphs))
-
-print('Total paragraphs:', len(paragraphs))
+code = code.replace(prefix, new_prefix)
+with open('patch_10_14_fixed.py', 'w', encoding='utf-8') as f:
+    f.write(code)

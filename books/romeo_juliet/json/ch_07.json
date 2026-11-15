@@ -1,0 +1,555 @@
+[
+ {
+  "id": 1,
+  "tag": "P0309",
+  "en": "Act 2, Scene 2 — Capulet’s Garden",
+  "ko": "2막 2장 — 캐퓰릿 집의 정원",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "P0309_s",
+  "en": "At her window, Juliet speaks of her love, and Romeo hears her. They promise to marry.",
+  "ko": "줄리엣이 창가에서 사랑을 고백하고, 로미오가 그 말을 듣는다. 두 사람은 결혼을 약속한다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "P0311_1",
+  "en": "Romeo enters and says, \"Someone who never felt a wound jokes about scars.\"",
+  "ko": "로미오가 들어와 말한다. \"상처를 입어본 적 없는 사람이 흉터에 대해 농담을 한다.\"",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "P0312",
+  "en": "Juliet appears at a window above.",
+  "ko": "줄리엣이 위쪽 창가에 나타난다.",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "P0313_1",
+  "en": "Romeo goes on, \"Wait, what light breaks through that window over there? It is the east, and Juliet is the sun! Rise, fair sun, and kill the envious moon. The moon is already sick and pale with grief. She is jealous because you, her servant, are far more beautiful than she is.\"",
+  "ko": "로미오가 말을 잇는다. \"잠깐, 저기 창문 너머로 비치는 빛은 무엇인가? 저건 동쪽이고, 줄리엣은 태양이다! 아름다운 태양이여, 떠올라 질투에 찬 달을 없애라. 달은 이미 슬픔으로 병들고 창백해졌다. 달은 자기 시녀인 네가 자기보다 훨씬 아름다워서 질투한다.\"",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "P0313_2",
+  "en": "\"Do not be her servant since she is jealous. Her uniform of virginity is only sick and green. Only fools wear it; throw it off. It is my lady. Oh, it is my love! Oh, if only she knew she was my love! She speaks, yet she says nothing. What of that? Her eyes communicate, and I will answer them.\"",
+  "ko": "\"달이 질투하니 달의 시녀가 되지 마라. 달이 주는 순결의 옷은 병든 초록빛일 뿐이다. 바보들만이 그것을 입으니, 벗어버려라. 저건 나의 여인이다. 오, 나의 사랑이다! 오, 그녀가 자신이 내 사랑임을 알기만 한다면! 그녀가 말을 한다. 그러나 아무 말도 없다. 그게 어떻단 말인가? 그녀의 눈이 말을 건네고, 나는 그에 답할 것이다.\"",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "P0313_3",
+  "en": "\"I am too bold. She is not speaking to me. Two of the most beautiful stars in all heaven have some business. They ask her eyes to shine in their places until they return. What if her eyes were there and those stars were in her head?\"",
+  "ko": "\"내가 너무 대담하다. 그녀는 나에게 말하는 것이 아니다. 하늘에서 가장 아름다운 별 두 개가 볼일이 있어 자리를 비운다. 그들이 돌아올 때까지 대신 빛나달라고 그녀의 눈에 부탁했다. 만약 그녀의 눈이 그 자리에 있고 저 별들이 그녀의 머릿속에 있다면 어떨까?\"",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "P0313_4",
+  "en": "\"The brightness of her cheek would shame those stars, just as daylight shames a lamp. Her eyes in heaven would shine so brightly through the air. Birds would sing and think it was not night. See how she leans her cheek on her hand. Oh, I wish I were a glove on that hand.\"",
+  "ko": "\"그녀의 뺨은 낮의 빛이 등불을 무색하게 하듯 저 별들을 부끄럽게 할 것이다. 하늘에 있는 그녀의 눈은 공중에서 아주 밝게 빛날 것이다. 새들은 노래하며 밤이 아니라고 생각할 것이다. 그녀가 손에 뺨을 기대고 있는 것을 보라. 오, 내가 저 손에 끼워진 장갑이라면 좋겠다.\"",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "P0313_5",
+  "en": "\"Then I could touch that cheek.\"",
+  "ko": "\"그러면 저 뺨을 만질 수 있을 텐데.\"",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "P0314_1",
+  "en": "Juliet says, \"Oh, dear me.\"",
+  "ko": "줄리엣이 말한다. \"아, 슬프구나.\"",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0315_1",
+  "en": "Romeo says, \"She speaks. Oh, speak again, bright angel. Up above my head tonight, you shine like an angel from heaven. People fall back and stare up at such an angel with wide, wondering eyes. He rides on the lazy, drifting clouds. He sails through the air.\"",
+  "ko": "로미오가 말한다. \"그녀가 말해요. 오, 다시 말해줘요, 빛나는 천사여. 오늘 밤 내 머리 위에서 당신은 하늘에서 온 천사처럼 빛나요. 사람들은 뒤로 물러나서 그런 천사를 놀라운 눈으로 바라봐요. 천사는 느릿하게 떠가는 구름을 타고 가요. 공중을 가르며 항해하지요.\"",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0316_1",
+  "en": "Juliet says, \"Oh Romeo, Romeo, why are you Romeo? Deny your father and refuse your name. Or if you will not, just swear that you love me. Then I will no longer be a Capulet.\"",
+  "ko": "줄리엣이 말한다. \"오 로미오, 로미오, 왜 당신은 로미오인가요? 아버지를 버리고 당신의 이름을 버리세요. 그게 안 된다면, 그저 나를 사랑한다고 맹세하세요. 그러면 난 더 이상 캐퓰릿이 아니에요.\"",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0317_1",
+  "en": "Romeo asks himself, \"Shall I hear more, or shall I speak now?\"",
+  "ko": "로미오가 혼잣말로 묻는다. \"더 들어야 할까, 아니면 이제 내가 말해야 할까?\"",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "P0318_1",
+  "en": "Juliet asks, \"It is only your name that is my enemy. You are yourself, even if you are not a Montague. What is a Montague? It is not a hand or a foot. It is not an arm, a face, or any other part of a man. Oh, take some other name. What is in a name?\"",
+  "ko": "줄리엣이 묻는다. \"내 적은 당신의 이름뿐이에요. 당신이 몬태규가 아니더라도 당신은 당신일 뿐이에요. 몬태규가 무엇인가요? 손이나 발 같은 게 아니에요. 팔이나 얼굴, 혹은 사람의 다른 신체 부위도 아니고요. 오, 다른 이름을 가지세요. 이름에 무슨 의미가 있겠어요?\"",
+  "is_header": false
+ },
+ {
+  "id": 15,
+  "tag": "P0318_2",
+  "en": "\"A rose would smell as sweet if we called it by another name. So Romeo would keep his perfection if he were not called Romeo. He would have that quality without the title. Romeo, throw off your name. Instead of your name, which is no part of you, take all of me.\"",
+  "ko": "\"장미를 다른 이름으로 불러도 향기는 여전히 달콤할 거예요. 로미오라는 이름이 아니었다면 로미오는 여전히 완벽했을 거예요. 그 호칭이 없어도 그 고귀함은 그대로였을 거예요. 로미오, 당신의 이름을 버리세요. 당신의 일부도 아닌 그 이름 대신, 나의 전부를 받아주세요.\"",
+  "is_header": false
+ },
+ {
+  "id": 16,
+  "tag": "P0319_1",
+  "en": "Romeo says, \"I accept your promise. Just call me love, and I will be baptized again. From now on, I will never be Romeo.\"",
+  "ko": "로미오가 말한다. \"당신의 약속을 받아들일게요. 그저 나를 '사랑'이라고 불러 주세요, 그러면 새로 세례를 받을게요. 이제부터 나는 결코 로미오가 아니에요.\"",
+  "is_header": false
+ },
+ {
+  "id": 17,
+  "tag": "P0320_1",
+  "en": "Juliet asks, \"What man are you? You are hidden in the night. How did you happen to overhear my private thoughts?\"",
+  "ko": "줄리엣이 묻는다. \"당신은 어떤 분이신가요? 밤의 어둠 속에 숨어 계시네요. 어떻게 제 은밀한 생각을 엿들으신 거죠?\"",
+  "is_header": false
+ },
+ {
+  "id": 18,
+  "tag": "P0321_1",
+  "en": "Romeo says, \"I do not know how to tell you who I am because of a name. My name, dear saint, is hateful to me. It is because it is an enemy to you. If I had it written down, I would tear the word away.\"",
+  "ko": "로미오가 말한다. \"이름 때문에 내가 누구인지 말하기 어렵네요. 사랑스러운 성녀여, 내 이름은 나도 싫어요. 그건 당신에게 적대적인 이름이기 때문이죠. 만약 이 이름이 적혀 있다면, 나는 그 글자를 찢어버릴 거예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 19,
+  "tag": "P0322_1",
+  "en": "Juliet asks, \"I have not heard a hundred words from your mouth yet. Still, I know the sound of your voice. Are you not Romeo and a Montague?\"",
+  "ko": "줄리엣이 묻는다. \"당신의 입에서 나온 말을 백 마디도 듣지 못했어요. 그럼에도 당신의 목소리는 알 수 있어요. 당신은 로미오이자 몬태규가 아닌가요?\"",
+  "is_header": false
+ },
+ {
+  "id": 20,
+  "tag": "P0323_1",
+  "en": "Romeo says, \"I am neither, beautiful girl, if you dislike either of those things.\"",
+  "ko": "로미오가 말한다. \"아름다운 아가씨, 당신이 싫다면 나는 그 어느 쪽도 아니에요.\"",
+  "is_header": false
+ },
+ {
+  "id": 21,
+  "tag": "P0324_1",
+  "en": "Juliet says, \"Tell me how you came here and why. The orchard walls are high and hard to climb. Because of who you are, this place means death if any of my relatives find you here.\"",
+  "ko": "줄리엣이 말한다. \"어떻게, 왜 여기까지 왔는지 말해줘요. 과수원 담은 높아서 넘기 힘들어요. 당신이 누구인지 알기에, 내 친척들이 당신을 발견하면 이곳은 죽음의 장소가 될 거예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 22,
+  "tag": "P0325_1",
+  "en": "Romeo says, \"I flew over these walls on love's light wings. Stone walls cannot keep love out. Whatever love can do, love dares to try. Therefore, your relatives are no stop to me.\"",
+  "ko": "로미오가 말한다. \"나는 사랑의 가벼운 날개를 타고 이 담을 넘어왔어요. 돌담은 사랑을 막아낼 수 없어요. 사랑이 할 수 있는 일이라면, 사랑은 무엇이든 시도하니까요. 그러니 당신의 친척들도 나를 막을 수 없어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 23,
+  "tag": "P0326_1",
+  "en": "Juliet says, \"If they see you, they will murder you.\"",
+  "ko": "줄리엣이 말한다. \"그들이 당신을 본다면 죽일 거예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 24,
+  "tag": "P0327_1",
+  "en": "Romeo says, \"Oh no, there is more danger in your eyes than in twenty of their swords. Just look sweet, and I will be protected from their hatred.\"",
+  "ko": "로미오가 말한다. \"아, 당신의 눈 속에는 그들의 칼 스무 자루보다 더 큰 위험이 있어요. 그저 아름답게만 보여주세요, 그러면 그들의 증오로부터 보호받을 수 있을 거예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 25,
+  "tag": "P0328_1",
+  "en": "Juliet says, \"I would not let them see you here for anything.\"",
+  "ko": "줄리엣이 말한다. \"어떤 일이 있어도 당신이 여기서 들키는 걸 허락할 수 없어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 26,
+  "tag": "P0329_1",
+  "en": "Romeo says, \"I have the night's cloak to hide me from their eyes. And if you love me, let them find me here. My life would be better ended by their hate than delayed without your love.\"",
+  "ko": "로미오가 말한다. \"밤의 망토가 그들의 눈으로부터 나를 숨겨 줄 거예요. 나를 사랑한다면, 그들이 여기서 나를 찾게 내버려 두세요. 당신의 사랑 없이 목숨을 이어가느니 그들의 증오에 죽는 게 나아요.\"",
+  "is_header": false
+ },
+ {
+  "id": 27,
+  "tag": "P0330_1",
+  "en": "Juliet asks, \"Who told you how to find this place?\"",
+  "ko": "줄리엣이 묻는다. \"어떻게 이곳을 찾아오는지 누가 알려줬나요?\"",
+  "is_header": false
+ },
+ {
+  "id": 28,
+  "tag": "P0331_1",
+  "en": "Romeo says, \"Love first prompted me to ask. It gave me advice, and I gave it eyes. I am not a pilot. You could be as far away as the shore of the most distant sea. Even then, I would take the risk for such a prize.\"",
+  "ko": "로미오가 말한다. \"사랑이 먼저 나를 부추겨 묻게 했어요. 사랑이 내게 조언을 했고, 나는 사랑에게 내 눈을 빌려줬죠. 저는 항해사가 아니에요. 당신은 아주 먼 바다의 해안선만큼 멀리 있을 수도 있죠. 그래도 나는 그런 보물을 위해 기꺼이 위험을 무릅쓸 거예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 29,
+  "tag": "P0332_1",
+  "en": "Juliet asks, \"You know the mask of night is on my face. Otherwise, a girl's blush would color my cheek for what you heard me say tonight. I would gladly act properly and politely. I would gladly, gladly deny what I said. But I give up polite behavior. Do you love me?\"",
+  "ko": "줄리엣이 묻는다. \"밤이라는 가면을 쓰고 있다는 걸 아시잖아요. 그러지 않았다면, 오늘 밤 제가 한 말 때문에 소녀의 얼굴이 부끄러움으로 붉어졌을 거예요. 기꺼이 예의 바르고 정중하게 행동했을 거예요. 제가 한 말을 기꺼이, 기꺼이 부정했을 거예요. 하지만 이제 예의 차리는 건 포기할게요. 저를 사랑하시나요?\"",
+  "is_header": false
+ },
+ {
+  "id": 30,
+  "tag": "P0332_2",
+  "en": "\"I know you will say yes, and I will take your word. Yet, if you swear it, you might prove false. They say Jove laughs at lovers' broken promises. Oh gentle Romeo, if you love me, say it faithfully. Or if you think I am too easily won, I will frown and be stubborn.\"",
+  "ko": "\"당신이 그렇다고 말할 걸 알고 있고, 저는 그 말을 믿을 거예요. 하지만 당신이 맹세한다 해도 거짓일 수 있어요. 사람들은 주피터 신이 연인들의 거짓 맹세를 비웃는다고 해요. 오, 다정한 로미오, 나를 사랑한다면 진심으로 말해 줘요. 혹시 제가 너무 쉽게 얻어지는 존재라고 생각하신다면, 제가 찡그리며 고집을 피울게요.\"",
+  "is_header": false
+ },
+ {
+  "id": 31,
+  "tag": "P0332_3",
+  "en": "\"I will say no, so that you will try to win my love. But otherwise, not for the world. In truth, fair Montague, I love you too much. Therefore you might think my behavior is not serious. But trust me, gentleman, I will prove more true than other girls.\"",
+  "ko": "\"당신이 제 사랑을 얻으려 노력하게 하려고 '아니오'라고 말할 거예요. 하지만 그렇지 않다면, 절대로 안 돼요. 사실, 아름다운 몬태규, 저는 당신을 너무나 사랑해요. 그래서 제 행동이 진지하지 않다고 생각하실 수도 있어요. 하지만 믿어주세요, 신사분, 저는 다른 소녀들보다 더 진실함을 증명할 거예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 32,
+  "tag": "P0332_4",
+  "en": "\"They are only better at pretending not to care. I should have been more distant, I must confess. But you overheard my true love passion before I was aware. Therefore forgive me. Do not blame my quick yes on a light love; the dark night revealed it.\"",
+  "ko": "\"그들은 단지 상관없는 척하는 데 더 능숙할 뿐이에요. 솔직히 말하면, 제가 좀 더 거리를 뒀어야 했다고 고백해요. 하지만 제가 알아차리기 전에 당신은 제 진실한 사랑의 열정을 들었죠. 그러니 저를 용서해 주세요. 제 빠른 대답을 가벼운 사랑 때문이라고 탓하지 마세요. 어두운 밤이 그것을 드러낸 것이니까요.\"",
+  "is_header": false
+ },
+ {
+  "id": 33,
+  "tag": "P0333_1",
+  "en": "Romeo says, \"Lady, by that blessed moon over there I vow, that tips all these fruit-tree tops with silver—\"",
+  "ko": "로미오가 말한다. \"아가씨, 저기 과일나무 꼭대기를 은빛으로 물들이는 축복받은 달을 걸고 맹세해요—\"",
+  "is_header": false
+ },
+ {
+  "id": 34,
+  "tag": "P0334_1",
+  "en": "Juliet says, \"Oh, do not swear by the moon. The moon is always changing. It changes every month in its circle. I do not want your love to change like that.\"",
+  "ko": "줄리엣이 말한다. \"오, 달을 두고 맹세하지 마세요. 달은 항상 변하니까요. 그것은 매달 그 궤도 안에서 변해요. 당신의 사랑이 그렇게 변하는 걸 원치 않아요.\"",
+  "is_header": false
+ },
+ {
+  "id": 35,
+  "tag": "P0335_1",
+  "en": "Romeo asks, \"What should I swear by?\"",
+  "ko": "로미오가 묻는다. \"그럼 무엇으로 맹세하면 될까요?\"",
+  "is_header": false
+ },
+ {
+  "id": 36,
+  "tag": "P0336_1",
+  "en": "Juliet says, \"Do not swear at all. Or if you want to, swear by your gracious self. You are the god of my worship. Then I will believe you.\"",
+  "ko": "줄리엣이 말한다. \"아무것도 맹세하지 마세요. 정 맹세하고 싶다면 당신 자신을 걸고 맹세하세요. 당신은 제가 숭배하는 신과 같은 분이니까요. 그럼 당신의 말을 믿을게요.\"",
+  "is_header": false
+ },
+ {
+  "id": 37,
+  "tag": "P0337_1",
+  "en": "Romeo says, \"If my heart's dear love—\"",
+  "ko": "로미오가 말한다. \"내 마음속 소중한 사랑이—\"",
+  "is_header": false
+ },
+ {
+  "id": 38,
+  "tag": "P0338_1",
+  "en": "Juliet says, \"Well, do not swear. Although I find joy in you, I have no joy in this contract tonight. It is too rash, not thought through, and too sudden. It is like lightning, which stops before one can say 'It lightens'. Good night.\"",
+  "ko": "줄리엣이 말한다. \"음, 맹세하지 마세요. 당신을 통해 기쁨을 느끼지만, 오늘 밤의 이 약속은 기쁘지 않아요. 너무 성급하고 깊이 생각하지 않았으며 너무 갑작스럽거든요. 마치 '번쩍'이라고 말하기도 전에 멈춰버리는 번개와 같아요. 안녕히 주무세요.\"",
+  "is_header": false
+ },
+ {
+  "id": 39,
+  "tag": "P0338_2",
+  "en": "\"With summer's warm breath, this bud of love may be a beautiful flower when we next meet. Good night, good night. May the same sweet peace that is in my heart come to your heart.\"",
+  "ko": "\"여름의 따스한 숨결 속에서, 이 사랑의 싹은 우리가 다음에 만날 때 아름다운 꽃이 될 거예요. 잘 자요, 잘 자요. 내 마음속에 있는 달콤한 평화가 당신의 마음에도 깃들기를 바라요.\"",
+  "is_header": false
+ },
+ {
+  "id": 40,
+  "tag": "P0339_1",
+  "en": "Romeo asks, \"Oh, will you leave me so unsatisfied?\"",
+  "ko": "로미오가 묻는다. \"오, 저를 이렇게 허전하게 두고 가실 건가요?\"",
+  "is_header": false
+ },
+ {
+  "id": 41,
+  "tag": "P0340_1",
+  "en": "Juliet asks, \"What satisfaction can you have tonight?\"",
+  "ko": "줄리엣이 묻는다. \"오늘 밤 당신이 어떤 만족을 얻을 수 있겠어요?\"",
+  "is_header": false
+ },
+ {
+  "id": 42,
+  "tag": "P0341_1",
+  "en": "Romeo says, \"The exchange of your faithful vow for mine.\"",
+  "ko": "로미오가 말한다. \"당신의 진실한 맹세와 내 맹세를 바꾸는 것이요.\"",
+  "is_header": false
+ },
+ {
+  "id": 43,
+  "tag": "P0342_1",
+  "en": "Juliet says, \"I gave you mine before you asked for it. And yet I wish I could give it again.\"",
+  "ko": "줄리엣이 말한다. \"당신이 요청하기도 전에 저는 이미 제 것을 드렸어요. 그런데도 다시 한번 드릴 수 있다면 좋겠어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 44,
+  "tag": "P0343_1",
+  "en": "Romeo asks, \"Would you take it back? For what reason, my love?\"",
+  "ko": "로미오가 묻는다. \"그 맹세를 거두어 가겠다는 건가요? 어떤 이유 때문인가요, 내 사랑?\"",
+  "is_header": false
+ },
+ {
+  "id": 45,
+  "tag": "P0344_1",
+  "en": "Juliet says, \"I want to be generous and give it to you again. Yet I only want the thing I already have. My generosity is as boundless as the sea, and my love is just as deep. The more I give to you, the more I have because both are infinite. I hear some noise from inside. My dear love, goodbye.\"",
+  "ko": "줄리엣이 말한다. \"관대하게 당신에게 다시 주고 싶어요. 하지만 저는 이미 가진 것을 원할 뿐이에요. 제 관대함은 바다처럼 끝이 없고, 제 사랑도 그만큼 깊답니다. 두 가지 모두 무한하기에, 드릴수록 더 많이 갖게 되는 거예요. 안에서 소리가 들려요. 사랑하는 내 사람, 안녕히 가세요.\"",
+  "is_header": false
+ },
+ {
+  "id": 46,
+  "tag": "P0345",
+  "en": "The Nurse calls from inside.",
+  "ko": "유모가 안에서 부른다.",
+  "is_header": false
+ },
+ {
+  "id": 47,
+  "tag": "P0346_1",
+  "en": "Juliet goes on, \"Coming, good Nurse! Sweet Montague, be true. Wait just a little, for I will come back again.\"",
+  "ko": "줄리엣이 말을 잇는다. \"금방 가요, 유모! 다정한 몬태규, 변하지 말아요. 잠시만 기다려요, 제가 다시 돌아올게요.\"",
+  "is_header": false
+ },
+ {
+  "id": 48,
+  "tag": "P0347",
+  "en": "Juliet leaves.",
+  "ko": "줄리엣이 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 49,
+  "tag": "P0348_1",
+  "en": "Romeo says, \"Oh, blessed, blessed night. I am afraid. Since it is night, all of this might be a dream. It is too sweet to be real.\"",
+  "ko": "로미오가 말한다. \"오, 축복받은 밤이구나. 두렵다. 밤이니 이 모든 것이 꿈일지도 모른다. 현실이라기엔 너무나 달콤하다.\"",
+  "is_header": false
+ },
+ {
+  "id": 50,
+  "tag": "P0349",
+  "en": "Juliet comes back to the window.",
+  "ko": "줄리엣이 창가로 돌아온다.",
+  "is_header": false
+ },
+ {
+  "id": 51,
+  "tag": "P0350_1",
+  "en": "Juliet says, \"Three words, dear Romeo, and then really good night. If your love is honorable and your plan is marriage, send me word tomorrow. I will find someone to come to you. Through that person, tell me where and at what time we will marry.\"",
+  "ko": "줄리엣이 말한다. \"사랑하는 로미오, 세 마디만 말하고 이제 정말 자러 가겠어요. 당신의 사랑이 진실하고 결혼할 생각이라면 내일 소식을 전해줘요. 당신에게 올 사람을 찾아낼게요. 그 사람을 통해 어디서 언제 결혼할지 알려주세요.\"",
+  "is_header": false
+ },
+ {
+  "id": 52,
+  "tag": "P0350_2",
+  "en": "\"I will give all my fortunes at your feet and follow you as my lord throughout the world.\"",
+  "ko": "\"내 모든 재산을 당신 발밑에 바치고 세상 어디든 당신을 주인으로 모시며 따를게요.\"",
+  "is_header": false
+ },
+ {
+  "id": 53,
+  "tag": "P0351_1",
+  "en": "The Nurse calls from inside, \"Madam.\"",
+  "ko": "유모가 안에서 부른다. \"아가씨.\"",
+  "is_header": false
+ },
+ {
+  "id": 54,
+  "tag": "P0352_1",
+  "en": "Juliet says, \"I am coming right away. But if you do not mean well, I beg you—\"",
+  "ko": "줄리엣이 말한다. \"지금 바로 갈게. 하지만 나쁜 뜻이라면, 부탁하는데—\"",
+  "is_header": false
+ },
+ {
+  "id": 55,
+  "tag": "P0353_1",
+  "en": "The Nurse calls from inside, \"Madam.\"",
+  "ko": "유모가 안에서 부른다. \"아가씨.\"",
+  "is_header": false
+ },
+ {
+  "id": 56,
+  "tag": "P0354_1",
+  "en": "Juliet says, \"I will come in a moment. Stop trying, and leave me to my sadness. I will send word tomorrow.\"",
+  "ko": "줄리엣이 말한다. \"금방 갈게. 그만하고 내 슬픔을 그냥 내버려 둬. 내일 소식을 전할게.\"",
+  "is_header": false
+ },
+ {
+  "id": 57,
+  "tag": "P0355_1",
+  "en": "Romeo says, \"As I hope for heaven—\"",
+  "ko": "로미오가 말한다. \"천국을 걸고 맹세하건대—\"",
+  "is_header": false
+ },
+ {
+  "id": 58,
+  "tag": "P0356_1",
+  "en": "Juliet says, \"Good night a thousand times.\"",
+  "ko": "줄리엣이 말한다. \"천 번이라도 잘 자요.\"",
+  "is_header": false
+ },
+ {
+  "id": 59,
+  "tag": "P0357",
+  "en": "Juliet leaves.",
+  "ko": "줄리엣이 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 60,
+  "tag": "P0358_1",
+  "en": "Romeo says, \"It is a thousand times worse without your light. Love goes toward love as happily as schoolboys leave their books. But love leaves love as sadly as schoolboys go to school.\"",
+  "ko": "로미오가 말한다. \"당신의 빛이 없으니 천 배는 더 괴로워요. 사랑은 학생이 책을 두고 뛰쳐나가듯 기쁘게 사랑에게 가요. 하지만 사랑은 학생이 학교에 가듯 풀이 죽어 사랑을 떠나요.\"",
+  "is_header": false
+ },
+ {
+  "id": 61,
+  "tag": "P0359",
+  "en": "Romeo moves away slowly.",
+  "ko": "로미오가 천천히 멀어진다.",
+  "is_header": false
+ },
+ {
+  "id": 62,
+  "tag": "P0360",
+  "en": "Juliet comes back to the window.",
+  "ko": "줄리엣이 다시 창가로 온다.",
+  "is_header": false
+ },
+ {
+  "id": 63,
+  "tag": "P0361_1",
+  "en": "Juliet says, \"Psst! Romeo, psst! Oh, I wish for a falconer's voice. I want to call Romeo back, the way a falconer calls back his hawk. I am not free and cannot speak loudly. If I could speak loudly, I would destroy the cave where Echo lives. I would make her thin voice even more hoarse than mine.\"",
+  "ko": "줄리엣이 말한다. \"쉿! 로미오, 쉿! 아, 매사냥꾼의 목소리가 있으면 좋겠어요. 매사냥꾼이 매를 부르듯 로미오를 불러들이고 싶어요. 저는 자유롭지 못해서 크게 말할 수 없어요. 크게 말할 수 있다면 메아리가 사는 동굴을 무너뜨릴 거예요. 그녀의 가느다란 목소리를 내 목소리보다 더 쉬게 만들 거예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 64,
+  "tag": "P0361_2",
+  "en": "\"I would do it by making her repeat my Romeo's name over and over.\"",
+  "ko": "\"내 로미오라는 이름을 계속 반복하게 만들어서요.\"",
+  "is_header": false
+ },
+ {
+  "id": 65,
+  "tag": "P0362_1",
+  "en": "Romeo says, \"It is my soul that calls my name. How sweet lovers' voices sound at night. They sound like soft music to the ears of those listening.\"",
+  "ko": "로미오가 말한다. \"제 영혼이 제 이름을 부르고 있어요. 밤에 들리는 연인들의 목소리가 얼마나 달콤한지 몰라요. 듣는 사람의 귀에는 부드러운 음악처럼 들려요.\"",
+  "is_header": false
+ },
+ {
+  "id": 66,
+  "tag": "P0363_1",
+  "en": "Juliet says, \"Romeo.\"",
+  "ko": "줄리엣이 말한다. \"로미오.\"",
+  "is_header": false
+ },
+ {
+  "id": 67,
+  "tag": "P0364_1",
+  "en": "Romeo asks, \"My dear?\"",
+  "ko": "로미오가 묻는다. \"네, 내 사랑?\"",
+  "is_header": false
+ },
+ {
+  "id": 68,
+  "tag": "P0365_1",
+  "en": "Juliet asks, \"What time tomorrow should I send for you?\"",
+  "ko": "줄리엣이 묻는다. \"내일 몇 시에 사람을 보내서 당신을 데려올까요?\"",
+  "is_header": false
+ },
+ {
+  "id": 69,
+  "tag": "P0366_1",
+  "en": "Romeo says, \"At nine o'clock.\"",
+  "ko": "로미오가 말한다. \"아홉 시에요.\"",
+  "is_header": false
+ },
+ {
+  "id": 70,
+  "tag": "P0367_1",
+  "en": "Juliet says, \"I will not fail. It is twenty years until then. I have forgotten why I called you back.\"",
+  "ko": "줄리엣이 말한다. \"꼭 그렇게 할게요. 그때까지는 20년이나 남았어요. 왜 당신을 다시 불러냈는지 잊어버렸어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 71,
+  "tag": "P0368_1",
+  "en": "Romeo says, \"Let me stand here until you remember it.\"",
+  "ko": "로미오가 말한다. \"당신이 기억해낼 때까지 제가 여기 서 있을게요.\"",
+  "is_header": false
+ },
+ {
+  "id": 72,
+  "tag": "P0369_1",
+  "en": "Juliet says, \"I will keep forgetting, so that you stay there. I will only remember how much I love being with you.\"",
+  "ko": "줄리엣이 말한다. \"당신이 계속 그곳에 머물 수 있도록 저는 계속 잊을게요. 나는 당신과 함께 있는 게 얼마나 좋은지만 기억할게요.\"",
+  "is_header": false
+ },
+ {
+  "id": 73,
+  "tag": "P0370_1",
+  "en": "Romeo says, \"And I will stay, so that you keep forgetting. I will forget any home but this one.\"",
+  "ko": "로미오가 말한다. \"당신이 계속 잊어버릴 수 있게 제가 머무를게요. 이곳 말고는 다른 집은 다 잊어버릴게요.\"",
+  "is_header": false
+ },
+ {
+  "id": 74,
+  "tag": "P0371_1",
+  "en": "Juliet says, \"It is almost morning. I want you to go. But no farther than a spoiled child's pet bird. She lets it hop a little from her hand, like a poor prisoner in chains. Then she pulls it back again with a silk thread. She loves it too much to let it be free.\"",
+  "ko": "줄리엣이 말한다. \"거의 아침이에요. 당신이 가셨으면 좋겠어요. 하지만 응석받이 아이의 애완 새만큼만 멀리 가세요. 아이는 사슬에 묶인 불쌍한 죄수 같은 새를 손에서 조금 뛰게 해 줘요. 그러고는 비단실로 다시 끌어당겨요. 그녀는 새가 자유로워지는 걸 허락하기엔 너무 사랑하거든요.\"",
+  "is_header": false
+ },
+ {
+  "id": 75,
+  "tag": "P0372_1",
+  "en": "Romeo says, \"I wish I were your bird.\"",
+  "ko": "로미오가 말한다. \"제가 당신의 새였으면 좋겠어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 76,
+  "tag": "P0373_1",
+  "en": "Juliet says, \"Sweet, I would too. But I would kill you if I held you too closely. Good night, good night. Parting is such sweet sorrow. I could keep saying good night until morning.\"",
+  "ko": "줄리엣이 말한다. \"나도 그러고 싶어요, 내 사랑. 하지만 너무 아끼다가 당신을 죽이고 말 거예요. 안녕히 주무세요, 잘 자요. 헤어짐은 참 달콤한 슬픔이에요. 아침이 올 때까지 계속 잘 자라고 말하고 싶어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 77,
+  "tag": "P0374",
+  "en": "Juliet leaves.",
+  "ko": "줄리엣이 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 78,
+  "tag": "P0375_1",
+  "en": "Romeo says, \"May sleep fall on your eyes and peace be in your breast. I wish I were sleep and peace to give you such a sweet rest. I must go now to my priest's small room. I will ask for his help and tell him my good fortune.\"",
+  "ko": "로미오가 말한다. \"잠이 눈에 내리고 가슴에 평화가 깃들길 바라요. 제가 잠과 평화가 되어 당신에게 달콤한 휴식을 줄 수 있다면 좋겠어요. 이제 신부님의 수도실로 가야 해요. 신부님께 도움을 청하고 제 기쁜 소식을 전할게요.\"",
+  "is_header": false
+ },
+ {
+  "id": 79,
+  "tag": "P0376",
+  "en": "Romeo leaves.",
+  "ko": "로미오가 나간다.",
+  "is_header": false
+ }
+]
