@@ -1,42 +1,32 @@
 import codecs
 
-content = """"언제나 헌신하고 감사하는 친구,
-"미나 하커 올림."
+paras = [
+'''Letter from Mrs. Harker to Van Helsing.''',
+'''"September 25, 6:30 PM.''',
+'''"Dear Dr. Van Helsing,—''',
+'''"I want to thank you a thousand times for sending such a kind letter. I feel like a heavy burden has been lifted from my heart. But if his journal is all true, what truly terrible things exist in this world! How frightening it is if that man—that monster—is really here in London! Just thinking about it makes me shudder. While writing this letter, I just received a telegram from Jonathan saying he will leave Launceston on the 6:25 train tonight and arrive here at 10:18. Knowing he is coming home makes me feel completely unafraid tonight. So, instead of lunch tomorrow, if it is not too early, how about coming at 8:00 AM to have breakfast with us? If you are busy, you can take the 10:30 train and arrive at Paddington around 2:35. You do not need to reply to this letter. If I do not hear from you, I will assume you are coming for breakfast.''',
+'''"Sincerely,''',
+'''"Your ever devoted and grateful friend,''',
+'''"Mina Harker."''',
+'''Jonathan Harker's Journal.''',
+'''September 26.—I never thought I would write in this journal again, but the time has finally come. When I returned home last night, Mina was waiting with dinner ready. After we ate, she told me everything about Dr. Van Helsing's visit, giving him a copy of our journal, and how much she had worried about me. Then she showed me the doctor's letter stating that everything I had written in my journal was true. That news seems to have made me a completely new person. What had broken me all this time was the terrible doubt of not knowing what was real and what was an illusion. I had been lost in thick darkness, suffering from helplessness and paranoia. But now that I know the truth, I am no longer afraid—even if it is the Count himself. In the end, his plan to come to London succeeded, and the man I saw really was the Count. He had grown younger, but how on earth could that be? If Dr. Van Helsing is as wonderful as Mina says, he must be the exact person we need to uncover the Count's identity and hunt him down. Mina and I stayed awake late discussing all of this. While Mina gets ready to go out, I plan to go to the hotel in a few minutes to fetch the doctor....''',
+'''The doctor seemed inwardly surprised to see me. When I entered the room and greeted him, he grasped both my shoulders, turned my face toward the light, stared at me intently, and said.''',
+'''"But Madam Mina told me you were ill. That you had suffered a great shock." Hearing this kind, sharply-featured old gentleman call my wife "Madam Mina" somehow made me smile. I smiled and replied.''',
+'''"It is true that I was bedridden and suffered a great shock, but you have already cured my illness, Doctor."''',
+'''"How do you mean I cured you?"''',
+'''"Thanks to the letter you sent Mina last night. I was lost in deep doubt, feeling as if my entire life was unreal. I didn't know what to believe—I couldn't even trust my own senses. Because I didn't know what to believe, I didn't know what to do. So I simply buried myself in work, trying to escape into my old ordinary routine. But even that routine didn't work for me, and I ended up losing even my belief in myself. Doctor, you probably don't know what it feels like to doubt everything about yourself, even your sanity. No, you could never know. Someone with strong eyebrows like yours would never have experienced such a thing." He chuckled, seemingly pleased by my words, and said.''',
+'''"Aha! So you know a bit of physiognomy (reading character from faces). I learn more every hour I am here. I am very much looking forward to having breakfast with you today. And Mr. Jonathan, forgive this old man's compliment, but you are truly blessed to have such a wife." I nodded and listened silently, for I could gladly listen all day to the doctor praising Mina.''',
+'''"Your wife is one of the most perfect creatures God has ever made. She is a person God created Himself to show men—and other women as well—that a heaven we can enter truly exists, and that its light can shine right here on earth. She is so true, kind, and noble, yet utterly without selfishness—a rare thing indeed in this suspicious and selfish age. And as for you—I read all the letters you sent to poor Miss Lucy, and some of the letters Lucy left behind also mentioned you. So I had known about you through the words of others for a few days. But it was only through reading your journal last night that I finally saw the real you. Shall we shake hands? Let us be lifelong friends."''',
+'''We shook hands, and his genuine, kind demeanor brought a lump to my throat.''',
+'''"Now then," he continued. "May I ask you for one more favor? I have an enormous task before me, and the first step is to gather information. You could help me. Could you tell me what happened before you left for Transylvania? I might ask for other kinds of help later, but right now, this is what I need."''',
+'''"Listen, Doctor," I said. "Does your task happen to involve the Count?"''',
+'''"It does," he answered solemnly.''',
+'''"In that case, I am with you with all my heart. Since you have to catch the 10:30 train, you won't have time to read my records right now. But I will pack a bundle of papers for you, so you can read them on the train."''',
+'''After breakfast, I saw him off at the station. As we exchanged goodbyes, he said.''',
+'''"If I send someone, could you come to London? With Madam Mina, too."''',
+'''"If you call, both of us will come anytime," I replied.''',
+'''""'''
+]
 
-조나단 하커의 일기.
-
-9월 26일.—이 일기장에 다시 글을 쓰게 될 줄은 몰랐지만, 결국 때가 왔다. 어젯밤 집에 돌아오니 미나가 저녁을 준비해 놓고 기다리고 있었다. 식사를 마친 후, 그녀는 반 헬싱 박사님이 다녀가신 일, 그분께 우리 일기의 복사본을 드린 일, 그리고 나를 얼마나 걱정했는지 모두 이야기해 주었다. 그러고는 내가 일기에 쓴 모든 것이 사실이라는 박사님의 편지를 보여주었다. 그 소식은 나를 완전히 새로운 사람으로 만들어 놓은 것 같다. 그동안 나를 무너뜨렸던 건 무엇이 진짜이고 무엇이 환상인지 도무지 알 수 없다는 끔찍한 의심이었다. 나는 짙은 어둠 속에서 길을 잃은 채 무기력함과 피해망상에 시달려 왔다. 하지만 이제 진실을 알았으니, 나는 더 이상 두렵지 않다—설령 그 백작이라 해도 말이다. 결국 런던으로 오려던 그의 계획은 성공했고, 내가 본 그 남자는 정말로 백작이 맞았다. 그는 더 젊어졌는데, 대체 어떻게 그럴 수 있었을까? 만약 반 헬싱 박사가 미나의 말대로 훌륭한 분이라면, 그는 백작의 정체를 밝혀내고 그를 쫓을 바로 우리가 찾던 그 사람일 것이다. 미나와 나는 늦게까지 깨어 이 모든 것에 대해 이야기를 나누었다. 미나가 외출 준비를 하는 동안, 나는 몇 분 뒤에 호텔로 가서 박사님을 모셔 올 생각이다....
-
-박사님은 나를 보고 내심 놀라신 것 같았다. 내가 방에 들어가 인사를 건네자, 그는 내 양어깨를 잡고 얼굴을 빛 쪽으로 돌리게 한 뒤 나를 빤히 바라보며 말했다.
-
-“하지만 미나 부인은 선생께서 편찮으시다더군요. 큰 충격을 받았다고요.” 이 선량하고 이목구비가 뚜렷한 노신사가 내 아내를 "미나 부인"이라고 부르는 걸 들으니 왠지 웃음이 났다. 나는 미소를 지으며 대답했다.
-
-“앓아누웠던 것도 맞고 큰 충격을 받은 것도 맞지만, 박사님께서 이미 제 병을 고쳐주셨는걸요.”
-
-“제가 어떻게 고쳐드렸단 말씀입니까?”
-
-“어젯밤 미나에게 보내신 그 편지 덕분이죠. 저는 깊은 의심에 빠져 제 삶 전체가 비현실처럼 느껴졌습니다. 무엇을 믿어야 할지 몰랐죠—심지어 제 감각조차 믿을 수 없었으니까요. 무엇을 믿어야 할지 모르니 무엇을 해야 할지도 몰랐습니다. 그래서 그저 묵묵히 일에만 매달리며 예전의 평범한 일상으로 도피하려 했죠. 하지만 그 일상마저도 제게 통하지 않았고, 저는 제 자신에 대한 믿음마저 잃어버리고 말았습니다. 박사님, 제 모든 것, 심지어 제정신마저 의심한다는 게 어떤 기분인지 박사님은 모르실 겁니다. 아니, 절대 모르시겠죠. 박사님처럼 강인한 눈썹을 가지신 분이라면 절대 그런 걸 겪어보지 않으셨을 테니까요.” 그는 내 말을 듣고 기분이 좋아진 듯 껄껄 웃으며 말했다.
-
-“아하! 관상(얼굴을 보고 성격을 읽어내는 사람)을 보실 줄 아시는군요. 이곳에서 매시간 더 많은 걸 배워갑니다. 오늘 함께 아침 식사를 하게 되어 무척 기대가 됩니다. 그리고 조나단 선생, 이 늙은이의 칭찬을 용서하십시오만, 선생은 아내 덕분에 참으로 큰 축복을 받으셨습니다.” 나는 박사님이 미나를 칭찬하는 말씀이라면 온종일이라도 기쁘게 들을 수 있었기에, 그저 고개를 끄덕이며 묵묵히 듣기만 했다.
-
-“부인께서는 신이 빚어낸 가장 완벽한 피조물 중 하나입니다. 남성들에게—그리고 다른 여성들에게도—우리가 들어갈 수 있는 천국이 존재하며, 그 빛이 바로 이 땅 위에서도 빛날 수 있다는 것을 보여주기 위해 신께서 직접 만드신 분이죠. 부인께서는 그토록 진실하고 다정하며 고결하시면서도 이기심이라곤 찾아볼 수 없습니다—이토록 의심 많고 이기적인 시대에는 정말 보기 드문 일이죠. 그리고 선생에 대해 말씀드리자면—가엾은 루시 양에게 보내신 편지들을 모두 읽어보았고, 루시가 남긴 편지 중 일부에도 선생에 대한 이야기가 있더군요. 그래서 며칠 전부터 다른 이들의 말을 통해 선생에 대해 알고 있었습니다. 하지만 어젯밤 일기를 통해 비로소 선생의 진짜 모습을 보게 되었죠. 악수 한번 나누시겠습니까? 평생을 함께할 친구가 됩시다.”
-
-우리는 악수를 나누었고, 그의 진심 어린 다정한 태도에 나는 왈칵 목이 메었다.
-
-“자, 그럼.” 그가 말을 이었다. “부탁을 하나 더 드려도 되겠습니까? 제 앞에는 아주 거대한 임무가 놓여 있고, 그 첫 번째 단계는 정보를 모으는 것입니다. 선생께서 저를 도와주실 수 있을 겁니다. 트란실바니아로 떠나기 전에 어떤 일들이 있었는지 말씀해 주시겠습니까? 나중에 다른 종류의 도움을 더 청할지도 모르지만, 지금 당장 제게 필요한 건 바로 이것입니다.”
-
-“이보십시오, 박사님.” 내가 말했다. “박사님의 임무가 혹시 그 백작과 관련이 있습니까?”
-
-“그렇습니다.” 그가 엄숙하게 대답했다.
-
-“그렇다면 진심을 다해 박사님과 함께하겠습니다. 10시 30분 기차를 타셔야 하니 지금 당장 제 기록을 읽으실 시간은 없을 겁니다. 하지만 제가 서류 뭉치를 챙겨드릴 테니, 기차 안에서 읽어보시지요.”
-
-아침 식사 후, 나는 그를 역까지 배웅했다. 인사를 나누며 그가 말했다.
-
-“만약 제가 사람을 보내거든 런던으로 와주실 수 있겠습니까? 미나 부인도 함께 말입니다.”
-
-“부르시면 언제든 두 사람 모두 가겠습니다.” 내가 대답했다.
-"""
-
-with codecs.open(r'c:\git_repo\TKprof_book\books\dracula\chapters\ch14_ko_modern_refined.txt', 'a', encoding='utf-8') as f:
-    f.write(content)
+with codecs.open('C:/git_repo/TKprof_book/books/dracula/chapters/ch14_en.txt', 'a', 'utf-8') as f:
+    f.write('\n\n'.join(paras))

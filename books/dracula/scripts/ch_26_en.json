@@ -1,0 +1,992 @@
+[
+  {
+    "id": 1,
+    "role": "Narrator",
+    "text": "Chapter 26",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "role": "Narrator",
+    "text": "Doctor Seward's Diary",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "role": "Narrator",
+    "text": "October 29.—I am writing this on the train from Varna to Galatz. Last night at sunset, our party gathered a little early. We had all successfully finished our respective tasks. As much as we had planned and tried, and as far as the situation allowed, we were ready for whatever would happen when we arrived in Galatz. As the usual time for hypnosis approached, Missus Harker prepared to slip into a trance. But this time, she only managed to enter the hypnotic state after Professor Van Helsing had induced it much longer and more persistently than usual.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "role": "Narrator",
+    "text": "Usually, she would start speaking after just a simple cue word, but this time she only opened her mouth after the Professor firmly pressed her several times. Finally, she spoke.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "role": "Male_Others",
+    "text": "I see nothing. We are standing still. There is no lapping of waves, just the steady sound of water gently swirling as it hits a thick rope. I hear people shouting from near and far, the sound of rowing, and the creaking of oarlocks. There is a gunshot somewhere, and the echo rings faintly. Above me, footsteps are thumping, and ropes and chains are being dragged. What is this? A ray of light seeps in, and I feel a breeze blowing on me.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "role": "Narrator",
+    "text": "Missus Harker stopped talking there. Then, as if drawn by something, she rose from the sofa and mimed lifting something heavy, her palms facing upward. Van Helsing and I exchanged a meaningful look. Quincey raised his eyebrows and watched her closely, and Harker's hand instinctively gripped the handle of his kukri dagger. A long silence passed. We all knew she had little time left to speak, but we felt that whatever she said would be of no use. Suddenly, she straightened her back, sat upright, opened her eyes wide, and spoke in an incredibly affectionate voice.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "role": "Female",
+    "text": "Would you all like a cup of tea? You must be very tired!",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "role": "Narrator",
+    "text": "We gladly accepted to humor her. As soon as she hurried out of the room to make tea, Van Helsing spoke up.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "role": "Narrator",
+    "text": "You see, friends, Count Dracula has reached land. He is out of his earth box, but he hasn't stepped on land yet. He might be hiding somewhere during the night. But he cannot go ashore unless someone moves his box to land, or the ship reaches the port. If it were night, he could transform and leap ashore as he did in Whitby, or fly away. But if dawn breaks before he steps on land, he'll be trapped like a rat in a hole unless someone moves him.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "role": "Narrator",
+    "text": "Even if someone tries to move him, customs officers might discover what's inside the box. So if he cannot escape to land tonight or before dawn, he loses an entire day. That means we can arrive in time. If he fails to run away during the night, we can fall upon him in broad daylight while he is trapped and defenseless in his box. He won't dare wake up in his true form for fear of being discovered.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "role": "Narrator",
+    "text": "There was no need to argue further. Hoping to get a new clue from Missus Harker at dawn, we waited in silence.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "role": "Narrator",
+    "text": "Early this morning, we held our breath and watched the lips of the hypnotized lady. This time, it took much longer to fall into the trance than the night before. When she finally opened her mouth, the time remaining until the sun fully rose was so short that we were almost in despair. After Van Helsing infused his will with all his might, she finally answered.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "role": "Female",
+    "text": "It is dark all around. I hear water lapping at the level of my body, and the creaking of wooden planks rubbing against each other.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "role": "Narrator",
+    "text": "As soon as she stopped speaking, the red sun rose. Now we have no choice but to wait for tonight.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "role": "Narrator",
+    "text": "And so, we are heading toward Galatz in agonizing wait. We were originally scheduled to arrive between 2 and 3 a.m., but after being delayed for three hours in Bucharest, it seems we won't arrive until the sun is high in the sky. Thanks to that, we will have two more chances to hear hypnotic messages from Missus Harker. I only hope that at least one of them will throw us a decisive clue about the current situation.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "role": "Narrator",
+    "text": "Later.—The sun has set and darkness has fallen. Fortunately, the sun set while the train was running without stopping at a station, so we weren't interrupted. Had we been stopped at a station, we wouldn't have enjoyed the silence and privacy we so desperately needed. Missus Harker resisted the hypnosis much more violently than this morning. I fear that her ability to read the Count's senses might be fading precisely when we need it most. It seems her own imagination has started mixing into the visions. Until now, she has only described simple facts while hypnotized.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "role": "Narrator",
+    "text": "But if this change continues, it might eventually drive us down the wrong path. It would be wonderful if the Count's power over her was fading along with her clairvoyance, but my gut tells me otherwise. Finally, she spoke, but the words she left were like a riddle.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "role": "Female",
+    "text": "Something is slipping away. I feel something passing by me like a cold wind. A noisy commotion comes from afar. The voices of people chattering in an unfamiliar tongue, the sound of rushing water, and the howling of wolves.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "role": "Narrator",
+    "text": "She suddenly stopped speaking and then her whole body trembled. The trembling intensified for a few seconds until she was thrashing uncontrollably as if having a seizure. The Professor pressed her urgently, but she kept her mouth firmly shut.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "role": "Narrator",
+    "text": "When she woke from the hypnosis, her body was cold and she seemed ready to collapse from exhaustion, but her mind was perfectly clear. Having absolutely no memory of what she had said, she asked us instead. When we answered her, she sank into deep thought in silence for a long while.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "role": "Narrator",
+    "text": "October 30, 7 a.m.—Galatz is just ahead of us now. I might not have time to write in my diary later. This morning, we waited for sunrise with burning anxiety. Realizing that inducing hypnosis was getting harder and harder, Professor Van Helsing started waving his hands earlier than usual. But it was completely useless until the appointed time. Even then, she resisted fiercely, only yielding a minute before the sun peeked over the horizon. When the Professor immediately fired a question, she quickly replied.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "role": "Female",
+    "text": "It's just darkness all around. At the level of my ears, I hear the sound of water swirling by, and wooden planks rubbing and creaking. From afar, I hear the lowing of cattle. And another sound, something strange... like—",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "role": "Narrator",
+    "text": "The lady's face, pausing in mid-sentence, turned ashen, and soon became as pale as a corpse.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "role": "Female",
+    "text": "Keep going! Hurry! I command you to speak!",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "role": "Narrator",
+    "text": "Van Helsing cried out in a heartbreaking voice. Because the rising sun was already tingeing Missus Harker's pale face red, the Professor's eyes were clouded with thick despair. She opened her eyes wide, and her first words, spoken in a flawlessly clear and calm voice, left us utterly stunned.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "role": "Female",
+    "text": "My goodness, Professor. Why do you keep pressing me when you know I can't? I don't remember anything.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "role": "Narrator",
+    "text": "Seeing the shock spread across our faces, her expression quickly turned to one of concern. Looking at us in bewilderment, she asked.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "role": "Male_Others",
+    "text": "What did I say? Did I do something? I have no idea. I was just lying there half-asleep, and all I heard was your voice shouting, 'Keep going! I command you to speak!' It felt very strange that you were commanding me, as if scolding a disobedient child!",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "role": "Female",
+    "text": "Oh, Madam Mina,",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "role": "Narrator",
+    "text": "the Professor replied in a sorrowful voice.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "role": "Female",
+    "text": "If I had to prove how much I care for and respect you, this very moment would be the proof. Driven solely by the thought of saving you, the words I blurted out more desperately than ever sounded strange and bizarre to you. Because I dared to give a command to someone to whom I would normally gladly bow in submission!",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "role": "Narrator",
+    "text": "The train whistle blasts. The train is pulling into Galatz. My insides are burning black with agonizing anxiety and impatience.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "role": "Narrator",
+    "text": "Mina Harker's Diary.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "role": "Narrator",
+    "text": "October 30.—Mister Morris guided me to the hotel room he had booked in advance via telegram. It made sense that he, being the easiest to spare among our party due to his poor foreign language skills, would take charge of escorting me. We divided our roles much as we did in Varna. The only difference was that Lord Godalming went to see the Vice-Consul. Because time was so tight, we hoped his aristocratic title would act as an instant guarantee of identity for the officials.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "role": "Narrator",
+    "text": "Jonathan and the two doctors headed to the shipping agency to find out exactly when the 'Czarina Catherine' had arrived.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "role": "Narrator",
+    "text": "Later.—Lord Godalming has returned. The Consul was away and the Vice-Consul was sick in bed, so a clerk was handling the daily affairs. The clerk was very kind and went out of his way to offer help with whatever we needed.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "role": "Narrator",
+    "text": "Jonathan Harker's Diary.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "role": "Narrator",
+    "text": "October 30.—At exactly 9 a.m., Doctor Van Helsing, Doctor Seward, and I visited the local agency of Hapgood from London, the firm of Mackenzie and Steinkopf. They had already received a telegram from their London headquarters, requested by Lord Godalming, ordering them to provide us with every convenience. The staff were exceedingly kind and polite, and immediately guided us to the 'Czarina Catherine', which was anchored in the river port. There we met a captain named Donelson and heard the story of their voyage.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "role": "Narrator",
+    "text": "The captain, who had sailed the seas his whole life, clicked his tongue, saying he had never seen such a smooth voyage in all his days.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "role": "Male_Others",
+    "text": "My word!",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "role": "Narrator",
+    "text": "the captain exclaimed. \"To be honest, it was enough to make my knees knock. I was so lucky that I was terrified of what terrible misfortune would strike later to balance it out. All the way from London to the Black Sea, a fierce tailwind blew, as if the devil himself was puffing into the sails because he had some urgent business. It was completely abnormal! Furthermore, I couldn't see a single thing ahead for the entire voyage. Whenever we got near ships, ports, or headlands, a thick fog would suddenly drop and follow us around.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "role": "Narrator",
+    "text": "When the fog cleared and we looked around, there wasn't a single rat in sight. We couldn't even send a signal passing Gibraltar, and until we waited for our transit permit in the Dardanelles, we didn't exchange a single word with anyone. At first, I thought about lowering the sails and waiting for the fog to clear. But then I figured if the devil had made up his mind to shove us into the Black Sea quickly, he'd get it done whether we wanted it or not.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "role": "Narrator",
+    "text": "Arriving early wouldn't get us in trouble with the owners, and the cargo wouldn't spoil either. I figured we should just be thankful the old devil moved quietly out of our way once he achieved his goal.\" Intrigued by these words, which were a bizarre mix of bluntness, cunning, deep superstition, and thorough calculation, Van Helsing chimed in.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "role": "Male_Others",
+    "text": "My friend, that devil is much more cunning than people think. He knows exactly when he's met his match!",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "role": "Narrator",
+    "text": "The captain seemed quite pleased with this compliment.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "role": "Narrator",
+    "text": "As soon as we passed the Bosphorus, the crew started grumbling. Some of the Romanians came up and suggested we chuck that massive wooden box overboard—the one the weird-looking old man had loaded just before we left London. I remembered that when they first saw the man, they pointed two fingers at him to ward off the evil eye. I tell you, the superstitions of these foreigners are ridiculous! I barked at them to get right back to work. But honestly, when the fog thickened right after that, I kind of felt the same way they did.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "role": "Narrator",
+    "text": "Although I wouldn't blame it on that damn box, of course. Anyway, we kept going. The fog didn't clear for five days, so we just let the wind take us wherever it wanted. I figured if the devil wanted to go somewhere, he'd find his own way fine. If not, we'd just have to keep our eyes peeled. Sure enough, the waterway was wide open and deep the whole way.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "role": "Narrator",
+    "text": "Two mornings ago, when the sunlight finally broke through the fog, we found ourselves in the river right across from Galatz. The Romanians went completely nuts. They threw a fit, demanding we haul the box out and dump it in the river immediately, without a second thought. I had to grab a heavy crowbar and get into a physical brawl with them. I taught every single one of them a clear lesson, right down to the last guy who stood up on the deck holding his bleeding head.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "role": "Narrator",
+    "text": "Evil eye or not, my owners' property and credit were far safer in my two hands than rotting at the bottom of the Danube. Keep in mind, they had already dragged the box up on deck to throw it over. Since it said 'To Galatz via Varna,' I decided to just leave it on deck until we unloaded the cargo at the port and got rid of it entirely. We couldn't do much unloading that day, so we had to drop anchor and stay the night.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "role": "Narrator",
+    "text": "But early the next morning, about an hour before sunrise, some guy came aboard with an order from England. He came to pick up the box marked for 'Count Dracula.' It was completely baffling since the box was sitting right there on the deck. The guy's paperwork was flawless, and I was just relieved to get rid of that hideous box. To be frank, I was starting to get on edge because of that box myself. If my ship was actually carrying the devil's cargo, I'd bet my right arm that box was it!",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "role": "VanHelsing",
+    "text": "What is the name of the man who took the box?",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "role": "Narrator",
+    "text": "Van Helsing asked, barely suppressing his boiling excitement.",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "role": "Male_Others",
+    "text": "I'll check for you right now!",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "role": "Narrator",
+    "text": "the captain replied. He went down to the cabin and brought back a receipt signed 'Emanuel Hildesheim.' The address was 16 Burgenstrasse. Quickly realizing that this was all the captain knew, we thanked him and left.",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "role": "Narrator",
+    "text": "We found Hildesheim in his office. He was a comical Jew who looked as if he had popped right out of a third-rate play at the Adelphi Theatre. He had a droopy nose like a sheep and was even wearing a round Turkish fez. It took cash to make him open his mouth. We had to chime in with jingling coins at the end of every sentence. After tough bargaining, he finally spilled what he knew. The content was simple and clear, but it was an incredibly important clue.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "role": "Narrator",
+    "text": "A man named De Ville in London had sent him a letter, instructing him to secretly smuggle a box arriving in Galatz on the 'Czarina Catherine' past customs before dawn. He was told that once he received the box, he was to hand it over to a man named Petrof Skinsky, who traded with Slovak merchants navigating up and down the river. Hildesheim received English banknotes for his trouble, which he had already profitably exchanged for gold coins at the Danube International Bank.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "role": "Narrator",
+    "text": "When Skinsky showed up, Hildesheim took him straight to the ship himself to save on porter fees and shoved the box off on him. That was all he knew.",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "role": "Narrator",
+    "text": "We hastily tracked Skinsky's whereabouts, but there was no trace of him anywhere. According to a neighbor who found Skinsky very sketchy, he had left suddenly two days ago, and not even his daughter-in-law knew where he went. His landlord backed up the story. Between 10 and 11 last night, an errand boy dropped off the house key along with back rent paid in English money and left. We were driven into a dark dead end once again.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "role": "Narrator",
+    "text": "While we were talking, a man ran up panting heavily. Skinsky's body had just been found inside the wall of the Saint Peter's churchyard. His throat was torn wide open as if mauled by a wild beast. The people listening to the story rushed out like an ebbing tide toward the grisly spectacle, and the women shrieked,",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "role": "Male_Others",
+    "text": "This is the work of those Slovaks!",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "role": "Narrator",
+    "text": "Afraid we would waste time getting swept up in an irrelevant investigation, we hurried our steps in the exact opposite direction.",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "role": "Narrator",
+    "text": "On our way back to the lodgings, we couldn't draw any significant conclusions. There was no doubt that the box was moving somewhere along the waterway, but its destination was still a complete mystery. Dragging our heavy hearts, we returned to the hotel where Mina was waiting.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "role": "Narrator",
+    "text": "The first thing we had to decide when we gathered was whether to bring Mina back into our plans. The situation was sinking into a swamp of despair. It was a perilous gamble, but we felt we only had a chance of winning if we pulled her in. As a first step, I officially retracted our promise to hide the truth from Mina.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "role": "Narrator",
+    "text": "Mina Harker's Diary.",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "role": "Narrator",
+    "text": "October 30, Evening.—The men were so exhausted and discouraged that their bones ached, so trying to make any plans before they got some shut-eye would be a waste of time. While I typed up the events so far, I earnestly begged everyone to lie down and rest for just thirty minutes. I feel like bowing down in gratitude to the person who invented the 'traveler's' typewriter and to Mister Morris, who gave me this machine. If I had tried to organize these massive records relying on a single pen, I probably would have gone mad....",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "role": "Narrator",
+    "text": "I'm done typing. My poor, precious Jonathan. What terrible suffering he must have endured, and how he must still be writhing in agonizing pain now. He looks as if his entire body has collapsed, lying on the sofa like a man who can barely breathe. His brows are tightly furrowed in pain, and his face is rigidly tense. My poor love, perhaps he is dreaming. His whole face is crinkled as if engrossed in something. Ah! If only I could lighten his burden even a little.... I will do everything in my power.",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "role": "Narrator",
+    "text": "I asked Doctor Van Helsing to give me all the documents and diaries I haven't read yet.... While the men rest, I intend to dig through all the records thoroughly. I might be able to find a clue. Like the Professor, I will try to discard all preconceptions and look coldly only at the facts before me....",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "role": "Narrator",
+    "text": "By the great grace of God, I think I have finally found something. I must take out the map and examine it carefully right away....",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "role": "Narrator",
+    "text": "I am more intensely convinced than ever that my guess is right. I have organized the new conclusions, so I must wake up the whole party and read them aloud. The judgment is up to them. It's better to make sure, and right now, every single minute and second is agonizingly precious time.",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "role": "Narrator",
+    "text": "Mina Harker's Memorandum",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "role": "Narrator",
+    "text": "(Recorded in her diary.)",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "role": "Narrator",
+    "text": "Basis of Deduction.—Count Dracula's homework to solve is to return safely to his stronghold.",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "role": "Narrator",
+    "text": "(a) He absolutely must be transported by someone's hands. This is an absolute prerequisite. Because if he could move as he pleased, he would have already transformed into a human, wolf, or bat and slipped away leisurely. The proof is the fact that, trapped and defenseless in his box from sunrise to sunset, he is extremely terrified of being tailed or interrupted.",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "role": "Narrator",
+    "text": "(b) Then how will he travel?—The answer comes from the process of elimination. By land, rail, or water?",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "role": "Narrator",
+    "text": "Traveling by land.—Just getting out of the city is a thorny path.",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "role": "Narrator",
+    "text": "(x) There are people everywhere, and people are naturally curious and ask inquisitive questions. Even the slightest hint, speculation, or suspicion about the contents inside the box will cut his lifeline short.",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "role": "Narrator",
+    "text": "(y) There might be customs or toll-collecting gatekeepers stationed along the way.",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "role": "Narrator",
+    "text": "(z) The breath of his pursuers might be right on the back of his neck. This is exactly what he fears most deeply. After all, didn't he desperately try to detach even me, his prey, to erase his tracks!",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "role": "Narrator",
+    "text": "Traveling by rail.—There are no guards to watch over the box. He has to trust his life to the fate of trains that are delayed like clockwork. With enemies hot on his heels, delay means death. Of course, he could slip away under the cover of night, but what would happen to him if he were abandoned in a strange land with nowhere to hide? This is not on his schedule, and there is no way he would take such a reckless gamble.",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "role": "Narrator",
+    "text": "Traveling by water.—In some ways it's the safest refuge, but in others it's the deadliest trap. On water, he is completely powerless until nightfall. Even when night comes, the most he can do is conjure fog, storms, or blizzards, and call packs of wolves. If the boat were to capsize, the flowing water of life would swallow him up when he has no strength to resist, and that would be the absolute end of it.",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "role": "Narrator",
+    "text": "He could force the boat ashore, but if that place is an enemy territory where he can't run wild, he is still trapped like a rat.",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "role": "Narrator",
+    "text": "[P058_059] Through the records so far, we have clearly seen that he fled using the waterways. So the homework we must solve now is to uncover exactly which waterway he is traveling on.",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "role": "Narrator",
+    "text": "The first thing to do is to thoroughly investigate exactly what he has done so far. Only then can we gauge what ulterior motives he holds for the future.",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "role": "Narrator",
+    "text": "First.—We must split his actions into two parts. One is a part of the big picture he was forced to concoct in London while chased by time, and the other is the deeds he committed here in Galatz.",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "role": "Narrator",
+    "text": "Second.—We must piece together the clues we've scraped up like a puzzle, and closely examine what he has done here.",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "role": "Narrator",
+    "text": "Regarding the first issue, he intended to come to Galatz from the very beginning. He sent the invoice to Varna to deceive our eyes and hide his true escape route out of England. At that time, his mind was solely focused on escaping. The proof is the fact that he sent a letter to Emanuel Hildesheim, instructing him to secretly smuggle the box past customs before dawn. He must have given instructions to Petrof Skinsky as well.",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "role": "Narrator",
+    "text": "We can only guess at the contents, but seeing that Skinsky showed up to meet Hildesheim, it means some letter or message must have been exchanged.",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "role": "Narrator",
+    "text": "We already know that up to a certain point, his plan fell perfectly into place. The 'Czarina Catherine' cut through the sea at a near-miraculous speed that made Captain Donelson suspicious. However, the bizarre entanglement of the captain's superstition and cunning ended up pushing the Count forward. Escorted by tailwinds and fog, the Count entered Galatz without hindrance. His meticulous plan had shone brightly. Hildesheim safely smuggled the box out and handed it over to Skinsky, and Skinsky collected the box.—This is exactly where his tail is cut off.",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "role": "Narrator",
+    "text": "All we know is the fact that the box is now floating somewhere on the water. Neither customs officers nor toll collectors could touch a single hair on his head.",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "role": "Narrator",
+    "text": "Now, let's picture what the Count did after setting foot in Galatz.",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "role": "Narrator",
+    "text": "The box was handed over to Skinsky before sunrise. When dawn breaks, the Count can regain his true form. Here we must ask one question. Why did he choose Skinsky, of all people, as his pawn? According to what is written in my husband's diary, Skinsky was doing business with Slovak merchants who transported goods from the lower reaches of the river to the port. Furthermore, the man who blamed the murder on the Slovaks clearly shows what kind of prejudice the local people harbor against them. The Count wanted to hide away completely from people's eyes.",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "role": "Narrator",
+    "text": "My guess is this. In London, the Count decided to return to his castle using the safest and most secret waterway. When he first left the castle, it was the gypsies (Tziganes) who carried him, and they probably handed the box over to Slovak merchants heading to Varna. And from Varna, it was loaded onto a ship bound for London. This means the Count knew lackeys who would handle this dirty work for him. After the box reached the shore, whether before sunrise or after sunset, the Count crawled out of his box and met Skinsky.",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "role": "Narrator",
+    "text": "And he must have given detailed instructions on how to move the box up the river. Once all preparations were finished and the cogs started turning according to plan, the Count brutally tore to death the pawn who had been his hands and feet, in order to wipe his own tracks clean.",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "role": "Narrator",
+    "text": "After scouring the map, the only waterways Slovak merchants are likely to travel up are either the Pruth or the Sereth rivers. Looking at the records typed from my lips while hypnotized, they mention hearing the lowing of cattle from afar, the sound of water swirling at the level of my ears, and the creaking of wooden planks. If so, it is clear that the Count's box is loaded on an open riverboat, hugging the riverbank and pushing against the current. They must be pushing up with difficulty using oars or poles.",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "role": "Narrator",
+    "text": "If the boat were just drifting leisurely down the river, it wouldn't make such sounds.",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "role": "Narrator",
+    "text": "Of course, it might not be the Sereth or Pruth rivers, but we have a clue to narrow down our guesses. Between the two rivers, the Pruth is easier to navigate, but the Sereth joins the Bistritza river at Fundu and circles around the Borgo Pass. This snake-like winding waterway is the only path that can get closest to Dracula's castle by water.",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "role": "Narrator",
+    "text": "Mina Harker's Diary—Continued.",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "role": "Narrator",
+    "text": "As soon as I finished reading the memorandum, Jonathan pulled me into a sudden embrace and kissed my cheek. The others also grabbed my hands, jumping for joy. Doctor Van Helsing spoke.",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "role": "Narrator",
+    "text": "Our dear Madam Mina has once again become a beacon lighting up the darkness. You have lifted the veil that blinded our eyes. Now that we hold the reins of the pursuit again, we certainly have a chance of winning this time. The enemy is currently in his most vulnerable state, with his hands and feet tightly bound. If we just finish him off on the water in broad daylight, this terrible battle is over. Although he started first, they can't just blindly rush to move the cargo.",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "role": "Narrator",
+    "text": "Crawling out of the box would obviously raise the suspicions of the porters. If they notice and, terrified, throw him into the river, he will perish right there and then. Because he knows that in his bones, he won't dare take such a gamble. Now, friends. Let's prepare for battle. We must plan meticulously right now what each of us will do.",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "role": "VanHelsing",
+    "text": "I will rent a small steamboat and follow his trail up the river,",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "role": "Narrator",
+    "text": "Lord Godalming said.",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "role": "VanHelsing",
+    "text": "In that case, I will get some horses and chase along the riverbank. Just in case he crawls ashore,",
+    "is_header": false
+  },
+  {
+    "id": 104,
+    "role": "Narrator",
+    "text": "Mister Morris chimed in.",
+    "is_header": false
+  },
+  {
+    "id": 105,
+    "role": "VanHelsing",
+    "text": "Excellent!",
+    "is_header": false
+  },
+  {
+    "id": 106,
+    "role": "Narrator",
+    "text": "the Professor slapped his knee.",
+    "is_header": false
+  },
+  {
+    "id": 107,
+    "role": "VanHelsing",
+    "text": "Both are fantastic ideas. But you must never go alone. In case of emergency, you need the martial force to subdue the enemy at once. The Slovaks are tough, rugged men who have seen it all, so although they might be unrefined, they will carry weapons.",
+    "is_header": false
+  },
+  {
+    "id": 108,
+    "role": "Narrator",
+    "text": "The men simultaneously wore smiles on their lips. In fact, they had already packed such a massive arsenal of weapons that it would not have been out of place to call it a small armory. Mister Morris added.",
+    "is_header": false
+  },
+  {
+    "id": 109,
+    "role": "Dracula",
+    "text": "I brought a few Winchester rifles. They're perfect for fighting in a group, and we might have the bad luck to run into a pack of wolves. Don't forget, the Count is always a man with an ulterior motive. He might have given another order to someone that Missus Harker didn't manage to overhear. We must prepare for all variables.",
+    "is_header": false
+  },
+  {
+    "id": 110,
+    "role": "Narrator",
+    "text": "Next, Doctor Seward spoke.",
+    "is_header": false
+  },
+  {
+    "id": 111,
+    "role": "Narrator",
+    "text": "I'd better go with Quincey. We've gone hunting together before, so we make a good team. With the two of us armed with guns, we should be able to easily overcome any damn situation that comes our way. Art, you must never go alone. You might have to get into a bloody fight with those Slovaks. Even if they don't have guns, if you have the bad luck to take a hit, our plan will shatter to pieces.",
+    "is_header": false
+  },
+  {
+    "id": 112,
+    "role": "Narrator",
+    "text": "We must never rely on luck this time. Until we strike off the Count's head and see with our own two eyes that he never wakes up again, we won't close our eyes for a single moment.\" He finished speaking and looked at Jonathan, and Jonathan looked at me. I could clearly see my poor husband's heart tearing to shreds.",
+    "is_header": false
+  },
+  {
+    "id": 113,
+    "role": "Narrator",
+    "text": "He wouldn't have wanted to be apart from me for a single second, but chasing him on a boat would undoubtedly be the place to finish off that... that... vampire. (Why on earth do I even hesitate to say this word?) While he kept his mouth shut like a mute who ate honey, Doctor Van Helsing broke the silence.",
+    "is_header": false
+  },
+  {
+    "id": 114,
+    "role": "Narrator",
+    "text": "Friend Jonathan, there are two reasons why you must take on this mission. First, you are young, brave, and know how to fight. In the final moments, we might need every ounce of strength we can squeeze out. Second, you have the right to tear to death with your own hands the monster who brought such terrible suffering to you and the one you love. Don't you worry about Madam Mina. If you permit it, I will take care of her myself. I am old.",
+    "is_header": false
+  },
+  {
+    "id": 115,
+    "role": "Narrator",
+    "text": "My two legs are not as nimble as they used to be, and I don't have the stamina to sit in a saddle for a long time or engage in a rough chase. Fighting with a knife and gun isn't my role either. But I can be useful in other ways. I mean, I can fight a battle on a different level. And if necessary, I am ready to throw away my life as willingly as any of you young men. Now, my plan is this.",
+    "is_header": false
+  },
+  {
+    "id": 116,
+    "role": "Narrator",
+    "text": "While Lord Godalming and Jonathan go up the river in a fast little steamboat, and John and Quincey guard the riverbank in case he lands, I intend to take Madam Mina and charge straight into the heart of the enemy. While that old fox floats on the flowing river, trapped in a box unable to escape—unable to even dare open the coffin lid for fear that the terrified Slovak porters might abandon him and run—we will trace back the path Jonathan took, from Bistritz over the Borgo Pass to Dracula's castle.",
+    "is_header": false
+  },
+  {
+    "id": 117,
+    "role": "Narrator",
+    "text": "When we reach the castle, Madam Mina's hypnotic abilities will surely guide us. After the first dawn, we'll be able to find our way to that dark, bizarre, and cursed place. There are mountains of work we must do there, and plenty of places that need to be purified. Only then can we uproot the nest of those vipers.\" Right at this point, Jonathan interrupted the Professor with furious outrage.",
+    "is_header": false
+  },
+  {
+    "id": 118,
+    "role": "Female",
+    "text": "Professor Van Helsing, are you saying you're going to push Mina into the jaws of death, when she is looking so sad and suffering from that monster's foul disease? Absolutely not! Even if heaven splits in two and hellfire rains down, absolutely not!",
+    "is_header": false
+  },
+  {
+    "id": 119,
+    "role": "Narrator",
+    "text": "He was so overcome with rage that he couldn't speak for over a minute, before finally opening his mouth.",
+    "is_header": false
+  },
+  {
+    "id": 120,
+    "role": "Female",
+    "text": "Do you even know what kind of hell that place is? Have you ever seen that terrible, demonic lair with your own two eyes! A place where even the moonlight twists into creepy monsters, and every single speck of blowing dust grows into an evil spirit. Have you ever felt the horrifying sensation of a vampire's cold lips licking your neck?",
+    "is_header": false
+  },
+  {
+    "id": 121,
+    "role": "Narrator",
+    "text": "As he spat out these words, his gaze turned to me and fell upon the scar on my forehead, and he screamed, throwing both arms high into the air. \"Oh, God!",
+    "is_header": false
+  },
+  {
+    "id": 122,
+    "role": "Narrator",
+    "text": "What sin did we commit to have to endure this terrible nightmare!\" He slumped down on the sofa, drowning in despair. The Professor's clear, affectionate voice rang out, comforting all of our hearts.",
+    "is_header": false
+  },
+  {
+    "id": 123,
+    "role": "Narrator",
+    "text": "Ah, my friend. The reason I am going is precisely to save Madam Mina from that terrible pit of hell. I swear to God, there is no way I would drive her into such a nightmare. There are rough and gruesome things teeming there that she could not bear to hold in her beautiful eyes. Jonathan, these men here, excluding yourself, have seen with their own two eyes what terrible things must be done to purify that cursed place. Do not forget how dangerously thin the ice we are walking on is right now.",
+    "is_header": false
+  },
+  {
+    "id": 124,
+    "role": "Narrator",
+    "text": "If the Count slips through our fingers this time—he is strong, cunning, and incomparably wicked—he might fall into a deep sleep for a hundred years. And when those long years pass, our precious friend",
+    "is_header": false
+  },
+  {
+    "id": 125,
+    "role": "Dracula",
+    "text": "—he squeezed my hand tightly—",
+    "is_header": false
+  },
+  {
+    "id": 126,
+    "role": "Narrator",
+    "text": "will eventually be called to his side, to be with him for eternity, turning into one of those terrible monsters you saw. Didn't you tell me about those lips glaring greedily at your veins. Didn't you hear clearly with your own two ears the vulgar laughter they burst into when the Count threw them that wriggling sack. It's only natural that you shudder!",
+    "is_header": false
+  },
+  {
+    "id": 127,
+    "role": "Narrator",
+    "text": "Forgive me for driving a spike into your heart. But this is unavoidable fate. My friend, isn't this a desperate mission we must achieve, even if it means throwing my own life away? If someone must remain in that hell to tangle with them, the one who should gladly take that path is this old man.",
+    "is_header": false
+  },
+  {
+    "id": 128,
+    "role": "Male_Others",
+    "text": "Do as you wish,",
+    "is_header": false
+  },
+  {
+    "id": 129,
+    "role": "Narrator",
+    "text": "Jonathan spat out like a sob, his whole body trembling.",
+    "is_header": false
+  },
+  {
+    "id": 130,
+    "role": "Male_Others",
+    "text": "We are all left in the hands of God's will!",
+    "is_header": false
+  },
+  {
+    "id": 131,
+    "role": "Narrator",
+    "text": "Later.—Ah, seeing these brave men move like lightning makes my heart feel much lighter. What woman could not love such serious, true, and brave men! And this situation made me realize deep in my bones how tremendous the power of money is! What impossible things can be done when money is used for a good cause, and what terrible acts it can commit when used for an evil one. I was so thankful that Lord Godalming is a billionaire, and that even the wealthy Mister Morris is ready to spend money like water.",
+    "is_header": false
+  },
+  {
+    "id": 132,
+    "role": "Narrator",
+    "text": "Without them, our small expedition could not have armed itself so perfectly and set out in just an hour. Less than three hours after assigning our roles, Lord Godalming and Jonathan have already secured a sleek steamboat, fully stoked with steam and ready to shoot out at any moment. Doctor Seward and Mister Morris have prepared six fine horses, perfectly saddled. They scoured and gathered every available map and piece of equipment.",
+    "is_header": false
+  },
+  {
+    "id": 133,
+    "role": "Narrator",
+    "text": "Professor Van Helsing and I will take the 11:40 p.m. train tonight to Veresti, and from there we will rent a carriage to the Borgo Pass. We packed plenty of cash to buy the carriage and horses outright. We can't trust our lives in the hands of untrustworthy strangers, so we will drive the carriage ourselves. The Professor is fluent in many languages, so it shouldn't be much of a problem. We are all armed from head to toe, and they even got a large-caliber revolver for me.",
+    "is_header": false
+  },
+  {
+    "id": 134,
+    "role": "Narrator",
+    "text": "Jonathan insisted he wouldn't be able to rest easy for a single second unless I was armed just like the others. Alas! But there was one weapon everyone else had that was not permitted to me. The scar stamped on my forehead rejects it. Dear Doctor Van Helsing patted my shoulder, saying that since a pack of wolves might attack, I am excellently armed for wolf hunting. The weather is growing piercingly cold by the hour, and snowflakes scatter occasionally, sending us a chilly warning.",
+    "is_header": false
+  },
+  {
+    "id": 135,
+    "role": "Narrator",
+    "text": "Later.—I had to scrape together courage from the very marrow of my bones to say goodbye to my love. Perhaps we will never see each other alive again. Take courage, Mina! The Professor is watching you intently. His gaze is a cool warning. I must not shed tears now. Unless God grants tears of joy, of course.",
+    "is_header": false
+  },
+  {
+    "id": 136,
+    "role": "Narrator",
+    "text": "Jonathan Harker's Diary.",
+    "is_header": false
+  },
+  {
+    "id": 137,
+    "role": "Narrator",
+    "text": "October 30, Night.—I am writing this diary by the light leaking from the steamboat's furnace. Lord Godalming is stoking the fire. Having driven boats himself for years on the Thames and the Norfolk Broads, he is very much accustomed to this work. After putting our heads together to plan, we eventually concluded that Mina's deduction was 100 percent correct. If the Count decided to take the waterway, the only path is to go through the Sereth River and enter the Bistritza River.",
+    "is_header": false
+  },
+  {
+    "id": 138,
+    "role": "Narrator",
+    "text": "We guess the point where the Carpathian Mountains and the river intersect is somewhere around 47 degrees north latitude. We are not afraid to speed madly up the river even in the pitch-black night. The water is deep and the river is wide enough that we can cut through the water quite smoothly even in the dark. Lord Godalming will stand watch alone for the time being, begging me to please get some shut-eye. But it is impossible for sleep to come.",
+    "is_header": false
+  },
+  {
+    "id": 139,
+    "role": "Narrator",
+    "text": "With my love walking into those terrible jaws of death, and the shadow of death flickering above her head, how can I peacefully close my eyes.... My only lifeline is the belief that we are in God's hands. If I didn't even have that faith, it would have been much easier to just hang myself and escape all this living hell.",
+    "is_header": false
+  },
+  {
+    "id": 140,
+    "role": "Narrator",
+    "text": "Mister Morris and Doctor Seward set off on their long horseback journey before we launched our boat. To avoid the winding paths of the river and have a clear view of the open waterway at a glance, they decided to guide their horses along the high ground on the right bank, well away from the river. So that a conspicuous group of four wouldn't draw curious eyes, they hired two locals at the beginning of the journey to lead the spare horses. Before long, they will send them back and hold the reins themselves.",
+    "is_header": false
+  },
+  {
+    "id": 141,
+    "role": "Narrator",
+    "text": "If they are backed into a corner and our party has to join forces, the horses they prepared will allow all of us to ride overland. One of the saddles has a removable horn decoration, so if needed, it can be easily modified for Mina to ride.",
+    "is_header": false
+  },
+  {
+    "id": 142,
+    "role": "Narrator",
+    "text": "We have now been thrown right into the middle of a wild adventure. The chill rising from the river water strikes deep into our bones, and as we race tearing through the pitch-black darkness, all sorts of bizarre breathing sounds spat out by the night seep into our skin. It feels as if we are sliding along an unfamiliar path we have never stepped on before, into a world of the abyss teeming with dark and creepy monsters. Godalming is slamming the furnace door shut....",
+    "is_header": false
+  },
+  {
+    "id": 143,
+    "role": "Narrator",
+    "text": "October 31.—Still cutting through the water like crazy. Dawn has broken, and Godalming is fast asleep. It's my watch now. The morning air is biting cold. Even though I am bundled up tightly in a thick fur coat, I am just tearfully grateful for the heat pouring from the stove. So far, we've passed a few open riverboats, but there has been no hide nor hair of a cargo the size of that damn box we're looking for.",
+    "is_header": false
+  },
+  {
+    "id": 144,
+    "role": "Narrator",
+    "text": "Every time we pass a boat and shine our electric light, the boatmen kneel down, trembling and praying as if they've seen a ghost.",
+    "is_header": false
+  },
+  {
+    "id": 145,
+    "role": "Narrator",
+    "text": "November 1, Evening.—We came up empty-handed all day. We couldn't even step on his tail. We have now entered the Bistritza River. If our guess was completely off the mark, the chance is now gone forever. We poked into and searched every single boat, large and small. Early this morning, a group of sailors bowed down to us, mistaking us for a government patrol boat. Figuring it would be best to take advantage of this misunderstanding, we got a Romanian flag at Fundu, where the Bistritza flows into the Sereth, and hung it fluttering on the bow.",
+    "is_header": false
+  },
+  {
+    "id": 146,
+    "role": "Narrator",
+    "text": "After that, this scam worked like a charm on every boat we encountered. People bowed and paid respects to us, and never once talked back when we asked questions or ordered them to turn things over. Some Slovaks told us there was one large boat that squeezed in twice the usual number of crew and rushed up at a crazy speed. But that boat whizzed past before they even reached Fundu, so they had no way of knowing whether it turned toward the Bistritza River or went straight up the Sereth.",
+    "is_header": false
+  },
+  {
+    "id": 147,
+    "role": "Narrator",
+    "text": "No one in Fundu saw such a boat, so it must have slipped away unnoticed under the cover of the pitch-black night. My eyelids are as heavy as lead. With the cold seeping into my bones, my body seems to have finally hit its limit. Even a man of steel has to rest eventually. Godalming stubbornly insists on standing the first watch himself. May God's blessings pour upon him for all the kindness he has shown my poor Mina and me.",
+    "is_header": false
+  },
+  {
+    "id": 148,
+    "role": "Narrator",
+    "text": "November 2, Morning.—It is broad daylight. That good man did not wake me. He said I was sleeping so sweetly, forgetting all my sorrows, that he couldn't bear to wake me. It makes me shudder at my own selfishness that I left him to stand guard awake all night while I slept like a log, but he was right. This morning, I feel completely light enough to fly. Now, sitting here watching him fast asleep, I can easily handle checking the engine, taking the helm, and standing guard all with my own two hands.",
+    "is_header": false
+  },
+  {
+    "id": 149,
+    "role": "Narrator",
+    "text": "I feel stamina and vitality surging up. Where could Mina and Van Helsing be riding right now? They probably reached Veresti around noon on Wednesday. Though it must have drained them to get a carriage and horses, if they hurried on their way, they must have reached near the Borgo Pass by now. Oh God, please guide and protect them! Just imagining what terrible things might happen sends chills down my spine. If only we could speed up a little, just a little bit more! But it's out of the question.",
+    "is_header": false
+  },
+  {
+    "id": 150,
+    "role": "Narrator",
+    "text": "The engine is roaring as if it will explode, doing its fair share. I wonder how Doctor Seward and Mister Morris are doing. Although streams of water constantly pouring down from the mountains are flowing into the river, there shouldn't be any currents strong enough to block the horses' path right now (of course, in winter or when the snow melts, it would turn terrifying enough to swallow a person whole). I hope we can join them before reaching Strasba.",
+    "is_header": false
+  },
+  {
+    "id": 151,
+    "role": "Narrator",
+    "text": "If we can't catch the Count by the scruff of his neck by then, we'll all have to put our heads together and come up with the next move.",
+    "is_header": false
+  },
+  {
+    "id": 152,
+    "role": "Narrator",
+    "text": "Doctor Seward's Diary.",
+    "is_header": false
+  },
+  {
+    "id": 153,
+    "role": "Narrator",
+    "text": "November 2.—Third day on the road. No new news, and even if news did fly in, there is no time to even hold a pen. Because every minute and every second is as precious as a drop of blood. We only catch our breath briefly when the horses hit their limit and foam at the mouth, but both Quincey and I are holding up disgustingly well. Our rough past adventures and the iron-like stamina we built up then are keeping us alive. We must keep pulling the reins.",
+    "is_header": false
+  },
+  {
+    "id": 154,
+    "role": "Narrator",
+    "text": "Until the steamboat comes back into our sight, we can never loosen our tension.",
+    "is_header": false
+  },
+  {
+    "id": 155,
+    "role": "Narrator",
+    "text": "November 3.—We heard news in Fundu that a steamboat went up the Bistritza River. If only this damn cold would let up a bit. There are signs of a blizzard. If heavy snow pours down, our feet will be completely tied. If that happens, we'll have to get a sleigh and slide along in the Russian style.",
+    "is_header": false
+  },
+  {
+    "id": 156,
+    "role": "Narrator",
+    "text": "November 4.—Today we heard news that the steamboat got stuck after an accident while trying to force its way over the rapids. The Slovak boats use ropes and ghost-like steering skills to pass safely over the rapids. Just a few hours ago, several boats went up that way. Godalming was quite a high-level amateur mechanic, and nine times out of ten it was him who breathed life back into the smashed steamboat. Finally, with the help of the locals, they safely broke through the rapids and raised the anchor of pursuit again.",
+    "is_header": false
+  },
+  {
+    "id": 157,
+    "role": "Narrator",
+    "text": "I am burning inside with worry that the boat might not be in the same condition as before because of the accident. According to the farmers, even after the boat entered calm waters again, it kept stopping and going as if panting, until it disappeared from view. We must whip and chase much more mercilessly than before. Sooner or later, they might desperately need our strength.",
+    "is_header": false
+  },
+  {
+    "id": 158,
+    "role": "Narrator",
+    "text": "Mina Harker's Diary.",
+    "is_header": false
+  },
+  {
+    "id": 159,
+    "role": "Narrator",
+    "text": "October 31.—Arrived in Veresti at noon. According to the Professor, it was terribly difficult to drag me down into the swamp of hypnosis this dawn, and the only words that popped out of my mouth were",
+    "is_header": false
+  },
+  {
+    "id": 160,
+    "role": "VanHelsing",
+    "text": "dark and quiet.",
+    "is_header": false
+  },
+  {
+    "id": 161,
+    "role": "Narrator",
+    "text": "He has gone out to buy the carriage and horses we'll use right now. He said later he will buy more spare horses so we can change them along the way. A treacherous road of over 70 miles (about 112 kilometers) gapes before us. The surrounding scenery is so beautiful it makes my eyes ache, and fascinating.",
+    "is_header": false
+  },
+  {
+    "id": 162,
+    "role": "Narrator",
+    "text": "If it weren't for this terrible situation crushing us, how enchanting it would have been to take in all this scenery. How happy it would have been if Jonathan and I were traveling here alone. We would meet people, listen to their lives, and fill our hearts and memories to the brim with the colorful, picturesque landscapes of this wild yet beautiful countryside and the warmth of its unique people. But alas!—",
+    "is_header": false
+  },
+  {
+    "id": 163,
+    "role": "Narrator",
+    "text": "Later.—Doctor Van Helsing has returned. He excellently procured a carriage and horses. We will eat a hearty dinner and set out in an hour. The landlady of the inn is packing us a large basket stuffed full of provisions. With a little exaggeration, it's enough to feed an entire company of soldiers until their bellies burst. The Professor showered the landlady with non-stop praise, then whispered in my ear that we might not see such honey-sweet food again for the next week.",
+    "is_header": false
+  },
+  {
+    "id": 164,
+    "role": "Narrator",
+    "text": "The Professor also did a lot of shopping, buying a mountain of winter gear, fur coats, and shawls and sending them up to our room. At least it seems we won't freeze to death.",
+    "is_header": false
+  },
+  {
+    "id": 165,
+    "role": "Narrator",
+    "text": "We will depart soon. Just imagining what terrible things will befall us ahead makes my blood freeze. We are truly placed on the massive palm of God. Only He knows what lies coiled in our path ahead. I squeeze out every ounce of strength from my sad, humble soul, and earnestly pray that He will protect my beloved husband. And I pray with tears that, whatever happens, Jonathan will know that I loved and respected him more deeply than words can express, and that the only person I thought of most truthfully in my dying breath was him alone.",
+    "is_header": false
+  }
+]

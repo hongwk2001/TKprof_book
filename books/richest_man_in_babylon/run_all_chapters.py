@@ -8,7 +8,7 @@ import sys
 
 CHAPTERS = ["00", "01", "02", "03", "04", "05", "06", "07", "08", "09", "10", "11"]
 DONE_LOG = "batch_progress.log"
-OUTPUT_DIR = "final_audio"
+OUTPUT_DIR = "raw_audio"
 
 def load_done():
     if not os.path.exists(DONE_LOG):

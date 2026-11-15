@@ -1,0 +1,188 @@
+==========================================================
+Zonos book render started Mon Sep 14 16:40:49 CDT 2026
+==========================================================
+[skip] ch01 already built
+  ch02: 205 units from 91 paragraphs (chars min=9 median=137 max=269, 1 need carrier)
+  ch02: synthesis done in 64.1 min, assembling
+  ch02 [0/205] voice=bm_fable audio=0.1min elapsed=64.3min
+  ch02 [20/205] voice=bm_george audio=3.5min elapsed=64.3min
+  ch02 [40/205] voice=bm_george audio=7.2min elapsed=64.3min
+  ch02 [60/205] voice=bm_george audio=10.5min elapsed=64.3min
+  ch02 [80/205] voice=bm_george audio=13.4min elapsed=64.3min
+  ch02 [100/205] voice=bm_george audio=17.3min elapsed=64.3min
+  ch02 [120/205] voice=bm_george audio=21.2min elapsed=64.3min
+  ch02 [140/205] voice=bm_george audio=24.9min elapsed=64.3min
+  ch02 [160/205] voice=bm_george audio=28.4min elapsed=64.3min
+  ch02 [180/205] voice=bm_george audio=32.2min elapsed=64.3min
+  ch02 [200/205] voice=bm_george audio=35.9min elapsed=64.3min
+[done] ch02 -> /root/zonos_build/dracula_ch_02_en.mp3  (36.4 min audio, 205 units, 64.8 min wall)
+[progress] 1 built, 1 skipped, 0 failed, 1.08 h elapsed
+  ch03: 218 units from 91 paragraphs (chars min=9 median=145 max=229, 2 need carrier)
+  ch03: synthesis done in 128.3 min, assembling
+  ch03 [0/218] voice=bm_fable audio=0.0min elapsed=128.3min
+  ch03 [20/218] voice=bm_george audio=3.3min elapsed=128.3min
+  ch03 [40/218] voice=bm_george audio=6.8min elapsed=128.3min
+  ch03 [60/218] voice=bm_george audio=10.5min elapsed=128.3min
+  ch03 [80/218] voice=bm_george audio=14.1min elapsed=128.4min
+  ch03 [100/218] voice=bm_george audio=17.7min elapsed=128.4min
+  ch03 [120/218] voice=bm_george audio=21.4min elapsed=128.4min
+  ch03 [140/218] voice=bm_george audio=25.3min elapsed=128.4min
+  ch03 [160/218] voice=bm_george audio=29.0min elapsed=128.4min
+  ch03 [180/218] voice=bm_george audio=32.2min elapsed=128.4min
+  ch03 [200/218] voice=bm_george audio=36.1min elapsed=128.4min
+[done] ch03 -> /root/zonos_build/dracula_ch_03_en.mp3  (39.5 min audio, 218 units, 129.0 min wall)
+[progress] 2 built, 1 skipped, 0 failed, 3.23 h elapsed
+  ch04: 220 units from 114 paragraphs (chars min=7 median=141 max=317, 3 need carrier)
+  ch04: synthesis done in 119.6 min, assembling
+  ch04 [0/220] voice=bm_fable audio=0.0min elapsed=119.6min
+  ch04 [20/220] voice=bm_george audio=3.4min elapsed=119.6min
+  ch04 [40/220] voice=bm_george audio=6.9min elapsed=119.6min
+  ch04 [60/220] voice=bm_george audio=10.2min elapsed=119.6min
+  ch04 [80/220] voice=bm_george audio=13.9min elapsed=119.6min
+  ch04 [100/220] voice=bm_george audio=17.3min elapsed=119.7min
+  ch04 [120/220] voice=bm_george audio=20.7min elapsed=119.7min
+  ch04 [140/220] voice=bm_george audio=24.5min elapsed=119.7min
+  ch04 [160/220] voice=bm_george audio=27.8min elapsed=119.8min
+  ch04 [180/220] voice=bm_george audio=31.1min elapsed=119.8min
+  ch04 [200/220] voice=bm_george audio=34.5min elapsed=119.8min
+[done] ch04 -> /root/zonos_build/dracula_ch_04_en.mp3  (37.7 min audio, 220 units, 120.3 min wall)
+[progress] 3 built, 1 skipped, 0 failed, 5.24 h elapsed
+  ch05: 147 units from 82 paragraphs (chars min=4 median=140 max=261, 4 need carrier)
+copied 4 files to /mnt/c/git_repo/TKprof_book/books/dracula/final_audio_en_zonos
+Finished Mon Sep 14 23:01:07 CDT 2026
+==========================================================
+Zonos book render started Mon Sep 14 23:03:57 CDT 2026
+==========================================================
+copied 4 files to /mnt/c/git_repo/TKprof_book/books/dracula/final_audio_en_zonos
+Finished Mon Sep 14 23:07:04 CDT 2026
+==========================================================
+Zonos book render started Mon Sep 14 23:07:44 CDT 2026
+==========================================================
+[skip] ch01 already built
+[skip] ch02 already built
+[skip] ch03 already built
+[skip] ch04 already built
+  ch05: 147 units from 82 paragraphs (chars min=4 median=140 max=261, 4 need carrier)
+  ch05: synthesis done in 5.3 min, assembling
+  ch05 [0/147] voice=bm_fable audio=0.0min elapsed=5.4min
+  ch05 [20/147] voice=bf_alice audio=3.1min elapsed=5.4min
+  ch05 [40/147] voice=bf_alice audio=6.6min elapsed=5.4min
+  ch05 [60/147] voice=bf_alice audio=10.0min elapsed=5.4min
+  ch05 [80/147] voice=bf_alice audio=13.4min elapsed=5.4min
+  ch05 [100/147] voice=bf_alice audio=17.0min elapsed=5.4min
+  ch05 [120/147] voice=bm_lewis audio=20.1min elapsed=5.4min
+  ch05 [140/147] voice=bm_daniel audio=24.2min elapsed=5.5min
+[done] ch05 -> /root/zonos_build/dracula_ch_05_en.mp3  (24.8 min audio, 147 units, 5.9 min wall)
+[progress] 1 built, 4 skipped, 0 failed, 0.10 h elapsed
+  ch06: 222 units from 112 paragraphs (chars min=9 median=142 max=281, 4 need carrier)
+    [20/198] bs=2 13.0 GB reserved, 17.3 units/min
+    [vram 13.0 GB] batch size -> 1
+    [40/198] bs=1 6.3 GB reserved, 9.9 units/min
+    [60/198] bs=1 7.0 GB reserved, 8.1 units/min
+    [80/198] bs=1 7.4 GB reserved, 7.4 units/min
+    [100/198] bs=1 8.0 GB reserved, 6.9 units/min
+    [120/198] bs=1 8.7 GB reserved, 6.5 units/min
+    [140/198] bs=1 9.7 GB reserved, 6.1 units/min
+    [160/198] bs=1 10.7 GB reserved, 5.8 units/min
+    [180/198] bs=1 12.3 GB reserved, 5.3 units/min
+copied 5 files to /mnt/c/git_repo/TKprof_book/books/dracula/final_audio_en_zonos
+Finished Mon Sep 14 23:50:46 CDT 2026
+==========================================================
+Zonos book render started Tue Sep 15 00:39:36 CDT 2026
+==========================================================
+[skip] ch01 already built
+  ch02: 205 units from 91 paragraphs (chars min=9 median=137 max=269, 1 need carrier)
+    [20/204] bs=1 5.8 GB reserved, 10.6 units/min
+    [40/204] bs=1 7.2 GB reserved, 10.0 units/min
+    [60/204] bs=1 9.1 GB reserved, 8.7 units/min
+    [80/204] bs=1 10.1 GB reserved, 7.9 units/min
+    [100/204] bs=1 11.7 GB reserved, 7.3 units/min
+    [120/204] bs=1 12.7 GB reserved, 6.6 units/min
+    [140/204] bs=1 14.6 GB reserved, 6.1 units/min
+    [160/204] bs=1 15.6 GB reserved, 5.6 units/min
+    [180/204] bs=1 16.6 GB reserved, 5.3 units/min
+    [200/204] bs=1 17.7 GB reserved, 4.9 units/min
+  ch02: synthesis done in 42.0 min, assembling
+  ch02 [0/205] voice=bm_fable audio=0.0min elapsed=42.0min
+  ch02 [20/205] voice=bm_george audio=3.2min elapsed=42.0min
+  ch02 [40/205] voice=bm_george audio=6.6min elapsed=42.0min
+  ch02 [60/205] voice=bm_george audio=9.8min elapsed=42.0min
+  ch02 [80/205] voice=bm_george audio=12.5min elapsed=42.0min
+  ch02 [100/205] voice=bm_george audio=16.0min elapsed=42.0min
+  ch02 [120/205] voice=bm_george audio=19.6min elapsed=42.0min
+  ch02 [140/205] voice=bm_george audio=23.0min elapsed=42.0min
+  ch02 [160/205] voice=bm_george audio=26.3min elapsed=42.0min
+  ch02 [180/205] voice=bm_george audio=29.8min elapsed=42.0min
+  ch02 [200/205] voice=bm_george audio=33.2min elapsed=42.0min
+[done] ch02 -> /root/zonos_build/dracula_ch_02_en.mp3  (33.7 min audio, 205 units, 42.5 min wall)
+[progress] 1 built, 1 skipped, 0 failed, 0.71 h elapsed
+  ch03: 218 units from 91 paragraphs (chars min=9 median=145 max=229, 2 need carrier)
+    [20/216] bs=1 19.6 GB reserved, 10.5 units/min
+    [40/216] bs=1 19.6 GB reserved, 9.1 units/min
+    [60/216] bs=1 19.6 GB reserved, 8.1 units/min
+    [80/216] bs=1 19.6 GB reserved, 7.3 units/min
+    [100/216] bs=1 19.6 GB reserved, 6.7 units/min
+    [120/216] bs=1 19.6 GB reserved, 6.2 units/min
+    [140/216] bs=1 19.6 GB reserved, 5.8 units/min
+    [160/216] bs=1 19.6 GB reserved, 5.5 units/min
+    [180/216] bs=1 19.6 GB reserved, 5.2 units/min
+    [200/216] bs=1 19.6 GB reserved, 5.0 units/min
+  ch03: synthesis done in 45.6 min, assembling
+  ch03 [0/218] voice=bm_fable audio=0.0min elapsed=45.7min
+  ch03 [20/218] voice=bm_george audio=3.3min elapsed=45.7min
+  ch03 [40/218] voice=bm_george audio=6.7min elapsed=45.7min
+  ch03 [60/218] voice=bm_george audio=10.6min elapsed=45.7min
+  ch03 [80/218] voice=bm_george audio=13.9min elapsed=45.7min
+  ch03 [100/218] voice=bm_george audio=17.3min elapsed=45.7min
+  ch03 [120/218] voice=bm_george audio=20.7min elapsed=45.7min
+  ch03 [140/218] voice=bm_george audio=24.3min elapsed=45.7min
+  ch03 [160/218] voice=bm_george audio=27.5min elapsed=45.7min
+  ch03 [180/218] voice=bm_george audio=30.6min elapsed=45.7min
+  ch03 [200/218] voice=bm_george audio=34.0min elapsed=45.7min
+[done] ch03 -> /root/zonos_build/dracula_ch_03_en.mp3  (36.9 min audio, 218 units, 46.3 min wall)
+[progress] 2 built, 1 skipped, 0 failed, 1.48 h elapsed
+  ch04: 220 units from 114 paragraphs (chars min=7 median=141 max=317, 3 need carrier)
+    [20/217] bs=1 19.6 GB reserved, 15.1 units/min
+    [40/217] bs=1 19.6 GB reserved, 11.4 units/min
+    [60/217] bs=1 19.6 GB reserved, 9.6 units/min
+    [80/217] bs=1 19.6 GB reserved, 8.5 units/min
+    [100/217] bs=1 19.6 GB reserved, 7.7 units/min
+    [120/217] bs=1 19.6 GB reserved, 7.0 units/min
+    [140/217] bs=1 19.6 GB reserved, 6.4 units/min
+    [160/217] bs=1 19.6 GB reserved, 5.9 units/min
+    [180/217] bs=1 19.6 GB reserved, 5.6 units/min
+    [200/217] bs=1 19.6 GB reserved, 5.3 units/min
+  ch04: synthesis done in 43.7 min, assembling
+  ch04 [0/220] voice=bm_fable audio=0.0min elapsed=43.7min
+  ch04 [20/220] voice=bm_george audio=3.4min elapsed=43.7min
+  ch04 [40/220] voice=bm_george audio=6.8min elapsed=43.7min
+  ch04 [60/220] voice=bm_george audio=9.8min elapsed=43.7min
+  ch04 [80/220] voice=bm_george audio=13.1min elapsed=43.7min
+  ch04 [100/220] voice=bm_george audio=16.4min elapsed=43.8min
+  ch04 [120/220] voice=bm_george audio=19.5min elapsed=43.8min
+  ch04 [140/220] voice=bm_george audio=22.9min elapsed=43.8min
+  ch04 [160/220] voice=bm_george audio=26.0min elapsed=43.9min
+  ch04 [180/220] voice=bm_george audio=29.3min elapsed=43.9min
+  ch04 [200/220] voice=bm_george audio=32.4min elapsed=43.9min
+[done] ch04 -> /root/zonos_build/dracula_ch_04_en.mp3  (35.3 min audio, 220 units, 44.4 min wall)
+[progress] 3 built, 1 skipped, 0 failed, 2.22 h elapsed
+  ch05: 147 units from 82 paragraphs (chars min=4 median=140 max=261, 4 need carrier)
+    [20/143] bs=1 20.7 GB reserved, 13.9 units/min
+    [40/143] bs=1 20.7 GB reserved, 10.5 units/min
+==========================================================
+Zonos book render started Tue Sep 15 07:50:01 CDT 2026
+==========================================================
+[skip] ch01 already built
+[skip] ch02 already built
+[skip] ch03 already built
+[skip] ch04 already built
+  ch05: 147 units from 82 paragraphs (chars min=4 median=140 max=261, 4 need carrier)
+    [20/101] bs=1 4.1 GB reserved, 4.7 units/min
+copied 4 files to /mnt/c/git_repo/TKprof_book/books/dracula/final_audio_en_zonos
+Finished Tue Sep 15 07:57:07 CDT 2026
+==========================================================
+Zonos book render started Tue Sep 15 07:58:09 CDT 2026
+==========================================================
+  ch01: 221 units from 95 paragraphs (chars min=9 median=143 max=249, 1 need carrier)
+copied 0 files to /mnt/c/git_repo/TKprof_book/books/dracula/final_audio_en_zonos
+Finished Tue Sep 15 07:59:13 CDT 2026

@@ -1,54 +1,27 @@
 import codecs
 
-content = """“오, 네, 알고 있습니다. 부인께서 보내신 마지막 두 통의 편지를 읽었으니까요.” 내가 말을 이었다.
+paras = [
+'''"Oh, yes, I know. I read the last two letters you sent." I continued.''',
+'''"I think that incident was a huge shock to Jonathan. When he went to town last Thursday, he had another episode."''',
+'''"An episode? So soon after recovering from brain fever! That is not a good sign. What kind of episode was it?"''',
+'''"He believed he saw someone who reminded him of something truly terrifying—the very cause that gave him brain fever in the first place." At that moment, a flood of emotions overwhelmed me all at once. Pity for Jonathan, the terrible fear he had experienced, the horrifying mysteries written in his journal, and the dread that had weighed heavily on my mind ever since—all of this crashed over me like a giant wave. I must have lost my reason. I fell to my knees, reaching out my hands to him, begging him to please make my husband well again. He took my hands, gently helped me up, and seated me on the sofa. Then he sat beside me, held my hand tightly, and spoke in an incredibly kind voice.''',
+'''"My life is dry and lonely. Buried in work, I have not had much time for friendship. But since my friend John Seward called me here, I have met many truly wonderful people and witnessed their nobility. As I grow older, the loneliness of my life feels even greater. So please believe me when I say that I approached you with deep respect. You have given me hope—perhaps not hope for the matter I am investigating, but hope that there are still wonderful women left in this world who make life happy. Women with a life and truth that will serve as a great example to children in the future. I am so glad that I can be of some small help to you. If your husband is suffering, that is the very field I have studied and experienced my entire life. I promise you, I will gladly help him with all my power. I will make his life strong and sturdy again, and bring happiness back to your life. Now, please eat first. You are exhausted and overwhelmed with anxiety. Mr. Jonathan would not want to see your pale face, either. It is not good for him to see the person he loves sad. So, for his sake, you must eat and smile. You have already told me everything about Lucy, so I won't bring it up for a while so as not to cause you pain. I plan to stay in Exeter tonight. I need to carefully think over the things you have told me. After giving it enough thought, with your permission, I will ask you a few questions. Then, please tell me everything you know about your husband Jonathan's condition—but not now. First, eat, and then you can tell me everything."''',
+'''When we returned to the living room after lunch, he said.''',
+'''"Now, please tell me everything about him." When the moment came to speak to such a learned and excellent man, I was suddenly seized with fear that he might think of me as a weak fool and Jonathan as a madman—because the contents of that journal were so bizarre. I hesitated, unable to open my mouth. But he was so kind and gentle, and he promised to help me. I trusted him and began to speak.''',
+'''"Dr. Van Helsing, even if what I am about to tell you sounds extremely strange, please do not laugh at me or my husband. Since yesterday, I have been suffering from a deep doubt, as if I had caught a fever. Please take pity on me, and do not think me foolish for half-believing these bizarre stories." He reassured me with a warm voice and tone.''',
+'''"Oh, Madam, if you knew how strange the matter I am currently investigating is, you would rather laugh at me. I have learned that no matter how bizarre a story may seem, one should not lightly dismiss another's belief. I have always tried to keep an open mind. What closes a person's mind is not ordinary daily life, but strange and bizarre things—things that make you doubt your own sanity."''',
+'''"Thank you, I want to thank you a thousand times! You have lifted a heavy burden from my heart. If you will allow it, I would like to give you a document to read, Doctor. It is quite long, but I typed it out for you. This will explain the suffering Jonathan and I have gone through. This is a copy of a journal meticulously recording everything that happened while he was abroad. I dare not add a single word to its contents. Please read it yourself and judge. And the next time we meet, I hope you will share your thoughts with me."''',
+'''He promised as he took the papers. "I promise. If you permit me, I will come to see you and your husband as early as possible tomorrow morning."''',
+'''"Jonathan will be back at 11:30. Come then, have lunch with us, and say hello to Jonathan. Then, if you catch the 3:34 PM express train, you can arrive at Paddington Station before 8 o'clock." He seemed very surprised as I recited the train schedule perfectly. He didn't know that I had memorized all the train schedules to and from Exeter to help Jonathan whenever he had to leave in a hurry.''',
+'''So he left with the papers, and I am sitting here now lost in thought—not even knowing what I am thinking about.''',
+'''* * * * *''',
+'''Letter from Van Helsing to Mrs. Harker (delivered by messenger).''',
+'''"September 25, 6:00 PM.''',
+'''"Dear Madam Mina,—''',
+'''"I have read all of your husband's astonishing journal. You may sleep peacefully tonight without a single doubt. No matter how bizarre and terrifying the contents of that journal may be, all of it is true! I can guarantee it with my life. It might be a disaster for others, but you and your husband have nothing to fear. Your husband is a truly brave and noble man. I tell you this based on my experience of meeting countless people: a man who could climb down that castle wall and enter that room—and do it twice, no less—is a man who will never be permanently broken by any shock. Your husband's brain and heart are perfectly healthy. I can swear this confidently even before meeting him in person. So please rest assured. I have many questions to ask your husband later. Meeting you today is a tremendous blessing for me. My head is spinning from learning so much all at once—more dizzy than ever before. I too need time to think.''',
+'''"Sincerely,''',
+'''"Abraham Van Helsing."'''
+]
 
-“그 일이 조나단에게 큰 충격을 준 것 같아요. 지난 목요일 시내에 나갔을 때 그가 또 한 번 발작을 일으켰거든요.”
-
-“발작이요? 뇌수막염을 앓고 난 지 얼마 안 되었는데! 그거 안 좋은 징조군요. 어떤 종류의 발작이었습니까?”
-
-“그는 아주 끔찍한 무언가를 떠올리게 하는 사람을 봤다고 생각했어요—애초에 그에게 뇌수막염을 일으켰던 바로 그 원흉 말이에요.” 그 순간, 모든 감정이 한꺼번에 밀려왔다. 조나단에 대한 연민, 그가 겪었던 끔찍한 공포, 일기장에 적힌 무서운 미스터리, 그리고 그 이후로 내내 내 마음을 짓누르던 두려움까지—이 모든 것이 거대한 파도처럼 나를 덮쳤다. 나는 아마 이성을 잃었던 것 같다. 무릎을 꿇고 그에게 두 손을 뻗으며, 제발 내 남편을 다시 낫게 해 달라고 애원했으니까. 그는 내 손을 잡고 부드럽게 일으켜 소파에 앉혔다. 그리고 내 곁에 앉아 내 손을 꼭 쥐고는 너무나도 다정한 목소리로 말했다.
-
-“제 삶은 메마르고 외롭습니다. 일에만 파묻혀 살다 보니 우정을 나눌 시간조차 많지 않았지요. 하지만 제 친구 존 수어드가 저를 이곳으로 부른 이후, 저는 참으로 훌륭한 사람들을 많이 만났고 그들의 고결함을 지켜보았습니다. 그러다 보니 나이가 들수록 제 삶의 외로움이 더욱 크게 느껴지더군요. 그러니 제가 부인께 깊은 존경심을 담아 다가왔다는 제 말을 믿어주십시오. 부인께서는 제게 희망을 주셨습니다—제가 조사 중인 일에 대한 희망은 아닐지라도, 아직 이 세상에 삶을 행복하게 만들어줄 훌륭한 여성들이 남아 있다는 희망 말입니다. 먼 훗날 아이들에게 큰 귀감이 될 삶과 진실을 지닌 그런 여성들 말입니다. 제가 부인께 조금이나마 도움이 될 수 있다니 정말 기쁩니다. 만약 부군께서 고통받고 계신다면, 그것은 제가 평생 연구하고 경험해 온 분야입니다. 부인께 약속드리건대, 제가 가진 모든 힘을 다해 기꺼이 그분을 돕겠습니다. 부군의 삶을 다시 강인하고 늠름하게 되돌려 놓고, 부인의 삶에 행복을 찾아드리겠습니다. 자, 이제 식사부터 하십시오. 부인께선 몹시 지쳐 있고 불안감에 휩싸여 있습니다. 조나단 선생도 부인의 창백한 얼굴을 보고 싶진 않을 겁니다. 자신이 사랑하는 사람이 슬퍼하는 걸 보는 건 그에게도 좋지 않으니까요. 그러니 그를 위해서라도 식사를 하시고 미소를 지으셔야 합니다. 루시에 관해서는 이미 모든 걸 말씀해 주셨으니, 부인께서 마음 아파하지 않게 당분간 그 이야기는 꺼내지 않겠습니다. 오늘 밤은 엑서터에 머물 생각입니다. 부인께서 해주신 이야기들을 곰곰이 생각해 봐야 하거든요. 충분히 생각한 뒤에, 허락해 주신다면 부인께 몇 가지 여쭤보겠습니다. 그런 다음 부군인 조나단 선생의 상태에 대해 아시는 대로 모두 말씀해 주십시오—하지만 지금은 아닙니다. 우선 식사부터 하시고, 그 후에 모든 걸 말씀해 주십시오.”
-
-점심 식사 후 거실로 돌아왔을 때, 그가 말했다.
-
-“자, 이제 그분에 대해 모든 걸 말씀해 주시지요.” 막상 이토록 학식 높고 훌륭한 분께 이야기를 꺼내려니, 갑자기 그가 나를 나약한 바보로, 조나단을 미치광이로 생각할까 봐 덜컥 겁이 났다—그 일기장 내용이 너무나도 기괴했기 때문이다. 나는 입을 떼지 못하고 망설였다. 하지만 그는 너무나 다정하고 친절했으며, 나를 돕겠다고 약속했다. 나는 그를 믿고 입을 열었다.
-
-“반 헬싱 박사님, 제가 지금부터 드릴 말씀이 너무 이상하게 들리더라도 저나 제 남편을 비웃지 말아 주세요. 어제부터 저는 열병에 걸린 듯 깊은 의심에 시달리고 있습니다. 부디 저를 가엾게 여겨 주시고, 제가 이런 기괴한 이야기들을 반쯤 믿고 있다 해서 어리석다고 생각하지 말아 주세요.” 그는 따뜻한 목소리와 말씨로 나를 안심시켰다.
-
-“오, 부인, 제가 지금 조사하고 있는 일이 얼마나 이상한 일인지 아신다면 오히려 부인께서 저를 비웃으실 겁니다. 저는 아무리 기괴해 보이는 이야기라도 다른 사람의 믿음을 함부로 깎아내려선 안 된다는 걸 배웠습니다. 늘 열린 마음을 유지하려고 노력해 왔지요. 사람의 마음을 닫게 만드는 건 평범한 일상이 아니라, 낯설고 기이한 일들—스스로의 제정신을 의심하게 만드는 일들입니다.”
-
-“감사합니다, 정말 수천 번이라도 감사드리고 싶어요! 제 마음의 무거운 짐을 덜어주셨네요. 허락해 주신다면, 박사님께 읽어보시라고 서류 하나를 드리고 싶습니다. 분량이 꽤 되지만 박사님을 위해 타자로 쳐 두었습니다. 이것이 저와 조나단의 고통을 설명해 줄 겁니다. 이건 그가 해외에 머무는 동안 일어났던 모든 일을 꼼꼼히 기록한 일기장의 복사본입니다. 저는 이 내용에 대해 감히 한마디도 보탤 수 없습니다. 박사님께서 직접 읽어보시고 판단해 주세요. 그리고 다음에 뵐 때, 부디 박사님의 생각을 제게 들려주시면 좋겠습니다.”
-
-서류를 받아 들며 그가 약속했다. “약속하죠. 허락해 주신다면, 내일 아침 가능한 한 일찍 부인과 부군을 뵈러 오겠습니다.”
-
-“조나단은 11시 반에 돌아올 거예요. 그때 오셔서 함께 점심도 드시고 조나단과 인사도 나누세요. 그러고 나서 오후 3시 34분 급행열차를 타시면 8시 전에는 패딩턴역에 도착하실 수 있을 겁니다.” 내가 기차 시간표를 줄줄 외우고 있자 그는 몹시 놀란 눈치였다. 그는 내가 조나단이 급히 떠나야 할 때 도와주려고 엑서터 발착 기차 시간표를 전부 외우고 있다는 사실을 몰랐던 것이다.
-
-그렇게 그는 서류를 챙겨 떠났고, 나는 지금 여기 앉아 생각에 잠겨 있다—도대체 무엇을 생각하고 있는지도 모른 채.
-
-* * * * *
-
-반 헬싱이 하커 부인에게 보낸 편지 (인편으로 전달됨).
-
-"9월 25일, 오후 6시.
-
-"친애하는 미나 부인께,—
-
-"부군의 놀라운 일기를 모두 읽었습니다. 오늘 밤은 한 치의 의심도 없이 평안히 주무셔도 좋습니다. 그 일기의 내용이 아무리 기괴하고 끔찍하다 해도, 그 모든 것은 진실입니다! 제 목숨을 걸고 보증할 수 있습니다. 다른 이들에게는 재앙이 될지 모르나, 부인과 부군께서는 아무것도 두려워할 필요가 없습니다. 부군은 참으로 용감하고 고결한 분입니다. 제가 수많은 사람들을 만나보며 얻은 경험을 걸고 말씀드리건대, 그 성벽을 타고 내려가 그 방에 들어갈 수 있는 사람—그것도 모자라 두 번씩이나 그렇게 한 사람—이라면, 그 어떤 충격에도 영원히 무너지지 않을 것입니다. 부군의 뇌와 심장은 완벽히 건강합니다. 그분을 직접 뵙기도 전에 이토록 자신 있게 맹세할 수 있습니다. 그러니 부디 안심하십시오. 나중에 부군께 여쭤볼 것이 참 많습니다. 오늘 부인을 만나게 된 것은 제게 너무나도 큰 축복입니다. 한꺼번에 너무 많은 것을 알게 되어 머리가 어지러울 지경이군요—지금까지 그 어느 때보다 더 어지럽습니다. 제게도 생각할 시간이 필요합니다.
-
-"진심을 담아,
-"아브라함 반 헬싱."
-
-하커 부인이 반 헬싱에게 보낸 편지.
-
-"9월 25일, 오후 6시 30분.
-
-"친애하는 반 헬싱 박사님,—
-
-"이토록 다정한 편지를 보내주셔서 수천 번이라도 감사드리고 싶습니다. 마음속 무거운 짐이 싹 사라진 기분입니다. 하지만 그의 일기가 모두 사실이라면, 이 세상에는 정말 얼마나 끔찍한 일들이 존재하는 걸까요! 만약 그 남자—그 괴물이—정말로 이곳 런던에 와 있다면 얼마나 무서운 일입니까! 생각만 해도 오싹해집니다. 방금 편지를 쓰던 중에 조나단이 오늘 밤 6시 25분 기차로 론스턴을 출발해 10시 18분에 이곳에 도착할 거라는 전보를 받았습니다. 그가 집에 온다는 사실만으로도 오늘 밤은 전혀 두렵지 않을 것 같아요. 그러니 내일 점심 대신, 너무 이르지 않다면 아침 8시에 오셔서 함께 식사하시는 건 어떨까요? 바쁘시다면 10시 30분 기차를 타시면 2시 35분쯤 패딩턴에 도착하실 수 있을 겁니다. 이 편지에 답장은 안 하셔도 좋습니다. 연락이 없으시면 아침 식사에 오시는 걸로 알겠습니다.
-
-"진심을 담아,
-"""
-
-with codecs.open(r'c:\git_repo\TKprof_book\books\dracula\chapters\ch14_ko_modern_refined.txt', 'a', encoding='utf-8') as f:
-    f.write(content + "\n\n")
+with codecs.open('C:/git_repo/TKprof_book/books/dracula/chapters/ch14_en.txt', 'a', 'utf-8') as f:
+    f.write('\n\n'.join(paras) + '\n\n')

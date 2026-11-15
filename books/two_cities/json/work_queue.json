@@ -1,0 +1,692 @@
+[
+  {
+    "chapter": "book1_ch_01.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book1_ch_01.json",
+    "batch_id": "book1_ch_01.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001",
+      "H002"
+    ],
+    "raws": [
+      "Book the First--Recalled to Life",
+      "CHAPTER I. The Period"
+    ],
+    "is_headers": [
+      true,
+      true
+    ]
+  },
+  {
+    "chapter": "book1_ch_02.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book1_ch_02.json",
+    "batch_id": "book1_ch_02.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER II. The Mail"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book1_ch_03.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book1_ch_03.json",
+    "batch_id": "book1_ch_03.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER III. The Night Shadows"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book1_ch_04.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book1_ch_04.json",
+    "batch_id": "book1_ch_04.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER IV. The Preparation"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book1_ch_05.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book1_ch_05.json",
+    "batch_id": "book1_ch_05.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER V. The Wine-shop"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book1_ch_06.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book1_ch_06.json",
+    "batch_id": "book1_ch_06.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001",
+      "H003"
+    ],
+    "raws": [
+      "CHAPTER VI. The Shoemaker",
+      "It was raised for a moment, and a very faint voice responded to the salutation, as if it were at a distance:"
+    ],
+    "is_headers": [
+      true,
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_01.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_01.json",
+    "batch_id": "book2_ch_01.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001",
+      "H002"
+    ],
+    "raws": [
+      "Book the Second--the Golden Thread",
+      "CHAPTER I. Five Years Later"
+    ],
+    "is_headers": [
+      true,
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_02.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_02.json",
+    "batch_id": "book2_ch_02.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001",
+      "H003"
+    ],
+    "raws": [
+      "CHAPTER II. A Sight",
+      "“Ye-es, sir,” returned Jerry, in something of a dogged manner. “I _do_ know the Bailey.”"
+    ],
+    "is_headers": [
+      true,
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_03.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_03.json",
+    "batch_id": "book2_ch_03.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER III. A Disappointment"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_04.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_04.json",
+    "batch_id": "book2_ch_04.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER IV. Congratulatory"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_05.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_05.json",
+    "batch_id": "book2_ch_05.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER V. The Jackal"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_06.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_06.json",
+    "batch_id": "book2_ch_06.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER VI. Hundreds of People"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_07.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_07.json",
+    "batch_id": "book2_ch_07.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER VII. Monseigneur in Town"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_08.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_08.json",
+    "batch_id": "book2_ch_08.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER VIII. Monseigneur in the Country"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_09.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_09.json",
+    "batch_id": "book2_ch_09.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER IX. The Gorgon’s Head"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_10.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_10.json",
+    "batch_id": "book2_ch_10.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER X. Two Promises"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_11.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_11.json",
+    "batch_id": "book2_ch_11.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001",
+      "H002"
+    ],
+    "raws": [
+      "CHAPTER XI. A Companion Picture",
+      "“Sydney,” said Mr. Stryver, on that self-same night, or morning, to his jackal; “mix another bowl of punch; I have something to say to you.”"
+    ],
+    "is_headers": [
+      true,
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_12.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_12.json",
+    "batch_id": "book2_ch_12.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER XII. The Fellow of Delicacy"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_13.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_13.json",
+    "batch_id": "book2_ch_13.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER XIII. The Fellow of No Delicacy"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_14.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_14.json",
+    "batch_id": "book2_ch_14.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER XIV. The Honest Tradesman"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_15.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_15.json",
+    "batch_id": "book2_ch_15.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER XV. Knitting"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_16.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_16.json",
+    "batch_id": "book2_ch_16.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER XVI. Still Knitting"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_17.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_17.json",
+    "batch_id": "book2_ch_17.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER XVII. One Night"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_18.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_18.json",
+    "batch_id": "book2_ch_18.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001",
+      "H003"
+    ],
+    "raws": [
+      "CHAPTER XVIII. Nine Days",
+      "“And so,” said Mr. Lorry, who could not sufficiently admire the bride, and who had been moving round her to take in every point of her quiet, pretty dress; “and so it was for this, my sweet Lucie, that I brought you across the Channel, such a baby! Lord bless me! How little I thought what I was doing! How lightly I valued the obligation I was conferring on my friend Mr. Charles!”"
+    ],
+    "is_headers": [
+      true,
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_19.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_19.json",
+    "batch_id": "book2_ch_19.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER XIX. An Opinion"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_20.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_20.json",
+    "batch_id": "book2_ch_20.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER XX. A Plea"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_21.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_21.json",
+    "batch_id": "book2_ch_21.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER XXI. Echoing Footsteps"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_22.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_22.json",
+    "batch_id": "book2_ch_22.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER XXII. The Sea Still Rises"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_23.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_23.json",
+    "batch_id": "book2_ch_23.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER XXIII. Fire Rises"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book2_ch_24.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book2_ch_24.json",
+    "batch_id": "book2_ch_24.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER XXIV. Drawn to the Loadstone Rock"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book3_ch_02.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book3_ch_02.json",
+    "batch_id": "book3_ch_02.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER II. The Grindstone"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book3_ch_03.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book3_ch_03.json",
+    "batch_id": "book3_ch_03.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER III. The Shadow"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book3_ch_04.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book3_ch_04.json",
+    "batch_id": "book3_ch_04.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER IV. Calm in Storm"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book3_ch_05.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book3_ch_05.json",
+    "batch_id": "book3_ch_05.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER V. The Wood-Sawyer"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book3_ch_06.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book3_ch_06.json",
+    "batch_id": "book3_ch_06.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001",
+      "H002",
+      "H003"
+    ],
+    "raws": [
+      "CHAPTER VI. Triumph",
+      "The dread tribunal of five Judges, Public Prosecutor, and determined Jury, sat every day. Their lists went forth every evening, and were read out by the gaolers of the various prisons to their prisoners. The standard gaoler-joke was, “Come out and listen to the Evening Paper, you inside there!”",
+      "“Charles Evrémonde, called Darnay!”"
+    ],
+    "is_headers": [
+      true,
+      true,
+      true
+    ]
+  },
+  {
+    "chapter": "book3_ch_07.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book3_ch_07.json",
+    "batch_id": "book3_ch_07.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER VII. A Knock at the Door"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book3_ch_08.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book3_ch_08.json",
+    "batch_id": "book3_ch_08.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER VIII. A Hand at Cards"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book3_ch_09.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book3_ch_09.json",
+    "batch_id": "book3_ch_09.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001",
+      "H003"
+    ],
+    "raws": [
+      "CHAPTER IX. The Game Made",
+      "“Jerry,” said Mr. Lorry. “Come here.”"
+    ],
+    "is_headers": [
+      true,
+      true
+    ]
+  },
+  {
+    "chapter": "book3_ch_10.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book3_ch_10.json",
+    "batch_id": "book3_ch_10.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER X. The Substance of the Shadow"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book3_ch_11.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book3_ch_11.json",
+    "batch_id": "book3_ch_11.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER XI. Dusk"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book3_ch_12.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book3_ch_12.json",
+    "batch_id": "book3_ch_12.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001",
+      "H002"
+    ],
+    "raws": [
+      "CHAPTER XII. Darkness",
+      "Sydney Carton paused in the street, not quite decided where to go. “At Tellson’s banking-house at nine,” he said, with a musing face. “Shall I do well, in the mean time, to show myself? I think so. It is best that these people should know there is such a man as I here; it is a sound precaution, and may be a necessary preparation. But care, care, care! Let me think it out!”"
+    ],
+    "is_headers": [
+      true,
+      true
+    ]
+  },
+  {
+    "chapter": "book3_ch_13.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book3_ch_13.json",
+    "batch_id": "book3_ch_13.json__batch0000",
+    "status": "done",
+    "tags": [
+      "P001"
+    ],
+    "raws": [
+      "CHAPTER XIII. Fifty-two"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book3_ch_14.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book3_ch_14.json",
+    "batch_id": "book3_ch_14.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER XIV. The Knitting Done"
+    ],
+    "is_headers": [
+      true
+    ]
+  },
+  {
+    "chapter": "book3_ch_15.json",
+    "filepath": "c:\\git_repo\\TKprof_book\\books\\two_cities\\json\\book3_ch_15.json",
+    "batch_id": "book3_ch_15.json__batch0000",
+    "status": "done",
+    "tags": [
+      "H001"
+    ],
+    "raws": [
+      "CHAPTER XV. The Footsteps Die Out For Ever"
+    ],
+    "is_headers": [
+      true
+    ]
+  }
+]

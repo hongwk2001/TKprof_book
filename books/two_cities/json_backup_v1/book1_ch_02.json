@@ -1,0 +1,938 @@
+[
+    {
+        "id": 1,
+        "tag": "P001",
+        "raw": "CHAPTER II. The Mail",
+        "en": "[Chapter 2]",
+        "ko": "",
+        "is_header": true
+    },
+    {
+        "id": 2,
+        "tag": "P002_1",
+        "raw": "It was the Dover road that lay, on a Friday night late in November, before the first of the persons with whom this history has business.",
+        "en": "The Mail On a Friday night late in November, the Dover road lay before the first character of our story. For him, the road stretched out beyond the Dover mail coach as it slowly struggled up Shooter's Hill.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 3,
+        "tag": "P002_2",
+        "raw": "The Dover road lay, as to him, beyond the Dover mail, as it lumbered up Shooter’s Hill.",
+        "en": "He walked up the hill through the mud next to the coach, just like the other passengers. They weren't walking because they enjoyed it. They were walking because everything was too heavy. The hill was steep.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 4,
+        "tag": "P002_3",
+        "raw": "He walked up hill in the mire by the side of the mail, as the rest of the passengers did; not because they had the least relish for walking exercise, under the circumstances, but because the hill, and the harness, and the mud, and the mail, were all so heavy, that the horses had three times already come to a stop, besides once drawing the coach across the road, with the mutinous intent of taking it back to Blackheath.",
+        "en": "He walked uphill in the mud beside the mail coach, just like the rest of the passengers. They didn't do this because they had any desire for exercise in these conditions, but because the hill, the harness, the mud, and the coach itself were all so heavy. The horses had already stopped three times, and had even once dragged the coach sideways across the road, rebelliously intending to pull it right back to Blackheath.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 5,
+        "tag": "P002_4",
+        "raw": "Reins and whip and coachman and guard, however, in combination, had read that article of war which forbade a purpose otherwise strongly in favour of the argument, that some brute animals are endued with Reason; and the team had capitulated and returned to their duty.",
+        "en": "The reins, whip, coachman, and guard all worked together to say: no. That rebellion was not allowed. The horses reluctantly gave in and returned to their duty.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 6,
+        "tag": "P003_1",
+        "raw": "With drooping heads and tremulous tails, they mashed their way through the thick mud, floundering and stumbling between whiles, as if they were falling to pieces at the larger joints.",
+        "en": "With drooping heads and shaking tails, they struggled through the thick mud, floundering and stumbling occasionally, as if their main joints were about to fall apart.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 7,
+        "tag": "P003_2",
+        "raw": "As often as the driver rested them and brought them to a stand, with a wary “Wo-ho! so-ho-then!” the near leader violently shook his head and everything upon it--like an unusually emphatic horse, denying that the coach could be got up the hill.",
+        "en": "Every time the driver stopped them to rest, with a cautious \"Woah there! Easy now!\", the left lead horse violently shook its head and harness, like an especially stubborn horse, protesting that the coach couldn't possibly get up the hill.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 8,
+        "tag": "P003_3",
+        "raw": "Whenever the leader made this rattle, the passenger started, as a nervous passenger might, and was disturbed in mind.",
+        "en": "Whenever the leader made that rattling noise, the passenger flinched, as a nervous traveler might, and felt uneasy.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 9,
+        "tag": "P004_1",
+        "raw": "There was a steaming mist in all the hollows, and it had roamed in its forlornness up the hill, like an evil spirit, seeking rest and finding none.",
+        "en": "A steaming mist filled all the low-lying areas, and it had sadly drifted up the hill like an evil spirit, seeking rest but finding none.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 10,
+        "tag": "P004_2",
+        "raw": "A clammy and intensely cold mist, it made its slow way through the air in ripples that visibly followed and overspread one another, as the waves of an unwholesome sea might do.",
+        "en": "It was a damp and intensely cold mist, slowly moving through the air in visible ripples that followed and spread over one another like waves on an unhealthy sea. The mist was so thick that the coach-lamps could only light up a few yards of road ahead.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 11,
+        "tag": "P004_3",
+        "raw": "It was dense enough to shut out everything from the light of the coach-lamps but these its own workings, and a few yards of road; and the reek of the labouring horses steamed into it, as if they had made it all.",
+        "en": "Everything else was swallowed up in swirling white fog. The hard-working horses breathed out great clouds of steam. That steam drifted into the mist and became part of it, as if the horses themselves had made the fog.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 12,
+        "tag": "P005_1",
+        "raw": "Two other passengers, besides the one, were plodding up the hill by the side of the mail.",
+        "en": "Two other passengers were trudging up the hill next to the mail coach.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 13,
+        "tag": "P005_2",
+        "raw": "All three were wrapped to the cheekbones and over the ears, and wore jack-boots.",
+        "en": "All three were bundled up to their cheekbones and over their ears, and wore sturdy riding boots.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 14,
+        "tag": "P005_3",
+        "raw": "Not one of the three could have said, from anything he saw, what either of the other two was like; and each was hidden under almost as many wrappers from the eyes of the mind, as from the eyes of the body, of his two companions.",
+        "en": "None of the three passengers could tell, just from looking, what the other two looked like. They were all bundled up completely. Each man was as much of a mystery to his companions as he was to a total stranger.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 15,
+        "tag": "P005_4",
+        "raw": "In those days, travellers were very shy of being confidential on a short notice, for anybody on the road might be a robber or in league with robbers.",
+        "en": "In those days, travelers did not trust strangers quickly. Anyone on the road could be a robber.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 16,
+        "tag": "P005_5",
+        "raw": "As to the latter, when every posting-house and ale-house could produce somebody in “the Captain’s” pay, ranging from the landlord to the lowest stable non-descript, it was the likeliest thing upon the cards.",
+        "en": "Even worse, every inn or pub could have a spy on the bandit's payroll. That spy could be the owner, a servant, or the lowliest stable hand.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 17,
+        "tag": "P005_6",
+        "raw": "So the guard of the Dover mail thought to himself, that Friday night in November, one thousand seven hundred and seventy-five, lumbering up Shooter’s Hill, as he stood on his own particular perch behind the mail, beating his feet, and keeping an eye and a hand on the arm-chest before him, where a loaded blunderbuss lay at the top of six or eight loaded horse-pistols, deposited on a substratum of cutlass.",
+        "en": "The guard of the Dover mail knew all of this. That Friday night in November 1775, he stood on his platform at the back of the coach. He stamped his feet to stay warm. He kept one hand on the weapons chest. Inside it: a loaded shotgun on top, six or eight loaded horse pistols below, and a cutlass at the very bottom.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 18,
+        "tag": "P006",
+        "raw": "The Dover mail was in its usual genial position that the guard suspected the passengers, the passengers suspected one another and the guard, they all suspected everybody else, and the coachman was sure of nothing but the horses; as to which cattle he could with a clear conscience have taken his oath on the two Testaments that they were not fit for the journey.",
+        "en": "The Dover mail was running normally. The guard suspected the passengers. The passengers suspected each other and the guard. They all suspected everyone else. The only person who wasn't suspicious was the coachman. He was simply certain about one thing: the horses were not fit for this journey. He could have sworn that on the Holy Bible.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 19,
+        "tag": "P007_1",
+        "raw": "“Wo-ho!” said the coachman. “So, then!",
+        "en": "\"Woah there!\" said the coachman. \"Alright, then!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 20,
+        "tag": "P007_2",
+        "raw": "One more pull and you’re at the top and be damned to you, for I have had trouble enough to get you to it!--Joe!”",
+        "en": "Just one more pull and you’ll be at the top, and damn you, because I’ve had enough trouble getting you this far!, Joe!\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 21,
+        "tag": "P008",
+        "raw": "“Halloa!” the guard replied.",
+        "en": "\"Hello!\" the guard replied.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 22,
+        "tag": "P009",
+        "raw": "“What o’clock do you make it, Joe?”",
+        "en": "\"What time do you make it, Joe?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 23,
+        "tag": "P010",
+        "raw": "“Ten minutes, good, past eleven.”",
+        "en": "\"A good ten past eleven.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 24,
+        "tag": "P011_1",
+        "raw": "“My blood!” ejaculated the vexed coachman, “and not atop of Shooter’s yet!",
+        "en": "\"Damn it!\" the annoyed coachman burst out, \"and we're not even at the top of Shooter's yet!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 25,
+        "tag": "P011_2",
+        "raw": "Tst!",
+        "en": "Tsk!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 26,
+        "tag": "P011_3",
+        "raw": "Yah!",
+        "en": "Come on!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 27,
+        "tag": "P011_4",
+        "raw": "Get on with you!”",
+        "en": "Get moving!\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 28,
+        "tag": "P012_1",
+        "raw": "The emphatic horse, cut short by the whip in a most decided negative, made a decided scramble for it, and the three other horses followed suit.",
+        "en": "The lead horse, which had been trying to slow down, was sharply told by the whip to keep going, and it made a determined scramble forward. The three other horses followed suit.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 29,
+        "tag": "P012_2",
+        "raw": "Once more, the Dover mail struggled on, with the jack-boots of its passengers squashing along by its side.",
+        "en": "Once again, the Dover mail coach struggled onward, with its passengers' boots squelching along beside it.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 30,
+        "tag": "P012_3",
+        "raw": "They had stopped when the coach stopped, and they kept close company with it.",
+        "en": "They had stopped when the coach did, and they stayed right next to it.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 31,
+        "tag": "P012_4",
+        "raw": "If any one of the three had had the hardihood to propose to another to walk on a little ahead into the mist and darkness, he would have put himself in a fair way of getting shot instantly as a highwayman.",
+        "en": "If any of the three had been bold enough to suggest to another that they walk a little ahead into the mist and darkness, he would have been practically asking to be shot instantly as a highwayman.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 32,
+        "tag": "P013_1",
+        "raw": "The last burst carried the mail to the summit of the hill.",
+        "en": "That last burst of effort carried the mail coach to the top of the hill.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 33,
+        "tag": "P013_2",
+        "raw": "The horses stopped to breathe again, and the guard got down to skid the wheel for the descent, and open the coach-door to let the passengers in.",
+        "en": "The horses stopped to catch their breath, and the guard got down to put the skid-shoe on the wheel for the descent, and open the coach door to let the passengers in.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 34,
+        "tag": "P014_1",
+        "raw": "“Tst!",
+        "en": "\"Psst!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 35,
+        "tag": "P014_2",
+        "raw": "Joe!” cried the coachman in a warning voice, looking down from his box.",
+        "en": "Joe!\" the coachman called out in a warning voice, looking down from his seat.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 36,
+        "tag": "P015",
+        "raw": "“What do you say, Tom?”",
+        "en": "\"What do you say, Tom?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 37,
+        "tag": "P016",
+        "raw": "They both listened.",
+        "en": "They both listened.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 38,
+        "tag": "P017",
+        "raw": "“I say a horse at a canter coming up, Joe.”",
+        "en": "\"I hear a horse cantering up, Joe.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 39,
+        "tag": "P018_1",
+        "raw": "“_I_ say a horse at a gallop, Tom,” returned the guard, leaving his hold of the door, and mounting nimbly to his place. “Gentlemen!",
+        "en": "\"I hear a horse at a gallop, Tom,\" the guard replied, letting go of the door and nimbly climbing back to his spot. \"Gentlemen!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 40,
+        "tag": "P018_2",
+        "raw": "In the king’s name, all of you!”",
+        "en": "In the King's name, everyone!\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 41,
+        "tag": "P019",
+        "raw": "With this hurried adjuration, he cocked his blunderbuss, and stood on the offensive.",
+        "en": "After this urgent warning, he cocked his shotgun and got ready to fight.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 42,
+        "tag": "P020_1",
+        "raw": "The passenger booked by this history, was on the coach-step, getting in; the two other passengers were close behind him, and about to follow.",
+        "en": "The passenger this story is about was on the coach step, getting inside; the two other passengers were right behind him, about to follow.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 43,
+        "tag": "P020_2",
+        "raw": "He remained on the step, half in the coach and half out of; they remained in the road below him.",
+        "en": "He stayed on the step, half in and half out of the coach; they stayed on the road below him.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 44,
+        "tag": "P020_3",
+        "raw": "They all looked from the coachman to the guard, and from the guard to the coachman, and listened.",
+        "en": "They all looked from the coachman to the guard, then from the guard to the coachman, and listened.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 45,
+        "tag": "P020_4",
+        "raw": "The coachman looked back and the guard looked back, and even the emphatic leader pricked up his ears and looked back, without contradicting.",
+        "en": "The coachman looked back, the guard looked back, and even the lead horse pricked up its ears and listened, without arguing.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 46,
+        "tag": "P021_1",
+        "raw": "The stillness consequent on the cessation of the rumbling and labouring of the coach, added to the stillness of the night, made it very quiet indeed.",
+        "en": "The quiet that came after the coach stopped rumbling and working hard, combined with the silent night, made it incredibly still.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 47,
+        "tag": "P021_2",
+        "raw": "The panting of the horses communicated a tremulous motion to the coach, as if it were in a state of agitation.",
+        "en": "The horses' panting made the coach shake a little, as if it were nervous.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 48,
+        "tag": "P021_3",
+        "raw": "The hearts of the passengers beat loud enough perhaps to be heard; but at any rate, the quiet pause was audibly expressive of people out of breath, and holding the breath, and having the pulses quickened by expectation.",
+        "en": "The passengers' hearts were probably pounding loud enough to be heard. Everyone was out of breath. Everyone was holding their breath. Everyone's heart was racing.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 49,
+        "tag": "P022",
+        "raw": "The sound of a horse at a gallop came fast and furiously up the hill.",
+        "en": "The sound of a horse at a gallop came charging up the hill.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 50,
+        "tag": "P023_1",
+        "raw": "“So-ho!” the guard sang out, as loud as he could roar. “Yo there!",
+        "en": "\"Hey!\" the guard shouted as loud as he could. \"Hey there!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 51,
+        "tag": "P023_2",
+        "raw": "Stand!",
+        "en": "Stop!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 52,
+        "tag": "P023_3",
+        "raw": "I shall fire!”",
+        "en": "I'll shoot!\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 53,
+        "tag": "P024",
+        "raw": "The pace was suddenly checked, and, with much splashing and floundering, a man’s voice called from the mist, “Is that the Dover mail?”",
+        "en": "The horse suddenly stopped. There was a lot of splashing and struggling in the darkness. Then a man's voice called out from the mist. \"Is that the Dover mail?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 54,
+        "tag": "P025",
+        "raw": "“Never you mind what it is!” the guard retorted. “What are you?”",
+        "en": "\"Don't you worry about what it is!\" the guard shot back. \"Who are you?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 55,
+        "tag": "P026",
+        "raw": "“_Is_ that the Dover mail?”",
+        "en": "\"Is that the Dover mail?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 56,
+        "tag": "P027",
+        "raw": "“Why do you want to know?”",
+        "en": "\"Why do you want to know?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 57,
+        "tag": "P028",
+        "raw": "“I want a passenger, if it is.”",
+        "en": "\"I want a passenger, if it is.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 58,
+        "tag": "P029",
+        "raw": "“What passenger?”",
+        "en": "\"What passenger?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 59,
+        "tag": "P030_1",
+        "raw": "“Mr.",
+        "en": "\"Mr.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 60,
+        "tag": "P030_2",
+        "raw": "Jarvis Lorry.”",
+        "en": "Jarvis Lorry.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 61,
+        "tag": "P031_1",
+        "raw": "Our booked passenger showed in a moment that it was his name.",
+        "en": "The passenger immediately showed that it was his name.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 62,
+        "tag": "P031_2",
+        "raw": "The guard, the coachman, and the two other passengers eyed him distrustfully.",
+        "en": "The guard, the coachman, and the two other passengers looked at him suspiciously.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 63,
+        "tag": "P032_1",
+        "raw": "“Keep where you are,” the guard called to the voice in the mist, “because, if I should make a mistake, it could never be set right in your lifetime.",
+        "en": "The guard called to the voice in the mist, \"Stay right there, because if I make a mistake, you'll never live to fix it.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 64,
+        "tag": "P032_2",
+        "raw": "Gentleman of the name of Lorry answer straight.”",
+        "en": "Mr. Lorry, answer clearly.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 65,
+        "tag": "P033_1",
+        "raw": "“What is the matter?” asked the passenger, then, with mildly quavering speech. “Who wants me?",
+        "en": "\"What's going on?\" the passenger asked then, with a slightly shaky voice. \"Who wants me?",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 66,
+        "tag": "P033_2",
+        "raw": "Is it Jerry?”",
+        "en": "Is it Jerry?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 67,
+        "tag": "P034",
+        "raw": "(“I don’t like Jerry’s voice, if it is Jerry,” growled the guard to himself. “He’s hoarser than suits me, is Jerry.”)",
+        "en": "The guard grumbled to himself, \"I don’t like Jerry’s voice, if it is Jerry. His voice is too hoarse for my liking, that Jerry.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 68,
+        "tag": "P035_1",
+        "raw": "“Yes, Mr.",
+        "en": "\"Yes, Mr.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 69,
+        "tag": "P035_2",
+        "raw": "Lorry.”",
+        "en": "Lorry.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 70,
+        "tag": "P036",
+        "raw": "“What is the matter?”",
+        "en": "\"What is the matter?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 71,
+        "tag": "P037_1",
+        "raw": "“A despatch sent after you from over yonder.",
+        "en": "\"A message sent after you from over there.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 72,
+        "tag": "P037_2",
+        "raw": "T. and Co.”",
+        "en": "T. and Co.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 73,
+        "tag": "P038_1",
+        "raw": "“I know this messenger, guard,” said Mr.",
+        "en": "\"I know this messenger, guard,\" said Mr. Lorry. He stepped down onto the road.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 74,
+        "tag": "P038_2",
+        "raw": "Lorry, getting down into the road--assisted from behind more swiftly than politely by the other two passengers, who immediately scrambled into the coach, shut the door, and pulled up the window. “He may come close; there’s nothing wrong.”",
+        "en": "The other two passengers helped him, less out of politeness and more out of eagerness to be rid of him. The moment he was out, they scrambled back inside, slammed the door, and rolled up the window. \"He can come closer,\" Mr. Lorry called up. \"There's nothing wrong.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 75,
+        "tag": "P039",
+        "raw": "“I hope there ain’t, but I can’t make so ‘Nation sure of that,” said the guard, in gruff soliloquy. “Hallo you!”",
+        "en": "\"I hope not, but I can’t be so sure of that,\" said the guard, muttering to himself. \"Hey you!\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 76,
+        "tag": "P040_1",
+        "raw": "“Well!",
+        "en": "\"Well!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 77,
+        "tag": "P040_2",
+        "raw": "And hallo you!” said Jerry, more hoarsely than before.",
+        "en": "And hello to you too!\" said Jerry, more hoarsely than before.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 78,
+        "tag": "P041_1",
+        "raw": "“Come on at a footpace! d’ye mind me?",
+        "en": "\"Come on at a walking pace! Do you hear me?",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 79,
+        "tag": "P041_2",
+        "raw": "And if you’ve got holsters to that saddle o’ yourn, don’t let me see your hand go nigh ’em.",
+        "en": "And if you’ve got holsters on that saddle of yours, don’t let me see your hand go anywhere near them.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 80,
+        "tag": "P041_3",
+        "raw": "For I’m a devil at a quick mistake, and when I make one it takes the form of Lead.",
+        "en": "Because I’m very quick to make a mistake, and when I do, it’s with a bullet.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 81,
+        "tag": "P041_4",
+        "raw": "So now let’s look at you.”",
+        "en": "So now let’s get a good look at you.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 82,
+        "tag": "P042_1",
+        "raw": "The figures of a horse and rider came slowly through the eddying mist, and came to the side of the mail, where the passenger stood.",
+        "en": "A horse and rider slowly emerged through the swirling mist and came up to the side of the mail coach, where the passenger was standing.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 83,
+        "tag": "P042_2",
+        "raw": "The rider stooped, and, casting up his eyes at the guard, handed the passenger a small folded paper.",
+        "en": "The rider bent down, and, looking up at the guard, handed the passenger a small folded piece of paper.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 84,
+        "tag": "P042_3",
+        "raw": "The rider’s horse was blown, and both horse and rider were covered with mud, from the hoofs of the horse to the hat of the man.",
+        "en": "The rider’s horse was winded, and both horse and rider were covered with mud, from the horse’s hooves to the man’s hat.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 85,
+        "tag": "P043",
+        "raw": "“Guard!” said the passenger, in a tone of quiet business confidence.",
+        "en": "\"Guard!\" said the passenger, in a quiet, confident, businesslike tone.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 86,
+        "tag": "P044",
+        "raw": "The watchful guard, with his right hand at the stock of his raised blunderbuss, his left at the barrel, and his eye on the horseman, answered curtly, “Sir.”",
+        "en": "The guard kept his right hand on the stock of his raised shotgun. His left hand held the barrel steady. His eyes stayed fixed on the rider. He answered with a single word. \"Sir.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 87,
+        "tag": "P045_1",
+        "raw": "“There is nothing to apprehend.",
+        "en": "\"There’s nothing to worry about.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 88,
+        "tag": "P045_2",
+        "raw": "I belong to Tellson’s Bank.",
+        "en": "I work for Tellson’s Bank.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 89,
+        "tag": "P045_3",
+        "raw": "You must know Tellson’s Bank in London.",
+        "en": "You must know Tellson’s Bank in London, right?",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 90,
+        "tag": "P045_4",
+        "raw": "I am going to Paris on business.",
+        "en": "I’m going to Paris on business.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 91,
+        "tag": "P045_5",
+        "raw": "A crown to drink.",
+        "en": "Here’s a crown for a drink.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 92,
+        "tag": "P045_6",
+        "raw": "I may read this?”",
+        "en": "Can I read this?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 93,
+        "tag": "P046",
+        "raw": "“If so be as you’re quick, sir.”",
+        "en": "\"As long as you’re quick about it, sir.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 94,
+        "tag": "P047_1",
+        "raw": "He opened it in the light of the coach-lamp on that side, and read--first to himself and then aloud: “‘Wait at Dover for Mam’selle.’ It’s not long, you see, guard.",
+        "en": "He opened it by the light of the coach-lamp on that side, and read it, first to himself and then aloud: \"'Wait at Dover for Mademoiselle.' It’s not long, you see, guard.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 95,
+        "tag": "P047_2",
+        "raw": "Jerry, say that my answer was, RECALLED TO LIFE.”",
+        "en": "Jerry, tell them my answer was, RECALLED TO LIFE.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 96,
+        "tag": "P048",
+        "raw": "Jerry started in his saddle. “That’s a Blazing strange answer, too,”  said he, at his hoarsest.",
+        "en": "Jerry jumped in his saddle. \"That's a really strange answer, too,\" he said, his voice raspy.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 97,
+        "tag": "P049_1",
+        "raw": "“Take that message back, and they will know that I received this, as well as if I wrote.",
+        "en": "\"Take that message back, and they'll know I got this, just as if I'd written it myself.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 98,
+        "tag": "P049_2",
+        "raw": "Make the best of your way.",
+        "en": "Get going.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 99,
+        "tag": "P049_3",
+        "raw": "Good night.”",
+        "en": "Good night.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 100,
+        "tag": "P050_1",
+        "raw": "With those words the passenger opened the coach-door and got in; not at all assisted by his fellow-passengers, who had expeditiously secreted their watches and purses in their boots, and were now making a general pretence of being asleep.",
+        "en": "With those words, the passenger opened the coach door and got in. His fellow travelers didn't help him at all; they had quickly hidden their watches and purses in their boots and were now all pretending to be asleep.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 101,
+        "tag": "P050_2",
+        "raw": "With no more definite purpose than to escape the hazard of originating any other kind of action.",
+        "en": "Their only goal was to avoid having to do anything else.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 102,
+        "tag": "P051_1",
+        "raw": "The coach lumbered on again, with heavier wreaths of mist closing round it as it began the descent.",
+        "en": "The coach rumbled on again. Thicker swirls of mist wrapped around it as it started going downhill.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 103,
+        "tag": "P051_2",
+        "raw": "The guard soon replaced his blunderbuss in his arm-chest, and, having looked to the rest of its contents, and having looked to the supplementary pistols that he wore in his belt, looked to a smaller chest beneath his seat, in which there were a few smith’s tools, a couple of torches, and a tinder-box.",
+        "en": "The guard put his shotgun back in the weapons chest. He checked the rest of the chest's contents. Then he checked the extra pistols on his belt. Finally, he checked a smaller chest under his seat. Inside it: a few blacksmith's tools, a couple of torches, and a tinderbox.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 104,
+        "tag": "P051_3",
+        "raw": "For he was furnished with that completeness that if the coach-lamps had been blown and stormed out, which did occasionally happen, he had only to shut himself up inside, keep the flint and steel sparks well off the straw, and get a light with tolerable safety and ease (if he were lucky) in five minutes.",
+        "en": "He was very well-equipped. If the coach lamps blew out in the wind and rain, which sometimes happened, he could handle it. He just had to close himself in, make sure no sparks landed on the straw, and with a bit of luck he could get a light going in about five minutes.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 105,
+        "tag": "P052",
+        "raw": "“Tom!” softly over the coach roof.",
+        "en": "\"Tom!\" softly from the coach roof.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 106,
+        "tag": "P053",
+        "raw": "“Hallo, Joe.”",
+        "en": "\"Hello, Joe.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 107,
+        "tag": "P054",
+        "raw": "“Did you hear the message?”",
+        "en": "\"Did you hear the message?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 108,
+        "tag": "P055",
+        "raw": "“I did, Joe.”",
+        "en": "\"I did, Joe.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 109,
+        "tag": "P056",
+        "raw": "“What did you make of it, Tom?”",
+        "en": "\"What did you make of it, Tom?\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 110,
+        "tag": "P057",
+        "raw": "“Nothing at all, Joe.”",
+        "en": "\"Nothing at all, Joe.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 111,
+        "tag": "P058",
+        "raw": "“That’s a coincidence, too,” the guard mused, “for I made the same of it myself.”",
+        "en": "The guard thought, \"That's a coincidence, too, because I didn't get anything from it either.\"",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 112,
+        "tag": "P059_1",
+        "raw": "Jerry, left alone in the mist and darkness, dismounted meanwhile, not only to ease his spent horse, but to wipe the mud from his face, and shake the wet out of his hat-brim, which might be capable of holding about half a gallon.",
+        "en": "Jerry was left alone in the mist and darkness. He got off his horse. He wanted to give the tired animal a rest. He also needed to wipe the mud from his own face. He shook the water out of his hat brim.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 113,
+        "tag": "P059_2",
+        "raw": "After standing with the bridle over his heavily-splashed arm, until the wheels of the mail were no longer within hearing and the night was quite still again, he turned to walk down the hill.",
+        "en": "The hat looked like it could hold about half a gallon. After standing with the bridle draped over his heavily-splashed arm until he couldn't hear the mail coach's wheels anymore and the night was completely quiet again, he turned to walk down the hill.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 114,
+        "tag": "P060_1",
+        "raw": "“After that there gallop from Temple Bar, old lady, I won’t trust your fore-legs till I get you on the level,” said this hoarse messenger, glancing at his mare. “‘Recalled to life.’ That’s a Blazing strange message.",
+        "en": "\"After that gallop from Temple Bar, old lady, I won't trust your front legs until we're on flat ground,\" said the hoarse messenger, glancing at his mare. \"'Recalled to life.' That's a really strange message.",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 115,
+        "tag": "P060_2",
+        "raw": "Much of that wouldn’t do for you, Jerry!",
+        "en": "A lot of that wouldn't work out for you, Jerry!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 116,
+        "tag": "P060_3",
+        "raw": "I say, Jerry!",
+        "en": "Hey, Jerry!",
+        "ko": "",
+        "is_header": false
+    },
+    {
+        "id": 117,
+        "tag": "P060_4",
+        "raw": "You’d be in a Blazing bad way, if recalling to life was to come into fashion, Jerry!”",
+        "en": "You'd be in a really bad way if bringing people back to life became popular, Jerry!\"",
+        "ko": "",
+        "is_header": false
+    }
+]

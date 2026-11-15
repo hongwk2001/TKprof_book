@@ -11,7 +11,8 @@ IMAGE_TITLES = {
     "illu_death.png": "Beowulf death.png"
 }
 
-IMAGES_DIR = r"D:\git_repo\TKprof_book\books\beowulf\images"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+IMAGES_DIR = os.path.join(BASE_DIR, "images")
 os.makedirs(IMAGES_DIR, exist_ok=True)
 
 for filename, title in IMAGE_TITLES.items():
